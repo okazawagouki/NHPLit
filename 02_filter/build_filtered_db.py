@@ -6,11 +6,12 @@ Stage 3: Convert 01_extracted_db.xlsx → 02_filtered_db.xlsx.
 Steps
 -----
 1. Keep only flag == 'pass' papers.
-2. Deduplicate bioRxiv / arXiv preprints:
+2. Remove papers with no abstract (empty or whitespace only).
+3. Deduplicate bioRxiv / arXiv preprints:
    a. Same title (normalised) exists in a later year → remove preprint.
    b. Same first author AND overlapping last author exist within ±2 years
       in a non-preprint journal → remove preprint.
-3. Report what was removed and why.
+4. Report what was removed and why.
 
 Usage
 -----
@@ -172,11 +173,21 @@ def main():
     df = df_all[df_all["flag"] == "pass"].copy().reset_index(drop=True)
     print(f"  Pass papers:                   {len(df)}")
 
+    # ------------------------------------------------------------------
+    # Step 2: remove papers with no abstract
+    # ------------------------------------------------------------------
+    has_abstract = df["abstract"].apply(
+        lambda x: isinstance(x, str) and x.strip() != ""
+    )
+    n_no_abstract = (~has_abstract).sum()
+    print(f"  No abstract (removed):         {n_no_abstract}")
+    df = df[has_abstract].reset_index(drop=True)
+
     n_preprints = df["journal"].apply(is_preprint).sum()
     print(f"  of which preprints:            {n_preprints}")
 
     # ------------------------------------------------------------------
-    # Step 2: find duplicate preprints
+    # Step 3: find duplicate preprints
     # ------------------------------------------------------------------
     to_drop = find_preprint_duplicates(df)
     print(f"\nPreprint duplicates to remove:  {len(to_drop)}")
@@ -190,7 +201,7 @@ def main():
             print(f"    PMID {pmid} ({year}) '{title}' — {reason}")
 
     # ------------------------------------------------------------------
-    # Step 3: build output
+    # Step 4: build output
     # ------------------------------------------------------------------
     df_out = df.drop(index=list(to_drop.keys())).reset_index(drop=True)
     print(f"\nFinal count in 02_filtered_db: {len(df_out)}")

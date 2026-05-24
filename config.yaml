@@ -64,6 +64,7 @@ keywords:
   # because it will be ANDed with a signal term.
   species:
     - "macaque[tiab]"
+    - "macaques[tiab]"
     - "rhesus[tiab]"
     - "non-human primate[tiab]"
     - "non-human primates[tiab]"
@@ -79,6 +80,7 @@ keywords:
   # Avoid fMRI / EEG-only papers while still catching LFP, MUA, etc.
   signal:
     - "neuron[tiab]"
+    - "neurons[tiab]"
     - "neural[tiab]"
     - "neuronal[tiab]"
     - "cortex[tiab]"
