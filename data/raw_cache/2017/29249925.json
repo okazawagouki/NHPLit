@@ -1,0 +1,15 @@
+{
+  "pmid": "29249925",
+  "title": "Determining Excitatory and Inhibitory Neuronal Activity from Multimodal fMRI Data Using a Generative Hemodynamic Model.",
+  "abstract": "Hemodynamic responses, in general, and the blood oxygenation level-dependent (BOLD) fMRI signal, in particular, provide an indirect measure of neuronal activity. There is strong evidence that the BOLD response correlates well with post-synaptic changes, induced by changes in the excitatory and inhibitory (E-I) balance between active neuronal populations. Typical BOLD responses exhibit transients, such as the early-overshoot and post-stimulus undershoot, that can be linked to transients in neuronal activity, but they can also result from vascular uncoupling between cerebral blood flow (CBF) and venous cerebral blood volume (venous CBV). Recently, we have proposed a novel generative hemodynamic model of the BOLD signal within the dynamic causal modeling framework, inspired by physiological observations, called P-DCM (Havlicek et al., 2015). We demonstrated the generative model's ability to more accurately model commonly observed neuronal and vascular transients in single regions but also effective connectivity between multiple brain areas (Havlicek et al., 2017b). In this paper, we additionally demonstrate the versatility of the generative model to jointly explain dynamic relationships between neuronal and hemodynamic physiological variables underlying the BOLD signal using multi-modal data. For this purpose, we utilized three distinct data-sets of experimentally induced responses in the primary visual areas measured in human, cat, and monkey brain, respectively: (1) CBF and BOLD responses; (2) CBF, total CBV, and BOLD responses (Jin and Kim, 2008); and (3) positive and negative neuronal and BOLD responses (Shmuel et al., 2006). By fitting the generative model to the three multi-modal experimental data-sets, we showed that the presence or absence of dynamic features in the BOLD signal is not an unambiguous indication of presence or absence of those features on the neuronal level. Nevertheless, the generative model that takes into account the dynamics of the physiological mechanisms underlying the BOLD response allowed dissociating neuronal from vascular transients and deducing excitatory and inhibitory neuronal activity time-courses from BOLD data alone and from multi-modal data.",
+  "authors": [
+    "Havlicek Martin",
+    "Ivanov Dimo",
+    "Roebroeck Alard",
+    "Uludağ Kamil"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2017",
+  "doi": "10.3389/fnins.2017.00616",
+  "mesh": []
+}

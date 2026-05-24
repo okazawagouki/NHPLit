@@ -1,0 +1,29 @@
+{
+  "pmid": "25571556",
+  "title": "Modeling vocalization with ECoG cortical activity recorded during vocal production in the macaque monkey.",
+  "abstract": "Vocal production is an example of controlled motor behavior with high temporal precision. Previous studies have decoded auditory evoked cortical activity while monkeys listened to vocalization sounds. On the other hand, there have been few attempts at decoding motor cortical activity during vocal production. Here we recorded cortical activity during vocal production in the macaque with a chronically implanted electrocorticographic (ECoG) electrode array. The array detected robust activity in motor cortex during vocal production. We used a nonlinear dynamical model of the vocal organ to reduce the dimensionality of `Coo' calls produced by the monkey. We then used linear regression to evaluate the information in motor cortical activity for this reduced representation of calls. This simple linear model accounted for circa 65% of the variance in the reduced sound representations, supporting the feasibility of using the dynamical model of the vocal organ for decoding motor cortical activity during vocal production.",
+  "authors": [
+    "Fukushima Makoto",
+    "Saunders Richard C",
+    "Fujii Naotaka",
+    "Averbeck Bruno B",
+    "Mishkin Mortimer"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2014",
+  "doi": "10.1109/EMBC.2014.6945188",
+  "mesh": [
+    "Animals",
+    "Auditory Perception",
+    "Brain Mapping",
+    "Electroencephalography",
+    "Linear Models",
+    "Macaca",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Sound",
+    "Sound Spectrography",
+    "Vocalization, Animal"
+  ]
+}

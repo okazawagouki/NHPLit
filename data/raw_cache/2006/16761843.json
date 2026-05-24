@@ -1,0 +1,34 @@
+{
+  "pmid": "16761843",
+  "title": "Continuous shared control for stabilizing reaching and grasping with brain-machine interfaces.",
+  "abstract": "Research on brain-machine interfaces (BMI's) is directed toward enabling paralyzed individuals to manipulate their environment through slave robots. Even for able-bodied individuals, using a robot to reach and grasp objects in unstructured environments can be a difficult telemanipulation task. Controlling the slave directly with neural signals instead of a hand-master adds further challenges, such as uncertainty about the intended trajectory coupled with a low update rate for the command signal. To address these challenges, a continuous shared control (CSC) paradigm is introduced for BMI where robot sensors produce reflex-like reactions to augment brain-controlled trajectories. To test the merits of this approach, CSC was implemented on a 3-degree-of-freedom robot with a gripper bearing three co-located range sensors. The robot was commanded to follow eighty-three reach-and-grasp trajectories estimated previously from the outputs of a population of neurons recorded from the brain of a monkey. Five different levels of sensor-based reflexes were tested. Weighting brain commands 70% and sensor commands 30% produced the best task performance, better than brain signals alone by more than seven-fold. Such a marked performance improvement in this test case suggests that some level of machine autonomy will be an important component of successful BMI systems in general.",
+  "authors": [
+    "Kim Hyun K",
+    "Biggs S James",
+    "Schloerb David W",
+    "Carmena Jose M",
+    "Lebedev Mikhail A",
+    "Nicolelis Miguel A L",
+    "Srinivasan Mandayam A"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Arm",
+    "Brain",
+    "Electroencephalography",
+    "Evoked Potentials",
+    "Feedback",
+    "Hand Strength",
+    "Humans",
+    "Imagination",
+    "Movement",
+    "Movement Disorders",
+    "Robotics",
+    "Systems Integration",
+    "Telemedicine",
+    "Therapy, Computer-Assisted",
+    "User-Computer Interface"
+  ]
+}

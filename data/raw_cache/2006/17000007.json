@@ -1,0 +1,22 @@
+{
+  "pmid": "17000007",
+  "title": "Trial-by-trial estimation of amplitude and latency variability in neuronal spike trains.",
+  "abstract": "The rate function underlying single-trial spike trains can vary from trial to trial. We propose to estimate the amplitude and latency variability in single-trial neuronal spike trains on a trial-by-trial basis. The firing rate over a trial is modeled by a family of rate profiles with trial-invariant waveform and trial-dependent amplitude scaling factors and latency shifts. Using a Bayesian inference framework we derive an iterative fixed-point algorithm from which the single-trial amplitude scaling factors and latency shifts are estimated. We test the performance of the algorithm on simulated data and then apply it to actual neuronal recordings from the sensorimotor cortex of the monkey.",
+  "authors": [
+    "Bollimunta Anil",
+    "Knuth Kevin H",
+    "Ding Mingzhou"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Models, Neurological",
+    "Neurons",
+    "Reaction Time"
+  ]
+}

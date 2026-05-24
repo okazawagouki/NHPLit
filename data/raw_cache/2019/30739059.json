@@ -1,0 +1,26 @@
+{
+  "pmid": "30739059",
+  "title": "Exploring the limits of network topology estimation using diffusion-based tractography and tracer studies in the macaque cortex.",
+  "abstract": "Reconstructing the anatomical pathways of the brain to study the human connectome has become an important endeavour for understanding brain function and dynamics. Reconstruction of the cortico-cortical connectivity matrix in vivo often relies on noninvasive diffusion-weighted imaging (DWI) techniques but the extent to which they can accurately represent the topological characteristics of structural connectomes remains unknown. We addressed this question by constructing connectomes using DWI data collected from macaque monkeys in vivo and with data from published invasive tracer studies. We found the strength of fiber tracts was well estimated from DWI and topological properties like degree and modularity were captured by tractography-based connectomes. Rich-club/core-periphery type architecture could also be detected but the classification of hubs using betweenness centrality, participation coefficient and core-periphery identification techniques was inaccurate. Our findings indicate that certain aspects of cortical topology can be faithfully represented in noninvasively-obtained connectomes while other network analytic measures warrant cautionary interpretations.",
+  "authors": [
+    "Shen Kelly",
+    "Goulas Alexandros",
+    "Grayson David S",
+    "Eusebio John",
+    "Gati Joseph S",
+    "Menon Ravi S",
+    "McIntosh Anthony R",
+    "Everling Stefan"
+  ],
+  "journal": "NeuroImage",
+  "year": "2019",
+  "doi": "10.1016/j.neuroimage.2019.02.018",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Connectome",
+    "Diffusion Tensor Imaging",
+    "Macaca mulatta",
+    "Neural Pathways"
+  ]
+}

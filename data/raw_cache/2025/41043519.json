@@ -1,0 +1,24 @@
+{
+  "pmid": "41043519",
+  "title": "Customizable artificial simulator for developing, planning, and training personnel on neurophysiology and surgical procedures in non-human primates.",
+  "abstract": "BACKGROUND: Neuroscience researchers often surgically implant hardware into model organisms to measure and manipulate neural activity. Designing and optimizing these procedures in non-human primates often requires sedated or euthanized animals. Artificial tissue technologies can reduce animal use in this process, but existing simulators do not include all relevant tissues and do not facilitate iterative design processes. NEW METHOD: We created a comprehensive, customizable, and modular surgical simulator for neuroscience research. Our simulator incorporates artificial skull, brain, and soft tissues (skin and muscle) into one 3-dimensional model with adaptable components. RESULTS: Incorporating 3-dimensional soft tissues enabled surgical and implant design improvements, which may contribute to improving implant longevity, research outcomes, and animal wellbeing. Our modular design allowed researchers to rapidly prototype designs and exchange parts to reflect implant or anatomical changes across a study. Incorporating all relevant tissues also enabled surgical practice and improved communication with veterinarians. Our approach is low-cost (a few hundred dollars) and uses readily available tools like 3D printing. We also provide models of different non-human primate species to increase access to our approach. COMPARISON WITH EXISTING METHODS: Our method improves upon past surgical simulators for neuroscience research by: adapting existing skin and muscle artificial tissue technologies to more accurately represent cranial 3-dimensional geometry, incorporating models of all tissues relevant for implant design, and introducing modular designs that increase flexibility/customization. CONCLUSIONS: We found that this surgery simulator was an inexpensive tool that was useful for planning and practicing surgical procedures, as well as prototyping new neuroscience experiment hardware.",
+  "authors": [
+    "Smith Lydia I",
+    "Orsborn Amy L"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2025",
+  "doi": "10.1016/j.jneumeth.2025.110587",
+  "mesh": [
+    "Animals",
+    "Neurophysiology",
+    "Printing, Three-Dimensional",
+    "Brain",
+    "Primates",
+    "Simulation Training",
+    "Skull",
+    "Computer Simulation",
+    "Neurosurgical Procedures",
+    "Neurosciences"
+  ]
+}

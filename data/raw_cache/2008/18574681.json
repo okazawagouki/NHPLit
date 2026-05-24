@@ -1,0 +1,32 @@
+{
+  "pmid": "18574681",
+  "title": "Retinal and cortical nonlinearities combine to produce masking in V1 responses to plaids.",
+  "abstract": "The visual response of a cell in the primary visual cortex (V1) to a drifting grating stimulus at the cell's preferred orientation decreases when a second, perpendicular, grating is superimposed. This effect is called masking. To understand the nonlinear masking effect, we model the response of Macaque V1 simple cells in layer 4Calpha to input from magnocellular Lateral Geniculate Nucleus (LGN) cells. The cortical model network is a coarse-grained reduction of an integrate-and-fire network with excitation from LGN input and inhibition from other cortical neurons. The input is modeled as a sum of LGN cell responses. Each LGN cell is modeled as the convolution of a spatio-temporal filter with the visual stimulus, normalized by a retinal contrast gain control, and followed by rectification representing the LGN spike threshold. In our model, the experimentally observed masking arises at the level of LGN input to the cortex. The cortical network effectively induces a dynamic threshold that forces the test grating to have high contrast before it can overcome the masking provided by the perpendicular grating. The subcortical nonlinearities and the cortical network together account for the masking effect.",
+  "authors": [
+    "Koelling Melinda",
+    "Shapley Robert",
+    "Shelley Michael"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2008",
+  "doi": "10.1007/s10827-008-0086-6",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Contrast Sensitivity",
+    "Fourier Analysis",
+    "Geniculate Bodies",
+    "Macaca mulatta",
+    "Neural Networks, Computer",
+    "Nonlinear Dynamics",
+    "Pattern Recognition, Visual",
+    "Perceptual Masking",
+    "Photic Stimulation",
+    "Psychophysics",
+    "Retina",
+    "Sensory Receptor Cells",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

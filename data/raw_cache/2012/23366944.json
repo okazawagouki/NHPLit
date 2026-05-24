@@ -1,0 +1,28 @@
+{
+  "pmid": "23366944",
+  "title": "Development of a closed-loop feedback system for real-time control of a high-dimensional Brain Machine Interface.",
+  "abstract": "As the field of neural prosthetics advances, Brain Machine Interface (BMI) design requires the development of virtual prostheses that allow decoding algorithms to be tested for efficacy in a time- and cost-efficient manner. Using an x-ray and MRI-guided skeletal reconstruction, and a graphic artist's rendering of an anatomically correct macaque upper limb, we created a virtual avatar capable of independent movement across 27 degrees-of-freedom (DOF). Using a custom software interface, we animated the avatar's movements in real-time using kinematic data acquired from awake, behaving macaque subjects using a 16 camera motion capture system. Using this system, we demonstrate real-time, closed-loop control of up to 27 DOFs in a virtual prosthetic device. Thus, we describe a practical method of testing the efficacy of high-complexity BMI decoding algorithms without the expense of fabricating a physical prosthetic.",
+  "authors": [
+    "Putrino David",
+    "Wong Yan T",
+    "Vigeral Mariana",
+    "Pesaran Bijan"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2012",
+  "doi": "10.1109/EMBC.2012.6346983",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Biofeedback, Psychology",
+    "Brain-Computer Interfaces",
+    "Computer Simulation",
+    "Computer Systems",
+    "Feedback, Physiological",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Movement",
+    "User-Computer Interface"
+  ]
+}

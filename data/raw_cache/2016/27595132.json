@@ -1,0 +1,31 @@
+{
+  "pmid": "27595132",
+  "title": "Representation of Perceptual Color Space in Macaque Posterior Inferior Temporal Cortex (the V4 Complex).",
+  "abstract": "The lateral geniculate nucleus is thought to represent color using two populations of cone-opponent neurons [L vs M; S vs (L + M)], which establish the cardinal directions in color space (reddish vs cyan; lavender vs lime). How is this representation transformed to bring about color perception? Prior work implicates populations of glob cells in posterior inferior temporal cortex (PIT; the V4 complex), but the correspondence between the neural representation of color in PIT/V4 complex and the organization of perceptual color space is unclear. We compared color-tuning data for populations of glob cells and interglob cells to predictions obtained using models that varied in the color-tuning narrowness of the cells, and the color preference distribution across the populations. Glob cells were best accounted for by simulated neurons that have nonlinear (narrow) tuning and, as a population, represent a color space designed to be perceptually uniform (CIELUV). Multidimensional scaling and representational similarity analyses showed that the color space representations in both glob and interglob populations were correlated with the organization of CIELUV space, but glob cells showed a stronger correlation. Hue could be classified invariant to luminance with high accuracy given glob responses and above-chance accuracy given interglob responses. Luminance could be read out invariant to changes in hue in both populations, but interglob cells tended to prefer stimuli having luminance contrast, regardless of hue, whereas glob cells typically retained hue tuning as luminance contrast was modulated. The combined luminance/hue sensitivity of glob cells is predicted for neurons that can distinguish two colors of the same hue at different luminance levels (orange/brown).",
+  "authors": [
+    "Bohon Kaitlin S",
+    "Hermann Katherine L",
+    "Hansen Thorsten",
+    "Conway Bevil R"
+  ],
+  "journal": "eNeuro",
+  "year": "2016",
+  "doi": "10.1523/ENEURO.0039-16.2016",
+  "mesh": [
+    "Animals",
+    "Area Under Curve",
+    "Color Perception",
+    "Computer Simulation",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Neurons",
+    "Neuropsychological Tests",
+    "Photic Stimulation",
+    "ROC Curve",
+    "Signal Processing, Computer-Assisted",
+    "Temporal Lobe",
+    "Visual Pathways"
+  ]
+}

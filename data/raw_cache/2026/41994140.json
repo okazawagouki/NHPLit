@@ -1,0 +1,17 @@
+{
+  "pmid": "41994140",
+  "title": "Laminar-specific control of response gain and orientation-tuning by parvalbumin-expressing inhibitory interneurons in primate visual cortex.",
+  "abstract": "Understanding the role of different inhibitory interneuron subtypes in cortical computations is essential for explaining sensory processing in the neocortex. Orientation tuning in primate primary visual cortex (V1) provides a canonical model for studying how cortical sensory circuits and inhibitory interneurons compute relevant stimulus features. The selective feedforward convergence of non-orientation-selective thalamic afferents establishes initial orientation tuning in the granular V1 input layer. As signals propagate through the cortical microcircuit, orientation tuning sharpens in extra-granular layers, yet the underlying mechanisms and the contribution of specific inhibitory neuron subtypes remain unresolved. To study the role of the largest cortical inhibitory neuron subclass, parvalbumin-expressing (<i>PV</i> <sup>+</sup>) interneurons, in this V1 computation, we combined laminar extracellular recordings with bidirectional optogenetic manipulations of <i>PV</i> <sup>+</sup> cells in marmoset V1. We find striking laminar specificity: in the granular layer, <i>PV</i> <sup>+</sup> cells implement divisive/ multiplicative linear gain control, whereas in extra-granular layers they exert tuned nonlinear suppression that enhances orientation tuning. Computational modeling suggests that <i>PV</i> <sup>+</sup> neurons control gain by modulating a neuron's spiking threshold, and orientation tuning by modulating a neuron's input noise, which regulates the neuron's input-output function. Our findings reconcile discrepancies in previous rodent studies, reveal important species differences, and establish a framework for understanding layer-dependent inhibitory computations in the primate cortex.",
+  "authors": [
+    "Vafaei Amin",
+    "Clark Andrew M",
+    "Khadir Alireza",
+    "Dai Weifeng",
+    "Federer Frederick",
+    "Angelucci Alessandra"
+  ],
+  "journal": "Research square",
+  "year": "2026",
+  "doi": "10.21203/rs.3.rs-9117440/v1",
+  "mesh": []
+}

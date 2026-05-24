@@ -1,0 +1,15 @@
+{
+  "pmid": "18784852",
+  "title": "Single-Trial Classification of Bistable Perception by Integrating Empirical Mode Decomposition, Clustering, and Support Vector Machine.",
+  "abstract": "We propose an empirical mode decomposition (EMD-) based method to extract features from the multichannel recordings of local field potential (LFP), collected from the middle temporal (MT) visual cortex in a macaque monkey, for decoding its bistable structure-from-motion (SFM) perception. The feature extraction approach consists of three stages. First, we employ EMD to decompose nonstationary single-trial time series into narrowband components called intrinsic mode functions (IMFs) with time scales dependent on the data. Second, we adopt unsupervised K-means clustering to group the IMFs and residues into several clusters across all trials and channels. Third, we use the supervised common spatial patterns (CSP) approach to design spatial filters for the clustered spatiotemporal signals. We exploit the support vector machine (SVM) classifier on the extracted features to decode the reported perception on a single-trial basis. We demonstrate that the CSP feature of the cluster in the gamma frequency band outperforms the features in other frequency bands and leads to the best decoding performance. We also show that the EMD-based feature extraction can be useful for evoked potential estimation. Our proposed feature extraction approach may have potential for many applications involving nonstationary multivariable time series such as brain-computer interfaces (BCI).",
+  "authors": [
+    "Wang Zhisong",
+    "Maier Alexander",
+    "Logothetis Nikos K",
+    "Liang Hualou"
+  ],
+  "journal": "EURASIP journal on advances in signal processing",
+  "year": "2008",
+  "doi": "",
+  "mesh": []
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "39787710",
+  "title": "Local field potential phase modulates the evoked response to electrical stimulation in visual cortex.",
+  "abstract": "<i>Objective.</i>Development of cortical visual prostheses requires optimization of evoked responses to electrical stimulation to reduce charge requirements and improve safety, efficiency, and efficacy. One promising approach is timing stimulation to the local field potential (LFP), where action potentials have been found to occur preferentially at specific phases. To assess the relationship between electrical stimulation and the phase of the LFP, we recorded action potentials from primary (V1) and secondary (V2) visual cortex in marmosets while delivering single-pulse electrical microstimulation at different phases of the LFP.<i>Approach.</i>A 64-channel 4 shank probe was inserted into V1 and V2. Microstimulation (single biphasic pulse, 10<i>µ</i>A and 200<i>µ</i>s per phase) was applied to selected channels in V1, and action potentials recorded simultaneously in V1 and V2. Microstimulation pulses were jittered in time to randomize the phase of the LFP at the time of stimulation.<i>Results.</i>We found frequency-specific phase modulation in a subset of units, where microstimulation in V1 evokes a higher firing rate in both V1 and V2 when delivered at specific phases of the LFP. We characterize phase modulation in terms of the preferred phase and frequency of V1 stimulation for responses in both V1 and V2, and effect size as a function of phase estimation accuracy.<i>Significance.</i>Phase modulation could reduce charge requirements for neural activation, reducing the volume of activated tissue and improving the safety, efficacy, and specificity of cortical visual prostheses. Phase modulation could allow cortical visual prostheses to stimulate using more simultaneous electrodes, with improved neural specificity, and, potentially, targeting downstream cortical activation.",
+  "authors": [
+    "Allison-Walker Tim",
+    "Hagan Maureen A",
+    "Meikle Sabrina J",
+    "Price Nicholas S C",
+    "Wong Yan T"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2025",
+  "doi": "10.1088/1741-2552/ada828",
+  "mesh": [
+    "Animals",
+    "Visual Cortex",
+    "Evoked Potentials, Visual",
+    "Electric Stimulation",
+    "Callithrix",
+    "Male",
+    "Action Potentials",
+    "Female",
+    "Visual Prosthesis",
+    "Electrodes, Implanted"
+  ]
+}

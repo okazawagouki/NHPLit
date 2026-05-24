@@ -1,0 +1,27 @@
+{
+  "pmid": "11164241",
+  "title": "The neuronal refractory period causes a short-term peak in the autocorrelation function.",
+  "abstract": "Autocorrelation functions are a major tool for the understanding of single-cell firing patterns. Short-term peaks in autocorrelation functions have previously been interpreted as a tendency towards bursting activity or elevated probability to emit spikes in a short time-scale. These peaks can actually be a result of the firing of a neuron with a refractory period followed by a period of constant firing probability. Analytic studies and simulations of such neurons replicate the autocorrelation functions of real-world neurons. The relative size of the peak increases with the refractory period and with the firing rate of the cell. This phenomenon is therefore more notable in areas such as the globus pallidus and cerebellum and less clear in the cerebral cortex. We describe here a compensation factor that can be calculated from the neuron's hazard function. This factor can be removed from the original autocorrelation function to reveal the underlying firing pattern of the cell.",
+  "authors": [
+    "Bar-Gad I",
+    "Ritov Y",
+    "Bergman H"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Basal Ganglia",
+    "Computer Simulation",
+    "Electric Stimulation",
+    "Electrophysiology",
+    "Globus Pallidus",
+    "Macaca mulatta",
+    "Mathematical Computing",
+    "Models, Neurological",
+    "Neural Conduction",
+    "Probability",
+    "Refractory Period, Electrophysiological"
+  ]
+}

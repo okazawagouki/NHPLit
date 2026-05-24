@@ -1,0 +1,24 @@
+{
+  "pmid": "26538653",
+  "title": "A Convolutional Subunit Model for Neuronal Responses in Macaque V1.",
+  "abstract": "UNLABELLED: The response properties of neurons in the early stages of the visual system can be described using the rectified responses of a set of self-similar, spatially shifted linear filters. In macaque primary visual cortex (V1), simple cell responses can be captured with a single filter, whereas complex cells combine a set of filters, creating position invariance. These filters cannot be estimated using standard methods, such as spike-triggered averaging. Subspace methods like spike-triggered covariance can recover multiple filters but require substantial amounts of data, and recover an orthogonal basis for the subspace in which the filters reside, rather than the filters themselves. Here, we assume a linear-nonlinear-linear-nonlinear (LN-LN) cascade model in which the first LN stage consists of shifted (\"convolutional\") copies of a single filter, followed by a common instantaneous nonlinearity. We refer to these initial LN elements as the \"subunits\" of the receptive field, and we allow two independent sets of subunits, each with its own filter and nonlinearity. The second linear stage computes a weighted sum of the subunit responses and passes the result through a final instantaneous nonlinearity. We develop a procedure to directly fit this model to electrophysiological data. When fit to data from macaque V1, the subunit model significantly outperforms three alternatives in terms of cross-validated accuracy and efficiency, and provides a robust, biologically plausible account of receptive field structure for all cell types encountered in V1. SIGNIFICANCE STATEMENT: We present a new subunit model for neurons in primary visual cortex that significantly outperforms three alternative models in terms of cross-validated accuracy and efficiency, and provides a robust and biologically plausible account of the receptive field structure in these neurons across the full spectrum of response properties.",
+  "authors": [
+    "Vintch Brett",
+    "Movshon J Anthony",
+    "Simoncelli Eero P"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.2815-13.2015",
+  "mesh": [
+    "Animals",
+    "Macaca fascicularis",
+    "Macaca nemestrina",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

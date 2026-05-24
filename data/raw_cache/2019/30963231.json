@@ -1,0 +1,32 @@
+{
+  "pmid": "30963231",
+  "title": "In vivo localization of cortical areas using a 3D computerized atlas of the marmoset brain.",
+  "abstract": "We created a volumetric template of the marmoset (Callithrix jacchus) brain, which enables localization of the cortical areas defined in the Paxinos et al. (The marmoset brain in stereotaxic coordinates. Elsevier Academic Press, Cambridge, 2012) marmoset brain atlas, as well as seven broader cortical regions (occipital, temporal, parietal, prefrontal, motor, limbic, insular), different brain compartments (white matter, gray matter, cerebro-spinal fluid including ventricular spaces), and various other structures (brain stem, cerebellum, olfactory bulb, hippocampus). The template was designed from T<sub>1</sub>-weighted MR images acquired using a 3 T MRI scanner. It was based on a single fully segmented marmoset brain image, which was transported onto the mean of 13 adult marmoset brain images using a diffeomorphic strategy that fully preserves the brain topology. In addition, we offer an automatic segmentation pipeline which fully exploits the proposed template. The segmentation pipeline was quantitatively assessed by comparing the results of manual and automated segmentations. An associated program, written in Python, can be used from a command-line interface, or used interactively as a module of the 3DSlicer software. This program can be applied to the analysis of multimodal images, to map specific cortical areas in lesions or to define the seeds for further tractography analyses.",
+  "authors": [
+    "Risser Laurent",
+    "Sadoun Amirouche",
+    "Mescam Muriel",
+    "Strelnikov Kuzma",
+    "Lebreton Sandra",
+    "Boucher Samuel",
+    "Girard Pascal",
+    "Vayssière Nathalie",
+    "Rosa Marcello G P",
+    "Fonta Caroline"
+  ],
+  "journal": "Brain structure & function",
+  "year": "2019",
+  "doi": "10.1007/s00429-019-01869-x",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Female",
+    "Haplorhini",
+    "Image Processing, Computer-Assisted",
+    "Imaging, Three-Dimensional",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Neuroimaging",
+    "Software"
+  ]
+}

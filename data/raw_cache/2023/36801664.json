@@ -1,0 +1,21 @@
+{
+  "pmid": "36801664",
+  "title": "Inconsistent illusory motion in predictive coding deep neural networks.",
+  "abstract": "Why do we perceive illusory motion in some static images? Several accounts point to eye movements, response latencies to different image elements, or interactions between image patterns and motion energy detectors. Recently PredNet, a recurrent deep neural network (DNN) based on predictive coding principles, was reported to reproduce the \"Rotating Snakes\" illusion, suggesting a role for predictive coding. We begin by replicating this finding, then use a series of \"in silico\" psychophysics and electrophysiology experiments to examine whether PredNet behaves consistently with human observers and non-human primate neural data. A pretrained PredNet predicted illusory motion for all subcomponents of the Rotating Snakes pattern, consistent with human observers. However, we found no simple response delays in internal units, unlike evidence from electrophysiological data. PredNet's detection of motion in gradients seemed dependent on contrast, but depends predominantly on luminance in humans. Finally, we examined the robustness of the illusion across ten PredNets of identical architecture, retrained on the same video data. There was large variation across network instances in whether they reproduced the Rotating Snakes illusion, and what motion, if any, they predicted for simplified variants. Unlike human observers, no network predicted motion for greyscale variants of the Rotating Snakes pattern. Our results sound a cautionary note: even when a DNN successfully reproduces some idiosyncrasy of human vision, more detailed investigation can reveal inconsistencies between humans and the network, and between different instances of the same network. These inconsistencies suggest that predictive coding does not reliably give rise to human-like illusory motion.",
+  "authors": [
+    "Kirubeswaran O R",
+    "Storrs Katherine R"
+  ],
+  "journal": "Vision research",
+  "year": "2023",
+  "doi": "10.1016/j.visres.2023.108195",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Illusions",
+    "Motion Perception",
+    "Vision, Ocular",
+    "Eye Movements",
+    "Neural Networks, Computer"
+  ]
+}

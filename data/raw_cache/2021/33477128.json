@@ -1,0 +1,21 @@
+{
+  "pmid": "33477128",
+  "title": "Robust and accurate decoding of hand kinematics from entire spiking activity using deep learning.",
+  "abstract": "<i>Objective</i>. Brain-machine interfaces (BMIs) seek to restore lost motor functions in individuals with neurological disorders by enabling them to control external devices directly with their thoughts. This work aims to improve robustness and decoding accuracy that currently become major challenges in the clinical translation of intracortical BMIs.<i>Approach</i>. We propose entire spiking activity (ESA)-an envelope of spiking activity that can be extracted by a simple, threshold-less, and automated technique-as the input signal. We couple ESA with deep learning-based decoding algorithm that uses quasi-recurrent neural network (QRNN) architecture. We evaluate comprehensively the performance of ESA-driven QRNN decoder for decoding hand kinematics from neural signals chronically recorded from the primary motor cortex area of three non-human primates performing different tasks.<i>Main results</i>. Our proposed method yields consistently higher decoding performance than any other combinations of the input signal and decoding algorithm previously reported across long-term recording sessions. It can sustain high decoding performance even when removing spikes from the raw signals, when using the different number of channels, and when using a smaller amount of training data.<i>Significance</i>. Overall results demonstrate exceptionally high decoding accuracy and chronic robustness, which is highly desirable given it is an unresolved challenge in BMIs.",
+  "authors": [
+    "Ahmadi Nur",
+    "Constandinou Timothy G",
+    "Bouganis Christos-Savvas"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2021",
+  "doi": "10.1088/1741-2552/abde8a",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Brain-Computer Interfaces",
+    "Deep Learning",
+    "Motor Cortex",
+    "Neural Networks, Computer"
+  ]
+}

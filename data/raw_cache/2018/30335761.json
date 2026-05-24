@@ -1,0 +1,31 @@
+{
+  "pmid": "30335761",
+  "title": "A multi-scale layer-resolved spiking network model of resting-state dynamics in macaque visual cortical areas.",
+  "abstract": "Cortical activity has distinct features across scales, from the spiking statistics of individual cells to global resting-state networks. We here describe the first full-density multi-area spiking network model of cortex, using macaque visual cortex as a test system. The model represents each area by a microcircuit with area-specific architecture and features layer- and population-resolved connectivity between areas. Simulations reveal a structured asynchronous irregular ground state. In a metastable regime, the network reproduces spiking statistics from electrophysiological recordings and cortico-cortical interaction patterns in fMRI functional connectivity under resting-state conditions. Stable inter-area propagation is supported by cortico-cortical synapses that are moderately strong onto excitatory neurons and stronger onto inhibitory neurons. Causal interactions depend on both cortical structure and the dynamical state of populations. Activity propagates mainly in the feedback direction, similar to experimental results associated with visual imagery and sleep. The model unifies local and large-scale accounts of cortex, and clarifies how the detailed connectivity of cortex shapes its dynamics on multiple scales. Based on our simulations, we hypothesize that in the spontaneous condition the brain operates in a metastable regime where cortico-cortical projections target excitatory and inhibitory populations in a balanced manner that produces substantial inter-area interactions while maintaining global stability.",
+  "authors": [
+    "Schmidt Maximilian",
+    "Bakker Rembrandt",
+    "Shen Kelly",
+    "Bezgin Gleb",
+    "Diesmann Markus",
+    "van Albada Sacha Jennifer"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2018",
+  "doi": "10.1371/journal.pcbi.1006359",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Computational Biology",
+    "Electroencephalography",
+    "Implantable Neurostimulators",
+    "Macaca",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Sleep",
+    "Visual Cortex"
+  ]
+}

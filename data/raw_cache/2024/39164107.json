@@ -1,0 +1,30 @@
+{
+  "pmid": "39164107",
+  "title": "Disentangling Temporal and Rate Codes in the Primate Somatosensory Cortex.",
+  "abstract": "Millisecond-scale temporal spiking patterns encode sensory information in the periphery, but their role in the neocortex remains controversial. The sense of touch provides a window into temporal coding because tactile neurons often exhibit precise, repeatable, and informative temporal spiking patterns. In the somatosensory cortex (S1), responses to skin vibrations exhibit phase locking that faithfully carries information about vibratory frequency. However, the respective roles of spike timing and rate in frequency coding are confounded because vibratory frequency shapes both the timing and rates of responses. To disentangle the contributions of these two neural features, we measured S1 responses as rhesus macaques performed frequency discrimination tasks in which differences in frequency were accompanied by orthogonal variations in amplitude. We assessed the degree to which the strength and timing of responses could account for animal performance. First, we showed that animals can discriminate frequency, but their performance is biased by amplitude variations. Second, rate-based representations of frequency are susceptible to changes in amplitude but in ways that are inconsistent with the animals' behavioral biases, calling into question a rate-based neural code for frequency. In contrast, timing-based representations are highly informative about frequency but impervious to changes in amplitude, which is also inconsistent with the animals' behavior. We account for the animals' behavior with a model wherein frequency coding relies on a temporal code, but frequency judgments are biased by perceived magnitude. We conclude that information about vibratory frequency is not encoded in S1 firing rates but primarily in temporal patterning on millisecond timescales.",
+  "authors": [
+    "Callier Thierri",
+    "Gitchell Thomas",
+    "Harvey Michael A",
+    "Bensmaia Sliman J"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2024",
+  "doi": "10.1523/JNEUROSCI.0036-24.2024",
+  "mesh": [
+    "Animals",
+    "Somatosensory Cortex",
+    "Macaca mulatta",
+    "Male",
+    "Vibration",
+    "Action Potentials",
+    "Time Factors",
+    "Physical Stimulation",
+    "Touch",
+    "Discrimination, Psychological",
+    "Touch Perception",
+    "Neurons",
+    "Reaction Time",
+    "Female"
+  ]
+}

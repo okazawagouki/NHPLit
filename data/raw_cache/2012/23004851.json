@@ -1,0 +1,23 @@
+{
+  "pmid": "23004851",
+  "title": "Statistical modeling approach for detecting generalized synchronization.",
+  "abstract": "Detecting nonlinear correlations between time series presents a hard problem for data analysis. We present a generative statistical modeling method for detecting nonlinear generalized synchronization. Truncated Volterra series are used to approximate functional interactions. The Volterra kernels are modeled as linear combinations of basis splines, whose coefficients are estimated via l(1) and l(2) regularized maximum likelihood regression. The regularization manages the high number of kernel coefficients and allows feature selection strategies yielding sparse models. The method's performance is evaluated on different coupled chaotic systems in various synchronization regimes and analytical results for detecting m : n phase synchrony are presented. Experimental applicability is demonstrated by detecting nonlinear interactions between neuronal local field potentials recorded in different parts of macaque visual cortex.",
+  "authors": [
+    "Schumacher Johannes",
+    "Haslinger Robert",
+    "Pipa Gordon"
+  ],
+  "journal": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+  "year": "2012",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Models, Biological",
+    "Models, Statistical",
+    "Nonlinear Dynamics",
+    "Time Factors",
+    "Visual Cortex",
+    "Visual Fields"
+  ]
+}

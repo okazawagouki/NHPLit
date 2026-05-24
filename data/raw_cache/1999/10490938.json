@@ -1,0 +1,24 @@
+{
+  "pmid": "10490938",
+  "title": "On decoding the responses of a population of neurons from short time windows.",
+  "abstract": "The effectiveness of various stimulus identification (decoding) procedures for extracting the information carried by the responses of a population of neurons to a set of repeatedly presented stimuli is studied analytically, in the limit of short time windows. It is shown that in this limit, the entire information content of the responses can sometimes be decoded, and when this is not the case, the lost information is quantified. In particular, the mutual information extracted by taking into account only the most likely stimulus in each trial turns out to be, if not equal, much closer to the true value than that calculated from all the probabilities that each of the possible stimuli in the set was the actual one. The relation between the mutual information extracted by decoding and the percentage of correct stimulus decodings is also derived analytically in the same limit, showing that the metric content index can be estimated reliably from a few cells recorded from brief periods. Computer simulations as well as the activity of real neurons recorded in the primate hippocampus serve to confirm these results and illustrate the utility and limitations of the approach.",
+  "authors": [
+    "Panzeri S",
+    "Treves A",
+    "Schultz S",
+    "Rolls E T"
+  ],
+  "journal": "Neural computation",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Haplorhini",
+    "Models, Neurological",
+    "Neurons",
+    "Parahippocampal Gyrus",
+    "Pyramidal Cells"
+  ]
+}

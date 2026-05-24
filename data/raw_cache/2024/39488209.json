@@ -1,0 +1,25 @@
+{
+  "pmid": "39488209",
+  "title": "Zero-shot counting with a dual-stream neural network model.",
+  "abstract": "To understand a visual scene, observers need to both recognize objects and encode relational structure. For example, a scene comprising three apples requires the observer to encode concepts of \"apple\" and \"three.\" In the primate brain, these functions rely on dual (ventral and dorsal) processing streams. Object recognition in primates has been successfully modeled with deep neural networks, but how scene structure (including numerosity) is encoded remains poorly understood. Here, we built a deep learning model, based on the dual-stream architecture of the primate brain, which is able to count items \"zero-shot\"-even if the objects themselves are unfamiliar. Our dual-stream network forms spatial response fields and lognormal number codes that resemble those observed in the macaque posterior parietal cortex. The dual-stream network also makes successful predictions about human counting behavior. Our results provide evidence for an enactive theory of the role of the posterior parietal cortex in visual scene understanding.",
+  "authors": [
+    "Thompson Jessica A F",
+    "Sheahan Hannah",
+    "Dumbalska Tsvetomira",
+    "Sandbrink Julian D",
+    "Piazza Manuela",
+    "Summerfield Christopher"
+  ],
+  "journal": "Neuron",
+  "year": "2024",
+  "doi": "10.1016/j.neuron.2024.10.008",
+  "mesh": [
+    "Animals",
+    "Parietal Lobe",
+    "Neural Networks, Computer",
+    "Humans",
+    "Deep Learning",
+    "Models, Neurological",
+    "Visual Perception"
+  ]
+}

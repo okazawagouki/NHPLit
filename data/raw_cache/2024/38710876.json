@@ -1,0 +1,20 @@
+{
+  "pmid": "38710876",
+  "title": "Dimensionality reduction beyond neural subspaces with slice tensor component analysis.",
+  "abstract": "Recent work has argued that large-scale neural recordings are often well described by patterns of coactivation across neurons. Yet the view that neural variability is constrained to a fixed, low-dimensional subspace may overlook higher-dimensional structure, including stereotyped neural sequences or slowly evolving latent spaces. Here we argue that task-relevant variability in neural data can also cofluctuate over trials or time, defining distinct 'covariability classes' that may co-occur within the same dataset. To demix these covariability classes, we develop sliceTCA (slice tensor component analysis), a new unsupervised dimensionality reduction method for neural data tensors. In three example datasets, including motor cortical activity during a classic reaching task in primates and recent multiregion recordings in mice, we show that sliceTCA can capture more task-relevant structure in neural data using fewer components than traditional methods. Overall, our theoretical framework extends the classic view of low-dimensional population activity by incorporating additional classes of latent variables capturing higher-dimensional structure.",
+  "authors": [
+    "Pellegrino Arthur",
+    "Stein Heike",
+    "Cayco-Gajic N Alex"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2024",
+  "doi": "10.1038/s41593-024-01626-2",
+  "mesh": [
+    "Animals",
+    "Mice",
+    "Neurons",
+    "Motor Cortex",
+    "Models, Neurological"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "pmid": "38766541",
+  "title": "An Investigation of Manifold-Based Direct Control for a Brain-to-Body Neural Bypass.",
+  "abstract": "<i>Objective:</i> Brain-body interfaces (BBIs) have emerged as a very promising solution for restoring voluntary hand control in people with upper-limb paralysis. The BBI module decoding motor commands from brain signals should provide the user with intuitive, accurate, and stable control. Here, we present a preliminary investigation in a monkey of a brain decoding strategy based on the direct coupling between the activity of intrinsic neural ensembles and output variables, aiming at achieving ease of learning and long-term robustness. <i>Results:</i> We identified an intrinsic low-dimensional space (called manifold) capturing the co-variation patterns of the monkey's neural activity associated to reach-to-grasp movements. We then tested the animal's ability to directly control a computer cursor using cortical activation along the manifold axes. By daily recalibrating only scaling factors, we achieved rapid learning and stable high performance in simple, incremental 2D tasks over more than 12 weeks of experiments. Finally, we showed that this brain decoding strategy can be effectively coupled to peripheral nerve stimulation to trigger voluntary hand movements. <i>Conclusions:</i> These results represent a proof of concept of manifold-based direct control for BBI applications.",
+  "authors": [
+    "Losanno E",
+    "Badi M",
+    "Roussinova E",
+    "Bogaard A",
+    "Delacombaz M",
+    "Shokur S",
+    "Micera S"
+  ],
+  "journal": "IEEE open journal of engineering in medicine and biology",
+  "year": "2024",
+  "doi": "10.1109/OJEMB.2024.3381475",
+  "mesh": []
+}

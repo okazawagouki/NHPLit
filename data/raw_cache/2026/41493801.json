@@ -1,0 +1,26 @@
+{
+  "pmid": "41493801",
+  "title": "Neural coding of multiple motion speeds in visual cortical area MT.",
+  "abstract": "Motion speed is a salient cue for visual segmentation, yet how the visual system represents and differentiates multiple speeds remains unclear. Here, we investigated the encoding and decoding of multiple speeds. We first characterized the perceptual capacity of human and macaque subjects to segment overlapping stimuli moving at different speeds. We then determined how neurons in area MT of macaque monkeys represent multiple speeds. We found that the responses of MT neurons to two speeds showed a robust bias toward the faster speed component. This faster-speed bias occurred when both speeds were slow (≤20°/s) and diminished as stimulus speed increased. Our findings can be explained by a modified divisive normalization model, in which the weights for the speed components are proportional to the responses of a population of neurons (the weighting pool) with a broad range of speed preferences, elicited by the individual speeds. Regarding decoding, a classifier could distinguish MT responses to two speeds from those to a corresponding log-mean speed. We further found that it was possible to decode two speeds from the MT population response, supporting the theoretical framework of coding multiplicity in neuronal populations. The decoded speeds can account for perceptual performance in segmenting two speeds with a large (4x) but not a small (2x) separation. Our findings help define the neural coding rule of multiple speeds. The faster-speed bias in MT could benefit important behavioral tasks, such as figure-ground segregation, as figural objects tend to move faster than the background in the natural environment.",
+  "authors": [
+    "Huang Xin",
+    "Ghimire Bikalpa",
+    "Chakrala Anjani Sreeprada",
+    "Wiesner Steven"
+  ],
+  "journal": "eLife",
+  "year": "2026",
+  "doi": "10.7554/eLife.94835",
+  "mesh": [
+    "Animals",
+    "Motion Perception",
+    "Visual Cortex",
+    "Humans",
+    "Neurons",
+    "Macaca mulatta",
+    "Male",
+    "Photic Stimulation",
+    "Female",
+    "Adult"
+  ]
+}

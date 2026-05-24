@@ -1,0 +1,28 @@
+{
+  "pmid": "39809277",
+  "title": "An extensive dataset of spiking activity to reveal the syntax of the ventral stream.",
+  "abstract": "Visual neuroscience benefits from high-quality datasets with neuronal responses to many images. Several neuroimaging datasets have been published in recent years, but no comparable dataset with spiking activity exists. Here, we introduce the THINGS ventral stream spiking dataset (TVSD). We extensively sampled neuronal activity in response to >25,000 natural images from the THINGS database in macaques, using high-channel-count implants in three key cortical regions: primary visual cortex (V1), V4, and the inferotemporal cortex. We showcase the utility of TVSD by using an artificial neural network to visualize the tuning of neurons. We also characterize the correlated fluctuations in activity within and between areas and demonstrate that these noise correlations are strongest between neurons with similar tuning. The TVSD allows researchers to answer many questions about neuronal tuning, analyze the interactions within and between cortical regions, and compare spiking activity in monkeys to human neuroimaging data.",
+  "authors": [
+    "Papale Paolo",
+    "Wang Feng",
+    "Self Matthew W",
+    "Roelfsema Pieter R"
+  ],
+  "journal": "Neuron",
+  "year": "2025",
+  "doi": "10.1016/j.neuron.2024.12.003",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Neurons",
+    "Action Potentials",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Primary Visual Cortex",
+    "Neural Networks, Computer",
+    "Photic Stimulation",
+    "Temporal Lobe",
+    "Visual Perception",
+    "Databases, Factual"
+  ]
+}

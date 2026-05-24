@@ -1,0 +1,29 @@
+{
+  "pmid": "40031494",
+  "title": "A Three-stage Strategy Significantly Improves Hand Movement Direction Decoding of a Single Neural Unit.",
+  "abstract": "Invasive brain-computer interfaces (iBCI) can record multiple neural signals with the highest temporal and spatial resolution. However, the number of available neural units decreases with the increase in implantation time, which affects the stability of the iBCI system's control. Meanwhile, most current studies utilize a population of neural units to decode a single instruction, which limits the ability to decode multi-tasks simultaneously in complex scenarios. Using a few number of neural units, possibly even a single one, to perform single-task decoding is expected to enable the simultaneous control of multitasks. Herein, a three-stage strategy is proposed to accurately decode the direction of a monkey's hand movement in a Center-out task using spiking activities from a single neural unit. First, the optimal decoding window was selected based on the time course of decoding performance. Second, a firing rate variance ratio is proposed to choose the optimal neural unit from all units. Last, hard voting is employed to classify hand movements based on a single neural unit. The results indicated that decoding with a chosen neural unit and an optimal decoding window leads to a classification accuracy of 82.0%, which is nearly equivalent to that of multi-unit decoding (84.41%). This study provides insights into controlling multiple degrees of freedom with fewer neural units in iBCI control.",
+  "authors": [
+    "Yu Shanshan",
+    "Liang Fengyan",
+    "Zhang Yilin",
+    "Chen Long",
+    "Dong Lijun",
+    "Guo Zheshan",
+    "Jie Jing",
+    "Wang Xiao",
+    "Yin Ming"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2024",
+  "doi": "10.1109/EMBC53108.2024.10781633",
+  "mesh": [
+    "Hand",
+    "Movement",
+    "Brain-Computer Interfaces",
+    "Animals",
+    "Macaca mulatta",
+    "Neurons",
+    "Algorithms",
+    "Action Potentials"
+  ]
+}

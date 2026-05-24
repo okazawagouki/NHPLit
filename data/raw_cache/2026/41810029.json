@@ -1,0 +1,13 @@
+{
+  "pmid": "41810029",
+  "title": "Learning Mixtures of Linear Dynamical Systems via Hybrid Tensor-EM Method.",
+  "abstract": "Mixtures of linear dynamical systems (MoLDS) provide a path to model time-series data that exhibit diverse temporal dynamics across trajectories. However, its application remains challenging in complex and noisy settings, limiting its effectiveness for neural data analysis. Tensor-based moment methods can provide global identifiability guarantees for MoLDS, but their performance degrades under noise and complexity. Commonly used expectation-maximization (EM) methods offer flexibility in fitting latent models but are highly sensitive to initialization and prone to poor local minima. Here, we propose a tensor-based method that provides identifiability guarantees for learning MoLDS, which is followed by EM updates to combine the strengths of both approaches. The novelty in our approach lies in the construction of moment tensors using the input-output data to recover globally consistent estimates of mixture weights and system parameters. These estimates can then be refined through a Kalman EM algorithm, with closed-form updates for all LDS parameters. We validate our framework on synthetic benchmarks and real-world datasets. On synthetic data, the proposed Tensor-EM method achieves more reliable recovery and improved robustness compared to either pure tensor or randomly initialized EM methods. We then analyze neural recordings from the primate somatosensory cortex while a non-human primate performs reaches in different directions. Our method successfully models and clusters different conditions as separate subsystems, consistent with supervised single-LDS fits for each condition. Finally, we apply this approach to another neural dataset where monkeys perform a sequential reaching task. These results demonstrate that MoLDS provides an effective framework for modeling complex neural data, and that Tensor-EM is a reliable approach to MoLDS learning for these applications.",
+  "authors": [
+    "Gong Lulu",
+    "Saxena Shreya"
+  ],
+  "journal": "ArXiv",
+  "year": "2026",
+  "doi": "",
+  "mesh": []
+}

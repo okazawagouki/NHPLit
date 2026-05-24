@@ -1,0 +1,25 @@
+{
+  "pmid": "17368501",
+  "title": "Modelling the effect of microsaccades on retinal responses to stationary contrast patterns.",
+  "abstract": "We have modelled the effect of microsaccades on retinal responses to achromatic borders and lines using physiologically realistic parameters. Typical microsaccade movement sequences were applied to the retinal image of stationary spatial contrast patterns as projected on the foveal cone mosaic after being passed through the optical transfer function of the eye. The resulting temporal contrast modulation over a cone receptive field was convolved with an analytical expression for the response waveform of primate cones (photocurrent: [Schnapf, J. L., Nunn, B. J., Meister, M. & Baylor, D. A. (1990). Visual transduction in cones of the monkey Macaca fascicularis. Journal of Physiology, 427, 681-713]; photovoltage: [Schneeweis, D. M. & Schnapf, J. L. (1999). The photovoltage of macaque cone photoreceptors: Adaptation, noise, and kinetics. Journal of Neuroscience, 19, 1203-1216]). The input to the ganglion cell was derived from the cone responses by the difference-of-Gaussians receptive field model of Donner and Hemilä [Donner, K. & Hemilä, S. (1996). Modelling the spatio-temporal modulation response of ganglion cells with difference-of-Gaussians receptive fields: Relation to photoreceptor response kinetics. Visual Neuroscience, 13, 173-186]. The modelled response waveforms suggest that microsaccades may significantly enhance sensitivity to edges, \"re-sharpen\" the image and, most interestingly, improve resolution of two closely spaced lines. The reason is that fine spatial structure of the retinal image when moving at suitable velocities is translated into a correlated temporal structure of responses of single cones and ganglion cells. The information content of the signal is not strongly dependent on positional accuracy and the effect is thus distinct from the presumed retinal basis of vernier acuity. Other eye movements (drift) with velocity distributions similar to that of the microsaccade's slow return phase might be similarly useful, although the microsaccade has some distinguishing features that could be functionally significant, e.g., the neural motor control and the biphasic movement pattern.",
+  "authors": [
+    "Donner Kristian",
+    "Hemilä Simo"
+  ],
+  "journal": "Vision research",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Contrast Sensitivity",
+    "Humans",
+    "Models, Neurological",
+    "Models, Psychological",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Psychophysics",
+    "Retina",
+    "Retinal Cone Photoreceptor Cells",
+    "Retinal Ganglion Cells",
+    "Saccades"
+  ]
+}

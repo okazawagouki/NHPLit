@@ -1,0 +1,34 @@
+{
+  "pmid": "19965244",
+  "title": "Low-cost wireless neural recording system and software.",
+  "abstract": "We describe a flexible wireless neural recording system, which is comprised of a 15-channel analog FM transmitter, digital receiver and custom user interface software for data acquisition. The analog front-end is constructed from commercial off the shelf (COTS) components and weighs 6.3g (including batteries) and is capable of transmitting over 24 hours up to a range over 3m with a 25microV(rms) in-vivo noise floor. The Software Defined Radio (SDR) and the acquisition software provide a data acquisition platform with real time data display and can be customized based on the specifications of various experiments. The described system was characterized with in-vitro and in-vivo experiments and the results are presented.",
+  "authors": [
+    "Gregory Jeffrey A",
+    "Borna Amir",
+    "Roy Sabyasachi",
+    "Wang Xiaoqin",
+    "Lewandowski Brian",
+    "Schmidt Marc",
+    "Najafi Khalil"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2009",
+  "doi": "10.1109/IEMBS.2009.5335132",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Callithrix",
+    "Computer Graphics",
+    "Computer Systems",
+    "Electric Power Supplies",
+    "Electrodes",
+    "Humans",
+    "Nerve Net",
+    "Rats",
+    "Signal Processing, Computer-Assisted",
+    "Software",
+    "Telemetry",
+    "Transducers",
+    "User-Computer Interface"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "28068117",
+  "title": "The neural representation of the gender of faces in the primate visual system: A computer modeling study.",
+  "abstract": "We use an established neural network model of the primate visual system to show how neurons might learn to encode the gender of faces. The model consists of a hierarchy of 4 competitive neuronal layers with associatively modifiable feedforward synaptic connections between successive layers. During training, the network was presented with many realistic images of male and female faces, during which the synaptic connections are modified using biologically plausible local associative learning rules. After training, we found that different subsets of output neurons have learned to respond exclusively to either male or female faces. With the inclusion of short range excitation within each neuronal layer to implement a self-organizing map architecture, neurons representing either male or female faces were clustered together in the output layer. This learning process is entirely unsupervised, as the gender of the face images is not explicitly labeled and provided to the network as a supervisory training signal. These simulations are extended to training the network on rotating faces. It is found that by using a trace learning rule incorporating a temporal memory trace of recent neuronal activity, neurons responding selectively to either male or female faces were also able to learn to respond invariantly over different views of the faces. This kind of trace learning has been previously shown to operate within the primate visual system by neurophysiological and psychophysical studies. The computer simulations described here predict that similar neurons encoding the gender of faces will be present within the primate visual system. (PsycINFO Database Record",
+  "authors": [
+    "Minot Thomas",
+    "Dury Hannah L",
+    "Eguchi Akihiro",
+    "Humphreys Glyn W",
+    "Stringer Simon M"
+  ],
+  "journal": "Psychological review",
+  "year": "2017",
+  "doi": "10.1037/rev0000049",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Facial Recognition",
+    "Female",
+    "Learning",
+    "Male",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Primates",
+    "Sex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

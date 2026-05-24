@@ -1,0 +1,16 @@
+{
+  "pmid": "33842920",
+  "title": "Object discrimination performance and dynamics evaluated by inferotemporal cell population activity.",
+  "abstract": "We have previously reported an increase in response tolerance of inferotemporal cells around trained views. However, an inferotemporal cell usually displays different response patterns in an initial response phase immediately after the stimulus onset and in a late phase from approximately 260 ms after stimulus onset. This study aimed to understand the difference between the two time periods and their involvement in the view-invariant object recognition. Responses to object images with and without prior experience of object discrimination across views, recorded by microelectrodes, were pooled together from our previous experiments. With a machine learning algorithm, we trained to build classifiers for object discrimination. In the early phase, the performance of classifiers created based on data of responses to the object images with prior training of object discrimination across views did not significantly differ from that based on data of responses to the object images without prior experience of object discrimination across views. However, the performance was significantly better in the late phase. Furthermore, compared to the preferred stimulus image in the early phase, we found 2/3 of cells changed their preference in the late phase. For object images with prior experience of training with object discrimination across views, a significant higher percentage of cells responded in the late phase to the same objects as in the early phase, but under different views. The results demonstrate the dynamics of selectivity changes and suggest the involvement of the late phase in the view-invariant object recognition rather than that of the early phase.",
+  "authors": [
+    "Wang Ridey H",
+    "Dai Lulin",
+    "Okamura Jun-Ya",
+    "Fuchida Takayasu",
+    "Wang Gang"
+  ],
+  "journal": "IBRO neuroscience reports",
+  "year": "2021",
+  "doi": "10.1016/j.ibneur.2021.02.008",
+  "mesh": []
+}

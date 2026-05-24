@@ -1,0 +1,29 @@
+{
+  "pmid": "21994372",
+  "title": "A three-dimensional spatiotemporal receptive field model explains responses of area MT neurons to naturalistic movies.",
+  "abstract": "Area MT has been an important target for studies of motion processing. However, previous neurophysiological studies of MT have used simple stimuli that do not contain many of the motion signals that occur during natural vision. In this study we sought to determine whether views of area MT neurons developed using simple stimuli can account for MT responses under more naturalistic conditions. We recorded responses from macaque area MT neurons during stimulation with naturalistic movies. We then used a quantitative modeling framework to discover which specific mechanisms best predict neuronal responses under these challenging conditions. We find that the simplest model that accurately predicts responses of MT neurons consists of a bank of V1-like filters, each followed by a compressive nonlinearity, a divisive nonlinearity, and linear pooling. Inspection of the fit models shows that the excitatory receptive fields of MT neurons tend to lie on a single plane within the three-dimensional spatiotemporal frequency domain, and suppressive receptive fields lie off this plane. However, most excitatory receptive fields form a partial ring in the plane and avoid low temporal frequencies. This receptive field organization ensures that most MT neurons are tuned for velocity but do not tend to respond to ambiguous static textures that are aligned with the direction of motion. In sum, MT responses to naturalistic movies are largely consistent with predictions based on simple stimuli. However, models fit using naturalistic stimuli reveal several novel properties of MT receptive fields that had not been shown in prior experiments.",
+  "authors": [
+    "Nishimoto Shinji",
+    "Gallant Jack L"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2011",
+  "doi": "10.1523/JNEUROSCI.6801-10.2011",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Imaging, Three-Dimensional",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motion Perception",
+    "Motion Pictures",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Photic Stimulation",
+    "Regression Analysis",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Pathways"
+  ]
+}

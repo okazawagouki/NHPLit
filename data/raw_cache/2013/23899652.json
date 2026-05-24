@@ -1,0 +1,22 @@
+{
+  "pmid": "23899652",
+  "title": "A 515 nW, 0-18 dB Programmable Gain Analog-to-Digital Converter for In-Channel Neural Recording Interfaces.",
+  "abstract": "This paper presents a low-area low-power Switched-Capacitor (SC)-based Programmable-Gain Analog-to-Digital Converter (PG-ADC) suitable for in-channel neural recording applications. The PG-ADC uses a novel implementation of the binary search algorithm that is complemented with adaptive biasing techniques for power saving. It has been fabricated in a standard CMOS 130 nm technology and only occupies 0.0326 mm(2). The PG-ADC has been optimized to operate under two different sampling modes, 27 kS/s and 90 kS/s. The former is tailored for raw data conversion of neural activity, whereas the latter is used for the on-the-fly feature extraction of neural spikes. Experimental results show that, under a voltage supply of 1.2 V, the PG-ADC obtains an ENOB of 7.56 bit (8-bit output) for both sampling modes, regardless of the gain setting. The amplification gain can be programmed from 0 to 18 dB. The power consumption of the PG-ADC at 90 kS/s is 1.52 μW with a FoM of 89.49 fJ/conv, whereas at 27 kS/s it consumes 515 nW and obtains a FoM of 98.31 fJ/conv .",
+  "authors": [
+    "Rodriguez-Perez Alberto",
+    "Delgado-Restituto Manuel",
+    "Medeiro Fernando"
+  ],
+  "journal": "IEEE transactions on biomedical circuits and systems",
+  "year": "2014",
+  "doi": "10.1109/TBCAS.2013.2270180",
+  "mesh": [
+    "Algorithms",
+    "Analog-Digital Conversion",
+    "Animals",
+    "Macaca",
+    "Motor Cortex",
+    "Neurons",
+    "Neurophysiology"
+  ]
+}

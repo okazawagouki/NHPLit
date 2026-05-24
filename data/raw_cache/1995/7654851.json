@@ -1,0 +1,23 @@
+{
+  "pmid": "7654851",
+  "title": "Detecting higher-order interactions among the spiking events in a group of neurons.",
+  "abstract": "We propose a formal framework for the description of interactions among groups of neurons. This framework is not restricted to the common case of pair interactions, but also incorporates higher-order interactions, which cannot be reduced to lower-order ones. We derive quantitative measures to detect the presence of such interactions in experimental data, by statistical analysis of the frequency distribution of higher-order correlations in multiple neuron spike train data. Our first step is to represent a frequency distribution as a Markov field on the minimal graph it induces. We then show the invariance of this graph with regard to changes of state. Clearly, only linear Markov fields can be adequately represented by graphs. Higher-order interdependencies, which are reflected by the energy expansion of the distribution, require more complex graphical schemes, like constellations or assembly diagrams, which we introduce and discuss. The coefficients of the energy expansion not only point to the interactions among neurons but are also a measure of their strength. We investigate the statistical meaning of detected interactions in an information theoretic sense and propose minimum relative entropy approximations as null hypotheses for significance tests. We demonstrate the various steps of our method in the situation of an empirical frequency distribution on six neurons, extracted from data on simultaneous multineuron recordings from the frontal cortex of a behaving monkey and close with a brief outlook on future work.",
+  "authors": [
+    "Martignon L",
+    "Von Hasseln H",
+    "Grün S",
+    "Aertsen A",
+    "Palm G"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "1995",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Brain",
+    "Markov Chains",
+    "Models, Biological",
+    "Neurons"
+  ]
+}

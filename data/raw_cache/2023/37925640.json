@@ -1,0 +1,28 @@
+{
+  "pmid": "37925640",
+  "title": "Data-driven multiscale model of macaque auditory thalamocortical circuits reproduces in vivo dynamics.",
+  "abstract": "We developed a detailed model of macaque auditory thalamocortical circuits, including primary auditory cortex (A1), medial geniculate body (MGB), and thalamic reticular nucleus, utilizing the NEURON simulator and NetPyNE tool. The A1 model simulates a cortical column with over 12,000 neurons and 25 million synapses, incorporating data on cell-type-specific neuron densities, morphology, and connectivity across six cortical layers. It is reciprocally connected to the MGB thalamus, which includes interneurons and core and matrix-layer-specific projections to A1. The model simulates multiscale measures, including physiological firing rates, local field potentials (LFPs), current source densities (CSDs), and electroencephalography (EEG) signals. Laminar CSD patterns, during spontaneous activity and in response to broadband noise stimulus trains, mirror experimental findings. Physiological oscillations emerge spontaneously across frequency bands comparable to those recorded in vivo. We elucidate population-specific contributions to observed oscillation events and relate them to firing and presynaptic input patterns. The model offers a quantitative theoretical framework to integrate and interpret experimental data and predict its underlying cellular and circuit mechanisms.",
+  "authors": [
+    "Dura-Bernal Salvador",
+    "Griffith Erica Y",
+    "Barczak Annamaria",
+    "O'Connell Monica N",
+    "McGinnis Tammy",
+    "Moreira Joao V S",
+    "Schroeder Charles E",
+    "Lytton William W",
+    "Lakatos Peter",
+    "Neymotin Samuel A"
+  ],
+  "journal": "Cell reports",
+  "year": "2023",
+  "doi": "10.1016/j.celrep.2023.113378",
+  "mesh": [
+    "Thalamus",
+    "Electroencephalography",
+    "Geniculate Bodies",
+    "Thalamic Nuclei",
+    "Neurons",
+    "Auditory Cortex"
+  ]
+}

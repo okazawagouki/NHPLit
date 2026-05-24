@@ -1,0 +1,28 @@
+{
+  "pmid": "22192950",
+  "title": "MR-guided stereotactic navigation.",
+  "abstract": "Functional magnetic resonance imaging allows precise localization of brain regions specialized for different perceptual and higher cognitive functions. However, targeting these deep brain structures for electrophysiology still remains a challenging task. Here, we propose a novel framework for MRI-stereotactic registration and chamber placement for precise electrode guidance to recording sites defined in MRI space. The proposed \"floating frame\" approach can be used without usage of ear bars, greatly reducing pain and discomfort common in standard stereotactic surgeries. Custom pre-surgery planning software was developed to automatically solve the registration problem and report the set of parameters needed to position a stereotactic manipulator to reach a recording site along arbitrary, non-vertical trajectories. Furthermore, the software can automatically identify blood vessels and assist in finding safe trajectories to targets. Our approach was validated by targeting different regions in macaque monkeys and rats. We expect that our method will facilitate recording in new brain areas and provide a valuable tool for electrophysiologists.",
+  "authors": [
+    "Ohayon Shay",
+    "Tsao Doris Y"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2012",
+  "doi": "10.1016/j.jneumeth.2011.11.031",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Electrodes",
+    "Electrophysiology",
+    "Image Processing, Computer-Assisted",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Predictive Value of Tests",
+    "Rats",
+    "Reproducibility of Results",
+    "Stereotaxic Techniques",
+    "Surgery, Computer-Assisted"
+  ]
+}

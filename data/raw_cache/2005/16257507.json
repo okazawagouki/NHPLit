@@ -1,0 +1,24 @@
+{
+  "pmid": "16257507",
+  "title": "Spatial view cells in the hippocampus, and their idiothetic update based on place and head direction.",
+  "abstract": "Single neuron recording studies have demonstrated the existence of spatial view neurons which encode information about the spatial location at which a primate is looking in the environment. These neurons are able to maintain their firing even in the absence of visual input. The standard neuronal network approach to model networks with memory that represent continuous spaces is that of continuous attractor neural networks. Stringer, Rolls and Trappenberg (2005) have recently shown how idiothetic (self-motion) inputs could update the activity packet of neuronal firing within a two-dimensional continuous attractor neural network of spatial view cells. However, this earlier study examined only the simplified situation in which the agent could rotate on the spot or move its eyes. In this paper we show how spatial view cells could be driven by head direction and place cells, themselves idiothetically updated. The head direction and place neurons are remapped by a competitive network with expansion recoding which self-organises so that different neurons represent different combinations of head direction and the place where the agent is located. The combination cells are then mapped by pattern association involving long-term synaptic potentiation but also long-term homosynaptic depression to spatial view cells, which during training are driven by the spatial view. After training, the spatial view cells are updated in the dark by the idiothetically driven head direction and place cells.",
+  "authors": [
+    "Rolls Edmund T",
+    "Stringer Simon M"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Head",
+    "Hippocampus",
+    "Models, Neurological",
+    "Neocortex",
+    "Nerve Net",
+    "Neurons",
+    "Orientation",
+    "Space Perception"
+  ]
+}

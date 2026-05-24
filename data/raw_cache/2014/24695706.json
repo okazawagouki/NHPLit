@@ -1,0 +1,36 @@
+{
+  "pmid": "24695706",
+  "title": "Spatially patterned electrical stimulation to enhance resolution of retinal prostheses.",
+  "abstract": "Retinal prostheses electrically stimulate neurons to produce artificial vision in people blinded by photoreceptor degenerative diseases. The limited spatial resolution of current devices results in indiscriminate stimulation of interleaved cells of different types, precluding veridical reproduction of natural activity patterns in the retinal output. Here we investigate the use of spatial patterns of current injection to increase the spatial resolution of stimulation, using high-density multielectrode recording and stimulation of identified ganglion cells in isolated macaque retina. As previously shown, current passed through a single electrode typically induced a single retinal ganglion cell spike with submillisecond timing precision. Current passed simultaneously through pairs of neighboring electrodes modified the probability of activation relative to injection through a single electrode. This modification could be accurately summarized by a piecewise linear model of current summation, consistent with a simple biophysical model based on multiple sites of activation. The generalizability of the piecewise linear model was tested by using the measured responses to stimulation with two electrodes to predict responses to stimulation with three electrodes. Finally, the model provided an accurate prediction of which among a set of spatial stimulation patterns maximized selective activation of a cell while minimizing activation of a neighboring cell. The results demonstrate that tailored multielectrode stimulation patterns based on a piecewise linear model may be useful in increasing the spatial resolution of retinal prostheses.",
+  "authors": [
+    "Jepson Lauren H",
+    "Hottowy Paweł",
+    "Mathieson Keith",
+    "Gunning Deborah E",
+    "Dąbrowski Władysław",
+    "Litke Alan M",
+    "Chichilnisky E J"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2014",
+  "doi": "10.1523/JNEUROSCI.2882-13.2014",
+  "mesh": [
+    "Animals",
+    "Biophysical Phenomena",
+    "Biophysics",
+    "Electric Stimulation",
+    "Electrodes, Implanted",
+    "Evoked Potentials",
+    "Female",
+    "Humans",
+    "Linear Models",
+    "Macaca mulatta",
+    "Male",
+    "Photic Stimulation",
+    "Retina",
+    "Retinal Ganglion Cells",
+    "Sensory Thresholds",
+    "Visual Pathways",
+    "Visual Prosthesis"
+  ]
+}

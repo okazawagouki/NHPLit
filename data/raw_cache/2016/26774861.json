@@ -1,0 +1,25 @@
+{
+  "pmid": "26774861",
+  "title": "A computational exploration of complementary learning mechanisms in the primate ventral visual pathway.",
+  "abstract": "In order to develop transformation invariant representations of objects, the visual system must make use of constraints placed upon object transformation by the environment. For example, objects transform continuously from one point to another in both space and time. These two constraints have been exploited separately in order to develop translation and view invariance in a hierarchical multilayer model of the primate ventral visual pathway in the form of continuous transformation learning and temporal trace learning. We show for the first time that these two learning rules can work cooperatively in the model. Using these two learning rules together can support the development of invariance in cells and help maintain object selectivity when stimuli are presented over a large number of locations or when trained separately over a large number of viewing angles.",
+  "authors": [
+    "Spoerer Courtney J",
+    "Eguchi Akihiro",
+    "Stringer Simon M"
+  ],
+  "journal": "Vision research",
+  "year": "2016",
+  "doi": "10.1016/j.visres.2015.12.008",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Form Perception",
+    "Humans",
+    "Learning",
+    "Models, Neurological",
+    "Photic Stimulation",
+    "Primates",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

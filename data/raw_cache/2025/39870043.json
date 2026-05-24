@@ -1,0 +1,30 @@
+{
+  "pmid": "39870043",
+  "title": "Spatio-temporal transformers for decoding neural movement control.",
+  "abstract": "<i>Objective</i>. Deep learning tools applied to high-resolution neurophysiological data have significantly progressed, offering enhanced decoding, real-time processing, and readability for practical applications. However, the design of artificial neural networks to analyze neural activity<i>in vivo</i>remains a challenge, requiring a delicate balance between efficiency in low-data regimes and the interpretability of the results.<i>Approach</i>. To address this challenge, we introduce a novel specialized transformer architecture to analyze single-neuron spiking activity. The model is tested on multi-electrode recordings from the dorsal premotor cortex of non-human primates performing a motor inhibition task.<i>Main results</i>. The proposed architecture provides an early prediction of the correct movement direction, achieving accurate results no later than 230 ms after the Go signal presentation across animals. Additionally, the model can forecast whether the movement will be generated or withheld before a stop signal, unattended, is actually presented. To further understand the internal dynamics of the model, we compute the predicted correlations between time steps and between neurons at successive layers of the architecture, with the evolution of these correlations mirrors findings from previous theoretical analyses.<i>Significance</i>. Overall, our framework provides a comprehensive use case for the practical implementation of deep learning tools in motor control research, highlighting both the predictive capabilities and interpretability of the proposed architecture.",
+  "authors": [
+    "Candelori Benedetta",
+    "Bardella Giampiero",
+    "Spinelli Indro",
+    "Ramawat Surabhi",
+    "Pani Pierpaolo",
+    "Ferraina Stefano",
+    "Scardapane Simone"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2025",
+  "doi": "10.1088/1741-2552/adaef0",
+  "mesh": [
+    "Animals",
+    "Motor Cortex",
+    "Movement",
+    "Macaca mulatta",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Action Potentials",
+    "Male",
+    "Psychomotor Performance",
+    "Spatio-Temporal Analysis",
+    "Models, Neurological"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "1556602",
+  "title": "Visuomotor transformations underlying arm movements toward visual targets: a neural network model of cerebral cortical operations.",
+  "abstract": "We propose a biologically realistic neural network that computes coordinate transformations for the command of arm reaching movements in 3-D space. This model is consistent with anatomical and physiological data on the cortical areas involved in the command of these movements. Studies of the neuronal activity in the motor (Georgopoulos et al., 1986; Schwartz et al., 1988; Caminiti et al., 1990a) and premotor (Caminiti et al., 1990b, 1991) cortices of behaving monkeys have shown that the activity of individual arm-related neurons is broadly tuned around a preferred direction of movements in 3-D space. Recent data demonstrate that in both frontal areas (Caminiti et al., 1990a,b, 1991) these cell preferred directions rotate with the initial position of the arm. Furthermore, the rotation of the population of preferred directions precisely corresponds to the rotation of the arm in space. The neural network model computes the motor command by combining the visual information about movement trajectory with the kinesthetic information concerning the orientation of the arm in space. The appropriate combination, learned by the network from spontaneous movement, can be approximated by a bilinear operation that can be interpreted as a projection of the visual information on a reference frame that rotates with the arm. This bilinear combination implies that neural circuits converging on a single neuron in the motor and premotor cortices can learn and generalize the appropriate command in a 2-D subspace but not in the whole 3-D space. However, the uniform distribution of cell preferred directions in these frontal areas can explain the computation of the correct solution by a population of cortical neurons. The model is consistent with the existing neurophysiological data and predicts how visual and somatic information can be combined in the different processing steps of the visuomotor transformation subserving visual reaching.",
+  "authors": [
+    "Burnod Y",
+    "Grandguillaume P",
+    "Otto I",
+    "Ferraina S",
+    "Johnson P B",
+    "Caminiti R"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1992",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Arm",
+    "Cerebral Cortex",
+    "Models, Neurological",
+    "Movement",
+    "Nerve Net",
+    "Neurons",
+    "Psychomotor Performance"
+  ]
+}

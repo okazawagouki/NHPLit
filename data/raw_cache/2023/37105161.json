@@ -1,0 +1,27 @@
+{
+  "pmid": "37105161",
+  "title": "3D printed guide tube system for acute Neuropixels probe recordings in non-human primates.",
+  "abstract": "<i>Objective.</i>Neuropixels (NP) probes are a significant advance in electrophysiological recording technology that enable monitoring of hundreds of neurons in the brain simultaneously at different depths. Application of this technology has been predominately in rodents, however widespread use in non-human primates (NHPs) such as rhesus macaques has been limited. In this study we sought to overcome two overarching challenges that impede acute NP implantation in NHPs: (1) traditional microdrive systems that mount to cephalic chambers are commonly used to access cortical areas for microelectrode recordings but are not designed to accommodate NP probes, and (2) NHPs have thick dura mater and tissue growth within the cephalic chambers which poses a challenge for insertion of the extremely fragile NP probe.<i>Approach.</i>In this study we present a novel NP guide tube system that can be adapted to commercial microdrive systems and demonstrate an implant method using the NP guide tube system. This system was developed using a combination of CAD design, 3D printing, and small part machining. Software programs, 3D Slicer and SolidWorks were used to target cortical areas, approximate recording depths and locations, and for in-silico implant testing.<i>Main results.</i>We performed<i>in vivo</i>testing to validate our methodology, successfully implanting, explanting, and reimplanting NP probes. We collected stable neurophysiological recordings in the premotor cortex of a rhesus macaque at rest and during performance of a reaching task.<i>Significance.</i>In this study we demonstrate a robust Neuropixels implant system that allows multiple penetrations with the same NP probe and share design files that will facilitate the adoption of this powerful recording technology for NHP studies.",
+  "authors": [
+    "Bauer Devyn Lee",
+    "Pobiel Ben",
+    "Hilber Kathryn",
+    "Verma Ajay K",
+    "Wang Jing",
+    "Vitek Jerrold",
+    "Johnson Matthew",
+    "Johnson Luke"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2023",
+  "doi": "10.1088/1741-2552/acd0d7",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Brain",
+    "Microelectrodes",
+    "Neurons",
+    "Electrodes, Implanted",
+    "Printing, Three-Dimensional"
+  ]
+}

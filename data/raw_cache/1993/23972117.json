@@ -1,0 +1,14 @@
+{
+  "pmid": "23972117",
+  "title": "A Neural Network Model of Cortical Activity during Reaching.",
+  "abstract": "Abstract A neural network model that produces many of the directional and spatial response properties that have been observed for cortical neurons in monkeys moving toward targets in space is described. These include motor cortex units with broad tuning in a single preferred direction, approximately linear variation in activity for different hold positions, and approximate invariance in preferred direction for different starting points in space. Association cortex units in the model are sometimes irregular and reminiscent of neurons observed in visually responsive brain areas such as the posterior parietal cortex. The model is also compatible with population analyses performed on motor cortical neurons. Across network units, the distribution of preferred directions is uniformly distributed in directional space, and the degree of tuning and response magnitude vary from unit to unit. A population code used to predict accurately the direction of arm movements from a large population of coarsely tuned individual neurons allows predictions using a simulated population of unit responses obtained from the neural network model. This code works for different starting locations in space using the same parameters.",
+  "authors": [
+    "Kettner R",
+    "Marcario J",
+    "Port N"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "1993",
+  "doi": "10.1162/jocn.1993.5.1.14",
+  "mesh": []
+}

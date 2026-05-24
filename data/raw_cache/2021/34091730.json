@@ -1,0 +1,21 @@
+{
+  "pmid": "34091730",
+  "title": "Histology-driven model of the macaque motor hyperdirect pathway.",
+  "abstract": "Emerging appreciation for the hyperdirect pathway (HDP) as an important cortical glutamatergic input to the subthalamic nucleus (STN) has motivated a wide range of recent investigations on its role in motor control, as well as the mechanisms of subthalamic deep brain stimulation (DBS). However, the pathway anatomy and terminal arbor morphometry by which the HDP links cortical and subthalamic activity are incompletely understood. One critical hindrance to advancing understanding is the lack of anatomically detailed population models which can help explain how HDP pathway anatomy and neuronal biophysics give rise to spatiotemporal patterns of stimulus-response activity observed in vivo. Therefore, the goal of this study was to establish a population model of motor HDP axons through application of generative algorithms constrained by recent histology and imaging data. The products of this effort include a de novo macaque brain atlas, detailed statistical analysis of histological reconstructions of macaque motor HDP axons, and the generation of 10,000 morphometrically constrained synthetic motor HDP axons. The synthetic HDP axons exhibited a 3.8% mean error with respect to parametric distributions of the fiber target volume, total length, number of bifurcations, bifurcation angles, meander angles, and segment lengths measured in BDA-labeled HDP axon reconstructions. As such, this large population of synthetic motor HDP axons represents an anatomically based foundation for biophysical simulations that can be coupled to electrophysiological and/or behavioral measurements, with the goal of better understanding the role of the HDP in motor system activity.",
+  "authors": [
+    "Bingham Clayton S",
+    "Parent Martin",
+    "McIntyre Cameron C"
+  ],
+  "journal": "Brain structure & function",
+  "year": "2021",
+  "doi": "10.1007/s00429-021-02307-7",
+  "mesh": [
+    "Animals",
+    "Axons",
+    "Deep Brain Stimulation",
+    "Macaca",
+    "Neurons",
+    "Subthalamic Nucleus"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "41402937",
+  "title": "Comparative analysis of 105 datasets across species and tissues reveals differential transcriptomic responses to cannabinoids THC and CBD.",
+  "abstract": "BACKGROUND: Cannabis use is on the rise yet the systematic molecular impact of key cannabinoid components on various tissues in diverse organisms remains incompletely understood. We aim to systematically elucidate the molecular pathways and networks affected by delta-9-tetrahydrocannabinol (THC) and cannabidiol (CBD) across species and tissue types. METHODS: We curated 105 THC- and CBD-related RNA sequencing (RNAseq) and microarray datasets from Gene Expression Omnibus (NCBI GEO) with a focus on mammalian species (human, non-human primate rhesus macaque, mouse, rat). Differentially expressed genes (DEGs) were identified using limma for microarrays and DESeq2 for RNAseq data, followed by a meta analysis to identify meta-DEGs. DEGs were analyzed for pathway enrichment using EnrichR, network regulation using Mergeomics key driver analysis, and disease associations using Mergeomics Marker Set Enrichment Analysis. Comparative analyses were conducted across compounds, datasets, species, and tissues. RESULTS: CBD datasets demonstrated more DEGs and enriched pathways across species and experimental conditions compared to THC. CBD datasets clustered more tightly by route of administration and species and were more frequently enriched for pathways related to zinc homeostasis, inflammation suppression, and cell cycle regulation. In contrast, THC signatures were more heterogeneous and did not exhibit consistent clustering, although consistently altered genes associated with antioxidant activity, neuronal myelination, synaptic signaling, and transcriptional regulation were identified across datasets. THC altered endocannabinoid signaling genes more often in brain tissues, while CBD affected this pathway more heavily in both central and peripheral tissues. Disease enrichment analyses revealed significant associations of CBD DEGs with lipid metabolism and body composition traits, while DEGs of both compounds showed links to neuropsychiatric disorders and type 2 diabetes. CONCLUSIONS: THC and CBD demonstrated distinct and largely non-overlapping transcriptomic responses, with CBD showing more coherent molecular effects across datasets. Our results underscore the potential therapeutic relevance of CBD to metabolic and psychiatric regulation, highlight the context-dependency of THC's molecular actions, and offer molecular insights into the therapeutic and side effects of cannabinoids.",
+  "authors": [
+    "Liu Ruoshui",
+    "Kowal Thomas",
+    "Chow Caden",
+    "Olson Tyler",
+    "Nguyen Emily",
+    "Yang Sen",
+    "Lee Jimin",
+    "Cai Hua",
+    "Yang Xia",
+    "Blencowe Montgomery"
+  ],
+  "journal": "Journal of cannabis research",
+  "year": "2025",
+  "doi": "10.1186/s42238-025-00361-0",
+  "mesh": []
+}

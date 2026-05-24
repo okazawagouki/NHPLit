@@ -1,0 +1,31 @@
+{
+  "pmid": "28602817",
+  "title": "On memories, neural ensembles and mental flexibility.",
+  "abstract": "Memories are assumed to be represented by groups of co-activated neurons, called neural ensembles. Describing ensembles is a challenge: complexity of the underlying micro-circuitry is immense. Current approaches use a piecemeal fashion, focusing on single neurons and employing local measures like pairwise correlations. We introduce an alternative approach that identifies ensembles and describes the effective connectivity between them in a holistic fashion. It also links the oscillatory frequencies observed in ensembles with the spatial scales at which activity is expressed. Using unsupervised learning, biophysical modeling and graph theory, we analyze multi-electrode LFPs from frontal cortex during a spatial delayed response task. We find distinct ensembles for different cues and more parsimonious connectivity for cues on the horizontal axis, which may explain the oblique effect in psychophysics. Our approach paves the way for biophysical models with learned parameters that can guide future Brain Computer Interface development.",
+  "authors": [
+    "Pinotsis Dimitris A",
+    "Brincat Scott L",
+    "Miller Earl K"
+  ],
+  "journal": "NeuroImage",
+  "year": "2017",
+  "doi": "10.1016/j.neuroimage.2017.05.068",
+  "mesh": [
+    "Animals",
+    "Biophysics",
+    "Brain Waves",
+    "Cues",
+    "Electrocorticography",
+    "Frontal Lobe",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Male",
+    "Memory, Short-Term",
+    "Models, Theoretical",
+    "Nerve Net",
+    "Saccades",
+    "Space Perception",
+    "Unsupervised Machine Learning",
+    "Visual Perception"
+  ]
+}

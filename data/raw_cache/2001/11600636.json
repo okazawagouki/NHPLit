@@ -1,0 +1,30 @@
+{
+  "pmid": "11600636",
+  "title": "Change in neuronal firing patterns in the process of motor command generation for the ocular following response.",
+  "abstract": "To explore the process of motor command generation for the ocular following response, we recorded the activity of single neurons in the medial superior temporal (MST) area of the cortex, the dorsolateral pontine nucleus (DLPN), and the ventral paraflocculus (VPFL) of the cerebellum of alert monkeys during ocular following elicited by sudden movements of a large-field pattern. Using second-order linear-regression models, we analyzed the quantitative relationships between neuronal firing frequency patterns and eye movements or retinal errors specified by three parameters (position, velocity, and acceleration). We first attempted to reconstruct the temporal waveform of each neuronal response to each visual stimulus and computed the coefficients for each parameter using the least-square error method for each stimulus condition. The temporal firing patterns were generally well reconstructed [coefficient of determination index (CD) > 0.7] from either the retinal error or the associated ocular following response. In the MST and DLPN datasets, however, the fit with the retinal error model was generally better than with the eye-movement model, and the estimated coefficients of acceleration and velocity ranged widely, indicating that temporal patterns in these regions showed considerable diversity. The acceleration component is greater in MST and DLPN than in VPFL, suggesting that an integration occurs in this pathway. When we determined how well the temporal patterns of the neuronal responses of a given cell could be reconstructed for all visual stimuli using a single set of coefficients, good fits were found only for Purkinje cells (P- cells) in the VPFL using the eye-movement model. In these cases, the coefficients of acceleration and velocity for each cell were similar, and the mean ratio of the acceleration and velocity coefficients was close to that of motor neurons. These results indicate that individual MST and DLPN neurons are each encoding some selective aspects of the sensory stimulus (visual motion), whereas the P-cells in VPFL are encoding the complete dynamic command signals for the associated motor response (ocular following). We conclude that the sensory-to-motor transformation for the ocular following response occurs at the P-cells in VPFL.",
+  "authors": [
+    "Takemura A",
+    "Inoue Y",
+    "Gomi H",
+    "Kawato M",
+    "Kawano K"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cerebellum",
+    "Electrophysiology",
+    "Eye Movements",
+    "Macaca",
+    "Models, Neurological",
+    "Motor Neurons",
+    "Neurons, Afferent",
+    "Photic Stimulation",
+    "Pons",
+    "Retina",
+    "Temporal Lobe",
+    "Visual Pathways"
+  ]
+}

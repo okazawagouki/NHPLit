@@ -1,0 +1,30 @@
+{
+  "pmid": "31130330",
+  "title": "Discrete Stepping and Nonlinear Ramping Dynamics Underlie Spiking Responses of LIP Neurons during Decision-Making.",
+  "abstract": "Neurons in LIP exhibit ramping trial-averaged responses during decision-making. Recent work sparked debate over whether single-trial LIP spike trains are better described by discrete \"stepping\" or continuous \"ramping\" dynamics. We extended latent dynamical spike train models and used Bayesian model comparison to address this controversy. First, we incorporated non-Poisson spiking into both models and found that more neurons were better described by stepping than ramping, even when conditioned on evidence or choice. Second, we extended the ramping model to include a non-zero baseline and compressive output nonlinearity. This model accounted for roughly as many neurons as the stepping model. However, latent dynamics inferred under this model exhibited high diffusion variance for many neurons, softening the distinction between continuous and discrete dynamics. Results generalized to additional datasets, demonstrating that substantial fractions of neurons are well described by either stepping or nonlinear ramping, which may be less categorically distinct than the original labels implied.",
+  "authors": [
+    "Zoltowski David M",
+    "Latimer Kenneth W",
+    "Yates Jacob L",
+    "Huk Alexander C",
+    "Pillow Jonathan W"
+  ],
+  "journal": "Neuron",
+  "year": "2019",
+  "doi": "10.1016/j.neuron.2019.04.031",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Bayes Theorem",
+    "Choice Behavior",
+    "Decision Making",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Parietal Lobe",
+    "Saccades"
+  ]
+}

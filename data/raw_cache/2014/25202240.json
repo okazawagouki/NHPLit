@@ -1,0 +1,14 @@
+{
+  "pmid": "25202240",
+  "title": "Marginally subcritical dynamics explain enhanced stimulus discriminability under attention.",
+  "abstract": "Recent experimental and theoretical work has established the hypothesis that cortical neurons operate close to a critical state which describes a phase transition from chaotic to ordered dynamics. Critical dynamics are suggested to optimize several aspects of neuronal information processing. However, although critical dynamics have been demonstrated in recordings of spontaneously active cortical neurons, little is known about how these dynamics are affected by task-dependent changes in neuronal activity when the cortex is engaged in stimulus processing. Here we explore this question in the context of cortical information processing modulated by selective visual attention. In particular, we focus on recent findings that local field potentials (LFPs) in macaque area V4 demonstrate an increase in γ-band synchrony and a simultaneous enhancement of object representation with attention. We reproduce these results using a model of integrate-and-fire neurons where attention increases synchrony by enhancing the efficacy of recurrent interactions. In the phase space spanned by excitatory and inhibitory coupling strengths, we identify critical points and regions of enhanced discriminability. Furthermore, we quantify encoding capacity using information entropy. We find a rapid enhancement of stimulus discriminability with the emergence of synchrony in the network. Strikingly, only a narrow region in the phase space, at the transition from subcritical to supercritical dynamics, supports the experimentally observed discriminability increase. At the supercritical border of this transition region, information entropy decreases drastically as synchrony sets in. At the subcritical border, entropy is maximized under the assumption of a coarse observation scale. Our results suggest that cortical networks operate at such near-critical states, allowing minimal attentional modulations of network excitability to substantially augment stimulus representation in the LFPs.",
+  "authors": [
+    "Tomen Nergis",
+    "Rotermund David",
+    "Ernst Udo"
+  ],
+  "journal": "Frontiers in systems neuroscience",
+  "year": "2014",
+  "doi": "10.3389/fnsys.2014.00151",
+  "mesh": []
+}

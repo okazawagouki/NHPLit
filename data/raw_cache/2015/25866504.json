@@ -1,0 +1,24 @@
+{
+  "pmid": "25866504",
+  "title": "Kernel temporal differences for neural decoding.",
+  "abstract": "We study the feasibility and capability of the kernel temporal difference (KTD)(λ) algorithm for neural decoding. KTD(λ) is an online, kernel-based learning algorithm, which has been introduced to estimate value functions in reinforcement learning. This algorithm combines kernel-based representations with the temporal difference approach to learning. One of our key observations is that by using strictly positive definite kernels, algorithm's convergence can be guaranteed for policy evaluation. The algorithm's nonlinear functional approximation capabilities are shown in both simulations of policy evaluation and neural decoding problems (policy improvement). KTD can handle high-dimensional neural states containing spatial-temporal information at a reasonable computational complexity allowing real-time applications. When the algorithm seeks a proper mapping between a monkey's neural states and desired positions of a computer cursor or a robot arm, in both open-loop and closed-loop experiments, it can effectively learn the neural state to action mapping. Finally, a visualization of the coadaptation process between the decoder and the subject shows the algorithm's capabilities in reinforcement learning brain machine interfaces.",
+  "authors": [
+    "Bae Jihye",
+    "Sanchez Giraldo Luis G",
+    "Pohlmeyer Eric A",
+    "Francis Joseph T",
+    "Sanchez Justin C",
+    "Príncipe José C"
+  ],
+  "journal": "Computational intelligence and neuroscience",
+  "year": "2015",
+  "doi": "10.1155/2015/481375",
+  "mesh": [
+    "Algorithms",
+    "Artificial Intelligence",
+    "Brain-Computer Interfaces",
+    "Computer Simulation",
+    "Models, Neurological",
+    "Reinforcement, Psychology"
+  ]
+}

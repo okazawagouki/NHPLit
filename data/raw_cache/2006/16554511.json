@@ -1,0 +1,30 @@
+{
+  "pmid": "16554511",
+  "title": "Measurement of time-dependent changes in the irregularity of neural spiking.",
+  "abstract": "Irregularity of firing in spike trains has been associated with coding processes and information transfer or alternatively treated as noise. Previous studies of irregularity have mainly used the coefficient of variation (CV) of the interspike interval distribution. Proper estimation of CV requires a constant underlying firing rate, a condition that most experimental situations do not fulfill either within or across trials. Here we introduce a novel irregularity metric based on the ratio of adjacent intervals in the spike train. The new metric is not affected by firing rate and is very localized in time so that it can be used to examine the time course of irregularity relative to an alignment marker. We characterized properties of the new metric with simulated spike trains of known characteristics and then applied it to data recorded from 108 single neurons in the motor cortex of two monkeys during performance of a precision grip task. Fifty-six cells were antidromically identified as pyramidal tract neurons (PTNs). Sixty-one cells (30 PTNs) exhibited significant temporal modulation of their irregularity during task performance with the contralateral hand. The irregularity modulations generally differed in sign and latency from the modulations of firing rate. High irregularity tended to occur during the task phases requiring the most detailed control of movement, whereas neural firing became more regular during the steady hold phase. Such irregularity modulation could have important consequences for the response of downstream neurons and may provide insight into the nature of the cortical code.",
+  "authors": [
+    "Davies Ronnie M",
+    "Gerstein George L",
+    "Baker Stuart N"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Behavior, Animal",
+    "Data Interpretation, Statistical",
+    "Electrodes, Implanted",
+    "Electrophysiology",
+    "Female",
+    "Functional Laterality",
+    "Hand Strength",
+    "Macaca",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neurons",
+    "Psychomotor Performance",
+    "Time Factors"
+  ]
+}

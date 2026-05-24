@@ -1,0 +1,27 @@
+{
+  "pmid": "16371452",
+  "title": "Dynamic ensemble coding of saccades in the monkey superior colliculus.",
+  "abstract": "The deeper layers of the midbrain superior colliculus (SC) contain a topographic motor map in which a localized population of cells is recruited for each saccade, but how the brain stem decodes the dynamic SC output is unclear. Here we analyze saccade-related responses in the monkey SC to test a new dynamic ensemble-coding model, which proposes that each spike from each saccade-related SC neuron adds a fixed, site-specific contribution to the intended eye movement command. As predicted by this simple theory, we found that the cumulative number of spikes in the cell bursts is tightly related to the displacement of the eye along the ideal straight trajectory, both for normal saccades and for strongly curved, blink-perturbed saccades toward a single visual target. This dynamic relation depends systematically on the metrics of the saccade displacement vector, and can be fully predicted from a quantitative description of the cell's classical movement field. Furthermore, we show that a linear feedback model of the brain stem, which is driven by dynamic linear vector summation of measured SC firing patterns, produces realistic two-dimensional (2D) saccade trajectories and kinematics. We conclude that the SC may act as a nonlinear, vectorial saccade generator that programs an optimal straight eye-movement trajectory.",
+  "authors": [
+    "Goossens H H L M",
+    "Van Opstal A J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Behavior, Animal",
+    "Blinking",
+    "Eye Movements",
+    "Macaca mulatta",
+    "Mathematics",
+    "Models, Neurological",
+    "Neurons, Afferent",
+    "Saccades",
+    "Superior Colliculi",
+    "Visual Fields",
+    "Visual Perception"
+  ]
+}

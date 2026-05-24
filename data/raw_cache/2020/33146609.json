@@ -1,0 +1,27 @@
+{
+  "pmid": "33146609",
+  "title": "Reconstruction of natural images from responses of primate retinal ganglion cells.",
+  "abstract": "The visual message conveyed by a retinal ganglion cell (RGC) is often summarized by its spatial receptive field, but in principle also depends on the responses of other RGCs and natural image statistics. This possibility was explored by linear reconstruction of natural images from responses of the four numerically-dominant macaque RGC types. Reconstructions were highly consistent across retinas. The optimal reconstruction filter for each RGC - its visual message - reflected natural image statistics, and resembled the receptive field only when nearby, same-type cells were included. ON and OFF cells conveyed largely independent, complementary representations, and parasol and midget cells conveyed distinct features. Correlated activity and nonlinearities had statistically significant but minor effects on reconstruction. Simulated reconstructions, using linear-nonlinear cascade models of RGC light responses that incorporated measured spatial properties and nonlinearities, produced similar results. Spatiotemporal reconstructions exhibited similar spatial properties, suggesting that the results are relevant for natural vision.",
+  "authors": [
+    "Brackbill Nora",
+    "Rhoades Colleen",
+    "Kling Alexandra",
+    "Shah Nishal P",
+    "Sher Alexander",
+    "Litke Alan M",
+    "Chichilnisky E J"
+  ],
+  "journal": "eLife",
+  "year": "2020",
+  "doi": "10.7554/eLife.58516",
+  "mesh": [
+    "Animals",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Photic Stimulation",
+    "Retina",
+    "Retinal Ganglion Cells",
+    "Vision, Ocular"
+  ]
+}

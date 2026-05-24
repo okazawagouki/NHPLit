@@ -1,0 +1,32 @@
+{
+  "pmid": "14741107",
+  "title": "Dopamine neurons can represent context-dependent prediction error.",
+  "abstract": "Midbrain dopamine (DA) neurons are thought to encode reward prediction error. Reward prediction can be improved if any relevant context is taken into account. We found that monkey DA neurons can encode a context-dependent prediction error. In the first noncontextual task, a light stimulus was randomly followed by reward, with a fixed equal probability. The response of DA neurons was positively correlated with the number of preceding unrewarded trials and could be simulated by a conventional temporal difference (TD) model. In the second contextual task, a reward-indicating light stimulus was presented with the probability that, while fixed overall, was incremented as a function of the number of preceding unrewarded trials. The DA neuronal response then was negatively correlated with this number. This history effect corresponded to the prediction error based on the conditional probability of reward and could be simulated only by implementing the relevant context into the TD model.",
+  "authors": [
+    "Nakahara Hiroyuki",
+    "Itoh Hideaki",
+    "Kawagoe Reiko",
+    "Takikawa Yoriko",
+    "Hikosaka Okihide"
+  ],
+  "journal": "Neuron",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Conditioning, Classical",
+    "Conditioning, Operant",
+    "Cues",
+    "Dopamine",
+    "Eye Movements",
+    "Light",
+    "Macaca",
+    "Male",
+    "Mesencephalon",
+    "Models, Neurological",
+    "Neurons",
+    "Reinforcement Schedule",
+    "Reward"
+  ]
+}

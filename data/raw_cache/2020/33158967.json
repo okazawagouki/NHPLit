@@ -1,0 +1,26 @@
+{
+  "pmid": "33158967",
+  "title": "Visual Stimulus Content in V4 Is Conveyed by Gamma-Rhythmic Information Packages.",
+  "abstract": "Selective visual attention allows the brain to focus on behaviorally relevant information while ignoring irrelevant signals. As a possible mechanism, routing-by-synchronization was proposed: neural populations receiving attended signals align their gamma-rhythmic activity to that of the sending populations, such that incoming spikes arrive at excitability peaks of receiving populations, enhancing signal transfer. Conversely, non-attended signals arrive unaligned to the receiver's oscillation, reducing signal transfer. Therefore, visual signals should be transferred through gamma-rhythmic bursts of information, resulting in a modulation of the stimulus content within the receiving population's activity by its gamma phase and amplitude. To test this prediction, we quantified gamma-phase-dependent stimulus content within neural activity from area V4 of two male macaques performing a visual attention task. For the attended stimulus, we find highest stimulus information content near excitability peaks, an effect that increases with oscillation amplitude, establishing a functional link between selective processing and gamma-activity.<b>SIGNIFICANCE STATEMENT</b> The ability to focus on the behaviorally relevant signals is essential for the brain to cope with the continuous, high-dimensional stream of sensory information it receives. What are the neural mechanisms which allow such selective processing in the visual system? We analyzed data from area V4 and found that the amount of visual signal information content is tightly linked to the phase of local gamma-rhythmic activity, with maximal signal content occurring near peaks of neural excitability. Our investigations provide direct evidence that selective attention relies on rhythmic temporal coordination between visual areas, and establish novel methods for pinpointing pulsed transmission schemes in neural data.",
+  "authors": [
+    "Lisitsyn Dmitriy",
+    "Grothe Iris",
+    "Kreiter Andreas K",
+    "Ernst Udo A"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2020",
+  "doi": "10.1523/JNEUROSCI.0689-20.2020",
+  "mesh": [
+    "Animals",
+    "Evoked Potentials, Visual",
+    "Gamma Rhythm",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

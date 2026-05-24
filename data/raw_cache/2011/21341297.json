@@ -1,0 +1,22 @@
+{
+  "pmid": "21341297",
+  "title": "Comparison of two populations of curves with an application in neuronal data analysis.",
+  "abstract": "Often in neurophysiological studies, scientists are interested in testing hypotheses regarding the equality of the overall intensity functions of a group of neurons when recorded under two different experimental conditions. In this paper, we consider such a hypothesis testing problem. We propose two test statistics: a parametric test similar to the modified Hotelling's T2 statistic of Behseta and Kass (Statist. Med. 2005; 24:3523–3534), as well as a nonparametric one similar to the spatial signed-rank test statistic of Möttönen and Oja (J. Nonparametric Statist. 1995; 5:201–213). We implement these tests on smooth curves obtained via fitting Bayesian Adaptive Regression Splines (BARS) to the intensity functions of neuronal Peri-Stimulus Time Histograms. Through simulation, we show that the powers of our proposed tests are extremely high even when the number of sampled neurons and the number of trials per neuron are small. Finally, we apply our methods on a group of motor cortex neurons recorded during a reaching task.",
+  "authors": [
+    "Behseta Sam",
+    "Chenouri Shojaeddin"
+  ],
+  "journal": "Statistics in medicine",
+  "year": "2011",
+  "doi": "10.1002/sim.4192",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Bayes Theorem",
+    "Computer Simulation",
+    "Data Interpretation, Statistical",
+    "Macaca",
+    "Motor Neurons",
+    "Photic Stimulation"
+  ]
+}

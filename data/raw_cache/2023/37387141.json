@@ -1,0 +1,24 @@
+{
+  "pmid": "37387141",
+  "title": "Cell type matching across species using protein embeddings and transfer learning.",
+  "abstract": "MOTIVATION: Knowing the relation between cell types is crucial for translating experimental results from mice to humans. Establishing cell type matches, however, is hindered by the biological differences between the species. A substantial amount of evolutionary information between genes that could be used to align the species is discarded by most of the current methods since they only use one-to-one orthologous genes. Some methods try to retain the information by explicitly including the relation between genes, however, not without caveats. RESULTS: In this work, we present a model to transfer and align cell types in cross-species analysis (TACTiCS). First, TACTiCS uses a natural language processing model to match genes using their protein sequences. Next, TACTiCS employs a neural network to classify cell types within a species. Afterward, TACTiCS uses transfer learning to propagate cell type labels between species. We applied TACTiCS on scRNA-seq data of the primary motor cortex of human, mouse, and marmoset. Our model can accurately match and align cell types on these datasets. Moreover, our model outperforms Seurat and the state-of-the-art method SAMap. Finally, we show that our gene matching method results in better cell type matches than BLAST in our model. AVAILABILITY AND IMPLEMENTATION: The implementation is available on GitHub (https://github.com/kbiharie/TACTiCS). The preprocessed datasets and trained models can be downloaded from Zenodo (https://doi.org/10.5281/zenodo.7582460).",
+  "authors": [
+    "Biharie Kirti",
+    "Michielsen Lieke",
+    "Reinders Marcel J T",
+    "Mahfouz Ahmed"
+  ],
+  "journal": "Bioinformatics (Oxford, England)",
+  "year": "2023",
+  "doi": "10.1093/bioinformatics/btad248",
+  "mesh": [
+    "Humans",
+    "Animals",
+    "Mice",
+    "Amino Acid Sequence",
+    "Biological Evolution",
+    "Genetic Techniques",
+    "Natural Language Processing",
+    "Machine Learning"
+  ]
+}

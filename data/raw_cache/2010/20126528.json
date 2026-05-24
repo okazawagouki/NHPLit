@@ -1,0 +1,23 @@
+{
+  "pmid": "20126528",
+  "title": "Modeling magnification and anisotropy in the primate foveal confluence.",
+  "abstract": "A basic organizational principle of the primate visual system is that it maps the visual environment repeatedly and retinotopically onto cortex. Simple algebraic models can be used to describe the projection from visual space to cortical space not only for V1, but also for the complex of areas V1, V2 and V3. Typically a conformal (angle-preserving) projection ensuring local isotropy is regarded as ideal and primate visual cortex is often regarded as an approximation of this ideal. However, empirical data show systematic deviations from this ideal that are especially relevant in the foveal projection. The aims of this study were to map the nature of anisotropy predicted by existing models, to investigate the optimization targets faced by different types of retino-cortical maps, and finally to propose a novel map that better models empirical data than other candidates. The retino-cortical map can be optimized towards a space-conserving homogenous representation or a quasi-conformal mapping. The latter would require a significantly enlarged representation of specific parts of the cortical maps. In particular it would require significant enlargement of parafoveal V2 and V3 which is not supported by empirical data. Further, the recently published principal layout of the foveal singularity cannot be explained by existing models. We suggest a new model that accurately describes foveal data, minimizing cortical surface area in the periphery but suggesting that local isotropy dominates the most foveal part at the expense of additional cortical surface. The foveal confluence is an important example of the detailed trade-offs between the compromises required for the mapping of environmental space to a complex of neighboring cortical areas. Our models demonstrate that the organization follows clear morphogenetic principles that are essential for our understanding of foveal vision in daily life.",
+  "authors": [
+    "Schira Mark M",
+    "Tyler Christopher W",
+    "Spehar Branka",
+    "Breakspear Michael"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2010",
+  "doi": "10.1371/journal.pcbi.1000651",
+  "mesh": [
+    "Algorithms",
+    "Anisotropy",
+    "Fovea Centralis",
+    "Humans",
+    "Models, Neurological",
+    "Retina",
+    "Visual Cortex"
+  ]
+}

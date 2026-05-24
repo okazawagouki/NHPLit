@@ -1,0 +1,14 @@
+{
+  "pmid": "27047352",
+  "title": "A Probabilistic Approach to Receptive Field Mapping in the Frontal Eye Fields.",
+  "abstract": "Studies of the neuronal mechanisms of perisaccadic vision often lack the resolution needed to determine important changes in receptive field (RF) structure. Such limited analytical power can lead to inaccurate descriptions of visuomotor processing. To address this issue, we developed a precise, probabilistic technique that uses a generalized linear model (GLM) for mapping the visual RFs of frontal eye field (FEF) neurons during stable fixation (Mayo et al., 2015). We previously found that full-field RF maps could be obtained using 1-8 dot stimuli presented at frame rates of 10-150 ms. FEF responses were generally robust to changes in the number of stimuli presented or the rate of presentation, which allowed us to visualize RFs over a range of spatial and temporal resolutions. Here, we compare the quality of RFs obtained over different stimulus and GLM parameters to facilitate future work on the detailed mapping of FEF RFs. We first evaluate the interactions between the number of stimuli presented per trial, the total number of trials, and the quality of RF mapping. Next, we vary the spatial resolution of our approach to illustrate the tradeoff between visualizing RF sub-structure and sampling at high resolutions. We then evaluate local smoothing as a possible correction for situations where under-sampling occurs. Finally, we provide a preliminary demonstration of the usefulness of a probabilistic approach for visualizing full-field perisaccadic RF shifts. Our results present a powerful, and perhaps necessary, framework for studying perisaccadic vision that is applicable to FEF and possibly other visuomotor regions of the brain.",
+  "authors": [
+    "Mayo J Patrick",
+    "Morrison Robert M",
+    "Smith Matthew A"
+  ],
+  "journal": "Frontiers in systems neuroscience",
+  "year": "2016",
+  "doi": "10.3389/fnsys.2016.00025",
+  "mesh": []
+}

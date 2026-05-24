@@ -1,0 +1,20 @@
+{
+  "pmid": "17229111",
+  "title": "Evidence for time-variant decision making.",
+  "abstract": "Computational models based on diffusion processes have been proposed to account for human decision-making behaviour in a variety of tasks. The basic idea is that the brain keeps accumulating noisy sensory evidence until a critical level is reached. This study explores whether such models account for the speed and accuracy of perceptual decisions in a reaction-time random dot motion direction discrimination task, and whether they explain the decision-related activity of neurons recorded from the parietal cortex (area LIP) of monkeys performing the task. While a simple diffusion model can explain the psychometric function and the mean response times of correct responses, it fails to account for the longer response times observed for errors and for the response time distributions. Here I demonstrate that a time-variant version of the diffusion model can explain the psychometric function, the mean response times and the shape of the response time distributions. Such a time-variant mechanism could be implemented in different ways, but the best match between the physiological data and model predictions is provided by a diffusion process with a gain of the sensory signals, which increases over time. It can be shown that such a time-variant decision process allows the monkey to perform optimally (in the sense of maximizing reward rate) given the risk of aborting a trial by breaking fixation before a choice can be reported. The results suggest that the brain trades off speed and accuracy not only by adjusting parameters between trials but also by dynamic adjustments during an ongoing decision.",
+  "authors": [
+    "Ditterich Jochen"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Decision Making",
+    "Discrimination, Psychological",
+    "Humans",
+    "Models, Neurological",
+    "Models, Psychological",
+    "Reaction Time",
+    "Time Factors"
+  ]
+}

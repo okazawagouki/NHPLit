@@ -1,0 +1,31 @@
+{
+  "pmid": "23131803",
+  "title": "Developmental origin of patchy axonal connectivity in the neocortex: a computational model.",
+  "abstract": "Injections of neural tracers into many mammalian neocortical areas reveal a common patchy motif of clustered axonal projections. We studied in simulation a mathematical model for neuronal development in order to investigate how this patchy connectivity could arise in layer II/III of the neocortex. In our model, individual neurons of this layer expressed the activator-inhibitor components of a Gierer-Meinhardt reaction-diffusion system. The resultant steady-state reaction-diffusion pattern across the neuronal population was approximately hexagonal. Growth cones at the tips of extending axons used the various morphogens secreted by intrapatch neurons as guidance cues to direct their growth and invoke axonal arborization, so yielding a patchy distribution of arborization across the entire layer II/III. We found that adjustment of a single parameter yields the intriguing linear relationship between average patch diameter and interpatch spacing that has been observed experimentally over many cortical areas and species. We conclude that a simple Gierer-Meinhardt system expressed by the neurons of the developing neocortex is sufficient to explain the patterns of clustered connectivity observed experimentally.",
+  "authors": [
+    "Bauer Roman",
+    "Zubler Frederic",
+    "Hauri Andreas",
+    "Muir Dylan R",
+    "Douglas Rodney J"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2014",
+  "doi": "10.1093/cercor/bhs327",
+  "mesh": [
+    "Animals",
+    "Axons",
+    "Cats",
+    "Computer Simulation",
+    "Diffusion",
+    "Growth Cones",
+    "Linear Models",
+    "Macaca",
+    "Models, Neurological",
+    "Neocortex",
+    "Neural Pathways",
+    "Neural Stem Cells",
+    "Neurons",
+    "Species Specificity"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "21697374",
+  "title": "A model of interval timing by neural integration.",
+  "abstract": "We show that simple assumptions about neural processing lead to a model of interval timing as a temporal integration process, in which a noisy firing-rate representation of time rises linearly on average toward a response threshold over the course of an interval. Our assumptions include: that neural spike trains are approximately independent Poisson processes, that correlations among them can be largely cancelled by balancing excitation and inhibition, that neural populations can act as integrators, and that the objective of timed behavior is maximal accuracy and minimal variance. The model accounts for a variety of physiological and behavioral findings in rodents, monkeys, and humans, including ramping firing rates between the onset of reward-predicting cues and the receipt of delayed rewards, and universally scale-invariant response time distributions in interval timing tasks. It furthermore makes specific, well-supported predictions about the skewness of these distributions, a feature of timing data that is usually ignored. The model also incorporates a rapid (potentially one-shot) duration-learning procedure. Human behavioral data support the learning rule's predictions regarding learning speed in sequences of timed responses. These results suggest that simple, integration-based models should play as prominent a role in interval timing theory as they do in theories of perceptual decision making, and that a common neural mechanism may underlie both types of behavior.",
+  "authors": [
+    "Simen Patrick",
+    "Balci Fuat",
+    "de Souza Laura",
+    "Cohen Jonathan D",
+    "Holmes Philip"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2011",
+  "doi": "10.1523/JNEUROSCI.3121-10.2011",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Biological Clocks",
+    "Computer Simulation",
+    "Humans",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Synaptic Transmission",
+    "Time Factors"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "22078464",
+  "title": "Neural dynamics of saccadic and smooth pursuit eye movement coordination during visual tracking of unpredictably moving targets.",
+  "abstract": "How does the brain coordinate saccadic and smooth pursuit eye movements to track objects that move in unpredictable directions and speeds? Saccadic eye movements rapidly foveate peripheral visual or auditory targets, and smooth pursuit eye movements keep the fovea pointed toward an attended moving target. Analyses of tracking data in monkeys and humans reveal systematic deviations from predictions of the simplest model of saccade-pursuit interactions, which would use no interactions other than common target selection and recruitment of shared motoneurons. Instead, saccadic and smooth pursuit movements cooperate to cancel errors of gaze position and velocity, and thus to maximize target visibility through time. How are these two systems coordinated to promote visual localization and identification of moving targets? How are saccades calibrated to correctly foveate a target despite its continued motion during the saccade? The neural model proposed here answers these questions. Modeled interactions encompass motion processing areas MT, MST, FPA, DLPN and NRTP; saccade planning and execution areas FEF, LIP, and SC; the saccadic generator in the brain stem; and the cerebellum. Simulations illustrate the model's ability to functionally explain and quantitatively simulate anatomical, neurophysiological and behavioral data about coordinated saccade-pursuit tracking.",
+  "authors": [
+    "Grossberg Stephen",
+    "Srihasam Krishna",
+    "Bullock Daniel"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2012",
+  "doi": "10.1016/j.neunet.2011.10.011",
+  "mesh": [
+    "Brain",
+    "Computer Simulation",
+    "Eye Movements",
+    "Humans",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Pathways"
+  ]
+}

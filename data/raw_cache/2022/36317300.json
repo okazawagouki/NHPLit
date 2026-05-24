@@ -1,0 +1,24 @@
+{
+  "pmid": "36317300",
+  "title": "Detection and discrimination of electrical stimuli from an upper limb cuff electrode in<i>M. Mulatta</i>.",
+  "abstract": "<i>Objective.</i>Peripheral nerve interfaces seek to restore nervous system function through electrical stimulation of peripheral nerves. In clinical use, these devices should function reliably for years or decades. In this study, we assessed evoked sensations from multi-channel cuff electrode stimulation in macaque monkeys up to 711 d post-implantation.<i>Approach.</i>Three trained macaque monkeys received multi-channel cuff electrode implants at the median or ulnar nerves in the upper arm. Electrical stimuli from the cuff interfaces evoked sensations, which we measured via standard psychophysical tasks. We adjusted pulse amplitude or pulse width for each block with various electrode channel configurations to examine the effects of stimulus parameterization on sensation. We measured detection thresholds and just-noticeable differences (JNDs) at irregular, near-daily intervals for several months using Bayesian inferencing from trial data. We examined data trends using classical models such as Weber's Law and the strength-duration relationship using linear regression.<i>Main results.</i>Detection thresholds were similar between blocks with pulse width modulation and blocks with pulse amplitude modulation when represented as charge per pulse, the product of the amplitude and the pulse width. Conversely, Weber fractions-calculated as the slope of the regression between JND charge values and reference stimulus charge-were significantly different between pulse width and pulse amplitude modulation blocks for the discrimination task.<i>Significance.</i>Weber fractions were lower in blocks with amplitude modulation than in blocks with pulse width modulation, suggesting that pulse amplitude modulation allows finer resolution of sensory encoding above threshold. Consequently, amplitude modulation may enable a greater dynamic range for sensory perception with neuroprosthetic devices.",
+  "authors": [
+    "Schlichenmeyer T C",
+    "Zellmer E R",
+    "Burton H",
+    "Ray W Z",
+    "Moran D W"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2022",
+  "doi": "10.1088/1741-2552/ac9e76",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Differential Threshold",
+    "Electric Stimulation",
+    "Electrodes",
+    "Upper Extremity",
+    "Macaca"
+  ]
+}

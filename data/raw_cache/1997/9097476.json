@@ -1,0 +1,26 @@
+{
+  "pmid": "9097476",
+  "title": "Self-organization of firing activities in monkey's motor cortex: trajectory computation from spike signals.",
+  "abstract": "The population vector method has been developed to combine the simultaneous direction-related activities of a population of motor cortical neurons to predict the trajectory of the arm movement. In this article, we consider a self-organizing model of a neural representation of the arm trajectory based on neuronal discharge rates. As self-organizing feature map (SOFM) is used to select the optimal set of weights in the model to determine the contribution of an individual neuron to an overall movement representation. The correspondence between movement directions and discharge patterns of the motor cortical neurons is established in the output map. The topology-preserving property of the SOFM is used to analyze the recorded data of a behaving monkey. The data used in this analysis were taken while the monkey was tracing spirals and doing center-->out movements. The arm trajectory could be well predicted using such a statistical model based on the motor cortex neuronal firing information. The SOFM method is compared with the population vector method, which extracts information related to trajectory by assuming that each cell has a fixed preferred direction during the task. This implies that these cells are acting along lines labeled only for direction. However, extradirectional information is carried in these cell responses. The SOFM has the capability of extracting not only direction-related information but also other parameters that are consistently represented in the activity of the recorded population of cells.",
+  "authors": [
+    "Lin S",
+    "Si J",
+    "Schwartz A B"
+  ],
+  "journal": "Neural computation",
+  "year": "1997",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Conditioning, Operant",
+    "Electrophysiology",
+    "Evoked Potentials, Visual",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neurons",
+    "Psychomotor Performance",
+    "Visual Pathways"
+  ]
+}

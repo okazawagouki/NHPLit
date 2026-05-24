@@ -1,0 +1,13 @@
+{
+  "pmid": "23060788",
+  "title": "Recurrent competition explains temporal effects of attention in MSTd.",
+  "abstract": "Navigation in a static environment along straight paths without eye movements produces radial optic flow fields. A singularity called the focus of expansion (FoE) specifies the direction of travel (heading) of the observer. Cells in primate dorsal medial superior temporal area (MSTd) respond to radial fields and are therefore thought to be heading-sensitive. Humans frequently shift their focus of attention while navigating, for example, depending on the favorable or threatening context of approaching independently moving objects. Recent neurophysiological studies show that the spatial tuning curves of primate MSTd neurons change based on the difference in visual angle between an attentional prime and the FoE. Moreover, the peak mean population activity in MSTd retreats linearly in time as the distance between the attentional prime and FoE increases. We present a dynamical neural circuit model that demonstrates the same linear temporal peak shift observed electrophysiologically. The model qualitatively matches the neuron tuning curves and population activation profiles. After model MT dynamically pools short-range motion, model MSTd incorporates recurrent competition between units tuned to different radial optic flow templates, and integrates attentional signals from model area frontal eye fields (FEF). In the model, population activity peaks occur when the recurrent competition is most active and uncertainty is greatest about the relative position of the FoE. The nature of attention, multiplicative or non-multiplicative, is largely irrelevant, so long as attention has a Gaussian-like profile. Using an appropriately tuned sigmoidal signal function to modulate recurrent feedback affords qualitative fits of deflections in the population activity that otherwise appear to be low-frequency noise. We predict that these deflections mark changes in the balance of attention between the priming and FoE locations.",
+  "authors": [
+    "Layton Oliver W",
+    "Browning N Andrew"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2012",
+  "doi": "10.3389/fncom.2012.00080",
+  "mesh": []
+}

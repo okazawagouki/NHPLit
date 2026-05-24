@@ -1,0 +1,31 @@
+{
+  "pmid": "39168070",
+  "title": "Fusing multi-scale functional connectivity patterns via Multi-Branch Vision Transformer (MB-ViT) for macaque brain age prediction.",
+  "abstract": "Brain age (BA) is defined as a measure of brain maturity and could help characterize both the typical brain development and neuropsychiatric disorders in mammals. Various biological phenotypes have been successfully applied to predict BA of human using chronological age (CA) as label. However, whether the BA of macaque, one of the most important animal models, can also be reliably predicted is largely unknown. To address this question, we propose a novel deep learning model called Multi-Branch Vision Transformer (MB-ViT) to fuse multi-scale (i.e., from coarse-grained to fine-grained) brain functional connectivity (FC) patterns derived from resting state functional magnetic resonance imaging (rs-fMRI) data to predict BA of macaques. The discriminative functional connections and the related brain regions contributing to the prediction are further identified based on Gradient-weighted Class Activation Mapping (Grad-CAM) method. Our proposed model successfully predicts BA of 450 normal rhesus macaques from the publicly available PRIMatE Data Exchange (PRIME-DE) dataset with lower mean absolute error (MAE) and mean square error (MSE) as well as higher Pearson's correlation coefficient (PCC) and coefficient of determination (R<sup>2</sup>) compared to other baseline models. The correlation between the predicted BA and CA reaches as high as 0.82 of our proposed method. Furthermore, our analysis reveals that the functional connections predominantly contributing to the prediction results are situated in the primary motor cortex (M1), visual cortex, area v23 in the posterior cingulate cortex, and dysgranular temporal pole. In summary, our proposed deep learning model provides an effective tool to accurately predict BA of primates (macaque in this study), and lays a solid foundation for future studies of age-related brain diseases in those animal models.",
+  "authors": [
+    "Zhou Jingchao",
+    "Chen Yuzhong",
+    "Jin Xuewei",
+    "Mao Wei",
+    "Xiao Zhenxiang",
+    "Zhang Songyao",
+    "Zhang Tuo",
+    "Liu Tianming",
+    "Kendrick Keith",
+    "Jiang Xi"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2024",
+  "doi": "10.1016/j.neunet.2024.106592",
+  "mesh": [
+    "Animals",
+    "Magnetic Resonance Imaging",
+    "Brain",
+    "Deep Learning",
+    "Macaca mulatta",
+    "Aging",
+    "Neural Networks, Computer",
+    "Brain Mapping",
+    "Male"
+  ]
+}

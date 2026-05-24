@@ -1,0 +1,28 @@
+{
+  "pmid": "23366234",
+  "title": "Decoding grasp types with high frequency of local field potentials from primate primary dorsal premotor cortex.",
+  "abstract": "Recently, local field potentials (LFPs) have been successfully used to extract information of arm and hand movement in some brain-machine interfaces (BMIs) studies, which suggested that LFPs would improve the performance of BMI applications because of its long-term stability. However, the performance of LFPs in different frequency bands has not been investigated in decoding hand grasp types. Here, the LFPs from the monkey's dorsal premotor cortices were collected by microelectrode array when monkey was performing grip-specific grasp task. A K-nearest neighbor classifier performed on the power spectrum of LFPs was used to decode grasping movements. The decoding powers of LFPs in different frequency bands, channels and trials used for training were also studied. The results show that the broad high frequency band (200-400Hz) LFPs achieved the best performance with classification accuracy reaching over 0.9. It infers that high frequency band LFPs in PMd cortex could be a promising source of control signals in developing functional BMIs for hand grasping.",
+  "authors": [
+    "Li Yue",
+    "Hao Yaoyao",
+    "Wang Dong",
+    "Zhang Qiaosheng",
+    "Liao Yuxi",
+    "Zheng Xiaoxiang",
+    "Chen Weidong"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2012",
+  "doi": "10.1109/EMBC.2012.6346273",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Signal Processing, Computer-Assisted",
+    "Time Factors"
+  ]
+}

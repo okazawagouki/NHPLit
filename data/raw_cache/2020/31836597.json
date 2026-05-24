@@ -1,0 +1,24 @@
+{
+  "pmid": "31836597",
+  "title": "Optimized but Not Maximized Cue Integration for 3D Visual Perception.",
+  "abstract": "Reconstructing three-dimensional (3D) scenes from two-dimensional (2D) retinal images is an ill-posed problem. Despite this, 3D perception of the world based on 2D retinal images is seemingly accurate and precise. The integration of distinct visual cues is essential for robust 3D perception in humans, but it is unclear whether this is true for non-human primates (NHPs). Here, we assessed 3D perception in macaque monkeys using a planar surface orientation discrimination task. Perception was accurate across a wide range of spatial poses (orientations and distances), but precision was highly dependent on the plane's pose. The monkeys achieved robust 3D perception by dynamically reweighting the integration of stereoscopic and perspective cues according to their pose-dependent reliabilities. Errors in performance could be explained by a prior resembling the 3D orientation statistics of natural scenes. We used neural network simulations based on 3D orientation-selective neurons recorded from the same monkeys to assess how neural computation might constrain perception. The perceptual data were consistent with a model in which the responses of two independent neuronal populations representing stereoscopic cues and perspective cues (with perspective signals from the two eyes combined using nonlinear canonical computations) were optimally integrated through linear summation. Perception of combined-cue stimuli was optimal given this architecture. However, an alternative architecture in which stereoscopic cues, left eye perspective cues, and right eye perspective cues were represented by three independent populations yielded two times greater precision than the monkeys. This result suggests that, due to canonical computations, cue integration for 3D perception is optimized but not maximized.",
+  "authors": [
+    "Chang Ting-Yu",
+    "Thompson Lowell",
+    "Doudlah Raymond",
+    "Kim Byounghoon",
+    "Sunkara Adhira",
+    "Rosenberg Ari"
+  ],
+  "journal": "eNeuro",
+  "year": "2020",
+  "doi": "10.1523/ENEURO.0411-19.2019",
+  "mesh": [
+    "Cues",
+    "Motion Perception",
+    "Neurons",
+    "Orientation",
+    "Photic Stimulation",
+    "Visual Perception"
+  ]
+}

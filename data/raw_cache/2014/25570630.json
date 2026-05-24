@@ -1,0 +1,24 @@
+{
+  "pmid": "25570630",
+  "title": "Latent state-space models for neural decoding.",
+  "abstract": "Ensembles of single-neurons in motor cortex can show strong low-dimensional collective dynamics. In this study, we explore an approach where neural decoding is applied to estimated low-dimensional dynamics instead of to the full recorded neuronal population. A latent state-space model (SSM) approach is used to estimate the low-dimensional neural dynamics from the measured spiking activity in population of neurons. A second state-space model representation is then used to decode kinematics, via a Kalman filter, from the estimated low-dimensional dynamics. The latent SSM-based decoding approach is illustrated on neuronal activity recorded from primary motor cortex in a monkey performing naturalistic 3-D reach and grasp movements. Our analysis show that 3-D reach decoding performance based on estimated low-dimensional dynamics is comparable to the decoding performance based on the full recorded neuronal population.",
+  "authors": [
+    "Aghagolzadeh Mehdi",
+    "Truccolo Wilson"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2014",
+  "doi": "10.1109/EMBC.2014.6944262",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Hand Strength",
+    "Haplorhini",
+    "Models, Neurological",
+    "Models, Theoretical",
+    "Motor Cortex",
+    "Movement",
+    "Nerve Net",
+    "Neurons"
+  ]
+}

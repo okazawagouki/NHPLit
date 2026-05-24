@@ -1,0 +1,28 @@
+{
+  "pmid": "30224803",
+  "title": "Neural implementation of Bayesian inference in a sensorimotor behavior.",
+  "abstract": "Actions are guided by a Bayesian-like interaction between priors based on experience and current sensory evidence. Here we unveil a complete neural implementation of Bayesian-like behavior, including adaptation of a prior. We recorded the spiking of single neurons in the smooth eye-movement region of the frontal eye fields (FEF<sub>SEM</sub>), a region that is causally involved in smooth-pursuit eye movements. Monkeys tracked moving targets in contexts that set different priors for target speed. Before the onset of target motion, preparatory activity encodes and adapts in parallel with the behavioral adaptation of the prior. During the initiation of pursuit, FEF<sub>SEM</sub> output encodes a maximum a posteriori estimate of target speed based on a reliability-weighted combination of the prior and sensory evidence. FEF<sub>SEM</sub> responses during pursuit are sufficient both to adapt a prior that may be stored in FEF<sub>SEM</sub> and, through known downstream pathways, to cause Bayesian-like behavior in pursuit.",
+  "authors": [
+    "Darlington Timothy R",
+    "Beck Jeffrey M",
+    "Lisberger Stephen G"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2018",
+  "doi": "10.1038/s41593-018-0233-y",
+  "mesh": [
+    "Action Potentials",
+    "Adaptation, Physiological",
+    "Animals",
+    "Bayes Theorem",
+    "Eye Movements",
+    "Frontal Lobe",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Fields"
+  ]
+}

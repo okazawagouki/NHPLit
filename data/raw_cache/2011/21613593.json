@@ -1,0 +1,30 @@
+{
+  "pmid": "21613593",
+  "title": "Statistical assessment of the stability of neural movement representations.",
+  "abstract": "In systems neuroscience, neural activity that represents movements or sensory stimuli is often characterized by spatial tuning curves that may change in response to training, attention, altered mechanics, or the passage of time. A vital step in determining whether tuning curves change is accounting for estimation uncertainty due to measurement noise. In this study, we address the issue of tuning curve stability using methods that take uncertainty directly into account. We analyze data recorded from neurons in primary motor cortex using chronically implanted, multielectrode arrays in four monkeys performing center-out reaching. With the use of simulations, we demonstrate that under typical experimental conditions, the effect of neuronal noise on estimated preferred direction can be quite large and is affected by both the amount of data and the modulation depth of the neurons. In experimental data, we find that after taking uncertainty into account using bootstrapping techniques, the majority of neurons appears to be very stable on a timescale of minutes to hours. Lastly, we introduce adaptive filtering methods to explicitly model dynamic tuning curves. In contrast to several previous findings suggesting that tuning curves may be in constant flux, we conclude that the neural representation of limb movement is, on average, quite stable and that impressions to the contrary may be largely the result of measurement noise.",
+  "authors": [
+    "Stevenson Ian H",
+    "Cherian Anil",
+    "London Brian M",
+    "Sachs Nicholas A",
+    "Lindberg Eric",
+    "Reimer Jacob",
+    "Slutzky Marc W",
+    "Hatsopoulos Nicholas G",
+    "Miller Lee E",
+    "Kording Konrad P"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2011",
+  "doi": "10.1152/jn.00626.2010",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electrodes, Implanted",
+    "Haplorhini",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Neurons"
+  ]
+}

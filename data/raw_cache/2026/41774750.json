@@ -1,0 +1,29 @@
+{
+  "pmid": "41774750",
+  "title": "A biologically plausible decision-making model based on interacting neural populations.",
+  "abstract": "We present a novel decision-making model with two populations. Each population is composed of Regularly Spiking (excitatory) and Fast Spiking (inhibitory) cells in cortical layer 2/3. Each population votes for one of the two visual alternatives shown on a monitor in human and macaque experiments. The model is biophysically plausible since it is based on long-range cortico-cortical connections between the layer 2/3 populations. These connections are excitatory. They contact both Regularly Spiking and Fast Spiking cells. This long-range excitation is conflicted by an inhibition based on local connections within the populations. This configuration introduces a competition between the layer 2/3 populations, sufficient for making a decision to choose between two alternatives shown on the monitor. We integrate the model with a reward-driven learning mechanism. This allows the model to learn the optimal strategy maximizing the cumulative reward in the long term. We test the model on two decision-making tasks applied on human and macaque. This model elaborates certain biophysical details which were not considered by simpler phenomenological models proposed for similar decision-making tasks. Finally, it can be embedded in a brain simulator such as The Virtual Brain to study decision-making in terms of large-scale brain dynamics.",
+  "authors": [
+    "Baspinar Emre",
+    "Cecchini Gloria",
+    "DePass Michael",
+    "Andujar Marta",
+    "Pani Pierpaolo",
+    "Ferraina Stefano",
+    "Moreno-Bote Rubén",
+    "Cos Ignasi",
+    "Destexhe Alain"
+  ],
+  "journal": "PloS one",
+  "year": "2026",
+  "doi": "10.1371/journal.pone.0340393",
+  "mesh": [
+    "Decision Making",
+    "Humans",
+    "Animals",
+    "Models, Neurological",
+    "Neurons",
+    "Macaca",
+    "Reward",
+    "Action Potentials"
+  ]
+}

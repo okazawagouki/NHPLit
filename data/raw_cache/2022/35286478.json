@@ -1,0 +1,25 @@
+{
+  "pmid": "35286478",
+  "title": "Processing of visual statistics of naturalistic videos in macaque visual areas V1 and V4.",
+  "abstract": "Natural scenes are characterized by diverse image statistics, including various parameters of the luminance histogram, outputs of Gabor-like filters, and pairwise correlations between the filter outputs of different positions, orientations, and scales (Portilla-Simoncelli statistics). Some of these statistics capture the response properties of visual neurons. However, it remains unclear to what extent such statistics can explain neural responses to natural scenes and how neurons that are tuned to these statistics are distributed across the cortex. Using two-photon calcium imaging and an encoding-model approach, we addressed these issues in macaque visual areas V1 and V4. For each imaged neuron, we constructed an encoding model to mimic its responses to naturalistic videos. By extracting Portilla-Simoncelli statistics through outputs of both filters and filter correlations, and by computing an optimally weighted sum of these outputs, the model successfully reproduced responses in a subpopulation of neurons. We evaluated the selectivities of these neurons by quantifying the contributions of each statistic to visual responses. Neurons whose responses were mainly determined by Gabor-like filter outputs (low-level statistics) were abundant at most imaging sites in V1. In V4, the relative contribution of higher order statistics, such as cross-scale correlation, was increased. Preferred image statistics varied markedly across V4 sites, and the response similarity of two neurons at individual imaging sites gradually declined with increasing cortical distance. The results indicate that natural scene analysis progresses from V1 to V4, and neurons sharing preferred image statistics are locally clustered in V4.",
+  "authors": [
+    "Hatanaka Gaku",
+    "Inagaki Mikio",
+    "Takeuchi Ryosuke F",
+    "Nishimoto Shinji",
+    "Ikezoe Koji",
+    "Fujita Ichiro"
+  ],
+  "journal": "Brain structure & function",
+  "year": "2022",
+  "doi": "10.1007/s00429-022-02468-z",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Neurons",
+    "Orientation",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

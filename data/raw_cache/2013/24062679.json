@@ -1,0 +1,17 @@
+{
+  "pmid": "24062679",
+  "title": "Compositionality in neural control: an interdisciplinary study of scribbling movements in primates.",
+  "abstract": "This article discusses the compositional structure of hand movements by analyzing and modeling neural and behavioral data obtained from experiments where a monkey (Macaca fascicularis) performed scribbling movements induced by a search task. Using geometrically based approaches to movement segmentation, it is shown that the hand trajectories are composed of elementary segments that are primarily parabolic in shape. The segments could be categorized into a small number of classes on the basis of decreasing intra-class variance over the course of training. A separate classification of the neural data employing a hidden Markov model showed a coincidence of the neural states with the behavioral categories. An additional analysis of both types of data by a data mining method provided evidence that the neural activity patterns underlying the behavioral primitives were formed by sets of specific and precise spike patterns. A geometric description of the movement trajectories, together with precise neural timing data indicates a compositional variant of a realistic synfire chain model. This model reproduces the typical shapes and temporal properties of the trajectories; hence the structure and composition of the primitives may reflect meaningful behavior.",
+  "authors": [
+    "Abeles Moshe",
+    "Diesmann Markus",
+    "Flash Tamar",
+    "Geisel Theo",
+    "Herrmann Michael",
+    "Teicher Mina"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2013",
+  "doi": "10.3389/fncom.2013.00103",
+  "mesh": []
+}

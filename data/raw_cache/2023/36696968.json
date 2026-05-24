@@ -1,0 +1,22 @@
+{
+  "pmid": "36696968",
+  "title": "Joint representations of color and form in mouse visual cortex described by random pooling from rods and cones.",
+  "abstract": "Spatial transitions in color can aid any visual perception task, and its neural representation, the \"integration of color and form,\" is thought to begin at primary visual cortex (V1). Integration of color and form is untested in mouse V1, yet studies show that the ventral retina provides the necessary substrate from green-sensitive rods and ultraviolet-sensitive cones. Here, we used two-photon imaging in V1 to measure spatial frequency (SF) tuning along four axes of rod and cone contrast space, including luminance and color. We first reveal that V1's sensitivity to color is similar to luminance, yet average SF tuning is significantly shifted lowpass for color. Next, guided by linear models, we used SF tuning along all four color axes to estimate the proportion of neurons that fall into classic models of color opponency, i.e., \"single-,\" \"double-,\" and \"non-opponent.\" Few neurons (∼6%) fit the criteria for double opponency, which are uniquely tuned for chromatic borders. Most of the population can be described as a unimodal distribution ranging from strongly single-opponent to non-opponent. Consistent with recent studies of the rodent and primate retina, our V1 data are well-described by a simple model in which ON and OFF channels to V1 sample the photoreceptor mosaic randomly. Finally, an analysis comparing color opponency to preferred orientation and retinotopy further validates rods, and not cone M-opsin, as opponent with cone S-opsin in the upper visual field.<b>NEW & NOTEWORTHY</b> This study is the first to show that mouse V1 is highly sensitive to UV-green color contrast. Furthermore, it provides a detailed characterization of \"color opponency,\" which is the putative neural basis for color perception. Finally, using an extremely simple yet novel random wiring model, we account for our observations.",
+  "authors": [
+    "Rhim Issac",
+    "Nauhaus Ian"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2023",
+  "doi": "10.1152/jn.00138.2022",
+  "mesh": [
+    "Animals",
+    "Mice",
+    "Photic Stimulation",
+    "Retinal Cone Photoreceptor Cells",
+    "Retina",
+    "Visual Cortex",
+    "Color Perception",
+    "Opsins"
+  ]
+}

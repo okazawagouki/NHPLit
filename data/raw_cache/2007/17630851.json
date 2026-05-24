@@ -1,0 +1,24 @@
+{
+  "pmid": "17630851",
+  "title": "Prediction of primate splice site using inhomogeneous Markov chain and neural network.",
+  "abstract": "The inhomogeneous Markov chain model is used to discriminate acceptor and donor sites in genomic DNA sequences. It outperforms statistical methods such as homogeneous Markov chain model, higher order Markov chain and interpolated Markov chain models, and machine-learning methods such as k-nearest neighbor and support vector machine as well. Besides its high accuracy, another advantage of inhomogeneous Markov chain model is its simplicity in computation. In the three states system (acceptor, donor, and neither), the inhomogeneous Markov chain model is combined with a three-layer feed forward neural network. Using this combined system 3175 primate splice-junction gene sequences have been tested, with a prediction accuracy of greater than 98%.",
+  "authors": [
+    "Liu Libin",
+    "Ho Yee-Kin",
+    "Yau Stephen"
+  ],
+  "journal": "DNA and cell biology",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Alternative Splicing",
+    "Base Sequence",
+    "Genetic Vectors",
+    "Markov Chains",
+    "Models, Genetic",
+    "Molecular Sequence Data",
+    "Nerve Net",
+    "Reproducibility of Results"
+  ]
+}

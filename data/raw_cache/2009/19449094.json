@@ -1,0 +1,25 @@
+{
+  "pmid": "19449094",
+  "title": "Comparison of local measures of spike time irregularity and relating variability to firing rate in motor cortical neurons.",
+  "abstract": "Spike time irregularity can be measured by the coefficient of variation. However, it overestimates the irregularity in the case of pronounced firing rate changes. Several alternative measures that are local in time and therefore relatively rate-independent were proposed. Here we compared four such measures: CV(2), LV, IR and SI. First, we asked which measure is the most efficient for time-resolved analyses of experimental data. Analytical results show that CV(2) has the less variable estimates. Second, we derived useful properties of CV(2) for gamma processes. Third, we applied CV(2) on recordings from the motor cortex of a monkey performing a delayed motor task to characterize the irregularity, that can be modulated or not, and decoupled or not from firing rate. Neurons with a CV(2)-rate decoupling have a rather constant CV(2) and discharge mainly irregularly. Neurons with a CV(2)-rate coupling can modulate their CV(2) and explore a larger range of CV(2) values.",
+  "authors": [
+    "Ponce-Alvarez Adrián",
+    "Kilavik Bjørg Elisabeth",
+    "Riehle Alexa"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2010",
+  "doi": "10.1007/s10827-009-0158-2",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Haplorhini",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Reproducibility of Results",
+    "Statistics as Topic",
+    "Time Factors"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmid": "41015502",
+  "title": "Decoding of frequency-modulated sweeps by core and belt neurons in the alert macaque auditory cortex.",
+  "abstract": "Acoustic stimuli where the spectrum is time-varying are ubiquitous in natural sounds, including animal vocalizations, human speech, and music. Early studies of such stimuli involving frequency-modulated sweeps reveal that neurons in the primary auditory cortex of a variety of mammals show differences in firing rates depending on either the direction of the sweep and/or the sweep velocity. Psychophysical studies have also shown that the perception of such time-varying stimulus parameters is quite acute, underscoring the importance of such signals in normal acoustic perception. The responses of auditory neurons in alert primates have been little studied, and there is limited information relating neural activity to the perception of these signals. In this study, we investigated the neural discriminability of sweep direction and velocity for frequency-modulated sweeps presented to alert rhesus macaque monkeys in both core and belt auditory cortical areas. We quantified how well these information-bearing parameters were encoded using spike train pattern discriminators, and compared decoder performance when neural responses were restricted to temporal patterns or firing rates. Decoding accuracy for firing rate alone exceeded chance, and rate-normalized, spike-timing information was essentially equivalent to the complete firing pattern. Although most belt areas showed small decreases in decoding accuracy relative to the primary field, all fields encoded and represented sweeps similarly. Thus, there was little evidence of hierarchical processing between core and belt fields for these stimuli, indicating that frequency modulation sweep direction and velocity are not specifically extracted in the early auditory cortical hierarchy.<b>NEW & NOTEWORTHY</b> We recorded responses of single neurons in core and belt auditory cortical fields in alert macaque monkeys to frequency-modulated sounds, key feature of many natural sounds, including speech and vocalizations. We found that the timing of neural activity, rather than its magnitude, explained decoding accuracy in all cortical areas, and we did not observe compelling evidence of improved discriminability in core or belt fields beyond that seen in the primary auditory cortex.",
+  "authors": [
+    "Malone Brian J",
+    "Recanzone Gregg H"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2025",
+  "doi": "10.1152/jn.00229.2025",
+  "mesh": [
+    "Animals",
+    "Auditory Cortex",
+    "Macaca mulatta",
+    "Neurons",
+    "Auditory Perception",
+    "Acoustic Stimulation",
+    "Male",
+    "Action Potentials"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "28243763",
+  "title": "Quantification of neuronal density across cortical depth using automated 3D analysis of confocal image stacks.",
+  "abstract": "A new framework for measuring densities of immunolabeled neurons across cortical layers was implemented that combines a confocal microscopy sampling strategy with automated analysis of 3D image stacks. Its utility was demonstrated by quantifying neuronal density in macaque cortical areas V1 and V2. A series of overlapping confocal image stacks were acquired, each spanning from the pial surface to the white matter. DAPI channel images were automatically thresholded, and contiguous regions that included multiple clumped nuclear profiles were split using k-means clustering of image pixels for a set of candidate k values determined based on the clump's area; the most likely candidate segmentation was selected based on criteria that capture expected nuclear profile shape and size. The centroids of putative nuclear profiles estimated from 2D images were then grouped across z planes in an image stack to identify the positions of nuclei in x-y-z. 3D centroids falling outside user-specified exclusion boundaries were deleted, nuclei were classified by the presence or absence of signal in a channel corresponding to an immunolabeled antigen (e.g., the pan-neuronal marker NeuN) at the nuclear centroid location, and the set of classified cells was combined across image stacks to estimate density across cortical depth. The method was validated by comparison with conventional stereological methods. The average neuronal density across cortical layers was 230 × 10<sup>3</sup> neurons per mm<sup>3</sup> in V1 and 130 × 10<sup>3</sup> neurons per mm<sup>3</sup> in V2. The method is accurate, flexible, and general enough to measure densities of neurons of various molecularly identified types.",
+  "authors": [
+    "Kelly Jenna G",
+    "Hawken Michael J"
+  ],
+  "journal": "Brain structure & function",
+  "year": "2017",
+  "doi": "10.1007/s00429-017-1382-6",
+  "mesh": [
+    "Animals",
+    "Cell Count",
+    "Cell Nucleus",
+    "Cerebral Cortex",
+    "Imaging, Three-Dimensional",
+    "In Vitro Techniques",
+    "Macaca fascicularis",
+    "Male",
+    "Microscopy, Confocal",
+    "Neurons",
+    "Pattern Recognition, Automated",
+    "Phosphopyruvate Hydratase"
+  ]
+}

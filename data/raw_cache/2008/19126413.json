@@ -1,0 +1,30 @@
+{
+  "pmid": "19126413",
+  "title": "A noninvasive, fast and inexpensive tool for the detection of eye open/closed state in primates.",
+  "abstract": "Accurate detection of the eye state (i.e., open or closed) of animals during electrophysiological recordings is often crucial for analyzing physiological data. This requires a system which is reliable, and preferably noninvasive and inexpensive. Here we present such a tool incorporating a standard digital camera and a semi-automatic eye state detection (ESD) algorithm that can be used easily in typical primate electrophysiological setups. The ESD algorithm is based on the high light absorbance of the iris and pupil relative to the eyelid and takes advantage of the unique conditions found in primate physiological recordings (minimal area of sclera and head fixation). The ESD algorithm is as accurate as a human observer, and is not vulnerable to variance inherent to human decisions that it requires (i.e., eye location setting, training set classification and threshold setting). The temporal resolution with standard interlaced digital cameras is 17-20 ms. This is sufficient for the detection of eye state changes during electrophysiological recordings including spontaneous blinking and eye blink conditioning, as demonstrated here. Furthermore, the ESD tool can be applied to other physiological areas of research in which changes in eye state are critical to analyzing neuronal activity.",
+  "authors": [
+    "Mitelman Rea",
+    "Joshua Mati",
+    "Adler Avital",
+    "Bergman Hagai"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2009",
+  "doi": "10.1016/j.jneumeth.2008.12.007",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artificial Intelligence",
+    "Blinking",
+    "Conditioning, Psychological",
+    "Eye",
+    "Eye Movement Measurements",
+    "Haplorhini",
+    "Image Processing, Computer-Assisted",
+    "Infrared Rays",
+    "Light",
+    "Reproducibility of Results",
+    "Time Factors",
+    "Video Recording"
+  ]
+}

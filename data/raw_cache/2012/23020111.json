@@ -1,0 +1,30 @@
+{
+  "pmid": "23020111",
+  "title": "A model of the differential representation of signal novelty in the local field potentials and spiking activity of the ventrolateral prefrontal cortex.",
+  "abstract": "Local field potentials (LFPs) and spiking activity reflect different types of information procssing. For example, neurophysiological studies indicate that signal novelty in the ventrolateral prefrontal cortex is differentially represented by LFPs and spiking activity: LFPs habituate to repeated stimulus presentations, whereas spiking activity does not. The neural mechanisms that allow for this differential representation between LFPs and spiking activity are not clear. Here, we model and simulate LFPs and spiking activity of neurons in the ventrolateral prefrontal cortex in order to elucidate potential mechanisms underlying this differential representation. We demonstrate that dynamic negative-feedback loops cause LFPs to habituate in response to repeated presentations of the same stimulus while spiking activity is maintained. This disassociation between LFPs and spiking activity may be a mechanism by which LFPs code stimulus novelty, whereas spiking activity carries abstract information, such as category membership and decision-related activity.",
+  "authors": [
+    "Lee Jung Hoon",
+    "Tsunada Joji",
+    "Cohen Yale E"
+  ],
+  "journal": "Neural computation",
+  "year": "2013",
+  "doi": "10.1162/NECO_a_00388",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Auditory Pathways",
+    "Auditory Perception",
+    "Choice Behavior",
+    "Conditioning, Psychological",
+    "Feedback, Physiological",
+    "Habituation, Psychophysiologic",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons, Afferent",
+    "Prefrontal Cortex",
+    "Stochastic Processes",
+    "Synapses"
+  ]
+}

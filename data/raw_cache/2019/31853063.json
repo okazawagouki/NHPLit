@@ -1,0 +1,32 @@
+{
+  "pmid": "31853063",
+  "title": "Internal state dynamics shape brainwide activity and foraging behaviour.",
+  "abstract": "The brain has persistent internal states that can modulate every aspect of an animal's mental experience<sup>1-4</sup>. In complex tasks such as foraging, the internal state is dynamic<sup>5-8</sup>. Caenorhabditis elegans alternate between local search and global dispersal<sup>5</sup>. Rodents and primates exhibit trade-offs between exploitation and exploration<sup>6,7</sup>. However, fundamental questions remain about how persistent states are maintained in the brain, which upstream networks drive state transitions and how state-encoding neurons exert neuromodulatory effects on sensory perception and decision-making to govern appropriate behaviour. Here, using tracking microscopy to monitor whole-brain neuronal activity at cellular resolution in freely moving zebrafish larvae<sup>9</sup>, we show that zebrafish spontaneously alternate between two persistent internal states during foraging for live prey (Paramecia). In the exploitation state, the animal inhibits locomotion and promotes hunting, generating small, localized trajectories. In the exploration state, the animal promotes locomotion and suppresses hunting, generating long-ranging trajectories that enhance spatial dispersion. We uncover a dorsal raphe subpopulation with persistent activity that robustly encodes the exploitation state. The exploitation-state-encoding neurons, together with a multimodal trigger network that is associated with state transitions, form a stochastically activated nonlinear dynamical system. The activity of this oscillatory network correlates with a global retuning of sensorimotor transformations during foraging that leads to marked changes in both the motivation to hunt for prey and the accuracy of motor sequences during hunting. This work reveals an important hidden variable that shapes the temporal structure of motivation and decision-making.",
+  "authors": [
+    "Marques João C",
+    "Li Meng",
+    "Schaak Diane",
+    "Robson Drew N",
+    "Li Jennifer M"
+  ],
+  "journal": "Nature",
+  "year": "2020",
+  "doi": "10.1038/s41586-019-1858-z",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Brain",
+    "Decision Making",
+    "Dorsal Raphe Nucleus",
+    "Larva",
+    "Microscopy",
+    "Motivation",
+    "Neuroimaging",
+    "Neurons",
+    "Paramecium",
+    "Predatory Behavior",
+    "Principal Component Analysis",
+    "Time Factors",
+    "Zebrafish"
+  ]
+}

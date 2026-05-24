@@ -1,0 +1,33 @@
+{
+  "pmid": "32006952",
+  "title": "Utility and lower limits of frequency detection in surface electrode stimulation for somatosensory brain-computer interface in humans.",
+  "abstract": "OBJECTIVE: Stimulation of the primary somatosensory cortex (S1) has been successful in evoking artificial somatosensation in both humans and animals, but much is unknown about the optimal stimulation parameters needed to generate robust percepts of somatosensation. In this study, the authors investigated frequency as an adjustable stimulation parameter for artificial somatosensation in a closed-loop brain-computer interface (BCI) system. METHODS: Three epilepsy patients with subdural mini-electrocorticography grids over the hand area of S1 were asked to compare the percepts elicited with different stimulation frequencies. Amplitude, pulse width, and duration were held constant across all trials. In each trial, subjects experienced 2 stimuli and reported which they thought was given at a higher stimulation frequency. Two paradigms were used: first, 50 versus 100 Hz to establish the utility of comparing frequencies, and then 2, 5, 10, 20, 50, or 100 Hz were pseudorandomly compared. RESULTS: As the magnitude of the stimulation frequency was increased, subjects described percepts that were \"more intense\" or \"faster.\" Cumulatively, the participants achieved 98.0% accuracy when comparing stimulation at 50 and 100 Hz. In the second paradigm, the corresponding overall accuracy was 73.3%. If both tested frequencies were less than or equal to 10 Hz, accuracy was 41.7% and increased to 79.4% when one frequency was greater than 10 Hz (p = 0.01). When both stimulation frequencies were 20 Hz or less, accuracy was 40.7% compared with 91.7% when one frequency was greater than 20 Hz (p < 0.001). Accuracy was 85% in trials in which 50 Hz was the higher stimulation frequency. Therefore, the lower limit of detection occurred at 20 Hz, and accuracy decreased significantly when lower frequencies were tested. In trials testing 10 Hz versus 20 Hz, accuracy was 16.7% compared with 85.7% in trials testing 20 Hz versus 50 Hz (p < 0.05). Accuracy was greater than chance at frequency differences greater than or equal to 30 Hz. CONCLUSIONS: Frequencies greater than 20 Hz may be used as an adjustable parameter to elicit distinguishable percepts. These findings may be useful in informing the settings and the degrees of freedom achievable in future BCI systems.",
+  "authors": [
+    "Kramer Daniel R",
+    "Lamorie-Foote Krista",
+    "Barbaro Michael",
+    "Lee Morgan B",
+    "Peng Terrance",
+    "Gogia Angad",
+    "Nune George",
+    "Liu Charles Y",
+    "Kellis Spencer S",
+    "Lee Brian"
+  ],
+  "journal": "Neurosurgical focus",
+  "year": "2020",
+  "doi": "10.3171/2019.11.FOCUS19696",
+  "mesh": [
+    "Brain-Computer Interfaces",
+    "Drug Resistant Epilepsy",
+    "Electric Stimulation",
+    "Electrocorticography",
+    "Electrodes, Implanted",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Psychomotor Performance",
+    "Random Allocation",
+    "Somatosensory Cortex",
+    "Tomography, X-Ray Computed"
+  ]
+}

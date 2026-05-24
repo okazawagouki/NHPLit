@@ -1,0 +1,31 @@
+{
+  "pmid": "38508715",
+  "title": "Neuronal Modeling of Cross-Sensory Visual Evoked Magnetoencephalography Responses in the Auditory Cortex.",
+  "abstract": "Previous studies have demonstrated that auditory cortex activity can be influenced by cross-sensory visual inputs. Intracortical laminar recordings in nonhuman primates have suggested a feedforward (FF) type profile for auditory evoked but feedback (FB) type for visual evoked activity in the auditory cortex. To test whether cross-sensory visual evoked activity in the auditory cortex is associated with FB inputs also in humans, we analyzed magnetoencephalography (MEG) responses from eight human subjects (six females) evoked by simple auditory or visual stimuli. In the estimated MEG source waveforms for auditory cortex regions of interest, auditory evoked response showed peaks at 37 and 90 ms and visual evoked response at 125 ms. The inputs to the auditory cortex were modeled through FF- and FB-type connections targeting different cortical layers using the Human Neocortical Neurosolver (HNN), which links cellular- and circuit-level mechanisms to MEG signals. HNN modeling suggested that the experimentally observed auditory response could be explained by an FF input followed by an FB input, whereas the cross-sensory visual response could be adequately explained by just an FB input. Thus, the combined MEG and HNN results support the hypothesis that cross-sensory visual input in the auditory cortex is of FB type. The results also illustrate how the dynamic patterns of the estimated MEG source activity can provide information about the characteristics of the input into a cortical area in terms of the hierarchical organization among areas.",
+  "authors": [
+    "Lankinen Kaisu",
+    "Ahveninen Jyrki",
+    "Jas Mainak",
+    "Raij Tommi",
+    "Ahlfors Seppo P"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2024",
+  "doi": "10.1523/JNEUROSCI.1119-23.2024",
+  "mesh": [
+    "Humans",
+    "Auditory Cortex",
+    "Magnetoencephalography",
+    "Female",
+    "Male",
+    "Adult",
+    "Photic Stimulation",
+    "Evoked Potentials, Visual",
+    "Acoustic Stimulation",
+    "Models, Neurological",
+    "Young Adult",
+    "Evoked Potentials, Auditory",
+    "Neurons",
+    "Brain Mapping"
+  ]
+}

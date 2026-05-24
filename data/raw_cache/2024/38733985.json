@@ -1,0 +1,24 @@
+{
+  "pmid": "38733985",
+  "title": "A unifying framework for functional organization in early and higher ventral visual cortex.",
+  "abstract": "A key feature of cortical systems is functional organization: the arrangement of functionally distinct neurons in characteristic spatial patterns. However, the principles underlying the emergence of functional organization in the cortex are poorly understood. Here, we develop the topographic deep artificial neural network (TDANN), the first model to predict several aspects of the functional organization of multiple cortical areas in the primate visual system. We analyze the factors driving the TDANN's success and find that it balances two objectives: learning a task-general sensory representation and maximizing the spatial smoothness of responses according to a metric that scales with cortical surface area. In turn, the representations learned by the TDANN are more brain-like than in spatially unconstrained models. Finally, we provide evidence that the TDANN's functional organization balances performance with between-area connection length. Our results offer a unified principle for understanding the functional organization of the primate ventral visual system.",
+  "authors": [
+    "Margalit Eshed",
+    "Lee Hyodong",
+    "Finzi Dawn",
+    "DiCarlo James J",
+    "Grill-Spector Kalanit",
+    "Yamins Daniel L K"
+  ],
+  "journal": "Neuron",
+  "year": "2024",
+  "doi": "10.1016/j.neuron.2024.04.018",
+  "mesh": [
+    "Visual Cortex",
+    "Animals",
+    "Neural Networks, Computer",
+    "Models, Neurological",
+    "Visual Pathways",
+    "Neurons"
+  ]
+}

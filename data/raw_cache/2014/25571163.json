@@ -1,0 +1,22 @@
+{
+  "pmid": "25571163",
+  "title": "Multi-modal decoding: longitudinal coherency changes between spike trains, local field potentials and electrocorticogram signals.",
+  "abstract": "Neural information degeneracy in chronic implants due to signal instabilities affects optimal performance of brain-machine interfaces (BMIs). Spike-decoders are more vulnerable compared to those using LFPs and ECoG signals. In order for BMIs to perform reliably across years, decoders should be able to use neural information contained in various signal modalities. Hence, it is important to identify information redundancy among signal types. In this work, spikes, LFPs and ECoGs were recorded simultaneously from motor cortex of a rhesus monkey, while the animal was learning to control a multi-DOF robot with a spike-decoder. As the behavioral performance increased, the linear association among the signal types increased. Coherency of these signals increased in specific frequency bands as learning occurred. These results suggest the possibility of substituting the information lost in one modality by another.",
+  "authors": [
+    "Balasubramanian Karthikeyan",
+    "Takahashi Kazutaka",
+    "Slutzky Marc",
+    "Hatsopoulos Nicholas G"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2014",
+  "doi": "10.1109/EMBC.2014.6944795",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrocorticography",
+    "Macaca mulatta",
+    "Motor Cortex"
+  ]
+}

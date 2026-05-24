@@ -1,0 +1,30 @@
+{
+  "pmid": "33108588",
+  "title": "Fine-Grained Topography and Modularity of the Macaque Frontal Pole Cortex Revealed by Anatomical Connectivity Profiles.",
+  "abstract": "The frontal pole cortex (FPC) plays key roles in various higher-order functions and is highly developed in non-human primates. An essential missing piece of information is the detailed anatomical connections for finer parcellation of the macaque FPC than provided by the previous tracer results. This is important for understanding the functional architecture of the cerebral cortex. Here, combining cross-validation and principal component analysis, we formed a tractography-based parcellation scheme that applied a machine learning algorithm to divide the macaque FPC (2 males and 6 females) into eight subareas using high-resolution diffusion magnetic resonance imaging with the 9.4T Bruker system, and then revealed their subregional connections. Furthermore, we applied improved hierarchical clustering to the obtained parcels to probe the modular structure of the subregions, and found that the dorsolateral FPC, which contains an extension to the medial FPC, was mainly connected to regions of the default-mode network. The ventral FPC was mainly involved in the social-interaction network and the dorsal FPC in the metacognitive network. These results enhance our understanding of the anatomy and circuitry of the macaque brain, and contribute to FPC-related clinical research.",
+  "authors": [
+    "He Bin",
+    "Cao Long",
+    "Xia Xiaoluan",
+    "Zhang Baogui",
+    "Zhang Dan",
+    "You Bo",
+    "Fan Lingzhong",
+    "Jiang Tianzi"
+  ],
+  "journal": "Neuroscience bulletin",
+  "year": "2020",
+  "doi": "10.1007/s12264-020-00589-1",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Female",
+    "Macaca",
+    "Machine Learning",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Neural Pathways"
+  ]
+}

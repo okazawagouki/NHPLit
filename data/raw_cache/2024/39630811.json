@@ -1,0 +1,28 @@
+{
+  "pmid": "39630811",
+  "title": "Predicting proprioceptive cortical anatomy and neural coding with topographic autoencoders.",
+  "abstract": "Proprioception is one of the least understood senses, yet fundamental for the control of movement. Even basic questions of how limb pose is represented in the somatosensory cortex are unclear. We developed a topographic variational autoencoder with lateral connectivity (topo-VAE) to compute a putative cortical map from a large set of natural movement data. Although not fitted to neural data, our model reproduces two sets of observations from monkey centre-out reaching: 1. The shape and velocity dependence of proprioceptive receptive fields in hand-centered coordinates despite the model having no knowledge of arm kinematics or hand coordinate systems. 2. The distribution of neuronal preferred directions (PDs) recorded from multi-electrode arrays. The model makes several testable predictions: 1. Encoding across the cortex has a blob-and-pinwheel-type geometry of PDs. 2. Few neurons will encode just a single joint. Our model provides a principled basis for understanding of sensorimotor representations, and the theoretical basis of neural manifolds, with applications to the restoration of sensory feedback in brain-computer interfaces and the control of humanoid robots.",
+  "authors": [
+    "Grogan Max",
+    "Blum Kyle P",
+    "Wu Yufei",
+    "Harston J Alex",
+    "Miller Lee E",
+    "Faisal A Aldo"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2024",
+  "doi": "10.1371/journal.pcbi.1012614",
+  "mesh": [
+    "Proprioception",
+    "Animals",
+    "Models, Neurological",
+    "Somatosensory Cortex",
+    "Neurons",
+    "Movement",
+    "Computational Biology",
+    "Macaca mulatta",
+    "Brain-Computer Interfaces",
+    "Humans"
+  ]
+}

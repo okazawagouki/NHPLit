@@ -1,0 +1,28 @@
+{
+  "pmid": "32080849",
+  "title": "Neural coding of action in three dimensions: Task- and time-invariant reference frames for visuospatial and motor-related activity in parietal area V6A.",
+  "abstract": "Goal-directed movements involve a series of neural computations that compare the sensory representations of goal location and effector position, and transform these into motor commands. Neurons in posterior parietal cortex (PPC) control several effectors (e.g., eye, hand, foot) and encode goal location in a variety of spatial coordinate systems, including those anchored to gaze direction, and to the positions of the head, shoulder, or hand. However, there is little evidence on whether reference frames depend also on the effector and/or type of motor response. We addressed this issue in macaque PPC area V6A, where previous reports using a fixate-to-reach in depth task, from different starting arm positions, indicated that most units use mixed body/hand-centered coordinates. Here, we applied singular value decomposition and gradient analyses to characterize the reference frames in V6A while the animals, instead of arm reaching, performed a nonspatial motor response (hand lift). We found that most neurons used mixed body/hand coordinates, instead of \"pure\" body-, or hand-centered coordinates. During the task progress the effect of hand position on activity became stronger compared to target location. Activity consistent with body-centered coding was present only in a subset of neurons active early in the task. Applying the same analyses to a population of V6A neurons recorded during the fixate-to-reach task yielded similar results. These findings suggest that V6A neurons use consistent reference frames between spatial and nonspatial motor responses, a functional property that may allow the integration of spatial awareness and movement control.",
+  "authors": [
+    "Hadjidimitrakis Kostas",
+    "Ghodrati Masoud",
+    "Breveglieri Rossella",
+    "Rosa Marcello G P",
+    "Fattori Patrizia"
+  ],
+  "journal": "The Journal of comparative neurology",
+  "year": "2020",
+  "doi": "10.1002/cne.24889",
+  "mesh": [
+    "Animals",
+    "Macaca fascicularis",
+    "Male",
+    "Movement",
+    "Neurons",
+    "Parietal Lobe",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Random Allocation",
+    "Reaction Time",
+    "Space Perception"
+  ]
+}

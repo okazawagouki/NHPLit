@@ -1,0 +1,30 @@
+{
+  "pmid": "40069316",
+  "title": "Hierarchical and distinct biological motion processing in macaque visual cortical areas MT and MST.",
+  "abstract": "It is widely accepted that biological motion (BM) perception involves the posterior superior temporal sulcus (pSTS). Yet, how individual neurons and neural circuits in pSTS encode BM remains unclear. Here we combined electrophysiological recordings with neural network modeling to elucidate BM computations in two subregions of pSTS. We recorded single-cell activity from the middle temporal area (MT) and the medial superior temporal area (MST) of three macaque monkeys when they viewed point-light displays portraying BM walking in different directions (left vs. right), orientations (upright vs. inverted), and forms (intact vs. scrambled). We found that, while individual neurons in both MT and MST showed selectivity for these features, neural populations in MST but not MT exhibit BM-specific encoding, i.e., preferential representation of intact upright BM-the defining characteristic of BM recognition. A neural network model trained to replicate these neurophysiological findings implicated that, BM-specific encoding in MST may arise from feedforward connectivity patterns, i.e., MT subpopulations selective for linear translational motion and nonlinear optic flow projected preferentially to distinct MST cells. Taken together, our findings highlight hierarchical and distinct BM processing in MT and MST, advancing our understanding of BM computations in pSTS at the single-cell and neural circuit levels in the primate brain.",
+  "authors": [
+    "Feng Tingting",
+    "Zhang Yun",
+    "Han Wenhao",
+    "Luo Xiaoling",
+    "Han Yifei",
+    "Wei Wenjie",
+    "Qu Hong",
+    "Kuang Shenbing",
+    "Zhang Tao",
+    "Zhang Yi"
+  ],
+  "journal": "Communications biology",
+  "year": "2025",
+  "doi": "10.1038/s42003-025-07861-y",
+  "mesh": [
+    "Animals",
+    "Motion Perception",
+    "Visual Cortex",
+    "Macaca mulatta",
+    "Temporal Lobe",
+    "Male",
+    "Neurons",
+    "Photic Stimulation"
+  ]
+}

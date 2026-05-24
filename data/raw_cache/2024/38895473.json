@@ -1,0 +1,16 @@
+{
+  "pmid": "38895473",
+  "title": "Less is more: selection from a small set of options improves BCI velocity control.",
+  "abstract": "We designed the discrete direction selection (DDS) decoder for intracortical brain computer interface (iBCI) cursor control and showed that it outperformed currently used decoders in a human-operated real-time iBCI simulator and in monkey iBCI use. Unlike virtually all existing decoders that map between neural activity and continuous velocity commands, DDS uses neural activity to select among a small menu of preset cursor velocities. We compared closed-loop cursor control across four visits by each of 48 naïve, able-bodied human subjects using either DDS or one of three common continuous velocity decoders: direct regression with assist (an affine map from neural activity to cursor velocity), ReFIT, and the velocity Kalman Filter. DDS outperformed all three by a substantial margin. Subsequently, a monkey using an iBCI also had substantially better performance with DDS than with the Wiener filter decoder (direct regression decoder that includes time history). Discretizing the decoded velocity with DDS effectively traded high resolution velocity commands for less tortuous and lower noise trajectories, highlighting the potential benefits of simplifying online iBCI control.",
+  "authors": [
+    "Alcolea Pedro",
+    "Ma Xuan",
+    "Bodkin Kevin",
+    "Miller Lee E",
+    "Danziger Zachary C"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.06.03.596241",
+  "mesh": []
+}

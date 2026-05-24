@@ -1,0 +1,18 @@
+{
+  "pmid": "39091868",
+  "title": "How to reward animals based on their subjective percepts: A Bayesian approach to online estimation of perceptual biases.",
+  "abstract": "Elucidating the neural basis of perceptual biases, such as those produced by visual illusions, can provide powerful insights into the neural mechanisms of perceptual inference. However, studying the subjective percepts of animals poses a fundamental challenge: unlike human participants, animals cannot be verbally instructed to report what they see, hear, or feel. Instead, they must be trained to perform a task for reward, and researchers must infer from their responses what the animal perceived. However, animals' responses are shaped by reward feedback, thus raising the major concern that the reward regimen may alter the animal's decision strategy or even their intrinsic perceptual biases. Using simulations of a reinforcement learning agent, we demonstrate that conventional reward strategies fail to allow accurate estimation of perceptual biases. We developed a method that estimates perceptual bias during task performance and then computes the reward for each trial based on the evolving estimate of the animal's perceptual bias. Our approach makes use of multiple stimulus contexts to dissociate perceptual biases from decision-related biases. Starting with an informative prior, our Bayesian method updates a posterior over the perceptual bias after each trial. The prior can be specified based on data from past sessions, thus reducing the variability of the online estimates and allowing it to converge to a stable estimate over a small number of trials. After validating our method on synthetic data, we apply it to estimate perceptual biases of monkeys in a motion direction discrimination task in which varying background optic flow induces robust perceptual biases. This method overcomes an important challenge to understanding the neural basis of subjective percepts.",
+  "authors": [
+    "Dong Yelin",
+    "Lengyel Gabor",
+    "Shivkumar Sabyasachi",
+    "Anzai Akiyuki",
+    "DiRisio Grace F",
+    "Haefner Ralf M",
+    "DeAngelis Gregory C"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2024.07.25.605047",
+  "mesh": []
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "30314427",
+  "title": "Nonlinear Modeling of Neural Interaction for Spike Prediction Using the Staged Point-Process Model.",
+  "abstract": "Neurons communicate nonlinearly through spike activities. Generalized linear models (GLMs) describe spike activities with a cascade of a linear combination across inputs, a static nonlinear function, and an inhomogeneous Bernoulli or Poisson process, or Cox process if a self-history term is considered. This structure considers the output nonlinearity in spike generation but excludes the nonlinear interaction among input neurons. Recent studies extend GLMs by modeling the interaction among input neurons with a quadratic function, which considers the interaction between every pair of input spikes. However, quadratic effects may not fully capture the nonlinear nature of input interaction. We therefore propose a staged point-process model to describe the nonlinear interaction among inputs using a few hidden units, which follows the idea of artificial neural networks. The output firing probability conditioned on inputs is formed as a cascade of two linear-nonlinear (a linear combination plus a static nonlinear function) stages and an inhomogeneous Bernoulli process. Parameters of this model are estimated by maximizing the log likelihood on output spike trains. Unlike the iterative reweighted least squares algorithm used in GLMs, where the performance is guaranteed by the concave condition, we propose a modified Levenberg-Marquardt (L-M) algorithm, which directly calculates the Hessian matrix of the log likelihood, for the nonlinear optimization in our model. The proposed model is tested on both synthetic data and real spike train data recorded from the dorsal premotor cortex and primary motor cortex of a monkey performing a center-out task. Performances are evaluated by discrete-time rescaled Kolmogorov-Smirnov tests, where our model statistically outperforms a GLM and its quadratic extension, with a higher goodness-of-fit in the prediction results. In addition, the staged point-process model describes nonlinear interaction among input neurons with fewer parameters than quadratic models, and the modified L-M algorithm also demonstrates fast convergence.",
+  "authors": [
+    "Qian Cunle",
+    "Sun Xuyun",
+    "Zhang Shaomin",
+    "Xing Dong",
+    "Li Hongbao",
+    "Zheng Xiaoxiang",
+    "Pan Gang",
+    "Wang Yiwen"
+  ],
+  "journal": "Neural computation",
+  "year": "2018",
+  "doi": "10.1162/neco_a_01137",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Humans",
+    "Models, Neurological",
+    "Neurons",
+    "Nonlinear Dynamics"
+  ]
+}

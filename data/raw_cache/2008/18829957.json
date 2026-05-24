@@ -1,0 +1,26 @@
+{
+  "pmid": "18829957",
+  "title": "Frequency-selective coding of translation and tilt in macaque cerebellar nodulus and uvula.",
+  "abstract": "Spatial orientation depends critically on the brain's ability to segregate linear acceleration signals arising from otolith afferents into estimates of self-motion and orientation relative to gravity. In the absence of visual information, this ability is known to deteriorate at low frequencies. The cerebellar nodulus/uvula (NU) has been shown to participate in this computation, although its exact role remains unclear. Here, we show that NU simple spike (SS) responses also exhibit a frequency dependent selectivity to self-motion (translation) and spatial orientation (tilt). At 0.5 Hz, Purkinje cells encode three-dimensional translation and only weakly modulate during pitch and roll tilt (0.4 +/- 0.05 spikes/s/degrees/s). But this ability to selectively signal translation over tilt is compromised at lower frequencies, such that at 0.05 Hz tilt response gains average 2.0 +/- 0.3 spikes/s/degrees/s. We show that such frequency-dependent properties are attributable to an incomplete cancellation of otolith-driven SS responses during tilt by a canal-driven signal coding angular position with a sensitivity of 3.9 +/- 0.3 spikes/s/degrees. This incomplete cancellation is brought about because otolith-driven SS responses are also partially integrated, thus encoding combinations of linear velocity and acceleration. These results are consistent with the notion that NU SS modulation represents an internal neural representation of similar frequency dependencies seen in behavior.",
+  "authors": [
+    "Yakusheva Tatyana",
+    "Blazquez Pablo M",
+    "Angelaki Dora E"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2008",
+  "doi": "10.1523/JNEUROSCI.2232-08.2008",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cerebellum",
+    "Eye Movements",
+    "Macaca",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Motion Perception",
+    "Posture",
+    "Purkinje Cells",
+    "Time Factors"
+  ]
+}

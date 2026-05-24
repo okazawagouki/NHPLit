@@ -1,0 +1,15 @@
+{
+  "pmid": "21852978",
+  "title": "Physiological Signal Variability in hMT+ Reflects Performance on a Direction Discrimination Task.",
+  "abstract": "Our ability to perceive visual motion is critically dependent on the human motion complex (hMT+) in the dorsal visual stream. Extensive electrophysiological research in the monkey equivalent of this region has demonstrated how neuronal populations code for properties such as speed and direction, and that neurometric functions relate to psychometric functions within the individual monkey. In humans, the physiological correlates of inter-individual perceptual differences are still largely unknown. To address this question, we used functional magnetic resonance imaging (fMRI) while participants viewed translational motion in different directions, and we measured thresholds for direction discrimination of moving stimuli in a separate psychophysics experiment. After determining hMT+ in each participant with a functional localizer, we were able to decode the different directions of visual motion from it using pattern classification (PC). We also characterized the variability of fMRI signal in hMT+ during stimulus and rest periods with a generative model. Relating perceptual performance to physiology, individual direction discrimination thresholds were significantly correlated with the variability measure in hMT+, but not with PC accuracies. Individual differences in PC accuracy were driven by non-physiological sources of noise, such as head-movement, which makes this method a poor tool to investigate inter-individual differences. In contrast, variability analysis of the fMRI signal was robust to non-physiological noise, and variability characteristics in hMT+ correlated with psychophysical thresholds in the individual participants. Higher levels of fMRI signal variability compared to rest correlated with lower discrimination thresholds. This result is in line with theories on stochastic resonance in the context of neuronal populations, which suggest that endogenous or exogenous noise can increase the sensitivity of neuronal populations to incoming signals.",
+  "authors": [
+    "Wutte Magdalena G",
+    "Smith Michael T",
+    "Flanagin Virginia L",
+    "Wolbers Thomas"
+  ],
+  "journal": "Frontiers in psychology",
+  "year": "2011",
+  "doi": "10.3389/fpsyg.2011.00185",
+  "mesh": []
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "20884767",
+  "title": "A likelihood method for computing selection times in spiking and local field potential activity.",
+  "abstract": "The timing of neural responses to ongoing behavior is an important measure of the underlying neural processes. Neural processes are distributed across many different brain regions and measures of the timing of neural responses are routinely used to test relationships between different brain regions. Testing detailed models of functional neural circuitry underlying behavior depends on extracting information from single trials. Despite their importance, existing methods for analyzing the timing of information in neural signals on single trials remain limited in their scope and application. We develop a novel method for estimating the timing of information in neural activity that we use to measure selection times, when an observer can reliably use observations of neural activity to select between two descriptions of the activity. The method is designed to satisfy three criteria: selection times should be computed from single trials, they should be computed from both spiking and local field potential (LFP) activity, and they should allow us to make comparisons between different recordings. Our approach characterizes the timing of information in terms of an accumulated log-likelihood ratio (AccLLR), which distinguishes between two alternative hypotheses and uses the AccLLR to estimate the selection time. We develop the AccLLR procedure for binary discrimination using example recordings of spiking and LFP activity in the posterior parietal cortex of a monkey performing a memory-guided saccade task. We propose that the AccLLR method is a general and practical framework for the analysis of signal timing in the nervous system.",
+  "authors": [
+    "Banerjee Arpan",
+    "Dean Heather L",
+    "Pesaran Bijan"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2010",
+  "doi": "10.1152/jn.00036.2010",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Likelihood Functions",
+    "Macaca mulatta",
+    "Male",
+    "Membrane Potentials",
+    "Models, Neurological",
+    "Neural Conduction",
+    "Neurons",
+    "Normal Distribution",
+    "Parietal Lobe",
+    "Poisson Distribution",
+    "ROC Curve",
+    "Reaction Time",
+    "Saccades",
+    "Time Factors"
+  ]
+}

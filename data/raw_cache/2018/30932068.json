@@ -1,0 +1,34 @@
+{
+  "pmid": "30932068",
+  "title": "A wireless and artefact-free 128-channel neuromodulation device for closed-loop stimulation and recording in non-human primates.",
+  "abstract": "Closed-loop neuromodulation systems aim to treat a variety of neurological conditions by delivering and adjusting therapeutic electrical stimulation in response to a patient's neural state, recorded in real time. Existing systems are limited by low channel counts, lack of algorithmic flexibility, and the distortion of recorded signals by large and persistent stimulation artefacts. Here, we describe an artefact-free wireless neuromodulation device that enables research applications requiring high-throughput data streaming, low-latency biosignal processing, and simultaneous sensing and stimulation. The device is a miniaturized neural interface capable of closed-loop recording and stimulation on 128 channels, with on-board processing to fully cancel stimulation artefacts. In addition, it can detect neural biomarkers and automatically adjust stimulation parameters in closed-loop mode. In a behaving non-human primate, the device enabled long-term recordings of local field potentials and the real-time cancellation of stimulation artefacts, as well as closed-loop stimulation to disrupt movement preparatory activity during a delayed-reach task. The neuromodulation device may help advance neuroscientific discovery and preclinical investigations of stimulation-based therapeutic interventions.",
+  "authors": [
+    "Zhou Andy",
+    "Santacruz Samantha R",
+    "Johnson Benjamin C",
+    "Alexandrov George",
+    "Moin Ali",
+    "Burghardt Fred L",
+    "Rabaey Jan M",
+    "Carmena Jose M",
+    "Muller Rikky"
+  ],
+  "journal": "Nature biomedical engineering",
+  "year": "2019",
+  "doi": "10.1038/s41551-018-0323-x",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Artifacts",
+    "Biomarkers",
+    "Brain",
+    "Computer-Aided Design",
+    "Electric Stimulation",
+    "Macaca mulatta",
+    "Male",
+    "Signal Processing, Computer-Assisted",
+    "Task Performance and Analysis",
+    "Wireless Technology"
+  ]
+}

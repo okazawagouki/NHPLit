@@ -1,0 +1,27 @@
+{
+  "pmid": "25355213",
+  "title": "Stimulus dependence of local field potential spectra: experiment versus theory.",
+  "abstract": "The local field potential (LFP) captures different neural processes, including integrative synaptic dynamics that cannot be observed by measuring only the spiking activity of small populations. Therefore, investigating how LFP power is modulated by external stimuli can offer important insights into sensory neural representations. However, gaining such insight requires developing data-driven computational models that can identify and disambiguate the neural contributions to the LFP. Here, we investigated how networks of excitatory and inhibitory integrate-and-fire neurons responding to time-dependent inputs can be used to interpret sensory modulations of LFP spectra. We computed analytically from such models the LFP spectra and the information that they convey about input and used these analytical expressions to fit the model to LFPs recorded in V1 of anesthetized macaques (Macaca mulatta) during the presentation of color movies. Our expressions explain 60%-98% of the variance of the LFP spectrum shape and its dependency upon movie scenes and we achieved this with realistic values for the best-fit parameters. In particular, synaptic best-fit parameters were compatible with experimental measurements and the predictions of firing rates, based only on the fit of LFP data, correlated with the multiunit spike rate recorded from the same location. Moreover, the parameters characterizing the input to the network across different movie scenes correlated with cross-scene changes of several image features. Our findings suggest that analytical descriptions of spiking neuron networks may become a crucial tool for the interpretation of field recordings.",
+  "authors": [
+    "Barbieri Francesca",
+    "Mazzoni Alberto",
+    "Logothetis Nikos K",
+    "Panzeri Stefano",
+    "Brunel Nicolas"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2014",
+  "doi": "10.1523/JNEUROSCI.5365-13.2014",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Gamma Rhythm",
+    "Macaca",
+    "Male",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "39545725",
+  "title": "Decoding Continuous Tracking Eye Movements from Cortical Spiking Activity.",
+  "abstract": "Eye movements are the primary way primates interact with the world. Understanding how the brain controls the eyes is therefore crucial for improving human health and designing visual rehabilitation devices. However, brain activity is challenging to decipher. Here, we leveraged machine learning algorithms to reconstruct tracking eye movements from high-resolution neuronal recordings. We found that continuous eye position could be decoded with high accuracy using spiking data from only a few dozen cortical neurons. We tested eight decoders and found that neural network models yielded the highest decoding accuracy. Simpler models performed well above chance with a substantial reduction in training time. We measured the impact of data quantity (e.g. number of neurons) and data format (e.g. bin width) on training time, inference time, and generalizability. Training models with more input data improved performance, as expected, but the format of the behavioral output was critical for emphasizing or omitting specific oculomotor events. Our results provide the first demonstration, to our knowledge, of continuously decoded eye movements across a large field of view. Our comprehensive investigation of predictive power and computational efficiency for common decoder architectures provides a much-needed foundation for future work on real-time gaze-tracking devices.",
+  "authors": [
+    "Noneman Kendra K",
+    "Patrick Mayo J"
+  ],
+  "journal": "International journal of neural systems",
+  "year": "2025",
+  "doi": "10.1142/S0129065724500709",
+  "mesh": [
+    "Animals",
+    "Eye Movements",
+    "Neurons",
+    "Machine Learning",
+    "Macaca mulatta",
+    "Neural Networks, Computer",
+    "Action Potentials",
+    "Eye-Tracking Technology",
+    "Models, Neurological",
+    "Male"
+  ]
+}

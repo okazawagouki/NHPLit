@@ -1,0 +1,24 @@
+{
+  "pmid": "22101145",
+  "title": "Optimal band separation of extracellular field potentials.",
+  "abstract": "Local Field Potentials (LFPs) exhibit a broadband spectral structure that is traditionally partitioned into distinct frequency bands which are thought to originate from different types of neural events triggered by different processing pathways. However, the exact frequency boundaries of these processes are not known and, as a result, the frequency bands are often selected based on intuition, previous literature or visual inspection of the data. Here, we address these problems by developing a rigorous method for defining LFP frequency bands and their boundaries. The criterion introduced for determining the boundaries delimiting the bands is to maximize the information about an external correlate carried jointly by all bands in the partition. The method first partitions the LFP frequency range into two bands and then successively increases the number of bands in the partition. We applied the partitioning method to LFPs recorded from primary visual cortex of anaesthetized macaques, and we determined the optimal band partitioning that describes the encoding of naturalistic visual stimuli. The first optimal boundary partitioned the LFP response at 60 Hz into low and high frequencies, which had been previously found to convey independent information about the natural movie correlate. The second optimal boundary divided the high-frequency range at approximately 100 Hz into gamma and high-gamma frequencies, consistent with recent reports that these two bands reflect partly distinct neural processes. A third important boundary was at 25 Hz and it split the LFP range below 50 Hz into a stimulus-informative and a stimulus-independent band.",
+  "authors": [
+    "Magri Cesare",
+    "Mazzoni Alberto",
+    "Logothetis Nikos K",
+    "Panzeri Stefano"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2012",
+  "doi": "10.1016/j.jneumeth.2011.11.005",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Evoked Potentials, Visual",
+    "Extracellular Space",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Sensory Receptor Cells",
+    "Visual Cortex"
+  ]
+}

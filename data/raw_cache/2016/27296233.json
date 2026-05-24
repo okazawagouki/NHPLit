@@ -1,0 +1,29 @@
+{
+  "pmid": "27296233",
+  "title": "Realistic models of apparent dynamic changes in resting-state connectivity in somatosensory cortex.",
+  "abstract": "Variations over time in resting-state correlations in blood oxygenation level-dependent (BOLD) signals from different cortical areas may indicate changes in brain functional connectivity. However, apparent variations over time may also arise from stationary signals when the sample duration is finite. Recently, a vector autoregressive (VAR) null model has been proposed to simulate real functional magnetic resonance imaging (fMRI) data, which provides a robust stationary model for identifying possible temporal dynamic changes in functional connectivity. In this work, we propose a simpler model that uses a filtered stationary dataset. The filtered stationary model generates statistically stationary time series from random data with a single prescribed correlation coefficient that is calculated as the average over the entire time series. In addition, we propose a dynamic model, which is better able to replicate real fMRI connectivity, estimated from monkey brain studies, than the two stationary models. We compare simulated results using these three models with the behavior of primary somatosensory cortex (S1) networks in anesthetized squirrel monkeys at high field (9.4 T), using a sliding window correlation analysis. We found that at short window sizes, both stationary models reproduced the distribution of correlations of real signals well, but at longer window sizes, a dynamic model reproduced the distribution of correlations of real signals better than the stationary models. While stationary models replicate several features of real data, a close representation of the behavior of resting-state data acquired from somatosensory cortex of non-human primates is obtained only when a dynamic correlation is introduced, suggesting dynamic variations in connectivity are real. Hum Brain Mapp 37:3897-3910, 2016. © 2016 Wiley Periodicals, Inc.",
+  "authors": [
+    "Shi Zhaoyue",
+    "Rogers Baxter P",
+    "Chen Li Min",
+    "Morgan Victoria L",
+    "Mishra Arabinda",
+    "Wilkes Don M",
+    "Gore John C"
+  ],
+  "journal": "Human brain mapping",
+  "year": "2016",
+  "doi": "10.1002/hbm.23284",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Computer Simulation",
+    "Magnetic Resonance Imaging",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neural Pathways",
+    "Rest",
+    "Saimiri",
+    "Somatosensory Cortex"
+  ]
+}

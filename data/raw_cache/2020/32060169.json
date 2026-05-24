@@ -1,0 +1,28 @@
+{
+  "pmid": "32060169",
+  "title": "Primate Orbitofrontal Cortex Codes Information Relevant for Managing Explore-Exploit Tradeoffs.",
+  "abstract": "Reinforcement learning (RL) refers to the behavioral process of learning to obtain reward and avoid punishment. An important component of RL is managing explore-exploit tradeoffs, which refers to the problem of choosing between exploiting options with known values and exploring unfamiliar options. We examined correlates of this tradeoff, as well as other RL related variables, in orbitofrontal cortex (OFC) while three male monkeys performed a three-armed bandit learning task. During the task, novel choice options periodically replaced familiar options. The values of the novel options were unknown, and the monkeys had to explore them to see if they were better than other currently available options. The identity of the chosen stimulus and the reward outcome were strongly encoded in the responses of single OFC neurons. These two variables define the states and state transitions in our model that are relevant to decision-making. The chosen value of the option and the relative value of exploring that option were encoded at intermediate levels. We also found that OFC value coding was stimulus specific, as opposed to coding value independent of the identity of the option. The location of the option and the value of the current environment were encoded at low levels. Therefore, we found encoding of the variables relevant to learning and managing explore-exploit tradeoffs in OFC. These results are consistent with findings in the ventral striatum and amygdala and show that this monosynaptically connected network plays an important role in learning based on the immediate and future consequences of choices.<b>SIGNIFICANCE STATEMENT</b> Orbitofrontal cortex (OFC) has been implicated in representing the expected values of choices. Here we extend these results and show that OFC also encodes information relevant to managing explore-exploit tradeoffs. Specifically, OFC encodes an exploration bonus, which characterizes the relative value of exploring novel choice options. OFC also strongly encodes the identity of the chosen stimulus, and reward outcomes, which are necessary for computing the value of novel and familiar options.",
+  "authors": [
+    "Costa Vincent D",
+    "Averbeck Bruno B"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2020",
+  "doi": "10.1523/JNEUROSCI.2355-19.2020",
+  "mesh": [
+    "Amygdala",
+    "Animals",
+    "Choice Behavior",
+    "Conditioning, Operant",
+    "Exploratory Behavior",
+    "Learning",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Psychomotor Performance",
+    "Punishment",
+    "Reward",
+    "Ventral Striatum"
+  ]
+}

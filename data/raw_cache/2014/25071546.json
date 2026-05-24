@@ -1,0 +1,19 @@
+{
+  "pmid": "25071546",
+  "title": "Tracking single units in chronic, large scale, neural recordings for brain machine interface applications.",
+  "abstract": "In the study of population coding in neurobiological systems, tracking unit identity may be critical to assess possible changes in the coding properties of neuronal constituents over prolonged periods of time. Ensuring unit stability is even more critical for reliable neural decoding of motor variables in intra-cortically controlled brain-machine interfaces (BMIs). Variability in intrinsic spike patterns, tuning characteristics, and single-unit identity over chronic use is a major challenge to maintaining this stability, requiring frequent daily calibration of neural decoders in BMI sessions by an experienced human operator. Here, we report on a unit-stability tracking algorithm that efficiently and autonomously identifies putative single-units that are stable across many sessions using a relatively short duration recording interval at the start of each session. The algorithm first builds a database of features extracted from units' average spike waveforms and firing patterns across many days of recording. It then uses these features to decide whether spike occurrences on the same channel on one day belong to the same unit recorded on another day or not. We assessed the overall performance of the algorithm for different choices of features and classifiers trained using human expert judgment, and quantified it as a function of accuracy and execution time. Overall, we found a trade-off between accuracy and execution time with increasing data volumes from chronically implanted rhesus macaques, with an average of 12 s processing time per channel at ~90% classification accuracy. Furthermore, 77% of the resulting putative single-units matched those tracked by human experts. These results demonstrate that over the span of a few months of recordings, automated unit tracking can be performed with high accuracy and used to streamline the calibration phase during BMI sessions. Our findings may be useful to the study of population coding during learning, and to improve the reliability of BMI systems and accelerate their deployment in clinical applications.",
+  "authors": [
+    "Eleryan Ahmed",
+    "Vaidya Mukta",
+    "Southerland Joshua",
+    "Badreldin Islam S",
+    "Balasubramanian Karthikeyan",
+    "Fagg Andrew H",
+    "Hatsopoulos Nicholas",
+    "Oweiss Karim"
+  ],
+  "journal": "Frontiers in neuroengineering",
+  "year": "2014",
+  "doi": "10.3389/fneng.2014.00023",
+  "mesh": []
+}

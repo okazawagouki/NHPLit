@@ -1,0 +1,23 @@
+{
+  "pmid": "38923983",
+  "title": "Efficient models of cortical activity via local dynamic equilibria and coarse-grained interactions.",
+  "abstract": "Biologically detailed models of brain circuitry are challenging to build and simulate due to the large number of neurons, their complex interactions, and the many unknown physiological parameters. Simplified mathematical models are more tractable, but harder to evaluate when too far removed from neuroanatomy/physiology. We propose that a multiscale model, coarse-grained (CG) while preserving local biological details, offers the best balance between biological realism and computability. This paper presents such a model. Generally, CG models focus on the interaction between groups of neurons-here termed \"pixels\"-rather than individual cells. In our case, dynamics are alternately updated at intra- and interpixel scales, with one informing the other, until convergence to equilibrium is achieved on both scales. An innovation is how we exploit the underlying biology: Taking advantage of the similarity in local anatomical structures across large regions of the cortex, we model intrapixel dynamics as a single dynamical system driven by \"external\" inputs. These inputs vary with events external to the pixel, but their ranges can be estimated <i>a priori</i>. Precomputing and tabulating all potential local responses speed up the updating procedure significantly compared to direct multiscale simulation. We illustrate our methodology using a model of the primate visual cortex. Except for local neuron-to-neuron variability (necessarily lost in any CG approximation) our model reproduces various features of large-scale network models at a tiny fraction of the computational cost. These include neuronal responses as a consequence of their orientation selectivity, a primary function of visual neurons.",
+  "authors": [
+    "Xiao Zhuo-Cheng",
+    "Lin Kevin K",
+    "Young Lai-Sang"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2024",
+  "doi": "10.1073/pnas.2320454121",
+  "mesh": [
+    "Models, Neurological",
+    "Animals",
+    "Neurons",
+    "Visual Cortex",
+    "Humans",
+    "Nerve Net",
+    "Cerebral Cortex",
+    "Computer Simulation"
+  ]
+}

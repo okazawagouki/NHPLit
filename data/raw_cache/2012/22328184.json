@@ -1,0 +1,34 @@
+{
+  "pmid": "22328184",
+  "title": "High-side digitally current controlled biphasic bipolar microstimulator.",
+  "abstract": "Electrical stimulation of nervous tissue has been extensively used as both a tool in experimental neuroscience research and as a method for restoring of neural functions in patients suffering from sensory and motor disabilities. In the central nervous system, intracortical microstimulation (ICMS) has been shown to be an effective method for inducing or biasing perception, including visual and tactile sensation. ICMS also holds promise for enabling brain-machine-brain interfaces (BMBIs) by directly writing information into the brain. Here we detail the design of a high-side, digitally current-controlled biphasic, bipolar microstimulator, and describe the validation of the device in vivo. As many applications of this technique, including BMBIs, require recording as well as stimulation, we pay careful attention to isolation of the stimulus channels and parasitic current injection. With the realized device and standard recording hardware-without active artifact rejection-we are able to observe stimulus artifacts of less than 2 ms in duration.",
+  "authors": [
+    "Hanson Timothy L",
+    "Ómarsson Björn",
+    "O'Doherty Joseph E",
+    "Peikon Ian D",
+    "Lebedev Mikhail A",
+    "Nicolelis Miguel A L"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2012",
+  "doi": "10.1109/TNSRE.2012.2187219",
+  "mesh": [
+    "Analog-Digital Conversion",
+    "Animals",
+    "Arm",
+    "Artifacts",
+    "Cerebral Cortex",
+    "Electric Stimulation",
+    "Electrodes, Implanted",
+    "Electromyography",
+    "Electronics",
+    "Equipment Design",
+    "Internet",
+    "Macaca mulatta",
+    "Movement",
+    "Nanotechnology",
+    "Nerve Tissue",
+    "Software"
+  ]
+}

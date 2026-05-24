@@ -1,0 +1,17 @@
+{
+  "pmid": "31031580",
+  "title": "Isoflurane-Induced Burst Suppression Increases Intrinsic Functional Connectivity of the Monkey Brain.",
+  "abstract": "Animal functional magnetic resonance imaging (fMRI) has provided key insights into the physiological mechanisms underlying healthy and diseased brain states. In non-human primates, resting-state fMRI studies are commonly conducted under isoflurane anesthesia, where anesthetic concentration is used to roughly infer anesthesia depth. However, within the recommended isoflurane concentration range (1.00-1.50%), the brain state can switch from moderate anesthesia characterized by stable slow wave (SW) electroencephalogram (EEG) signals to deep anesthesia characterized by burst suppression (BS), which is electrophysiologically distinct from the resting state. To confirm the occurrence rate of BS activity in common setting of animal fMRI study, we conducted simultaneous resting-state EEG and fMRI experiments on 16 monkeys anesthetized using 0.80-1.30% isoflurane, and detected BS activity in two of them. Datasets either featured with BS or SW activity from these two monkeys were analyzed to investigate the intrinsic functional connectivity (FC) patterns during BS. In datasets with BS activity, we observed robust coupling between the BS pattern (the binary alternation between burst and suppression activity in EEG signal) and filtered BOLD signals in most brain areas, which was associated with a non-specific enhancement in whole brain connectivity. After eliminating the BS coupling effect by regressing out the BS pattern, we detected an overall increase in FC with a few decreased connectivity compared to datasets with SW activity. These affected connections were preferentially distributed within orbitofrontal cortex, between orbitofrontal and prefrontal/cingulate/occipital cortex, and between temporal and parietal cortex. Persistence of the default mode network and recovery of thalamocortical connections were also detected under deep anesthesia with BS activity. Taken together, the observed spatially specific alterations in BS activity induced by isoflurane not only highlight the necessity of EEG monitoring and careful data preprocessing in fMRI studies on anesthetized animals, but also advance our understanding of the underlying multi-phased mechanisms of anesthesia.",
+  "authors": [
+    "Zhang Zhao",
+    "Cai Dan-Chao",
+    "Wang Zhiwei",
+    "Zeljic Kristina",
+    "Wang Zheng",
+    "Wang Yingwei"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2019",
+  "doi": "10.3389/fnins.2019.00296",
+  "mesh": []
+}

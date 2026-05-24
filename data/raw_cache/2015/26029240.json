@@ -1,0 +1,17 @@
+{
+  "pmid": "26029240",
+  "title": "Cosplicing network analysis of mammalian brain RNA-Seq data utilizing WGCNA and Mantel correlations.",
+  "abstract": "Across species and tissues and especially in the mammalian brain, production of gene isoforms is widespread. While gene expression coordination has been previously described as a scale-free coexpression network, the properties of transcriptome-wide isoform production coordination have been less studied. Here we evaluate the system-level properties of cosplicing in mouse, macaque, and human brain gene expression data using a novel network inference procedure. Genes are represented as vectors/lists of exon counts and distance measures sensitive to exon inclusion rates quantifies differences across samples. For all gene pairs, distance matrices are correlated across samples, resulting in cosplicing or cotranscriptional network matrices. We show that networks including cosplicing information are scale-free and distinct from coexpression. In the networks capturing cosplicing we find a set of novel hubs with unique characteristics distinguishing them from coexpression hubs: heavy representation in neurobiological functional pathways, strong overlap with markers of neurons and neuroglia, long coding lengths, and high number of both exons and annotated transcripts. Further, the cosplicing hubs are enriched in genes associated with autism spectrum disorders. Cosplicing hub homologs across eukaryotes show dramatically increasing intronic lengths but stable coding region lengths. Shared transcription factor binding sites increase coexpression but not cosplicing; the reverse is true for splicing-factor binding sites. Genes with protein-protein interactions have strong coexpression and cosplicing. Additional factors affecting the networks include shared microRNA binding sites, spatial colocalization within the striatum, and sharing a chromosomal folding domain. Cosplicing network patterns remain relatively stable across species.",
+  "authors": [
+    "Iancu Ovidiu D",
+    "Colville Alexandre",
+    "Oberbeck Denesa",
+    "Darakjian Priscila",
+    "McWeeney Shannon K",
+    "Hitzemann Robert"
+  ],
+  "journal": "Frontiers in genetics",
+  "year": "2015",
+  "doi": "10.3389/fgene.2015.00174",
+  "mesh": []
+}

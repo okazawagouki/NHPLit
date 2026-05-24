@@ -1,0 +1,37 @@
+{
+  "pmid": "22427488",
+  "title": "A recurrent neural network for closed-loop intracortical brain-machine interface decoders.",
+  "abstract": "Recurrent neural networks (RNNs) are useful tools for learning nonlinear relationships in time series data with complex temporal dependences. In this paper, we explore the ability of a simplified type of RNN, one with limited modifications to the internal weights called an echostate network (ESN), to effectively and continuously decode monkey reaches during a standard center-out reach task using a cortical brain-machine interface (BMI) in a closed loop. We demonstrate that the RNN, an ESN implementation termed a FORCE decoder (from first order reduced and controlled error learning), learns the task quickly and significantly outperforms the current state-of-the-art method, the velocity Kalman filter (VKF), using the measure of target acquire time. We also demonstrate that the FORCE decoder generalizes to a more difficult task by successfully operating the BMI in a randomized point-to-point task. The FORCE decoder is also robust as measured by the success rate over extended sessions. Finally, we show that decoded cursor dynamics are more like naturalistic hand movements than those of the VKF. Taken together, these results suggest that RNNs in general, and the FORCE decoder in particular, are powerful tools for BMI decoder applications.",
+  "authors": [
+    "Sussillo David",
+    "Nuyujukian Paul",
+    "Fan Joline M",
+    "Kao Jonathan C",
+    "Stavisky Sergey D",
+    "Ryu Stephen",
+    "Shenoy Krishna"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2012",
+  "doi": "10.1088/1741-2560/9/2/026027",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Artificial Intelligence",
+    "Biomechanical Phenomena",
+    "Cerebral Cortex",
+    "Computer Systems",
+    "Hand",
+    "Linear Models",
+    "Macaca mulatta",
+    "Male",
+    "Neural Networks, Computer",
+    "Neural Prostheses",
+    "Normal Distribution",
+    "Prosthesis Design",
+    "Psychomotor Performance",
+    "Software",
+    "User-Computer Interface"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "36658461",
+  "title": "The Existence of the StartReact Effect Implies Reticulospinal, Not Corticospinal, Inputs Dominate Drive to Motoneurons during Voluntary Movement.",
+  "abstract": "Reaction time is accelerated if a loud (startling) sound accompanies the cue-the \"StartReact\" effect. Animal studies revealed a reticulospinal substrate for the startle reflex; StartReact may similarly involve the reticulospinal tract, but this is currently uncertain. Here we trained two female macaque monkeys to perform elbow flexion/extension movements following a visual cue. The cue was sometimes accompanied by a loud sound, generating a StartReact effect in electromyogram response latency, as seen in humans. Extracellular recordings were made from antidromically identified corticospinal neurons in primary motor cortex (M1), from the reticular formation (RF), and from the spinal cord (SC; C5-C8 segments). After loud sound, task-related activity was suppressed in M1 (latency, 70-200 ms after cue), but was initially enhanced (70-80 ms) and then suppressed (140-210 ms) in RF. SC activity was unchanged. In a computational model, we simulated a motoneuron pool receiving input from different proportions of the average M1 and RF activity recorded experimentally. Motoneuron firing generated simulated electromyogram, allowing reaction time measurements. Only if ≥60% of motoneuron drive came from RF (≤40% from M1) did loud sound shorten reaction time. The extent of shortening increased as more drive came from RF. If RF provided <60% of drive, loud sound lengthened the reaction time-the opposite of experimental findings. The majority of the drive for voluntary movements is thus likely to originate from the brainstem, not the cortex; changes in the magnitude of the StartReact effect can measure a shift in the relative importance of descending systems.<b>SIGNIFICANCE STATEMENT</b> Our results reveal that a loud sound has opposite effects on neural spiking in corticospinal cells from primary motor cortex, and in the reticular formation. We show that this fortuitously allows changes in reaction time produced by a loud sound to be used to assess the relative importance of reticulospinal versus corticospinal control of movement, validating previous noninvasive measurements in humans. Our findings suggest that the majority of the descending drive to motoneurons producing voluntary movement in primates comes from the reticulospinal tract, not the corticospinal tract.",
+  "authors": [
+    "Tapia Jesus A",
+    "Tohyama Takamichi",
+    "Poll Annie",
+    "Baker Stuart N"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2022",
+  "doi": "10.1523/JNEUROSCI.2473-21.2022",
+  "mesh": [
+    "Humans",
+    "Animals",
+    "Female",
+    "Pyramidal Tracts",
+    "Electromyography",
+    "Motor Neurons",
+    "Reaction Time",
+    "Movement",
+    "Macaca",
+    "Reflex, Startle"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pmid": "37693412",
+  "title": "Myelin dystrophy in the aging prefrontal cortex leads to impaired signal transmission and working memory decline: a multiscale computational study.",
+  "abstract": "Normal aging leads to myelin alternations in the rhesus monkey dorsolateral prefrontal cortex (dlPFC), which are often correlated with cognitive impairment. It is hypothesized that remyelination with shorter and thinner myelin sheaths partially compensates for myelin degradation, but computational modeling has not yet explored these two phenomena together systematically. Here, we used a two-pronged modeling approach to determine how age-related myelin changes affect a core cognitive function: spatial working memory. First we built a multicompartment pyramidal neuron model fit to monkey dlPFC data, with axon including myelinated segments having paranodes, juxtaparanodes, internodes, and tight junctions, to quantify conduction velocity (CV) changes and action potential (AP) failures after demyelination and subsequent remyelination in a population of neurons. Lasso regression identified distinctive parameter sets likely to modulate an axon's susceptibility to CV changes following demyelination versus remyelination. Next we incorporated the single neuron results into a spiking neural network model of working memory. While complete remyelination nearly recovered axonal transmission and network function to unperturbed levels, our models predict that biologically plausible levels of myelin dystrophy, if uncompensated by other factors, can account for substantial working memory impairment with aging. The present computational study unites empirical data from electron microscopy up to behavior on aging, and has broader implications for many demyelinating conditions, such as multiple sclerosis or schizophrenia.",
+  "authors": [
+    "Ibañez Sara",
+    "Sengupta Nilapratim",
+    "Luebke Jennifer I",
+    "Wimmer Klaus",
+    "Weaver Christina M"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2023",
+  "doi": "10.1101/2023.08.30.555476",
+  "mesh": []
+}

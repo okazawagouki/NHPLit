@@ -1,0 +1,14 @@
+{
+  "pmid": "36644290",
+  "title": "Accounting for the valley of recovery during post-stroke rehabilitation training <i>via</i> a model-based analysis of macaque manual dexterity.",
+  "abstract": "BACKGROUND: True recovery, in which a stroke patient regains the same precise motor skills observed in prestroke conditions, is the fundamental goal of rehabilitation training. However, a transient drop in task performance during rehabilitation training after stroke, observed in human clinical outcome as well as in both macaque and squirrel monkey retrieval data, might prevent smooth transitions during recovery. This drop, i.e., recovery valley, often occurs during the transition from compensatory skill to precision skill. Here, we sought computational mechanisms behind such transitions and recovery. Analogous to motor skill learning, we considered that the motor recovery process is composed of spontaneous recovery and training-induced recovery. Specifically, we hypothesized that the interaction of these multiple skill update processes might determine profiles of the recovery valley. METHODS: A computational model of motor recovery was developed based on a state-space model of motor learning that incorporates a retention factor and interaction terms for training-induced recovery and spontaneous recovery. The model was fit to previously reported macaque motor recovery data where the monkey practiced precision grip skills after a lesion in the sensorimotor area in the cortex. Multiple computational models and the effects of each parameter were examined by model comparisons based on information criteria and sensitivity analyses of each parameter. RESULT: Both training-induced and spontaneous recoveries were necessary to explain the behavioral data. Since these two factors contributed following logarithmic function, the training-induced recovery were effective only after spontaneous biological recovery had developed. In the training-induced recovery component, the practice of the compensation also contributed to recovery of the precision grip skill as if there is a significant generalization effect of learning between these two skills. In addition, a retention factor was critical to explain the recovery profiles. CONCLUSIONS: We found that spontaneous recovery, training-induced recovery, retention factors, and interaction terms are crucial to explain recovery and recovery valley profiles. This simulation-based examination of the model parameters provides suggestions for effective rehabilitation methods to prevent the recovery valley, such as plasticity-promoting medications, brain stimulation, and robotic rehabilitation technologies.",
+  "authors": [
+    "Izawa Jun",
+    "Higo Noriyuki",
+    "Murata Yumi"
+  ],
+  "journal": "Frontiers in rehabilitation sciences",
+  "year": "2022",
+  "doi": "10.3389/fresc.2022.1042912",
+  "mesh": []
+}

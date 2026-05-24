@@ -1,0 +1,27 @@
+{
+  "pmid": "19152065",
+  "title": "Parabolic movement primitives and cortical states: merging optimality with geometric invariance.",
+  "abstract": "Previous studies have suggested that several types of rules govern the generation of complex arm movements. One class of rules consists of optimizing an objective function (e.g., maximizing motion smoothness). Another class consists of geometric and kinematic constraints, for instance the coupling between speed and curvature during drawing movements as expressed by the two-thirds power law. It has also been suggested that complex movements are composed of simpler elements or primitives. However, the ability to unify the different rules has remained an open problem. We address this issue by identifying movement paths whose generation according to the two-thirds power law yields maximally smooth trajectories. Using equi-affine differential geometry we derive a mathematical condition which these paths must obey. Among all possible solutions only parabolic paths minimize hand jerk, obey the two-thirds power law and are invariant under equi-affine transformations (which preserve the fit to the two-thirds power law). Affine transformations can be used to generate any parabolic stroke from an arbitrary parabolic template, and a few parabolic strokes may be concatenated to compactly form a complex path. To test the possibility that parabolic elements are used to generate planar movements, we analyze monkeys' scribbling trajectories. Practiced scribbles are well approximated by long parabolic strokes. Of the motor cortical neurons recorded during scribbling more were related to equi-affine than to Euclidean speed. Unsupervised segmentation of simulta- neously recorded multiple neuron activity yields states related to distinct parabolic elements. We thus suggest that the cortical representation of movements is state-dependent and that parabolic elements are building blocks used by the motor system to generate complex movements.",
+  "authors": [
+    "Polyakov Felix",
+    "Stark Eran",
+    "Drori Rotem",
+    "Abeles Moshe",
+    "Flash Tamar"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2009",
+  "doi": "10.1007/s00422-008-0287-0",
+  "mesh": [
+    "Animals",
+    "Arm",
+    "Biomechanical Phenomena",
+    "Cerebral Cortex",
+    "Haplorhini",
+    "Humans",
+    "Mathematics",
+    "Models, Biological",
+    "Motor Activity",
+    "Psychomotor Performance"
+  ]
+}

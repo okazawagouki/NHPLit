@@ -1,0 +1,22 @@
+{
+  "pmid": "21126523",
+  "title": "Parsing recursive sentences with a connectionist model including a neural stack and synaptic gating.",
+  "abstract": "It is supposed that humans are genetically predisposed to be able to recognize sequences of context-free grammars with centre-embedded recursion while other primates are restricted to the recognition of finite state grammars with tail-recursion. Our aim was to construct a minimalist neural network that is able to parse artificial sentences of both grammars in an efficient way without using the biologically unrealistic backpropagation algorithm. The core of this network is a neural stack-like memory where the push and pop operations are regulated by synaptic gating on the connections between the layers of the stack. The network correctly categorizes novel sentences of both grammars after training. We suggest that the introduction of the neural stack memory will turn out to be substantial for any biological 'hierarchical processor' and the minimalist design of the model suggests a quest for similar, realistic neural architectures.",
+  "authors": [
+    "Fedor Anna",
+    "Ittzés Péter",
+    "Szathmáry Eörs"
+  ],
+  "journal": "Journal of theoretical biology",
+  "year": "2011",
+  "doi": "10.1016/j.jtbi.2010.11.026",
+  "mesh": [
+    "Humans",
+    "Linguistics",
+    "Models, Neurological",
+    "Natural Language Processing",
+    "Neural Networks, Computer",
+    "Sensory Gating",
+    "Synapses"
+  ]
+}

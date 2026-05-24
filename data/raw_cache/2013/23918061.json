@@ -1,0 +1,32 @@
+{
+  "pmid": "23918061",
+  "title": "Long term, stable brain machine interface performance using local field potentials and multiunit spikes.",
+  "abstract": "OBJECTIVE: Brain machine interfaces (BMIs) have the potential to restore movement to people with paralysis. However, a clinically-viable BMI must enable consistently accurate control over time spans ranging from years to decades, which has not yet been demonstrated. Most BMIs that use single-unit spikes as inputs will experience degraded performance over time without frequent decoder re-training. Two other signals, local field potentials (LFPs) and multi-unit spikes (MSPs), may offer greater reliability over long periods and better performance stability than single-unit spikes. Here, we demonstrate that LFPs can be used in a biomimetic BMI to control a computer cursor. APPROACH: We implanted two rhesus macaques with intracortical microelectrodes in primary motor cortex. We recorded LFP and MSP signals from the monkeys while they performed a continuous reaching task, moving a cursor to randomly-placed targets on a computer screen. We then used the LFP and MSP signals to construct biomimetic decoders for control of the cursor. MAIN RESULTS: Both monkeys achieved high-performance, continuous control that remained stable or improved over nearly 12 months using an LFP decoder that was not retrained or adapted. In parallel, the monkeys used MSPs to control a BMI without retraining or adaptation and had similar or better performance, and that predominantly remained stable over more than six months. In contrast to their stable online control, both LFP and MSP signals showed substantial variability when used offline to predict hand movements. SIGNIFICANCE: Our results suggest that the monkeys were able to stabilize the relationship between neural activity and cursor movement during online BMI control, despite variability in the relationship between neural activity and hand movements.",
+  "authors": [
+    "Flint Robert D",
+    "Wright Zachary A",
+    "Scheid Michael R",
+    "Slutzky Marc W"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2013",
+  "doi": "10.1088/1741-2560/10/5/056005",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Data Interpretation, Statistical",
+    "Evoked Potentials",
+    "Female",
+    "Hand",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Motor Cortex",
+    "Neural Prostheses",
+    "Prosthesis Design",
+    "Psychomotor Performance",
+    "Reproducibility of Results",
+    "Reward"
+  ]
+}

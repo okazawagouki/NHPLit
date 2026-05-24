@@ -1,0 +1,30 @@
+{
+  "pmid": "33999124",
+  "title": "Maximum Entropy Principle Underlies Wiring Length Distribution in Brain Networks.",
+  "abstract": "A brain network comprises a substantial amount of short-range connections with an admixture of long-range connections. The portion of long-range connections in brain networks is observed to be quantitatively dissimilar across species. It is hypothesized that the length of connections is constrained by the spatial embedding of brain networks, yet fundamental principles that underlie the wiring length distribution remain unclear. By quantifying the structural diversity of a brain network using Shannon's entropy, here we show that the wiring length distribution across multiple species-including Drosophila, mouse, macaque, human, and C. elegans-follows the maximum entropy principle (MAP) under the constraints of limited wiring material and the spatial locations of brain areas or neurons. In addition, by considering stochastic axonal growth, we propose a network formation process capable of reproducing wiring length distributions of the 5 species, thereby implementing MAP in a biologically plausible manner. We further develop a generative model incorporating MAP, and show that, for the 5 species, the generated network exhibits high similarity to the real network. Our work indicates that the brain connectivity evolves to be structurally diversified by maximizing entropy to support efficient interareal communication, providing a potential organizational principle of brain networks.",
+  "authors": [
+    "Song Yuru",
+    "Zhou Douglas",
+    "Li Songting"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2021",
+  "doi": "10.1093/cercor/bhab110",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Axons",
+    "Brain",
+    "Caenorhabditis elegans",
+    "Connectome",
+    "Drosophila",
+    "Entropy",
+    "Humans",
+    "Macaca",
+    "Mice",
+    "Models, Neurological",
+    "Nerve Net",
+    "Species Specificity",
+    "Stochastic Processes"
+  ]
+}

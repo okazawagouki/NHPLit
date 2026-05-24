@@ -1,0 +1,31 @@
+{
+  "pmid": "18620066",
+  "title": "Evaluation of hierarchical Bayesian method through retinotopic brain activities reconstruction from fMRI and MEG signals.",
+  "abstract": "A hierarchical Bayesian method estimated current sources from MEG data, incorporating an fMRI constraint as a hierarchical prior whose strength is controlled by hyperparameters. A previous study [Sato, M., Yoshioka, T., Kajihara, S., Toyama, K., Goda, N., Doya, K., Kawato, M., 2004. Hierarchical Bayesian estimation for MEG inverse problem. Neuroimage 23, 806-826] demonstrated that fMRI information improves the localization accuracy for simulated data. The goal of the present study is to confirm the usefulness of the hierarchical Bayesian method by the real MEG and fMRI experiments using visual stimuli with a fan-shaped checkerboard pattern presented in four visual quadrants. The proper range of hyperparameters was systematically analyzed using goodness of estimate measures for the estimated currents. The robustness with respect to false-positive activities in the fMRI information was also evaluated by using noisy priors constructed by adding artificial noises to real fMRI signals. It was shown that with appropriate hyperparameter values, the retinotopic organization and temporal dynamics in the early visual area were reconstructed, which were in a close correspondence with the known brain imaging and electrophysiology of the humans and monkeys. The false-positive effects of the noisy priors were suppressed by using appropriate hyperparameter values. The hierarchical Bayesian method also was capable of reconstructing retinotopic sequential activation in V1 with fine spatiotemporal resolution, from MEG data elicited by sequential stimulation of the four visual quadrants with the fan-shaped checker board pattern at much shorter intervals (150 and 400 ms) than the temporal resolution of fMRI. These results indicate the potential capability for the hierarchical Bayesian method combining MEG with fMRI to improve the spatiotemporal resolution of noninvasive brain activity measurement.",
+  "authors": [
+    "Yoshioka Taku",
+    "Toyama Keisuke",
+    "Kawato Mitsuo",
+    "Yamashita Okito",
+    "Nishina Shigeaki",
+    "Yamagishi Noriko",
+    "Sato Masa-aki"
+  ],
+  "journal": "NeuroImage",
+  "year": "2008",
+  "doi": "10.1016/j.neuroimage.2008.06.013",
+  "mesh": [
+    "Algorithms",
+    "Bayes Theorem",
+    "Brain Mapping",
+    "Evoked Potentials, Visual",
+    "Humans",
+    "Image Enhancement",
+    "Image Interpretation, Computer-Assisted",
+    "Magnetic Resonance Imaging",
+    "Magnetoencephalography",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Visual Cortex"
+  ]
+}

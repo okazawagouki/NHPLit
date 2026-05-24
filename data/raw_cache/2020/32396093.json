@@ -1,0 +1,27 @@
+{
+  "pmid": "32396093",
+  "title": "Spatiotemporal Maps of Proprioceptive Inputs to the Cervical Spinal Cord During Three-Dimensional Reaching and Grasping.",
+  "abstract": "Proprioceptive feedback is a critical component of voluntary movement planning and execution. Neuroprosthetic technologies aiming at restoring movement must interact with it to restore accurate motor control. Optimization and design of such technologies depends on the availability of quantitative insights into the neural dynamics of proprioceptive afferents during functional movements. However, recording proprioceptive neural activity during unconstrained movements in clinically relevant animal models presents formidable challenges. In this work, we developed a computational framework to estimate the spatiotemporal patterns of proprioceptive inputs to the cervical spinal cord during three-dimensional arm movements in monkeys. We extended a biomechanical model of the monkey arm with ex-vivo measurements, and combined it with models of mammalian group-Ia, Ib and II afferent fibers. We then used experimental recordings of arm kinematics and muscle activity of two monkeys performing a reaching and grasping task to estimate muscle stretches and forces with computational biomechanics. Finally, we projected the simulated proprioceptive firing rates onto the cervical spinal roots, thus obtaining spatiotemporal maps of spinal proprioceptive inputs during voluntary movements. Estimated maps show complex and markedly distinct patterns of neural activity for each of the fiber populations spanning the spinal cord rostro-caudally. Our results indicate that reproducing the proprioceptive information flow to the cervical spinal cord requires complex spatio-temporal modulation of each spinal root. Our model can support the design of neuroprosthetic technologies as well as in-silico investigations of the primate sensorimotor system.",
+  "authors": [
+    "Kibleur Pierre",
+    "Tata Shravan R",
+    "Greiner Nathan",
+    "Conti Sara",
+    "Barra Beatrice",
+    "Zhuang Katie",
+    "Kaeser Melanie",
+    "Ijspeert Auke",
+    "Capogrosso Marco"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2020",
+  "doi": "10.1109/TNSRE.2020.2986491",
+  "mesh": [
+    "Animals",
+    "Cervical Cord",
+    "Hand Strength",
+    "Movement",
+    "Proprioception",
+    "Spinal Cord"
+  ]
+}

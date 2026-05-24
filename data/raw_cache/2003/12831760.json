@@ -1,0 +1,24 @@
+{
+  "pmid": "12831760",
+  "title": "Coding of the contrasts in natural images by populations of neurons in primary visual cortex (V1).",
+  "abstract": "It is possible to discriminate between grating contrasts over a 300-fold contrast range, whereas V1 neurons have very limited dynamic ranges. Using populations of model neurons with contrast-response parameters taken from electrophysiological studies (cat and macaque), we investigated ways of combining responses to code contrast over the full range. One model implemented a pooling rule that retained information about individual response patterns. The second summed responses indiscriminately. We measured accuracy of contrast identification over a wide range of contrasts and found the first model to be more accurate; the mutual information between actual and estimated contrast was also greatest for this model. The accuracy peak for the population of cat neurons coincided with the peak of the distribution of contrasts in natural images, suggesting an ecological match. Macaque neurons seem better able to code contrasts that are slightly higher on average than those found in the natural environment.",
+  "authors": [
+    "Clatworthy P L",
+    "Chirimuuta M",
+    "Lauritzen J S",
+    "Tolhurst D J"
+  ],
+  "journal": "Vision research",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cats",
+    "Computer Simulation",
+    "Contrast Sensitivity",
+    "Haplorhini",
+    "Humans",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "37188501",
+  "title": "A single-cell map of antisense oligonucleotide activity in the brain.",
+  "abstract": "Antisense oligonucleotides (ASOs) dosed into cerebrospinal fluid (CSF) distribute broadly throughout the central nervous system (CNS). By modulating RNA, they hold the promise of targeting root molecular causes of disease and hold potential to treat myriad CNS disorders. Realization of this potential requires that ASOs must be active in the disease-relevant cells, and ideally, that monitorable biomarkers also reflect ASO activity in these cells. The biodistribution and activity of such centrally delivered ASOs have been deeply characterized in rodent and non-human primate (NHP) models, but usually only in bulk tissue, limiting our understanding of the distribution of ASO activity across individual cells and across diverse CNS cell types. Moreover, in human clinical trials, target engagement is usually monitorable only in a single compartment, CSF. We sought a deeper understanding of how individual cells and cell types contribute to bulk tissue signal in the CNS, and how these are linked to CSF biomarker outcomes. We employed single nucleus transcriptomics on tissue from mice treated with RNase H1 ASOs against Prnp and Malat1 and NHPs treated with an ASO against PRNP. Pharmacologic activity was observed in every cell type, though sometimes with substantial differences in magnitude. Single cell RNA count distributions implied target RNA suppression in every single sequenced cell, rather than intense knockdown in only some cells. Duration of action up to 12 weeks post-dose differed across cell types, being shorter in microglia than in neurons. Suppression in neurons was generally similar to, or more robust than, the bulk tissue. In macaques, PrP in CSF was lowered 40% in conjunction with PRNP knockdown across all cell types including neurons, arguing that a CSF biomarker readout is likely to reflect ASO pharmacodynamic effect in disease-relevant cells in a neuronal disorder. Our results provide a reference dataset for ASO activity distribution in the CNS and establish single nucleus sequencing as a method for evaluating cell type specificity of oligonucleotide therapeutics and other modalities.",
+  "authors": [
+    "Mortberg Meredith A",
+    "Gentile Juliana E",
+    "Nadaf Naeem M",
+    "Vanderburg Charles",
+    "Simmons Sean",
+    "Dubinsky Dan",
+    "Slamin Adam",
+    "Maldonado Salome",
+    "Petersen Caroline L",
+    "Jones Nichole",
+    "Kordasiewicz Holly B",
+    "Zhao Hien T",
+    "Vallabh Sonia M",
+    "Minikel Eric Vallabh"
+  ],
+  "journal": "Nucleic acids research",
+  "year": "2023",
+  "doi": "10.1093/nar/gkad371",
+  "mesh": [
+    "Animals",
+    "Mice",
+    "Brain",
+    "Oligonucleotides",
+    "Oligonucleotides, Antisense",
+    "RNA",
+    "Tissue Distribution",
+    "Transcription Factors",
+    "Cerebrospinal Fluid",
+    "Central Nervous System Diseases"
+  ]
+}

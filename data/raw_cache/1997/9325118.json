@@ -1,0 +1,14 @@
+{
+  "pmid": "9325118",
+  "title": "Analyzing Neuronal Processing Locus in Stimulus-Response Association Tasks.",
+  "abstract": "If a neuron is being recorded while a trained animal performs a 2x2 stimulus-response association task, how can we decide whether it is related more to the encoding and analysis of the sensory stimulus, to the preparation and execution of the motor response, or to the animal's decision that associates the two? The difficulty arises because, within a single task, stimulus and response are intrinsically confounded per task instruction; it is only through proper analysis of errors in performance (behavioral noise) and variance in recorded neural activity (neuronal noise) that one can identify the sensorimotor significance of such activity. A quantitative technique is proposed here, based on the framework of signal detection theory, to determine the sensorimotor \"locus\" of a neural process when recorded simultaneously with the animal's performance on a trial-by-trial basis. The premise is that a pure sensory process should be influenced only by the nature of the sensory stimulus regardless of the nature of the behavioral response, and vice versa for a pure motor process. From the recorded neural activity, we calculate the prediction or discriminability (by an ideal operator) for the stimulus categories and for the response categories. These discriminability values are then compared with each other to infer whether the neural process is more related to stimulus or to response. An index is derived that quantitatively specifies the processing locus of a given neural process along the sensorimotor continuum, with pure sensory and pure motor processes at the two extremes. In between lies the locus of decision-related processes whose activities allow equal (but not chance) prediction for stimulus and response categories. The technique is applied to single-unit activities recorded in monkey primary motor cortex (MI) while the monkey performed a simple go/nogo task involving visual stimulus and hand/wrist movement. We find that sensorimotor indices of MI neurons are widely distributed, with a preponderance of motor-related units (that better predict go/nogo response than go/nogo stimulus) but also sensory-related ones (with predictabilities reversed). Copyright 1997 Academic Press",
+  "authors": [
+    "Zhang J",
+    "Riehle A",
+    "Requin J"
+  ],
+  "journal": "Journal of mathematical psychology",
+  "year": "1997",
+  "doi": "",
+  "mesh": []
+}

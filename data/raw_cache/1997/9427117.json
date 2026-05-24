@@ -1,0 +1,19 @@
+{
+  "pmid": "9427117",
+  "title": "A network model of motion processing in area MT of primates.",
+  "abstract": "A simple and biologically plausible model is proposed to simulate the visual motion processing taking place in the middle temporal (MT) area of the visual cortex in the primate brain. The model is a hierarchical neural network composed of multiple competitive learning layers. The input layer of the network simulates the neurons in the primary visual cortex (V1), which are sensitive to the orientation and motion velocity of the visual stimuli, and the middle and output layers of the network simulate the component MT and pattern MT neurons, which are selectively responsive to local and global motions, respectively. The network model was tested with various simulated motion patterns (random dots of different direction correlations, transparent motion, grating and plaid patterns, and so on). The response properties of the model closely resemble many of the known features of the MT neurons found neurophysiologically. These results show that the sophisticated response behaviors of the MT neurons can emerge naturally from some very simple models, such as a competitive learning network.",
+  "authors": [
+    "Wang R"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "1997",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Models, Neurological",
+    "Nerve Net",
+    "Primates",
+    "Psychomotor Performance",
+    "Visual Cortex"
+  ]
+}

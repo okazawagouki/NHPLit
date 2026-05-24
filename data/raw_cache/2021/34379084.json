@@ -1,0 +1,23 @@
+{
+  "pmid": "34379084",
+  "title": "Closing the gap between single-unit and neural population codes: Insights from deep learning in face recognition.",
+  "abstract": "Single-unit responses and population codes differ in the \"read-out\" information they provide about high-level visual representations. Diverging local and global read-outs can be difficult to reconcile with in vivo methods. To bridge this gap, we studied the relationship between single-unit and ensemble codes for identity, gender, and viewpoint, using a deep convolutional neural network (DCNN) trained for face recognition. Analogous to the primate visual system, DCNNs develop representations that generalize over image variation, while retaining subject (e.g., gender) and image (e.g., viewpoint) information. At the unit level, we measured the number of single units needed to predict attributes (identity, gender, viewpoint) and the predictive value of individual units for each attribute. Identification was remarkably accurate using random samples of only 3% of the network's output units, and all units had substantial identity-predicting power. Cross-unit responses were minimally correlated, indicating that single units code non-redundant identity cues. Gender and viewpoint classification required large-scale pooling of units-individual units had weak predictive power. At the ensemble level, principal component analysis of face representations showed that identity, gender, and viewpoint separated into high-dimensional subspaces, ordered by explained variance. Unit-based directions in the representational space were compared with the directions associated with the attributes. Identity, gender, and viewpoint contributed to all individual unit responses, undercutting a neural tuning analogy. Instead, single-unit responses carry superimposed, distributed codes for face identity, gender, and viewpoint. This undermines confidence in the interpretation of neural representations from unit response profiles for both DCNNs and, by analogy, high-level vision.",
+  "authors": [
+    "Parde Connor J",
+    "Colón Y Ivette",
+    "Hill Matthew Q",
+    "Castillo Carlos D",
+    "Dhar Prithviraj",
+    "O'Toole Alice J"
+  ],
+  "journal": "Journal of vision",
+  "year": "2021",
+  "doi": "10.1167/jov.21.8.15",
+  "mesh": [
+    "Animals",
+    "Deep Learning",
+    "Face",
+    "Facial Recognition",
+    "Neural Networks, Computer"
+  ]
+}

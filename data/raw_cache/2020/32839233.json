@@ -1,0 +1,27 @@
+{
+  "pmid": "32839233",
+  "title": "Confluence of Timing and Reward Biases in Perceptual Decision-Making Dynamics.",
+  "abstract": "Although the decisions of our daily lives often occur in the context of temporal and reward structures, the impact of such regularities on decision-making strategy is poorly understood. Here, to explore how temporal and reward context modulate strategy, we trained 2 male rhesus monkeys to perform a novel perceptual decision-making task with asymmetric rewards and time-varying evidence reliability. To model the choice and response time patterns, we developed a computational framework for fitting generalized drift-diffusion models, which flexibly accommodate diverse evidence accumulation strategies. We found that a dynamic urgency signal and leaky integration, in combination with two independent forms of reward biases, best capture behavior. We also tested how temporal structure influences urgency by systematically manipulating the temporal structure of sensory evidence, and found that the time course of urgency was affected by temporal context. Overall, our approach identified key components of cognitive mechanisms for incorporating temporal and reward structure into decisions.<b>SIGNIFICANCE STATEMENT</b> In everyday life, decisions are influenced by many factors, including reward structures and stimulus timing. While reward and timing have been characterized in isolation, ecologically valid decision-making involves a multiplicity of factors acting simultaneously. This raises questions about whether the same decision-making strategy is used when these two factors are concurrently manipulated. To address these questions, we trained rhesus monkeys to perform a novel decision-making task with both reward asymmetry and temporal uncertainty. In order to understand their strategy and hint at its neural mechanisms, we used the new generalized drift diffusion modeling framework to model both reward and timing mechanisms. We found two of each reward and timing mechanisms are necessary to explain our data.",
+  "authors": [
+    "Shinn Maxwell",
+    "Ehrlich Daniel B",
+    "Lee Daeyeol",
+    "Murray John D",
+    "Seo Hyojung"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2020",
+  "doi": "10.1523/JNEUROSCI.0544-20.2020",
+  "mesh": [
+    "Animals",
+    "Bias",
+    "Brain",
+    "Decision Making",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Perception",
+    "Reward",
+    "Time Factors"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "8871238",
+  "title": "Nature and precision of temporal coding in visual cortex: a metric-space analysis.",
+  "abstract": "1. We recorded single-unit and multi-unit activity in response to transient presentation of texture and grating patterns at 25 sites within the parafoveal representation of V1, V2, and V3 of two awake monkeys trained to perform a fixation task. In grating experiments, stimuli varied in orientation, spatial frequency, or both. In texture experiments, stimuli varied in contrast, check size, texture type, or pairs of these attributes. 2. To examine the nature and precision of temporal coding, we compared individual responses elicited by each set of stimuli in terms of two families of metrics. One family of metrics, D(spike), was sensitive to the absolute spike time (following stimulus onset). The second family of metrics, D(interval), was sensitive to the pattern of interspike intervals. In each family, the metrics depend on a parameter q, which expresses the precision of temporal coding. For q = 0, both metrics collapse into the \"spike count\" metric D(Count), which is sensitive to the number of impulses but insensitive to their position in time. 3. Each of these metrics, with values of q ranging from 0 to 512/s, was used to calculate the distance between all pairs of spike trains within each dataset. The extent of stimulus-specific clustering manifest in these pairwise distances was quantified by an information measure. Chance clustering was estimated by applying the same procedure to synthetic data sets in which responses were assigned randomly to the input stimuli. 4. Of the 352 data sets, 170 showed evidence of tuning via the spike count (q = 0) metric, 294 showed evidence of tuning via the spike time metric, 272 showed evidence of tuning via the spike interval metric to the stimulus attribute (contrast, check size, orientation, spatial frequency, or texture type) under study. Across the entire dataset, the information not attributable to chance clustering averaged 0.042 bits for the spike count metric, 0.171 bits for the optimal spike time metric, and 0.107 bits for the optimal spike interval metric. 5. The reciprocal of the optimal cost q serves as a measure of the temporal precision of temporal coding. In V1 and V2, with both metrics, temporal precision was highest for contrast (ca. 10-30 ms) and lowest for texture type (ca. 100 ms). This systematic dependence of q on stimulus attribute provides a possible mechanism for the simultaneous representation of multiple stimulus attributes in one spike train. 6. Our findings are inconsistent with Poisson models of spike trains. Synthetic data sets in which firing rate was governed by a time-dependent Poisson process matched to the observed poststimulus time histogram (PSTH) overestimated clustering induced by D(count) and, for low values of q, D(spike)[q] and D(intervals)[q]. Synthetic data sets constructed from a modified Poisson process, which preserved not only the PSTH but also spike count statistics accounted for the clustering induced by D(count) but underestimated the clustering induced by D(spike)[q] and D(interval)[q].",
+  "authors": [
+    "Victor J D",
+    "Purpura K P"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1996",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain Mapping",
+    "Contrast Sensitivity",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Orientation",
+    "Pattern Recognition, Visual",
+    "Time Factors",
+    "Visual Cortex",
+    "Wakefulness"
+  ]
+}

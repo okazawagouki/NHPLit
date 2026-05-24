@@ -1,0 +1,29 @@
+{
+  "pmid": "39288997",
+  "title": "Variations in Clustering of Multielectrode Local Field Potentials in the Motor Cortex of Macaque Monkeys during a Reach-and-Grasp Task.",
+  "abstract": "There is experimental evidence of varying correlation among the elements of the neuromuscular system over the course of the reach-and-grasp task. The aim of this study was to investigate if modifications in correlations and clustering can be detected in the local field potential (LFP) recordings of the motor cortex during the task. To this end, we analyzed the LFP recordings from a previously published study on monkeys that performed a reach-and-grasp task for targets with a vertical or horizontal orientation. LFP signals were recorded from the motor and premotor cortex of macaque monkeys as they performed the task. We found very robust changes in the correlations of the multielectrode LFP recordings that corresponded to task epochs. Mean LFP correlation increased significantly during reach and then decreased during grasp. This pattern was very robust for both left and right arm reaches irrespective of target orientation. A hierarchical cluster analysis also demonstrated similar changes. In focusing on correlations, our study has contributed new insights to the understanding of LFP signals and their relationship to movement. A sliding window computation of the number of clusters was performed to probe the capacities of the LFP clusters for detecting upcoming task events. For a very high percentage of trials (97.89%), there was a downturn in cluster number following the Pellet Drop (GO signal) that reached a minimum preceding the Start of grasp, hence indicating that cluster analyses of LFPs could contribute to signaling an increased probability of the Start of grasp.",
+  "authors": [
+    "Chambellant Florian",
+    "Falaki Ali",
+    "Moreau-Debord Ian",
+    "French Robert",
+    "Serrano Eleonore",
+    "Quessy Stephan",
+    "Dancause Numa",
+    "Thomas Elizabeth"
+  ],
+  "journal": "eNeuro",
+  "year": "2024",
+  "doi": "10.1523/ENEURO.0047-24.2024",
+  "mesh": [
+    "Animals",
+    "Motor Cortex",
+    "Hand Strength",
+    "Cluster Analysis",
+    "Male",
+    "Macaca mulatta",
+    "Psychomotor Performance",
+    "Movement",
+    "Action Potentials"
+  ]
+}

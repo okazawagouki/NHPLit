@@ -1,0 +1,15 @@
+{
+  "pmid": "39605715",
+  "title": "Deep Neural Networks Explain Spiking Activity in Auditory Cortex.",
+  "abstract": "For static stimuli or at gross (~1-s) time scales, artificial neural networks (ANNs) that have been trained on challenging engineering tasks, like image classification and automatic speech recognition, are now the best predictors of neural responses in primate visual and auditory cortex. It is, however, unknown whether this success can be extended to spiking activity at fine time scales, which are particularly relevant to audition. Here we address this question with ANNs trained on speech audio, and acute multi-electrode recordings from the auditory cortex of squirrel monkeys. We show that layers of trained ANNs can predict the spike counts of neurons responding to speech audio and to monkey vocalizations at bin widths of 50 ms and below. For some neurons, the ANNs explain close to all of the explainable variance-much more than traditional spectrotemporal-receptive-field models, and more than untrained networks. Non-primary neurons tend to be more predictable by deeper layers of the ANNs, but there is much variation by neuron, which would be invisible to coarser recording modalities.",
+  "authors": [
+    "Ahmed Bilal",
+    "Downer Joshua D",
+    "Malone Brian J",
+    "Makin Joseph G"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.11.12.623280",
+  "mesh": []
+}

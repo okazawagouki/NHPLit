@@ -1,0 +1,14 @@
+{
+  "pmid": "29951191",
+  "title": "Not-So-CLEVR: learning same-different relations strains feedforward neural networks.",
+  "abstract": "The advent of deep learning has recently led to great successes in various engineering applications. As a prime example, convolutional neural networks, a type of feedforward neural network, now approach human accuracy on visual recognition tasks like image classification and face recognition. However, here we will show that feedforward neural networks struggle to learn abstract visual relations that are effortlessly recognized by non-human primates, birds, rodents and even insects. We systematically study the ability of feedforward neural networks to learn to recognize a variety of visual relations and demonstrate that same-different visual relations pose a particular strain on these networks. Networks fail to learn same-different visual relations when stimulus variability makes rote memorization difficult. Further, we show that learning same-different problems becomes trivial for a feedforward network that is fed with perceptually grouped stimuli. This demonstration and the comparative success of biological vision in learning visual relations suggests that feedback mechanisms such as attention, working memory and perceptual grouping may be the key components underlying human-level abstract visual reasoning.",
+  "authors": [
+    "Kim Junkyung",
+    "Ricci Matthew",
+    "Serre Thomas"
+  ],
+  "journal": "Interface focus",
+  "year": "2018",
+  "doi": "10.1098/rsfs.2018.0011",
+  "mesh": []
+}

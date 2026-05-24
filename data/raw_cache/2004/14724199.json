@@ -1,0 +1,28 @@
+{
+  "pmid": "14724199",
+  "title": "Post-spike distance-to-threshold trajectories of neurones in monkey motor cortex.",
+  "abstract": "A recently developed method permits calculation of the post-spike distance-to-threshold trajectory from an extracellularly recorded spontaneous spike train, using a transform of the interspike interval histogram. We applied this method to 61 single neurones recorded from the primary motor cortex of an awake behaving monkey; 39 cells were antidromically identified as pyramidal tract neurones (PTNs). The cells fell into three categories. Fifty-three trajectories (37 from PTNs) had statistically significant peaks 10-60 ms after the preceding spike. Six neurones (2 PTNs) had non-peaked trajectories which rose exponentially towards threshold. Two cells (both unidentified) had trajectories which declined monotonically away from threshold with increasing post-spike latency. The peaked trajectories were unlikely simply to be an artefact of changing firing rate, which potentially can invalidate this method. Firstly, computer simulations confirmed that the method could accurately re-create both exponential and peaked trajectories, even in the presence of the same rate modulation as seen experimentally. Secondly, the responses of eight cells to weak single pulse intracortical microstimulation (20 microA) through a nearby electrode were measured. For each cell, including representatives of all three trajectory shapes, the modulation of response probability with post-spike latency was consistent with the trajectory computed from the spontaneous discharge. We also demonstrated that cells showed a peaked trajectory during periods with either high or low spontaneous network oscillations, so that the peaks were likely to be generated in part by single cell properties rather than exclusively by network activity. We conclude that many single neurones in motor cortex have an increased probability of firing a spike around 30 ms after the previous action potential. This could act to enhance synchronized oscillatory discharge among populations of cells at functionally relevant frequencies.",
+  "authors": [
+    "Wetmore Daniel Z",
+    "Baker Stuart N"
+  ],
+  "journal": "The Journal of physiology",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Differential Threshold",
+    "Electric Stimulation",
+    "Electrophysiology",
+    "Female",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neural Pathways",
+    "Neurons",
+    "Pyramidal Tracts",
+    "Reaction Time"
+  ]
+}

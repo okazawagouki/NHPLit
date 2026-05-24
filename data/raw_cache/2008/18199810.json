@@ -1,0 +1,30 @@
+{
+  "pmid": "18199810",
+  "title": "Optimal temporal decoding of neural population responses in a reaction-time visual detection task.",
+  "abstract": "Behavioral performance in detection and discrimination tasks is likely to be limited by the quality and nature of the signals carried by populations of neurons in early sensory cortical areas. Here we used voltage-sensitive dye imaging (VSDI) to directly measure neural population responses in the primary visual cortex (V1) of monkeys performing a reaction-time detection task. Focusing on the temporal properties of the population responses, we found that V1 responses are consistent with a stimulus-evoked response with amplitude and latency that depend on target contrast and a stimulus-independent additive noise with long-lasting temporal correlations. The noise had much lower amplitude than the ongoing activity reported previously in anesthetized animals. To understand the implications of these properties for subsequent processing stages that mediate behavior, we derived the Bayesian ideal observer that specifies how to optimally use neural responses in reaction time tasks. Using the ideal observer analysis, we show that 1) the observed temporal correlations limit the performance benefit that can be attained by accumulating V1 responses over time, 2) a simple temporal decorrelation operation with time-lagged excitation and inhibition minimizes the detrimental effect of these correlations, 3) the neural information relevant for target detection is concentrated in the initial response following stimulus onset, and 4) a decoder that optimally uses V1 responses far outperforms the monkey in both speed and accuracy. Finally, we demonstrate that for our particular detection task, temporal decorrelation followed by an appropriate running integrator can approach the speed and accuracy of the optimal decoder.",
+  "authors": [
+    "Chen Yuzhi",
+    "Geisler Wilson S",
+    "Seidemann Eyal"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2008",
+  "doi": "10.1152/jn.00698.2007",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Behavior, Animal",
+    "Brain Mapping",
+    "Contrast Sensitivity",
+    "Discrimination, Psychological",
+    "Haplorhini",
+    "Nonlinear Dynamics",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Saccades",
+    "Time Factors",
+    "Vision, Ocular",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

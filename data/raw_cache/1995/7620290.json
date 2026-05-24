@@ -1,0 +1,24 @@
+{
+  "pmid": "7620290",
+  "title": "Neural correlates of learning in the prefrontal cortex of the monkey: a predictive model.",
+  "abstract": "The principles underlying the organization and operation of the prefrontal cortex have been addressed by neural network modeling. The involvement of the prefrontal cortex in the temporal organization of behavior can be defined by processing units that switch between two stable states of activity (bistable behavior) in response to synaptic inputs. Long-term representation of programs requiring short-term memory can result from activity-dependent modifications of the synaptic transmission controlling the bistable behavior. After learning, the sustained activity of a given neuron represents the selective memorization of a past event, the selective anticipation of a future event, and the predictability of reinforcement. A simulated neural network illustrates the abilities of the model (1) to learn, via a natural step-by-step training protocol, the paradigmatic task (delayed response) used for testing prefrontal neurons in primates, (2) to display the same categories of neuronal activities, and (3) to predict how they change during learning. In agreement with experimental data, two main types of activity contribute to the adaptive properties of the network. The first is transient activity time-locked to events of the task and its profile remains constant during successive training stages. The second is sustained activity that undergoes nonmonotonic changes with changes in reward contingency that occur during the transition between stages.",
+  "authors": [
+    "Guigon E",
+    "Dorizzi B",
+    "Burnod Y",
+    "Schultz W"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "1995",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Frontal Lobe",
+    "Learning",
+    "Macaca mulatta",
+    "Mathematics",
+    "Motor Neurons",
+    "Neural Networks, Computer",
+    "Time Factors"
+  ]
+}

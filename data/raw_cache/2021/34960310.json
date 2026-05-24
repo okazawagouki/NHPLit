@@ -1,0 +1,19 @@
+{
+  "pmid": "34960310",
+  "title": "ARTFLOW: A Fast, Biologically Inspired Neural Network that Learns Optic Flow Templates for Self-Motion Estimation.",
+  "abstract": "Most algorithms for steering, obstacle avoidance, and moving object detection rely on accurate self-motion estimation, a problem animals solve in real time as they navigate through diverse environments. One biological solution leverages optic flow, the changing pattern of motion experienced on the eye during self-motion. Here I present ARTFLOW, a biologically inspired neural network that learns patterns in optic flow to encode the observer's self-motion. The network combines the fuzzy ART unsupervised learning algorithm with a hierarchical architecture based on the primate visual system. This design affords fast, local feature learning across parallel modules in each network layer. Simulations show that the network is capable of learning stable patterns from optic flow simulating self-motion through environments of varying complexity with only one epoch of training. ARTFLOW trains substantially faster and yields self-motion estimates that are far more accurate than a comparable network that relies on Hebbian learning. I show how ARTFLOW serves as a generative model to predict the optic flow that corresponds to neural activations distributed across the network.",
+  "authors": [
+    "Layton Oliver W"
+  ],
+  "journal": "Sensors (Basel, Switzerland)",
+  "year": "2021",
+  "doi": "10.3390/s21248217",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Motion",
+    "Motion Perception",
+    "Neural Networks, Computer",
+    "Optic Flow"
+  ]
+}

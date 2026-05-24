@@ -1,0 +1,25 @@
+{
+  "pmid": "26160947",
+  "title": "NEURONAL MODELING. Single-trial spike trains in parietal cortex reveal discrete steps during decision-making.",
+  "abstract": "Neurons in the macaque lateral intraparietal (LIP) area exhibit firing rates that appear to ramp upward or downward during decision-making. These ramps are commonly assumed to reflect the gradual accumulation of evidence toward a decision threshold. However, the ramping in trial-averaged responses could instead arise from instantaneous jumps at different times on different trials. We examined single-trial responses in LIP using statistical methods for fitting and comparing latent dynamical spike-train models. We compared models with latent spike rates governed by either continuous diffusion-to-bound dynamics or discrete \"stepping\" dynamics. Roughly three-quarters of the choice-selective neurons we recorded were better described by the stepping model. Moreover, the inferred steps carried more information about the animal's choice than spike counts.",
+  "authors": [
+    "Latimer Kenneth W",
+    "Yates Jacob L",
+    "Meister Miriam L R",
+    "Huk Alexander C",
+    "Pillow Jonathan W"
+  ],
+  "journal": "Science (New York, N.Y.)",
+  "year": "2015",
+  "doi": "10.1126/science.aaa4056",
+  "mesh": [
+    "Animals",
+    "Choice Behavior",
+    "Decision Making",
+    "Macaca",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Parietal Lobe"
+  ]
+}

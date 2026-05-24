@@ -1,0 +1,33 @@
+{
+  "pmid": "26655766",
+  "title": "Brain-state classification and a dual-state decoder dramatically improve the control of cursor movement through a brain-machine interface.",
+  "abstract": "OBJECTIVE: It is quite remarkable that brain machine interfaces (BMIs) can be used to control complex movements with fewer than 100 neurons. Success may be due in part to the limited range of dynamical conditions under which most BMIs are tested. Achieving high-quality control that spans these conditions with a single linear mapping will be more challenging. Even for simple reaching movements, existing BMIs must reduce the stochastic noise of neurons by averaging the control signals over time, instead of over the many neurons that normally control movement. This forces a compromise between a decoder with dynamics allowing rapid movement and one that allows postures to be maintained with little jitter. Our current work presents a method for addressing this compromise, which may also generalize to more highly varied dynamical situations, including movements with more greatly varying speed. APPROACH: We have developed a system that uses two independent Wiener filters as individual components in a single decoder, one optimized for movement, and the other for postural control. We computed an LDA classifier using the same neural inputs. The decoder combined the outputs of the two filters in proportion to the likelihood assigned by the classifier to each state. MAIN RESULTS: We have performed online experiments with two monkeys using this neural-classifier, dual-state decoder, comparing it to a standard, single-state decoder as well as to a dual-state decoder that switched states automatically based on the cursor's proximity to a target. The performance of both monkeys using the classifier decoder was markedly better than that of the single-state decoder and comparable to the proximity decoder. SIGNIFICANCE: We have demonstrated a novel strategy for dealing with the need to make rapid movements while also maintaining precise cursor control when approaching and stabilizing within targets. Further gains can undoubtedly be realized by optimizing the performance of the individual movement and posture decoders.",
+  "authors": [
+    "Sachs Nicholas A",
+    "Ruiz-Torres Ricardo",
+    "Perreault Eric J",
+    "Miller Lee E"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2016",
+  "doi": "10.1088/1741-2560/13/1/016009",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Communication Devices for People with Disabilities",
+    "Computer Peripherals",
+    "Electroencephalography",
+    "Macaca mulatta",
+    "Male",
+    "Motion",
+    "Pattern Recognition, Automated",
+    "Psychomotor Performance",
+    "Reproducibility of Results",
+    "Robotics",
+    "Sensitivity and Specificity",
+    "Visual Perception",
+    "Word Processing"
+  ]
+}

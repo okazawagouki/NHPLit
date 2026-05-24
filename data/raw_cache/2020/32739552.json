@@ -1,0 +1,32 @@
+{
+  "pmid": "32739552",
+  "title": "On the cortical connectivity in the macaque brain: A comparison of diffusion tractography and histological tracing data.",
+  "abstract": "Diffusion-weighted magnetic resonance imaging (DW-MRI) tractography is a non-invasive tool to probe neural connections and the structure of the white matter. It has been applied successfully in studies of neurological disorders and normal connectivity. Recent work has revealed that tractography produces a high incidence of false-positive connections, often from \"bottleneck\" white matter configurations. The rich literature in histological connectivity analysis studies in the macaque monkey enables quantitative evaluation of the performance of tractography algorithms. In this study, we use the intricate connections of frontal, cingulate, and parietal areas, well established by the anatomical literature, to derive a symmetrical histological connectivity matrix composed of 59 cortical areas. We evaluate the performance of fifteen diffusion tractography algorithms, including global, deterministic, and probabilistic state-of-the-art methods for the connectivity predictions of 1711 distinct pairs of areas, among which 680 are reported connected by the literature. The diffusion connectivity analysis was performed on a different ex-vivo macaque brain, acquired using multi-shell DW-MRI protocol, at high spatial and angular resolutions. Across all tested algorithms, the true-positive and true-negative connections were dominant over false-positive and false-negative connections, respectively. Moreover, three-quarters of streamlines had endpoints location in agreement with histological data, on average. Furthermore, probabilistic streamline tractography algorithms show the best performances in predicting which areas are connected. Altogether, we propose a method for quantitative evaluation of tractography algorithms, which aims at improving the sensitivity and the specificity of diffusion-based connectivity analysis. Overall, those results confirm the usefulness of tractography in predicting connectivity, although errors are produced. Many of the errors result from bottleneck white matter configurations near the cortical grey matter and should be the target of future implementation of methods.",
+  "authors": [
+    "Girard Gabriel",
+    "Caminiti Roberto",
+    "Battaglia-Mayer Alexandra",
+    "St-Onge Etienne",
+    "Ambrosen Karen S",
+    "Eskildsen Simon F",
+    "Krug Kristine",
+    "Dyrby Tim B",
+    "Descoteaux Maxime",
+    "Thiran Jean-Philippe",
+    "Innocenti Giorgio M"
+  ],
+  "journal": "NeuroImage",
+  "year": "2020",
+  "doi": "10.1016/j.neuroimage.2020.117201",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Diffusion Tensor Imaging",
+    "Histological Techniques",
+    "Macaca mulatta",
+    "Male",
+    "Nerve Net",
+    "Neuroanatomical Tract-Tracing Techniques",
+    "White Matter"
+  ]
+}

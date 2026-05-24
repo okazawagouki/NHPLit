@@ -1,0 +1,32 @@
+{
+  "pmid": "26156990",
+  "title": "Network Anisotropy Trumps Noise for Efficient Object Coding in Macaque Inferior Temporal Cortex.",
+  "abstract": "UNLABELLED: How neuronal ensembles compute information is actively studied in early visual cortex. Much less is known about how local ensembles function in inferior temporal (IT) cortex, the last stage of the ventral visual pathway that supports visual recognition. Previous reports suggested that nearby neurons carry information mostly independently, supporting efficient processing (Barlow, 1961). However, others postulate that noise covariation effects may depend on network anisotropy/homogeneity and on how the covariation relates to representation. Do slow trial-by-trial noise covariations increase or decrease IT's object coding capability, how does encoding capability relate to correlational structure (i.e., the spatial pattern of signal and noise redundancy/homogeneity across neurons), and does knowledge of correlational structure matter for decoding? We recorded simultaneously from ∼80 spiking neurons in ∼1 mm(3) of macaque IT under light neurolept anesthesia. Noise correlations were stronger for neurons with correlated tuning, and noise covariations reduced object encoding capability, including generalization across object pose and illumination. Knowledge of noise covariations did not lead to better decoding performance. However, knowledge of anisotropy/homogeneity improved encoding and decoding efficiency by reducing the number of neurons needed to reach a given performance level. Such correlated neurons were found mostly in supragranular and infragranular layers, supporting theories that link recurrent circuitry to manifold representation. These results suggest that redundancy benefits manifold learning of complex high-dimensional information and that subsets of neurons may be more immune to noise covariation than others. SIGNIFICANCE STATEMENT: How noise affects neuronal population coding is poorly understood. By sampling densely from local populations supporting visual object recognition, we show that recurrent circuitry supports useful representations and that subsets of neurons may be more immune to noise covariation than others.",
+  "authors": [
+    "Chen Yueh-Peng",
+    "Lin Chia-Pei",
+    "Hsu Yu-Chun",
+    "Hung Chou P"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.4595-14.2015",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Anisotropy",
+    "Computer Simulation",
+    "Female",
+    "Generalization, Psychological",
+    "Macaca",
+    "Male",
+    "Neurons",
+    "Photic Stimulation",
+    "Statistics as Topic",
+    "Support Vector Machine",
+    "Temporal Lobe",
+    "Time Factors",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

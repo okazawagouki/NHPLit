@@ -1,0 +1,25 @@
+{
+  "pmid": "39946417",
+  "title": "Detection of latent brain states from spontaneous neural activity in the amygdala.",
+  "abstract": "The amygdala responds to a large variety of socially and emotionally salient environmental and interoceptive stimuli. The context in which these stimuli occur determines their social and emotional significance. In canonical neurophysiological studies, the fast-paced succession of stimuli and events induce phasic changes in neural activity. During inter-trial intervals, neural activity is expected to return to a stable and featureless level of spontaneous activity, often called baseline. In previous studies we found that context, such as the presence of a social partner, induces brain states that can transcend the fast-paced succession of stimuli and can be recovered from the spontaneous, inter-trial firing rate of neurons. Indeed, the spontaneous firing rates of neurons in the amygdala are different during blocks of gentle grooming touches delivered by a trusted social partner, and during blocks of non-social airflow stimuli delivered by a computer-controlled air valve. Here, we examine local field potentials (LFPs) recorded during periods of spontaneous activity to determine whether information about context can be extracted from these signals. We found that information about social vs. non-social context is present in the local field potential during periods of spontaneous activity between the application of grooming and airflow stimuli, as machine learning techniques can reliably decode context from spectrograms of spontaneous LFPs. No significant differences were detected between the nuclei of the amygdala that receive direct or indirect inputs from areas of the prefrontal cortex known to coordinate flexible, context-dependent behaviors. The lack of nuclear specificity suggests that context-related synaptic inputs arise from a shared source, possibly interoceptive inputs, that signal the physiological state of the body during social and non-social blocks of tactile stimulation.",
+  "authors": [
+    "Aucoin Alexa",
+    "Lin Kevin K",
+    "Gothard Katalin M"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2025",
+  "doi": "10.1371/journal.pcbi.1012247",
+  "mesh": [
+    "Amygdala",
+    "Animals",
+    "Neurons",
+    "Male",
+    "Action Potentials",
+    "Computational Biology",
+    "Models, Neurological",
+    "Machine Learning",
+    "Grooming",
+    "Macaca mulatta"
+  ]
+}

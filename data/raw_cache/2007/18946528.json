@@ -1,0 +1,15 @@
+{
+  "pmid": "18946528",
+  "title": "Neural circuit dynamics underlying accumulation of time-varying evidence during perceptual decision making.",
+  "abstract": "How do neurons in a decision circuit integrate time-varying signals, in favor of or against alternative choice options? To address this question, we used a recurrent neural circuit model to simulate an experiment in which monkeys performed a direction-discrimination task on a visual motion stimulus. In a recent study, it was found that brief pulses of motion perturbed neural activity in the lateral intraparietal area (LIP), and exerted corresponding effects on the monkey's choices and response times. Our model reproduces the behavioral observations and replicates LIP activity which, depending on whether the direction of the pulse is the same or opposite to that of a preferred motion stimulus, increases or decreases persistently over a few hundred milliseconds. Furthermore, our model accounts for the observation that the pulse exerts a weaker influence on LIP neuronal responses when the pulse is late relative to motion stimulus onset. We show that this violation of time-shift invariance (TSI) is consistent with a recurrent circuit mechanism of time integration. We further examine time integration using two consecutive pulses of the same or opposite motion directions. The induced changes in the performance are not additive, and the second of the paired pulses is less effective than its standalone impact, a prediction that is experimentally testable. Taken together, these findings lend further support for an attractor network model of time integration in perceptual decision making.",
+  "authors": [
+    "Wong Kong-Fatt",
+    "Huk Alexander C",
+    "Shadlen Michael N",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2007",
+  "doi": "10.3389/neuro.10.006.2007",
+  "mesh": []
+}

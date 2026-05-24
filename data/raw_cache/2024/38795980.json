@@ -1,0 +1,28 @@
+{
+  "pmid": "38795980",
+  "title": "A semi-automated pipeline for finite element modeling of electric field induced in nonhuman primates by transcranial magnetic stimulation.",
+  "abstract": "BACKGROUND: Transcranial magnetic stimulation (TMS) is used to treat a range of brain disorders by inducing an electric field (E-field) in the brain. However, the precise neural effects of TMS are not well understood. Nonhuman primates (NHPs) are used to model the impact of TMS on neural activity, but a systematic method of quantifying the induced E-field in the cortex of NHPs has not been developed. NEW METHOD: The pipeline uses statistical parametric mapping (SPM) to automatically segment a structural MRI image of a rhesus macaque into five tissue compartments. Manual corrections are necessary around implants. The segmented tissues are tessellated into 3D meshes used in finite element method (FEM) software to compute the TMS induced E-field in the brain. The gray matter can be further segmented into cortical laminae using a volume preserving method for defining layers. RESULTS: Models of three NHPs were generated with TMS coils placed over the precentral gyrus. Two coil configurations, active and sham, were simulated and compared. The results demonstrated a large difference in E-fields at the target. Additionally, the simulations were calculated using two different E-field solvers and were found to not significantly differ. COMPARISON WITH EXISTING METHODS: Current methods segment NHP tissues manually or use automated methods for only the brain tissue. Existing methods also do not stratify the gray matter into layers. CONCLUSION: The pipeline calculates the induced E-field in NHP models by TMS and can be used to plan implant surgeries and determine approximate E-field values around neuron recording sites.",
+  "authors": [
+    "Goswami Neerav",
+    "Shen Michael",
+    "Gomez Luis J",
+    "Dannhauer Moritz",
+    "Sommer Marc A",
+    "Peterchev Angel V"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2024",
+  "doi": "10.1016/j.jneumeth.2024.110176",
+  "mesh": [
+    "Animals",
+    "Transcranial Magnetic Stimulation",
+    "Macaca mulatta",
+    "Finite Element Analysis",
+    "Magnetic Resonance Imaging",
+    "Models, Neurological",
+    "Male",
+    "Computer Simulation",
+    "Image Processing, Computer-Assisted",
+    "Gray Matter"
+  ]
+}

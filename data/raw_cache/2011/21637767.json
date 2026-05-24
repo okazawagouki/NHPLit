@@ -1,0 +1,24 @@
+{
+  "pmid": "21637767",
+  "title": "Effect of the topology and delayed interactions in neuronal networks synchronization.",
+  "abstract": "As important as the intrinsic properties of an individual nervous cell stands the network of neurons in which it is embedded and by virtue of which it acquires great part of its responsiveness and functionality. In this study we have explored how the topological properties and conduction delays of several classes of neural networks affect the capacity of their constituent cells to establish well-defined temporal relations among firing of their action potentials. This ability of a population of neurons to produce and maintain a millisecond-precise coordinated firing (either evoked by external stimuli or internally generated) is central to neural codes exploiting precise spike timing for the representation and communication of information. Our results, based on extensive simulations of conductance-based type of neurons in an oscillatory regime, indicate that only certain topologies of networks allow for a coordinated firing at a local and long-range scale simultaneously. Besides network architecture, axonal conduction delays are also observed to be another important factor in the generation of coherent spiking. We report that such communication latencies not only set the phase difference between the oscillatory activity of remote neural populations but determine whether the interconnected cells can set in any coherent firing at all. In this context, we have also investigated how the balance between the network synchronizing effects and the dispersive drift caused by inhomogeneities in natural firing frequencies across neurons is resolved. Finally, we show that the observed roles of conduction delays and frequency dispersion are not particular to canonical networks but experimentally measured anatomical networks such as the macaque cortical network can display the same type of behavior.",
+  "authors": [
+    "Pérez Toni",
+    "Garcia Guadalupe C",
+    "Eguíluz Víctor M",
+    "Vicente Raúl",
+    "Pipa Gordon",
+    "Mirasso Claudio"
+  ],
+  "journal": "PloS one",
+  "year": "2011",
+  "doi": "10.1371/journal.pone.0019900",
+  "mesh": [
+    "Animals",
+    "Cortical Synchronization",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons"
+  ]
+}

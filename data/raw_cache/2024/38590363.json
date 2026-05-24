@@ -1,0 +1,17 @@
+{
+  "pmid": "38590363",
+  "title": "Adaptation and learning as strategies to maximize reward in neurofeedback tasks.",
+  "abstract": "INTRODUCTION: Adaptation and learning have been observed to contribute to the acquisition of new motor skills and are used as strategies to cope with changing environments. However, it is hard to determine the relative contribution of each when executing goal directed motor tasks. This study explores the dynamics of neural activity during a center-out reaching task with continuous visual feedback under the influence of rotational perturbations. METHODS: Results for a brain-computer interface (BCI) task performed by two non-human primate (NHP) subjects are compared to simulations from a reinforcement learning agent performing an analogous task. We characterized baseline activity and compared it to the activity after rotational perturbations of different magnitudes were introduced. We employed principal component analysis (PCA) to analyze the spiking activity driving the cursor in the NHP BCI task as well as the activation of the neural network of the reinforcement learning agent. RESULTS AND DISCUSSION: Our analyses reveal that both for the NHPs and the reinforcement learning agent, the task-relevant neural manifold is isomorphic with the task. However, for the NHPs the manifold is largely preserved for all rotational perturbations explored and adaptation of neural activity occurs within this manifold as rotations are compensated by reassignment of regions of the neural space in an angular pattern that cancels said rotations. In contrast, retraining the reinforcement learning agent to reach the targets after rotation results in substantial modifications of the underlying neural manifold. Our findings demonstrate that NHPs adapt their existing neural dynamic repertoire in a quantitatively precise manner to account for perturbations of different magnitudes and they do so in a way that obviates the need for extensive learning.",
+  "authors": [
+    "Osuna-Orozco Rodrigo",
+    "Zhao Yi",
+    "Stealey Hannah Marie",
+    "Lu Hung-Yun",
+    "Contreras-Hernandez Enrique",
+    "Santacruz Samantha Rose"
+  ],
+  "journal": "Frontiers in human neuroscience",
+  "year": "2024",
+  "doi": "10.3389/fnhum.2024.1368115",
+  "mesh": []
+}

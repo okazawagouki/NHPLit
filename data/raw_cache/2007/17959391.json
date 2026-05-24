@@ -1,0 +1,24 @@
+{
+  "pmid": "17959391",
+  "title": "Independent components of the haemodynamic response in intrinsic optical imaging.",
+  "abstract": "Functional brain imaging methods are prone to contamination from global vascular artefacts. A variety of methods have been proposed to help segment functional from non-specific changes. Here we quantify the improvement in the signal to noise ratio (SNR) of functional maps, derived from intrinsic optical imaging studies of macaque visual cortex, through the application of Extended Spatial Decorrelation (ESD). The resulting independent component maps and their corresponding time courses reveal for the first time a fast vascular component in the haemodynamic response. ESD is a blind source separation algorithm that utilises spatial statistical features in brain images to separate the recorded mixed sources into independent components. We have investigated differential and single condition experiments using a variety of visual stimuli. To calculate the improvement of the SNR in decibel (dB) we back project separated components onto the original single trial data and analyse the corresponding Fourier spectrum. The application of ESD improved SNR in the functional brain maps from 0.52 to 16.88 dB on differential imaging data and from 1.69 to 12.83 dB in the case of single condition experiments. Analysing the independent components further we found that they can separate different functional compartments of the cortical vasculature. Some of the components, classified as arterial through slit spectroscopy, revealed a strong fast response to the stimulus onset/offset starting approximately 0.2 s after the change of the stimulus and reaching a peak after approximately 0.4 s. This fast haemodynamic response raises new questions concerning the spatial specificity of the so-called \"initial dip\".",
+  "authors": [
+    "Schiessl Ingo",
+    "Wang Wei",
+    "McLoughlin Niall"
+  ],
+  "journal": "NeuroImage",
+  "year": "2008",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Artifacts",
+    "Brain",
+    "Cerebrovascular Circulation",
+    "Data Interpretation, Statistical",
+    "Image Processing, Computer-Assisted",
+    "Macaca mulatta",
+    "Photic Stimulation",
+    "Quality Control"
+  ]
+}

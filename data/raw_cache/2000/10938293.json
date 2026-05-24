@@ -1,0 +1,23 @@
+{
+  "pmid": "10938293",
+  "title": "Memory activity of LIP neurons for sequential eye movements simulated with neural networks.",
+  "abstract": "Many neurons in macaque lateral intraparietal cortex (LIP) maintain elevated activity induced by visual or auditory targets during tasks in which monkeys are required to withhold one or more planned eye movements. We studied the mechanisms for such memory activity with neural network modeling. Recurrent connections among simulated LIP neurons were used to model memory responses of LIP neurons. The connection weights were computed using an optimization procedure to produce desired outputs in memory-saccade tasks. One constraint for the training process is the \"single-purpose\" rule, which mimics the fact that once LIP neurons hold the memory activity of a saccade, they are insensitive to further stimuli until the motor action is completed. After training, excitatory connections were developed between units with similar preferred saccade directions, while inhibitory connections were formed between units with dissimilar directions. This \"push-pull\" mechanism enables the network to encode the next intended eye movement and is essential for programming sequential saccades. In simulating double saccades, the push-pull connections locked the on-going activity in the network for the first saccade until the saccade was made, then a new population of units became active to prepare for the second saccade. The simulated LIP neurons exhibited sensory responses and memory activities similar to those recorded in LIP neurons. We propose that push-pull recurrent connections might be the basic structure mediating the memory activity of area LIP in planning sequential eye movements.",
+  "authors": [
+    "Xing J",
+    "Andersen R A"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Macaca",
+    "Memory",
+    "Neural Inhibition",
+    "Neural Networks, Computer",
+    "Neurons, Afferent",
+    "Parietal Lobe",
+    "Saccades"
+  ]
+}

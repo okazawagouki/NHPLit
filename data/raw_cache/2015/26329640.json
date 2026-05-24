@@ -1,0 +1,34 @@
+{
+  "pmid": "26329640",
+  "title": "Kuramoto model simulation of neural hubs and dynamic synchrony in the human cerebral connectome.",
+  "abstract": "BACKGROUND: The topological structure of the wiring of the mammalian brain cortex plays an important role in shaping the functional dynamics of large-scale neural activity. Due to their central embedding in the network, high degree hub regions and their connections (often referred to as the 'rich club') have been hypothesized to facilitate intermodular neural communication and global integration of information by means of synchronization. Here, we examined the theoretical role of anatomical hubs and their wiring in brain dynamics. The Kuramoto model was used to simulate interaction of cortical brain areas by means of coupled phase oscillators-with anatomical connections between regions derived from diffusion weighted imaging and module assignment of brain regions based on empirically determined resting-state data. RESULTS: Our findings show that synchrony among hub nodes was higher than any module's intramodular synchrony (p < 10(-4), for cortical coupling strengths, λ, in the range 0.02 < λ < 0.05), suggesting that hub nodes lead the functional modules in the process of synchronization. Furthermore, suppressing structural connectivity among hub nodes resulted in an elevated modular state (p < 4.1 × l0(-3), 0.015 < λ < 0.04), indicating that hub-to-hub connections are critical in intermodular synchronization. Finally, perturbing the oscillatory behavior of hub nodes prevented functional modules from synchronizing, implying that synchronization of functional modules is dependent on the hub nodes' behavior. CONCLUSION: Our results converge on anatomical hubs having a leading role in intermodular synchronization and integration in the human brain.",
+  "authors": [
+    "Schmidt Ruben",
+    "LaFleur Karl J R",
+    "de Reus Marcel A",
+    "van den Berg Leonard H",
+    "van den Heuvel Martijn P"
+  ],
+  "journal": "BMC neuroscience",
+  "year": "2015",
+  "doi": "10.1186/s12868-015-0193-z",
+  "mesh": [
+    "Adult",
+    "Animals",
+    "Brain",
+    "Cohort Studies",
+    "Computer Simulation",
+    "Connectome",
+    "Cortical Synchronization",
+    "Databases, Factual",
+    "Female",
+    "Humans",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Neuroanatomical Tract-Tracing Techniques",
+    "Rest"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "40086292",
+  "title": "Deep learning-based automated segmentation of cardiac real-time MRI in non-human primates.",
+  "abstract": "Advanced imaging techniques, like magnetic resonance imaging (MRI), have revolutionised cardiovascular disease diagnosis and monitoring in humans and animal models. Real-time (RT) MRI, which can capture a single slice during each consecutive heartbeat while the animal or patient breathes continuously, generates large data sets that necessitate automatic myocardium segmentation to fully exploit these technological advancements. While automatic segmentation is common in human adults, it remains underdeveloped in preclinical animal models. In this study, we developed and trained a fully automated 2D convolutional neural network (CNN) for segmenting the left and right ventricles and the myocardium in non-human primates (NHPs) using RT cardiac MR images of rhesus macaques, in the following referred to as PrimUNet. Based on the U-Net framework, PrimUNet achieved optimal performance with a learning rate of 0.0001, an initial kernel size of 64, a final kernel size of 512, and a batch size of 32. It attained an average Dice score of 0.9, comparable to human studies. Testing PrimUNet on additional RT MRI data from rhesus macaques demonstrated strong agreement with manual segmentation for left ventricular end-diastolic volume (LVEDV), left ventricular end-systolic volume (LVESV), and left ventricular myocardial volume (LVMV). It also performs well on cine MRI data of rhesus macaques and acceptably on those of baboons. PrimUNet is well-suited for automatically segmenting extensive RT MRI data, facilitating strain analyses of individual heartbeats. By eliminating human observer variability, PrimUNet enhances the reliability and reproducibility of data analysis in animal research, thereby advancing translational cardiovascular studies.",
+  "authors": [
+    "Ramedani Majid",
+    "Moussavi Amir",
+    "Memhave Tor Rasmus",
+    "Boretius Susann"
+  ],
+  "journal": "Computers in biology and medicine",
+  "year": "2025",
+  "doi": "10.1016/j.compbiomed.2025.109894",
+  "mesh": [
+    "Animals",
+    "Deep Learning",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Image Processing, Computer-Assisted",
+    "Heart",
+    "Heart Ventricles",
+    "Male"
+  ]
+}

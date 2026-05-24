@@ -1,0 +1,27 @@
+{
+  "pmid": "12649314",
+  "title": "Modulation of striatal single units by expected reward: a spiny neuron model displaying dopamine-induced bistability.",
+  "abstract": "Single-unit activity in the neostriatum of awake monkeys shows a marked dependence on expected reward. Responses to visual cues differ when animals expect primary reinforcements, such as juice rewards, in comparison to secondary reinforcements, such as tones. The mechanism of this reward-dependent modulation has not been established experimentally. To assess the hypothesis that direct neuromodulatory effects of dopamine on spiny neurons can account for this modulation, we develop a computational model based on simplified representations of key ionic currents and their modulation by D1 dopamine receptor activation. This minimal model can be analyzed in detail. We find that D1-mediated increases of inward rectifying potassium and L-type calcium currents cause a bifurcation: the native up/down state behavior of the spiny neuron model becomes truly bistable, which modulates the peak firing rate and the duration of the up state and introduces a dependence of the response on the past state history. These generic consequences of dopamine neuromodulation through bistability can account for both reward-dependent enhancement and suppression of spiny neuron single-unit responses to visual cues. We validate the model by simulating responses to visual targets in a memory-guided saccade task; our results are in close agreement with the main features of the experimental data. Our model provides a conceptual framework for understanding the functional significance of the short-term neuromodulatory actions of dopamine on signal processing in the striatum.",
+  "authors": [
+    "Gruber Aaron J",
+    "Solla Sara A",
+    "Surmeier D James",
+    "Houk James C"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Calcium Channels, L-Type",
+    "Corpus Striatum",
+    "Dopamine",
+    "Humans",
+    "Models, Neurological",
+    "Neurons",
+    "Potassium Channels",
+    "Receptors, Dopamine D1",
+    "Reward"
+  ]
+}

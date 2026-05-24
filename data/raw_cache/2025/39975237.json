@@ -1,0 +1,22 @@
+{
+  "pmid": "39975237",
+  "title": "Exploring Synergies in Brain-Machine Interfaces: Compression vs. Performance.",
+  "abstract": "Individuals with severe neurological injuries often rely on assistive technologies, but current methods have limitations in accurately decoding multi-degree-of-freedom (DoF) movements. Intracortical brain-machine interfaces (iBMIs) use neural signals to provide a more natural control method, but currently struggle with higher-DoF movements-something the brain handles effortlessly. It has been theorized that the brain simplifies high-DoF movement through muscle synergies, which link multiple muscles to function as a single unit. These synergies have been studied using dimensionality reduction techniques like principal component analysis (PCA), non-negative matrix factorization (NMF), and demixed PCA (dPCA) and successfully used to reduce noise and improve offline decoder stability in non-invasive applications. However, their effectiveness in improving decoding and generalizability for implanted recordings across varied tasks is unclear. Here, we evaluated if brain and muscle synergies can enhance iBMI performance in non-human primates performing a two-DoF finger task. Specifically, we tested if PCA, dPCA, and NMF could compress and denoise brain and muscle data and improve decoder generalization across tasks. Our results showed that while all methods effectively compressed data with minimal loss in decoding accuracy, none improved performance through denoising. Additionally, none of the methods enhanced generalization across tasks. These findings suggest that while dimensionality reduction can aid data compression, alone it may not reveal the \"true\" control space needed to improve decoder performance or generalizability. Further research is required to determine whether synergies are the optimal control framework or if alternative approaches are required to enhance decoder robustness in iBMI applications.",
+  "authors": [
+    "Cubillos Luis H",
+    "Kelberman Madison M",
+    "Mender Matthew J",
+    "Hite Aren",
+    "Temmar Hisham",
+    "Willsey Matthew",
+    "Kumar Nishant Ganesh",
+    "Kung Theodore A",
+    "Patil Parag G",
+    "Chestek Cynthia",
+    "Krishnan Chandramouli"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.02.03.636273",
+  "mesh": []
+}

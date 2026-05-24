@@ -1,0 +1,15 @@
+{
+  "pmid": "26500532",
+  "title": "Enhanced HMAX model with feedforward feature learning for multiclass categorization.",
+  "abstract": "In recent years, the interdisciplinary research between neuroscience and computer vision has promoted the development in both fields. Many biologically inspired visual models are proposed, and among them, the Hierarchical Max-pooling model (HMAX) is a feedforward model mimicking the structures and functions of V1 to posterior inferotemporal (PIT) layer of the primate visual cortex, which could generate a series of position- and scale- invariant features. However, it could be improved with attention modulation and memory processing, which are two important properties of the primate visual cortex. Thus, in this paper, based on recent biological research on the primate visual cortex, we still mimic the first 100-150 ms of visual cognition to enhance the HMAX model, which mainly focuses on the unsupervised feedforward feature learning process. The main modifications are as follows: (1) To mimic the attention modulation mechanism of V1 layer, a bottom-up saliency map is computed in the S1 layer of the HMAX model, which can support the initial feature extraction for memory processing; (2) To mimic the learning, clustering and short-term memory to long-term memory conversion abilities of V2 and IT, an unsupervised iterative clustering method is used to learn clusters with multiscale middle level patches, which are taken as long-term memory; (3) Inspired by the multiple feature encoding mode of the primate visual cortex, information including color, orientation, and spatial position are encoded in different layers of the HMAX model progressively. By adding a softmax layer at the top of the model, multiclass categorization experiments can be conducted, and the results on Caltech101 show that the enhanced model with a smaller memory size exhibits higher accuracy than the original HMAX model, and could also achieve better accuracy than other unsupervised feature learning methods in multiclass categorization task.",
+  "authors": [
+    "Li Yinlin",
+    "Wu Wei",
+    "Zhang Bo",
+    "Li Fengfu"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2015",
+  "doi": "10.3389/fncom.2015.00123",
+  "mesh": []
+}

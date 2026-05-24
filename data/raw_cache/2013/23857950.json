@@ -1,0 +1,23 @@
+{
+  "pmid": "23857950",
+  "title": "The impact on midlevel vision of statistically optimal divisive normalization in V1.",
+  "abstract": "The first two areas of the primate visual cortex (V1, V2) provide a paradigmatic example of hierarchical computation in the brain. However, neither the functional properties of V2 nor the interactions between the two areas are well understood. One key aspect is that the statistics of the inputs received by V2 depend on the nonlinear response properties of V1. Here, we focused on divisive normalization, a canonical nonlinear computation that is observed in many neural areas and modalities. We simulated V1 responses with (and without) different forms of surround normalization derived from statistical models of natural scenes, including canonical normalization and a statistically optimal extension that accounted for image nonhomogeneities. The statistics of the V1 population responses differed markedly across models. We then addressed how V2 receptive fields pool the responses of V1 model units with different tuning. We assumed this is achieved by learning without supervision a linear representation that removes correlations, which could be accomplished with principal component analysis. This approach revealed V2-like feature selectivity when we used the optimal normalization and, to a lesser extent, the canonical one but not in the absence of both. We compared the resulting two-stage models on two perceptual tasks; while models encompassing V1 surround normalization performed better at object recognition, only statistically optimal normalization provided systematic advantages in a task more closely matched to midlevel vision, namely figure/ground judgment. Our results suggest that experiments probing midlevel areas might benefit from using stimuli designed to engage the computations that characterize V1 optimality.",
+  "authors": [
+    "Coen-Cagli Ruben",
+    "Schwartz Odelia"
+  ],
+  "journal": "Journal of vision",
+  "year": "2013",
+  "doi": "10.1167/13.8.13",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Vision, Ocular",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "29668846",
+  "title": "Movement Decomposition in the Primary Motor Cortex.",
+  "abstract": "A complex action can be described as the composition of a set of elementary movements. While both kinematic and dynamic elements have been proposed to compose complex actions, the structure of movement decomposition and its neural representation remain unknown. Here, we examined movement decomposition by modeling the temporal dynamics of neural populations in the primary motor cortex of macaque monkeys performing forelimb reaching movements. Using a hidden Markov model, we found that global transitions in the neural population activity are associated with a consistent segmentation of the behavioral output into acceleration and deceleration epochs with directional selectivity. Single cells exhibited modulation of firing rates between the kinematic epochs, with abrupt changes in spiking activity timed with the identified transitions. These results reveal distinct encoding of acceleration and deceleration phases at the level of M1, and point to a specific pattern of movement decomposition that arises from the underlying neural activity. A similar approach can be used to probe the structure of movement decomposition in different brain regions, possibly controlling different temporal scales, to reveal the hierarchical structure of movement composition.",
+  "authors": [
+    "Kadmon Harpaz Naama",
+    "Ungarish David",
+    "Hatsopoulos Nicholas G",
+    "Flash Tamar"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2019",
+  "doi": "10.1093/cercor/bhy060",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Forelimb",
+    "Macaca mulatta",
+    "Male",
+    "Markov Chains",
+    "Models, Neurological",
+    "Motor Activity",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Psychomotor Performance"
+  ]
+}

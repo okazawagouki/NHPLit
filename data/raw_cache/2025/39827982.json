@@ -1,0 +1,29 @@
+{
+  "pmid": "39827982",
+  "title": "Virtual human retina: Simulating neural signalling, degeneration, and responses to electrical stimulation.",
+  "abstract": "INTRODUCTION: Current brain-based visual prostheses pose significant challenges impeding adoption such as the necessarily complex surgeries and occurrence of more substantial side effects due to the sensitivity of the brain. This has led to much effort toward vision restoration being focused on the more approachable part of the brain - the retina. Here we introduce a novel, parameterised simulation platform that enables study of human retinal degeneration and optimization of stimulation strategies. The platform bears immense potential for patient-specific tailoring and serves to enhance artificial vision solutions for individuals with visual impairments. MATERIAL AND METHOD: Our virtual retina is developed using the software package, NEURON. This virtual retina platform supports large-scale simulations of over 10,000 neurons whilst upholding strong biological plausibility with multiple important visual pathways and detailed network properties. The comprehensive three-dimensional model includes photoreceptors, horizontal cells, bipolar cells, amacrine cells, and midget and parasol retinal ganglion cells, with comprehensive network connectivity across various eccentricities (1 mm-5 mm from the fovea) in the human retina. The model is constructed using electrophysiology, immunohistology, and optical coherence tomography imaging data from healthy and degenerate human retinas. We validated our model by replicating numerous experimental observations from human and primate retina, with a particular focus on retinal degeneration. RESULT: We simulated interactions between diseased retinas and state-of-the-art retinal implants, shedding light on the limitations of commercial retinal prostheses. Our results suggested that appropriate stimulation settings with intraretinal prototype devices could leverage network-mediated activation to achieve activation mosaics more alike that of the retina's response to natural light, promoting the prospect of more naturalistic vision. Our study additionally highlights the importance of controlling inhibitory circuits in the retinal network to induce functionally relevant retinal activity. CONCLUSION: This study demonstrates the potential of this software package and highlights its utility as a valuable tool for engineers, scientists, and clinicians in the design and optimization of retinal stimulation devices for both research and educational applications.",
+  "authors": [
+    "Ly Keith",
+    "Italiano Michael L",
+    "Shivdasani Mohit N",
+    "Tsai David",
+    "Zhang Jia-Yi",
+    "Jiang Chunhui",
+    "Lovell Nigel H",
+    "Dokos Socrates",
+    "Guo Tianruo"
+  ],
+  "journal": "Brain stimulation",
+  "year": "2025",
+  "doi": "10.1016/j.brs.2025.01.013",
+  "mesh": [
+    "Humans",
+    "Retina",
+    "Electric Stimulation",
+    "Retinal Degeneration",
+    "Computer Simulation",
+    "Visual Prosthesis",
+    "Models, Neurological",
+    "Visual Pathways"
+  ]
+}

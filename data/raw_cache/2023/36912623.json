@@ -1,0 +1,24 @@
+{
+  "pmid": "36912623",
+  "title": "Surgical Procedure for Implantation of Opto-Array in Nonhuman Primates.",
+  "abstract": "Optogenetics allows precise temporal control of neuronal activity in the brain. Engineered viral vectors are routinely used to transduce neurons with light-sensitive opsins. However, reliable virus injection and light delivery in animals with large brains, such as nonhuman primates, has proven challenging. The Opto-Array is a novel yet simple device that is used to deliver light to extended regions of the cortex surface for high-throughput behavioral optogenetics in large brains. Here we present protocols for surgical delivery of virus (Basic Protocol 1) and implantation of the Opto-Array (Basic Protocol 2) in two separate surgeries in a rhesus monkey's inferior temporal cortex. As a proof of concept, we measured the behavioral performance of an animal detecting cortical optogenetic stimulations (Basic Protocol 3) with different illumination power and duration using the Opto-Array. The animal was able to detect the optogenetic stimulation for all tested illumination powers and durations. Regression analysis also showed both power and duration of illumination significantly modulate the detectability of the optogenetic stimulation. The outcome of this approach is superior to the standard practice of injecting and recording through a chamber for large areas of the cortex surface. Moreover, the chronic nature of the Opto-Array allows perturbation of neuronal activity of the same site across multiple sessions because it is highly stable; thus, data can be pooled over months. The detailed surgical method presented here makes it possible to use optogenetics to modulate neuronal activity across large regions of the cortex surface in the nonhuman primate brain. This method also lays the groundwork for future attempts to use optogenetics to restore vision in humans. © 2023 The Authors. Current Protocols published by Wiley Periodicals LLC. Basic Protocol 1: Virus injection surgery Basic Protocol 2: Opto-Array implantation surgery Basic Protocol 3: Cortical Perturbation Detection (CPD) task behavioral training.",
+  "authors": [
+    "Azadi Reza",
+    "Bohn Simon",
+    "Eldridge Mark A G",
+    "Afraz Arash"
+  ],
+  "journal": "Current protocols",
+  "year": "2023",
+  "doi": "10.1002/cpz1.704",
+  "mesh": [
+    "Humans",
+    "Animals",
+    "Brain",
+    "Photic Stimulation",
+    "Neurons",
+    "Macaca mulatta",
+    "Embryo Implantation",
+    "Optogenetics"
+  ]
+}

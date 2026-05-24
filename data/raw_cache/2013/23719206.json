@@ -1,0 +1,25 @@
+{
+  "pmid": "23719206",
+  "title": "Spatial integration in mouse primary visual cortex.",
+  "abstract": "Responses of many neurons in primary visual cortex (V1) are suppressed by stimuli exceeding the classical receptive field (RF), an important property that might underlie the computation of visual saliency. Traditionally, it has proven difficult to disentangle the underlying neural circuits, including feedforward, horizontal intracortical, and feedback connectivity. Since circuit-level analysis is particularly feasible in the mouse, we asked whether neural signatures of spatial integration in mouse V1 are similar to those of higher-order mammals and investigated the role of parvalbumin-expressing (PV+) inhibitory interneurons. Analogous to what is known from primates and carnivores, we demonstrate that, in awake mice, surround suppression is present in the majority of V1 neurons and is strongest in superficial cortical layers. Anesthesia with isoflurane-urethane, however, profoundly affects spatial integration: it reduces the laminar dependency, decreases overall suppression strength, and alters the temporal dynamics of responses. We show that these effects of brain state can be parsimoniously explained by assuming that anesthesia affects contrast normalization. Hence, the full impact of suppressive influences in mouse V1 cannot be studied under anesthesia with isoflurane-urethane. To assess the neural circuits of spatial integration, we targeted PV+ interneurons using optogenetics. Optogenetic depolarization of PV+ interneurons was associated with increased RF size and decreased suppression in the recorded population, similar to effects of lowering stimulus contrast, suggesting that PV+ interneurons contribute to spatial integration by affecting overall stimulus drive. We conclude that the mouse is a promising model for circuit-level mechanisms of spatial integration, which relies on the combined activity of different types of inhibitory interneurons.",
+  "authors": [
+    "Vaiceliunaite Agne",
+    "Erisken Sinem",
+    "Franzen Florian",
+    "Katzner Steffen",
+    "Busse Laura"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2013",
+  "doi": "10.1152/jn.00138.2013",
+  "mesh": [
+    "Animals",
+    "GABAergic Neurons",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Neural Inhibition",
+    "Parvalbumins",
+    "Visual Cortex",
+    "Visual Fields"
+  ]
+}

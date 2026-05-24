@@ -1,0 +1,25 @@
+{
+  "pmid": "22690209",
+  "title": "Noise-assisted instantaneous coherence analysis of brain connectivity.",
+  "abstract": "Characterizing brain connectivity between neural signals is key to understanding brain function. Current measures such as coherence heavily rely on Fourier or wavelet transform, which inevitably assume the signal stationarity and place severe limits on its time-frequency resolution. Here we addressed these issues by introducing a noise-assisted instantaneous coherence (NAIC) measure based on multivariate mode empirical decomposition (MEMD) coupled with Hilbert transform to achieve high-resolution time frequency representation of neural coherence. In our method, fully data-driven MEMD, together with Hilbert transform, is first employed to provide time-frequency power spectra for neural data. Such power spectra are typically sparse and of high resolution, that is, there usually exist many zero values, which result in numerical problems for directly computing coherence. Hence, we propose to add random noise onto the spectra, making coherence calculation feasible. Furthermore, a statistical randomization procedure is designed to cancel out the effect of the added noise. Computer simulations are first performed to verify the effectiveness of NAIC. Local field potentials collected from visual cortex of macaque monkey while performing a generalized flash suppression task are then used to demonstrate the usefulness of our NAIC method to provide highresolution time-frequency coherence measure for connectivity analysis of neural data.",
+  "authors": [
+    "Hu Meng",
+    "Liang Hualou"
+  ],
+  "journal": "Computational intelligence and neuroscience",
+  "year": "2012",
+  "doi": "10.1155/2012/275073",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Computer Simulation",
+    "Fourier Analysis",
+    "Macaca",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Signal Processing, Computer-Assisted",
+    "Visual Cortex"
+  ]
+}

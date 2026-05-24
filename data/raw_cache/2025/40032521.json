@@ -1,0 +1,23 @@
+{
+  "pmid": "40032521",
+  "title": "Orbitofrontal High-Gamma Reflects Spike-Dissociable Value and Decision Mechanisms.",
+  "abstract": "The orbitofrontal cortex (OFC) plays a crucial role in value-based decisions. While much is known about how OFC neurons represent values, far less is known about information encoded in OFC local field potentials (LFPs). LFPs are important because they can reflect subthreshold activity not directly coupled to spiking and because they are potential targets for less invasive forms of brain-machine interface (BMI). We recorded neural activity in the OFC of male macaques performing a two-option value-based decision task. We compared the value- and decision-coding properties of high-gamma LFPs (HG, 50-150 Hz) to the coding properties of spiking multiunit activity (MUA) recorded concurrently on the same electrodes. HG and MUA both represented the values of decision targets, but HG signals had value-coding features that were distinct from concurrently measured MUA. On average HG amplitude increased monotonically with value, whereas in MUA the value encoding was net neutral on average. HG encoded a signal consistent with a comparison between target values, a signal which was negligible in MUA. In individual channels, HG could predict choice outcomes more accurately than MUA; however, when channels were combined in a population-based decoder, MUA was more accurate than HG. In summary, HG signals reveal value-coding features in OFC that could not be observed from spiking activity, including representation of value comparisons and more accurate behavioral predictions. These results have implications for the role of OFC in value-based decisions and suggest that high-frequency LFPs may be a viable-or even preferable-target for BMIs to assist cognitive function.",
+  "authors": [
+    "Sharma Dixit",
+    "Lupkin Shira M",
+    "McGinty Vincent B"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2025",
+  "doi": "10.1523/JNEUROSCI.0789-24.2025",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Decision Making",
+    "Macaca mulatta",
+    "Prefrontal Cortex",
+    "Gamma Rhythm",
+    "Action Potentials",
+    "Neurons"
+  ]
+}

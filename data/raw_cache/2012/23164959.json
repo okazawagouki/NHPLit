@@ -1,0 +1,34 @@
+{
+  "pmid": "23164959",
+  "title": "A procedure for testing across-condition rhythmic spike-field association change.",
+  "abstract": "Many experiments in neuroscience have compared the strength of association between neural spike trains and rhythms present in local field potential (LFP) recordings. The measure employed in these comparisons, \"spike-field coherence\", is a frequency dependent measure of linear association, and is shown to depend on overall neural activity (Lepage et al., 2011). Dependence upon overall neural activity, that is, dependence upon the total number of spikes, renders comparison of spike-field coherence across experimental context difficult. In this paper, an inferential procedure based upon a generalized linear model is shown to be capable of separating the effects of overall neural activity from spike train-LFP oscillatory coupling. This separation provides a means to compare the strength of oscillatory association between spike train-LFP pairs independent of differences in spike counts. Following a review of the generalized linear modelling framework of point process neural activity a specific class of generalized linear models are introduced. This model class, using either a piece-wise constant link function, or an exponential function to relate an LFP rhythm to neural response, is used to develop hypothesis tests capable of detecting changes in spike train-LFP oscillatory coupling. The performance of these tests is validated, both in simulation and on real data. The proposed method of inference provides a principled statistical procedure by which across-context change in spike train-LFP rhythmic association can be directly inferred that explicitly handles between-condition differences in total spike count.",
+  "authors": [
+    "Lepage Kyle Q",
+    "Gregoriou Georgia G",
+    "Kramer Mark A",
+    "Aoi Mikio",
+    "Gotts Stephen J",
+    "Eden Uri T",
+    "Desimone Robert"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2013",
+  "doi": "10.1016/j.jneumeth.2012.10.010",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Attention",
+    "Color Perception",
+    "Computer Simulation",
+    "Data Interpretation, Statistical",
+    "Electrophysiology",
+    "Evoked Potentials",
+    "Linear Models",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Psychomotor Performance",
+    "Visual Cortex",
+    "Visual Fields"
+  ]
+}

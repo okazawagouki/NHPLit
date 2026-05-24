@@ -1,0 +1,14 @@
+{
+  "pmid": "20140267",
+  "title": "Novelty encoding by the output neurons of the Basal Ganglia.",
+  "abstract": "Reinforcement learning models of the basal ganglia have focused on the resemblance of the dopamine signal to the temporal difference error. However the role of the network as a whole is still elusive, in particular whether the output of the basal ganglia encodes only the behavior (actions) or it is part of the valuation process. We trained a monkey extensively on a probabilistic conditional task with seven fractal cues predicting rewarding or aversive outcomes (familiar cues). Then in each recording session we added a cue that the monkey had never seen before (new cue) and recorded from single units in the Substantia Nigra pars reticulata (SNpr) while the monkey was engaged in a task with new cues intermingled within the familiar ones. The monkey learned the association between the new cue and outcome and modified its licking and blinking behavior which became similar to responses to the familiar cues with the same outcome. However, the responses of many SNpr neurons to the new cue exceeded their response to familiar cues even after behavioral learning was completed. This dissociation between behavior and neural activity suggests that the BG output code goes beyond instruction or gating of behavior to encoding of novel cues. Thus, BG output can enable learning at the levels of its target neural networks.",
+  "authors": [
+    "Joshua Mati",
+    "Adler Avital",
+    "Bergman Hagai"
+  ],
+  "journal": "Frontiers in systems neuroscience",
+  "year": "2010",
+  "doi": "10.3389/neuro.06.020.2009",
+  "mesh": []
+}

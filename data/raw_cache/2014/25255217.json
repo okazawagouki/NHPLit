@@ -1,0 +1,39 @@
+{
+  "pmid": "25255217",
+  "title": "Synchronization of isolated downstates (K-complexes) may be caused by cortically-induced disruption of thalamic spindling.",
+  "abstract": "Sleep spindles and K-complexes (KCs) define stage 2 NREM sleep (N2) in humans. We recently showed that KCs are isolated downstates characterized by widespread cortical silence. We demonstrate here that KCs can be quasi-synchronous across scalp EEG and across much of the cortex using electrocorticography (ECOG) and localized transcortical recordings (bipolar SEEG). We examine the mechanism of synchronous KC production by creating the first conductance based thalamocortical network model of N2 sleep to generate both spontaneous spindles and KCs. Spontaneous KCs are only observed when the model includes diffuse projections from restricted prefrontal areas to the thalamic reticular nucleus (RE), consistent with recent anatomical findings in rhesus monkeys. Modeled KCs begin with a spontaneous focal depolarization of the prefrontal neurons, followed by depolarization of the RE. Surprisingly, the RE depolarization leads to decreased firing due to disrupted spindling, which in turn is due to depolarization-induced inactivation of the low-threshold Ca2+ current (IT). Further, although the RE inhibits thalamocortical (TC) neurons, decreased RE firing causes decreased TC cell firing, again because of disrupted spindling. The resulting abrupt removal of excitatory input to cortical pyramidal neurons then leads to the downstate. Empirically, KCs may also be evoked by sensory stimuli while maintaining sleep. We reproduce this phenomenon in the model by depolarization of either the RE or the widely-projecting prefrontal neurons. Again, disruption of thalamic spindling plays a key role. Higher levels of RE stimulation also cause downstates, but by directly inhibiting the TC neurons. SEEG recordings from the thalamus and cortex in a single patient demonstrated the model prediction that thalamic spindling significantly decreases before KC onset. In conclusion, we show empirically that KCs can be widespread quasi-synchronous cortical downstates, and demonstrate with the first model of stage 2 NREM sleep a possible mechanism whereby this widespread synchrony may arise.",
+  "authors": [
+    "Mak-McCully Rachel A",
+    "Deiss Stephen R",
+    "Rosen Burke Q",
+    "Jung Ki-Young",
+    "Sejnowski Terrence J",
+    "Bastuji Hélène",
+    "Rey Marc",
+    "Cash Sydney S",
+    "Bazhenov Maxim",
+    "Halgren Eric"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2014",
+  "doi": "10.1371/journal.pcbi.1003855",
+  "mesh": [
+    "Adolescent",
+    "Adult",
+    "Aged",
+    "Cerebral Cortex",
+    "Computational Biology",
+    "Computer Simulation",
+    "Cortical Synchronization",
+    "Electroencephalography",
+    "Epilepsy",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Models, Neurological",
+    "Neurons",
+    "Thalamus",
+    "Young Adult"
+  ]
+}

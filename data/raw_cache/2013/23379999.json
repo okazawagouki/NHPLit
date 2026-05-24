@@ -1,0 +1,36 @@
+{
+  "pmid": "23379999",
+  "title": "Inhibition of high glucose-induced VEGF release in retinal ganglion cells by RNA interference targeting G protein-coupled receptor 91.",
+  "abstract": "Recent research using a rat oxygen-induced retinopathy model has demonstrated that the G protein-coupled receptor 91 (GPR91) of retinal ganglion neurons is the principal respondent to succinate and consequently induces the release of angiogenic factor vascular endothelial growth factor (VEGF). The aim of this study was to determine whether GPR91 modulate the release of VEGF from retinal ganglion cells in a high-glucose model in vitro and to dissect the role of GPR91 in the pathogenesis of diabetic retinopathy. We constructed a lentiviral small hairpin RNA (shRNA) expression vector targeting GPR91 (LV.shGPR91) and infected the retinal ganglion cell line RGC-5 to obtain stably transduction system. The knockdown effect of GPR91 was detected by Western blotting. After incubation with succinate and various concentrations of glucose, the expression of VEGF in RGC-5 cells was evaluated by real-time PCR and Western blotting, and the release of VEGF protein was measured using an ELISA assay. Conditioned media were also collected, and the effects of proliferation and migration of RF/6A cells, a vascular endothelial cell line, were evaluated by CCK-8 and Transwell assays. The phosphorylation levels of extracellular signal-regulated kinase 1/2 (ERK1/2), p38 mitogen-activated protein kinase (p38 MAPK), and c-Jun N-terminal kinase (JNK) in RGC-5 cells after exposure to high glucose were evaluated by Western blotting. Following a single exposure of RGC-5 cells to the encoding lentivirus, more than 80% of infected cells expressed GFP at 72 h, and the level of GPR91 protein was significantly downregulated. GPR91 shRNA inhibited the cell survival rates of RGC-5 cells incubated with high glucose (F = 21.36, P = 0.002). The mRNA and protein expression of VEGF in LV.shGPR91 RGC-5 cells decreased markedly compared to that of LV.shScrambled or untransduced control cells incubated with different concentrations of glucose or succinate (P < 0.01). The VEGF protein level in medium from RGC-5 cells treated with high glucose (F = 57.43, P = 0.000) or succinate (F = 241.91, P = 0.000) was also downregulated when transduced with GPR91 shRNA. The siRNA-mediated knockdown of GPR91 was also found to inhibit the proliferation of RF/6A cells in high glucose-stimulated (t = 8.21, P = 0.001) or succinate-stimulated (t = 3.36, P = 0.028) conditioned media. However, the siRNA-mediated knockdown of GPR91 suppressed the migration of RF/6A cells incubated with moderate levels of glucose (t = 2.97, P = 0.018). The exposure of RGC-5 cells to high glucose activated ERK1/2 and JNK MAPK signaling blocking by GPR91 shRNA (P < 0.01). These results indicate that GPR91 modulates the high glucose-induced VEGF release of RGC-5 cells, possibly by inhibiting ERK1/2 and JNK MAPK signaling.",
+  "authors": [
+    "Hu Jianyan",
+    "Wu Qiang",
+    "Li Tingting",
+    "Chen Yongdong",
+    "Wang Shuai"
+  ],
+  "journal": "Experimental eye research",
+  "year": "2013",
+  "doi": "10.1016/j.exer.2013.01.011",
+  "mesh": [
+    "Animals",
+    "Cell Line, Transformed",
+    "Cell Movement",
+    "Cell Proliferation",
+    "Cell Survival",
+    "Diabetic Retinopathy",
+    "Endothelial Cells",
+    "Glucose",
+    "Lentivirus",
+    "MAP Kinase Signaling System",
+    "Macaca mulatta",
+    "Neovascularization, Pathologic",
+    "RNA, Small Interfering",
+    "Rats",
+    "Rats, Sprague-Dawley",
+    "Receptors, G-Protein-Coupled",
+    "Retinal Ganglion Cells",
+    "Retinal Vessels",
+    "Vascular Endothelial Growth Factor A"
+  ]
+}

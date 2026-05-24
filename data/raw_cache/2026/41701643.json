@@ -1,0 +1,27 @@
+{
+  "pmid": "41701643",
+  "title": "Computational constraints underlying shape and texture functional domain organization in macaque V4.",
+  "abstract": "V4, an intermediate visual area in the ventral pathway of the primate visual system, is known to contain neurons selective to visual stimulus attributes of intermediate complexity. Recent studies have shown that macaque V4 is organized into neuronal columns, each tuned to specific natural image features, and topologically arranged across the cortical surface to form functionally specialized domains. Using digital twins of V4 constructed from a large-scale wide-field imaging dataset, we demonstrate that shape- and texture-preferring neurons-previously identified in single-unit studies-are spatially clustered into functional domains. The segregated spatial organization suggests the existence of parallel modules for surface and boundary processing. Unlike artificial neural networks trained for ImageNet classification, which exhibit a strong texture bias, we find that V4 cortical columns and functional domains are more evenly balanced between shape and texture preferences. Finally, we show that computational constraints of feature similarity and retinotopy constraints are necessary and sufficient to explain many observed properties of the organization of the V4 topological map of natural image feature preferences.",
+  "authors": [
+    "Jiang Dunhan",
+    "Wang Tianye",
+    "Bian Yingjue",
+    "Tang Shiming",
+    "Lee Tai Sing"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2026",
+  "doi": "10.1093/cercor/bhaf345",
+  "mesh": [
+    "Animals",
+    "Visual Cortex",
+    "Neurons",
+    "Visual Pathways",
+    "Macaca mulatta",
+    "Photic Stimulation",
+    "Neural Networks, Computer",
+    "Models, Neurological",
+    "Pattern Recognition, Visual",
+    "Macaca"
+  ]
+}

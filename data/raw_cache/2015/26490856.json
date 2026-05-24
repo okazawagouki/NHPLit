@@ -1,0 +1,32 @@
+{
+  "pmid": "26490856",
+  "title": "There Is a \"U\" in Clutter: Evidence for Robust Sparse Codes Underlying Clutter Tolerance in Human Vision.",
+  "abstract": "UNLABELLED: The ability to recognize objects in clutter is crucial for human vision, yet the underlying neural computations remain poorly understood. Previous single-unit electrophysiology recordings in inferotemporal cortex in monkeys and fMRI studies of object-selective cortex in humans have shown that the responses to pairs of objects can sometimes be well described as a weighted average of the responses to the constituent objects. Yet, from a computational standpoint, it is not clear how the challenge of object recognition in clutter can be solved if downstream areas must disentangle the identity of an unknown number of individual objects from the confounded average neuronal responses. An alternative idea is that recognition is based on a subpopulation of neurons that are robust to clutter, i.e., that do not show response averaging, but rather robust object-selective responses in the presence of clutter. Here we show that simulations using the HMAX model of object recognition in cortex can fit the aforementioned single-unit and fMRI data, showing that the averaging-like responses can be understood as the result of responses of object-selective neurons to suboptimal stimuli. Moreover, the model shows how object recognition can be achieved by a sparse readout of neurons whose selectivity is robust to clutter. Finally, the model provides a novel prediction about human object recognition performance, namely, that target recognition ability should show a U-shaped dependency on the similarity of simultaneously presented clutter objects. This prediction is confirmed experimentally, supporting a simple, unifying model of how the brain performs object recognition in clutter. SIGNIFICANCE STATEMENT: The neural mechanisms underlying object recognition in cluttered scenes (i.e., containing more than one object) remain poorly understood. Studies have suggested that neural responses to multiple objects correspond to an average of the responses to the constituent objects. Yet, it is unclear how the identities of an unknown number of objects could be disentangled from a confounded average response. Here, we use a popular computational biological vision model to show that averaging-like responses can result from responses of clutter-tolerant neurons to suboptimal stimuli. The model also provides a novel prediction, that human detection ability should show a U-shaped dependency on target-clutter similarity, which is confirmed experimentally, supporting a simple, unifying account of how the brain performs object recognition in clutter.",
+  "authors": [
+    "Cox Patrick H",
+    "Riesenhuber Maximilian"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.1211-15.2015",
+  "mesh": [
+    "Adolescent",
+    "Adult",
+    "Attention",
+    "Brain",
+    "Computer Simulation",
+    "Female",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Models, Biological",
+    "Oxygen",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Vision, Ocular",
+    "Visual Pathways",
+    "Visual Perception",
+    "Young Adult"
+  ]
+}

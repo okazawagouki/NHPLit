@@ -1,0 +1,25 @@
+{
+  "pmid": "9685204",
+  "title": "Reliable disparity estimation through selective integration.",
+  "abstract": "A network model of disparity estimation was developed based on disparity-selective neurons, such as those found in the early stages of processing in the visual cortex. The model accurately estimated multiple disparities in regions, which may be caused by transparency or occlusion. The selective integration of reliable local estimates enabled the network to generate accurate disparity estimates on normal and transparent random-dot stereograms. The model was consistent with human psychophysical results on the effects of spatial-frequency filtering on disparity sensitivity. The responses of neurons in macaque area V2 to random-dot stereograms are consistent with the prediction of the model that a subset of neurons responsible for disparity selection should be sensitive to disparity gradients.",
+  "authors": [
+    "Gray M S",
+    "Pouget A",
+    "Zemel R S",
+    "Nowlan S J",
+    "Sejnowski T J"
+  ],
+  "journal": "Visual neuroscience",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Humans",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Reproducibility of Results",
+    "Vision Disparity",
+    "Visual Cortex"
+  ]
+}

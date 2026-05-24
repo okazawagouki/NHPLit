@@ -1,0 +1,14 @@
+{
+  "pmid": "39185218",
+  "title": "Brain-like border ownership signals support prediction of natural videos.",
+  "abstract": "To make sense of visual scenes, the brain must segment foreground from background. This is thought to be facilitated by neurons in the primate visual system that encode border ownership (BOS), i.e. whether a local border is part of an object on one or the other side of the border. It is unclear how these signals emerge in neural networks without a teaching signal of what is foreground and background. In this study, we investigated whether BOS signals exist in PredNet, a self-supervised artificial neural network trained to predict the next image frame of natural video sequences. We found that a significant number of units in PredNet are selective for BOS. Moreover these units share several other properties with the BOS neurons in the brain, including robustness to scene variations that constitute common object transformations in natural videos, and hysteresis of BOS signals. Finally, we performed ablation experiments and found that BOS units contribute more to prediction than non-BOS units for videos with moving objects. Our findings indicate that BOS units are especially useful to predict future input in natural videos, even when networks are not required to segment foreground from background. This suggests that BOS neurons in the brain might be the result of evolutionary or developmental pressure to predict future input in natural, complex dynamic visual environments.",
+  "authors": [
+    "Ye Zeyuan",
+    "Wessel Ralf",
+    "Franken Tom P"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.08.11.607040",
+  "mesh": []
+}

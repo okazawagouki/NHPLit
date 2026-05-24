@@ -1,0 +1,23 @@
+{
+  "pmid": "28784984",
+  "title": "Leveraging neural dynamics to extend functional lifetime of brain-machine interfaces.",
+  "abstract": "Intracortical brain-machine interfaces (BMIs) aim to restore lost motor function to people with neurological deficits by decoding neural activity into control signals for guiding prostheses. An important challenge facing BMIs is that, over time, the number of neural signals recorded from implanted multielectrode arrays will decline and result in a concomitant decrease of BMI performance. We sought to extend BMI lifetime by developing an algorithmic technique, implemented entirely in software, to improve performance over state-of-the-art algorithms as the number of recorded neural signals decline. Our approach augments the decoder by incorporating neural population dynamics remembered from an earlier point in the array lifetime. We demonstrate, in closed-loop experiments with two rhesus macaques, that after the loss of approximately 60% of recording electrodes, our approach outperforms state-of-the-art decoders by a factor of 3.2× and 1.7× (corresponding to a 46% and 22% recovery of maximal performance). Further, our results suggest that neural population dynamics in motor cortex are invariant to the number of recorded neurons. By extending functional BMI lifetime, this approach increases the clinical viability of BMIs.",
+  "authors": [
+    "Kao Jonathan C",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Scientific reports",
+  "year": "2017",
+  "doi": "10.1038/s41598-017-06029-x",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Neurons"
+  ]
+}

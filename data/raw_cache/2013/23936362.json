@@ -1,0 +1,24 @@
+{
+  "pmid": "23936362",
+  "title": "How lateral connections and spiking dynamics may separate multiple objects moving together.",
+  "abstract": "Over successive stages, the ventral visual system of the primate brain develops neurons that respond selectively to particular objects or faces with translation, size and view invariance. The powerful neural representations found in Inferotemporal cortex form a remarkably rapid and robust basis for object recognition which belies the difficulties faced by the system when learning in natural visual environments. A central issue in understanding the process of biological object recognition is how these neurons learn to form separate representations of objects from complex visual scenes composed of multiple objects. We show how a one-layer competitive network comprised of 'spiking' neurons is able to learn separate transformation-invariant representations (exemplified by one-dimensional translations) of visual objects that are always seen together moving in lock-step, but separated in space. This is achieved by combining 'Mexican hat' functional lateral connectivity with cell firing-rate adaptation to temporally segment input representations of competing stimuli through anti-phase oscillations (perceptual cycles). These spiking dynamics are quickly and reliably generated, enabling selective modification of the feed-forward connections to neurons in the next layer through Spike-Time-Dependent Plasticity (STDP), resulting in separate translation-invariant representations of each stimulus. Variations in key properties of the model are investigated with respect to the network's ability to develop appropriate input representations and subsequently output representations through STDP. Contrary to earlier rate-coded models of this learning process, this work shows how spiking neural networks may learn about more than one stimulus together without suffering from the 'superposition catastrophe'. We take these results to suggest that spiking dynamics are key to understanding biological visual object recognition.",
+  "authors": [
+    "Evans Benjamin D",
+    "Stringer Simon M"
+  ],
+  "journal": "PloS one",
+  "year": "2013",
+  "doi": "10.1371/journal.pone.0069952",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Form Perception",
+    "Learning",
+    "Models, Neurological",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Primates",
+    "Visual Pathways"
+  ]
+}

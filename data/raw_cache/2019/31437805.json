@@ -1,0 +1,22 @@
+{
+  "pmid": "31437805",
+  "title": "Automated integrated system for stained neuron detection: An end-to-end framework with a high negative predictive rate.",
+  "abstract": "BACKGROUND AND OBJECTIVE: Mapping the architecture of the brain is essential for identifying the neural computations that affect behavior. Traditionally in histology, stained objects in tissue slices are hand-marked under a microscope in a manually intensive, time-consuming process. An integrated hardware and software system is needed to automate image acquisition, image processing, and object detection. Such a system would enable high throughput tissue analysis to rapidly map an entire brain. METHODS: We demonstrate an automated system to detect neurons using a monkey brain slice immunohistochemically stained for retrogradely labeled neurons. The proposed system obtains a reconstructed image of the sample, and stained neurons are detected in three steps. First, the reconstructed image is pre-processed using adaptive histogram equalization. Second, candidates for stained neurons are segmented from each region via marker-controlled watershed transformation (MCWT) using maximally stable extremal regions (MSERs). Third, the candidates are categorized as neurons or non-neurons using deep transfer learning via pre-trained convolutional neural networks (CNN). RESULTS: The proposed MCWT algorithm was compared qualitatively against MorphLibJ and an IHC analysis tool, while our unified classification algorithm was evaluated quantitatively using ROC analyses. The proposed classification system was first compared with five previously developed layers (AlexNet, VGG-16, VGG-19, GoogleNet, and ResNet). A comparison with conventional multi-stage frameworks followed using six off-the-shelf classifiers [Bayesian network (BN), support vector machines (SVM), decision tree (DT), bagging (BAG), AdaBoost (ADA), and logistic regression (LR)] and two descriptors (LBP and HOG). The system achieved a 0.918 F1-score with an 86.6% negative prediction value. Remarkably, other metrics such as precision, recall, and F-scores surpassed the 90% threshold compared to traditional methods. CONCLUSIONS: We demonstrate a fully automated, integrated hardware and software system for rapidly acquiring focused images and identifying neurons from a stained brain slice. This system could be adapted for the identification of stained features of any biological tissue.",
+  "authors": [
+    "Yoon Ji-Seok",
+    "Choi Eun Young",
+    "Saad Maliazurina",
+    "Choi Tae-Sun"
+  ],
+  "journal": "Computer methods and programs in biomedicine",
+  "year": "2019",
+  "doi": "10.1016/j.cmpb.2019.105028",
+  "mesh": [
+    "Algorithms",
+    "Deep Learning",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Neurons",
+    "Radiography, Thoracic"
+  ]
+}

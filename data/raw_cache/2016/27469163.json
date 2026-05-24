@@ -1,0 +1,31 @@
+{
+  "pmid": "27469163",
+  "title": "Neural mechanisms of transient neocortical beta rhythms: Converging evidence from humans, computational modeling, monkeys, and mice.",
+  "abstract": "Human neocortical 15-29-Hz beta oscillations are strong predictors of perceptual and motor performance. However, the mechanistic origin of beta in vivo is unknown, hindering understanding of its functional role. Combining human magnetoencephalography (MEG), computational modeling, and laminar recordings in animals, we present a new theory that accounts for the origin of spontaneous neocortical beta. In our MEG data, spontaneous beta activity from somatosensory and frontal cortex emerged as noncontinuous beta events typically lasting <150 ms with a stereotypical waveform. Computational modeling uniquely designed to infer the electrical currents underlying these signals showed that beta events could emerge from the integration of nearly synchronous bursts of excitatory synaptic drive targeting proximal and distal dendrites of pyramidal neurons, where the defining feature of a beta event was a strong distal drive that lasted one beta period (∼50 ms). This beta mechanism rigorously accounted for the beta event profiles; several other mechanisms did not. The spatial location of synaptic drive in the model to supragranular and infragranular layers was critical to the emergence of beta events and led to the prediction that beta events should be associated with a specific laminar current profile. Laminar recordings in somatosensory neocortex from anesthetized mice and awake monkeys supported these predictions, suggesting this beta mechanism is conserved across species and recording modalities. These findings make several predictions about optimal states for perceptual and motor performance and guide causal interventions to modulate beta for optimal function.",
+  "authors": [
+    "Sherman Maxwell A",
+    "Lee Shane",
+    "Law Robert",
+    "Haegens Saskia",
+    "Thorn Catherine A",
+    "Hämäläinen Matti S",
+    "Moore Christopher I",
+    "Jones Stephanie R"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2016",
+  "doi": "10.1073/pnas.1604135113",
+  "mesh": [
+    "Animals",
+    "Beta Rhythm",
+    "Computer Simulation",
+    "Female",
+    "Humans",
+    "Macaca mulatta",
+    "Magnetoencephalography",
+    "Mice",
+    "Models, Neurological",
+    "Neocortex",
+    "Thalamic Nuclei"
+  ]
+}

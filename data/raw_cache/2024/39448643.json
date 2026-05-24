@@ -1,0 +1,34 @@
+{
+  "pmid": "39448643",
+  "title": "Convergent representation of values from tactile and visual inputs for efficient goal-directed behavior in the primate putamen.",
+  "abstract": "Animals can discriminate diverse sensory values with a limited number of neurons, raising questions about how the brain utilizes neural resources to efficiently process multi-dimensional inputs for decision-making. Here, we demonstrate that this efficiency is achieved by reducing sensory dimensions and converging towards the value dimension essential for goal-directed behavior in the putamen. Humans and monkeys performed tactile and visual value discrimination tasks while their neural responses were examined. Value information, whether originating from tactile or visual stimuli, was found to be processed within the human putamen using fMRI. Notably, at the single-neuron level in the macaque putamen, half of the individual neurons encode values independently of sensory inputs, while the other half selectively encode tactile or visual value. The responses of bimodal value neurons correlate with value-guided finger insertion behavior in both tasks, whereas modality-selective value neurons show task-specific correlations. Simulation using these neurons reveals that the presence of bimodal value neurons enables value discrimination with a significantly reduced number of neurons compared to simulations without them. Our data indicate that individual neurons in the primate putamen process different values in a convergent manner, thereby facilitating the efficient use of constrained neural resources for value-guided behavior.",
+  "authors": [
+    "Hwang Seong-Hwan",
+    "Park Doyoung",
+    "Lee Ji-Woo",
+    "Lee Sue-Hyun",
+    "Kim Hyoung F"
+  ],
+  "journal": "Nature communications",
+  "year": "2024",
+  "doi": "10.1038/s41467-024-53342-x",
+  "mesh": [
+    "Animals",
+    "Putamen",
+    "Male",
+    "Magnetic Resonance Imaging",
+    "Humans",
+    "Goals",
+    "Neurons",
+    "Adult",
+    "Female",
+    "Touch",
+    "Macaca mulatta",
+    "Decision Making",
+    "Young Adult",
+    "Photic Stimulation",
+    "Visual Perception",
+    "Touch Perception",
+    "Behavior, Animal"
+  ]
+}

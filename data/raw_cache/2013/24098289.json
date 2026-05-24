@@ -1,0 +1,13 @@
+{
+  "pmid": "24098289",
+  "title": "A distributed code for color in natural scenes derived from center-surround filtered cone signals.",
+  "abstract": "In the retina of trichromatic primates, chromatic information is encoded in an opponent fashion and transmitted to the lateral geniculate nucleus (LGN) and visual cortex via parallel pathways. Chromatic selectivities of neurons in the LGN form two separate clusters, corresponding to two classes of cone opponency. In the visual cortex, however, the chromatic selectivities are more distributed, which is in accordance with a population code for color. Previous studies of cone signals in natural scenes typically found opponent codes with chromatic selectivities corresponding to two directions in color space. Here we investigated how the non-linear spatio-chromatic filtering in the retina influences the encoding of color signals. Cone signals were derived from hyper-spectral images of natural scenes and preprocessed by center-surround filtering and rectification, resulting in parallel ON and OFF channels. Independent Component Analysis (ICA) on these signals yielded a highly sparse code with basis functions that showed spatio-chromatic selectivities. In contrast to previous analyses of linear transformations of cone signals, chromatic selectivities were not restricted to two main chromatic axes, but were more continuously distributed in color space, similar to the population code of color in the early visual cortex. Our results indicate that spatio-chromatic processing in the retina leads to a more distributed and more efficient code for natural scenes.",
+  "authors": [
+    "Kellner Christian J",
+    "Wachtler Thomas"
+  ],
+  "journal": "Frontiers in psychology",
+  "year": "2013",
+  "doi": "10.3389/fpsyg.2013.00661",
+  "mesh": []
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "19635689",
+  "title": "Spatiotemporal neural integration for bistable perception in a response-time structure-from-motion task.",
+  "abstract": "The question of how perception arises from neuronal activity in the visual cortex is of fundamental importance to many issues in cognitive neuroscience. To address this question, we adopt a unique experimental paradigm in which bistable stimuli, namely structure from motion (SFM), are employed to dissociate the visual input from perception while monitoring cortical neural activity. In this paper, we analyze the dynamic responses of the multiunit activity, simultaneously collected from multiple channels in the middle temporal visual cortex of awake behaving macaque monkeys, for decoding the bistable percepts of SFM in a response-time (RT) perceptual discrimination task. Our goal is to understand how the perceptual discriminative information of neuronal population activity evolves and accumulates over time to mediate behaviors. Here, we used a discriminative classifier called the logistic regression and contrasted it with two generative classifiers, namely the quadratic discriminant analysis (QDA) and linear discriminant analysis (LDA), to achieve the spatiotemporal integration of neural activity and dynamically decode the perceptual reports on a single-trial basis. We found that the logistic regression outperforms both QDA and LDA in terms of decoding accuracy for both single-channel and multichannel decoding of bistable percepts. Subsequent analysis of the temporal profile of neural population decoding in relation to RT revealed that the amplitude and latency of the decoding accuracy are highly correlated with the RT, thus indicating that the monkeys respond faster when the decoding accuracy is higher and has shorter latency. These findings suggest that enhanced neuronal discrimination ability and shortened neuronal discrimination latency may impact monkeys' behaviors.",
+  "authors": [
+    "Wang Zhisong",
+    "Logothetis Nikos K",
+    "Liang Hualou"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2009",
+  "doi": "10.1109/TBME.2009.2027332",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Cues",
+    "Discrimination Learning",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motion Perception",
+    "Nerve Net",
+    "Perceptual Masking",
+    "Reaction Time"
+  ]
+}

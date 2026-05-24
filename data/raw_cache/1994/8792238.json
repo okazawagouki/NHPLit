@@ -1,0 +1,19 @@
+{
+  "pmid": "8792238",
+  "title": "Modeling perceptual learning with multiple interacting elements: a neural network model describing early visual perceptual learning.",
+  "abstract": "We introduce a neural network model of an early visual cortical area, in order to understand better results of psychophysical experiments concerning perceptual learning during odd element (pop-out) detection tasks (Ahissar and Hochstein, 1993, 1994a). The model describes a network, composed of orientation selective units, arranged in a hypercolumn structure, with receptive field properties modeled from real monkey neurons. Odd element detection is a final pattern of activity with one (or a few) salient units active. The learning algorithm used was the Associative reward-penalty (Ar-p) algorithm of reinforcement learning (Barto and Anandan, 1985), following physiological data indicating the role of supervision in cortical plasticity. Simulations show that network performance improves dramatically as the weights of inter-unit connections reach a balance between lateral iso-orientation inhibition, and facilitation from neighboring neurons with different preferred orientations. The network is able to learn even from chance performance, and in the presence of a large amount of noise in the response function. As additional tests of the model, we conducted experiments with human subjects in order to examine learning strategy and test model predictions.",
+  "authors": [
+    "Peres R",
+    "Hochstein S"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "1994",
+  "doi": "",
+  "mesh": [
+    "Humans",
+    "Learning",
+    "Neural Networks, Computer",
+    "Time Factors",
+    "Visual Perception"
+  ]
+}

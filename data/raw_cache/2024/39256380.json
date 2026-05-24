@@ -1,0 +1,29 @@
+{
+  "pmid": "39256380",
+  "title": "ARViS: a bleed-free multi-site automated injection robot for accurate, fast, and dense delivery of virus to mouse and marmoset cerebral cortex.",
+  "abstract": "Genetically encoded fluorescent sensors continue to be developed and improved. If they could be expressed across multiple cortical areas in non-human primates, it would be possible to measure a variety of spatiotemporal dynamics of primate-specific cortical activity. Here, we develop an Automated Robotic Virus injection System (ARViS) for broad expression of a biosensor. ARViS consists of two technologies: image recognition of vasculature structures on the cortical surface to determine multiple injection sites without hitting them, and robotic control of micropipette insertion perpendicular to the cortical surface with 50 μm precision. In mouse cortex, ARViS sequentially injected virus solution into 100 sites over a duration of 100 min with a bleeding probability of only 0.1% per site. Furthermore, ARViS successfully achieved 266-site injections over the frontoparietal cortex of a female common marmoset. We demonstrate one-photon and two-photon calcium imaging in the marmoset frontoparietal cortex, illustrating the effective expression of biosensors delivered by ARViS.",
+  "authors": [
+    "Nomura Shinnosuke",
+    "Terada Shin-Ichiro",
+    "Ebina Teppei",
+    "Uemura Masato",
+    "Masamizu Yoshito",
+    "Ohki Kenichi",
+    "Matsuzaki Masanori"
+  ],
+  "journal": "Nature communications",
+  "year": "2024",
+  "doi": "10.1038/s41467-024-51986-3",
+  "mesh": [
+    "Animals",
+    "Callithrix",
+    "Robotics",
+    "Mice",
+    "Female",
+    "Cerebral Cortex",
+    "Biosensing Techniques",
+    "Male",
+    "Mice, Inbred C57BL",
+    "Injections"
+  ]
+}

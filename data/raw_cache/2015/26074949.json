@@ -1,0 +1,17 @@
+{
+  "pmid": "26074949",
+  "title": "Quantifying polymorphism and divergence from epigenetic data: a framework for inferring the action of selection.",
+  "abstract": "Epigenetic modifications are alterations that regulate gene expression without modifying the underlying DNA sequence. DNA methylation and histone modifications, for example, are capable of spatial and temporal regulation of expression-with several studies demonstrating that these epigenetic marks are heritable. Thus, like DNA sequence, epigenetic marks are capable of storing information and passing it from one generation to the next. Because the epigenome is dynamic and epigenetic modifications can respond to external environmental stimuli, such changes may play an important role in adaptive evolution. While recent studies provide strong evidence for species-specific signatures of epigenetic marks, little is known about the mechanisms by which such modifications evolve. In order to address this question, we analyze the genome wide distribution of an epigenetic histone mark (H3K4me3) in prefrontal cortex neurons of humans, chimps and rhesus macaques. We develop a novel statistical framework to quantify within- and between-species variation in histone methylation patterns, using an ANOVA-based method and defining an FST -like measure for epigenetics (termed epi- FST), in order to develop a deeper understanding of the evolutionary pressures acting on epigenetic variation. Results demonstrate that genes with high epigenetic FST values are indeed significantly overrepresented among genes that are differentially expressed between species, and we observe only a weak correlation with SNP density.",
+  "authors": [
+    "Mahajan Shivani",
+    "Crisci Jessica",
+    "Wong Alex",
+    "Akbarian Schahram",
+    "Foll Matthieu",
+    "Jensen Jeffrey D"
+  ],
+  "journal": "Frontiers in genetics",
+  "year": "2015",
+  "doi": "10.3389/fgene.2015.00190",
+  "mesh": []
+}

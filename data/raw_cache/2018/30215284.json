@@ -1,0 +1,23 @@
+{
+  "pmid": "30215284",
+  "title": "A Neuronal Network Model of the Primate Visual System: Color Mechanisms in the Retina, LGN and V1.",
+  "abstract": "Color plays a key role in human vision but the neural machinery that underlies the transformation from stimulus to perception is not well understood. Here, we implemented a two-dimensional network model of the first stages in the primate parvocellular pathway (retina, lateral geniculate nucleus and layer 4C <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>β</mi></math> in V1) consisting of conductance-based point neurons. Model parameters were tuned based on physiological and anatomical data from the primate foveal and parafoveal vision, the most relevant visual field areas for color vision. We exhaustively benchmarked the model against well-established chromatic and achromatic visual stimuli, showing spatial and temporal responses of the model to disk- and ring-shaped light flashes, spatially uniform squares and sine-wave gratings of varying spatial frequency. The spatiotemporal patterns of parvocellular cells and cortical cells are consistent with their classification into chromatically single-opponent and double-opponent groups, and nonopponent cells selective for luminance stimuli. The model was implemented in the widely used neural simulation tool NEST and released as open source software. The aim of our modeling is to provide a biologically realistic framework within which a broad range of neuronal interactions can be examined at several different levels, with a focus on understanding how color information is processed.",
+  "authors": [
+    "Martínez-Cañada Pablo",
+    "Morillas Christian",
+    "Pelayo Francisco"
+  ],
+  "journal": "International journal of neural systems",
+  "year": "2019",
+  "doi": "10.1142/S0129065718500363",
+  "mesh": [
+    "Animals",
+    "Color Perception",
+    "Geniculate Bodies",
+    "Neural Networks, Computer",
+    "Primates",
+    "Retina",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

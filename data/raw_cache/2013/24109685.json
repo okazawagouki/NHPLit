@@ -1,0 +1,23 @@
+{
+  "pmid": "24109685",
+  "title": "Long-term, stable behavior of local field potentials during brain machine interface use.",
+  "abstract": "Local field potentials (LFPs) have the potential to provide robust, long-lasting control signals for brain-machine interfaces (BMIs). Moreover, they have been hypothesized to be a stable signal source. Here we assess the long-term stability of LFPs and multi-unit spikes (MSPs) in two monkeys using both LFP-based and MSP-based, biomimetic BMIs to control a computer cursor. The monkeys demonstrated highly accurate performance using both the LFP- and MSP-based BMIs. This performance remained high for 11 and 6 months, respectively, without adapting or retraining. We evaluated the stability of the LFP features and MSPs themselves by building, in each session, linear decoders of the BMI-controlled cursor velocity using single features or single MSPs. We then used these single-feature decoders to decode BMI-controlled cursor velocity in the last session. Many of the LFP features and MSPs showed stably-high correlations with the cursor velocity over the entire study period. This implies that the monkeys were able to maintain a stable mapping between either motor cortical field potentials or multi-spike potentials and BMI-controlled outputs.",
+  "authors": [
+    "Scheid Michael R",
+    "Flint Robert D",
+    "Wright Zachary A",
+    "Slutzky Marc W"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2013",
+  "doi": "10.1109/EMBC.2013.6609498",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Humans",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

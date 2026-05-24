@@ -1,0 +1,19 @@
+{
+  "pmid": "26203137",
+  "title": "A Hierarchical Statistical Model of Natural Images Explains Tuning Properties in V2.",
+  "abstract": "Previous theoretical and experimental studies have demonstrated tight relationships between natural image statistics and neural representations in V1. In particular, receptive field properties similar to simple and complex cells have been shown to be inferable from sparse coding of natural images. However, whether such a relationship exists in higher areas has not been clarified. To address this question for V2, we trained a sparse coding model that took as input the output of a fixed V1-like model, which was in its turn fed a large variety of natural image patches as input. After the training, the model exhibited response properties that were qualitatively and quantitatively compatible with three major neurophysiological results on macaque V2, as follows: (1) homogeneous and heterogeneous integration of local orientations (Anzai et al., 2007); (2) a wide range of angle selectivities with biased sensitivities to one component orientation (Ito and Komatsu, 2004); and (3) exclusive length and width suppression (Schmid et al., 2014). The reproducibility was stable across variations in several model parameters. Further, a formal classification of the internal representations of the model units offered detailed interpretations of the experimental data, emphasizing that a novel type of model cell that could detect a combination of local orientations converging toward a single spatial point (potentially related to corner-like features) played an important role in reproducing tuning properties compatible with V2. These results are consistent with the idea that V2 uses a sparse code of natural images. Significance statement: Sparse coding theory has successfully explained a number of receptive field properties in V1; but how about in V2? This question has recently become important since a variety of properties distinct from V1 have been discovered in V2, and thus a more integrative understanding is called for. Our study shows that a hierarchical sparse coding model of natural images explains three major response properties known in the macaque V2. We further provide a detailed analysis revealing the roles of different kinds of model cells in explaining the V2-specific properties. Our results thus offer the first sparse coding account for receptive field properties in V2 that has extensive biological relevance.",
+  "authors": [
+    "Hosoya Haruo",
+    "Hyvärinen Aapo"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.5152-14.2015",
+  "mesh": [
+    "Humans",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

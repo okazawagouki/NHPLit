@@ -1,0 +1,31 @@
+{
+  "pmid": "24922501",
+  "title": "Continuous closed-loop decoder adaptation with a recursive maximum likelihood algorithm allows for rapid performance acquisition in brain-machine interfaces.",
+  "abstract": "Closed-loop decoder adaptation (CLDA) is an emerging paradigm for both improving and maintaining online performance in brain-machine interfaces (BMIs). The time required for initial decoder training and any subsequent decoder recalibrations could be potentially reduced by performing continuous adaptation, in which decoder parameters are updated at every time step during these procedures, rather than waiting to update the decoder at periodic intervals in a more batch-based process. Here, we present recursive maximum likelihood (RML), a CLDA algorithm that performs continuous adaptation of a Kalman filter decoder's parameters. We demonstrate that RML possesses a variety of useful properties and practical algorithmic advantages. First, we show how RML leverages the accuracy of updates based on a batch of data while still adapting parameters on every time step. Second, we illustrate how the RML algorithm is parameterized by a single, intuitive half-life parameter that can be used to adjust the rate of adaptation in real time. Third, we show how even when the number of neural features is very large, RML's memory-efficient recursive update rules can be reformulated to also be computationally fast so that continuous adaptation is still feasible. To test the algorithm in closed-loop experiments, we trained three macaque monkeys to perform a center-out reaching task by using either spiking activity or local field potentials to control a 2D computer cursor. RML achieved higher levels of performance more rapidly in comparison to a previous CLDA algorithm that adapts parameters on a more intermediate timescale. Overall, our results indicate that RML is an effective CLDA algorithm for achieving rapid performance acquisition using continuous adaptation.",
+  "authors": [
+    "Dangi Siddharth",
+    "Gowda Suraj",
+    "Moorman Helene G",
+    "Orsborn Amy L",
+    "So Kelvin",
+    "Shanechi Maryam",
+    "Carmena Jose M"
+  ],
+  "journal": "Neural computation",
+  "year": "2014",
+  "doi": "10.1162/NECO_a_00632",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Calibration",
+    "Electrodes, Implanted",
+    "Likelihood Functions",
+    "Macaca",
+    "Male",
+    "Motor Activity",
+    "Time Factors"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "27474915",
+  "title": "Non-reward neural mechanisms in the orbitofrontal cortex.",
+  "abstract": "Single neurons in the primate orbitofrontal cortex respond when an expected reward is not obtained, and behaviour must change. The human lateral orbitofrontal cortex is activated when non-reward, or loss occurs. The neuronal computation of this negative reward prediction error is fundamental for the emotional changes associated with non-reward, and with changing behaviour. Little is known about the neuronal mechanism. Here we propose a mechanism, which we formalize into a neuronal network model, which is simulated to enable the operation of the mechanism to be investigated. A single attractor network has a reward population (or pool) of neurons that is activated by expected reward, and maintain their firing until, after a time, synaptic depression reduces the firing rate in this neuronal population. If a reward outcome is not received, the decreasing firing in the reward neurons releases the inhibition implemented by inhibitory neurons, and this results in a second population of non-reward neurons to start and continue firing encouraged by the spiking-related noise in the network. If a reward outcome is received, this keeps the reward attractor active, and this through the inhibitory neurons prevents the non-reward attractor neurons from being activated. If an expected reward has been signalled, and the reward attractor neurons are active, their firing can be directly inhibited by a non-reward outcome, and the non-reward neurons become activated because the inhibition on them is released. The neuronal mechanisms in the orbitofrontal cortex for computing negative reward prediction error are important, for this system may be over-reactive in depression, under-reactive in impulsive behaviour, and may influence the dopaminergic 'prediction error' neurons.",
+  "authors": [
+    "Rolls Edmund T",
+    "Deco Gustavo"
+  ],
+  "journal": "Cortex; a journal devoted to the study of the nervous system and behavior",
+  "year": "2016",
+  "doi": "10.1016/j.cortex.2016.06.023",
+  "mesh": [
+    "Action Potentials",
+    "Computer Simulation",
+    "Emotions",
+    "Humans",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Reward"
+  ]
+}

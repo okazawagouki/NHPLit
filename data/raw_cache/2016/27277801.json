@@ -1,0 +1,27 @@
+{
+  "pmid": "27277801",
+  "title": "Variability and Correlations in Primary Visual Cortical Neurons Driven by Fixational Eye Movements.",
+  "abstract": "UNLABELLED: The ability to distinguish between elements of a sensory neuron's activity that are stimulus independent versus driven by the stimulus is critical for addressing many questions in systems neuroscience. This is typically accomplished by measuring neural responses to repeated presentations of identical stimuli and identifying the trial-variable components of the response as noise. In awake primates, however, small \"fixational\" eye movements (FEMs) introduce uncontrolled trial-to-trial differences in the visual stimulus itself, potentially confounding this distinction. Here, we describe novel analytical methods that directly quantify the stimulus-driven and stimulus-independent components of visual neuron responses in the presence of FEMs. We apply this approach, combined with precise model-based eye tracking, to recordings from primary visual cortex (V1), finding that standard approaches that ignore FEMs typically miss more than half of the stimulus-driven neural response variance, creating substantial biases in measures of response reliability. We show that these effects are likely not isolated to the particular experimental conditions used here, such as the choice of visual stimulus or spike measurement time window, and thus will be a more general problem for V1 recordings in awake primates. We also demonstrate that measurements of the stimulus-driven and stimulus-independent correlations among pairs of V1 neurons can be greatly biased by FEMs. These results thus illustrate the potentially dramatic impact of FEMs on measures of signal and noise in visual neuron activity and also demonstrate a novel approach for controlling for these eye-movement-induced effects. SIGNIFICANCE STATEMENT: Distinguishing between the signal and noise in a sensory neuron's activity is typically accomplished by measuring neural responses to repeated presentations of an identical stimulus. For recordings from the visual cortex of awake animals, small \"fixational\" eye movements (FEMs) inevitably introduce trial-to-trial variability in the visual stimulus, potentially confounding such measures. Here, we show that FEMs often have a dramatic impact on several important measures of response variability for neurons in primary visual cortex. We also present an analytical approach for quantifying signal and noise in visual neuron activity in the presence of FEMs. These results thus highlight the importance of controlling for FEMs in studies of visual neuron function, and demonstrate novel methods for doing so.",
+  "authors": [
+    "McFarland James M",
+    "Cumming Bruce G",
+    "Butts Daniel A"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2016",
+  "doi": "10.1523/JNEUROSCI.4660-15.2016",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Fixation, Ocular",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Photic Stimulation",
+    "Statistics as Topic",
+    "Statistics, Nonparametric",
+    "Vision, Ocular",
+    "Visual Cortex",
+    "Wakefulness"
+  ]
+}

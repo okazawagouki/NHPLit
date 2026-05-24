@@ -1,0 +1,31 @@
+{
+  "pmid": "25972167",
+  "title": "Toward an autonomous brain machine interface: integrating sensorimotor reward modulation and reinforcement learning.",
+  "abstract": "For decades, neurophysiologists have worked on elucidating the function of the cortical sensorimotor control system from the standpoint of kinematics or dynamics. Recently, computational neuroscientists have developed models that can emulate changes seen in the primary motor cortex during learning. However, these simulations rely on the existence of a reward-like signal in the primary sensorimotor cortex. Reward modulation of the primary sensorimotor cortex has yet to be characterized at the level of neural units. Here we demonstrate that single units/multiunits and local field potentials in the primary motor (M1) cortex of nonhuman primates (Macaca radiata) are modulated by reward expectation during reaching movements and that this modulation is present even while subjects passively view cursor motions that are predictive of either reward or nonreward. After establishing this reward modulation, we set out to determine whether we could correctly classify rewarding versus nonrewarding trials, on a moment-to-moment basis. This reward information could then be used in collaboration with reinforcement learning principles toward an autonomous brain-machine interface. The autonomous brain-machine interface would use M1 for both decoding movement intention and extraction of reward expectation information as evaluative feedback, which would then update the decoding algorithm as necessary. In the work presented here, we show that this, in theory, is possible.",
+  "authors": [
+    "Marsh Brandi T",
+    "Tarigoppula Venkata S Aditya",
+    "Chen Chen",
+    "Francis Joseph T"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.1802-14.2015",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Computer Simulation",
+    "Electromyography",
+    "Evoked Potentials",
+    "Female",
+    "Linear Models",
+    "Macaca radiata",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Reinforcement, Psychology",
+    "Reward"
+  ]
+}

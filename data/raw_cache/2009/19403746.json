@@ -1,0 +1,25 @@
+{
+  "pmid": "19403746",
+  "title": "Dynamic characterization of agonist and antagonist oculomotoneurons during conjugate and disconjugate eye movements.",
+  "abstract": "In this report, we provide the first quantitative characterization of the relationship between the spike train dynamics of medial rectus oculomotoneurons (OMNs) and eye movements during conjugate and disconjugate saccades. We show that a simple, first-order model (i.e., containing eye position and velocity terms) provided an adequate model of neural discharges during both on and off-directed conjugate saccades, while a second-order model, which included a decaying slide term, significantly improved the ability to fit neuronal responses by approximately 10% (P<0.05). To understand how the same neurons drove disconjugate eye movements, we evaluated whether sensitivities estimated during conjugate saccades could be used to predict responses during disconjugate saccades. For the majority of neurons (68%), a conjugate-based model failed, and instead neurons preferentially encoded the position and velocity of the ipsilateral eye. Similar to our previous results with abducens motoneurons, we also found that position and velocity sensitivities of OMNs decreased with increasing velocity, and the simulated population drive of OMNs during disconjugate saccades was less (approximately 10%) than during conjugate saccades. Taken together, our results provide evidence that the activation of the antagonist, as well as agonist, motoneuron pools must be considered to understand the neural control of horizontal eye movements across different oculomotor behaviors. Moreover, we propose that the undersampling of smaller motoneurons (e.g., nontwitch) was likely to account for the missing drive observed during disconjugate saccades; these cells are thought to be more specialized for vergence movements and thus could provide the additional input required to command disconjugate eye movements.",
+  "authors": [
+    "Van Horn Marion R",
+    "Cullen Kathleen E"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2009",
+  "doi": "10.1152/jn.00169.2009",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Dominance, Ocular",
+    "Eye Movements",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Neurons",
+    "Ocular Physiological Phenomena",
+    "Oculomotor Muscles",
+    "Oculomotor Nerve",
+    "Visual Pathways"
+  ]
+}

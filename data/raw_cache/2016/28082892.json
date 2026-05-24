@@ -1,0 +1,17 @@
+{
+  "pmid": "28082892",
+  "title": "Neurons in Primate Visual Cortex Alternate between Responses to Multiple Stimuli in Their Receptive Field.",
+  "abstract": "A fundamental question concerning representation of the visual world in our brain is how a cortical cell responds when presented with more than a single stimulus. We find supportive evidence that most cells presented with a pair of stimuli respond predominantly to one stimulus at a time, rather than a weighted average response. Traditionally, the firing rate is assumed to be a weighted average of the firing rates to the individual stimuli (response-averaging model) (Bundesen et al., 2005). Here, we also evaluate a probability-mixing model (Bundesen et al., 2005), where neurons temporally multiplex the responses to the individual stimuli. This provides a mechanism by which the representational identity of multiple stimuli in complex visual scenes can be maintained despite the large receptive fields in higher extrastriate visual cortex in primates. We compare the two models through analysis of data from single cells in the middle temporal visual area (MT) of rhesus monkeys when presented with two separate stimuli inside their receptive field with attention directed to one of the two stimuli or outside the receptive field. The spike trains were modeled by stochastic point processes, including memory effects of past spikes and attentional effects, and statistical model selection between the two models was performed by information theoretic measures as well as the predictive accuracy of the models. As an auxiliary measure, we also tested for uni- or multimodality in interspike interval distributions, and performed a correlation analysis of simultaneously recorded pairs of neurons, to evaluate population behavior.",
+  "authors": [
+    "Li Kang",
+    "Kozyrev Vladislav",
+    "Kyllingsbæk Søren",
+    "Treue Stefan",
+    "Ditlevsen Susanne",
+    "Bundesen Claus"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2016",
+  "doi": "10.3389/fncom.2016.00141",
+  "mesh": []
+}

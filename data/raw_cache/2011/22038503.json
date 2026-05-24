@@ -1,0 +1,35 @@
+{
+  "pmid": "22038503",
+  "title": "An L₁-regularized logistic model for detecting short-term neuronal interactions.",
+  "abstract": "Interactions among neurons are a key component of neural signal processing. Rich neural data sets potentially containing evidence of interactions can now be collected readily in the laboratory, but existing analysis methods are often not sufficiently sensitive and specific to reveal these interactions. Generalized linear models offer a platform for analyzing multi-electrode recordings of neuronal spike train data. Here we suggest an L(1)-regularized logistic regression model (L(1)L method) to detect short-term (order of 3 ms) neuronal interactions. We estimate the parameters in this model using a coordinate descent algorithm, and determine the optimal tuning parameter using a Bayesian Information Criterion. Simulation studies show that in general the L(1)L method has better sensitivities and specificities than those of the traditional shuffle-corrected cross-correlogram (covariogram) method. The L(1)L method is able to detect excitatory interactions with both high sensitivity and specificity with reasonably large recordings, even when the magnitude of the interactions is small; similar results hold for inhibition given sufficiently high baseline firing rates. Our study also suggests that the false positives can be further removed by thresholding, because their magnitudes are typically smaller than true interactions. Simulations also show that the L(1)L method is somewhat robust to partially observed networks. We apply the method to multi-electrode recordings collected in the monkey dorsal premotor cortex (PMd) while the animal prepares to make reaching arm movements. The results show that some neurons interact differently depending on task conditions. The stronger interactions detected with our L(1)L method were also visible using the covariogram method.",
+  "authors": [
+    "Zhao Mengyuan",
+    "Batista Aaron",
+    "Cunningham John P",
+    "Chestek Cynthia",
+    "Rivera-Alvidrez Zuley",
+    "Kalmar Rachel",
+    "Ryu Stephen",
+    "Shenoy Krishna",
+    "Iyengar Satish"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2012",
+  "doi": "10.1007/s10827-011-0365-5",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Cues",
+    "Linear Models",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Nerve Net",
+    "Neural Inhibition",
+    "Neurons",
+    "Orientation",
+    "Photic Stimulation",
+    "Time Factors"
+  ]
+}

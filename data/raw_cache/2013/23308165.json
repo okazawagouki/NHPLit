@@ -1,0 +1,20 @@
+{
+  "pmid": "23308165",
+  "title": "A neural network model to translate brain developmental events across mammalian species.",
+  "abstract": "Translating the timing of brain developmental events across mammalian species using suitable models has provided unprecedented insights into neural development and evolution. More importantly, these models can prove to be useful abstractions and predict unknown events across species from known empirical event timing data retrieved from published literature. Such predictions can be especially useful since the distribution of the event timing data is skewed with a majority of events documented only across a few selected species. The present study investigates the choice of single hidden layer feed-forward neural networks (FFNN) for predicting the unknown events from the empirical data. A leave-one-out cross-validation approach is used to determine the optimal number of units in the hidden layer and the decay parameter for the FFNN. It is shown that unlike the present Finlay-Darlington (FD) model, FFNN does not impose any constraints on the functional form of the model and falls under the class of semiparametric regression models that can approximate any continuous function. The results from FFNN as well as FD model also indicate that a majority of events with large absolute prediction errors correspond to those of primates and late events comprising the tail of event timing data distribution with minimal representation in the empirical data. These results also indicate that accurate prediction of primate events may be challenging.",
+  "authors": [
+    "Nagarajan Radhakrishnan",
+    "Jonkman Jeffrey N"
+  ],
+  "journal": "PloS one",
+  "year": "2013",
+  "doi": "10.1371/journal.pone.0053225",
+  "mesh": [
+    "Animals",
+    "Biological Evolution",
+    "Brain",
+    "Humans",
+    "Models, Biological",
+    "Neural Networks, Computer"
+  ]
+}

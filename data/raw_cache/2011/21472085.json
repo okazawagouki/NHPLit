@@ -1,0 +1,13 @@
+{
+  "pmid": "21472085",
+  "title": "Splash: a software tool for stereotactic planning of recording chamber placement and electrode trajectories.",
+  "abstract": "While computer-aided planning of human neurosurgeries is becoming more and more common, animal researchers still largely rely on paper atlases for planning their approach before implanting recording chambers to perform invasive recordings of neural activity, which makes this planning process tedious and error-prone. Here we present SPLASh (Stereotactic PLAnning Software), an interactive software tool for the stereotactic planning of recording chamber placement and electrode trajectories. SPLASh has been developed for monkey cortical recordings and relies on a combination of structural MRIs and electronic brain atlases. Since SPLASh is based on the neuroanatomy software Caret, it should also be possible to use it for other parts of the brain or other species for which Caret atlases are available. The tool allows the user to interactively evaluate different possible placements of recording chambers and to simulate electrode trajectories.",
+  "authors": [
+    "Sperka Daniel J",
+    "Ditterich Jochen"
+  ],
+  "journal": "Frontiers in neuroinformatics",
+  "year": "2011",
+  "doi": "10.3389/fninf.2011.00001",
+  "mesh": []
+}

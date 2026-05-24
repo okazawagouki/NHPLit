@@ -1,0 +1,21 @@
+{
+  "pmid": "3154952",
+  "title": "The Gaussian derivative model for spatial vision: I. Retinal mechanisms.",
+  "abstract": "Physiological evidence is presented that visual receptive fields in the primate eye are shaped like the sum of a Gaussian function and its Laplacian. A new 'difference-of-offset-Gaussians' or DOOG neural mechanism was identified, which provided a plausible neural mechanism for generating such Gaussian derivative-like fields. The DOOG mechanism and the associated Gaussian derivative model provided a better approximation to the data than did the Gabor or other competing models. A model-free Wiener filter analysis provided independent confirmation of these results. A machine vision system was constructed to simulate human foveal retinal vision, based on Gaussian derivative filters. It provided edge and line enhancement (deblurring) and noise suppression, while retaining all the information in the original image.",
+  "authors": [
+    "Young R A"
+  ],
+  "journal": "Spatial vision",
+  "year": "1987",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Macaca",
+    "Models, Biological",
+    "Normal Distribution",
+    "Retina",
+    "Space Perception",
+    "Visual Fields"
+  ]
+}

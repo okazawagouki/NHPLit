@@ -1,0 +1,29 @@
+{
+  "pmid": "31171607",
+  "title": "Reward Expectation Modulates Local Field Potentials, Spiking Activity and Spike-Field Coherence in the Primary Motor Cortex.",
+  "abstract": "Reward modulation (M1) could be exploited in developing an autonomously updating brain-computer interface (BCI) based on a reinforcement learning (RL) architecture. For an autonomously updating RL-based BCI system, we would need a reward prediction error, or a state-value representation from the user's neural activity, which the RL-BCI agent could use to update its BCI decoder. In order to understand the multifaceted effects of reward on M1 activity, we investigated how neural spiking, oscillatory activities and their functional interactions are modulated by conditioned stimuli related reward expectation. To do so, local field potentials (LFPs) and single/multi-unit activities were recorded simultaneously and bilaterally from M1 cortices while four non-human primates (NHPs) performed cued center-out reaching or grip force tasks either manually using their right arm/hand or observed passively. We found that reward expectation influenced the strength of α (8-14 Hz) power, α-γ comodulation, α spike-field coherence (SFC), and firing rates (FRs) in general in M1. Furthermore, we found that an increase in α-band power was correlated with a decrease in neural spiking activity, that FRs were highest at the trough of the α-band cycle and lowest at the peak of its cycle. These findings imply that α oscillations modulated by reward expectation have an influence on spike FR and spike timing during both reaching and grasping tasks in M1. These LFP, spike, and spike-field interactions could be used to follow the M1 neural state in order to enhance BCI decoding (An et al., 2018; Zhao et al., 2018).",
+  "authors": [
+    "An Junmo",
+    "Yadav Taruna",
+    "Hessburg John P",
+    "Francis Joseph T"
+  ],
+  "journal": "eNeuro",
+  "year": "2019",
+  "doi": "10.1523/ENEURO.0178-19.2019",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain Waves",
+    "Cues",
+    "Female",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Macaca radiata",
+    "Male",
+    "Motor Cortex",
+    "Psychomotor Performance",
+    "Reward",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

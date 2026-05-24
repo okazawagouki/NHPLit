@@ -1,0 +1,29 @@
+{
+  "pmid": "23884945",
+  "title": "Eye-position signals in the dorsal visual system are accurate and precise on short timescales.",
+  "abstract": "Eye-position signals (EPS) are found throughout the primate visual system and are thought to provide a mechanism for representing spatial locations in a manner that is robust to changes in eye position. It remains unknown, however, whether cortical EPS (also known as \"gain fields\") have the necessary spatial and temporal characteristics to fulfill their purported computational roles. To quantify these EPS, we combined single-unit recordings in four dorsal visual areas of behaving rhesus macaques (lateral intraparietal area, ventral intraparietal area, middle temporal area, and the medial superior temporal area) with likelihood-based population-decoding techniques. The decoders used knowledge of spiking statistics to estimate eye position during fixation from a set of observed spike counts across neurons. Importantly, these samples were short in duration (100 ms) and from individual trials to mimic the real-time estimation problem faced by the brain. The results suggest that cortical EPS provide an accurate and precise representation of eye position, albeit with unequal signal fidelity across brain areas and a modest underestimation of eye eccentricity. The underestimation of eye eccentricity predicted a pattern of mislocalization that matches the errors made by human observers. In addition, we found that eccentric eye positions were associated with enhanced precision relative to the primary eye position. This predicts that positions in visual space should be represented more reliably during eccentric gaze than while looking straight ahead. Together, these results suggest that cortical eye-position signals provide a useable head-centered representation of visual space on timescales that are compatible with the duration of a typical ocular fixation.",
+  "authors": [
+    "Morris Adam P",
+    "Bremmer Frank",
+    "Krekelberg Bart"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2013",
+  "doi": "10.1523/JNEUROSCI.0576-13.2013",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Bayes Theorem",
+    "Evoked Potentials, Visual",
+    "Fixation, Ocular",
+    "Humans",
+    "Likelihood Functions",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Psychomotor Performance",
+    "Reaction Time",
+    "Space Perception",
+    "Visual Pathways"
+  ]
+}

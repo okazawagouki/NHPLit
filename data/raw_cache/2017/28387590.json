@@ -1,0 +1,25 @@
+{
+  "pmid": "28387590",
+  "title": "Encoding of Predictable and Unpredictable Stimuli by Inferior Temporal Cortical Neurons.",
+  "abstract": "Animals and humans learn statistical regularities that are embedded in sequences of stimuli. The neural mechanisms of such statistical learning are still poorly understood. Previous work in macaque inferior temporal (IT) cortex demonstrated suppressed spiking activity to visual images of a sequence in which the stimulus order was defined by transitional probabilities (labeled as \"standard\" sequence), compared with a sequence in which the stimulus order was random (\"random\" sequence). Here, we asked whether IT neurons encode the images of the standard sequence more accurately compared with images of the random sequence. Previous human fMRI studies in different sensory modalities also found a suppressed response to expected relative to unexpected stimuli but obtained various results regarding the effect of expectation on encoding, with one study reporting an improved classification accuracy of expected stimuli despite the reduced activation level. We employed a linear classifier to decode image identity from the spiking responses of the recorded IT neurons. We found a greater decoding accuracy for images of the standard compared with the random sequence during the early part of the stimulus presentation, but further analyses suggested that this reflected the sustained, stimulus-selective activity from the previous stimulus of the sequence, which is typical for IT neurons. However, the peak decoding accuracy was lower for the standard compared with the random sequence, in line with the reduced response to the former compared with the latter images. These data suggest that macaque IT neurons represent less accurately predictable compared with unpredictable images.",
+  "authors": [
+    "Kumar Susheel",
+    "Kaposvari Peter",
+    "Vogels Rufin"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "2017",
+  "doi": "10.1162/jocn_a_01135",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Choice Behavior",
+    "Imagination",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Photic Stimulation",
+    "Reward",
+    "Temporal Lobe"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pmid": "39554044",
+  "title": "Neural mechanisms underlying robust target selection in response to microstimulation of the oculomotor system.",
+  "abstract": "Despite its prevalence in studying the causal roles of different brain circuits in cognitive processes, electrical microstimulation often results in inconsistent behavioral effects. These inconsistencies are assumed to be due to multiple mechanisms, including habituation, compensation by other brain circuits, and contralateral suppression. Considering the presence of reinforcement in most experimental paradigms, we hypothesized that interactions between reward feedback and microstimulation could contribute to inconsistencies in behavioral effects of microstimulation. To test this, we analyzed data from electrical microstimulation of the frontal eye field of male macaques during a value-based decision-making task and constructed network models to capture choice behavior. We found evidence for microstimulation-dependent adaptation in saccadic choice, such that in stimulated trials, monkeys' choices were biased toward the target in the response field of the microstimulated site ( <i>T <sub>in</sub></i> ). In contrast, monkeys showed a bias away from <i>T <sub>in</sub></i> in non-stimulated trials following microstimulation. Critically, this bias slowly decreased as a function of the time since the last stimulation. Moreover, microstimulation-dependent adaptation was influenced by reward outcomes in preceding trials. Despite these local effects, we found no evidence for the global effects of microstimulation on learning and sensitivity to the reward schedule. By simulating choice behavior across various network models, we found a model in which microstimulation and reward-value signals interact competitively through reward-dependent plasticity can best account for our observations. Our findings indicate a reward-dependent compensatory mechanism that enhances robustness to perturbations within the oculomotor system and could explain the inconsistent outcomes observed in previous microstimulation studies.",
+  "authors": [
+    "Rakhshan Mohsen",
+    "Schafer Robert J",
+    "Moore Tirin",
+    "Soltani Alireza"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.10.29.620929",
+  "mesh": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "34642226",
+  "title": "Modeling Physiological Sources of Heading Bias from Optic Flow.",
+  "abstract": "Human heading perception from optic flow is accurate for directions close to the straight-ahead and systematic biases emerge in the periphery (Cuturi and Macneilage, 2013; Sun et al., 2020). In pursuit of the underlying neural mechanisms, primate brain dorsal medial superior temporal (MSTd) area has been a focus because of its causal link with heading perception (Gu et al., 2012). Computational models generally explain heading sensitivity in individual MSTd neurons as a feedforward integration of motion signals from medial temporal (MT) area that resemble full-field optic flow patterns consistent with the preferred heading direction (Britten, 2008; Mineault et al., 2012). In the present simulation study, we quantified within the structure of this feedforward model how physiological properties of MT and MSTd shape heading signals. We found that known physiological tuning characteristics generally supported the accuracy of heading estimation, but not always. A weak-to-moderate overrepresentation of peripheral headings in MSTd garnered the highest accuracy and precision out of the models that we tested. The model also performed well when noise corrupted high proportions of the optic flow vectors. Such a peripheral MSTd model performed well when units possessed a range of receptive field (RF) sizes and were strongly direction tuned. Physiological biases in MT direction tuning toward the radial direction also supported heading estimation, but the tendency for MT preferred speed and RF size to scale with eccentricity did not. Our findings help elucidate the extent to which different physiological tuning properties influence the accuracy and precision of neural heading signals.",
+  "authors": [
+    "Yumurtaci Sinan",
+    "Layton Oliver W"
+  ],
+  "journal": "eNeuro",
+  "year": "2021",
+  "doi": "10.1523/ENEURO.0307-21.2021",
+  "mesh": [
+    "Animals",
+    "Bias",
+    "Macaca mulatta",
+    "Motion Perception",
+    "Optic Flow",
+    "Photic Stimulation"
+  ]
+}

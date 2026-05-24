@@ -1,0 +1,14 @@
+{
+  "pmid": "23293600",
+  "title": "CoCoMac 2.0 and the future of tract-tracing databases.",
+  "abstract": "The CoCoMac database contains the results of several hundred published axonal tract-tracing studies in the macaque monkey brain. The combined results are used for constructing the macaque macro-connectome. Here we discuss the redevelopment of CoCoMac and compare it to six connectome-related projects: two online resources that provide full access to raw tracing data in rodents, a connectome viewer for advanced 3D graphics, a partial but highly detailed rat connectome, a brain data management system that generates custom connectivity matrices, and a software package that covers the complete pipeline from connectivity data to large-scale brain simulations. The second edition of CoCoMac features many enhancements over the original. For example, a search wizard is provided for full access to all tables and their nested dependencies. Connectivity matrices can be computed on demand in a user-selected nomenclature. A new data entry system is available as a preview, and is to become a generic solution for community-driven data entry in manually collated databases. We conclude with the question whether neuronal tracing will remain the gold standard to uncover the wiring of brains, thereby highlighting developments in human connectome construction, tracer substances, polarized light imaging, and serial block-face scanning electron microscopy.",
+  "authors": [
+    "Bakker Rembrandt",
+    "Wachtler Thomas",
+    "Diesmann Markus"
+  ],
+  "journal": "Frontiers in neuroinformatics",
+  "year": "2012",
+  "doi": "10.3389/fninf.2012.00030",
+  "mesh": []
+}

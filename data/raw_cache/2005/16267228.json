@@ -1,0 +1,27 @@
+{
+  "pmid": "16267228",
+  "title": "Neuronal computation of disparity in V1 limits temporal resolution for detecting disparity modulation.",
+  "abstract": "The human ability to detect modulation of binocular disparity over time is poor compared with detection of luminance modulation. We examined the physiological origin of this limitation by analyzing neuronal responses to temporal modulation of binocular disparity in striate cortex of awake monkeys. When neurons were presented with random-dot stereograms in which disparity varied sinusoidally over time, their responses modulated at the stimulus temporal frequency, with little change in mean firing rate. We calculated modulation amplitude as a function of temporal frequency and compared this with the psychophysical performance of four human observers. Neuronal and psychophysical functions showed similar peak frequencies (2 Hz) and comparable high-cut frequencies (10 and 5.5 Hz, respectively). Thus, V1 (primary visual cortex) neurons appear to limit psychophysical performance. The temporal resolution of the same neurons for contrast modulation was approximately 2.5 times greater, which parallels the superior psychophysical performance for contrast. There is a simple mathematical explanation for this difference: it results from calculating cross-correlation between temporally broadband monocular images that are bandpass filtered before measuring correlation. The limit on temporal resolution is a direct consequence of the binocular energy model that adds to the list of properties of human stereoscopic performance that are explained by this simple model of disparity encoding in V1: the same neurons can account for the performance of psychophysical tasks that result in either high (contrast) or low (disparity) temporal resolution. Because this principle holds whenever a broadband input is bandpass filtered before computing correlation, it may limit the resolution of other neuronal systems.",
+  "authors": [
+    "Nienborg Hendrikje",
+    "Bridge Holly",
+    "Parker Andrew J",
+    "Cumming Bruce G"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Depth Perception",
+    "Female",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

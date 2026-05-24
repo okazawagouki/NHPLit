@@ -1,0 +1,25 @@
+{
+  "pmid": "22102803",
+  "title": "Representational switching by dynamical reorganization of attractor structure in a network model of the prefrontal cortex.",
+  "abstract": "The prefrontal cortex (PFC) plays a crucial role in flexible cognitive behavior by representing task relevant information with its working memory. The working memory with sustained neural activity is described as a neural dynamical system composed of multiple attractors, each attractor of which corresponds to an active state of a cell assembly, representing a fragment of information. Recent studies have revealed that the PFC not only represents multiple sets of information but also switches multiple representations and transforms a set of information to another set depending on a given task context. This representational switching between different sets of information is possibly generated endogenously by flexible network dynamics but details of underlying mechanisms are unclear. Here we propose a dynamically reorganizable attractor network model based on certain internal changes in synaptic connectivity, or short-term plasticity. We construct a network model based on a spiking neuron model with dynamical synapses, which can qualitatively reproduce experimentally demonstrated representational switching in the PFC when a monkey was performing a goal-oriented action-planning task. The model holds multiple sets of information that are required for action planning before and after representational switching by reconfiguration of functional cell assemblies. Furthermore, we analyzed population dynamics of this model with a mean field model and show that the changes in cell assemblies' configuration correspond to those in attractor structure that can be viewed as a bifurcation process of the dynamical system. This dynamical reorganization of a neural network could be a key to uncovering the mechanism of flexible information processing in the PFC.",
+  "authors": [
+    "Katori Yuichi",
+    "Sakamoto Kazuhiro",
+    "Saito Naohiro",
+    "Tanji Jun",
+    "Mushiake Hajime",
+    "Aihara Kazuyuki"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2011",
+  "doi": "10.1371/journal.pcbi.1002266",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Synapses"
+  ]
+}

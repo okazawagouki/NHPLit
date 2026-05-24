@@ -1,0 +1,21 @@
+{
+  "pmid": "18755162",
+  "title": "Parsimonious modelling allows generation of the dendrograms of primate striatal medium spiny and pallidal type II neurons using a stochastic algorithm.",
+  "abstract": "Data from quantitative three-dimensional analysis of primate striatal medium spiny neurons (MSNs) and pallidal type I and type II neurons were used to search for possible rules underlying the dendritic architecture of these cells. Branching and terminating probabilities per unit length of dendrite were computed from all available measurement points. In the three neuronal groups, terminating probabilities were found to be exponentially increasing functions of the path distance to soma. MSNs and type II branching probabilities could be accurately modelled with decreasing functions of both the metrical (exponential functions) and topological (power functions of the centrifugal branch order) distances to soma. Additionally, type II branching also slightly depended on the distance to the proximal tip of the supporting branches. Type I branching probabilities did not follow these rules accurately. Embedding the modelled probability functions in a stochastic algorithm allowed generation of dendrograms close to those of the real MSNs and pallidal type II neurons, while the algorithm failed to simulate type I dendrites. MSN and pallidal type II neuron branching and terminating probabilities are thus highly dependent on the position in the dendritic arbor. This relationship can be modelled with simple functions and has a strong incidence on the dendrogram structure of the cells concerned. The additional dependence of the branching probability on the within-branch position led us to propose an extension of a previous modelling study by Nowakowski and co-workers which could account for a large range of topological and metrical (length) dendritic tree structures.",
+  "authors": [
+    "Mouchet Patrick",
+    "Yelnik Jérôme"
+  ],
+  "journal": "Brain research",
+  "year": "2008",
+  "doi": "10.1016/j.brainres.2008.08.006",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Corpus Striatum",
+    "Dendrites",
+    "Models, Neurological",
+    "Neurons",
+    "Primates"
+  ]
+}

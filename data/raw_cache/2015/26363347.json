@@ -1,0 +1,26 @@
+{
+  "pmid": "26363347",
+  "title": "Frequency-dependent spatiotemporal profiles of visual responses recorded with subdural ECoG electrodes in awake monkeys: Differences between high- and low-frequency activity.",
+  "abstract": "Electrocorticography (ECoG) constitutes a powerful and promising neural recording modality in humans and animals. ECoG signals are often decomposed into several frequency bands, among which the so-called high-gamma band (80-250Hz) has been proposed to reflect local cortical functions near the cortical surface below the ECoG electrodes. It is typically assumed that the lower the frequency bands, the lower the spatial resolution of the signals; thus, there is not much to gain by analyzing the event-related changes of the ECoG signals in the lower-frequency bands. However, differences across frequency bands have not been systematically investigated. To address this issue, we recorded ECoG activity from two awake monkeys performing a retinotopic mapping task. We characterized the spatiotemporal profiles of the visual responses in the time-frequency domain. We defined the preferred spatial position, receptive field (RF), and response latencies of band-limited power (BLP) (i.e., alpha [3.9-11.7Hz], beta [15.6-23.4Hz], low [30-80Hz] and high [80-250Hz] gamma) for each electrode and compared them across bands and time-domain visual evoked potentials (VEPs). At the population level, we found that the spatial preferences were comparable across bands and VEPs. The high-gamma power showed a smaller RF than the other bands and VEPs. The response latencies for the alpha band were always longer than the latencies for the other bands and fastest in VEPs. Comparing the response profiles in both space and time for each cortical region (V1, V4+, and TEO/TE) revealed regional idiosyncrasies. Although the latencies of visual responses in the beta, low-, and high-gamma bands were almost identical in V1 and V4+, beta and low-gamma BLP occurred about 17ms earlier than high-gamma power in TEO/TE. Furthermore, TEO/TE exhibited a unique pattern in the spatial response profile: the alpha and high-gamma responses tended to prefer the foveal regions, whereas the beta and low-gamma responses preferred the peripheral visual fields with larger RFs. This suggests that neurons in TEO/TE first receive less selective spatial information via beta and low-gamma BLP but later receive more fine-tuned spatial foveal information via high-gamma power. This result is consistent with a hypothesis previously proposed by Nakamura et al. (1993) that states that visual processing in TEO/TE starts with coarse-grained information, which primes subsequent fine-grained information. Collectively, our results demonstrate that ECoG can be a potent tool for investigating the nature of the neural computations in each cortical region that cannot be fully understood by measuring only the spiking activity, through the incorporation of the knowledge of the spatiotemporal characteristics across all frequency bands.",
+  "authors": [
+    "Takaura Kana",
+    "Tsuchiya Naotsugu",
+    "Fujii Naotaka"
+  ],
+  "journal": "NeuroImage",
+  "year": "2016",
+  "doi": "10.1016/j.neuroimage.2015.09.007",
+  "mesh": [
+    "Animals",
+    "Brain Waves",
+    "Electrocorticography",
+    "Evoked Potentials, Visual",
+    "Macaca",
+    "Male",
+    "Occipital Lobe",
+    "Photic Stimulation",
+    "Signal Processing, Computer-Assisted",
+    "Visual Fields",
+    "Visual Perception"
+  ]
+}

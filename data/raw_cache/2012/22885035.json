@@ -1,0 +1,29 @@
+{
+  "pmid": "22885035",
+  "title": "Determining the role of correlated firing in large populations of neurons using white noise and natural scene stimuli.",
+  "abstract": "The role of correlated firing in representing information has been a subject of much discussion. Several studies in retina, visual cortex, somatosensory cortex, and motor cortex, have suggested that it plays only a minor role, carrying <10% of the total information carried by the neurons (Gawne & Richmond, 1993; Nirenberg et al., 2001; Oram et al., 2001; Petersen, Panzeri, & Diamond, 2001; Rolls et al., 2003). A limiting factor of these studies, however, is that they were carried out using pairs of neurons; how the results extend to large populations was not clear. Recently, new methods for modeling network firing patterns have been developed (Nirenberg & Pandarinath, 2012; Pillow et al., 2008), opening the door to answering this question for more complete populations. One study, Pillow et al. (2008), showed that including correlations increased information by a modest amount, ~20%; however, this work used only a single retina (primate) and a white noise stimulus. Here we performed the analysis using several retinas (mouse) and both white noise and natural scene stimuli. The results showed that correlations added little information when white noise stimuli were used (~13%), similar to Pillow et al.'s findings, and essentially no information when natural scene stimuli were used. Further, the results showed that ignoring correlations did not change the quality of the information carried by the population (as measured by comparing the full pattern of decoding errors). These results suggest generalization: the pairwise analysis in several species show that correlations account for very little of the total information. Now, the analysis with large populations in two species show a similar result, that correlations still account for only a small fraction of the total information, and, most significantly, the amount is not statistically significant when natural stimuli are used, making rapid advances in the study of population coding possible.",
+  "authors": [
+    "Meytlis Marsha",
+    "Nichols Zachary",
+    "Nirenberg Sheila"
+  ],
+  "journal": "Vision research",
+  "year": "2012",
+  "doi": "10.1016/j.visres.2012.07.007",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Artifacts",
+    "Bayes Theorem",
+    "Macaca mulatta",
+    "Mice",
+    "Models, Neurological",
+    "Photic Stimulation",
+    "Retina",
+    "Retinal Ganglion Cells",
+    "Sensory Receptor Cells",
+    "Species Specificity",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

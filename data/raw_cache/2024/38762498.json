@@ -1,0 +1,42 @@
+{
+  "pmid": "38762498",
+  "title": "Photoacoustic Tomography with Temporal Encoding Reconstruction (PATTERN) for cross-modal individual analysis of the whole brain.",
+  "abstract": "Cross-modal analysis of the same whole brain is an ideal strategy to uncover brain function and dysfunction. However, it remains challenging due to the slow speed and destructiveness of traditional whole-brain optical imaging techniques. Here we develop a new platform, termed Photoacoustic Tomography with Temporal Encoding Reconstruction (PATTERN), for non-destructive, high-speed, 3D imaging of ex vivo rodent, ferret, and non-human primate brains. Using an optimally designed image acquisition scheme and an accompanying machine-learning algorithm, PATTERN extracts signals of genetically-encoded probes from photobleaching-based temporal modulation and enables reliable visualization of neural projection in the whole central nervous system with 3D isotropic resolution. Without structural and biological perturbation to the sample, PATTERN can be combined with other whole-brain imaging modalities to acquire the whole-brain image with both high resolution and morphological fidelity. Furthermore, cross-modal transcriptome analysis of an individual brain is achieved by PATTERN imaging. Together, PATTERN provides a compatible and versatile strategy for brain-wide cross-modal analysis at the individual level.",
+  "authors": [
+    "Chen Yuwen",
+    "Yang Haoyu",
+    "Luo Yan",
+    "Niu Yijun",
+    "Yu Muzhou",
+    "Deng Shanjun",
+    "Wang Xuanhao",
+    "Deng Handi",
+    "Chen Haichao",
+    "Gao Lixia",
+    "Li Xinjian",
+    "Xu Pingyong",
+    "Xue Fudong",
+    "Miao Jing",
+    "Shi Song-Hai",
+    "Zhong Yi",
+    "Ma Cheng",
+    "Lei Bo"
+  ],
+  "journal": "Nature communications",
+  "year": "2024",
+  "doi": "10.1038/s41467-024-48393-z",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Photoacoustic Techniques",
+    "Ferrets",
+    "Imaging, Three-Dimensional",
+    "Mice",
+    "Algorithms",
+    "Machine Learning",
+    "Tomography",
+    "Image Processing, Computer-Assisted",
+    "Rats",
+    "Male"
+  ]
+}

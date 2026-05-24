@@ -1,0 +1,24 @@
+{
+  "pmid": "11849301",
+  "title": "The organization of visual object representations: a connectionist model of effects of lesions in perirhinal cortex.",
+  "abstract": "We have developed a simple connectionist model based on the idea that perirhinal cortex has properties similar to other regions in the ventral visual stream, or 'what' pathway. The model is based on the assumption that representations in the ventral visual stream are organized hierarchically, such that representations of simple features of objects are stored in caudal regions of the ventral visual stream, and representations of the conjunctions of these features are stored in more rostral regions. We propose that a function of these feature conjunction representations is to help to resolve 'feature ambiguity', a property of visual discrimination problems that can emerge when features of an object predict a given outcome (e.g. reward) when part of one object, but predict a different outcome when part of another object. Several recently reported effects of lesions of perirhinal cortex in monkeys have provided key insights into the functions of this region. In the present study these effects were simulated by comparing the performance of connectionist networks before and after removal of a layer of units corresponding to perirhinal cortex. The results of these simulations suggest that effects of lesions in perirhinal cortex on visual discrimination may be due not to the impairment of a specific type of learning or memory, such as declarative or procedural, but to compromising the representations of visual stimuli. Furthermore, we propose that attempting to classify perirhinal cortex function as either 'perceptual' or 'mnemonic' may be misguided, as it seems unlikely that these broad constructs will map neatly onto anatomically defined regions of the brain.",
+  "authors": [
+    "Bussey Timothy J",
+    "Saksida Lisa M"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Denervation",
+    "Discrimination Learning",
+    "Macaca mulatta",
+    "Memory",
+    "Models, Neurological",
+    "Pattern Recognition, Visual",
+    "Temporal Lobe",
+    "Visual Pathways"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "22262537",
+  "title": "Asynchronous decoding of finger position and of EMG during precision grip using CM cell activity: application to robot control.",
+  "abstract": "Recent brain-machine interfaces (BMI) have demonstrated the use of intracortical signals for the kinematic control of robotic arms. However, for potential restoration of manual dexterity, two issues remain to be addressed: (1) Can hand and digit movements for dexterous manipulation be controlled in a similar way to arm movements? (2) Can the potentially large signal space for decoding of the many degrees of freedom (dof) of hand and digit movements be minimized? The first question addresses BMI control of dexterous prosthetic devices, while the second addresses the problem of whether few, but identified, neurons might provide adequate decoding. Asynchronous decoding of precision grip finger movement kinematics from identified corticomotoneuronal (CM) cell activity was performed with an artificial neural network (ANN). After training over a given session, the ANNs successfully decoded trial-by-trial movement kinematics. Average accuracy over sessions was in the order of 80% and 50% for data sets of two monkeys respectively. Decoding accuracy increased as a function of (1) number of simultaneously recorded CM cells used for prediction, and (2) size of the sliding input window. Subsequently, a robot digit actuated by pneumatic artificial muscles, fed with the predicted trajectory, mimicked the recorded movement offline. Furthermore, CM cell signals were used for decoding of time-varying hand muscle EMG activity. The performance of EMG prediction tended to increase if CM cells that facilitated this particular muscle (compared to CM cells that facilitated other muscles) were used. These results provide evidence that an anthropomorphic robot finger can be controlled offline by spike trains recorded from identified corticospinal neurons. This represents a step towards neuroprosthetic devices for dexterous hand movements.",
+  "authors": [
+    "Ouanezar Sofiane",
+    "Eskiizmirliler Selim",
+    "Maier Marc A"
+  ],
+  "journal": "Journal of integrative neuroscience",
+  "year": "2011",
+  "doi": "",
+  "mesh": [
+    "Analysis of Variance",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Electromyography",
+    "Evoked Potentials, Motor",
+    "Fingers",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Motion",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Psychomotor Performance",
+    "Reaction Time",
+    "Robotics",
+    "Time Factors"
+  ]
+}

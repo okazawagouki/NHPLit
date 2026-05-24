@@ -1,0 +1,23 @@
+{
+  "pmid": "40961966",
+  "title": "Disentangling indirect versus direct effects of somatosensory cortex microstimulation on neurons in primary motor and ventral premotor cortex.",
+  "abstract": "<i>Objective.</i>Intracortical microstimulation in the primary somatosensory cortex (S1-ICMS) is being developed to provide on-line feedback for bidirectional brain-machine interfaces. Because S1-ICMS can alter the discharge of the motor cortex neurons used to decode motor intent, successful application of S1-ICMS feedback requires understanding the modulation it produces in motor cortex neuron activity.<i>Approach.</i>We investigated the effects of S1-ICMS on neurons in both the primary motor cortex (M1) and the ventral premotor cortex (PMv) during a task in which some trials were instructed with visual cues and other trials with S1-ICMS.<i>Main results.</i>We observed both indirect modulation during and/or after ICMS trains, as well as direct modulation time-locked to the individual S1-ICMS pulses within trains, with all possible combinations of the two types of modulation found among the majority of M1 and PMv neurons. Indirect effects were more prevalent and larger than direct effects. When S1-ICMS produced both indirect and direct modulation in the same neuron, the effects could both be excitatory, both inhibitory, or one excitatory and the other inhibitory. By simulating direct effects, we isolated the concurrent indirect effects, revealing that isolated direct effects failed to account for isolated indirect effects. Furthermore, indirect effects could be present 1 s or more after ICMS trains had terminated, when no direct effects could have occurred. Although the performance of movement decoders trained on visually-instructed trials was poor when applied to ICMS-instructed trials, decoders trained on ICMS-instructed trials performed well on ICMS-instructed trials, indicating that S1-ICMS altered the discharge of M1 and PMv neurons but did not degrade the decodable information available.<i>Significance.</i>When decoding movement intent from neural activity in M1 and/or PMv, accounting for indirect and direct modulation may improve the ability of bidirectional brain-machine interfaces to incorporate artificial somatosensory feedback delivered with S1-ICMS and restore functional movement.",
+  "authors": [
+    "Ruszala Brandon",
+    "Mazurek Kevin A",
+    "Schieber Marc H"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2025",
+  "doi": "10.1088/1741-2552/ae087e",
+  "mesh": [
+    "Somatosensory Cortex",
+    "Motor Cortex",
+    "Animals",
+    "Neurons",
+    "Macaca mulatta",
+    "Male",
+    "Brain-Computer Interfaces",
+    "Electric Stimulation"
+  ]
+}

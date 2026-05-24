@@ -1,0 +1,37 @@
+{
+  "pmid": "16354382",
+  "title": "Bayesian population decoding of motor cortical activity using a Kalman filter.",
+  "abstract": "Effective neural motor prostheses require a method for decoding neural activity representing desired movement. In particular, the accurate reconstruction of a continuous motion signal is necessary for the control of devices such as computer cursors, robots, or a patient's own paralyzed limbs. For such applications, we developed a real-time system that uses Bayesian inference techniques to estimate hand motion from the firing rates of multiple neurons. In this study, we used recordings that were previously made in the arm area of primary motor cortex in awake behaving monkeys using a chronically implanted multielectrode microarray. Bayesian inference involves computing the posterior probability of the hand motion conditioned on a sequence of observed firing rates; this is formulated in terms of the product of a likelihood and a prior. The likelihood term models the probability of firing rates given a particular hand motion. We found that a linear gaussian model could be used to approximate this likelihood and could be readily learned from a small amount of training data. The prior term defines a probabilistic model of hand kinematics and was also taken to be a linear gaussian model. Decoding was performed using a Kalman filter, which gives an efficient recursive method for Bayesian inference when the likelihood and prior are linear and gaussian. In off-line experiments, the Kalman filter reconstructions of hand trajectory were more accurate than previously reported results. The resulting decoding algorithm provides a principled probabilistic model of motor-cortical coding, decodes hand motion in real time, provides an estimate of uncertainty, and is straightforward to implement. Additionally the formulation unifies and extends previous models of neural coding while providing insights into the motor-cortical code.",
+  "authors": [
+    "Wu Wei",
+    "Gao Yun",
+    "Bienenstock Elie",
+    "Donoghue John P",
+    "Black Michael J"
+  ],
+  "journal": "Neural computation",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Biomechanical Phenomena",
+    "Hand",
+    "Humans",
+    "Linear Models",
+    "Macaca",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Movement",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neural Pathways",
+    "Normal Distribution",
+    "Prostheses and Implants",
+    "Signal Processing, Computer-Assisted",
+    "Synaptic Transmission"
+  ]
+}

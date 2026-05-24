@@ -1,0 +1,21 @@
+{
+  "pmid": "28701545",
+  "title": "Decoding sound level in the marmoset primary auditory cortex.",
+  "abstract": "Neurons that respond favorably to a particular sound level have been observed throughout the central auditory system, becoming steadily more common at higher processing areas. One theory about the role of these level-tuned or nonmonotonic neurons is the level-invariant encoding of sounds. To investigate this theory, we simulated various subpopulations of neurons by drawing from real primary auditory cortex (A1) neuron responses and surveyed their performance in forming different sound level representations. Pure nonmonotonic subpopulations did not provide the best level-invariant decoding; instead, mixtures of monotonic and nonmonotonic neurons provided the most accurate decoding. For level-fidelity decoding, the inclusion of nonmonotonic neurons slightly improved or did not change decoding accuracy until they constituted a high proportion. These results indicate that nonmonotonic neurons fill an encoding role complementary to, rather than alternate to, monotonic neurons.<b>NEW & NOTEWORTHY</b> Neurons with nonmonotonic rate-level functions are unique to the central auditory system. These level-tuned neurons have been proposed to account for invariant sound perception across sound levels. Through systematic simulations based on real neuron responses, this study shows that neuron populations perform sound encoding optimally when containing both monotonic and nonmonotonic neurons. The results indicate that instead of working independently, nonmonotonic neurons complement the function of monotonic neurons in different sound-encoding contexts.",
+  "authors": [
+    "Sun Wensheng",
+    "Marongelli Ellisha N",
+    "Watkins Paul V",
+    "Barbour Dennis L"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2017",
+  "doi": "10.1152/jn.00670.2016",
+  "mesh": [
+    "Animals",
+    "Auditory Cortex",
+    "Auditory Perception",
+    "Callithrix",
+    "Neurons"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "20381310",
+  "title": "Multineuronal vectorization is more efficient than time-segmental vectorization for information extraction from neuronal activities in the inferior temporal cortex.",
+  "abstract": "In order for patients with disabilities to control assistive devices with their own neural activity, multineuronal spike trains must be efficiently decoded because only limited computational resources can be used to generate prosthetic control signals in portable real-time applications. In this study, we compare the abilities of two vectorizing procedures (multineuronal and time-segmental) to extract information from spike trains during the same total neuron-seconds. In the multineuronal vectorizing procedure, we defined a response vector whose components represented the spike counts of one to five neurons. In the time-segmental vectorizing procedure, a response vector consisted of components representing a neuron's spike counts for one to five time-segment(s) of a response period of 1 s. Spike trains were recorded from neurons in the inferior temporal cortex of monkeys presented with visual stimuli. We examined whether the amount of information of the visual stimuli carried by these neurons differed between the two vectorizing procedures. The amount of information calculated with the multineuronal vectorizing procedure, but not the time-segmental vectorizing procedure, significantly increased with the dimensions of the response vector. We conclude that the multineuronal vectorizing procedure is superior to the time-segmental vectorizing procedure in efficiently extracting information from neuronal signals.",
+  "authors": [
+    "Kaneko Hidekazu",
+    "Tamura Hiroshi",
+    "Tate Shunta",
+    "Kawashima Takahiro",
+    "Suzuki Shinya S",
+    "Fujita Ichiro"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2010",
+  "doi": "10.1016/j.neunet.2010.03.002",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electrophysiology",
+    "Humans",
+    "Macaca",
+    "Nerve Net",
+    "Neurons",
+    "Neurophysiology",
+    "Signal Processing, Computer-Assisted",
+    "Temporal Lobe"
+  ]
+}

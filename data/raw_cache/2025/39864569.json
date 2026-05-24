@@ -1,0 +1,29 @@
+{
+  "pmid": "39864569",
+  "title": "Decoding cortical folding patterns in marmosets using machine learning and large language model.",
+  "abstract": "Macroscale neuroimaging results have revealed significant differences in the structural and functional connectivity patterns of gyri and sulci in the primate cerebral cortex. Despite these findings, understanding these differences at the molecular level has remained challenging. This study leverages a comprehensive dataset of whole-brain in situ hybridization (ISH) data from marmosets, with updates continuing through 2024, to systematically analyze cortical folding patterns. Utilizing advanced machine learning algorithm and large language model (LLM), we identified genes with significant transcriptomic differences between concave (sulci) and convex (gyri) cortical patterns. Further, gene enrichment analysis, neural migration analysis, and axon guidance pathway analysis were employed to elucidate the molecular mechanisms underlying these structural and functional differences. Our findings provide new insights into the molecular basis of cortical folding, demonstrating the potential of LLM in enhancing our understanding of brain structural and functional connectivity.",
+  "authors": [
+    "Wu Yue",
+    "Gao Xuesong",
+    "Liu Zhengliang",
+    "Wang Pengcheng",
+    "Wu Zihao",
+    "Li Yiwei",
+    "Zhang Tuo",
+    "Liu Tianming",
+    "Liu Tao",
+    "Li Xiao"
+  ],
+  "journal": "NeuroImage",
+  "year": "2025",
+  "doi": "10.1016/j.neuroimage.2025.121031",
+  "mesh": [
+    "Animals",
+    "Callithrix",
+    "Machine Learning",
+    "Cerebral Cortex",
+    "Transcriptome",
+    "Male",
+    "Large Language Models"
+  ]
+}

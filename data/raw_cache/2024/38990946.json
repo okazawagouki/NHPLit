@@ -1,0 +1,23 @@
+{
+  "pmid": "38990946",
+  "title": "Orthogonality of sensory and contextual categorical dynamics embedded in a continuum of responses from the second somatosensory cortex.",
+  "abstract": "How does the brain simultaneously process signals that bring complementary information, like raw sensory signals and their transformed counterparts, without any disruptive interference? Contemporary research underscores the brain's adeptness in using decorrelated responses to reduce such interference. Both neurophysiological findings and artificial neural networks support the notion of orthogonal representation for signal differentiation and parallel processing. Yet, where, and how raw sensory signals are transformed into more abstract representations remains unclear. Using a temporal pattern discrimination task in trained monkeys, we revealed that the second somatosensory cortex (S2) efficiently segregates faithful and transformed neural responses into orthogonal subspaces. Importantly, S2 population encoding for transformed signals, but not for faithful ones, disappeared during a nondemanding version of this task, which suggests that signal transformation and their decoding from downstream areas are only active on-demand. A mechanistic computation model points to gain modulation as a possible biological mechanism for the observed context-dependent computation. Furthermore, individual neural activities that underlie the orthogonal population representations exhibited a continuum of responses, with no well-determined clusters. These findings advocate that the brain, while employing a continuum of heterogeneous neural responses, splits population signals into orthogonal subspaces in a context-dependent fashion to enhance robustness, performance, and improve coding efficiency.",
+  "authors": [
+    "Bayones Lucas",
+    "Zainos Antonio",
+    "Alvarez Manuel",
+    "Romo Ranulfo",
+    "Franci Alessio",
+    "Rossi-Pool Román"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2024",
+  "doi": "10.1073/pnas.2316765121",
+  "mesh": [
+    "Animals",
+    "Somatosensory Cortex",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Male"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "8324058",
+  "title": "Equilibrium point control of a monkey arm simulator by a fast learning tree structured artificial neural network.",
+  "abstract": "A planar 17 muscle model of the monkey's arm based on realistic biomechanical measurements was simulated on a Symbolics Lisp Machine. The simulator implements the equilibrium point hypothesis for the control of arm movements. Given initial and final desired positions, it generates a minimum-jerk desired trajectory of the hand and uses the backdriving algorithm to determine an appropriate sequence of motor commands to the muscles (Flash 1987; Mussa-Ivaldi et al. 1991; Dornay 1991b). These motor commands specify a temporal sequence of stable (attractive) equilibrium positions which lead to the desired hand movement. A strong disadvantage of the simulator is that it has no memory of previous computations. Determining the desired trajectory using the minimum-jerk model is instantaneous, but the laborious backdriving algorithm is slow, and can take up to one hour for some trajectories. The complexity of the required computations makes it a poor model for biological motor control. We propose a computationally simpler and more biologically plausible method for control which achieves the benefits of the backdriving algorithm. A fast learning, tree-structured network (Sanger 1991c) was trained to remember the knowledge obtained by the backdriving algorithm. The neural network learned the nonlinear mapping from a 2-dimensional cartesian planar hand position (x,y) to a 17-dimensional motor command space (u1, . . ., u17). Learning 20 training trajectories, each composed of 26 sample points [[x,y], [u1, . . ., u17] took only 20 min on a Sun-4 Sparc workstation. After the learning stage, new, untrained test trajectories as well as the original trajectories of the hand were given to the neural network as input. The network calculated the required motor commands for these movements. The resulting movements were close to the desired ones for both the training and test cases.",
+  "authors": [
+    "Dornay M",
+    "Sanger T D"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "1993",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Biomechanical Phenomena",
+    "Computer Simulation",
+    "Cybernetics",
+    "Evaluation Studies as Topic",
+    "Hand",
+    "Haplorhini",
+    "Models, Neurological",
+    "Movement",
+    "Neural Networks, Computer",
+    "Posture"
+  ]
+}

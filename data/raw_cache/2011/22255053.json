@@ -1,0 +1,23 @@
+{
+  "pmid": "22255053",
+  "title": "Dynamic nonlinear modeling of interactions between neuronal ensembles using principal dynamic modes.",
+  "abstract": "We present a novel methodology for modeling the interactions between neuronal ensembles that utilizes the concept of Principal Dynamic Modes (PDM) and their associated nonlinear functions (ANF). This new approach seeks to reduce the complexity of the multi-input/multi-output (MIMO) model of the interactions between neuronal ensembles--an issue of critical practical importance in scaling up the MIMO models to incorporate hundreds (or even thousands) of input-output neurons. Global PDMs were extracted from the data using estimated first-order and second-order kernels and singular value decomposition (SVD). These global PDMs represent an efficient \"coordinate system\" for the representation of the MIMO model. The ANFs of the PDMs are estimated from the histograms of the combinations of PDM output values that lead to output spikes. For initial testing and validation of this approach, we applied it to a set of data collected at the pre-frontal cortex of a non-human primate during a behavioral task (Delayed Match-to-Sample). Recorded spike trains from Layer-2 neurons were viewed as the \"inputs\" and from Layer-5 neurons as the outputs. Model prediction performance was evaluated by means of computed Receiver Operating Characteristic (ROC) curves. The results indicate that this methodology may greatly reduce the complexity of the MIMO model without significant degradation of performance.",
+  "authors": [
+    "Marmarelis V Z",
+    "Shin D C",
+    "Song D",
+    "Hampson R E",
+    "Deadwyler S A",
+    "Berger T W"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2011",
+  "doi": "10.1109/IEMBS.2011.6090904",
+  "mesh": [
+    "Animals",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Primates",
+    "Task Performance and Analysis"
+  ]
+}

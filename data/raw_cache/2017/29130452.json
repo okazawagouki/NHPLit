@@ -1,0 +1,28 @@
+{
+  "pmid": "29130452",
+  "title": "Augmenting intracortical brain-machine interface with neurally driven error detectors.",
+  "abstract": "OBJECTIVE: Making mistakes is inevitable, but identifying them allows us to correct or adapt our behavior to improve future performance. Current brain-machine interfaces (BMIs) make errors that need to be explicitly corrected by the user, thereby consuming time and thus hindering performance. We hypothesized that neural correlates of the user perceiving the mistake could be used by the BMI to automatically correct errors. However, it was unknown whether intracortical outcome error signals were present in the premotor and primary motor cortices, brain regions successfully used for intracortical BMIs. APPROACH: We report here for the first time a putative outcome error signal in spiking activity within these cortices when rhesus macaques performed an intracortical BMI computer cursor task. MAIN RESULTS: We decoded BMI trial outcomes shortly after and even before a trial ended with 96% and 84% accuracy, respectively. This led us to develop and implement in real-time a first-of-its-kind intracortical BMI error 'detect-and-act' system that attempts to automatically 'undo' or 'prevent' mistakes. The detect-and-act system works independently and in parallel to a kinematic BMI decoder. In a challenging task that resulted in substantial errors, this approach improved the performance of a BMI employing two variants of the ubiquitous Kalman velocity filter, including a state-of-the-art decoder (ReFIT-KF). SIGNIFICANCE: Detecting errors in real-time from the same brain regions that are commonly used to control BMIs should improve the clinical viability of BMIs aimed at restoring motor function to people with paralysis.",
+  "authors": [
+    "Even-Chen Nir",
+    "Stavisky Sergey D",
+    "Kao Jonathan C",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2017",
+  "doi": "10.1088/1741-2552/aa8dc1",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Photic Stimulation",
+    "Principal Component Analysis",
+    "Support Vector Machine"
+  ]
+}

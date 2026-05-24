@@ -1,0 +1,30 @@
+{
+  "pmid": "10931770",
+  "title": "A model that accounts for activity prior to sensory inputs and responses during matching-to-sample tasks.",
+  "abstract": "Neural network models were examined during delayed matching-to-sample tasks (DMS), and neurons in a monkey's prefrontal cortex were studied during the performance of comparable tasks. In DMS, various input stimuli follow a sample stimulus, and an output should occur whenever the sample reappears. Our previous models have been restricted to certain kinds of inputs, outputs, and temporal patterns. Here, we generalized the models by training them on both spatial and nonspatial inputs, spatial and nonspatial outputs, and both fixed and variable interstimulus intervals. Two versions of DMS were presented to both the model and the monkey, both involving nonspatial samples: (1) Two stimuli simultaneously appeared at a variable interval after the sample; and (2) A series of single stimuli appeared at fixed intervals after the sample. Both versions required identical spatial responses, reflecting the direction (left or right) of the matching stimulus relative to a central origin. Thus, these two versions of DMS involved the same samples, memory, and responses, but established different response contexts. Our analysis focused on unit activity prior to stimuli, as well as that prior to responses, termed anticipatory and response-related activity, respectively. In both the model and the monkey, anticipatory activity occurred only for fixed interstimulus intervals. In the model, we could determine that anticipatory activity acted either like a filter to suppress inappropriate responses or it served to enhance the network's general readiness to respond. As for response-related activity, units in both the model and the monkey showed directional selectivity and had a strong dependence on response context. In the model, we could show that this activity contributed both to the suppression of inappropriate responses and to the generation of correct ones. None of the model's hidden units contributed exclusively to computing the direction of match output. Instead, their response-related activity contributed to the computation of both the match decision and the correct response direction.",
+  "authors": [
+    "Moody S L",
+    "Wise S P"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Behavior, Animal",
+    "Cognition",
+    "Computer Simulation",
+    "Conditioning, Psychological",
+    "Eye Movements",
+    "Macaca mulatta",
+    "Male",
+    "Memory",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons, Afferent",
+    "Photic Stimulation",
+    "Prefrontal Cortex",
+    "Psychomotor Performance"
+  ]
+}

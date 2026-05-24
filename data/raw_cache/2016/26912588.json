@@ -1,0 +1,31 @@
+{
+  "pmid": "26912588",
+  "title": "Effects of GABAA kinetics on cortical population activity: computational studies and physiological confirmations.",
+  "abstract": "Voltage-sensitive dye (VSD) imaging produces an unprecedented real-time and high-resolution mesoscopic signal to measure the cortical population activity. We have previously shown that the neuronal compartments contributions to the signal are dynamic and stimulus-dependent (Chemla S, Chavane F. Neuroimage 53: 420-438, 2010). Moreover, the VSD signal can also be strongly affected by the network state, such as in anesthetized vs. awake preparations. Here, we investigated the impact of the network state, through GABAA receptors modulation, on the VSD signal using a computational approach. We therefore systematically measured the effect of the GABAA-mediated inhibitory postsynaptic potentials (IPSPs) decay time constant (τG) on our modeled VSD response to an input stimulus of increasing strength. Our simulations suggest that τG strongly modulates the dynamics of the VSD signal, affecting the amplitude, input response function, and the transient balance of excitation and inhibition. We confirmed these predictions experimentally on awake and anesthetized monkeys, comparing VSD responses to drifting gratings stimuli of various contrasts. Lastly, one in vitro study has suggested that GABAA receptors may also be directly affected by the VSDs themselves (Mennerick S, Chisari M, Shu H, Taylor A, Vasek M, Eisenman L, Zorumski C. J Neurosci 30: 2871-2879, 2010). Our modeling approach suggests that the type of modulation described in this study would actually have a negligible influence on the population response. This study highlights that functional results acquired with different techniques and network states must be compared with caution. Biophysical models are proposed here as an adequate tool to delineate the domain of VSD data interpretation.",
+  "authors": [
+    "Chemla Sandrine",
+    "Chavane Frédéric"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2016",
+  "doi": "10.1152/jn.00352.2015",
+  "mesh": [
+    "Anesthesia",
+    "Animals",
+    "Cerebral Cortex",
+    "Female",
+    "Fixation, Ocular",
+    "Inhibitory Postsynaptic Potentials",
+    "Kinetics",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Models, Molecular",
+    "Models, Neurological",
+    "Neurons",
+    "Receptors, GABA-A",
+    "Visual Perception",
+    "Wakefulness"
+  ]
+}

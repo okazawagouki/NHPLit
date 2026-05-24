@@ -1,0 +1,25 @@
+{
+  "pmid": "29382765",
+  "title": "Superior colliculus neuronal ensemble activity signals optimal rather than subjective confidence.",
+  "abstract": "Recent studies suggest that neurons in sensorimotor circuits involved in perceptual decision-making also play a role in decision confidence. In these studies, confidence is often considered to be an optimal readout of the probability that a decision is correct. However, the information leading to decision accuracy and the report of confidence often covaried, leaving open the possibility that there are actually two dissociable signal types in the brain: signals that correlate with decision accuracy (optimal confidence) and signals that correlate with subjects' behavioral reports of confidence (subjective confidence). We recorded neuronal activity from a sensorimotor decision area, the superior colliculus (SC) of monkeys, while they performed two different tasks. In our first task, decision accuracy and confidence covaried, as in previous studies. In our second task, we implemented a motion discrimination task with stimuli that were matched for decision accuracy but produced different levels of confidence, as reflected by behavioral reports. We used a multivariate decoder to predict monkeys' choices from neuronal population activity. As in previous studies on perceptual decision-making mechanisms, we found that neuronal decoding performance increased as decision accuracy increased. However, when decision accuracy was matched, performance of the decoder was similar between high and low subjective confidence conditions. These results show that the SC likely signals optimal decision confidence similar to previously reported cortical mechanisms, but is unlikely to play a critical role in subjective confidence. The results also motivate future investigations to determine where in the brain signals related to subjective confidence reside.",
+  "authors": [
+    "Odegaard Brian",
+    "Grimaldi Piercesare",
+    "Cho Seong Hah",
+    "Peters Megan A K",
+    "Lau Hakwan",
+    "Basso Michele A"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2018",
+  "doi": "10.1073/pnas.1711628115",
+  "mesh": [
+    "Animals",
+    "Choice Behavior",
+    "Decision Making",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Superior Colliculi"
+  ]
+}

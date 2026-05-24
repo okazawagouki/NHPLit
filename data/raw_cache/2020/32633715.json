@@ -1,0 +1,22 @@
+{
+  "pmid": "32633715",
+  "title": "Dopamine role in learning and action inference.",
+  "abstract": "This paper describes a framework for modelling dopamine function in the mammalian brain. It proposes that both learning and action planning involve processes minimizing prediction errors encoded by dopaminergic neurons. In this framework, dopaminergic neurons projecting to different parts of the striatum encode errors in predictions made by the corresponding systems within the basal ganglia. The dopaminergic neurons encode differences between rewards and expectations in the goal-directed system, and differences between the chosen and habitual actions in the habit system. These prediction errors trigger learning about rewards and habit formation, respectively. Additionally, dopaminergic neurons in the goal-directed system play a key role in action planning: They compute the difference between a desired reward and the reward expected from the current motor plan, and they facilitate action planning until this difference diminishes. Presented models account for dopaminergic responses during movements, effects of dopamine depletion on behaviour, and make several experimental predictions.",
+  "authors": [
+    "Bogacz Rafal"
+  ],
+  "journal": "eLife",
+  "year": "2020",
+  "doi": "10.7554/eLife.53262",
+  "mesh": [
+    "Animals",
+    "Basal Ganglia",
+    "Corpus Striatum",
+    "Dopamine",
+    "Dopaminergic Neurons",
+    "Learning",
+    "Mammals",
+    "Models, Biological",
+    "Reward"
+  ]
+}

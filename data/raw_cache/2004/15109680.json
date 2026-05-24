@@ -1,0 +1,29 @@
+{
+  "pmid": "15109680",
+  "title": "How laminar frontal cortex and basal ganglia circuits interact to control planned and reactive saccades.",
+  "abstract": "How does the brain learn to balance between reactive and planned behaviors? The basal ganglia (BG) and frontal cortex together allow animals to learn planned behaviors that acquire rewards when prepotent reactive behaviors are insufficient. This paper proposes a new model, called TELOS, to explain how laminar circuitry of the frontal cortex, exemplified by the frontal eye fields, interacts with the BG, thalamus, superior colliculus, and inferotemporal and parietal cortices to learn and perform reactive and planned eye movements. The model is formulated as fourteen computational hypotheses. These specify how strategy priming and action planning (in cortical layers III, Va and VI) are dissociated from movement execution (in layer Vb), how the BG help to choose among and gate competing plans, and how a visual stimulus may serve either as a movement target or as a discriminative cue to move elsewhere. The direct, indirect and hyperdirect pathways through the BG are shown to enable complex gating functions, including deferred execution of selected plans, and switching among alternative sensory-motor mappings. Notably, the model can learn and gate the use of a What-to-Where transformation that enables spatially invariant object representations to selectively excite spatially coded movement plans. Model simulations show how dopaminergic reward and non-reward signals guide monkeys to learn and perform saccadic eye movements in the fixation, single saccade, overlap, gap, and delay (memory-guided) saccade tasks. Model cell activation dynamics quantitatively simulate seventeen established types of dynamics exhibited by corresponding real cells during performance of these tasks.",
+  "authors": [
+    "Brown Joshua W",
+    "Bullock Daniel",
+    "Grossberg Stephen"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Basal Ganglia",
+    "Brain Mapping",
+    "Eye Movements",
+    "Feedback",
+    "Frontal Lobe",
+    "Learning",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neural Pathways",
+    "Neurons",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Saccades"
+  ]
+}

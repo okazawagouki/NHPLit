@@ -1,0 +1,14 @@
+{
+  "pmid": "34955752",
+  "title": "EyeLoop: An Open-Source System for High-Speed, Closed-Loop Eye-Tracking.",
+  "abstract": "Eye-trackers are widely used to study nervous system dynamics and neuropathology. Despite this broad utility, eye-tracking remains expensive, hardware-intensive, and proprietary, limiting its use to high-resource facilities. It also does not easily allow for real-time analysis and closed-loop design to link eye movements to neural activity. To address these issues, we developed an open-source eye-tracker - EyeLoop - that uses a highly efficient vectorized pupil detection method to provide uninterrupted tracking and fast online analysis with high accuracy on par with popular eye tracking modules, such as DeepLabCut. This Python-based software easily integrates custom functions using code modules, tracks a multitude of eyes, including in rodents, humans, and non-human primates, and operates at more than 1,000 frames per second on consumer-grade hardware. In this paper, we demonstrate EyeLoop's utility in an open-loop experiment and in biomedical disease identification, two common applications of eye-tracking. With a remarkably low cost and minimum setup steps, EyeLoop makes high-speed eye-tracking widely accessible.",
+  "authors": [
+    "Arvin Simon",
+    "Rasmussen Rune Nguyen",
+    "Yonehara Keisuke"
+  ],
+  "journal": "Frontiers in cellular neuroscience",
+  "year": "2021",
+  "doi": "10.3389/fncel.2021.779628",
+  "mesh": []
+}

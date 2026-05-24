@@ -1,0 +1,22 @@
+{
+  "pmid": "40296500",
+  "title": "A Theory and Model of Scene Representations With Hippocampal Spatial View Cells.",
+  "abstract": "A theory and network model are presented of how scene representations are built by forming spatial view cells in the ventromedial visual cortical scene pathway to the hippocampus in primates including humans. Layer 1, corresponding to V1-V4, connects to Layer 2 in the retrosplenial scene area and uses competitive learning to form visual feature combination neurons for the part of the scene being fixated, a visual fixation scene patch. In Layer 3, corresponding to the parahippocampal scene area and hippocampus, the visual fixation scene patches are stitched together to form whole scene representations. This is performed with a continuous attractor network for a whole scene made from the overlapping Gaussian receptive fields of the neurons as the head rotates to view the whole scene. In addition, in Layer 3, gain modulation by gaze direction maps visual fixation scene patches to the correct part of the whole scene representation when saccades are made. Each neuron in Layer 3 is thus a spatial view cell that responds to a location in a viewed scene based on visual features in a part of the scene. The novel conceptual advances are that this theory shows how scene representations may be built in primates, including humans, based on features in spatial scenes that anchor the scene representation to the world being viewed (to allocentric, world-based, space); and how gaze direction contributes to this. This offers a revolutionary approach to understanding the spatial representations for navigation and episodic memory in primates, including humans.",
+  "authors": [
+    "Rolls Edmund T"
+  ],
+  "journal": "Hippocampus",
+  "year": "2025",
+  "doi": "10.1002/hipo.70013",
+  "mesh": [
+    "Humans",
+    "Hippocampus",
+    "Animals",
+    "Models, Neurological",
+    "Neurons",
+    "Space Perception",
+    "Visual Perception",
+    "Visual Pathways",
+    "Visual Cortex"
+  ]
+}

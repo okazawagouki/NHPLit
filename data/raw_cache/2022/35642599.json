@@ -1,0 +1,21 @@
+{
+  "pmid": "35642599",
+  "title": "A neural mechanism for detecting object motion during self-motion.",
+  "abstract": "Detection of objects that move in a scene is a fundamental computation performed by the visual system. This computation is greatly complicated by observer motion, which causes most objects to move across the retinal image. How the visual system detects scene-relative object motion during self-motion is poorly understood. Human behavioral studies suggest that the visual system may identify local conflicts between motion parallax and binocular disparity cues to depth and may use these signals to detect moving objects. We describe a novel mechanism for performing this computation based on neurons in macaque middle temporal (MT) area with incongruent depth tuning for binocular disparity and motion parallax cues. Neurons with incongruent tuning respond selectively to scene-relative object motion, and their responses are predictive of perceptual decisions when animals are trained to detect a moving object during self-motion. This finding establishes a novel functional role for neurons with incongruent tuning for multiple depth cues.",
+  "authors": [
+    "Kim HyungGoo R",
+    "Angelaki Dora E",
+    "DeAngelis Gregory C"
+  ],
+  "journal": "eLife",
+  "year": "2022",
+  "doi": "10.7554/eLife.74971",
+  "mesh": [
+    "Animals",
+    "Cues",
+    "Motion",
+    "Motion Perception",
+    "Temporal Lobe",
+    "Vision Disparity"
+  ]
+}

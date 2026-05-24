@@ -1,0 +1,28 @@
+{
+  "pmid": "25837598",
+  "title": "Mesoscopic structure of neuronal tracts from time-dependent diffusion.",
+  "abstract": "Interpreting brain diffusion MRI measurements in terms of neuronal structure at a micrometer level is an exciting unresolved problem. Here we consider diffusion transverse to a bundle of fibers, and show theoretically, as well as using Monte Carlo simulations and measurements in a phantom made of parallel fibers mimicking axons, that the time dependent diffusion coefficient approaches its macroscopic limit slowly, in a (ln t)/t fashion. The logarithmic singularity arises due to short range disorder in the fiber packing. We identify short range disorder in axonal fibers based on histological data from the splenium, and argue that the time dependent contribution to the overall diffusion coefficient from the extra-axonal water dominates that of the intra-axonal water. This dominance may explain the bias in measuring axon diameters in clinical settings. The short range disorder is also reflected in the asymptotically linear frequency dependence of the diffusion coefficient measured with oscillating gradients, in agreement with recent experiments. Our results relate the measured diffusion to the mesoscopic structure of neuronal tissue, uncovering the sensitivity of diffusion metrics to axonal arrangement within a fiber tract, and providing an alternative interpretation of axonal diameter mapping techniques.",
+  "authors": [
+    "Burcaw Lauren M",
+    "Fieremans Els",
+    "Novikov Dmitry S"
+  ],
+  "journal": "NeuroImage",
+  "year": "2015",
+  "doi": "10.1016/j.neuroimage.2015.03.061",
+  "mesh": [
+    "Animals",
+    "Axons",
+    "Brain",
+    "Computer Simulation",
+    "Corpus Callosum",
+    "Diffusion",
+    "Diffusion Magnetic Resonance Imaging",
+    "Humans",
+    "Macaca mulatta",
+    "Monte Carlo Method",
+    "Neurons",
+    "Time Factors",
+    "Water"
+  ]
+}

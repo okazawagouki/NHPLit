@@ -1,0 +1,22 @@
+{
+  "pmid": "3559669",
+  "title": "Temporal encoding of two-dimensional patterns by single units in primate inferior temporal cortex. II. Quantification of response waveform.",
+  "abstract": "The purpose of this study was to describe how the responses of neurons in inferior temporal (IT) cortex represent visual stimuli. In the preceding paper we described the responses of IT neurons to a large set of two-dimensional black and white patterns. The responses to different stimuli showed temporal modulation of the spike trains. This paper develops a method for quantifying temporal modulation and shows that the stimulus determines the distribution over time, as well as the number, of spikes in a response. The responses were quantified using an orthogonal set of temporal waveforms called principal components. The principal components related to each neuron were extracted from all the responses of that neuron to all of the stimuli, regardless of which stimulus elicited which response. Each response was then projected onto the set of principal components to obtain a set of coefficients that quantified its temporal modulation. This decomposition produces coefficients that are uncorrelated with each other. Thus each coefficient could be tested individually, with univariate statistics, to determine whether its relation to the stimulus was nonrandom. The waveforms of the principal components are unconstrained and depend only on the responses from which they are derived; hence, they can assume any shape. Nonetheless, the 21 neurons we analyzed all had principal components that belonged to only one of two sets. The two sets could be characterized by their first principal component, which was either phasic or tonic. This suggests that these neurons may use as few as two different mechanisms in generating responses. The first principal component was highly correlated with spike count, and both were driven by the stimulus. Higher principal components were uncorrelated with spike count, yet some of them were also driven by the stimulus. Thus the principal components form a richer description of the stimulus-dependent aspects of a neuronal response than does spike count. Bootstrap tests showed that several principal components (usually 3 or 4) were determined by the stimulus. Since higher principal components were not correlated with the spike count, the stimulus must have determined the distribution of spikes in the response as well as their number. However, it is possible that the number and distribution of spikes are both determined by the same characteristics of the stimulus. In this case, the temporal modulation would be redundant, and a simple univariate measure would be sufficient to characterize the stimulus-response relationship.(ABSTRACT TRUNCATED AT 400 WORDS)",
+  "authors": [
+    "Richmond B J",
+    "Optican L M"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1987",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Electrophysiology",
+    "Form Perception",
+    "Macaca mulatta",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Temporal Lobe",
+    "Time Factors"
+  ]
+}

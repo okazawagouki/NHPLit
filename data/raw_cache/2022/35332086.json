@@ -1,0 +1,29 @@
+{
+  "pmid": "35332086",
+  "title": "Tracing Modification to Cortical Circuits in Human and Nonhuman Primates from High-Resolution Tractography, Transcription, and Temporal Dimensions.",
+  "abstract": "The neural circuits that support human cognition are a topic of enduring interest. Yet, there are limited tools available to map brain circuits in the human and nonhuman primate brain. We harnessed high-resolution diffusion MR tractography, anatomic, and transcriptomic data from individuals of either sex to investigate the evolution and development of frontal cortex circuitry. We applied machine learning to RNA sequencing data to find corresponding ages between humans and macaques and to compare the development of circuits across species. We transcriptionally defined neural circuits by testing for associations between gene expression and white matter maturation. We then considered transcriptional and structural growth to test whether frontal cortex circuit maturation is unusually extended in humans relative to other species. We also considered gene expression and high-resolution diffusion MR tractography of adult brains to test for cross-species variation in frontal cortex circuits. We found that frontal cortex circuitry development is extended in primates, and concomitant with an expansion in corticocortical pathways compared with mice in adulthood. Importantly, we found that these parameters varied relatively little across humans and studied primates. These data identify a surprising collection of conserved features in frontal cortex circuits across humans and Old World monkeys. Our work demonstrates that integrating transcriptional and structural data across temporal dimensions is a robust approach to trace the evolution of brain pathways in primates.<b>SIGNIFICANCE STATEMENT</b> Diffusion MR tractography is an exciting method to explore pathways, but there are uncertainties in the accuracy of reconstructed tracts. We broaden the repertoire of toolkits to enhance our ability to trace human brain pathways from diffusion MR tractography. Our integrative approach finds corresponding ages across species and transcriptionally defines neural circuits. We used this information to test for variation in circuit maturation across species and found a surprising constellation of similar features in frontal cortex neural circuits across humans and primates. Integrating across scales of biological organization expands the repertoire of tools available to study pathways in primates, which opens new avenues to study pathways in health and diseases of the human brain.",
+  "authors": [
+    "Charvet Christine J",
+    "Ofori Kwadwo",
+    "Baucum Christine",
+    "Sun Jianli",
+    "Modrell Melinda S",
+    "Hekmatyar Khan",
+    "Edlow Brian L",
+    "van der Kouwe Andre J"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2022",
+  "doi": "10.1523/JNEUROSCI.1506-21.2022",
+  "mesh": [
+    "Adult",
+    "Animals",
+    "Brain Mapping",
+    "Diffusion Tensor Imaging",
+    "Humans",
+    "Mice",
+    "Neural Pathways",
+    "Primates",
+    "White Matter"
+  ]
+}

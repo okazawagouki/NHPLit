@@ -1,0 +1,14 @@
+{
+  "pmid": "41256357",
+  "title": "Spacetime concordance in the primate cortex.",
+  "abstract": "The expanding scale and complexity of functional brain image datasets require space-time analytics. Spacetime concordance (STC) meets this need through an adaptive and robust framework optimized for high-speed analysis. At the core of STC, the Regional Functional Affinity (RFA) metric quantifies functional diversity and uniformity in primate connectomes using wakeful fMRI. This data-driven optimization achieves considerably faster processing, becoming broadly relevant to comparative neuroscience applications. We validated this approach using large-scale datasets from the Human Connectome Project (HCP) (N = 1,003) and the NIH Marmoset Brain Mapping Project (N = 26). Results demonstrate striking correspondence between parcellation boundaries of HCP atlas and functional heterogeneity, with boundary lines consistently aligning with regions of low RFA values. In humans, higher-order association networks exhibited lower RFA values indicating functional diversity, while primary sensorimotor networks displayed higher RFA values reflecting uniformity. Cross-species analysis revealed evolutionary conservation of this organizational principle alongside species-specific adaptations. The RFA metric successfully bridges discrete parcellation schemes and continuous models of brain function, offering new insights into primate brain organization and evolution.",
+  "authors": [
+    "Wang Ping",
+    "Luo Xinli",
+    "Zuo Xi-Nian"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.09.29.679376",
+  "mesh": []
+}

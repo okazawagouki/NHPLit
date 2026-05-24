@@ -1,0 +1,23 @@
+{
+  "pmid": "32997569",
+  "title": "Online control of reach accuracy in mice.",
+  "abstract": "Reaching movements, as a basic yet complex motor behavior, are a foundational model system in neuroscience. In particular, there has been a significant recent expansion of investigation into the neural circuit mechanisms of reach behavior in mice. Nevertheless, quantification of mouse reach kinematics remains lacking, limiting comparison to the primate literature. In this study, we quantitatively demonstrate the homology of mouse reach kinematics to primate reach and also discover novel late-phase correlational structure that implies online control. Overall, our results highlight the decelerative phase of reach as important in driving successful outcome. Specifically, we develop and implement a novel statistical machine-learning algorithm to identify kinematic features associated with successful reaches and find that late-phase kinematics are most predictive of outcome, signifying online reach control as opposed to preplanning. Moreover, we identify and characterize late-phase kinematic adjustments that are yoked to midflight position and velocity of the limb, allowing for dynamic correction of initial variability, with head-fixed reaches being less dependent on position in comparison to freely behaving reaches. Furthermore, consecutive reaches exhibit positional error correction but not hot-handedness, implying opponent regulation of motor variability. Overall, our results establish foundational mouse reach kinematics in the context of neuroscientific investigation, characterizing mouse reach production as an active process that relies on dynamic online control mechanisms.<b>NEW & NOTEWORTHY</b> Mice use reaching movements to grasp and manipulate objects in their environment, similar to primates. To better establish mouse reach as a model for motor control, we implement several analytical frameworks, from basic kinematic relationships to statistical machine learning, to quantify mouse reach, finding many canonical features of primate reaches are conserved in mice, as well as evidence for midflight course corrections, expanding the utility of mouse reach paradigms for motor control studies.",
+  "authors": [
+    "Becker Matthew I",
+    "Calame Dylan J",
+    "Wrobel Julia",
+    "Person Abigail L"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2020",
+  "doi": "10.1152/jn.00324.2020",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Female",
+    "Machine Learning",
+    "Male",
+    "Mice, Inbred C57BL",
+    "Movement"
+  ]
+}

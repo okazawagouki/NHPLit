@@ -1,0 +1,23 @@
+{
+  "pmid": "10561398",
+  "title": "Gating of local network signals appears as stimulus-dependent activity envelopes in striate cortex.",
+  "abstract": "Neuronal activity often is treated as a composition of a stimulus-driven component and a second component that corrupts the signal, adding or deleting spikes at random. Standard quantitative methods such as peristimulus histograms and Fourier analysis use stimulus-locked averaging to enhance detection of the driven component of neuronal responses and de-emphasize the \"noise.\" However, neural activity also includes bursts, oscillations, and other episodic events that standard averaging methods overlook. If this activity is stimulus independent, it can be characterized by standard power spectral analysis (or autocorrelation). But activity that is excited by (but not temporally locked to) the visual stimulus cannot be characterized by averaging or standard spectral analysis. Phase-locked spectral analysis (PLSA) is a new method that examines this \"residual\" activity-the difference between the individual responses to each cycle of a periodic stimulus and their average. With PLSA, residual activity is characterized in terms of temporal envelopes and their carriers. Previously, PLSA demonstrated broadband interactions between periodic visual stimuli and fluctuations in the local field potential of macaque V1. In the present study, single-unit responses (SUA) from parafoveal V1 in anesthetized macaque monkey are examined with this technique. Recordings were made from 21 neurons, 6 of which were recorded in pairs along with multiunit activity (MUA) from separate electrodes and 8 of which were recorded along with MUA from the same electrode. PLSA was applied to responses to preferred (orientation, direction, and spatial frequency) and nonpreferred drifting gratings. For preferred stimuli, all cells demonstrated broadband (1-10 Hz and higher) residual activity that waxed and waned with the stimulus cycle, suggesting that changes in the residual activity are introduced routinely by visual stimulation. Moreover, some reconstructed envelopes indicate that the residual activity was sharply gated by the stimulus cycle. Oscillations occasionally were seen in the power spectrum of single units. Phase-locked cross-spectra were determined for 3 SUA/SUA pairs and 11 SUA/MUA pairs. Residual activity in the cross-spectra was generally much less than the residual activity determined separately from each neuron. The reduction in the residual activity in the cross-spectra suggests that nearby neurons may gate inputs from distinct and relatively independent neuronal subpopulations that together generate the background rhythms of striate cortex.",
+  "authors": [
+    "Schiff N D",
+    "Purpura K P",
+    "Victor J D"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Photic Stimulation",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

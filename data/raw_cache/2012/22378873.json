@@ -1,0 +1,26 @@
+{
+  "pmid": "22378873",
+  "title": "Neurons with stereotyped and rapid responses provide a reference frame for relative temporal coding in primate auditory cortex.",
+  "abstract": "The precise timing of spikes of cortical neurons relative to stimulus onset carries substantial sensory information. To access this information the sensory systems would need to maintain an internal temporal reference that reflects the precise stimulus timing. Whether and how sensory systems implement such reference frames to decode time-dependent responses, however, remains debated. Studying the encoding of naturalistic sounds in primate (Macaca mulatta) auditory cortex we here investigate potential intrinsic references for decoding temporally precise information. Within the population of recorded neurons, we found one subset responding with stereotyped fast latencies that varied little across trials or stimuli, while the remaining neurons had stimulus-modulated responses with longer and variable latencies. Computational analysis demonstrated that the neurons with stereotyped short latencies constitute an effective temporal reference for relative coding. Using the response onset of a simultaneously recorded stereotyped neuron allowed decoding most of the stimulus information carried by onset latencies and the full spike train of stimulus-modulated neurons. Computational modeling showed that few tens of such stereotyped reference neurons suffice to recover nearly all information that would be available when decoding the same responses relative to the actual stimulus onset. These findings reveal an explicit neural signature of an intrinsic reference for decoding temporal response patterns in the auditory cortex of alert animals. Furthermore, they highlight a role for apparently unselective neurons as an early saliency signal that provides a temporal reference for extracting stimulus information from other neurons.",
+  "authors": [
+    "Brasselet Romain",
+    "Panzeri Stefano",
+    "Logothetis Nikos K",
+    "Kayser Christoph"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2012",
+  "doi": "10.1523/JNEUROSCI.5435-11.2012",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Auditory Cortex",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Random Allocation",
+    "Reaction Time",
+    "Time Factors"
+  ]
+}

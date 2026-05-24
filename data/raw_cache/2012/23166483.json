@@ -1,0 +1,27 @@
+{
+  "pmid": "23166483",
+  "title": "Sensorimotor learning biases choice behavior: a learning neural field model for decision making.",
+  "abstract": "According to a prominent view of sensorimotor processing in primates, selection and specification of possible actions are not sequential operations. Rather, a decision for an action emerges from competition between different movement plans, which are specified and selected in parallel. For action choices which are based on ambiguous sensory input, the frontoparietal sensorimotor areas are considered part of the common underlying neural substrate for selection and specification of action. These areas have been shown capable of encoding alternative spatial motor goals in parallel during movement planning, and show signatures of competitive value-based selection among these goals. Since the same network is also involved in learning sensorimotor associations, competitive action selection (decision making) should not only be driven by the sensory evidence and expected reward in favor of either action, but also by the subject's learning history of different sensorimotor associations. Previous computational models of competitive neural decision making used predefined associations between sensory input and corresponding motor output. Such hard-wiring does not allow modeling of how decisions are influenced by sensorimotor learning or by changing reward contingencies. We present a dynamic neural field model which learns arbitrary sensorimotor associations with a reward-driven Hebbian learning algorithm. We show that the model accurately simulates the dynamics of action selection with different reward contingencies, as observed in monkey cortical recordings, and that it correctly predicted the pattern of choice errors in a control experiment. With our adaptive model we demonstrate how network plasticity, which is required for association learning and adaptation to new reward contingencies, can influence choice behavior. The field model provides an integrated and dynamic account for the operations of sensorimotor integration, working memory and action selection required for decision making in ambiguous choice situations.",
+  "authors": [
+    "Klaes Christian",
+    "Schneegans Sebastian",
+    "Schöner Gregor",
+    "Gail Alexander"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2012",
+  "doi": "10.1371/journal.pcbi.1002774",
+  "mesh": [
+    "Animals",
+    "Association Learning",
+    "Brain Mapping",
+    "Choice Behavior",
+    "Computational Biology",
+    "Computer Simulation",
+    "Decision Making",
+    "Electroencephalography",
+    "Haplorhini",
+    "Models, Neurological",
+    "Reward"
+  ]
+}

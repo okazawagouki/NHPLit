@@ -1,0 +1,24 @@
+{
+  "pmid": "22427980",
+  "title": "Decision, sensation, and habituation: a multi-layer dynamic field model for Inhibition of Return.",
+  "abstract": "Inhibition of Return (IOR) is one of the most consistent and widely studied effects in experimental psychology. The effect refers to a delayed response to visual stimuli in a cued location after initial priming at that location. This article presents a dynamic field model for IOR. The model describes the evolution of three coupled activation fields. The decision field, inspired by the intermediate layer of the superior colliculus, receives endogenous input and input from a sensory field. The sensory field, inspired by earlier sensory processing, receives exogenous input. Habituation of the sensory field is implemented by a reciprocal coupling with a third field, the habituation field. The model generates IOR because, due to the habituation of the sensory field, the decision field receives a reduced target-induced input in cue-target-compatible situations. The model is consistent with single-unit recordings of neurons of monkeys that perform IOR tasks. Such recordings have revealed that IOR phenomena parallel the activity of neurons in the intermediate layer of the superior colliculus and that neurons in this layer receive reduced input in cue-target-compatible situations. The model is also consistent with behavioral data concerning temporal expectancy effects. In a discussion, the multi-layer dynamic field account of IOR is used to illustrate the broader view that behavior consists of a tuning of the organism to the environment that continuously and concurrently takes place at different spatiotemporal scales.",
+  "authors": [
+    "Ibáñez-Gijón Jorge",
+    "Jacobs David M"
+  ],
+  "journal": "PloS one",
+  "year": "2012",
+  "doi": "10.1371/journal.pone.0033169",
+  "mesh": [
+    "Computer Simulation",
+    "Habituation, Psychophysiologic",
+    "Humans",
+    "Inhibition, Psychological",
+    "Models, Psychological",
+    "Orientation",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Superior Colliculi",
+    "Visual Perception"
+  ]
+}

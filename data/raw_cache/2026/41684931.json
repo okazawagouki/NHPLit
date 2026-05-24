@@ -1,0 +1,15 @@
+{
+  "pmid": "41684931",
+  "title": "Working Memory of Multi-Object Scenes in Primate Frontal Cortex.",
+  "abstract": "Working memory allows primates to reason about complex scenes, yet how the brain maintains multiple objects in memory simultaneously remains unclear. Competing theories propose that objects are stored in discrete slots<sup>1,2</sup>, represented dynamically through switching<sup>3-6</sup>, or encoded by weighted combinations of single-object representations<sup>7-11</sup>. We formalized these hypotheses in terms of their quantitative predictions at the level of single neurons and tested them against densely recorded neural data from the dorsomedial frontal cortex and frontal eye field of monkeys trained to perform a novel multi-object working-memory task. Across cross-validated neural data, a Gain model, where population activity reflects weighted compositions of individual object responses, consistently outperformed Slot and Switching models. Trial-specific gain estimates predicted behavioral errors and reaction times, indicating that these latent weights capture meaningful fluctuations in memory fidelity. All results replicated in an independent dataset with different spatial configurations. Together, our work provides a rigorous framework to adjudicate a longstanding debate about how the frontal cortex retains multiple objects, identifying a weighted-sum representation as the format that best explains the neural data.",
+  "authors": [
+    "Watters Nicholas",
+    "Gabel Jack",
+    "Tenenbaum Joshua",
+    "Jazayeri Mehrdad"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2026",
+  "doi": "10.64898/2026.01.27.702062",
+  "mesh": []
+}

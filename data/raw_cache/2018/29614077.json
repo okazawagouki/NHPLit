@@ -1,0 +1,31 @@
+{
+  "pmid": "29614077",
+  "title": "A probabilistic, distributed, recursive mechanism for decision-making in the brain.",
+  "abstract": "Decision formation recruits many brain regions, but the procedure they jointly execute is unknown. Here we characterize its essential composition, using as a framework a novel recursive Bayesian algorithm that makes decisions based on spike-trains with the statistics of those in sensory cortex (MT). Using it to simulate the random-dot-motion task, we demonstrate it quantitatively replicates the choice behaviour of monkeys, whilst predicting losses of otherwise usable information from MT. Its architecture maps to the recurrent cortico-basal-ganglia-thalamo-cortical loops, whose components are all implicated in decision-making. We show that the dynamics of its mapped computations match those of neural activity in the sensorimotor cortex and striatum during decisions, and forecast those of basal ganglia output and thalamus. This also predicts which aspects of neural dynamics are and are not part of inference. Our single-equation algorithm is probabilistic, distributed, recursive, and parallel. Its success at capturing anatomy, behaviour, and electrophysiology suggests that the mechanism implemented by the brain has these same characteristics.",
+  "authors": [
+    "Caballero Javier A",
+    "Humphries Mark D",
+    "Gurney Kevin N"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2018",
+  "doi": "10.1371/journal.pcbi.1006033",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Brain",
+    "Brain Mapping",
+    "Computational Biology",
+    "Computer Simulation",
+    "Corpus Striatum",
+    "Decision Making",
+    "Electrophysiological Phenomena",
+    "Haplorhini",
+    "Models, Neurological",
+    "Models, Psychological",
+    "Models, Statistical",
+    "Reaction Time",
+    "Sensorimotor Cortex"
+  ]
+}

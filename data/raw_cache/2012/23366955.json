@@ -1,0 +1,25 @@
+{
+  "pmid": "23366955",
+  "title": "Spline- and wavelet-based models of neural activity in response to natural visual stimulation.",
+  "abstract": "We present a comparative study of the performance of different basis functions for the nonparametric modeling of neural activity in response to natural stimuli. Based on naturalistic video sequences, a generative model of neural activity was created using a stochastic linear-nonlinear-spiking cascade. The temporal dynamics of the spiking response is well captured with cubic splines with equidistant knot spacings. Whereas a sym4-wavelet decomposition performs competitively or only slightly worse than the spline basis, Haar wavelets (or histogram-based models) seem unsuitable for faithfully describing the temporal dynamics of the sensory neurons. This tendency was confirmed with an application to a real data set of spike trains recorded from visual cortex of the awake monkey.",
+  "authors": [
+    "Gerhard Felipe",
+    "Szegletes Luca"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2012",
+  "doi": "10.1109/EMBC.2012.6346994",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Evoked Potentials, Visual",
+    "Haplorhini",
+    "Humans",
+    "Models, Neurological",
+    "Nerve Net",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Perception",
+    "Wavelet Analysis"
+  ]
+}

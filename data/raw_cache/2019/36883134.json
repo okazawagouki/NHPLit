@@ -1,0 +1,18 @@
+{
+  "pmid": "36883134",
+  "title": "Inferring Cortical Connectivity from ECoG Signals Using Graph Signal Processing.",
+  "abstract": "A novel method to characterize connectivity between sites in the cerebral cortex of primates is proposed in this paper. Connectivity graphs for two macaque monkeys are inferred from Electrocorticographic (ECoG) activity recorded while the animals were alert. The locations of ECoG electrodes are considered as nodes of the graph, the coefficients of the auto-regressive (AR) representation of the signals measured at each node are considered as the signal on the graph and the connectivity strengths between the nodes are considered as the edges of the graph. Maximization of the graph smoothness defined from the Laplacian quadratic form is used to infer the connectivity map (adjacency matrix of the graph). The cortical evoked potential (CEP) map was obtained by stimulating different electrodes and recording the evoked potentials at the other electrodes. The maps obtained by the graph inference and the traditional method of spectral coherence are compared with the CEP map. The results show that the proposed method provides a description of cortical connectivity that is more similar to the stimulation-based measures than spectral coherence. The results are also tested by the surrogate map analysis in which the CEP map is randomly permuted and the distribution of the errors is obtained. It is shown that error between the two maps is comfortably outside the surrogate map error distribution. This indicates that the similarity between the map calculated by the graph inference and the CEP map is statistically significant.",
+  "authors": [
+    "Tavildar Siddhi",
+    "Mogen Brian",
+    "Zanos Stavros",
+    "Seeman Stephanie",
+    "Perlmutter Steve",
+    "Fetz Eberhard",
+    "Ashrafi Ashkan"
+  ],
+  "journal": "IEEE access : practical innovations, open solutions",
+  "year": "2019",
+  "doi": "10.1109/access.2019.2934490",
+  "mesh": []
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "21982933",
+  "title": "Quantifying additive evoked contributions to the event-related potential.",
+  "abstract": "Event-related potentials (ERPs) are widely used in basic neuroscience and in clinical diagnostic procedures. In contrast, neurophysiological insights from ERPs have been limited, as several different mechanisms lead to ERPs. Apart from stereotypically repeated responses (additive evoked responses), these mechanisms are asymmetric amplitude modulations and phase-resetting of ongoing oscillatory activity. Therefore, a method is needed that differentiates between these mechanisms and moreover quantifies the stability of a response. We propose a constrained subspace independent component analysis that exploits the multivariate information present in the all-to-all relationship of recordings over trials. Our method identifies additive evoked activity and quantifies its stability over trials. We evaluate identification performance for biologically plausible simulation data and two neurophysiological test cases: Local field potential (LFP) recordings from a visuo-motor-integration task in the awake behaving macaque and magnetoencephalography (MEG) recordings of steady-state visual evoked fields (SSVEFs). In the LFPs we find additive evoked response contributions in visual areas V2/4 but not in primary motor cortex A4, although visually triggered ERPs were also observed in area A4. MEG-SSVEFs were mainly created by additive evoked response contributions. Our results demonstrate that the identification of additive evoked response contributions is possible both in invasive and in non-invasive electrophysiological recordings.",
+  "authors": [
+    "Turi Georg",
+    "Gotthardt Sascha",
+    "Singer Wolf",
+    "Vuong The Anh",
+    "Munk Matthias",
+    "Wibral Michael"
+  ],
+  "journal": "NeuroImage",
+  "year": "2012",
+  "doi": "10.1016/j.neuroimage.2011.08.078",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Data Interpretation, Statistical",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Evoked Potentials",
+    "Evoked Potentials, Somatosensory",
+    "Evoked Potentials, Visual",
+    "False Negative Reactions",
+    "False Positive Reactions",
+    "Humans",
+    "Macaca mulatta",
+    "Magnetoencephalography",
+    "Motor Cortex",
+    "Normal Distribution",
+    "Principal Component Analysis",
+    "Psychomotor Performance"
+  ]
+}

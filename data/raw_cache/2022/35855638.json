@@ -1,0 +1,27 @@
+{
+  "pmid": "35855638",
+  "title": "Multiscale segmentation- and error-guided iterative convolutional neural network for cerebral neuron segmentation in microscopic images.",
+  "abstract": "This article uses microscopy images obtained from diverse anatomical regions of macaque brain for neuron semantic segmentation. The complex structure of brain, the large intra-class staining intensity difference within neuron class, the small inter-class staining intensity difference between neuron and tissue class, and the unbalanced dataset increase the difficulty of neuron semantic segmentation. To address this problem, we propose a multiscale segmentation- and error-guided iterative convolutional neural network (MSEG-iCNN) to improve the semantic segmentation performance in major anatomical regions of the macaque brain. After evaluating microscopic images from 17 anatomical regions, the semantic segmentation performance of neurons is improved by 10.6%, 4.0%, 1.5%, and 1.2% compared with Random Forest, FCN-8s, U-Net, and UNet++, respectively. Especially for neurons with brighter staining intensity in the anatomical regions such as lateral geniculate, globus pallidus and hypothalamus, the performance is improved by 66.1%, 23.9%, 11.2%, and 6.7%, respectively. Experiments show that our proposed method can efficiently segment neurons with a wide range of staining intensities. The semantic segmentation results are of great significance and can be further used for neuron instance segmentation, morphological analysis and disease diagnosis. Cell segmentation plays a critical role in extracting cerebral information, such as cell counting, cell morphometry and distribution analysis. Accurate automated neuron segmentation is challenging due to the complex structure of brain, the large intra-class staining intensity difference within neuron class, the small inter-class staining intensity difference between neuron and tissue class, and the unbalanced dataset. The proposed multiscale segmentation- and error-guided iterative convolutional neural network (MSEG-iCNN) improve the segmentation performance in 17 major anatomical regions of the macaque brain. HIGHLIGHTS: Cell segmentation plays a critical role in extracting cerebral information, such as cell counting, cell morphometry and distribution analysis. Accurate automated neuron segmentation is challenging due to the complex structure of brain, the large intra-class staining intensity difference within neuron class, the small inter-class staining intensity difference between neuron and tissue class, and the unbalanced dataset. The proposed multiscale segmentation- and error-guided iterative convolutional neural network (MSEG-iCNN) improve the segmentation performance in 17 major anatomical regions of the macaque brain.",
+  "authors": [
+    "You Zhenzhen",
+    "Jiang Ming",
+    "Shi Zhenghao",
+    "Zhao Minghua",
+    "Shi Cheng",
+    "Du Shuangli",
+    "Hérard Anne-Sophie",
+    "Souedet Nicolas",
+    "Delzescaux Thierry"
+  ],
+  "journal": "Microscopy research and technique",
+  "year": "2022",
+  "doi": "10.1002/jemt.24206",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Image Processing, Computer-Assisted",
+    "Macaca",
+    "Neural Networks, Computer",
+    "Neurons"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "14560765",
+  "title": "Spectral cancellation of microstimulation artifact for simultaneous neural recording in situ.",
+  "abstract": "A fundamental technical hurdle in systems neurophysiology has been to record the activity of individual neurons in situ while using microstimulation to activate inputs or outputs. Stimulation artifact at the recording electrode has largely limited the usefulness of combined stimulating and recording to using single stimulation pulses (e.g., orthodromic and antidromic activation) or to presenting brief trains of pulses to look for transient responses (e.g., paired-pulse stimulation). Using an adaptive filter, we have developed an on-line method that allows continuous extracellular isolation of individual neuron spikes during sustained experimental microstimulation. We show that the technique accurately and robustly recovers neural spikes from stimulation-corrupted records. Moreover, we demonstrate that the method should generalize to any recording situation where a stereotyped, triggered transient might obscure a neural event.",
+  "authors": [
+    "Gnadt James W",
+    "Echols Stanley D",
+    "Yildirim Abidin",
+    "Zhang Honglei",
+    "Paul Kush"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Artifacts",
+    "Electric Stimulation",
+    "Electrodes, Implanted",
+    "Eye Movements",
+    "Feedback",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Neurons",
+    "Parietal Lobe",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

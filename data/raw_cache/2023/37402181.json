@@ -1,0 +1,27 @@
+{
+  "pmid": "37402181",
+  "title": "Data Compression Versus Signal Fidelity Tradeoff in Wired-OR Analog-to-Digital Compressive Arrays for Neural Recording.",
+  "abstract": "Future high-density and high channel count neural interfaces that enable simultaneous recording of tens of thousands of neurons will provide a gateway to study, restore and augment neural functions. However, building such technology within the bit-rate limit and power budget of a fully implantable device is challenging. The wired-OR compressive readout architecture addresses the data deluge challenge of a high channel count neural interface using lossy compression at the analog-to-digital interface. In this article, we assess the suitability of wired-OR for several steps that are important for neuroengineering, including spike detection, spike assignment and waveform estimation. For various wiring configurations of wired-OR and assumptions about the quality of the underlying signal, we characterize the trade-off between compression ratio and task-specific signal fidelity metrics. Using data from 18 large-scale microelectrode array recordings in macaque retina ex vivo, we find that for an event SNR of 7-10, wired-OR correctly detects and assigns at least 80% of the spikes with at least 50× compression. The wired-OR approach also robustly encodes action potential waveform information, enabling downstream processing such as cell-type classification. Finally, we show that by applying an LZ77-based lossless compressor (gzip) to the output of the wired-OR architecture, 1000× compression can be achieved over the baseline recordings.",
+  "authors": [
+    "Yan Pumiao",
+    "Akhoundi Arash",
+    "Shah Nishal P",
+    "Tandon Pulkit",
+    "Muratore Dante G",
+    "Chichilnisky E J",
+    "Murmann Boris"
+  ],
+  "journal": "IEEE transactions on biomedical circuits and systems",
+  "year": "2023",
+  "doi": "10.1109/TBCAS.2023.3292058",
+  "mesh": [
+    "Animals",
+    "Data Compression",
+    "Signal Processing, Computer-Assisted",
+    "Neurons",
+    "Action Potentials",
+    "Microelectrodes",
+    "Retina",
+    "Macaca"
+  ]
+}

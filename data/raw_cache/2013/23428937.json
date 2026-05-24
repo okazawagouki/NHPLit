@@ -1,0 +1,34 @@
+{
+  "pmid": "23428937",
+  "title": "An implantable wireless neural interface for recording cortical circuit dynamics in moving primates.",
+  "abstract": "OBJECTIVE: Neural interface technology suitable for clinical translation has the potential to significantly impact the lives of amputees, spinal cord injury victims and those living with severe neuromotor disease. Such systems must be chronically safe, durable and effective. APPROACH: We have designed and implemented a neural interface microsystem, housed in a compact, subcutaneous and hermetically sealed titanium enclosure. The implanted device interfaces the brain with a 510k-approved, 100-element silicon-based microelectrode array via a custom hermetic feedthrough design. Full spectrum neural signals were amplified (0.1 Hz to 7.8 kHz, 200× gain) and multiplexed by a custom application specific integrated circuit, digitized and then packaged for transmission. The neural data (24 Mbps) were transmitted by a wireless data link carried on a frequency-shift-key-modulated signal at 3.2 and 3.8 GHz to a receiver 1 m away by design as a point-to-point communication link for human clinical use. The system was powered by an embedded medical grade rechargeable Li-ion battery for 7 h continuous operation between recharge via an inductive transcutaneous wireless power link at 2 MHz. MAIN RESULTS: Device verification and early validation were performed in both swine and non-human primate freely-moving animal models and showed that the wireless implant was electrically stable, effective in capturing and delivering broadband neural data, and safe for over one year of testing. In addition, we have used the multichannel data from these mobile animal models to demonstrate the ability to decode neural population dynamics associated with motor activity. SIGNIFICANCE: We have developed an implanted wireless broadband neural recording device evaluated in non-human primate and swine. The use of this new implantable neural interface technology can provide insight into how to advance human neuroprostheses beyond the present early clinical trials. Further, such tools enable mobile patient use, have the potential for wider diagnosis of neurological conditions and will advance brain research.",
+  "authors": [
+    "Borton David A",
+    "Yin Ming",
+    "Aceros Juan",
+    "Nurmikko Arto"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2013",
+  "doi": "10.1088/1741-2560/10/2/026010",
+  "mesh": [
+    "Algorithms",
+    "Amplifiers, Electronic",
+    "Animals",
+    "Cerebral Cortex",
+    "Data Interpretation, Statistical",
+    "Electrodes, Implanted",
+    "Electronics",
+    "Equipment Design",
+    "Hot Temperature",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Nanotechnology",
+    "Neural Prostheses",
+    "Neurosurgical Procedures",
+    "Primates",
+    "Radio Waves",
+    "Swine",
+    "Wireless Technology"
+  ]
+}

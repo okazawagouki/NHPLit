@@ -1,0 +1,22 @@
+{
+  "pmid": "7869094",
+  "title": "A selection model for motion processing in area MT of primates.",
+  "abstract": "A computational model for motion processing in area MT is presented that is based on the observed response properties of cortical neurons and is consistent with the visual perception of partially occluded and transparent moving stimuli. In contrast to models of motion processing that assume spatial continuity and fail to compute the correct velocity for these visual stimuli, our model produces a distributed segmentation of the image into disjoint patches that represent distinct objects moving with common velocities. A key element in the model is the selection of regions of the visual field where the velocity estimates are most reliable. The processing units in the motion model that perform the selection have nonclassical receptive fields similar to those observed in area MT (Allman et al., 1985). The psychophysical responses of the model to coherently moving random dots and transparent plaid gratings are similar to those observed in primates.",
+  "authors": [
+    "Nowlan S J",
+    "Sejnowski T J"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1995",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Primates",
+    "Psychophysics",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "pmid": "38293172",
+  "title": "Grouping cells in primate visual cortex.",
+  "abstract": "Our perception of how objects are laid out in visual scenes is remarkably stable, despite rapid shifts in the patterns of light that fall on the retina with each saccade. One mechanism that may help establish perceptual stability is border ownership assignment. Studies in macaque area V2 have identified border ownership neurons that signal which side of a border belongs to a foreground surface. This signal persists for hundreds of milliseconds after border ownership has been rendered ambiguous by deleting the stimulus features that distinguish foreground from background. Remarkably, this signal survives eye movements: border ownership neurons also exhibit border ownership signals <i>de novo</i> when an eye movement places the newly ambiguous border within their receptive field. The grouping cell hypothesis proposes the existence of hypothetical grouping cells in a downstream brain area. These cells would compute persistent proto-object representations and therefore have the properties to endow cells in upstream brain areas with selectivity for border ownership. Such grouping cells have been predicted to show a centripetal and persistent pattern of preferred side of ownership for a border placed parallel to the perimeter of their classical receptive field, and such a centripetal ownership preference pattern should also occur <i>de novo</i> in these same cells if an ambiguous border lands in their receptive field after a saccade. It is unknown if grouping cells exist. Here we used laminar multielectrodes in area V4 - the main source of feedback to V2 - of behaving macaques to determine whether such grouping cells exist. Consistent with the model prediction we find a substantial population of neurons with these properties, in all laminar compartments, and they exhibit a response latency that is short enough to act as the source that endows neurons in V2 with selectivity for border ownership. While grouping cell activity provides information about the location of foreground surfaces, these neurons are, counterintuitively, not as strongly tuned for luminance contrast polarity, a feature of those surfaces, as are border ownership cells. Our data suggest a division of labor in which these newly discovered grouping cells provide spatiotemporal continuity of segmented surfaces whereas border ownership cells link this location information with surface features such as luminance contrast.",
+  "authors": [
+    "Franken Tom P",
+    "Reynolds John H"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.01.16.575953",
+  "mesh": []
+}

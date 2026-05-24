@@ -1,0 +1,15 @@
+{
+  "pmid": "40475437",
+  "title": "Flexible computation of object motion and depth based on viewing geometry inferred from optic flow.",
+  "abstract": "Vision is an active process. We move our eyes and head to acquire useful information and to track objects of interest. While these movements are essential for many behaviors, they greatly complicate the analysis of retinal image motion-the image motion of an object reflects both how that object moves in the world and how the eye moves relative to the scene. Our brain must account for the visual consequences of self-motion to accurately perceive the 3D layout and motion of objects in the scene. Traditionally, compensation for eye movements (e.g., smooth pursuit) has been modeled as a simple vector subtraction process. While these models are effective for pure eye rotations and 2D scenes, we show that they fail to apply to more natural viewing geometries involving combinations of eye rotation and translation. We develop theoretical predictions for how perception of object motion and depth should depend on the observer's inferred viewing geometry. Through psychophysical experiments, we demonstrate novel perceptual biases that manifest when different viewing geometries are simulated by optic flow, in the absence of physical eye movements. Remarkably, these biases occur automatically, without training or feedback, and are well predicted by our theoretical framework. A neural network model trained to perform the same tasks exhibits neural response patterns similar to those observed in macaque area MT, suggesting a possible neural basis for these adaptive computations. Our findings demonstrate that the visual system automatically infers viewing geometry from optic flow and flexibly attributes components of image motion to either self-motion or depth structure according to the inferred geometry. Our findings unify previously separate bodies of work by showing that the visual consequences of self-motion play a crucial role in computing object motion and depth, thus enabling the visual system to adaptively perceive a dynamic 3D environment.",
+  "authors": [
+    "Xu Zhe-Xin",
+    "Pang Jiayi",
+    "Anzai Akiyuki",
+    "DeAngelis Gregory C"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2024.10.29.620928",
+  "mesh": []
+}

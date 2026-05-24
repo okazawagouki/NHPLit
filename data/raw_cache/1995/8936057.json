@@ -1,0 +1,22 @@
+{
+  "pmid": "8936057",
+  "title": "Development of oriented ocular dominance bands as a consequence of areal geometry.",
+  "abstract": "It has been hypothesized that the different appearance of ocular dominance bands in the cat and the monkey is a consequence of the different mapping geometries in these species (LeVay et al. 1985; Anderson et al. 1988). Here I investigate the impact of areal geometries on the preferred direction of ocular dominance bands in two adaptive map formation models, the self-organizing feature map and the elastic net algorithm. In the case of the self-organizing feature map, the occurrence of instabilities that correspond to ocular dominance bands can be analytically investigated. The instabilities automatically yield stripes of correct orientation. These analytic results are complemented by simulations. In the case of the elastic net algorithm, simulations reveal two different parameter regimes of the algorithm, only one of which leads to stripes of correct orientation. The results suggest that neighborhood preservation in visual maps is enforced in the backward direction, such that neighboring cells in the cortex have neighboring receptive fields, and not vice versa.",
+  "authors": [
+    "Bauer H U"
+  ],
+  "journal": "Neural computation",
+  "year": "1995",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Anisotropy",
+    "Brain Mapping",
+    "Models, Neurological",
+    "Orientation",
+    "Vision, Ocular",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Pathways"
+  ]
+}

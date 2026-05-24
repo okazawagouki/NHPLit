@@ -1,0 +1,21 @@
+{
+  "pmid": "37595590",
+  "title": "Neural population dynamics of human working memory.",
+  "abstract": "The activity of neurons in macaque prefrontal cortex (PFC) persists during working memory (WM) delays, providing a mechanism for memory.<sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>3</sup><sup>,</sup><sup>4</sup><sup>,</sup><sup>5</sup><sup>,</sup><sup>6</sup><sup>,</sup><sup>7</sup><sup>,</sup><sup>8</sup><sup>,</sup><sup>9</sup><sup>,</sup><sup>10</sup><sup>,</sup><sup>11</sup> Although theory,<sup>11</sup><sup>,</sup><sup>12</sup> including formal network models,<sup>13</sup><sup>,</sup><sup>14</sup> assumes that WM codes are stable over time, PFC neurons exhibit dynamics inconsistent with these assumptions.<sup>15</sup><sup>,</sup><sup>16</sup><sup>,</sup><sup>17</sup><sup>,</sup><sup>18</sup><sup>,</sup><sup>19</sup> Recently, multivariate reanalyses revealed the coexistence of both stable and dynamic WM codes in macaque PFC.<sup>20</sup><sup>,</sup><sup>21</sup><sup>,</sup><sup>22</sup><sup>,</sup><sup>23</sup> Human EEG studies also suggest that WM might contain dynamics.<sup>24</sup><sup>,</sup><sup>25</sup> Nonetheless, how WM dynamics vary across the cortical hierarchy and which factors drive dynamics remain unknown. To elucidate WM dynamics in humans, we decoded WM content from fMRI responses across multiple cortical visual field maps.<sup>26</sup><sup>,</sup><sup>27</sup><sup>,</sup><sup>28</sup><sup>,</sup><sup>29</sup><sup>,</sup><sup>30</sup><sup>,</sup><sup>31</sup><sup>,</sup><sup>32</sup><sup>,</sup><sup>33</sup><sup>,</sup><sup>34</sup><sup>,</sup><sup>35</sup><sup>,</sup><sup>36</sup><sup>,</sup><sup>37</sup><sup>,</sup><sup>38</sup><sup>,</sup><sup>39</sup><sup>,</sup><sup>40</sup><sup>,</sup><sup>41</sup><sup>,</sup><sup>42</sup><sup>,</sup><sup>43</sup><sup>,</sup><sup>44</sup><sup>,</sup><sup>45</sup><sup>,</sup><sup>46</sup><sup>,</sup><sup>47</sup><sup>,</sup><sup>48</sup> We found coexisting stable and dynamic neural representations of WM during a memory-guided saccade task. Geometric analyses of neural subspaces revealed that early visual cortex exhibited stronger dynamics than high-level visual and frontoparietal cortex. Leveraging models of population receptive fields, we visualized and made the neural dynamics interpretable. We found that during WM delays, V1 population initially encoded a narrowly tuned bump of activation centered on the peripheral memory target. Remarkably, this bump then spread inward toward foveal locations, forming a vector along the trajectory of the forthcoming memory-guided saccade. In other words, the neural code transformed into an abstraction of the stimulus more proximal to memory-guided behavior. Therefore, theories of WM must consider both sensory features and their task-relevant abstractions because changes in the format of memoranda naturally drive neural dynamics.",
+  "authors": [
+    "Li Hsin-Hung",
+    "Curtis Clayton E"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2023",
+  "doi": "10.1016/j.cub.2023.07.067",
+  "mesh": [
+    "Humans",
+    "Animals",
+    "Memory, Short-Term",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Macaca",
+    "Population Dynamics"
+  ]
+}

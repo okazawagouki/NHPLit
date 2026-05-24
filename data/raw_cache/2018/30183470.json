@@ -1,0 +1,23 @@
+{
+  "pmid": "30183470",
+  "title": "Superior colliculus signals decisions rather than confidence: analysis of single neurons.",
+  "abstract": "Recent findings indicate that monkeys can report their confidence in perceptual decisions and that this information is encoded in neurons involved in making decisions, including the lateral intraparietal area (LIP) and the supplementary eye field (SEF). A key issue to consider when studying confidence is that decision accuracy often correlates with confidence reports; when we are performing well, we generally feel more confident. Expanding on work performed in humans, we designed a novel task for monkeys that dissociates perceptual information leading to decisions from perceptual information leading to confidence reports. Using this task, we recently showed that decoded ensemble activity recorded from the superior colliculus (SC) reflected decisions rather than confidence reports. However, our previous population level analysis collapsed over multiple SC neuronal types and therefore left open the possibility that first, individual discharge rates might encode information related to decision confidence, and second, different neuronal cell types within the SC might signal decision confidence independently of decision accuracy. We found that when decision accuracy and decision confidence covaried, modulation occurred primarily in neurons with prelude activity (buildup neurons). However, isolating decision confidence from decision accuracy uncovered that only a few, primarily buildup neurons showed signals correlating uniquely with decision confidence and the effect sizes were very small. Based on this work and our previous work using decoding methods, we conclude that neuronal signals for decision confidence, independent of decision accuracy, are unlikely to exist at the level of single or populations of neurons in the SC. Our results together with other recent work call into question normative models of confidence based on the optimal readout of decision signals. NEW & NOTEWORTHY Models of decision confidence suggest that our sense of confidence is an optimal readout of perceptual decision signals. Here, we report that a subcortical area, the superior colliculus (SC), contains neurons with activity that signal decisions and confidence in a task in which decision accuracy and confidence covary, similar to area lateral intraparietal area in cortex. The signals from SC occur primarily in the neurons with prelude activity (buildup neurons). However, in a task that dissociates decision accuracy from decision confidence, we find that only a few individual neurons express unique signals of confidence. These results call into question normative models of confidence based on optimal readout of perceptual decision signals.",
+  "authors": [
+    "Grimaldi Piercesare",
+    "Cho Seong Hah",
+    "Lau Hakwan",
+    "Basso Michele A"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2018",
+  "doi": "10.1152/jn.00152.2018",
+  "mesh": [
+    "Animals",
+    "Decision Making",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Perception",
+    "Superior Colliculi"
+  ]
+}

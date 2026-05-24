@@ -1,0 +1,21 @@
+{
+  "pmid": "30455621",
+  "title": "Cortical Decoding of Individual Finger Group Motions Using ReFIT Kalman Filter.",
+  "abstract": "<b>Objective:</b> To date, many brain-machine interface (BMI) studies have developed decoding algorithms for neuroprostheses that provide users with precise control of upper arm reaches with some limited grasping capabilities. However, comparatively few have focused on quantifying the performance of precise finger control. Here we expand upon this work by investigating online control of individual finger groups. <b>Approach:</b> We have developed a novel training manipulandum for non-human primate (NHP) studies to isolate the movements of two specific finger groups: index and middle-ring-pinkie (MRP) fingers. We use this device in combination with the ReFIT (Recalibrated Feedback Intention-Trained) Kalman filter to decode the position of each finger group during a single degree of freedom task in two rhesus macaques with Utah arrays in motor cortex. The ReFIT Kalman filter uses a two-stage training approach that improves online control of upper arm tasks with substantial reductions in orbiting time, thus making it a logical first choice for precise finger control. <b>Results:</b> Both animals were able to reliably acquire fingertip targets with both index and MRP fingers, which they did in blocks of finger group specific trials. Decoding from motor signals online, the ReFIT Kalman filter reliably outperformed the standard Kalman filter, measured by bit rate, across all tested finger groups and movements by 31.0 and 35.2%. These decoders were robust when the manipulandum was removed during online control. While index finger movements and middle-ring-pinkie finger movements could be differentiated from each other with 81.7% accuracy across both subjects, the linear Kalman filter was not sufficient for decoding both finger groups together due to significant unwanted movement in the stationary finger, potentially due to co-contraction. <b>Significance:</b> To our knowledge, this is the first systematic and biomimetic separation of digits for continuous online decoding in a NHP as well as the first demonstration of the ReFIT Kalman filter improving the performance of precise finger decoding. These results suggest that novel nonlinear approaches, apparently not necessary for center out reaches or gross hand motions, may be necessary to achieve independent and precise control of individual fingers.",
+  "authors": [
+    "Vaskov Alex K",
+    "Irwin Zachary T",
+    "Nason Samuel R",
+    "Vu Philip P",
+    "Nu Chrono S",
+    "Bullard Autumn J",
+    "Hill Mackenna",
+    "North Naia",
+    "Patil Parag G",
+    "Chestek Cynthia A"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2018",
+  "doi": "10.3389/fnins.2018.00751",
+  "mesh": []
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "30475798",
+  "title": "Comprehensive computational modelling of the development of mammalian cortical connectivity underlying an architectonic type principle.",
+  "abstract": "The architectonic type principle relates patterns of cortico-cortical connectivity to the relative architectonic differentiation of cortical regions. One mechanism through which the observed close relation between cortical architecture and connectivity may be established is the joint development of cortical areas and their connections in developmental time windows. Here, we describe a theoretical exploration of the possible mechanistic underpinnings of the architectonic type principle, by performing systematic computational simulations of cortical development. The main component of our in silico model was a developing two-dimensional cortical sheet, which was gradually populated by neurons that formed cortico-cortical connections. To assess different explanatory mechanisms, we varied the spatiotemporal trajectory of the simulated neurogenesis. By keeping the rules governing axon outgrowth and connection formation constant across all variants of simulated development, we were able to create model variants which differed exclusively by the specifics of when and where neurons were generated. Thus, all differences in the resulting connectivity were due to the variations in spatiotemporal growth trajectories. Our results demonstrated that a prescribed targeting of interareal connection sites was not necessary for obtaining a realistic replication of the experimentally observed relation between connection patterns and architectonic differentiation. Instead, we found that spatiotemporal interactions within the forming cortical sheet were sufficient if a small number of empirically well-grounded assumptions were met, namely planar, expansive growth of the cortical sheet around two points of origin as neurogenesis progressed, stronger architectonic differentiation of cortical areas for later neurogenetic time windows, and stochastic connection formation. Thus, our study highlights a potential mechanism of how relative architectonic differentiation and cortical connectivity become linked during development. We successfully predicted connectivity in two species, cat and macaque, from simulated cortico-cortical connection networks, which further underscored the general applicability of mechanisms through which the architectonic type principle can explain cortical connectivity in terms of the relative architectonic differentiation of cortical regions.",
+  "authors": [
+    "Beul Sarah F",
+    "Goulas Alexandros",
+    "Hilgetag Claus C"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2018",
+  "doi": "10.1371/journal.pcbi.1006550",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Connectome",
+    "Humans",
+    "Mammals",
+    "Neurogenesis"
+  ]
+}

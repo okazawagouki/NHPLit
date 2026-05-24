@@ -1,0 +1,27 @@
+{
+  "pmid": "31050648",
+  "title": "Cerebellar Purkinje cells control eye movements with a rapid rate code that is invariant to spike irregularity.",
+  "abstract": "The rate and temporal pattern of neural spiking each have the potential to influence computation. In the cerebellum, it has been hypothesized that the irregularity of interspike intervals in Purkinje cells affects their ability to transmit information to downstream neurons. Accordingly, during oculomotor behavior in mice and rhesus monkeys, mean irregularity of Purkinje cell spiking varied with mean eye velocity. However, moment-to-moment variations revealed a tight correlation between eye velocity and spike rate, with no additional information conveyed by spike irregularity. Moreover, when spike rate and irregularity were independently controlled using optogenetic stimulation, the eye movements elicited were well-described by a linear population rate code with 3-5 ms temporal precision. Biophysical and random-walk models identified biologically realistic parameter ranges that determine whether spike irregularity influences responses downstream. The results demonstrate cerebellar control of movements through a remarkably rapid rate code, with no evidence for an additional contribution of spike irregularity.",
+  "authors": [
+    "Payne Hannah L",
+    "French Ranran L",
+    "Guo Christine C",
+    "Nguyen-Vu Td Barbara",
+    "Manninen Tiina",
+    "Raymond Jennifer L"
+  ],
+  "journal": "eLife",
+  "year": "2019",
+  "doi": "10.7554/eLife.37102",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Eye Movements",
+    "Macaca mulatta",
+    "Mice",
+    "Optogenetics",
+    "Photic Stimulation",
+    "Purkinje Cells",
+    "Time Factors"
+  ]
+}

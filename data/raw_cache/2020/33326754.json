@@ -1,0 +1,24 @@
+{
+  "pmid": "33326754",
+  "title": "Interaction between neuronal encoding and population dynamics during categorization task switching in parietal cortex.",
+  "abstract": "Primates excel at categorization, a cognitive process for assigning stimuli into behaviorally relevant groups. Categories are encoded in multiple brain areas and tasks, yet it remains unclear how neural encoding and dynamics support cognitive tasks with different demands. We recorded from parietal cortex during flexible switching between categorization tasks with distinct cognitive and motor demands and also studied recurrent neural networks (RNNs) trained on the same tasks. In the one-interval categorization task (OIC), monkeys rapidly reported their decisions with a saccade. In the delayed match-to-category (DMC) task, monkeys decided whether sequentially presented stimuli were categorical matches. Neuronal category encoding generalized across tasks, but categorical encoding was more binary-like in the DMC task and more graded in the OIC task. Furthermore, analysis of trained RNNs supports the hypothesis that binary-like encoding in DMC arises through compression of graded feature encoding by attractor dynamics underlying stimulus maintenance and/or comparison in working memory.",
+  "authors": [
+    "Mohan Krithika",
+    "Zhu Ou",
+    "Freedman David J"
+  ],
+  "journal": "Neuron",
+  "year": "2021",
+  "doi": "10.1016/j.neuron.2020.11.022",
+  "mesh": [
+    "Animals",
+    "Decision Making",
+    "Macaca mulatta",
+    "Male",
+    "Memory, Short-Term",
+    "Neurons",
+    "Parietal Lobe",
+    "Photic Stimulation",
+    "Psychomotor Performance"
+  ]
+}

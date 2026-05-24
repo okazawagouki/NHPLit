@@ -1,0 +1,27 @@
+{
+  "pmid": "41400872",
+  "title": "Analyzing cell-type-specific isoform expression using IsoDiffR and long-read single-cell RNA sequencing.",
+  "abstract": "MOTIVATION: The analysis of RNA isoforms using long-read single-cell RNA sequencing (scRNA-seq) represents a frontier in gene expression research, offering deeper insights beyond traditional gene-level analysis. However, specialized analytical methods tailored for this advanced technology remain scarce, underscoring the urgent need for novel tools to match the rapid pace of its development. RESULTS: Here, we present IsoDiffR, a robust tool designed to identify RNA isoforms with expression patterns that differ from their corresponding genes or major isoforms across cell types, enabling both pairwise and multicell-type comparisons. Using IsoDiffR, we conducted benchmark tests using simulated data and analyzed long-read scRNA-seq data from the corneal limbus of Macaca fascicularis and the human frontal cortex, uncovering previously unrecognized cell-type-specific isoforms that were not detectable using conventional approaches. Additionally, we explored the structural and functional properties of these isoforms, from their nucleotide sequences to their corresponding protein isoforms, revealing their potential biological roles. Our findings offer new perspectives on gene expression regulation at the single-cell level and provide a methodological framework for future investigations of isoform-specific functions in diverse biological contexts. AVAILABILITY AND IMPLEMENTATION: The R package is available on https://github.com/Eveqian98/IsoDiffR.",
+  "authors": [
+    "Chen Hu",
+    "Qian Ye",
+    "Dai Qi",
+    "Zheng Ying-Feng",
+    "Zheng Zhen-Cang",
+    "Shi Zhuo-Xing"
+  ],
+  "journal": "Bioinformatics (Oxford, England)",
+  "year": "2026",
+  "doi": "10.1093/bioinformatics/btaf664",
+  "mesh": [
+    "Single-Cell Analysis",
+    "Animals",
+    "Humans",
+    "Sequence Analysis, RNA",
+    "RNA Isoforms",
+    "Software",
+    "Macaca fascicularis",
+    "Gene Expression Profiling",
+    "Protein Isoforms"
+  ]
+}

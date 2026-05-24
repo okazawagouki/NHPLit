@@ -1,0 +1,29 @@
+{
+  "pmid": "17033688",
+  "title": "Dynamics of changes in blood flow, volume, and oxygenation: implications for dynamic functional magnetic resonance imaging calibration.",
+  "abstract": "Changes in cerebral blood flow (CBF), volume (CBV), and oxygenation (blood-oxygenation level dependent (BOLD)) during functional activation are important for calculating changes in cerebral metabolic rate of oxygen consumption (CMRo2) from calibrated functional MRI (fMRI). An important part of this process is the CBF/CBV relationship, which is signified by a power-law parameter: gamma=ln (1+DeltaCBV/CBV)/ln (1+DeltaCBF/CBF). Because of difficulty in measuring CBF and CBV with MRI, the value of gamma is therefore assumed to be approximately 0.4 from a prior primate study under hypercapnia. For dynamic fMRI calibration, it is important to know if the value of gamma varies after stimulation onset. We measured transient relationships between DeltaCBF, DeltaCBV, and DeltaBOLD by multimodal MRI with temporal resolution of 500 ms (at 7.0 T) from the rat somatosensory cortex during forepaw stimulation, where the stimulus duration ranged from 4 to 32 secs. Changes in CBF and BOLD were measured before the administration of the contrast agent for CBV measurements in the same subjects. We observed that the relationship between DeltaCBF and DeltaCBV varied dynamically from stimulation onset for all stimulus durations. Typically after stimulation onset and at the peak or plateau of the DeltaCBF, the value of gamma ranged between 0.1 and 0.2. However, after stimulation offset, the value of gamma increased to 0.4 primarily because of rapid and slow decays in DeltaCBF and DeltaCBV, respectively. These results suggest caution in using dynamic measurements of DeltaCBF and DeltaBOLD required for calculating DeltaCMRo2 for functional stimulation, when either DeltaCBV has not been accurately measured or a fixed value of gamma during hypercapnia perturbation is used.",
+  "authors": [
+    "Kida Ikuhiro",
+    "Rothman Douglas L",
+    "Hyder Fahmeed"
+  ],
+  "journal": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Blood Volume",
+    "Calibration",
+    "Cerebrovascular Circulation",
+    "Data Interpretation, Statistical",
+    "Foot",
+    "Hypercapnia",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Oxygen",
+    "Physical Stimulation",
+    "Rats",
+    "Rats, Sprague-Dawley",
+    "Somatosensory Cortex"
+  ]
+}

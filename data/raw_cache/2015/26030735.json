@@ -1,0 +1,25 @@
+{
+  "pmid": "26030735",
+  "title": "Measuring Fisher information accurately in correlated neural populations.",
+  "abstract": "Neural responses are known to be variable. In order to understand how this neural variability constrains behavioral performance, we need to be able to measure the reliability with which a sensory stimulus is encoded in a given population. However, such measures are challenging for two reasons: First, they must take into account noise correlations which can have a large influence on reliability. Second, they need to be as efficient as possible, since the number of trials available in a set of neural recording is usually limited by experimental constraints. Traditionally, cross-validated decoding has been used as a reliability measure, but it only provides a lower bound on reliability and underestimates reliability substantially in small datasets. We show that, if the number of trials per condition is larger than the number of neurons, there is an alternative, direct estimate of reliability which consistently leads to smaller errors and is much faster to compute. The superior performance of the direct estimator is evident both for simulated data and for neuronal population recordings from macaque primary visual cortex. Furthermore we propose generalizations of the direct estimator which measure changes in stimulus encoding across conditions and the impact of correlations on encoding and decoding, typically denoted by Ishuffle and Idiag respectively.",
+  "authors": [
+    "Kanitscheider Ingmar",
+    "Coen-Cagli Ruben",
+    "Kohn Adam",
+    "Pouget Alexandre"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2015",
+  "doi": "10.1371/journal.pcbi.1004218",
+  "mesh": [
+    "Animals",
+    "Computational Biology",
+    "Computer Simulation",
+    "Macaca",
+    "Male",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

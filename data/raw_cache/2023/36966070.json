@@ -1,0 +1,34 @@
+{
+  "pmid": "36966070",
+  "title": "Deep-Learning-Based Whole-Lung and Lung-Lesion Quantification Despite Inconsistent Ground Truth: Application to Computerized Tomography in SARS-CoV-2 Nonhuman Primate Models.",
+  "abstract": "RATIONALE AND OBJECTIVES: Animal modeling of infectious diseases such as coronavirus disease 2019 (COVID-19) is important for exploration of natural history, understanding of pathogenesis, and evaluation of countermeasures. Preclinical studies enable rigorous control of experimental conditions as well as pre-exposure baseline and longitudinal measurements, including medical imaging, that are often unavailable in the clinical research setting. Computerized tomography (CT) imaging provides important diagnostic, prognostic, and disease characterization to clinicians and clinical researchers. In that context, automated deep-learning systems for the analysis of CT imaging have been broadly proposed, but their practical utility has been limited. Manual outlining of the ground truth (i.e., lung-lesions) requires accurate distinctions between abnormal and normal tissues that often have vague boundaries and is subject to reader heterogeneity in interpretation. Indeed, this subjectivity is demonstrated as wide inconsistency in manual outlines among experts and from the same expert. The application of deep-learning data-science tools has been less well-evaluated in the preclinical setting, including in nonhuman primate (NHP) models of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection/COVID-19, in which the translation of human-derived deep-learning tools is challenging. The automated segmentation of the whole lung and lung lesions provides a potentially standardized and automated method to detect and quantify disease. MATERIALS AND METHODS: We used deep-learning-based quantification of the whole lung and lung lesions on CT scans of NHPs exposed to SARS-CoV-2. We proposed a novel multi-model ensemble technique to address the inconsistency in the ground truths for deep-learning-based automated segmentation of the whole lung and lung lesions. Multiple models were obtained by training the convolutional neural network (CNN) on different subsets of the training data instead of having a single model using the entire training dataset. Moreover, we employed a feature pyramid network (FPN), a CNN that provides predictions at different resolution levels, enabling the network to predict objects with wide size variations. RESULTS: We achieved an average of 99.4 and 60.2% Dice coefficients for whole-lung and lung-lesion segmentation, respectively. The proposed multi-model FPN outperformed well-accepted methods U-Net (50.5%), V-Net (54.5%), and Inception (53.4%) for the challenging lesion-segmentation task. We show the application of segmentation outputs for longitudinal quantification of lung disease in SARS-CoV-2-exposed and mock-exposed NHPs. CONCLUSION: Deep-learning methods should be optimally characterized for and targeted specifically to preclinical research needs in terms of impact, automation, and dynamic quantification independently from purely clinical applications.",
+  "authors": [
+    "Reza Syed M S",
+    "Chu Winston T",
+    "Homayounieh Fatemeh",
+    "Blain Maxim",
+    "Firouzabadi Fatemeh D",
+    "Anari Pouria Y",
+    "Lee Ji Hyun",
+    "Worwa Gabriella",
+    "Finch Courtney L",
+    "Kuhn Jens H",
+    "Malayeri Ashkan",
+    "Crozier Ian",
+    "Wood Bradford J",
+    "Feuerstein Irwin M",
+    "Solomon Jeffrey"
+  ],
+  "journal": "Academic radiology",
+  "year": "2023",
+  "doi": "10.1016/j.acra.2023.02.027",
+  "mesh": [
+    "Animals",
+    "COVID-19",
+    "Deep Learning",
+    "Lung",
+    "Primates",
+    "SARS-CoV-2",
+    "Tomography, X-Ray Computed"
+  ]
+}

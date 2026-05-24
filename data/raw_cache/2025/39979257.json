@@ -1,0 +1,27 @@
+{
+  "pmid": "39979257",
+  "title": "A neural implementation model of feedback-based motor learning.",
+  "abstract": "Animals use feedback to rapidly correct ongoing movements in the presence of a perturbation. Repeated exposure to a predictable perturbation leads to behavioural adaptation that compensates for its effects. Here, we tested the hypothesis that all the processes necessary for motor adaptation may emerge as properties of a controller that adaptively updates its policy. We trained a recurrent neural network to control its own output through an error-based feedback signal, which allowed it to rapidly counteract external perturbations. Implementing a biologically plausible plasticity rule based on this same feedback signal enabled the network to learn to compensate for persistent perturbations through a trial-by-trial process. The network activity changes during learning matched those from populations of neurons from monkey primary motor cortex - known to mediate both movement correction and motor adaptation - during the same task. Furthermore, our model natively reproduced several key aspects of behavioural studies in humans and monkeys. Thus, key features of trial-by-trial motor adaptation can arise from the internal properties of a recurrent neural circuit that adaptively controls its output based on ongoing feedback.",
+  "authors": [
+    "Feulner Barbara",
+    "Perich Matthew G",
+    "Miller Lee E",
+    "Clopath Claudia",
+    "Gallego Juan A"
+  ],
+  "journal": "Nature communications",
+  "year": "2025",
+  "doi": "10.1038/s41467-024-54738-5",
+  "mesh": [
+    "Animals",
+    "Learning",
+    "Motor Cortex",
+    "Models, Neurological",
+    "Humans",
+    "Neurons",
+    "Adaptation, Physiological",
+    "Macaca mulatta",
+    "Neural Networks, Computer",
+    "Movement"
+  ]
+}

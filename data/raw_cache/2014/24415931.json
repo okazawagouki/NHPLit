@@ -1,0 +1,26 @@
+{
+  "pmid": "24415931",
+  "title": "Communication efficiency and congestion of signal traffic in large-scale brain networks.",
+  "abstract": "The complex connectivity of the cerebral cortex suggests that inter-regional communication is a primary function. Using computational modeling, we show that anatomical connectivity may be a major determinant for global information flow in brain networks. A macaque brain network was implemented as a communication network in which signal units flowed between grey matter nodes along white matter paths. Compared to degree-matched surrogate networks, information flow on the macaque brain network was characterized by higher loss rates, faster transit times and lower throughput, suggesting that neural connectivity may be optimized for speed rather than fidelity. Much of global communication was mediated by a \"rich club\" of hub regions: a sub-graph comprised of high-degree nodes that are more densely interconnected with each other than predicted by chance. First, macaque communication patterns most closely resembled those observed for a synthetic rich club network, but were less similar to those seen in a synthetic small world network, suggesting that the former is a more fundamental feature of brain network topology. Second, rich club regions attracted the most signal traffic and likewise, connections between rich club regions carried more traffic than connections between non-rich club regions. Third, a number of rich club regions were significantly under-congested, suggesting that macaque connectivity actively shapes information flow, funneling traffic towards some nodes and away from others. Together, our results indicate a critical role of the rich club of hub nodes in dynamic aspects of global brain communication.",
+  "authors": [
+    "Mišić Bratislav",
+    "Sporns Olaf",
+    "McIntosh Anthony R"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2014",
+  "doi": "10.1371/journal.pcbi.1003427",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Pathways",
+    "Signal Transduction"
+  ]
+}

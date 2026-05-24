@@ -1,0 +1,34 @@
+{
+  "pmid": "26107954",
+  "title": "Luminance, Colour, Viewpoint and Border Enhanced Disparity Energy Model.",
+  "abstract": "The visual cortex is able to extract disparity information through the use of binocular cells. This process is reflected by the Disparity Energy Model, which describes the role and functioning of simple and complex binocular neuron populations, and how they are able to extract disparity. This model uses explicit cell parameters to mathematically determine preferred cell disparities, like spatial frequencies, orientations, binocular phases and receptive field positions. However, the brain cannot access such explicit cell parameters; it must rely on cell responses. In this article, we implemented a trained binocular neuronal population, which encodes disparity information implicitly. This allows the population to learn how to decode disparities, in a similar way to how our visual system could have developed this ability during evolution. At the same time, responses of monocular simple and complex cells can also encode line and edge information, which is useful for refining disparities at object borders. The brain should then be able, starting from a low-level disparity draft, to integrate all information, including colour and viewpoint perspective, in order to propagate better estimates to higher cortical areas.",
+  "authors": [
+    "Martins Jaime A",
+    "Rodrigues João M F",
+    "du Buf Hans"
+  ],
+  "journal": "PloS one",
+  "year": "2015",
+  "doi": "10.1371/journal.pone.0129908",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Color",
+    "Computer Simulation",
+    "Humans",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurons",
+    "Normal Distribution",
+    "Orientation",
+    "Perception",
+    "Psychophysics",
+    "Vision Disparity",
+    "Vision, Binocular",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Pathways"
+  ]
+}

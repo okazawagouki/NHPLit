@@ -1,0 +1,27 @@
+{
+  "pmid": "21632950",
+  "title": "Suppressive mechanisms in monkey V1 help to solve the stereo correspondence problem.",
+  "abstract": "Neurons encode the depth in stereoscopic images by combining the signals from the receptive fields in the two eyes. Local variations in single images can activate neurons that do not signal the correct disparity (false matches), giving rise to the stereo correspondence problem. We used binocular white-noise stimuli to decompose the responses of monkey primary visual cortex V1 neurons into the elements of a linear-nonlinear model (via spike-triggered covariance analysis). In our population of disparity-selective neurons, we find both excitatory and suppressive elements in many of the neurons. Their binocular receptive fields were aligned in a specific push-pull manner for disparity. We demonstrate that this arrangement reduces the responses to false matches but preserves the responses to true matches. The responses of the cells to the noise stimuli were well explained by a linear summation of the elements, followed by a nonlinearity. This model also explained the shape of independently measured disparity-tuning curves, although it overestimated the response magnitude. This study constitutes the first direct physiological evidence for the contribution of suppressive mechanisms to disparity selectivity. This new mechanism contributes to solving the stereo correspondence problem.",
+  "authors": [
+    "Tanabe Seiji",
+    "Haefner Ralf M",
+    "Cumming Bruce G"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2011",
+  "doi": "10.1523/JNEUROSCI.5000-10.2011",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Depth Perception",
+    "Eye Movements",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neural Inhibition",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

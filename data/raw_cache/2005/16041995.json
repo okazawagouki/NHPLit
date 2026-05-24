@@ -1,0 +1,31 @@
+{
+  "pmid": "16041995",
+  "title": "Statistical encoding model for a primary motor cortical brain-machine interface.",
+  "abstract": "A number of studies of the motor system suggest that the majority of primary motor cortical neurons represent simple movement-related kinematic and dynamic quantities in their time-varying activity patterns. An example of such an encoding relationship is the cosine tuning of firing rate with respect to the direction of hand motion. We present a systematic development of statistical encoding models for movement-related motor neurons using multielectrode array recordings during a two-dimensional (2-D) continuous pursuit-tracking task. Our approach avoids massive averaging of responses by utilizing 2-D normalized occupancy plots, cascaded linear-nonlinear (LN) system models and a method for describing variability in discrete random systems. We found that the expected firing rate of most movement-related motor neurons is related to the kinematic values by a linear transformation, with a significant nonlinear distortion in about 1/3 of the neurons. The measured variability of the neural responses is markedly non-Poisson in many neurons and is well captured by a \"normalized-Gaussian\" statistical model that is defined and introduced here. The statistical model is seamlessly integrated into a nearly-optimal recursive method for decoding movement from neural responses based on a Sequential Monte Carlo filter.",
+  "authors": [
+    "Shoham Shy",
+    "Paninski Liam M",
+    "Fellows Matthew R",
+    "Hatsopoulos Nicholas G",
+    "Donoghue John P",
+    "Normann Richard A"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Cognition",
+    "Electroencephalography",
+    "Evoked Potentials, Motor",
+    "Macaca",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Monte Carlo Method",
+    "Motor Cortex",
+    "Signal Processing, Computer-Assisted",
+    "User-Computer Interface"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "30721881",
+  "title": "Dynamics of motor cortical activity during naturalistic feeding behavior.",
+  "abstract": "OBJECTIVE: The orofacial primary motor cortex (MIo) plays a critical role in controlling tongue and jaw movements during oral motor functions, such as chewing, swallowing and speech. However, the neural mechanisms of MIo during naturalistic feeding are still poorly understood. There is a strong need for a systematic study of motor cortical dynamics during feeding behavior. APPROACH: To investigate the neural dynamics and variability of MIo neuronal activity during naturalistic feeding, we used chronically implanted micro-electrode arrays to simultaneously recorded ensembles of neuronal activity in the MIo of two monkeys (Macaca mulatta) while eating various types of food. We developed a Bayesian nonparametric latent variable model to reveal latent structures of neuronal population activity of the MIo and identify the complex mapping between MIo ensemble spike activity and high-dimensional kinematics. MAIN RESULTS: Rhythmic neuronal firing patterns and oscillatory dynamics are evident in single-unit activity. At the population level, we uncovered the neural dynamics of rhythmic chewing, and quantified the neural variability at multiple timescales (complete feeding sequences, chewing sequence stages, chewing gape cycle phases) across food types. Our approach accommodates time-warping of chewing sequences and automatic model selection, and maps the latent states to chewing behaviors at fine timescales. SIGNIFICANCE: Our work shows that neural representations of MIo ensembles display spatiotemporal patterns in chewing gape cycles at different chew sequence stages, and these patterns vary in a stage-dependent manner. Unsupervised learning and decoding analysis may reveal the link between complex MIo spatiotemporal patterns and chewing kinematics.",
+  "authors": [
+    "Liu Shizhao",
+    "Iriate-Diaz Jose",
+    "Hatsopoulos Nicholas G",
+    "Ross Callum F",
+    "Takahashi Kazutaka",
+    "Chen Zhe"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2019",
+  "doi": "10.1088/1741-2552/ab0474",
+  "mesh": [
+    "Animals",
+    "Deglutition",
+    "Electrodes, Implanted",
+    "Feeding Behavior",
+    "Female",
+    "Macaca mulatta",
+    "Mastication",
+    "Motor Cortex"
+  ]
+}

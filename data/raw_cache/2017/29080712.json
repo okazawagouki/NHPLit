@@ -1,0 +1,28 @@
+{
+  "pmid": "29080712",
+  "title": "Caudal Intraparietal Sulcus and three-dimensional vision: A combined functional magnetic resonance imaging and single-cell study.",
+  "abstract": "The cortical network processing three-dimensional (3D) object structure defined by binocular disparity spans both the ventral and dorsal visual streams. However, very little is known about the neural representation of 3D structure at intermediate levels of the visual hierarchy. Here, we investigated the neural selectivity for 3D surfaces in the macaque Posterior Intraparietal area (PIP) in the medial bank of the caudal intraparietal sulcus (IPS). We first identified a region sensitive to depth-structure information in the medial bank of the caudal IPS using functional Magnetic Resonance Imaging (fMRI), and then recorded single-cell activity within this fMRI activation in the same animals. Most PIP neurons were selective for the 3D orientation of planar surfaces (first-order disparity) at very short latencies, whereas a very small fraction of PIP neurons were selective for curved surfaces (second-order disparity). A linear support vector machine classifier could reliably identify the direction of the disparity gradient in planar and curved surfaces based on the responses of a population of disparity-selective PIP neurons. These results provide the first detailed account of the neuronal properties in area PIP, which occupies an intermediate position in the hierarchy of visual areas involved in processing depth structure from disparity.",
+  "authors": [
+    "Alizadeh Amir-Mohammad",
+    "Van Dromme Ilse",
+    "Verhoef Bram-Ernst",
+    "Janssen Peter"
+  ],
+  "journal": "NeuroImage",
+  "year": "2018",
+  "doi": "10.1016/j.neuroimage.2017.10.045",
+  "mesh": [
+    "Animals",
+    "Depth Perception",
+    "Electrocorticography",
+    "Female",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Neurons",
+    "Parietal Lobe",
+    "Patch-Clamp Techniques",
+    "Vision Disparity",
+    "Visual Cortex"
+  ]
+}

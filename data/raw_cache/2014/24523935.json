@@ -1,0 +1,32 @@
+{
+  "pmid": "24523935",
+  "title": "Neural correlates of temporal credit assignment in the parietal lobe.",
+  "abstract": "Empirical studies of decision making have typically assumed that value learning is governed by time, such that a reward prediction error arising at a specific time triggers temporally-discounted learning for all preceding actions. However, in natural behavior, goals must be acquired through multiple actions, and each action can have different significance for the final outcome. As is recognized in computational research, carrying out multi-step actions requires the use of credit assignment mechanisms that focus learning on specific steps, but little is known about the neural correlates of these mechanisms. To investigate this question we recorded neurons in the monkey lateral intraparietal area (LIP) during a serial decision task where two consecutive eye movement decisions led to a final reward. The underlying decision trees were structured such that the two decisions had different relationships with the final reward, and the optimal strategy was to learn based on the final reward at one of the steps (the \"F\" step) but ignore changes in this reward at the remaining step (the \"I\" step). In two distinct contexts, the F step was either the first or the second in the sequence, controlling for effects of temporal discounting. We show that LIP neurons had the strongest value learning and strongest post-decision responses during the transition after the F step regardless of the serial position of this step. Thus, the neurons encode correlates of temporal credit assignment mechanisms that allocate learning to specific steps independently of temporal discounting.",
+  "authors": [
+    "Gersch Timothy M",
+    "Foley Nicholas C",
+    "Eisenberg Ian",
+    "Gottlieb Jacqueline"
+  ],
+  "journal": "PloS one",
+  "year": "2014",
+  "doi": "10.1371/journal.pone.0088725",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Computer Simulation",
+    "Decision Making",
+    "Decision Trees",
+    "Eye Movements",
+    "Learning",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Parietal Lobe",
+    "Psychomotor Performance",
+    "Reproducibility of Results",
+    "Reward",
+    "Time Factors"
+  ]
+}

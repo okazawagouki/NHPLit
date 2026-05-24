@@ -1,0 +1,21 @@
+{
+  "pmid": "29570078",
+  "title": "Axonal Channel Capacity in Neuro-Spike Communication.",
+  "abstract": "Novel nano-scale communication techniques are inspired by biological systems. Neuro-spike communication is an example of this communication paradigm which transfers vital information about external and internal conditions of the body through the nervous system. The analysis of this communication paradigm is beneficial to exploit in the artificial neural systems where nano-machines are linked to neurons to treat the neurodegenerative diseases. In these networks, nano-machines are used to replace the damaged segments of the nervous system and they exactly behave like biological entities. In neuro-spike communication, neurons / nano-machines exploit the electro-chemical spikes and molecular communication to transfer information. This communication paradigm can be divided into three main parts, namely the axonal pathway, the synaptic transmission, and the spike generation. In this paper, we focus on the axonal transmission part as a separate channel since the capacity of the axonal pathway has a significant effect on the capacity of neuro-spike communication channel. In thinner axons, the capacity of this part is the bottleneck of the neuro-spike communication channel capacity. Hence, we investigate the restricting factors of the axonal transmission which limit its capacity. We derive the capacity of single-input single-output and multiple-input single-output (MISO) axonal channels. In the MISO case, we investigate the effect of the correlation among inputs on the channel capacity. Moreover, we derive a closed form description for the optimum value of the input spike rate to maximize the capacity of the axonal channel when the information is encoded by firing rate of neurons / nano-machines.",
+  "authors": [
+    "Aghababaiyan Keyvan",
+    "Shah-Mansouri Vahid",
+    "Maham Behrouz"
+  ],
+  "journal": "IEEE transactions on nanobioscience",
+  "year": "2018",
+  "doi": "10.1109/TNB.2018.2800899",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Axons",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons"
+  ]
+}

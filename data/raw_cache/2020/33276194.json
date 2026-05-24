@@ -1,0 +1,30 @@
+{
+  "pmid": "33276194",
+  "title": "Episodic memory governs choices: An RNN-based reinforcement learning model for decision-making task.",
+  "abstract": "Typical methods to study cognitive function are to record the electrical activities of animal neurons during the training of animals performing behavioral tasks. A key problem is that they fail to record all the relevant neurons in the animal brain. To alleviate this problem, we develop an RNN-based Actor-Critic framework, which is trained through reinforcement learning (RL) to solve two tasks analogous to the monkeys' decision-making tasks. The trained model is capable of reproducing some features of neural activities recorded from animal brain, or some behavior properties exhibited in animal experiments, suggesting that it can serve as a computational platform to explore other cognitive functions. Furthermore, we conduct behavioral experiments on our framework, trying to explore an open question in neuroscience: which episodic memory in the hippocampus should be selected to ultimately govern future decisions. We find that the retrieval of salient events sampled from episodic memories can effectively shorten deliberation time than common events in the decision-making process. The results indicate that salient events stored in the hippocampus could be prioritized to propagate reward information, and thus allow decision-makers to learn a strategy faster.",
+  "authors": [
+    "Zhang Xiaohan",
+    "Liu Lu",
+    "Long Guodong",
+    "Jiang Jing",
+    "Liu Shenquan"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2021",
+  "doi": "10.1016/j.neunet.2020.11.003",
+  "mesh": [
+    "Animals",
+    "Cognition",
+    "Decision Making",
+    "Haplorhini",
+    "Hippocampus",
+    "Humans",
+    "Learning",
+    "Male",
+    "Memory, Episodic",
+    "Neurons",
+    "Reaction Time",
+    "Reinforcement, Psychology",
+    "Reward"
+  ]
+}

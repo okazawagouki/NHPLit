@@ -1,0 +1,19 @@
+{
+  "pmid": "2795160",
+  "title": "Integration of distributed cortical systems by reentry: a computer simulation of interactive functionally segregated visual areas.",
+  "abstract": "A computer model based on visual cortex has been constructed to analyze how the operations of multiple, functionally segregated cortical areas can be coordinated and integrated to yield a unified perceptual response. We propose that cortical integration arises through the process of reentry--the ongoing, parallel, recursive signaling between separate maps along ordered anatomical connections. To test the efficacy of this reentrant cortical integration (RCI) model, we have carried out detailed computer simulations of 3 interconnected cortical areas in the striate and extrastriate cortex of the macaque. The simulated networks contained a total of over 222,000 units and 8.5 million connections. The 3 modeled areas, called VOR, VOC, and VMO, incorporate major anatomical and physiological properties of cortical areas V1, V3, and V5 but are vastly simplified compared with monkey visual cortex. Simulated area VOR contains both orientation and directionally selective units; simulated area VMO discriminates the direction of motion of arbitrarily oriented objects; and simulated area VOC responds to both luminance and occlusion boundaries in the stimulus. Area VOC is able to respond to illusory contours (Kanizsa, 1979) by means of the same neural architecture used for the discrimination of occlusion boundaries. This architecture also generates responses to structure-from-motion by virtue of reentrant connections from VMO to VOC. The responses of the simulated networks to these illusions are consistent with the perceptual responses of humans and other species presented with these stimuli. The networks also respond in a consistent manner to a novel illusion that combines illusory contours and structure-from-motion. The response synthesized to this combined illusion provides a strong argument supporting the need for a recursive reentrant process in the cortex. Functional integration of the simulated areas in the RCI model were found to depend upon the combined action of 3 reentrant processes: (1) conflicting responses among segregated areas are competitively eliminated, (2) outputs of each area are used by other areas in their own operations, and (3) outputs of an area are \"reentered\" back to itself (through lower areas) and can thus be used iteratively to synthesize responses to complex or illusory stimuli. Transection of the reentrant connections selectively abolished these integrative processes and led to failure of figural synthesis. The proposed model of reentry suggests a basis for understanding how multiple visual areas as well as other cortical areas may be integrated within a distributed system.",
+  "authors": [
+    "Finkel L H",
+    "Edelman G M"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1989",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Models, Neurological",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

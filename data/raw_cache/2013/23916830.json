@@ -1,0 +1,24 @@
+{
+  "pmid": "23916830",
+  "title": "Saliency-guided neural prosthesis for visual attention: design and simulation.",
+  "abstract": "Recently the authors showed that a computational model of visual saliency could account for changes in gaze behavior of monkeys with damage in the primary visual cortex. Here we propose a neural prosthesis to restore eye gaze behavior by electrically stimulating the superior colliculus to drive visual attention. The saliency computational model is used to calculate the stimulation parameters from a real-time camera stream. Our simulations demonstrate that electrodes implanted in the superior colliculus at 1.0mm spacing are, in principle, able to recover specifically those visual attention behaviors which are lost when the primary visual cortex is damaged.",
+  "authors": [
+    "Yoshida Masatoshi",
+    "Veale Richard"
+  ],
+  "journal": "Neuroscience research",
+  "year": "2014",
+  "doi": "10.1016/j.neures.2013.07.007",
+  "mesh": [
+    "Attention",
+    "Computer Simulation",
+    "Electric Stimulation Therapy",
+    "Eye Movements",
+    "Humans",
+    "Models, Neurological",
+    "Neural Prostheses",
+    "Superior Colliculi",
+    "Vision Disorders",
+    "Visual Perception"
+  ]
+}

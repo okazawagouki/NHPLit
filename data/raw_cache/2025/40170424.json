@@ -1,0 +1,22 @@
+{
+  "pmid": "40170424",
+  "title": "A Heterogeneous Attractor Model for Neural Dynamical Mechanism of Movement Preparation.",
+  "abstract": "Preparatory activity is crucial for voluntary motor control, reducing reaction time and enhancing precision. To understand the neurodynamic mechanisms behind this, we construct a dynamical model within the motor cortex, which comprises coupled heterogeneous attractors to simulate delayed reaching tasks. This model replicates the neural activity patterns observed in the macaque motor cortex, within distinct attractor spaces for preparatory and executive activities. It can capture the transition from preparation to execution through shifts in an orthogonal subspace combined with a thresholding mechanism. Results show that the preparation duration modulates behavioral accuracy, with optimal preparation intervals enhancing performance. External inputs primarily shape the preparatory activity, while synaptic connections dominate execution. Our analysis of the network's multi-stable dynamics reveals that external inputs reshape the stable points of the heterogeneous attractor modules both before and after preparation, while synaptic strength affects dynamical stability and input sensitivity, allowing rapid and precise actions. Additionally, sensitivity to external perturbations decreases as preparatory time increases, emphasizing the importance of external inputs during preparation. Overall, this study provides insights into the neurodynamic mechanisms underlying the transition from motor preparation to execution and underscores the significance of preparatory activity for accurate motor control.",
+  "authors": [
+    "Yin Lining",
+    "Cui Lanyun",
+    "Yu Ying",
+    "Wang Qingyun"
+  ],
+  "journal": "International journal of neural systems",
+  "year": "2025",
+  "doi": "10.1142/S0129065725500194",
+  "mesh": [
+    "Motor Cortex",
+    "Models, Neurological",
+    "Animals",
+    "Movement",
+    "Psychomotor Performance",
+    "Reaction Time"
+  ]
+}

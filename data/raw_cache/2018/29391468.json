@@ -1,0 +1,26 @@
+{
+  "pmid": "29391468",
+  "title": "Deep brain stimulation induces sparse distributions of locally modulated neuronal activity.",
+  "abstract": "Deep brain stimulation (DBS) therapy is a potent tool for treating a range of brain disorders. High frequency stimulation (HFS) patterns used in DBS therapy are known to modulate neuronal spike rates and patterns in the stimulated nucleus; however, the spatial distribution of these modulated responses are not well understood. Computational models suggest that HFS modulates a volume of tissue spatially concentrated around the active electrode. Here, we tested this theory by investigating modulation of spike rates and patterns in non-human primate motor thalamus while stimulating the cerebellar-receiving area of motor thalamus, the primary DBS target for treating Essential Tremor. HFS inhibited spike activity in the majority of recorded cells, but increasing stimulation amplitude also shifted the response to a greater degree of spike pattern modulation. Modulated responses in both categories exhibited a sparse and long-range spatial distribution within motor thalamus, suggesting that stimulation preferentially affects afferent and efferent axonal processes traversing near the active electrode and that the resulting modulated volume strongly depends on the local connectome of these axonal processes. Such findings have important implications for current clinical efforts building predictive computational models of DBS therapy, developing directional DBS lead technology, and formulating closed-loop DBS strategies.",
+  "authors": [
+    "Xiao YiZi",
+    "Agnesi Filippo",
+    "Bello Edward M",
+    "Zhang Simeng",
+    "Vitek Jerrold L",
+    "Johnson Matthew D"
+  ],
+  "journal": "Scientific reports",
+  "year": "2018",
+  "doi": "10.1038/s41598-018-20428-8",
+  "mesh": [
+    "Animals",
+    "Cerebellum",
+    "Deep Brain Stimulation",
+    "Evoked Potentials",
+    "Female",
+    "Macaca mulatta",
+    "Neurons",
+    "Thalamus"
+  ]
+}

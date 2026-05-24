@@ -1,0 +1,30 @@
+{
+  "pmid": "24899713",
+  "title": "Identification of optimal structural connectivity using functional connectivity and neural modeling.",
+  "abstract": "The complex network dynamics that arise from the interaction of the brain's structural and functional architectures give rise to mental function. Theoretical models demonstrate that the structure-function relation is maximal when the global network dynamics operate at a critical point of state transition. In the present work, we used a dynamic mean-field neural model to fit empirical structural connectivity (SC) and functional connectivity (FC) data acquired in humans and macaques and developed a new iterative-fitting algorithm to optimize the SC matrix based on the FC matrix. A dramatic improvement of the fitting of the matrices was obtained with the addition of a small number of anatomical links, particularly cross-hemispheric connections, and reweighting of existing connections. We suggest that the notion of a critical working point, where the structure-function interplay is maximal, may provide a new way to link behavior and cognition, and a new perspective to understand recovery of function in clinical conditions.",
+  "authors": [
+    "Deco Gustavo",
+    "McIntosh Anthony R",
+    "Shen Kelly",
+    "Hutchison R Matthew",
+    "Menon Ravi S",
+    "Everling Stefan",
+    "Hagmann Patric",
+    "Jirsa Viktor K"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2014",
+  "doi": "10.1523/JNEUROSCI.4423-13.2014",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Humans",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Pathways",
+    "Neurons",
+    "Nonlinear Dynamics"
+  ]
+}

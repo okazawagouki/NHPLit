@@ -1,0 +1,30 @@
+{
+  "pmid": "31004711",
+  "title": "Open-source pipeline for multi-class segmentation of the spinal cord with deep learning.",
+  "abstract": "This paper presents an open-source pipeline to train neural networks to segment structures of interest from MRI data. The pipeline is tailored towards homogeneous datasets and requires relatively low amounts of manual segmentations (few dozen, or less depending on the homogeneity of the dataset). Two use-case scenarios for segmenting the spinal cord white and grey matter are presented: one in marmosets with variable numbers of lesions, and the other in the publicly available human grey matter segmentation challenge [1]. The pipeline is freely available at: https://github.com/neuropoly/multiclass-segmentation.",
+  "authors": [
+    "Paugam François",
+    "Lefeuvre Jennifer",
+    "Perone Christian S",
+    "Gros Charley",
+    "Reich Daniel S",
+    "Sati Pascal",
+    "Cohen-Adad Julien"
+  ],
+  "journal": "Magnetic resonance imaging",
+  "year": "2019",
+  "doi": "10.1016/j.mri.2019.04.009",
+  "mesh": [
+    "Animals",
+    "Callithrix",
+    "Deep Learning",
+    "Gray Matter",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Magnetic Resonance Imaging",
+    "Models, Animal",
+    "Neural Networks, Computer",
+    "Spinal Cord",
+    "White Matter"
+  ]
+}

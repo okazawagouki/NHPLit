@@ -1,0 +1,37 @@
+{
+  "pmid": "35026227",
+  "title": "Deep brain stimulation electrode modeling in rats.",
+  "abstract": "Deep Brain Stimulation (DBS) is an efficacious treatment option for an increasing range of brain disorders. To enhance our knowledge about the mechanisms of action of DBS and to probe novel targets, basic research in animal models with DBS is an essential research base. Beyond nonhuman primate, pig, and mouse models, the rat is a widely used animal model for probing DBS effects in basic research. Reconstructing DBS electrode placement after surgery is crucial to associate observed effects with modulating a specific target structure. Post-mortem histology is a commonly used method for reconstructing the electrode location. In humans, however, neuroimaging-based electrode localizations have become established. For this reason, we adapt the open-source software pipeline Lead-DBS for DBS electrode localizations from humans to the rat model. We validate our localization results by inter-rater concordance and a comparison with the conventional histological method. Finally, using the open-source software pipeline OSS-DBS, we demonstrate the subject-specific simulation of the VTA and the activation of axon models aligned to pathways representing neuronal fibers, also known as the pathway activation model. Both activation models yield a characterization of the impact of DBS on the target area. Our results suggest that the proposed neuroimaging-based method can precisely localize DBS electrode placements that are essentially rater-independent and yield results comparable to the histological gold standard. The advantages of neuroimaging-based electrode localizations are the possibility of acquiring them in vivo and combining electrode reconstructions with advanced imaging metrics, such as those obtained from diffusion or functional magnetic resonance imaging (MRI). This paper introduces a freely available open-source pipeline for DBS electrode reconstructions in rats. The presented initial validation results are promising.",
+  "authors": [
+    "Andree Andrea",
+    "Li Ningfei",
+    "Butenko Konstantin",
+    "Kober Maria",
+    "Chen Jia Zhi",
+    "Higuchi Takahiro",
+    "Fauser Mareike",
+    "Storch Alexander",
+    "Ip Chi Wang",
+    "Kühn Andrea A",
+    "Horn Andreas",
+    "van Rienen Ursula"
+  ],
+  "journal": "Experimental neurology",
+  "year": "2022",
+  "doi": "10.1016/j.expneurol.2022.113978",
+  "mesh": [
+    "Animals",
+    "Axons",
+    "Deep Brain Stimulation",
+    "Electrodes, Implanted",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Models, Animal",
+    "Models, Neurological",
+    "Neuroimaging",
+    "Rats",
+    "Reproducibility of Results",
+    "Software",
+    "Ventral Tegmental Area"
+  ]
+}

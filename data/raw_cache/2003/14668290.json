@@ -1,0 +1,31 @@
+{
+  "pmid": "14668290",
+  "title": "A neural network model of flexible spatial updating.",
+  "abstract": "Neurons in many cortical areas involved in visuospatial processing represent remembered spatial information in retinotopic coordinates. During a gaze shift, the retinotopic representation of a target location that is fixed in the world (world-fixed reference frame) must be updated, whereas the representation of a target fixed relative to the center of gaze (gaze-fixed) must remain constant. To investigate how such computations might be performed, we trained a 3-layer recurrent neural network to store and update a spatial location based on a gaze perturbation signal, and to do so flexibly based on a contextual cue. The network produced an accurate readout of target position when cued to either reference frame, but was less precise when updating was performed. This output mimics the pattern of behavior seen in animals performing a similar task. We tested whether updating would preferentially use gaze position or gaze velocity signals, and found that the network strongly preferred velocity for updating world-fixed targets. Furthermore, we found that gaze position gain fields were not present when velocity signals were available for updating. These results have implications for how updating is performed in the brain.",
+  "authors": [
+    "White Robert L",
+    "Snyder Lawrence H"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Discrimination, Psychological",
+    "Distance Perception",
+    "Eye Movements",
+    "Fixation, Ocular",
+    "Head Movements",
+    "Macaca mulatta",
+    "Memory",
+    "Neural Networks, Computer",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "ROC Curve",
+    "Space Perception",
+    "Spatial Behavior",
+    "Time Factors",
+    "Visual Fields"
+  ]
+}

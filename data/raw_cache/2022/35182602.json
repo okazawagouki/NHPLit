@@ -1,0 +1,26 @@
+{
+  "pmid": "35182602",
+  "title": "Spectrum dependency to rate and spike timing in neuronal spike trains.",
+  "abstract": "BACKGROUND: Spike trains are series of interspike intervals in a specific order that can be characterized by their probability distributions and order in time which refer to the concepts of rate and spike timing features. Periodic structure in the spike train can be reflected in oscillatory activities. Thus, there is a direct link between oscillator activities and the spike train. The proposed methods are to investigate the dependency of emerging oscillatory activities to the rate and the spike timing features. METHOD: First, the circular statistics methods were compared to Fast Fourier Transform for best estimation of spectra. Second, two statistical tests were introduced to help make decisions regarding the dependency of spectrum, or individual frequencies, onto rate and spike timing. Third, the methodology is applied to in-vivo recordings of basal ganglia neurons in mouse, primate, and human. Finally, this novel framework is shown to allow the investigation of subsets of spikes contributing to individual oscillators. RESULTS: Use of circular statistical methods, in comparison to FFT, minimizes spectral leakage. Using virtual spike trains, the Rate versus Timing Dependency Spectrum Test (or RTDs-Test) permits identifying spectral spike trains solely dependent on the rate feature from those that are also dependent on the spike timing feature. Similarly, the Rate versus Timing Dependency Frequency Test (or RTDf-Test), allows to identify individual oscillators with partial dependency on spike timing. Dependency on spike timing was found for all in-vivo recordings but only in few frequencies. The mapping in frequency and time of dependencies showed a dynamical process that may be organizing the basal ganglia function. CONCLUSIONS: The methodology may improve our understanding of the emergence of oscillatory activities and, possibly, the relation between oscillatory activities and circuitry functions.",
+  "authors": [
+    "Darbin Olivier",
+    "Indriani Dwi Wahyu",
+    "Ardalan Adel",
+    "Eghbalnia Hamid R",
+    "Assadi Amir",
+    "Nambu Atsushi",
+    "Montgomery Erwin"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2022",
+  "doi": "10.1016/j.jneumeth.2022.109532",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Basal Ganglia",
+    "Mice",
+    "Models, Neurological",
+    "Neurons",
+    "Probability"
+  ]
+}

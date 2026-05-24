@@ -1,0 +1,32 @@
+{
+  "pmid": "25661183",
+  "title": "A neural implementation of Wald's sequential probability ratio test.",
+  "abstract": "Difficult decisions often require evaluation of samples of evidence acquired sequentially. A sensible strategy is to accumulate evidence, weighted by its reliability, until sufficient support is attained. An optimal statistical approach would accumulate evidence in units of logarithms of likelihood ratios (logLR) to a desired level. Studies of perceptual decisions suggest that the brain approximates an analogous procedure, but a direct test of accumulation, in units of logLR, to a threshold in units of cumulative logLR is lacking. We trained rhesus monkeys to make decisions based on a sequence of evanescent, visual cues assigned different logLR, hence different reliability. Firing rates of neurons in the lateral intraparietal area (LIP) reflected the accumulation of logLR and reached a stereotyped level before the monkeys committed to a decision. The monkeys' choices and reaction times, including their variability, were explained by LIP activity in the context of accumulation of logLR to a threshold.",
+  "authors": [
+    "Kira Shinichiro",
+    "Yang Tianming",
+    "Shadlen Michael N"
+  ],
+  "journal": "Neuron",
+  "year": "2015",
+  "doi": "10.1016/j.neuron.2015.01.007",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Choice Behavior",
+    "Discrimination, Psychological",
+    "Logistic Models",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Probability",
+    "Psychophysics",
+    "Reaction Time",
+    "Reproducibility of Results"
+  ]
+}

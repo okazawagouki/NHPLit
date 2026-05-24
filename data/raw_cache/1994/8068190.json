@@ -1,0 +1,19 @@
+{
+  "pmid": "8068190",
+  "title": "Neural network approaches to visual motion perception.",
+  "abstract": "This paper concerns certain difficult problems in image processing and perception: neurocomputation of visual motion information. The first part of this paper deals with the spatial physiological integration by the figure-ground discrimination neural network in the visual system of the fly. We have outlined the fundamental organization and algorithms of this neural network, and mainly concentrated on the results of computer simulations of spatial physiological integration. It has been shown that the gain control mechanism, the nonlinearity of synaptic transmission characteristic, the interaction between the two eyes, and the directional selectivity of the pool cells play decisive roles in the spatial physiological integration. In the second part, we have presented a self-organizing neural network for the perception of visual motion by using a retinotopic array of Reichardt's motion detectors and Kohonen's self-organizing maps. It has been demonstrated by computer simulations that the network is able to learn to solve the ambiguities given by local motion detection mechanism. The resultant self-organized configuration in the output layer is resembling direction selective columns which first appear in area MT of the primate visual system. It has been explored that the spatio-temporal coherences, mapping, cooperation, competition, and Hebb rule are the basic neural principles for visual motion perception.",
+  "authors": [
+    "Guo A K",
+    "Yang X Y"
+  ],
+  "journal": "Science in China. Series B, Chemistry, life sciences & earth sciences",
+  "year": "1994",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Humans",
+    "Motion Perception",
+    "Neural Networks, Computer"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "pmid": "34880741",
+  "title": "Biologically Inspired Deep Learning Model for Efficient Foveal-Peripheral Vision.",
+  "abstract": "While abundant in biology, foveated vision is nearly absent from computational models and especially deep learning architectures. Despite considerable hardware improvements, training deep neural networks still presents a challenge and constraints complexity of models. Here we propose an end-to-end neural model for foveal-peripheral vision, inspired by retino-cortical mapping in primates and humans. Our model has an efficient sampling technique for compressing the visual signal such that a small portion of the scene is perceived in high resolution while a large field of view is maintained in low resolution. An attention mechanism for performing \"eye-movements\" assists the agent in collecting detailed information incrementally from the observed scene. Our model achieves comparable results to a similar neural architecture trained on full-resolution data for image classification and outperforms it at video classification tasks. At the same time, because of the smaller size of its input, it can reduce computational effort tenfold and uses several times less memory. Moreover, we present an easy to implement bottom-up and top-down attention mechanism which relies on task-relevant features and is therefore a convenient byproduct of the main architecture. Apart from its computational efficiency, the presented work provides means for exploring active vision for agent training in simulated environments and anthropomorphic robotics.",
+  "authors": [
+    "Lukanov Hristofor",
+    "König Peter",
+    "Pipa Gordon"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2021",
+  "doi": "10.3389/fncom.2021.746204",
+  "mesh": []
+}

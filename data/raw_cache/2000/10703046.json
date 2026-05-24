@@ -1,0 +1,29 @@
+{
+  "pmid": "10703046",
+  "title": "Anatomical connectivity defines the organization of clusters of cortical areas in the macaque monkey and the cat.",
+  "abstract": "The number of different cortical structures in mammalian brains and the number of extrinsic fibres linking these regions are both large. As with any complex system, systematic analysis is required to draw reliable conclusions about the organization of the complex neural networks comprising these numerous elements. One aspect of organization that has long been suspected is that cortical networks are organized into 'streams' or 'systems'. Here we report computational analyses capable of showing whether clusters of strongly interconnected areas are aspects of the global organization of cortical systems in macaque and cat. We used two different approaches to analyse compilations of corticocortical connection data from the macaque and the cat. The first approach, optimal set analysis, employed an explicit definition of a neural 'system' or 'stream', which was based on differential connectivity. We defined a two-component cost function that described the cost of the global cluster arrangement of areas in terms of the areas' connectivity within and between candidate clusters. Optimal cluster arrangements of cortical areas were then selected computationally from the very many possible arrangements, using an evolutionary optimization algorithm. The second approach, non-parametric cluster analysis (NPCA), grouped cortical areas on the basis of their proximity in multidimensional scaling representations. We used non-metric multidimensional scaling to represent the cortical connectivity structures metrically in two and five dimensions. NPCA then analysed these representations to determine the nature of the clusters for a wide range of different cluster shape parameters. The results from both approaches largely agreed. They showed that macaque and cat cortices are organized into densely intra-connected clusters of areas, and identified the constituent members of the clusters. These clusters reflected functionally specialized sets of cortical areas, suggesting that structure and function are closely linked at this gross, systems level.",
+  "authors": [
+    "Hilgetag C C",
+    "Burns G A",
+    "O'Neill M A",
+    "Scannell J W",
+    "Young M P"
+  ],
+  "journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biological Evolution",
+    "Cats",
+    "Cluster Analysis",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Reproducibility of Results",
+    "Somatosensory Cortex",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

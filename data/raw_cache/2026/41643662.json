@@ -1,0 +1,23 @@
+{
+  "pmid": "41643662",
+  "title": "A neural circuit framework for economic choice: From building blocks of valuation to compositionality in multitasking.",
+  "abstract": "Value-guided decisions are a cornerstone of cognition, yet the underlying circuit-level mechanisms remain elusive. We used reinforcement learning to train recurrent neural network models endowed with Dale's law on a battery of economic choice tasks, which revealed a two-stage computational framework. First, value estimation occurs at the input level, where learned weights store subjective preferences and approximate the non-linear multiplication of reward magnitude and probability to yield expected values. This feedforward mechanism enables generalization to novel choice options. Second, option values are compared within the recurrent network, where specific connectivity patterns mediate robust winner-take-all decisions, with both excitatory and inhibitory neurons exhibiting value and choice selectivity. By training a single network on multiple tasks, we show compositional representations combining a shared computational schema with specialized neural modules. Reproducing key neurophysiological findings from the primate orbitofrontal cortex, our model unifies value computation, comparison, and generalization into a coherent framework with testable predictions.",
+  "authors": [
+    "Battista Aldo",
+    "Padoa-Schioppa Camillo",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Neuron",
+  "year": "2026",
+  "doi": "10.1016/j.neuron.2025.12.010",
+  "mesh": [
+    "Choice Behavior",
+    "Neural Networks, Computer",
+    "Animals",
+    "Reward",
+    "Reinforcement, Psychology",
+    "Models, Neurological",
+    "Neurons",
+    "Nerve Net"
+  ]
+}

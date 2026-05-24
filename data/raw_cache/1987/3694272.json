@@ -1,0 +1,20 @@
+{
+  "pmid": "3694272",
+  "title": "Plasticity in the organization of adult cerebral cortical maps: a computer simulation based on neuronal group selection.",
+  "abstract": "Recent experimental evidence from the somatosensory, auditory, and visual systems documents the existence of functional plasticity in topographic map organization in adult animals. This evidence suggests that an ongoing competitive organizing process controls the locations of map borders and the receptive field properties of neurons. A computer model based on the process of neuronal group selection has been constructed that accounts for reported results on map plasticity in somatosensory cortex. The simulations construct a network of locally connected excitatory and inhibitory cells that receives topographic projections from 2 receptor sheets corresponding to the glabrous and dorsal surfaces of the hand (a typical simulation involves approximately 1500 cells, 70,000 intrinsic and 100,000 extrinsic connections). Both intrinsic and extrinsic connections undergo activity-dependent modifications according to a synaptic rule based on heterosynaptic interactions. Repeated stimulation of the receptor sheet resulted in the formation of neuronal groups-local sets of strongly interconnected neurons in the network. Cells in most groups were found to have similar receptive fields: they were exclusively glabrous or dorsal despite equal numbers of anatomical connections from both surfaces. The sharpness of map borders was due to the sharpness of the underlying group structure; shifts in the locations of these borders resulted from competition between groups. Following perturbations of the input, the network underwent changes similar to those observed experimentally in monkey somatosensory cortex. Repeated local tapping on the receptor sheet resulted in a large increase in the magnification factor of the stimulated region. Transection of the connections from a glabrous region resulted in the organization of a new representation of corresponding dorsal region. The detailed simulations provide several insights into the mechanisms of such changes, as well as a series of predictions about cortical behavior for further experimental test.",
+  "authors": [
+    "Pearson J C",
+    "Finkel L H",
+    "Edelman G M"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1987",
+  "doi": "",
+  "mesh": [
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Neurons",
+    "Synapses"
+  ]
+}

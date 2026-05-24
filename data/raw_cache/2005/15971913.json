@@ -1,0 +1,29 @@
+{
+  "pmid": "15971913",
+  "title": "Visual learning by imitation with motor representations.",
+  "abstract": "We propose a general architecture for action (mimicking) and program (gesture) level visual imitation. Action-level imitation involves two modules. The viewpoint Transformation (VPT) performs a \"rotation\" to align the demonstrator's body to that of the learner. The Visuo-Motor Map (VMM) maps this visual information to motor data. For program-level (gesture) imitation, there is an additional module that allows the system to recognize and generate its own interpretation of observed gestures to produce similar gestures/goals at a later stage. Besides the holistic approach to the problem, our approach differs from traditional work in i) the use of motor information for gesture recognition; ii) usage of context (e.g., object affordances) to focus the attention of the recognition system and reduce ambiguities, and iii) use iconic image representations for the hand, as opposed to fitting kinematic models to the video sequence. This approach is motivated by the finding of visuomotor neurons in the F5 area of the macaque brain that suggest that gesture recognition/imitation is performed in motor terms (mirror) and rely on the use of object affordances (canonical) to handle ambiguous actions. Our results show that this approach can outperform more conventional (e.g., pure visual) methods.",
+  "authors": [
+    "Lopes Manuel",
+    "Santos-Victor José"
+  ],
+  "journal": "IEEE transactions on systems, man, and cybernetics. Part B, Cybernetics : a publication of the IEEE Systems, Man, and Cybernetics Society",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Artificial Intelligence",
+    "Biomimetics",
+    "Bionics",
+    "Computer Simulation",
+    "Hand",
+    "Hand Strength",
+    "Humans",
+    "Image Interpretation, Computer-Assisted",
+    "Models, Biological",
+    "Motor Skills",
+    "Movement",
+    "Pattern Recognition, Automated",
+    "Robotics",
+    "Vision, Ocular"
+  ]
+}

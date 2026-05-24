@@ -1,0 +1,26 @@
+{
+  "pmid": "21074560",
+  "title": "Trial-to-trial noise cancellation of cortical field potentials in awake macaques by autoregression model with exogenous input (ARX).",
+  "abstract": "Gamma band synchronization has drawn increasing interest with respect to its potential role in neuronal encoding strategy and behavior in awake, behaving animals. However, contamination of these recordings by power line noise can confound the analysis and interpretation of cortical local field potential (LFP). Existing denoising methods are plagued by inadequate noise reduction, inaccuracies, and even introduction of new noise components. To carefully and more completely remove such contamination, we propose an automatic method based on the concept of adaptive noise cancellation that utilizes the correlative features of common noise sources, and implement with AutoRegressive model with eXogenous Input (ARX). We apply this technique to both simulated data and LFPs recorded in the primary visual cortex of awake macaque monkeys. The analyses here demonstrate a greater degree of accurate noise removal than conventional notch filters. Our method leaves desired signal intact and does not introduce artificial noise components. Application of this method to awake monkey V1 recordings reveals a significant power increase in the gamma range evoked by visual stimulation. Our findings suggest that the ARX denoising procedure will be an important pre-processing step in the analysis of large volumes of cortical LFP data as well as high frequency (gamma-band related) electroencephalography/magnetoencephalography (EEG/MEG) applications, one which will help to convincingly dissociate this notorious artifact from gamma-band activity.",
+  "authors": [
+    "Wang Zheng",
+    "Roe Anna W"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2011",
+  "doi": "10.1016/j.jneumeth.2010.10.029",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Electroencephalography",
+    "Evoked Potentials, Auditory",
+    "Fourier Analysis",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Noise",
+    "Psychoacoustics",
+    "Wakefulness"
+  ]
+}

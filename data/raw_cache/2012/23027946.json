@@ -1,0 +1,28 @@
+{
+  "pmid": "23027946",
+  "title": "Cognitive signals for brain-machine interfaces in posterior parietal cortex include continuous 3D trajectory commands.",
+  "abstract": "Cortical neural prosthetics extract command signals from the brain with the goal to restore function in paralyzed or amputated patients. Continuous control signals can be extracted from the motor cortical areas, whereas neural activity from posterior parietal cortex (PPC) can be used to decode cognitive variables related to the goals of movement. Because typical activities of daily living comprise both continuous control tasks such as reaching, and tasks benefiting from discrete control such as typing on a keyboard, availability of both signals simultaneously would promise significant increases in performance and versatility. Here, we show that PPC can provide 3D hand trajectory information under natural conditions that would be encountered for prosthetic applications, thus allowing simultaneous extraction of continuous and discrete signals without requiring multisite surgical implants. We found that limb movements can be decoded robustly and with high accuracy from a small population of neural units under free gaze in a complex 3D point-to-point reaching task. Both animals' brain-control performance improved rapidly with practice, resulting in faster target acquisition and increasing accuracy. These findings disprove the notion that the motor cortical areas are the only candidate areas for continuous prosthetic command signals and, rather, suggests that PPC can provide equally useful trajectory signals in addition to discrete, cognitive variables. Hybrid use of continuous and discrete signals from PPC may enable a new generation of neural prostheses providing superior performance and additional flexibility in addressing individual patient needs.",
+  "authors": [
+    "Hauschild Markus",
+    "Mulliken Grant H",
+    "Fineman Igor",
+    "Loeb Gerald E",
+    "Andersen Richard A"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2012",
+  "doi": "10.1073/pnas.1215092109",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Cognition",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Movement",
+    "Neocortex",
+    "Neural Prostheses",
+    "Parietal Lobe",
+    "Photic Stimulation",
+    "Synaptic Transmission"
+  ]
+}

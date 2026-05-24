@@ -1,0 +1,22 @@
+{
+  "pmid": "30557410",
+  "title": "Compartment models for the electrical stimulation of retinal bipolar cells.",
+  "abstract": "Bipolar cells of the retina are among the smallest neurons of the nervous system. For this reason, compared to other neurons, their delay in signaling is minimal. Additionally, the small bipolar cell surface combined with the low membrane conductance causes very little attenuation in the signal from synaptic input to the terminal. The existence of spiking bipolar cells was proven over the last two decades, but until now no complete model including all important ion channel types was published. The present study amends this and analyzes the impact of the number of model compartments on simulation accuracy. Characteristic features like membrane voltages and spike generation were tested and compared for one-, two-, four- and 117-compartment models of a macaque bipolar cell. Although results were independent of the compartment number for low membrane conductances (passive membranes), nonlinear regimes such as spiking required at least a separate axon compartment. At least a four compartment model containing the functionally different segments dendrite, soma, axon and terminal was needed for understanding signaling in spiking bipolar cells. Whereas for intracellular current application models with small numbers of compartments showed quantitatively correct results in many cases, the cell response to extracellular stimulation is sensitive to spatial variation of the electric field and accurate modeling therefore demands for a large number of short compartments even for passive membranes.",
+  "authors": [
+    "Rattay Frank",
+    "Bassereh Hassan",
+    "Stiennon Isabel"
+  ],
+  "journal": "PloS one",
+  "year": "2018",
+  "doi": "10.1371/journal.pone.0209123",
+  "mesh": [
+    "Cell Membrane",
+    "Electric Stimulation",
+    "Electrophysiological Phenomena",
+    "Extracellular Space",
+    "Intracellular Space",
+    "Models, Biological",
+    "Retinal Bipolar Cells"
+  ]
+}

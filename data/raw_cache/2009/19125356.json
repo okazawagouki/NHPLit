@@ -1,0 +1,13 @@
+{
+  "pmid": "19125356",
+  "title": "Modelling attention in individual cells leads to a system with realistic saccade behaviours.",
+  "abstract": "Single cell recordings in monkey inferior temporal cortex (IT) and area V4 during visual search tasks indicate that modulation of responses by the search target object occurs in the late portion of the cell's sensory response (Chelazzi et al. in J Neurophysiol 80:2918-2940, 1998; Cereb Cortex 11:761-772, 2001) whereas attention to a spatial location influences earlier responses (Luck et al. in J Neurophysiol 77:24-42, 1997). Previous computational models have not captured differences in the latency of these attentional effects and yet the more protracted development of the object-based effect could have implications for behaviour. We present a neurodynamic biased competition model of visual attention in which we aimed to model the timecourse of spatial and object-based attention in order to simulate cellular responses and saccade onset times observed in monkey recordings. In common with other models, a top-down prefrontal signal, related to the search target, biases activity in the ventral visual stream. However, we conclude that this bias signal is more complex than modelled elsewhere: the latency of object-based effects in V4 and IT, and saccade onset, can be accurately simulated when the target object feedback bias consists of a sensory response component in addition to a mnemonic response. These attentional effects in V4 and IT cellular responses lead to a system that is able to produce search scan paths similar to those observed in monkeys and humans, with attention being guided to locations containing behaviourally relevant stimuli. This work demonstrates that accurate modelling of the timecourse of single cell responses can lead to biologically realistic behaviours being demonstrated by the system as a whole.",
+  "authors": [
+    "Lanyon Linda J",
+    "Denham Susan L"
+  ],
+  "journal": "Cognitive neurodynamics",
+  "year": "2009",
+  "doi": "10.1007/s11571-008-9073-x",
+  "mesh": []
+}

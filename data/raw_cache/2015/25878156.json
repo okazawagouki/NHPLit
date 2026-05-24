@@ -1,0 +1,30 @@
+{
+  "pmid": "25878156",
+  "title": "Classification of pallidal oscillations with increasing parkinsonian severity.",
+  "abstract": "The firing patterns of neurons in the basal ganglia are known to become more oscillatory and synchronized from healthy to parkinsonian conditions. Similar changes have been observed with local field potentials (LFPs). In this study, we used an unbiased machine learning approach to investigate the utility of pallidal LFPs for discriminating the stages of a progressive parkinsonian model. A feature selection algorithm was used to identify subsets of LFP features that provided the most discriminatory information for severity of parkinsonian motor signs. Prediction errors <20% were achievable using 28 of the possible 206 features tested. For all subjects, a spectral feature within the beta band was chosen through the feature selection algorithm, but a combination of features, including alpha-band power and phase-amplitude coupling, was necessary to achieve minimal prediction errors. There was large variability between the discriminatory features for individual subjects, and testing of classifiers between subjects yielded prediction errors >50%. These results suggest that pallidal oscillations can be predictive biomarkers of parkinsonian severity, but the features are more complex than spectral power in individual frequency bands, such as the beta band. Additionally, the best feature set was subject specific, which highlights the pathophysiological heterogeneity of parkinsonism and the importance of subject specificity when designing closed-loop system controllers dependent on such features.",
+  "authors": [
+    "Connolly Allison T",
+    "Jensen Alicia L",
+    "Baker Kenneth B",
+    "Vitek Jerrold L",
+    "Johnson Matthew D"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2015",
+  "doi": "10.1152/jn.00840.2014",
+  "mesh": [
+    "Alpha Rhythm",
+    "Animals",
+    "Beta Rhythm",
+    "Female",
+    "Globus Pallidus",
+    "MPTP Poisoning",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Periodicity",
+    "Severity of Illness Index",
+    "Signal Processing, Computer-Assisted",
+    "Support Vector Machine"
+  ]
+}

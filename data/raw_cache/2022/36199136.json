@@ -1,0 +1,22 @@
+{
+  "pmid": "36199136",
+  "title": "Attention to visual motion suppresses neuronal and behavioral sensitivity in nearby feature space.",
+  "abstract": "BACKGROUND: Feature-based attention prioritizes the processing of the attended feature while strongly suppressing the processing of nearby ones. This creates a non-linearity or \"attentional suppressive surround\" predicted by the Selective Tuning model of visual attention. However, previously reported effects of feature-based attention on neuronal responses are linear, e.g., feature-similarity gain. Here, we investigated this apparent contradiction by neurophysiological and psychophysical approaches. RESULTS: Responses of motion direction-selective neurons in area MT/MST of monkeys were recorded during a motion task. When attention was allocated to a stimulus moving in the neurons' preferred direction, response tuning curves showed its minimum for directions 60-90° away from the preferred direction, an attentional suppressive surround. This effect was modeled via the interaction of two Gaussian fields representing excitatory narrowly tuned and inhibitory widely tuned inputs into a neuron, with feature-based attention predominantly increasing the gain of inhibitory inputs. We further showed using a motion repulsion paradigm in humans that feature-based attention produces a similar non-linearity on motion discrimination performance. CONCLUSIONS: Our results link the gain modulation of neuronal inputs and tuning curves examined through the feature-similarity gain lens to the attentional impact on neural population responses predicted by the Selective Tuning model, providing a unified framework for the documented effects of feature-based attention on neuronal responses and behavior.",
+  "authors": [
+    "Yoo Sang-Ah",
+    "Martinez-Trujillo Julio C",
+    "Treue Stefan",
+    "Tsotsos John K",
+    "Fallah Mazyar"
+  ],
+  "journal": "BMC biology",
+  "year": "2022",
+  "doi": "10.1186/s12915-022-01428-7",
+  "mesh": [
+    "Humans",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Temporal Lobe"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "24259547",
+  "title": "A framework for using signal, noise, and variation to determine whether the brain controls movement synergies or single muscles.",
+  "abstract": "We have used an analysis of signal and variation in motor behavior to elucidate the organization of the cerebellar and brain stem circuits that control smooth pursuit eye movements. We recorded from the abducens nucleus and identified floccular target neurons (FTNs) and other, non-FTN vestibular neurons. First, we assessed neuron-behavior correlations, defined as the trial-by-trial correlation between the variation in neural firing and eye movement, in brain stem neurons. In agreement with prior data from the cerebellum, neuron-behavior correlations during pursuit initiation were large in all neurons. Second, we asked whether movement variation arises upstream from, in parallel to, or downstream from a given site of recording. We developed a model that highlighted two measures: the ratio of the SDs of neural firing rate and eye movement (\"SDratio\") and the neuron-behavior correlation. The relationship between these measures defines possible sources of variation. During pursuit initiation, SDratio was approximately equal to neuron-behavior correlation, meaning that the source of signal and variation is upstream from the brain stem. During steady-state pursuit, neuron-behavior correlation became somewhat smaller than SDratio for FTNs, meaning that some variation may arise downstream in the brain stem. The data contradicted the model's predictions for sources of variation in pathways that run parallel to the site of recording. Because signal and noise are tightly linked in motor control, we take the source of variation as a proxy for the source of signal, leading us to conclude that the brain controls movement synergies rather than single muscles for eye movements.",
+  "authors": [
+    "Joshua Mati",
+    "Lisberger Stephen G"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2014",
+  "doi": "10.1152/jn.00510.2013",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Brain Mapping",
+    "Brain Stem",
+    "Cerebellum",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Muscle, Skeletal",
+    "Neurons",
+    "Noise",
+    "Photic Stimulation",
+    "Saccades"
+  ]
+}

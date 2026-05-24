@@ -1,0 +1,30 @@
+{
+  "pmid": "33346826",
+  "title": "Current challenges for unseen-epitope TCR interaction prediction and a new perspective derived from image classification.",
+  "abstract": "The prediction of epitope recognition by T-cell receptors (TCRs) has seen many advancements in recent years, with several methods now available that can predict recognition for a specific set of epitopes. However, the generic case of evaluating all possible TCR-epitope pairs remains challenging, mainly due to the high diversity of the interacting sequences and the limited amount of currently available training data. In this work, we provide an overview of the current state of this unsolved problem. First, we examine appropriate validation strategies to accurately assess the generalization performance of generic TCR-epitope recognition models when applied to both seen and unseen epitopes. In addition, we present a novel feature representation approach, which we call ImRex (interaction map recognition). This approach is based on the pairwise combination of physicochemical properties of the individual amino acids in the CDR3 and epitope sequences, which provides a convolutional neural network with the combined representation of both sequences. Lastly, we highlight various challenges that are specific to TCR-epitope data and that can adversely affect model performance. These include the issue of selecting negative data, the imbalanced epitope distribution of curated TCR-epitope datasets and the potential exchangeability of TCR alpha and beta chains. Our results indicate that while extrapolation to unseen epitopes remains a difficult challenge, ImRex makes this feasible for a subset of epitopes that are not too dissimilar from the training data. We show that appropriate feature engineering methods and rigorous benchmark standards are required to create and validate TCR-epitope predictive models.",
+  "authors": [
+    "Moris Pieter",
+    "De Pauw Joey",
+    "Postovskaya Anna",
+    "Gielis Sofie",
+    "De Neuter Nicolas",
+    "Bittremieux Wout",
+    "Ogunjimi Benson",
+    "Laukens Kris",
+    "Meysman Pieter"
+  ],
+  "journal": "Briefings in bioinformatics",
+  "year": "2021",
+  "doi": "10.1093/bib/bbaa318",
+  "mesh": [
+    "Animals",
+    "Complementarity Determining Regions",
+    "Epitopes, T-Lymphocyte",
+    "Humans",
+    "Macaca mulatta",
+    "Mice",
+    "Models, Genetic",
+    "Models, Immunological",
+    "Receptors, Antigen, T-Cell, alpha-beta"
+  ]
+}

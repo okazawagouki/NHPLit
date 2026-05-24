@@ -1,0 +1,20 @@
+{
+  "pmid": "36301992",
+  "title": "Computational modeling of color perception with biologically plausible spiking neural networks.",
+  "abstract": "Biologically plausible computational modeling of visual perception has the potential to link high-level visual experiences to their underlying neurons' spiking dynamic. In this work, we propose a neuromorphic (brain-inspired) Spiking Neural Network (SNN)-driven model for the reconstruction of colorful images from retinal inputs. We compared our results to experimentally obtained V1 neuronal activity maps in a macaque monkey using voltage-sensitive dye imaging and used the model to demonstrate and critically explore color constancy, color assimilation, and ambiguous color perception. Our parametric implementation allows critical evaluation of visual phenomena in a single biologically plausible computational framework. It uses a parametrized combination of high and low pass image filtering and SNN-based filling-in Poisson processes to provide adequate color image perception while accounting for differences in individual perception.",
+  "authors": [
+    "Cohen-Duwek Hadar",
+    "Slovin Hamutal",
+    "Ezra Tsur Elishai"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2022",
+  "doi": "10.1371/journal.pcbi.1010648",
+  "mesh": [
+    "Color Perception",
+    "Action Potentials",
+    "Neural Networks, Computer",
+    "Computer Simulation",
+    "Neurons"
+  ]
+}

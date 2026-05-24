@@ -1,0 +1,29 @@
+{
+  "pmid": "24979343",
+  "title": "Resting state networks distinguish human ventral tegmental area from substantia nigra.",
+  "abstract": "Dopaminergic networks modulate neural processing across a spectrum of function from perception to learning to action. Multiple organizational schemes based on anatomy and function have been proposed for dopaminergic nuclei in the midbrain. One schema originating in rodent models delineated ventral tegmental area (VTA), implicated in complex behaviors like addiction, from more lateral substantia nigra (SN), preferentially implicated in movement. However, because anatomy and function in rodent midbrain differs from the primate midbrain in important ways, the utility of this distinction for human neuroscience has been questioned. We asked whether functional definition of networks within the human dopaminergic midbrain would recapitulate this traditional anatomical topology. We first developed a method for reliably defining SN and VTA in humans at conventional MRI resolution. Hand-drawn VTA and SN regions-of-interest (ROIs) were constructed for 50 participants, using individually-localized anatomical landmarks and signal intensity. Individual segmentation was used in seed-based functional connectivity analysis of resting-state functional MRI data; results of this analysis recapitulated traditional anatomical targets of the VTA versus SN. Next, we constructed a probabilistic atlas of the VTA, SN, and the dopaminergic midbrain region (comprised of SN plus VTA) from individual hand-drawn ROIs. The combined probabilistic (SN plus VTA) ROI was then used for connectivity-based dual-regression analysis in two independent resting-state datasets (n = 69 and n = 79). Results of the connectivity-based, dual-regression functional segmentation recapitulated results of the anatomical segmentation, validating the utility of this probabilistic atlas for future research.",
+  "authors": [
+    "Murty Vishnu P",
+    "Shermohammed Maheen",
+    "Smith David V",
+    "Carter R McKell",
+    "Huettel Scott A",
+    "Adcock R Alison"
+  ],
+  "journal": "NeuroImage",
+  "year": "2014",
+  "doi": "10.1016/j.neuroimage.2014.06.047",
+  "mesh": [
+    "Adolescent",
+    "Adult",
+    "Connectome",
+    "Female",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Nerve Net",
+    "Substantia Nigra",
+    "Ventral Tegmental Area",
+    "Young Adult"
+  ]
+}

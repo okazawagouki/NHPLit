@@ -1,0 +1,25 @@
+{
+  "pmid": "10869422",
+  "title": "A neuronal network model of macaque primary visual cortex (V1): orientation selectivity and dynamics in the input layer 4Calpha.",
+  "abstract": "In this paper, we offer an explanation for how selectivity for orientation could be produced by a model with circuitry that is based on the anatomy of V1 cortex. It is a network model of layer 4Calpha in macaque primary visual cortex (area V1). The model consists of a large number of integrate-and-fire conductance-based point neurons, both excitatory and inhibitory, which represent dynamics in a small patch of 4Calpha-1 mm(2) in lateral area-which contains four orientation hypercolumns. The physiological properties and coupling architectures of the model are derived from experimental data for layer 4Calpha of macaque. Convergent feed-forward input from many neurons of the lateral geniculate nucleus sets up an orientation preference, in a pinwheel pattern with an orientation preference singularity in the center of the pattern. Recurrent cortical connections cause the network to sharpen its selectivity. The pattern of local lateral connections is taken as isotropic, with the spatial range of monosynaptic excitation exceeding that of inhibition. The model (i) obtains sharpening, diversity in selectivity, and dynamics of orientation selectivity, each in qualitative agreement with experiment; and (ii) predicts more sharpening near orientation preference singularities.",
+  "authors": [
+    "McLaughlin D",
+    "Shapley R",
+    "Shelley M",
+    "Wielaard D J"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Geniculate Bodies",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Conduction",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

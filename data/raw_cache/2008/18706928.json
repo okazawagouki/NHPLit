@@ -1,0 +1,20 @@
+{
+  "pmid": "18706928",
+  "title": "A flexible software tool for temporally-precise behavioral control in Matlab.",
+  "abstract": "Systems and cognitive neuroscience depend on carefully designed and precisely implemented behavioral tasks to elicit the neural phenomena of interest. To facilitate this process, we have developed a software system that allows for the straightforward coding and temporally-reliable execution of these tasks in Matlab. We find that, in most cases, millisecond accuracy is attainable, and those instances in which it is not are usually related to predictable, programmed events. In this report, we describe the design of our system, benchmark its performance in a real-world setting, and describe some key features.",
+  "authors": [
+    "Asaad Wael F",
+    "Eskandar Emad N"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2008",
+  "doi": "10.1016/j.jneumeth.2008.07.014",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Computer Simulation",
+    "Macaca mulatta",
+    "Software",
+    "User-Computer Interface"
+  ]
+}

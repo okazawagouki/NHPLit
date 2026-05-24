@@ -1,0 +1,15 @@
+{
+  "pmid": "27242503",
+  "title": "Building the Ferretome.",
+  "abstract": "Databases of structural connections of the mammalian brain, such as CoCoMac (cocomac.g-node.org) or BAMS (https://bams1.org), are valuable resources for the analysis of brain connectivity and the modeling of brain dynamics in species such as the non-human primate or the rodent, and have also contributed to the computational modeling of the human brain. Another animal model that is widely used in electrophysiological or developmental studies is the ferret; however, no systematic compilation of brain connectivity is currently available for this species. Thus, we have started developing a database of anatomical connections and architectonic features of the ferret brain, the Ferret(connect)ome, www.Ferretome.org. The Ferretome database has adapted essential features of the CoCoMac methodology and legacy, such as the CoCoMac data model. This data model was simplified and extended in order to accommodate new data modalities that were not represented previously, such as the cytoarchitecture of brain areas. The Ferretome uses a semantic parcellation of brain regions as well as a logical brain map transformation algorithm (objective relational transformation, ORT). The ORT algorithm was also adopted for the transformation of architecture data. The database is being developed in MySQL and has been populated with literature reports on tract-tracing observations in the ferret brain using a custom-designed web interface that allows efficient and validated simultaneous input and proofreading by multiple curators. The database is equipped with a non-specialist web interface. This interface can be extended to produce connectivity matrices in several formats, including a graphical representation superimposed on established ferret brain maps. An important feature of the Ferretome database is the possibility to trace back entries in connectivity matrices to the original studies archived in the system. Currently, the Ferretome contains 50 reports on connections comprising 20 injection reports with more than 150 labeled source and target areas, the majority reflecting connectivity of subcortical nuclei and 15 descriptions of regional brain architecture. We hope that the Ferretome database will become a useful resource for neuroinformatics and neural modeling, and will support studies of the ferret brain as well as facilitate advances in comparative studies of mesoscopic brain connectivity.",
+  "authors": [
+    "Sukhinin Dmitrii I",
+    "Engel Andreas K",
+    "Manger Paul",
+    "Hilgetag Claus C"
+  ],
+  "journal": "Frontiers in neuroinformatics",
+  "year": "2016",
+  "doi": "10.3389/fninf.2016.00016",
+  "mesh": []
+}

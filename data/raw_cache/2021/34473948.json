@@ -1,0 +1,26 @@
+{
+  "pmid": "34473948",
+  "title": "Rats use memory confidence to guide decisions.",
+  "abstract": "Memory enables access to past experiences to guide future behavior. Humans can determine which memories to trust (high confidence) and which to doubt (low confidence). How memory retrieval, memory confidence, and memory-guided decisions are related, however, is not understood. In particular, how confidence in memories is used in decision making is unknown. We developed a spatial memory task in which rats were incentivized to gamble their time: betting more following a correct choice yielded greater reward. Rat behavior reflected memory confidence, with higher temporal bets following correct choices. We applied machine learning to identify a memory decision variable and built a generative model of memories evolving over time that accurately predicted both choices and confidence reports. Our results reveal in rats an ability thought to exist exclusively in primates and introduce a unified model of memory dynamics, retrieval, choice, and confidence.",
+  "authors": [
+    "Joo Hannah R",
+    "Liang Hexin",
+    "Chung Jason E",
+    "Geaghan-Breiner Charlotte",
+    "Fan Jiang Lan",
+    "Nachman Benjamin P",
+    "Kepecs Adam",
+    "Frank Loren M"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2021",
+  "doi": "10.1016/j.cub.2021.08.013",
+  "mesh": [
+    "Animals",
+    "Choice Behavior",
+    "Decision Making",
+    "Memory",
+    "Rats",
+    "Reward"
+  ]
+}

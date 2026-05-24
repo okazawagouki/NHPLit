@@ -1,0 +1,26 @@
+{
+  "pmid": "34411268",
+  "title": "Nonlinear Decoding of Natural Images From Large-Scale Primate Retinal Ganglion Recordings.",
+  "abstract": "Decoding sensory stimuli from neural activity can provide insight into how the nervous system might interpret the physical environment, and facilitates the development of brain-machine interfaces. Nevertheless, the neural decoding problem remains a significant open challenge. Here, we present an efficient nonlinear decoding approach for inferring natural scene stimuli from the spiking activities of retinal ganglion cells (RGCs). Our approach uses neural networks to improve on existing decoders in both accuracy and scalability. Trained and validated on real retinal spike data from more than 1000 simultaneously recorded macaque RGC units, the decoder demonstrates the necessity of nonlinear computations for accurate decoding of the fine structures of visual stimuli. Specifically, high-pass spatial features of natural images can only be decoded using nonlinear techniques, while low-pass features can be extracted equally well by linear and nonlinear methods. Together, these results advance the state of the art in decoding natural stimuli from large populations of neurons.",
+  "authors": [
+    "Kim Young Joon",
+    "Brackbill Nora",
+    "Batty Eleanor",
+    "Lee JinHyung",
+    "Mitelut Catalin",
+    "Tong William",
+    "Chichilnisky E J",
+    "Paninski Liam"
+  ],
+  "journal": "Neural computation",
+  "year": "2021",
+  "doi": "10.1162/neco_a_01395",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Macaca",
+    "Neural Networks, Computer",
+    "Retina",
+    "Retinal Ganglion Cells"
+  ]
+}

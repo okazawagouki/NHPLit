@@ -1,0 +1,38 @@
+{
+  "pmid": "23428877",
+  "title": "Local-learning-based neuron selection for grasping gesture prediction in motor brain machine interfaces.",
+  "abstract": "OBJECTIVE: The high-dimensional neural recordings bring computational challenges to movement decoding in motor brain machine interfaces (mBMI), especially for portable applications. However, not all recorded neural activities relate to the execution of a certain movement task. This paper proposes to use a local-learning-based method to perform neuron selection for the gesture prediction in a reaching and grasping task. APPROACH: Nonlinear neural activities are decomposed into a set of linear ones in a weighted feature space. A margin is defined to measure the distance between inter-class and intra-class neural patterns. The weights, reflecting the importance of neurons, are obtained by minimizing a margin-based exponential error function. To find the most dominant neurons in the task, 1-norm regularization is introduced to the objective function for sparse weights, where near-zero weights indicate irrelevant neurons. MAIN RESULTS: The signals of only 10 neurons out of 70 selected by the proposed method could achieve over 95% of the full recording's decoding accuracy of gesture predictions, no matter which different decoding methods are used (support vector machine and K-nearest neighbor). The temporal activities of the selected neurons show visually distinguishable patterns associated with various hand states. Compared with other algorithms, the proposed method can better eliminate the irrelevant neurons with near-zero weights and provides the important neuron subset with the best decoding performance in statistics. The weights of important neurons converge usually within 10-20 iterations. In addition, we study the temporal and spatial variation of neuron importance along a period of one and a half months in the same task. A high decoding performance can be maintained by updating the neuron subset. SIGNIFICANCE: The proposed algorithm effectively ascertains the neuronal importance without assuming any coding model and provides a high performance with different decoding models. It shows better robustness of identifying the important neurons with noisy signals presented. The low demand of computational resources which, reflected by the fast convergence, indicates the feasibility of the method applied in portable BMI systems. The ascertainment of the important neurons helps to inspect neural patterns visually associated with the movement task. The elimination of irrelevant neurons greatly reduces the computational burden of mBMI systems and maintains the performance with better robustness.",
+  "authors": [
+    "Xu Kai",
+    "Wang Yiwen",
+    "Wang Yueming",
+    "Wang Fang",
+    "Hao Yaoyao",
+    "Zhang Shaomin",
+    "Zhang Qiaosheng",
+    "Chen Weidong",
+    "Zheng Xiaoxiang"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2013",
+  "doi": "10.1088/1741-2560/10/2/026008",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Data Interpretation, Statistical",
+    "Gestures",
+    "Hand Strength",
+    "Haplorhini",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Prosthesis Design",
+    "Psychomotor Performance",
+    "Reproducibility of Results",
+    "Support Vector Machine"
+  ]
+}

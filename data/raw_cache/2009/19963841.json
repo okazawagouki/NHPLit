@@ -1,0 +1,29 @@
+{
+  "pmid": "19963841",
+  "title": "Multi-scale recordings for neuroprosthetic control of finger movements.",
+  "abstract": "We trained a rhesus monkey to perform individuated and combined finger flexions and extensions of the thumb, index, and middle finger. A Utah Electrode Array (UEA) was implanted into the hand region of the motor cortex contralateral to the monkey's trained hand. We also implanted a microwire electrocorticography grid (microECoG) epidurally so that it covered the UEA. The microECoG grid spanned the arm and hand regions of both the primary motor and somatosensory cortices. Previously this monkey had Implantable MyoElectric Sensors (IMES) surgically implanted into the finger muscles of the monkey's forearm. Action potentials (APs), local field potentials (LFPs), and microECoG signals were recorded from wired head-stage connectors for the UEA and microECoG grids, while EMG was recorded wirelessly. The monkey performed a finger flexion/extension task while neural and EMG data were acquired. We wrote an algorithm that uses the spike data from the UEA to perform a real-time decode of the monkey's finger movements. Also, analyses of the LFP and microECoG data indicate that these data show trial-averaged differences between different finger movements, indicating the data are potentially decodeable.",
+  "authors": [
+    "Baker Justin",
+    "Bishop William",
+    "Kellis Spencer",
+    "Levy Todd",
+    "House Paul",
+    "Greger Bradley"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2009",
+  "doi": "10.1109/IEMBS.2009.5332692",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Electrodes, Implanted",
+    "Electromyography",
+    "Fingers",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Poisson Distribution"
+  ]
+}

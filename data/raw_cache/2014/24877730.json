@@ -1,0 +1,32 @@
+{
+  "pmid": "24877730",
+  "title": "Bayesian active learning of neural firing rate maps with transformed gaussian process priors.",
+  "abstract": "A firing rate map, also known as a tuning curve, describes the nonlinear relationship between a neuron's spike rate and a low-dimensional stimulus (e.g., orientation, head direction, contrast, color). Here we investigate Bayesian active learning methods for estimating firing rate maps in closed-loop neurophysiology experiments. These methods can accelerate the characterization of such maps through the intelligent, adaptive selection of stimuli. Specifically, we explore the manner in which the prior and utility function used in Bayesian active learning affect stimulus selection and performance. Our approach relies on a flexible model that involves a nonlinearly transformed gaussian process (GP) prior over maps and conditionally Poisson spiking. We show that infomax learning, which selects stimuli to maximize the information gain about the firing rate map, exhibits strong dependence on the seemingly innocuous choice of nonlinear transformation function. We derive an alternate utility function that selects stimuli to minimize the average posterior variance of the firing rate map and analyze the surprising relationship between prior parameterization, stimulus selection, and active learning performance in GP-Poisson models. We apply these methods to color tuning measurements of neurons in macaque primary visual cortex.",
+  "authors": [
+    "Park Mijung",
+    "Weller J Patrick",
+    "Horwitz Gregory D",
+    "Pillow Jonathan W"
+  ],
+  "journal": "Neural computation",
+  "year": "2014",
+  "doi": "10.1162/NECO_a_00615",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Artificial Intelligence",
+    "Bayes Theorem",
+    "Computer Simulation",
+    "Information Theory",
+    "Macaca",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Normal Distribution",
+    "Poisson Distribution",
+    "Signal Processing, Computer-Assisted",
+    "Visual Cortex"
+  ]
+}

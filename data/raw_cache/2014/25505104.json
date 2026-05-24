@@ -1,0 +1,27 @@
+{
+  "pmid": "25505104",
+  "title": "Informative features of local field potential signals in primary visual cortex during natural image stimulation.",
+  "abstract": "The local field potential (LFP) is of growing importance in neurophysiology as a metric of network activity and as a readout signal for use in brain-machine interfaces. However, there are uncertainties regarding the kind and visual field extent of information carried by LFP signals, as well as the specific features of the LFP signal conveying such information, especially under naturalistic conditions. To address these questions, we recorded LFP responses to natural images in V1 of awake and anesthetized macaques using Utah multielectrode arrays. First, we have shown that it is possible to identify presented natural images from the LFP responses they evoke using trained Gabor wavelet (GW) models. Because GW models were devised to explain the spiking responses of V1 cells, this finding suggests that local spiking activity and LFPs (thought to reflect primarily local synaptic activity) carry similar visual information. Second, models trained on scalar metrics, such as the evoked LFP response range, provide robust image identification, supporting the informative nature of even simple LFP features. Third, image identification is robust only for the first 300 ms following image presentation, and image information is not restricted to any of the spectral bands. This suggests that the short-latency broadband LFP response carries most information during natural scene viewing. Finally, best image identification was achieved by GW models incorporating information at the scale of ∼ 0.5° in size and trained using four different orientations. This suggests that during natural image viewing, LFPs carry stimulus-specific information at spatial scales corresponding to few orientation columns in macaque V1.",
+  "authors": [
+    "Seyedhosseini Mojtaba",
+    "Shushruth S",
+    "Davis Tyler",
+    "Ichida Jennifer M",
+    "House Paul A",
+    "Greger Bradley",
+    "Angelucci Alessandra",
+    "Tasdizen Tolga"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2015",
+  "doi": "10.1152/jn.00278.2014",
+  "mesh": [
+    "Animals",
+    "Evoked Potentials, Visual",
+    "Macaca fascicularis",
+    "Male",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

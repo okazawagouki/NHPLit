@@ -1,0 +1,26 @@
+{
+  "pmid": "40244650",
+  "title": "A general framework for characterizing optimal communication in brain networks.",
+  "abstract": "Efficient communication in brain networks is foundational for cognitive function and behavior. However, how communication efficiency is defined depends on the assumed model of signaling dynamics, e.g., shortest path signaling, random walker navigation, broadcasting, and diffusive processes. Thus, a general and model-agnostic framework for characterizing optimal neural communication is needed. We address this challenge by assigning communication efficiency through a virtual multi-site lesioning regime combined with game theory, applied to large-scale models of human brain dynamics. Our framework quantifies the exact influence each node exerts over every other, generating optimal influence maps given the underlying model of neural dynamics. These descriptions reveal how communication patterns unfold if regions are set to maximize their influence over one another. Comparing these maps with a variety of brain communication models showed that optimal communication closely resembles a broadcasting regime in which regions leverage multiple parallel channels for information dissemination. Moreover, we found that the brain's most influential regions are its rich-club, exploiting their topological vantage point by broadcasting across numerous pathways that enhance their reach even if the underlying connections are weak. Altogether, our work provides a rigorous and versatile framework for characterizing optimal brain communication, and uncovers the most influential brain regions, and the topological features underlying their influence.",
+  "authors": [
+    "Fakhar Kayson",
+    "Hadaeghi Fatemeh",
+    "Seguin Caio",
+    "Dixit Shrey",
+    "Messé Arnaud",
+    "Zamora-López Gorka",
+    "Misic Bratislav",
+    "Hilgetag Claus C"
+  ],
+  "journal": "eLife",
+  "year": "2025",
+  "doi": "10.7554/eLife.101780",
+  "mesh": [
+    "Humans",
+    "Brain",
+    "Nerve Net",
+    "Models, Neurological",
+    "Communication",
+    "Game Theory"
+  ]
+}

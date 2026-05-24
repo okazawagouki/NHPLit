@@ -1,0 +1,27 @@
+{
+  "pmid": "11224912",
+  "title": "A neural model of smooth pursuit control and motion perception by cortical area MST.",
+  "abstract": "Smooth pursuit eye movements (SPEMs) are eye rotations that are used to maintain fixation on a moving target. Such rotations complicate the interpretation of the retinal image, because they nullify the retinal motion of the target, while generating retinal motion of stationary objects in the background. This poses a problem for the oculomotor system, which must track the stabilized target image while suppressing the optokinetic reflex, which would move the eye in the direction of the retinal background motion (opposite to the direction in which the target is moving). Similarly, the perceptual system must estimate the actual direction and speed of moving objects in spite of the confounding effects of the eye rotation. This paper proposes a neural model to account for the ability of primates to accomplish these tasks. The model simulates the neurophysiological properties of cell types found in the superior temporal sulcus of the macaque monkey, specifically the medial superior temporal (MST) region. These cells process signals related to target motion, background motion, and receive an efference copy of eye velocity during pursuit movements. The model focuses on the interactions between cells in the ventral and dorsal subdivisions of MST, which are hypothesized to process target velocity and background motion, respectively. The model explains how these signals can be combined to explain behavioral data about pursuit maintenance and perceptual data from human studies, including the Aubert--Fleischl phenomenon and the Filehne Illusion, thereby clarifying the functional significance of neurophysiological data about these MST cell properties. It is suggested that the connectivity used in the model may represent a general strategy used by the brain in analyzing the visual world.",
+  "authors": [
+    "Pack C",
+    "Grossberg S",
+    "Mingolla E"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Electric Stimulation",
+    "Humans",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Pursuit, Smooth",
+    "Vision Disparity"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmid": "30121294",
+  "title": "Time to change your mind? Modelling transient properties of cortex formation highlights the importance of evolving cell division strategies.",
+  "abstract": "The successful development of the mammalian cerebral neocortex is linked to numerous cognitive functions such as language, voluntary movement, and episodic memory. Neocortex development occurs when neural progenitor cells divide and produce neurons. Critically, although the progenitor cells are able to self-renew they do not reproduce themselves endlessly. Hence, to fully understand the development of the neocortex we are faced with the challenge of understanding temporal changes in cell division strategy. Our approach to modelling neuronal production uses non-autonomous ordinary differential equations and allows us to use a ternary coordinate system in order to define a strategy space, through which we can visualise evolving cell division strategies. Using this strategy space, we fit the known data and use approximate Bayesian computation to predict the founding progenitor population sizes, currently unavailable in the experimental literature. Counter-intuitively, we show that humans can generate a larger number of neurons than a macaque's even when starting with a smaller number of progenitor cells. Accompanying the article is a self-contained piece of software, which provides the reader with immediate simulated results that will aid their intuition. The software can be found at www.dpag.ox.ac.uk/team/noemi-picco.",
+  "authors": [
+    "Picco Noemi",
+    "Woolley Thomas E"
+  ],
+  "journal": "Journal of theoretical biology",
+  "year": "2019",
+  "doi": "10.1016/j.jtbi.2018.08.019",
+  "mesh": [
+    "Animals",
+    "Cell Division",
+    "Computer Simulation",
+    "Macaca",
+    "Mammals",
+    "Models, Neurological",
+    "Neocortex",
+    "Software"
+  ]
+}

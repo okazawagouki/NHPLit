@@ -1,0 +1,29 @@
+{
+  "pmid": "31015712",
+  "title": "A cryptography-based approach for movement decoding.",
+  "abstract": "Brain decoders use neural recordings to infer the activity or intent of a user. To train a decoder, one generally needs to infer the measured variables of interest (covariates) from simultaneously measured neural activity. However, there are cases for which obtaining supervised data is difficult or impossible. Here, we describe an approach for movement decoding that does not require access to simultaneously measured neural activity and motor outputs. We use the statistics of movement-much like cryptographers use the statistics of language-to find a mapping between neural activity and motor variables, and then align the distribution of decoder outputs with the typical distribution of motor outputs by minimizing their Kullback-Leibler divergence. By using datasets collected from the motor cortex of three non-human primates performing either a reaching task or an isometric force-production task, we show that the performance of such a distribution-alignment decoding algorithm is comparable to the performance of supervised approaches. Distribution-alignment decoding promises to broaden the set of potential applications of brain decoding.",
+  "authors": [
+    "Dyer Eva L",
+    "Gheshlaghi Azar Mohammad",
+    "Perich Matthew G",
+    "Fernandes Hugo L",
+    "Naufel Stephanie",
+    "Miller Lee E",
+    "Körding Konrad P"
+  ],
+  "journal": "Nature biomedical engineering",
+  "year": "2017",
+  "doi": "10.1038/s41551-017-0169-7",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Data Interpretation, Statistical",
+    "Macaca mulatta",
+    "Machine Learning",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Neurons"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "29633986",
+  "title": "Massively parallel recordings in macaque motor cortex during an instructed delayed reach-to-grasp task.",
+  "abstract": "We publish two electrophysiological datasets recorded in motor cortex of two macaque monkeys during an instructed delayed reach-to-grasp task, using chronically implanted 10-by-10 Utah electrode arrays. We provide a) raw neural signals (sampled at 30 kHz), b) time stamps and spike waveforms of offline sorted single and multi units (93/49 and 156/19 SUA/MUA for the two monkeys, respectively), c) trial events and the monkey's behavior, and d) extensive metadata hierarchically structured via the odML metadata framework (including quality assessment post-processing steps, such as trial rejections). The dataset of one monkey contains a simultaneously saved record of the local field potential (LFP) sampled at 1 kHz. To load the datasets in Python, we provide code based on the Neo data framework that produces a data structure which is annotated with relevant metadata. We complement this loading routine with an example code demonstrating how to access the data objects (e.g., raw signals) contained in such structures. For Matlab users, we provide the annotated data structures as mat files.",
+  "authors": [
+    "Brochier Thomas",
+    "Zehl Lyuba",
+    "Hao Yaoyao",
+    "Duret Margaux",
+    "Sprenger Julia",
+    "Denker Michael",
+    "Grün Sonja",
+    "Riehle Alexa"
+  ],
+  "journal": "Scientific data",
+  "year": "2018",
+  "doi": "10.1038/sdata.2018.55",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Motor Cortex",
+    "Movement"
+  ]
+}

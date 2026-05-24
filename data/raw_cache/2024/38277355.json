@@ -1,0 +1,23 @@
+{
+  "pmid": "38277355",
+  "title": "Information-theoretical analysis of the neural code for decoupled face representation.",
+  "abstract": "Processing faces accurately and efficiently is a key capability of humans and other animals that engage in sophisticated social tasks. Recent studies reported a decoupled coding for faces in the primate inferotemporal cortex, with two separate neural populations coding for the geometric position of (texture-free) facial landmarks and for the image texture at fixed landmark positions, respectively. Here, we formally assess the efficiency of this decoupled coding by appealing to the information-theoretic notion of description length, which quantifies the amount of information that is saved when encoding novel facial images, with a given precision. We show that despite decoupled coding describes the facial images in terms of two sets of principal components (of landmark shape and image texture), it is more efficient (i.e., yields more information compression) than the encoding in terms of the image principal components only, which corresponds to the widely used eigenface method. The advantage of decoupled coding over eigenface coding increases with image resolution and is especially prominent when coding variants of training set images that only differ in facial expressions. Moreover, we demonstrate that decoupled coding entails better performance in three different tasks: the representation of facial images, the (daydream) sampling of novel facial images, and the recognition of facial identities and gender. In summary, our study provides a first principle perspective on the efficiency and accuracy of the decoupled coding of facial stimuli reported in the primate inferotemporal cortex.",
+  "authors": [
+    "Ibáñez-Berganza Miguel",
+    "Lucibello Carlo",
+    "Mariani Luca",
+    "Pezzulo Giovanni"
+  ],
+  "journal": "PloS one",
+  "year": "2024",
+  "doi": "10.1371/journal.pone.0295054",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Recognition, Psychology",
+    "Cerebral Cortex",
+    "Facial Expression",
+    "Primates",
+    "Facial Recognition"
+  ]
+}

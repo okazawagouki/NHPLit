@@ -1,0 +1,20 @@
+{
+  "pmid": "39693450",
+  "title": "Inferring context-dependent computations through linear approximations of prefrontal cortex dynamics.",
+  "abstract": "The complex neural activity of prefrontal cortex (PFC) is a hallmark of cognitive processes. How these rich dynamics emerge and support neural computations is largely unknown. Here, we infer mechanisms underlying the context-dependent integration of sensory inputs by fitting dynamical models to PFC population responses of behaving monkeys. A class of models implementing linear dynamics driven by external inputs accurately captured PFC responses within contexts and revealed equally performing mechanisms. One model implemented context-dependent recurrent dynamics and relied on transient input amplification; the other relied on subtle contextual modulations of the inputs, providing constraints on the attentional effects in sensory areas required to explain flexible PFC responses and behavior. Both models revealed properties of inputs and recurrent dynamics that were not apparent from qualitative descriptions of PFC responses. By revealing mechanisms that are quantitatively consistent with complex cortical dynamics, our modeling approach provides a principled and general framework to link neural population activity and computation.",
+  "authors": [
+    "Soldado-Magraner Joana",
+    "Mante Valerio",
+    "Sahani Maneesh"
+  ],
+  "journal": "Science advances",
+  "year": "2024",
+  "doi": "10.1126/sciadv.adl4743",
+  "mesh": [
+    "Prefrontal Cortex",
+    "Animals",
+    "Models, Neurological",
+    "Macaca mulatta",
+    "Neurons"
+  ]
+}

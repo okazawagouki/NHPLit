@@ -1,0 +1,21 @@
+{
+  "pmid": "37166452",
+  "title": "Interplay between external inputs and recurrent dynamics during movement preparation and execution in a network model of motor cortex.",
+  "abstract": "The primary motor cortex has been shown to coordinate movement preparation and execution through computations in approximately orthogonal subspaces. The underlying network mechanisms, and the roles played by external and recurrent connectivity, are central open questions that need to be answered to understand the neural substrates of motor control. We develop a recurrent neural network model that recapitulates the temporal evolution of neuronal activity recorded from the primary motor cortex of a macaque monkey during an instructed delayed-reach task. In particular, it reproduces the observed dynamic patterns of covariation between neural activity and the direction of motion. We explore the hypothesis that the observed dynamics emerges from a synaptic connectivity structure that depends on the preferred directions of neurons in both preparatory and movement-related epochs, and we constrain the strength of both synaptic connectivity and external input parameters from data. While the model can reproduce neural activity for multiple combinations of the feedforward and recurrent connections, the solution that requires minimum external inputs is one where the observed patterns of covariance are shaped by external inputs during movement preparation, while they are dominated by strong direction-specific recurrent connectivity during movement execution. Our model also demonstrates that the way in which single-neuron tuning properties change over time can explain the level of orthogonality of preparatory and movement-related subspaces.",
+  "authors": [
+    "Bachschmid-Romano Ludovica",
+    "Hatsopoulos Nicholas G",
+    "Brunel Nicolas"
+  ],
+  "journal": "eLife",
+  "year": "2023",
+  "doi": "10.7554/eLife.77690",
+  "mesh": [
+    "Animals",
+    "Motor Cortex",
+    "Macaca",
+    "Movement",
+    "Neural Networks, Computer",
+    "Neurons"
+  ]
+}

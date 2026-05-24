@@ -1,0 +1,14 @@
+{
+  "pmid": "33664661",
+  "title": "Brain Inspired Sequences Production by Spiking Neural Networks With Reward-Modulated STDP.",
+  "abstract": "Understanding and producing embedded sequences according to supra-regular grammars in language has always been considered a high-level cognitive function of human beings, named \"syntax barrier\" between humans and animals. However, some neurologists recently showed that macaques could be trained to produce embedded sequences involving supra-regular grammars through a well-designed experiment paradigm. Via comparing macaques and preschool children's experimental results, they claimed that human uniqueness might only lie in the speed and learning strategy resulting from the chunking mechanism. Inspired by their research, we proposed a Brain-inspired Sequence Production Spiking Neural Network (SP-SNN) to model the same production process, followed by memory and learning mechanisms of the multi-brain region cooperation. After experimental verification, we demonstrated that SP-SNN could also handle embedded sequence production tasks, striding over the \"syntax barrier.\" SP-SNN used Population-Coding and STDP mechanism to realize working memory, Reward-Modulated STDP mechanism for acquiring supra-regular grammars. Therefore, SP-SNN needs to simultaneously coordinate short-term plasticity (STP) and long-term plasticity (LTP) mechanisms. Besides, we found that the chunking mechanism indeed makes a difference in improving our model's robustness. As far as we know, our work is the first one toward the \"syntax barrier\" in the SNN field, providing the computational foundation for further study of related underlying animals' neural mechanisms in the future.",
+  "authors": [
+    "Fang Hongjian",
+    "Zeng Yi",
+    "Zhao Feifei"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2021",
+  "doi": "10.3389/fncom.2021.612041",
+  "mesh": []
+}

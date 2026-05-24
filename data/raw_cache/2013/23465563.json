@@ -1,0 +1,22 @@
+{
+  "pmid": "23465563",
+  "title": "Controlling working memory with learned instructions.",
+  "abstract": "Many neural network models of cognition rely heavily on the modeler for control over aspects of model behavior, such as when to learn and whether an item is judged to be present in memory. Developing neurocomputational methods that allow these cognitive control mechanisms to be performed autonomously has proven to be surprisingly difficult. Here we present a general purpose framework called GALIS that we believe is amenable to developing a broad range of cognitive control models. Models built using GALIS consist of a network of interacting \"regions\" inspired by the organization of primate cerebral cortex. Each region is an attractor network capable of learning temporal sequences, and the individual regions not only exchange task-specific information with each other, but also gate the others' functions and interactions. As a result, GALIS models can learn both task-specific content and also the necessary cognitive control procedures (instructions) needed to perform a task in the first place. As an initial test of this approach, we use GALIS to implement a model that is trained simultaneously to perform five versions of the n-Back task. Not only does the resulting n-Back model function correctly, determining when to learn or remove items in working memory, but its accuracy and response times correlate strongly with those of human subjects performing the same task. The n-Back model also makes testable predictions about how human accuracy would be affected by intra-trial changes in n's value. We conclude that GALIS opens a potentially effective pathway toward developing a range of cognitive control models with improved autonomy.",
+  "authors": [
+    "Sylvester J C",
+    "Reggia J A",
+    "Weems S A",
+    "Bunting M F"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2013",
+  "doi": "10.1016/j.neunet.2013.01.010",
+  "mesh": [
+    "Artificial Intelligence",
+    "Cognition",
+    "Humans",
+    "Memory, Short-Term",
+    "Models, Neurological",
+    "Neural Networks, Computer"
+  ]
+}

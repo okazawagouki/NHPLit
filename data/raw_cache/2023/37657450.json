@@ -1,0 +1,23 @@
+{
+  "pmid": "37657450",
+  "title": "A role for ocular dominance in binocular integration.",
+  "abstract": "Neurons in the primate primary visual cortex (V1) combine left- and right-eye information to form a binocular output. Controversy surrounds whether ocular dominance, the preference of these neurons for one eye over the other, is functionally relevant. Here, we demonstrate that ocular dominance impacts gain control during binocular combination. We recorded V1 spiking activity while monkeys passively viewed grating stimuli. Gratings were either presented to one eye (monocular), both eyes with the same contrasts (binocular balanced), or both eyes with different contrasts (binocular imbalanced). We found that contrast placed in a neuron's dominant eye was weighted more strongly than contrast placed in a neuron's non-dominant eye. This asymmetry covaried with neurons' ocular dominance. We then tested whether accounting for ocular dominance within divisive normalization improves the fit to neural data. We found that ocular dominance significantly improved model performance, with interocular normalization providing the best fits. These findings suggest that V1 ocular dominance is relevant for response normalization during binocular stimulation.",
+  "authors": [
+    "Mitchell Blake A",
+    "Carlson Brock M",
+    "Westerberg Jacob A",
+    "Cox Michele A",
+    "Maier Alexander"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2023",
+  "doi": "10.1016/j.cub.2023.08.019",
+  "mesh": [
+    "Animals",
+    "Dominance, Ocular",
+    "Vision, Binocular",
+    "Visual Cortex",
+    "Eye",
+    "Photic Stimulation"
+  ]
+}

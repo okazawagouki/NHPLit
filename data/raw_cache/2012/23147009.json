@@ -1,0 +1,23 @@
+{
+  "pmid": "23147009",
+  "title": "Trial time warping to discriminate stimulus-related from movement-related neural activity.",
+  "abstract": "In tasks where different sensory, cognitive, and motor events are mixed in a sequence it is difficult to determine whether neural activity is related to any behavioral parameter. Here, we consider the case in which two alternative trial-alignment schemes correspond to two different neural representations, one stimulus-related and the other movement-related, using both simulations of neural activity and real recordings in the medial premotor areas during a multiple-interval tapping task called synchronization-continuation task (SCT). To discover whether neural responses are better aligned to sensory or motor events we introduce a family of trial-alignment time-warping functions indexed by a single parameter such that when the parameter takes the value 0 the trials are aligned to the stimulus and when the parameter takes the value 1 they are aligned to the movement. We then characterize neurons by the best-fitting alignment scheme (in the sense of maximum likelihood) under the assumption that the correct alignment would produce homogeneous trials without excess trial-to-trial variation. We use Bayes factors to determine the evidence in favor of sensory or motor neural alignments. The simulations revealed that the variability in neural responses and sequential motor outputs are key parameters to obtain appropriate warping results. In addition, the analysis on the activity of 500 neurons in the medial premotor areas of monkeys executing the SCT showed that most of the neural responses (54.2%) were aligned to the tapping movements instead of the stimuli used to drive the temporal behavior.",
+  "authors": [
+    "Perez Oswaldo",
+    "Kass Robert E",
+    "Merchant Hugo"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2013",
+  "doi": "10.1016/j.jneumeth.2012.10.019",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Brain",
+    "Brain Mapping",
+    "Macaca mulatta",
+    "Male",
+    "Movement",
+    "Psychomotor Performance"
+  ]
+}

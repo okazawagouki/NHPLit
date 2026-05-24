@@ -1,0 +1,22 @@
+{
+  "pmid": "21745499",
+  "title": "A novel device to suppress electrical stimulus artifacts in electrophysiological experiments.",
+  "abstract": "Electrophysiological studies of the effects of electrical brain stimulation have to contend with stimulus artifacts, which complicate both the maintenance of recorded neuron waveforms at recording time, and the post-hoc analysis of the data. The artifacts can be removed by digitally averaging some or all of the (stereotypic) artifact waveforms across artifacts, and then subtracting the resulting template from the recorded waveform at the time of artifact production. Available software-based approaches to this problem are effective but time consuming, and do not help with the problem of maintaining the recording quality at recording time. Alternative hardware-based methods are effective as well, but relatively inflexible and very expensive. We here provide a detailed description of a simple high-performance artifact removal device based on a multi-processor microcontroller as well as analog-to-digital and digital-to-analog converters. This device provides the benefits of self-adapting online-removal of stimulus artifacts for a fraction of the price of the commercially available devices. The device is fully customizable, and can be easily adjusted to various stimulation conditions, as well as AC line noise removal.",
+  "authors": [
+    "Wichmann Thomas",
+    "Devergnas Annaelle"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2011",
+  "doi": "10.1016/j.jneumeth.2011.06.026",
+  "mesh": [
+    "Animals",
+    "Artifacts",
+    "Electric Stimulation",
+    "Electrophysiological Phenomena",
+    "Female",
+    "Macaca mulatta",
+    "Microcomputers",
+    "Microelectrodes"
+  ]
+}

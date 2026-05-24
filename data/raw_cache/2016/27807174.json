@@ -1,0 +1,25 @@
+{
+  "pmid": "27807174",
+  "title": "Consistency of Border-Ownership Cells across Artificial Stimuli, Natural Stimuli, and Stimuli with Ambiguous Contours.",
+  "abstract": "UNLABELLED: Segmentation and recognition of objects in a visual scene are two problems that are hard to solve separately from each other. When segmenting an ambiguous scene, it is helpful to already know the present objects and their shapes. However, for recognizing an object in clutter, one would like to consider its isolated segment alone to avoid confounds from features of other objects. Border-ownership cells (Zhou et al., 2000) appear to play an important role in segmentation, as they signal the side-of-figure of artificial stimuli. The present work explores the role of border-ownership cells in dorsal macaque visual areas V2 and V3 in the segmentation of natural object stimuli and locally ambiguous stimuli. We report two major results. First, compared with previous estimates, we found a smaller percentage of cells that were consistent across artificial stimuli used previously. Second, we found that the average response of those neurons that did respond consistently to the side-of-figure of artificial stimuli also consistently signaled, as a population, the side-of-figure for borders of single faces, occluding faces and, with higher latencies, even stimuli with illusory contours, such as Mooney faces and natural faces completely missing local edge information. In contrast, the local edge or the outlines of the face alone could not always evoke a significant border-ownership signal. Our results underscore that border ownership is coded by a population of cells, and indicate that these cells integrate a variety of cues, including low-level features and global object context, to compute the segmentation of the scene. SIGNIFICANCE STATEMENT: To distinguish different objects in a natural scene, the brain must segment the image into regions corresponding to objects. The so-called \"border-ownership\" cells appear to be dedicated to this task, as they signal for a given edge on which side the object is that owns it. Here, we report that individual border-ownership cells are unreliable when tested across a battery of artificial stimuli used previously but can signal border-ownership consistently as a population. We show that these border-ownership population signals are also suited for signaling border-ownership for natural objects and at longer latency, even for stimuli without local edge information. Our results suggest that border-ownership cells integrate both local, low-level and global, high-level cues to segment the scene.",
+  "authors": [
+    "Hesse Janis K",
+    "Tsao Doris Y"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2016",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cues",
+    "Form Perception",
+    "Macaca mulatta",
+    "Male",
+    "Pattern Recognition, Visual",
+    "Perceptual Masking",
+    "Photic Stimulation",
+    "Sensory Receptor Cells",
+    "Task Performance and Analysis",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "19931405",
+  "title": "A neural model of the temporal dynamics of figure-ground segregation in motion perception.",
+  "abstract": "How does the visual system manage to segment a visual scene into surfaces and objects and manage to attend to a target object? Based on psychological and physiological investigations, it has been proposed that the perceptual organization and segmentation of a scene is achieved by the processing at different levels of the visual cortical hierarchy. According to this, motion onset detection, motion-defined shape segregation, and target selection are accomplished by processes which bind together simple features into fragments of increasingly complex configurations at different levels in the processing hierarchy. As an alternative to this hierarchical processing hypothesis, it has been proposed that the processing stages for feature detection and segregation are reflected in different temporal episodes in the response patterns of individual neurons. Such temporal epochs have been observed in the activation pattern of neurons as low as in area V1. Here, we present a neural network model of motion detection, figure-ground segregation and attentive selection which explains these response patterns in an unifying framework. Based on known principles of functional architecture of the visual cortex, we propose that initial motion and motion boundaries are detected at different and hierarchically organized stages in the dorsal pathway. Visual shapes that are defined by boundaries, which were generated from juxtaposed opponent motions, are represented at different stages in the ventral pathway. Model areas in the different pathways interact through feedforward and modulating feedback, while mutual interactions enable the communication between motion and form representations. Selective attention is devoted to shape representations by sending modulating feedback signals from higher levels (working memory) to intermediate levels to enhance their responses. Areas in the motion and form pathway are coupled through top-down feedback with V1 cells at the bottom end of the hierarchy. We propose that the different temporal episodes in the response pattern of V1 cells, as recorded in recent experiments, reflect the strength of modulating feedback signals. This feedback results from the consolidated shape representations from coherent motion patterns and the attentive modulation of responses along the cortical hierarchy. The model makes testable predictions concerning the duration and delay of the temporal episodes of V1 cell responses as well as their response variations that were caused by modulating feedback signals.",
+  "authors": [
+    "Raudies Florian",
+    "Neumann Heiko"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2010",
+  "doi": "10.1016/j.neunet.2009.10.005",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Brain",
+    "Computer Simulation",
+    "Macaca",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Time Factors",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

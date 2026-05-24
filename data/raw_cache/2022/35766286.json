@@ -1,0 +1,27 @@
+{
+  "pmid": "35766286",
+  "title": "Waveform detection by deep learning reveals multi-area spindles that are selectively modulated by memory load.",
+  "abstract": "Sleep is generally considered to be a state of large-scale synchrony across thalamus and neocortex; however, recent work has challenged this idea by reporting isolated sleep rhythms such as slow oscillations and spindles. What is the spatial scale of sleep rhythms? To answer this question, we adapted deep learning algorithms initially developed for detecting earthquakes and gravitational waves in high-noise settings for analysis of neural recordings in sleep. We then studied sleep spindles in non-human primate electrocorticography (ECoG), human electroencephalogram (EEG), and clinical intracranial electroencephalogram (iEEG) recordings in the human. Within each recording type, we find widespread spindles occur much more frequently than previously reported. We then analyzed the spatiotemporal patterns of these large-scale, multi-area spindles and, in the EEG recordings, how spindle patterns change following a visual memory task. Our results reveal a potential role for widespread, multi-area spindles in consolidation of memories in networks widely distributed across primate cortex.",
+  "authors": [
+    "Mofrad Maryam H",
+    "Gilmore Greydon",
+    "Koller Dominik",
+    "Mirsattari Seyed M",
+    "Burneo Jorge G",
+    "Steven David A",
+    "Khan Ali R",
+    "Suller Marti Ana",
+    "Muller Lyle"
+  ],
+  "journal": "eLife",
+  "year": "2022",
+  "doi": "10.7554/eLife.75769",
+  "mesh": [
+    "Animals",
+    "Deep Learning",
+    "Electrocorticography",
+    "Electroencephalography",
+    "Memory",
+    "Sleep"
+  ]
+}

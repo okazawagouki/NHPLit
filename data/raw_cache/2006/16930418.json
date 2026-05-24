@@ -1,0 +1,30 @@
+{
+  "pmid": "16930418",
+  "title": "Decision-making and Weber's law: a neurophysiological model.",
+  "abstract": "We describe an integrate-and-fire attractor model of the decision-related activity of ventral premotor cortex (VPC) neurons during a vibrotactile frequency comparison task [Romo et al. (2004)Neuron, 41, 165-173]. Populations of neurons for each decision in a biased competition attractor network receive a bias input that depends on the firing rates of VPC neurons that code for the two vibrotactile frequencies. The firing rate of the neurons in whichever attractor wins, reflects the sign of the difference in the frequencies (Deltaf) being compared but not the absolute frequencies. However, the transition from the initial spontaneous firing state to one of the two possible attractor states depends probabilistically on the difference of the vibrotactile frequencies scaled by the base frequency. This is due to finite size noise effects related to the spiking activity in the network, and the divisive feedback inhibition implemented through inhibitory interneurons. Thus the neurophysiological basis for a psychophysical effect, Weber's Law, can be related to statistical fluctuations and divisive inhibition in an attractor decision-making network.",
+  "authors": [
+    "Deco Gustavo",
+    "Rolls Edmund T"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Afferent Pathways",
+    "Algorithms",
+    "Animals",
+    "Decision Making",
+    "Feedback",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Motor Cortex",
+    "Nerve Net",
+    "Neural Inhibition",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Touch",
+    "Vibration"
+  ]
+}

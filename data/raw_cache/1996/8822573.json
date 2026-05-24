@@ -1,0 +1,29 @@
+{
+  "pmid": "8822573",
+  "title": "Primate striate and prestriate cortical neurons during discrimination. II. separable temporal codes for color and pattern.",
+  "abstract": "1. In the previous paper we reported our analysis of the responses of neurons in cortical areas V1, V2, and V4 to a set of stimuli that consisted of all 36 combinations of six colors and six patterns. Neurons in all three cortical areas simultaneously encoded information about both the color and pattern of the stimulus in the number and temporal distribution of spikes in their responses. To account for this ability, we propose that a neuron's response consists of separable temporal codes representing the color and pattern of the stimulus that are multiplexed together. 2. We used nonlinear regression to fit the model parameters to the data. We used the responses to 30 of the 36 stimuli as a training set to estimate the parameters of the model and the responses to the remaining 6 stimuli as a test set. After training, the model fitted the responses to stimuli in the training sets very well and predicted the responses to stimuli in the test sets. Thus neuronal responses to colored patterns contain separate temporal codes representing color and pattern. 3. After establishing the model parameters, we obtained the waveforms that represented each neuron's temporal codes for the six colors and six patterns of our stimulus set. We then proceeded with a series of analyses to determine whether these waveforms were viable candidates for neuronal codes. Cluster analysis revealed that there were only a few different classes of waveforms representing each color and pattern, and there were many neurons in each class. Further, neurons that used similar waveforms to represent one color or pattern also tended to use similar waveforms to represent other colors or patterns. The waveforms representing five of the six colors and three of the six patterns were similar in the two monkeys used in this study. 4. We compared the shapes of the code waveforms across cortical areas and found no differences among areas in the shapes of the waveforms representing four of the six colors. In contrast, we found that there were differences among areas in the shapes of the waveforms representing all six patterns. These results suggest that messages about color are encoded at an early level and are then propagated upward, but that messages about pattern are altered in each successive cortical area. 5. Our results offer a neurophysiological explanation for the psychophysical evidence that color and form are processed by different channels. We propose that the psychophysical channels for color and pattern arise from the separability of the temporal codes for color and pattern in the responses of single neurons. This hypothesis implies that psychophysical channels correspond to classes of temporal codes rather than to classes of neurons.",
+  "authors": [
+    "McClurkin J W",
+    "Zarbock J A",
+    "Optican L M"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1996",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Brain Mapping",
+    "Color Perception",
+    "Discrimination Learning",
+    "Evoked Potentials, Visual",
+    "Female",
+    "Male",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Psychophysics",
+    "Saccades",
+    "Visual Cortex"
+  ]
+}

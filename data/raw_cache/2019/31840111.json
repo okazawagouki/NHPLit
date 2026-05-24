@@ -1,0 +1,29 @@
+{
+  "pmid": "31840111",
+  "title": "Decoding speech from spike-based neural population recordings in secondary auditory cortex of non-human primates.",
+  "abstract": "Direct electronic communication with sensory areas of the neocortex is a challenging ambition for brain-computer interfaces. Here, we report the first successful neural decoding of English words with high intelligibility from intracortical spike-based neural population activity recorded from the secondary auditory cortex of macaques. We acquired 96-channel full-broadband population recordings using intracortical microelectrode arrays in the rostral and caudal parabelt regions of the superior temporal gyrus (STG). We leveraged a new neural processing toolkit to investigate the choice of decoding algorithm, neural preprocessing, audio representation, channel count, and array location on neural decoding performance. The presented spike-based machine learning neural decoding approach may further be useful in informing future encoding strategies to deliver direct auditory percepts to the brain as specific patterns of microstimulation.",
+  "authors": [
+    "Heelan Christopher",
+    "Lee Jihun",
+    "O'Shea Ronan",
+    "Lynch Laurie",
+    "Brandman David M",
+    "Truccolo Wilson",
+    "Nurmikko Arto V"
+  ],
+  "journal": "Communications biology",
+  "year": "2019",
+  "doi": "10.1038/s42003-019-0707-9",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Algorithms",
+    "Animals",
+    "Auditory Cortex",
+    "Brain Mapping",
+    "Electrophysiological Phenomena",
+    "Models, Theoretical",
+    "Neurons",
+    "Primates",
+    "Speech"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "36917621",
+  "title": "Beta oscillations and waves in motor cortex can be accounted for by the interplay of spatially structured connectivity and fluctuating inputs.",
+  "abstract": "The beta rhythm (13-30 Hz) is a prominent brain rhythm. Recordings in primates during instructed-delay reaching tasks have shown that different types of traveling waves of oscillatory activity are associated with episodes of beta oscillations in motor cortex during movement preparation. We propose here a simple model of motor cortex based on local excitatory-inhibitory neuronal populations coupled by long-range excitation, where additionally inputs to the motor cortex from other neural structures are represented by stochastic inputs on the different model populations. We show that the model accurately reproduces the statistics of recording data when these external inputs are correlated on a short time scale (25 ms) and have two different components, one that targets the motor cortex locally and another one that targets it in a global and synchronized way. The model reproduces the distribution of beta burst durations, the proportion of the different observed wave types, and wave speeds, which we show not to be linked to axonal propagation speed. When the long-range connectivity or the local input targets are anisotropic, traveling waves are found to preferentially propagate along the axis where connectivity decays the fastest. Different from previously proposed mechanistic explanations, the model suggests that traveling waves in motor cortex are the reflection of the dephasing by external inputs, putatively of thalamic origin, of an oscillatory activity that would otherwise be spatially synchronized by recurrent connectivity.",
+  "authors": [
+    "Kang Ling",
+    "Ranft Jonas",
+    "Hakim Vincent"
+  ],
+  "journal": "eLife",
+  "year": "2023",
+  "doi": "10.7554/eLife.81446",
+  "mesh": [
+    "Animals",
+    "Motor Cortex",
+    "Neurons",
+    "Axons",
+    "Movement"
+  ]
+}

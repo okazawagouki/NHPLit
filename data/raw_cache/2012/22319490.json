@@ -1,0 +1,13 @@
+{
+  "pmid": "22319490",
+  "title": "PLDAPS: A Hardware Architecture and Software Toolbox for Neurophysiology Requiring Complex Visual Stimuli and Online Behavioral Control.",
+  "abstract": "Neurophysiological studies in awake, behaving primates (both human and non-human) have focused with increasing scrutiny on the temporal relationship between neural signals and behaviors. Consequently, laboratories are often faced with the problem of developing experimental equipment that can support data recording with high temporal precision and also be flexible enough to accommodate a wide variety of experimental paradigms. To this end, we have developed a MATLAB toolbox that integrates several modern pieces of equipment, but still grants experimenters the flexibility of a high-level programming language. Our toolbox takes advantage of three popular and powerful technologies: the Plexon apparatus for neurophysiological recordings (Plexon, Inc., Dallas, TX, USA), a Datapixx peripheral (Vpixx Technologies, Saint-Bruno, QC, Canada) for control of analog, digital, and video input-output signals, and the Psychtoolbox MATLAB toolbox for stimulus generation (Brainard, 1997; Pelli, 1997; Kleiner et al., 2007). The PLDAPS (\"Platypus\") system is designed to support the study of the visual systems of awake, behaving primates during multi-electrode neurophysiological recordings, but can be easily applied to other related domains. Despite its wide range of capabilities and support for cutting-edge video displays and neural recording systems, the PLDAPS system is simple enough for someone with basic MATLAB programming skills to design their own experiments.",
+  "authors": [
+    "Eastman Kyler M",
+    "Huk Alexander C"
+  ],
+  "journal": "Frontiers in neuroinformatics",
+  "year": "2012",
+  "doi": "10.3389/fninf.2012.00001",
+  "mesh": []
+}

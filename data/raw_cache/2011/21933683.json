@@ -1,0 +1,27 @@
+{
+  "pmid": "21933683",
+  "title": "Wireless multi-channel single unit recording in freely moving and vocalizing primates.",
+  "abstract": "The ability to record well-isolated action potentials from individual neurons in naturally behaving animals is crucial for understanding neural mechanisms underlying natural behaviors. Traditional neurophysiology techniques, however, require the animal to be restrained which often restricts natural behavior. An example is the common marmoset (Callithrix jacchus), a highly vocal New World primate species, used in our laboratory to study the neural correlates of vocal production and sensory feedback. When restrained by traditional neurophysiological techniques marmoset vocal behavior is severely inhibited. Tethered recording systems, while proven effective in rodents pose limitations in arboreal animals such as the marmoset that typically roam in a three-dimensional environment. To overcome these obstacles, we have developed a wireless neural recording technique that is capable of collecting single-unit data from chronically implanted multi-electrodes in freely moving marmosets. A lightweight, low power and low noise wireless transmitter (headstage) is attached to a multi-electrode array placed in the premotor cortex of the marmoset. The wireless headstage is capable of transmitting 15 channels of neural data with signal-to-noise ratio (SNR) comparable to a tethered system. To minimize radio-frequency (RF) and electro-magnetic interference (EMI), the experiments were conducted within a custom designed RF/EMI and acoustically shielded chamber. The individual electrodes of the multi-electrode array were periodically advanced to densely sample the cortical layers. We recorded single-unit data over a period of several months from the frontal cortex of two marmosets. These recordings demonstrate the feasibility of using our wireless recording method to study single neuron activity in freely roaming primates.",
+  "authors": [
+    "Roy Sabyasachi",
+    "Wang Xiaoqin"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2012",
+  "doi": "10.1016/j.jneumeth.2011.09.004",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain",
+    "Callithrix",
+    "Electrodes, Implanted",
+    "Electrophysiology",
+    "Monitoring, Ambulatory",
+    "Movement",
+    "Neurons",
+    "Neurophysiology",
+    "Telemetry",
+    "Vocalization, Animal",
+    "Wireless Technology"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "41855204",
+  "title": "De novo fast motion computation in the primate visual cortex.",
+  "abstract": "Objects move through space and time, generating sequential visuotopic activations in all sighted animals, leading to velocity perception defined by direction and speed. The primary visual cortex (V1) only encodes directionality at low speed, yet we effortlessly perceive velocities ranging from 0.25°/s to 500°/s. To resolve this paradox, we recorded neuronal responses to moving dots, gratings, and movies across the lateral geniculate nucleus (LGN), V1, middle temporal (MT) area, and medial superior temporal (MST) area of the macaque motion pathway. Regardless of cell type and motion stimuli, V1 neurons lost direction selectivity at ∼29°/s, while MT and MST neurons maintained it up to ∼82°/s and ∼183°/s, respectively. A cascaded spatiotemporal integration model reveals that at each cortex, direction-selective neurons can generate velocity selectivity de novo by integrating sequential visuotopic activations from preceding areas, irrespective of speed and directionality. Computing velocity anew by shifting \"gears\" within the motion hierarchy offers insights for information processing in other species, modalities, and machine vision.",
+  "authors": [
+    "He Keyan",
+    "Liu Lixuan",
+    "Luo Junxiang",
+    "Lu Yiliang",
+    "Yin Jiapeng",
+    "Liu Yingfan",
+    "Xie Wenheng",
+    "Li Yizhejun",
+    "Li Xiaohong",
+    "Andolina Ian Max",
+    "Shipp Stewart",
+    "Yu Hongbo",
+    "Wang Ye",
+    "Xing Dajun",
+    "McLoughlin Niall",
+    "Wang Wei"
+  ],
+  "journal": "Cell reports",
+  "year": "2026",
+  "doi": "10.1016/j.celrep.2026.117080",
+  "mesh": []
+}

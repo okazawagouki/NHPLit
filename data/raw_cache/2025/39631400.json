@@ -1,0 +1,26 @@
+{
+  "pmid": "39631400",
+  "title": "A language model of problem solving in humans and macaque monkeys.",
+  "abstract": "Human intelligence is characterized by the remarkable ability to solve complex problems by planning a sequence of actions that takes us from an initial state to a desired goal state. Quantifying and comparing problem-solving capabilities across species and finding their evolutionary roots are critical for understanding how the brain carries out this intricate process. We introduce the Language of Problem Solving (LoPS) model as a novel quantitative framework that investigates the structure of problem-solving behavior through a language model. We applied the model to an adapted classic Pac-Man game as a cross-species behavioral paradigm to test both humans and macaque monkeys. The LoPS model extracted the latent structure, or grammar, embedded in the agents' gameplay, revealing the non-Markovian temporal dependency structure of their problem-solving behavior and the hierarchical structures of problem solving in both species. The complexity of LoPS grammar correlated with individuals' game performance and reflected the difference in problem-solving capacity between humans and monkeys. Both species evolved their LoPS grammars during learning, progressing from simpler to more complex ones, suggesting that the structure of problem solving is not fixed but evolves to support more sophisticated and efficient problem solving. Our study provides insights into how humans and monkeys break down problem solving into compositional units and navigate complex tasks, deepening our understanding of human intelligence and its evolution and establishing a foundation for future investigations of the neural mechanisms of problem solving.",
+  "authors": [
+    "Yang Qianli",
+    "Zhu Zhihua",
+    "Si Ruoguang",
+    "Li Yunwei",
+    "Zhang Jiaxiang",
+    "Yang Tianming"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2025",
+  "doi": "10.1016/j.cub.2024.10.074",
+  "mesh": [
+    "Animals",
+    "Problem Solving",
+    "Humans",
+    "Language",
+    "Macaca mulatta",
+    "Male",
+    "Female",
+    "Macaca"
+  ]
+}

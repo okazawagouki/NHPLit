@@ -1,0 +1,15 @@
+{
+  "pmid": "39605643",
+  "title": "Neural networks simulating short-term memory of two inputs with varying commonality.",
+  "abstract": "The activity and connectivity of neurons in the primate brain underlying behavior cannot yet be completely specified, but neural networks provide complete models of the connectivity and activity that performs specific tasks and provide insight into the neural computations performed by the primate brain (Fetz and Shupe 2003). Studies of neurons in the monkey cortex have shown that short-term memory of sensory events may be mediated by sustained neural activity. Short-term memory tasks have been modeled with dynamic neural networks using a single continuous variable and a gate input to create a sample-and-hold (SAH) function (Zipser 1991; Maier 2003). Networks trained to perform these short-term memory tasks develop hidden unit activity which resembles that of cortical neurons in monkeys performing memory tasks. We here extend the investigation of single-input SAH networks to networks computing SAH for two continuous-variable inputs that have varying degrees of common mode signal. Results provide insights into computational mechanisms of associative short-term memory of sensory signals with common mode components, such as visual inputs to the two eyes, auditory inputs to the ears and proprioceptive input from multiple muscle spindle afferents. We also examined the attractor states that these SAH networks eventually reach after sufficiently long delay periods and found that these were determined by the shapes of the input-output functions of the hidden units rather than network architecture.",
+  "authors": [
+    "Raman Eric",
+    "Shupe Larry",
+    "Eaton Ryan",
+    "Fetz Eberhard"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.11.20.624539",
+  "mesh": []
+}

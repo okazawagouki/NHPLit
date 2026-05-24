@@ -1,0 +1,23 @@
+{
+  "pmid": "8974732",
+  "title": "A simple competitive account of some response properties of visual neurons in area MSTd.",
+  "abstract": "A simple and biologically plausible model is proposed to simulate the optic flow computation taking place in the dorsal part of medial superior temporal (MSTd) area of the visual cortex in the primates' brain. The model is a neural network composed of competitive learning layers. The input layer of the network simulates the neurons in the middle temporal (MT) area that selectively respond to the visual stimuli of the input motion patterns with different local velocities. The output layer of the network simulates the MSTd neurons that selectively respond to different types of optic flow motion patterns including planar, circular, radial, and spiral motions. Simulation results obtained from this model show that the behaviors of the output nodes of the network resemble very closely the known responsive properties of the MSTd neurons found neurophysiologically, such as the existence of three types of MSTd neurons that respond, respectively, to one, two, or three types of the input motion patterns with different position dependences, and the continuum of response selectivity formed by the three types of neurons.",
+  "authors": [
+    "Wang R"
+  ],
+  "journal": "Neural computation",
+  "year": "1995",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Artificial Intelligence",
+    "Computer Simulation",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons, Afferent",
+    "Primates",
+    "Vision, Ocular",
+    "Visual Cortex",
+    "Visual Fields"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "21096397",
+  "title": "Comparison of force and power generation patterns and their predictions under different external dynamic environments.",
+  "abstract": "Use of neural activity to predict kinematic variables such as position, velocity and direction etc of movements has been implemented in real-time control of robotic systems and computer cursors. In everyday life, however, we generate variable amounts of force to manipulate objects of different inertial properties or to follow the same trajectory under different external dynamic environments like air or water. The resultant work during such movements, and its time derivative power, should depend on the dynamics of the movement. In order to give the users of a brain-machine interface (BMI) comprehensive control of a prosthetic limb under different dynamic conditions, it is imperative to consider the dynamics-related parameters like end-effector forces, joint torques or power. In this paper, we show distribution patterns of two such dynamics parameters - force and power - and their predictive efficiency under different dynamic environmental conditions. We intend to find the force-related parameter, which has optimal predictive efficiency across different dynamic environments that is generalization. Our ultimate goal is to materialize a force-based brain-machine interface (fBMI).",
+  "authors": [
+    "Chhatbar Pratik Y",
+    "Francis Joseph T"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2010",
+  "doi": "10.1109/IEMBS.2010.5626832",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Electroencephalography",
+    "Energy Transfer",
+    "Evoked Potentials, Motor",
+    "Female",
+    "Macaca radiata",
+    "Movement",
+    "Muscle Contraction",
+    "Muscle, Skeletal",
+    "Pattern Recognition, Automated"
+  ]
+}

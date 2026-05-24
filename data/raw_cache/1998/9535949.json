@@ -1,0 +1,27 @@
+{
+  "pmid": "9535949",
+  "title": "Information about spatial view in an ensemble of primate hippocampal cells.",
+  "abstract": "Hippocampal function was analyzed by making recordings from hippocampal neurons in monkeys actively walking in the laboratory. \"Spatial view\" cells, which respond when the monkey looks at a part of the environment, were analyzed. To assess quantitatively the information about the spatial environment represented by these cells, we applied information theoretic techniques to their responses. The average information provided by these cells about which location the monkey was looking at was 0.32 bits, and the mean across cells of the maximum information conveyed about which location was being looked at was 1.19 bits, measured in a period of 0.5 s. There were 16 locations for this analysis, each being one-quarter of one of the walls of the room. It also was shown that the mean spontaneous rate of firing of the neurons was 0.1 spikes/s, that the mean firing rate in the center of the spatial field of the neurons was 13.2 spikes/s, and that the mean sparseness of the representation measured in a 25-ms period was 0.04 and in a 500-ms time period was 0.19. (The sparseness is approximately equivalent to the proportion of the 25- or 500-ms periods in which the neurons showed one or more spikes.) Next it was shown that the mean size of the view fields of the neurons was 0.9 of a wall. In an approach to the issue of how an ensemble of neurons might together provide more precise information about spatial location than a single neuron, it was shown that in general the neurons had different centers for their view fields. It then was shown that the information from an ensemble of these cells about where in space is being looked at increases approximately linearly with the number of cells in the ensemble. This indicates that the number of places that can be represented increases approximately exponentially with the number of cells in the population. It is concluded that there is an accurate representation of space \"out there\" in the primate hippocampus. This representation of space out there would be an appropriate part of a primate memory system involved in memories of where in an environment an object was seen, and more generally in the memory of particular events or episodes, for which a spatial component normally provides part of the context.",
+  "authors": [
+    "Rolls E T",
+    "Treves A",
+    "Robertson R G",
+    "Georges-François P",
+    "Panzeri S"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cell Count",
+    "Cues",
+    "Hippocampus",
+    "Information Theory",
+    "Likelihood Functions",
+    "Macaca mulatta",
+    "Neurons",
+    "Spatial Behavior"
+  ]
+}

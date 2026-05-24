@@ -1,0 +1,33 @@
+{
+  "pmid": "39705808",
+  "title": "Understanding responses to multi-electrode epiretinal stimulation using a biophysical model.",
+  "abstract": "<i>Objective.</i>Neural interfaces are designed to evoke specific patterns of electrical activity in populations of neurons by stimulating with many electrodes. However, currents passed simultaneously through multiple electrodes often combine nonlinearly to drive neural responses, making evoked responses difficult to predict and control. This response nonlinearity could arise from the interaction of many excitable sites in each cell, any of which can produce a spike. However, this multi-site activation hypothesis is difficult to verify experimentally.<i>Approach.</i>We developed a biophysical model to study retinal ganglion cell responses to multi-electrode stimulation and validated it using data collected from<i>ex vivo</i>preparations of the macaque retina using a microelectrode array (512 electrodes; 30<i>µ</i>m pitch; 10<i>µ</i>m diameter).<i>Results.</i>First, the model was validated by using it to reproduce essential empirical findings from single-electrode recording and stimulation, including recorded spike voltage waveforms at multiple locations and sigmoidal responses to injected current. Then, stimulation with two electrodes was modeled to test how the positioning of the electrodes relative to the cell affected the degree of response nonlinearity. Currents passed through pairs of electrodes positioned near the cell body or far from the axon (>40<i>µ</i>m) exhibited approximately linear summation in evoking spikes. Currents passed through pairs of electrodes close to the axon summed linearly when their locations along the axon were similar, and nonlinearly otherwise. Over a range of electrode placements, several distinct, localized spike initiation sites were observed, and the number of these sites covaried with the degree of response nonlinearity. Similar trends were observed for three-electrode stimuli. All of these trends in the simulation were consistent with experimental observations.<i>Significance.</i>These findings support the multi-site activation hypothesis for nonlinear activation of neurons, providing a biophysical interpretation of previous experimental results and potentially enabling more efficient use of multi-electrode stimuli in future neural implants.",
+  "authors": [
+    "Vilkhu Ramandeep S",
+    "Vasireddy Praful K",
+    "Kish Kathleen E",
+    "Gogliettino Alex R",
+    "Lotlikar Amrith",
+    "Hottowy Pawel",
+    "Dabrowski Wladyslaw",
+    "Sher Alexander",
+    "Litke Alan M",
+    "Mitra Subhasish",
+    "Chichilnisky E J"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2025",
+  "doi": "10.1088/1741-2552/ada1fe",
+  "mesh": [
+    "Animals",
+    "Retinal Ganglion Cells",
+    "Models, Neurological",
+    "Microelectrodes",
+    "Action Potentials",
+    "Electric Stimulation",
+    "Electrodes, Implanted",
+    "Macaca mulatta",
+    "Retina",
+    "Biophysical Phenomena"
+  ]
+}

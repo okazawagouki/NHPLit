@@ -1,0 +1,39 @@
+{
+  "pmid": "26269496",
+  "title": "A wireless transmission neural interface system for unconstrained non-human primates.",
+  "abstract": "OBJECTIVE: Studying the brain in large animal models in a restrained laboratory rig severely limits our capacity to examine brain circuits in experimental and clinical applications. APPROACH: To overcome these limitations, we developed a high-fidelity 96-channel wireless system to record extracellular spikes and local field potentials from the neocortex. A removable, external case of the wireless device is attached to a titanium pedestal placed in the animal skull. Broadband neural signals are amplified, multiplexed, and continuously transmitted as TCP/IP data at a sustained rate of 24 Mbps. A Xilinx Spartan 6 FPGA assembles the digital signals into serial data frames for transmission at 20 kHz though an 802.11n wireless data link on a frequency-shift key-modulated signal at 5.7-5.8 GHz to a receiver up to 10 m away. The system is powered by two CR123A, 3 V batteries for 2 h of operation. MAIN RESULTS: We implanted a multi-electrode array in visual area V4 of one anesthetized monkey (Macaca fascicularis) and in the dorsolateral prefrontal cortex (dlPFC) of a freely moving monkey (Macaca mulatta). The implanted recording arrays were electrically stable and delivered broadband neural data over a year of testing. For the first time, we compared dlPFC neuronal responses to the same set of stimuli (food reward) in restrained and freely moving conditions. Although we did not find differences in neuronal responses as a function of reward type in the restrained and unrestrained conditions, there were significant differences in correlated activity. This demonstrates that measuring neural responses in freely moving animals can capture phenomena that are absent in the traditional head-fixed paradigm. SIGNIFICANCE: We implemented a wireless neural interface for multi-electrode recordings in freely moving non-human primates, which can potentially move systems neuroscience to a new direction by allowing one to record neural signals while animals interact with their environment.",
+  "authors": [
+    "Fernandez-Leon Jose A",
+    "Parajuli Arun",
+    "Franklin Robert",
+    "Sorenson Michael",
+    "Felleman Daniel J",
+    "Hansen Bryan J",
+    "Hu Ming",
+    "Dragoi Valentin"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2015",
+  "doi": "10.1088/1741-2560/12/5/056005",
+  "mesh": [
+    "Animals",
+    "Computer Communication Networks",
+    "Electric Power Supplies",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Equipment Design",
+    "Equipment Failure Analysis",
+    "Evoked Potentials",
+    "Humans",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Male",
+    "Miniaturization",
+    "Monitoring, Ambulatory",
+    "Neocortex",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Signal Processing, Computer-Assisted",
+    "Wireless Technology"
+  ]
+}

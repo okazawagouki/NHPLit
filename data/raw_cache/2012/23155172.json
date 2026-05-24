@@ -1,0 +1,25 @@
+{
+  "pmid": "23155172",
+  "title": "Movement representation in the primary motor cortex and its contribution to generalizable EMG predictions.",
+  "abstract": "It is well known that discharge of neurons in the primary motor cortex (M1) depends on end-point force and limb posture. However, the details of these relations remain unresolved. With the development of brain-machine interfaces (BMIs), these issues have taken on practical as well as theoretical importance. We examined how the M1 encodes movement by comparing single-neuron and electromyographic (EMG) preferred directions (PDs) and by predicting force and EMGs from multiple neurons recorded during an isometric wrist task. Monkeys moved a cursor from a central target to one of eight peripheral targets by exerting force about the wrist while the forearm was held in one of two postures. We fit tuning curves to both EMG and M1 activity measured during the hold period, from which we computed both PDs and the change in PD between forearm postures (ΔPD). We found a unimodal distribution of these ΔPDs, the majority of which were intermediate between the typical muscle response and an unchanging, extrinsic coordinate system. We also discovered that while most neuron-to-EMG predictions generalized well across forearm postures, end-point force measured in extrinsic coordinates did not. The lack of force generalization was due to musculoskeletal changes with posture. Our results show that the dynamics of most of the recorded M1 signals are similar to those of muscle activity and imply that a BMI designed to drive an actuator with dynamics like those of muscles might be more robust and easier to learn than a BMI that commands forces or movements in external coordinates.",
+  "authors": [
+    "Oby Emily R",
+    "Ethier Christian",
+    "Miller Lee E"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2013",
+  "doi": "10.1152/jn.00331.2012",
+  "mesh": [
+    "Animals",
+    "Electromyography",
+    "Generalization, Psychological",
+    "Locomotion",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Muscle, Skeletal",
+    "Neurons",
+    "Posture",
+    "Wrist"
+  ]
+}

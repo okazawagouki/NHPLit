@@ -1,0 +1,29 @@
+{
+  "pmid": "40262392",
+  "title": "Deep transfer learning-based decoder calibration for intracortical brain-machine interfaces.",
+  "abstract": "Intracortical brain-machine interfaces (iBMIs) aim to establish a communication path between the brain and external devices. However, in the daily use of iBMIs, the non-stationarity of recorded neural signals necessitates frequent recalibration of the iBMI decoder to maintain decoding performance, which requires collecting and labeling a large amount of new data. To address this challenge and minimize the time needed for decoder recalibration, we proposed an active learning domain adversarial neural network (AL-DANN). This model leveraged a substantial volume of historical data alongside a small amount of current data (four samples per category) to calibrate the decoder. By incorporating domain adversarial and active learning strategies, the model effectively transferred knowledge from historical data to new data, reducing the demand for new samples. We validated the proposed method using neural signals recorded from three monkeys performing different movements in a classification task or a regression task. The results showed that the AL-DANN outperformed existing state-of-the-art methods. Impressively, it required only four new samples per category for decoder recalibration, leading to a recalibration time reduction of over 80 %. To our knowledge, this is the first study to incorporate deep transfer learning into iBMI decoder calibration, highlighting the significant potential of applying deep learning technologies in iBMIs.",
+  "authors": [
+    "Li Xiao",
+    "Dong Xianxin",
+    "Wang Jun",
+    "Mao Haodong",
+    "Tu Xikai",
+    "Li Wei",
+    "He Jiping",
+    "Li Qiang",
+    "Zhang Peng"
+  ],
+  "journal": "Computers in biology and medicine",
+  "year": "2025",
+  "doi": "10.1016/j.compbiomed.2025.110231",
+  "mesh": [
+    "Brain-Computer Interfaces",
+    "Animals",
+    "Deep Learning",
+    "Macaca mulatta",
+    "Calibration",
+    "Neural Networks, Computer",
+    "Male",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pmid": "28377699",
+  "title": "Computational Model of Recurrent Subthalamo-Pallidal Circuit for Generation of Parkinsonian Oscillations.",
+  "abstract": "Parkinson's disease is a movement disorder caused by dopamine depletion in the basal ganglia. Abnormally synchronized neuronal oscillations between 8 and 15 Hz in the basal ganglia are implicated in motor symptoms of Parkinson's disease. However, how these abnormal oscillations are generated and maintained in the dopamine-depleted state is unknown. Based on neural recordings in a primate model of Parkinson's disease and other experimental and computational evidence, we hypothesized that the recurrent circuit between the subthalamic nucleus (STN) and the external segment of the globus pallidus (GPe) generates and maintains parkinsonian oscillations, and that the cortical excitatory input to the STN amplifies them. To investigate this hypothesis through computer simulations, we developed a spiking neuron model of the STN-GPe circuit by incorporating electrophysiological properties of neurons and synapses. A systematic parameter search by computer simulation identified regions in the space of the intrinsic excitability of GPe neurons and synaptic strength from the GPe to the STN that reproduce normal and parkinsonian states. In the parkinsonian state, reduced firing of GPe neurons and increased GPe-STN inhibition trigger burst activities of STN neurons with strong post-inhibitory rebound excitation, which is usually subject to short-term depression. STN neuronal bursts are shaped into the 8-15 Hz, synchronous oscillations via recurrent interactions of STN and GPe neurons. Furthermore, we show that cortical excitatory input to the STN can amplify or suppress pathological STN oscillations depending on their phase and strength, predicting conditions of cortical inputs to the STN for suppressing oscillations.",
+  "authors": [
+    "Shouno Osamu",
+    "Tachibana Yoshihisa",
+    "Nambu Atsushi",
+    "Doya Kenji"
+  ],
+  "journal": "Frontiers in neuroanatomy",
+  "year": "2017",
+  "doi": "10.3389/fnana.2017.00021",
+  "mesh": []
+}

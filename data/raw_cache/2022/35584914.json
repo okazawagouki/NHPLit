@@ -1,0 +1,20 @@
+{
+  "pmid": "35584914",
+  "title": "Comparing Surrogates to Evaluate Precisely Timed Higher-Order Spike Correlations.",
+  "abstract": "The generation of surrogate data, i.e., the modification of data to destroy a certain feature, can be considered as the implementation of a null-hypothesis whenever an analytical approach is not feasible. Thus, surrogate data generation has been extensively used to assess the significance of spike correlations in parallel spike trains. In this context, one of the main challenges is to properly construct the desired null-hypothesis distribution and to avoid altering the single spike train statistics. A classical surrogate technique is uniform dithering (UD), which displaces spikes locally and uniformly distributed, to destroy temporal properties on a fine timescale while keeping them on a coarser one. Here, we compare UD against five similar surrogate techniques in the context of the detection of significant spatiotemporal spike patterns. We evaluate the surrogates for their performance, first on spike trains based on point process models with constant firing rate, and second on modeled nonstationary artificial data to assess the potential detection of false positive (FP) patterns in a more complex and realistic setting. We determine which statistical features of the spike trains are modified and to which extent. Moreover, we find that UD fails as an appropriate surrogate because it leads to a loss of spikes in the context of binning and clipping, and thus to a large number of FP patterns. The other surrogates achieve a better performance in detecting precisely timed higher-order correlations. Based on these insights, we analyze experimental data from the pre-/motor cortex of macaque monkeys during a reaching-and-grasping task.",
+  "authors": [
+    "Stella Alessandra",
+    "Bouss Peter",
+    "Palm Günther",
+    "Grün Sonja"
+  ],
+  "journal": "eNeuro",
+  "year": "2022",
+  "doi": "10.1523/ENEURO.0505-21.2022",
+  "mesh": [
+    "Action Potentials",
+    "Hand Strength",
+    "Models, Neurological",
+    "Motor Cortex"
+  ]
+}

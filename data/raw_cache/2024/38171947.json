@@ -1,0 +1,29 @@
+{
+  "pmid": "38171947",
+  "title": "Photoacoustic imaging of squirrel monkey cortical responses induced by peripheral mechanical stimulation.",
+  "abstract": "Non-human primates (NHPs) are crucial models for studies of neuronal activity. Emerging photoacoustic imaging modalities offer excellent tools for studying NHP brains with high sensitivity and high spatial resolution. In this research, a photoacoustic microscopy (PAM) device was used to provide a label-free quantitative characterization of cerebral hemodynamic changes due to peripheral mechanical stimulation. A 5 × 5 mm area within the somatosensory cortex region of an adult squirrel monkey was imaged. A deep, fully connected neural network was characterized and applied to the PAM images of the cortex to enhance the vessel structures after mechanical stimulation on the forelimb digits. The quality of the PAM images was improved significantly with a neural network while preserving the hemodynamic responses. The functional responses to the mechanical stimulation were characterized based on the improved PAM images. This study demonstrates capability of PAM combined with machine learning for functional imaging of the NHP brain.",
+  "authors": [
+    "Chang Kai-Wei",
+    "Karthikesh Madhumithra Subramanian",
+    "Zhu Yunhao",
+    "Hudson Heather M",
+    "Barbay Scott",
+    "Bundy David",
+    "Guggenmos David J",
+    "Frost Shawn",
+    "Nudo Randolph J",
+    "Wang Xueding",
+    "Yang Xinmai"
+  ],
+  "journal": "Journal of biophotonics",
+  "year": "2024",
+  "doi": "10.1002/jbio.202300347",
+  "mesh": [
+    "Animals",
+    "Saimiri",
+    "Photoacoustic Techniques",
+    "Microscopy",
+    "Hemodynamics",
+    "Neurons"
+  ]
+}

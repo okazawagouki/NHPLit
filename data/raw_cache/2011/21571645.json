@@ -1,0 +1,28 @@
+{
+  "pmid": "21571645",
+  "title": "Adaptive shape processing in primary visual cortex.",
+  "abstract": "The ability to derive meaning from complex sensory input requires the integration of information over space and time, as well as cognitive mechanisms to shape that integration. We studied these processes in the primary visual cortex (V1), where neurons are thought to integrate visual inputs along contours defined by an association field (AF). We recorded extracellularly from single cells in macaque V1 to map the AF, by using an optimization algorithm to find the contours that maximally activated individual cells. We combined the algorithm with a delayed-match-to-sample task, to test how the optimal contours might be molded by the monkey's expectation for particular cue shapes. We found that V1 neurons were selective for complex shapes, a property previously ascribed to higher cortical areas. Furthermore, the shape selectivity was reprogrammed by perceptual task: Over the whole network, the optimal modes of geometric selectivity shifted between distinct subsets of the AF, alternately representing different stimulus features known to predominate in natural scenes. Our results suggest a general model of cortical function, whereby horizontal connections provide a broad domain of potential associations, and top-down inputs dynamically gate these linkages to task switch the function of a network.",
+  "authors": [
+    "McManus Justin N J",
+    "Li Wu",
+    "Gilbert Charles D"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2011",
+  "doi": "10.1073/pnas.1105855108",
+  "mesh": [
+    "Adaptation, Physiological",
+    "Algorithms",
+    "Animals",
+    "Cues",
+    "Form Perception",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Photic Stimulation",
+    "Task Performance and Analysis",
+    "Visual Cortex"
+  ]
+}

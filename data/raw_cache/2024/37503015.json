@@ -1,0 +1,19 @@
+{
+  "pmid": "37503015",
+  "title": "Nonlinear manifolds underlie neural population activity during behaviour.",
+  "abstract": "There is rich variety in the activity of single neurons recorded during behaviour. Yet, these diverse single neuron responses can be well described by relatively few patterns of neural co-modulation. The study of such low-dimensional structure of neural population activity has provided important insights into how the brain generates behaviour. Virtually all of these studies have used linear dimensionality reduction techniques to estimate these population-wide co-modulation patterns, constraining them to a flat \"neural manifold\". Here, we hypothesised that since neurons have nonlinear responses and make thousands of distributed and recurrent connections that likely amplify such nonlinearities, neural manifolds should be intrinsically nonlinear. Combining neural population recordings from monkey, mouse, and human motor cortex, and mouse striatum, we show that: 1) neural manifolds are intrinsically nonlinear; 2) their nonlinearity becomes more evident during complex tasks that require more varied activity patterns; and 3) manifold nonlinearity varies across architecturally distinct brain regions. Simulations using recurrent neural network models confirmed the proposed relationship between circuit connectivity and manifold nonlinearity, including the differences across architecturally distinct regions. Thus, neural manifolds underlying the generation of behaviour are inherently nonlinear, and properly accounting for such nonlinearities will be critical as neuroscientists move towards studying numerous brain regions involved in increasingly complex and naturalistic behaviours.",
+  "authors": [
+    "Fortunato Cátia",
+    "Bennasar-Vázquez Jorge",
+    "Park Junchol",
+    "Chang Joanna C",
+    "Miller Lee E",
+    "Dudman Joshua T",
+    "Perich Matthew G",
+    "Gallego Juan A"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2023.07.18.549575",
+  "mesh": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "28334424",
+  "title": "Frequency and function in the basal ganglia: the origins of beta and gamma band activity.",
+  "abstract": "KEY POINTS: Neuronal oscillations in the basal ganglia have been observed to correlate with behaviours, although the causal mechanisms and functional significance of these oscillations remain unknown. We present a novel computational model of the healthy basal ganglia, constrained by single unit recordings from non-human primates. When the model is run using inputs that might be expected during performance of a motor task, the network shows emergent phenomena: it functions as a selection mechanism and shows spectral properties that match those seen in vivo. Beta frequency oscillations are shown to require pallido-striatal feedback, and occur with behaviourally relevant cortical input. Gamma oscillations arise in the subthalamic-globus pallidus feedback loop, and occur during movement. The model provides a coherent framework for the study of spectral, temporal and functional analyses of the basal ganglia and lays the foundation for an integrated approach to study basal ganglia pathologies such as Parkinson's disease in silico. ABSTRACT: Neural oscillations in the basal ganglia (BG) are well studied yet remain poorly understood. Behavioural correlates of spectral activity are well described, yet a quantitative hypothesis linking time domain dynamics and spectral properties to BG function has been lacking. We show, for the first time, that a unified description is possible by interpreting previously ignored structure in data describing globus pallidus interna responses to cortical stimulation. These data were used to expose a pair of distinctive neuronal responses to the stimulation. This observation formed the basis for a new mathematical model of the BG, quantitatively fitted to the data, which describes the dynamics in the data, and is validated against other stimulus protocol experiments. A key new result is that when the model is run using inputs hypothesised to occur during the performance of a motor task, beta and gamma frequency oscillations emerge naturally during static-force and movement, respectively, consistent with experimental local field potentials. This new model predicts that the pallido-striatum connection has a key role in the generation of beta band activity, and that the gamma band activity associated with motor task performance has its origins in the pallido-subthalamic feedback loop. The network's functionality as a selection mechanism also occurs as an emergent property, and closer fits to the data gave better selection properties. The model provides a coherent framework for the study of spectral, temporal and functional analyses of the BG and therefore lays the foundation for an integrated approach to study BG pathologies such as Parkinson's disease in silico.",
+  "authors": [
+    "Blenkinsop Alexander",
+    "Anderson Sean",
+    "Gurney Kevin"
+  ],
+  "journal": "The Journal of physiology",
+  "year": "2017",
+  "doi": "10.1113/JP273760",
+  "mesh": [
+    "Animals",
+    "Basal Ganglia",
+    "Beta Rhythm",
+    "Gamma Rhythm",
+    "Models, Neurological"
+  ]
+}

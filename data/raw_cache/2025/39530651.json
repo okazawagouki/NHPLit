@@ -1,0 +1,21 @@
+{
+  "pmid": "39530651",
+  "title": "Can human brain connectivity explain verbal working memory?",
+  "abstract": "The ability of humans to store spoken words in verbal working memory and build extensive vocabularies is believed to stem from evolutionary changes in cortical connectivity across primate species. However, the underlying neurobiological mechanisms remain unclear. Why can humans acquire vast vocabularies, while non-human primates cannot? This study addresses this question using brain-constrained neural networks that realize between-species differences in cortical connectivity. It investigates how these structural differences support the formation of neural representations for spoken words and the emergence of verbal working memory, crucial for human vocabulary building. We develop comparative models of frontotemporal and occipital cortices, reflecting human and non-human primate neuroanatomy. Using meanfield and spiking neural networks, we simulate auditory word recognition and examine verbal working memory function. The \"human models\", characterized by denser inter-area connectivity in core language areas, produced larger cell assemblies than the \"monkey models\", with specific topographies reflecting semantic properties of the represented words. Crucially, longer-lasting reverberant neural activity was observed in human versus monkey architectures, compatible with robust verbal working memory, a necessary condition for vocabulary building. Our findings offer insights into the structural basis of human-specific symbol learning and verbal working memory, shedding light on humans' unique capacity for large vocabulary acquisition.",
+  "authors": [
+    "Carriere Maxime",
+    "Tomasello Rosario",
+    "Pulvermüller Friedemann"
+  ],
+  "journal": "Network (Bristol, England)",
+  "year": "2025",
+  "doi": "10.1080/0954898X.2024.2421196",
+  "mesh": [
+    "Humans",
+    "Memory, Short-Term",
+    "Brain",
+    "Animals",
+    "Models, Neurological",
+    "Nerve Net"
+  ]
+}

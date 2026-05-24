@@ -1,0 +1,20 @@
+{
+  "pmid": "32211122",
+  "title": "LEARNING 3D WHITE MATTER MICROSTRUCTURE FROM 2D HISTOLOGY.",
+  "abstract": "Histological analysis is typically the gold standard for validating measures of tissue microstructure derived from magnetic resonance imaging (MRI) contrasts. However, most histological investigations are inherently 2-dimensional (2D), due to increased field-of-view, higher in-plane resolutions, ease of acquisition, decreased costs, and a large number of available contrasts compared to 3-dimensional (3D) analysis. Because of this, it would be of great interest to be able to learn the 3D tissue microstructure from 2D histology. In this study, we use diffusion MRI (dMRI) of a squirrel monkey brain and corresponding myelin stained sections in combination with a convolution neural network to learn the relationship between the 3D diffusion estimated axonal fiber orientation distributions and the 2D myelin stain. We find that we are able to estimate the 3D fiber distribution with moderate to high angular agreement with the ground truth (median angular correlation coefficients of 0.48 across the unseen slices). This network could be used to validate dMRI neuronal structural measurements in 3D, even if only 2D histology is available for validation. Generalization is possible to transfer this network to human stained sections to infer the 3D fiber distribution at resolutions currently unachievable with dMRI, which would allow diffusion fiber tractography at unprecedented resolutions. We envision the use of similar networks to learn other 3D microstructural measures from an array of potential common 2D histology contrasts.",
+  "authors": [
+    "Nath Vishwesh",
+    "Schilling Kurt G",
+    "Remedios Samuel",
+    "Bayrak Roza G",
+    "Gao Yurui",
+    "Blaber Justin A",
+    "Huo Yuankai",
+    "Landman Bennett A",
+    "Anderson A W"
+  ],
+  "journal": "Proceedings. IEEE International Symposium on Biomedical Imaging",
+  "year": "2019",
+  "doi": "10.1109/isbi.2019.8759388",
+  "mesh": []
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "26041916",
+  "title": "Sloppiness in spontaneously active neuronal networks.",
+  "abstract": "Various plasticity mechanisms, including experience-dependent, spontaneous, as well as homeostatic ones, continuously remodel neural circuits. Yet, despite fluctuations in the properties of single neurons and synapses, the behavior and function of neuronal assemblies are generally found to be very stable over time. This raises the important question of how plasticity is coordinated across the network. To address this, we investigated the stability of network activity in cultured rat hippocampal neurons recorded with high-density multielectrode arrays over several days. We used parametric models to characterize multineuron activity patterns and analyzed their sensitivity to changes. We found that the models exhibited sloppiness, a property where the model behavior is insensitive to changes in many parameter combinations, but very sensitive to a few. The activity of neurons with sloppy parameters showed faster and larger fluctuations than the activity of a small subset of neurons associated with sensitive parameters. Furthermore, parameter sensitivity was highly correlated with firing rates. Finally, we tested our observations from cell cultures on an in vivo recording from monkey visual cortex and we confirm that spontaneous cortical activity also shows hallmarks of sloppy behavior and firing rate dependence. Our findings suggest that a small subnetwork of highly active and stable neurons supports group stability, and that this endows neuronal networks with the flexibility to continuously remodel without compromising stability and function.",
+  "authors": [
+    "Panas Dagmara",
+    "Amin Hayder",
+    "Maccione Alessandro",
+    "Muthmann Oliver",
+    "van Rossum Mark",
+    "Berdondini Luca",
+    "Hennig Matthias H"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.4421-14.2015",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain",
+    "Cells, Cultured",
+    "Electric Stimulation",
+    "Embryo, Mammalian",
+    "Entropy",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Pathways",
+    "Neurons",
+    "Rats",
+    "Synapses",
+    "Visual Cortex"
+  ]
+}

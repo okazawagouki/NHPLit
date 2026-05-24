@@ -1,0 +1,29 @@
+{
+  "pmid": "18337361",
+  "title": "The brain stem saccadic burst generator encodes gaze in three-dimensional space.",
+  "abstract": "When we look between objects located at different depths the horizontal movement of each eye is different from that of the other, yet temporally synchronized. Traditionally, a vergence-specific neuronal subsystem, independent from other oculomotor subsystems, has been thought to generate all eye movements in depth. However, recent studies have challenged this view by unmasking interactions between vergence and saccadic eye movements during disconjugate saccades. Here, we combined experimental and modeling approaches to address whether the premotor command to generate disconjugate saccades originates exclusively in \"vergence centers.\" We found that the brain stem burst generator, which is commonly assumed to drive only the conjugate component of eye movements, carries substantial vergence-related information during disconjugate saccades. Notably, facilitated vergence velocities during disconjugate saccades were synchronized with the burst onset of excitatory and inhibitory brain stem saccadic burst neurons (SBNs). Furthermore, the time-varying discharge properties of the majority of SBNs (>70%) preferentially encoded the dynamics of an individual eye during disconjugate saccades. When these experimental results were implemented into a computer-based simulation, to further evaluate the contribution of the saccadic burst generator in generating disconjugate saccades, we found that it carries all the vergence drive that is necessary to shape the activity of the abducens motoneurons to which it projects. Taken together, our results provide evidence that the premotor commands from the brain stem saccadic circuitry, to the target motoneurons, are sufficient to ensure the accurate control shifts of gaze in three dimensions.",
+  "authors": [
+    "Van Horn Marion R",
+    "Sylvestre Pierre A",
+    "Cullen Kathleen E"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2008",
+  "doi": "10.1152/jn.01379.2007",
+  "mesh": [
+    "Abducens Nerve",
+    "Algorithms",
+    "Animals",
+    "Brain Stem",
+    "Data Interpretation, Statistical",
+    "Fixation, Ocular",
+    "Macaca mulatta",
+    "Motor Neurons",
+    "Psychomotor Performance",
+    "Saccades",
+    "Space Perception",
+    "Vision, Monocular",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "35120628",
+  "title": "Predictive coding of natural images by V1 firing rates and rhythmic synchronization.",
+  "abstract": "Predictive coding is an important candidate theory of self-supervised learning in the brain. Its central idea is that sensory responses result from comparisons between bottom-up inputs and contextual predictions, a process in which rates and synchronization may play distinct roles. We recorded from awake macaque V1 and developed a technique to quantify stimulus predictability for natural images based on self-supervised, generative neural networks. We find that neuronal firing rates were mainly modulated by the contextual predictability of higher-order image features, which correlated strongly with human perceptual similarity judgments. By contrast, V1 gamma (γ)-synchronization increased monotonically with the contextual predictability of low-level image features and emerged exclusively for larger stimuli. Consequently, γ-synchronization was induced by natural images that are highly compressible and low-dimensional. Natural stimuli with low predictability induced prominent, late-onset beta (β)-synchronization, likely reflecting cortical feedback. Our findings reveal distinct roles of synchronization and firing rates in the predictive coding of natural images.",
+  "authors": [
+    "Uran Cem",
+    "Peter Alina",
+    "Lazar Andreea",
+    "Barnes William",
+    "Klon-Lipok Johanna",
+    "Shapcott Katharine A",
+    "Roese Rasmus",
+    "Fries Pascal",
+    "Singer Wolf",
+    "Vinck Martin"
+  ],
+  "journal": "Neuron",
+  "year": "2022",
+  "doi": "10.1016/j.neuron.2022.01.002",
+  "mesh": [
+    "Animals",
+    "Cortical Synchronization",
+    "Macaca",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

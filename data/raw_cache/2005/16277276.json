@@ -1,0 +1,29 @@
+{
+  "pmid": "16277276",
+  "title": "Spatiochromatic statistics of natural scenes: first- and second-order information and their correlational structure.",
+  "abstract": "Spatial filters that mimic receptive fields of visual cortex neurons provide an efficient representation of achromatic image structure, but the extension of this idea to chromatic information is at an early stage. Relatively few studies have looked at the statistical relationships between the modeled responses to natural scenes of the luminance (LUM), red-green (RG), and blue-yellow (BY) postreceptoral channels of the primate visual system. Here we consider the correlations among these channel responses in terms of pixel, first-order, and second-order information. First-order linear filtering was implemented by convolving the cosine-windowed images with oriented Gabor functions, whose gains were scaled to give equal amplitude response across spatial frequency to random fractal images. Second-order filtering was implemented via a filter-rectify-filter cascade, with Gabor functions for both first- and second-stage filters. Both signed and unsigned filter responses were obtained across a range of filter parameters (spatial frequency, 2-64 cycles/image; orientation, 0-135 degrees). The filter responses to the LUM channel images were larger than those for either RG or BY channel images. Cross correlations between the first-order channel responses and between the first- and second-order channel responses were measured. Results showed that the unsigned correlations between first-order channel responses were higher than expected on the basis of previous studies and that first-order channel responses were highly correlated with LUM, but not with RG or BY, second-order responses. These findings imply that course-scale color information correlates well with course-scale changes of fine-scale texture.",
+  "authors": [
+    "Johnson Aaron P",
+    "Kingdom Frederick A A",
+    "Baker Curtis L"
+  ],
+  "journal": "Journal of the Optical Society of America. A, Optics, image science, and vision",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biomimetics",
+    "Color Perception",
+    "Colorimetry",
+    "Humans",
+    "Image Interpretation, Computer-Assisted",
+    "Information Storage and Retrieval",
+    "Models, Biological",
+    "Models, Statistical",
+    "Primates",
+    "Retinal Cone Photoreceptor Cells",
+    "Signal Processing, Computer-Assisted",
+    "Statistics as Topic"
+  ]
+}

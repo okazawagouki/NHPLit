@@ -1,0 +1,23 @@
+{
+  "pmid": "39814742",
+  "title": "A human single-neuron dataset for object recognition.",
+  "abstract": "Object recognition is fundamental to how we interact with and interpret the world around us. The human amygdala and hippocampus play a key role in object recognition, contributing to both the encoding and retrieval of visual information. Here, we recorded single-neuron activity from the human amygdala and hippocampus when neurosurgical epilepsy patients performed a one-back task using naturalistic object stimuli. We employed two sets of naturalistic object images from leading datasets extensively used in primate neural recordings and computer vision models: we recorded 1204 neurons using the ImageNet stimuli, which included broader object categories (10 different images per category for 50 categories), and we recorded 512 neurons using the Microsoft COCO stimuli, which featured a higher number of images per category (50 different images per category for 10 categories). Together, our extensive dataset, offering the highest spatial and temporal resolution currently available in humans, will not only facilitate a comprehensive analysis of the neural correlates of object recognition but also provide valuable opportunities for training and validating computational models.",
+  "authors": [
+    "Cao Runnan",
+    "Brunner Peter",
+    "Brandmeir Nicholas J",
+    "Willie Jon T",
+    "Wang Shuo"
+  ],
+  "journal": "Scientific data",
+  "year": "2025",
+  "doi": "10.1038/s41597-024-04265-1",
+  "mesh": [
+    "Humans",
+    "Neurons",
+    "Hippocampus",
+    "Amygdala",
+    "Pattern Recognition, Visual",
+    "Epilepsy"
+  ]
+}

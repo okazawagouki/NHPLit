@@ -1,0 +1,28 @@
+{
+  "pmid": "29604454",
+  "title": "Bayesian convolutional neural network based MRI brain extraction on nonhuman primates.",
+  "abstract": "Brain extraction or skull stripping of magnetic resonance images (MRI) is an essential step in neuroimaging studies, the accuracy of which can severely affect subsequent image processing procedures. Current automatic brain extraction methods demonstrate good results on human brains, but are often far from satisfactory on nonhuman primates, which are a necessary part of neuroscience research. To overcome the challenges of brain extraction in nonhuman primates, we propose a fully-automated brain extraction pipeline combining deep Bayesian convolutional neural network (CNN) and fully connected three-dimensional (3D) conditional random field (CRF). The deep Bayesian CNN, Bayesian SegNet, is used as the core segmentation engine. As a probabilistic network, it is not only able to perform accurate high-resolution pixel-wise brain segmentation, but also capable of measuring the model uncertainty by Monte Carlo sampling with dropout in the testing stage. Then, fully connected 3D CRF is used to refine the probability result from Bayesian SegNet in the whole 3D context of the brain volume. The proposed method was evaluated with a manually brain-extracted dataset comprising T1w images of 100 nonhuman primates. Our method outperforms six popular publicly available brain extraction packages and three well-established deep learning based methods with a mean Dice coefficient of 0.985 and a mean average symmetric surface distance of 0.220 mm. A better performance against all the compared methods was verified by statistical tests (all p-values < 10<sup>-4</sup>, two-sided, Bonferroni corrected). The maximum uncertainty of the model on nonhuman primate brain extraction has a mean value of 0.116 across all the 100 subjects. The behavior of the uncertainty was also studied, which shows the uncertainty increases as the training set size decreases, the number of inconsistent labels in the training set increases, or the inconsistency between the training set and the testing set increases.",
+  "authors": [
+    "Zhao Gengyan",
+    "Liu Fang",
+    "Oler Jonathan A",
+    "Meyerand Mary E",
+    "Kalin Ned H",
+    "Birn Rasmus M"
+  ],
+  "journal": "NeuroImage",
+  "year": "2018",
+  "doi": "10.1016/j.neuroimage.2018.03.065",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Brain",
+    "Deep Learning",
+    "Female",
+    "Image Processing, Computer-Assisted",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Neuroimaging"
+  ]
+}

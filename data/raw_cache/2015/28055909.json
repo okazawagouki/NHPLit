@@ -1,0 +1,18 @@
+{
+  "pmid": "28055909",
+  "title": "Propagation of Collective Temporal Regularity in Noisy Hierarchical Networks.",
+  "abstract": "Neuronal communication between different brain areas is achieved in terms of spikes. Consequently, spike-time regularity is closely related to many cognitive tasks and timing precision of neural information processing. A recent experiment on primate parietal cortex reports that spike-time regularity increases consistently from primary sensory to higher cortical regions. This observation conflicts with the influential view that spikes in the neocortex are fundamentally irregular. To uncover the underlying network mechanism, we construct a multilayered feedforward neural information transmission pathway and investigate how spike-time regularity evolves across subsequent layers. Numerical results reveal that despite the obviously irregular spiking patterns in previous several layers, neurons in downstream layers can generate rather regular spikes, which depends on the network topology. In particular, we find that collective temporal regularity in deeper layers exhibits resonance-like behavior with respect to both synaptic connection probability and synaptic weight, i.e., the optimal topology parameter maximizes the spike-timing regularity. Furthermore, it is demonstrated that synaptic properties, including inhibition, synaptic transient dynamics, and plasticity, have significant impacts on spike-timing regularity propagation. The emergence of the increasingly regular spiking (RS) patterns in higher parietal regions can, thus, be viewed as a natural consequence of spiking activity propagation between different brain areas. Finally, we validate an important function served by increased RS: promoting reliable propagation of spike-rate signals across downstream layers.",
+  "authors": [
+    "Ruixue Han",
+    "Jiang Wang",
+    "Rui Miao",
+    "Bin Deng",
+    "Yingmei Qin",
+    "Haitao Yu",
+    "Xile Wei"
+  ],
+  "journal": "IEEE transactions on neural networks and learning systems",
+  "year": "2017",
+  "doi": "10.1109/TNNLS.2015.2502993",
+  "mesh": []
+}

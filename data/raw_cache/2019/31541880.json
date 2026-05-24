@@ -1,0 +1,22 @@
+{
+  "pmid": "31541880",
+  "title": "How are response properties in the middle temporal area related to inference on visual motion patterns?",
+  "abstract": "Neurons in the primate middle temporal area (MT) respond to moving stimuli, with strong tuning for motion speed and direction. These responses have been characterized in detail, but the functional significance of these details (e.g. shapes and widths of speed tuning curves) is unclear, because they cannot be selectively manipulated. To estimate their functional significance, we used a detailed model of MT population responses as input to convolutional networks that performed sophisticated motion processing tasks (visual odometry and gesture recognition). We manipulated the distributions of speed and direction tuning widths, and studied the effects on task performance. We also studied performance with random linear mixtures of the responses, and with responses that had the same representational dissimilarity as the model populations, but were otherwise randomized. The width of speed and direction tuning both affected task performance, despite the networks having been optimized individually for each tuning variation, but the specific effects were different in each task. Random linear mixing improved performance of the odometry task, but not the gesture recognition task. Randomizing the responses while maintaining representational dissimilarity resulted in poor odometry performance. In summary, despite full optimization of the deep networks in each case, each manipulation of the representation affected performance of sophisticated visual tasks. Representation properties such as tuning width and representational similarity have been studied extensively from other perspectives, but this work provides new insight into their possible roles in sophisticated visual inference.",
+  "authors": [
+    "Rezai Omid",
+    "Stoffl Lucas",
+    "Tripp Bryan"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2020",
+  "doi": "10.1016/j.neunet.2019.08.027",
+  "mesh": [
+    "Animals",
+    "Motion",
+    "Motion Perception",
+    "Neurons",
+    "Pattern Recognition, Automated",
+    "Photic Stimulation",
+    "Temporal Lobe"
+  ]
+}

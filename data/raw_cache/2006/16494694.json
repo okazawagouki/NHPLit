@@ -1,0 +1,20 @@
+{
+  "pmid": "16494694",
+  "title": "Smooth gradient representations as a unifying account of Chevreul's illusion, Mach bands, and a variant of the Ehrenstein disk.",
+  "abstract": "Recent evidence suggests that the primate visual system generates representations for object surfaces (where we consider representations for the surface attribute brightness). Object recognition can be expected to perform robustly if those representations are invariant despite environmental changes (e.g., in illumination). In real-world scenes, it happens, however, that surfaces are often overlaid by luminance gradients, which we define as smooth variations in intensity. Luminance gradients encode highly variable information, which may represent surface properties (curvature), nonsurface properties (e.g., specular highlights, cast shadows, illumination inhomogeneities), or information about depth relationships (cast shadows, blur). We argue, on grounds of the unpredictable nature of luminance gradients, that the visual system should establish corresponding representations, in addition to surface representations. We accordingly present a neuronal architecture, the so-called gradient system, which clarifies how spatially accurate gradient representations can be obtained by relying on only high-resolution retinal responses. Although the gradient system was designed and optimized for segregating, and generating, representations of luminance gradients with real-world luminance images, it is capable of quantitatively predicting psychophysical data on both Mach bands and Chevreul's illusion. It furthermore accounts qualitatively for a modified Ehrenstein disk.",
+  "authors": [
+    "Keil Matthias S"
+  ],
+  "journal": "Neural computation",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Contrast Sensitivity",
+    "Geniculate Bodies",
+    "Luminescence",
+    "Models, Neurological",
+    "Pattern Recognition, Visual",
+    "Retina"
+  ]
+}

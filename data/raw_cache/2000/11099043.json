@@ -1,0 +1,36 @@
+{
+  "pmid": "11099043",
+  "title": "Real-time prediction of hand trajectory by ensembles of cortical neurons in primates.",
+  "abstract": "Signals derived from the rat motor cortex can be used for controlling one-dimensional movements of a robot arm. It remains unknown, however, whether real-time processing of cortical signals can be employed to reproduce, in a robotic device, the kind of complex arm movements used by primates to reach objects in space. Here we recorded the simultaneous activity of large populations of neurons, distributed in the premotor, primary motor and posterior parietal cortical areas, as non-human primates performed two distinct motor tasks. Accurate real-time predictions of one- and three-dimensional arm movement trajectories were obtained by applying both linear and nonlinear algorithms to cortical neuronal ensemble activity recorded from each animal. In addition, cortically derived signals were successfully used for real-time control of robotic devices, both locally and through the Internet. These results suggest that long-term control of complex prosthetic robot arm movements can be achieved by simple real-time transformations of neuronal population signals derived from multiple cortical areas in primates.",
+  "authors": [
+    "Wessberg J",
+    "Stambaugh C R",
+    "Kralik J D",
+    "Beck P D",
+    "Laubach M",
+    "Chapin J K",
+    "Kim J",
+    "Biggs S J",
+    "Srinivasan M A",
+    "Nicolelis M A"
+  ],
+  "journal": "Nature",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Aotus trivirgatus",
+    "Arm",
+    "Artificial Limbs",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Frontal Lobe",
+    "Motor Activity",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Neural Conduction",
+    "Parietal Lobe",
+    "Robotics",
+    "Signal Transduction"
+  ]
+}

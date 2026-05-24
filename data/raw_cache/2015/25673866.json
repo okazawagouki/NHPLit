@@ -1,0 +1,27 @@
+{
+  "pmid": "25673866",
+  "title": "Single-unit recordings in the macaque face patch system reveal limitations of fMRI MVPA.",
+  "abstract": "Multivariate pattern analysis (MVPA) of fMRI data has become an important technique for cognitive neuroscientists in recent years; however, the relationship between fMRI MVPA and the underlying neural population activity remains unexamined. Here, we performed MVPA of fMRI data and single-unit data in the same species, the macaque monkey. Facial recognition in the macaque is subserved by a well characterized system of cortical patches, which provided the test bed for our comparison. We showed that neural population information about face viewpoint was readily accessible with fMRI MVPA from all face patches, in agreement with single-unit data. Information about face identity, although it was very strongly represented in the populations of units of the anterior face patches, could not be retrieved from the same data. The discrepancy was especially striking in patch AL, where neurons encode both the identity and viewpoint of human faces. From an analysis of the characteristics of the neural representations for viewpoint and identity, we conclude that fMRI MVPA cannot decode information contained in the weakly clustered neuronal responses responsible for coding the identity of human faces in the macaque brain. Although further studies are needed to elucidate the relationship between information decodable from fMRI multivoxel patterns versus single-unit populations for other variables in other brain regions, our result has important implications for the interpretation of negative findings in fMRI multivoxel pattern analyses.",
+  "authors": [
+    "Dubois Julien",
+    "de Berker Archy Otto",
+    "Tsao Doris Ying"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.4037-14.2015",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Face",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Neurons",
+    "Photic Stimulation",
+    "Recognition, Psychology"
+  ]
+}

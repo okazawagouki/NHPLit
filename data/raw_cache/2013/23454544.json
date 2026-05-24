@@ -1,0 +1,28 @@
+{
+  "pmid": "23454544",
+  "title": "The Rücker-Markov invariants of complex Bio-Systems: applications in Parasitology and Neuroinformatics.",
+  "abstract": "Rücker's walk count (WC) indices are well-known topological indices (TIs) used in Chemoinformatics to quantify the molecular structure of drugs represented by a graph in Quantitative structure-activity/property relationship (QSAR/QSPR) studies. In this work, we introduce for the first time the higher-order (kth order) analogues (WCk) of these indices using Markov chains. In addition, we report new QSPR models for large complex networks of different Bio-Systems useful in Parasitology and Neuroinformatics. The new type of QSPR models can be used for model checking to calculate numerical scores S(Lij) for links Lij (checking or re-evaluation of network connectivity) in large networks of all these fields. The method may be summarized as follows: (i) first, the WCk(j) values are calculated for all jth nodes in a complex network already created; (ii) A linear discriminant analysis (LDA) is used to seek a linear equation that discriminates connected or linked (Lij=1) pairs of nodes experimentally confirmed from non-linked ones (Lij=0); (iii) The new model is validated with external series of pairs of nodes; (iv) The equation obtained is used to re-evaluate the connectivity quality of the network, connecting/disconnecting nodes based on the quality scores calculated with the new connectivity function. The linear QSPR models obtained yielded the following results in terms of overall test accuracy for re-construction of complex networks of different Bio-Systems: parasite-host networks (93.14%), NW Spain fasciolosis spreading networks (71.42/70.18%) and CoCoMac Brain Cortex co-activation network (86.40%). Thus, this work can contribute to the computational re-evaluation or model checking of connectivity (collation) in complex systems of any science field.",
+  "authors": [
+    "González-Díaz Humberto",
+    "Riera-Fernández Pablo",
+    "Pazos Alejandro",
+    "Munteanu Cristian R"
+  ],
+  "journal": "Bio Systems",
+  "year": "2013",
+  "doi": "10.1016/j.biosystems.2013.02.006",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Computational Biology",
+    "Discriminant Analysis",
+    "Host-Parasite Interactions",
+    "Macaca",
+    "Markov Chains",
+    "Models, Biological",
+    "Neurology",
+    "Parasitology",
+    "Quantitative Structure-Activity Relationship",
+    "Trematode Infections"
+  ]
+}

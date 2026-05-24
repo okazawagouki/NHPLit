@@ -1,0 +1,21 @@
+{
+  "pmid": "10695762",
+  "title": "How to measure the information gained from one symbol.",
+  "abstract": "Information theory provides a powerful framework to analyse how neurons represent sensory stimuli or other behavioural variables. A recurring question regards the amount of information conveyed by a specific neuronal response. Here we show that the commonly used definition for this quantity has a serious flaw: the information accumulated during subsequent observations of neural activity fails to combine additively. Additivity is a highly desirable property, both on theoretical grounds and for the practical purpose of analysing population codes. We propose an alternative measure for the information per observation and prove that this is the only definition that satisfies additivity. The old and the new definitions measure very different aspects of the neural code, which is illustrated with visual responses from a motion-sensitive neuron in the primate cortex. Our analysis allows additional interpretation of several published results, which suggests that the neurons studied are operating far from their information capacity.",
+  "authors": [
+    "DeWeese M R",
+    "Meister M"
+  ],
+  "journal": "Network (Bristol, England)",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Primates"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "22772374",
+  "title": "Closed-loop decoder adaptation on intermediate time-scales facilitates rapid BMI performance improvements independent of decoder initialization conditions.",
+  "abstract": "Closed-loop decoder adaptation (CLDA) shows great promise to improve closed-loop brain-machine interface (BMI) performance. Developing adaptation algorithms capable of rapidly improving performance, independent of initial performance, may be crucial for clinical applications where patients have limited movement and sensory abilities due to motor deficits. Given the subject-decoder interactions inherent in closed-loop BMIs, the decoder adaptation time-scale may be of particular importance when initial performance is limited. Here, we present SmoothBatch, a CLDA algorithm which updates decoder parameters on a 1-2 min time-scale using an exponentially weighted sliding average. The algorithm was experimentally tested with one nonhuman primate performing a center-out reaching BMI task. SmoothBatch was seeded four ways with varying offline decoding power: 1) visual observation of a cursor ( n = 20), 2) ipsilateral arm movements ( n = 8), 3) baseline neural activity ( n = 17), and 4) arbitrary weights ( n = 11). SmoothBatch rapidly improved performance regardless of seeding, with performance improvements from 0.018 ±0.133 successes/min to > 8 successes/min within 13.1 ±5.5 min ( n = 56). After decoder adaptation ceased, the subject maintained high performance. Moreover, performance improvements were paralleled by SmoothBatch convergence, suggesting that CLDA involves a co-adaptation process between the subject and the decoder.",
+  "authors": [
+    "Orsborn Amy L",
+    "Dangi Siddharth",
+    "Moorman Helene G",
+    "Carmena Jose M"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2012",
+  "doi": "10.1109/TNSRE.2012.2185066",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biofeedback, Psychology",
+    "Brain",
+    "Electroencephalography",
+    "Evoked Potentials, Motor",
+    "Feedback",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Movement",
+    "Pattern Recognition, Automated",
+    "User-Computer Interface"
+  ]
+}

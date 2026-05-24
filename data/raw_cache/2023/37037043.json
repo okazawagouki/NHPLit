@@ -1,0 +1,22 @@
+{
+  "pmid": "37037043",
+  "title": "Scalable Variational Inference for Low-Rank Spatiotemporal Receptive Fields.",
+  "abstract": "An important problem in systems neuroscience is to characterize how a neuron integrates sensory inputs across space and time. The linear receptive field provides a mathematical characterization of this weighting function and is commonly used to quantify neural response properties and classify cell types. However, estimating receptive fields is difficult in settings with limited data and correlated or high-dimensional stimuli. To overcome these difficulties, we propose a hierarchical model designed to flexibly parameterize low-rank receptive fields. The model includes gaussian process priors over spatial and temporal components of the receptive field, encouraging smoothness in space and time. We also propose a new temporal prior, temporal relevance determination, which imposes a variable degree of smoothness as a function of time lag. We derive a scalable algorithm for variational Bayesian inference for both spatial and temporal receptive field components and hyperparameters. The resulting estimator scales to high-dimensional settings in which full-rank maximum likelihood or a posteriori estimates are intractable. We evaluate our approach on neural data from rat retina and primate cortex and show that it substantially outperforms a variety of existing estimators. Our modeling approach will have useful extensions to a variety of other high-dimensional inference problems with smooth or low-rank structure.",
+  "authors": [
+    "Duncker Lea",
+    "Ruda Kiersten M",
+    "Field Greg D",
+    "Pillow Jonathan W"
+  ],
+  "journal": "Neural computation",
+  "year": "2023",
+  "doi": "10.1162/neco_a_01584",
+  "mesh": [
+    "Animals",
+    "Rats",
+    "Bayes Theorem",
+    "Neurons",
+    "Retina",
+    "Algorithms"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "19377473",
+  "title": "Reinforcement learning can account for associative and perceptual learning on a visual-decision task.",
+  "abstract": "We recently showed that improved perceptual performance on a visual motion direction-discrimination task corresponds to changes in how an unmodified sensory representation in the brain is interpreted to form a decision that guides behavior. Here we found that these changes can be accounted for using a reinforcement-learning rule to shape functional connectivity between the sensory and decision neurons. We modeled performance on the basis of the readout of simulated responses of direction-selective sensory neurons in the middle temporal area (MT) of monkey cortex. A reward prediction error guided changes in connections between these sensory neurons and the decision process, first establishing the association between motion direction and response direction, and then gradually improving perceptual sensitivity by selectively strengthening the connections from the most sensitive neurons in the sensory population. The results suggest a common, feedback-driven mechanism for some forms of associative and perceptual learning.",
+  "authors": [
+    "Law Chi-Tat",
+    "Gold Joshua I"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2009",
+  "doi": "10.1038/nn.2304",
+  "mesh": [
+    "Animals",
+    "Association Learning",
+    "Computer Simulation",
+    "Decision Making",
+    "Feedback",
+    "Haplorhini",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neural Networks, Computer",
+    "Neural Pathways",
+    "Neuropsychological Tests",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Reinforcement, Psychology",
+    "Reward",
+    "Visual Perception"
+  ]
+}

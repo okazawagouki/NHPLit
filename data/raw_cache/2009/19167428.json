@@ -1,0 +1,24 @@
+{
+  "pmid": "19167428",
+  "title": "Unbiased estimation of precise temporal correlations between spike trains.",
+  "abstract": "A key issue in systems neuroscience is the contribution of precise temporal inter-neuronal interactions to information processing in the brain, and the main analytical tool used for studying pair-wise interactions is the cross-correlation histogram (CCH). Although simple to generate, a CCH is influenced by multiple factors in addition to precise temporal correlations between two spike trains, thus complicating its interpretation. A Monte-Carlo-based technique, the jittering method, has been suggested to isolate the contribution of precise temporal interactions to neural information processing. Here, we show that jittering spike trains is equivalent to convolving the CCH derived from the original trains with a finite window and using a Poisson distribution to estimate probabilities. Both procedures over-fit the original spike trains and therefore the resulting statistical tests are biased and have low power. We devise an alternative method, based on convolving the CCH with a partially hollowed window, and illustrate its utility using artificial and real spike trains. The modified convolution method is unbiased, has high power, and is computationally fast. We recommend caution in the use of the jittering method and in the interpretation of results based on it, and suggest using the modified convolution method for detecting precise temporal correlations between spike trains.",
+  "authors": [
+    "Stark Eran",
+    "Abeles Moshe"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2009",
+  "doi": "10.1016/j.jneumeth.2008.12.029",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Frontal Lobe",
+    "Macaca",
+    "Models, Neurological",
+    "Monte Carlo Method",
+    "Neurons",
+    "Poisson Distribution",
+    "Time Factors"
+  ]
+}

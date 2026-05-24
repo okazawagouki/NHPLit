@@ -1,0 +1,24 @@
+{
+  "pmid": "11802915",
+  "title": "The time-rescaling theorem and its application to neural spike train data analysis.",
+  "abstract": "Measuring agreement between a statistical model and a spike train data series, that is, evaluating goodness of fit, is crucial for establishing the model's validity prior to using it to make inferences about a particular neural system. Assessing goodness-of-fit is a challenging problem for point process neural spike train models, especially for histogram-based models such as perstimulus time histograms (PSTH) and rate functions estimated by spike train smoothing. The time-rescaling theorem is a well-known result in probability theory, which states that any point process with an integrable conditional intensity function may be transformed into a Poisson process with unit rate. We describe how the theorem may be used to develop goodness-of-fit tests for both parametric and histogram-based point process models of neural spike trains. We apply these tests in two examples: a comparison of PSTH, inhomogeneous Poisson, and inhomogeneous Markov interval models of neural spike trains from the supplementary eye field of a macque monkey and a comparison of temporal and spatial smoothers, inhomogeneous Poisson, inhomogeneous gamma, and inhomogeneous inverse gaussian models of rat hippocampal place cell spiking activity. To help make the logic behind the time-rescaling theorem more accessible to researchers in neuroscience, we present a proof using only elementary probability theory arguments. We also show how the theorem may be used to simulate a general point process model of a spike train. Our paradigm makes it possible to compare parametric and histogram-based neural spike train models directly. These results suggest that the time-rescaling theorem can be a valuable tool for neural spike train data analysis.",
+  "authors": [
+    "Brown Emery N",
+    "Barbieri Riccardo",
+    "Ventura Valérie",
+    "Kass Robert E",
+    "Frank Loren M"
+  ],
+  "journal": "Neural computation",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons",
+    "Probability Theory",
+    "Visual Pathways"
+  ]
+}

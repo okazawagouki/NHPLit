@@ -1,0 +1,18 @@
+{
+  "pmid": "29200477",
+  "title": "Evolutionary algorithm optimization of biological learning parameters in a biomimetic neuroprosthesis.",
+  "abstract": "Biomimetic simulation permits neuroscientists to better understand the complex neuronal dynamics of the brain. Embedding a biomimetic simulation in a closed-loop neuroprosthesis, which can read and write signals from the brain, will permit applications for amelioration of motor, psychiatric, and memory-related brain disorders. Biomimetic neuroprostheses require real-time adaptation to changes in the external environment, thus constituting an example of a dynamic data-driven application system. As model fidelity increases, so does the number of parameters and the complexity of finding appropriate parameter configurations. Instead of adapting synaptic weights via machine learning, we employed major biological learning methods: spike-timing dependent plasticity and reinforcement learning. We optimized the learning metaparameters using evolutionary algorithms, which were implemented in parallel and which used an island model approach to obtain sufficient speed. We employed these methods to train a cortical spiking model to utilize macaque brain activity, indicating a selected target, to drive a virtual musculoskeletal arm with realistic anatomical and biomechanical properties to reach to that target. The optimized system was able to reproduce macaque data from a comparable experimental motor task. These techniques can be used to efficiently tune the parameters of multiscale systems, linking realistic neuronal dynamics to behavior, and thus providing a useful tool for neuroscience and neuroprosthetics.",
+  "authors": [
+    "Dura-Bernal S",
+    "Neymotin S A",
+    "Kerr C C",
+    "Sivagnanam S",
+    "Majumdar A",
+    "Francis J T",
+    "Lytton W W"
+  ],
+  "journal": "IBM journal of research and development",
+  "year": "2017",
+  "doi": "10.1147/JRD.2017.2656758",
+  "mesh": []
+}

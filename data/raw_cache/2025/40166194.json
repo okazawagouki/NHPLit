@@ -1,0 +1,24 @@
+{
+  "pmid": "40166194",
+  "title": "A scalable framework for current steering at single-neuron resolution.",
+  "abstract": "To restore and augment complex functions such as vision, electrical neural interfaces require the ability to selectively activate neurons at cellular resolution, a challenge given the limited electrode density of typical neural interfaces. Current steering - passing current through multiple electrodes simultaneously to target locations between electrodes - could enhance resolution, but is intractable if all stimulation patterns must be tested exhaustively. Here, we develop and experimentally validate a framework for scalable cellular-resolution current steering in the macaque and human retina. Current was passed through three neighboring electrodes simultaneously, revealing a variety of linear and nonlinear neural responses. These observations were validated with biophysical simulations and accurately captured by a model in which spikes are initiated at one or more sites and the neuron produces a spike via a logical OR operation across sites, resulting in greater nonlinearity with more initiation sites. Finally, an adaptive sampling procedure was used to efficiently identify selective stimulation patterns, enabling significant calibration speedups. Together these advances represent the first scalable approach to cellular-resolution current steering for future neural interfaces.",
+  "authors": [
+    "Vasireddy Praful K",
+    "Vilkhu Ramandeep S",
+    "Lotlikar Amrith",
+    "Brown Jeff B",
+    "Gogliettino Alex R",
+    "Phillips A J",
+    "Kato Ethan J",
+    "Hottowy Pawel",
+    "Sher Alexander",
+    "Litke Alan M",
+    "Mitra Subhasish",
+    "Shah Nishal P",
+    "Chichilnisky E J"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.03.14.643392",
+  "mesh": []
+}

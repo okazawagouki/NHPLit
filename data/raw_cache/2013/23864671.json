@@ -1,0 +1,22 @@
+{
+  "pmid": "23864671",
+  "title": "Effect of prestimulus alpha power, phase, and synchronization on stimulus detection rates in a biophysical attractor network model.",
+  "abstract": "Spontaneous oscillations measured by local field potentials, electroencephalograms and magnetoencephalograms exhibit a pronounced peak in the alpha band (8-12 Hz) in humans and primates. Both instantaneous power and phase of these ongoing oscillations have commonly been observed to correlate with psychophysical performance in stimulus detection tasks. We use a novel model-based approach to study the effect of prestimulus oscillations on detection rate. A previously developed biophysically detailed attractor network exhibits spontaneous oscillations in the alpha range before a stimulus is presented and transiently switches to gamma-like oscillations on successful detection. We demonstrate that both phase and power of the ongoing alpha oscillations modulate the probability of such state transitions. The power can either positively or negatively correlate with the detection rate, in agreement with experimental findings, depending on the underlying neural mechanism modulating the oscillatory power. Furthermore, the spatially distributed alpha oscillators of the network can be synchronized by global nonspecific weak excitatory signals. These synchronization events lead to transient increases in alpha-band power and render the network sensitive to the exact timing of target stimuli, making the alpha cycle function as a temporal mask in line with recent experimental observations. Our results are relevant to several studies that attribute a modulatory role to prestimulus alpha dynamics.",
+  "authors": [
+    "Lundqvist Mikael",
+    "Herman Pawel",
+    "Lansner Anders"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2013",
+  "doi": "10.1523/JNEUROSCI.5155-12.2013",
+  "mesh": [
+    "Alpha Rhythm",
+    "Computer Simulation",
+    "Hippocampus",
+    "Humans",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Synapses"
+  ]
+}

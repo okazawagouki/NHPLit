@@ -1,0 +1,18 @@
+{
+  "pmid": "32876562",
+  "title": "What do adversarial images tell us about human vision?",
+  "abstract": "Deep convolutional neural networks (DCNNs) are frequently described as the best current models of human and primate vision. An obvious challenge to this claim is the existence of <i>adversarial images</i> that fool DCNNs but are uninterpretable to humans. However, recent research has suggested that there may be similarities in how humans and DCNNs interpret these seemingly nonsense images. We reanalysed data from a high-profile paper and conducted five experiments controlling for different ways in which these images can be generated and selected. We show human-DCNN agreement is much weaker and more variable than previously reported, and that the weak agreement is contingent on the choice of adversarial images and the design of the experiment. Indeed, we find there are well-known methods of generating images for which humans show no agreement with DCNNs. We conclude that adversarial images still pose a challenge to theorists using DCNNs as models of human vision.",
+  "authors": [
+    "Dujmović Marin",
+    "Malhotra Gaurav",
+    "Bowers Jeffrey S"
+  ],
+  "journal": "eLife",
+  "year": "2020",
+  "doi": "10.7554/eLife.55978",
+  "mesh": [
+    "Humans",
+    "Neural Networks, Computer",
+    "Vision, Ocular"
+  ]
+}

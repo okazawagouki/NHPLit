@@ -1,0 +1,27 @@
+{
+  "pmid": "24048850",
+  "title": "Large-scale, high-resolution neurophysiological maps underlying FMRI of macaque temporal lobe.",
+  "abstract": "Maps obtained by functional magnetic resonance imaging (fMRI) are thought to reflect the underlying spatial layout of neural activity. However, previous studies have not been able to directly compare fMRI maps to high-resolution neurophysiological maps, particularly in higher level visual areas. Here, we used a novel stereo microfocal x-ray system to localize thousands of neural recordings across monkey inferior temporal cortex (IT), construct large-scale maps of neuronal object selectivity at subvoxel resolution, and compare those neurophysiology maps with fMRI maps from the same subjects. While neurophysiology maps contained reliable structure at the sub-millimeter scale, fMRI maps of object selectivity contained information at larger scales (>2.5 mm) and were only partly correlated with raw neurophysiology maps collected in the same subjects. However, spatial smoothing of neurophysiology maps more than doubled that correlation, while a variety of alternative transforms led to no significant improvement. Furthermore, raw spiking signals, once spatially smoothed, were as predictive of fMRI maps as local field potential signals. Thus, fMRI of the inferior temporal lobe reflects a spatially low-passed version of neurophysiology signals. These findings strongly validate the widespread use of fMRI for detecting large (>2.5 mm) neuronal domains of object selectivity but show that a complete understanding of even the most pure domains (e.g., faces vs nonface objects) requires investigation at fine scales that can currently only be obtained with invasive neurophysiological methods.",
+  "authors": [
+    "Issa Elias B",
+    "Papanastassiou Alex M",
+    "DiCarlo James J"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2013",
+  "doi": "10.1523/JNEUROSCI.1248-13.2013",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain Mapping",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Neurons",
+    "Oxygen",
+    "Statistics, Nonparametric",
+    "Temporal Lobe"
+  ]
+}

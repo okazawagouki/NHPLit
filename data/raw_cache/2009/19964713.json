@@ -1,0 +1,22 @@
+{
+  "pmid": "19964713",
+  "title": "Predicting perceptual suppression from local field potential in visual cortex.",
+  "abstract": "Generalized flash suppression (GFS, Wilke et al. 2003) in which a salient visual stimulus can be rendered invisible despite continuous retinal input has provided a powerful means to study neural processes directly related to perception. However, the mechanisms underlying such perceptual suppression remain poorly understood. Here we asked how reliably the population responses could determine the perceptual states and what the roles of different areas in visual cortex played during suppression. Three monkeys were trained to perform the GFS task. Multi-channel neural activities in visual cortical areas V1, V2 and V4 were simultaneously recorded. Linear regression analysis on the time-frequency distributions of local field potential (LFP) recordings between two perceptual states (visible vs. invisible) showed that the significant power difference existed between the two perceptual states at the beta frequency band of 10-30 Hz. Linear discriminant analysis (LDA) classifiers were implemented to decipher perceptual states. Our results showed that LFP recordings provided significantly better prediction than the chance level, and the beta band signal provided better prediction than the broad band in all the three visual cortical areas. Broad band signal provided more accurate prediction in V4 than in V2 and V1, while the beta band signal provided consistently good predictions in V1, V2 and V4. Furthermore, multi-channel recordings were more informative than single electrode recordings in V1, V2 and V4, while in V1 and V4 the benefit of decoding population activity was significant. Channel-wise correlations limited the benefits of population activity. These results indicated that considerable information was retained in the beta band of the local field potential. The benefits of population activity were explored and the different roles of different visual cortical areas during perceptual suppression were investigated.",
+  "authors": [
+    "Zhang Hongmiao",
+    "Logothetis Nikos K",
+    "Liang Hualou"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2009",
+  "doi": "10.1109/IEMBS.2009.5333977",
+  "mesh": [
+    "Animals",
+    "Electrodes",
+    "Macaca",
+    "Photic Stimulation",
+    "Time Factors",
+    "Visual Cortex",
+    "Visual Fields"
+  ]
+}

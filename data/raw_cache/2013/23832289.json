@@ -1,0 +1,21 @@
+{
+  "pmid": "23832289",
+  "title": "Fast inference in generalized linear models via expected log-likelihoods.",
+  "abstract": "Generalized linear models play an essential role in a wide variety of statistical applications. This paper discusses an approximation of the likelihood in these models that can greatly facilitate computation. The basic idea is to replace a sum that appears in the exact log-likelihood by an expectation over the model covariates; the resulting \"expected log-likelihood\" can in many cases be computed significantly faster than the exact log-likelihood. In many neuroscience experiments the distribution over model covariates is controlled by the experimenter and the expected log-likelihood approximation becomes particularly useful; for example, estimators based on maximizing this expected log-likelihood (or a penalized version thereof) can often be obtained with orders of magnitude computational savings compared to the exact maximum likelihood estimators. A risk analysis establishes that these maximum EL estimators often come with little cost in accuracy (and in some cases even improved accuracy) compared to standard maximum likelihood estimates. Finally, we find that these methods can significantly decrease the computation time of marginal likelihood calculations for model selection and of Markov chain Monte Carlo methods for sampling from the posterior parameter distribution. We illustrate our results by applying these methods to a computationally-challenging dataset of neural spike trains obtained via large-scale multi-electrode recordings in the primate retina.",
+  "authors": [
+    "Ramirez Alexandro D",
+    "Paninski Liam"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2014",
+  "doi": "10.1007/s10827-013-0466-4",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Humans",
+    "Likelihood Functions",
+    "Linear Models",
+    "Models, Neurological",
+    "Neurons"
+  ]
+}

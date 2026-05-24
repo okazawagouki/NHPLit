@@ -1,0 +1,26 @@
+{
+  "pmid": "12711706",
+  "title": "Measuring V1 receptive fields despite eye movements in awake monkeys.",
+  "abstract": "One difficulty with measuring receptive fields in the awake monkey is that even well-trained animals make small eye movements during fixation. These complicate the measurement of receptive fields by blurring out the region where a response is observed, causing underestimates of the ability of individual neurons to signal changes in stimulus position. In simple cells, this blurring may severely disrupt estimates of receptive field structure. An accurate measurement of eye movements would allow correction of this blurring. Scleral search coils have been used to provide such measurements, although little is known about their accuracy. We have devised a range of approaches to address this issue: implanting two coils into a single eye, exploiting the small size of V1 receptive fields and developing maximum-likelihood fitting techniques to extract receptive field parameters in the presence of eye movements. All our investigations lead to the same conclusion: our scleral search coils (which were not sutured to the globe) are subject to an error of approximately the same magnitude as the small eye movements which occur during fixation: SD approximately 0.1 degrees. This error is large enough to explain the SD of measured vergence in the absence of any real changes in vergence state. This, and a variety of other arguments, indicate that the real variation in vergence is much smaller than coil measurements suggest. These results suggest that monkeys, like humans, maintain very stable vergence. The error has a slower time course than fixational eye movements so that search coils report the difference in eye position between two consecutive trials more accurately than the eye position itself on either trial. Receptive field estimates are unlikely to be improved by assuming the coil record is veridical and correcting for eye position accordingly. However, receptive field parameters can reliably be determined by a fitting technique that allows for eye movements. It is possible that suturing coils to the globe reduces the artifacts, but no method has been available to demonstrate this. These receptive field measurements provide a general means by which the reliability of eye-position measurements can be assessed.",
+  "authors": [
+    "Read Jenny C A",
+    "Cumming Bruce G"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Eye Movements",
+    "Macaca",
+    "Male",
+    "Photic Stimulation",
+    "Reproducibility of Results",
+    "Research Design",
+    "Vision, Binocular",
+    "Vision, Monocular",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Perception"
+  ]
+}

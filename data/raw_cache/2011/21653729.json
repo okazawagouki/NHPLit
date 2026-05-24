@@ -1,0 +1,24 @@
+{
+  "pmid": "21653729",
+  "title": "Information conveyed by inferior colliculus neurons about stimuli with aligned and misaligned sound localization cues.",
+  "abstract": "Previous studies have demonstrated that single neurons in the central nucleus of the inferior colliculus (ICC) are sensitive to multiple sound localization cues. We investigated the hypothesis that ICC neurons are specialized to encode multiple sound localization cues that are aligned in space (as would naturally occur from a single broadband sound source). Sound localization cues including interaural time differences (ITDs), interaural level differences (ILDs), and spectral shapes (SSs) were measured in a marmoset monkey. Virtual space methods were used to generate stimuli with aligned and misaligned combinations of cues while recording in the ICC of the same monkey. Mutual information (MI) between spike rates and stimuli for aligned versus misaligned cues were compared. Neurons with best frequencies (BFs) less than ∼11 kHz mostly encoded information about a single sound localization cue, ITD or ILD depending on frequency, consistent with the dominance of ear acoustics by either ITD or ILD at those frequencies. Most neurons with BFs >11 kHz encoded information about multiple sound localization cues, usually ILD and SS, and were sensitive to their alignment. In some neurons MI between stimuli and spike responses was greater for aligned cues, while in others it was greater for misaligned cues. If SS cues were shifted to lower frequencies in the virtual space stimuli, a similar result was found for neurons with BFs <11 kHz, showing that the cue interaction reflects the spectra of the stimuli and not a specialization for representing SS cues. In general the results show that ICC neurons are sensitive to multiple localization cues if they are simultaneously present in the frequency response area of the neuron. However, the representation is diffuse in that there is not a specialization in the ICC for encoding aligned sound localization cues.",
+  "authors": [
+    "Slee Sean J",
+    "Young Eric D"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2011",
+  "doi": "10.1152/jn.00384.2011",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Callithrix",
+    "Cues",
+    "Female",
+    "Inferior Colliculi",
+    "Male",
+    "Neurons",
+    "Sound Localization"
+  ]
+}

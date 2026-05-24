@@ -1,0 +1,28 @@
+{
+  "pmid": "12364508",
+  "title": "Parietal representation of object-based saccades.",
+  "abstract": "When monkeys make saccadic eye movements to simple visual targets, neurons in the lateral intraparietal area (LIP) display a retinotopic, or eye-centered, coding of the target location. However natural saccadic eye movements are often directed at objects or parts of objects in the visual scene. In this paper we investigate whether LIP represents saccadic eye movements differently when the target is specified as part of a visually displayed object. Monkeys were trained to perform an object-based saccade task that required them to make saccades to previously cued parts of an abstract object after the object reappeared in a new orientation. We recorded single neurons in area LIP of two macaque monkeys and analyzed their activity in the object-based saccade task, as well as two control tasks: a standard memory saccade task and a fixation task with passive object viewing. The majority of LIP neurons that were tuned in the memory saccade task were also tuned in the object-based saccade task. Using a hierarchical generalized linear model analysis, we compared the effects of three different spatial variables on the firing rate: the retinotopic location of the target, the object-fixed location of the target, and the orientation of the object in space. There was no evidence of an explicit object-fixed representation in the activity in LIP during either of the object-based tasks. In other words, no cells had receptive fields that rotated with the object. While some cells showed a modulation of activity due to the location of the target on the object, these variations were small compared to the retinotopic effects. For most cells, firing rates were best accounted for by either the retinotopic direction of the movement, the orientation of the object, or both spatial variables. The preferred direction of these retinotopic and object orientation effects were found to be invariant across tasks. On average, the object orientation effects were consistent with the retinotopic coding of potential target locations on the object. This interpretation is supported by the fact that the magnitude of these two effects were roughly equal in the early portions of the trial, but around the time of the motor response, the retinotopic effects dominated. We conclude that LIP uses the same retinotopic coding of saccade target whether the target is specified as an absolute point in space or as a location on a moving object.",
+  "authors": [
+    "Sabes Philip N",
+    "Breznen Boris",
+    "Andersen Richard A"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Electrophysiology",
+    "Fixation, Ocular",
+    "Form Perception",
+    "Macaca mulatta",
+    "Male",
+    "Memory",
+    "Neurons",
+    "Parietal Lobe",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Retina",
+    "Saccades"
+  ]
+}

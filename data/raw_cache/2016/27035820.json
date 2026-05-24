@@ -1,0 +1,31 @@
+{
+  "pmid": "27035820",
+  "title": "Robust Brain-Machine Interface Design Using Optimal Feedback Control Modeling and Adaptive Point Process Filtering.",
+  "abstract": "Much progress has been made in brain-machine interfaces (BMI) using decoders such as Kalman filters and finding their parameters with closed-loop decoder adaptation (CLDA). However, current decoders do not model the spikes directly, and hence may limit the processing time-scale of BMI control and adaptation. Moreover, while specialized CLDA techniques for intention estimation and assisted training exist, a unified and systematic CLDA framework that generalizes across different setups is lacking. Here we develop a novel closed-loop BMI training architecture that allows for processing, control, and adaptation using spike events, enables robust control and extends to various tasks. Moreover, we develop a unified control-theoretic CLDA framework within which intention estimation, assisted training, and adaptation are performed. The architecture incorporates an infinite-horizon optimal feedback-control (OFC) model of the brain's behavior in closed-loop BMI control, and a point process model of spikes. The OFC model infers the user's motor intention during CLDA-a process termed intention estimation. OFC is also used to design an autonomous and dynamic assisted training technique. The point process model allows for neural processing, control and decoder adaptation with every spike event and at a faster time-scale than current decoders; it also enables dynamic spike-event-based parameter adaptation unlike current CLDA methods that use batch-based adaptation on much slower adaptation time-scales. We conducted closed-loop experiments in a non-human primate over tens of days to dissociate the effects of these novel CLDA components. The OFC intention estimation improved BMI performance compared with current intention estimation techniques. OFC assisted training allowed the subject to consistently achieve proficient control. Spike-event-based adaptation resulted in faster and more consistent performance convergence compared with batch-based methods, and was robust to parameter initialization. Finally, the architecture extended control to tasks beyond those used for CLDA training. These results have significant implications towards the development of clinically-viable neuroprosthetics.",
+  "authors": [
+    "Shanechi Maryam M",
+    "Orsborn Amy L",
+    "Carmena Jose M"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2016",
+  "doi": "10.1371/journal.pcbi.1004730",
+  "mesh": [
+    "Action Potentials",
+    "Adaptation, Physiological",
+    "Animals",
+    "Behavior, Animal",
+    "Biomechanical Phenomena",
+    "Brain-Computer Interfaces",
+    "Computational Biology",
+    "Computer Simulation",
+    "Feedback, Sensory",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Software Design",
+    "Task Performance and Analysis"
+  ]
+}

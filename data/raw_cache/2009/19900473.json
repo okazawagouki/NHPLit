@@ -1,0 +1,31 @@
+{
+  "pmid": "19900473",
+  "title": "Revealing neuronal functional organization through the relation between multi-scale oscillatory extracellular signals.",
+  "abstract": "The spatial organization of neuronal elements and their connectivity make up the substrate underlying the information processing carried out in the networks they form. Conventionally, anatomical findings make the initial structure which later combines with superimposed neurophysiological information to create a functional organization map. The most common neurophysiological measure is the single neuron spike train extracted from an extracellular recording. This single neuron firing pattern provides valuable clues on information processing in a given brain area; however, it only gives a sparse and focal view of this process. Even with the increase in number of simultaneously recorded neurons, inference on their large-scale functional organization remains problematic. We propose a method of utilizing additional information derived from the same extracellular recording to generate a more comprehensive picture of neuronal functional organization. This analysis is based on the relationship between the oscillatory activity of single neurons and their neighboring neuronal populations. Two signals that reflect the multiple scales of neuronal populations are used to complement the single neuron spike train: (1) the high-frequency background unit activity representing the spiking activity of small localized sub-populations and (2) the low-frequency local field potential that represents the synaptic input to a larger global population. The three coherences calculated between pairs of these three signals arising from a single source of extracellular recording are then used to infer mosaic representations of the functional neuronal organization. We demonstrate this methodology on experimental data and on simulated leaky integrate-and-fire neurons.",
+  "authors": [
+    "Moran A",
+    "Bar-Gad I"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2010",
+  "doi": "10.1016/j.jneumeth.2009.10.024",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Biological Clocks",
+    "Brain",
+    "Disease Models, Animal",
+    "Electrophysiology",
+    "Macaca fascicularis",
+    "Male",
+    "Mathematical Computing",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Neurophysiology",
+    "Parkinsonian Disorders",
+    "Signal Processing, Computer-Assisted",
+    "Synaptic Transmission"
+  ]
+}

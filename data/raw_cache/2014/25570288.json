@@ -1,0 +1,25 @@
+{
+  "pmid": "25570288",
+  "title": "Long-term decoding of arm movement using Spatial Distribution of Neural Patterns.",
+  "abstract": "Day to day variability and non-stationarity caused by changes in subject motivation, learning and behavior pose a challenge in using local field potentials (LFP) for practical Brain Computer Interfaces. Pattern recognition algorithms require that the features possess little to no variation from the training to test data. As such models developed on one day fail to represent the characteristics on the other day. This paper provides a solution in the form of adaptive spatial features. We propose an algorithm to capture the local spatial variability of LFP patterns and provide accurate long-term decoding. This algorithm achieved more than 95% decoding of eight movement directions two weeks after its initial training.",
+  "authors": [
+    "Tadipatri Vijay Aditya",
+    "Tewfik Ahmed H",
+    "Ashe James"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2014",
+  "doi": "10.1109/EMBC.2014.6943920",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Male",
+    "Movement",
+    "Neurons",
+    "Reproducibility of Results",
+    "Time Factors"
+  ]
+}

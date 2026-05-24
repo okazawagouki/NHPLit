@@ -1,0 +1,27 @@
+{
+  "pmid": "27926936",
+  "title": "Scaling Properties of Dimensionality Reduction for Neural Populations and Network Models.",
+  "abstract": "Recent studies have applied dimensionality reduction methods to understand how the multi-dimensional structure of neural population activity gives rise to brain function. It is unclear, however, how the results obtained from dimensionality reduction generalize to recordings with larger numbers of neurons and trials or how these results relate to the underlying network structure. We address these questions by applying factor analysis to recordings in the visual cortex of non-human primates and to spiking network models that self-generate irregular activity through a balance of excitation and inhibition. We compared the scaling trends of two key outputs of dimensionality reduction-shared dimensionality and percent shared variance-with neuron and trial count. We found that the scaling properties of networks with non-clustered and clustered connectivity differed, and that the in vivo recordings were more consistent with the clustered network. Furthermore, recordings from tens of neurons were sufficient to identify the dominant modes of shared variability that generalize to larger portions of the network. These findings can help guide the interpretation of dimensionality reduction outputs in regimes of limited neuron and trial sampling and help relate these outputs to the underlying network structure.",
+  "authors": [
+    "Williamson Ryan C",
+    "Cowley Benjamin R",
+    "Litwin-Kumar Ashok",
+    "Doiron Brent",
+    "Kohn Adam",
+    "Smith Matthew A",
+    "Yu Byron M"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2016",
+  "doi": "10.1371/journal.pcbi.1005141",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computational Biology",
+    "Macaca",
+    "Male",
+    "Models, Neurological",
+    "Nerve Net",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "24389046",
+  "title": "Spectral factorization-based current source density analysis of ongoing neural oscillations.",
+  "abstract": "BACKGROUND: Current source density (CSD) analysis is widely used in neurophysiological investigations intended to reveal the patterns of localized neuronal activity in terms of current sources and sinks. CSD is based on the second spatial derivatives of multi-electrode electrophysiological recordings, and can be applied to brain activity related to repeated external stimulations (evoked brain activity) or ongoing (spontaneous) brain activity. In evoked brain activity, event-related time-series averages of ensembles are used to compute CSD patterns. However, for ongoing neural activity, the lack of external events requires a different approach other than ensemble averaging. NEW METHOD: Here, we propose a new spectral factorization-based current source density (SF-CSD) analysis method for ongoing neural oscillations. RESULTS: We validated this new SF-CSD analysis method using simulated data and demonstrated its effectiveness by applying to experimental intra-cortical local field potentials recorded on multi-contact depth electrodes from monkeys performing selective visual attention tasks. COMPARISON WITH EXISTING METHODS: The proposed method gives space-unbiased estimates since it does not rely on a reference for CSD calculation in the frequency-domain. CONCLUSION: The proposed SF-CSD method is expected to be a useful tool for systematic analysis of neural sources and oscillations from multi-site electrophysiological recordings.",
+  "authors": [
+    "Chand Ganesh B",
+    "Dhamala Mukesh"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2014",
+  "doi": "10.1016/j.jneumeth.2013.12.011",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Computer Simulation",
+    "Electroencephalography",
+    "Humans",
+    "Mass Spectrometry",
+    "Models, Neurological",
+    "Neurons"
+  ]
+}

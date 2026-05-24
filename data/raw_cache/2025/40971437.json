@@ -1,0 +1,27 @@
+{
+  "pmid": "40971437",
+  "title": "Multistable bimodal perceptual coding within the ventral premotor cortex.",
+  "abstract": "How neurons in the ventral premotor cortex (VPC) integrate and process multimodal sensory information remains unclear. We recorded VPC neuronal activity in two monkeys performing a tactile or acoustic bimodal detection task (BDT). Single-cell analyses revealed purely tactile, purely acoustic, bimodal, and decision-mnemonic responses. Population analyses of the VPC network and a recurrent neural network trained on the BDT uncovered notably similar latent dynamics. In both networks, neural trajectories diverged sharply from rest along modality-specific directions during stimulus presentation, while remained at rest during stimulus-absent trials. Subsequently, trajectories rotated toward a mnemonic subspace, where perceptual decisions (acoustic, tactile, and absent) were maintained in three distinctly different stable attractors. Using low-dimensional modeling, we propose a universal mechanism for the transition from sensory processing to memory retention explaining both biological and artificial latent neural dynamics in a simple dynamical motif. These results show that VPC neurons encode bimodal information, can integrate competing sensory inputs, and maintain multimodal perceptual decisions.",
+  "authors": [
+    "Andrade-Ortega Bernardo",
+    "Díaz Héctor",
+    "Bayones Lucas",
+    "Alvarez Manuel",
+    "Zainos Antonio",
+    "Rivera-Yoshida Natsuko",
+    "Franci Alessio",
+    "Romo Ranulfo",
+    "Rossi-Pool Román"
+  ],
+  "journal": "Science advances",
+  "year": "2025",
+  "doi": "10.1126/sciadv.adw5500",
+  "mesh": [
+    "Animals",
+    "Motor Cortex",
+    "Neurons",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological"
+  ]
+}

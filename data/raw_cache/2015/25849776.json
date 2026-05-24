@@ -1,0 +1,33 @@
+{
+  "pmid": "25849776",
+  "title": "Diverse coupling of neurons to populations in sensory cortex.",
+  "abstract": "A large population of neurons can, in principle, produce an astronomical number of distinct firing patterns. In cortex, however, these patterns lie in a space of lower dimension, as if individual neurons were \"obedient members of a huge orchestra\". Here we use recordings from the visual cortex of mouse (Mus musculus) and monkey (Macaca mulatta) to investigate the relationship between individual neurons and the population, and to establish the underlying circuit mechanisms. We show that neighbouring neurons can differ in their coupling to the overall firing of the population, ranging from strongly coupled 'choristers' to weakly coupled 'soloists'. Population coupling is largely independent of sensory preferences, and it is a fixed cellular attribute, invariant to stimulus conditions. Neurons with high population coupling are more strongly affected by non-sensory behavioural variables such as motor intention. Population coupling reflects a causal relationship, predicting the response of a neuron to optogenetically driven increases in local activity. Moreover, population coupling indicates synaptic connectivity; the population coupling of a neuron, measured in vivo, predicted subsequent in vitro estimates of the number of synapses received from its neighbours. Finally, population coupling provides a compact summary of population activity; knowledge of the population couplings of n neurons predicts a substantial portion of their n(2) pairwise correlations. Population coupling therefore represents a novel, simple measure that characterizes the relationship of each neuron to a larger population, explaining seemingly complex network firing patterns in terms of basic circuit variables.",
+  "authors": [
+    "Okun Michael",
+    "Steinmetz Nicholas",
+    "Cossell Lee",
+    "Iacaruso M Florencia",
+    "Ko Ho",
+    "Barthó Péter",
+    "Moore Tirin",
+    "Hofer Sonja B",
+    "Mrsic-Flogel Thomas D",
+    "Carandini Matteo",
+    "Harris Kenneth D"
+  ],
+  "journal": "Nature",
+  "year": "2015",
+  "doi": "10.1038/nature14273",
+  "mesh": [
+    "Animals",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Mice",
+    "Models, Neurological",
+    "Neurons",
+    "Optogenetics",
+    "Synapses",
+    "Visual Cortex"
+  ]
+}

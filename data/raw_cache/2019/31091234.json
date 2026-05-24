@@ -1,0 +1,29 @@
+{
+  "pmid": "31091234",
+  "title": "Beyond core object recognition: Recurrent processes account for object recognition under occlusion.",
+  "abstract": "Core object recognition, the ability to rapidly recognize objects despite variations in their appearance, is largely solved through the feedforward processing of visual information. Deep neural networks are shown to achieve human-level performance in these tasks, and explain the primate brain representation. On the other hand, object recognition under more challenging conditions (i.e. beyond the core recognition problem) is less characterized. One such example is object recognition under occlusion. It is unclear to what extent feedforward and recurrent processes contribute in object recognition under occlusion. Furthermore, we do not know whether the conventional deep neural networks, such as AlexNet, which were shown to be successful in solving core object recognition, can perform similarly well in problems that go beyond the core recognition. Here, we characterize neural dynamics of object recognition under occlusion, using magnetoencephalography (MEG), while participants were presented with images of objects with various levels of occlusion. We provide evidence from multivariate analysis of MEG data, behavioral data, and computational modelling, demonstrating an essential role for recurrent processes in object recognition under occlusion. Furthermore, the computational model with local recurrent connections, used here, suggests a mechanistic explanation of how the human brain might be solving this problem.",
+  "authors": [
+    "Rajaei Karim",
+    "Mohsenzadeh Yalda",
+    "Ebrahimpour Reza",
+    "Khaligh-Razavi Seyed-Mahdi"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2019",
+  "doi": "10.1371/journal.pcbi.1007001",
+  "mesh": [
+    "Adult",
+    "Brain",
+    "Computer Simulation",
+    "Female",
+    "Humans",
+    "Magnetoencephalography",
+    "Male",
+    "Models, Neurological",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Recognition, Psychology",
+    "Visual Perception",
+    "Young Adult"
+  ]
+}

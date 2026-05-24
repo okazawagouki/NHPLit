@@ -1,0 +1,24 @@
+{
+  "pmid": "20861387",
+  "title": "Visual saliency computations: mechanisms, constraints, and the effect of feedback.",
+  "abstract": "The primate visual system continuously selects spatial proscribed regions, features or objects for further processing. These selection mechanisms--collectively termed selective visual attention--are guided by intrinsic, bottom-up and by task-dependent, top-down signals. While much psychophysical research has shown that overt and covert attention is partially allocated based on saliency-driven exogenous signals, it is unclear how this is accomplished at the neuronal level. Recent electrophysiological experiments in monkeys point to the gradual emergence of saliency signals when ascending the dorsal visual stream and to the influence of top-down attention on these signals. To elucidate the neural mechanisms underlying these observations, we construct a biologically plausible network of spiking neurons to simulate the formation of saliency signals in different cortical areas. We find that saliency signals are rapidly generated through lateral excitation and inhibition in successive layers of neural populations selective to a single feature. These signals can be improved by feedback from a higher cortical area that represents a saliency map. In addition, we show how top-down attention can affect the saliency signals by disrupting this feedback through its action on the saliency map. While we find that saliency computations require dominant slow NMDA currents, the signal rapidly emerges from successive regions of the network. In conclusion, using a detailed spiking network model we find biophysical mechanisms and limitations of saliency computations which can be tested experimentally.",
+  "authors": [
+    "Soltani Alireza",
+    "Koch Christof"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2010",
+  "doi": "10.1523/JNEUROSCI.1517-10.2010",
+  "mesh": [
+    "Attention",
+    "Computer Simulation",
+    "Feedback, Physiological",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

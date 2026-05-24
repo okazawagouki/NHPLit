@@ -1,0 +1,33 @@
+{
+  "pmid": "11477428",
+  "title": "Natural signal statistics and sensory gain control.",
+  "abstract": "We describe a form of nonlinear decomposition that is well-suited for efficient encoding of natural signals. Signals are initially decomposed using a bank of linear filters. Each filter response is then rectified and divided by a weighted sum of rectified responses of neighboring filters. We show that this decomposition, with parameters optimized for the statistics of a generic ensemble of natural images or sounds, provides a good characterization of the nonlinear response properties of typical neurons in primary visual cortex or auditory nerve, respectively. These results suggest that nonlinear response properties of sensory neurons are not an accident of biological implementation, but have an important functional role.",
+  "authors": [
+    "Schwartz O",
+    "Simoncelli E P"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Auditory Perception",
+    "Central Nervous System",
+    "Cochlear Nerve",
+    "Data Interpretation, Statistical",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Saimiri",
+    "Sensation",
+    "Signal Transduction",
+    "Synaptic Transmission",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

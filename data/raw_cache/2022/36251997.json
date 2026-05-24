@@ -1,0 +1,24 @@
+{
+  "pmid": "36251997",
+  "title": "Neural representational geometry underlies few-shot concept learning.",
+  "abstract": "Understanding the neural basis of the remarkable human cognitive capacity to learn novel concepts from just one or a few sensory experiences constitutes a fundamental problem. We propose a simple, biologically plausible, mathematically tractable, and computationally powerful neural mechanism for few-shot learning of naturalistic concepts. We posit that the concepts that can be learned from few examples are defined by tightly circumscribed manifolds in the neural firing-rate space of higher-order sensory areas. We further posit that a single plastic downstream readout neuron learns to discriminate new concepts based on few examples using a simple plasticity rule. We demonstrate the computational power of our proposal by showing that it can achieve high few-shot learning accuracy on natural visual concepts using both macaque inferotemporal cortex representations and deep neural network (DNN) models of these representations and can even learn novel visual concepts specified only through linguistic descriptors. Moreover, we develop a mathematical theory of few-shot learning that links neurophysiology to predictions about behavioral outcomes by delineating several fundamental and measurable geometric properties of neural representations that can accurately predict the few-shot learning performance of naturalistic concepts across all our numerical simulations. This theory reveals, for instance, that high-dimensional manifolds enhance the ability to learn new concepts from few examples. Intriguingly, we observe striking mismatches between the geometry of manifolds in the primate visual pathway and in trained DNNs. We discuss testable predictions of our theory for psychophysics and neurophysiological experiments.",
+  "authors": [
+    "Sorscher Ben",
+    "Ganguli Surya",
+    "Sompolinsky Haim"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2022",
+  "doi": "10.1073/pnas.2200800119",
+  "mesh": [
+    "Animals",
+    "Concept Formation",
+    "Humans",
+    "Learning",
+    "Macaca",
+    "Neural Networks, Computer",
+    "Plastics",
+    "Primates",
+    "Visual Pathways"
+  ]
+}

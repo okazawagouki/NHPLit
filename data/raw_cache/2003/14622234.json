@@ -1,0 +1,26 @@
+{
+  "pmid": "14622234",
+  "title": "Retrospective and prospective persistent activity induced by Hebbian learning in a recurrent cortical network.",
+  "abstract": "Recordings from cells in the associative cortex of monkeys performing visual working memory tasks link persistent neuronal activity, long-term memory and associative memory. In particular, delayed pair-associate tasks have revealed neuronal correlates of long-term memory of associations between stimuli. Here, a recurrent cortical network model with Hebbian plastic synapses is subjected to the pair-associate protocol. In a first stage, learning leads to the appearance of delay activity, representing individual images ('retrospective' activity). As learning proceeds, the same learning mechanism uses retrospective delay activity together with choice stimulus activity to potentiate synapses connecting neural populations representing associated images. As a result, the neural population corresponding to the pair-associate of the image presented is activated prior to its visual stimulation ('prospective' activity). The probability of appearance of prospective activity is governed by the strength of the inter-population connections, which in turn depends on the frequency of pairings during training. The time course of the transitions from retrospective to prospective activity during the delay period is found to depend on the fraction of slow, N-methyl-d-aspartate-like receptors at excitatory synapses. For fast recurrent excitation, transitions are abrupt; slow recurrent excitation renders transitions gradual. Both scenarios lead to a gradual rise of delay activity when averaged over many trials, because of the stochastic nature of the transitions. The model reproduces most of the neuro-physiological data obtained during such tasks, makes experimentally testable predictions and demonstrates how persistent activity (working memory) brings about the learning of long-term associations.",
+  "authors": [
+    "Mongillo Gianluigi",
+    "Amit Daniel J",
+    "Brunel Nicolas"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Learning",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Synapses",
+    "Time Factors"
+  ]
+}

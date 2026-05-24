@@ -1,0 +1,14 @@
+{
+  "pmid": "36824885",
+  "title": "Rate versus synchrony codes for cerebellar control of motor behavior.",
+  "abstract": "UNLABELLED: Control of movement requires the coordination of multiple brain areas, each containing populations of neurons that receive inputs, process these inputs via recurrent dynamics, and then relay the processed information to downstream populations. Information transmission between neural populations could occur through either coordinated changes in firing rates or the precise transmission of spike timing. We investigate the nature of the code for transmission of signals to downstream areas from a part of the cerebellar cortex that is crucial for the accurate execution of a quantifiable motor behavior. Simultaneous recordings from Purkinje cell pairs in the cerebellar flocculus of rhesus macaques revealed how these cells coordinate their activity to drive smooth pursuit eye movements. Purkinje cells show millisecond-scale coordination of spikes (synchrony), but the level of synchrony is small and likely insufficient to impact the firing of downstream neurons in the vestibular nucleus. Further, analysis of previous metrics for assaying Purkinje cell synchrony demonstrates that these metrics conflate changes in firing rate and neuron-neuron covariance. We conclude that the output of the cerebellar cortex uses primarily a rate code rather than synchrony code to drive activity of downstream neurons and thus control motor behavior. IMPACT STATEMENT: Information transmission in the brain can occur via changes in firing rate or via the precise timing of spikes. Simultaneous recordings from pairs of Purkinje cells in the floccular complex reveals that information transmission out of the cerebellar cortex relies almost exclusively on changes in firing rates rather than millisecond-scale coordination of spike timing across the Purkinje cell population.",
+  "authors": [
+    "Herzfeld David J",
+    "Joshua Mati",
+    "Lisberger Stephen G"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2023",
+  "doi": "10.1101/2023.02.17.529019",
+  "mesh": []
+}

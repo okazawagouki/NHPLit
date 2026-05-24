@@ -1,0 +1,33 @@
+{
+  "pmid": "18336081",
+  "title": "Adaptive integration in the visual cortex by depressing recurrent cortical circuits.",
+  "abstract": "Neurons in the visual cortex receive a large amount of input from recurrent connections, yet the functional role of these connections remains unclear. Here we explore networks with strong recurrence in a computational model and show that short-term depression of the synapses in the recurrent loops implements an adaptive filter. This allows the visual system to respond reliably to deteriorated stimuli yet quickly to high-quality stimuli. For low-contrast stimuli, the model predicts long response latencies, whereas latencies are short for high-contrast stimuli. This is consistent with physiological data showing that in higher visual areas, latencies can increase more than 100 ms at low contrast compared to high contrast. Moreover, when presented with briefly flashed stimuli, the model predicts stereotypical responses that outlast the stimulus, again consistent with physiological findings. The adaptive properties of the model suggest that the abundant recurrent connections found in visual cortex serve to adapt the network's time constant in accordance with the stimulus and normalizes neuronal signals such that processing is as fast as possible while maintaining reliability.",
+  "authors": [
+    "van Rossum Mark C W",
+    "van der Meer Matthijs A A",
+    "Xiao Dengke",
+    "Oram Mike W"
+  ],
+  "journal": "Neural computation",
+  "year": "2008",
+  "doi": "10.1162/neco.2008.06-07-546",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Cerebral Cortex",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Models, Neurological",
+    "N-Methylaspartate",
+    "Neural Pathways",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Photic Stimulation",
+    "Temporal Lobe",
+    "Time Factors",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

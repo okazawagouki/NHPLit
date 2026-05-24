@@ -1,0 +1,21 @@
+{
+  "pmid": "39488649",
+  "title": "Dynamical mechanisms of how an RNN keeps a beat, uncovered with a low-dimensional reduced model.",
+  "abstract": "Despite music's omnipresence, the specific neural mechanisms responsible for perceiving and anticipating temporal patterns in music are unknown. To study potential mechanisms for keeping time in rhythmic contexts, we train a biologically constrained RNN, with excitatory (E) and inhibitory (I) units, on seven different stimulus tempos (2-8 Hz) on a synchronization and continuation task, a standard experimental paradigm. Our trained RNN generates a network oscillator that uses an input current (context parameter) to control oscillation frequency and replicates key features of neural dynamics observed in neural recordings of monkeys performing the same task. We develop a reduced three-variable rate model of the RNN and analyze its dynamic properties. By treating our understanding of the mathematical structure for oscillations in the reduced model as predictive, we confirm that the dynamical mechanisms are found also in the RNN. Our neurally plausible reduced model reveals an E-I circuit with two distinct inhibitory sub-populations, of which one is tightly synchronized with the excitatory units.",
+  "authors": [
+    "Zemlianova Klavdia",
+    "Bose Amitabha",
+    "Rinzel John"
+  ],
+  "journal": "Scientific reports",
+  "year": "2024",
+  "doi": "10.1038/s41598-024-77849-x",
+  "mesh": [
+    "Animals",
+    "Models, Neurological",
+    "Music",
+    "Neurons",
+    "Nerve Net",
+    "Auditory Perception"
+  ]
+}

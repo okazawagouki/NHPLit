@@ -1,0 +1,30 @@
+{
+  "pmid": "34710857",
+  "title": "Spatially patterned bi-electrode epiretinal stimulation for axon avoidance at cellular resolution.",
+  "abstract": "<i>Objective.</i>Epiretinal prostheses are designed to restore vision to people blinded by photoreceptor degenerative diseases by stimulating surviving retinal ganglion cells (RGCs), which carry visual signals to the brain. However, inadvertent stimulation of RGCs at their axons can result in non-focal visual percepts, limiting the quality of artificial vision. Theoretical work has suggested that axon activation can be avoided with current stimulation designed to minimize the second spatial derivative of the induced extracellular voltage along the axon. However, this approach has not been verified experimentally at the resolution of single cells.<i>Approach.</i>In this work, a custom multi-electrode array (512 electrodes, 10<i>μ</i>m diameter, 60<i>μ</i>m pitch) was used to stimulate and record RGCs in macaque retina<i>ex vivo</i>at single-cell, single-spike resolution. RGC activation thresholds resulting from bi-electrode stimulation, which consisted of bipolar currents simultaneously delivered through two electrodes straddling an axon, were compared to activation thresholds from traditional single-electrode stimulation.<i>Main results.</i>On average, across three retinal preparations, the bi-electrode stimulation strategy reduced somatic activation thresholds (∼21%) while increasing axonal activation thresholds (∼14%), thus favoring selective somatic activation. Furthermore, individual examples revealed rescued selective activation of somas that was not possible with any individual electrode.<i>Significance.</i>This work suggests that a bi-electrode epiretinal stimulation strategy can reduce inadvertent axonal activation at cellular resolution, for high-fidelity artificial vision.",
+  "authors": [
+    "Vilkhu Ramandeep S",
+    "Madugula Sasidhar S",
+    "Grosberg Lauren E",
+    "Gogliettino Alex R",
+    "Hottowy Pawel",
+    "Dabrowski Wladyslaw",
+    "Sher Alexander",
+    "Litke Alan M",
+    "Mitra Subhasish",
+    "Chichilnisky E J"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2021",
+  "doi": "10.1088/1741-2552/ac3450",
+  "mesh": [
+    "Action Potentials",
+    "Axons",
+    "Electric Stimulation",
+    "Electrodes",
+    "Humans",
+    "Retina",
+    "Retinal Ganglion Cells",
+    "Visual Prosthesis"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "39689450",
+  "title": "Contrastive machine learning reveals species -shared and -specific brain functional architecture.",
+  "abstract": "A deep comparative analysis of brain functional connectome across species in primates has the potential to yield valuable insights for both scientific and clinical applications. However, the interspecies commonality and differences are inherently entangled with each other and with other irrelevant factors. Here we develop a novel contrastive machine learning method, called shared-unique variation autoencoder (SU-VAE), to allow disentanglement of the species-shared and species-specific functional connectome variation between macaque and human brains on large-scale resting-state fMRI datasets. The method was validated by confirming that human-specific features are differentially related to cognitive scores, while features shared with macaque better capture sensorimotor ones. The projection of disentangled connectomes to the cortex revealed a gradient that reflected species divergence. In contrast to macaque, the introduction of human-specific connectomes to the shared ones enhanced network efficiency. We identified genes enriched on 'axon guidance' that could be related to the human-specific connectomes. The code contains the model and analysis can be found in https://github.com/BBBBrain/SU-VAE.",
+  "authors": [
+    "Yang Li",
+    "Cao Guannan",
+    "Zhang Songyao",
+    "Zhang Weihan",
+    "Sun Yusong",
+    "Zhou Jingchao",
+    "Zhong Tianyang",
+    "Yuan Yixuan",
+    "Liu Tao",
+    "Liu Tianming",
+    "Guo Lei",
+    "Yu Yongchun",
+    "Jiang Xi",
+    "Li Gang",
+    "Han Junwei",
+    "Zhang Tuo"
+  ],
+  "journal": "Medical image analysis",
+  "year": "2025",
+  "doi": "10.1016/j.media.2024.103431",
+  "mesh": [
+    "Humans",
+    "Connectome",
+    "Animals",
+    "Machine Learning",
+    "Magnetic Resonance Imaging",
+    "Macaca",
+    "Species Specificity",
+    "Brain"
+  ]
+}

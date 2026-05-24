@@ -1,0 +1,26 @@
+{
+  "pmid": "32330221",
+  "title": "Contrast response in a comprehensive network model of macaque V1.",
+  "abstract": "The response to contrast is one of the most important functions of the macaque primary visual cortex, V1, but up to now there has not been an adequate theory for it. To fill this gap in our understanding of cortical function, we built and analyzed a new large-scale, biologically constrained model of the input layer, 4Cα, of macaque V1. We called the new model CSY2. We challenged CSY2 with a three-parameter family of visual stimuli that varied in contrast, orientation, and spatial frequency. CSY2 accurately simulated experimental data and made many new predictions. It accounted for 1) the shapes of firing-rate-versus-contrast functions, 2) orientation and spatial frequency tuning versus contrast, and 3) the approximate contrast-invariance of cortical activity maps. Post-analysis revealed that the mechanisms that were needed to produce the successful simulations of contrast response included strong recurrent excitation and inhibition that find dynamic equilibria across the cortical surface, dynamic feedback between L6 and L4, and synaptic dynamics like inhibitory synaptic depression.",
+  "authors": [
+    "Chariker Logan",
+    "Shapley Robert",
+    "Young Lai-Sang"
+  ],
+  "journal": "Journal of vision",
+  "year": "2020",
+  "doi": "10.1167/jov.20.4.16",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Computer Simulation",
+    "Contrast Sensitivity",
+    "Geniculate Bodies",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons",
+    "Orientation",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

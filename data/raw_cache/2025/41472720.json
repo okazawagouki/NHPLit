@@ -1,0 +1,15 @@
+{
+  "pmid": "41472720",
+  "title": "Building blocks of functional connectivity measures for aperiodic electrophysiological brain signals.",
+  "abstract": "A challenge in interpreting functional connectivity results in electroencephalography (EEG) data is volume conduction. A common way to mitigate spurious connectivity due to volume conduction is to use connectivity measures that are insensitive to volume conduction. Examples of such measures are the imaginary coherence, the lagged coherence, and the (weighted) phase-lag index. Their insensitivity to volume conduction stems from an invariant property and it is of both practical and theoretical interest to identify all measures with this property. In this study we derive a set of invariant connectivity measures that are fundamental in the sense that all others can be constructed from them by combination. These \"building blocks\" of connectivity measures quantify the lack of invariance of multivariate EEG signals under permutation of the time-points. We use this result to construct a new connectivity measure for stationary aperiodic EEG signals, referred to as the <i>temporal irreversibility index</i> (TII) and illustrate its use by applying it to local field potentials recorded from primary visual cortex of a macaque monkey and to EEG data from comatose survivors of cardiac arrest. As far as we are aware, the TII is currently the only functional connectivity measure for aperiodic signals that is insensitive to volume conduction.",
+  "authors": [
+    "Hindriks Rikkert",
+    "Rot Thomas O",
+    "van Putten Michel J A M",
+    "Tewarie Prejaas"
+  ],
+  "journal": "Neuroimage. Reports",
+  "year": "2025",
+  "doi": "10.1016/j.ynirp.2025.100284",
+  "mesh": []
+}

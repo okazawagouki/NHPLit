@@ -1,0 +1,36 @@
+{
+  "pmid": "23886728",
+  "title": "Quantification of cardiac sympathetic nerve density with N-11C-guanyl-meta-octopamine and tracer kinetic analysis.",
+  "abstract": "UNLABELLED: Most cardiac sympathetic nerve radiotracers are substrates of the norepinephrine transporter (NET). Existing tracers such as (123)I-metaiodobenzylguanidine ((123)I-MIBG) and (11)C-(-)-meta-hydroxyephedrine ((11)C-HED) are flow-limited tracers because of their rapid NET transport rates. This prevents successful application of kinetic analysis techniques and causes semiquantitative measures of tracer retention to be insensitive to mild-to-moderate nerve losses. N-(11)C-guanyl-(-)-meta-octopamine ((11)C-GMO) has a much slower NET transport rate and is trapped in storage vesicles. The goal of this study was to determine whether analyses of (11)C-GMO kinetics could provide robust and sensitive measures of regional cardiac sympathetic nerve densities. METHODS: PET studies were performed in a rhesus macaque monkey under control conditions or after intravenous infusion of the NET inhibitor desipramine (DMI). Five desipramine dose levels were used to establish a range of available cardiac NET levels. Compartmental modeling of (11)C-GMO kinetics yielded estimates of the rate constants K1 (mL/min/g), k2 (min(-1)), and k3 (min(-1)). These values were used to calculate a net uptake rate constant K(i) (mL/min/g) = (K1k3)/(k2 + k3). In addition, Patlak graphical analyses of (11)C-GMO kinetics yielded Patlak slopes K(p) (mL/min/g), which represent alternative measurements of the net uptake rate constant K(i). (11)C-GMO kinetics in isolated rat hearts were also measured for comparison with other tracers. RESULTS: In isolated rat hearts, the neuronal uptake rate of (11)C-GMO was 8 times slower than (11)C-HED and 12 times slower than (11)C-MIBG. (11)C-GMO also had a long neuronal retention time (>200 h). Compartmental modeling of (11)C-GMO kinetics in the monkey heart proved stable under all conditions. Calculated net uptake rate constants K(i) tracked desipramine-induced reductions of available NET in a dose-dependent manner, with a half maximal inhibitory concentration (IC50) of 0.087 ± 0.012 mg of desipramine per kilogram. Patlak analysis provided highly linear Patlak plots, and the Patlak slopes Kp also declined in a dose-dependent manner (IC50 = 0.068 ± 0.010 mg of desipramine per kilogram). CONCLUSION: Compartmental modeling and Patlak analysis of (11)C-GMO kinetics each provided quantitative parameters that accurately tracked changes in cardiac NET levels. These results strongly suggest that PET studies with (11)C-GMO can provide robust and sensitive quantitative measures of regional cardiac sympathetic nerve densities in human hearts.",
+  "authors": [
+    "Raffel David M",
+    "Koeppe Robert A",
+    "Jung Yong-Woon",
+    "Gu Guie",
+    "Jang Keun Sam",
+    "Sherman Phillip S",
+    "Quesada Carole A"
+  ],
+  "journal": "Journal of nuclear medicine : official publication, Society of Nuclear Medicine",
+  "year": "2013",
+  "doi": "10.2967/jnumed.113.120659",
+  "mesh": [
+    "Animals",
+    "Carbon Radioisotopes",
+    "Computer Simulation",
+    "Dose-Response Relationship, Drug",
+    "Guanine",
+    "Heart",
+    "Image Interpretation, Computer-Assisted",
+    "Metabolic Clearance Rate",
+    "Models, Biological",
+    "Norepinephrine Plasma Membrane Transport Proteins",
+    "Octopamine",
+    "Positron-Emission Tomography",
+    "Radiopharmaceuticals",
+    "Rats",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Sympathetic Nervous System"
+  ]
+}

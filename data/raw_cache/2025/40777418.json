@@ -1,0 +1,19 @@
+{
+  "pmid": "40777418",
+  "title": "High-density, Identified Cell Recordings from Motor Cortex of Awake Behaving Macaques using 1024-channel SiNAPS-NHP Probes.",
+  "abstract": "OBJECTIVE/BACKGROUND: Acquiring bioelectric signals from many single neurons in primate brain remains challenging. Chronic implants offer a reasonable channel count (~100) but sample only a small, fixed region of the cortex. Acutely inserted electrodes can sample from a wider region by making new penetrations each day. The aim of this study was to develop an active dense CMOS probe and experimental procedures to demonstrate acute large-scale single unit recordings from behaving monkeys. METHODS: A single-shank CMOS probe was specifically designed for intracortical macaque recordings. The device is based on SiNAPS technology, with additional multiplexing circuits to minimize output lines. Synchronous sampling at 20 kHz/channel from >2k electrode-pixels is achieved with multiple probe systems. Experiments were performed in behaving macaques, achieving multiple day insertions in the motor cortex. Methods were developed to extract spontaneous spiking times of antidromically-identified neurons. RESULTS: The probe (10.7 mm in length, 158 μm in width, 50 μm in thickness) provides a regular array of 1024 electrodes (14 x 14 μm<sup>2</sup>) arranged in 4 columns with an interelectrode pitch of 30 μm. Dural penetration is eased by a small pilot hole; the optimized insertion procedure allows recordings from many different sites. Some cells were identified by antidromic activation as pyramidal tract neurons, which project to the spinal cord. CONCLUSION: This probe configuration can reach the anterior bank of the central sulcus, which contains many corticospinal cells that connect directly to motoneurons. SIGNIFICANCE: This study is an important advance in the toolkit of primate neurophysiology.",
+  "authors": [
+    "Angotzi G N",
+    "Baker A M E",
+    "Vincenzi M",
+    "Orban G",
+    "Ribeiro J F",
+    "Tenorio V",
+    "Berdondini L",
+    "Baker S N"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.07.22.665434",
+  "mesh": []
+}

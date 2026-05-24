@@ -1,0 +1,23 @@
+{
+  "pmid": "36283830",
+  "title": "Emergence of Distinct Neural Subspaces in Motor Cortical Dynamics during Volitional Adjustments of Ongoing Locomotion.",
+  "abstract": "The ability to modulate ongoing walking gait with precise, voluntary adjustments is what allows animals to navigate complex terrains. However, how the nervous system generates the signals to precisely control the limbs while simultaneously maintaining locomotion is poorly understood. One potential strategy is to distribute the neural activity related to these two functions into distinct cortical activity coactivation subspaces so that both may be conducted simultaneously without disruptive interference. To investigate this hypothesis, we recorded the activity of primary motor cortex in male nonhuman primates during obstacle avoidance on a treadmill. We found that the same neural population was active during both basic unobstructed locomotion and volitional obstacle avoidance movements. We identified the neural modes spanning the subspace of the low-dimensional dynamics in primary motor cortex and found a subspace that consistently maintains the same cyclic activity throughout obstacle stepping, despite large changes in the movement itself. All of the variance corresponding to this large change in movement during the obstacle avoidance was confined to its own distinct subspace. Furthermore, neural decoders built for ongoing locomotion did not generalize to decoding obstacle avoidance during locomotion. Our findings suggest that separate underlying subspaces emerge during complex locomotion that coordinates ongoing locomotor-related neural dynamics with volitional gait adjustments. These findings may have important implications for the development of brain-machine interfaces.<b>SIGNIFICANCE STATEMENT</b> Locomotion and precise, goal-directed movements are two distinct movement modalities with known differing requirements of motor cortical input. Previous studies have characterized the cortical activity during obstacle avoidance while walking in rodents and felines, but, to date, no such studies have been completed in primates. Additionally, in any animal model, it is unknown how these two movements are represented in primary motor cortex (M1) low-dimensional dynamics when both activities are performed at the same time, such as during obstacle avoidance. We developed a novel obstacle avoidance paradigm in freely moving nonhuman primates and discovered that the rhythmic locomotion-related dynamics and the voluntary, gait-adjustment movement separate into distinct subspaces in M1 cortical activity. Our analysis of decoding generalization may also have important implications for the development of brain-machine interfaces.",
+  "authors": [
+    "Xing David",
+    "Truccolo Wilson",
+    "Borton David A"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2022",
+  "doi": "10.1523/JNEUROSCI.0746-22.2022",
+  "mesh": [
+    "Male",
+    "Animals",
+    "Cats",
+    "Motor Cortex",
+    "Locomotion",
+    "Gait",
+    "Walking",
+    "Brain-Computer Interfaces"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "20053916",
+  "title": "Functional, but not anatomical, separation of \"what\" and \"when\" in prefrontal cortex.",
+  "abstract": "How does the brain store information over a short period of time? Typically, the short-term memory of items or values is thought to be stored in the persistent activity of neurons in higher cortical areas. However, the activity of these neurons often varies strongly in time, even if time is unimportant for whether or not rewards are received. To elucidate this interaction of time and memory, we reexamined the activity of neurons in the prefrontal cortex of monkeys performing a working memory task. As often observed in higher cortical areas, different neurons have highly heterogeneous patterns of activity, making interpretation of the data difficult. To overcome these problems, we developed a method that finds a new representation of the data in which heterogeneity is much reduced, and time- and memory-related activities became separate and easily interpretable. This new representation consists of a few fundamental activity components that capture 95% of the firing rate variance of >800 neurons. Surprisingly, the memory-related activity components account for <20% of this firing rate variance. The observed heterogeneity of neural responses results from random combinations of these fundamental components. Based on these components, we constructed a generative linear model of the network activity. The model suggests that the representations of time and memory are maintained by separate mechanisms, even while sharing a common anatomical substrate. Testable predictions of this hypothesis are proposed. We suggest that our method may be applied to data from other tasks in which neural responses are highly heterogeneous across neurons, and dependent on more than one variable.",
+  "authors": [
+    "Machens Christian K",
+    "Romo Ranulfo",
+    "Brody Carlos D"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2010",
+  "doi": "10.1523/JNEUROSCI.3276-09.2010",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Memory",
+    "Prefrontal Cortex",
+    "Psychomotor Performance",
+    "Reaction Time"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pmid": "23898262",
+  "title": "Missing mass approximations for the partition function of stimulus driven Ising models.",
+  "abstract": "Ising models are routinely used to quantify the second order, functional structure of neural populations. With some recent exceptions, they generally do not include the influence of time varying stimulus drive. Yet if the dynamics of network function are to be understood, time varying stimuli must be taken into account. Inclusion of stimulus drive carries a heavy computational burden because the partition function becomes stimulus dependent and must be separately calculated for all unique stimuli observed. This potentially increases computation time by the length of the data set. Here we present an extremely fast, yet simply implemented, method for approximating the stimulus dependent partition function in minutes or seconds. Noting that the most probable spike patterns (which are few) occur in the training data, we sum partition function terms corresponding to those patterns explicitly. We then approximate the sum over the remaining patterns (which are improbable, but many) by casting it in terms of the stimulus modulated missing mass (total stimulus dependent probability of all patterns not observed in the training data). We use a product of conditioned logistic regression models to approximate the stimulus modulated missing mass. This method has complexity of roughly O(LNNpat) where is L the data length, N the number of neurons and N pat the number of unique patterns in the data, contrasting with the O(L2 (N) ) complexity of alternate methods. Using multiple unit recordings from rat hippocampus, macaque DLPFC and cat Area 18 we demonstrate our method requires orders of magnitude less computation time than Monte Carlo methods and can approximate the stimulus driven partition function more accurately than either Monte Carlo methods or deterministic approximations. This advance allows stimuli to be easily included in Ising models making them suitable for studying population based stimulus encoding.",
+  "authors": [
+    "Haslinger Robert",
+    "Ba Demba",
+    "Galuske Ralf",
+    "Williams Ziv",
+    "Pipa Gordon"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2013",
+  "doi": "10.3389/fncom.2013.00096",
+  "mesh": []
+}

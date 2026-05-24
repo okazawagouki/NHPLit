@@ -1,0 +1,30 @@
+{
+  "pmid": "19091978",
+  "title": "Stimulus dependency and mechanisms of surround modulation in cortical area MT.",
+  "abstract": "The perceptual interpretation of a given visual feature depends on the surrounding context. To explore the neural mechanisms underlying such contextual interactions in the motion domain, we studied responses of neurons in the middle temporal area (MT) of macaque monkeys while presenting a variety of center-surround stimuli that stimulated both the classical receptive visual field (CRF) and the receptive field surround. In human psychophysical experiments, the perceptual impact of the surround stimulus on the center stimulus varied from motion capture (\"integration\") to motion contrast (\"segmentation\"). In our neurophysiological experiments, the directional tuning of surround modulation with these stimuli ranged from antagonistic (consistent with motion contrast) to integrative (consistent with motion capture) and agreed qualitatively with perception under some but not all conditions. Most strikingly, for a stimulus that elicited perceptual motion contrast, surround modulation was integrative if the CRF stimulus was ambiguous due to the aperture problem. In addition, we found that surround modulation was linked to response magnitude: stimuli eliciting the largest responses yielded the strongest antagonism and those eliciting the smallest responses yielded the strongest integration. We developed a neural network model that accounts for this finding as well as a previous finding that surround suppression in area MT is contrast-dependent. Our findings suggest that changes in MT surround modulation result from shifts in the balance between directionally tuned excitation and inhibition mediated by changes in input strength. We speculate that input strength is, in turn, linked with the ambiguity of the motion present within the CRF.",
+  "authors": [
+    "Huang Xin",
+    "Albright Thomas D",
+    "Stoner Gene R"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2008",
+  "doi": "10.1523/JNEUROSCI.1946-08.2008",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Electrodes, Implanted",
+    "Fixation, Ocular",
+    "Form Perception",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Psychophysics",
+    "Temporal Lobe",
+    "Visual Fields"
+  ]
+}

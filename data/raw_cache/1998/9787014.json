@@ -1,0 +1,25 @@
+{
+  "pmid": "9787014",
+  "title": "Neural learning rules for the vestibulo-ocular reflex.",
+  "abstract": "Mechanisms for the induction of motor learning in the vestibulo-ocular reflex (VOR) were evaluated by recording the patterns of neural activity elicited in the cerebellum by a range of stimuli that induce learning. Patterns of climbing-fiber, vestibular, and Purkinje cell simple-spike signals were examined during sinusoidal head movement paired with visual image movement at stimulus frequencies from 0.5 to 10 Hz. A comparison of simple-spike and vestibular signals contained the information required to guide learning only at low stimulus frequencies, and a comparison of climbing-fiber and simple-spike signals contained the information required to guide learning only at high stimulus frequencies. Learning could be guided by comparison of climbing-fiber and vestibular signals at all stimulus frequencies tested, but only if climbing fiber responses were compared with the vestibular signals present 100 msec earlier. Computational analysis demonstrated that this conclusion is valid even if there is a broad range of vestibular signals at the site of plasticity. Simulations also indicated that the comparison of vestibular and climbing-fiber signals across the 100 msec delay must be implemented by a subcellular \"eligibility\" trace rather than by neural circuits that delay the vestibular inputs to the site of plasticity. The results suggest two alternative accounts of learning in the VOR. Either there are multiple mechanisms of learning that use different combinations of neural signals to drive plasticity, or there is a single mechanism tuned to climbing-fiber activity that follows activity in vestibular pathways by approximately 100 msec.",
+  "authors": [
+    "Raymond J L",
+    "Lisberger S G"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Electrophysiology",
+    "Evoked Potentials, Visual",
+    "Learning",
+    "Macaca mulatta",
+    "Male",
+    "Models, Biological",
+    "Neuronal Plasticity",
+    "Posture",
+    "Purkinje Cells",
+    "Reflex, Vestibulo-Ocular"
+  ]
+}

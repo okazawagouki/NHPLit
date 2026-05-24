@@ -1,0 +1,15 @@
+{
+  "pmid": "33187098",
+  "title": "An Accurate and Robust Method for Spike Sorting Based on Convolutional Neural Networks.",
+  "abstract": "In the fields of neuroscience and biomedical signal processing, spike sorting is a crucial step to extract the information of single neurons from extracellular recordings. In this paper, we propose a novel deep learning approach based on one-dimensional convolutional neural networks (1D-CNNs) to implement accurate and robust spike sorting. The results of the simulated data demonstrated that the clustering accuracy in most datasets was greater than 99%, despite the multiple levels of noise and various degrees of overlapped spikes. Moreover, the proposed method performed significantly better than the state-of-the-art method named \"WMsorting\" and a deep-learning-based multilayer perceptron (MLP) model. In addition, the experimental data recorded from the primary visual cortex of a macaque monkey were used to evaluate the proposed method in a practical application. It was shown that the method could successfully isolate most spikes of different neurons (ranging from two to five) by training the 1D-CNN model with a small number of manually labeled spikes. Considering the above, the deep learning method proposed in this paper is of great advantage for spike sorting with high accuracy and strong robustness. It lays the foundation for application in more challenging works, such as distinguishing overlapped spikes and the simultaneous sorting of multichannel recordings.",
+  "authors": [
+    "Li Zhaohui",
+    "Wang Yongtian",
+    "Zhang Nan",
+    "Li Xiaoli"
+  ],
+  "journal": "Brain sciences",
+  "year": "2020",
+  "doi": "10.3390/brainsci10110835",
+  "mesh": []
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "9334433",
+  "title": "Linearity and normalization in simple cells of the macaque primary visual cortex.",
+  "abstract": "Simple cells in the primary visual cortex often appear to compute a weighted sum of the light intensity distribution of the visual stimuli that fall on their receptive fields. A linear model of these cells has the advantage of simplicity and captures a number of basic aspects of cell function. It, however, fails to account for important response nonlinearities, such as the decrease in response gain and latency observed at high contrasts and the effects of masking by stimuli that fail to elicit responses when presented alone. To account for these nonlinearities we have proposed a normalization model, which extends the linear model to include mutual shunting inhibition among a large number of cortical cells. Shunting inhibition is divisive, and its effect in the model is to normalize the linear responses by a measure of stimulus energy. To test this model we performed extracellular recordings of simple cells in the primary visual cortex of anesthetized macaques. We presented large stimulus sets consisting of (1) drifting gratings of various orientations and spatiotemporal frequencies; (2) plaids composed of two drifting gratings; and (3) gratings masked by full-screen spatiotemporal white noise. We derived expressions for the model predictions and fitted them to the physiological data. Our results support the normalization model, which accounts for both the linear and the nonlinear properties of the cells. An alternative model, in which the linear responses are subject to a compressive nonlinearity, did not perform nearly as well.",
+  "authors": [
+    "Carandini M",
+    "Heeger D J",
+    "Movshon J A"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1997",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Macaca fascicularis",
+    "Macaca nemestrina",
+    "Models, Neurological",
+    "Nonlinear Dynamics",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

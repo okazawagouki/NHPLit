@@ -1,0 +1,25 @@
+{
+  "pmid": "40180984",
+  "title": "Continuous sensorimotor transformation enhances robustness of neural dynamics to perturbation in macaque motor cortex.",
+  "abstract": "Neural activity in the motor cortex evolves dynamically to prepare and generate movement. Here, we investigate how motor cortical dynamics adapt to dynamic environments and whether these adaptations influence robustness against disruptions. We apply intracortical microstimulation (ICMS) in the motor cortex of monkeys performing delayed center-out reaches to either a static target (static) or a rotating target (moving) that required interception. While ICMS prolongs reaction times (RTs) in the static condition, it does not increase RTs in the moving condition, correlating with faster recovery of neural population activity post-perturbation. Neural dynamics suggests that the moving condition involves ongoing sensorimotor transformations during the delay period, whereas motor planning in the static condition is completed shortly. A neural network model shows that continuous feedback input rapidly corrects perturbation-induced errors in the moving condition. We conclude that continuous sensorimotor transformations enhance the motor cortex's resilience to perturbations, facilitating timely movement execution.",
+  "authors": [
+    "Zheng Cong",
+    "Wang Qifan",
+    "Cui He"
+  ],
+  "journal": "Nature communications",
+  "year": "2025",
+  "doi": "10.1038/s41467-025-58421-1",
+  "mesh": [
+    "Animals",
+    "Motor Cortex",
+    "Macaca mulatta",
+    "Reaction Time",
+    "Movement",
+    "Psychomotor Performance",
+    "Male",
+    "Models, Neurological",
+    "Electric Stimulation",
+    "Neurons"
+  ]
+}

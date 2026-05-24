@@ -1,0 +1,28 @@
+{
+  "pmid": "24109812",
+  "title": "Anatomical variability predicts individual differences in transcranial electric stimulation motor threshold.",
+  "abstract": "We have proposed that the current amplitude in electroconvulsive therapy (ECT) be lowered to produce stimulation closer to the neural activation threshold and individualized to account for anatomical variability across patients. A novel approach to individualize the ECT current amplitude could be via motor threshold (MT) determination with transcranial electric stimulation (TES) applied through the ECT electrodes instead of the fixed high current approach. This study derives an estimate of the electric field (E-field) neural activation threshold and tests whether individual differences in TES MT are explained by anatomical variability measurements and simulations in individual head models. The E-field distribution induced by a right unilateral (RUL) ECT electrode configuration was computed in subject-specific finite element head models of four nonhuman primates (NHPs) for whom MT was measured. By combining the measured MTs and the computed E-field maps, the neural activation threshold is estimated to be 0.45 ± 0.07 V/cm for 0.2 ms stimulus pulse width. The individual MT was correlated with the electrode-to-cortex distance under the superior electrode (R(2)=.96, p=.022) as well as with the simulated electrode-current/induced-E-field ratio (R(2)=.95, p=.026), indicating that both anatomical measurements and computational models could predict the individual current requirements for transcranial stimulation. These findings could be used with realistic human head models and in clinical studies to explore novel ECT dosing paradigms, and as a new noninvasive means to determine individual dosage requirement with ECT.",
+  "authors": [
+    "Lee Won Hee",
+    "Lisanby Sarah H",
+    "Laine Andrew F",
+    "Peterchev Angel V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2013",
+  "doi": "10.1109/EMBC.2013.6609625",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Deep Brain Stimulation",
+    "Electric Conductivity",
+    "Electrodes",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Sensory Thresholds"
+  ]
+}

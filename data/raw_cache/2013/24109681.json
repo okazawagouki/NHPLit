@@ -1,0 +1,25 @@
+{
+  "pmid": "24109681",
+  "title": "Utilizing movement synergies to improve decoding performance for a brain machine interface.",
+  "abstract": "A major challenge facing the development of high degree of freedom (DOF) brain machine interface (BMI) devices is a limited ability to provide prospective users with independent control of many DOFs when using a complex prosthesis. It has been previously shown that a large range of complex hand postures can be replicated using a relatively low number of movement synergies. Thus, a high DOF joint space, such as the one the hand resides in, may be decomposed via principal component analysis (PCA) into a lower DOF (eigen-reach) space that contains most of the variance of the original movements. By decoding in this eigen-reach space, BMI users need only control a few eigen-reach values to be able to make movements using all DOFs in the arm and hand. In this paper we examine how using PCA before decoding neural activity may lead to improvements in decoding performance.",
+  "authors": [
+    "Wong Yan T",
+    "Putrino David",
+    "Weiss Adam",
+    "Pesaran Bijan"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2013",
+  "doi": "10.1109/EMBC.2013.6609494",
+  "mesh": [
+    "Animals",
+    "Artificial Limbs",
+    "Brain-Computer Interfaces",
+    "Hand",
+    "Humans",
+    "Macaca mulatta",
+    "Movement",
+    "Principal Component Analysis",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

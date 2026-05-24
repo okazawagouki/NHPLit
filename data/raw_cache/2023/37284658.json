@@ -1,0 +1,13 @@
+{
+  "pmid": "37284658",
+  "title": "Modeling the development of cortical responses in primate dorsal (\"where\") pathway to optic flow using hierarchical neural field models.",
+  "abstract": "Although there is a plethora of modeling literature dedicated to the object recognition processes of the ventral (\"what\") pathway of primate visual systems, modeling studies on the motion-sensitive regions like the Medial superior temporal area (MST) of the dorsal (\"where\") pathway are relatively scarce. Neurons in the MST area of the macaque monkey respond selectively to different types of optic flow sequences such as radial and rotational flows. We present three models that are designed to simulate the computation of optic flow performed by the MST neurons. Model-1 and model-2 each composed of three stages: Direction Selective Mosaic Network (DSMN), Cell Plane Network (CPNW) or the Hebbian Network (HBNW), and the Optic flow network (OF). The three stages roughly correspond to V1-MT-MST areas, respectively, in the primate motion pathway. Both these models are trained stage by stage using a biologically plausible variation of Hebbian rule. The simulation results show that, neurons in model-1 and model-2 (that are trained on translational, radial, and rotational sequences) develop responses that could account for MSTd cell properties found neurobiologically. On the other hand, model-3 consists of the Velocity Selective Mosaic Network (VSMN) followed by a convolutional neural network (CNN) which is trained on radial and rotational sequences using a supervised backpropagation algorithm. The quantitative comparison of response similarity matrices (RSMs), made out of convolution layer and last hidden layer responses, show that model-3 neuron responses are consistent with the idea of functional hierarchy in the macaque motion pathway. These results also suggest that the deep learning models could offer a computationally elegant and biologically plausible solution to simulate the development of cortical responses of the primate motion pathway.",
+  "authors": [
+    "Gundavarapu Anila",
+    "Chakravarthy V Srinivasa"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2023",
+  "doi": "10.3389/fnins.2023.1154252",
+  "mesh": []
+}

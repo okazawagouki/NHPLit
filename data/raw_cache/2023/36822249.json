@@ -1,0 +1,29 @@
+{
+  "pmid": "36822249",
+  "title": "Towards an optimization of functional localizers in non-human primate neuroimaging with (fMRI) frequency-tagging.",
+  "abstract": "Non-human primate (NHP) neuroimaging can provide essential insights into the neural basis of human cognitive functions. While functional magnetic resonance imaging (fMRI) localizers can play an essential role in reaching this objective (Russ et al., 2021), they often differ substantially across species in terms of paradigms, measured signals, and data analysis, biasing the comparisons. Here we introduce a functional frequency-tagging face localizer for NHP imaging, successfully developed in humans and outperforming standard face localizers (Gao et al., 2018). FMRI recordings were performed in two awake macaques. Within a rapid 6 Hz stream of natural non-face objects images, human or monkey face stimuli were presented in bursts every 9 s. We also included control conditions with phase-scrambled versions of all images. As in humans, face-selective activity was objectively identified and quantified at the peak of the face-stimulation frequency (0.111 Hz) and its second harmonic (0.222 Hz) in the Fourier domain. Focal activations with a high signal-to-noise ratio were observed in regions previously described as face-selective, mainly in the STS (clusters PL, ML, MF; also, AL, AF), both for human and monkey faces. Robust face-selective activations were also found in the prefrontal cortex of one monkey (PVL and PO clusters). Face-selective neural activity was highly reliable and excluded all contributions from low-level visual cues contained in the amplitude spectrum of the stimuli. These observations indicate that fMRI frequency-tagging provides a highly valuable approach to objectively compare human and monkey visual recognition systems within the same framework.",
+  "authors": [
+    "Laurent Marie-Alphée",
+    "Audurier Pauline",
+    "De Castro Vanessa",
+    "Gao Xiaoqing",
+    "Durand Jean-Baptiste",
+    "Jonas Jacques",
+    "Rossion Bruno",
+    "Cottereau Benoit R"
+  ],
+  "journal": "NeuroImage",
+  "year": "2023",
+  "doi": "10.1016/j.neuroimage.2023.119959",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Brain Mapping",
+    "Neuroimaging",
+    "Recognition, Psychology",
+    "Macaca",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation"
+  ]
+}

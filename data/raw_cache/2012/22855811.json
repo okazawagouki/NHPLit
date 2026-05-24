@@ -1,0 +1,35 @@
+{
+  "pmid": "22855811",
+  "title": "A fast and simple population code for orientation in primate V1.",
+  "abstract": "Orientation tuning has been a classic model for understanding single-neuron computation in the neocortex. However, little is known about how orientation can be read out from the activity of neural populations, in particular in alert animals. Our study is a first step toward that goal. We recorded from up to 20 well isolated single neurons in the primary visual cortex of alert macaques simultaneously and applied a simple, neurally plausible decoder to read out the population code. We focus on two questions: First, what are the time course and the timescale at which orientation can be read out from the population response? Second, how complex does the decoding mechanism in a downstream neuron have to be to reliably discriminate between visual stimuli with different orientations? We show that the neural ensembles in primary visual cortex of awake macaques represent orientation in a way that facilitates a fast and simple readout mechanism: With an average latency of 30-80 ms, the population code can be read out instantaneously with a short integration time of only tens of milliseconds, and neither stimulus contrast nor correlations need to be taken into account to compute the optimal synaptic weight pattern. Our study shows that-similar to the case of single-neuron computation-the representation of orientation in the spike patterns of neural populations can serve as an exemplary case for understanding the computations performed by neural ensembles underlying visual processing during behavior.",
+  "authors": [
+    "Berens Philipp",
+    "Ecker Alexander S",
+    "Cotton R James",
+    "Ma Wei Ji",
+    "Bethge Matthias",
+    "Tolias Andreas S"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2012",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Analysis of Variance",
+    "Animals",
+    "Contrast Sensitivity",
+    "Electrodes, Implanted",
+    "Logistic Models",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Orientation",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Synapses",
+    "Time Factors",
+    "Visual Cortex",
+    "Wakefulness"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmid": "40907530",
+  "title": "Temporal basis function models for closed-loop neural stimulation.",
+  "abstract": "<i>Objective.</i>Closed-loop neural stimulation provides novel therapies for neurological diseases such as Parkinson's disease (PD), but it is not yet clear whether artificial intelligence (AI) techniques can tailor closed-loop stimulation to individual patients or identify new therapies. Further advancements are required to address a number of difficulties with translating AI to this domain, including sample efficiency, training time, and minimizing loop latency such that stimulation may be shaped in response to changing brain activity.<i>Approach.</i>We propose temporal basis function models (TBFMs) to address these difficulties, and explore this approach in the context of excitatory optogenetic stimulation. We demonstrate the ability of TBF models to provide a single-trial, spatiotemporal forward prediction of the effect of optogenetic stimulation on local field potentials measured in two non-human primates. The simplicity of TBF models allow them to be sample efficient (<20 min of training data), rapid to train (<5 min), and low latency (<0.2 ms) on desktop CPUs.<i>Main results.</i>We demonstrate the model on 40 sessions of previously published excitatory optogenetic stimulation data. Surprisingly, on test sets it achieved a prediction accuracy 44% higher than a complex nonlinear dynamical systems model that requires hours to train, and 158% higher than a linear state-space model requiring 90 min to train. Additionally, in two simulations we show that it successfully allows a closed-loop stimulator to drive neural trajectories, and to achieve the user-preferred trade-offs between under- and over-stimulation, given the uncertainty in the model; it achieves an area under curve of ∼0.7 in both cases.<i>Significance.</i>By optimizing for sample efficiency, training time, and latency, our approach begins to bridge the gap between complex AI-based approaches to modeling dynamical systems and the vision of using such forward prediction models to develop novel, clinically useful closed-loop stimulation protocols.",
+  "authors": [
+    "J Bryan Matthew",
+    "Schwock Felix",
+    "Yazdan-Shahmorad Azadeh",
+    "P N Rao Rajesh"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2025",
+  "doi": "10.1088/1741-2552/ae036a",
+  "mesh": [
+    "Animals",
+    "Optogenetics",
+    "Models, Neurological",
+    "Deep Brain Stimulation",
+    "Macaca mulatta",
+    "Artificial Intelligence"
+  ]
+}

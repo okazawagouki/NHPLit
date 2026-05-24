@@ -1,0 +1,20 @@
+{
+  "pmid": "35705489",
+  "title": "A Computational Probe into the Behavioral and Neural Markers of Atypical Facial Emotion Processing in Autism.",
+  "abstract": "Despite ample behavioral evidence of atypical facial emotion processing in individuals with autism spectrum disorder (ASD), the neural underpinnings of such behavioral heterogeneities remain unclear. Here, I have used brain-tissue mapped artificial neural network (ANN) models of primate vision to probe candidate neural and behavior markers of atypical facial emotion recognition in ASD at an image-by-image level. Interestingly, the image-level behavioral patterns of the ANNs better matched the neurotypical subjects 'behavior than those measured in ASD. This behavioral mismatch was most remarkable when the ANN behavior was decoded from units that correspond to the primate inferior temporal (IT) cortex. ANN-IT responses also explained a significant fraction of the image-level behavioral predictivity associated with neural activity in the human amygdala (from epileptic patients without ASD), strongly suggesting that the previously reported facial emotion intensity encodes in the human amygdala could be primarily driven by projections from the IT cortex. In sum, these results identify primate IT activity as a candidate neural marker and demonstrate how ANN models of vision can be used to generate neural circuit-level hypotheses and guide future human and nonhuman primate studies in autism.<b>SIGNIFICANCE STATEMENT</b> Moving beyond standard parametric approaches that predict behavior with high-level categorical descriptors of a stimulus (e.g., level of happiness/fear in a face image), in this study, I demonstrate how an image-level probe, using current deep-learning-based ANN models, allows identification of more diagnostic stimuli for autism spectrum disorder enabling the design of more powerful experiments. This study predicts that IT cortex activity is a key candidate neural marker of atypical facial emotion processing in people with ASD. Importantly, the results strongly suggest that ASD-related atypical facial emotion intensity encodes in the human amygdala could be primarily driven by projections from the IT cortex.",
+  "authors": [
+    "Kar Kohitij"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2022",
+  "doi": "10.1523/JNEUROSCI.2229-21.2022",
+  "mesh": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Emotions",
+    "Facial Expression",
+    "Facial Recognition",
+    "Humans"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "25454583",
+  "title": "Coincidence detection of single-photon responses in the inner retina at the sensitivity limit of vision.",
+  "abstract": "BACKGROUND: Vision in starlight relies on our ability to detect single absorbed photons. Indeed, the sensitivity of dark-adapted vision approaches limits set by the quantal nature of light. This sensitivity requires neural mechanisms that selectively transmit quantal responses and suppress noise. Such mechanisms face an inevitable tradeoff because signal and noise cannot be perfectly separated, and rejecting noise also means rejecting signal. RESULTS: We report measurements of single-photon responses in the output signals of the primate retina. We find that visual signals arising from a few absorbed photons are read out fundamentally differently by primate On and Off parasol ganglion cells, key retinal output neurons. Off parasol cells respond linearly to near-threshold flashes, retaining sensitivity to each absorbed photon but maintaining a high level of noise. On parasol cells respond nonlinearly due to thresholding of their excitatory synaptic inputs. This nonlinearity reduces neural noise but also limits information about single-photon absorptions. CONCLUSIONS: The long-standing idea that information about each photon absorption is available for behavior at the sensitivity limit of vision is not universally true across retinal outputs. More generally, our work shows how a neural circuit balances the competing needs for sensitivity and noise rejection.",
+  "authors": [
+    "Ala-Laurila Petri",
+    "Rieke Fred"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2014",
+  "doi": "10.1016/j.cub.2014.10.028",
+  "mesh": [
+    "Animals",
+    "Macaca fascicularis",
+    "Macaca nemestrina",
+    "Photons",
+    "Retina",
+    "Retinal Ganglion Cells",
+    "Retinal Rod Photoreceptor Cells",
+    "Synaptic Transmission",
+    "Vision, Ocular"
+  ]
+}

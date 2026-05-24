@@ -1,0 +1,28 @@
+{
+  "pmid": "34753913",
+  "title": "Unsupervised deep learning identifies semantic disentanglement in single inferotemporal face patch neurons.",
+  "abstract": "In order to better understand how the brain perceives faces, it is important to know what objective drives learning in the ventral visual stream. To answer this question, we model neural responses to faces in the macaque inferotemporal (IT) cortex with a deep self-supervised generative model, β-VAE, which disentangles sensory data into interpretable latent factors, such as gender or age. Our results demonstrate a strong correspondence between the generative factors discovered by β-VAE and those coded by single IT neurons, beyond that found for the baselines, including the handcrafted state-of-the-art model of face perception, the Active Appearance Model, and deep classifiers. Moreover, β-VAE is able to reconstruct novel face images using signals from just a handful of cells. Together our results imply that optimising the disentangling objective leads to representations that closely resemble those in the IT at the single unit level. This points at disentangling as a plausible learning objective for the visual brain.",
+  "authors": [
+    "Higgins Irina",
+    "Chang Le",
+    "Langston Victoria",
+    "Hassabis Demis",
+    "Summerfield Christopher",
+    "Tsao Doris",
+    "Botvinick Matthew"
+  ],
+  "journal": "Nature communications",
+  "year": "2021",
+  "doi": "10.1038/s41467-021-26751-5",
+  "mesh": [
+    "Brain",
+    "Cerebral Cortex",
+    "Deep Learning",
+    "Humans",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Semantics",
+    "Temporal Lobe"
+  ]
+}

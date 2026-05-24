@@ -1,0 +1,28 @@
+{
+  "pmid": "23723145",
+  "title": "Computational modeling of pedunculopontine nucleus deep brain stimulation.",
+  "abstract": "OBJECTIVE: Deep brain stimulation (DBS) near the pedunculopontine nucleus (PPN) has been posited to improve medication-intractable gait and balance problems in patients with Parkinson's disease. However, clinical studies evaluating this DBS target have not demonstrated consistent therapeutic effects, with several studies reporting the emergence of paresthesia and oculomotor side effects. The spatial and pathway-specific extent to which brainstem regions are modulated during PPN-DBS is not well understood. APPROACH: Here, we describe two computational models that estimate the direct effects of DBS in the PPN region for human and translational non-human primate (NHP) studies. The three-dimensional models were constructed from segmented histological images from each species, multi-compartment neuron models and inhomogeneous finite element models of the voltage distribution in the brainstem during DBS. MAIN RESULTS: The computational models predicted that: (1) the majority of PPN neurons are activated with -3 V monopolar cathodic stimulation; (2) surgical targeting errors of as little as 1 mm in both species decrement activation selectivity; (3) specifically, monopolar stimulation in caudal, medial, or anterior PPN activates a significant proportion of the superior cerebellar peduncle (up to 60% in the human model and 90% in the NHP model at -3 V); (4) monopolar stimulation in rostral, lateral or anterior PPN activates a large percentage of medial lemniscus fibers (up to 33% in the human model and 40% in the NHP model at -3 V) and (5) the current clinical cylindrical electrode design is suboptimal for isolating the modulatory effects to PPN neurons. SIGNIFICANCE: We show that a DBS lead design with radially-segmented electrodes may yield improved functional outcome for PPN-DBS.",
+  "authors": [
+    "Zitella Laura M",
+    "Mohsenian Kevin",
+    "Pahwa Mrinal",
+    "Gloeckner Cory",
+    "Johnson Matthew D"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2013",
+  "doi": "10.1088/1741-2560/10/4/045005",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Deep Brain Stimulation",
+    "Evoked Potentials",
+    "Humans",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Primates",
+    "Species Specificity"
+  ]
+}

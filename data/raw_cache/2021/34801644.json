@@ -1,0 +1,17 @@
+{
+  "pmid": "34801644",
+  "title": "Memory retrieval dynamics and storage capacity of a modular network model of association cortex with featural decomposition.",
+  "abstract": "The primate heteromodal cortex presents an evident functional modularity at a mesoscopic level, with physiological and anatomical evidence pointing to it as likely substrate of long-term memory. In order to investigate some of its properties, a model of multimodular autoassociator is studied. Each of the many modules represents a neocortical functional ensemble of recurrently connected neurons and operates as a Hebbian autoassociator, storing a number of local features which it can recall upon cue. The global memory patterns are made of combinations of features sparsely distributed across the modules. Intermodular connections are modelled as a finite-connectivity random graph. Any pair of features in any respective pair of modules is allowed to be involved in several memory patterns; the coarse-grained modular network dynamics is defined in such a way as to overcome the consequent ambiguity of associations. Effects of long-range homeostatic synaptic scaling on network performance are also assessed. The dynamical process of cued retrieval almost saturates a natural upper bound while producing negligible spurious activation. The extent of finite-size effects on storage capacity is quantitatively evaluated. In the limit of infinite size, the functional relationship between storage capacity and number of features per module reduces to that which other authors found by methods from equilibrium statistical mechanics, which suggests that the origin of the functional form is of a combinatorial nature. In contrast with its apparent inevitability at intramodular level, long-range synaptic scaling results to be of minor relevance to both retrieval and storage capacity, casting doubt on its existence in the neocortex. A conjecture is also posited about how statistical fluctuation of connectivity across the network may underpin spontaneous emergence of semantic hierarchies through learning.",
+  "authors": [
+    "Fulvi Mari Carlo"
+  ],
+  "journal": "Bio Systems",
+  "year": "2022",
+  "doi": "10.1016/j.biosystems.2021.104570",
+  "mesh": [
+    "Cerebral Cortex",
+    "Humans",
+    "Memory",
+    "Models, Neurological"
+  ]
+}

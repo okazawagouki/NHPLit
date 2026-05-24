@@ -1,0 +1,22 @@
+{
+  "pmid": "28287546",
+  "title": "Large-scale Reconstructions and Independent, Unbiased Clustering Based on Morphological Metrics to Classify Neurons in Selective Populations.",
+  "abstract": "This protocol outlines large-scale reconstructions of neurons combined with the use of independent and unbiased clustering analyses to create a comprehensive survey of the morphological characteristics observed among a selective neuronal population. Combination of these techniques constitutes a novel approach for the collection and analysis of neuroanatomical data. Together, these techniques enable large-scale, and therefore more comprehensive, sampling of selective neuronal populations and establish unbiased quantitative methods for describing morphologically unique neuronal classes within a population. The protocol outlines the use of modified rabies virus to selectively label neurons. G-deleted rabies virus acts like a retrograde tracer following stereotaxic injection into a target brain structure of interest and serves as a vehicle for the delivery and expression of EGFP in neurons. Large numbers of neurons are infected using this technique and express GFP throughout their dendrites, producing \"Golgi-like\" complete fills of individual neurons. Accordingly, the virus-mediated retrograde tracing method improves upon traditional dye-based retrograde tracing techniques by producing complete intracellular fills. Individual well-isolated neurons spanning all regions of the brain area under study are selected for reconstruction in order to obtain a representative sample of neurons. The protocol outlines procedures to reconstruct cell bodies and complete dendritic arborization patterns of labeled neurons spanning multiple tissue sections. Morphological data, including positions of each neuron within the brain structure, are extracted for further analysis. Standard programming functions were utilized to perform independent cluster analyses and cluster evaluations based on morphological metrics. To verify the utility of these analyses, statistical evaluation of a cluster analysis performed on 160 neurons reconstructed in the thalamic reticular nucleus of the thalamus (TRN) of the macaque monkey was made. Both the original cluster analysis and the statistical evaluations performed here indicate that TRN neurons are separated into three subpopulations, each with unique morphological characteristics.",
+  "authors": [
+    "Bragg Elise M",
+    "Briggs Farran"
+  ],
+  "journal": "Journal of visualized experiments : JoVE",
+  "year": "2017",
+  "doi": "10.3791/55133",
+  "mesh": [
+    "Animals",
+    "Dendrites",
+    "Macaca",
+    "Neurons",
+    "Rabies virus",
+    "Staining and Labeling",
+    "Thalamic Nuclei",
+    "Thalamus"
+  ]
+}

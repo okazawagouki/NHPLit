@@ -1,0 +1,35 @@
+{
+  "pmid": "26758840",
+  "title": "Transitions between Multiband Oscillatory Patterns Characterize Memory-Guided Perceptual Decisions in Prefrontal Circuits.",
+  "abstract": "UNLABELLED: Neuronal activity in the lateral prefrontal cortex (LPFC) reflects the structure and cognitive demands of memory-guided sensory discrimination tasks. However, we still do not know how neuronal activity articulates in network states involved in perceiving, remembering, and comparing sensory information during such tasks. Oscillations in local field potentials (LFPs) provide fingerprints of such network dynamics. Here, we examined LFPs recorded from LPFC of macaques while they compared the directions or the speeds of two moving random-dot patterns, S1 and S2, separated by a delay. LFP activity in the theta, beta, and gamma bands tracked consecutive components of the task. In response to motion stimuli, LFP theta and gamma power increased, and beta power decreased, but showed only weak motion selectivity. In the delay, LFP beta power modulation anticipated the onset of S2 and encoded the task-relevant S1 feature, suggesting network dynamics associated with memory maintenance. After S2 onset the difference between the current stimulus S2 and the remembered S1 was strongly reflected in broadband LFP activity, with an early sensory-related component proportional to stimulus difference and a later choice-related component reflecting the behavioral decision buildup. Our results demonstrate that individual LFP bands reflect both sensory and cognitive processes engaged independently during different stages of the task. This activation pattern suggests that during elementary cognitive tasks, the prefrontal network transitions dynamically between states and that these transitions are characterized by the conjunction of LFP rhythms rather than by single LFP bands. SIGNIFICANCE STATEMENT: Neurons in the brain communicate through electrical impulses and coordinate this activity in ensembles that pulsate rhythmically, very much like musical instruments in an orchestra. These rhythms change with \"brain state,\" from sleep to waking, but also signal with different oscillation frequencies rapid changes between sensory and cognitive processing. Here, we studied rhythmic electrical activity in the monkey prefrontal cortex, an area implicated in working memory, decision making, and executive control. Monkeys had to identify and remember a visual motion pattern and compare it to a second pattern. We found orderly transitions between rhythmic activity where the same frequency channels were active in all ongoing prefrontal computations. This supports prefrontal circuit dynamics that transitions rapidly between complex rhythmic patterns during structured cognitive tasks.",
+  "authors": [
+    "Wimmer Klaus",
+    "Ramon Marc",
+    "Pasternak Tatiana",
+    "Compte Albert"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2016",
+  "doi": "10.1523/JNEUROSCI.3678-15.2016",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Brain Waves",
+    "Decision Making",
+    "Discrimination, Psychological",
+    "Fourier Analysis",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Memory",
+    "Motion Perception",
+    "Nerve Net",
+    "Neurons",
+    "Orientation",
+    "Photic Stimulation",
+    "Prefrontal Cortex",
+    "ROC Curve",
+    "Reaction Time"
+  ]
+}

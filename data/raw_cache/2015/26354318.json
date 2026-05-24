@@ -1,0 +1,29 @@
+{
+  "pmid": "26354318",
+  "title": "Tactile orientation perception: an ideal observer analysis of human psychophysical performance in relation to macaque area 3b receptive fields.",
+  "abstract": "The ability to resolve the orientation of edges is crucial to daily tactile and sensorimotor function, yet the means by which edge perception occurs is not well understood. Primate cortical area 3b neurons have diverse receptive field (RF) spatial structures that may participate in edge orientation perception. We evaluated five candidate RF models for macaque area 3b neurons, previously recorded while an oriented bar contacted the monkey's fingertip. We used a Bayesian classifier to assign each neuron a best-fit RF structure. We generated predictions for human performance by implementing an ideal observer that optimally decoded stimulus-evoked spike counts in the model neurons. The ideal observer predicted a saturating reduction in bar orientation discrimination threshold with increasing bar length. We tested 24 humans on an automated, precision-controlled bar orientation discrimination task and observed performance consistent with that predicted. We next queried the ideal observer to discover the RF structure and number of cortical neurons that best matched each participant's performance. Human perception was matched with a median of 24 model neurons firing throughout a 1-s period. The 10 lowest-performing participants were fit with RFs lacking inhibitory sidebands, whereas 12 of the 14 higher-performing participants were fit with RFs containing inhibitory sidebands. Participants whose discrimination improved as bar length increased to 10 mm were fit with longer RFs; those who performed well on the 2-mm bar, with narrower RFs. These results suggest plausible RF features and computational strategies underlying tactile spatial perception and may have implications for perceptual learning.",
+  "authors": [
+    "Peters Ryan M",
+    "Staibano Phillip",
+    "Goldreich Daniel"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2015",
+  "doi": "10.1152/jn.00631.2015",
+  "mesh": [
+    "Adolescent",
+    "Animals",
+    "Discrimination, Psychological",
+    "Female",
+    "Humans",
+    "Macaca",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Orientation",
+    "Somatosensory Cortex",
+    "Species Specificity",
+    "Touch Perception",
+    "Young Adult"
+  ]
+}

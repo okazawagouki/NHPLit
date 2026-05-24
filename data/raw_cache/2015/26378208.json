@@ -1,0 +1,24 @@
+{
+  "pmid": "26378208",
+  "title": "Dynamics of visual receptive fields in the macaque frontal eye field.",
+  "abstract": "Neuronal receptive fields (RFs) provide the foundation for understanding systems-level sensory processing. In early visual areas, investigators have mapped RFs in detail using stochastic stimuli and sophisticated analytical approaches. Much less is known about RFs in prefrontal cortex. Visual stimuli used for mapping RFs in prefrontal cortex tend to cover a small range of spatial and temporal parameters, making it difficult to understand their role in visual processing. To address these shortcomings, we implemented a generalized linear model to measure the RFs of neurons in the macaque frontal eye field (FEF) in response to sparse, full-field stimuli. Our high-resolution, probabilistic approach tracked the evolution of RFs during passive fixation, and we validated our results against conventional measures. We found that FEF neurons exhibited a surprising level of sensitivity to stimuli presented as briefly as 10 ms or to multiple dots presented simultaneously, suggesting that FEF visual responses are more precise than previously appreciated. FEF RF spatial structures were largely maintained over time and between stimulus conditions. Our results demonstrate that the application of probabilistic RF mapping to FEF and similar association areas is an important tool for clarifying the neuronal mechanisms of cognition.",
+  "authors": [
+    "Mayo J Patrick",
+    "DiTomasso Amie R",
+    "Sommer Marc A",
+    "Smith Matthew A"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2015",
+  "doi": "10.1152/jn.00746.2015",
+  "mesh": [
+    "Animals",
+    "Evoked Potentials, Visual",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Prefrontal Cortex",
+    "Visual Fields"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "pmid": "33528225",
+  "title": "Combining In Vivo Corneal Confocal Microscopy With Deep Learning-Based Analysis Reveals Sensory Nerve Fiber Loss in Acute Simian Immunodeficiency Virus Infection.",
+  "abstract": "PURPOSE: To characterize corneal subbasal nerve plexus features of normal and simian immunodeficiency virus (SIV)-infected macaques by combining in vivo corneal confocal microscopy (IVCM) with automated assessments using deep learning-based methods customized for macaques. METHODS: IVCM images were collected from both male and female age-matched rhesus and pigtailed macaques housed at the Johns Hopkins University breeding colony using the Heidelberg HRTIII with Rostock Corneal Module. We also obtained repeat IVCM images of 12 SIV-infected animals including preinfection and 10-day post-SIV infection time points. All IVCM images were analyzed using a deep convolutional neural network architecture developed specifically for macaque studies. RESULTS: Deep learning-based segmentation of subbasal nerves in IVCM images from macaques demonstrated that corneal nerve fiber length and fractal dimension measurements did not differ between species, but pigtailed macaques had significantly higher baseline corneal nerve fiber tortuosity than rhesus macaques (P = 0.005). Neither sex nor age of macaques was associated with differences in any of the assessed corneal subbasal nerve parameters. In the SIV/macaque model of human immunodeficiency virus, acute SIV infection induced significant decreases in both corneal nerve fiber length and fractal dimension (P = 0.01 and P = 0.008, respectively). CONCLUSIONS: The combination of IVCM and robust objective deep learning analysis is a powerful tool to track sensory nerve damage, enabling early detection of neuropathy. Adapting deep learning analyses to clinical corneal nerve assessments will improve monitoring of small sensory nerve fiber damage in numerous clinical settings including human immunodeficiency virus.",
+  "authors": [
+    "McCarron Megan E",
+    "Weinberg Rachel L",
+    "Izzi Jessica M",
+    "Queen Suzanne E",
+    "Tarwater Patrick M",
+    "Misra Stuti L",
+    "Russakoff Daniel B",
+    "Oakley Jonathan D",
+    "Mankowski Joseph L"
+  ],
+  "journal": "Cornea",
+  "year": "2021",
+  "doi": "10.1097/ICO.0000000000002661",
+  "mesh": [
+    "Acute Disease",
+    "Animals",
+    "Cornea",
+    "Deep Learning",
+    "Disease Models, Animal",
+    "Eye Infections, Viral",
+    "Female",
+    "Humans",
+    "Macaca mulatta",
+    "Macaca nemestrina",
+    "Male",
+    "Microscopy, Confocal",
+    "Middle Aged",
+    "Nerve Fibers",
+    "Neural Networks, Computer",
+    "RNA, Viral",
+    "Real-Time Polymerase Chain Reaction",
+    "Simian Acquired Immunodeficiency Syndrome",
+    "Simian Immunodeficiency Virus",
+    "Trigeminal Nerve Diseases"
+  ]
+}

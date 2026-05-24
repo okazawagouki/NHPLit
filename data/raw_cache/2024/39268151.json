@@ -1,0 +1,16 @@
+{
+  "pmid": "39268151",
+  "title": "Quantifying network behavior in the rat prefrontal cortex.",
+  "abstract": "The question of how consciousness and behavior arise from neural activity is fundamental to understanding the brain, and to improving the diagnosis and treatment of neurological and psychiatric disorders. There is significant murine and primate literature on how behavior is related to the electrophysiological activity of the medial prefrontal cortex and its role in working memory processes such as planning and decision-making. Existing experimental designs, specifically the rodent spike train and local field potential recordings during the T-maze alternation task, have insufficient statistical power to unravel the complex processes of the prefrontal cortex. We therefore examined the theoretical limitations of such experiments, providing concrete guidelines for robust and reproducible science. To approach these theoretical limits, we applied dynamic time warping and associated statistical tests to data from neuron spike trains and local field potentials. The goal was to quantify neural network synchronicity and the correlation of neuroelectrophysiology with rat behavior. The results show the statistical limitations of existing data, and the fact that making meaningful comparison between dynamic time warping with traditional Fourier and wavelet analysis is impossible until larger and cleaner datasets are available.",
+  "authors": [
+    "Sha Congzhou M",
+    "Wang Jian",
+    "Mailman Richard B",
+    "Yang Yang",
+    "Dokholyan Nikolay V"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2024",
+  "doi": "10.3389/fncom.2024.1293279",
+  "mesh": []
+}

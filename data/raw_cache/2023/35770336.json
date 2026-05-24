@@ -1,0 +1,26 @@
+{
+  "pmid": "35770336",
+  "title": "Visual recognition in rhesus monkeys requires area TE but not TEO.",
+  "abstract": "The primate visual system is often described as a hierarchical feature-conjunction pathway, whereby each level represents an increasingly complex combination of image elements, culminating in the representation of whole coherent images in anterior inferior temporal cortex. Although many models of the ventral visual stream emphasize serial feedforward processing ((Poggio T, Mutch J, Leibo J, Rosasco L, Tacchetti A. The computationalmagic of the ventral stream: sketch of a theory (and why some deep architectures work). TechRep MIT-CSAIL-TR-2012-035. MIT CSAIL, Cambridge, MA. 2012); (Yamins DLK, DiCarlo JJ. Eight open questions in the computational modeling of higher sensory cortex. Curr Opin Neurobiol. 2016:37:114-120.)), anatomical studies show connections that bypass intermediate areas and that feedback to preceding areas ((Distler C, Boussaoud D, Desimone R, Ungerleider LG. Cortical connections of inferior temporal area TEO in macaque monkeys. J Comp Neurol. 1993:334(1):125-150.); (Kravitz DJ, Saleem KS, Baker CI, Mishkin M. A new neural framework for visuospatial processing. Nat Rev Neurosci. 2011:12(4):217-230.)). Prior studies on visual discrimination and object transforms also provide evidence against a strictly feed-forward serial transfer of information between adjacent areas ((Kikuchi R, Iwai E. The locus of the posterior subdivision of the inferotemporal visual learning area in the monkey. Brain Res. 1980:198(2):347-360.); (Weiskrantz L, Saunders RC. Impairments of visual object transforms in monkeys. Brain. 1984:107(4):1033-1072.); (Kar K, DiCarlo JJ. Fast recurrent processing via ventrolateral prefrontal cortex is needed by the primate ventral stream for robust Core visual object recognition. Neuron. 2021:109(1):164-176.e5.)). Thus, we sought to investigate whether behaviorally relevant propagation of visual information is as strictly sequential as sometimes supposed. We compared the accuracy of visual recognition after selective removal of specific subregions of inferior temporal cortex-area TEO, area TE, or both areas combined. Removal of TEO alone had no detectable effect on recognition memory, whereas removal of TE alone produced a large and significant impairment. Combined removal of both areas created no additional deficit relative to removal of TE alone. Thus, area TE is critical for rapid visual object recognition, and detailed image-level visual information can reach area TE via a route other than through TEO.",
+  "authors": [
+    "Eldridge Mark A G",
+    "Pearl Jonah E",
+    "Fomani Grace P",
+    "Masseau Evan C",
+    "Fredericks J Megan",
+    "Chen Gang",
+    "Richmond Barry J"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2023",
+  "doi": "10.1093/cercor/bhac263",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Temporal Lobe",
+    "Cerebral Cortex",
+    "Parietal Lobe",
+    "Visual Perception",
+    "Visual Pathways"
+  ]
+}

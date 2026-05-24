@@ -1,0 +1,19 @@
+{
+  "pmid": "34873197",
+  "title": "BioCPPNet: automatic bioacoustic source separation with deep neural networks.",
+  "abstract": "We introduce the Bioacoustic Cocktail Party Problem Network (BioCPPNet), a lightweight, modular, and robust U-Net-based machine learning architecture optimized for bioacoustic source separation across diverse biological taxa. Employing learnable or handcrafted encoders, BioCPPNet operates directly on the raw acoustic mixture waveform containing overlapping vocalizations and separates the input waveform into estimates corresponding to the sources in the mixture. Predictions are compared to the reference ground truth waveforms by searching over the space of (output, target) source order permutations, and we train using an objective function motivated by perceptual audio quality. We apply BioCPPNet to several species with unique vocal behavior, including macaques, bottlenose dolphins, and Egyptian fruit bats, and we evaluate reconstruction quality of separated waveforms using the scale-invariant signal-to-distortion ratio (SI-SDR) and downstream identity classification accuracy. We consider mixtures with two or three concurrent conspecific vocalizers, and we examine separation performance in open and closed speaker scenarios. To our knowledge, this paper redefines the state-of-the-art in end-to-end single-channel bioacoustic source separation in a permutation-invariant regime across a heterogeneous set of non-human species. This study serves as a major step toward the deployment of bioacoustic source separation systems for processing substantial volumes of previously unusable data containing overlapping bioacoustic signals.",
+  "authors": [
+    "Bermant Peter C"
+  ],
+  "journal": "Scientific reports",
+  "year": "2021",
+  "doi": "10.1038/s41598-021-02790-2",
+  "mesh": [
+    "Acoustics",
+    "Animals",
+    "Humans",
+    "Machine Learning",
+    "Neural Networks, Computer",
+    "Vocalization, Animal"
+  ]
+}

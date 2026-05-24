@@ -1,0 +1,21 @@
+{
+  "pmid": "37067528",
+  "title": "Spike-phase coupling patterns reveal laminar identity in primate cortex.",
+  "abstract": "The cortical column is one of the fundamental computational circuits in the brain. In order to understand the role neurons in different layers of this circuit play in cortical function it is necessary to identify the boundaries that separate the laminar compartments. While histological approaches can reveal ground truth they are not a practical means of identifying cortical layers in vivo. The gold standard for identifying laminar compartments in electrophysiological recordings is current-source density (CSD) analysis. However, laminar CSD analysis requires averaging across reliably evoked responses that target the input layer in cortex, which may be difficult to generate in less well-studied cortical regions. Further, the analysis can be susceptible to noise on individual channels resulting in errors in assigning laminar boundaries. Here, we have analyzed linear array recordings in multiple cortical areas in both the common marmoset and the rhesus macaque. We describe a pattern of laminar spike-field phase relationships that reliably identifies the transition between input and deep layers in cortical recordings from multiple cortical areas in two different non-human primate species. This measure corresponds well to estimates of the location of the input layer using CSDs, but does not require averaging or specific evoked activity. Laminar identity can be estimated rapidly with as little as a minute of ongoing data and is invariant to many experimental parameters. This method may serve to validate CSD measurements that might otherwise be unreliable or to estimate laminar boundaries when other methods are not practical.",
+  "authors": [
+    "Davis Zachary W",
+    "Dotson Nicholas M",
+    "Franken Tom P",
+    "Muller Lyle",
+    "Reynolds John H"
+  ],
+  "journal": "eLife",
+  "year": "2023",
+  "doi": "10.7554/eLife.84512",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Brain",
+    "Electrophysiological Phenomena"
+  ]
+}

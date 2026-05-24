@@ -1,0 +1,21 @@
+{
+  "pmid": "41466998",
+  "title": "Detecting dynamical causality by intersection cardinal concavity.",
+  "abstract": "Discovering causality from observed time series data is of great importance in various disciplines but also a challenging task. In recent years, cross-mapping methods have been developed to solve the non-separability or false-negative problem that traditional methods, e.g., Granger causality or transfer entropy, cannot handle. However, these cross-mapping methods suffer still from nonlinearity and robustness problems on the noisy data. Here, we propose cross-mapping cardinality (CMC), which detects direct causality in a robust and nonlinear manner by quantifying the intersectional cardinality (IC) from the neighbors of the cause variable to the cross-mapping neighbors of the effect variable in the delay embedding space. We theoretically and computationally show the new causal concept \"IC concavity\", i.e. concave IC curve against the neighbor size implies causality in the sense of dynamical causality, in contrast to the non-causality of linear IC curve. Thus, the causal strength is measured reliably by the IC curve, which exploits both IC continuity and information transfer of the cross-mapping function from effect to cause variables. Through verification on various simulated and real-world datasets, the accuracy and robustness of CMC are demonstrated significantly better than existing methods. In particular, we validated CMC with the pulse data from motor cortex neurons by training a rhesus monkey to conduct a flexible manual interception experiment. CMC effectively identified the causal relations between neurons while the traditional methods failed. In summary, our approach with the new concept of IC concavity provides a powerful data-driven tool for detecting dynamical causality in complex systems.",
+  "authors": [
+    "Tao Peng",
+    "Wang Qifan",
+    "Shi Jifan",
+    "Hao Xiaohu",
+    "Liu Xiaoping",
+    "Min Bin",
+    "Zhang Yiheng",
+    "Li Chenyang",
+    "Cui He",
+    "Chen Luonan"
+  ],
+  "journal": "Fundamental research",
+  "year": "2025",
+  "doi": "10.1016/j.fmre.2023.01.007",
+  "mesh": []
+}

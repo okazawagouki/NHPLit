@@ -1,0 +1,31 @@
+{
+  "pmid": "20943945",
+  "title": "A closed-loop human simulator for investigating the role of feedback control in brain-machine interfaces.",
+  "abstract": "Neural prosthetic systems seek to improve the lives of severely disabled people by decoding neural activity into useful behavioral commands. These systems and their decoding algorithms are typically developed \"offline,\" using neural activity previously gathered from a healthy animal, and the decoded movement is then compared with the true movement that accompanied the recorded neural activity. However, this offline design and testing may neglect important features of a real prosthesis, most notably the critical role of feedback control, which enables the user to adjust neural activity while using the prosthesis. We hypothesize that understanding and optimally designing high-performance decoders require an experimental platform where humans are in closed-loop with the various candidate decode systems and algorithms. It remains unexplored the extent to which the subject can, for a particular decode system, algorithm, or parameter, engage feedback and other strategies to improve decode performance. Closed-loop testing may suggest different choices than offline analyses. Here we ask if a healthy human subject, using a closed-loop neural prosthesis driven by synthetic neural activity, can inform system design. We use this online prosthesis simulator (OPS) to optimize \"online\" decode performance based on a key parameter of a current state-of-the-art decode algorithm, the bin width of a Kalman filter. First, we show that offline and online analyses indeed suggest different parameter choices. Previous literature and our offline analyses agree that neural activity should be analyzed in bins of 100- to 300-ms width. OPS analysis, which incorporates feedback control, suggests that much shorter bin widths (25-50 ms) yield higher decode performance. Second, we confirm this surprising finding using a closed-loop rhesus monkey prosthetic system. These findings illustrate the type of discovery made possible by the OPS, and so we hypothesize that this novel testing approach will help in the design of prosthetic systems that will translate well to human patients.",
+  "authors": [
+    "Cunningham John P",
+    "Nuyujukian Paul",
+    "Gilja Vikash",
+    "Chestek Cindy A",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2011",
+  "doi": "10.1152/jn.00503.2010",
+  "mesh": [
+    "Adult",
+    "Algorithms",
+    "Animals",
+    "Computers",
+    "Electric Stimulation",
+    "Feedback",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Models, Animal",
+    "Neural Prostheses",
+    "Software",
+    "User-Computer Interface"
+  ]
+}

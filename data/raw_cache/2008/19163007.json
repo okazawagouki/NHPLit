@@ -1,0 +1,30 @@
+{
+  "pmid": "19163007",
+  "title": "Towards closed-loop decoding of dexterous hand movements using a virtual integration environment.",
+  "abstract": "It has been shown that Brain-Computer Interfaces (BCIs) involving closed-loop control of an external device, while receiving visual feedback, allows subjects to adaptively correct errors and improve the accuracy of control. Although closed-loop cortical control of gross arm movements has been demonstrated, closed-loop decoding of more dexterous movements such as individual fingers has not been shown. Neural recordings were obtained from rhesus monkeys in three different experiments involving individuated flexion/extension of each finger, wrist rotation, and dexterous grasps. Separate decoding filters were implemented in Matlab's Simulink environment to independently decode this suite of dexterous movements in real-time. Average real-time decoding accuracies of 80% was achieved for all dexterous tasks with as few as 15 neurons for individual finger flexion/extension, 41 neurons for wrist rotation, and 79 neurons for grasps. In lieu of the availability of advanced multi-fingered prosthetic hands, real-time visual feedback of the decoded output was provided through actuation of a virtual prosthetic hand in a Virtual Integration Environment. This work lays the foundation for future closed-loop experiments with monkeys in the loop and dexterous control of an actual prosthetic limb.",
+  "authors": [
+    "Aggarwal Vikram",
+    "Singhal Girish",
+    "He Jiping",
+    "Schieber Marc H",
+    "Thakor Nitish V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2008",
+  "doi": "10.1109/IEMBS.2008.4649504",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biofeedback, Psychology",
+    "Biomedical Engineering",
+    "Brain",
+    "Databases, Factual",
+    "Hand",
+    "Macaca mulatta",
+    "Male",
+    "Movement",
+    "Neural Networks, Computer",
+    "Software",
+    "User-Computer Interface"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pmid": "18478091",
+  "title": "On how network architecture determines the dominant patterns of spontaneous neural activity.",
+  "abstract": "In the absence of sensory stimulation, neocortical circuits display complex patterns of neural activity. These patterns are thought to reflect relevant properties of the network, including anatomical features like its modularity. It is also assumed that the synaptic connections of the network constrain the repertoire of emergent, spontaneous patterns. Although the link between network architecture and network activity has been extensively investigated in the last few years from different perspectives, our understanding of the relationship between the network connectivity and the structure of its spontaneous activity is still incomplete. Using a general mathematical model of neural dynamics we have studied the link between spontaneous activity and the underlying network architecture. In particular, here we show mathematically how the synaptic connections between neurons determine the repertoire of spatial patterns displayed in the spontaneous activity. To test our theoretical result, we have also used the model to simulate spontaneous activity of a neural network, whose architecture is inspired by the patchy organization of horizontal connections between cortical columns in the neocortex of primates and other mammals. The dominant spatial patterns of the spontaneous activity, calculated as its principal components, coincide remarkably well with those patterns predicted from the network connectivity using our theory. The equivalence between the concept of dominant pattern and the concept of attractor of the network dynamics is also demonstrated. This in turn suggests new ways of investigating encoding and storage capabilities of neural networks.",
+  "authors": [
+    "Fernández Galán Roberto"
+  ],
+  "journal": "PloS one",
+  "year": "2008",
+  "doi": "10.1371/journal.pone.0002148",
+  "mesh": [
+    "Nerve Net",
+    "Nervous System Physiological Phenomena",
+    "Neurons"
+  ]
+}

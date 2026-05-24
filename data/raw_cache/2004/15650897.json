@@ -1,0 +1,28 @@
+{
+  "pmid": "15650897",
+  "title": "A model of the saccade-generating system that accounts for trajectory variations produced by competing visual stimuli.",
+  "abstract": "Variable saccade trajectories are produced in visual search paradigms in which multiple potential target stimuli are present. These variable trajectories provide a rich source of information that may lead to a deeper understanding of the basic control mechanisms of the saccadic system. We have used published behavioral observations and neural recordings in the superior colliculus (SC), gathered in monkeys performing visual search paradigms, to guide the construction of a new distributed model of the saccadic system. The new model can account for many of the variations in saccade trajectory produced by the appearance of multiple visual stimuli in a search paradigm. The model uses distributed feedback about current eye motion from the brainstem to the SC to reduce activity there at physiologically realistic rates during saccades. The long-range lateral inhibitory connections between SC cells used in previous models have been eliminated to match recent physiological evidence. The model features interactions between visually activated multiple populations of cells in the SC and distributed and topologically organized inhibitory input to the SC from the SNr to produce some of the types of variable saccadic trajectories, including slightly curved and averaging saccades, observed in visual search tasks. The distributed perisaccadic disinhibition of SC from the substantia nigra (SNr) is assumed to have broad spatial tuning. In order to produce the strongly curved saccades occasionally recorded in visual search, the existence of a parallel input to the saccadic burst generators in addition to that provided by the distributed input from the SC is required. The spatiotemporal form of this additional parallel input is computed based on the assumption that the input from the model SC is realistic. In accordance with other recent models, it is assumed that the parallel input comes from the cerebellum, but our model predicts that the parallel input is delayed during highly curved saccadic trajectories.",
+  "authors": [
+    "Arai Kuniharu",
+    "Keller Edward L"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Eye Movements",
+    "Feedback",
+    "Haplorhini",
+    "Models, Neurological",
+    "Neural Inhibition",
+    "Neurons",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Saccades",
+    "Superior Colliculi",
+    "Time Factors",
+    "Visual Perception"
+  ]
+}

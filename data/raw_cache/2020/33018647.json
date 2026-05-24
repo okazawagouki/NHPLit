@@ -1,0 +1,24 @@
+{
+  "pmid": "33018647",
+  "title": "Orthogonalizing the Activity of Two Neural Units for 2D Cursor Movement Control.",
+  "abstract": "In the design of brain-machine interface (BMI), as the number of electrodes used to collect neural spike signals declines slowly, it is important to be able to decode with fewer units. We tried to train a monkey to control a cursor to perform a two-dimensional (2D) center-out task smoothly with spiking activities only from two units (direct units). At the same time, we studied how the direct units did change their tuning to the preferred direction during BMI training and tried to explore the underlying mechanism of how the monkey learned to control the cursor with their neural signals. In this study, we observed that both direct units slowly changed their preferred directions during BMI learning. Although the initial angles between the preferred directions of 3 pairs units are different, the angle between their preferred directions approached 90 degrees at the end of the training. Our results imply that BMI learning made the two units independent of each other. To our knowledge, it is the first time to demonstrate that only two units could be used to control a 2D cursor movements. Meanwhile, orthogonalizing the activities of two units driven by BMI learning in this study implies that the plasticity of the motor cortex is capable of providing an efficient strategy for motor control.",
+  "authors": [
+    "Zheng Qi",
+    "Zhang Yiwei",
+    "Wan Zijun",
+    "Malik Wasim Q",
+    "Chen Weidong",
+    "Zhang Shaomin"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2020",
+  "doi": "10.1109/EMBC44109.2020.9175931",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Movement",
+    "Neurons"
+  ]
+}

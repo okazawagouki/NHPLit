@@ -1,0 +1,36 @@
+{
+  "pmid": "22438336",
+  "title": "Decoding intra-limb and inter-limb kinematics during treadmill walking from scalp electroencephalographic (EEG) signals.",
+  "abstract": "Brain-machine interface (BMI) research has largely been focused on the upper limb. Although restoration of gait function has been a long-standing focus of rehabilitation research, surprisingly very little has been done to decode the cortical neural networks involved in the guidance and control of bipedal locomotion. A notable exception is the work by Nicolelis' group at Duke University that decoded gait kinematics from chronic recordings from ensembles of neurons in primary sensorimotor areas in rhesus monkeys. Recently, we showed that gait kinematics from the ankle, knee, and hip joints during human treadmill walking can be inferred from the electroencephalogram (EEG) with decoding accuracies comparable to those using intracortical recordings. Here we show that both intra- and inter-limb kinematics from human treadmill walking can be achieved with high accuracy from as few as 12 electrodes using scalp EEG. Interestingly, forward and backward predictors from EEG signals lagging or leading the kinematics, respectively, showed different spatial distributions suggesting distinct neural networks for feedforward and feedback control of gait. Of interest is that average decoding accuracy across subjects and decoding modes was ~0.68±0.08, supporting the feasibility of EEG-based BMI systems for restoration of walking in patients with paralysis.",
+  "authors": [
+    "Presacco Alessandro",
+    "Forrester Larry W",
+    "Contreras-Vidal Jose L"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2012",
+  "doi": "10.1109/TNSRE.2012.2188304",
+  "mesh": [
+    "Adolescent",
+    "Adult",
+    "Algorithms",
+    "Artifacts",
+    "Biomechanical Phenomena",
+    "Electroencephalography",
+    "Electromyography",
+    "Equipment Design",
+    "Extremities",
+    "Female",
+    "Functional Laterality",
+    "Humans",
+    "Leg",
+    "Male",
+    "Middle Aged",
+    "Models, Statistical",
+    "Signal Processing, Computer-Assisted",
+    "User-Computer Interface",
+    "Vision, Ocular",
+    "Walking",
+    "Young Adult"
+  ]
+}

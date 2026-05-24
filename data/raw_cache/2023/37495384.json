@@ -1,0 +1,24 @@
+{
+  "pmid": "37495384",
+  "title": "Representation of Motion Direction in Visual Area MT Accounts for High Sensitivity to Centripetal Motion, Aligning with Efficient Coding of Retinal Motion Statistics.",
+  "abstract": "The overrepresentation of centrifugal motion in the middle temporal visual area (area MT) has long been thought to provide an efficient coding strategy for optic flow processing. However, this overrepresentation compromises the detection of approaching objects, which is essential for survival. In the present study, we revisited this long-held notion by reanalyzing motion selectivity in area MT of three macaque monkeys (two males, one female) using random-dot stimuli instead of spot stimuli. We found no differences in the number of neurons tuned to centrifugal versus centripetal motion; however, centrifugally tuned neurons showed stronger tuning than centripetally tuned neurons. This was attributed to the heightened suppression of responses in centrifugal neurons to centripetal motion compared with that of centripetal neurons to centrifugal motion. Our modeling implies that this intensified suppression accounts for superior detection performance for weak centripetal motion stimuli. Moreover, through Fisher information analysis, we establish that the population sensitivity to motion direction in peripheral vision corresponds well with retinal motion statistics during forward locomotion. While these results challenge established concepts, considering the interplay of logarithmic Gaussian receptive fields and spot stimuli can shed light on the previously documented overrepresentation of centrifugal motion. Significantly, our findings reconcile a previously found discrepancy between MT activity and human behavior, highlighting the proficiency of peripheral MT neurons in encoding motion direction efficiently.<b>SIGNIFICANCE STATEMENT</b> The efficient coding hypothesis states that sensory neurons are tuned to specific, frequently experienced stimuli. Whereas previous work has found that neurons in the middle temporal (MT) area favor centrifugal motion, which results from forward locomotion, we show here that there is no such bias. Moreover, we found that the response of centrifugal neurons for centripetal motion was more suppressed than that of centripetal neurons for centrifugal motion. Combined with modeling, this provides a solution to a previously known discrepancy between reported centrifugal bias in MT and better detection of centripetal motion by human observers. Additionally, we show that population sensitivity in peripheral MT neurons conforms to an efficient code of retinal motion statistics during forward locomotion.",
+  "authors": [
+    "Kumano Hironori",
+    "Uka Takanori"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2023",
+  "doi": "10.1523/JNEUROSCI.0451-23.2023",
+  "mesh": [
+    "Male",
+    "Animals",
+    "Humans",
+    "Female",
+    "Motion Perception",
+    "Visual Perception",
+    "Neurons",
+    "Retina",
+    "Macaca mulatta",
+    "Photic Stimulation"
+  ]
+}

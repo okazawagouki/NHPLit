@@ -1,0 +1,25 @@
+{
+  "pmid": "28334612",
+  "title": "Computing by Robust Transience: How the Fronto-Parietal Network Performs Sequential, Category-Based Decisions.",
+  "abstract": "Decision making involves dynamic interplay between internal judgements and external perception, which has been investigated in delayed match-to-category (DMC) experiments. Our analysis of neural recordings shows that, during DMC tasks, LIP and PFC neurons demonstrate mixed, time-varying, and heterogeneous selectivity, but previous theoretical work has not established the link between these neural characteristics and population-level computations. We trained a recurrent network model to perform DMC tasks and found that the model can remarkably reproduce key features of neuronal selectivity at the single-neuron and population levels. Analysis of the trained networks elucidates that robust transient trajectories of the neural population are the key driver of sequential categorical decisions. The directions of trajectories are governed by network self-organized connectivity, defining a \"neural landscape\" consisting of a task-tailored arrangement of slow states and dynamical tunnels. With this model, we can identify functionally relevant circuit motifs and generalize the framework to solve other categorization tasks.",
+  "authors": [
+    "Chaisangmongkon Warasinee",
+    "Swaminathan Sruthi K",
+    "Freedman David J",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Neuron",
+  "year": "2017",
+  "doi": "10.1016/j.neuron.2017.03.002",
+  "mesh": [
+    "Animals",
+    "Decision Making",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Parietal Lobe",
+    "Prefrontal Cortex"
+  ]
+}

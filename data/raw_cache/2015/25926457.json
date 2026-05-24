@@ -1,0 +1,32 @@
+{
+  "pmid": "25926457",
+  "title": "Dissociating visual and motor directional selectivity using visuomotor adaptation.",
+  "abstract": "Directional selectivity during visually guided hand movements is a fundamental characteristic of neural populations in multiple motor areas of the primate brain. In the current study, we assessed how directional selectivity changes when reaching movements are dissociated from their visual feedback by rotating the visual field. We recorded simultaneous movement kinematics and fMRI activity while human subjects performed out-and-back movements to four peripheral targets before and after adaptation to a 45° visuomotor rotation. A classification algorithm was trained to identify movement direction according to voxel-by-voxel fMRI patterns in each of several brain areas. The direction of movements was successfully decoded with above-chance accuracy in multiple motor and visual areas when training and testing the classifier on trials within each condition, thereby demonstrating the existence of directionally selective fMRI patterns within each stage of the experiment. Most importantly, when training the classifier on baseline trials and decoding rotated trials, motor brain areas exhibited above-chance decoding according to the original movement direction and visual brain areas exhibited above-chance decoding according to the rotated visual target location, while posterior parietal cortex (PPC) exhibited chance-level decoding according to both. These results reveal that directionally selective fMRI patterns in motor system areas faithfully represent movement direction regardless of visual feedback, while fMRI patterns in visual system areas faithfully represent target location regardless of movement direction. Directionally selective fMRI patterns in PPC, however, were altered following adaptation learning, thereby suggesting that the novel visuomotor mapping, which was learned during visuomotor adaptation, is stored in PPC.",
+  "authors": [
+    "Haar Shlomi",
+    "Donchin Opher",
+    "Dinstein Ilan"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.0182-15.2015",
+  "mesh": [
+    "Adaptation, Physiological",
+    "Adult",
+    "Attention",
+    "Brain",
+    "Feedback, Sensory",
+    "Female",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Linear Models",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Movement",
+    "Orientation",
+    "Oxygen",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Young Adult"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "36122358",
+  "title": "Predicting Identity-Preserving Object Transformations in Human Posterior Parietal Cortex and Convolutional Neural Networks.",
+  "abstract": "Previous research shows that, within human occipito-temporal cortex (OTC), we can use a general linear mapping function to link visual object responses across nonidentity feature changes, including Euclidean features (e.g., position and size) and non-Euclidean features (e.g., image statistics and spatial frequency). Although the learned mapping is capable of predicting responses of objects not included in training, these predictions are better for categories included than those not included in training. These findings demonstrate a near-orthogonal representation of object identity and nonidentity features throughout human OTC. Here, we extended these findings to examine the mapping across both Euclidean and non-Euclidean feature changes in human posterior parietal cortex (PPC), including functionally defined regions in inferior and superior intraparietal sulcus. We additionally examined responses in five convolutional neural networks (CNNs) pretrained with object classification, as CNNs are considered as the current best model of the primate ventral visual system. We separately compared results from PPC and CNNs with those of OTC. We found that a linear mapping function could successfully link object responses in different states of nonidentity transformations in human PPC and CNNs for both Euclidean and non-Euclidean features. Overall, we found that object identity and nonidentity features are represented in a near-orthogonal, rather than complete-orthogonal, manner in PPC and CNNs, just like they do in OTC. Meanwhile, some differences existed among OTC, PPC, and CNNs. These results demonstrate the similarities and differences in how visual object information across an identity-preserving image transformation may be represented in OTC, PPC, and CNNs.",
+  "authors": [
+    "Mocz Viola",
+    "Vaziri-Pashkam Maryam",
+    "Chun Marvin",
+    "Xu Yaoda"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "2022",
+  "doi": "10.1162/jocn_a_01916",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Brain Mapping",
+    "Magnetic Resonance Imaging",
+    "Parietal Lobe",
+    "Neural Networks, Computer",
+    "Temporal Lobe"
+  ]
+}

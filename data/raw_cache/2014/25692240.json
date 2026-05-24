@@ -1,0 +1,32 @@
+{
+  "pmid": "25692240",
+  "title": "Positive correlation between ADAR expression and its targets suggests a complex regulation mediated by RNA editing in the human brain.",
+  "abstract": "A-to-I RNA editing by adenosine deaminases acting on RNA is a post-transcriptional modification that is crucial for normal life and development in vertebrates. RNA editing has been shown to be very abundant in the human transcriptome, specifically at the primate-specific Alu elements. The functional role of this wide-spread effect is still not clear; it is believed that editing of transcripts is a mechanism for their down-regulation via processes such as nuclear retention or RNA degradation. Here we combine 2 neural gene expression datasets with genome-level editing information to examine the relation between the expression of ADAR genes with the expression of their target genes. Specifically, we computed the spatial correlation across structures of post-mortem human brains between ADAR and a large set of targets that were found to be edited in their Alu repeats. Surprisingly, we found that a large fraction of the edited genes are positively correlated with ADAR, opposing the assumption that editing would reduce expression. When considering the correlations between ADAR and its targets over development, 2 gene subsets emerge, positively correlated and negatively correlated with ADAR expression. Specifically, in embryonic time points, ADAR is positively correlated with many genes related to RNA processing and regulation of gene expression. These findings imply that the suggested mechanism of regulation of expression by editing is probably not a global one; ADAR expression does not have a genome wide effect reducing the expression of editing targets. It is possible, however, that RNA editing by ADAR in non-coding regions of the gene might be a part of a more complex expression regulation mechanism.",
+  "authors": [
+    "Liscovitch Noa",
+    "Bazak Lily",
+    "Levanon Erez Y",
+    "Chechik Gal"
+  ],
+  "journal": "RNA biology",
+  "year": "2014",
+  "doi": "10.4161/15476286.2014.992286",
+  "mesh": [
+    "Adenosine Deaminase",
+    "Adult",
+    "Alu Elements",
+    "Basic Helix-Loop-Helix Proteins",
+    "Brain",
+    "E1A-Associated p300 Protein",
+    "Gene Expression Profiling",
+    "Gene Ontology",
+    "Humans",
+    "Oligonucleotide Array Sequence Analysis",
+    "PAX5 Transcription Factor",
+    "Postmortem Changes",
+    "RNA Editing",
+    "RNA-Binding Proteins",
+    "Transcription Factors",
+    "Transcriptome"
+  ]
+}

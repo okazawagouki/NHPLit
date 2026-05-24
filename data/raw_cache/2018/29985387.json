@@ -1,0 +1,26 @@
+{
+  "pmid": "29985387",
+  "title": "The impact of stimulus size and orientation on individual face coding in monkey face-selective cortex.",
+  "abstract": "Face-selective neurons in the monkey temporal cortex discharge at different rates in response to pictures of different individual faces. Here we tested whether this pattern of response across single neurons in the face-selective area ML (located in the middle Superior Temporal Sulcus) tolerates two affine transformations; picture-plane inversion, known to decrease the average response of face-selective neurons and the other, stimulus size. We recorded the response of 57 ML neurons in two awake and fixating monkeys. Face stimuli were presented at two sizes (10 and 5 degrees of visual angle) and two orientations (upright and inverted). Different faces elicited distinct patterns of activity across ML neurons that were reliable (i.e., predictable with a classifier) within a specific size and orientation condition. Despite observing a reduction in the average response magnitude of face-selective neurons to inverted faces, compared to upright faces, classifier performance was above chance for both upright and inverted faces. While decoding was largely preserved across changes in stimulus size, a classifier trained with one orientation condition and tested on the other did not lead to performance above chance level. We conclude that different individual faces can be decoded from patterns of responses in the monkey area ML regardless of orientation or size, but with qualitatively different patterns of responses for upright and inverted faces.",
+  "authors": [
+    "Taubert Jessica",
+    "Van Belle Goedele",
+    "Vogels Rufin",
+    "Rossion Bruno"
+  ],
+  "journal": "Scientific reports",
+  "year": "2018",
+  "doi": "10.1038/s41598-018-28144-z",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Face",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Neurons",
+    "Orientation, Spatial",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Temporal Lobe"
+  ]
+}

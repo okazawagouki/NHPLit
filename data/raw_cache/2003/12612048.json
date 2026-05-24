@@ -1,0 +1,26 @@
+{
+  "pmid": "12612048",
+  "title": "Neural coding of spatial phase in V1 of the macaque monkey.",
+  "abstract": "We examine the responses of single neurons and pairs of neurons, simultaneously recorded with a single tetrode in the primary visual cortex of the anesthetized macaque monkey, to transient presentations of stationary gratings of varying spatial phase. Such simultaneously recorded neurons tended to have similar tuning to the phase of the grating. To determine the response features that reliably discriminate these stimuli, we use the metric-space approach extended to pairs of neurons. We find that paying attention to the times of individual spikes, at a resolution of approximately 30 ms, and keeping track of which neuron fires which spike rather than just the summed local activity contribute substantially to phase coding. The contribution is both quantitative (increasing the fidelity of phase coding) and qualitative (enabling a 2-dimensional \"response space\" that corresponds to the spatial phase cycle). We use a novel approach, the extraction of \"temporal profiles\" from the metric space analysis, to interpret and compare temporal coding across neurons. Temporal profiles were remarkably consistent across a large subset of neurons. This consistency indicates that simple mechanisms (e.g., comparing the size of the transient and sustained components of the response) allow the temporal contribution to phase coding to be decoded.",
+  "authors": [
+    "Aronov Dmitriy",
+    "Reich Daniel S",
+    "Mechler Ferenc",
+    "Victor Jonathan D"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electrophysiology",
+    "Macaca fascicularis",
+    "Models, Biological",
+    "Neurons",
+    "Photic Stimulation",
+    "Time Factors",
+    "Vision, Ocular",
+    "Visual Cortex"
+  ]
+}

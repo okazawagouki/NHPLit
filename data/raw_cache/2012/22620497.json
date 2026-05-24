@@ -1,0 +1,23 @@
+{
+  "pmid": "22620497",
+  "title": "A model of the response of visual area V2 to combinations of orientations.",
+  "abstract": "The role of the V2 area in visual processing is still almost entirely unexplored. Recently, several studies revealed the tuning of V2 neurons in the macaque to stimuli consisting of two segments with different orientations. By measuring orientation tuning inside subunits of the overall receptive field, units with non uniform orientation selectivity have been found. In this work, the emergence of a computational organization supporting similar responses is explored, using an artificial model of cortical maps. This model, called LISSOM (Laterally Interconnected Synergetically Self-Organizing Map) includes excitatory and inhibitory lateral connections. In this simulation two LISSOM maps are arranged as V1 and V2 areas. In the first area, the classical domains of orientation selectivity develop, while in V2 most neurons become sensitive to pairs of orientations. The overall activation of these units depend on the presence of oriented segments at a finer grain than the whole receptive fields, with complex nonlinear interactions.",
+  "authors": [
+    "Plebe Alessio"
+  ],
+  "journal": "Network (Bristol, England)",
+  "year": "2012",
+  "doi": "10.3109/0954898X.2012.690167",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Computer Simulation",
+    "Humans",
+    "Models, Biological",
+    "Neurons",
+    "Orientation",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "35594208",
+  "title": "A Power-Efficient Brain-Machine Interface System With a Sub-mw Feature Extraction and Decoding ASIC Demonstrated in Nonhuman Primates.",
+  "abstract": "Intracortical brain-machine interfaces have shown promise for restoring function to people with paralysis, but their translation to portable and implantable devices is hindered by their high power consumption. Recent devices have drastically reduced power consumption compared to standard experimental brain-machine interfaces, but still require wired or wireless connections to computing hardware for feature extraction and inference. Here, we introduce a Neural Recording And Decoding (NeuRAD) application specific integrated circuit (ASIC) in 180 nm CMOS that can extract neural spiking features and predict two-dimensional behaviors in real-time. To reduce amplifier and feature extraction power consumption, the NeuRAD has a hardware accelerator for extracting spiking band power (SBP) from intracortical spiking signals and includes an M0 processor with a fixed-point Matrix Acceleration Unit (MAU) for efficient and flexible decoding. We validated device functionality by recording SBP from a nonhuman primate implanted with a Utah microelectrode array and predicting the one- and two-dimensional finger movements the monkey was attempting to execute in closed-loop using a steady-state Kalman filter (SSKF). Using the NeuRAD's real-time predictions, the monkey achieved 100% success rate and 0.82 s mean target acquisition time to control one-dimensional finger movements using just 581 μW. To predict two-dimensional finger movements, the NeuRAD consumed 588 μW to enable the monkey to achieve a 96% success rate and 2.4 s mean acquisition time. By employing SBP, ASIC brain-machine interfaces can close the gap to enable fully implantable therapies for people with paralysis.",
+  "authors": [
+    "An Hyochan",
+    "Nason-Tomaszewski Samuel R",
+    "Lim Jongyup",
+    "Kwon Kyumin",
+    "Willsey Matthew S",
+    "Patil Parag G",
+    "Kim Hun-Seok",
+    "Sylvester Dennis",
+    "Chestek Cynthia A",
+    "Blaauw David"
+  ],
+  "journal": "IEEE transactions on biomedical circuits and systems",
+  "year": "2022",
+  "doi": "10.1109/TBCAS.2022.3175926",
+  "mesh": [
+    "Amplifiers, Electronic",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Humans",
+    "Microelectrodes",
+    "Paralysis",
+    "Primates"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "22851229",
+  "title": "Prediction of imagined single-joint movements in a person with high-level tetraplegia.",
+  "abstract": "Cortical neuroprostheses for movement restoration require developing models for relating neural activity to desired movement. Previous studies have focused on correlating single-unit activities (SUA) in primary motor cortex to volitional arm movements in able-bodied primates. The extent of the cortical information relevant to arm movements remaining in severely paralyzed individuals is largely unknown. We record intracortical signals using a microelectrode array chronically implanted in the precentral gyrus of a person with tetraplegia, and estimate positions of imagined single-joint arm movements. Using visually guided motor imagery, the participant imagined performing eight distinct single-joint arm movements, while SUA, multispike trains (MSP), multiunit activity, and local field potential time (LFPrms), and frequency signals (LFPstft) were recorded. Using linear system identification, imagined joint trajectories were estimated with 20-60% variance explained, with wrist flexion/extension predicted the best and pronation/supination the poorest. Statistically, decoding of MSP and LFPstft yielded estimates that equaled those of SUA. Including multiple signal types in a decoder increased prediction accuracy in all cases. We conclude that signals recorded from a single restricted region of the precentral gyrus in this person with tetraplegia contained useful information regarding the intended movements of upper extremity joints.",
+  "authors": [
+    "Ajiboye A Bolu",
+    "Simeral John D",
+    "Donoghue John P",
+    "Hochberg Leigh R",
+    "Kirsch Robert F"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2012",
+  "doi": "",
+  "mesh": [
+    "Arm",
+    "Artificial Limbs",
+    "Brain-Computer Interfaces",
+    "Electroencephalography",
+    "Female",
+    "Humans",
+    "Imagery, Psychotherapy",
+    "Imagination",
+    "Implants, Experimental",
+    "Microelectrodes",
+    "Middle Aged",
+    "Motor Cortex",
+    "Movement",
+    "Neural Prostheses",
+    "Photic Stimulation",
+    "Quadriplegia"
+  ]
+}

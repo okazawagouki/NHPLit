@@ -1,0 +1,28 @@
+{
+  "pmid": "26336135",
+  "title": "Inference and Decoding of Motor Cortex Low-Dimensional Dynamics via Latent State-Space Models.",
+  "abstract": "Motor cortex neuronal ensemble spiking activity exhibits strong low-dimensional collective dynamics (i.e., coordinated modes of activity) during behavior. Here, we demonstrate that these low-dimensional dynamics, revealed by unsupervised latent state-space models, can provide as accurate or better reconstruction of movement kinematics as direct decoding from the entire recorded ensemble. Ensembles of single neurons were recorded with triple microelectrode arrays (MEAs) implanted in ventral and dorsal premotor (PMv, PMd) and primary motor (M1) cortices while nonhuman primates performed 3-D reach-to-grasp actions. Low-dimensional dynamics were estimated via various types of latent state-space models including, for example, Poisson linear dynamic system (PLDS) models. Decoding from low-dimensional dynamics was implemented via point process and Kalman filters coupled in series. We also examined decoding based on a predictive subsampling of the recorded population. In this case, a supervised greedy procedure selected neuronal subsets that optimized decoding performance. When comparing decoding based on predictive subsampling and latent state-space models, the size of the neuronal subset was set to the same number of latent state dimensions. Overall, our findings suggest that information about naturalistic reach kinematics present in the recorded population is preserved in the inferred low-dimensional motor cortex dynamics. Furthermore, decoding based on unsupervised PLDS models may also outperform previous approaches based on direct decoding from the recorded population or on predictive subsampling.",
+  "authors": [
+    "Aghagolzadeh Mehdi",
+    "Truccolo Wilson"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2016",
+  "doi": "10.1109/TNSRE.2015.2470527",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Behavior, Animal",
+    "Biomechanical Phenomena",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Poisson Distribution",
+    "Psychomotor Performance"
+  ]
+}

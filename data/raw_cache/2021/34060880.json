@@ -1,0 +1,18 @@
+{
+  "pmid": "34060880",
+  "title": "Bridging across functional models: The OFC as a value-making neural network.",
+  "abstract": "Many functions have been attributed to the orbitofrontal cortex (OFC)-some classical roles, such as signaling the value of action outcomes, being challenged by more recent ones, such as signaling the position of a trial within a task space. In this paper, we propose a unifying neural network architecture, whose function is to generate a value from a set of attributes attached to a particular object. Our model reverses the logic of perceptual choice models, by considering values as outputs of (and not inputs to) the neural network. In doing so, the model explains why univariate value signals have been observed in both likeability rating and economic choice tasks, while the features associated with a particular task trial can be decoded using multivariate analysis. Moreover, simulations show that a globally positive correlation with subjective value at the population level can coexist with a variety of correlation coefficients at the single-unit level, bridging typical observations made in human neuroimaging and monkey electrophysiology studies of OFC activity. To better explain binary choice, we equipped the neural network with recurrent feedback connections that enable simultaneous coding of values associated with currently attended and previously considered objects. Simulations of this augmented model show that virtual lesions produce systematically intransitive preferences, as observed in patients with damage to the OFC. Thus, our neural network model is sufficiently general and flexible to account for a core set of observations and make specific predictions about both OFC activity during value judgment and behavioral consequence of OFC damage. (PsycInfo Database Record (c) 2021 APA, all rights reserved).",
+  "authors": [
+    "Pessiglione Mathias",
+    "Daunizeau Jean"
+  ],
+  "journal": "Behavioral neuroscience",
+  "year": "2021",
+  "doi": "10.1037/bne0000464",
+  "mesh": [
+    "Humans",
+    "Neural Networks, Computer",
+    "Prefrontal Cortex",
+    "Reward"
+  ]
+}

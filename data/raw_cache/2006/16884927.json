@@ -1,0 +1,35 @@
+{
+  "pmid": "16884927",
+  "title": "COMT genotype predicts BOLD signal and noise characteristics in prefrontal circuits.",
+  "abstract": "OBJECTIVE: Prefrontal dopamine (DA) is catabolized by the COMT (catechol-O-methyltransferase) enzyme. Literature suggests that the Val/Met single nucleotide polymorphism (SNP) in the COMT gene predicts executive cognition in humans with Val carriers showing poorer performance due to less available synaptic DA. Recent fMRI studies are thought to agree with these studies having demonstrated prefrontal hyperactivation during n-back and attention-requiring tasks. This was interpreted as \"less efficient\" processing due to impaired signal-to-noise ratio (SNR) of neuronal activity. However, electrophysiological studies of neuronal SNR in primates and humans imply that prefrontal cortex should show a diminished prefrontal BOLD response in Val carriers. In the present study, we addressed the question of whether the prefrontal SNR of the BOLD response is decreased in Val carriers using a visual oddball task and an approach to analysis of fMRI data that maximizes noise characterization. METHODS: We investigated N=17 homozygous Met carriers compared with N=24 Val carriers matched for age, sex, education, IQ, reaction time (variability) and head motion. Event-related fMRI was conducted presenting 160 visual stimuli (40 targets, checkerboard reversal). Subjects had to respond as quickly as possible to targets by button press. In the fMRI GLM [y(t)=beta*x(t)+c+e(t)] analysis, voxel-by-voxel 'activation' [y(t)] as well as residual noise variance [e(t)=sigma2] were calculated using a conservative full-width half maximum (FWHM=6 mm). RESULTS: As compared to Val carriers, we observed a stronger and more extended BOLD responses in homozygous Met carriers in left supplementary motor area (SMA) extending to ACC and dorsolateral prefrontal cortex. Vice versa, increased levels of noise were seen in Val carriers surrounding the peak activation maximum. DISCUSSION: In line with our expectations from prior electrophysiological studies, we observed a diminished BOLD response and increased noise in Val carriers. This suggests that the DA stabilizes cortical microcircuits by sharpening the signal and suppressing surrounding noise.",
+  "authors": [
+    "Winterer Georg",
+    "Musso Francesco",
+    "Vucurevic Goran",
+    "Stoeter Peter",
+    "Konrad Andreas",
+    "Seker Berna",
+    "Gallinat Juergen",
+    "Dahmen Norbert",
+    "Weinberger Daniel R"
+  ],
+  "journal": "NeuroImage",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Adult",
+    "Catechol O-Methyltransferase",
+    "Female",
+    "Genotype",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Oxygen",
+    "Photic Stimulation",
+    "Prefrontal Cortex",
+    "Psychomotor Performance",
+    "Regression Analysis",
+    "Reverse Transcriptase Polymerase Chain Reaction"
+  ]
+}

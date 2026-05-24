@@ -1,0 +1,22 @@
+{
+  "pmid": "28562618",
+  "title": "Hebbian learning of hand-centred representations in a hierarchical neural network model of the primate visual system.",
+  "abstract": "A subset of neurons in the posterior parietal and premotor areas of the primate brain respond to the locations of visual targets in a hand-centred frame of reference. Such hand-centred visual representations are thought to play an important role in visually-guided reaching to target locations in space. In this paper we show how a biologically plausible, Hebbian learning mechanism may account for the development of localized hand-centred representations in a hierarchical neural network model of the primate visual system, VisNet. The hand-centered neurons developed in the model use an invariance learning mechanism known as continuous transformation (CT) learning. In contrast to previous theoretical proposals for the development of hand-centered visual representations, CT learning does not need a memory trace of recent neuronal activity to be incorporated in the synaptic learning rule. Instead, CT learning relies solely on a Hebbian learning rule, which is able to exploit the spatial overlap that naturally occurs between successive images of a hand-object configuration as it is shifted across different retinal locations due to saccades. Our simulations show how individual neurons in the network model can learn to respond selectively to target objects in particular locations with respect to the hand, irrespective of where the hand-object configuration occurs on the retina. The response properties of these hand-centred neurons further generalise to localised receptive fields in the hand-centred space when tested on novel hand-object configurations that have not been explored during training. Indeed, even when the network is trained with target objects presented across a near continuum of locations around the hand during training, the model continues to develop hand-centred neurons with localised receptive fields in hand-centred space. With the help of principal component analysis, we provide the first theoretical framework that explains the behavior of Hebbian learning in VisNet.",
+  "authors": [
+    "Born Jannis",
+    "Galeazzi Juan M",
+    "Stringer Simon M"
+  ],
+  "journal": "PloS one",
+  "year": "2017",
+  "doi": "10.1371/journal.pone.0178304",
+  "mesh": [
+    "Animals",
+    "Hand",
+    "Learning",
+    "Models, Neurological",
+    "Nerve Net",
+    "Primates",
+    "Visual Pathways"
+  ]
+}

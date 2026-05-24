@@ -1,0 +1,21 @@
+{
+  "pmid": "38585930",
+  "title": "Modeling responses of macaque and human retinal ganglion cells to natural images using a convolutional neural network.",
+  "abstract": "Linear-nonlinear (LN) cascade models provide a simple way to capture retinal ganglion cell (RGC) responses to artificial stimuli such as white noise, but their ability to model responses to natural images is limited. Recently, convolutional neural network (CNN) models have been shown to produce light response predictions that were substantially more accurate than those of a LN model. However, this modeling approach has not yet been applied to responses of macaque or human RGCs to natural images. Here, we train and test a CNN model on responses to natural images of the four numerically dominant RGC types in the macaque and human retina - ON parasol, OFF parasol, ON midget and OFF midget cells. Compared with the LN model, the CNN model provided substantially more accurate response predictions. Linear reconstructions of the visual stimulus were more accurate for CNN compared to LN model-generated responses, relative to reconstructions obtained from the recorded data. These findings demonstrate the effectiveness of a CNN model in capturing light responses of major RGC types in the macaque and human retinas in natural conditions.",
+  "authors": [
+    "Gogliettino Alex R",
+    "Cooler Sam",
+    "Vilkhu Ramandeep S",
+    "Brackbill Nora J",
+    "Rhoades Colleen",
+    "Wu Eric G",
+    "Kling Alexandra",
+    "Sher Alexander",
+    "Litke Alan M",
+    "Chichilnisky E J"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.03.22.586353",
+  "mesh": []
+}

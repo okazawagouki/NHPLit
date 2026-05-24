@@ -1,0 +1,24 @@
+{
+  "pmid": "16480896",
+  "title": "A verifiable solution to the MEG inverse problem.",
+  "abstract": "Magnetoencephalography (MEG) is a non-invasive brain imaging technique with the potential for very high temporal and spatial resolution of neuronal activity. The main stumbling block for the technique has been that the estimation of a neuronal current distribution, based on sensor data outside the head, is an inverse problem with an infinity of possible solutions. Many inversion techniques exist, all using different a-priori assumptions in order to reduce the number of possible solutions. Although all techniques can be thoroughly tested in simulation, implicit in the simulations are the experimenter's own assumptions about realistic brain function. To date, the only way to test the validity of inversions based on real MEG data has been through direct surgical validation, or through comparison with invasive primate data. In this work, we constructed a null hypothesis that the reconstruction of neuronal activity contains no information on the distribution of the cortical grey matter. To test this, we repeatedly compared rotated sections of grey matter with a beamformer estimate of neuronal activity to generate a distribution of mutual information values. The significance of the comparison between the un-rotated anatomical information and the electrical estimate was subsequently assessed against this distribution. We found that there was significant (P < 0.05) anatomical information contained in the beamformer images across a number of frequency bands. Based on the limited data presented here, we can say that the assumptions behind the beamformer algorithm are not unreasonable for the visual-motor task investigated.",
+  "authors": [
+    "Barnes Gareth R",
+    "Furlong Paul L",
+    "Singh Krish D",
+    "Hillebrand Arjan"
+  ],
+  "journal": "NeuroImage",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Brain",
+    "Cues",
+    "Fingers",
+    "Functional Laterality",
+    "Humans",
+    "Magnetoencephalography",
+    "Motor Activity",
+    "Reproducibility of Results"
+  ]
+}

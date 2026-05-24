@@ -1,0 +1,24 @@
+{
+  "pmid": "32795229",
+  "title": "Binless Kernel Machine: Modeling Spike Train Transformation for Cognitive Neural Prostheses.",
+  "abstract": "Modeling spike train transformation among brain regions helps in designing a cognitive neural prosthesis that restores lost cognitive functions. Various methods analyze the nonlinear dynamic spike train transformation between two cortical areas with low computational eficiency. The application of a real-time neural prosthesis requires computational eficiency, performance stability, and better interpretation of the neural firing patterns that modulate target spike generation. We propose the binless kernel machine in the point-process framework to describe nonlinear dynamic spike train transformations. Our approach embeds the binless kernel to eficiently capture the feedforward dynamics of spike trains and maps the input spike timings into reproducing kernel Hilbert space (RKHS). An inhomogeneous Bernoulli process is designed to combine with a kernel logistic regression that operates on the binless kernel to generate an output spike train as a point process. Weights of the proposed model are estimated by maximizing the log likelihood of output spike trains in RKHS, which allows a global-optimal solution. To reduce computational complexity, we design a streaming-based clustering algorithm to extract typical and important spike train features. The cluster centers and their weights enable the visualization of the important input spike train patterns that motivate or inhibit output neuron firing. We test the proposed model on both synthetic data and real spike train data recorded from the dorsal premotor cortex and the primary motor cortex of a monkey performing a center-out task. Performances are evaluated by discrete-time rescaling Kolmogorov-Smirnov tests. Our model outperforms the existing methods with higher stability regardless of weight initialization and demonstrates higher eficiency in analyzing neural patterns from spike timing with less historical input (50%). Meanwhile, the typical spike train patterns selected according to weights are validated to encode output spike from the spike train of single-input neuron and the interaction of two input neurons.",
+  "authors": [
+    "Qian Cunle",
+    "Sun Xuyun",
+    "Wang Yueming",
+    "Zheng Xiaoxiang",
+    "Wang Yiwen",
+    "Pan Gang"
+  ],
+  "journal": "Neural computation",
+  "year": "2020",
+  "doi": "10.1162/neco_a_01306",
+  "mesh": [
+    "Action Potentials",
+    "Cognition",
+    "Humans",
+    "Neural Prostheses",
+    "Nonlinear Dynamics",
+    "Spatial Analysis"
+  ]
+}

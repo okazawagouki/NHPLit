@@ -1,0 +1,28 @@
+{
+  "pmid": "30507937",
+  "title": "Detection and analysis of spatiotemporal patterns in brain activity.",
+  "abstract": "There is growing evidence that population-level brain activity is often organized into propagating waves that are structured in both space and time. Such spatiotemporal patterns have been linked to brain function and observed across multiple recording methodologies and scales. The ability to detect and analyze these patterns is thus essential for understanding the working mechanisms of neural circuits. Here we present a mathematical and computational framework for the identification and analysis of multiple classes of wave patterns in neural population-level recordings. By drawing a conceptual link between spatiotemporal patterns found in the brain and coherent structures such as vortices found in turbulent flows, we introduce velocity vector fields to characterize neural population activity. These vector fields are calculated for both phase and amplitude of oscillatory neural signals by adapting optical flow estimation methods from the field of computer vision. Based on these velocity vector fields, we then introduce order parameters and critical point analysis to detect and characterize a diverse range of propagating wave patterns, including planar waves, sources, sinks, spiral waves, and saddle patterns. We also introduce a novel vector field decomposition method that extracts the dominant spatiotemporal structures in a recording. This enables neural data to be represented by the activity of a small number of independent spatiotemporal modes, providing an alternative to existing dimensionality reduction techniques which separate space and time components. We demonstrate the capabilities of the framework and toolbox with simulated data, local field potentials from marmoset visual cortex and optical voltage recordings from whole mouse cortex, and we show that pattern dynamics are non-random and are modulated by the presence of visual stimuli. These methods are implemented in a MATLAB toolbox, which is freely available under an open-source licensing agreement.",
+  "authors": [
+    "Townsend Rory G",
+    "Gong Pulin"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2018",
+  "doi": "10.1371/journal.pcbi.1006643",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Callithrix",
+    "Computational Biology",
+    "Computer Simulation",
+    "Evoked Potentials, Visual",
+    "Male",
+    "Mice",
+    "Models, Neurological",
+    "Nerve Net",
+    "Optogenetics",
+    "Software",
+    "Visual Cortex"
+  ]
+}

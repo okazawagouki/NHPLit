@@ -1,0 +1,18 @@
+{
+  "pmid": "35487147",
+  "title": "A multi-scale neurodynamic implementation of incremental grouping.",
+  "abstract": "Incremental grouping is a process entailing serial binding of distal image elements into a unified object representation. At the neural level, incremental grouping involves propagation of the enhanced firing rate among feature-tuned neurons in the early visual cortex. Here, we developed a multi-resolution neural model of incremental grouping. In the model, propagation of the enhanced firing rate is achieved by computing the activity difference between two sets of units: attentional or A-units, whose firing rate is modulated by their horizontal collaterals, and non-attentional or N-units that receive only feedforward input. The activity difference is computed on dendrites that act as independent computational subunits. The proposed model employs multiple spatial scales to account for a variable speed of incremental grouping. In addition, the model incorporates the L-junction detection network that enables incremental grouping over L-junctions. Computer simulations show that the timing of attentional modulations in the model is comparable with neurophysiological measurements in monkey primary visual cortex.",
+  "authors": [
+    "Domijan Dražen",
+    "Marić Mateja"
+  ],
+  "journal": "Vision research",
+  "year": "2022",
+  "doi": "10.1016/j.visres.2022.108057",
+  "mesh": [
+    "Computer Simulation",
+    "Neurons",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

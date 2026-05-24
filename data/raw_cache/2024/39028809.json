@@ -1,0 +1,24 @@
+{
+  "pmid": "39028809",
+  "title": "Inductive biases of neural network modularity in spatial navigation.",
+  "abstract": "The brain may have evolved a modular architecture for daily tasks, with circuits featuring functionally specialized modules that match the task structure. We hypothesize that this architecture enables better learning and generalization than architectures with less specialized modules. To test this, we trained reinforcement learning agents with various neural architectures on a naturalistic navigation task. We found that the modular agent, with an architecture that segregates computations of state representation, value, and action into specialized modules, achieved better learning and generalization. Its learned state representation combines prediction and observation, weighted by their relative uncertainty, akin to recursive Bayesian estimation. This agent's behavior also resembles macaques' behavior more closely. Our results shed light on the possible rationale for the brain's modularity and suggest that artificial systems can use this insight from neuroscience to improve learning and generalization in natural tasks.",
+  "authors": [
+    "Zhang Ruiyi",
+    "Pitkow Xaq",
+    "Angelaki Dora E"
+  ],
+  "journal": "Science advances",
+  "year": "2024",
+  "doi": "10.1126/sciadv.adk1256",
+  "mesh": [
+    "Spatial Navigation",
+    "Neural Networks, Computer",
+    "Animals",
+    "Bayes Theorem",
+    "Nerve Net",
+    "Humans",
+    "Brain",
+    "Models, Neurological",
+    "Learning"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "7566704",
+  "title": "Semi-automatic data acquisition for quantitative neuroanatomy. MicroTrace--computer programme for recording of the spatial distribution of neuronal populations.",
+  "abstract": "We present a computer programme, MicroTrace, designed for user-guided digitisation of objects in biological sections. The programme is optimised for recording the spatial distribution of neuronal structures, such as large populations of tracer-labelled cell bodies or axonal plexuses, regional borders, and surfaces. System requirements are a PC running Microsoft Windows, a microscope equipped with stepping motors, and a drawing tube. A computer generated drawing area, surrounded by menus and icons, is projected into the microscope field of view via the drawing tube. Different 'object' icons are assigned to individual object categories (cell types, surfaces, etc.). Digitisation is performed by pointing the cursor at objects in the section. Computer graphical symbols are superimposed on the digitised objects. All object categories are digitised, before moving the stage to other fields of view by manipulating the joystick or scroll bars. Movement of the microscope stage is accompanied by a translation of the graphical image, so that continuous feedback on the progress of the digitisation is provided. MicroTrace can readily be adapted to the specific needs of the user. We show its use in different experimental neuroanatomical techniques. Two-dimensional images and three-dimensional reconstructions of neuronal distribution and surfaces are demonstrated.",
+  "authors": [
+    "Leergaard T B",
+    "Bjaalie J G"
+  ],
+  "journal": "Neuroscience research",
+  "year": "1995",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cats",
+    "Cell Count",
+    "Image Processing, Computer-Assisted",
+    "Macaca fascicularis",
+    "Microscopy, Fluorescence",
+    "Neuroanatomy",
+    "Neurons",
+    "Rats",
+    "Software"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pmid": "39349057",
+  "title": "Coding Dynamics of the Striatal Networks During Learning.",
+  "abstract": "The rat dorsomedial (DMS) and dorsolateral striatum (DLS), equivalent to caudate nucleus and putamen in primates, are required for goal-directed and habit behaviour, respectively. However, it is still unclear whether and how this functional dichotomy emerges in the course of learning. In this study, we investigated this issue by recording DMS and DLS single neuron activity in rats performing a continuous spatial alternation task, from the acquisition to optimized performance. We first applied a classical analytical approach to identify task-related activity based on the modifications of single neuron firing rate in relation to specific task events or maze trajectories. We then used an innovative approach based on Hawkes process to reconstruct a directed connectivity graph of simultaneously recorded neurons, that was used to decode animal behavior. This approach enabled us to better unravel the role of DMS and DLS neural networks across learning stages. We showed that DMS and DLS display different task-related activity throughout learning stages, and the proportion of coding neurons over time decreases in the DMS and increases in the DLS. Despite these major differences, the decoding power of both networks increases during learning. These results suggest that DMS and DLS neural networks gradually reorganize in different ways in order to progressively increase their control over the behavioral performance.",
+  "authors": [
+    "Villet Maxime",
+    "Reynaud-Bouret Patricia",
+    "Poitreau Julien",
+    "Baldi Jacopo",
+    "Jaffard Sophie",
+    "James Ashwin",
+    "Muzy Alexandre",
+    "Kartsaki Evgenia",
+    "Scarella Gilles",
+    "Sargolini Francesca",
+    "Bethus Ingrid"
+  ],
+  "journal": "eNeuro",
+  "year": "2024",
+  "doi": "10.1523/ENEURO.0436-23.2024",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Corpus Striatum",
+    "Neurons",
+    "Action Potentials",
+    "Learning",
+    "Nerve Net",
+    "Rats, Long-Evans",
+    "Rats",
+    "Neural Pathways",
+    "Maze Learning"
+  ]
+}

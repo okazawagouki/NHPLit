@@ -1,0 +1,25 @@
+{
+  "pmid": "37277406",
+  "title": "Multiple visual objects are represented differently in the human brain and convolutional neural networks.",
+  "abstract": "Objects in the real world usually appear with other objects. To form object representations independent of whether or not other objects are encoded concurrently, in the primate brain, responses to an object pair are well approximated by the average responses to each constituent object shown alone. This is found at the single unit level in the slope of response amplitudes of macaque IT neurons to paired and single objects, and at the population level in fMRI voxel response patterns in human ventral object processing regions (e.g., LO). Here, we compare how the human brain and convolutional neural networks (CNNs) represent paired objects. In human LO, we show that averaging exists in both single fMRI voxels and voxel population responses. However, in the higher layers of five CNNs pretrained for object classification varying in architecture, depth and recurrent processing, slope distribution across units and, consequently, averaging at the population level both deviated significantly from the brain data. Object representations thus interact with each other in CNNs when objects are shown together and differ from when objects are shown individually. Such distortions could significantly limit CNNs' ability to generalize object representations formed in different contexts.",
+  "authors": [
+    "Mocz Viola",
+    "Jeong Su Keun",
+    "Chun Marvin",
+    "Xu Yaoda"
+  ],
+  "journal": "Scientific reports",
+  "year": "2023",
+  "doi": "10.1038/s41598-023-36029-z",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Pattern Recognition, Visual",
+    "Brain",
+    "Neural Networks, Computer",
+    "Brain Mapping",
+    "Magnetic Resonance Imaging",
+    "Macaca",
+    "Visual Perception"
+  ]
+}

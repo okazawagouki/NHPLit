@@ -1,0 +1,15 @@
+{
+  "pmid": "36909506",
+  "title": "Representing Multiple Visual Objects in the Human Brain and Convolutional Neural Networks.",
+  "abstract": "Objects in the real world often appear with other objects. To recover the identity of an object whether or not other objects are encoded concurrently, in primate object-processing regions, neural responses to an object pair have been shown to be well approximated by the average responses to each constituent object shown alone, indicating the whole is equal to the average of its parts. This is present at the single unit level in the slope of response amplitudes of macaque IT neurons to paired and single objects, and at the population level in response patterns of fMRI voxels in human ventral object processing regions (e.g., LO). Here we show that averaging exists in both single fMRI voxels and voxel population responses in human LO, with better averaging in single voxels leading to better averaging in fMRI response patterns, demonstrating a close correspondence of averaging at the fMRI unit and population levels. To understand if a similar averaging mechanism exists in convolutional neural networks (CNNs) pretrained for object classification, we examined five CNNs with varying architecture, depth and the presence/absence of recurrent processing. We observed averaging at the CNN unit level but rarely at the population level, with CNN unit response distribution in most cases did not resemble human LO or macaque IT responses. The whole is thus not equal to the average of its parts in CNNs, potentially rendering the individual objects in a pair less accessible in CNNs during visual processing than they are in the human brain.",
+  "authors": [
+    "Mocz Viola",
+    "Jeong Su Keun",
+    "Chun Marvin",
+    "Xu Yaoda"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2023",
+  "doi": "10.1101/2023.02.28.530472",
+  "mesh": []
+}

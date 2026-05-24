@@ -1,0 +1,22 @@
+{
+  "pmid": "41025509",
+  "title": "Nonlinear feedback modulation contributes to the optimization of flexible decision-making.",
+  "abstract": "Neural activity in the primate brain correlates with both sensory evaluation and action selection aspects of decision-making. However, the intricate interaction between these distinct neural processes and their impact on decision behaviors remains unexplored. Here, we examined the interplay of these decision processes in posterior parietal cortex (PPC) when monkeys performed a flexible decision task. We found that the PPC activity related to monkeys' abstract decisions about visual stimuli was nonlinearly modulated by monkeys' following saccade choices directed outside each neuron's response field. Recurrent neural network modeling indicated that the feedback connections, matching the learned stimuli-response associations during the task, might mediate such feedback modulation. Further analysis on network dynamics revealed that selectivity-specific feedback connectivity intensified the attractor basins of population activity underlying saccade choices, thereby increasing the reliability of flexible decisions. These results highlight an iterative computation between different decision processes, mediated primarily by precise feedback connectivity, contributing to the optimization of flexible decision-making.",
+  "authors": [
+    "Wu Xuanyu",
+    "Zhou Yang"
+  ],
+  "journal": "eLife",
+  "year": "2025",
+  "doi": "10.7554/eLife.96402",
+  "mesh": [
+    "Animals",
+    "Decision Making",
+    "Parietal Lobe",
+    "Macaca mulatta",
+    "Saccades",
+    "Neurons",
+    "Male",
+    "Photic Stimulation"
+  ]
+}

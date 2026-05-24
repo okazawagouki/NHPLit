@@ -1,0 +1,27 @@
+{
+  "pmid": "23996238",
+  "title": "Multiscale analysis of neural spike trains.",
+  "abstract": "This paper studies the multiscale analysis of neural spike trains, through both graphical and Poisson process approaches. We introduce the interspike interval plot, which simultaneously visualizes characteristics of neural spiking activity at different time scales. Using an inhomogeneous Poisson process framework, we discuss multiscale estimates of the intensity functions of spike trains. We also introduce the windowing effect for two multiscale methods. Using quasi-likelihood, we develop bootstrap confidence intervals for the multiscale intensity function. We provide a cross-validation scheme, to choose the tuning parameters, and study its unbiasedness. Studying the relationship between the spike rate and the stimulus signal, we observe that adjusting for the first spike latency is important in cross-validation. We show, through examples, that the correlation between spike trains and spike count variability can be multiscale phenomena. Furthermore, we address the modeling of the periodicity of the spike trains caused by a stimulus signal or by brain rhythms. Within the multiscale framework, we introduce intensity functions for spike trains with multiplicative and additive periodic components. Analyzing a dataset from the retinogeniculate synapse, we compare the fit of these models with the Bayesian adaptive regression splines method and discuss the limitations of the methodology. Computational efficiency, which is usually a challenge in the analysis of spike trains, is one of the highlights of these new models. In an example, we show that the reconstruction quality of a complex intensity function demonstrates the ability of the multiscale methodology to crack the neural code.",
+  "authors": [
+    "Ramezan Reza",
+    "Marriott Paul",
+    "Chenouri Shojaeddin"
+  ],
+  "journal": "Statistics in medicine",
+  "year": "2014",
+  "doi": "10.1002/sim.5923",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Geniculate Bodies",
+    "Light",
+    "Likelihood Functions",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Periodicity",
+    "Retinal Ganglion Cells"
+  ]
+}

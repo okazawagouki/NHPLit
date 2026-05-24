@@ -1,0 +1,25 @@
+{
+  "pmid": "35804317",
+  "title": "Assessment of label-free quantification and missing value imputation for proteomics in non-human primates.",
+  "abstract": "BACKGROUND: Reliable and effective label-free quantification (LFQ) analyses are dependent not only on the method of data acquisition in the mass spectrometer, but also on the downstream data processing, including software tools, query database, data normalization and imputation. In non-human primates (NHP), LFQ is challenging because the query databases for NHP are limited since the genomes of these species are not comprehensively annotated. This invariably results in limited discovery of proteins and associated Post Translational Modifications (PTMs) and a higher fraction of missing data points. While identification of fewer proteins and PTMs due to database limitations can negatively impact uncovering important and meaningful biological information, missing data also limits downstream analyses (e.g., multivariate analyses), decreases statistical power, biases statistical inference, and makes biological interpretation of the data more challenging. In this study we attempted to address both issues: first, we used the MetaMorphues proteomics search engine to counter the limits of NHP query databases and maximize the discovery of proteins and associated PTMs, and second, we evaluated different imputation methods for accurate data inference. We used a generic approach for missing data imputation analysis without distinguising the potential source of missing data (either non-assigned m/z or missing values across runs). RESULTS: Using the MetaMorpheus proteomics search engine we obtained quantitative data for 1622 proteins and 10,634 peptides including 58 different PTMs (biological, metal and artifacts) across a diverse age range of NHP brain frontal cortex. However, among the 1622 proteins identified, only 293 proteins were quantified across all samples with no missing values, emphasizing the importance of implementing an accurate and statiscaly valid imputation method to fill in missing data. In our imputation analysis we demonstrate that Single Imputation methods that borrow information from correlated proteins such as Generalized Ridge Regression (GRR), Random Forest (RF), local least squares (LLS), and a Bayesian Principal Component Analysis methods (BPCA), are able to estimate missing protein abundance values with great accuracy. CONCLUSIONS: Overall, this study offers a detailed comparative analysis of LFQ data generated in NHP and proposes strategies for improved LFQ in NHP proteomics data.",
+  "authors": [
+    "Hamid Zeeshan",
+    "Zimmerman Kip D",
+    "Guillen-Ahlers Hector",
+    "Li Cun",
+    "Nathanielsz Peter",
+    "Cox Laura A",
+    "Olivier Michael"
+  ],
+  "journal": "BMC genomics",
+  "year": "2022",
+  "doi": "10.1186/s12864-022-08723-1",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Primates",
+    "Proteomics",
+    "Software"
+  ]
+}

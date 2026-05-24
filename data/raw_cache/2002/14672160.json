@@ -1,0 +1,29 @@
+{
+  "pmid": "14672160",
+  "title": "Neural network models for the gaze shift system in the superior colliculus and cerebellum.",
+  "abstract": "We investigate the role that the superior colliculus (SC) and the cerebellum might play in generating gaze shifts. The discharge of cells in the intermediate layers of the SC is tightly linked to the occurrence of saccades. Many studies have demonstrated that the cerebellum is involved in both eye and head movements. When the head is unrestrained, large amplitude gaze shifts are composed of coordinated eye and head movements. In this study, we propose that the gaze saccades system is controlled by a feedback loop between the SC and the cerebellum. The SC only encodes retinal coordinates and controls the eye displacement (to move the fovea to the target), while the cerebellum deals with the gaze programming and controls the head displacement. When a target appears in space, the buildup cells within the SC decode the target signal in the retina before the saccade onset, and input the signal of the gaze displacement to the cerebellum. The cells in the cerebellum vermis encode the initial position of the eye in the orbit. The gaze displacement is decomposed into the head amplitude and the eye amplitude within the cerebellum. There are two output signals from the cerebellum. One signal controls the head movement. The other is projected back to the SC, and forms a component of the saccade vector to control the eye movement. The sum of the vectors provided by the cerebellum and the vector provided by the burst cells in the SC indicates the direction and the amplitude of the desired movement of the eye during the saccade. We propose a cerebellum model to predict the displacements of the eye and head under the condition that the position of the target signal in the retina and the initial position of the eye in the orbit are known. The results from the model are close to that observed physiologically. We conclude that before gaze shift onset, the cerebellum may play an important role in decomposing the gaze displacement into an eye amplitude and head amplitude signal.",
+  "authors": [
+    "Wang Xiaoxing",
+    "Jin Jesse",
+    "Jabri Marwan"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cerebellum",
+    "Fixation, Ocular",
+    "Head Movements",
+    "Humans",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Psychomotor Performance",
+    "Retina",
+    "Saccades",
+    "Superior Colliculi",
+    "Synapses"
+  ]
+}

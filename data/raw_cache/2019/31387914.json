@@ -1,0 +1,22 @@
+{
+  "pmid": "31387914",
+  "title": "Relating Divisive Normalization to Neuronal Response Variability.",
+  "abstract": "Cortical responses to repeated presentations of a sensory stimulus are variable. This variability is sensitive to several stimulus dimensions, suggesting that it may carry useful information beyond the average firing rate. Many experimental manipulations that affect response variability are also known to engage divisive normalization, a widespread operation that describes neuronal activity as the ratio of a numerator (representing the excitatory stimulus drive) and denominator (the normalization signal). Although it has been suggested that normalization affects response variability, we lack a quantitative framework to determine the relation between the two. Here we extend the standard normalization model, by treating the numerator and the normalization signal as variable quantities. The resulting model predicts a general stabilizing effect of normalization on neuronal responses, and allows us to infer the single-trial normalization strength, a quantity that cannot be measured directly. We test the model on neuronal responses to stimuli of varying contrast, recorded in primary visual cortex of male macaques. We find that neurons that are more strongly normalized fire more reliably, and response variability and pairwise noise correlations are reduced during trials in which normalization is inferred to be strong. Our results thus suggest a novel functional role for normalization, namely, modulating response variability. Our framework could enable a direct quantification of the impact of single-trial normalization strength on the accuracy of perceptual judgments, and can be readily applied to other sensory and nonsensory factors.<b>SIGNIFICANCE STATEMENT</b> Divisive normalization is a widespread neural operation across sensory and nonsensory brain areas, which describes neuronal responses as the ratio between the excitatory drive to the neuron and a normalization signal. Normalization plays a key role in several important computations, including adjusting the neuron's dynamic range, reducing redundancy, and facilitating probabilistic inference. However, the relation between normalization and neuronal response variability (a fundamental aspect of neural coding) remains unclear. Here we develop a new model and test it on primary visual cortex responses. We show that normalization has a stabilizing effect on neuronal activity, beyond the known suppression of firing rate. This modulation of variability suggests a new functional role for normalization in neural coding and perception.",
+  "authors": [
+    "Coen-Cagli Ruben",
+    "Solomon Selina S"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2019",
+  "doi": "10.1523/JNEUROSCI.0126-19.2019",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Macaca fascicularis",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

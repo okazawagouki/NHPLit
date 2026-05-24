@@ -1,0 +1,29 @@
+{
+  "pmid": "22258828",
+  "title": "Using evolutionary algorithms for fitting high-dimensional models to neuronal data.",
+  "abstract": "In the study of neurosciences, and of complex biological systems in general, there is frequently a need to fit mathematical models with large numbers of parameters to highly complex datasets. Here we consider algorithms of two different classes, gradient following (GF) methods and evolutionary algorithms (EA) and examine their performance in fitting a 9-parameter model of a filter-based visual neuron to real data recorded from a sample of 107 neurons in macaque primary visual cortex (V1). Although the GF method converged very rapidly on a solution, it was highly susceptible to the effects of local minima in the error surface and produced relatively poor fits unless the initial estimates of the parameters were already very good. Conversely, although the EA required many more iterations of evaluating the model neuron's response to a series of stimuli, it ultimately found better solutions in nearly all cases and its performance was independent of the starting parameters of the model. Thus, although the fitting process was lengthy in terms of processing time, the relative lack of human intervention in the evolutionary algorithm, and its ability ultimately to generate model fits that could be trusted as being close to optimal, made it far superior in this particular application than the gradient following methods. This is likely to be the case in many further complex systems, as are often found in neuroscience.",
+  "authors": [
+    "Svensson Carl-Magnus",
+    "Coombes Stephen",
+    "Peirce Jonathan Westley"
+  ],
+  "journal": "Neuroinformatics",
+  "year": "2012",
+  "doi": "10.1007/s12021-012-9140-7",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biological Evolution",
+    "Data Interpretation, Statistical",
+    "Databases, Factual",
+    "Electrophysiological Phenomena",
+    "Humans",
+    "Macaca fascicularis",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Reproducibility of Results",
+    "Visual Cortex"
+  ]
+}

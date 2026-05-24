@@ -1,0 +1,25 @@
+{
+  "pmid": "35241489",
+  "title": "A Computational Model of Direction Selectivity in Macaque V1 Cortex Based on Dynamic Differences between On and Off Pathways.",
+  "abstract": "This paper is about neural mechanisms of direction selectivity (DS) in macaque primary visual cortex, V1. We present data (on male macaque) showing strong DS in a majority of simple cells in V1 layer 4Cα, the cortical layer that receives direct afferent input from the magnocellular division of the lateral geniculate nucleus (LGN). Magnocellular LGN cells are not direction-selective. To understand the mechanisms of DS, we built a large-scale, recurrent model of spiking neurons called DSV1. Like its predecessors, DSV1 reproduces many visual response properties of V1 cells including orientation selectivity. Two important new features of DSV1 are (1) DS is initiated by small, consistent dynamic differences in the visual responses of OFF and ON Magnocellular LGN cells, and (2) DS in the responses of most model simple cells is increased over those of their feedforward inputs; this increase is achieved through dynamic interaction of feedforward and intracortical synaptic currents without the use of intracortical direction-specific connections. The DSV1 model emulates experimental data in the following ways: (1) most 4Cα Simple cells were highly direction-selective but 4Cα Complex cells were not; (2) the preferred directions of the model's direction-selective Simple cells were invariant with spatial and temporal frequency (TF); (3) the distribution of the preferred/opposite ratio across the model's population of cells was very close to that found in experiments. The strong quantitative agreement between DS in data and in model simulations suggests that the neural mechanisms of DS in DSV1 may be similar to those in the real visual cortex.<b>SIGNIFICANCE STATEMENT</b> Motion perception is a vital part of our visual experience of the world. In monkeys, whose vision resembles that of humans, the neural computation of the direction of a moving target starts in the primary visual cortex, V1, in layer 4Cα that receives input from the eye through the lateral geniculate nucleus (LGN). How direction selectivity (DS) is generated in layer 4Cα is an outstanding unsolved problem in theoretical neuroscience. In this paper, we offer a solution based on plausible biological mechanisms. We present a new large-scale circuit model in which DS originates from slightly different LGN ON/OFF response time-courses and is enhanced in cortex without the need for direction-specific intracortical connections. The model's DS is in quantitative agreement with experiments.",
+  "authors": [
+    "Chariker Logan",
+    "Shapley Robert",
+    "Hawken Michael",
+    "Young Lai-Sang"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2022",
+  "doi": "10.1523/JNEUROSCI.2145-21.2022",
+  "mesh": [
+    "Animals",
+    "Geniculate Bodies",
+    "Macaca",
+    "Male",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "30914446",
+  "title": "Cortical Electrocorticogram (ECoG) Is a Local Signal.",
+  "abstract": "Electrocorticogram (ECoG), obtained by low-pass filtering the brain signal recorded from a macroelectrode placed on the cortex, is extensively used to find the seizure focus in drug-resistant epilepsy and is of growing importance in cognitive and brain-machine-interfacing studies. To accurately estimate the epileptogenic cortex or to make inferences about cognitive processes, it is important to determine the \"spatial spread\" of ECoG (i.e., the extent of cortical tissue that contributes to its activity). However, the ECoG spread is currently unknown; even the spread of local field potential (LFP) obtained from microelectrodes is debated, with estimates ranging from a few hundred micrometers to several millimeters. Spatial spread can be estimated by measuring the receptive field (RF) and multiplying by the cortical magnification factor, but this method overestimates the spread because RF size gets inflated due to several factors. This issue can be partially addressed using a model that compares the RFs of two measures, such as LFP and multi-unit activity (MUA). To use this approach for ECoG, we designed a customized array containing both microelectrodes and ECoG electrodes to simultaneously map MUA, LFP, and ECoG RFs from the primary visual cortex of awake monkeys (three female <i>Macaca radiata</i>). The spatial spread of ECoG was surprisingly local (diameter ∼3 mm), only 3 times that of the LFP. Similar results were obtained using a model to simulate ECoG as a sum of LFPs of varying electrode sizes. Our results further validate the use of ECoG in clinical and basic cognitive research.<b>SIGNIFICANCE STATEMENT</b> Brains signals capture different attributes of the neural network depending on the size and location of the recording electrode. Electrocorticogram (ECoG), obtained by placing macroelectrodes (typically 2-3 mm diameter) on the exposed surface of the cortex, is widely used by neurosurgeons to identify the source of seizures in drug-resistant epileptic patients. The brain area responsible for seizures is subsequently surgically removed. Accurate estimation of the epileptogenic cortex and its removal requires the estimation of spatial spread of ECoG. Here, we estimated the spatial spread of ECoG in five behaving monkeys using two different approaches. Our results suggest that ECoG is a local signal (diameter of ∼3 mm), which can provide a useful tool for clinical, cognitive neuroscience, and brain-machine-interfacing applications.",
+  "authors": [
+    "Dubey Agrita",
+    "Ray Supratim"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2019",
+  "doi": "10.1523/JNEUROSCI.2917-18.2019",
+  "mesh": [
+    "Animals",
+    "Electrocorticography",
+    "Female",
+    "Macaca radiata",
+    "Models, Neurological",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pmid": "18528515",
+  "title": "Single-trial decoding of bistable perception based on sparse nonnegative tensor decomposition.",
+  "abstract": "The study of the neuronal correlates of the spontaneous alternation in perception elicited by bistable visual stimuli is promising for understanding the mechanism of neural information processing and the neural basis of visual perception and perceptual decision-making. In this paper, we develop a sparse nonnegative tensor factorization-(NTF)-based method to extract features from the local field potential (LFP), collected from the middle temporal (MT) visual cortex in a macaque monkey, for decoding its bistable structure-from-motion (SFM) perception. We apply the feature extraction approach to the multichannel time-frequency representation of the intracortical LFP data. The advantages of the sparse NTF-based feature extraction approach lies in its capability to yield components common across the space, time, and frequency domains yet discriminative across different conditions without prior knowledge of the discriminating frequency bands and temporal windows for a specific subject. We employ the support vector machines (SVMs) classifier based on the features of the NTF components for single-trial decoding the reported perception. Our results suggest that although other bands also have certain discriminability, the gamma band feature carries the most discriminative information for bistable perception, and that imposing the sparseness constraints on the nonnegative tensor factorization improves extraction of this feature.",
+  "authors": [
+    "Wang Zhisong",
+    "Maier Alexander",
+    "Logothetis Nikos K",
+    "Liang Hualou"
+  ],
+  "journal": "Computational intelligence and neuroscience",
+  "year": "2008",
+  "doi": "10.1155/2008/642387",
+  "mesh": []
+}

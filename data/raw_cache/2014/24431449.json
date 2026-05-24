@@ -1,0 +1,23 @@
+{
+  "pmid": "24431449",
+  "title": "Action recognition by motion detection in posture space.",
+  "abstract": "The visual recognition of action can be obtained from the change of body posture over time. Even for point-light stimuli in which the body posture is conveyed by only a few light points, biological motion can be perceived from posture sequence analysis. We present and analyze a formal model of how action recognition may be computed and represented in the brain. This model assumes that motion energy detectors similar to those well-established for the luminance-based motion of objects in space are applied to a cortical representation of body posture. Similar to the spatio-temporal receptive fields of regular motion detectors, these body motion detectors attain receptive fields in a posture-time space. We describe the properties of these receptive fields and compare them with properties of body-sensitive neurons found in the superior temporal sulcus of macaque monkeys. We consider tuning properties for 3D views of static and moving bodies. Our simulations show that key properties of action representation in the STS can directly be explained from the properties of natural action stimuli. Our model also suggests an explanation for the phenomenon of implied motion, the perceptual appearance, and neural activation of motion from static images.",
+  "authors": [
+    "Theusner Stefanie",
+    "de Lussanet Marc",
+    "Lappe Markus"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2014",
+  "doi": "10.1523/JNEUROSCI.2900-13.2014",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Macaca",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Posture"
+  ]
+}

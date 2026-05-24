@@ -1,0 +1,23 @@
+{
+  "pmid": "41045925",
+  "title": "Preemptive gain control in primary visual cortex.",
+  "abstract": "Neurons continuously adapt their response properties to their environment. In the visual cortex, this includes gain control processes such as contrast normalization, which matches neurons' limited dynamic response range to the prevailing contrasts. Contrast normalization converges to a state that is optimal for processing the current visual input but not for the new, unknown input that impinges on the retina after each eye movement. We hypothesized that this conflict between current (pre-saccadic) and future (post-saccadic) needs could be resolved by a preemptive reset of the contrast response function with every saccade. We investigated this hypothesis using multi-electrode array recordings in the primary visual cortex of the macaque monkey. As expected, exposure to high contrast during steady fixation led to reduced gain and a compressed contrast response function. In support of our preemptive gain control hypothesis, these gain changes were partially reversed during saccades, resulting in a contrast response function with a higher gain and a broader, more linear response range. Post-saccadic gain increases were accompanied by pre-saccadic gain decreases, which were anticorrelated, suggesting that a common mechanism underlies both changes. Our findings indicate that the ubiquitous biphasic peri-saccadic neural response is a signature of a pause-rebound mechanism that prepares for unknown future visual inputs by resetting the contrast response function. At the perceptual level, this leads us to reinterpret the pre-saccadic reduction in visual sensitivity (i.e., saccadic suppression) as a side effect of the beneficial signal-processing strategy of preemptive gain control.",
+  "authors": [
+    "Guez Jon S",
+    "Krekelberg Bart"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2025",
+  "doi": "10.1016/j.cub.2025.09.028",
+  "mesh": [
+    "Animals",
+    "Saccades",
+    "Macaca mulatta",
+    "Primary Visual Cortex",
+    "Male",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Contrast Sensitivity"
+  ]
+}

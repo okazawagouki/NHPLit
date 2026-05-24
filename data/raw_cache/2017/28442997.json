@@ -1,0 +1,37 @@
+{
+  "pmid": "28442997",
+  "title": "High Spatiotemporal Resolution ECoG Recording of Somatosensory Evoked Potentials with Flexible Micro-Electrode Arrays.",
+  "abstract": "Electrocorticogram (ECoG) has great potential as a source signal, especially for clinical BMI. Until recently, ECoG electrodes were commonly used for identifying epileptogenic foci in clinical situations, and such electrodes were low-density and large. Increasing the number and density of recording channels could enable the collection of richer motor/sensory information, and may enhance the precision of decoding and increase opportunities for controlling external devices. Several reports have aimed to increase the number and density of channels. However, few studies have discussed the actual validity of high-density ECoG arrays. In this study, we developed novel high-density flexible ECoG arrays and conducted decoding analyses with monkey somatosensory evoked potentials (SEPs). Using MEMS technology, we made 96-channel Parylene electrode arrays with an inter-electrode distance of 700 μm and recording site area of 350 μm<sup>2</sup>. The arrays were mainly placed onto the finger representation area in the somatosensory cortex of the macaque, and partially inserted into the central sulcus. With electrical finger stimulation, we successfully recorded and visualized finger SEPs with a high spatiotemporal resolution. We conducted offline analyses in which the stimulated fingers and intensity were predicted from recorded SEPs using a support vector machine. We obtained the following results: (1) Very high accuracy (~98%) was achieved with just a short segment of data (~15 ms from stimulus onset). (2) High accuracy (~96%) was achieved even when only a single channel was used. This result indicated placement optimality for decoding. (3) Higher channel counts generally improved prediction accuracy, but the efficacy was small for predictions with feature vectors that included time-series information. These results suggest that ECoG signals with high spatiotemporal resolution could enable greater decoding precision or external device control.",
+  "authors": [
+    "Kaiju Taro",
+    "Doi Keiichi",
+    "Yokota Masashi",
+    "Watanabe Kei",
+    "Inoue Masato",
+    "Ando Hiroshi",
+    "Takahashi Kazutaka",
+    "Yoshida Fumiaki",
+    "Hirata Masayuki",
+    "Suzuki Takafumi"
+  ],
+  "journal": "Frontiers in neural circuits",
+  "year": "2017",
+  "doi": "10.3389/fncir.2017.00020",
+  "mesh": [
+    "Afferent Pathways",
+    "Animals",
+    "Brain Mapping",
+    "Electric Stimulation",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Evoked Potentials, Somatosensory",
+    "Female",
+    "Fingers",
+    "Fourier Analysis",
+    "Macaca mulatta",
+    "Nonlinear Dynamics",
+    "Somatosensory Cortex",
+    "Support Vector Machine",
+    "Time Factors"
+  ]
+}

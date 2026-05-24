@@ -1,0 +1,29 @@
+{
+  "pmid": "39414974",
+  "title": "Rastermap: a discovery method for neural population recordings.",
+  "abstract": "Neurophysiology has long progressed through exploratory experiments and chance discoveries. Anecdotes abound of researchers listening to spikes in real time and noticing patterns of activity related to ongoing stimuli or behaviors. With the advent of large-scale recordings, such close observation of data has become difficult. To find patterns in large-scale neural data, we developed 'Rastermap', a visualization method that displays neurons as a raster plot after sorting them along a one-dimensional axis based on their activity patterns. We benchmarked Rastermap on realistic simulations and then used it to explore recordings of tens of thousands of neurons from mouse cortex during spontaneous, stimulus-evoked and task-evoked epochs. We also applied Rastermap to whole-brain zebrafish recordings; to wide-field imaging data; to electrophysiological recordings in rat hippocampus, monkey frontal cortex and various cortical and subcortical regions in mice; and to artificial neural networks. Finally, we illustrate high-dimensional scenarios where Rastermap and similar algorithms cannot be used effectively.",
+  "authors": [
+    "Stringer Carsen",
+    "Zhong Lin",
+    "Syeda Atika",
+    "Du Fengtong",
+    "Kesa Maria",
+    "Pachitariu Marius"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2025",
+  "doi": "10.1038/s41593-024-01783-4",
+  "mesh": [
+    "Animals",
+    "Neurons",
+    "Mice",
+    "Zebrafish",
+    "Rats",
+    "Neural Networks, Computer",
+    "Algorithms",
+    "Action Potentials",
+    "Models, Neurological",
+    "Computer Simulation",
+    "Brain"
+  ]
+}

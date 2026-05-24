@@ -1,0 +1,24 @@
+{
+  "pmid": "10636945",
+  "title": "Do simple cells in primary visual cortex form a tight frame?",
+  "abstract": "Sets of neuronal tuning curves, which describe the responses of neurons as functions of a stimulus, can serve as a basis for approximating other functions of stimulus parameters. In a function-approximating network, synaptic weights determined by a correlation-based Hebbian rule are closely related to the coefficients that result when a function is expanded in an orthogonal basis. Although neuronal tuning curves typically are not orthogonal functions, the relationship between function approximation and correlation-based synaptic weights can be retained if the tuning curves satisfy the conditions of a tight frame. We examine whether the spatial receptive fields of simple cells in cat and monkey primary visual cortex (V1) form a tight frame, allowing them to serve as a basis for constructing more complicated extrastriate receptive fields using correlation-based synaptic weights. Our calculations show that the set of V1 simple cell receptive fields is not tight enough to account for the acuity observed psychophysically.",
+  "authors": [
+    "Salinas E",
+    "Abbott L F"
+  ],
+  "journal": "Neural computation",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cats",
+    "Haplorhini",
+    "Models, Neurological",
+    "Neurons",
+    "Synapses",
+    "Visual Acuity",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Perception"
+  ]
+}

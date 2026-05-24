@@ -1,0 +1,25 @@
+{
+  "pmid": "31363063",
+  "title": "Temporal Coding of Reward Value in Monkey Ventral Striatal Tonically Active Neurons.",
+  "abstract": "The rostromedioventral striatum is critical for behavior dependent on evaluating rewards. We asked what contribution tonically active neurons (TANs), the putative striatal cholinergic interneurons, make in coding reward value in this part of the striatum. Two female monkeys were given the option to accept or reject an offered reward in each trial, the value of which was signaled by a visual cue. Forty-five percent of the TANs use temporally modulated activity to encode information about discounted value. These responses were significantly better represented using principal component analysis than by just counting spikes. The temporal coding is straightforward: the spikes are distributed according to a sinusoidal envelope of activity that changes gain, ranging from positive to negative according to discounted value. Our results show that the information about the relative value of an offered reward is temporally encoded in neural spike trains of TANs. This temporal coding may allow well tuned, coordinated behavior to emerge.<b>SIGNIFICANCE STATEMENT</b> Ever since the discovery that neurons use trains of pulses to transmit information, it seemed self-evident that information would be encoded into the pattern of the spikes. However, there is not much evidence that spike patterns encode cognitive information. We find that a set of interneurons, the tonically active neurons (TANs) in monkeys' striatum, use temporal patterns of response to encode information about the discounted value of offered rewards. The code seems straightforward: a sinusoidal envelope that changes gain according to the discounted value of the offer, describes the rate of spiking across time. This temporal modulation may provide a means to synchronize these interneurons and the activity of other neural elements including principal output neurons.",
+  "authors": [
+    "Falcone Rossella",
+    "Weintraub David B",
+    "Setogawa Tsuyoshi",
+    "Wittig John H",
+    "Chen Gang",
+    "Richmond Barry J"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2019",
+  "doi": "10.1523/JNEUROSCI.0869-19.2019",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Female",
+    "Interneurons",
+    "Macaca mulatta",
+    "Reward",
+    "Ventral Striatum"
+  ]
+}

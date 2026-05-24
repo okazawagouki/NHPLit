@@ -1,0 +1,27 @@
+{
+  "pmid": "7948227",
+  "title": "Analysis, classification, and coding of multielectrode spike trains with hidden Markov models.",
+  "abstract": "It is shown that hidden Markov models (HMMs) are a powerful tool in the analysis of multielectrode data. This is demonstrated for a 30-electrode measurement of neuronal spike activity in the monkey's visual cortex during the application of different visual stimuli. HMMs with optimized parameters code the information contained in the spatiotemporal discharge patterns as a probabilistic function of a Markov process and thus provide abstract dynamical models of the pattern-generating process. We compare HMMs obtained from vector-quantized data with models in which parametrized output processes such as multivariate Poisson or binomial distributions are assumed. In the latter cases the visual stimuli are recognized at rates of more than 90% from the neuronal spike patterns. An analysis of the models obtained reveals important aspects of the coding of information in the brain. For example, we identify relevant time scales and characterize the degree and nature of the spatiotemporal variations on these scales.",
+  "authors": [
+    "Radons G",
+    "Becker J D",
+    "Dülfer B",
+    "Krüger J"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "1994",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cybernetics",
+    "Evoked Potentials, Visual",
+    "Haplorhini",
+    "Linear Models",
+    "Markov Chains",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Photic Stimulation",
+    "Poisson Distribution",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pmid": "30090871",
+  "title": "Nonparametric test for connectivity detection in multivariate autoregressive networks and application to multiunit activity data.",
+  "abstract": "Directed connectivity inference has become a cornerstone in neuroscience to analyze multivariate data from neuroimaging and electrophysiological techniques. Here we propose a nonparametric significance method to test the nonzero values of multivariate autoregressive model to infer interactions in recurrent networks. We use random permutations or circular shifts of the original time series to generate the null-hypothesis distributions. The underlying network model is the same as used in multivariate Granger causality, but our test relies on the autoregressive coefficients instead of error residuals. By means of numerical simulation over multiple network configurations, we show that this method achieves a good control of false positives (type 1 error) and detects existing pairwise connections more accurately than using the standard parametric test for the ratio of error residuals. In practice, our method aims to detect temporal interactions in real neuronal networks with nodes possibly exhibiting redundant activity. As a proof of concept, we apply our method to multiunit activity (MUA) recorded from Utah electrode arrays in a monkey and examine detected interactions between 25 channels. We show that during stimulus presentation our method detects a large number of interactions that cannot be solely explained by the increase in the MUA level.",
+  "authors": [
+    "Gilson M",
+    "Tauste Campo A",
+    "Chen X",
+    "Thiele A",
+    "Deco G"
+  ],
+  "journal": "Network neuroscience (Cambridge, Mass.)",
+  "year": "2018",
+  "doi": "10.1162/NETN_a_00019",
+  "mesh": []
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "25411459",
+  "title": "Dopamine neurons encode errors in predicting movement trigger occurrence.",
+  "abstract": "The capacity to anticipate the timing of events in a dynamic environment allows us to optimize the processes necessary for perceiving, attending to, and responding to them. Such anticipation requires neuronal mechanisms that track the passage of time and use this representation, combined with prior experience, to estimate the likelihood that an event will occur (i.e., the event's \"hazard rate\"). Although hazard-like ramps in activity have been observed in several cortical areas in preparation for movement, it remains unclear how such time-dependent probabilities are estimated to optimize response performance. We studied the spiking activity of dopamine neurons in the substantia nigra pars compacta of monkeys during an arm-reaching task for which the foreperiod preceding the \"go\" signal varied randomly along a uniform distribution. After extended training, the monkeys' reaction times correlated inversely with foreperiod duration, reflecting a progressive anticipation of the go signal according to its hazard rate. Many dopamine neurons modulated their firing rates as predicted by a succession of hazard-related prediction errors. First, as time passed during the foreperiod, slowly decreasing anticipatory activity tracked the elapsed time as if encoding negative prediction errors. Then, when the go signal appeared, a phasic response encoded the temporal unpredictability of the event, consistent with a positive prediction error. Neither the anticipatory nor the phasic signals were affected by the anticipated magnitudes of future reward or effort, or by parameters of the subsequent movement. These results are consistent with the notion that dopamine neurons encode hazard-related prediction errors independently of other information.",
+  "authors": [
+    "Pasquereau Benjamin",
+    "Turner Robert S"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2015",
+  "doi": "10.1152/jn.00401.2014",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Anticipation, Psychological",
+    "Dopaminergic Neurons",
+    "Female",
+    "Hand",
+    "Macaca mulatta",
+    "Male",
+    "Motor Skills",
+    "Movement",
+    "Reaction Time",
+    "Substantia Nigra"
+  ]
+}

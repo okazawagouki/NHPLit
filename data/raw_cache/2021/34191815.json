@@ -1,0 +1,21 @@
+{
+  "pmid": "34191815",
+  "title": "Joint representation of color and form in convolutional neural networks: A stimulus-rich network perspective.",
+  "abstract": "To interact with real-world objects, any effective visual system must jointly code the unique features defining each object. Despite decades of neuroscience research, we still lack a firm grasp on how the primate brain binds visual features. Here we apply a novel network-based stimulus-rich representational similarity approach to study color and form binding in five convolutional neural networks (CNNs) with varying architecture, depth, and presence/absence of recurrent processing. All CNNs showed near-orthogonal color and form processing in early layers, but increasingly interactive feature coding in higher layers, with this effect being much stronger for networks trained for object classification than untrained networks. These results characterize for the first time how multiple basic visual features are coded together in CNNs. The approach developed here can be easily implemented to characterize whether a similar coding scheme may serve as a viable solution to the binding problem in the primate brain.",
+  "authors": [
+    "Taylor JohnMark",
+    "Xu Yaoda"
+  ],
+  "journal": "PloS one",
+  "year": "2021",
+  "doi": "10.1371/journal.pone.0253442",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Color Perception",
+    "Form Perception",
+    "Neural Networks, Computer",
+    "Pattern Recognition, Visual",
+    "Primates"
+  ]
+}

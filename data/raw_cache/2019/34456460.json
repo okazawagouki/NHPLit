@@ -1,0 +1,29 @@
+{
+  "pmid": "34456460",
+  "title": "Inter-Scanner Harmonization of High Angular Resolution DW-MRI using Null Space Deep Learning.",
+  "abstract": "Diffusion-weighted magnetic resonance imaging (DW-MRI) allows for non-invasive imaging of the local fiber architecture of the human brain at a millimetric scale. Multiple classical approaches have been proposed to detect both single (e.g., tensors) and multiple (e.g., constrained spherical deconvolution, CSD) fiber population orientations per voxel. However, existing techniques generally exhibit low reproducibility across MRI scanners. Herein, we propose a data-driven technique using a neural network design which exploits two categories of data. First, training data were acquired on three squirrel monkey brains using ex-vivo DW-MRI and histology of the brain. Second, repeated scans of human subjects were acquired on two different scanners to augment the learning of the network proposed. To use these data, we propose a new network architecture, the null space deep network (NSDN), to simultaneously learn on traditional observed/truth pairs (e.g., MRI-histology voxels) along with repeated observations without a known truth (e.g., scan-rescan MRI). The NSDN was tested on twenty percent of the histology voxels that were kept completely blind to the network. NSDN significantly improved absolute performance relative to histology by 3.87% over CSD and 1.42% over a recently proposed deep neural network approach. Moreover, it improved reproducibility on the paired data by 21.19% over CSD and 10.09% over a recently proposed deep approach. Finally, NSDN improved generalizability of the model to a third <i>in vivo</i> human scanner (which was not used in training) by 16.08% over CSD and 10.41% over a recently proposed deep learning approach. This work suggests that data-driven approaches for local fiber reconstruction are more reproducible, informative and precise and offers a novel, practical method for determining these models.",
+  "authors": [
+    "Nath Vishwesh",
+    "Parvathaneni Prasanna",
+    "Hansen Colin B",
+    "Hainline Allison E",
+    "Bermudez Camilo",
+    "Remedios Samuel",
+    "Blaber Justin A",
+    "Schilling Kurt G",
+    "Lyu Ilwoo",
+    "Janve Vaibhav",
+    "Gao Yurui",
+    "Stepniewska Iwona",
+    "Rogers Baxter P",
+    "Newton Allen T",
+    "Davis L Taylor",
+    "Luci Jeff",
+    "Anderson Adam W",
+    "Landman Bennett A"
+  ],
+  "journal": "Computational diffusion MRI. CDMRI (Workshop)",
+  "year": "2019",
+  "doi": "",
+  "mesh": []
+}

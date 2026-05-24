@@ -1,0 +1,29 @@
+{
+  "pmid": "19502003",
+  "title": "Cortical dynamics of navigation and steering in natural scenes: Motion-based object segmentation, heading, and obstacle avoidance.",
+  "abstract": "Visually guided navigation through a cluttered natural scene is a challenging problem that animals and humans accomplish with ease. The ViSTARS neural model proposes how primates use motion information to segment objects and determine heading for purposes of goal approach and obstacle avoidance in response to video inputs from real and virtual environments. The model produces trajectories similar to those of human navigators. It does so by predicting how computationally complementary processes in cortical areas MT(-)/MSTv and MT(+)/MSTd compute object motion for tracking and self-motion for navigation, respectively. The model's retina responds to transients in the input stream. Model V1 generates a local speed and direction estimate. This local motion estimate is ambiguous due to the neural aperture problem. Model MT(+) interacts with MSTd via an attentive feedback loop to compute accurate heading estimates in MSTd that quantitatively simulate properties of human heading estimation data. Model MT(-) interacts with MSTv via an attentive feedback loop to compute accurate estimates of speed, direction and position of moving objects. This object information is combined with heading information to produce steering decisions wherein goals behave like attractors and obstacles behave like repellers. These steering decisions lead to navigational trajectories that closely match human performance.",
+  "authors": [
+    "Andrew Browning N",
+    "Grossberg Stephen",
+    "Mingolla Ennio"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2009",
+  "doi": "10.1016/j.neunet.2009.05.007",
+  "mesh": [
+    "Algorithms",
+    "Humans",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Motion Perception",
+    "Nervous System Physiological Phenomena",
+    "Orientation",
+    "Psychophysics",
+    "Retinaldehyde",
+    "Software",
+    "Temporal Lobe",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

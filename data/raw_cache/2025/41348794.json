@@ -1,0 +1,18 @@
+{
+  "pmid": "41348794",
+  "title": "Deep Transfer Learning in Intra-subject and Inter-subjects for Intracortical Brain Machine Interface Decoding.",
+  "abstract": "OBJECTIVE: This study proposes an Improved Deep Transfer Network (IDTN) to enhance decoding accuracy, calibration efficiency, and adaptability of intracortical brain machine interface (iBMI) systems while reducing the reliance on new labeled samples. METHODS: IDTN integrates two core components: Structural Joint Discriminative Maximum Mean Discrepancy (SJDMMD) and Kernel Norm Improved Multi-Gaussian Kernel (KNK). SJDMMD extends the standard MMD framework by incorporating a structure-enhanced soft label weighting mechanism that simultaneously minimizes intra-class distributional shifts and maximizes inter-class margins for precise cross-domain alignment. KNK employs multi-Gaussian kernels with kernel norm regularization to enhance high-dimensional feature representations and sharpen inter-class boundaries, thereby improving the effectiveness of SJDMMD. RESULTS: Evaluated on neural datasets from two rhesus macaques, IDTN achieved superior performance in both intra- subject and inter-subject transfer scenarios, consistently outperforming state-of-the-art methods in decoding accuracy. IDTN also exhibited consistent decoding stability across daily recording sessions. Ablation studies further confirm that SJDMMD improves inter-class separability and intra-class coherence, while KNK contributes to more effective kernel mapping in complex feature spaces. CONCLUSION: These findings underscore the effectiveness of structure-aware transfer learning for neural decoding. SIGNIFICANCE: They also highlight the potential of IDTN for deployment in real-world iBMI applications, particularly in data-limited or cross-subject environments.",
+  "authors": [
+    "Fu Zhongzheng",
+    "Zhang Peng",
+    "He Xinrun",
+    "Wang Haoyuan",
+    "Guo Yifei",
+    "Chen Xingjian",
+    "Huang Jian"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2025",
+  "doi": "10.1109/TBME.2025.3640764",
+  "mesh": []
+}

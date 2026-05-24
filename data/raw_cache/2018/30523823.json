@@ -1,0 +1,22 @@
+{
+  "pmid": "30523823",
+  "title": "Spike detection and spike sorting with a hidden Markov model improves offline decoding of motor cortical recordings.",
+  "abstract": "OBJECTIVE: Detection and sorting (classification) of action potentials from extracellular recordings are two important pre-processing steps for brain-computer interfaces (BCIs) and some neuroscientific studies. Traditional approaches perform these two steps serially, but using shapes of action potential waveforms during detection, i.e. combining the two steps, may lead to better performance, especially during high noise. We propose a hidden Markov model (HMM) based method for combined detecting and sorting of spikes, with the aim of improving the final decoding accuracy of BCIs. APPROACH: The states of the HMM indicate whether there is a spike, what unit a spike belongs to, and the time course within a waveform. The HMM outputs probabilities of spike detection, and from this we can calculate expectations of spike counts in time bins, which can replace integer spike counts as input to BCI decoders. We evaluate the HMM method on simulated spiking data. We then examine the impact of using this method on decoding real neural data recorded from primary motor cortex of two Rhesus monkeys. MAIN RESULTS: Our comparisons on simulated data to detection-then-sorting approaches and combined detection-and-sorting algorithms indicate that the HMM method performs more accurately at detection and sorting (0.93 versus 0.73 spike count correlation, 0.73 versus 0.49 adjusted mutual information). On real neural data, the HMM method led to higher adjusted mutual information between spike counts and kinematics (monkey K: 0.034 versus 0.027; monkey M: 0.033 versus 0.022) and better neuron encoding model predictions (K: 0.016 dB improvement; M: 0.056 dB improvement). Lastly, the HMM method facilitated higher offline decoding accuracy (Kalman filter, K: 8.5% mean squared error reduction, M: 18.6% reduction). SIGNIFICANCE: The HMM spike detection and sorting method offers a new approach to spike pre-processing for BCIs and neuroscientific studies.",
+  "authors": [
+    "Li Jie",
+    "Chen Xiuli",
+    "Li Zheng"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2019",
+  "doi": "10.1088/1741-2552/aaeaae",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electrodes, Implanted",
+    "Macaca mulatta",
+    "Male",
+    "Markov Chains",
+    "Motor Cortex"
+  ]
+}

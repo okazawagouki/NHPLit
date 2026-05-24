@@ -1,0 +1,12 @@
+{
+  "pmid": "38863681",
+  "title": "Simulated dynamical transitions in a heterogeneous marmoset pFC cluster.",
+  "abstract": "Network analysis of the marmoset cortical connectivity data indicates a significant 3D cluster in and around the pre-frontal cortex. A multi-node, heterogeneous neural mass model of this six-node cluster was constructed. Its parameters were informed by available experimental and simulation data so that each neural mass oscillated in a characteristic frequency band. Nodes were connected with directed, weighted links derived from the marmoset structural connectivity data. Heterogeneity arose from the different link weights and model parameters for each node. Stimulation of the cluster with an incident pulse train modulated in the standard frequency bands induced a variety of dynamical state transitions that lasted in the range of 5-10 s, suggestive of timescales relevant to short-term memory. A short gamma burst rapidly reset the beta-induced transition. The theta-induced transition state showed a spontaneous, delayed reset to the resting state. An additional, continuous gamma wave stimulus induced a new beating oscillatory state. Longer or repeated gamma bursts were phase-aligned with the beta oscillation, delivering increasing energy input and causing shorter transition times. The relevance of these results to working memory is yet to be established, but they suggest interesting opportunities.",
+  "authors": [
+    "Pailthorpe Bernard A"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2024",
+  "doi": "10.3389/fncom.2024.1398898",
+  "mesh": []
+}

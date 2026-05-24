@@ -1,0 +1,20 @@
+{
+  "pmid": "21096739",
+  "title": "Extended Kalman filtering of point process observation.",
+  "abstract": "A temporal point process is a stochastic time series of binary events that occurs in continuous time. In computational neuroscience, the point process is used to model neuronal spiking activity; however, estimating the model parameters from spike train is a challenging problem. The state space point process filtering theory is a new technique for the estimation of the states and parameters. In order to use the stochastic filtering theory for the states of neuronal system with the Gaussian assumption, we apply the extended Kalman filter. In this regard, the extended Kalman filtering equations are derived for the point process observation. We illustrate the new filtering algorithm by estimating the effect of visual stimulus on the spiking activity of object selective neurons from the inferior temporal cortex of macaque monkey. Based on the goodness-offit assessment, the extended Kalman filter provides more accurate state estimate than the conventional methods.",
+  "authors": [
+    "Salimpour Yousef",
+    "Soltanian-Zadeh Hamid",
+    "Abolhassani Mohammad D"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2010",
+  "doi": "10.1109/IEMBS.2010.5627159",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons"
+  ]
+}

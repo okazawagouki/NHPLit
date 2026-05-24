@@ -1,0 +1,27 @@
+{
+  "pmid": "31676790",
+  "title": "Time-invariant working memory representations in the presence of code-morphing in the lateral prefrontal cortex.",
+  "abstract": "Maintenance of working memory is thought to involve the activity of prefrontal neuronal populations with strong recurrent connections. However, it was recently shown that distractors evoke a morphing of the prefrontal population code, even when memories are maintained throughout the delay. How can a morphing code maintain time-invariant memory information? We hypothesized that dynamic prefrontal activity contains time-invariant memory information within a subspace of neural activity. Using an optimization algorithm, we found a low-dimensional subspace that contains time-invariant memory information. This information was reduced in trials where the animals made errors in the task, and was also found in periods of the trial not used to find the subspace. A bump attractor model replicated these properties, and provided predictions that were confirmed in the neural data. Our results suggest that the high-dimensional responses of prefrontal cortex contain subspaces where different types of information can be simultaneously encoded with minimal interference.",
+  "authors": [
+    "Parthasarathy Aishwarya",
+    "Tang Cheng",
+    "Herikstad Roger",
+    "Cheong Loong Fah",
+    "Yen Shih-Cheng",
+    "Libedinsky Camilo"
+  ],
+  "journal": "Nature communications",
+  "year": "2019",
+  "doi": "10.1038/s41467-019-12841-y",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Macaca fascicularis",
+    "Male",
+    "Memory, Short-Term",
+    "Models, Neurological",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Time Factors"
+  ]
+}

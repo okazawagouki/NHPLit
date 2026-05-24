@@ -1,0 +1,15 @@
+{
+  "pmid": "32454557",
+  "title": "A Point Process Model-based Framework Reveals Reinforcement Mechanisms in Striatum during High Frequency STN DBS.",
+  "abstract": "Striatum is a major stage of the motor loop but, despite a pivotal role in the execution of movements, it has been poorly studied thus far under Parkinsonian conditions and Deep Brain Stimulation (DBS). We propose a computational framework to analyze the spiking activity of striatal neurons under several conditions. This framework combines point process models and single unit recordings, and separately evaluates the effects of the spiking history, DBS frequency, and other cells on the neuronal discharge pattern, thus giving a full characterization of non-stationary neuronal dynamics and inter-neuronal dependencies. We applied this framework to 166 striatal neurons collected in a monkey both at rest and during DBS (30-130 Hz). Our analysis was conducted both before and after treatment of the animal with 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP), which evoked Parkinsonian-like motor disorders. We reported that high frequency (≥100 Hz) DBS reduces non-stationary dynamics and inter-neuronal dependencies by regularizing the discharge patterns both in MPTP and normal striatum, while the combination of MPTP and low frequency (30-80 Hz) DBS enhances these features, thus suggesting that pattern regularization in striatum might contribute to the therapeutic effect of high frequency DBS and presumably results from the overlap of feed-forward and feedback activation along the motor loop (reinforcement).",
+  "authors": [
+    "Santaniello Sabato",
+    "Gale John T",
+    "Montgomery Erwin B",
+    "Sarma Sridevi V"
+  ],
+  "journal": "Proceedings of the ... IEEE Conference on Decision & Control. IEEE Conference on Decision & Control",
+  "year": "2012",
+  "doi": "10.1109/cdc.2012.6426098",
+  "mesh": []
+}

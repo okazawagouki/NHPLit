@@ -1,0 +1,29 @@
+{
+  "pmid": "33257539",
+  "title": "A goal-driven modular neural network predicts parietofrontal neural dynamics during grasping.",
+  "abstract": "One of the primary ways we interact with the world is using our hands. In macaques, the circuit spanning the anterior intraparietal area, the hand area of the ventral premotor cortex, and the primary motor cortex is necessary for transforming visual information into grasping movements. However, no comprehensive model exists that links all steps of processing from vision to action. We hypothesized that a recurrent neural network mimicking the modular structure of the anatomical circuit and trained to use visual features of objects to generate the required muscle dynamics used by primates to grasp objects would give insight into the computations of the grasping circuit. Internal activity of modular networks trained with these constraints strongly resembled neural activity recorded from the grasping circuit during grasping and paralleled the similarities between brain regions. Network activity during the different phases of the task could be explained by linear dynamics for maintaining a distributed movement plan across the network in the absence of visual stimulus and then generating the required muscle kinematics based on these initial conditions in a module-specific way. These modular models also outperformed alternative models at explaining neural data, despite the absence of neural data during training, suggesting that the inputs, outputs, and architectural constraints imposed were sufficient for recapitulating processing in the grasping circuit. Finally, targeted lesioning of modules produced deficits similar to those observed in lesion studies of the grasping circuit, providing a potential model for how brain regions may coordinate during the visually guided grasping of objects.",
+  "authors": [
+    "Michaels Jonathan A",
+    "Schaffelhofer Stefan",
+    "Agudelo-Toro Andres",
+    "Scherberger Hansjörg"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2020",
+  "doi": "10.1073/pnas.2005087117",
+  "mesh": [
+    "Animals",
+    "Arm",
+    "Female",
+    "Frontal Lobe",
+    "Hand",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Male",
+    "Models, Animal",
+    "Models, Neurological",
+    "Motor Activity",
+    "Neural Networks, Computer",
+    "Parietal Lobe"
+  ]
+}

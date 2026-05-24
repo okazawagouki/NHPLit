@@ -1,0 +1,33 @@
+{
+  "pmid": "38330939",
+  "title": "Construction of single-cell cross-species chromatin accessibility landscapes with combinatorial-hybridization-based ATAC-seq.",
+  "abstract": "Despite recent advances in single-cell genomics, the lack of maps for single-cell candidate cis-regulatory elements (cCREs) in non-mammal species has limited our exploration of conserved regulatory programs across vertebrates and invertebrates. Here, we developed a combinatorial-hybridization-based method for single-cell assay for transposase-accessible chromatin using sequencing (scATAC-seq) named CH-ATAC-seq, enabling the construction of single-cell accessible chromatin landscapes for zebrafish, Drosophila, and earthworms (Eisenia andrei). By integrating scATAC censuses of humans, monkeys, and mice, we systematically identified 152 distinct main cell types and around 0.8 million cell-type-specific cCREs. Our analysis provided insights into the conservation of neural, muscle, and immune lineages across species, while epithelial cells exhibited a higher organ-origin heterogeneity. Additionally, a large-scale gene regulatory network (GRN) was constructed in four vertebrates by integrating scRNA-seq censuses. Overall, our study provides a valuable resource for comparative epigenomics, identifying the evolutionary conservation and divergence of gene regulation across different species.",
+  "authors": [
+    "Zhang Guodong",
+    "Fu Yuting",
+    "Yang Lei",
+    "Ye Fang",
+    "Zhang Peijing",
+    "Zhang Shuang",
+    "Ma Lifeng",
+    "Li Jiaqi",
+    "Wu Hanyu",
+    "Han Xiaoping",
+    "Wang Jingjing",
+    "Guo Guoji"
+  ],
+  "journal": "Developmental cell",
+  "year": "2024",
+  "doi": "10.1016/j.devcel.2024.01.015",
+  "mesh": [
+    "Humans",
+    "Animals",
+    "Mice",
+    "Chromatin",
+    "Chromatin Immunoprecipitation Sequencing",
+    "Zebrafish",
+    "Gene Expression Regulation",
+    "Gene Regulatory Networks",
+    "Single-Cell Analysis"
+  ]
+}

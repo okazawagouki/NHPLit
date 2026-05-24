@@ -1,0 +1,31 @@
+{
+  "pmid": "32943333",
+  "title": "Deep Learning for Automated Liver Segmentation to Aid in the Study of Infectious Diseases in Nonhuman Primates.",
+  "abstract": "With the advent of deep learning, convolutional neural networks (CNNs) have evolved as an effective method for the automated segmentation of different tissues in medical image analysis. In certain infectious diseases, the liver is one of the more highly affected organs, where an accurate liver segmentation method may play a significant role to improve the diagnosis, quantification, and follow-up. Although several segmentation algorithms have been proposed for liver or liver-tumor segmentation in computed tomography (CT) of human subjects, none of them have been investigated for nonhuman primates (NHPs), where the livers have a wide range in size and morphology. In addition, the unique characteristics of different infections or the heterogeneous immune responses of different NHPs to the infections appear with a diverse radiodensity distribution in the CT imaging. In this study, we investigated three state-of-the-art algorithms; VNet, UNet, and feature pyramid network (FPN) for automated liver segmentation in whole-body CT images of NHPs. The efficacy of the CNNs were evaluated on 82 scans of 37 animals, including pre and post-exposure to different viruses such as Ebola, Marburg, and Lassa. Using a 10-fold cross-validation, the best performance for the segmented liver was provided by the FPN; an average 94.77% Dice score, and 3.6% relative absolute volume difference. Our study demonstrated the efficacy of multiple CNNs, wherein the FPN outperforms VNet and UNet for liver segmentation in infectious disease imaging research.",
+  "authors": [
+    "Reza Syed M S",
+    "Bradley Dara",
+    "Aiosa Nina",
+    "Castro Marcelo",
+    "Lee Ji Hyun",
+    "Lee Byeong-Yeul",
+    "Bennett Richard S",
+    "Hensley Lisa E",
+    "Cong Yu",
+    "Johnson Reed",
+    "Hammoud Dima",
+    "Feuerstein Irwin",
+    "Solomon Jeffrey"
+  ],
+  "journal": "Academic radiology",
+  "year": "2021",
+  "doi": "10.1016/j.acra.2020.08.023",
+  "mesh": [
+    "Animals",
+    "Communicable Diseases",
+    "Deep Learning",
+    "Image Processing, Computer-Assisted",
+    "Liver",
+    "Primates"
+  ]
+}

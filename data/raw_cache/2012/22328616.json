@@ -1,0 +1,37 @@
+{
+  "pmid": "22328616",
+  "title": "Assessing functional connectivity of neural ensembles using directed information.",
+  "abstract": "Neurons in the brain form highly complex networks through synaptic connections. Traditionally, functional connectivity between neurons has been explored using methods such as correlations, which do not contain any notion of directionality. Recently, an information-theoretic approach based on directed information theory has been proposed as a way to infer the direction of influence. However, it is still unclear whether this new approach provides any additional insight beyond conventional correlation analyses. In this paper, we present a modified procedure for estimating directed information and provide a comparison of results obtained using correlation analyses on both simulated and experimental data. Using physiologically realistic simulations, we demonstrate that directed information can outperform correlation in determining connections between neural spike trains while also providing directionality of the relationship, which cannot be assessed using correlation. Secondly, applying our method to rodent and primate data sets, we demonstrate that directed information can accurately estimate the conduction delay in connections between different brain structures. Moreover, directed information reveals connectivity structures that are not captured by correlations. Hence, directed information provides accurate and novel insights into the functional connectivity of neural ensembles that are applicable to data from neurophysiological studies in awake behaving animals.",
+  "authors": [
+    "So Kelvin",
+    "Koralek Aaron C",
+    "Ganguly Karunesh",
+    "Gastpar Michael C",
+    "Carmena Jose M"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2012",
+  "doi": "10.1088/1741-2560/9/2/026004",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Confidence Intervals",
+    "Electrodes, Implanted",
+    "Information Theory",
+    "Linear Models",
+    "Macaca mulatta",
+    "Male",
+    "Neural Conduction",
+    "Neural Networks, Computer",
+    "Neural Pathways",
+    "Neural Prostheses",
+    "Neurons",
+    "Prosthesis Design",
+    "Psychomotor Performance",
+    "Rats",
+    "Rats, Long-Evans",
+    "User-Computer Interface"
+  ]
+}

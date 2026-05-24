@@ -1,0 +1,31 @@
+{
+  "pmid": "25652466",
+  "title": "Divide et impera: subgoaling reduces the complexity of probabilistic inference and problem solving.",
+  "abstract": "It has long been recognized that humans (and possibly other animals) usually break problems down into smaller and more manageable problems using subgoals. Despite a general consensus that subgoaling helps problem solving, it is still unclear what the mechanisms guiding online subgoal selection are during the solution of novel problems for which predefined solutions are not available. Under which conditions does subgoaling lead to optimal behaviour? When is subgoaling better than solving a problem from start to finish? Which is the best number and sequence of subgoals to solve a given problem? How are these subgoals selected during online inference? Here, we present a computational account of subgoaling in problem solving. Following Occam's razor, we propose that good subgoals are those that permit planning solutions and controlling behaviour using less information resources, thus yielding parsimony in inference and control. We implement this principle using approximate probabilistic inference: subgoals are selected using a sampling method that considers the descriptive complexity of the resulting sub-problems. We validate the proposed method using a standard reinforcement learning benchmark (four-rooms scenario) and show that the proposed method requires less inferential steps and permits selecting more compact control programs compared to an equivalent procedure without subgoaling. Furthermore, we show that the proposed method offers a mechanistic explanation of the neuronal dynamics found in the prefrontal cortex of monkeys that solve planning problems. Our computational framework provides a novel integrative perspective on subgoaling and its adaptive advantages for planning, control and learning, such as for example lowering cognitive effort and working memory load.",
+  "authors": [
+    "Maisto Domenico",
+    "Donnarumma Francesco",
+    "Pezzulo Giovanni"
+  ],
+  "journal": "Journal of the Royal Society, Interface",
+  "year": "2015",
+  "doi": "10.1098/rsif.2014.1335",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Brain",
+    "Computer Simulation",
+    "Haplorhini",
+    "Humans",
+    "Internet",
+    "Learning",
+    "Markov Chains",
+    "Monte Carlo Method",
+    "Neurons",
+    "Neurosciences",
+    "Prefrontal Cortex",
+    "Probability",
+    "Problem Solving"
+  ]
+}

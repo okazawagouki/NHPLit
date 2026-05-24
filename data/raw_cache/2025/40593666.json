@@ -1,0 +1,24 @@
+{
+  "pmid": "40593666",
+  "title": "A simplified minimodel of visual cortical neurons.",
+  "abstract": "Artificial neural networks (ANNs) have been shown to predict neural responses in primary visual cortex (V1) better than classical models. However, this performance often comes at the expense of simplicity and interpretability. Here we introduce a new class of simplified ANN models that can predict over 70% of the response variance of V1 neurons. To achieve this high performance, we first recorded a new dataset of over 29,000 neurons responding to up to 65,000 natural image presentations in mouse V1. We found that ANN models required only two convolutional layers for good performance, with a relatively small first layer. We further found that we could make the second layer small without loss of performance, by fitting individual \"minimodels\" to each neuron. Similar simplifications applied for models of monkey V1 neurons. We show that the minimodels can be used to gain insight into how stimulus invariance arises in biological neurons.",
+  "authors": [
+    "Du Fengtong",
+    "Angel Núñez-Ochoa Miguel",
+    "Pachitariu Marius",
+    "Stringer Carsen"
+  ],
+  "journal": "Nature communications",
+  "year": "2025",
+  "doi": "10.1038/s41467-025-61171-9",
+  "mesh": [
+    "Animals",
+    "Neurons",
+    "Mice",
+    "Neural Networks, Computer",
+    "Visual Cortex",
+    "Models, Neurological",
+    "Primary Visual Cortex",
+    "Photic Stimulation"
+  ]
+}

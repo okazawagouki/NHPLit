@@ -1,0 +1,34 @@
+{
+  "pmid": "10479708",
+  "title": "Neuronal interactions improve cortical population coding of movement direction.",
+  "abstract": "Interactions among groups of neurons in primary motor cortex (MI) may convey information about motor behavior. We investigated the information carried by interactions in MI of macaque monkeys using a novel multielectrode array to record simultaneously from 12-16 neurons during an arm-reaching task. Pairs of simultaneously recorded cells revealed significant correlations in their trial-to-trial firing rate variation when estimated over broad (600 msec) time intervals. This covariation was only weakly related to the preferred directions of the individual MI neurons estimated from the firing rate and did not vary significantly with interelectrode distance. Most significantly, in a portion of cell pairs, correlation strength varied with the direction of the arm movement. We evaluated to what extent correlated activity provided additional information about movement direction beyond that available in single neuron firing rate. A multivariate statistical model successfully classified direction from single trials of neural data. However, classification was consistently better when correlations were incorporated into the model as compared to one in which neurons were treated as independent encoders. Information-theoretic analysis demonstrated that interactions caused by correlated activity carry additional information about movement direction beyond that based on the firing rates of independently acting neurons. These results also show that cortical representations incorporating higher order features of population activity would be richer than codes based solely on firing rate, if such information can exploited by the nervous system.",
+  "authors": [
+    "Maynard E M",
+    "Hatsopoulos N G",
+    "Ojakangas C L",
+    "Acuna B D",
+    "Sanes J N",
+    "Normann R A",
+    "Donoghue J P"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Arm",
+    "Cell Communication",
+    "Electrophysiology",
+    "Macaca fascicularis",
+    "Male",
+    "Models, Neurological",
+    "Motor Activity",
+    "Motor Cortex",
+    "Neurons",
+    "Probability",
+    "Psychomotor Performance",
+    "Reaction Time",
+    "Visual Perception"
+  ]
+}

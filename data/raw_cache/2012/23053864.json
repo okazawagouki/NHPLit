@@ -1,0 +1,22 @@
+{
+  "pmid": "23053864",
+  "title": "Estimating summary statistics in the spike-train space.",
+  "abstract": "Estimating sample averages and sample variability is important in analyzing neural spike trains data in computational neuroscience. Current approaches have focused on advancing the use of parametric or semiparametric probability models of the underlying stochastic process, where the probabilistic distribution is characterized at each time point with basic statistics such as mean and variance. To directly capture and analyze the average and variability in the observation space of the spike trains, we focus on a data-driven approach where statistics are defined and computed in a function space in which the spike trains are viewed as individual points. Based on the definition of a \"Euclidean\" metric, a recent paper introduced the notion of the mean of a set of spike trains and developed an efficient algorithm to compute it under some restrictive conditions. Here we extend this study by: (1) developing a novel algorithm for mean computation that is quite general, and (2) introducing a notion of covariance of a set of spike trains. Specifically, we estimate the covariance matrix using the geometry of the warping functions that map the mean spike train to each of the spike trains in the dataset. Results from simulations as well as a neural recording in primate motor cortex indicate that the proposed mean and covariance successfully capture the observed variability in spike trains. In addition, a \"Gaussian-type\" probability model (defined using the estimated mean and covariance) reasonably characterizes the distribution of the spike trains and achieves a desirable performance in the classification of the spike trains.",
+  "authors": [
+    "Wu Wei",
+    "Srivastava Anuj"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2013",
+  "doi": "10.1007/s10827-012-0427-3",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurons",
+    "Time Factors"
+  ]
+}

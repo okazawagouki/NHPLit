@@ -1,0 +1,17 @@
+{
+  "pmid": "39929926",
+  "title": "Digital twin brain simulator for real-time consciousness monitoring and virtual intervention using primate electrocorticogram data.",
+  "abstract": "At the forefront of bridging computational brain modeling with personalized medicine, this study introduces a novel, real-time, electrocorticogram (ECoG) simulator, based on the digital twin brain concept. Utilizing advanced data assimilation techniques, specifically a Variational Bayesian Recurrent Neural Network model with hierarchical latent units, the simulator dynamically predicts ECoG signals reflecting real-time brain latent states. By assimilating broad ECoG signals from macaque monkeys across awake and anesthetized conditions, the model successfully updated its latent states in real-time, enhancing precision of ECoG signal simulations. Behind successful data assimilation, self-organization of latent states in the model was observed, reflecting brain states and individuality. This self-organization facilitated simulation of virtual drug administration and uncovered functional networks underlying changes in brain function during anesthesia. These results show that the proposed model can simulate brain signals in real-time with high accuracy and is also useful for revealing underlying information processing dynamics.",
+  "authors": [
+    "Takahashi Yuta",
+    "Idei Hayato",
+    "Komatsu Misako",
+    "Tani Jun",
+    "Tomita Hiroaki",
+    "Yamashita Yuichi"
+  ],
+  "journal": "NPJ digital medicine",
+  "year": "2025",
+  "doi": "10.1038/s41746-025-01444-1",
+  "mesh": []
+}

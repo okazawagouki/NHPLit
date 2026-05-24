@@ -1,0 +1,31 @@
+{
+  "pmid": "22042443",
+  "title": "Redundant information encoding in primary motor cortex during natural and prosthetic motor control.",
+  "abstract": "Redundant encoding of information facilitates reliable distributed information processing. To explore this hypothesis in the motor system, we applied concepts from information theory to quantify the redundancy of movement-related information encoded in the macaque primary motor cortex (M1) during natural and neuroprosthetic control. Two macaque monkeys were trained to perform a delay center-out reaching task controlling a computer cursor under natural arm movement (manual control, 'MC'), and using a brain-machine interface (BMI) via volitional control of neural ensemble activity (brain control, 'BC'). During MC, we found neurons in contralateral M1 to contain higher and more redundant information about target direction than ipsilateral M1 neurons, consistent with the laterality of movement control. During BC, we found that the M1 neurons directly incorporated into the BMI ('direct' neurons) contained the highest and most redundant target information compared to neurons that were not incorporated into the BMI ('indirect' neurons). This effect was even more significant when comparing to M1 neurons of the opposite hemisphere. Interestingly, when we retrained the BMI to use ipsilateral M1 activity, we found that these neurons were more redundant and contained higher information than contralateral M1 neurons, even though ensembles from this hemisphere were previously less redundant during natural arm movement. These results indicate that ensembles most associated to movement contain highest redundancy and information encoding, which suggests a role for redundancy in proficient natural and prosthetic motor control.",
+  "authors": [
+    "So Kelvin",
+    "Ganguly Karunesh",
+    "Jimenez Jessica",
+    "Gastpar Michael C",
+    "Carmena Jose M"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2012",
+  "doi": "10.1007/s10827-011-0369-1",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Arm",
+    "Discriminant Analysis",
+    "Electromyography",
+    "Functional Laterality",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Neural Prostheses",
+    "Neurons",
+    "Psychomotor Performance",
+    "User-Computer Interface"
+  ]
+}

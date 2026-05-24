@@ -1,0 +1,21 @@
+{
+  "pmid": "42114557",
+  "title": "Dual-VCT: A dual-branch VMD-CNN-Transformer model for local field potentials decoding.",
+  "abstract": "OBJECTIVE: Local field potential (LFP) decoding is critical for the clinical translation of intracortical brain-machine interfaces (iBMIs), yet existing decoding methods are limited by three key bottlenecks: insufficient single-scale feature utilization, inefficient multi-scale feature fusion, and poor robustness across task paradigms and chronic recording conditions. APPROACH: To address these challenges, we propose Dual-VCT, a novel dual-branch Variational Mode Decomposition-Convolutional Neural Network-Transformer (VMD-CNN-Transformer) model for end-to-end LFP decoding. The core innovation of Dual-VCT is its symmetric time-frequency parallel architecture with independent VMD modules embedded in both branches: a temporal branch decomposes local motor potential (LMP) signals via VMD to capture motion-related instantaneous neural activity, while a frequency-domain branch leverages VMD to isolate task-relevant spectral power components, with a hierarchical fusion pipeline enabling robust cross-scale feature integration. MAIN RESULTS: Validated in non-human primate experiments, Dual-VCT achieved a classification accuracy of 0.930±0.023 in the 3-class spatial grasping task, and a Pearson correlation coefficient (CC) of 0.910±0.023 in the finger point-to-point tracking task. It significantly outperformed all comparative dual-branch methods under identical experimental conditions (p < 0.05), delivered a 4% performance gain over single-feature decoding, and exhibited strong cross-task robustness and cross-day stability. Ablation experiments confirmed the core contribution of the dual-branch VMD design. SIGNIFICANCE: This work provides a high-performance structured paradigm for LFP decoding, with a clinically oriented design that supports the long-term stability of chronic iBMI systems.",
+  "authors": [
+    "Li Xiao",
+    "Zeng Yu",
+    "Zhou Yongkang",
+    "An Songyang",
+    "Wang Jun",
+    "Huang Yizhe",
+    "Feng Xi",
+    "Li Wei",
+    "Jia Yanfei",
+    "Zhang Peng"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2026",
+  "doi": "10.1088/1741-2552/ae6bf1",
+  "mesh": []
+}

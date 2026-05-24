@@ -1,0 +1,24 @@
+{
+  "pmid": "22422999",
+  "title": "The relationship between voltage-sensitive dye imaging signals and spiking activity of neural populations in primate V1.",
+  "abstract": "Voltage-sensitive dye imaging (VSDI) is a powerful technique for measuring neural population responses from a large cortical region simultaneously with millisecond temporal resolution and columnar spatial resolution. However, the relationship between the average VSDI signal and the average spiking activity of neural populations is largely unknown. To better understand this relationship, we compared visual responses measured from V1 of behaving monkeys using VSDI and single-unit electrophysiology. We found large and systematic differences between position and orientation tuning properties obtained with these two techniques. We then determined that a simple computational model could explain these tuning differences. This model, together with our experimental results, allowed us to estimate the quantitative relationship between the average VSDI signal and local spiking activity. We found that this relationship is similar to the previously reported nonlinear relationship between average membrane potential and spike rate in single V1 neurons, suggesting that VSDI signals are dominated by subthreshold synaptic activity. This model, together with the VSDI measured maps for spatial position (retinotopy) and orientation, also allowed us to estimate the spatial integration area over which neural responses contribute to the VSDI signal at a given location. We found that the VSDI-integration area is consistent with a Gaussian envelope with a space constant of ∼230 μm. Finally, we show how this model and estimated parameters can be used to predict the pattern of population responses at the level of spiking activity from VSDI responses.",
+  "authors": [
+    "Chen Yuzhi",
+    "Palmer Chris R",
+    "Seidemann Eyal"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2012",
+  "doi": "10.1152/jn.00977.2011",
+  "mesh": [
+    "Animals",
+    "Evoked Potentials, Visual",
+    "Macaca mulatta",
+    "Membrane Potentials",
+    "Models, Neurological",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Visual Cortex",
+    "Voltage-Sensitive Dye Imaging"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "16916103",
+  "title": "A method for detection and classification of events in neural activity.",
+  "abstract": "We present a method for the real time prediction of punctuate events in neural activity, based on the time-frequency spectrum of the signal, applicable both to continuous processes like local field potentials (LFPs) as well as to spike trains. We test it on recordings of LFP and spiking activity acquired previously from the lateral intraparietal area (LIP) of macaque monkeys performing a memory-saccade task. In contrast to earlier work, where trials with known start times were classified, our method detects and classifies trials directly from the data. It provides a means to quantitatively compare and contrast the content of LFP signals and spike trains: we find that the detector performance based on the LFP matches the performance based on spike rates. The method should find application in the development of neural prosthetics based on the LFP signal. Our approach uses a new feature vector, which we call the 2d cepstrum.",
+  "authors": [
+    "Bokil Hemant S",
+    "Pesaran Bijan",
+    "Andersen Richard A",
+    "Mitra Partha P"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artificial Intelligence",
+    "Cluster Analysis",
+    "Computer Simulation",
+    "Electroencephalography",
+    "Evoked Potentials, Visual",
+    "Macaca",
+    "Memory",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Parietal Lobe",
+    "Pattern Recognition, Automated",
+    "Saccades"
+  ]
+}

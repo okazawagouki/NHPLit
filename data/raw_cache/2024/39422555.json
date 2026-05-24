@@ -1,0 +1,27 @@
+{
+  "pmid": "39422555",
+  "title": "Direct observation of the neural computations underlying a single decision.",
+  "abstract": "Neurobiological investigations of perceptual decision-making have furnished the first glimpse of a flexible cognitive process at the level of single neurons. Neurons in the parietal and prefrontal cortex are thought to represent the accumulation of noisy evidence, acquired over time, leading to a decision. Neural recordings averaged over many decisions have provided support for the deterministic rise in activity to a termination bound. Critically, it is the unobserved stochastic component that is thought to confer variability in both choice and decision time. Here, we elucidate this drift-diffusion signal on individual decisions. We recorded simultaneously from hundreds of neurons in the lateral intraparietal cortex of monkeys while they made decisions about the direction of random dot motion. We show that a single scalar quantity, derived from the weighted sum of the population activity, represents a combination of deterministic drift and stochastic diffusion. Moreover, we provide direct support for the hypothesis that this drift-diffusion signal approximates the quantity responsible for the variability in choice and reaction times. The population-derived signals rely on a small subset of neurons with response fields that overlap the choice targets. These neurons represent the integral of noisy evidence. Another subset of direction-selective neurons with response fields that overlap the motion stimulus appear to represent the integrand. This parsimonious architecture would escape detection by state-space analyses, absent a clear hypothesis.",
+  "authors": [
+    "Steinemann Natalie",
+    "Stine Gabriel M",
+    "Trautmann Eric",
+    "Zylberberg Ariel",
+    "Wolpert Daniel M",
+    "Shadlen Michael N"
+  ],
+  "journal": "eLife",
+  "year": "2024",
+  "doi": "10.7554/eLife.90859",
+  "mesh": [
+    "Animals",
+    "Decision Making",
+    "Neurons",
+    "Parietal Lobe",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motion Perception",
+    "Male",
+    "Reaction Time"
+  ]
+}

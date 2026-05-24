@@ -1,0 +1,14 @@
+{
+  "pmid": "40800821",
+  "title": "Burst estimation through atomic decomposition (BEAD): A toolbox to find oscillatory bursts in brain signals.",
+  "abstract": "Recent studies have shown that brain signals often show oscillatory bursts of short durations, which have been linked to various aspects of computation and behavior. Traditional methods often use direct spectral estimators to estimate the power of brain signals in spectral and temporal domains, from which bursts are identified. However, direct spectral estimators are known to be noisy, such that even stable oscillations may appear bursty. We have previously shown that the Matching Pursuit (MP) algorithm, which uses a large overcomplete dictionary of basis functions (called \"atoms\") to decompose the signal directly in the time domain, partly addresses this concern and robustly finds long bursts in synthetic as well as real data. However, MP is a greedy algorithm that can give non-optimal solutions and requires a large-sized dictionary. To address these concerns, we extended two other algorithms-orthogonal MP (OMP) and OMP using Multiscale Adaptive Gabor Expansion (OMP-MAGE), to perform burst duration estimation. We also develop a novel algorithm, called OMP using Gabor Expansion with Atom Reassignment (OMP-GEAR). These algorithms overcome the limitations of MP and can work with a significantly smaller dictionary size. We find that, in synthetic data, OMP, OMP-MAGE, and OMP-GEAR converge faster than MP. Also, OMP-MAGE and OMP-GEAR outperform both MP and OMP when the dictionary size is small. Finally, OMP-GEAR significantly outperforms OMP-MAGE when the bursts are overlapping. Importantly, the burst durations obtained using MP and OMP with a very large-sized dictionary are comparable with that obtained using OMP-MAGE with a much smaller-sized dictionary in real data obtained from two monkeys passively viewing static gratings which induced gamma bursts in the primary visual cortex. OMP-GEAR yields slightly smaller burst durations, but all the estimated burst durations are still significantly larger than the duration estimated using traditional methods. These results suggest that gamma bursts are longer than previously reported. Raw data from two monkeys, as well as codes for both traditional and new methods, are publicly available as part of this toolbox.",
+  "authors": [
+    "Anand Abhishek",
+    "Murthy Chandra",
+    "Ray Supratim"
+  ],
+  "journal": "Imaging neuroscience (Cambridge, Mass.)",
+  "year": "2025",
+  "doi": "10.1162/IMAG.a.86",
+  "mesh": []
+}

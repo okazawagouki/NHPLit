@@ -1,0 +1,28 @@
+{
+  "pmid": "25274822",
+  "title": "Structured synaptic inhibition has a critical role in multiple-choice motion-discrimination tasks.",
+  "abstract": "Neural network models have been constructed to explore the underlying neural mechanisms for decision-making in multiple-choice motion-discrimination tasks. Despite great progress made, several key experimental observations have not been interpreted. In contrast to homogeneous connectivity between pyramidal cells and interneurons in previous models, here their connectivity is totally structured in a continuous recurrent network model. Specifically, we assume two types of inhibitory connectivity: opposite-feature and similar-feature inhibition, representing that the connectivity strength has a maximum between neural pairs with opposite and identical preferred directions, respectively. With a common parameter set, the model accounted for a wide variety of physiological and behavioral data from monkey experiments, including those that previous models failed to reproduce. We found that the opposite-feature inhibition endows the decision-making circuit with an elimination strategy, which effectively reduces the number of choice alternatives for inspection to speed up the decision process at the cost of decision accuracy. Conversely, the similar-feature inhibition markedly enhances the ability of the network to make a choice among multiple options and improves the accuracy of decisions, while slowing down the decision process. A simplified mean-field model was also presented to analytically characterize the effect of structured inhibition on fine discrimination. We made a testable prediction: only the combination of cross-feature and similar-feature inhibition enables the circuit to make a categorical choice among 12 alternatives. Together, the current work highlights the importance of structured synaptic inhibition in multiple-choice decision-making processes and sheds light on the neural mechanisms for visual motion perception.",
+  "authors": [
+    "Xue Cheng",
+    "Liu Feng"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2014",
+  "doi": "10.1523/JNEUROSCI.0001-14.2014",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Choice Behavior",
+    "Computer Simulation",
+    "Humans",
+    "Models, Neurological",
+    "Motion Perception",
+    "Nerve Net",
+    "Neural Inhibition",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Reaction Time",
+    "Synapses"
+  ]
+}

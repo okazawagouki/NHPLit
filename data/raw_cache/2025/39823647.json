@@ -1,0 +1,25 @@
+{
+  "pmid": "39823647",
+  "title": "Unsupervised, piecewise linear decoding enables an accurate prediction of muscle activity in a multi-task brain computer interface.",
+  "abstract": "<i>Objective.</i>Creating an intracortical brain computer interface (iBCI) capable of seamless transitions between tasks and contexts would greatly enhance user experience. However, the nonlinearity in neural activity presents challenges to computing a global iBCI decoder. We aimed to develop a method that differs from a globally optimized decoder to address this issue.<i>Approach.</i>We devised an unsupervised approach that relies on the structure of a low-dimensional neural manifold to implement a piecewise linear decoder. We created a distinctive dataset in which monkeys performed a diverse set of tasks, some trained, others innate, while we recorded neural signals from the motor cortex (M1) and electromyographs (EMGs) from upper limb muscles. We used both linear and nonlinear dimensionality reduction techniques to discover neural manifolds and applied unsupervised algorithms to identify clusters within those spaces. Finally, we fit a linear decoder of EMG for each cluster. A specific decoder was activated corresponding to the cluster each new neural data point belonged to.<i>Main results.</i>We found clusters in the neural manifolds corresponding with the different tasks or task sub-phases. The performance of piecewise decoding improved as the number of clusters increased and plateaued gradually. With only two clusters it already outperformed a global linear decoder, and unexpectedly, it outperformed even a global recurrent neural network decoder with 10-12 clusters.<i>Significance.</i>This study introduced a computationally lightweight solution for creating iBCI decoders that can function effectively across a broad range of tasks. EMG decoding is particularly challenging, as muscle activity is used, under varying contexts, to control interaction forces and limb stiffness, as well as motion. The results suggest that a piecewise linear decoder can provide a good approximation to the nonlinearity between neural activity and motor outputs, a result of our increased understanding of the structure of neural manifolds in motor cortex.",
+  "authors": [
+    "Ma Xuan",
+    "Rizzoglio Fabio",
+    "Bodkin Kevin L",
+    "Miller Lee E"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2025",
+  "doi": "10.1088/1741-2552/adab93",
+  "mesh": [
+    "Brain-Computer Interfaces",
+    "Motor Cortex",
+    "Animals",
+    "Electromyography",
+    "Muscle, Skeletal",
+    "Macaca mulatta",
+    "Male",
+    "Algorithms",
+    "Unsupervised Machine Learning"
+  ]
+}

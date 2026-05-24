@@ -1,0 +1,21 @@
+{
+  "pmid": "35617370",
+  "title": "Performance-gated deliberation: A context-adapted strategy in which urgency is opportunity cost.",
+  "abstract": "Finding the right amount of deliberation, between insufficient and excessive, is a hard decision making problem that depends on the value we place on our time. Average-reward, putatively encoded by tonic dopamine, serves in existing reinforcement learning theory as the opportunity cost of time, including deliberation time. Importantly, this cost can itself vary with the environmental context and is not trivial to estimate. Here, we propose how the opportunity cost of deliberation can be estimated adaptively on multiple timescales to account for non-stationary contextual factors. We use it in a simple decision-making heuristic based on average-reward reinforcement learning (AR-RL) that we call Performance-Gated Deliberation (PGD). We propose PGD as a strategy used by animals wherein deliberation cost is implemented directly as urgency, a previously characterized neural signal effectively controlling the speed of the decision-making process. We show PGD outperforms AR-RL solutions in explaining behaviour and urgency of non-human primates in a context-varying random walk prediction task and is consistent with relative performance and urgency in a context-varying random dot motion task. We make readily testable predictions for both neural activity and behaviour.",
+  "authors": [
+    "Puelma Touzel Maximilian",
+    "Cisek Paul",
+    "Lajoie Guillaume"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2022",
+  "doi": "10.1371/journal.pcbi.1010080",
+  "mesh": [
+    "Animals",
+    "Decision Making",
+    "Dopamine",
+    "Reinforcement, Psychology",
+    "Reward",
+    "Time Factors"
+  ]
+}

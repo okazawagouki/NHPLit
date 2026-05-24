@@ -1,0 +1,14 @@
+{
+  "pmid": "26941617",
+  "title": "The Dorsal Visual System Predicts Future and Remembers Past Eye Position.",
+  "abstract": "Eye movements are essential to primate vision but introduce potentially disruptive displacements of the retinal image. To maintain stable vision, the brain is thought to rely on neurons that carry both visual signals and information about the current direction of gaze in their firing rates. We have shown previously that these neurons provide an accurate representation of eye position during fixation, but whether they are updated fast enough during saccadic eye movements to support real-time vision remains controversial. Here we show that not only do these neurons carry a fast and accurate eye-position signal, but also that they support in parallel a range of time-lagged variants, including predictive and post dictive signals. We recorded extracellular activity in four areas of the macaque dorsal visual cortex during a saccade task, including the lateral and ventral intraparietal areas (LIP, VIP), and the middle temporal (MT) and medial superior temporal (MST) areas. As reported previously, neurons showed tonic eye-position-related activity during fixation. In addition, they showed a variety of transient changes in activity around the time of saccades, including relative suppression, enhancement, and pre-saccadic bursts for one saccade direction over another. We show that a hypothetical neuron that pools this rich population activity through a weighted sum can produce an output that mimics the true spatiotemporal dynamics of the eye. Further, with different pooling weights, this downstream eye position signal (EPS) could be updated long before (<100 ms) or after (<200 ms) an eye movement. The results suggest a flexible coding scheme in which downstream computations have access to past, current, and future eye positions simultaneously, providing a basis for visual stability and delay-free visually-guided behavior.",
+  "authors": [
+    "Morris Adam P",
+    "Bremmer Frank",
+    "Krekelberg Bart"
+  ],
+  "journal": "Frontiers in systems neuroscience",
+  "year": "2016",
+  "doi": "10.3389/fnsys.2016.00009",
+  "mesh": []
+}

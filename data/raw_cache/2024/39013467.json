@@ -1,0 +1,35 @@
+{
+  "pmid": "39013467",
+  "title": "Propofol anesthesia destabilizes neural dynamics across cortex.",
+  "abstract": "Every day, hundreds of thousands of people undergo general anesthesia. One hypothesis is that anesthesia disrupts dynamic stability-the ability of the brain to balance excitability with the need to be stable and controllable. To test this hypothesis, we developed a method for quantifying changes in population-level dynamic stability in complex systems: delayed linear analysis for stability estimation (DeLASE). Propofol was used to transition animals between the awake state and anesthetized unconsciousness. DeLASE was applied to macaque cortex local field potentials (LFPs). We found that neural dynamics were more unstable in unconsciousness compared with the awake state. Cortical trajectories mirrored predictions from destabilized linear systems. We mimicked the effect of propofol in simulated neural networks by increasing inhibitory tone. This in turn destabilized the networks, as observed in the neural data. Our results suggest that anesthesia disrupts dynamical stability that is required for consciousness.",
+  "authors": [
+    "Eisen Adam J",
+    "Kozachkov Leo",
+    "Bastos André M",
+    "Donoghue Jacob A",
+    "Mahnke Meredith K",
+    "Brincat Scott L",
+    "Chandra Sarthak",
+    "Tauber John",
+    "Brown Emery N",
+    "Fiete Ila R",
+    "Miller Earl K"
+  ],
+  "journal": "Neuron",
+  "year": "2024",
+  "doi": "10.1016/j.neuron.2024.06.011",
+  "mesh": [
+    "Propofol",
+    "Animals",
+    "Cerebral Cortex",
+    "Anesthetics, Intravenous",
+    "Macaca mulatta",
+    "Consciousness",
+    "Male",
+    "Unconsciousness",
+    "Wakefulness",
+    "Nerve Net",
+    "Neurons",
+    "Models, Neurological"
+  ]
+}

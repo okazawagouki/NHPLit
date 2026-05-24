@@ -1,0 +1,37 @@
+{
+  "pmid": "28634624",
+  "title": "Population-averaged macaque brain atlas with high-resolution ex vivo DTI integrated into in vivo space.",
+  "abstract": "Animal models of the rhesus macaque (Macaca mulatta), the most widely used nonhuman primate, have been irreplaceable in neurobiological studies. However, a population-averaged macaque brain diffusion tensor imaging (DTI) atlas, including comprehensive gray and white matter labeling as well as bony and facial landmarks guiding invasive experimental procedures, is not available. The macaque white matter tract pathways and microstructures have been rarely recorded. Here, we established a population-averaged macaque brain atlas with high-resolution ex vivo DTI integrated into in vivo space incorporating bony and facial landmarks, and delineated microstructures and three-dimensional pathways of major white matter tracts in vivo MRI/DTI and ex vivo (postmortem) DTI of ten rhesus macaque brains were acquired. Single-subject macaque brain DTI template was obtained by transforming the postmortem high-resolution DTI data into in vivo space. Ex vivo DTI of ten macaque brains was then averaged in the in vivo single-subject template space to generate population-averaged macaque brain DTI atlas. The white matter tracts were traced with DTI-based tractography. One hundred and eighteen neural structures including all cortical gyri, white matter tracts and subcortical nuclei, were labeled manually on population-averaged DTI-derived maps. The in vivo microstructural metrics of fractional anisotropy, axial, radial and mean diffusivity of the traced white matter tracts were measured. Population-averaged digital atlas integrated into in vivo space can be used to label the experimental macaque brain automatically. Bony and facial landmarks will be available for guiding invasive procedures. The DTI metric measurements offer unique insights into heterogeneous microstructural profiles of different white matter tracts.",
+  "authors": [
+    "Feng Lei",
+    "Jeon Tina",
+    "Yu Qiaowen",
+    "Ouyang Minhui",
+    "Peng Qinmu",
+    "Mishra Virendra",
+    "Pletikos Mihovil",
+    "Sestan Nenad",
+    "Miller Michael I",
+    "Mori Susumu",
+    "Hsiao Steven",
+    "Liu Shuwei",
+    "Huang Hao"
+  ],
+  "journal": "Brain structure & function",
+  "year": "2017",
+  "doi": "10.1007/s00429-017-1463-6",
+  "mesh": [
+    "Animals",
+    "Anisotropy",
+    "Autopsy",
+    "Brain",
+    "Brain Mapping",
+    "Diffusion Tensor Imaging",
+    "Female",
+    "Image Processing, Computer-Assisted",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "White Matter"
+  ]
+}

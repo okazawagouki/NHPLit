@@ -1,0 +1,24 @@
+{
+  "pmid": "33108289",
+  "title": "Feature-Selection-Based Transfer Learning for Intracortical Brain-Machine Interface Decoding.",
+  "abstract": "The time spent in collecting current samples for decoder calibration and the computational burden brought by high-dimensional neural recordings remain two challenging problems in intracortical brain-machine interfaces (iBMIs). Decoder calibration optimization approaches have been proposed, and neuron selection methods have been used to reduce computational burden. However, few methods can solve both problems simultaneously. In this article, we present a symmetrical-uncertainty-based transfer learning (SUTL) method that combines transfer learning with feature selection. The proposed method uses symmetrical uncertainty to quantitatively measure three indices for feature selection: stationarity, importance and redundancy of the feature. By selecting the stationary features, the disparities between the historical data and current data can be diminished, and the historical data can be effectively used for decoder calibration, thereby reducing the demand for current data. After selecting the important and non-redundant features, only the channels corresponding to them need to work; thus, the computational burden is reduced. The proposed method was tested on neural data recorded from two rhesus macaques to decode the reaching position or grasping gesture. The results showed that the SUTL method diminished the disparities between the historical data and current data, while achieving superior decoding performance with the needs of only ten current samples each category, less than 10% the number of features and 30% the number of neural recording channels. Additionally, unlike most studies on iBMIs, feature selection was implemented instead of neuron selection, and the average decoding accuracy achieved by the former was 6.6% higher.",
+  "authors": [
+    "Zhang Peng",
+    "Li Wei",
+    "Ma Xuan",
+    "He Jiping",
+    "Huang Jian",
+    "Li Qiang"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2021",
+  "doi": "10.1109/TNSRE.2020.3034234",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Machine Learning",
+    "Neurons"
+  ]
+}

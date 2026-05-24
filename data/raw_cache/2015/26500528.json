@@ -1,0 +1,13 @@
+{
+  "pmid": "26500528",
+  "title": "Unsupervised invariance learning of transformation sequences in a model of object recognition yields selectivity for non-accidental properties.",
+  "abstract": "Non-accidental properties (NAPs) correspond to image properties that are invariant to changes in viewpoint (e.g., straight vs. curved contours) and are distinguished from metric properties (MPs) that can change continuously with in-depth object rotation (e.g., aspect ratio, degree of curvature, etc.). Behavioral and electrophysiological studies of shape processing have demonstrated greater sensitivity to differences in NAPs than in MPs. However, previous work has shown that such sensitivity is lacking in multiple-views models of object recognition such as Hmax. These models typically assume that object processing is based on populations of view-tuned neurons with distributed symmetrical bell-shaped tuning that are modulated at least as much by differences in MPs as in NAPs. Here, we test the hypothesis that unsupervised learning of invariances to object transformations may increase the sensitivity to differences in NAPs vs. MPs in Hmax. We collected a database of video sequences with objects slowly rotating in-depth in an attempt to mimic sequences viewed during object manipulation by young children during early developmental stages. We show that unsupervised learning yields shape-tuning in higher stages with greater sensitivity to differences in NAPs vs. MPs in agreement with monkey IT data. Together, these results suggest that greater NAP sensitivity may arise from experiencing different in-depth rotations of objects.",
+  "authors": [
+    "Parker Sarah M",
+    "Serre Thomas"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2015",
+  "doi": "10.3389/fncom.2015.00115",
+  "mesh": []
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "33234544",
+  "title": "Correspondence between Monkey Visual Cortices and Layers of a Saliency Map Model Based on a Deep Convolutional Neural Network for Representations of Natural Images.",
+  "abstract": "Attentional selection is a function that allocates the brain's computational resources to the most important part of a visual scene at a specific moment. Saliency map models have been proposed as computational models to predict attentional selection within a spatial location. Recent saliency map models based on deep convolutional neural networks (DCNNs) exhibit the highest performance for predicting the location of attentional selection and human gaze, which reflect overt attention. Trained DCNNs potentially provide insight into the perceptual mechanisms of biological visual systems. However, the relationship between artificial and neural representations used for determining attentional selection and gaze location remains unknown. To understand the mechanism underlying saliency map models based on DCNNs and the neural system of attentional selection, we investigated the correspondence between layers of a DCNN saliency map model and monkey visual areas for natural image representations. We compared the characteristics of the responses in each layer of the model with those of the neural representation in the primary visual (V1), intermediate visual (V4), and inferior temporal (IT) cortices. Regardless of the DCNN layer level, the characteristics of the responses were consistent with that of the neural representation in V1. We found marked peaks of correspondence between V1 and the early level and higher-intermediate-level layers of the model. These results provide insight into the mechanism of the trained DCNN saliency map model and suggest that the neural representations in V1 play an important role in computing the saliency that mediates attentional selection, which supports the V1 saliency hypothesis.",
+  "authors": [
+    "Wagatsuma Nobuhiko",
+    "Hidaka Akinori",
+    "Tamura Hiroshi"
+  ],
+  "journal": "eNeuro",
+  "year": "2021",
+  "doi": "10.1523/ENEURO.0200-20.2020",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Haplorhini",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Visual Cortex"
+  ]
+}

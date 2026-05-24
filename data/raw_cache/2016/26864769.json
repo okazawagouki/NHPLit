@@ -1,0 +1,24 @@
+{
+  "pmid": "26864769",
+  "title": "Neural control of visual search by frontal eye field: chronometry of neural events and race model processes.",
+  "abstract": "We investigated the chronometry of neural processes in frontal eye fields of macaques performing double-step saccade visual search in which a conspicuous target changes location in the array on a random fraction of trials. Durations of computational processes producing a saccade to original and final target locations (GO1 and GO2, respectively) are derived from response times (RT) on different types of trials. In these data, GO2 tended to be faster than GO1, demonstrating that inhibition of the initial saccade did not delay production of the compensated saccade. Here, we measured the dynamics of visual, visuomovement, and movement neuron activity in relation to these processes by examining trials when neurons instantiated either process. First, we verified that saccades were initiated when the discharge rate of movement neurons reached a threshold that was invariant across RT and trial type. Second, the time when visual and visuomovement neurons selected the target and when movement neuron activity began to accumulate were not significantly different across trial type. Third, the interval from the beginning of accumulation to threshold of movement-related activity was significantly shorter when instantiating the GO2 relative to the GO1 process. Differences observed between monkeys are discussed. Fourth, random variation of RT was accounted for to some extent by random variation in both the onset and duration of selective activity of each neuron type but mostly by variation of movement neuron accumulation duration. These findings offer new insights into the sources of control of target selection and saccade production in dynamic environments.",
+  "authors": [
+    "Nelson Matthew J",
+    "Murthy Aditya",
+    "Schall Jeffrey D"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2016",
+  "doi": "10.1152/jn.01023.2014",
+  "mesh": [
+    "Animals",
+    "Evoked Potentials, Visual",
+    "Frontal Lobe",
+    "Macaca mulatta",
+    "Macaca radiata",
+    "Neurons",
+    "Reaction Time",
+    "Saccades",
+    "Visual Fields"
+  ]
+}

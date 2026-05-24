@@ -1,0 +1,26 @@
+{
+  "pmid": "26439530",
+  "title": "A Large-Scale Circuit Mechanism for Hierarchical Dynamical Processing in the Primate Cortex.",
+  "abstract": "We developed a large-scale dynamical model of the macaque neocortex, which is based on recently acquired directed- and weighted-connectivity data from tract-tracing experiments, and which incorporates heterogeneity across areas. A hierarchy of timescales naturally emerges from this system: sensory areas show brief, transient responses to input (appropriate for sensory processing), whereas association areas integrate inputs over time and exhibit persistent activity (suitable for decision-making and working memory). The model displays multiple temporal hierarchies, as evidenced by contrasting responses to visual versus somatosensory stimulation. Moreover, slower prefrontal and temporal areas have a disproportionate impact on global brain dynamics. These findings establish a circuit mechanism for \"temporal receptive windows\" that are progressively enlarged along the cortical hierarchy, suggest an extension of time integration in decision making from local to large circuits, and should prompt a re-evaluation of the analysis of functional connectivity (measured by fMRI or electroencephalography/magnetoencephalography) by taking into account inter-areal heterogeneity.",
+  "authors": [
+    "Chaudhuri Rishidev",
+    "Knoblauch Kenneth",
+    "Gariel Marie-Alice",
+    "Kennedy Henry",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Neuron",
+  "year": "2015",
+  "doi": "10.1016/j.neuron.2015.09.008",
+  "mesh": [
+    "Animals",
+    "Electroencephalography",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "Magnetoencephalography",
+    "Models, Neurological",
+    "Neocortex",
+    "Nerve Net",
+    "Primates"
+  ]
+}

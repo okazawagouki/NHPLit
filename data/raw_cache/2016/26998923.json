@@ -1,0 +1,24 @@
+{
+  "pmid": "26998923",
+  "title": "View-Invariant Visuomotor Processing in Computational Mirror Neuron System for Humanoid.",
+  "abstract": "Mirror neurons are visuo-motor neurons found in primates and thought to be significant for imitation learning. The proposition that mirror neurons result from associative learning while the neonate observes his own actions has received noteworthy empirical support. Self-exploration is regarded as a procedure by which infants become perceptually observant to their own body and engage in a perceptual communication with themselves. We assume that crude sense of self is the prerequisite for social interaction. However, the contribution of mirror neurons in encoding the perspective from which the motor acts of others are seen have not been addressed in relation to humanoid robots. In this paper we present a computational model for development of mirror neuron system for humanoid based on the hypothesis that infants acquire MNS by sensorimotor associative learning through self-exploration capable of sustaining early imitation skills. The purpose of our proposed model is to take into account the view-dependency of neurons as a probable outcome of the associative connectivity between motor and visual information. In our experiment, a humanoid robot stands in front of a mirror (represented through self-image using camera) in order to obtain the associative relationship between his own motor generated actions and his own visual body-image. In the learning process the network first forms mapping from each motor representation onto visual representation from the self-exploratory perspective. Afterwards, the representation of the motor commands is learned to be associated with all possible visual perspectives. The complete architecture was evaluated by simulation experiments performed on DARwIn-OP humanoid robot.",
+  "authors": [
+    "Dawood Farhan",
+    "Loo Chu Kiong"
+  ],
+  "journal": "PloS one",
+  "year": "2016",
+  "doi": "10.1371/journal.pone.0152003",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Learning",
+    "Macaca mulatta",
+    "Markov Chains",
+    "Mirror Neurons",
+    "Motion",
+    "Motor Cortex",
+    "Motor Neurons"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "23261658",
+  "title": "pyElectrode: an open-source tool using structural MRI for electrode positioning and neuron mapping.",
+  "abstract": "Neurophysiologists want to place the tip of an electrode in a specific area of the brain. The coordinates of this area can be obtained from standard stereotaxic atlases. However, individual brains may not align with the atlas exactly. Additionally, for chronic recordings, electrodes are placed through a chamber attached to the animal's skull. Thus, the user wants to know where the area of interest is in chamber coordinates, not stereotaxic coordinates. After the chamber has been attached an MRI is often made. This assists in electrode placement, as the location of a target relative to the chamber can be determined based on the atlas. However, doing this in practice requires rough estimation or cumbersome calculations. pyElectrode provides a graphical display and performs calculations necessary to convert between stereotaxic and chamber coordinates, thus facilitating MR-based targeting from an implanted chamber. It also allows the experimenter to visualize recording or stimulation sites during experiments. Finally, it can display and output those sites on an MRI slice background in a format suitable for publication.",
+  "authors": [
+    "Daye Pierre M",
+    "Monosov Ilya E",
+    "Hikosaka Okihide",
+    "Leopold David A",
+    "Optican Lance M"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2013",
+  "doi": "10.1016/j.jneumeth.2012.12.012",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Atlases as Topic",
+    "Brain Mapping",
+    "Data Interpretation, Statistical",
+    "Electric Stimulation",
+    "Electrodes",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Neurons",
+    "Skull",
+    "Software",
+    "Stereotaxic Techniques"
+  ]
+}

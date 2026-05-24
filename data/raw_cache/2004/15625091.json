@@ -1,0 +1,34 @@
+{
+  "pmid": "15625091",
+  "title": "Fidelity of the ensemble code for visual motion in primate retina.",
+  "abstract": "Sensory experience typically depends on the ensemble activity of hundreds or thousands of neurons, but little is known about how populations of neurons faithfully encode behaviorally important sensory information. We examined how precisely speed of movement is encoded in the population activity of magnocellular-projecting parasol retinal ganglion cells (RGCs) in macaque monkey retina. Multi-electrode recordings were used to measure the activity of approximately 100 parasol RGCs simultaneously in isolated retinas stimulated with moving bars. To examine how faithfully the retina signals motion, stimulus speed was estimated directly from recorded RGC responses using an optimized algorithm that resembles models of motion sensing in the brain. RGC population activity encoded speed with a precision of approximately 1%. The elementary motion signal was conveyed in approximately 10 ms, comparable to the interspike interval. Temporal structure in spike trains provided more precise speed estimates than time-varying firing rates. Correlated activity between RGCs had little effect on speed estimates. The spatial dispersion of RGC receptive fields along the axis of motion influenced speed estimates more strongly than along the orthogonal direction, as predicted by a simple model based on RGC response time variability and optimal pooling. on and off cells encoded speed with similar and statistically independent variability. Simulation of downstream speed estimation using populations of speed-tuned units showed that peak (winner take all) readout provided more precise speed estimates than centroid (vector average) readout. These findings reveal how faithfully the retinal population code conveys information about stimulus speed and the consequences for motion sensing in the brain.",
+  "authors": [
+    "Frechette E S",
+    "Sher A",
+    "Grivich M I",
+    "Petrusca D",
+    "Litke A M",
+    "Chichilnisky E J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Entropy",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motion",
+    "Motion Perception",
+    "Orientation",
+    "Photic Stimulation",
+    "Retina",
+    "Retinal Ganglion Cells",
+    "Statistics as Topic",
+    "Time Factors",
+    "Visual Fields",
+    "Visual Pathways"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "31619793",
+  "title": "Organoid single-cell genomic atlas uncovers human-specific features of brain development.",
+  "abstract": "The human brain has undergone substantial change since humans diverged from chimpanzees and the other great apes<sup>1,2</sup>. However, the genetic and developmental programs that underlie this divergence are not fully understood. Here we have analysed stem cell-derived cerebral organoids using single-cell transcriptomics and accessible chromatin profiling to investigate gene-regulatory changes that are specific to humans. We first analysed cell composition and reconstructed differentiation trajectories over the entire course of human cerebral organoid development from pluripotency, through neuroectoderm and neuroepithelial stages, followed by divergence into neuronal fates within the dorsal and ventral forebrain, midbrain and hindbrain regions. Brain-region composition varied in organoids from different iPSC lines, but regional gene-expression patterns remained largely reproducible across individuals. We analysed chimpanzee and macaque cerebral organoids and found that human neuronal development occurs at a slower pace relative to the other two primates. Using pseudotemporal alignment of differentiation paths, we found that human-specific gene expression resolved to distinct cell states along progenitor-to-neuron lineages in the cortex. Chromatin accessibility was dynamic during cortex development, and we identified divergence in accessibility between human and chimpanzee that correlated with human-specific gene expression and genetic change. Finally, we mapped human-specific expression in adult prefrontal cortex using single-nucleus RNA sequencing analysis and identified developmental differences that persist into adulthood, as well as cell-state-specific changes that occur exclusively in the adult brain. Our data provide a temporal cell atlas of great ape forebrain development, and illuminate dynamic gene-regulatory features that are unique to humans.",
+  "authors": [
+    "Kanton Sabina",
+    "Boyle Michael James",
+    "He Zhisong",
+    "Santel Malgorzata",
+    "Weigert Anne",
+    "Sanchís-Calleja Fátima",
+    "Guijarro Patricia",
+    "Sidow Leila",
+    "Fleck Jonas Simon",
+    "Han Dingding",
+    "Qian Zhengzong",
+    "Heide Michael",
+    "Huttner Wieland B",
+    "Khaitovich Philipp",
+    "Pääbo Svante",
+    "Treutlein Barbara",
+    "Camp J Gray"
+  ],
+  "journal": "Nature",
+  "year": "2019",
+  "doi": "10.1038/s41586-019-1654-9",
+  "mesh": [
+    "Animals",
+    "Biological Evolution",
+    "Brain",
+    "Genomics",
+    "Humans",
+    "Macaca",
+    "Organoids",
+    "Pan troglodytes",
+    "Pluripotent Stem Cells",
+    "Single-Cell Analysis",
+    "Species Specificity"
+  ]
+}

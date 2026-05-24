@@ -1,0 +1,15 @@
+{
+  "pmid": "36993358",
+  "title": "Neuronal mechanisms of dynamic strategic competition.",
+  "abstract": "Competitive social interactions, as in chess or poker, often involve multiple moves and countermoves deployed tactically within a broader strategic plan. Such maneuvers are supported by mentalizing or theory-of-mind-reasoning about the beliefs, plans, and goals of an opponent. The neuronal mechanisms underlying strategic competition remain largely unknown. To address this gap, we studied humans and monkeys playing a virtual soccer game featuring continuous competitive interactions. Humans and monkeys deployed similar tactics within broadly identical strategies, which featured unpredictable trajectories and precise timing for kickers, and responsiveness to opponents for goalies. We used Gaussian Process (GP) classification to decompose continuous gameplay into a series of discrete decisions predicated on the evolving states of self and opponent. We extracted relevant model parameters as regressors for neuronal activity in macaque mid-superior temporal sulcus (mSTS), the putative homolog of human temporo-parietal junction (TPJ), an area selectively engaged during strategic social interactions. We discovered two spatially-segregated populations of mSTS neurons that signaled actions of self and opponent, sensitivities to state changes, and previous and current trial outcomes. Inactivating mSTS reduced kicker unpredictability and impaired goalie responsiveness. These findings demonstrate mSTS neurons multiplex information about the current states of self and opponent as well as history of previous interactions to support ongoing strategic competition, consistent with hemodynamic activity found in human TPJ.",
+  "authors": [
+    "Jiang Yaoguang",
+    "McDonald Kelsey R",
+    "Pearson John M",
+    "Platt Michael L"
+  ],
+  "journal": "Research square",
+  "year": "2023",
+  "doi": "10.21203/rs.3.rs-2524549/v1",
+  "mesh": []
+}

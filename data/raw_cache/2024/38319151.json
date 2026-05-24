@@ -1,0 +1,25 @@
+{
+  "pmid": "38319151",
+  "title": "A prefrontal network model operating near steady and oscillatory states links spike desynchronization and synaptic deficits in schizophrenia.",
+  "abstract": "Schizophrenia results in part from a failure of prefrontal networks but we lack full understanding of how disruptions at a synaptic level cause failures at the network level. This is a crucial gap in our understanding because it prevents us from discovering how genetic mutations and environmental risks that alter synaptic function cause prefrontal network to fail in schizophrenia. To address that question, we developed a recurrent spiking network model of prefrontal local circuits that can explain the link between NMDAR synaptic and 0-lag spike synchrony deficits we recently observed in a pharmacological monkey model of prefrontal network failure in schizophrenia. We analyze how the balance between AMPA and NMDA components of recurrent excitation and GABA inhibition in the network influence oscillatory spike synchrony to inform the biological data. We show that reducing recurrent NMDAR synaptic currents prevents the network from shifting from a steady to oscillatory state in response to extrinsic inputs such as might occur during behavior. These findings strongly parallel dynamic modulation of 0-lag spike synchrony we observed between neurons in monkey prefrontal cortex during behavior, as well as the suppression of this 0-lag spiking by administration of NMDAR antagonists. As such, our cortical network model provides a plausible mechanism explaining the link between NMDAR synaptic and 0-lag spike synchrony deficits observed in a pharmacological monkey model of prefrontal network failure in schizophrenia.",
+  "authors": [
+    "Crowe David A",
+    "Willow Andrew",
+    "Blackman Rachael K",
+    "DeNicola Adele L",
+    "Chafee Matthew V",
+    "Amirikian Bagrat"
+  ],
+  "journal": "eLife",
+  "year": "2024",
+  "doi": "10.7554/eLife.79352",
+  "mesh": [
+    "Animals",
+    "Schizophrenia",
+    "Inhibition, Psychological",
+    "Mutation",
+    "Neurons",
+    "Receptors, N-Methyl-D-Aspartate",
+    "Haplorhini"
+  ]
+}

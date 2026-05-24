@@ -1,0 +1,20 @@
+{
+  "pmid": "18232369",
+  "title": "A transcranial magnetic stimulator inducing near-rectangular pulses with controllable pulse width (cTMS).",
+  "abstract": "A novel transcranial magnetic stimulation (TMS) device with controllable pulse width (PW) and near-rectangular pulse shape (cTMS) is described. The cTMS device uses an insulated gate bipolar transistor (IGBT) with appropriate snubbers to switch coil currents up to 6 kA, enabling PW control from 5 micros to over 100 micros. The near-rectangular induced electric field pulses use 2%-34% less energy and generate 67%-72% less coil heating compared to matched conventional cosine pulses. CTMS is used to stimulate rhesus monkey motor cortex in vivo with PWs of 20 to 100 micros, demonstrating the expected decrease of threshold pulse amplitude with increasing PW. The technological solutions used in the cTMS prototype can expand functionality, and reduce power consumption and coil heating in TMS, enhancing its research and therapeutic applications.",
+  "authors": [
+    "Peterchev Angel V",
+    "Jalinous Reza",
+    "Lisanby Sarah H"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2008",
+  "doi": "10.1109/TBME.2007.900540",
+  "mesh": [
+    "Equipment Design",
+    "Equipment Failure Analysis",
+    "Signal Processing, Computer-Assisted",
+    "Transcranial Magnetic Stimulation",
+    "Transducers"
+  ]
+}

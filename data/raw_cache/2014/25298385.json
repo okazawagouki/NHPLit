@@ -1,0 +1,31 @@
+{
+  "pmid": "25298385",
+  "title": "Information theoretic analysis of proprioceptive encoding during finger flexion in the monkey sensorimotor system.",
+  "abstract": "There is considerable debate over whether the brain codes information using neural firing rate or the fine-grained structure of spike timing. We investigated this issue in spike discharge recorded from single units in the sensorimotor cortex, deep cerebellar nuclei, and dorsal root ganglia in macaque monkeys trained to perform a finger flexion task. The task required flexion to four different displacements against two opposing torques; the eight possible conditions were randomly interleaved. We used information theory to assess coding of task condition in spike rate, discharge irregularity, and spectral power in the 15- to 25-Hz band during the period of steady holding. All three measures coded task information in all areas tested. Information coding was most often independent between irregularity and 15-25 Hz power (60% of units), moderately redundant between spike rate and irregularity (56% of units redundant), and highly redundant between spike rate and power (93%). Most simultaneously recorded unit pairs coded using the same measure independently (86%). Knowledge of two measures often provided extra information about task, compared with knowledge of only one alone. We conclude that sensorimotor systems use both rate and temporal codes to represent information about a finger movement task. As well as offering insights into neural coding, this work suggests that incorporating spike irregularity into algorithms used for brain-machine interfaces could improve decoding accuracy.",
+  "authors": [
+    "Witham Claire L",
+    "Baker Stuart N"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2015",
+  "doi": "10.1152/jn.00178.2014",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cerebellar Nuclei",
+    "Female",
+    "Fingers",
+    "Ganglia, Spinal",
+    "Information Theory",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Motor Activity",
+    "Neurons",
+    "Proprioception",
+    "Sensorimotor Cortex",
+    "Signal Processing, Computer-Assisted",
+    "Time Factors",
+    "Torque"
+  ]
+}

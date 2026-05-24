@@ -1,0 +1,22 @@
+{
+  "pmid": "36792689",
+  "title": "Uncovering hidden network architecture from spiking activities using an exact statistical input-output relation of neurons.",
+  "abstract": "Identifying network architecture from observed neural activities is crucial in neuroscience studies. A key requirement is knowledge of the statistical input-output relation of single neurons in vivo. By utilizing an exact analytical solution of the spike-timing for leaky integrate-and-fire neurons under noisy inputs balanced near the threshold, we construct a framework that links synaptic type, strength, and spiking nonlinearity with the statistics of neuronal population activity. The framework explains structured pairwise and higher-order interactions of neurons receiving common inputs under different architectures. We compared the theoretical predictions with the activity of monkey and mouse V1 neurons and found that excitatory inputs given to pairs explained the observed sparse activity characterized by strong negative triple-wise interactions, thereby ruling out the alternative explanation by shared inhibition. Moreover, we showed that the strong interactions are a signature of excitatory rather than inhibitory inputs whenever the spontaneous rate is low. We present a guide map of neural interactions that help researchers to specify the hidden neuronal motifs underlying observed interactions found in empirical data.",
+  "authors": [
+    "Shomali Safura Rashid",
+    "Rasuli Seyyed Nader",
+    "Ahmadabadi Majid Nili",
+    "Shimazaki Hideaki"
+  ],
+  "journal": "Communications biology",
+  "year": "2023",
+  "doi": "10.1038/s42003-023-04511-z",
+  "mesh": [
+    "Mice",
+    "Animals",
+    "Action Potentials",
+    "Neurons",
+    "Nerve Net",
+    "Models, Neurological"
+  ]
+}

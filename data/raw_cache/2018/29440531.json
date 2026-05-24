@@ -1,0 +1,23 @@
+{
+  "pmid": "29440531",
+  "title": "Can Serial Dependencies in Choices and Neural Activity Explain Choice Probabilities?",
+  "abstract": "During perceptual decisions the activity of sensory neurons covaries with choice, a covariation often quantified as \"choice-probability\". Moreover, choices are influenced by a subject's previous choice (serial dependence) and neuronal activity often shows temporal correlations on long (seconds) timescales. Here, we test whether these findings are linked. Using generalized linear models, we analyze simultaneous measurements of behavior and V2 neural activity in macaques performing a visual discrimination task. Both, decisions and spiking activity show substantial temporal correlations and cross-correlations but seem to reflect two mostly separate processes. Indeed, removing history effects using semipartial correlation analysis leaves choice probabilities largely unchanged. The serial dependencies in choices and neural activity therefore cannot explain the observed choice probability. Rather, serial dependencies in choices and spiking activity reflect two predominantly separate but parallel processes, which are coupled on each trial by covariations between choices and activity. These findings provide important constraints for computational models of perceptual decision-making that include feedback signals.<b>SIGNIFICANCE STATEMENT</b> Correlations, unexplained by the sensory input, between the activity of sensory neurons and an animal's perceptual choice (\"choice probabilities\") have received attention from both a systems and computational neuroscience perspective. Conversely, whereas temporal correlations for both spiking activity (\"non-stationarities\") and for a subject's choices in perceptual tasks (\"serial dependencies\") have long been established, they have typically been ignored when measuring choice probabilities. Some accounts of choice probabilities incorporating feedback predict that these observations are linked. Here, we explore the extent to which this is the case. We find that, contrasting with these predictions, choice probabilities are largely independent of serial dependencies, which adds new constraints to accounts of choice probabilities that include feedback.",
+  "authors": [
+    "Lueckmann Jan-Matthis",
+    "Macke Jakob H",
+    "Nienborg Hendrikje"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2018",
+  "doi": "10.1523/JNEUROSCI.2225-17.2018",
+  "mesh": [
+    "Animals",
+    "Choice Behavior",
+    "Discrimination, Psychological",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

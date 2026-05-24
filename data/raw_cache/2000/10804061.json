@@ -1,0 +1,25 @@
+{
+  "pmid": "10804061",
+  "title": "A mean-field model for orientation tuning, contrast saturation, and contextual effects in the primary visual cortex.",
+  "abstract": "Orientation-selective cells in the primary visual cortex of monkeys and cats are often characterized by an orientation-tuning width that is invariant under stimulus contrast. At the same time their contrast response function saturates or even super-saturates for high values of contrast. When two bar stimuli are presented within their classical receptive field, the neuronal response decreases with the intersection angle. When two stimuli are presented inside and outside the classical receptive field, the response of the cell increases with the intersection angle. Both cats and monkeys show iso-orientation suppression, which has sometimes been reported to be combined with cross-orientation facilitation. This property has previously been described as sensitivity to orientation contrast. We address the emergence of these effects with a model that describes the processing of geniculocortical signals through cortical circuitry. We hypothesize that short intracortical fibers mediate the classical receptive field effects, whereas long-range collaterals evoke contextual effects such as sensitivity to orientation contrast. We model this situation by setting up a mean-field description of two neighboring cortical hypercolumns, which can process a nonoverlapping center and a (nonclassical) surround stimulus. Both hypercolumns interact via idealized long-range connections. For an isolated model hypercolumn, we find that either contrast saturation or contrast-invariant orientation tuning emerges, depending on the strength of the lateral excitation. There is no parameter regime, however, where both phenomena emerge simultaneously. In the regime where contrast saturation is found, the model also correctly reproduces suppression due to a second, cross-oriented grid within the classical receptive field. If two model hypercolumns are mutually coupled by long-range connections that are iso-orientation specific, nonclassical surround stimuli show either suppression or facilitation for all surround orientations. Sensitivity to orientation contrast is not observed. This property requires excitatory-to-excitatory long-range couplings that are less orientation specific than those targeting inhibitory neurons.",
+  "authors": [
+    "Stetter M",
+    "Bartsch H",
+    "Obermayer K"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cats",
+    "Computer Simulation",
+    "Contrast Sensitivity",
+    "Haplorhini",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Orientation",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

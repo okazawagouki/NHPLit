@@ -1,0 +1,28 @@
+{
+  "pmid": "26079746",
+  "title": "Extracting Low-Dimensional Latent Structure from Time Series in the Presence of Delays.",
+  "abstract": "Noisy, high-dimensional time series observations can often be described by a set of low-dimensional latent variables. Commonly used methods to extract these latent variables typically assume instantaneous relationships between the latent and observed variables. In many physical systems, changes in the latent variables manifest as changes in the observed variables after time delays. Techniques that do not account for these delays can recover a larger number of latent variables than are present in the system, thereby making the latent representation more difficult to interpret. In this work, we introduce a novel probabilistic technique, time-delay gaussian-process factor analysis (TD-GPFA), that performs dimensionality reduction in the presence of a different time delay between each pair of latent and observed variables. We demonstrate how using a gaussian process to model the evolution of each latent variable allows us to tractably learn these delays over a continuous domain. Additionally, we show how TD-GPFA combines temporal smoothing and dimensionality reduction into a common probabilistic framework. We present an expectation/conditional maximization either (ECME) algorithm to learn the model parameters. Our simulations demonstrate that when time delays are present, TD-GPFA is able to correctly identify these delays and recover the latent space. We then applied TD-GPFA to the activity of tens of neurons recorded simultaneously in the macaque motor cortex during a reaching task. TD-GPFA is able to better describe the neural activity using a more parsimonious latent space than GPFA, a method that has been used to interpret motor cortex data but does not account for time delays. More broadly, TD-GPFA can help to unravel the mechanisms underlying high-dimensional time series data by taking into account physical delays in the system.",
+  "authors": [
+    "Lakshmanan Karthik C",
+    "Sadtler Patrick T",
+    "Tyler-Kabara Elizabeth C",
+    "Batista Aaron P",
+    "Yu Byron M"
+  ],
+  "journal": "Neural computation",
+  "year": "2015",
+  "doi": "10.1162/NECO_a_00759",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Macaca",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neurons",
+    "Normal Distribution",
+    "Probability",
+    "Time Factors"
+  ]
+}

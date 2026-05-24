@@ -1,0 +1,27 @@
+{
+  "pmid": "41043460",
+  "title": "Decoding saccadic eye movements from brain signals using an endovascular neural interface.",
+  "abstract": "<i>Objective.</i>An oculomotor brain-computer interface (BCI) records neural activity from brain regions involved in planning eye movements and translates this activity into control commands. While previous successful studies have relied on invasive implants in non-human primates or electrooculography artefacts in human electroencephalogram (EEG) data, this study aimed to demonstrate the feasibility of an oculomotor BCI using a minimally invasive endovascular Stentrode<sup>TM</sup>device implanted near the supplementary motor area of a patient with amyotrophic lateral sclerosis (ALS).<i>Approach.</i>One participant performed self-paced visually-guided and free-viewing saccade tasks in four directions (left, right, up, down) while endovascular EEG and eye gaze recordings were collected. Visually-guided saccades were cued with visual stimuli, whereas free-viewing saccades were self-directed without explicit cues. Brain signals were pre-processed to remove cardiac artefacts, downsampled, and classified using a Random Forest algorithm. For saccade onset classification (fixation vs saccade), features in time and frequency domains were extracted after xDAWN denoising, while for saccade direction classification, the downsampled time series were classified directly without explicit feature extraction.<i>Main results.</i>The neural responses of visually-guided saccades overlapped with cue-evoked potentials, while free-viewing saccades exhibited saccade-related potentials that began shortly before eye movement, peaked approximately 50 ms after saccade onset, and persisted for around 200 ms. In the frequency domain, these responses appeared as a low-frequency synchronisation below 15 Hz. Saccade onset classification was robust, achieving mean area under the receiver operating characteristic curve (AUC) scores of 0.88 within sessions and 0.86 across sessions. Saccade direction decoding yielded within-session AUC scores of 0.67 for four-class decoding and up to 0.75 for the best performing binary comparisons (left vs up and left vs down).<i>Significance.</i>This proof-of-concept study demonstrates the feasibility of an endovascular oculomotor BCI in a patient with ALS, establishing a foundation for future oculomotor BCI studies in human subjects.",
+  "authors": [
+    "Rasheed Suleman",
+    "Bennett James",
+    "Yoo Peter E",
+    "Burkitt Anthony N",
+    "Grayden David B"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2025",
+  "doi": "10.1088/1741-2552/ae0f52",
+  "mesh": [
+    "Humans",
+    "Saccades",
+    "Brain-Computer Interfaces",
+    "Male",
+    "Electroencephalography",
+    "Photic Stimulation",
+    "Middle Aged",
+    "Endovascular Procedures",
+    "Amyotrophic Lateral Sclerosis",
+    "Female"
+  ]
+}

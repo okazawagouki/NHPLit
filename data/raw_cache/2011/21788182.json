@@ -1,0 +1,27 @@
+{
+  "pmid": "21788182",
+  "title": "Adaptive multiscale entropy analysis of multivariate neural data.",
+  "abstract": "Multiscale entropy (MSE) has been widely used to quantify a system's complexity by taking into account the multiple time scales inherent in physiologic time series. The method, however, is biased toward the coarse scale, i.e., low-frequency components due to the progressive smoothing operations. In addition, the algorithm for extracting the different scales is not well adapted to nonlinear/nonstationary signals. In this letter, we introduce adaptive multiscale entropy (AME) measures in which the scales are adaptively derived directly from the data by virtue of recently developed multivariate empirical mode decomposition. Depending on the consecutive removal of low-frequency or high-frequency components, our AME can be estimated at either coarse-to-fine or fine-to-coarse scales over which the sample entropy is performed. Computer simulations are performed to verify the effectiveness of AME for analysis of the highly nonstationary data. Local field potentials collected from the visual cortex of macaque monkey while performing a generalized flash suppression task are used as an example to demonstrate the usefulness of our AME approach to reveal the underlying dynamics in complex neural data.",
+  "authors": [
+    "Hu Meng",
+    "Liang Hualou"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2012",
+  "doi": "10.1109/TBME.2011.2162511",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain",
+    "Data Interpretation, Statistical",
+    "Electroencephalography",
+    "Entropy",
+    "Macaca",
+    "Models, Neurological",
+    "Multivariate Analysis",
+    "Nerve Net",
+    "Neurons",
+    "Signal Processing, Computer-Assisted",
+    "Visual Perception"
+  ]
+}

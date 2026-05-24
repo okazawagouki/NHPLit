@@ -1,0 +1,31 @@
+{
+  "pmid": "15484899",
+  "title": "Temporal processing in primate motor control: relation between cortical and EMG activity.",
+  "abstract": "We investigated spatio-temporal information processing in the primate motor system. Corticomotoneuronal (CM) cells provide monosynaptic excitatory connections from motor cortex to spinal motoneurons and contribute causally to the time-varying electromyogram (EMG) of their target muscle. A multilayer perceptron (MLP) was used to evaluate the transfer function between neural activity of single CM cells and their target muscle EMG, using data from in-vivo recordings in primate motor cortex. For an optimal MLP performance, i.e., minimal error between recorded target EMG and MLP-derived EMG, the CM cell input period had to span the latency observed between CM cell peak activity and EMG peak activity. We argue that the same spike train may code two types of information: 1) rate coding within the input window accounted for large-amplitude variations in the EMG signal and 2) temporal coding within a window of 40 ms just prior to the EMG output signal accounted for EMG variations of small amplitude. The transfer function of the MLP, thus, combines rate and temporal coding and suggests that CM cell output may also combine these two forms of coding. We predict that mutual constraints of rate and temporal coding would, however, would limit the CM output to code for particular temporal profiles of EMG, possibly adapted to bio-mechanical constraints.",
+  "authors": [
+    "Manette Olivier F L",
+    "Maier Marc A"
+  ],
+  "journal": "IEEE transactions on neural networks",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electromyography",
+    "Humans",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Movement",
+    "Muscle Contraction",
+    "Muscle, Skeletal",
+    "Neural Networks, Computer",
+    "Primates",
+    "Pyramidal Tracts",
+    "Reaction Time",
+    "Synapses",
+    "Synaptic Transmission",
+    "Time Factors"
+  ]
+}

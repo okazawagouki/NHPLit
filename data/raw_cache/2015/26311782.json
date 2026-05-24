@@ -1,0 +1,25 @@
+{
+  "pmid": "26311782",
+  "title": "Computation of Object Size in Visual Cortical Area V4 as a Neural Basis for Size Constancy.",
+  "abstract": "UNLABELLED: Even when we view an object from different distances, so that the size of its projection onto the retina varies, we perceive its size to be relatively unchanged. In this perceptual phenomenon known as size constancy, the brain uses both distance and retinal image size to estimate the size of an object. Given that binocular disparity, the small positional difference between the retinal images in the two eyes, is a powerful visual cue for distance, we examined how it affects neuronal tuning to retinal image size in visual cortical area V4 of macaque monkeys. Depending on the imposed binocular disparity of a circular patch embedded in random dot stereograms, most neurons adjusted their preferred size in a manner consistent with size constancy. They preferred larger retinal image sizes when stimuli were stereoscopically presented nearer and preferred smaller retinal image sizes when stimuli were presented farther away. This disparity-dependent shift of preferred image size was not affected by the vergence angle, a cue for the fixation distance, suggesting that different V4 neurons compute object size for different fixation distances rather than that individual neurons adjust the shift based on vergence. This interpretation was supported by a simple circuit model, which could simulate the shift of preferred image size without any information about the fixation distance. We suggest that a population of V4 neurons encodes the actual size of objects, rather than simply the size of their retinal images, and that these neurons thereby contribute to size constancy. SIGNIFICANCE STATEMENT: We perceive the size of an object to be relatively stable despite changes in the size of its retinal image that accompany changes in viewing distance. This phenomenon, called size constancy, is accomplished by combining retinal image size and distance information in our brain. We demonstrate that a large population of V4 neurons changes their size tuning depending on the perceived distance of a visual stimulus derived from binocular disparity. They prefer larger or smaller retinal image sizes when stimuli are stereoscopically presented nearer or farther away, respectively. This property makes V4 neurons suitable for encoding the actual size of objects, not simply the retinal image sizes, and providing a possible mechanism for perceptual size constancy.",
+  "authors": [
+    "Tanaka Shingo",
+    "Fujita Ichiro"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.2665-14.2015",
+  "mesh": [
+    "Animals",
+    "Depth Perception",
+    "Distance Perception",
+    "Female",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Photic Stimulation",
+    "Vision, Binocular",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pmid": "26300766",
+  "title": "Computational modeling of the neural representation of object shape in the primate ventral visual system.",
+  "abstract": "Neurons in successive stages of the primate ventral visual pathway encode the spatial structure of visual objects. In this paper, we investigate through computer simulation how these cell firing properties may develop through unsupervised visually-guided learning. Individual neurons in the model are shown to exploit statistical regularity and temporal continuity of the visual inputs during training to learn firing properties that are similar to neurons in V4 and TEO. Neurons in V4 encode the conformation of boundary contour elements at a particular position within an object regardless of the location of the object on the retina, while neurons in TEO integrate information from multiple boundary contour elements. This representation goes beyond mere object recognition, in which neurons simply respond to the presence of a whole object, but provides an essential foundation from which the brain is subsequently able to recognize the whole object.",
+  "authors": [
+    "Eguchi Akihiro",
+    "Mender Bedeho M W",
+    "Evans Benjamin D",
+    "Humphreys Glyn W",
+    "Stringer Simon M"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2015",
+  "doi": "10.3389/fncom.2015.00100",
+  "mesh": []
+}

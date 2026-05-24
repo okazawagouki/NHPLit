@@ -1,0 +1,37 @@
+{
+  "pmid": "37098400",
+  "title": "Imaging crossing fibers in mouse, pig, monkey, and human brain using small-angle X-ray scattering.",
+  "abstract": "Myelinated axons (nerve fibers) efficiently transmit signals throughout the brain via action potentials. Multiple methods that are sensitive to axon orientations, from microscopy to magnetic resonance imaging, aim to reconstruct the brain's structural connectome. As billions of nerve fibers traverse the brain with various possible geometries at each point, resolving fiber crossings is necessary to generate accurate structural connectivity maps. However, doing so with specificity is a challenging task because signals originating from oriented fibers can be influenced by brain (micro)structures unrelated to myelinated axons. X-ray scattering can specifically probe myelinated axons due to the periodicity of the myelin sheath, which yields distinct peaks in the scattering pattern. Here, we show that small-angle X-ray scattering (SAXS) can be used to detect myelinated, axon-specific fiber crossings. We first demonstrate the capability using strips of human corpus callosum to create artificial double- and triple-crossing fiber geometries, and we then apply the method in mouse, pig, vervet monkey, and human brains. We compare results to polarized light imaging (3D-PLI), tracer experiments, and to outputs from diffusion MRI that sometimes fails to detect crossings. Given its specificity, capability of 3-dimensional sampling and high resolution, SAXS could serve as a ground truth for validating fiber orientations derived using diffusion MRI as well as microscopy-based methods. STATEMENT OF SIGNIFICANCE: To study how the nerve fibers in our brain are interconnected, scientists need to visualize their trajectories, which often cross one another. Here, we show the unique capacity of small-angle X-ray scattering (SAXS) to study these fiber crossings without use of labeling, taking advantage of SAXS's specificity to myelin - the insulating sheath that is wrapped around nerve fibers. We use SAXS to detect double and triple crossing fibers and unveil intricate crossings in mouse, pig, vervet monkey, and human brains. This non-destructive method can uncover complex fiber trajectories and validate other less specific imaging methods (e.g., MRI or microscopy), towards accurate mapping of neuronal connectivity in the animal and human brain.",
+  "authors": [
+    "Georgiadis Marios",
+    "Menzel Miriam",
+    "Reuter Jan A",
+    "Born Donald E",
+    "Kovacevich Sophie R",
+    "Alvarez Dario",
+    "Taghavi Hossein Moein",
+    "Schroeter Aileen",
+    "Rudin Markus",
+    "Gao Zirui",
+    "Guizar-Sicairos Manuel",
+    "Weiss Thomas M",
+    "Axer Markus",
+    "Rajkovic Ivan",
+    "Zeineh Michael M"
+  ],
+  "journal": "Acta biomaterialia",
+  "year": "2023",
+  "doi": "10.1016/j.actbio.2023.04.029",
+  "mesh": [
+    "Humans",
+    "Animals",
+    "Mice",
+    "Swine",
+    "Chlorocebus aethiops",
+    "Haplorhini",
+    "Scattering, Small Angle",
+    "X-Rays",
+    "X-Ray Diffraction",
+    "Brain"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pmid": "22256029",
+  "title": "Detection and classification of multiple finger movements using a chronically implanted Utah Electrode Array.",
+  "abstract": "The ability to detect and classify individual and combined finger movements from neural data is rapidly advancing. The work that has been done has demonstrated the feasibility of decoding finger movements from acutely recorded neurons. There is a need for a recording model that meets the chronic requirements of a neuroprosthetic application and to address this need we have developed an algorithm that can detect and classify individual and combined finger movements using neuronal data acquired from a chronically implanted Utah Electrode Array (UEA). The algorithm utilized the firing rates of individual neurons and performed with an average sensitivity and an average specificity that were both greater than 92% across all movement types. These results lend further support that a chronically implanted UEA is suitable for acquiring and decoding neuronal data and also demonstrate a decoding method that can detect and classify finger movements without any a priori knowledge of the data, task, or behavior.",
+  "authors": [
+    "Egan Joshua",
+    "Baker Justin",
+    "House Paul",
+    "Greger Bradley"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2011",
+  "doi": "10.1109/IEMBS.2011.6091707",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Area Under Curve",
+    "Electrodes",
+    "Electrodes, Implanted",
+    "Fingers",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "ROC Curve",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Signal Processing, Computer-Assisted",
+    "User-Computer Interface"
+  ]
+}

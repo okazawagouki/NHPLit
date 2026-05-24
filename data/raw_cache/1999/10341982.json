@@ -1,0 +1,23 @@
+{
+  "pmid": "10341982",
+  "title": "The effects of temporal noise and retinal illuminance on foveal flicker sensitivity.",
+  "abstract": "We measured foveal flicker sensitivity with and without external added temporal noise at various levels of retinal illuminance and described the data with our model of flicker sensitivity comprising: (i) low-pass filtering of the flickering signal plus external temporal and/or quantal noise by the modulation transfer function (MTF) of the retina (R): (ii) high-pass filtering in proportion to temporal frequency by the MTF of the postreceptoral neural pathways (P): (iii) addition of internal white neural noise; and (iv) detection by a temporal matched filter. Without temporal noise flicker sensitivity had a band-pass frequency-dependence at high and medium illuminances but changed towards a low-pass shape above 0.5 Hz at low luminances, in agreement with earlier studies. In strong external temporal noise, however, the flicker sensitivity function had a low-pass shape even at high and medium illuminances and flicker sensitivity was consistently lower with noise than without. At low luminances flicker sensitivity was similar with and without noise. An excellent fit of the model was obtained under the assumption that the only luminance-dependent changes were increases in the cut-off frequency (fc) and maximum contrast transfer of R with increasing luminance. The results imply the following: (i) performance is consistent with detection by a temporal matched filter, but not with a thresholding process based on signal amplitude; (ii) quantal fluctuations do not at any luminance level become a source of dominant noise present at the detector; (iii) the changes in the maximum contrast transfer reflect changes in retinal gain, which at low to moderate luminances implement less-than-Weber adaptation, with a 'square-root' law at the lowest levels; (iv) the changes of fc as function of mean luminance closely parallels time scale changes in cones, but the absolute values of fc are lower than expected from the kinetics of monkey cones at all luminances; (v) the constancy of the high-pass filtering function P indicates that surround antagonism does not weaken significantly with decreasing light level.",
+  "authors": [
+    "Rovamo J",
+    "Raninen A",
+    "Donner K"
+  ],
+  "journal": "Vision research",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Adaptation, Ocular",
+    "Contrast Sensitivity",
+    "Flicker Fusion",
+    "Fovea Centralis",
+    "Humans",
+    "Photic Stimulation",
+    "Sensory Thresholds",
+    "Visual Pathways"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "39417954",
+  "title": "A Deep Learning-based Pipeline for Segmenting the Cerebral Cortex Laminar Structure in Histology Images.",
+  "abstract": "Characterizing the anatomical structure and connectivity between cortical regions is a critical step towards understanding the information processing properties of the brain and will help provide insight into the nature of neurological disorders. A key feature of the mammalian cerebral cortex is its laminar structure. Identifying these layers in neuroimaging data is important for understanding their global structure and to help understand the connectivity patterns of neurons in the brain. We studied Nissl-stained and myelin-stained slice images of the brain of the common marmoset (Callithrix jacchus), which is a new world monkey that is becoming increasingly popular in the neuroscience community as an object of study. We present a novel computational framework that first acquired the cortical labels using AI-based tools followed by a trained deep learning model to segment cerebral cortical layers. We obtained a Euclidean distance of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>1274.750</mn> <mo>±</mo> <mn>156.400</mn></mrow> </math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mi>μ</mi> <mi>m</mi></mrow> </math> for the cortical labels acquisition, which was in the acceptable range by computing the half Euclidean distance of the average cortex thickness ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>1800.630</mn> <mspace></mspace> <mi>μ</mi> <mi>m</mi></mrow> </math> ). We compared our cortical layer segmentation pipeline with the pipeline proposed by Wagstyl et al. (PLoS biology, 18(4), e3000678 2020) adapted to 2D data. We obtained a better mean <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mrow><msup><mn>95</mn> <mrow><mi>th</mi></mrow> </msup> </mrow> </math> percentile Hausdorff distance (95HD) of  <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>92.150</mn> <mspace></mspace> <mi>μ</mi> <mi>m</mi></mrow> </math> . Whereas a mean 95HD of  <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>94.170</mn> <mspace></mspace> <mi>μ</mi> <mi>m</mi></mrow> </math> was obtained from Wagstyl et al. We also compared our pipeline's performance against theirs using their dataset (the BigBrain dataset). The results also showed better segmentation quality, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>85.318</mn> <mo>%</mo></mrow> </math> Jaccard Index acquired from our pipeline, while <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>83.000</mn> <mo>%</mo></mrow> </math> was stated in their paper.",
+  "authors": [
+    "Wang Jiaxuan",
+    "Gong Rui",
+    "Heidari Shahrokh",
+    "Rogers Mitchell",
+    "Tani Toshiki",
+    "Abe Hiroshi",
+    "Ichinohe Noritaka",
+    "Woodward Alexander",
+    "Delmas Patrice J"
+  ],
+  "journal": "Neuroinformatics",
+  "year": "2024",
+  "doi": "10.1007/s12021-024-09688-0",
+  "mesh": [
+    "Deep Learning",
+    "Cerebral Cortex",
+    "Animals",
+    "Callithrix",
+    "Platyrrhini",
+    "Microscopy",
+    "Staining and Labeling"
+  ]
+}

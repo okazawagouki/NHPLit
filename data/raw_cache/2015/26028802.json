@@ -1,0 +1,16 @@
+{
+  "pmid": "26028802",
+  "title": "LOGISMOS-B for Primates: Primate Cortical Surface Reconstruction and Thickness Measurement.",
+  "abstract": "Cortical thickness and surface area are important morphological measures with implications for many psychiatric and neurological conditions. Automated segmentation and reconstruction of the cortical surface from 3D MRI scans is challenging due to the variable anatomy of the cortex and its highly complex geometry. While many methods exist for this task in the context of the human brain, these methods are typically not readily applicable to the primate brain. We propose an innovative approach based on our recently proposed human cortical reconstruction algorithm, LOGISMOS-B, and the Laplace-based thickness measurement method. Quantitative evaluation of our approach was performed based on a dataset of T1- and T2-weighted MRI scans from 12-month-old macaques where labeling by our anatomical experts was used as independent standard. In this dataset, LOGISMOS-B has an average signed surface error of 0.01 ± 0.03mm and an unsigned surface error of 0.42 ± 0.03mm over the whole brain. Excluding the rather problematic temporal pole region further improves unsigned surface distance to 0.34 ± 0.03mm. This high level of accuracy reached by our algorithm even in this challenging developmental dataset illustrates its robustness and its potential for primate brain studies.",
+  "authors": [
+    "Oguz Ipek",
+    "Styner Martin",
+    "Sanchez Mar",
+    "Shi Yundi",
+    "Sonka Milan"
+  ],
+  "journal": "Proceedings of SPIE--the International Society for Optical Engineering",
+  "year": "2015",
+  "doi": "",
+  "mesh": []
+}

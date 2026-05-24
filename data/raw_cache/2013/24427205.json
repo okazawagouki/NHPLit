@@ -1,0 +1,15 @@
+{
+  "pmid": "24427205",
+  "title": "Estimating causal interaction between prefrontal cortex and striatum by transfer entropy.",
+  "abstract": "Transfer entropy (TE) is an information-theoretic measure for the investigation of causal interaction between two systems without a requirement of pre-specific interaction model (such as: linear or nonlinear). We introduced an efficient algorithm to calculate TE values between two systems based on observed time signals. By this method, we demonstrated that the TE correctly estimated the coupling strength and the direction of information transmission of two nonlinearly coupled systems. We also calculated TE values of real local field potentials (LFPs) recorded simultaneously in the lateral prefrontal cortex (LPFC) and the striatum of the behavioral monkey, and observed that the TE value from the LPFC to the striatum was stronger than that from the striatum to the LPFC, consistent with anatomical structure between the two areas. Moreover, the TE value dynamically varied dependent on behavior stages of the monkey. These results from simulated and real LFPs data suggested that the TE was able to effectively estimate functional connectivity between different brain regions and characterized their dynamical properties.",
+  "authors": [
+    "Ma Chaofei",
+    "Pan Xiaochuan",
+    "Wang Rubin",
+    "Sakagami Masamichi"
+  ],
+  "journal": "Cognitive neurodynamics",
+  "year": "2013",
+  "doi": "10.1007/s11571-012-9239-4",
+  "mesh": []
+}

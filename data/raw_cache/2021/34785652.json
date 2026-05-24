@@ -1,0 +1,24 @@
+{
+  "pmid": "34785652",
+  "title": "Revealing nonlinear neural decoding by analyzing choices.",
+  "abstract": "Sensory data about most natural task-relevant variables are entangled with task-irrelevant nuisance variables. The neurons that encode these relevant signals typically constitute a nonlinear population code. Here we present a theoretical framework for quantifying how the brain uses or decodes its nonlinear information. Our theory obeys fundamental mathematical limitations on information content inherited from the sensory periphery, describing redundant codes when there are many more cortical neurons than primary sensory neurons. The theory predicts that if the brain uses its nonlinear population codes optimally, then more informative patterns should be more correlated with choices. More specifically, the theory predicts a simple, easily computed quantitative relationship between fluctuating neural activity and behavioral choices that reveals the decoding efficiency. This relationship holds for optimal feedforward networks of modest complexity, when experiments are performed under natural nuisance variation. We analyze recordings from primary visual cortex of monkeys discriminating the distribution from which oriented stimuli were drawn, and find these data are consistent with the hypothesis of near-optimal nonlinear decoding.",
+  "authors": [
+    "Yang Qianli",
+    "Walker Edgar",
+    "Cotton R James",
+    "Tolias Andreas S",
+    "Pitkow Xaq"
+  ],
+  "journal": "Nature communications",
+  "year": "2021",
+  "doi": "10.1038/s41467-021-26793-9",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Models, Neurological",
+    "Models, Theoretical",
+    "Neurons",
+    "Primary Visual Cortex"
+  ]
+}

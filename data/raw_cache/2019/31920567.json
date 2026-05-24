@@ -1,0 +1,20 @@
+{
+  "pmid": "31920567",
+  "title": "Automated Individualization of Size-Varying and Touching Neurons in Macaque Cerebral Microscopic Images.",
+  "abstract": "In biomedical research, cell analysis is important to assess physiological and pathophysiological information. Virtual microscopy offers the unique possibility to study the compositions of tissues at a cellular scale. However, images acquired at such high spatial resolution are massive, contain complex information, and are therefore difficult to analyze automatically. In this article, we address the problem of individualization of size-varying and touching neurons in optical microscopy two-dimensional (2-D) images. Our approach is based on a series of processing steps that incorporate increasingly more information. (1) After a step of segmentation of neuron class using a Random Forest classifier, a novel min-max filter is used to enhance neurons' centroids and boundaries, enabling the use of region growing process based on a contour-based model to drive it to neuron boundary and achieve individualization of touching neurons. (2) Taking into account size-varying neurons, an adaptive multiscale procedure aiming at individualizing touching neurons is proposed. This protocol was evaluated in 17 major anatomical regions from three NeuN-stained macaque brain sections presenting diverse and comprehensive neuron densities. Qualitative and quantitative analyses demonstrate that the proposed method provides satisfactory results in most regions (e.g., caudate, cortex, subiculum, and putamen) and outperforms a baseline Watershed algorithm. Neuron counts obtained with our method show high correlation with an adapted stereology technique performed by two experts (respectively, 0.983 and 0.975 for the two experts). Neuron diameters obtained with our method ranged between 2 and 28.6 μm, matching values reported in the literature. Further works will aim to evaluate the impact of staining and interindividual variability on our protocol.",
+  "authors": [
+    "You Zhenzhen",
+    "Balbastre Yaël",
+    "Bouvier Clément",
+    "Hérard Anne-Sophie",
+    "Gipchtein Pauline",
+    "Hantraye Philippe",
+    "Jan Caroline",
+    "Souedet Nicolas",
+    "Delzescaux Thierry"
+  ],
+  "journal": "Frontiers in neuroanatomy",
+  "year": "2019",
+  "doi": "10.3389/fnana.2019.00098",
+  "mesh": []
+}

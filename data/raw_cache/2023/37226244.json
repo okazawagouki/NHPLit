@@ -1,0 +1,26 @@
+{
+  "pmid": "37226244",
+  "title": "Epigenetic regulation of human-specific gene expression in the prefrontal cortex.",
+  "abstract": "BACKGROUND: Changes in gene expression levels during brain development are thought to have played an important role in the evolution of human cognition. With the advent of high-throughput sequencing technologies, changes in brain developmental expression patterns, as well as human-specific brain gene expression, have been characterized. However, interpreting the origin of evolutionarily advanced cognition in human brains requires a deeper understanding of the regulation of gene expression, including the epigenomic context, along the primate genome. Here, we used chromatin immunoprecipitation sequencing (ChIP-seq) to measure the genome-wide profiles of histone H3 lysine 4 trimethylation (H3K4me3) and histone H3 lysine 27 acetylation (H3K27ac), both of which are associated with transcriptional activation in the prefrontal cortex of humans, chimpanzees, and rhesus macaques. RESULTS: We found a discrete functional association, in which <sup>H3K4me3</sup>HP gain was significantly associated with myelination assembly and signaling transmission, while <sup>H3K4me3</sup>HP loss played a vital role in synaptic activity. Moreover, <sup>H3K27ac</sup>HP gain was enriched in interneuron and oligodendrocyte markers, and <sup>H3K27ac</sup>HP loss was enriched in CA1 pyramidal neuron markers. Using strand-specific RNA sequencing (ssRNA-seq), we first demonstrated that approximately 7 and 2% of human-specific expressed genes were epigenetically marked by <sup>H3K4me3</sup>HP and <sup>H3K27ac</sup>HP, respectively, providing robust support for causal involvement of histones in gene expression. We also revealed the co-activation role of epigenetic modification and transcription factors in human-specific transcriptome evolution. Mechanistically, histone-modifying enzymes at least partially contribute to an epigenetic disturbance among primates, especially for the H3K27ac epigenomic marker. In line with this, peaks enriched in the macaque lineage were found to be driven by upregulated acetyl enzymes. CONCLUSIONS: Our results comprehensively elucidated a causal species-specific gene-histone-enzyme landscape in the prefrontal cortex and highlighted the regulatory interaction that drove transcriptional activation.",
+  "authors": [
+    "Sun Weifen",
+    "Xie Gangcai",
+    "Jiang Xi",
+    "Khaitovich Philipp",
+    "Han Dingding",
+    "Liu Xiling"
+  ],
+  "journal": "BMC biology",
+  "year": "2023",
+  "doi": "10.1186/s12915-023-01612-3",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Histones",
+    "Epigenesis, Genetic",
+    "Lysine",
+    "Macaca mulatta",
+    "Prefrontal Cortex",
+    "Gene Expression"
+  ]
+}

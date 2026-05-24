@@ -1,0 +1,33 @@
+{
+  "pmid": "29432117",
+  "title": "Closed-Loop Continuous Hand Control via Chronic Recording of Regenerative Peripheral Nerve Interfaces.",
+  "abstract": "Loss of the upper limb imposes a devastating interruption to everyday life. Full restoration of natural arm control requires the ability to simultaneously control multiple degrees of freedom of the prosthetic arm and maintain that control over an extended period of time. Current clinically available myoelectric prostheses do not provide simultaneous control or consistency for transradial amputees. To address this issue, we have implemented a standard Kalman filter for continuous hand control using intramuscular electromyography (EMG) from both regenerative peripheral nerve interfaces (RPNI) and an intact muscle within non-human primates. Seven RPNIs and one intact muscle were implanted with indwelling bipolar intramuscular electrodes in two rhesus macaques. Following recuperations, function-specific EMG signals were recorded and then fed through the Kalman filter during a hand-movement behavioral task to continuously predict the monkey's finger position. We were able to reconstruct continuous finger movement offline with an average correlation of and a root mean squared error (RMSE) of 0.12 between actual and predicted position from two macaques. This finger movement prediction was also performed in real time to enable closed-loop neural control of a virtual hand. Compared with physical hand control, neural control performance was slightly slower but maintained an average target hit success rate of 96.70%. Recalibration longevity measurements maintained consistent average correlation over time but had a significant change in RMSE ( ). Additionally, extracted single units varied in amplitude by a factor of +18.65% and -25.85% compared with its mean. This is the first demonstration of chronic indwelling electrodes being used for continuous position control via the Kalman filter. Combining these analyses with our novel peripheral nerve interface, we believe that this demonstrates an important step in providing patients with more naturalistic control of their prosthetic limbs.",
+  "authors": [
+    "Vu Philip P",
+    "Irwin Zachary T",
+    "Bullard Autumn J",
+    "Ambani Shoshana W",
+    "Sando Ian C",
+    "Urbanchek Melanie G",
+    "Cederna Paul S",
+    "Chestek Cynthia A"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2018",
+  "doi": "10.1109/TNSRE.2017.2772961",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artificial Limbs",
+    "Calibration",
+    "Electric Stimulation",
+    "Electromyography",
+    "Fingers",
+    "Macaca mulatta",
+    "Peripheral Nerves",
+    "Prosthesis Design",
+    "Psychomotor Performance",
+    "Upper Extremity",
+    "User-Computer Interface"
+  ]
+}

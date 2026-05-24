@@ -1,0 +1,26 @@
+{
+  "pmid": "27116730",
+  "title": "Overcoming Long-Term Variability in Local Field Potentials Using an Adaptive Decoder.",
+  "abstract": "Long-term variability remains one of the major hurdles in using intracortical recordings like local field potentials for brain computer interfaces (BCI). Practical neural decoders need to overcome time instability of neural signals to estimate subject behavior accurately and faithfully over the long term. This paper presents a novel decoder that 1) characterizes each behavioral task (i.e., different movement directions under different force conditions) with multiple neural patterns and 2) adapts to the long-term variations in neural features by identifying the stable neural patterns. This adaptation can be performed in both an unsupervised and a semisupervised learning framework requiring minimal feedback from the user. To achieve generalization over time, the proposed decoder uses redundant sparse regression models that adapt to day-to-day variations in neural patterns. While this update requires no explicit feedback from the BCI user, any feedback (explicit or derived) to the BCI improves its performance. With this adaptive decoder, we investigated the effects of long-term neural modulation especially when subjects encountered new external forces against movement. The proposed decoder predicted eight hand-movement directions with an accuracy of 95% over two weeks (when there was no external forces); and 85% in later acquisition sessions spanning up to 42 days (when the monkeys countered external field forces). Since the decoder can operate with or without manual intervention, it could alleviate user frustration associated with BCI.",
+  "authors": [
+    "Tadipatri Vijay Aditya",
+    "Tewfik Ahmed H",
+    "Pellizzer Giuseppe",
+    "Ashe James"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2017",
+  "doi": "10.1109/TBME.2016.2557070",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Models, Theoretical",
+    "Signal Processing, Computer-Assisted",
+    "Task Performance and Analysis"
+  ]
+}

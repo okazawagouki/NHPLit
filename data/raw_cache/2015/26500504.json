@@ -1,0 +1,26 @@
+{
+  "pmid": "26500504",
+  "title": "A computational relationship between thalamic sensory neural responses and contrast perception.",
+  "abstract": "Uncovering the relationship between sensory neural responses and perceptual decisions remains a fundamental problem in neuroscience. Decades of experimental and modeling work in the sensory cortex have demonstrated that a perceptual decision pool is usually composed of tens to hundreds of neurons, the responses of which are significantly correlated not only with each other, but also with the behavioral choices of an animal. Few studies, however, have measured neural activity in the sensory thalamus of awake, behaving animals. Therefore, it remains unclear how many thalamic neurons are recruited and how the information from these neurons is pooled at subsequent cortical stages to form a perceptual decision. In a previous study we measured neural activity in the macaque lateral geniculate nucleus (LGN) during a two alternative forced choice (2AFC) contrast detection task, and found that single LGN neurons were significantly correlated with the monkeys' behavioral choices, despite their relatively poor contrast sensitivity and a lack of overall interneuronal correlations. We have now computationally tested a number of specific hypotheses relating these measured LGN neural responses to the contrast detection behavior of the animals. We modeled the perceptual decisions with different numbers of neurons and using a variety of pooling/readout strategies, and found that the most successful model consisted of about 50-200 LGN neurons, with individual neurons weighted differentially according to their signal-to-noise ratios (quantified as d-primes). These results supported the hypothesis that in contrast detection the perceptual decision pool consists of multiple thalamic neurons, and that the response fluctuations in these neurons can influence contrast perception, with the more sensitive thalamic neurons likely to exert a greater influence.",
+  "authors": [
+    "Jiang Yaoguang",
+    "Purushothaman Gopathy",
+    "Casagrande Vivien A"
+  ],
+  "journal": "Frontiers in neural circuits",
+  "year": "2015",
+  "doi": "10.3389/fncir.2015.00054",
+  "mesh": [
+    "Animals",
+    "Choice Behavior",
+    "Computer Simulation",
+    "Contrast Sensitivity",
+    "Geniculate Bodies",
+    "Macaca mulatta",
+    "Macaca radiata",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Probability"
+  ]
+}

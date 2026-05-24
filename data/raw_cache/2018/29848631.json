@@ -1,0 +1,29 @@
+{
+  "pmid": "29848631",
+  "title": "Navigation of brain networks.",
+  "abstract": "Understanding the mechanisms of neural communication in large-scale brain networks remains a major goal in neuroscience. We investigated whether navigation is a parsimonious routing model for connectomics. Navigating a network involves progressing to the next node that is closest in distance to a desired destination. We developed a measure to quantify navigation efficiency and found that connectomes in a range of mammalian species (human, mouse, and macaque) can be successfully navigated with near-optimal efficiency (>80% of optimal efficiency for typical connection densities). Rewiring network topology or repositioning network nodes resulted in 45-60% reductions in navigation performance. We found that the human connectome cannot be progressively randomized or clusterized to result in topologies with substantially improved navigation performance (>5%), suggesting a topological balance between regularity and randomness that is conducive to efficient navigation. Navigation was also found to (<i>i</i>) promote a resource-efficient distribution of the information traffic load, potentially relieving communication bottlenecks, and (<i>ii</i>) explain significant variation in functional connectivity. Unlike commonly studied communication strategies in connectomics, navigation does not mandate assumptions about global knowledge of network topology. We conclude that the topology and geometry of brain networks are conducive to efficient decentralized communication.",
+  "authors": [
+    "Seguin Caio",
+    "van den Heuvel Martijn P",
+    "Zalesky Andrew"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2018",
+  "doi": "10.1073/pnas.1801351115",
+  "mesh": [
+    "Adult",
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Connectome",
+    "Female",
+    "Humans",
+    "Macaca",
+    "Male",
+    "Mice",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Pathways",
+    "Young Adult"
+  ]
+}

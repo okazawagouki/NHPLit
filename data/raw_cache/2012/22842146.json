@@ -1,0 +1,36 @@
+{
+  "pmid": "22842146",
+  "title": "The neuroimaging signal is a linear sum of neurally distinct stimulus- and task-related components.",
+  "abstract": "Neuroimaging (for example, functional magnetic resonance imaging) signals are taken as a uniform proxy for local neural activity. By simultaneously recording electrode and neuroimaging (intrinsic optical imaging) signals in alert, task-engaged macaque visual cortex, we recently observed a large anticipatory trial-related neuroimaging signal that was poorly related to local spiking or field potentials. We used these same techniques to study the interactions of this trial-related signal with stimulus-evoked responses over the full range of stimulus intensities, including total darkness. We found that the two signals could be separated, and added linearly over this full range. The stimulus-evoked component was related linearly to local spiking and, consequently, could be used to obtain precise and reliable estimates of local neural activity. The trial-related signal likely has a distinct neural mechanism, however, and failure to account for it properly could lead to substantial errors when estimating local neural spiking from the neuroimaging signal.",
+  "authors": [
+    "Cardoso Mariana M B",
+    "Sirotin Yevgeniy B",
+    "Lima Bruss",
+    "Glushenkova Elena",
+    "Das Aniruddha"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2012",
+  "doi": "10.1038/nn.3170",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cerebrovascular Circulation",
+    "Conditioning, Operant",
+    "Cues",
+    "Darkness",
+    "Electrodes, Implanted",
+    "Electrophysiological Phenomena",
+    "Evoked Potentials",
+    "Fixation, Ocular",
+    "Hemodynamics",
+    "Image Processing, Computer-Assisted",
+    "Linear Models",
+    "Macaca mulatta",
+    "Nervous System Physiological Phenomena",
+    "Neuroimaging",
+    "Neurophysiology",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

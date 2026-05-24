@@ -1,0 +1,21 @@
+{
+  "pmid": "29133032",
+  "title": "Measurements of neuronal color tuning: Procedures, pitfalls, and alternatives.",
+  "abstract": "Measuring the color tuning of visual neurons is important for understanding the neural basis of vision, but it is challenging because of the inherently three-dimensional nature of color. Color tuning cannot be represented by a one-dimensional curve, and measuring three-dimensional tuning curves is difficult. One approach to addressing this challenge is to analyze neuronal color tuning data through the lens of mathematical models that make assumptions about the shapes of tuning curves. In this paper, we discuss the linear-nonlinear cascade model as a platform for measuring neuronal color tuning. We compare fitting this model by three techniques: two using response-weighted averaging and one using numerical optimization of likelihood. We highlight the advantages and disadvantages of each technique and emphasize the effects of the stimulus distribution on color tuning measurements.",
+  "authors": [
+    "Weller J Patrick",
+    "Horwitz Gregory D"
+  ],
+  "journal": "Vision research",
+  "year": "2018",
+  "doi": "10.1016/j.visres.2017.08.005",
+  "mesh": [
+    "Animals",
+    "Color Vision",
+    "Linear Models",
+    "Macaca",
+    "Nonlinear Dynamics",
+    "Retinal Neurons",
+    "Visual Cortex"
+  ]
+}

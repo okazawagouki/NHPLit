@@ -1,0 +1,27 @@
+{
+  "pmid": "30210309",
+  "title": "Attention Configures Synchronization Within Local Neuronal Networks for Processing of the Behaviorally Relevant Stimulus.",
+  "abstract": "The need for fast and dynamic processing of relevant information imposes high demands onto the flexibility and efficiency of the nervous system. A good example for such flexibility is the attention-dependent selection of relevant sensory information. Studies investigating attentional modulations of neuronal responses to simultaneously arriving input showed that neurons respond, as if only the attended stimulus would be present within their receptive fields (RF). However, attention also improves neuronal representation and behavioral performance, when only one stimulus is present. Thus, attention serves for selecting relevant input and changes the neuronal processing of signals representing selected stimuli, ultimately leading to a more efficient behavioral performance. Here, we tested the hypothesis that attention configures the strength of functional coupling between a local neuronal network's neurons specifically for effective processing of signals representing attended stimuli. This coupling is measured as the strength of γ-synchronization between these neurons. The hypothesis predicts that the pattern of synchronization in local networks should depend on which stimulus is attended. Furthermore, we expect this pattern to be similar for the attended stimulus presented alone or together with irrelevant stimuli in the RF. To test these predictions, we recorded spiking-activity and local field potentials (LFP) with closely spaced electrodes in area V4 of monkeys performing a demanding attention task. Our results show that the γ-band phase coherence (γ-PhC) between spiking-activity and the LFP, as well as the spiking-activity of two groups of neurons, strongly depended on which of the two stimuli in the RF was attended. The γ-PhC was almost identical for the attended stimulus presented either alone or together with a distractor. The functional relevance of dynamic γ-band synchronization is further supported by the observation of strongly degraded γ-PhC before behavioral errors, while firing rates were barely affected. These qualitatively different results point toward a failure of attention-dependent top-down mechanisms to correctly synchronize the local neuronal network in V4, even though this network receives the correctly selected input. These findings support the idea of a flexible, demand-dependent dynamic configuration of local neuronal networks, for performing different functions, even on the same sensory input.",
+  "authors": [
+    "Drebitz Eric",
+    "Haag Marcus",
+    "Grothe Iris",
+    "Mandon Sunita",
+    "Kreiter Andreas K"
+  ],
+  "journal": "Frontiers in neural circuits",
+  "year": "2018",
+  "doi": "10.3389/fncir.2018.00071",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Cortical Synchronization",
+    "Evoked Potentials, Visual",
+    "Macaca mulatta",
+    "Male",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

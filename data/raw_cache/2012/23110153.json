@@ -1,0 +1,36 @@
+{
+  "pmid": "23110153",
+  "title": "Prediction of muscle activities from electrocorticograms in primary motor cortex of primates.",
+  "abstract": "Electrocorticography (ECoG) has drawn attention as an effective recording approach for brain-machine interfaces (BMI). Previous studies have succeeded in classifying movement intention and predicting hand trajectories from ECoG. Despite such successes, however, there still remains considerable work for the realization of ECoG-based BMIs as neuroprosthetics. We developed a method to predict multiple muscle activities from ECoG measurements. We also verified that ECoG signals are effective for predicting muscle activities in time varying series when performing sequential movements. ECoG signals were band-pass filtered into separate sensorimotor rhythm bands, z-score normalized, and smoothed with a Gaussian filter. We used sparse linear regression to find the best fit between frequency bands of ECoG and electromyographic activity. The best average correlation coefficient and the normalized root-mean-square error were 0.92±0.06 and 0.06±0.10, respectively, in the flexor digitorum profundus finger muscle. The δ (1.5∼4Hz) and γ2 (50∼90Hz) bands contributed significantly more strongly than other frequency bands (P<0.001). These results demonstrate the feasibility of predicting muscle activity from ECoG signals in an online fashion.",
+  "authors": [
+    "Shin Duk",
+    "Watanabe Hidenori",
+    "Kambara Hiroyuki",
+    "Nambu Atsushi",
+    "Isa Tadashi",
+    "Nishimura Yukio",
+    "Koike Yasuharu"
+  ],
+  "journal": "PloS one",
+  "year": "2012",
+  "doi": "10.1371/journal.pone.0047992",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Brain-Computer Interfaces",
+    "Electroencephalography",
+    "Electromyography",
+    "Feasibility Studies",
+    "Female",
+    "Fingers",
+    "Linear Models",
+    "Macaca",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Muscles",
+    "Reproducibility of Results",
+    "Somatosensory Cortex"
+  ]
+}

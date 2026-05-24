@@ -1,0 +1,30 @@
+{
+  "pmid": "28840189",
+  "title": "Refractoriness Accounts for Variable Spike Burst Responses in Somatosensory Cortex.",
+  "abstract": "Neurons in the primary somatosensory cortex (S1) respond to peripheral stimulation with synchronized bursts of spikes, which lock to the macroscopic 600-Hz EEG waves. The mechanism of burst generation and synchronization in S1 is not yet understood. Using models of single-neuron responses fitted to unit recordings from macaque monkeys, we show that these synchronized bursts are the consequence of correlated synaptic inputs combined with a refractory mechanism. In the presence of noise these models reproduce also the observed trial-to-trial response variability, where individual bursts represent one of many stereotypical temporal spike patterns. When additional slower and global excitability fluctuations are introduced the single-neuron spike patterns are correlated with the population activity, as demonstrated in experimental data. The underlying biophysical mechanism of S1 responses involves thalamic inputs arriving through depressing synapses to cortical neurons in a high-conductance state. Our findings show that a simple feedforward processing of peripheral inputs could give rise to neuronal responses with nontrivial temporal and population statistics. We conclude that neural systems could use refractoriness to encode variable cortical states into stereotypical short-term spike patterns amenable to processing at neuronal time scales (tens of milliseconds).",
+  "authors": [
+    "Teleńczuk Bartosz",
+    "Kempter Richard",
+    "Curio Gabriel",
+    "Destexhe Alain"
+  ],
+  "journal": "eNeuro",
+  "year": "2017",
+  "doi": "10.1523/ENEURO.0173-17.2017",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electric Stimulation",
+    "Electrocorticography",
+    "Female",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurons",
+    "Signal Processing, Computer-Assisted",
+    "Somatosensory Cortex",
+    "Synapses",
+    "Touch Perception",
+    "Wrist"
+  ]
+}

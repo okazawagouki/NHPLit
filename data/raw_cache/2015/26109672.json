@@ -1,0 +1,26 @@
+{
+  "pmid": "26109672",
+  "title": "PMv Neuronal Firing May Be Driven by a Movement Command Trajectory within Multidimensional Gaussian Fields.",
+  "abstract": "The premotor cortex (PM) is known to be a site of visuo-somatosensory integration for the production of movement. We sought to better understand the ventral PM (PMv) by modeling its signal encoding in greater detail. Neuronal firing data was obtained from 110 PMv neurons in two male rhesus macaques executing four reach-grasp-manipulate tasks. We found that in the large majority of neurons (∼90%) the firing patterns across the four tasks could be explained by assuming that a high-dimensional position/configuration trajectory-like signal evolving ∼250 ms before movement was encoded within a multidimensional Gaussian field (MGF). Our findings are consistent with the possibility that PMv neurons process a visually specified reference command for the intended arm/hand position trajectory with respect to a proprioceptively or visually sensed initial configuration. The estimated MGF were (hyper) disc-like, such that each neuron's firing modulated strongly only with commands that evolved along a single direction within position/configuration space. Thus, many neurons appeared to be tuned to slices of this input signal space that as a collection appeared to well cover the space. The MGF encoding models appear to be consistent with the arm-referent, bell-shaped, visual target tuning curves and target selectivity patterns observed in PMV visual-motor neurons. These findings suggest that PMv may implement a lookup table-like mechanism that helps translate intended movement trajectory into time-varying patterns of activation in motor cortex and spinal cord. MGFs provide an improved nonlinear framework for potentially decoding visually specified, intended multijoint arm/hand trajectories well in advance of movement.",
+  "authors": [
+    "Agarwal Rahul",
+    "Thakor Nitish V",
+    "Sarma Sridevi V",
+    "Massaquoi Steve G"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.2643-14.2015",
+  "mesh": [
+    "Animals",
+    "Electrophysiology",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neurons",
+    "Principal Component Analysis",
+    "Psychomotor Performance"
+  ]
+}

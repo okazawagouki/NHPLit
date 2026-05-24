@@ -1,0 +1,24 @@
+{
+  "pmid": "26952050",
+  "title": "Temporal structure of human magnetic evoked fields.",
+  "abstract": "Nonlinear analysis of the multifocal cortical visual evoked potential has allowed the identification of neural generation of higher-order nonlinear components by magnocellular and parvocellular neural streams. However, the location of individual brain sources that make such contributions to these evoked responses has not been studied. Thus, an m-sequence pseudorandom stimulus system was developed for use in magnetoencephalographic (MEG) studies. Five normal young adults were recorded using an Elekta TRIUX MEG with 306 sensors. Visual stimuli comprised a nine-patch dartboard stimulus, and each patch fluctuated between two luminance levels with separate recordings carried out at low (24 %) and high (96 %) temporal contrast. Sensor-space analysis of MEG evoked fields identified components of the first- and second-order Wiener kernel decomposition that showed qualitative similarity with EEG-based cortical VEP recordings. The first slice of the second-order response (K2.1) was already saturated at 24 % contrast, while the major waveform of the second slice of the second-order response (K2.2) grew strongly with contrast, consistent with properties of the magnocellular and parvocellular neurons. Minimum norm estimates of cortical source localization showed almost simultaneous activation of V1 and MT+ activations with latencies only a little greater that those reported for first neural spikes in primate single cell studies. Time-frequency analysis of the kernel responses from five minimum norm estimate scout sources shows contributions from higher-frequency bands for the first compared with the second slice response, consistent with the proposed neural sources. In support of this magno/parvo break-up, the onset latencies of the K2.2 responses were delayed by approximately 30 ms compared with K2.1 responses.",
+  "authors": [
+    "Crewther David P",
+    "Brown Alyse",
+    "Hugrass Laila"
+  ],
+  "journal": "Experimental brain research",
+  "year": "2016",
+  "doi": "10.1007/s00221-016-4601-0",
+  "mesh": [
+    "Adult",
+    "Cerebral Cortex",
+    "Evoked Potentials, Visual",
+    "Geniculate Bodies",
+    "Humans",
+    "Magnetoencephalography",
+    "Nonlinear Dynamics",
+    "Visual Perception",
+    "Young Adult"
+  ]
+}

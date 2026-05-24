@@ -1,0 +1,25 @@
+{
+  "pmid": "25423284",
+  "title": "Temporal correlation mechanisms and their role in feature selection: a single-unit study in primate somatosensory cortex.",
+  "abstract": "Studies in vision show that attention enhances the firing rates of cells when it is directed towards their preferred stimulus feature. However, it is unknown whether other sensory systems employ this mechanism to mediate feature selection within their modalities. Moreover, whether feature-based attention modulates the correlated activity of a population is unclear. Indeed, temporal correlation codes such as spike-synchrony and spike-count correlations (r(sc)) are believed to play a role in stimulus selection by increasing the signal and reducing the noise in a population, respectively. Here, we investigate (1) whether feature-based attention biases the correlated activity between neurons when attention is directed towards their common preferred feature, (2) the interplay between spike-synchrony and rsc during feature selection, and (3) whether feature attention effects are common across the visual and tactile systems. Single-unit recordings were made in secondary somatosensory cortex of three non-human primates while animals engaged in tactile feature (orientation and frequency) and visual discrimination tasks. We found that both firing rate and spike-synchrony between neurons with similar feature selectivity were enhanced when attention was directed towards their preferred feature. However, attention effects on spike-synchrony were twice as large as those on firing rate, and had a tighter relationship with behavioral performance. Further, we observed increased r(sc) when attention was directed towards the visual modality (i.e., away from touch). These data suggest that similar feature selection mechanisms are employed in vision and touch, and that temporal correlation codes such as spike-synchrony play a role in mediating feature selection. We posit that feature-based selection operates by implementing multiple mechanisms that reduce the overall noise levels in the neural population and synchronize activity across subpopulations that encode the relevant features of sensory stimuli.",
+  "authors": [
+    "Gomez-Ramirez Manuel",
+    "Trzcinski Natalie K",
+    "Mihalas Stefan",
+    "Niebur Ernst",
+    "Hsiao Steven S"
+  ],
+  "journal": "PLoS biology",
+  "year": "2014",
+  "doi": "10.1371/journal.pbio.1002004",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Single-Cell Analysis",
+    "Somatosensory Cortex"
+  ]
+}

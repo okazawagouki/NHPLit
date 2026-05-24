@@ -1,0 +1,21 @@
+{
+  "pmid": "21455284",
+  "title": "Minimal models of multidimensional computations.",
+  "abstract": "The multidimensional computations performed by many biological systems are often characterized with limited information about the correlations between inputs and outputs. Given this limitation, our approach is to construct the maximum noise entropy response function of the system, leading to a closed-form and minimally biased model consistent with a given set of constraints on the input/output moments; the result is equivalent to conditional random field models from machine learning. For systems with binary outputs, such as neurons encoding sensory stimuli, the maximum noise entropy models are logistic functions whose arguments depend on the constraints. A constraint on the average output turns the binary maximum noise entropy models into minimum mutual information models, allowing for the calculation of the information content of the constraints and an information theoretic characterization of the system's computations. We use this approach to analyze the nonlinear input/output functions in macaque retina and thalamus; although these systems have been previously shown to be responsive to two input dimensions, the functional form of the response function in this reduced space had not been unambiguously identified. A second order model based on the logistic function is found to be both necessary and sufficient to accurately describe the neural responses to naturalistic stimuli, accounting for an average of 93% of the mutual information with a small number of parameters. Thus, despite the fact that the stimulus is highly non-Gaussian, the vast majority of the information in the neural responses is related to first and second order correlations. Our results suggest a principled and unbiased way to model multidimensional computations and determine the statistics of the inputs that are being encoded in the outputs.",
+  "authors": [
+    "Fitzgerald Jeffrey D",
+    "Sincich Lawrence C",
+    "Sharpee Tatyana O"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2011",
+  "doi": "10.1371/journal.pcbi.1001111",
+  "mesh": [
+    "Action Potentials",
+    "Artificial Intelligence",
+    "Computer Simulation",
+    "Entropy",
+    "Models, Neurological",
+    "Neurons"
+  ]
+}

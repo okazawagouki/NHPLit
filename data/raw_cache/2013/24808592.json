@@ -1,0 +1,23 @@
+{
+  "pmid": "24808592",
+  "title": "Rapid feedforward computation by temporal encoding and learning with spiking neurons.",
+  "abstract": "Primates perform remarkably well in cognitive tasks such as pattern recognition. Motivated by recent findings in biological systems, a unified and consistent feedforward system network with a proper encoding scheme and supervised temporal rules is built for solving the pattern recognition task. The temporal rules used for processing precise spiking patterns have recently emerged as ways of emulating the brain's computation from its anatomy and physiology. Most of these rules could be used for recognizing different spatiotemporal patterns. However, there arises the question of whether these temporal rules could be used to recognize real-world stimuli such as images. Furthermore, how the information is represented in the brain still remains unclear. To tackle these problems, a proper encoding method and a unified computational model with consistent and efficient learning rule are proposed. Through encoding, external stimuli are converted into sparse representations, which also have properties of invariance. These temporal patterns are then learned through biologically derived algorithms in the learning layer, followed by the final decision presented through the readout layer. The performance of the model with images of digits from the MNIST database is presented. The results show that the proposed model is capable of recognizing images correctly with a performance comparable to that of current benchmark algorithms. The results also suggest a plausibility proof for a class of feedforward models of rapid and robust recognition in the brain.",
+  "authors": [
+    "Yu Qiang",
+    "Tang Huajin",
+    "Tan Kay Chen",
+    "Li Haizhou"
+  ],
+  "journal": "IEEE transactions on neural networks and learning systems",
+  "year": "2013",
+  "doi": "10.1109/TNNLS.2013.2245677",
+  "mesh": [
+    "Algorithms",
+    "Computer Simulation",
+    "Decision Making",
+    "Feedback",
+    "Learning",
+    "Neural Networks, Computer",
+    "Pattern Recognition, Automated"
+  ]
+}

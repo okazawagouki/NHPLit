@@ -1,0 +1,24 @@
+{
+  "pmid": "38079444",
+  "title": "How well do rudimentary plasticity rules predict adult visual object learning?",
+  "abstract": "A core problem in visual object learning is using a finite number of images of a new object to accurately identify that object in future, novel images. One longstanding, conceptual hypothesis asserts that this core problem is solved by adult brains through two connected mechanisms: 1) the re-representation of incoming retinal images as points in a fixed, multidimensional neural space, and 2) the optimization of linear decision boundaries in that space, via simple plasticity rules applied to a single downstream layer. Though this scheme is biologically plausible, the extent to which it explains learning behavior in humans has been unclear-in part because of a historical lack of image-computable models of the putative neural space, and in part because of a lack of measurements of human learning behaviors in difficult, naturalistic settings. Here, we addressed these gaps by 1) drawing from contemporary, image-computable models of the primate ventral visual stream to create a large set of testable learning models (n = 2,408 models), and 2) using online psychophysics to measure human learning trajectories over a varied set of tasks involving novel 3D objects (n = 371,000 trials), which we then used to develop (and publicly release) empirical benchmarks for comparing learning models to humans. We evaluated each learning model on these benchmarks, and found those based on deep, high-level representations from neural networks were surprisingly aligned with human behavior. While no tested model explained the entirety of replicable human behavior, these results establish that rudimentary plasticity rules, when combined with appropriate visual representations, have high explanatory power in predicting human behavior with respect to this core object learning problem.",
+  "authors": [
+    "Lee Michael J",
+    "DiCarlo James J"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2023",
+  "doi": "10.1371/journal.pcbi.1011713",
+  "mesh": [
+    "Adult",
+    "Animals",
+    "Humans",
+    "Pattern Recognition, Visual",
+    "Neural Networks, Computer",
+    "Primates",
+    "Brain",
+    "Spatial Learning",
+    "Models, Neurological",
+    "Visual Perception"
+  ]
+}

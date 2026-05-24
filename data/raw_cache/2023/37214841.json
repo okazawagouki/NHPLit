@@ -1,0 +1,13 @@
+{
+  "pmid": "37214841",
+  "title": "A sensory-motor decoder that transforms neural responses in extrastriate area MT into smooth pursuit eye movements.",
+  "abstract": "Visual motion drives smooth pursuit eye movements through a sensory-motor decoder that uses multiple parallel components and neural pathways to transform the population response in extrastriate area MT into movement. We evaluated the decoder by challenging pursuit in monkeys with reduced motion reliability created by reducing coherence of motion in patches of dots. Reduced dot coherence caused deficits in both the initiation of pursuit and steady-state tracking, revealing the paradox of steady-state eye speeds that fail to accelerate to target speed in spite of persistent image motion. We recorded neural responses to reduced dot coherence in MT and found a decoder that transforms MT population responses into eye movements. During pursuit initiation, decreased dot coherence reduces MT population response amplitude without changing the preferred speed at the peak of the population response. The successful decoder reproduces the measured eye movements by multiplication of (i) the estimate of target speed from the peak of the population response with (ii) visual-motor gain based on the amplitude of the population response. During steady-state tracking, the decoder that worked for pursuit initiation failed. It predicted eye acceleration to target speed even when monkeys' eye speeds were steady at a level well below target speed. We can account for the effect of dot coherence on steady-state eye speed if sensorymotor gain also modulates the eye velocity positive feedback that normally sustains perfect steadystate tracking. Then, poor steady-state tracking persists because of balance between deceleration caused by low positive feedback gain and acceleration driven by MT.",
+  "authors": [
+    "Behling Stuart",
+    "Lisberger Stephen G"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2023",
+  "doi": "10.1101/2023.05.12.540526",
+  "mesh": []
+}

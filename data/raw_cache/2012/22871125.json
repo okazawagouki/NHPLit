@@ -1,0 +1,26 @@
+{
+  "pmid": "22871125",
+  "title": "Automatic online spike sorting with singular value decomposition and fuzzy C-mean clustering.",
+  "abstract": "BACKGROUND: Understanding how neurons contribute to perception, motor functions and cognition requires the reliable detection of spiking activity of individual neurons during a number of different experimental conditions. An important problem in computational neuroscience is thus to develop algorithms to automatically detect and sort the spiking activity of individual neurons from extracellular recordings. While many algorithms for spike sorting exist, the problem of accurate and fast online sorting still remains a challenging issue. RESULTS: Here we present a novel software tool, called FSPS (Fuzzy SPike Sorting), which is designed to optimize: (i) fast and accurate detection, (ii) offline sorting and (iii) online classification of neuronal spikes with very limited or null human intervention. The method is based on a combination of Singular Value Decomposition for fast and highly accurate pre-processing of spike shapes, unsupervised Fuzzy C-mean, high-resolution alignment of extracted spike waveforms, optimal selection of the number of features to retain, automatic identification the number of clusters, and quantitative quality assessment of resulting clusters independent on their size. After being trained on a short testing data stream, the method can reliably perform supervised online classification and monitoring of single neuron activity. The generalized procedure has been implemented in our FSPS spike sorting software (available free for non-commercial academic applications at the address: http://www.spikesorting.com) using LabVIEW (National Instruments, USA). We evaluated the performance of our algorithm both on benchmark simulated datasets with different levels of background noise and on real extracellular recordings from premotor cortex of Macaque monkeys. The results of these tests showed an excellent accuracy in discriminating low-amplitude and overlapping spikes under strong background noise. The performance of our method is competitive with respect to other robust spike sorting algorithms. CONCLUSIONS: This new software provides neuroscience laboratories with a new tool for fast and robust online classification of single neuron activity. This feature could become crucial in situations when online spike detection from multiple electrodes is paramount, such as in human clinical recordings or in brain-computer interfaces.",
+  "authors": [
+    "Oliynyk Andriy",
+    "Bonifazzi Claudio",
+    "Montani Fernando",
+    "Fadiga Luciano"
+  ],
+  "journal": "BMC neuroscience",
+  "year": "2012",
+  "doi": "10.1186/1471-2202-13-96",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cluster Analysis",
+    "Computer Simulation",
+    "Fuzzy Logic",
+    "Humans",
+    "Models, Neurological",
+    "Neurons",
+    "Signal Processing, Computer-Assisted",
+    "Software"
+  ]
+}

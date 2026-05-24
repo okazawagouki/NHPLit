@@ -1,0 +1,32 @@
+{
+  "pmid": "16705272",
+  "title": "Selection and parameterization of cortical neurons for neuroprosthetic control.",
+  "abstract": "When designing neuroprosthetic interfaces for motor function, it is crucial to have a system that can extract reliable information from available neural signals and produce an output suitable for real life applications. Systems designed to date have relied on establishing a relationship between neural discharge patterns in motor cortical areas and limb movement, an approach not suitable for patients who require such implants but who are unable to provide proper motor behavior to initially tune the system. We describe here a method that allows rapid tuning of a population vector-based system for neural control without arm movements. We trained highly motivated primates to observe a 3D center-out task as the computer played it very slowly. Based on only 10-12 s of neuronal activity observed in M1 and PMd, we generated an initial mapping between neural activity and device motion that the animal could successfully use for neuroprosthetic control. Subsequent tunings of the parameters led to improvements in control, but the initial selection of neurons and estimated preferred direction for those cells remained stable throughout the remainder of the day. Using this system, we have observed that the contribution of individual neurons to the overall control of the system is very heterogeneous. We thus derived a novel measure of unit quality and an indexing scheme that allowed us to rate each neuron's contribution to the overall control. In offline tests, we found that fewer than half of the units made positive contributions to the performance. We tested this experimentally by having the animals control the neuroprosthetic system using only the 20 best neurons. We found that performance in this case was better than when the entire set of available neurons was used. Based on these results, we believe that, with careful task design, it is feasible to parameterize control systems without any overt behaviors and that subsequent control system design will be enhanced with cautious unit selection. These improvements can lead to systems demanding lower bandwidth and computational power, and will pave the way for more feasible clinical systems.",
+  "authors": [
+    "Wahnoun Remy",
+    "He Jiping",
+    "Helms Tillery Stephen I"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Artificial Intelligence",
+    "Communication Devices for People with Disabilities",
+    "Diagnosis, Computer-Assisted",
+    "Electroencephalography",
+    "Evoked Potentials, Motor",
+    "Feedback",
+    "Humans",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Nervous System Diseases",
+    "Neurons",
+    "Pattern Recognition, Automated",
+    "Prosthesis Design",
+    "User-Computer Interface"
+  ]
+}

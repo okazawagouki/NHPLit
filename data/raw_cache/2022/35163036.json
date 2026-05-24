@@ -1,0 +1,35 @@
+{
+  "pmid": "35163036",
+  "title": "Investigating the Influence of GABA Neurons on Dopamine Neurons in the Ventral Tegmental Area Using Optogenetic Techniques.",
+  "abstract": "Dopamine (DA) is the key regulator of reward behavior. The DA neurons in the ventral tegmental area (VTA) and their projection areas, which include the prefrontal cortex (PFC), nucleus accumbens (NAc), and amygdala, play a primary role in the process of reward-driven behavior induced by the drugs of addiction, including nicotine and alcohol. In our previous study, we developed a novel platform consisting of micro-LED array devices to stimulate a large area of the brain of rats and monkeys with photo-stimulation and a microdialysis probe to estimate the DA release in the PFC. Our results suggested that the platform was able to detect the increased level of dopamine in the PFC in response to the photo-stimulation of both the PFC and VTA. In this study, we used this platform to photo-stimulate the VTA neurons in both ChrimsonR-expressing (non-specific) wild and dopamine transporter (DAT)-Cre (dopamine specific) mice, and measured the dopamine release in the nucleus accumbens shell (NAcShell). We measured the DA release in the NAcShell in response to optogenetic stimulation of the VTA neurons and investigated the effect of GABAergic neurons on dopaminergic neurons by histochemical studies. Comparing the photo-stimulation frequency of 2 Hz with that of 20 Hz, the change in DA concentration at the NAcShell was greater at 20 Hz in both cases. When ChrimsonR was expressed specifically for DA, the release of DA at the NAcShell increased in response to photo-stimulation of the VTA. In contrast, when ChrimsonR was expressed non-specifically, the amount of DA released was almost unchanged upon photo-stimulation. However, for nonspecifically expressed ChrimsonR, intraperitoneal injection of bicuculline, a competitive antagonist at the GABA-binding site of the GABA<sub>A</sub> receptor, also significantly increased the release of DA at the NAcShell in response to photo-stimulation of the VTA. The results of immunochemical staining confirm that GABAergic neurons in the VTA suppress DA activation, and also indicate that alterations in GABAergic neurons may have serious downstream effects on DA activity, NAcShell release, and neural adaptation of the VTA. This study also confirms that optogenetics technology is crucial to study the relationship between the mesolimbic dopaminergic and GABAergic neurons in a neural-specific manner.",
+  "authors": [
+    "Ohta Yasumi",
+    "Murakami Takaaki E",
+    "Kawahara Mamiko",
+    "Haruta Makito",
+    "Takehara Hironari",
+    "Tashiro Hiroyuki",
+    "Sasagawa Kiyotaka",
+    "Ohta Jun",
+    "Akay Metin",
+    "Akay Yasemin M"
+  ],
+  "journal": "International journal of molecular sciences",
+  "year": "2022",
+  "doi": "10.3390/ijms23031114",
+  "mesh": [
+    "Animals",
+    "Bicuculline",
+    "Channelrhodopsins",
+    "Dopamine",
+    "Dopamine Plasma Membrane Transport Proteins",
+    "Dopaminergic Neurons",
+    "GABAergic Neurons",
+    "Male",
+    "Mice",
+    "Nucleus Accumbens",
+    "Optical Imaging",
+    "Optogenetics",
+    "Ventral Tegmental Area"
+  ]
+}

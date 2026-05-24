@@ -1,0 +1,18 @@
+{
+  "pmid": "37214905",
+  "title": "Near-field potentials index local neural computations more accurately than population spiking.",
+  "abstract": "UNLABELLED: Local field potentials (LFP) are low-frequency extracellular voltage fluctuations thought to primarily arise from synaptic activity. However, unlike highly localized neuronal spiking, LFP is spatially less specific. LFP measured at one location is not entirely generated there due to far-field contributions that are passively conducted across volumes of neural tissue. We sought to quantify how much information within the locally generated, near-field low-frequency activity (nfLFP) is masked by volume-conducted far-field signals. To do so, we measured laminar neural activity in primary visual cortex (V1) of monkeys viewing sequences of multifeatured stimuli. We compared information content of regular LFP and nfLFP that was mathematically stripped of volume-conducted far-field contributions. Information content was estimated by decoding stimulus properties from neural responses via spatiotemporal multivariate pattern analysis. Volume-conducted information differed from locally generated information in two important ways: (1) for stimulus features relevant to V1 processing (orientation and eye-of-origin), nfLFP contained more information. (2) in contrast, the volume-conducted signal was more informative regarding temporal context (relative stimulus position in a sequence), a signal likely to be coming from elsewhere. Moreover, LFP and nfLFP differed both spectrally as well as spatially, urging caution regarding the interpretations of individual frequency bands and/or laminar patterns of LFP. Most importantly, we found that population spiking of local neurons was less informative than either the LFP or nfLFP, with nfLFP containing most of the relevant information regarding local stimulus processing. These findings suggest that the optimal way to read out local computational processing from neural activity is to decode the local contributions to LFP, with significant information loss hampering both regular LFP and local spiking. AUTHOR’S CONTRIBUTIONS: Conceptualization, D.A.T., J.A.W, and A.M.; Data Collection, J.A.W., M.A.C., K.D.; Formal Analysis, D.A.T. and J.A.W.; Data Visualization, D.A.T. and J.A.W.; Original Draft, D.A.T., J.A.W., and A.M.; Revisions and Final Draft, D.A.T., J.A.W., M.A.C., K.D., M.T.W., A.M.B., and A.M. COMPETING INTERESTS: The authors declare no conflicts of interest.",
+  "authors": [
+    "Tovar David A",
+    "Westerberg Jacob A",
+    "Cox Michele A",
+    "Dougherty Kacie",
+    "Wallace Mark T",
+    "Bastos André M",
+    "Maier Alexander"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2023",
+  "doi": "10.1101/2023.05.11.540026",
+  "mesh": []
+}

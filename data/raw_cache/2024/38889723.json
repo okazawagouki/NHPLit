@@ -1,0 +1,35 @@
+{
+  "pmid": "38889723",
+  "title": "Deciphering social traits and pathophysiological conditions from natural behaviors in common marmosets.",
+  "abstract": "Nonhuman primates (NHPs) are indispensable animal models by virtue of the continuity of behavioral repertoires across primates, including humans. However, behavioral assessment at the laboratory level has so far been limited. Employing the application of three-dimensional (3D) pose estimation and the optimal integration of subsequent analytic methodologies, we demonstrate that our artificial intelligence (AI)-based approach has successfully deciphered the ethological, cognitive, and pathological traits of common marmosets from their natural behaviors. By applying multiple deep neural networks trained with large-scale datasets, we established an evaluation system that could reconstruct and estimate the 3D poses of the marmosets, a small NHP that is suitable for analyzing complex natural behaviors in laboratory setups. We further developed downstream analytic methodologies to quantify a variety of behavioral parameters beyond motion kinematics. We revealed the distinct parental roles of male and female marmosets through automated detections of food-sharing behaviors using a spatial-temporal filter on 3D poses. Employing a recurrent neural network to analyze 3D pose time series data during social interactions, we additionally discovered that marmosets adjusted their behaviors based on others' internal state, which is not directly observable but can be inferred from the sequence of others' actions. Moreover, a fully unsupervised approach enabled us to detect progressively appearing symptomatic behaviors over a year in a Parkinson's disease model. The high-throughput and versatile nature of an AI-driven approach to analyze natural behaviors will open a new avenue for neuroscience research dealing with big-data analyses of social and pathophysiological behaviors in NHPs.",
+  "authors": [
+    "Kaneko Takaaki",
+    "Matsumoto Jumpei",
+    "Lu Wanyi",
+    "Zhao Xincheng",
+    "Ueno-Nigh Louie Richard",
+    "Oishi Takao",
+    "Kimura Kei",
+    "Otsuka Yukiko",
+    "Zheng Andi",
+    "Ikenaka Kensuke",
+    "Baba Kousuke",
+    "Mochizuki Hideki",
+    "Nishijo Hisao",
+    "Inoue Ken-Ichi",
+    "Takada Masahiko"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2024",
+  "doi": "10.1016/j.cub.2024.05.033",
+  "mesh": [
+    "Animals",
+    "Callithrix",
+    "Female",
+    "Male",
+    "Social Behavior",
+    "Behavior, Animal",
+    "Artificial Intelligence",
+    "Neural Networks, Computer"
+  ]
+}

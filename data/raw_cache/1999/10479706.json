@@ -1,0 +1,28 @@
+{
+  "pmid": "10479706",
+  "title": "Effects of nonuniform fiber sensitivity, innervation geometry, and noise on information relayed by a population of slowly adapting type I primary afferents from the fingerpad.",
+  "abstract": "The capacity of a population of primary afferent fibers to signal information about a sphere indenting the fingerpad is limited by factors such as the inhomogeneity of sensitivity among the afferents, the pattern and density of innervation, and the effects of noise (response variability). Using experimental data recorded from single slowly adapting type I afferents (SAIs), we simulated the response of the SAI population to such a stimulus. The human ability to discriminate stimulus curvature, location, and force has been quantified previously. We devised three neural measures, treating them as surrogates for the real neural measures underlying human performance, and explored how population parameters usually overlooked in neural coding studies affect such measures. Variation in sensitivity among SAIs is large; this distorts population response profiles markedly but has no significant impact on the neural measures. Two classes of noise were introduced, one dependent on and the other independent of the level of neural activity. Resolution of the model was compared with discrimination in humans. Correlation of noise among neurons had different effects for the different measures. An increase in correlation decreased resolution in the measure for force but improved resolution in the measure for position. Increasing innervation density (1) always increased resolution for position and (2) increased resolution for force if noise was uncorrelated but had diminishing effects as correlation increased. Correlation and innervation density had complex effects on the measure for curvature, depending on the class of noise. Nonuniformity in the pattern of innervation had negligible effects on resolution.",
+  "authors": [
+    "Goodwin A W",
+    "Wheat H E"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Afferent Pathways",
+    "Animals",
+    "Computer Simulation",
+    "Discrimination, Psychological",
+    "Fingers",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Macaca nemestrina",
+    "Mathematics",
+    "Models, Neurological",
+    "Nerve Fibers",
+    "Regression Analysis",
+    "Sensory Thresholds",
+    "Skin"
+  ]
+}

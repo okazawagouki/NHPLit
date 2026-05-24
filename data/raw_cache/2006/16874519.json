@@ -1,0 +1,27 @@
+{
+  "pmid": "16874519",
+  "title": "Joint decoding of visual stimuli by IT neurons' spike counts is not improved by simultaneous recording.",
+  "abstract": "Information about visual stimuli such as objects and faces is represented across populations of neurons of the inferior temporal cortex. Does recording from inferotemporal neurons simultaneously tell you more than recording from them sequentially? Equivalently, are neurons conditionally independent given a stimulus? To evaluate these issues, we recorded from two monkeys during a passive viewing task. Multiple neurons were simultaneously recorded on separate electrodes. From spike counts in 50-ms windows, we computed the mutual information between counts and images for each neuron individually and jointly with other simultaneously recorded neurons. To determine the significance of these values, we shuffled the stimulus labels (to test if there was significant information) or shuffled responses across trials involving the same image (to see if there was synergistic coding). We recorded from 127 pairs of neurons where each neuron individually was visually responsive. Depending on the time window, we found up to approximately 90% of these pairs showed significant information about the visual stimulus. Shuffling across trials failed to show evidence for synergistic coding. In summary, if you were given two of our neuronal responses and asked to guess the stimulus which produced them you could not, in principle, do better with two simultaneously recorded spike counts than with any two spike counts selected randomly from trials of the same type.",
+  "authors": [
+    "Anderson Britt",
+    "Sanderson Mark I",
+    "Sheinberg David L"
+  ],
+  "journal": "Experimental brain research",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Data Interpretation, Statistical",
+    "Electrodes, Implanted",
+    "Electrophysiology",
+    "Evoked Potentials, Visual",
+    "Macaca",
+    "Male",
+    "Neurons",
+    "Online Systems",
+    "Photic Stimulation",
+    "Temporal Lobe"
+  ]
+}

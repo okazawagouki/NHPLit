@@ -1,0 +1,26 @@
+{
+  "pmid": "11600633",
+  "title": "Excess synchrony in motor cortical neurons provides redundant direction information with that from coarse temporal measures.",
+  "abstract": "Previous studies have shown that measures of fine temporal correlation, such as synchronous spikes, across responses of motor cortical neurons carries more directional information than that predicted from statistically independent neurons. It is also known, however, that the coarse temporal measures of responses, such as spike count, are not independent. We therefore examined whether the information carried by coincident firing was related to that of coarsely defined spike counts and their correlation. Synchronous spikes were counted in the responses from 94 pairs of simultaneously recorded neurons in primary motor cortex (MI) while monkeys performed arm movement tasks. Direct measurement of the movement-related information indicated that the coincident spikes (1- to 5-ms precision) carry approximately 10% of the information carried by a code of the two spike counts. Inclusion of the numbers of synchronous spikes did not add information to that available from the spike counts and their coarse temporal correlation. To assess the significance of the numbers of coincident spikes, we extended the stochastic spike count matched (SCM) model to include correlations between spike counts of the individual neural responses and slow temporal dependencies within neural responses (approximately 30 Hz bandwidth). The extended SCM model underestimated the numbers of synchronous spikes. Therefore as with previous studies, we found that there were more synchronous spikes in the neural data than could be accounted for by this stochastic model. However, the SCM model accounts for most (R(2) = 0.93 +/- 0.05, mean +/- SE) of the differences in the observed number of synchronous spikes to different directions of arm movement, indicating that synchronous spiking is directly related to spike counts and their broad correlation. Further, this model supports the information theoretic analysis that the synchronous spikes do not provide directional information beyond that available from the firing rates of the same pool of directionally tuned MI neurons. These results show that detection of precisely timed spike patterns above chance levels does not imply that those spike patterns carry information unavailable from coarser population codes but leaves open the possibility that excess synchrony carries other forms of information or serves other roles in cortical information processing not studied here.",
+  "authors": [
+    "Oram M W",
+    "Hatsopoulos N G",
+    "Richmond B J",
+    "Donoghue J P"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electrophysiology",
+    "Macaca fascicularis",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Regression Analysis",
+    "Time Factors"
+  ]
+}

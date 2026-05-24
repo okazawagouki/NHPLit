@@ -1,0 +1,27 @@
+{
+  "pmid": "22719237",
+  "title": "Fast coding of orientation in primary visual cortex.",
+  "abstract": "Understanding how populations of neurons encode sensory information is a major goal of systems neuroscience. Attempts to answer this question have focused on responses measured over several hundred milliseconds, a duration much longer than that frequently used by animals to make decisions about the environment. How reliably sensory information is encoded on briefer time scales, and how best to extract this information, is unknown. Although it has been proposed that neuronal response latency provides a major cue for fast decisions in the visual system, this hypothesis has not been tested systematically and in a quantitative manner. Here we use a simple 'race to threshold' readout mechanism to quantify the information content of spike time latency of primary visual (V1) cortical cells to stimulus orientation. We find that many V1 cells show pronounced tuning of their spike latency to stimulus orientation and that almost as much information can be extracted from spike latencies as from firing rates measured over much longer durations. To extract this information, stimulus onset must be estimated accurately. We show that the responses of cells with weak tuning of spike latency can provide a reliable onset detector. We find that spike latency information can be pooled from a large neuronal population, provided that the decision threshold is scaled linearly with the population size, yielding a processing time of the order of a few tens of milliseconds. Our results provide a novel mechanism for extracting information from neuronal populations over the very brief time scales in which behavioral judgments must sometimes be made.",
+  "authors": [
+    "Shriki Oren",
+    "Kohn Adam",
+    "Shamir Maoz"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2012",
+  "doi": "10.1371/journal.pcbi.1002536",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computational Biology",
+    "Evoked Potentials, Visual",
+    "Humans",
+    "Macaca fascicularis",
+    "Models, Neurological",
+    "Neurons",
+    "Orientation",
+    "Photic Stimulation",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

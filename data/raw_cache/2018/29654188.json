@@ -1,0 +1,26 @@
+{
+  "pmid": "29654188",
+  "title": "Mirror Neuron Populations Represent Sequences of Behavioral Epochs During Both Execution and Observation.",
+  "abstract": "Mirror neurons (MNs) have the distinguishing characteristic of modulating during both execution and observation of an action. Although most studies of MNs have focused on various features of the observed movement, MNs also may monitor the behavioral circumstances in which the movement is embedded, including time periods preceding and following the observed movement. Here, we recorded multiple MNs simultaneously from implanted electrode arrays as two male monkeys executed and observed a reach, grasp, and manipulate task involving different target objects. MNs were recorded from premotor cortex (PM-MNs) and primary motor cortex (M1-MNs). During execution trials, hidden Markov models (HMMs) applied to the activity of either PM-MN or M1-MN populations most often detected sequences of four hidden states, which we named according to the behavioral epoch during which each state began: initial, reaction, movement, and final. The hidden states of MN populations thus reflected not only the movement, but also three behavioral epochs during which no movement occurred. HMMs trained on execution trials could decode similar sequences of hidden states in observation trials, with complete hidden state sequences decoded more frequently from PM-MN populations than from M1-MN populations. Moreover, population trajectories projected in a 2D plane defined by execution trials were preserved in observation trials more for PM-MN than for M1-MN populations. These results suggest that MN populations represent entire behavioral sequences, including both movement and non-movement. PM-MN populations showed greater similarity than M1-MN populations in their representation of behavioral sequences during execution versus observation.<b>SIGNIFICANCE STATEMENT</b> Mirror neurons (MNs) are thought to provide a neural mechanism for understanding the actions of others. However, for an action to be understood, both the movement per se and the non-movement context before and after the movement need to be represented. We found that simultaneously recorded MN populations encoded sequential hidden neural states corresponding approximately to sequential behavioral epochs of a reach, grasp, and manipulate task. During observation trials, hidden state sequences were similar to those identified in execution trials. Hidden state similarity was stronger for MN populations in premotor cortex than for those in primary motor cortex. Execution/observation similarity of hidden state sequences may contribute to understanding the actions of others without actually performing the action oneself.",
+  "authors": [
+    "Mazurek Kevin A",
+    "Rouse Adam G",
+    "Schieber Marc H"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2018",
+  "doi": "10.1523/JNEUROSCI.3481-17.2018",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Behavior, Animal",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Male",
+    "Markov Chains",
+    "Mirror Neurons",
+    "Motor Cortex",
+    "Observation",
+    "Psychomotor Performance"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pmid": "30946879",
+  "title": "MarmoDetector: A novel 3D automated system for the quantitative assessment of marmoset behavior.",
+  "abstract": "BACKGROUND: Callithrix jacchus, generally known as the common marmoset, has recently garnered interest as an experimental primate model for better understanding the basis of human social behavior, architecture and function. Modelling human neurological and psychological diseases in marmosets can enhance the knowledge obtained from rodent research for future pre-clinical studies. Hence, comprehensive and quantitative assessments of marmoset behaviors are crucial. However, systems for monitoring and analyzing marmoset behaviors have yet to be established. NEW METHOD: In this paper, we present a novel multimodal system, MarmoDetector, for the automated 3D analysis of marmoset behavior under freely moving conditions. MarmoDetector allows the quantitative assessment of marmoset behaviors using computerised tracking analysis techniques that are based on a Kinect system equipped with video recordings, infrared images and depth analysis. RESULTS: Using MarmoDetector, we assessed behavioral circadian rhythms continuously over several days in home cages. In addition, MarmoDetector detected acute, transient complex behaviors of alcohol injected marmosets. COMPARISON TO EXISTING METHOD: Compared to 2D recording, MarmoDetector detects activities more precisely and is very sensitive as we could detect behavioral defects specifically induced by alcohol administration. CONCLUSION: MarmoDetector facilitates the rapid and accurate analysis of marmoset behavior and will enhance research on the neural basis of brain disorders.",
+  "authors": [
+    "Yabumoto Taiki",
+    "Yoshida Fumiaki",
+    "Miyauchi Hideaki",
+    "Baba Kousuke",
+    "Tsuda Hiroshi",
+    "Ikenaka Kensuke",
+    "Hayakawa Hideki",
+    "Koyabu Nozomu",
+    "Hamanaka Hiroki",
+    "Papa Stella M",
+    "Hirata Masayuki",
+    "Mochizuki Hideki"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2019",
+  "doi": "10.1016/j.jneumeth.2019.03.016",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Callithrix",
+    "Circadian Rhythm",
+    "Female",
+    "Image Processing, Computer-Assisted",
+    "Male",
+    "Motor Activity",
+    "Pattern Recognition, Automated",
+    "Video Recording"
+  ]
+}

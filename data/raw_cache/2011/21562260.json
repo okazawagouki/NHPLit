@@ -1,0 +1,22 @@
+{
+  "pmid": "21562260",
+  "title": "Same or different? A neural circuit mechanism of similarity-based pattern match decision making.",
+  "abstract": "The ability to judge whether sensory stimuli match an internally represented pattern is central to many brain functions. To elucidate the underlying mechanism, we developed a neural circuit model for match/nonmatch decision making. At the core of this model is a \"comparison circuit\" consisting of two distinct neural populations: match enhancement cells show higher firing response for a match than a nonmatch to the target pattern, and match suppression cells exhibit the opposite trend. We propose that these two neural pools emerge from inhibition-dominated recurrent dynamics and heterogeneous top-down excitation from a working memory circuit. A downstream system learns, through plastic synapses, to extract the necessary information to make match/nonmatch decisions. The model accounts for key physiological observations from behaving monkeys in delayed match-to-sample experiments, including tasks that require more than simple feature match (e.g., when BB in ABBA sequence must be ignored). A testable prediction is that magnitudes of match enhancement and suppression neural signals are parametrically tuned to the similarity between compared patterns. Furthermore, the same neural signals from the comparison circuit can be used differently in the decision process for different stimulus statistics or tasks; reward-dependent synaptic plasticity enables decision neurons to flexibly adjust the readout scheme to task demands, whereby the most informative neural signals have the highest impact on the decision.",
+  "authors": [
+    "Engel Tatiana A",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2011",
+  "doi": "10.1523/JNEUROSCI.6150-10.2011",
+  "mesh": [
+    "Computer Simulation",
+    "Decision Making",
+    "Discrimination Learning",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Synapses"
+  ]
+}

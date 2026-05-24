@@ -1,0 +1,32 @@
+{
+  "pmid": "21200434",
+  "title": "High accuracy decoding of movement target direction in non-human primates based on common spatial patterns of local field potentials.",
+  "abstract": "BACKGROUND: The current development of brain-machine interface technology is limited, among other factors, by concerns about the long-term stability of single- and multi-unit neural signals. In addition, the understanding of the relation between potentially more stable neural signals, such as local field potentials, and motor behavior is still in its early stages. METHODOLOGY/PRINCIPAL FINDINGS: We tested the hypothesis that spatial correlation patterns of neural data can be used to decode movement target direction. In particular, we examined local field potentials (LFP), which are thought to be more stable over time than single unit activity (SUA). Using LFP recordings from chronically implanted electrodes in the dorsal premotor and primary motor cortex of non-human primates trained to make arm movements in different directions, we made the following observations: (i) it is possible to decode movement target direction with high fidelity from the spatial correlation patterns of neural activity in both primary motor (M1) and dorsal premotor cortex (PMd); (ii) the decoding accuracy of LFP was similar to the decoding accuracy obtained with the set of SUA recorded simultaneously; (iii) directional information varied with the LFP frequency sub-band, being greater in low (0.3-4 Hz) and high (48-200 Hz) frequency bands than in intermediate bands; (iv) the amount of directional information was similar in M1 and PMd; (v) reliable decoding was achieved well in advance of movement onset; and (vi) LFP were relatively stable over a period of one week. CONCLUSIONS/SIGNIFICANCE: The results demonstrate that the spatial correlation patterns of LFP signals can be used to decode movement target direction. This finding suggests that parameters of movement, such as target direction, have a stable spatial distribution within primary motor and dorsal premotor cortex, which may be used for brain-machine interfaces.",
+  "authors": [
+    "Ince Nuri F",
+    "Gupta Rahul",
+    "Arica Sami",
+    "Tewfik Ahmed H",
+    "Ashe James",
+    "Pellizzer Giuseppe"
+  ],
+  "journal": "PloS one",
+  "year": "2010",
+  "doi": "10.1371/journal.pone.0014384",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Electrodes",
+    "Macaca mulatta",
+    "Man-Machine Systems",
+    "Models, Statistical",
+    "Motor Cortex",
+    "Movement",
+    "Primates",
+    "Prosthesis Design",
+    "Reproducibility of Results",
+    "Signal Processing, Computer-Assisted",
+    "User-Computer Interface"
+  ]
+}

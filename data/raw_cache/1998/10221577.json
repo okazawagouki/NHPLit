@@ -1,0 +1,32 @@
+{
+  "pmid": "10221577",
+  "title": "Hypothetical neural mechanism that may play a role in mental rotation: an attractor neural network model.",
+  "abstract": "We propose an attractor neural network (ANN) model that performs rotation-invariant pattern recognition in such a way that it can account for a neural mechanism being involved in the image transformation accompanying the experience of mental rotation. We compared the performance of our ANN model with the results of the chronometric psychophysical experiments of Cooper and Shepard (Cooper L A and Shepard R N 1973 Visual Information Processing (New York: Academic) pp 204-7) on discrimination of alphanumeric characters presented in various angular departures from their canonical upright position. Comparing the times required for pattern retrieval in its canonical upright position with the reaction times of human subjects, we found agreement in that (i) retrieval times for clockwise and anticlockwise departures of the same angular magnitude (up to 180 degrees) were not different, (ii) retrieval times increased with departure from upright and (iii) increased more sharply as departure from upright approached 180 degrees. The rotation-invariant retrieval of the activity pattern has been accomplished by means of the modified algorithm of Dotsenko (Dotsenko V S 1988 J. Phys. A: Math. Gen. 21 L783-7) proposed for translation-, rotation- and size-invariant pattern recognition, which uses relaxation of neuronal firing thresholds to guide the evolution of the ANN in state space towards the desired memory attractor. The dynamics of neuronal relaxation has been modified for storage and retrieval of low-activity patterns and the original gradient optimization of threshold dynamics has been replaced with optimization by simulated annealing.",
+  "authors": [
+    "Benusková L",
+    "Estok S"
+  ],
+  "journal": "Network (Bristol, England)",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Dominance, Cerebral",
+    "Frontal Lobe",
+    "Humans",
+    "Imagination",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Parietal Lobe",
+    "Pattern Recognition, Visual",
+    "Reaction Time",
+    "Rotation",
+    "Stochastic Processes",
+    "Temporal Lobe",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

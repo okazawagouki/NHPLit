@@ -1,0 +1,31 @@
+{
+  "pmid": "12929922",
+  "title": "Training in cortical control of neuroprosthetic devices improves signal extraction from small neuronal ensembles.",
+  "abstract": "We have recently developed a closed-loop environment in which we can test the ability of primates to control the motion of a virtual device using ensembles of simultaneously recorded neurons /29/. Here we use a maximum likelihood method to assess the information about task performance contained in the neuronal ensemble. We trained two animals to control the motion of a computer cursor in three dimensions. Initially the animals controlled cursor motion using arm movements, but eventually they learned to drive the cursor directly from cortical activity. Using a population vector (PV) based upon the relation between cortical activity and arm motion, the animals were able to control the cursor directly from the brain in a closed-loop environment, but with difficulty. We added a supervised learning method that modified the parameters of the PV according to task performance (adaptive PV), and found that animals were able to exert much finer control over the cursor motion from brain signals. Here we describe a maximum likelihood method (ML) to assess the information about target contained in neuronal ensemble activity. Using this method, we compared the information about target contained in the ensemble during arm control, during brain control early in the adaptive PV, and during brain control after the adaptive PV had settled and the animal could drive the cursor reliably and with fine gradations. During the arm-control task, the ML was able to determine the target of the movement in as few as 10% of the trials, and as many as 75% of the trials, with an average of 65%. This average dropped when the animals used a population vector to control motion of the cursor. On average we could determine the target in around 35% of the trials. This low percentage was also reflected in poor control of the cursor, so that the animal was unable to reach the target in a large percentage of trials. Supervised adjustment of the population vector parameters produced new weighting coefficients and directional tuning parameters for many neurons. This produced a much better performance of the brain-controlled cursor motion. It was also reflected in the maximum likelihood measure of cell activity, producing the correct target based only on neuronal activity in over 80% of the trials on average. The changes in maximum likelihood estimates of target location based on ensemble firing show that an animal's ability to regulate the motion of a cortically controlled device is not crucially dependent on the experimenter's ability to estimate intention from neuronal activity.",
+  "authors": [
+    "Helms Tillery S I",
+    "Taylor D M",
+    "Schwartz A B"
+  ],
+  "journal": "Reviews in the neurosciences",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Arm",
+    "Behavior, Animal",
+    "Brain Mapping",
+    "Cell Count",
+    "Electrophysiology",
+    "Learning",
+    "Macaca",
+    "Motion",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Normal Distribution",
+    "Prostheses and Implants",
+    "Psychomotor Performance"
+  ]
+}

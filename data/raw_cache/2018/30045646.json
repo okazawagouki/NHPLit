@@ -1,0 +1,23 @@
+{
+  "pmid": "30045646",
+  "title": "A Computational Model for the Neural Representation and Estimation of the Binocular Vector Disparity from Convergent Stereo Image Pairs.",
+  "abstract": "The depth cue is a fundamental piece of information for artificial and living beings who interact with the surrounding environment in order to handle objects and to avoid obstacles: in such situations, the disparity patterns, which arise when agents fixate objects, are vector fields. We propose a biologically-inspired computational model to estimate dense horizontal and vertical disparity maps by exploiting the cortical paradigms of the primate visual system: in particular, we aim to model the disparity sensitivity of the V1-MT visual pathway. The proposed model is based on a first processing stage composed of a bank of spatial band-pass filters and a static nonlinearity, mimicking complex binocular cells. Then, subsequent pooling stages and decoding strategies allow the model to estimate the vector disparity, after having represented it as a population of MT-like units. We assess the proposed model by using standard benchmarking stereo images, the Middlebury dataset, and specific stereo images that have horizontal and vertical disparities, which characterize the stimuli produced by active vision systems. Moreover, we systemically analyze how the different processing stages affect the model performance, and we discuss their implications for the neural modeling.",
+  "authors": [
+    "Chessa Manuela",
+    "Solari Fabio"
+  ],
+  "journal": "International journal of neural systems",
+  "year": "2019",
+  "doi": "10.1142/S0129065718500296",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Humans",
+    "Models, Neurological",
+    "Primates",
+    "Temporal Lobe",
+    "Vision Disparity",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

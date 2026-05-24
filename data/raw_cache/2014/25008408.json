@@ -1,0 +1,28 @@
+{
+  "pmid": "25008408",
+  "title": "Modulation of neural activity by reward in medial intraparietal cortex is sensitive to temporal sequence of reward.",
+  "abstract": "To restore movements to paralyzed patients, neural prosthetic systems must accurately decode patients' intentions from neural signals. Despite significant advancements, current systems are unable to restore complex movements. Decoding reward-related signals from the medial intraparietal area (MIP) could enhance prosthetic performance. However, the dynamics of reward sensitivity in MIP is not known. Furthermore, reward-related modulation in premotor areas has been attributed to behavioral confounds. Here we investigated the stability of reward encoding in MIP by assessing the effect of reward history on reward sensitivity. We recorded from neurons in MIP while monkeys performed a delayed-reach task under two reward schedules. In the variable schedule, an equal number of small- and large-rewards trials were randomly interleaved. In the constant schedule, one reward size was delivered for a block of trials. The memory period firing rate of most neurons in response to identical rewards varied according to schedule. Using systems identification tools, we attributed the schedule sensitivity to the dependence of neural activity on the history of reward. We did not find schedule-dependent behavioral changes, suggesting that reward modulates neural activity in MIP. Neural discrimination between rewards was less in the variable than in the constant schedule, degrading our ability to decode reach target and reward simultaneously. The effect of schedule was mitigated by adding Haar wavelet coefficients to the decoding model. This raises the possibility of multiple encoding schemes at different timescales and reinforces the potential utility of reward information for prosthetic performance.",
+  "authors": [
+    "Rajalingham Rishi",
+    "Stacey Richard Greg",
+    "Tsoulfas Georgios",
+    "Musallam Sam"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2014",
+  "doi": "10.1152/jn.00533.2012",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neural Prostheses",
+    "Neurons",
+    "Parietal Lobe",
+    "Psychomotor Performance",
+    "Reinforcement Schedule",
+    "Reward",
+    "Time Factors",
+    "Wavelet Analysis"
+  ]
+}

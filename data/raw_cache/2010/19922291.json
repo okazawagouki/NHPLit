@@ -1,0 +1,31 @@
+{
+  "pmid": "19922291",
+  "title": "Spiking neural networks for cortical neuronal spike train decoding.",
+  "abstract": "Recent investigation of cortical coding and computation indicates that temporal coding is probably a more biologically plausible scheme used by neurons than the rate coding used commonly in most published work. We propose and demonstrate in this letter that spiking neural networks (SNN), consisting of spiking neurons that propagate information by the timing of spikes, are a better alternative to the coding scheme based on spike frequency (histogram) alone. The SNN model analyzes cortical neural spike trains directly without losing temporal information for generating more reliable motor command for cortically controlled prosthetics. In this letter, we compared the temporal pattern classification result from the SNN approach with results generated from firing-rate-based approaches: conventional artificial neural networks, support vector machines, and linear regression. The results show that the SNN algorithm can achieve higher classification accuracy and identify the spiking activity related to movement control earlier than the other methods. Both are desirable characteristics for fast neural information processing and reliable control command pattern recognition for neuroprosthetic applications.",
+  "authors": [
+    "Fang Huijuan",
+    "Wang Yongji",
+    "He Jiping"
+  ],
+  "journal": "Neural computation",
+  "year": "2010",
+  "doi": "10.1162/neco.2009.10-08-885",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Cues",
+    "Eye Movements",
+    "Functional Laterality",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Photic Stimulation",
+    "Reaction Time"
+  ]
+}

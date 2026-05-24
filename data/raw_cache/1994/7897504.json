@@ -1,0 +1,27 @@
+{
+  "pmid": "7897504",
+  "title": "On temporal codes and the spatiotemporal response of neurons in the lateral geniculate nucleus.",
+  "abstract": "1. The present work relates recent experimental studies of the temporal coding of visual stimuli (McClurkin, Optican, Richmond, and Gawne, Science 253: 675, 1991) to the measurements of the spatiotemporal receptive fields of neurons within the lateral geniculate of primate. 2. We analyze both new and previously described magnocellular and parvocellular single units. The spatiotemporal impulse response function of the unit, defined as the time-resolved average firing rate in response to a weak stimulus flashed at a given location and time, is characterized by the singular value decomposition. This analysis allows one to represent the impulse response by a small number, two to three, of spatial and temporal modes. Both magnocellular and parvocellular units are weakly nonseparable, with major and minor modes that account, respectively, for approximately 78 and 22% of the response. The major temporal mode for both types is essentially identical for the first 100 ms. At later times the response of magnocellular units changes sign and decays slowly, whereas the response of parvocellular units decays relatively rapidly. 3. The spatiotemporal impulse response function completely determines the response of a unit to an arbitrary stimulus when linear response theory is valid. Using the measured impulse response, combined with a rectifying neuronal input-output relation, we calculate the responses to a complete set of spatial luminance patterns constructed of \"Walsh\" functions. Our predicted temporal responses are in qualitative agreement with those reported for parvocellular units (McClurkin, Optican, Richmond, and Gawne, J. Neurophysiol. 66: 794, 1991). Under the additional assumptions of Poisson statistics for the probability of spiking and a plausible background firing rate, we predict the performance of a unit in the Walsh pattern discrimination task as quantified by mutual information. Our prediction is again consistent with the reported results. 4. Last, we consider the issue of temporal coding within linear response. For stimuli presented for fixed time intervals, the singular value decomposition provides a natural relation between the temporal modes of the neuronal response and the spatial pattern of the stimulus. Although it is tempting to interpret each temporal mode as an independent channel that encodes orthogonal features of the stimulus, successively higher order modes are increasingly unreliable and do not significantly increase the discrimination capabilities of the unit.",
+  "authors": [
+    "Golomb D",
+    "Kleinfeld D",
+    "Reid R C",
+    "Shapley R M",
+    "Shraiman B I"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1994",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Discrimination, Psychological",
+    "Electrophysiology",
+    "Geniculate Bodies",
+    "Macaca",
+    "Neurons",
+    "Photic Stimulation",
+    "Poisson Distribution",
+    "Space Perception",
+    "Time Perception"
+  ]
+}

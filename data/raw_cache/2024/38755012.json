@@ -1,0 +1,24 @@
+{
+  "pmid": "38755012",
+  "title": "Phase Delays between Mouse Globus Pallidus Neurons Entrained by Common Oscillatory Drive Arise from Their Intrinsic Properties, Not Their Coupling.",
+  "abstract": "A hallmark of Parkinson's disease is the appearance of correlated oscillatory discharge throughout the cortico-basal ganglia (BG) circuits. In the primate globus pallidus (GP), where the discharge of GP neurons is normally uncorrelated, pairs of GP neurons exhibit oscillatory spike correlations with a broad distribution of pairwise phase delays in experimental parkinsonism. The transition to oscillatory correlations is thought to indicate the collapse of the normally segregated information channels traversing the BG. The large phase delays are thought to reflect pathological changes in synaptic connectivity in the BG. Here we study the structure and phase delays of spike correlations measured from neurons in the mouse external GP (GPe) subjected to identical 1-100 Hz sinusoidal drive but recorded in separate experiments. First, we found that spectral modes of a GPe neuron's empirical instantaneous phase response curve (iPRC) elucidate at what phases of the oscillatory drive the GPe neuron locks when it is entrained and the distribution of phases at which it spikes when it is not. Then, we show that in this case the pairwise spike cross-correlation equals the cross-correlation function of these spike phase distributions. Finally, we show that the distribution of GPe phase delays arises from the diversity of iPRCs and is broadened when the neurons become entrained. Modeling GPe networks with realistic intranuclear connectivity demonstrates that the connectivity decorrelates GPe neurons without affecting phase delays. Thus, common oscillatory input gives rise to GPe correlations whose structure and pairwise phase delays reflect their intrinsic properties captured by their iPRCs.",
+  "authors": [
+    "Olivares Erick",
+    "Wilson Charles J",
+    "Goldberg Joshua A"
+  ],
+  "journal": "eNeuro",
+  "year": "2024",
+  "doi": "10.1523/ENEURO.0187-24.2024",
+  "mesh": [
+    "Animals",
+    "Globus Pallidus",
+    "Neurons",
+    "Action Potentials",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Male",
+    "Electric Stimulation",
+    "Models, Neurological"
+  ]
+}

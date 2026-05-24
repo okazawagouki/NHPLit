@@ -1,0 +1,36 @@
+{
+  "pmid": "19605643",
+  "title": "Proactive inhibitory control and attractor dynamics in countermanding action: a spiking neural circuit model.",
+  "abstract": "Flexible behavior depends on the brain's ability to suppress a habitual response or to cancel a planned movement whenever needed. Such inhibitory control has been studied using the countermanding paradigm in which subjects are required to withhold an imminent movement when a stop signal appears infrequently in a fraction of trials. To elucidate the circuit mechanism of inhibitory control of action, we developed a recurrent network model consisting of spiking movement (GO) neurons and fixation (STOP) neurons, based on neurophysiological observations in the frontal eye field and superior colliculus of behaving monkeys. The model places a premium on the network dynamics before the onset of a stop signal, especially the experimentally observed high baseline activity of fixation neurons, which is assumed to be modulated by a persistent top-down control signal, and their synaptic interaction with movement neurons. The model simulated observed neural activity and fit behavioral performance quantitatively. In contrast to a race model in which the STOP process is initiated at the onset of a stop signal, in our model whether a movement will eventually be canceled is determined largely by the proactive top-down control and the stochastic network dynamics, even before the appearance of the stop signal. A prediction about the correlation between the fixation neural activity and the behavioral outcome was verified in the neurophysiological data recorded from behaving monkeys. The proposed mechanism for adjusting control through tonically active neurons that inhibit movement-producing neurons has significant implications for exploring the basis of impulsivity associated with psychiatric disorders.",
+  "authors": [
+    "Lo Chung-Chuan",
+    "Boucher Leanne",
+    "Paré Martin",
+    "Schall Jeffrey D",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2009",
+  "doi": "10.1523/JNEUROSCI.6164-08.2009",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Behavior, Animal",
+    "Brain",
+    "Computer Simulation",
+    "Fixation, Ocular",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Movement",
+    "Neural Inhibition",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Photic Stimulation",
+    "Proactive Inhibition",
+    "Reaction Time",
+    "Time Factors",
+    "Visual Fields",
+    "Visual Pathways"
+  ]
+}

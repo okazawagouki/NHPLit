@@ -1,0 +1,31 @@
+{
+  "pmid": "10638819",
+  "title": "Testing non-linearity and directedness of interactions between neural groups in the macaque inferotemporal cortex.",
+  "abstract": "Information processing in the visual cortex depends on complex and context sensitive patterns of interactions between neuronal groups in many different cortical areas. Methods used to date for disentangling this functional connectivity presuppose either linearity or instantaneous interactions, assumptions that are not necessarily valid. In this paper a general framework that encompasses both linear and non-linear modelling of neurophysiological time series data by means of Local Linear Non-linear Autoregressive models (LLNAR) is described. Within this framework a new test for non-linearity of time series and for non-linearity of directedness of neural interactions based on LLNAR is presented. These tests assess the relative goodness of fit of linear versus non-linear models via the bootstrap technique. Additionally, a generalised definition of Granger causality is presented based on LLNAR that is valid for both linear and non-linear systems. Finally, the use of LLNAR for measuring non-linearity and directional influences is illustrated using artificial data, reference data as well as local field potentials (LFPs) from macaque area TE. LFP data is well described by the linear variant of LLNAR. Models of this sort, including lagged values of the preceding 25 to 60 ms, revealed the existence of both uni- and bi-directional influences between recording sites.",
+  "authors": [
+    "Freiwald W A",
+    "Valdes P",
+    "Bosch J",
+    "Biscay R",
+    "Jimenez J C",
+    "Rodriguez L M",
+    "Rodriguez V",
+    "Kreiter A K",
+    "Singer W"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cell Communication",
+    "Electrophysiology",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Temporal Lobe"
+  ]
+}

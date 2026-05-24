@@ -1,0 +1,26 @@
+{
+  "pmid": "38670805",
+  "title": "Computational Mechanisms Underlying Motivation to Earn Symbolic Reinforcers.",
+  "abstract": "Reinforcement learning is a theoretical framework that describes how agents learn to select options that maximize rewards and minimize punishments over time. We often make choices, however, to obtain symbolic reinforcers (e.g., money, points) that are later exchanged for primary reinforcers (e.g., food, drink). Although symbolic reinforcers are ubiquitous in our daily lives, widely used in laboratory tasks because they can be motivating, mechanisms by which they become motivating are less understood. In the present study, we examined how monkeys learn to make choices that maximize fluid rewards through reinforcement with tokens. The question addressed here is how the value of a state, which is a function of multiple task features (e.g., the current number of accumulated tokens, choice options, task epoch, trials since the last delivery of primary reinforcer, etc.), drives value and affects motivation. We constructed a Markov decision process model that computes the value of task states given task features to then correlate with the motivational state of the animal. Fixation times, choice reaction times, and abort frequency were all significantly related to values of task states during the tokens task (<i>n</i> = 5 monkeys, three males and two females). Furthermore, the model makes predictions for how neural responses could change on a moment-by-moment basis relative to changes in the state value. Together, this task and model allow us to capture learning and behavior related to symbolic reinforcement.",
+  "authors": [
+    "Burk Diana C",
+    "Taswell Craig",
+    "Tang Hua",
+    "Averbeck Bruno B"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2024",
+  "doi": "10.1523/JNEUROSCI.1873-23.2024",
+  "mesh": [
+    "Animals",
+    "Motivation",
+    "Reinforcement, Psychology",
+    "Male",
+    "Macaca mulatta",
+    "Choice Behavior",
+    "Reward",
+    "Reaction Time",
+    "Markov Chains",
+    "Female"
+  ]
+}

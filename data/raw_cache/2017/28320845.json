@@ -1,0 +1,28 @@
+{
+  "pmid": "28320845",
+  "title": "Decoding Information for Grasping from the Macaque Dorsomedial Visual Stream.",
+  "abstract": "Neurodecoders have been developed by researchers mostly to control neuroprosthetic devices, but also to shed new light on neural functions. In this study, we show that signals representing grip configurations can be reliably decoded from neural data acquired from area V6A of the monkey medial posterior parietal cortex. Two <i>Macaca fascicularis</i> monkeys were trained to perform an instructed-delay reach-to-grasp task in the dark and in the light toward objects of different shapes. Population neural activity was extracted at various time intervals on vision of the objects, the delay before movement, and grasp execution. This activity was used to train and validate a Bayes classifier used for decoding objects and grip types. Recognition rates were well over chance level for all the epochs analyzed in this study. Furthermore, we detected slightly different decoding accuracies, depending on the task's visual condition. Generalization analysis was performed by training and testing the system during different time intervals. This analysis demonstrated that a change of code occurred during the course of the task. Our classifier was able to discriminate grasp types fairly well in advance with respect to grasping onset. This feature might be important when the timing is critical to send signals to external devices before the movement start. Our results suggest that the neural signals from the dorsomedial visual pathway can be a good substrate to feed neural prostheses for prehensile actions.<b>SIGNIFICANCE STATEMENT</b> Recordings of neural activity from nonhuman primate frontal and parietal cortex have led to the development of methods of decoding movement information to restore coordinated arm actions in paralyzed human beings. Our results show that the signals measured from the monkey medial posterior parietal cortex are valid for correctly decoding information relevant for grasping. Together with previous studies on decoding reach trajectories from the medial posterior parietal cortex, this highlights the medial parietal cortex as a target site for transforming neural activity into control signals to command prostheses to allow human patients to dexterously perform grasping actions.",
+  "authors": [
+    "Filippini Matteo",
+    "Breveglieri Rossella",
+    "Akhras M Ali",
+    "Bosco Annalisa",
+    "Chinellato Eris",
+    "Fattori Patrizia"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2017",
+  "doi": "10.1523/JNEUROSCI.3077-16.2017",
+  "mesh": [
+    "Animals",
+    "Hand",
+    "Hand Strength",
+    "Macaca fascicularis",
+    "Male",
+    "Movement",
+    "Psychomotor Performance",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

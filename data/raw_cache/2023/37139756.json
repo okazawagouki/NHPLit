@@ -1,0 +1,20 @@
+{
+  "pmid": "37139756",
+  "title": "[A multi-behavior recognition method for macaques based on improved SlowFast network].",
+  "abstract": "Macaque is a common animal model in drug safety assessment. Its behavior reflects its health condition before and after drug administration, which can effectively reveal the side effects of drugs. At present, researchers usually rely on artificial methods to observe the behavior of macaque, which cannot achieve uninterrupted 24-hour monitoring. Therefore, it is urgent to develop a system to realize 24-hour observation and recognition of macaque behavior. In order to solve this problem, this paper constructs a video dataset containing nine kinds of macaque behaviors (MBVD-9), and proposes a network called Transformer-augmented SlowFast for macaque behavior recognition (TAS-MBR) based on this dataset. Specifically, the TAS-MBR network converts the red, green and blue (RGB) color mode frame input by its fast branches into residual frames on the basis of SlowFast network and introduces the Transformer module after the convolution operation to obtain sports information more effectively. The results show that the average classification accuracy of TAS-MBR network for macaque behavior is 94.53%, which is significantly improved compared with the original SlowFast network, proving the effectiveness and superiority of the proposed method in macaque behavior recognition. This work provides a new idea for the continuous observation and recognition of the behavior of macaque, and lays the technical foundation for the calculation of monkey behaviors before and after medication in drug safety evaluation.",
+  "authors": [
+    "Zhong Weifeng",
+    "Xu Zhe",
+    "Zhu Xiangyu",
+    "Ma Xibo"
+  ],
+  "journal": "Sheng wu yi xue gong cheng xue za zhi = Journal of biomedical engineering = Shengwu yixue gongchengxue zazhi",
+  "year": "2023",
+  "doi": "10.7507/1001-5515.202112014",
+  "mesh": [
+    "Animals",
+    "Electric Power Supplies",
+    "Macaca",
+    "Recognition, Psychology"
+  ]
+}

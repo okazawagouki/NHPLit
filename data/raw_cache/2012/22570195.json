@@ -1,0 +1,33 @@
+{
+  "pmid": "22570195",
+  "title": "Reconstruction of movement-related intracortical activity from micro-electrocorticogram array signals in monkey primary motor cortex.",
+  "abstract": "Subdural electrode arrays provide stable, less invasive electrocorticogram (ECoG) recordings of neural signals than multichannel needle electrodes. Accurate reconstruction of intracortical local field potentials (LFPs) from ECoG signals would provide a critical step for the development of a less invasive, high-performance brain-machine interface; however, neural signals from individual ECoG channels are generally coarse and have limitations in estimating deep layer LFPs. Here, we developed a high-density, 32-channel, micro-ECoG array and applied a sparse linear regression algorithm to reconstruct the LFPs at various depths of primary motor cortex (M1) in a monkey performing a reach-and-grasp task. At 0.2 mm beneath the cortical surface, the real and estimated LFPs were significantly correlated (correlation coefficient (r); 0.66 ± 0.11), and the r at 3.2 mm was still as high as 0.55 ± 0.04. A time-frequency analysis of the reconstructed LFP showed clear transition between resting and movements by the monkey. These methods would be a powerful tool with wide-ranging applicability in neuroscience studies.",
+  "authors": [
+    "Watanabe Hidenori",
+    "Sato Masa-Aki",
+    "Suzuki Takafumi",
+    "Nambu Atsushi",
+    "Nishimura Yukio",
+    "Kawato Mitsuo",
+    "Isa Tadashi"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2012",
+  "doi": "10.1088/1741-2560/9/3/036006",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Data Interpretation, Statistical",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Hand",
+    "Hand Strength",
+    "Linear Models",
+    "Macaca",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Psychomotor Performance",
+    "User-Computer Interface"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "23781275",
+  "title": "Information analysis on neural tuning in dorsal premotor cortex for reaching and grasping.",
+  "abstract": "Previous studies have shown that the dorsal premotor cortex (PMd) neurons are relevant to reaching as well as grasping. In order to investigate their specific contribution to reaching and grasping, respectively, we design two experimental paradigms to separate these two factors. Two monkeys are instructed to reach in four directions but grasp the same object and grasp four different objects but reach in the same direction. Activities of the neuron ensemble in PMd of the two monkeys are collected while performing the tasks. Mutual information (MI) is carried out to quantitatively evaluate the neurons' tuning property in both tasks. We find that there exist neurons in PMd that are tuned only to reaching, tuned only to grasping, and tuned to both tasks. When applied with a support vector machine (SVM), the movement decoding accuracy by the tuned neuron subset in either task is quite close to the performance by full ensemble. Furthermore, the decoding performance improves significantly by adding the neurons tuned to both tasks into the neurons tuned to one property only. These results quantitatively distinguish the diversity of the neurons tuned to reaching and grasping in the PMd area and verify their corresponding contributions to BMI decoding.",
+  "authors": [
+    "Cao Yan",
+    "Hao Yaoyao",
+    "Liao Yuxi",
+    "Xu Kai",
+    "Wang Yiwen",
+    "Zhang Shaomin",
+    "Zhang Qiaosheng",
+    "Chen Weidong",
+    "Zheng Xiaoxiang"
+  ],
+  "journal": "Computational and mathematical methods in medicine",
+  "year": "2013",
+  "doi": "10.1155/2013/730374",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Computational Biology",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Psychomotor Performance",
+    "Support Vector Machine"
+  ]
+}

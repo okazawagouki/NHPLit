@@ -1,0 +1,23 @@
+{
+  "pmid": "30075670",
+  "title": "Automatic detection and classification of marmoset vocalizations using deep and recurrent neural networks.",
+  "abstract": "This paper investigates the methods to detect and classify marmoset vocalizations automatically using a large data set of marmoset vocalizations and deep learning techniques. For vocalization detection, neural networks-based methods, including deep neural network (DNN) and recurrent neural network with long short-term memory units, are designed and compared against a conventional rule-based detection method. For vocalization classification, three different classification algorithms are compared, including a support vector machine (SVM), DNN, and long short-term memory recurrent neural networks (LSTM-RNNs). A 1500-min audio data set containing recordings from four pairs of marmoset twins and manual annotations is employed for experiments. Two test sets are built according to whether the test samples are produced by the marmosets in the training set (test set I) or not (test set II). Experimental results show that the LSTM-RNN-based detection method outperformed others and achieved 0.92% and 1.67% frame error rate on these two test sets. Furthermore, the deep learning models obtained higher classification accuracy than the SVM model, which was 95.60% and 91.67% on the two test sets, respectively.",
+  "authors": [
+    "Zhang Ya-Jie",
+    "Huang Jun-Feng",
+    "Gong Neng",
+    "Ling Zhen-Hua",
+    "Hu Yu"
+  ],
+  "journal": "The Journal of the Acoustical Society of America",
+  "year": "2018",
+  "doi": "10.1121/1.5047743",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Callithrix",
+    "Deep Learning",
+    "Neural Networks, Computer",
+    "Support Vector Machine"
+  ]
+}

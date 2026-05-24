@@ -1,0 +1,14 @@
+{
+  "pmid": "25565992",
+  "title": "Motion detection based on recurrent network dynamics.",
+  "abstract": "The detection of visual motion requires temporal delays to compare current with earlier visual input. Models of motion detection assume that these delays reside in separate classes of slow and fast thalamic cells, or slow and fast synaptic transmission. We used a data-driven modeling approach to generate a model that instead uses recurrent network dynamics with a single, fixed temporal integration window to implement the velocity computation. This model successfully reproduced the temporal response dynamics of a population of motion sensitive neurons in macaque middle temporal area (MT) and its constituent parts matched many of the properties found in the motion processing pathway (e.g., Gabor-like receptive fields (RFs), simple and complex cells, spatially asymmetric excitation and inhibition). Reverse correlation analysis revealed that a simplified network based on first and second order space-time correlations of the recurrent model behaved much like a feedforward motion energy (ME) model. The feedforward model, however, failed to capture the full speed tuning and direction selectivity properties based on higher than second order space-time correlations typically found in MT. These findings support the idea that recurrent network connectivity can create temporal delays to compute velocity. Moreover, the model explains why the motion detection system often behaves like a feedforward ME network, even though the anatomical evidence strongly suggests that this network should be dominated by recurrent feedback.",
+  "authors": [
+    "Joukes Jeroen",
+    "Hartmann Till S",
+    "Krekelberg Bart"
+  ],
+  "journal": "Frontiers in systems neuroscience",
+  "year": "2014",
+  "doi": "10.3389/fnsys.2014.00239",
+  "mesh": []
+}

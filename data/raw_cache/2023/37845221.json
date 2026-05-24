@@ -1,0 +1,20 @@
+{
+  "pmid": "37845221",
+  "title": "Initial conditions combine with sensory evidence to induce decision-related dynamics in premotor cortex.",
+  "abstract": "We used a dynamical systems perspective to understand decision-related neural activity, a fundamentally unresolved problem. This perspective posits that time-varying neural activity is described by a state equation with an initial condition and evolves in time by combining at each time step, recurrent activity and inputs. We hypothesized various dynamical mechanisms of decisions, simulated them in models to derive predictions, and evaluated these predictions by examining firing rates of neurons in the dorsal premotor cortex (PMd) of monkeys performing a perceptual decision-making task. Prestimulus neural activity (i.e., the initial condition) predicted poststimulus neural trajectories, covaried with RT and the outcome of the previous trial, but not with choice. Poststimulus dynamics depended on both the sensory evidence and initial condition, with easier stimuli and fast initial conditions leading to the fastest choice-related dynamics. Together, these results suggest that initial conditions combine with sensory evidence to induce decision-related dynamics in PMd.",
+  "authors": [
+    "Boucher Pierre O",
+    "Wang Tian",
+    "Carceroni Laura",
+    "Kane Gary",
+    "Shenoy Krishna V",
+    "Chandrasekaran Chandramouli"
+  ],
+  "journal": "Nature communications",
+  "year": "2023",
+  "doi": "10.1038/s41467-023-41752-2",
+  "mesh": [
+    "Motor Cortex",
+    "Neurons"
+  ]
+}

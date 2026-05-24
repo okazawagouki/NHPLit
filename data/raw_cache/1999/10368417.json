@@ -1,0 +1,27 @@
+{
+  "pmid": "10368417",
+  "title": "Stochastic nature of precisely timed spike patterns in visual system neuronal responses.",
+  "abstract": "It is not clear how information related to cognitive or psychological processes is carried by or represented in the responses of single neurons. One provocative proposal is that precisely timed spike patterns play a role in carrying such information. This would require that these spike patterns have the potential for carrying information that would not be available from other measures such as spike count or latency. We examined exactly timed (1-ms precision) triplets and quadruplets of spikes in the stimulus-elicited responses of lateral geniculate nucleus (LGN) and primary visual cortex (V1) neurons of the awake fixating rhesus monkey. Large numbers of these precisely timed spike patterns were found. Information theoretical analysis showed that the precisely timed spike patterns carried only information already available from spike count, suggesting that the number of precisely timed spike patterns was related to firing rate. We therefore examined statistical models relating precisely timed spike patterns to response strength. Previous statistical models use observed properties of neuronal responses such as the peristimulus time histogram, interspike interval, and/or spike count distributions to constrain the parameters of the model. We examined a new stochastic model, which unlike previous models included all three of these constraints and unlike previous models predicted the numbers and types of observed precisely timed spike patterns. This shows that the precise temporal structures of stimulus-elicited responses in LGN and V1 can occur by chance. We show that any deviation of the spike count distribution, no matter how small, from a Poisson distribution necessarily changes the number of precisely timed spike patterns expected in neural responses. Overall the results indicate that the fine temporal structure of responses can only be interpreted once all the coarse temporal statistics of neural responses have been taken into account.",
+  "authors": [
+    "Oram M W",
+    "Wiener M C",
+    "Lestienne R",
+    "Richmond B J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Evoked Potentials, Visual",
+    "Geniculate Bodies",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons, Afferent",
+    "Reward",
+    "Stochastic Processes",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "24227737",
+  "title": "Neural codes formed by small and temporally precise populations in auditory cortex.",
+  "abstract": "The encoding of sensory information by populations of cortical neurons forms the basis for perception but remains poorly understood. To understand the constraints of cortical population coding we analyzed neural responses to natural sounds recorded in auditory cortex of primates (Macaca mulatta). We estimated stimulus information while varying the composition and size of the considered population. Consistent with previous reports we found that when choosing subpopulations randomly from the recorded ensemble, the average population information increases steadily with population size. This scaling was explained by a model assuming that each neuron carried equal amounts of information, and that any overlap between the information carried by each neuron arises purely from random sampling within the stimulus space. However, when studying subpopulations selected to optimize information for each given population size, the scaling of information was strikingly different: a small fraction of temporally precise cells carried the vast majority of information. This scaling could be explained by an extended model, assuming that the amount of information carried by individual neurons was highly nonuniform, with few neurons carrying large amounts of information. Importantly, these optimal populations can be determined by a single biophysical marker-the neuron's encoding time scale-allowing their detection and readout within biologically realistic circuits. These results show that extrapolations of population information based on random ensembles may overestimate the population size required for stimulus encoding, and that sensory cortical circuits may process information using small but highly informative ensembles.",
+  "authors": [
+    "Ince Robin A A",
+    "Panzeri Stefano",
+    "Kayser Christoph"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2013",
+  "doi": "10.1523/JNEUROSCI.2631-13.2013",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Auditory Cortex",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Random Allocation",
+    "Time Factors"
+  ]
+}

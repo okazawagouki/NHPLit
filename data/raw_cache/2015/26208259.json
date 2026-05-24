@@ -1,0 +1,22 @@
+{
+  "pmid": "26208259",
+  "title": "Theoretical Optimization of Stimulation Strategies for a Directionally Segmented Deep Brain Stimulation Electrode Array.",
+  "abstract": "Programming deep brain stimulation (DBS) systems currently involves a clinician manually sweeping through a range of stimulus parameter settings to identify the setting that delivers the most robust therapy for a patient. With the advent of DBS arrays with a higher number and density of electrodes, this trial and error process becomes unmanageable in a clinical setting. This study developed a computationally efficient, model-based algorithm to estimate an electrode configuration that will most strongly activate tissue within a volume of interest. The cerebellar-receiving area of motor thalamus, the target for treating essential tremor with DBS, was rendered from imaging data and discretized into grid points aligned in approximate afferent and efferent axonal pathway orientations. A finite-element model (FEM) was constructed to simulate the volumetric tissue voltage during DBS. We leveraged the principle of voltage superposition to formulate a convex optimization-based approach to maximize activating function (AF) values at each grid point (via three different criteria), hence increasing the overall probability of action potential initiation and neuronal entrainment within the target volume. For both efferent and afferent pathways, this approach achieved global optima within several seconds. The optimal electrode configuration and resulting AF values differed across each optimization criteria and between axonal orientations. This approach only required a set of FEM simulations equal to the number of DBS array electrodes, and could readily accommodate anisotropic-inhomogeneous tissue conductances or other axonal orientations. The algorithm provides an efficient, flexible determination of optimal electrode configurations for programming DBS arrays.",
+  "authors": [
+    "Xiao YiZi",
+    "Peña Edgar",
+    "Johnson Matthew D"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2016",
+  "doi": "10.1109/TBME.2015.2457873",
+  "mesh": [
+    "Animals",
+    "Deep Brain Stimulation",
+    "Electrodes, Implanted",
+    "Female",
+    "Macaca mulatta",
+    "Models, Theoretical",
+    "Prosthesis Design"
+  ]
+}

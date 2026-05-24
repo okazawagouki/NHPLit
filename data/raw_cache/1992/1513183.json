@@ -1,0 +1,21 @@
+{
+  "pmid": "1513183",
+  "title": "Flattening the cerebral cortex by computer.",
+  "abstract": "A computer program was developed for unfolding the cerebral cortex so that it could be viewed as a 2-dimensional surface. Input to the program consisted of tissue sections cut in a standard plane of section. Each section was represented by one line, which corresponded to a contour line in the flattened map. From these data, the computer constructed a 3-dimensional surface representation, which it then flattened. Because the cerebral cortex has considerable intrinsic curvature, flattening required that some regions be expanded and others shrunken. These changes occurred as a natural consequence of local decisions made by the computer as it laid down successive contours. The user could intervene during both surfacing and flattening in order to shape the developing map. The program has been used to generate 37 flattened maps from various regions of cat cortex, and 1 from monkey cortex. The local topography of cortical features such as gyri, sulci, architectonic boundaries, and patches of transported tracer, appeared to be conserved fairly faithfully. Areal distortion was also modest, with an average change in surface area of only 12%.",
+  "authors": [
+    "Sherk H"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "1992",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Cats",
+    "Cerebral Cortex",
+    "Macaca",
+    "Microcomputers",
+    "Models, Neurological",
+    "Software"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "25605498",
+  "title": "Brain-computer interface control along instructed paths.",
+  "abstract": "OBJECTIVE: Brain-computer interfaces (BCIs) are being developed to assist paralyzed people and amputees by translating neural activity into movements of a computer cursor or prosthetic limb. Here we introduce a novel BCI task paradigm, intended to help accelerate improvements to BCI systems. Through this task, we can push the performance limits of BCI systems, we can quantify more accurately how well a BCI system captures the user's intent, and we can increase the richness of the BCI movement repertoire. APPROACH: We have implemented an instructed path task, wherein the user must drive a cursor along a visible path. The instructed path task provides a versatile framework to increase the difficulty of the task and thereby push the limits of performance. Relative to traditional point-to-point tasks, the instructed path task allows more thorough analysis of decoding performance and greater richness of movement kinematics. MAIN RESULTS: We demonstrate that monkeys are able to perform the instructed path task in a closed-loop BCI setting. We further investigate how the performance under BCI control compares to native arm control, whether users can decrease their movement variability in the face of a more demanding task, and how the kinematic richness is enhanced in this task. SIGNIFICANCE: The use of the instructed path task has the potential to accelerate the development of BCI systems and their clinical translation.",
+  "authors": [
+    "Sadtler P T",
+    "Ryu S I",
+    "Tyler-Kabara E C",
+    "Yu B M",
+    "Batista A P"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2015",
+  "doi": "10.1088/1741-2560/12/1/016015",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Computer Peripherals",
+    "Cues",
+    "Electroencephalography",
+    "Evoked Potentials, Motor",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Psychomotor Performance",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity"
+  ]
+}

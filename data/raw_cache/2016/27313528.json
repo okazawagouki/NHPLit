@@ -1,0 +1,17 @@
+{
+  "pmid": "27313528",
+  "title": "Neural Network Evidence for the Coupling of Presaccadic Visual Remapping to Predictive Eye Position Updating.",
+  "abstract": "As we look around a scene, we perceive it as continuous and stable even though each saccadic eye movement changes the visual input to the retinas. How the brain achieves this perceptual stabilization is unknown, but a major hypothesis is that it relies on presaccadic remapping, a process in which neurons shift their visual sensitivity to a new location in the scene just before each saccade. This hypothesis is difficult to test in vivo because complete, selective inactivation of remapping is currently intractable. We tested it in silico with a hierarchical, sheet-based neural network model of the visual and oculomotor system. The model generated saccadic commands to move a video camera abruptly. Visual input from the camera and internal copies of the saccadic movement commands, or corollary discharge, converged at a map-level simulation of the frontal eye field (FEF), a primate brain area known to receive such inputs. FEF output was combined with eye position signals to yield a suitable coordinate frame for guiding arm movements of a robot. Our operational definition of perceptual stability was \"useful stability,\" quantified as continuously accurate pointing to a visual object despite camera saccades. During training, the emergence of useful stability was correlated tightly with the emergence of presaccadic remapping in the FEF. Remapping depended on corollary discharge but its timing was synchronized to the updating of eye position. When coupled to predictive eye position signals, remapping served to stabilize the target representation for continuously accurate pointing. Graded inactivations of pathways in the model replicated, and helped to interpret, previous in vivo experiments. The results support the hypothesis that visual stability requires presaccadic remapping, provide explanations for the function and timing of remapping, and offer testable hypotheses for in vivo studies. We conclude that remapping allows for seamless coordinate frame transformations and quick actions despite visual afferent lags. With visual remapping in place for behavior, it may be exploited for perceptual continuity.",
+  "authors": [
+    "Rao Hrishikesh M",
+    "San Juan Juan",
+    "Shen Fred Y",
+    "Villa Jennifer E",
+    "Rafie Kimia S",
+    "Sommer Marc A"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2016",
+  "doi": "10.3389/fncom.2016.00052",
+  "mesh": []
+}

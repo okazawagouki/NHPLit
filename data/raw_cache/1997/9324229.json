@@ -1,0 +1,19 @@
+{
+  "pmid": "9324229",
+  "title": "Analyses on the temporal patterns of spikes of auditory neurons of the macaque monkey by means of an artificial neural network and tree-based models.",
+  "abstract": "The time scale over which information in the primary auditory cortex is processed was estimated. An artificial neural network was used to learn the temporal patterns of spikes. After learning, test patterns were input to the network. Comparison of the accuracy of the network with that of the maximum likelihood function computed from the spike count reveals that the temporal patterns of spikes are closely related to stimulus discrimination. Next, a tree-based model from a subset of the spike trains with a fixed time resolution was constructed and validated the model with another. By repeating this for different bin widths, it was found that there are no simple models for the time bin width larger than 50 ms. This indicates that the time scale in the auditory cortex is not larger than 50 ms.",
+  "authors": [
+    "Takahashi T"
+  ],
+  "journal": "Neuroscience letters",
+  "year": "1997",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Auditory Cortex",
+    "Macaca",
+    "Neural Networks, Computer",
+    "Neural Pathways",
+    "Time Factors"
+  ]
+}

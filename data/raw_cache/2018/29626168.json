@@ -1,0 +1,32 @@
+{
+  "pmid": "29626168",
+  "title": "The Magnitude, But Not the Sign, of MT Single-Trial Spike-Time Correlations Predicts Motion Detection Performance.",
+  "abstract": "Spike-time correlations capture the short timescale covariance between the activity of neurons on a single trial. These correlations can significantly vary in magnitude and sign from trial to trial, and have been proposed to contribute to information encoding in visual cortex. While monkeys performed a motion-pulse detection task, we examined the behavioral impact of both the magnitude and sign of single-trial spike-time correlations between two nonoverlapping pools of middle temporal (MT) neurons. We applied three single-trial measures of spike-time correlation between our multiunit MT spike trains (Pearson's, absolute value of Pearson's, and mutual information), and examined the degree to which they predicted a subject's performance on a trial-by-trial basis. We found that on each trial, positive and negative spike-time correlations were almost equally likely, and, once the correlational sign was accounted for, all three measures were similarly predictive of behavior. Importantly, just before the behaviorally relevant motion pulse occurred, single-trial spike-time correlations were as predictive of the performance of the animal as single-trial firing rates. While firing rates were positively associated with behavioral outcomes, the presence of either strong positive or negative correlations had a detrimental effect on behavior. These correlations occurred on short timescales, and the strongest positive and negative correlations modulated behavioral performance by ∼9%, compared with trials with no correlations. We suggest a model where spike-time correlations are associated with a common noise source for the two MT pools, which in turn decreases the signal-to-noise ratio of the integrated signals that drive motion detection.<b>SIGNIFICANCE STATEMENT</b> Previous work has shown that spike-time correlations occurring on short timescales can affect the encoding of visual inputs. Although spike-time correlations significantly vary in both magnitude and sign across trials, their impact on trial-by-trial behavior is not fully understood. Using neural recordings from area MT (middle temporal) in monkeys performing a motion-detection task using a brief stimulus, we found that both positive and negative spike-time correlations predicted behavioral responses as well as firing rate on a trial-by-trial basis. We propose that strong positive and negative spike-time correlations decreased behavioral performance by reducing the signal-to-noise ratio of integrated MT neural signals.",
+  "authors": [
+    "Hashemi Alireza",
+    "Golzar Ashkan",
+    "Smith Jackson E T",
+    "Cook Erik P"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2018",
+  "doi": "10.1523/JNEUROSCI.1182-17.2018",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Behavior, Animal",
+    "Electrophysiological Phenomena",
+    "Eye Movements",
+    "Macaca mulatta",
+    "Male",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Saccades",
+    "Signal Detection, Psychological",
+    "Signal-To-Noise Ratio",
+    "Temporal Lobe"
+  ]
+}

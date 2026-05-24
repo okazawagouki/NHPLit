@@ -1,0 +1,29 @@
+{
+  "pmid": "25488769",
+  "title": "STDP in lateral connections creates category-based perceptual cycles for invariance learning with multiple stimuli.",
+  "abstract": "Learning to recognise objects and faces is an important and challenging problem tackled by the primate ventral visual system. One major difficulty lies in recognising an object despite profound differences in the retinal images it projects, due to changes in view, scale, position and other identity-preserving transformations. Several models of the ventral visual system have been successful in coping with these issues, but have typically been privileged by exposure to only one object at a time. In natural scenes, however, the challenges of object recognition are typically further compounded by the presence of several objects which should be perceived as distinct entities. In the present work, we explore one possible mechanism by which the visual system may overcome these two difficulties simultaneously, through segmenting unseen (artificial) stimuli using information about their category encoded in plastic lateral connections. We demonstrate that these experience-guided lateral interactions robustly organise input representations into perceptual cycles, allowing feed-forward connections trained with spike-timing-dependent plasticity to form independent, translation-invariant output representations. We present these simulations as a functional explanation for the role of plasticity in the lateral connectivity of visual cortex.",
+  "authors": [
+    "Evans Benjamin D",
+    "Stringer Simon M"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2015",
+  "doi": "10.1007/s00422-014-0637-z",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Cues",
+    "Interneurons",
+    "Learning",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Primates",
+    "Visual Cortex"
+  ]
+}

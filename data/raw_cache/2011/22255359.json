@@ -1,0 +1,26 @@
+{
+  "pmid": "22255359",
+  "title": "Towards a non-invasive brain-machine interface system to restore gait function in humans.",
+  "abstract": "Before 2009, the feasibility of applying brain-machine interfaces (BMIs) to control prosthetic devices had been limited to upper limb prosthetics such as the DARPA modular prosthetic limb. Until recently, it was believed that the control of bipedal locomotion involved central pattern generators with little supraspinal control. Analysis of cortical dynamics with electroencephalography (EEG) was also prevented by the lack of analysis tools to deal with excessive signal artifacts associated with walking. Recently, Nicolelis and colleagues paved the way for the decoding of locomotion showing that chronic recordings from ensembles of cortical neurons in primary motor (M1) and primary somatosensory (S1) cortices can be used to decode bipedal kinematics in rhesus monkeys. However, neural decoding of bipedal locomotion in humans has not yet been demonstrated. This study uses non-invasive EEG signals to decode human walking in six nondisabled adults. Participants were asked to walk on a treadmill at their self-selected comfortable speed while receiving visual feedback of their lower limbs, to repeatedly avoid stepping on a strip drawn on the treadmill belt. Angular kinematics of the left and right hip, knee and ankle joints and EEG were recorded concurrently. Our results support the possibility of decoding human bipedal locomotion with EEG. The average of the correlation values (r) between predicted and recorded kinematics for the six subjects was 0.7 (± 0.12) for the right leg and 0.66 (± 0.11) for the left leg. The average signal-to-noise ratio (SNR) values for the predicted parameters were 3.36 (± 1.89) dB for the right leg and 2.79 (± 1.33) dB for the left leg. These results show the feasibility of developing non-invasive neural interfaces for volitional control of devices aimed at restoring human gait function.",
+  "authors": [
+    "Presacco Alessandro",
+    "Forrester Larry",
+    "Contreras-Vidal Jose L"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2011",
+  "doi": "10.1109/IEMBS.2011.6091136",
+  "mesh": [
+    "Adolescent",
+    "Adult",
+    "Brain",
+    "Electroencephalography",
+    "Female",
+    "Gait",
+    "Humans",
+    "Male",
+    "Man-Machine Systems",
+    "Middle Aged",
+    "Young Adult"
+  ]
+}

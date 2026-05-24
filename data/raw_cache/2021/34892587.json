@@ -1,0 +1,23 @@
+{
+  "pmid": "34892587",
+  "title": "Changes in Modulation Characteristics of Neurons in Different Modes of Motion Control Using Brain-Machine Interface.",
+  "abstract": "In the research of motion control using brain-machine interface (BMI), analysis is usually conducted on one ensemble of neurons whose activity serves as direct input to the BMI decoder (control units). The number of control units is diverse in different control modes. That is to say, the size of dimensions of neural signals used in motion control is diverse. However, how will the behavioral performance change with this kind of diversity? What effects does this diversity have on modulation characteristics of control units? To answer these questions, we designed three modes of motion tasks using neural signals with different dimension sizes to control. Our results imply that as the dimension reduces, some deviations appear in behavioral performance. At the same time, the control units tend to have a directional division of control, then enhance their stability and increase modulations after division.",
+  "authors": [
+    "Zhang Yiwei",
+    "Wan Zijun",
+    "Wan Guihua",
+    "Zheng Qi",
+    "Chen Weidong",
+    "Zhang Shaomin"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2021",
+  "doi": "10.1109/EMBC46164.2021.9630212",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Motion",
+    "Neurons"
+  ]
+}

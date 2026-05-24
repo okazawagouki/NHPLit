@@ -1,0 +1,26 @@
+{
+  "pmid": "22802940",
+  "title": "Context matters: the illusive simplicity of macaque V1 receptive fields.",
+  "abstract": "Even in V1, where neurons have well characterized classical receptive fields (CRFs), it has been difficult to deduce which features of natural scenes stimuli they actually respond to. Forward models based upon CRF stimuli have had limited success in predicting the response of V1 neurons to natural scenes. As natural scenes exhibit complex spatial and temporal correlations, this could be due to surround effects that modulate the sensitivity of the CRF. Here, instead of attempting a forward model, we quantify the importance of the natural scenes surround for awake macaque monkeys by modeling it non-parametrically. We also quantify the influence of two forms of trial to trial variability. The first is related to the neuron's own spike history. The second is related to ongoing mean field population activity reflected by the local field potential (LFP). We find that the surround produces strong temporal modulations in the firing rate that can be both suppressive and facilitative. Further, the LFP is found to induce a precise timing in spikes, which tend to be temporally localized on sharp LFP transients in the gamma frequency range. Using the pseudo R(2) as a measure of model fit, we find that during natural scene viewing the CRF dominates, accounting for 60% of the fit, but that taken collectively the surround, spike history and LFP are almost as important, accounting for 40%. However, overall only a small proportion of V1 spiking statistics could be explained (R(2)∼5%), even when the full stimulus, spike history and LFP were taken into account. This suggests that under natural scene conditions, the dominant influence on V1 neurons is not the stimulus, nor the mean field dynamics of the LFP, but the complex, incoherent dynamics of the network in which neurons are embedded.",
+  "authors": [
+    "Haslinger Robert",
+    "Pipa Gordon",
+    "Lima Bruss",
+    "Singer Wolf",
+    "Brown Emery N",
+    "Neuenschwander Sergio"
+  ],
+  "journal": "PloS one",
+  "year": "2012",
+  "doi": "10.1371/journal.pone.0039699",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Fields",
+    "Wakefulness"
+  ]
+}

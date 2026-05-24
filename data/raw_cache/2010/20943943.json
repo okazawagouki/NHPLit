@@ -1,0 +1,30 @@
+{
+  "pmid": "20943943",
+  "title": "Time course of information representation of macaque AIP neurons in hand manipulation task revealed by information analysis.",
+  "abstract": "We used mutual information analysis of neuronal activity in the macaque anterior intraparietal area (AIP) to examine information processing during a hand manipulation task. The task was to reach-to-grasp a three-dimensional (3D) object after presentation of a go signal. Mutual information was calculated between the spike counts of individual neurons in 50-ms-wide time bins and six unique shape classifications or 15 one-versus-one classifications of these shapes. The spatiotemporal distribution of mutual information was visualized as a two-dimensional image (\"information map\") to better observe global profiles of information representation. In addition, a nonnegative matrix factorization technique was applied for extracting its structure. Our major finding was that the time course of mutual information differed significantly according to different classes of task-related neurons. This strongly suggests that different classes of neurons were engaged in different information processing stages in executing the hand manipulation task. On the other hand, our analysis revealed the heterogeneous nature of information representation of AIP neurons. For example, \"information latency\" (or information onset) varied among individual neurons even in the same neuron class and the same shape classification. Further, some neurons changed \"information preference\" (i.e., shape classification with the largest amount of information) across different task periods. These suggest that neurons encode different information in the different task periods. Taking the present result together with previous findings, we used a Gantt chart to propose a hypothetical scheme of the dynamic interactions between different types of AIP neurons.",
+  "authors": [
+    "Sakaguchi Yutaka",
+    "Ishida Fumihiko",
+    "Shimizu Takashi",
+    "Murata Akira"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2010",
+  "doi": "10.1152/jn.00125.2010",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain Mapping",
+    "Cell Shape",
+    "Data Display",
+    "Hand",
+    "Hand Strength",
+    "Information Theory",
+    "Macaca",
+    "Mathematics",
+    "Neurons",
+    "Parietal Lobe",
+    "Psychomotor Performance",
+    "Time Factors"
+  ]
+}

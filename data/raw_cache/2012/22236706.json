@@ -1,0 +1,26 @@
+{
+  "pmid": "22236706",
+  "title": "Detecting event-related changes of multivariate phase coupling in dynamic brain networks.",
+  "abstract": "Oscillatory phase coupling within large-scale brain networks is a topic of increasing interest within systems, cognitive, and theoretical neuroscience. Evidence shows that brain rhythms play a role in controlling neuronal excitability and response modulation (Haider B, McCormick D. Neuron 62: 171-189, 2009) and regulate the efficacy of communication between cortical regions (Fries P. Trends Cogn Sci 9: 474-480, 2005) and distinct spatiotemporal scales (Canolty RT, Knight RT. Trends Cogn Sci 14: 506-515, 2010). In this view, anatomically connected brain areas form the scaffolding upon which neuronal oscillations rapidly create and dissolve transient functional networks (Lakatos P, Karmos G, Mehta A, Ulbert I, Schroeder C. Science 320: 110-113, 2008). Importantly, testing these hypotheses requires methods designed to accurately reflect dynamic changes in multivariate phase coupling within brain networks. Unfortunately, phase coupling between neurophysiological signals is commonly investigated using suboptimal techniques. Here we describe how a recently developed probabilistic model, phase coupling estimation (PCE; Cadieu C, Koepsell K Neural Comput 44: 3107-3126, 2010), can be used to investigate changes in multivariate phase coupling, and we detail the advantages of this model over the commonly employed phase-locking value (PLV; Lachaux JP, Rodriguez E, Martinerie J, Varela F. Human Brain Map 8: 194-208, 1999). We show that the N-dimensional PCE is a natural generalization of the inherently bivariate PLV. Using simulations, we show that PCE accurately captures both direct and indirect (network mediated) coupling between network elements in situations where PLV produces erroneous results. We present empirical results on recordings from humans and nonhuman primates and show that the PCE-estimated coupling values are different from those using the bivariate PLV. Critically on these empirical recordings, PCE output tends to be sparser than the PLVs, indicating fewer significant interactions and perhaps a more parsimonious description of the data. Finally, the physical interpretation of PCE parameters is straightforward: the PCE parameters correspond to interaction terms in a network of coupled oscillators. Forward modeling of a network of coupled oscillators with parameters estimated by PCE generates synthetic data with statistical characteristics identical to empirical signals. Given these advantages over the PLV, PCE is a useful tool for investigating multivariate phase coupling in distributed brain networks.",
+  "authors": [
+    "Canolty Ryan T",
+    "Cadieu Charles F",
+    "Koepsell Kilian",
+    "Ganguly Karunesh",
+    "Knight Robert T",
+    "Carmena Jose M"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2012",
+  "doi": "10.1152/jn.00610.2011",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Humans",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Nonlinear Dynamics"
+  ]
+}

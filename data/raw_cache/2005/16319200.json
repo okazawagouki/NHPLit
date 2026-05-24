@@ -1,0 +1,30 @@
+{
+  "pmid": "16319200",
+  "title": "Partial cross-correlation analysis resolves ambiguity in the encoding of multiple movement features.",
+  "abstract": "A classical question in neuroscience is which features of a stimulus or of an action are represented in brain activity. When several features are interdependent either at a given point in time or at distinct points in time, neural activity related to one feature appears to be correlated with other features. Thus techniques that simultaneously consider multiple features cannot account for delayed interdependencies between features. The result is an ambiguity with respect to the encoded features. Here, we resolve this ambiguity by applying a novel statistical method based on partial cross-correlations. The method yields estimates of linear correlations between neural activity and a given feature that are not affected by linear correlations with other features at multiple time delays. The method also provides a graphical output measured on a scale that allows for comparisons between different features, neurons, and experiments. We use real movement data and neural activity simulated according to a wide range of tuning models to illustrate the method. When applied to real neural activity, the procedure yields results that indicate which of the considered features the neural activity is related to and at what time delays.",
+  "authors": [
+    "Stark Eran",
+    "Drori Rotem",
+    "Abeles Moshe"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Computer Simulation",
+    "Data Interpretation, Statistical",
+    "Evoked Potentials, Motor",
+    "Female",
+    "Macaca fascicularis",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Movement",
+    "Neurons",
+    "Regression Analysis",
+    "Statistics as Topic"
+  ]
+}

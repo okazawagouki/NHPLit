@@ -1,0 +1,20 @@
+{
+  "pmid": "30044171",
+  "title": "Figure and ground: how the visual cortex integrates local cues for global organization.",
+  "abstract": "Inferring figure-ground organization in two-dimensional images may require different complementary strategies. For isolated objects, it has been shown that mechanisms in visual cortex exploit the overall distribution of contours, but in images of cluttered scenes where the grouping of contours is not obvious, that strategy would fail. However, natural scenes contain local features, specifically contour junctions, that may contribute to the definition of object regions. To study the role of local features in the assignment of border ownership, we recorded single-cell activity from visual cortex in awake behaving Macaca mulatta. We tested configurations perceived as two overlapping figures in which T- and L-junctions depend on the direction of overlap, whereas the overall distribution of contours provides no valid information. While recording responses to the occluding contour, we varied direction of overlap and variably masked some of the critical contour features to determine their influences and their interactions. On average, most features influenced the responses consistently, producing either enhancement or suppression depending on border ownership. Different feature types could have opposite effects even at the same location. Features far from the receptive field produced effects as strong as near features and with the same short latency. Summation was highly nonlinear: any single feature produced more than two-thirds of the effect of all features together. These findings reveal fast and highly specific organization mechanisms, supporting a previously proposed model in which \"grouping cells\" integrate widely distributed edge signals with specific end-stopped signals to modulate the original edge signals by feedback. NEW & NOTEWORTHY Seeing objects seems effortless, but defining objects in a scene requires sophisticated neural mechanisms. For isolated objects, the visual cortex groups contours based on overall distribution, but this strategy does not work for cluttered scenes. Here, we demonstrate mechanisms that integrate local contour features like T- and L-junctions to resolve clutter. The process is fast, evaluates widely distributed features, and gives any single feature a decisive influence on figure-ground representation.",
+  "authors": [
+    "von der Heydt Rüdiger",
+    "Zhang Nan R"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2018",
+  "doi": "10.1152/jn.00125.2018",
+  "mesh": [
+    "Animals",
+    "Cues",
+    "Macaca mulatta",
+    "Male",
+    "Pattern Recognition, Visual",
+    "Visual Cortex"
+  ]
+}

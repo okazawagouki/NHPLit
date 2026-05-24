@@ -1,0 +1,27 @@
+{
+  "pmid": "18650810",
+  "title": "Spatio-temporal correlations and visual signalling in a complete neuronal population.",
+  "abstract": "Statistical dependencies in the responses of sensory neurons govern both the amount of stimulus information conveyed and the means by which downstream neurons can extract it. Although a variety of measurements indicate the existence of such dependencies, their origin and importance for neural coding are poorly understood. Here we analyse the functional significance of correlated firing in a complete population of macaque parasol retinal ganglion cells using a model of multi-neuron spike responses. The model, with parameters fit directly to physiological data, simultaneously captures both the stimulus dependence and detailed spatio-temporal correlations in population responses, and provides two insights into the structure of the neural code. First, neural encoding at the population level is less noisy than one would expect from the variability of individual neurons: spike times are more precise, and can be predicted more accurately when the spiking of neighbouring neurons is taken into account. Second, correlations provide additional sensory information: optimal, model-based decoding that exploits the response correlation structure extracts 20% more information about the visual scene than decoding under the assumption of independence, and preserves 40% more visual information than optimal linear decoding. This model-based approach reveals the role of correlated activity in the retinal coding of visual stimuli, and provides a general framework for understanding the importance of correlated activity in populations of neurons.",
+  "authors": [
+    "Pillow Jonathan W",
+    "Shlens Jonathon",
+    "Paninski Liam",
+    "Sher Alexander",
+    "Litke Alan M",
+    "Chichilnisky E J",
+    "Simoncelli Eero P"
+  ],
+  "journal": "Nature",
+  "year": "2008",
+  "doi": "10.1038/nature07140",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Photic Stimulation",
+    "Retinal Ganglion Cells",
+    "Time Factors",
+    "Vision, Ocular"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "31537787",
+  "title": "Inferring neural signalling directionality from undirected structural connectomes.",
+  "abstract": "Neural information flow is inherently directional. To date, investigation of directional communication in the human structural connectome has been precluded by the inability of non-invasive neuroimaging methods to resolve axonal directionality. Here, we demonstrate that decentralized measures of network communication, applied to the undirected topology and geometry of brain networks, can infer putative directions of large-scale neural signalling. We propose the concept of send-receive communication asymmetry to characterize cortical regions as senders, receivers or neutral, based on differences between their incoming and outgoing communication efficiencies. Our results reveal a send-receive cortical hierarchy that recapitulates established organizational gradients differentiating sensory-motor and multimodal areas. We find that send-receive asymmetries are significantly associated with the directionality of effective connectivity derived from spectral dynamic causal modeling. Finally, using fruit fly, mouse and macaque connectomes, we provide further evidence suggesting that directionality of neural signalling is significantly encoded in the undirected architecture of nervous systems.",
+  "authors": [
+    "Seguin Caio",
+    "Razi Adeel",
+    "Zalesky Andrew"
+  ],
+  "journal": "Nature communications",
+  "year": "2019",
+  "doi": "10.1038/s41467-019-12201-w",
+  "mesh": [
+    "Adult",
+    "Animals",
+    "Brain",
+    "Cell Communication",
+    "Connectome",
+    "Drosophila",
+    "Female",
+    "Humans",
+    "Macaca",
+    "Male",
+    "Mice",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Pathways",
+    "Signal Transduction",
+    "Young Adult"
+  ]
+}

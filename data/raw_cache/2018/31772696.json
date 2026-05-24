@@ -1,0 +1,15 @@
+{
+  "pmid": "31772696",
+  "title": "ADJUSTED REGULARIZATION IN LATENT GRAPHICAL MODELS: APPLICATION TO MULTIPLE-NEURON SPIKE COUNT DATA.",
+  "abstract": "A major challenge in contemporary neuroscience is to analyze data from large numbers of neurons recorded simultaneously across many experimental replications (trials), where the data are counts of neural firing events, and one of the basic problems is to characterize the dependence structure among such multivariate counts. Methods of estimating high-dimensional covariation based on <i>ℓ</i> <sub>1</sub>-regularization are most appropriate when there are a small number of relatively large partial correlations, but in neural data there are often large numbers of relatively small partial correlations. Furthermore, the variation across trials is often confounded by Poisson-like variation within trials. To overcome these problems we introduce a comprehensive methodology that imbeds a Gaussian graphical model into a hierarchical structure: the counts are assumed Poisson, conditionally on latent variables that follow a Gaussian graphical model, and the graphical model parameters, in turn, are assumed to depend on physiologically-motivated covariates, which can greatly improve correct detection of interactions (non-zero partial correlations). We develop a Bayesian approach to fitting this covariate-adjusted generalized graphical model and we demonstrate its success in simulation studies. We then apply it to data from an experiment on visual attention, where we assess functional interactions between neurons recorded from two brain areas.",
+  "authors": [
+    "Vinci Giuseppe",
+    "Ventura Valérie",
+    "Smith Matthew A",
+    "Kass Robert E"
+  ],
+  "journal": "The annals of applied statistics",
+  "year": "2018",
+  "doi": "10.1214/18-AOAS1190",
+  "mesh": []
+}

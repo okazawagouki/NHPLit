@@ -1,0 +1,31 @@
+{
+  "pmid": "21864319",
+  "title": "Visual adaptation and novelty responses in the superior colliculus.",
+  "abstract": "The brain's ability to ignore repeating, often redundant, information while enhancing novel information processing is paramount to survival. When stimuli are repeatedly presented, the response of visually sensitive neurons decreases in magnitude, that is, neurons adapt or habituate, although the mechanism is not yet known. We monitored the activity of visual neurons in the superior colliculus (SC) of rhesus monkeys who actively fixated while repeated visual events were presented. We dissociated adaptation from habituation as mechanisms of the response decrement by using a Bayesian model of adaptation, and by employing a paradigm including rare trials that included an oddball stimulus that was either brighter or dimmer. If the mechanism is adaptation, response recovery should be seen only for the brighter stimulus; if the mechanism is habituation, response recovery ('dishabituation') should be seen for both the brighter and dimmer stimuli. We observed a reduction in the magnitude of the initial transient response and an increase in response onset latency with stimulus repetition for all visually responsive neurons in the SC. Response decrement was successfully captured by the adaptation model, which also predicted the effects of presentation rate and rare luminance changes. However, in a subset of neurons with sustained activity in response to visual stimuli, a novelty signal akin to dishabituation was observed late in the visual response profile for both brighter and dimmer stimuli, and was not captured by the model. This suggests that SC neurons integrate both rapidly discounted information about repeating stimuli and novelty information about oddball events, to support efficient selection in a cluttered dynamic world.",
+  "authors": [
+    "Boehnke Susan E",
+    "Berg David J",
+    "Marino Robert A",
+    "Baldi Pierre F",
+    "Itti Laurent",
+    "Munoz Douglas P"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "2011",
+  "doi": "10.1111/j.1460-9568.2011.07805.x",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Behavior, Animal",
+    "Computer Simulation",
+    "Habituation, Psychophysiologic",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Neuropsychological Tests",
+    "ROC Curve",
+    "Superior Colliculi",
+    "Vision, Ocular",
+    "Visual Perception"
+  ]
+}

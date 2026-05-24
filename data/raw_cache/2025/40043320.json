@@ -1,0 +1,27 @@
+{
+  "pmid": "40043320",
+  "title": "Less is more: selection from a small set of options improves BCI velocity control.",
+  "abstract": "<i>Objective.</i>Decoding algorithms used in invasive brain-computer interfaces (iBCIs) typically convert neural activity into continuously varying velocity commands. We hypothesized that putting constraints on which decoded velocity commands are permissible could improve user performance. To test this hypothesis, we designed the discrete direction selection (DDS) decoder, which uses neural activity to select among a small menu of preset cursor velocities.<i>Approach</i>. We tested DDS in a closed-loop cursor control task against many common continuous velocity decoders in both a human-operated real-time iBCI simulator (the jaBCI) and in a monkey using an iBCI. In the jaBCI, we compared performance across four visits by each of 48 naïve, able-bodied human subjects using either DDS, direct regression with assist (an affine map from neural activity to cursor velocity, DR-A), ReFIT, or the velocity Kalman Filter (vKF). In a follow up study to verify the jaBCI results, we compared a monkey's performance using an iBCI with either DDS or the Wiener filter decoder (a direct regression decoder that includes time history, WF).<i>Main Result</i>. In the jaBCI, DDS substantially outperformed all other decoders with 93% mean targets hit per visit compared to DR-A, ReFIT, and vKF with 56%, 39%, and 26% mean targets hit, respectively. With the iBCI, the monkey achieved a 61% success rate with DDS and a 37% success rate with WF.<i>Significance</i>. Discretizing the decoded velocity with DDS effectively traded high resolution velocity commands for less tortuous and lower noise trajectories, highlighting the potential benefits of discretization in simplifying online BCI control.",
+  "authors": [
+    "Alcolea Pedro I",
+    "Ma Xuan",
+    "Bodkin Kevin",
+    "Miller Lee E",
+    "Danziger Zachary C"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2025",
+  "doi": "10.1088/1741-2552/adbcd9",
+  "mesh": [
+    "Brain-Computer Interfaces",
+    "Animals",
+    "Humans",
+    "Macaca mulatta",
+    "Algorithms",
+    "Male",
+    "Female",
+    "Adult",
+    "Electroencephalography",
+    "Psychomotor Performance"
+  ]
+}

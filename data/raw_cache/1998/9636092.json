@@ -1,0 +1,34 @@
+{
+  "pmid": "9636092",
+  "title": "Spatiotemporal structure of cortical activity: properties and behavioral relevance.",
+  "abstract": "The study was designed to reveal occurrences of precise firing sequences (PFSs) in cortical activity and to test their behavioral relevance. Two monkeys were trained to perform a delayed-response paradigm and to open puzzle boxes. Extracellular activity was recorded from neurons in premotor and prefrontal areas with an array of six microelectrodes. An algorithm was developed to detect PFSs, defined as a set of three spikes and two intervals with a precision of +/-1 ms repeating significantly more than expected by chance. The expected level of repetition was computed based on the firing rate and the pairwise correlation of the participating units, assuming a Poisson distribution of event counts. Accordingly, the search for PFSs was corrected for rate modulations. PFSs were found in 24/25 recording sessions. Most PFSs (76%) were composed of spikes of more than one unit but usually not more than two units (67%). The PFSs spanned hundreds of milliseconds, and the average interval between two events within the PFSs was 200 ms. No traces of periodic oscillations were found in the PFS intervals. The bins of the matrix that were defined as PFSs were isolated temporally: the spikes that generated PFSs were not associated with high-frequency bursts or rapid coherent rate fluctuations. A given PFS tended to be correlated with the animal's behavior. Furthermore, for 19% of the PFS pairs that shared the same unit composition, each member of the pair was associated with a different type of behavior. The PFSs often appeared in clusters that were associated with particular phases of the behavior. The firing rate of single units did not provide a full explanation for the timing and structure of these clusters. A reduced spike train (RST) was defined for each unit by taking all spikes of that unit that were part of any PFS. In 88% of the cases the degree of modulation of the RST was higher than that of the complete spike train. The results suggest that relevant information is carried by the fine temporal structure of cortical activity. A coding scheme that involves such temporal structures is rich and sufficiently flexible to facilitate a rapid organization of cortical neurons into functional groups. The results can be accounted for by the synfire chain model, which suggests that cortical activity is mediated by synchronous activation of neural groups in a reverberatory mode.",
+  "authors": [
+    "Prut Y",
+    "Vaadia E",
+    "Bergman H",
+    "Haalman I",
+    "Slovin H",
+    "Abeles M"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Behavior, Animal",
+    "Cell Count",
+    "Cerebral Cortex",
+    "Electric Stimulation",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Electrophysiology",
+    "Female",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Movement",
+    "Problem Solving",
+    "Space Perception",
+    "Time Factors"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "16133816",
+  "title": "Dynamic neural network models of the premotoneuronal circuitry controlling wrist movements in primates.",
+  "abstract": "Dynamic recurrent neural networks were derived to simulate neuronal populations generating bidirectional wrist movements in the monkey. The models incorporate anatomical connections of cortical and rubral neurons, muscle afferents, segmental interneurons and motoneurons; they also incorporate the response profiles of four populations of neurons observed in behaving monkeys. The networks were derived by gradient descent algorithms to generate the eight characteristic patterns of motor unit activations observed during alternating flexion-extension wrist movements. The resulting model generated the appropriate input-output transforms and developed connection strengths resembling those in physiological pathways. We found that this network could be further trained to simulate additional tasks, such as experimentally observed reflex responses to limb perturbations that stretched or shortened the active muscles, and scaling of response amplitudes in proportion to inputs. In the final comprehensive network, motor units are driven by the combined activity of cortical, rubral, spinal and afferent units during step tracking and perturbations. The model displayed many emergent properties corresponding to physiological characteristics. The resulting neural network provides a working model of premotoneuronal circuitry and elucidates the neural mechanisms controlling motoneuron activity. It also predicts several features to be experimentally tested, for example the consequences of eliminating inhibitory connections in cortex and red nucleus. It also reveals that co-contraction can be achieved by simultaneous activation of the flexor and extensor circuits without invoking features specific to co-contraction.",
+  "authors": [
+    "Maier M A",
+    "Shupe L E",
+    "Fetz E E"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Electromyography",
+    "Motor Neurons",
+    "Movement",
+    "Muscle, Skeletal",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Nonlinear Dynamics",
+    "Primates",
+    "Reflex, Monosynaptic",
+    "Time Factors",
+    "Wrist"
+  ]
+}

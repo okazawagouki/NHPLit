@@ -1,0 +1,32 @@
+{
+  "pmid": "37433293",
+  "title": "Inferring light responses of primate retinal ganglion cells using intrinsic electrical signatures.",
+  "abstract": "<i>Objective</i>. Retinal implants are designed to stimulate retinal ganglion cells (RGCs) in a way that restores sight to individuals blinded by photoreceptor degeneration. Reproducing high-acuity vision with these devices will likely require inferring the natural light responses of diverse RGC types in the implanted retina, without being able to measure them directly. Here we demonstrate an inference approach that exploits intrinsic electrophysiological features of primate RGCs.<i>Approach.</i>First, ON-parasol and OFF-parasol RGC types were identified using their intrinsic electrical features in large-scale multi-electrode recordings from macaque retina. Then, the electrically inferred somatic location, inferred cell type, and average linear-nonlinear-Poisson model parameters of each cell type were used to infer a light response model for each cell. The accuracy of the cell type classification and of reproducing measured light responses with the model were evaluated.<i>Main results.</i>A cell-type classifier trained on 246 large-scale multi-electrode recordings from 148 retinas achieved 95% mean accuracy on 29 test retinas. In five retinas tested, the inferred models achieved an average correlation with measured firing rates of 0.49 for white noise visual stimuli and 0.50 for natural scenes stimuli, compared to 0.65 and 0.58 respectively for models fitted to recorded light responses (an upper bound). Linear decoding of natural images from predicted RGC activity in one retina showed a mean correlation of 0.55 between decoded and true images, compared to an upper bound of 0.81 using models fitted to light response data.<i>Significance.</i>These results suggest that inference of RGC light response properties from intrinsic features of their electrical activity may be a useful approach for high-fidelity sight restoration. The overall strategy of first inferring cell type from electrical features and then exploiting cell type to help infer natural cell function may also prove broadly useful to neural interfaces.",
+  "authors": [
+    "Zaidi Moosa",
+    "Aggarwal Gorish",
+    "Shah Nishal P",
+    "Karniol-Tambour Orren",
+    "Goetz Georges",
+    "Madugula Sasidhar S",
+    "Gogliettino Alex R",
+    "Wu Eric G",
+    "Kling Alexandra",
+    "Brackbill Nora",
+    "Sher Alexander",
+    "Litke Alan M",
+    "Chichilnisky E J"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2023",
+  "doi": "10.1088/1741-2552/ace657",
+  "mesh": [
+    "Animals",
+    "Retinal Ganglion Cells",
+    "Action Potentials",
+    "Electric Stimulation",
+    "Retina",
+    "Retinal Degeneration",
+    "Macaca"
+  ]
+}

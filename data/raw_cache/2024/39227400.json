@@ -1,0 +1,27 @@
+{
+  "pmid": "39227400",
+  "title": "Unsupervised decomposition of natural monkey behavior into a sequence of motion motifs.",
+  "abstract": "Nonhuman primates (NHPs) exhibit complex and diverse behavior that typifies advanced cognitive function and social communication, but quantitative and systematical measure of this natural nonverbal processing has been a technical challenge. Specifically, a method is required to automatically segment time series of behavior into elemental motion motifs, much like finding meaningful words in character strings. Here, we propose a solution called SyntacticMotionParser (SMP), a general-purpose unsupervised behavior parsing algorithm using a nonparametric Bayesian model. Using three-dimensional posture-tracking data from NHPs, SMP automatically outputs an optimized sequence of latent motion motifs classified into the most likely number of states. When applied to behavioral datasets from common marmosets and rhesus monkeys, SMP outperformed conventional posture-clustering models and detected a set of behavioral ethograms from publicly available data. SMP also quantified and visualized the behavioral effects of chemogenetic neural manipulations. SMP thus has the potential to dramatically improve our understanding of natural NHP behavior in a variety of contexts.",
+  "authors": [
+    "Mimura Koki",
+    "Matsumoto Jumpei",
+    "Mochihashi Daichi",
+    "Nakamura Tomoaki",
+    "Nishijo Hisao",
+    "Higuchi Makoto",
+    "Hirabayashi Toshiyuki",
+    "Minamimoto Takafumi"
+  ],
+  "journal": "Communications biology",
+  "year": "2024",
+  "doi": "10.1038/s42003-024-06786-2",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Macaca mulatta",
+    "Bayes Theorem",
+    "Algorithms",
+    "Callithrix",
+    "Male"
+  ]
+}

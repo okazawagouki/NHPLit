@@ -1,0 +1,26 @@
+{
+  "pmid": "20943928",
+  "title": "Latent inputs improve estimates of neural encoding in motor cortex.",
+  "abstract": "Typically, tuning curves in motor cortex are constructed by fitting the firing rate of a neuron as a function of some observed action, such as arm direction or movement speed. These tuning curves are then often interpreted causally as representing the firing rate as a function of the desired movement, or intent. This interpretation implicitly assumes that the motor command and the motor act are equivalent. However, any kind of perturbation, be it external, such as a visuomotor rotation, or internal, such as muscle fatigue, can create a difference between the motor intent and the action. How do we estimate the tuning curve under these conditions? Furthermore, it is well known that, during learning or adaptation, the relationship between neural firing and the observed movement can change. Does this change indicate a change in the inputs to the population, or a change in the way those inputs are processed? In this work, we present a method to infer the latent, unobserved inputs into the population of recorded neurons. Using data from nonhuman primates performing brain-computer interface experiments, we show that tuning curves based on these latent directions fit better than tuning curves based on actual movements. Finally, using data from a brain-computer interface learning experiment in which half of the units were decoded incorrectly, we demonstrate how this method might differentiate various aspects of motor adaptation.",
+  "authors": [
+    "Chase Steven M",
+    "Schwartz Andrew B",
+    "Kass Robert E"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2010",
+  "doi": "10.1523/JNEUROSCI.2325-10.2010",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Electrodes, Implanted",
+    "Electrophysiology",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Nerve Net",
+    "Neurons",
+    "User-Computer Interface"
+  ]
+}

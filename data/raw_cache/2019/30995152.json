@@ -1,0 +1,29 @@
+{
+  "pmid": "30995152",
+  "title": "Nonhuman primate vestibuloocular reflex responses to prosthetic vestibular stimulation are robust to pulse timing errors caused by temporal discretization.",
+  "abstract": "Electrical stimulation of vestibular afferent neurons to partially restore semicircular canal sensation of head rotation and the stabilizing reflexes that sensation supports has potential to effectively treat individuals disabled by bilateral vestibular hypofunction. Ideally, a vestibular implant system using this approach would be integrated with a cochlear implant, which would provide clinicians with a means to simultaneously treat loss of both vestibular and auditory sensation. Despite obvious similarities, merging these technologies poses several challenges, including stimulus pulse timing errors that arise when a system must implement a pulse frequency modulation-encoding scheme (as is used in vestibular implants to mimic normal vestibular nerve encoding of head movement) within fixed-rate continuous interleaved sampling (CIS) strategies used in cochlear implants. Pulse timing errors caused by temporal discretization inherent to CIS create stair step discontinuities of the vestibular implant's smooth mapping of head velocity to stimulus pulse frequency. In this study, we assayed electrically evoked vestibuloocular reflex responses in two rhesus macaques using both a smooth pulse frequency modulation map and a discretized map corrupted by temporal errors typical of those arising in a combined cochlear-vestibular implant. Responses were measured using three-dimensional scleral coil oculography for prosthetic electrical stimuli representing sinusoidal head velocity waveforms that varied over 50-400°/s and 0.1-5 Hz. Pulse timing errors produced negligible effects on responses across all canals in both animals, indicating that temporal discretization inherent to implementing a pulse frequency modulation-coding scheme within a cochlear implant's CIS fixed pulse timing framework need not sacrifice performance of the combined system's vestibular implant portion. <b>NEW & NOTEWORTHY</b> Merging a vestibular implant system with existing cochlear implant technology can provide clinicians with a means to restore both vestibular and auditory sensation. Pulse timing errors inherent to integration of pulse frequency modulation vestibular stimulation with fixed-rate, continuous interleaved sampling cochlear implant stimulation would discretize the smooth head velocity encoding of a combined device. In this study, we show these pulse timing errors produce negligible effects on electrically evoked vestibulo-ocular reflex responses in two rhesus macaques.",
+  "authors": [
+    "Boutros Peter J",
+    "Valentin Nicolas S",
+    "Hageman Kristin N",
+    "Dai Chenkai",
+    "Roberts Dale",
+    "Della Santina Charles C"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2019",
+  "doi": "10.1152/jn.00887.2018",
+  "mesh": [
+    "Animals",
+    "Eye Movements",
+    "Female",
+    "Head Movements",
+    "Macaca mulatta",
+    "Neural Prostheses",
+    "Neurons, Afferent",
+    "Reaction Time",
+    "Reflex, Vestibulo-Ocular",
+    "Sensory Aids",
+    "Vestibular Evoked Myogenic Potentials"
+  ]
+}

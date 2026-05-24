@@ -1,0 +1,26 @@
+{
+  "pmid": "34293295",
+  "title": "Bridging neuronal correlations and dimensionality reduction.",
+  "abstract": "Two commonly used approaches to study interactions among neurons are spike count correlation, which describes pairs of neurons, and dimensionality reduction, applied to a population of neurons. Although both approaches have been used to study trial-to-trial neuronal variability correlated among neurons, they are often used in isolation and have not been directly related. We first established concrete mathematical and empirical relationships between pairwise correlation and metrics of population-wide covariability based on dimensionality reduction. Applying these insights to macaque V4 population recordings, we found that the previously reported decrease in mean pairwise correlation associated with attention stemmed from three distinct changes in population-wide covariability. Overall, our work builds the intuition and formalism to bridge between pairwise correlation and population-wide covariability and presents a cautionary tale about the inferences one can make about population activity by using a single statistic, whether it be mean pairwise correlation or dimensionality.",
+  "authors": [
+    "Umakantha Akash",
+    "Morina Rudina",
+    "Cowley Benjamin R",
+    "Snyder Adam C",
+    "Smith Matthew A",
+    "Yu Byron M"
+  ],
+  "journal": "Neuron",
+  "year": "2021",
+  "doi": "10.1016/j.neuron.2021.06.028",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Spatial Processing",
+    "Visual Cortex"
+  ]
+}

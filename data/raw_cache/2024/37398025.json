@@ -1,0 +1,16 @@
+{
+  "pmid": "37398025",
+  "title": "Neuronal modeling of magnetoencephalography responses in auditory cortex to auditory and visual stimuli.",
+  "abstract": "Previous studies have demonstrated that auditory cortex activity can be influenced by crosssensory visual inputs. Intracortical recordings in non-human primates (NHP) have suggested a bottom-up feedforward (FF) type laminar profile for auditory evoked but top-down feedback (FB) type for cross-sensory visual evoked activity in the auditory cortex. To test whether this principle applies also to humans, we analyzed magnetoencephalography (MEG) responses from eight human subjects (six females) evoked by simple auditory or visual stimuli. In the estimated MEG source waveforms for auditory cortex region of interest, auditory evoked responses showed peaks at 37 and 90 ms and cross-sensory visual responses at 125 ms. The inputs to the auditory cortex were then modeled through FF and FB type connections targeting different cortical layers using the Human Neocortical Neurosolver (HNN), which consists of a neocortical circuit model linking the cellular- and circuit-level mechanisms to MEG. The HNN models suggested that the measured auditory response could be explained by an FF input followed by an FB input, and the crosssensory visual response by an FB input. Thus, the combined MEG and HNN results support the hypothesis that cross-sensory visual input in the auditory cortex is of FB type. The results also illustrate how the dynamic patterns of the estimated MEG/EEG source activity can provide information about the characteristics of the input into a cortical area in terms of the hierarchical organization among areas.",
+  "authors": [
+    "Lankinen Kaisu",
+    "Ahveninen Jyrki",
+    "Jas Mainak",
+    "Raij Tommi",
+    "Ahlfors Seppo P"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2023.06.16.545371",
+  "mesh": []
+}

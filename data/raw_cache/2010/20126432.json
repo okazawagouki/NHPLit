@@ -1,0 +1,16 @@
+{
+  "pmid": "20126432",
+  "title": "A physiologically-inspired model of numerical classification based on graded stimulus coding.",
+  "abstract": "In most natural decision contexts, the process of selecting among competing actions takes place in the presence of informative, but potentially ambiguous, stimuli. Decisions about magnitudes - quantities like time, length, and brightness that are linearly ordered - constitute an important subclass of such decisions. It has long been known that perceptual judgments about such quantities obey Weber's Law, wherein the just-noticeable difference in a magnitude is proportional to the magnitude itself. Current physiologically inspired models of numerical classification assume discriminations are made via a labeled line code of neurons selectively tuned for numerosity, a pattern observed in the firing rates of neurons in the ventral intraparietal area (VIP) of the macaque. By contrast, neurons in the contiguous lateral intraparietal area (LIP) signal numerosity in a graded fashion, suggesting the possibility that numerical classification could be achieved in the absence of neurons tuned for number. Here, we consider the performance of a decision model based on this analog coding scheme in a paradigmatic discrimination task - numerosity bisection. We demonstrate that a basic two-neuron classifier model, derived from experimentally measured monotonic responses of LIP neurons, is sufficient to reproduce the numerosity bisection behavior of monkeys, and that the threshold of the classifier can be set by reward maximization via a simple learning rule. In addition, our model predicts deviations from Weber Law scaling of choice behavior at high numerosity. Together, these results suggest both a generic neuronal framework for magnitude-based decisions and a role for reward contingency in the classification of such stimuli.",
+  "authors": [
+    "Pearson John",
+    "Roitman J D",
+    "Brannon E M",
+    "Platt M L",
+    "Raghavachari Sridhar"
+  ],
+  "journal": "Frontiers in behavioral neuroscience",
+  "year": "2010",
+  "doi": "10.3389/neuro.08.001.2010",
+  "mesh": []
+}

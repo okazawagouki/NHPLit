@@ -1,0 +1,34 @@
+{
+  "pmid": "27335406",
+  "title": "Using Diffusion Tractography to Predict Cortical Connection Strength and Distance: A Quantitative Comparison with Tracers in the Monkey.",
+  "abstract": "UNLABELLED: Tractography based on diffusion MRI offers the promise of characterizing many aspects of long-distance connectivity in the brain, but requires quantitative validation to assess its strengths and limitations. Here, we evaluate tractography's ability to estimate the presence and strength of connections between areas of macaque neocortex by comparing its results with published data from retrograde tracer injections. Probabilistic tractography was performed on high-quality postmortem diffusion imaging scans from two Old World monkey brains. Tractography connection weights were estimated using a fractional scaling method based on normalized streamline density. We found a correlation between log-transformed tractography and tracer connection weights of r = 0.59, twice that reported in a recent study on the macaque. Using a novel method to estimate interareal connection lengths from tractography streamlines, we regressed out the distance dependence of connection strength and found that the correlation between tractography and tracers remains positive, albeit substantially reduced. Altogether, these observations provide a valuable, data-driven perspective on both the strengths and limitations of tractography for analyzing interareal corticocortical connectivity in nonhuman primates and a framework for assessing future tractography methodological refinements objectively. SIGNIFICANCE STATEMENT: Tractography based on diffusion MRI has great potential for a variety of applications, including estimation of comprehensive maps of neural connections in the brain (\"connectomes\"). Here, we describe methods to assess quantitatively tractography's performance in detecting interareal cortical connections and estimating connection strength by comparing it against published results using neuroanatomical tracers. We found the correlation of tractography's estimated connection strengths versus tracer to be twice that of a previous study. Using a novel method for calculating interareal cortical distances, we show that tractography-based estimates of connection strength have useful predictive power beyond just interareal separation. By freely sharing these methods and datasets, we provide a valuable resource for future studies in cortical connectomics.",
+  "authors": [
+    "Donahue Chad J",
+    "Sotiropoulos Stamatios N",
+    "Jbabdi Saad",
+    "Hernandez-Fernandez Moises",
+    "Behrens Timothy E",
+    "Dyrby Tim B",
+    "Coalson Timothy",
+    "Kennedy Henry",
+    "Knoblauch Kenneth",
+    "Van Essen David C",
+    "Glasser Matthew F"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2016",
+  "doi": "10.1523/JNEUROSCI.0493-16.2016",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Cercopithecidae",
+    "Cerebral Cortex",
+    "Connectome",
+    "Diffusion Tensor Imaging",
+    "Functional Laterality",
+    "Image Processing, Computer-Assisted",
+    "Models, Neurological",
+    "Nerve Fibers",
+    "Nerve Net"
+  ]
+}

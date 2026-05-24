@@ -1,0 +1,31 @@
+{
+  "pmid": "25073173",
+  "title": "Neural Control of a Tracking Task via Attention-Gated Reinforcement Learning for Brain-Machine Interfaces.",
+  "abstract": "Reinforcement learning (RL)-based brain machine interfaces (BMIs) enable the user to learn from the environment through interactions to complete the task without desired signals, which is promising for clinical applications. Previous studies exploited Q-learning techniques to discriminate neural states into simple directional actions providing the trial initial timing. However, the movements in BMI applications can be quite complicated, and the action timing explicitly shows the intention when to move. The rich actions and the corresponding neural states form a large state-action space, imposing generalization difficulty on Q-learning. In this paper, we propose to adopt attention-gated reinforcement learning (AGREL) as a new learning scheme for BMIs to adaptively decode high-dimensional neural activities into seven distinct movements (directional moves, holdings and resting) due to the efficient weight-updating. We apply AGREL on neural data recorded from M1 of a monkey to directly predict a seven-action set in a time sequence to reconstruct the trajectory of a center-out task. Compared to Q-learning techniques, AGREL could improve the target acquisition rate to 90.16% in average with faster convergence and more stability to follow neural activity over multiple days, indicating the potential to achieve better online decoding performance for more complicated BMI tasks.",
+  "authors": [
+    "Wang Yiwen",
+    "Wang Fang",
+    "Xu Kai",
+    "Zhang Qiaosheng",
+    "Zhang Shaomin",
+    "Zheng Xiaoxiang"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2015",
+  "doi": "10.1109/TNSRE.2014.2341275",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Attention",
+    "Brain-Computer Interfaces",
+    "Equipment Design",
+    "Learning",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Psychomotor Performance",
+    "Reinforcement, Psychology",
+    "Software"
+  ]
+}

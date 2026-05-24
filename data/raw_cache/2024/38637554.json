@@ -1,0 +1,22 @@
+{
+  "pmid": "38637554",
+  "title": "Convolutional neural networks develop major organizational principles of early visual cortex when enhanced with retinal sampling.",
+  "abstract": "Primate visual cortex exhibits key organizational principles: cortical magnification, eccentricity-dependent receptive field size and spatial frequency tuning as well as radial bias. We provide compelling evidence that these principles arise from the interplay of the non-uniform distribution of retinal ganglion cells, and a quasi-uniform convergence rate from the retina to the cortex. We show that convolutional neural networks outfitted with a retinal sampling layer, which resamples images according to retinal ganglion cell density, develop these organizational principles. Surprisingly, our results indicate that radial bias is spatial-frequency dependent and only manifests for high spatial frequencies. For low spatial frequencies, the bias shifts towards orthogonal orientations. These findings introduce a novel hypothesis about the origin of radial bias. Quasi-uniform convergence limits the range of spatial frequencies (in retinal space) that can be resolved, while retinal sampling determines the spatial frequency content throughout the retina.",
+  "authors": [
+    "da Costa Danny",
+    "Kornemann Lukas",
+    "Goebel Rainer",
+    "Senden Mario"
+  ],
+  "journal": "Scientific reports",
+  "year": "2024",
+  "doi": "10.1038/s41598-024-59376-x",
+  "mesh": [
+    "Animals",
+    "Visual Fields",
+    "Retina",
+    "Retinal Ganglion Cells",
+    "Neural Networks, Computer",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "38407257",
+  "title": "A Neural Implant Design Toolbox for Nonhuman Primates.",
+  "abstract": "This paper describes an in-house method of 3D brain and skull modeling from magnetic resonance imaging (MRI) tailored for nonhuman primate (NHP) neurosurgical planning. This automated, computational software-based technique provides an efficient way of extracting brain and skull features from MRI files as opposed to traditional manual extraction techniques using imaging software. Furthermore, the procedure provides a method for visualizing the brain and craniotomized skull together for intuitive, virtual surgical planning. This generates a drastic reduction in time and resources from those required by past work, which relied on iterative 3D printing. The skull modeling process creates a footprint that is exported into modeling software to design custom-fit cranial chambers and headposts for surgical implantation. Custom-fit surgical implants minimize gaps between the implant and the skull that could introduce complications, including infection or decreased stability. By implementing these pre-surgical steps, surgical and experimental complications are reduced. These techniques can be adapted for other surgical processes, facilitating more efficient and effective experimental planning for researchers and, potentially, neurosurgeons.",
+  "authors": [
+    "Iritani Rachel",
+    "Belloir Tiphaine",
+    "Griggs Devon J",
+    "Ip Zachary",
+    "Anderson Zada",
+    "Yazdan-Shahmorad Azadeh"
+  ],
+  "journal": "Journal of visualized experiments : JoVE",
+  "year": "2024",
+  "doi": "10.3791/66167",
+  "mesh": [
+    "Animals",
+    "Head",
+    "Skull",
+    "Prostheses and Implants",
+    "Embryo Implantation",
+    "Primates"
+  ]
+}

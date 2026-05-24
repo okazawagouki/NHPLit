@@ -1,0 +1,23 @@
+{
+  "pmid": "21096637",
+  "title": "Point process models show temporal dependencies of basal ganglia nuclei under deep brain stimulation.",
+  "abstract": "Deep Brain Stimulation (DBS) is an effective treatment for patients with Parkinsons disease, but its impact on basal ganglia nuclei is not fully understood. DBS applied to the subthalamic nucleus (STN) affects neurons in the Globus Pallidus pars interna (GPi) through direct projections, as well as indirectly through the Globus Pallidus pars externa (GPe). Since traditional statistical analyses of electrophysiological data provide too coarse a view of circuit dynamics, and mesoscopic biophysical dynamic models contain an intractable number of state variables for small populations of neurons, we apply a modular approach and treat each region in the STN-GPe-GPi circuit as a multi-input multi-output point process system. We use microelectrode recordings of a normal primate with DBS applied to STN at 100 and 130 Hz to estimate point process models (PPMs) for recorded regions in GPi. Our PPMs uncovered distinct dependencies between regions of GPe and GPi neurons, separated by the position of the GPi neurons, and showed normal refractory periods, inhibition from projecting neurons in the GPe, and DBS-induced oscillatory effects. The PPMs also showed the relative impact of the above factors, which traditional statistics fail to capture. Our PPM framework suggests a useful approach for understanding dynamics of complex neural circuits.",
+  "authors": [
+    "Saxena Shreya",
+    "Santaniello Sabato",
+    "Montgomery Erwin B",
+    "Gale John T",
+    "Sarma Sridevi V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2010",
+  "doi": "10.1109/IEMBS.2010.5627350",
+  "mesh": [
+    "Animals",
+    "Basal Ganglia",
+    "Deep Brain Stimulation",
+    "Microelectrodes",
+    "Models, Biological",
+    "Primates"
+  ]
+}

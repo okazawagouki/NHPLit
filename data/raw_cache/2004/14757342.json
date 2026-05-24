@@ -1,0 +1,26 @@
+{
+  "pmid": "14757342",
+  "title": "A multichannel telemetry system for single unit neural recordings.",
+  "abstract": "We present the design, testing, and evaluation of a 16 channel wearable telemetry system to facilitate multichannel single unit recordings from freely moving test subjects. Our design is comprised of (1) a 16-channel analog front end board to condition and sample signals derived from implanted neural electrodes, (2) a digital board for processing and buffering the digitized waveforms, and (3) an index-card sized 486 PC equipped with an IEEE 802.11b wireless ethernet card. Digitized data (up to 12 bits of resolution at 31.25k samples/s per channel) is transferred to the PC and sent to a nearby host computer on a wireless local area network. Up to 12 of the 16 channels were transmitted simultaneously for sustained periods at a range of 9 m. The device measures 5.1 cm x 8.1 cm x 12.4 cm, weighs 235 g, and is powered from rechargeable lithium ion batteries with a lifespan of 45 min at maximum transmission power. The device was successfully used to record signals from awake, chronically implanted macaque and owl monkeys.",
+  "authors": [
+    "Obeid Iyad",
+    "Nicolelis Miguel A L",
+    "Wolf Patrick D"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Analog-Digital Conversion",
+    "Animals",
+    "Electronics, Medical",
+    "Electrophysiology",
+    "Equipment Design",
+    "Haplorhini",
+    "Microelectrodes",
+    "Neurons",
+    "Signal Processing, Computer-Assisted",
+    "Telemetry"
+  ]
+}

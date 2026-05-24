@@ -1,0 +1,24 @@
+{
+  "pmid": "24927158",
+  "title": "Scale-invariant neuronal avalanche dynamics and the cut-off in size distributions.",
+  "abstract": "Identification of cortical dynamics strongly benefits from the simultaneous recording of as many neurons as possible. Yet current technologies provide only incomplete access to the mammalian cortex from which adequate conclusions about dynamics need to be derived. Here, we identify constraints introduced by sub-sampling with a limited number of electrodes, i.e. spatial 'windowing', for well-characterized critical dynamics-neuronal avalanches. The local field potential (LFP) was recorded from premotor and prefrontal cortices in two awake macaque monkeys during rest using chronically implanted 96-microelectrode arrays. Negative deflections in the LFP (nLFP) were identified on the full as well as compact sub-regions of the array quantified by the number of electrodes N (10-95), i.e., the window size. Spatiotemporal nLFP clusters organized as neuronal avalanches, i.e., the probability in cluster size, p(s), invariably followed a power law with exponent -1.5 up to N, beyond which p(s) declined more steeply producing a 'cut-off' that varied with N and the LFP filter parameters. Clusters of size s≤N consisted mainly of nLFPs from unique, non-repeated cortical sites, emerged from local propagation between nearby sites, and carried spatial information about cluster organization. In contrast, clusters of size s>N were dominated by repeated site activations and carried little spatial information, reflecting greatly distorted sampling conditions. Our findings were confirmed in a neuron-electrode network model. Thus, avalanche analysis needs to be constrained to the size of the observation window to reveal the underlying scale-invariant organization produced by locally unfolding, predominantly feed-forward neuronal cascades.",
+  "authors": [
+    "Yu Shan",
+    "Klaus Andreas",
+    "Yang Hongdian",
+    "Plenz Dietmar"
+  ],
+  "journal": "PloS one",
+  "year": "2014",
+  "doi": "10.1371/journal.pone.0099761",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Electrophysiology",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons"
+  ]
+}

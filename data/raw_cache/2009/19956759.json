@@ -1,0 +1,25 @@
+{
+  "pmid": "19956759",
+  "title": "Analyzing short-term noise dependencies of spike-counts in macaque prefrontal cortex using copulas and the flashlight transformation.",
+  "abstract": "Simultaneous spike-counts of neural populations are typically modeled by a Gaussian distribution. On short time scales, however, this distribution is too restrictive to describe and analyze multivariate distributions of discrete spike-counts. We present an alternative that is based on copulas and can account for arbitrary marginal distributions, including Poisson and negative binomial distributions as well as second and higher-order interactions. We describe maximum likelihood-based procedures for fitting copula-based models to spike-count data, and we derive a so-called flashlight transformation which makes it possible to move the tail dependence of an arbitrary copula into an arbitrary orthant of the multivariate probability distribution. Mixtures of copulas that combine different dependence structures and thereby model different driving processes simultaneously are also introduced. First, we apply copula-based models to populations of integrate-and-fire neurons receiving partially correlated input and show that the best fitting copulas provide information about the functional connectivity of coupled neurons which can be extracted using the flashlight transformation. We then apply the new method to data which were recorded from macaque prefrontal cortex using a multi-tetrode array. We find that copula-based distributions with negative binomial marginals provide an appropriate stochastic model for the multivariate spike-count distributions rather than the multivariate Poisson latent variables distribution and the often used multivariate normal distribution. The dependence structure of these distributions provides evidence for common inhibitory input to all recorded stimulus encoding neurons. Finally, we show that copula-based models can be successfully used to evaluate neural codes, e.g., to characterize stimulus-dependent spike-count distributions with information measures. This demonstrates that copula-based models are not only a versatile class of models for multivariate distributions of spike-counts, but that those models can be exploited to understand functional dependencies.",
+  "authors": [
+    "Onken Arno",
+    "Grünewälder Steffen",
+    "Munk Matthias H J",
+    "Obermayer Klaus"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2009",
+  "doi": "10.1371/journal.pcbi.1000577",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Female",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Nerve Net",
+    "Prefrontal Cortex"
+  ]
+}

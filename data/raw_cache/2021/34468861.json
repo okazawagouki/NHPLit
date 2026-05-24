@@ -1,0 +1,23 @@
+{
+  "pmid": "34468861",
+  "title": "Coding of interceptive saccades in parietal cortex of macaque monkeys.",
+  "abstract": "The oculomotor system can initiate remarkably accurate saccades towards moving targets (interceptive saccades) the processing of which is still under debate. The generation of these saccades requires the oculomotor centers to have information about the motion parameters of the target that then must be extrapolated to bridge the inherent processing delays. We investigated to what degree the information about motion of a saccade target is available in the lateral intra-parietal area (area LIP) of macaque monkeys for generation of accurate interceptive saccades. When a multi-layer neural network was trained based on neural discharges from area LIP around the time of saccades towards stationary targets, it was also able to predict the end points of saccades directed towards moving targets. This prediction, however, lagged behind the actual post-saccadic position of the moving target by ~ 80 ms when the whole neuronal sample of 105 neurons was used. We further found that single neurons differentially code for the motion of the target. Selecting neurons with the strongest representation of target motion reduced this lag to ~ 30 ms which represents the position of the moving target approximately at the onset of the interceptive saccade. We conclude that-similarly to recent findings from the Superior Colliculus (Goffart et al. J Neurophysiol 118(5):2890-2901)-there is a continuum of contributions of individual LIP neurons to the accuracy of interceptive saccades. A contribution of other gaze control centers (like the cerebellum or the frontal eye field) that further increase the saccadic accuracy is, however, likely.",
+  "authors": [
+    "Churan Jan",
+    "Kaminiarz Andre",
+    "Schwenk Jakob C B",
+    "Bremmer Frank"
+  ],
+  "journal": "Brain structure & function",
+  "year": "2021",
+  "doi": "10.1007/s00429-021-02365-x",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Macaca",
+    "Parietal Lobe",
+    "Photic Stimulation",
+    "Saccades",
+    "Superior Colliculi"
+  ]
+}

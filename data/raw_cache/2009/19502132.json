@@ -1,0 +1,43 @@
+{
+  "pmid": "19502132",
+  "title": "Active microelectronic neurosensor arrays for implantable brain communication interfaces.",
+  "abstract": "We have built a wireless implantable microelectronic device for transmitting cortical signals transcutaneously. The device is aimed at interfacing a cortical microelectrode array to an external computer for neural control applications. Our implantable microsystem enables 16-channel broadband neural recording in a nonhuman primate brain by converting these signals to a digital stream of infrared light pulses for transmission through the skin. The implantable unit employs a flexible polymer substrate onto which we have integrated ultra-low power amplification with analog multiplexing, an analog-to-digital converter, a low power digital controller chip, and infrared telemetry. The scalable 16-channel microsystem can employ any of several modalities of power supply, including radio frequency by induction, or infrared light via photovoltaic conversion. As of the time of this report, the implant has been tested as a subchronic unit in nonhuman primates ( approximately 1 month), yielding robust spike and broadband neural data on all available channels.",
+  "authors": [
+    "Song Y-K",
+    "Borton D A",
+    "Park S",
+    "Patterson W R",
+    "Bull C W",
+    "Laiwalla F",
+    "Mislow J",
+    "Simeral J D",
+    "Donoghue J P",
+    "Nurmikko A V"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2009",
+  "doi": "10.1109/TNSRE.2009.2024310",
+  "mesh": [
+    "Action Potentials",
+    "Amplifiers, Electronic",
+    "Animals",
+    "Brain",
+    "Communication Devices for People with Disabilities",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Equipment Design",
+    "Equipment Failure Analysis",
+    "Male",
+    "Miniaturization",
+    "Nerve Net",
+    "Pattern Recognition, Automated",
+    "Rats",
+    "Rats, Sprague-Dawley",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Signal Processing, Computer-Assisted",
+    "Telemetry",
+    "Transducers",
+    "User-Computer Interface"
+  ]
+}

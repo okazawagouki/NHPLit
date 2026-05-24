@@ -1,0 +1,26 @@
+{
+  "pmid": "31015029",
+  "title": "Decoding of muscle activity from the sensorimotor cortex in freely behaving monkeys.",
+  "abstract": "Remarkable advances have recently been made in the development of Brain-Machine Interface (BMI) technologies for restoring or enhancing motor function. However, the application of these technologies may be limited to patients in static conditions, as these developments have been largely based on studies of animals (e.g., non-human primates) in constrained movement conditions. The ultimate goal of BMI technology is to enable individuals to move their bodies naturally or control external devices without physical constraints. Here, we demonstrate accurate decoding of muscle activity from electrocorticogram (ECoG) signals in unrestrained, freely behaving monkeys. We recorded ECoG signals from the sensorimotor cortex as well as electromyogram signals from multiple muscles in the upper arm while monkeys performed two types of movements with no physical restraints, as follows: forced forelimb movement (lever-pull task) and natural whole-body movement (free movement within the cage). As in previous reports using restrained monkeys, we confirmed that muscle activity during forced forelimb movement was accurately predicted from simultaneously recorded ECoG data. More importantly, we demonstrated that accurate prediction of muscle activity from ECoG data was possible in monkeys performing natural whole-body movement. We found that high-gamma activity in the primary motor cortex primarily contributed to the prediction of muscle activity during natural whole-body movement as well as forced forelimb movement. In contrast, the contribution of high-gamma activity in the premotor and primary somatosensory cortices was significantly larger during natural whole-body movement. Thus, activity in a larger area of the sensorimotor cortex was needed to predict muscle activity during natural whole-body movement. Furthermore, decoding models obtained from forced forelimb movement could not be generalized to natural whole-body movement, which suggests that decoders should be built individually and according to different behavior types. These results contribute to the future application of BMI systems in unrestrained individuals.",
+  "authors": [
+    "Umeda Tatsuya",
+    "Koizumi Masashi",
+    "Katakai Yuko",
+    "Saito Ryoichi",
+    "Seki Kazuhiko"
+  ],
+  "journal": "NeuroImage",
+  "year": "2019",
+  "doi": "10.1016/j.neuroimage.2019.04.045",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Callithrix",
+    "Electrocorticography",
+    "Electromyography",
+    "Female",
+    "Movement",
+    "Muscle, Skeletal",
+    "Sensorimotor Cortex"
+  ]
+}

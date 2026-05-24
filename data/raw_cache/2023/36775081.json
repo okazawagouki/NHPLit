@@ -1,0 +1,24 @@
+{
+  "pmid": "36775081",
+  "title": "A physical neural mass model framework for the analysis of oscillatory generators from laminar electrophysiological recordings.",
+  "abstract": "Cortical function emerges from the interactions of multi-scale networks that may be studied at a high level using neural mass models (NMM) that represent the mean activity of large numbers of neurons. Here, we provide first a new framework called laminar NMM, or LaNMM for short, where we combine conduction physics with NMMs to simulate electrophysiological measurements. Then, we employ this framework to infer the location of oscillatory generators from laminar-resolved data collected from the prefrontal cortex in the macaque monkey. We define a minimal model capable of generating coupled slow and fast oscillations, and we optimize LaNMM-specific parameters to fit multi-contact recordings. We rank the candidate models using an optimization function that evaluates the match between the functional connectivity (FC) of the model and data, where FC is defined by the covariance between bipolar voltage measurements at different cortical depths. The family of best solutions reproduces the FC of the observed electrophysiology by selecting locations of pyramidal cells and their synapses that result in the generation of fast activity at superficial layers and slow activity across most depths, in line with recent literature proposals. In closing, we discuss how this hybrid modeling framework can be more generally used to infer cortical circuitry.",
+  "authors": [
+    "Sanchez-Todo Roser",
+    "Bastos André M",
+    "Lopez-Sola Edmundo",
+    "Mercadal Borja",
+    "Santarnecchi Emiliano",
+    "Miller Earl K",
+    "Deco Gustavo",
+    "Ruffini Giulio"
+  ],
+  "journal": "NeuroImage",
+  "year": "2023",
+  "doi": "10.1016/j.neuroimage.2023.119938",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Neurons",
+    "Electrophysiological Phenomena"
+  ]
+}

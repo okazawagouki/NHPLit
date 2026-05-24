@@ -1,0 +1,20 @@
+{
+  "pmid": "32224511",
+  "title": "A state-based probabilistic method for decoding hand position during movement from ECoG signals in non-human primate.",
+  "abstract": "OBJECTIVE: In this study, we proposed a state-based probabilistic method for decoding hand positions during unilateral and bilateral movements using the ECoG signals recorded from the brain of Rhesus monkey. APPROACH: A customized electrode array was implanted subdurally in the right hemisphere of the brain covering from the primary motor cortex to the frontal cortex. Three different experimental paradigms were considered: ipsilateral, contralateral, and bilateral movements. During unilateral movement, the monkey was trained to get food with one hand, while during bilateral movement, the monkey used its left and right hands alternately to get food. To estimate the hand positions, a state-based probabilistic method was introduced which was based on the conditional probability of the hand movement state (i.e. idle, right hand movement, and left hand movement) and the conditional expectation of the hand position for each state. Moreover, a hybrid feature extraction method based on linear discriminant analysis and partial least squares (PLS) was introduced. MAIN RESULTS: The proposed method could successfully decode the hand positions during ipsilateral, contralateral, and bilateral movements and significantly improved the decoding performance compared to the conventional Kalman and PLS regression methods [Formula: see text]. The proposed hybrid feature extraction method was found to outperform both the PLS and PCA methods [Formula: see text]. Investigating the kinematic information of each frequency band shows that more informative frequency bands were [Formula: see text] (15-30 Hz) and [Formula: see text](50-100 Hz) for ipsilateral and [Formula: see text] and [Formula: see text] (100-200 Hz) for contralateral movements. It is observed that ipsilateral movement was decoded better than contralateral movement for [Formula: see text] (5-15 Hz) and [Formula: see text] bands, while contralateral movements was decoded better for [Formula: see text] (30-200 Hz) and hfECoG (200-400 Hz) bands. SIGNIFICANCE: Accurate decoding the bilateral movement using the ECoG recorded from one brain hemisphere is an important issue toward real-life applications of the brain-machine interface technologies.",
+  "authors": [
+    "Farrokhi Behraz",
+    "Erfanian Abbas"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2020",
+  "doi": "10.1088/1741-2552/ab848b",
+  "mesh": [
+    "Animals",
+    "Electrocorticography",
+    "Electroencephalography",
+    "Hand",
+    "Movement",
+    "Primates"
+  ]
+}

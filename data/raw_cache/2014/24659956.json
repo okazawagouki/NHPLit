@@ -1,0 +1,26 @@
+{
+  "pmid": "24659956",
+  "title": "Color opponent receptive fields self-organize in a biophysical model of visual cortex via spike-timing dependent plasticity.",
+  "abstract": "Although many computational models have been proposed to explain orientation maps in primary visual cortex (V1), it is not yet known how similar clusters of color-selective neurons in macaque V1/V2 are connected and develop. In this work, we address the problem of understanding the cortical processing of color information with a possible mechanism of the development of the patchy distribution of color selectivity via computational modeling. Each color input is decomposed into a red, green, and blue representation and transmitted to the visual cortex via a simulated optic nerve in a luminance channel and red-green and blue-yellow opponent color channels. Our model of the early visual system consists of multiple topographically-arranged layers of excitatory and inhibitory neurons, with sparse intra-layer connectivity and feed-forward connectivity between layers. Layers are arranged based on anatomy of early visual pathways, and include a retina, lateral geniculate nucleus, and layered neocortex. Each neuron in the V1 output layer makes synaptic connections to neighboring neurons and receives the three types of signals in the different channels from the corresponding photoreceptor position. Synaptic weights are randomized and learned using spike-timing-dependent plasticity (STDP). After training with natural images, the neurons display heightened sensitivity to specific colors. Information-theoretic analysis reveals mutual information between particular stimuli and responses, and that the information reaches a maximum with fewer neurons in the higher layers, indicating that estimations of the input colors can be done using the output of fewer cells in the later stages of cortical processing. In addition, cells with similar color receptive fields form clusters. Analysis of spiking activity reveals increased firing synchrony between neurons when particular color inputs are presented or removed (ON-cell/OFF-cell).",
+  "authors": [
+    "Eguchi Akihiro",
+    "Neymotin Samuel A",
+    "Stringer Simon M"
+  ],
+  "journal": "Frontiers in neural circuits",
+  "year": "2014",
+  "doi": "10.3389/fncir.2014.00016",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Color Perception",
+    "Computer Simulation",
+    "Geniculate Bodies",
+    "Models, Neurological",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

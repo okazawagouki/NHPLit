@@ -1,0 +1,23 @@
+{
+  "pmid": "12930802",
+  "title": "Neural noise and movement-related codes in the macaque supplementary motor area.",
+  "abstract": "We analyzed the variability of spike counts and the coding capacity of simultaneously recorded pairs of neurons in the macaque supplementary motor area (SMA). We analyzed the mean-variance functions for single neurons, as well as signal and noise correlations between pairs of neurons. All three statistics showed a strong dependence on the bin width chosen for analysis. Changes in the correlation structure of single neuron spike trains over different bin sizes affected the mean-variance function, and signal and noise correlations between pairs of neurons were much smaller at small bin widths, increasing monotonically with the width of the bin. Analyses in the frequency domain showed that the noise between pairs of neurons, on average, was most strongly correlated at low frequencies, which explained the increase in noise correlation with increasing bin width. The coding performance was analyzed to determine whether the temporal precision of spike arrival times and the interactions within and between neurons could improve the prediction of the upcoming movement. We found that in approximately 62% of neuron pairs, the arrival times of spikes at a resolution between 66 and 40 msec carried more information than spike counts in a 200 msec bin. In addition, in 19% of neuron pairs, inclusion of within (11%)- or between-neuron (8%) correlations in spike trains improved decoding accuracy. These results suggest that in some SMA neurons elements of the spatiotemporal pattern of activity may be relevant for neural coding.",
+  "authors": [
+    "Averbeck Bruno B",
+    "Lee Daeyeol"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Behavior, Animal",
+    "Frontal Lobe",
+    "Kinetics",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Activity",
+    "Neurons"
+  ]
+}

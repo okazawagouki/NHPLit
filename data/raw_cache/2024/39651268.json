@@ -1,0 +1,18 @@
+{
+  "pmid": "39651268",
+  "title": "<i>CalliCog:</i> an open-source cognitive neuroscience toolkit for freely behaving nonhuman primates.",
+  "abstract": "MOTIVATION: Cognitive neuroscience research involving nonhuman primates (NHPs) has traditionally been confined to a few highly specialized laboratories equipped with advanced infrastructure, expert knowledge, and specialized resources for housing and testing these animals. The common marmoset (<i>Callithrix jacchus</i>), a small NHP species, has gained popularity in cognitive research due to its ability to address some of these challenges. However, behavioral studies in marmosets remain labor-intensive and restricted mainly to experts in the field, making them less accessible to the broader scientific community. To address these barriers, we introduce an open and accessible platform designed for automated cognitive experiments in home cage settings with marmosets. This system supports the integration of cognitive behavioral analysis with wireless neural recordings, is cost-effective, and requires minimal technical expertise to build and operate. SUMMARY: Nonhuman primates (NHPs) are pivotal for unlocking the complexities of human cognition, yet traditional cognitive studies remain constrained to specialized laboratories. To revolutionize this paradigm, we present <i>CalliCog</i>: an open-source, scalable in-cage platform tailored for freely behaving experiments in small primate species such as the common marmoset (<i>Callithrix jacchus</i>). <i>CalliCog</i> includes modular operant chambers that operate autonomously and integrate seamlessly with home cages, eliminating human intervention. Our results showcase the power of <i>CalliCog</i> to train experimentally naïve marmosets in touchscreen-based cognitive tasks. Remarkably, across two independent facilities, marmosets achieved touchscreen proficiency within two weeks and successfully completed tasks probing behavioral flexibility and working memory. Moreover, <i>CalliCog</i> enabled precise synchronization of behavioral data with electrocorticography (ECoG) recordings from freely moving animals, opening new frontiers for neurobehavioral research. By making <i>CalliCog</i> openly accessible, we aim to democratize cognitive experimentation with small NHPs, narrowing the translational gap between preclinical models and human cognition.",
+  "authors": [
+    "Scott Jack T",
+    "Mendivez Vasquez Bruno L",
+    "Stewart Brian J",
+    "Panacheril Dylan D",
+    "Rajit Darren K J",
+    "Fan Angela Y",
+    "Bourne James A"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.11.26.625450",
+  "mesh": []
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "29793979",
+  "title": "Deep Neural Networks for Modeling Visual Perceptual Learning.",
+  "abstract": "Understanding visual perceptual learning (VPL) has become increasingly more challenging as new phenomena are discovered with novel stimuli and training paradigms. Although existing models aid our knowledge of critical aspects of VPL, the connections shown by these models between behavioral learning and plasticity across different brain areas are typically superficial. Most models explain VPL as readout from simple perceptual representations to decision areas and are not easily adaptable to explain new findings. Here, we show that a well -known instance of deep neural network (DNN), whereas not designed specifically for VPL, provides a computational model of VPL with enough complexity to be studied at many levels of analyses. After learning a Gabor orientation discrimination task, the DNN model reproduced key behavioral results, including increasing specificity with higher task precision, and also suggested that learning precise discriminations could transfer asymmetrically to coarse discriminations when the stimulus conditions varied. Consistent with the behavioral findings, the distribution of plasticity moved toward lower layers when task precision increased and this distribution was also modulated by tasks with different stimulus types. Furthermore, learning in the network units demonstrated close resemblance to extant electrophysiological recordings in monkey visual areas. Altogether, the DNN fulfilled predictions of existing theories regarding specificity and plasticity and reproduced findings of tuning changes in neurons of the primate visual areas. Although the comparisons were mostly qualitative, the DNN provides a new method of studying VPL, can serve as a test bed for theories, and assists in generating predictions for physiological investigations.<b>SIGNIFICANCE STATEMENT</b> Visual perceptual learning (VPL) has been found to cause changes at multiple stages of the visual hierarchy. We found that training a deep neural network (DNN) on an orientation discrimination task produced behavioral and physiological patterns similar to those found in human and monkey experiments. Unlike existing VPL models, the DNN was pre-trained on natural images to reach high performance in object recognition, but was not designed specifically for VPL; however, it fulfilled predictions of existing theories regarding specificity and plasticity and reproduced findings of tuning changes in neurons of the primate visual areas. When used with care, this unbiased and deep-hierarchical model can provide new ways of studying VPL from behavior to physiology.",
+  "authors": [
+    "Wenliang Li K",
+    "Seitz Aaron R"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2018",
+  "doi": "10.1523/JNEUROSCI.1620-17.2018",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Deep Learning",
+    "Humans",
+    "Learning",
+    "Models, Neurological",
+    "Visual Perception"
+  ]
+}

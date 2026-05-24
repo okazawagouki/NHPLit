@@ -1,0 +1,29 @@
+{
+  "pmid": "26041825",
+  "title": "Spatial precision of population activity in primate area MT.",
+  "abstract": "The middle temporal (MT) area is a cortical area integral to the \"where\" pathway of primate visual processing, signaling the movement and position of objects in the visual world. The receptive field of a single MT neuron is sensitive to the direction of object motion but is too large to signal precise spatial position. Here, we asked if the activity of MT neurons could be combined to support the high spatial precision required in the where pathway. With the use of multielectrode arrays, we recorded simultaneously neural activity at 24-65 sites in area MT of anesthetized marmoset monkeys. We found that although individual receptive fields span more than 5° of the visual field, the combined population response can support fine spatial discriminations (<0.2°). This is because receptive fields at neighboring sites overlapped substantially, and changes in spatial position are therefore projected onto neural activity in a large ensemble of neurons. This fine spatial discrimination is supported primarily by neurons with receptive fields flanking the target locations. Population performance is degraded (by 13-22%) when correlations in neural activity are ignored, further reflecting the contribution of population neural interactions. Our results show that population signals can provide high spatial precision despite large receptive fields, allowing area MT to represent both the motion and the position of objects in the visual world.",
+  "authors": [
+    "Chen Spencer C",
+    "Morley John W",
+    "Solomon Samuel G"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2015",
+  "doi": "10.1152/jn.00152.2015",
+  "mesh": [
+    "Action Potentials",
+    "Anesthesia",
+    "Animals",
+    "Callithrix",
+    "Discrimination, Psychological",
+    "Female",
+    "Male",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Space Perception",
+    "Support Vector Machine",
+    "Temporal Lobe",
+    "Visual Pathways"
+  ]
+}

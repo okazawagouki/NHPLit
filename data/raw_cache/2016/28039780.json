@@ -1,0 +1,25 @@
+{
+  "pmid": "28039780",
+  "title": "An empirical model of activity in macaque inferior temporal cortex.",
+  "abstract": "There are compelling computational models of many properties of the primate ventral visual stream, but a gap remains between the models and the physiology. To facilitate ongoing refinement of these models, we have compiled diverse information from the electrophysiology literature into a statistical model of inferotemporal (IT) cortex responses. This is a purely descriptive model, so it has little explanatory power. However it is able to directly incorporate a rich and extensible set of tuning properties. So far, we have approximated tuning curves and statistics of tuning diversity for occlusion, clutter, size, orientation, position, and object selectivity in early versus late response phases. We integrated the model with the V-REP simulator, which provides stimulus properties in a simulated physical environment. In contrast with the empirical model presented here, mechanistic models are ultimately more useful for understanding neural systems. However, a detailed empirical model may be useful as a source of labeled data for optimizing and validating mechanistic models, or as a source of input to models of other brain areas.",
+  "authors": [
+    "Khan Salman",
+    "Tripp Bryan"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2017",
+  "doi": "10.1016/j.neunet.2016.12.001",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Empirical Research",
+    "Macaca",
+    "Neurons",
+    "Orientation",
+    "Photic Stimulation",
+    "Temporal Lobe",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

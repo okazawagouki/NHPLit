@@ -1,0 +1,24 @@
+{
+  "pmid": "23554913",
+  "title": "Construction of direction selectivity through local energy computations in primary visual cortex.",
+  "abstract": "Despite detailed knowledge about the anatomy and physiology of neurons in primary visual cortex (V1), the large numbers of inputs onto a given V1 neuron make it difficult to relate them to the neuron's functional properties. For example, models of direction selectivity (DS), such as the Energy Model, can successfully describe the computation of phase-invariant DS at a conceptual level, while leaving it unclear how such computations are implemented by cortical circuits. Here, we use statistical modeling to derive a description of DS computation for both simple and complex cells, based on physiologically plausible operations on their inputs. We present a new method that infers the selectivity of a neuron's inputs using extracellular recordings in macaque in the context of random bar stimuli and natural movies in cat. Our results suggest that DS is initially constructed in V1 simple cells through summation and thresholding of non-DS inputs with appropriate spatiotemporal relationships. However, this de novo construction of DS is rare, and a majority of DS simple cells, and all complex cells, appear to receive both excitatory and suppressive inputs that are already DS. For complex cells, these numerous DS inputs typically span a fraction of their overall receptive fields and have similar spatiotemporal tuning but different phase and spatial positions, suggesting an elaboration to the Energy Model that incorporates spatially localized computation. Furthermore, we demonstrate how these computations might be constructed from biologically realizable components, and describe a statistical model consistent with the feed-forward framework suggested by Hubel and Wiesel.",
+  "authors": [
+    "Lochmann Timm",
+    "Blanche Timothy J",
+    "Butts Daniel A"
+  ],
+  "journal": "PloS one",
+  "year": "2013",
+  "doi": "10.1371/journal.pone.0058666",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Space Perception",
+    "Visual Cortex"
+  ]
+}

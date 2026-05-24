@@ -1,0 +1,24 @@
+{
+  "pmid": "17070010",
+  "title": "The micro-structure of attention.",
+  "abstract": "We investigate three possible methods of specifying the microstructure of attention feedback: contrast gain, additive and output gain, using simple single node and 3-layer cortical models composed of graded or spiking neurons. Contrast gain and additive attention are also tested in a spiking network which is simplified by mean field methods. The simulation task uses two stimuli, probe and reference, presented singly or together within the neuronal receptive fields whilst attention is directed towards or away from the receptive field. Model neurons are differentially activated in the different stimuli and attention and equilibrium potentials or average firing rates recorded depending on neuron type are recorded. We compare results for the different modes of attention and architectures with experimental single cell recordings which show how neuronal firing rates change in response to attention, with a bias towards neurons that respond more effectively to the attended stimulus, to investigate which attentional method best fits the experimental data. The simulation results are also mathematically analysed. We conclude that there is most experimental support for contrast gain, although some additional feedback gain would be possible. We propose a tentative method by which attention as contrast gain may occur in the primate brain using acetylcholine and nicotinic receptors.",
+  "authors": [
+    "Taylor Neill R",
+    "Hartley Matthew",
+    "Taylor John G"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Cerebral Cortex",
+    "Feedback",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Photic Stimulation",
+    "Reference Values"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pmid": "19404411",
+  "title": "Extracting kinematic parameters for monkey bipedal walking from cortical neuronal ensemble activity.",
+  "abstract": "The ability to walk may be critically impacted as the result of neurological injury or disease. While recent advances in brain-machine interfaces (BMIs) have demonstrated the feasibility of upper-limb neuroprostheses, BMIs have not been evaluated as a means to restore walking. Here, we demonstrate that chronic recordings from ensembles of cortical neurons can be used to predict the kinematics of bipedal walking in rhesus macaques - both offline and in real time. Linear decoders extracted 3D coordinates of leg joints and leg muscle electromyograms from the activity of hundreds of cortical neurons. As more complex patterns of walking were produced by varying the gait speed and direction, larger neuronal populations were needed to accurately extract walking patterns. Extraction was further improved using a switching decoder which designated a submodel for each walking paradigm. We propose that BMIs may one day allow severely paralyzed patients to walk again.",
+  "authors": [
+    "Fitzsimmons Nathan A",
+    "Lebedev Mikhail A",
+    "Peikon Ian D",
+    "Nicolelis Miguel A L"
+  ],
+  "journal": "Frontiers in integrative neuroscience",
+  "year": "2009",
+  "doi": "10.3389/neuro.07.003.2009",
+  "mesh": []
+}

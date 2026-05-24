@@ -1,0 +1,26 @@
+{
+  "pmid": "32992539",
+  "title": "Reinforcement Learning Based Fast Self-Recalibrating Decoder for Intracortical Brain-Machine Interface.",
+  "abstract": "BACKGROUND: For the nonstationarity of neural recordings in intracortical brain-machine interfaces, daily retraining in a supervised manner is always required to maintain the performance of the decoder. This problem can be improved by using a reinforcement learning (RL) based self-recalibrating decoder. However, quickly exploring new knowledge while maintaining a good performance remains a challenge in RL-based decoders. METHODS: To solve this problem, we proposed an attention-gated RL-based algorithm combining transfer learning, mini-batch, and weight updating schemes to accelerate the weight updating and avoid over-fitting. The proposed algorithm was tested on intracortical neural data recorded from two monkeys to decode their reaching positions and grasping gestures. RESULTS: The decoding results showed that our proposed algorithm achieved an approximate 20% increase in classification accuracy compared to that obtained by the non-retrained classifier and even achieved better classification accuracy than the daily retraining classifier. Moreover, compared with a conventional RL method, our algorithm improved the accuracy by approximately 10% and the online weight updating speed by approximately 70 times. CONCLUSIONS: This paper proposed a self-recalibrating decoder which achieved a good and robust decoding performance with fast weight updating and might facilitate its application in wearable device and clinical practice.",
+  "authors": [
+    "Zhang Peng",
+    "Chao Lianying",
+    "Chen Yuting",
+    "Ma Xuan",
+    "Wang Weihua",
+    "He Jiping",
+    "Huang Jian",
+    "Li Qiang"
+  ],
+  "journal": "Sensors (Basel, Switzerland)",
+  "year": "2020",
+  "doi": "10.3390/s20195528",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Hand",
+    "Haplorhini",
+    "Machine Learning"
+  ]
+}

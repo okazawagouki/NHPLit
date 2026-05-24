@@ -1,0 +1,29 @@
+{
+  "pmid": "16102841",
+  "title": "An autonomous implantable computer for neural recording and stimulation in unrestrained primates.",
+  "abstract": "To perform neurobiological experiments on freely behaving primates, we have developed a miniature battery-powered implantable computer capable of recording and stimulating through chronic electrodes in the cortex. The device has: (1) an analog front end with a four-pole bandpass filter (500 Hz-5 kHz), programmable gain and offset nulling; (2) an analog-to-digital converter to sample the data at 11.7 ksps; (3) a programmable microcontroller to discriminate spikes in real time and perform computations; (4) a stimulator to deliver biphasic current pulses of up to 100 muA with variable pulse width and frequency; (5) a 4 Mbit non-volatile memory to store biological data; (6) a 57.6 kbps infrared data link for wireless communications with a hand-held or desktop computer. The device is enclosed in a 5.5 cm x 5 cm x 3 cm titanium casing on the monkey's head along with a 3.3 V lithium battery and an array of cortical electrodes. In in vivo tests, the device was able to record stable cell discharge continuously for time periods of a week or more. After downloading the parameters for recording, stimulation, discrimination, and other computations, the device is capable of operating autonomously, delivering stimuli to one electrode triggered by spikes recorded at a separate site.",
+  "authors": [
+    "Mavoori Jaideep",
+    "Jackson Andrew",
+    "Diorio Chris",
+    "Fetz Eberhard"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cerebral Cortex",
+    "Electric Stimulation",
+    "Electrodes, Implanted",
+    "Electromyography",
+    "Equipment Design",
+    "Macaca nemestrina",
+    "Male",
+    "Microcomputers",
+    "Neurons",
+    "Signal Processing, Computer-Assisted",
+    "Wakefulness"
+  ]
+}

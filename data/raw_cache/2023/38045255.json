@@ -1,0 +1,15 @@
+{
+  "pmid": "38045255",
+  "title": "Compact deep neural network models of visual cortex.",
+  "abstract": "A powerful approach to understanding the computations carried out in visual cortex is to develop models that predict neural responses to arbitrary images. Deep neural network (DNN) models have worked remarkably well at predicting neural responses [1, 2, 3], yet their underlying computations remain buried in millions of parameters. Have we simply replaced one complicated system <i>in vivo</i> with another <i>in silico</i>? Here, we train a data-driven deep ensemble model that predicts macaque V4 responses ~50% more accurately than currently-used task-driven DNN models. We then compress this deep ensemble to identify <i>compact</i> models that have 5,000x fewer parameters yet equivalent accuracy as the deep ensemble. We verified that the stimulus preferences of the compact models matched those of the real V4 neurons by measuring V4 responses to both 'maximizing' and adversarial images generated using compact models. We then analyzed the inner workings of the compact models and discovered a common circuit motif: Compact models share a similar set of filters in early stages of processing but then specialize by heavily consolidating this shared representation with a precise readout. This suggests that a V4 neuron's stimulus preference is determined entirely by its consolidation step. To demonstrate this, we investigated the compression step of a dot-detecting compact model and found a set of simple computations that may be carried out by dot-selective V4 neurons. Overall, our work demonstrates that the DNN models currently used in computational neuroscience are needlessly large; our approach provides a new way forward for obtaining explainable, high-accuracy models of visual cortical neurons.",
+  "authors": [
+    "Cowley Benjamin R",
+    "Stan Patricia L",
+    "Pillow Jonathan W",
+    "Smith Matthew A"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2023",
+  "doi": "10.1101/2023.11.22.568315",
+  "mesh": []
+}

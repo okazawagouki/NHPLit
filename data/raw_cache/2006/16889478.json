@@ -1,0 +1,28 @@
+{
+  "pmid": "16889478",
+  "title": "Dimensionality reduction in neural models: an information-theoretic generalization of spike-triggered average and covariance analysis.",
+  "abstract": "We describe an information-theoretic framework for fitting neural spike responses with a Linear-Nonlinear-Poisson cascade model. This framework unifies the spike-triggered average (STA) and spike-triggered covariance (STC) approaches to neural characterization and recovers a set of linear filters that maximize mean and variance-dependent information between stimuli and spike responses. The resulting approach has several useful properties, namely, (1) it recovers a set of linear filters sorted according to their informativeness about the neural response; (2) it is both computationally efficient and robust, allowing recovery of multiple linear filters from a data set of relatively modest size; (3) it provides an explicit \"default\" model of the nonlinear stage mapping the filter responses to spike rate, in the form of a ratio of Gaussians; (4) it is equivalent to maximum likelihood estimation of this default model but also converges to the correct filter estimates whenever the conditions for the consistency of STA or STC analysis are met; and (5) it can be augmented with additional constraints on the filters, such as space-time separability. We demonstrate the effectiveness of the method by applying it to simulated responses of a Hodgkin-Huxley neuron and the recorded extracellular responses of macaque retinal ganglion cells and V1 cells.",
+  "authors": [
+    "Pillow Jonathan W",
+    "Simoncelli Eero P"
+  ],
+  "journal": "Journal of vision",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Information Theory",
+    "Likelihood Functions",
+    "Linear Models",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Normal Distribution",
+    "Poisson Distribution",
+    "Retinal Ganglion Cells",
+    "Visual Cortex"
+  ]
+}

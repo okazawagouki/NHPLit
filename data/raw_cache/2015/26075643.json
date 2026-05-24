@@ -1,0 +1,26 @@
+{
+  "pmid": "26075643",
+  "title": "A neural network that finds a naturalistic solution for the production of muscle activity.",
+  "abstract": "It remains an open question how neural responses in motor cortex relate to movement. We explored the hypothesis that motor cortex reflects dynamics appropriate for generating temporally patterned outgoing commands. To formalize this hypothesis, we trained recurrent neural networks to reproduce the muscle activity of reaching monkeys. Models had to infer dynamics that could transform simple inputs into temporally and spatially complex patterns of muscle activity. Analysis of trained models revealed that the natural dynamical solution was a low-dimensional oscillator that generated the necessary multiphasic commands. This solution closely resembled, at both the single-neuron and population levels, what was observed in neural recordings from the same monkeys. Notably, data and simulations agreed only when models were optimized to find simple solutions. An appealing interpretation is that the empirically observed dynamics of motor cortex may reflect a simple solution to the problem of generating temporally patterned descending commands.",
+  "authors": [
+    "Sussillo David",
+    "Churchland Mark M",
+    "Kaufman Matthew T",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2015",
+  "doi": "10.1038/nn.4042",
+  "mesh": [
+    "Animals",
+    "Electromyography",
+    "Electrophysiological Phenomena",
+    "Haplorhini",
+    "Motor Activity",
+    "Motor Cortex",
+    "Muscle, Skeletal",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neurons"
+  ]
+}

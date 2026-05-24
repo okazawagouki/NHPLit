@@ -1,0 +1,21 @@
+{
+  "pmid": "38871737",
+  "title": "Neurophysiological recordings from parietal areas of macaque brain during an instructed-delay reaching task.",
+  "abstract": "Facilitating data sharing in scientific research, especially in the domain of animal studies, holds immense value, particularly in mitigating distress and enhancing the efficiency of data collection. This study unveils a meticulously curated collection of neural activity data extracted from six electrophysiological datasets recorded from three parietal areas (V6A, PEc, PE) of two Macaca fascicularis during an instructed-delay foveated reaching task. This valuable resource is now accessible to the public, featuring spike timestamps, behavioural event timings and supplementary metadata, all presented alongside a comprehensive description of the encompassing structure. To enhance accessibility, data are stored as HDF5 files, a convenient format due to its flexible structure and the capability to attach diverse information to each hierarchical sub-level. To guarantee ready-to-use datasets, we also provide some MATLAB and Python code examples, enabling users to quickly familiarize themselves with the data structure.",
+  "authors": [
+    "Diomedi S",
+    "Vaccari F E",
+    "Gamberini M",
+    "De Vitis M",
+    "Filippini M",
+    "Fattori P"
+  ],
+  "journal": "Scientific data",
+  "year": "2024",
+  "doi": "10.1038/s41597-024-03479-7",
+  "mesh": [
+    "Animals",
+    "Parietal Lobe",
+    "Macaca fascicularis"
+  ]
+}

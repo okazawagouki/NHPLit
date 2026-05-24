@@ -1,0 +1,28 @@
+{
+  "pmid": "19129297",
+  "title": "Bayesian correction for attenuation of correlation in multi-trial spike count data.",
+  "abstract": "When correlation is measured in the presence of noise, its value is decreased. In single-neuron recording experiments, for example, the correlation of selectivity indices in a pair of tasks may be assessed across neurons, but, because the number of trials is limited, the measured index values for each neuron will be noisy. This attenuates the correlation. A correction for such attenuation was proposed by Spearman more than 100 yr ago, and more recent work has shown how confidence intervals may be constructed to supplement the correction. In this paper, we propose an alternative Bayesian correction. A simulation study shows that this approach can be far superior to Spearman's, both in accuracy of the correction and in coverage of the resulting confidence intervals. We demonstrate the usefulness of this technology by applying it to a set of data obtained from the frontal cortex of a macaque monkey while performing serial order and variable reward saccade tasks. There the correction results in a substantial increase in the correlation across neurons in the two tasks.",
+  "authors": [
+    "Behseta Sam",
+    "Berdyyeva Tamara",
+    "Olson Carl R",
+    "Kass Robert E"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2009",
+  "doi": "10.1152/jn.90727.2008",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Bayes Theorem",
+    "Computer Simulation",
+    "Confidence Intervals",
+    "Frontal Lobe",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Reward",
+    "Saccades",
+    "Statistics, Nonparametric"
+  ]
+}

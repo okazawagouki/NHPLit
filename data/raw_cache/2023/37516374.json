@@ -1,0 +1,22 @@
+{
+  "pmid": "37516374",
+  "title": "Systematic cortical thickness and curvature patterns in primates.",
+  "abstract": "Humans are known to have significant and consistent differences in thickness throughout the cortex, with thick outer gyral folds and thin inner sulcal folds. Our previous work has suggested a mechanical basis for this thickness pattern, with the forces generated during cortical folding leading to thick gyri and thin sulci, and shown that cortical thickness varies along a gyral-sulcal spectrum in humans. While other primate species are expected to exhibit similar patterns of cortical thickness, it is currently unknown how these patterns scale across different sizes, forms, and foldedness. Among primates, brains vary enormously from roughly the size of a grape to the size of a grapefruit, and from nearly smooth to dramatically folded; of these, human brains are the largest and most folded. These variations in size and form make comparative neuroanatomy a rich resource for investigating common trends that transcend differences between species. In this study, we examine 12 primate species in order to cover a wide range of sizes and forms, and investigate the scaling of their cortical thickness relative to the surface geometry. The 12 species were selected due to the public availability of either reconstructed surfaces and/or population templates. After obtaining or reconstructing 3D surfaces from publicly available neuroimaging data, we used our surface-based computational pipeline (https://github.com/mholla/curveball) to analyze patterns of cortical thickness and folding with respect to size (total surface area), geometry (i.e. curvature, shape, and sulcal depth), and foldedness (gyrification). In all 12 species, we found consistent cortical thickness variations along a gyral-sulcal spectrum, with convex shapes thicker than concave shapes and saddle shapes in between. Furthermore, we saw an increasing thickness difference between gyri and sulci as brain size increases. Our results suggest a systematic folding mechanism relating local cortical thickness to geometry. Finally, all of our reconstructed surfaces and morphometry data are available for future research in comparative neuroanatomy.",
+  "authors": [
+    "Demirci Nagehan",
+    "Hoffman Mia E",
+    "Holland Maria A"
+  ],
+  "journal": "NeuroImage",
+  "year": "2023",
+  "doi": "10.1016/j.neuroimage.2023.120283",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Cerebral Cortex",
+    "Neuroimaging",
+    "Brain",
+    "Primates"
+  ]
+}

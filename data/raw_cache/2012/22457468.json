@@ -1,0 +1,31 @@
+{
+  "pmid": "22457468",
+  "title": "Second-order receptive fields reveal multidigit interactions in area 3b of the macaque monkey.",
+  "abstract": "Linear receptive field (RF) models of area 3b neurons reveal a three-component structure: a central excitatory region flanked by two inhibitory regions that are spatially and temporally nonoverlapping with the excitation. Previous studies also report that there is an \"infield\" inhibitory region throughout the neuronal RF, which is a nonlinear interactive (second order) effect whereby stimuli lagging an input to the excitatory region are suppressed. Thus linear models may be inaccurate approximations of the neurons' true RFs. In this study, we characterize the RFs of area 3b neurons, using a second-order quadratic model. Data were collected from 80 neurons of two awake, behaving macaque monkeys while a random dot pattern was scanned simultaneously across the distal pads of digits D2, 3, and 4. We used an iterative method derived from matching pursuit to identify a set of linear and nonlinear terms with significant effects on the neuronal response. For most neurons (65/80), the linear component of the quadratic RF was characterized by a single excitatory region on the dominant digit. Interactions within the dominant digit were characterized by two quadratic filters that capture the spatial aspects of the interactive infield inhibition. Interactions between the dominant (most responsive) digit and its adjacent digit(s) formed the largest class of cross-digit interactions. The results demonstrate that a significant part of area 3b responses is due to nonlinear mechanisms, and furthermore, the data support the notion that area 3b neurons have \"nonclassical RF\"-like input from adjacent fingers, indicating that area 3b plays a role in integrating shape inputs across digits.",
+  "authors": [
+    "Thakur Pramodsingh H",
+    "Fitzgerald Paul J",
+    "Hsiao Steven S"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2012",
+  "doi": "10.1152/jn.01022.2010",
+  "mesh": [
+    "Action Potentials",
+    "Afferent Pathways",
+    "Animals",
+    "Brain Mapping",
+    "Linear Models",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neural Inhibition",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Physical Stimulation",
+    "Predictive Value of Tests",
+    "Somatosensory Cortex",
+    "Touch",
+    "Wakefulness"
+  ]
+}

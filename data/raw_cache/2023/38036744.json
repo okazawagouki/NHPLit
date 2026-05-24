@@ -1,0 +1,30 @@
+{
+  "pmid": "38036744",
+  "title": "Decoding motor plans using a closed-loop ultrasonic brain-machine interface.",
+  "abstract": "Brain-machine interfaces (BMIs) enable people living with chronic paralysis to control computers, robots and more with nothing but thought. Existing BMIs have trade-offs across invasiveness, performance, spatial coverage and spatiotemporal resolution. Functional ultrasound (fUS) neuroimaging is an emerging technology that balances these attributes and may complement existing BMI recording technologies. In this study, we use fUS to demonstrate a successful implementation of a closed-loop ultrasonic BMI. We streamed fUS data from the posterior parietal cortex of two rhesus macaque monkeys while they performed eye and hand movements. After training, the monkeys controlled up to eight movement directions using the BMI. We also developed a method for pretraining the BMI using data from previous sessions. This enabled immediate control on subsequent days, even those that occurred months apart, without requiring extensive recalibration. These findings establish the feasibility of ultrasonic BMIs, paving the way for a new class of less-invasive (epidural) interfaces that generalize across extended time periods and promise to restore function to people with neurological impairments.",
+  "authors": [
+    "Griggs Whitney S",
+    "Norman Sumner L",
+    "Deffieux Thomas",
+    "Segura Florian",
+    "Osmanski Bruno-Félix",
+    "Chau Geeling",
+    "Christopoulos Vasileios",
+    "Liu Charles",
+    "Tanter Mickael",
+    "Shapiro Mikhail G",
+    "Andersen Richard A"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2024",
+  "doi": "10.1038/s41593-023-01500-7",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Ultrasonics",
+    "Hand",
+    "Movement"
+  ]
+}

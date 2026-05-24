@@ -1,0 +1,20 @@
+{
+  "pmid": "33584214",
+  "title": "MacaquePose: A Novel \"In the Wild\" Macaque Monkey Pose Dataset for Markerless Motion Capture.",
+  "abstract": "Video-based markerless motion capture permits quantification of an animal's pose and motion, with a high spatiotemporal resolution in a naturalistic context, and is a powerful tool for analyzing the relationship between the animal's behaviors and its brain functions. Macaque monkeys are excellent non-human primate models, especially for studying neuroscience. Due to the lack of a dataset allowing training of a deep neural network for the macaque's markerless motion capture in the naturalistic context, it has been challenging to apply this technology for macaques-based studies. In this study, we created MacaquePose, a novel open dataset with manually labeled body part positions (keypoints) for macaques in naturalistic scenes, consisting of >13,000 images. We also validated the application of the dataset by training and evaluating an artificial neural network with the dataset. The results indicated that the keypoint estimation performance of the trained network was close to that of a human-level. The dataset will be instrumental to train/test the neural networks for markerless motion capture of the macaques and developments of the algorithms for the networks, contributing establishment of an innovative platform for behavior analysis for non-human primates for neuroscience and medicine, as well as other fields using macaques as a model organism.",
+  "authors": [
+    "Labuguen Rollyn",
+    "Matsumoto Jumpei",
+    "Negrete Salvador Blanco",
+    "Nishimaru Hiroshi",
+    "Nishijo Hisao",
+    "Takada Masahiko",
+    "Go Yasuhiro",
+    "Inoue Ken-Ichi",
+    "Shibata Tomohiro"
+  ],
+  "journal": "Frontiers in behavioral neuroscience",
+  "year": "2020",
+  "doi": "10.3389/fnbeh.2020.581154",
+  "mesh": []
+}

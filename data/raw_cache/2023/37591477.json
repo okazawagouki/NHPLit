@@ -1,0 +1,27 @@
+{
+  "pmid": "37591477",
+  "title": "Group Surrogate Data Generating Models and similarity quantification of multivariate time-series: A resting-state fMRI study.",
+  "abstract": "Advancements in non-invasive brain analysis through novel approaches such as big data analytics and in silico simulation are essential for explaining brain function and associated pathologies. In this study, we extend the vector auto-regressive surrogate technique from a single multivariate time-series to group data using a novel Group Surrogate Data Generating Model (GSDGM). This methodology allowed us to generate biologically plausible human brain dynamics representative of a large human resting-state (rs-fMRI) dataset obtained from the Human Connectome Project. Simultaneously, we defined a novel similarity measure, termed the Multivariate Time-series Ensemble Similarity Score (MTESS). MTESS showed high accuracy and f-measure in subject identification, and it can directly compare the similarity between two multivariate time-series. We used MTESS to analyze both human and marmoset rs-fMRI data. Our results showed similarity differences between cortical and subcortical regions. We also conducted MTESS and state transition analysis between single and group surrogate techniques, and confirmed that a group surrogate approach can generate plausible group centroid multivariate time-series. Finally, we used GSDGM and MTESS for the fingerprint analysis of human rs-fMRI data, successfully distinguishing normal and outlier sessions. These new techniques will be useful for clinical applications and in silico simulation.",
+  "authors": [
+    "Okuno Takuto",
+    "Hata Junichi",
+    "Haga Yawara",
+    "Muta Kanako",
+    "Tsukada Hiromichi",
+    "Nakae Ken",
+    "Okano Hideyuki",
+    "Woodward Alexander"
+  ],
+  "journal": "NeuroImage",
+  "year": "2023",
+  "doi": "10.1016/j.neuroimage.2023.120329",
+  "mesh": [
+    "Humans",
+    "Animals",
+    "Magnetic Resonance Imaging",
+    "Brain",
+    "Callithrix",
+    "Computer Simulation",
+    "Time Factors"
+  ]
+}

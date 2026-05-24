@@ -1,0 +1,20 @@
+{
+  "pmid": "35872414",
+  "title": "Classification of overlapping spikes using convolutional neural networks and long short term memory.",
+  "abstract": "Spike sorting is one of the key techniques to understand brain activity. In this paper, we propose a novel deep learning approach based on convolutional neural networks (CNN) and long short term memory (LSTM) to implement overlapping spike sorting. The results of the simulated data demonstrated that the clustering accuracy was greater than 99.9% and 99.0% for non-overlapping spikes and overlapping spikes, respectively. Moreover, the proposed method performed better than our previous deep learning approach named \"1D-CNN\". In addition, the experimental data recorded from the primary visual cortex of a macaque monkey were used to evaluate the proposed method in a practical application. It was shown that the method could successfully isolate most overlapping spikes of different neurons (ranging from two to five). In summary, the CNN + LSTM method proposed in this paper is of great advantage for overlapping spike sorting with high accuracy. It lays the foundation for application in more challenging works, such as distinguishing the simultaneous recordings of multichannel neuronal activities.",
+  "authors": [
+    "Liu Mingxin",
+    "Feng Jing",
+    "Wang Yongtian",
+    "Li Zhaohui"
+  ],
+  "journal": "Computers in biology and medicine",
+  "year": "2022",
+  "doi": "10.1016/j.compbiomed.2022.105888",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Neural Networks, Computer",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

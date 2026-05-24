@@ -1,0 +1,29 @@
+{
+  "pmid": "29115213",
+  "title": "Maintained avalanche dynamics during task-induced changes of neuronal activity in nonhuman primates.",
+  "abstract": "Sensory events, cognitive processing and motor actions correlate with transient changes in neuronal activity. In cortex, these transients form widespread spatiotemporal patterns with largely unknown statistical regularities. Here, we show that activity associated with behavioral events carry the signature of scale-invariant spatiotemporal clusters, neuronal avalanches. Using high-density microelectrode arrays in nonhuman primates, we recorded extracellular unit activity and the local field potential (LFP) in premotor and prefrontal cortex during motor and cognitive tasks. Unit activity and negative LFP deflections (nLFP) consistently changed in rate at single electrodes during tasks. Accordingly, nLFP clusters on the array deviated from scale-invariance compared to ongoing activity. Scale-invariance was recovered using 'adaptive binning', that is identifying clusters at temporal resolution given by task-induced changes in nLFP rate. Measures of LFP synchronization confirmed and computer simulations detailed our findings. We suggest optimization principles identified for avalanches during ongoing activity to apply to cortical information processing during behavior.",
+  "authors": [
+    "Yu Shan",
+    "Ribeiro Tiago L",
+    "Meisel Christian",
+    "Chou Samantha",
+    "Mitz Andrew",
+    "Saunders Richard",
+    "Plenz Dietmar"
+  ],
+  "journal": "eLife",
+  "year": "2017",
+  "doi": "10.7554/eLife.27119",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cognition",
+    "Electroencephalography",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motion",
+    "Motor Cortex",
+    "Neurons",
+    "Prefrontal Cortex"
+  ]
+}

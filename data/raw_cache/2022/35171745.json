@@ -1,0 +1,23 @@
+{
+  "pmid": "35171745",
+  "title": "A machine learning approach to characterize sequential movement-related states in premotor and motor cortices.",
+  "abstract": "Nonhuman primate (NHP) movement kinematics have been decoded from spikes and local field potentials (LFPs) recorded during motor tasks. However, the potential of LFPs to provide network-like characterizations of neural dynamics during planning and execution of sequential movements requires further exploration. Is the aggregate nature of LFPs suitable to construct informative brain state descriptors of movement preparation and execution? To investigate this, we developed a framework to process LFPs based on machine-learning classifiers and analyzed LFP from a primate, implanted with several microelectrode arrays covering the premotor cortex in both hemispheres and the primary motor cortex on one side. The monkey performed a reach-to-grasp task, consisting of five consecutive states, starting from rest until a rewarding target (food) was attained. We use this five-state task to characterize neural activity within eight frequency bands, using spectral amplitude and pairwise correlations across electrodes as features. Our results show that we could best distinguish all five movement-related states using the highest frequency band (200-500 Hz), yielding an 87% accuracy with spectral amplitude, and 60% with pairwise electrode correlation. Further analyses characterized each movement-related state, showing differential neuronal population activity at above-γ frequencies during the various stages of movement. Furthermore, the topological distribution for the high-frequency LFPs allowed for a highly significant set of pairwise correlations, strongly suggesting a concerted distribution of movement planning and execution function is distributed across premotor and primary motor cortices in a specific fashion, and is most significant in the low ripple (100-150 Hz), high ripple (150-200 Hz), and multiunit frequency bands. In summary, our results show that the concerted use of novel machine-learning techniques with coarse grained queue broad signals such as LFPs may be successfully used to track and decode fine movement aspects involving preparation, reach, grasp, and reward retrieval across several brain regions.<b>NEW & NOTEWORTHY</b> Local field potentials (LFPs), despite lower spatial resolution compared to single-neuron recordings, can be used with machine learning classifiers to decode sequential movements involving motor preparation, execution, and reward retrieval. Our results revealed heterogeneity of neural activity on small spatial scales, further evidencing the utility of micro-electrode array recordings for complex movement decoding. With further advancement, high-dimensional LFPs may become the gold standard for brain-computer interfaces such as neural prostheses in the near future.",
+  "authors": [
+    "DePass Michael",
+    "Falaki Ali",
+    "Quessy Stephan",
+    "Dancause Numa",
+    "Cos Ignasi"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2022",
+  "doi": "10.1152/jn.00368.2021",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Machine Learning",
+    "Microelectrodes",
+    "Motor Cortex",
+    "Movement"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "18829845",
+  "title": "Toward optimal target placement for neural prosthetic devices.",
+  "abstract": "Neural prosthetic systems have been designed to estimate continuous reach trajectories (motor prostheses) and to predict discrete reach targets (communication prostheses). In the latter case, reach targets are typically decoded from neural spiking activity during an instructed delay period before the reach begins. Such systems use targets placed in radially symmetric geometries independent of the tuning properties of the neurons available. Here we seek to automate the target placement process and increase decode accuracy in communication prostheses by selecting target locations based on the neural population at hand. Motor prostheses that incorporate intended target information could also benefit from this consideration. We present an optimal target placement algorithm that approximately maximizes decode accuracy with respect to target locations. In simulated neural spiking data fit from two monkeys, the optimal target placement algorithm yielded statistically significant improvements up to 8 and 9% for two and sixteen targets, respectively. For four and eight targets, gains were more modest, as the target layouts found by the algorithm closely resembled the canonical layouts. We trained a monkey in this paradigm and tested the algorithm with experimental neural data to confirm some of the results found in simulation. In all, the algorithm can serve not only to create new target layouts that outperform canonical layouts, but it can also confirm or help select among multiple canonical layouts. The optimal target placement algorithm developed here is the first algorithm of its kind, and it should both improve decode accuracy and help automate target placement for neural prostheses.",
+  "authors": [
+    "Cunningham John P",
+    "Yu Byron M",
+    "Gilja Vikash",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2008",
+  "doi": "10.1152/jn.90833.2008",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Electrodes, Implanted",
+    "Haplorhini",
+    "Man-Machine Systems",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Prosthesis Implantation",
+    "Psychomotor Performance"
+  ]
+}

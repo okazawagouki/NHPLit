@@ -1,0 +1,37 @@
+{
+  "pmid": "34115584",
+  "title": "Shape-invariant encoding of dynamic primate facial expressions in human perception.",
+  "abstract": "Dynamic facial expressions are crucial for communication in primates. Due to the difficulty to control shape and dynamics of facial expressions across species, it is unknown how species-specific facial expressions are perceptually encoded and interact with the representation of facial shape. While popular neural network models predict a joint encoding of facial shape and dynamics, the neuromuscular control of faces evolved more slowly than facial shape, suggesting a separate encoding. To investigate these alternative hypotheses, we developed photo-realistic human and monkey heads that were animated with motion capture data from monkeys and humans. Exact control of expression dynamics was accomplished by a Bayesian machine-learning technique. Consistent with our hypothesis, we found that human observers learned cross-species expressions very quickly, where face dynamics was represented largely independently of facial shape. This result supports the co-evolution of the visual processing and motor control of facial expressions, while it challenges appearance-based neural network theories of dynamic expression recognition.",
+  "authors": [
+    "Taubert Nick",
+    "Stettler Michael",
+    "Siebert Ramona",
+    "Spadacenta Silvia",
+    "Sting Louisa",
+    "Dicke Peter",
+    "Thier Peter",
+    "Giese Martin A"
+  ],
+  "journal": "eLife",
+  "year": "2021",
+  "doi": "10.7554/eLife.61197",
+  "mesh": [
+    "Adult",
+    "Animals",
+    "Bayes Theorem",
+    "Emotions",
+    "Face",
+    "Facial Expression",
+    "Female",
+    "Humans",
+    "Macaca mulatta",
+    "Machine Learning",
+    "Male",
+    "Middle Aged",
+    "Nerve Net",
+    "Pattern Recognition, Visual",
+    "Recognition, Psychology",
+    "Visual Perception",
+    "Young Adult"
+  ]
+}

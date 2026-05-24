@@ -1,0 +1,27 @@
+{
+  "pmid": "17152443",
+  "title": "Relaxation-based multichannel signal combination (RELAX-MUSIC) for ROC analysis of percept-related neuronal activity.",
+  "abstract": "In this letter, we consider how to combine neuronal signals from multiple electrodes to optimally predict behavioral choices from observed neural activity. The predictability is often quantified by the area under the receiver operating characteristic (ROC) curve, also called choice probability (CP) in neurophysiology. We exploit a distribution-free relaxation based multichannel signal combination (RELAX-MUSIC) approach that requires only simple pairwise combination and recursive implementation for optimizing the area under the ROC curve. A permutation test is employed to assess the statistical significance of the derived CP. We demonstrate that the RELAX-MUSIC approach outperforms the commonly used response pooling and Fisher linear discriminant (FLD) methods. The excellent performances of the RELAX-MUSIC approach for predicting perceptual decisions from neural activity are demonstrated via examples using simulated and experimental data.",
+  "authors": [
+    "Wang Zhisong",
+    "Maier Alexander",
+    "Leopold David A",
+    "Liang Hualou"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Cerebral Cortex",
+    "Choice Behavior",
+    "Electroencephalography",
+    "Evoked Potentials",
+    "Macaca",
+    "ROC Curve",
+    "Signal Processing, Computer-Assisted",
+    "Visual Perception"
+  ]
+}

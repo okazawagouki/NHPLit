@@ -1,0 +1,32 @@
+{
+  "pmid": "30899018",
+  "title": "Optimal features for auditory categorization.",
+  "abstract": "Humans and vocal animals use vocalizations to communicate with members of their species. A necessary function of auditory perception is to generalize across the high variability inherent in vocalization production and classify them into behaviorally distinct categories ('words' or 'call types'). Here, we demonstrate that detecting mid-level features in calls achieves production-invariant classification. Starting from randomly chosen marmoset call features, we use a greedy search algorithm to determine the most informative and least redundant features necessary for call classification. High classification performance is achieved using only 10-20 features per call type. Predictions of tuning properties of putative feature-selective neurons accurately match some observed auditory cortical responses. This feature-based approach also succeeds for call categorization in other species, and for other complex classification tasks such as caller identification. Our results suggest that high-level neural representations of sounds are based on task-dependent features optimized for specific computational goals.",
+  "authors": [
+    "Liu Shi Tong",
+    "Montes-Lourido Pilar",
+    "Wang Xiaoqin",
+    "Sadagopan Srivatsun"
+  ],
+  "journal": "Nature communications",
+  "year": "2019",
+  "doi": "10.1038/s41467-019-09115-y",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Animals",
+    "Auditory Cortex",
+    "Auditory Perception",
+    "Callithrix",
+    "Electrodes, Implanted",
+    "Female",
+    "Guinea Pigs",
+    "Humans",
+    "Male",
+    "Membrane Potentials",
+    "Neurons",
+    "Sound",
+    "Sound Spectrography",
+    "Stereotaxic Techniques",
+    "Vocalization, Animal"
+  ]
+}

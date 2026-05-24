@@ -1,0 +1,24 @@
+{
+  "pmid": "34799408",
+  "title": "Automatic Recognition of Macaque Facial Expressions for Detection of Affective States.",
+  "abstract": "Internal affective states produce external manifestations such as facial expressions. In humans, the Facial Action Coding System (FACS) is widely used to objectively quantify the elemental facial action units (AUs) that build complex facial expressions. A similar system has been developed for macaque monkeys-the Macaque FACS (MaqFACS); yet, unlike the human counterpart, which is already partially replaced by automatic algorithms, this system still requires labor-intensive coding. Here, we developed and implemented the first prototype for automatic MaqFACS coding. We applied the approach to the analysis of behavioral and neural data recorded from freely interacting macaque monkeys. The method achieved high performance in the recognition of six dominant AUs, generalizing between conspecific individuals (<i>Macaca mulatta</i>) and even between species (<i>Macaca fascicularis</i>). The study lays the foundation for fully automated detection of facial expressions in animals, which is crucial for investigating the neural substrates of social and affective states.",
+  "authors": [
+    "Morozov Anna",
+    "Parr Lisa A",
+    "Gothard Katalin",
+    "Paz Rony",
+    "Pryluk Raviv"
+  ],
+  "journal": "eNeuro",
+  "year": "2021",
+  "doi": "10.1523/ENEURO.0117-21.2021",
+  "mesh": [
+    "Animals",
+    "Emotions",
+    "Face",
+    "Facial Expression",
+    "Facial Recognition",
+    "Macaca mulatta",
+    "Recognition, Psychology"
+  ]
+}

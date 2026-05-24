@@ -1,0 +1,27 @@
+{
+  "pmid": "39028036",
+  "title": "Myelin dystrophy impairs signal transmission and working memory in a multiscale model of the aging prefrontal cortex.",
+  "abstract": "Normal aging leads to myelin alterations in the rhesus monkey dorsolateral prefrontal cortex (dlPFC), which are positively correlated with degree of cognitive impairment. It is hypothesized that remyelination with shorter and thinner myelin sheaths partially compensates for myelin degradation, but computational modeling has not yet explored these two phenomena together systematically. Here, we used a two-pronged modeling approach to determine how age-related myelin changes affect a core cognitive function: spatial working memory. First, we built a multicompartment pyramidal neuron model fit to monkey dlPFC empirical data, with an axon including myelinated segments having paranodes, juxtaparanodes, internodes, and tight junctions. This model was used to quantify conduction velocity (CV) changes and action potential (AP) failures after demyelination and subsequent remyelination. Next, we incorporated the single neuron results into a spiking neural network model of working memory. While complete remyelination nearly recovered axonal transmission and network function to unperturbed levels, our models predict that biologically plausible levels of myelin dystrophy, if uncompensated by other factors, can account for substantial working memory impairment with aging. The present computational study unites empirical data from ultrastructure up to behavior during normal aging, and has broader implications for many demyelinating conditions, such as multiple sclerosis or schizophrenia.",
+  "authors": [
+    "Ibañez Sara",
+    "Sengupta Nilapratim",
+    "Luebke Jennifer I",
+    "Wimmer Klaus",
+    "Weaver Christina M"
+  ],
+  "journal": "eLife",
+  "year": "2024",
+  "doi": "10.7554/eLife.90964",
+  "mesh": [
+    "Memory, Short-Term",
+    "Animals",
+    "Myelin Sheath",
+    "Macaca mulatta",
+    "Aging",
+    "Prefrontal Cortex",
+    "Models, Neurological",
+    "Demyelinating Diseases",
+    "Action Potentials",
+    "Dorsolateral Prefrontal Cortex"
+  ]
+}

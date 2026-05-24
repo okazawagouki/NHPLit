@@ -1,0 +1,29 @@
+{
+  "pmid": "23366141",
+  "title": "A brain machine interface control algorithm designed from a feedback control perspective.",
+  "abstract": "We present a novel brain machine interface (BMI) control algorithm, the recalibrated feedback intention-trained Kalman filter (ReFIT-KF). The design of ReFIT-KF is motivated from a feedback control perspective applied to existing BMI control algorithms. The result is two design innovations that alter the modeling assumptions made by these algorithms and the methods by which these algorithms are trained. In online neural control experiments recording from a 96-electrode array implanted in M1 of a macaque monkey, the ReFIT-KF control algorithm demonstrates large performance improvements over the current state of the art velocity Kalman filter, reducing target acquisition time by a factor of two, while maintaining a 500 ms hold period, thereby increasing the clinical viability of BMI systems.",
+  "authors": [
+    "Gilja Vikash",
+    "Nuyujukian Paul",
+    "Chestek Cindy A",
+    "Cunningham John P",
+    "Yu Byron M",
+    "Fan Joline M",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2012",
+  "doi": "10.1109/EMBC.2012.6346180",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Biomechanical Phenomena",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Feedback",
+    "Macaca",
+    "Male"
+  ]
+}

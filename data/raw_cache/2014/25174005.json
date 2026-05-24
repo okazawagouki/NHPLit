@@ -1,0 +1,26 @@
+{
+  "pmid": "25174005",
+  "title": "Encoding and decoding in parietal cortex during sensorimotor decision-making.",
+  "abstract": "It has been suggested that the lateral intraparietal area (LIP) of macaques plays a fundamental role in sensorimotor decision-making. We examined the neural code in LIP at the level of individual spike trains using a statistical approach based on generalized linear models. We found that LIP responses reflected a combination of temporally overlapping task- and decision-related signals. Our model accounts for the detailed statistics of LIP spike trains and accurately predicts spike trains from task events on single trials. Moreover, we derived an optimal decoder for heterogeneous, multiplexed LIP responses that could be implemented in biologically plausible circuits. In contrast with interpretations of LIP as providing an instantaneous code for decision variables, we found that optimal decoding requires integrating LIP spikes over two distinct timescales. These analyses provide a detailed understanding of neural representations in LIP and a framework for studying the coding of multiplexed signals in higher brain areas.",
+  "authors": [
+    "Park Il Memming",
+    "Meister Miriam L R",
+    "Huk Alexander C",
+    "Pillow Jonathan W"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2014",
+  "doi": "10.1038/nn.3800",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Decision Making",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Parietal Lobe",
+    "Photic Stimulation"
+  ]
+}

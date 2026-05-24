@@ -1,0 +1,20 @@
+{
+  "pmid": "8912194",
+  "title": "Burst and oscillation as disparate neuronal properties.",
+  "abstract": "We have developed methods to detect and discern burst and oscillatory patterns of neuronal activity. In them, a burst period is defined as an interval in which there are a significantly higher number of spikes as compared to other intervals in the spike train. Oscillation is defined as a spike train in which significant periodicity is detected in its autocorrelogram. The main feature of our burst detection method is that discharge density (i.e., the number of spikes in a short interval) is used instead of the interspike interval. This enables one to assess the likelihood of having burst periods in a spike train. We use the Lomb periodogram to detect periodicity in an autocorrelogram. This method gives one significance of periodicity detected and enables the detection of multiple frequencies in an autocorrelogram. The advantage of these methods is discussed in comparison with the other methods used to detect bursting and oscillatory activity.",
+  "authors": [
+    "Kaneoke Y",
+    "Vitek J L"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "1996",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Globus Pallidus",
+    "Humans",
+    "Macaca",
+    "Neurons",
+    "Thalamus"
+  ]
+}

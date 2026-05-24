@@ -1,0 +1,17 @@
+{
+  "pmid": "24352611",
+  "title": "Spiking Neural Network Decoder for Brain-Machine Interfaces.",
+  "abstract": "We used a spiking neural network (SNN) to decode neural data recorded from a 96-electrode array in premotor/motor cortex while a rhesus monkey performed a point-to-point reaching arm movement task. We mapped a Kalman-filter neural prosthetic decode algorithm developed to predict the arm's velocity on to the SNN using the Neural Engineering Framework and simulated it using <i>Nengo</i>, a freely available software package. A 20,000-neuron network matched the standard decoder's prediction to within 0.03% (normalized by maximum arm velocity). A 1,600-neuron version of this network was within 0.27%, and run in real-time on a 3GHz PC. These results demonstrate that a SNN can implement a statistical signal processing algorithm widely used as the decoder in high-performance neural prostheses (Kalman filter), and achieve similar results with just a few thousand neurons. Hardware SNN implementations-neuromorphic chips-may offer power savings, essential for realizing fully-implantable cortically controlled prostheses.",
+  "authors": [
+    "Dethier Julie",
+    "Gilja Vikash",
+    "Nuyujukian Paul",
+    "Elassaad Shauki A",
+    "Shenoy Krishna V",
+    "Boahen Kwabena"
+  ],
+  "journal": "International IEEE/EMBS Conference on Neural Engineering : [proceedings]. International IEEE EMBS Conference on Neural Engineering",
+  "year": "2011",
+  "doi": "10.1109/NER.2011.5910570",
+  "mesh": []
+}

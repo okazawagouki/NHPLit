@@ -1,0 +1,23 @@
+{
+  "pmid": "21096635",
+  "title": "System identification of local field potentials under deep brain stimulation in a healthy primate.",
+  "abstract": "High frequency (HF) Deep Brain Stimulation (DBS) in the Sub-Thalamic Nucleus (STN) is a clinically recognized therapy for the treatment of motor disorders in Parkinson Disease (PD). The underlying mechanisms of DBS and how it impacts neighboring nuclei, however, are not yet completely understood. Electrophysiological data has been collected in PD patients and primates to better understand the impact of DBS on STN and the entire Basal Ganglia (BG) motor circuit. We use single unit recordings from Globus Pallidus, both pars interna and externa segments (GPi and GPe) in the BG, in a normal primate before and after DBS to reconstruct Local Field Potentials (LFPs) in the region. We then use system identification techniques to understand how GPe LFP activity and the DBS signal applied to STN influence GPi LFP activity. Our models suggest that when no stimulation is applied, the GPe LFPs have an inhibitory effect on GPi LFPs with a 2-3 ms delay, as is the case for single unit neuronal activity. On the other hand, when DBS is ON the models suggest that stimulation has a dominant effect on GPi LFPs which mask the inhibitory effects of GPe.",
+  "authors": [
+    "Pedoto Gilda",
+    "Santaniello Sabato",
+    "Montgomery Erwin B",
+    "Gale John T",
+    "Fiengo Giovanni",
+    "Glielmo Luigi",
+    "Sarma Sridevi V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2010",
+  "doi": "10.1109/IEMBS.2010.5627356",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Deep Brain Stimulation",
+    "Parkinson Disease"
+  ]
+}

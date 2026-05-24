@@ -1,0 +1,25 @@
+{
+  "pmid": "25909328",
+  "title": "Quantifying spike train oscillations: biases, distortions and solutions.",
+  "abstract": "Estimation of the power spectrum is a common method for identifying oscillatory changes in neuronal activity. However, the stochastic nature of neuronal activity leads to severe biases in the estimation of these oscillations in single unit spike trains. Different biological and experimental factors cause the spike train to differentially reflect its underlying oscillatory rate function. We analyzed the effect of factors, such as the mean firing rate and the recording duration, on the detectability of oscillations and their significance, and tested these theoretical results on experimental data recorded in Parkinsonian non-human primates. The effect of these factors is dramatic, such that in some conditions, the detection of existing oscillations is impossible. Moreover, these biases impede the comparison of oscillations across brain regions, neuronal types, behavioral states and separate recordings with different underlying parameters, and lead inevitably to a gross misinterpretation of experimental results. We introduce a novel objective measure, the \"modulation index\", which overcomes these biases, and enables reliable detection of oscillations from spike trains and a direct estimation of the oscillation magnitude. The modulation index detects a high percentage of oscillations over a wide range of parameters, compared to classical spectral analysis methods, and enables an unbiased comparison between spike trains recorded from different neurons and using different experimental protocols.",
+  "authors": [
+    "Matzner Ayala",
+    "Bar-Gad Izhar"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2015",
+  "doi": "10.1371/journal.pcbi.1004252",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Artifacts",
+    "Biological Clocks",
+    "Brain",
+    "Electroencephalography",
+    "Macaca fascicularis",
+    "Parkinson Disease",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity"
+  ]
+}

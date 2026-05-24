@@ -1,0 +1,22 @@
+{
+  "pmid": "39898793",
+  "title": "An emerging view of neural geometry in motor cortex supports high-performance decoding.",
+  "abstract": "Decoders for brain-computer interfaces (BCIs) assume constraints on neural activity, chosen to reflect scientific beliefs while yielding tractable computations. Recent scientific advances suggest that the true constraints on neural activity, especially its geometry, may be quite different from those assumed by most decoders. We designed a decoder, MINT, to embrace statistical constraints that are potentially more appropriate. If those constraints are accurate, MINT should outperform standard methods that explicitly make different assumptions. Additionally, MINT should be competitive with expressive machine learning methods that can implicitly learn constraints from data. MINT performed well across tasks, suggesting its assumptions are well-matched to the data. MINT outperformed other interpretable methods in every comparison we made. MINT outperformed expressive machine learning methods in 37 of 42 comparisons. MINT's computations are simple, scale favorably with increasing neuron counts, and yield interpretable quantities such as data likelihoods. MINT's performance and simplicity suggest it may be a strong candidate for many BCI applications.",
+  "authors": [
+    "Perkins Sean M",
+    "Amematsro Elom A",
+    "Cunningham John",
+    "Wang Qi",
+    "Churchland Mark M"
+  ],
+  "journal": "eLife",
+  "year": "2025",
+  "doi": "10.7554/eLife.89421",
+  "mesh": [
+    "Motor Cortex",
+    "Brain-Computer Interfaces",
+    "Machine Learning",
+    "Humans",
+    "Neurons"
+  ]
+}

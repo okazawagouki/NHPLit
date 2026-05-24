@@ -1,0 +1,24 @@
+{
+  "pmid": "24138794",
+  "title": "Computer-assisted counting of retinal cells by automatic segmentation after TV denoising.",
+  "abstract": "BACKGROUND: Quantitative evaluation of mosaics of photoreceptors and neurons is essential in studies on development, aging and degeneration of the retina. Manual counting of samples is a time consuming procedure while attempts to automatization are subject to various restrictions from biological and preparation variability leading to both over- and underestimation of cell numbers. Here we present an adaptive algorithm to overcome many of these problems.Digital micrographs were obtained from cone photoreceptor mosaics visualized by anti-opsin immuno-cytochemistry in retinal wholemounts from a variety of mammalian species including primates. Segmentation of photoreceptors (from background, debris, blood vessels, other cell types) was performed by a procedure based on Rudin-Osher-Fatemi total variation (TV) denoising. Once 3 parameters are manually adjusted based on a sample, similarly structured images can be batch processed. The module is implemented in MATLAB and fully documented online. RESULTS: The object recognition procedure was tested on samples with a typical range of signal and background variations. We obtained results with error ratios of less than 10% in 16 of 18 samples and a mean error of less than 6% compared to manual counts. CONCLUSIONS: The presented method provides a traceable module for automated acquisition of retinal cell density data. Remaining errors, including addition of background items, splitting or merging of objects might be further reduced by introduction of additional parameters. The module may be integrated into extended environments with features such as 3D-acquisition and recognition.",
+  "authors": [
+    "Bredies Kristian",
+    "Wagner Marcus",
+    "Schubert Christian",
+    "Ahnelt Peter"
+  ],
+  "journal": "BMC ophthalmology",
+  "year": "2013",
+  "doi": "10.1186/1471-2415-13-59",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artificial Intelligence",
+    "Image Interpretation, Computer-Assisted",
+    "Mammals",
+    "Pattern Recognition, Automated",
+    "Photoreceptor Cells, Vertebrate",
+    "Retinoscopy"
+  ]
+}

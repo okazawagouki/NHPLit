@@ -1,0 +1,14 @@
+{
+  "pmid": "22826698",
+  "title": "Reprogramming movements: extraction of motor intentions from cortical ensemble activity when movement goals change.",
+  "abstract": "The ability to inhibit unwanted movements and change motor plans is essential for behaviors of advanced organisms. The neural mechanisms by which the primate motor system rejects undesired actions have received much attention during the last decade, but it is not well understood how this neural function could be utilized to improve the efficiency of brain-machine interfaces (BMIs). Here we employed linear discriminant analysis (LDA) and a Wiener filter to extract motor plan transitions from the activity of ensembles of sensorimotor cortex neurons. Two rhesus monkeys, chronically implanted with multielectrode arrays in primary motor (M1) and primary sensory (S1) cortices, were overtrained to produce reaching movements with a joystick toward visual targets upon their presentation. Then, the behavioral task was modified to include a distracting target that flashed for 50, 150, or 250 ms (25% of trials each) followed by the true target that appeared at a different screen location. In the remaining 25% of trials, the initial target stayed on the screen and was the target to be approached. M1 and S1 neuronal activity represented both the true and distracting targets, even for the shortest duration of the distracting event. This dual representation persisted both when the monkey initiated movements toward the distracting target and then made corrections and when they moved directly toward the second, true target. The Wiener filter effectively decoded the location of the true target, whereas the LDA classifier extracted the location of both targets from ensembles of 50-250 neurons. Based on these results, we suggest developing real-time BMIs that inhibit unwanted movements represented by brain activity while enacting the desired motor outcome concomitantly.",
+  "authors": [
+    "Ifft Peter J",
+    "Lebedev Mikhail A",
+    "Nicolelis Miguel A L"
+  ],
+  "journal": "Frontiers in neuroengineering",
+  "year": "2012",
+  "doi": "10.3389/fneng.2012.00016",
+  "mesh": []
+}

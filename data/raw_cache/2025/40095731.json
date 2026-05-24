@@ -1,0 +1,26 @@
+{
+  "pmid": "40095731",
+  "title": "Machine Learning-Based Clustering of Layer-Resolved fMRI Activation and Functional Connectivity Within the Primary Somatosensory Cortex in Nonhuman Primates.",
+  "abstract": "Delineating the functional organization of mesoscale cortical columnar structure is essential for understanding brain function. We have previously demonstrated a high spatial correspondence between BOLD fMRI and LFP responses to tactile stimuli in the primary somatosensory cortex area 3b of nonhuman primates. This study aims to explore how 2D spatial profiles of the functional column vary across cortical layers (defined by three cortical depths) in both tactile stimulation and resting states using fMRI. At 9.4 T, we acquired submillimeter-resolution oblique fMRI data from cortical areas 3b and 1 of anesthetized squirrel monkeys and obtained fMRI signals from three cortical layers. In both areas 3b and 1, the tactile stimulus-evoked fMRI activation foci were fitted with point spread functions (PSFs), from which shape parameters, including full width at half maximum (FWHM), were derived. Seed-based resting-state fMRI data analysis was then performed to measure the spatial profiles of resting-state connectivity within and between areas 3b and 1. We found that the tactile-evoked fMRI response and local resting-state functional connectivity were elongated at the superficial layer, with the major axes oriented in lateral to medial (from digit 1 to digit 5) direction. This elongation was significantly reduced in the deeper (middle and bottom) layers. To assess the robustness of these spatial profiles in distinguishing cortical layers, shape parameters describing the spatial extents of activation and resting-state connectivity profiles were used to classify the layers via self-organizing maps (SOM). A minimal overall classification error (~13%) was achieved, effectively classifying the layers into two groups: the superficial layer exhibited distinct features from the two deeper layers in the rsfMRI data. Our results support distinct 2D spatial profiles for superficial versus deeper cortical layers and reveal similarities between stimulus-evoked and resting-state configurations.",
+  "authors": [
+    "Mishra Arabinda",
+    "Wang Feng",
+    "Chen Li Min",
+    "Gore John C"
+  ],
+  "journal": "Human brain mapping",
+  "year": "2025",
+  "doi": "10.1002/hbm.70193",
+  "mesh": [
+    "Animals",
+    "Magnetic Resonance Imaging",
+    "Somatosensory Cortex",
+    "Saimiri",
+    "Machine Learning",
+    "Touch Perception",
+    "Male",
+    "Nerve Net",
+    "Connectome",
+    "Female"
+  ]
+}

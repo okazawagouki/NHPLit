@@ -1,0 +1,22 @@
+{
+  "pmid": "35879872",
+  "title": "Intrinsic threshold plasticity: cholinergic activation and role in the neuronal recognition of incomplete input patterns.",
+  "abstract": "Activity-dependent changes in membrane excitability are observed in neurons across brain areas and represent a cell-autonomous form of plasticity (intrinsic plasticity; IP) that in itself does not involve alterations in synaptic strength (synaptic plasticity; SP). Non-homeostatic IP may play an essential role in learning, e.g. by changing the action potential threshold near the soma. A computational problem, however, arises from the implication that such amplification does not discriminate between synaptic inputs and therefore may reduce the resolution of input representation. Here, we investigate consequences of IP for the performance of an artificial neural network in (a) the discrimination of unknown input patterns and (b) the recognition of known/learned patterns. While negative changes in threshold potentials in the output layer indeed reduce its ability to discriminate patterns, they benefit the recognition of known but incompletely presented patterns. An analysis of thresholds and IP-induced threshold changes in published sets of physiological data obtained from whole-cell patch-clamp recordings from L2/3 pyramidal neurons in (a) the primary visual cortex (V1) of awake macaques and (b) the primary somatosensory cortex (S1) of mice in vitro, respectively, reveals a difference between resting and threshold potentials of ∼15 mV for V1 and ∼25 mV for S1, and a total plasticity range of ∼10 mV (S1). The most efficient activity pattern to lower threshold is paired cholinergic and electric activation. Our findings show that threshold reduction promotes a shift in neural coding strategies from accurate faithful representation to interpretative assignment of input patterns to learned object categories. KEY POINTS: Intrinsic plasticity may change the action potential threshold near the soma of neurons (threshold plasticity), thus altering the input-output function for all synaptic inputs 'upstream' of the plasticity location. A potential problem arising from this shared amplification is that it may reduce the ability to discriminate between different input patterns. Here, we assess the performance of an artificial neural network in the discrimination of unknown input patterns as well as the recognition of known patterns subsequent to changes in the spike threshold. We observe that negative changes in threshold potentials do reduce discrimination performance, but at the same time improve performance in an object recognition task, in particular when patterns are incompletely presented. Analysis of whole-cell patch-clamp recordings from pyramidal neurons in the primary somatosensory cortex (S1) of mice reveals that negative threshold changes preferentially result from electric stimulation of neurons paired with the activation of muscarinic acetylcholine receptors.",
+  "authors": [
+    "Pham Tuan",
+    "Hansel Christian"
+  ],
+  "journal": "The Journal of physiology",
+  "year": "2023",
+  "doi": "10.1113/JP283473",
+  "mesh": [
+    "Mice",
+    "Animals",
+    "Neurons",
+    "Pyramidal Cells",
+    "Action Potentials",
+    "Cell Communication",
+    "Electric Stimulation",
+    "Neuronal Plasticity"
+  ]
+}

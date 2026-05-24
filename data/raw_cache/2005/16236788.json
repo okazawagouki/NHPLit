@@ -1,0 +1,28 @@
+{
+  "pmid": "16236788",
+  "title": "Power-law neuronal fluctuations in a recurrent network model of parametric working memory.",
+  "abstract": "In a working memory system, persistent activity maintains information in the absence of external stimulation, therefore the time scale and structure of correlated neural fluctuations reflect the intrinsic microcircuit dynamics rather than direct responses to sensory inputs. Here we show that a parametric working memory model capable of graded persistent activity is characterized by arbitrarily long correlation times, with Fano factors and power spectra of neural activity described by the power laws of a random walk. Collective drifts of the mnemonic firing pattern induce long-term noise correlations between pairs of cells, with the sign (positive or negative) and amplitude proportional to the product of the gradients of their tuning curves. None of the power-law behavior was observed in a variant of the model endowed with discrete bistable neural groups, where noise fluctuations were unable to cause long-term changes in rate. Therefore such behavior can serve as a probe for a quasi-continuous attractor. We propose that the unusual correlated fluctuations have important implications for neural coding in parametric working memory circuits.",
+  "authors": [
+    "Miller Paul",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Biological Clocks",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Feedback",
+    "Macaca",
+    "Memory",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Nerve Net",
+    "Neurons",
+    "Numerical Analysis, Computer-Assisted",
+    "Synaptic Transmission"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pmid": "15298789",
+  "title": "Optimizing a linear algorithm for real-time robotic control using chronic cortical ensemble recordings in monkeys.",
+  "abstract": "Previous work in our laboratory has demonstrated that a simple linear model can be used to translate cortical neuronal activity into real-time motor control commands that allow a robot arm to mimic the intended hand movements of trained primates. Here, we describe the results of a comprehensive analysis of the contribution of single cortical neurons to this linear model. Key to the operation of this model was the observation that a large percentage of cortical neurons located in both frontal and parietal cortical areas are tuned for hand position. In most neurons, hand position tuning was time-dependent, varying continuously during a 1-sec period before hand movement onset. The relevance of this physiological finding was demonstrated by showing that maximum contribution of individual neurons to the linear model was only achieved when optimal parameters for the impulse response functions describing time-varying neuronal position tuning were selected. Optimal parameters included impulse response functions with 1.0- to 1.4-sec time length and 50- to 100-msec bins. Although reliable generalization and long-term predictions (60-90 min) could be achieved after 10-min training sessions, we noticed that the model performance degraded over long periods. Part of this degradation was accounted by the observation that neuronal position tuning varied significantly throughout the duration (60-90 min) of a recording session. Altogether, these results indicate that the experimental paradigm described here may be useful not only to investigate aspects of neural population coding, but it may also provide a test bed for the development of clinically useful cortical prosthetic devices aimed at restoring motor functions in severely paralyzed patients.",
+  "authors": [
+    "Wessberg Johan",
+    "Nicolelis Miguel A L"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Aotidae",
+    "Arm",
+    "Biomechanical Phenomena",
+    "Electrophysiology",
+    "Functional Laterality",
+    "Hand",
+    "Linear Models",
+    "Models, Neurological",
+    "Motor Activity",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Movement",
+    "Psychomotor Performance",
+    "Reaction Time",
+    "Robotics",
+    "Space Perception",
+    "Time Factors"
+  ]
+}

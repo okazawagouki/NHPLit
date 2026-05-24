@@ -1,0 +1,32 @@
+{
+  "pmid": "34253629",
+  "title": "Predicting Identity-Preserving Object Transformations across the Human Ventral Visual Stream.",
+  "abstract": "In everyday life, we have no trouble categorizing objects varying in position, size, and orientation. Previous fMRI research shows that higher-level object processing regions in the human lateral occipital cortex may link object responses from different affine states (i.e., size and viewpoint) through a general linear mapping function capable of predicting responses to novel objects. In this study, we extended this approach to examine the mapping for both Euclidean (e.g., position and size) and non-Euclidean (e.g., image statistics and spatial frequency) transformations across the human ventral visual processing hierarchy, including areas V1, V2, V3, V4, ventral occipitotemporal cortex, and lateral occipitotemporal cortex. The predicted pattern generated from a linear mapping function could capture a significant amount of the changes associated with the transformations throughout the ventral visual stream. The derived linear mapping functions were not category independent as performance was better for the categories included than those not included in training and better between two similar versus two dissimilar categories in both lower and higher visual regions. Consistent with object representations being stronger in higher than in lower visual regions, pattern selectivity and object category representational structure were somewhat better preserved in the predicted patterns in higher than in lower visual regions. There were no notable differences between Euclidean and non-Euclidean transformations. These findings demonstrate a near-orthogonal representation of object identity and these nonidentity features throughout the human ventral visual processing pathway with these nonidentity features largely untangled from the identity features early in visual processing.<b>SIGNIFICANCE STATEMENT</b> Presently we still do not fully understand how object identity and nonidentity (e.g., position, size) information are simultaneously represented in the primate ventral visual system to form invariant representations. Previous work suggests that the human lateral occipital cortex may be linking different affine states of object representations through general linear mapping functions. Here, we show that across the entire human ventral processing pathway, we could link object responses in different states of nonidentity transformations through linear mapping functions for both Euclidean and non-Euclidean transformations. These mapping functions are not identity independent, suggesting that object identity and nonidentity features are represented in a near rather than a completely orthogonal manner.",
+  "authors": [
+    "Mocz Viola",
+    "Vaziri-Pashkam Maryam",
+    "Chun Marvin M",
+    "Xu Yaoda"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2021",
+  "doi": "10.1523/JNEUROSCI.2137-20.2021",
+  "mesh": [
+    "Adolescent",
+    "Adult",
+    "Animals",
+    "Brain Mapping",
+    "Facial Recognition",
+    "Female",
+    "Household Articles",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Occipital Lobe",
+    "Pattern Recognition, Visual",
+    "Temporal Lobe",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Young Adult"
+  ]
+}

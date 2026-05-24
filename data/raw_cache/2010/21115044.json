@@ -1,0 +1,22 @@
+{
+  "pmid": "21115044",
+  "title": "Towards statistical summaries of spike train data.",
+  "abstract": "Statistical inference has an important role in analysis of neural spike trains. While current approaches are mostly model-based, and designed for capturing the temporal evolution of the underlying stochastic processes, we focus on a data-driven approach where statistics are defined and computed in function spaces where individual spike trains are viewed as points. The first contribution of this paper is to endow spike train space with a parameterized family of metrics that takes into account different time warpings and generalizes several currently used metrics. These metrics are essentially penalized L(p) norms, involving appropriate functions of spike trains, with penalties associated with time-warpings. The second contribution of this paper is to derive a notion of a mean spike train in the case when p=2. We present an efficient recursive algorithm, termed Matching-Minimization algorithm, to compute the sample mean of a set of spike trains. The proposed metrics as well as the mean computations are demonstrated using an experimental recording from the motor cortex.",
+  "authors": [
+    "Wu Wei",
+    "Srivastava Anuj"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2011",
+  "doi": "10.1016/j.jneumeth.2010.11.012",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Macaca",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neural Conduction",
+    "Neurons",
+    "Stochastic Processes"
+  ]
+}

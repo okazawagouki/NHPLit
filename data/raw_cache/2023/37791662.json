@@ -1,0 +1,30 @@
+{
+  "pmid": "37791662",
+  "title": "Optogenetic activation of visual thalamus generates artificial visual percepts.",
+  "abstract": "The lateral geniculate nucleus (LGN), a retinotopic relay center where visual inputs from the retina are processed and relayed to the visual cortex, has been proposed as a potential target for artificial vision. At present, it is unknown whether optogenetic LGN stimulation is sufficient to elicit behaviorally relevant percepts, and the properties of LGN neural responses relevant for artificial vision have not been thoroughly characterized. Here, we demonstrate that tree shrews pretrained on a visual detection task can detect optogenetic LGN activation using an AAV2-CamKIIα-ChR2 construct and readily generalize from visual to optogenetic detection. Simultaneous recordings of LGN spiking activity and primary visual cortex (V1) local field potentials (LFPs) during optogenetic LGN stimulation show that LGN neurons reliably follow optogenetic stimulation at frequencies up to 60 Hz and uncovered a striking phase locking between the V1 LFP and the evoked spiking activity in LGN. These phase relationships were maintained over a broad range of LGN stimulation frequencies, up to 80 Hz, with spike field coherence values favoring higher frequencies, indicating the ability to relay temporally precise information to V1 using light activation of the LGN. Finally, V1 LFP responses showed sensitivity values to LGN optogenetic activation that were similar to the animal's behavioral performance. Taken together, our findings confirm the LGN as a potential target for visual prosthetics in a highly visual mammal closely related to primates.",
+  "authors": [
+    "Wang Jing",
+    "Azimi Hamid",
+    "Zhao Yilei",
+    "Kaeser Melanie",
+    "Vaca Sánchez Pilar",
+    "Vazquez-Guardado Abraham",
+    "Rogers John A",
+    "Harvey Michael",
+    "Rainer Gregor"
+  ],
+  "journal": "eLife",
+  "year": "2023",
+  "doi": "10.7554/eLife.90431",
+  "mesh": [
+    "Animals",
+    "Optogenetics",
+    "Thalamus",
+    "Geniculate Bodies",
+    "Vision, Ocular",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Pathways",
+    "Mammals"
+  ]
+}

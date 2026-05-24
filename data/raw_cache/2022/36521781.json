@@ -1,0 +1,28 @@
+{
+  "pmid": "36521781",
+  "title": "Parkinsonian daytime sleep-wake classification using deep brain stimulation lead recordings.",
+  "abstract": "Excessive daytime sleepiness is a recognized non-motor symptom that adversely impacts the quality of life of people with Parkinson's disease (PD), yet effective treatment options remain limited. Deep brain stimulation (DBS) of the subthalamic nucleus (STN) is an effective treatment for PD motor signs. Reliable daytime sleep-wake classification using local field potentials (LFPs) recorded from DBS leads implanted in STN can inform the development of closed-loop DBS approaches for prompt detection and disruption of sleep-related neural oscillations. We performed STN DBS lead recordings in three nonhuman primates rendered parkinsonian by administrating neurotoxin 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP). Reference sleep-wake states were determined on a second-by-second basis by video monitoring of eyes (eyes-open, wake and eyes-closed, sleep). The spectral power in delta (1-4 Hz), theta (4-8 Hz), low-beta (8-20 Hz), high-beta (20-35 Hz), gamma (35-90 Hz), and high-frequency (200-400 Hz) bands were extracted from each wake and sleep epochs for training (70% data) and testing (30% data) a support vector machines classifier for each subject independently. The spectral features yielded reasonable daytime sleep-wake classification (sensitivity: 90.68 ± 1.28; specificity: 88.16 ± 1.08; accuracy: 89.42 ± 0.68; positive predictive value; 88.70 ± 0.89, n = 3). Our findings support the plausibility of monitoring daytime sleep-wake states using DBS lead recordings. These results could have future clinical implications in informing the development of closed-loop DBS approaches for automatic detection and disruption of sleep-related neural oscillations in people with PD to promote wakefulness.",
+  "authors": [
+    "Verma Ajay K",
+    "Yu Ying",
+    "Acosta-Lenis Sergio F",
+    "Havel Tyler",
+    "Sanabria David Escobar",
+    "Molnar Gregory F",
+    "MacKinnon Colum D",
+    "Howell Michael J",
+    "Vitek Jerrold L",
+    "Johnson Luke A"
+  ],
+  "journal": "Neurobiology of disease",
+  "year": "2023",
+  "doi": "10.1016/j.nbd.2022.105963",
+  "mesh": [
+    "Animals",
+    "Deep Brain Stimulation",
+    "Quality of Life",
+    "Subthalamic Nucleus",
+    "Sleep",
+    "Parkinson Disease"
+  ]
+}

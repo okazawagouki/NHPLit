@@ -1,0 +1,28 @@
+{
+  "pmid": "16381807",
+  "title": "Do cortical neurons process luminance or contrast to encode surface properties?",
+  "abstract": "On the one hand, contrast signals provide information about surface properties, such as reflectance, and patchy illumination conditions, such as shadows. On the other hand, processing of luminance signals may provide information about global light levels, such as the difference between sunny and cloudy days. We devised models of contrast and luminance processing, using principles of logarithmic signal coding and half-wave rectification. We fit each model to individual response profiles obtained from 67 surface-responsive macaque V1 neurons in a center-surround paradigm similar to those used in human psychophysical studies. The most general forms of the luminance and contrast models explained, on average, 73 and 87% of the response variance over the sample population, respectively. We used a statistical technique, known as Akaike's information criterion, to quantify goodness of fit relative to number of model parameters, giving the relative probability of each model being correct. Luminance models, having fewer parameters than contrast models, performed substantially better in the vast majority of neurons, whereas contrast models performed similarly well in only a small minority of neurons. These results suggest that the processing of local and mean scene luminance predominates over contrast integration in surface-responsive neurons of the primary visual cortex. The sluggish dynamics of luminance-related cortical activity may provide a neural basis for the recent psychophysical demonstration that luminance information dominates brightness perception at low temporal frequencies.",
+  "authors": [
+    "Vladusich Tony",
+    "Lucassen Marcel P",
+    "Cornelissen Frans W"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Contrast Sensitivity",
+    "Evoked Potentials, Visual",
+    "Form Perception",
+    "Luminescence",
+    "Macaca",
+    "Models, Neurological",
+    "Models, Theoretical",
+    "Neurons, Afferent",
+    "Probability",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

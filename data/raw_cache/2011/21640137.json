@@ -1,0 +1,26 @@
+{
+  "pmid": "21640137",
+  "title": "Dynamic linear model analysis of optical imaging data acquired from the human neocortex.",
+  "abstract": "The amount of light absorbed and scattered by neocortical tissue is altered by neuronal activity. Imaging of intrinsic optical signals (ImIOS), a technique for mapping these activity-evoked optical changes with an imaging detector, has the potential to be useful for both clinical and experimental investigations of the human neocortex. However, its usefulness for human studies is currently limited because intraoperatively acquired ImIOS data is noisy. To improve the reliability and usefulness of ImIOS for human studies, it is desirable to find appropriate methods for the removal of noise artifacts and its statistical analysis. Here we develop a Bayesian, dynamic linear modeling approach that appears to address these problems. A dynamic linear model (DLM) was constructed that included cyclic components to model the heartbeat and respiration artifacts, and a local linear component to model the activity-evoked response. The robustness of the model was tested on a set of ImIOS data acquired from the exposed cortices of six human subjects illuminated with either 535nm or 660nm light. The DLM adequately reduced noise artifacts in these data while reliably preserving their activity-evoked optical responses. To demonstrate how these methods might be used for intraoperative neurosurgical mapping, optical data acquired from a single human subject during direct electrical stimulation of the cortex were quantitatively analyzed. This example showed that the DLM can be used to provide quantitative information about human ImIOS data that is not available through qualitative analysis alone.",
+  "authors": [
+    "Lavine Michael",
+    "Haglund Michael M",
+    "Hochman Daryl W"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2011",
+  "doi": "10.1016/j.jneumeth.2011.05.017",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Female",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Linear Models",
+    "Macaca nemestrina",
+    "Male",
+    "Models, Neurological",
+    "Neocortex",
+    "Voltage-Sensitive Dye Imaging"
+  ]
+}

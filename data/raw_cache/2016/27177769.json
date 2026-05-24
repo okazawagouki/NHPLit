@@ -1,0 +1,24 @@
+{
+  "pmid": "27177769",
+  "title": "Neural correlate of spatial (mis-)localization during smooth eye movements.",
+  "abstract": "The dependence of neuronal discharge on the position of the eyes in the orbit is a functional characteristic of many visual cortical areas of the macaque. It has been suggested that these eye-position signals provide relevant information for a coordinate transformation of visual signals into a non-eye-centered frame of reference. This transformation could be an integral part for achieving visual perceptual stability across eye movements. Previous studies demonstrated close to veridical eye-position decoding during stable fixation as well as characteristic erroneous decoding across saccadic eye-movements. Here we aimed to decode eye position during smooth pursuit. We recorded neural activity in macaque area VIP during steady fixation, saccades and smooth-pursuit and investigated the temporal and spatial accuracy of eye position as decoded from the neuronal discharges. Confirming previous results, the activity of the majority of neurons depended linearly on horizontal and vertical eye position. The application of a previously introduced computational approach (isofrequency decoding) allowed eye position decoding with considerable accuracy during steady fixation. We applied the same decoder on the activity of the same neurons during smooth-pursuit. On average, the decoded signal was leading the current eye position. A model combining this constant lead of the decoded eye position with a previously described attentional bias ahead of the pursuit target describes the asymmetric mislocalization pattern for briefly flashed stimuli during smooth pursuit eye movements as found in human behavioral studies.",
+  "authors": [
+    "Dowiasch Stefan",
+    "Blohm Gunnar",
+    "Bremmer Frank"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "2016",
+  "doi": "10.1111/ejn.13276",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Brain",
+    "Evoked Potentials, Visual",
+    "Macaca",
+    "Neurons",
+    "Pursuit, Smooth",
+    "Saccades",
+    "Space Perception"
+  ]
+}

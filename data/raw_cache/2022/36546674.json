@@ -1,0 +1,29 @@
+{
+  "pmid": "36546674",
+  "title": "A generalizable brain extraction net (BEN) for multimodal MRI data from rodents, nonhuman primates, and humans.",
+  "abstract": "Accurate brain tissue extraction on magnetic resonance imaging (MRI) data is crucial for analyzing brain structure and function. While several conventional tools have been optimized to handle human brain data, there have been no generalizable methods to extract brain tissues for multimodal MRI data from rodents, nonhuman primates, and humans. Therefore, developing a flexible and generalizable method for extracting whole brain tissue across species would allow researchers to analyze and compare experiment results more efficiently. Here, we propose a domain-adaptive and semi-supervised deep neural network, named the Brain Extraction Net (BEN), to extract brain tissues across species, MRI modalities, and MR scanners. We have evaluated BEN on 18 independent datasets, including 783 rodent MRI scans, 246 nonhuman primate MRI scans, and 4601 human MRI scans, covering five species, four modalities, and six MR scanners with various magnetic field strengths. Compared to conventional toolboxes, the superiority of BEN is illustrated by its robustness, accuracy, and generalizability. Our proposed method not only provides a generalized solution for extracting brain tissue across species but also significantly improves the accuracy of atlas registration, thereby benefiting the downstream processing tasks. As a novel fully automated deep-learning method, BEN is designed as an open-source software to enable high-throughput processing of neuroimaging data across species in preclinical and clinical applications.",
+  "authors": [
+    "Yu Ziqi",
+    "Han Xiaoyang",
+    "Xu Wenjing",
+    "Zhang Jie",
+    "Marr Carsten",
+    "Shen Dinggang",
+    "Peng Tingying",
+    "Zhang Xiao-Yong",
+    "Feng Jianfeng"
+  ],
+  "journal": "eLife",
+  "year": "2022",
+  "doi": "10.7554/eLife.81217",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Brain",
+    "Head",
+    "Neuroimaging",
+    "Primates",
+    "Image Processing, Computer-Assisted"
+  ]
+}

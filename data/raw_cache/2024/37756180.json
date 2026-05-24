@@ -1,0 +1,20 @@
+{
+  "pmid": "37756180",
+  "title": "Efficient Estimation of Directed Connectivity in Nonlinear and Nonstationary Spiking Neuron Networks.",
+  "abstract": "OBJECTIVE: Studying directed connectivity within spiking neuron networks can help understand neural mechanisms. Existing methods assume linear time-invariant neural dynamics with a fixed time lag in information transmission, while spiking networks usually involve complex dynamics that are nonlinear and nonstationary, and have varying time lags. METHODS: We develop a Gated Recurrent Unit (GRU)-Point Process (PP) method to estimate directed connectivity within spiking networks. We use a GRU to describe the dependency of the target neuron's current firing rate on the source neurons' past spiking events and a PP to relate the target neuron's firing rate to its current 0-1 spiking event. The GRU model uses recurrent states and gate/activation functions to deal with varying time lags, nonlinearity, and nonstationarity in a parameter-efficient manner. We estimate the model using maximum likelihood and compute directed information as our measure of directed connectivity. RESULTS: We conduct simulations using artificial spiking networks and a biophysical model of Parkinson's disease to show that GRU-PP systematically addresses varying time lags, nonlinearity, and nonstationarity, and estimates directed connectivity with high accuracy and data efficiency. We also use a non-human-primate dataset to show that GRU-PP correctly identifies the biophysically-plausible stronger PMd-to-M1 connectivity than M1-to-PMd connectivity during reaching. In all experiments, the GRU-PP consistently outperforms state-of-the-art methods. CONCLUSION: The GRU-PP method efficiently estimates directed connectivity in varying time lag, nonlinear, and nonstationary spiking neuron networks. SIGNIFICANCE: The proposed method can serve as a directed connectivity analysis tool for investigating complex spiking neuron network dynamics.",
+  "authors": [
+    "Chen Wenjun",
+    "Wang Yueming",
+    "Yang Yuxiao"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2024",
+  "doi": "10.1109/TBME.2023.3319956",
+  "mesh": [
+    "Animals",
+    "Action Potentials",
+    "Neurons",
+    "Parkinson Disease",
+    "Models, Neurological"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pmid": "24624066",
+  "title": "Computational modeling and analysis of hippocampal-prefrontal information coding during a spatial decision-making task.",
+  "abstract": "We introduce a computational model describing rat behavior and the interactions of neural populations processing spatial and mnemonic information during a maze-based, decision-making task. The model integrates sensory input and implements working memory to inform decisions at a choice point, reproducing rat behavioral data and predicting the occurrence of turn- and memory-dependent activity in neuronal networks subserving task performance. We tested these model predictions using a new software toolbox (Maze Query Language, MQL) to analyse activity of medial prefrontal cortical (mPFC) and dorsal hippocampal (dCA1) neurons recorded from six adult rats during task performance. The firing rates of dCA1 neurons discriminated context (i.e., the direction of the previous turn), whilst a subset of mPFC neurons was selective for current turn direction or context, with some conjunctively encoding both. mPFC turn-selective neurons displayed a ramping of activity on approach to the decision turn and turn-selectivity in mPFC was significantly reduced during error trials. These analyses complement data from neurophysiological recordings in non-human primates indicating that firing rates of cortical neurons correlate with integration of sensory evidence used to inform decision-making.",
+  "authors": [
+    "Jahans-Price Thomas",
+    "Gorochowski Thomas E",
+    "Wilson Matthew A",
+    "Jones Matthew W",
+    "Bogacz Rafal"
+  ],
+  "journal": "Frontiers in behavioral neuroscience",
+  "year": "2014",
+  "doi": "10.3389/fnbeh.2014.00062",
+  "mesh": []
+}

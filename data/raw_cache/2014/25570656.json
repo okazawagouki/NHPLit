@@ -1,0 +1,26 @@
+{
+  "pmid": "25570656",
+  "title": "A low-cost, open-source, wireless electrophysiology system.",
+  "abstract": "Many experiments in neuroscience require or would benefit tremendously from a wireless neural recording system. However, commercially available wireless systems are expensive, have moderate to high noise and are often not customizable. Academic wireless systems present impressive capabilities, but are not available for other labs to use. To overcome these limitations, we have developed an ultra-low noise 8 channel wireless electrophysiological data acquisition system using standard, commercially available components. The system is capable of recording many types of neurological signals, including EEG, ECoG, LFP and unit activity. With a diameter of just 25 mm and height of 9 mm, including a CR2032 Lithium coin cell battery, it is designed to fit into a small recording chamber while minimizing the overall implant height (Fig. 1 and 3). Using widely available parts we were able to keep the material cost of our system under $100 dollars. The complete design, including schematic, PCB layout, bill of materials and source code, will be released through an open source license, allowing other labs to modify the design to fit their needs. We have also developed a driver to acquire data using the BCI2000 software system. Feedback from the community will allow us to improve the design and create a more useful neuroscience research tool.",
+  "authors": [
+    "Ghomashchi A",
+    "Zheng Z",
+    "Majaj N",
+    "Trumpis M",
+    "Kiorpes L",
+    "Viventi J"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2014",
+  "doi": "10.1109/EMBC.2014.6944288",
+  "mesh": [
+    "Animals",
+    "Costs and Cost Analysis",
+    "Electrodes",
+    "Electrophysiological Phenomena",
+    "Electrophysiology",
+    "Macaca",
+    "Visual Cortex",
+    "Wireless Technology"
+  ]
+}

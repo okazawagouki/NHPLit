@@ -1,0 +1,23 @@
+{
+  "pmid": "24107954",
+  "title": "On the dissociation between microsaccade rate and direction after peripheral cues: microsaccadic inhibition revisited.",
+  "abstract": "Microsaccades during fixation exhibit distinct time courses of frequency and direction modulations after stimulus onsets, but the mechanisms for these modulations are unresolved. On the one hand, microsaccade rate drops within <100 ms after stimulus onset, a phenomenon described as microsaccadic inhibition. On the other, the directions of the rare microsaccades that do occur during inhibition are, surprisingly, the most highly correlated with stimulus location. Here we show, using a combined computational and experimental approach, that these apparently dichotomous observations can simply result from a single mechanism: the phase resetting by stimulus onsets of ongoing microsaccadic oscillatory rhythms during fixation. Using experiments on monkeys and model simulations, we show that stimulus onsets act as countermanding stimuli, such as those in large saccadic countermanding tasks: they cancel an upcoming movement program and start a competing one, thus implementing phase resetting. We also show that the rare microsaccades occurring during microsaccadic inhibition are simply noncanceled movements in the countermanding framework and that they reflect the instantaneous state of visual representations expected in spatial maps representing stimuli. Remarkably, a dynamic interaction between the efficacy of the countermanding process and the metrics of the microsaccade being countermanded not only explains microsaccade rate changes, but it also predicts the time course patterns of microsaccade directions and amplitudes. Our parsimonious framework for understanding microsaccadic modulations around stimulus onsets allows analyzing microsaccades (and larger saccades) using the extensive toolkit of oscillatory dynamical systems often used for modeling spiking neurons, and it constrains neural models of microsaccade triggering.",
+  "authors": [
+    "Hafed Ziad M",
+    "Ignashchenkova Alla"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2013",
+  "doi": "10.1523/JNEUROSCI.2240-13.2013",
+  "mesh": [
+    "Animals",
+    "Cues",
+    "Fixation, Ocular",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Saccades",
+    "Visual Perception"
+  ]
+}

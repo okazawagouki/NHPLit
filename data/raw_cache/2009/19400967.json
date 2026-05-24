@@ -1,0 +1,23 @@
+{
+  "pmid": "19400967",
+  "title": "Subsampling effects in neuronal avalanche distributions recorded in vivo.",
+  "abstract": "BACKGROUND: Many systems in nature are characterized by complex behaviour where large cascades of events, or avalanches, unpredictably alternate with periods of little activity. Snow avalanches are an example. Often the size distribution f(s) of a system's avalanches follows a power law, and the branching parameter sigma, the average number of events triggered by a single preceding event, is unity. A power law for f(s), and sigma = 1, are hallmark features of self-organized critical (SOC) systems, and both have been found for neuronal activity in vitro. Therefore, and since SOC systems and neuronal activity both show large variability, long-term stability and memory capabilities, SOC has been proposed to govern neuronal dynamics in vivo. Testing this hypothesis is difficult because neuronal activity is spatially or temporally subsampled, while theories of SOC systems assume full sampling. To close this gap, we investigated how subsampling affects f(s) and sigma by imposing subsampling on three different SOC models. We then compared f(s) and sigma of the subsampled models with those of multielectrode local field potential (LFP) activity recorded in three macaque monkeys performing a short term memory task. RESULTS: Neither the LFP nor the subsampled SOC models showed a power law for f(s). Both, f(s) and sigma, depended sensitively on the subsampling geometry and the dynamics of the model. Only one of the SOC models, the Abelian Sandpile Model, exhibited f(s) and sigma similar to those calculated from LFP activity. CONCLUSION: Since subsampling can prevent the observation of the characteristic power law and sigma in SOC systems, misclassifications of critical systems as sub- or supercritical are possible. Nevertheless, the system specific scaling of f(s) and sigma under subsampling conditions may prove useful to select physiologically motivated models of brain function. Models that better reproduce f(s) and sigma calculated from the physiological recordings may be selected over alternatives.",
+  "authors": [
+    "Priesemann Viola",
+    "Munk Matthias H J",
+    "Wibral Michael"
+  ],
+  "journal": "BMC neuroscience",
+  "year": "2009",
+  "doi": "10.1186/1471-2202-10-40",
+  "mesh": [
+    "Avalanches",
+    "Electroencephalography",
+    "Evoked Potentials",
+    "Humans",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neurons"
+  ]
+}

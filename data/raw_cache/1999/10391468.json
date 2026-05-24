@@ -1,0 +1,27 @@
+{
+  "pmid": "10391468",
+  "title": "A neural network model with dopamine-like reinforcement signal that learns a spatial delayed response task.",
+  "abstract": "This study investigated how the simulated response of dopamine neurons to reward-related stimuli could be used as reinforcement signal for learning a spatial delayed response task. Spatial delayed response tasks assess the functions of frontal cortex and basal ganglia in short-term memory, movement preparation and expectation of environmental events. In these tasks, a stimulus appears for a short period at a particular location, and after a delay the subject moves to the location indicated. Dopamine neurons are activated by unpredicted rewards and reward-predicting stimuli, are not influenced by fully predicted rewards, and are depressed by omitted rewards. Thus, they appear to report an error in the prediction of reward, which is the crucial reinforcement term in formal learning theories. Theoretical studies on reinforcement learning have shown that signals similar to dopamine responses can be used as effective teaching signals for learning. A neural network model implementing the temporal difference algorithm was trained to perform a simulated spatial delayed response task. The reinforcement signal was modeled according to the basic characteristics of dopamine responses to novel stimuli, primary rewards and reward-predicting stimuli. A Critic component analogous to dopamine neurons computed a temporal error in the prediction of reinforcement and emitted this signal to an Actor component which mediated the behavioral output. The spatial delayed response task was learned via two subtasks introducing spatial choices and temporal delays, in the same manner as monkeys in the laboratory. In all three tasks, the reinforcement signal of the Critic developed in a similar manner to the responses of natural dopamine neurons in comparable learning situations, and the learning curves of the Actor replicated the progress of learning observed in the animals. Several manipulations demonstrated further the efficacy of the particular characteristics of the dopamine-like reinforcement signal. Omission of reward induced a phasic reduction of the reinforcement signal at the time of the reward and led to extinction of learned actions. A reinforcement signal without prediction error resulted in impaired learning because of perseverative errors. Loss of learned behavior was seen with sustained reductions of the reinforcement signal, a situation in general comparable to the loss of dopamine innervation in Parkinsonian patients and experimentally lesioned animals. The striking similarities in teaching signals and learning behavior between the computational and biological results suggest that dopamine-like reward responses may serve as effective teaching signals for learning behavioral tasks that are typical for primate cognitive behavior, such as spatial delayed responding.",
+  "authors": [
+    "Suri R E",
+    "Schultz W"
+  ],
+  "journal": "Neuroscience",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Choice Behavior",
+    "Conditioning, Psychological",
+    "Dopamine",
+    "Learning",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Reaction Time",
+    "Reinforcement, Psychology",
+    "Reward",
+    "Spatial Behavior"
+  ]
+}

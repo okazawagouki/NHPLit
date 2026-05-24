@@ -1,0 +1,28 @@
+{
+  "pmid": "24040313",
+  "title": "Decoding of repeated objects from local field potentials in macaque inferior temporal cortex.",
+  "abstract": "Stimulus repetition produces a decrease of the response and affects neuronal synchronization of macaque inferior temporal (IT) neurons. Previously we showed that such stimulus-specific adaptation results in a decreased accuracy by which IT neurons encode repeated compared to non-repeated objects. Not only spiking activity, but also local field potentials (LFPs) are affected by repetition. Here we ask how the repetition-induced changes in IT LFPs affect object decoding accuracy. To answer this, we recorded local field potentials using a laminar microelectrode in macaque IT. We presented two familiar stimuli each for 500 ms successively with an inter-stimulus interval of 500 ms. Trials consisted either of a repetition of the same stimulus or of their alternation. Machine learning-based classifier was employed to decode stimulus identity from the LFP power in different frequency bands of each penetration. We found that the object classification accuracy depended strongly on spectral frequency, with frequencies below 30 Hz (alpha and beta) producing greater accuracies than gamma bands. However, the effect of repetition on classification accuracy was stronger at the gamma frequencies, showing a decrease in classification accuracy for repeated stimuli and a tendency for an improved object encoding when the stimulus was preceded by a different stimulus. The present results demonstrate that due to adapting input, stimulus encoding in IT (1) can be more accurate for stimuli that differ from recently preceding ones while being impaired for stimuli that are repeated, and (2) these effects are more pronounced at high spectral frequencies of the LFP.",
+  "authors": [
+    "Kaliukhovich Dzmitry A",
+    "Vogels Rufin"
+  ],
+  "journal": "PloS one",
+  "year": "2013",
+  "doi": "10.1371/journal.pone.0074665",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Evoked Potentials, Visual",
+    "Female",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Microelectrodes",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Reproducibility of Results",
+    "Support Vector Machine",
+    "Temporal Lobe"
+  ]
+}

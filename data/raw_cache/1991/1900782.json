@@ -1,0 +1,27 @@
+{
+  "pmid": "1900782",
+  "title": "In vivo biological validation and biophysical modeling of the sensitivity and positive accuracy of endocrine peak detection. II. The follicle-stimulating hormone pulse signal.",
+  "abstract": "Despite interest in the in vivo control of gonadotropin release, valid assessment of the physiological regulation of the pulsatile secretion of the gonadotropin FSH has been hampered by the uncertain validity and reliability of available FSH peak detection algorithms. Difficulties in identifying FSH peaks accurately are believed to arise in part because of the slow metabolic clearance of this glycoprotein hormone. Here, we have used two complementary strategies to test the validity of FSH pulse detection. First, by means of a computer-assisted mathematical model for simulating episodic hormone secretion, we evaluated the effects of various putative FSH secretory pulse amplitudes and half-lives on the sensitivity and positive accuracy of peak detection. Secondly, we used an in vivo primate animal model, in which presumptively true FSH pulses were evaluated independently by continuous electrophysiological monitoring of mediobasal hypothalamic multiunit activity. These two approaches allowed us to define optimal pulse analysis parameters that yield maximal sensitivity and positive accuracy for detecting FSH peaks in synthetic and biological time series. We found (as predicted intuitively) that increasing half-times of hormone disappearance decrease both the sensitivity and positive accuracy of peak detection for any given peak detection thresholds and hormone secretory amplitudes. However, adequately sampled episodic FSH time series could be analyzed for FSH pulsatility by an appropriately constrained, objective computerized algorithm with reasonable (less than 10-15%) false negative and false positive errors, such that resultant sensitivity and positive accuracy exceed 85-90%. Of interest, computer simulations and the in vivo animal model exhibited similar discriminative capabilities. We conclude that increasing half-times of hormone (e.g. FSH) removal do impair hormone peak detection sensitivity and positive accuracy. Nevertheless, gonadotropin time series can be analyzed for FSH pulsatility in a valid manner with adequately constrained false negative and false positive error rates.",
+  "authors": [
+    "Urban R J",
+    "Johnson M L",
+    "Veldhuis J D"
+  ],
+  "journal": "Endocrinology",
+  "year": "1991",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Electrophysiology",
+    "Female",
+    "Follicle Stimulating Hormone",
+    "Half-Life",
+    "Hypothalamus, Middle",
+    "Macaca mulatta",
+    "Mathematics",
+    "Models, Biological",
+    "Periodicity",
+    "Software"
+  ]
+}

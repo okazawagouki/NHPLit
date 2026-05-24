@@ -1,0 +1,14 @@
+{
+  "pmid": "22942919",
+  "title": "A case for spiking neural network simulation based on configurable multiple-FPGA systems.",
+  "abstract": "Recent neuropsychological research has begun to reveal that neurons encode information in the timing of spikes. Spiking neural network simulations are a flexible and powerful method for investigating the behaviour of neuronal systems. Simulation of the spiking neural networks in software is unable to rapidly generate output spikes in large-scale of neural network. An alternative approach, hardware implementation of such system, provides the possibility to generate independent spikes precisely and simultaneously output spike waves in real time, under the premise that spiking neural network can take full advantage of hardware inherent parallelism. We introduce a configurable FPGA-oriented hardware platform for spiking neural network simulation in this work. We aim to use this platform to combine the speed of dedicated hardware with the programmability of software so that it might allow neuroscientists to put together sophisticated computation experiments of their own model. A feed-forward hierarchy network is developed as a case study to describe the operation of biological neural systems (such as orientation selectivity of visual cortex) and computational models of such systems. This model demonstrates how a feed-forward neural network constructs the circuitry required for orientation selectivity and provides platform for reaching a deeper understanding of the primate visual system. In the future, larger scale models based on this framework can be used to replicate the actual architecture in visual cortex, leading to more detailed predictions and insights into visual perception phenomenon.",
+  "authors": [
+    "Yang Shufan",
+    "Wu Qiang",
+    "Li Renfa"
+  ],
+  "journal": "Cognitive neurodynamics",
+  "year": "2011",
+  "doi": "10.1007/s11571-011-9170-0",
+  "mesh": []
+}

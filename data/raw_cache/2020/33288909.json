@@ -1,0 +1,30 @@
+{
+  "pmid": "33288909",
+  "title": "Strong inhibitory signaling underlies stable temporal dynamics and working memory in spiking neural networks.",
+  "abstract": "Cortical neurons process information on multiple timescales, and areas important for working memory (WM) contain neurons capable of integrating information over a long timescale. However, the underlying mechanisms for the emergence of neuronal timescales stable enough to support WM are unclear. By analyzing a spiking recurrent neural network model trained on a WM task and activity of single neurons in the primate prefrontal cortex, we show that the temporal properties of our model and the neural data are remarkably similar. Dissecting our recurrent neural network model revealed strong inhibitory-to-inhibitory connections underlying a disinhibitory microcircuit as a critical component for long neuronal timescales and WM maintenance. We also found that enhancing inhibitory-to-inhibitory connections led to more stable temporal dynamics and improved task performance. Finally, we show that a network with such microcircuitry can perform other tasks without disrupting its pre-existing timescale architecture, suggesting that strong inhibitory signaling underlies a flexible WM network.",
+  "authors": [
+    "Kim Robert",
+    "Sejnowski Terrence J"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2021",
+  "doi": "10.1038/s41593-020-00753-w",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Macaca mulatta",
+    "Machine Learning",
+    "Male",
+    "Memory, Short-Term",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Inhibition",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Psychomotor Performance",
+    "White Matter"
+  ]
+}

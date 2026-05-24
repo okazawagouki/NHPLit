@@ -7,8 +7,6 @@ __pycache__/
 # Credentials — never commit
 key.env
 
-# Raw cache — too large for git (tens of thousands of JSON files)
-data/raw_cache/
 
 # PDFs (Stage 3, also large)
 data/pdfs/

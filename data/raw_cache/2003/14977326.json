@@ -1,0 +1,37 @@
+{
+  "pmid": "14977326",
+  "title": "A model of high-frequency oscillatory potentials in retinal ganglion cells.",
+  "abstract": "High-frequency oscillatory potentials (HFOPs) have been recorded from ganglion cells in cat, rabbit, frog, and mudpuppy retina and in electroretinograms (ERGs) from humans and other primates. However, the origin of HFOPs is unknown. Based on patterns of tracer coupling, we hypothesized that HFOPs could be generated, in part, by negative feedback from axon-bearing amacrine cells excited via electrical synapses with neighboring ganglion cells. Computer simulations were used to determine whether such axon-mediated feedback was consistent with the experimentally observed properties of HFOPs. (1) Periodic signals are typically absent from ganglion cell PSTHs, in part because the phases of retinal HFOPs vary randomly over time and are only weakly stimulus locked. In the retinal model, this phase variability resulted from the nonlinear properties of axon-mediated feedback in combination with synaptic noise. (2) HFOPs increase as a function of stimulus size up to several times the receptive-field center diameter. In the model, axon-mediated feedback pooled signals over a large retinal area, producing HFOPs that were similarly size dependent. (3) HFOPs are stimulus specific. In the model, gap junctions between neighboring neurons caused contiguous regions to become phase locked, but did not synchronize separate regions. Model-generated HFOPs were consistent with the receptive-field center dynamics and spatial organization of cat alpha cells. HFOPs did not depend qualitatively on the exact value of any model parameter or on the numerical precision of the integration method. We conclude that HFOPs could be mediated, in part, by circuitry consistent with known retinal anatomy.",
+  "authors": [
+    "Kenyon Garrett T",
+    "Moore Bartlett",
+    "Jeffs Janelle",
+    "Denning Kate S",
+    "Stephens Greg J",
+    "Travis Bryan J",
+    "George John S",
+    "Theiler James",
+    "Marshak David W"
+  ],
+  "journal": "Visual neuroscience",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Amacrine Cells",
+    "Animals",
+    "Electrophysiology",
+    "Electroretinography",
+    "Gap Junctions",
+    "Humans",
+    "Interneurons",
+    "Models, Neurological",
+    "Neural Conduction",
+    "Photic Stimulation",
+    "Retina",
+    "Retinal Ganglion Cells",
+    "Synapses",
+    "Visual Fields",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "26394441",
+  "title": "Biologically Inspired Model for Visual Cognition Achieving Unsupervised Episodic and Semantic Feature Learning.",
+  "abstract": "Recently, many biologically inspired visual computational models have been proposed. The design of these models follows the related biological mechanisms and structures, and these models provide new solutions for visual recognition tasks. In this paper, based on the recent biological evidence, we propose a framework to mimic the active and dynamic learning and recognition process of the primate visual cortex. From principle point of view, the main contributions are that the framework can achieve unsupervised learning of episodic features (including key components and their spatial relations) and semantic features (semantic descriptions of the key components), which support higher level cognition of an object. From performance point of view, the advantages of the framework are as follows: 1) learning episodic features without supervision-for a class of objects without a prior knowledge, the key components, their spatial relations and cover regions can be learned automatically through a deep neural network (DNN); 2) learning semantic features based on episodic features-within the cover regions of the key components, the semantic geometrical values of these components can be computed based on contour detection; 3) forming the general knowledge of a class of objects-the general knowledge of a class of objects can be formed, mainly including the key components, their spatial relations and average semantic values, which is a concise description of the class; and 4) achieving higher level cognition and dynamic updating-for a test image, the model can achieve classification and subclass semantic descriptions. And the test samples with high confidence are selected to dynamically update the whole model. Experiments are conducted on face images, and a good performance is achieved in each layer of the DNN and the semantic description learning process. Furthermore, the model can be generalized to recognition tasks of other objects with learning ability.",
+  "authors": [
+    "Qiao Hong",
+    "Li Yinlin",
+    "Li Fengfu",
+    "Xi Xuanyang",
+    "Wu Wei"
+  ],
+  "journal": "IEEE transactions on cybernetics",
+  "year": "2016",
+  "doi": "10.1109/TCYB.2015.2476706",
+  "mesh": [
+    "Algorithms",
+    "Biometric Identification",
+    "Face",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Machine Learning",
+    "Models, Biological",
+    "Semantics",
+    "Visual Perception"
+  ]
+}

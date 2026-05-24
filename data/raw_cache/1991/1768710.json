@@ -1,0 +1,26 @@
+{
+  "pmid": "1768710",
+  "title": "Saccade control in a simulated robot camera-head system: neural net architectures for efficient learning of inverse kinematics.",
+  "abstract": "The high speed of saccades means that they cannot be guided by visual feedback, so that any saccadic control system must know in advance the correct output signals to fixate a particular retinal position. To investigate neural-net architectures for learning this inverse-kinematics problem we simulated a 4 deg-of-freedom robot camera-head system, in which the head could pan and tilt and the cameras pan and verge. The main findings were: (1) Linear nets, multilayer perceptrons (MLPs) trained by backpropagation, and cerebellar model arithmetic computers (CMACs) all learnt rapidly to 5-10% accuracy when given perfect error feedback. (2) For additional accuracy (down to 2%) two-layer nets learnt much faster than a single MLP or CMAC: the best combination tried was to have a CMAC learn the errors of a trained linear net. (3) Imperfect error signals were provided by a crude controller whose output was simply proportional to retinal input in the relevant axis, thereby providing a mechanism for (a) controlling the camera-head system when the feedforward neural net controller was wrong or inoperative, and (b) converting sensory error signals into motor error signals as required in supervised learning. It proved possible to train neural-net controllers using these imperfect error signals over a range of learning rates and crude-controller gains. These results suggest that appropriate neural-net architectures can provide practical, accurate and robust adaptive control for saccadic movements. In addition, the arrangement of a crude controller teaching a sophisticated one may be similar to that used by the primate saccadic system, with brainstem circuitry teaching the cerebellum.",
+  "authors": [
+    "Dean P",
+    "Mayhew J E",
+    "Thacker N",
+    "Langdon P M"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "1991",
+  "doi": "",
+  "mesh": [
+    "Brain Stem",
+    "Cerebellum",
+    "Humans",
+    "Infant",
+    "Learning",
+    "Models, Neurological",
+    "Nerve Net",
+    "Photography",
+    "Robotics",
+    "Saccades"
+  ]
+}

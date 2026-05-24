@@ -1,0 +1,26 @@
+{
+  "pmid": "27064604",
+  "title": "Fractal dimension analysis for spike detection in low SNR extracellular signals.",
+  "abstract": "OBJECTIVE: Many algorithms have been suggested for detection and sorting of spikes in extracellular recording. Nevertheless, it is still challenging to detect spikes in low signal-to-noise ratios (SNR). We propose a spike detection algorithm that is based on the fractal properties of extracellular signals and can detect spikes in low SNR regimes. Semi-intact spikes are low-amplitude spikes whose shapes are almost preserved. The detection of these spikes can significantly enhance the performance of multi-electrode recording systems. APPROACH: Semi-intact spikes are simulated by adding three noise components to a spike train: thermal noise, inter-spike noise, and spike-level noise. We show that simulated signals have fractal properties which make them proper candidates for fractal analysis. Then we use fractal dimension as the main core of our spike detection algorithm and call it fractal detector. The performance of the fractal detector is compared with three frequently used spike detectors. MAIN RESULTS: We demonstrate that in low SNR, the fractal detector has the best performance and results in the highest detection probability. It is shown that, in contrast to the other three detectors, the performance of the fractal detector is independent of inter-spike noise power and that variations in spike shape do not alter its performance. Finally, we use the fractal detector for spike detection in experimental data and similar to simulations, it is shown that the fractal detector has the best performance in low SNR regimes. SIGNIFICANCE: The detection of low-amplitude spikes provides more information about the neural activity in the vicinity of the recording electrodes. Our results suggest using the fractal detector as a reliable and robust method for detecting semi-intact spikes in low SNR extracellular signals.",
+  "authors": [
+    "Salmasi Mehrdad",
+    "Büttner Ulrich",
+    "Glasauer Stefan"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2016",
+  "doi": "10.1088/1741-2560/13/3/036004",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Evoked Potentials",
+    "Extracellular Space",
+    "Fractals",
+    "Macaca",
+    "Models, Neurological",
+    "Signal Processing, Computer-Assisted",
+    "Signal-To-Noise Ratio",
+    "Wavelet Analysis"
+  ]
+}

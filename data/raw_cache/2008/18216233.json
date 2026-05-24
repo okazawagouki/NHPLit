@@ -1,0 +1,29 @@
+{
+  "pmid": "18216233",
+  "title": "Analysis of between-trial and within-trial neural spiking dynamics.",
+  "abstract": "Recording single-neuron activity from a specific brain region across multiple trials in response to the same stimulus or execution of the same behavioral task is a common neurophysiology protocol. The raster plots of the spike trains often show strong between-trial and within-trial dynamics, yet the standard analysis of these data with the peristimulus time histogram (PSTH) and ANOVA do not consider between-trial dynamics. By itself, the PSTH does not provide a framework for statistical inference. We present a state-space generalized linear model (SS-GLM) to formulate a point process representation of between-trial and within-trial neural spiking dynamics. Our model has the PSTH as a special case. We provide a framework for model estimation, model selection, goodness-of-fit analysis, and inference. In an analysis of hippocampal neural activity recorded from a monkey performing a location-scene association task, we demonstrate how the SS-GLM may be used to answer frequently posed neurophysiological questions including, What is the nature of the between-trial and within-trial task-specific modulation of the neural spiking activity? How can we characterize learning-related neural dynamics? What are the timescales and characteristics of the neuron's biophysical properties? Our results demonstrate that the SS-GLM is a more informative tool than the PSTH and ANOVA for analysis of multiple trial neural responses and that it provides a quantitative characterization of the between-trial and within-trial neural dynamics readily visible in raster plots, as well as the less apparent fast (1-10 ms), intermediate (11-20 ms), and longer (>20 ms) timescale features of the neuron's biophysical properties.",
+  "authors": [
+    "Czanner Gabriela",
+    "Eden Uri T",
+    "Wirth Sylvia",
+    "Yanike Marianna",
+    "Suzuki Wendy A",
+    "Brown Emery N"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2008",
+  "doi": "10.1152/jn.00343.2007",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Data Interpretation, Statistical",
+    "Electric Stimulation",
+    "Electrophysiology",
+    "Hippocampus",
+    "Linear Models",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Reproducibility of Results"
+  ]
+}

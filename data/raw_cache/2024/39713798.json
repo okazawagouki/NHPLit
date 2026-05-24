@@ -1,0 +1,14 @@
+{
+  "pmid": "39713798",
+  "title": "Poisson Variational Autoencoder.",
+  "abstract": "Variational autoencoders (VAEs) employ Bayesian inference to interpret sensory inputs, mirroring processes that occur in primate vision across both ventral [1] and dorsal [2] pathways. Despite their success, traditional VAEs rely on continuous latent variables, which deviates sharply from the discrete nature of biological neurons. Here, we developed the Poisson VAE ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>𝒫</mi></math> -VAE), a novel architecture that combines principles of predictive coding with a VAE that encodes inputs into discrete spike counts. Combining Poisson-distributed latent variables with predictive coding introduces a metabolic cost term in the model loss function, suggesting a relationship with sparse coding which we verify empirically. Additionally, we analyze the geometry of learned representations, contrasting the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>𝒫</mi></math> -VAE to alternative VAE models. We find that the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>𝒫</mi></math> -VAE encodes its inputs in relatively higher dimensions, facilitating linear separability of categories in a downstream classification task with a much better (5×) sample efficiency. Our work provides an interpretable computational framework to study brain-like sensory processing and paves the way for a deeper understanding of perception as an inferential process.",
+  "authors": [
+    "Vafaii Hadi",
+    "Galor Dekel",
+    "Yates Jacob L"
+  ],
+  "journal": "ArXiv",
+  "year": "2024",
+  "doi": "",
+  "mesh": []
+}

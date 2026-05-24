@@ -1,0 +1,25 @@
+{
+  "pmid": "28625485",
+  "title": "Motor Cortical Visuomotor Feedback Activity Is Initially Isolated from Downstream Targets in Output-Null Neural State Space Dimensions.",
+  "abstract": "Neural circuits must transform new inputs into outputs without prematurely affecting downstream circuits while still maintaining other ongoing communication with these targets. We investigated how this isolation is achieved in the motor cortex when macaques received visual feedback signaling a movement perturbation. To overcome limitations in estimating the mapping from cortex to arm movements, we also conducted brain-machine interface (BMI) experiments where we could definitively identify neural firing patterns as output-null or output-potent. This revealed that perturbation-evoked responses were initially restricted to output-null patterns that cancelled out at the neural population code readout and only later entered output-potent neural dimensions. This mechanism was facilitated by the circuit's large null space and its ability to strongly modulate output-potent dimensions when generating corrective movements. These results show that the nervous system can temporarily isolate portions of a circuit's activity from its downstream targets by restricting this activity to the circuit's output-null neural dimensions.",
+  "authors": [
+    "Stavisky Sergey D",
+    "Kao Jonathan C",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Neuron",
+  "year": "2017",
+  "doi": "10.1016/j.neuron.2017.05.023",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Feedback, Sensory",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Neural Pathways",
+    "Task Performance and Analysis"
+  ]
+}

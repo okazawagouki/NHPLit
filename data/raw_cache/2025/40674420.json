@@ -1,0 +1,28 @@
+{
+  "pmid": "40674420",
+  "title": "Robust single-trial decoding of physical self-motion from hemodynamic signals in the brain measured by functional ultrasound imaging.",
+  "abstract": "Physical self-motion frequently happens in daily life, during which our vestibular system is critical in various important functions including balance and visual stability maintenance, postural and motor control, locomotion, spatial perception, and path integration-based navigation. Conventional noninvasive methods for studying vestibular functions include functional MRI (fMRI) that conveniently measures brain-wide signals; however, subjects are required to be physically restricted in the scanner. In such cases, caloric or galvanic vestibular stimulation is applied to stimulate peripheral vestibular organs, suffering a loss of precise stimulation of peripheral vestibular organs as during physical motion conditions. In this study, we adopted functional ultrasound (fUS) imaging, a newly emerging minimally invasive technique with high spatiotemporal resolution, to measure vestibular related signals in primates under passive, physical self-motion conditions that selectively activate vestibular organs. We found that robust fUS signals were evoked in brain-wide regions. While many areas overlapped with those previously reported by fMRI or electrophysiology, significant activations were also seen in areas that were not clearly identified previously including area 5, 1-2, M1, V3A, and 7 m. Importantly, using a linear discriminant analysis algorithm, physical self-motion information, including both translation directions, and translation-vs.-rotation, could be reliably decoded from fUS signals on a single-trial basis. In addition to vestibular-related activity, many areas also exhibited visual-motion response, indicating possible multisensory interactions. Our findings suggest that fUS imaging holds a promising tool for studying vestibular functions in tasks under physical self-motion conditions, as well as interactions with visual or motor systems.",
+  "authors": [
+    "Liu Bingyu",
+    "Luo Qingyang",
+    "Liang Zhifeng",
+    "He Hua",
+    "Gu Yong"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2025",
+  "doi": "10.1073/pnas.2414354122",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Ultrasonography",
+    "Male",
+    "Hemodynamics",
+    "Magnetic Resonance Imaging",
+    "Vestibule, Labyrinth",
+    "Macaca mulatta",
+    "Female",
+    "Brain Mapping",
+    "Motion"
+  ]
+}

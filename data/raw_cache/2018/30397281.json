@@ -1,0 +1,31 @@
+{
+  "pmid": "30397281",
+  "title": "Brain-machine interface cursor position only weakly affects monkey and human motor cortical activity in the absence of arm movements.",
+  "abstract": "Brain-machine interfaces (BMIs) that decode movement intentions should ignore neural modulation sources distinct from the intended command. However, neurophysiology and control theory suggest that motor cortex reflects the motor effector's position, which could be a nuisance variable. We investigated motor cortical correlates of BMI cursor position with or without concurrent arm movement. We show in two monkeys that subtracting away estimated neural correlates of position improves online BMI performance only if the animals were allowed to move their arm. To understand why, we compared the neural variance attributable to cursor position when the same task was performed using arm reaching, versus arms-restrained BMI use. Firing rates correlated with both BMI cursor and hand positions, but hand positional effects were greater. To examine whether BMI position influences decoding in people with paralysis, we analyzed data from two intracortical BMI clinical trial participants and performed an online decoder comparison in one participant. We found only small motor cortical correlates, which did not affect performance. These results suggest that arm movement and proprioception are the major contributors to position-related motor cortical correlates. Cursor position visual feedback is therefore unlikely to affect the performance of BMI-driven prosthetic systems being developed for people with paralysis.",
+  "authors": [
+    "Stavisky Sergey D",
+    "Kao Jonathan C",
+    "Nuyujukian Paul",
+    "Pandarinath Chethan",
+    "Blabe Christine",
+    "Ryu Stephen I",
+    "Hochberg Leigh R",
+    "Henderson Jaimie M",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Scientific reports",
+  "year": "2018",
+  "doi": "10.1038/s41598-018-34711-1",
+  "mesh": [
+    "Animals",
+    "Arm",
+    "Brain-Computer Interfaces",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Paralysis",
+    "Time Factors"
+  ]
+}

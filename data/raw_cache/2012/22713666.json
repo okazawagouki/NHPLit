@@ -1,0 +1,35 @@
+{
+  "pmid": "22713666",
+  "title": "An online brain-machine interface using decoding of movement direction from the human electrocorticogram.",
+  "abstract": "A brain-machine interface (BMI) can be used to control movements of an artificial effector, e.g. movements of an arm prosthesis, by motor cortical signals that control the equivalent movements of the corresponding body part, e.g. arm movements. This approach has been successfully applied in monkeys and humans by accurately extracting parameters of movements from the spiking activity of multiple single neurons. We show that the same approach can be realized using brain activity measured directly from the surface of the human cortex using electrocorticography (ECoG). Five subjects, implanted with ECoG implants for the purpose of epilepsy assessment, took part in our study. Subjects used directionally dependent ECoG signals, recorded during active movements of a single arm, to control a computer cursor in one out of two directions. Significant BMI control was achieved in four out of five subjects with correct directional decoding in 69%-86% of the trials (75% on average). Our results demonstrate the feasibility of an online BMI using decoding of movement direction from human ECoG signals. Thus, to achieve such BMIs, ECoG signals might be used in conjunction with or as an alternative to intracortical neural signals.",
+  "authors": [
+    "Milekovic Tomislav",
+    "Fischer Jörg",
+    "Pistohl Tobias",
+    "Ruescher Johanna",
+    "Schulze-Bonhage Andreas",
+    "Aertsen Ad",
+    "Rickert Jörn",
+    "Ball Tonio",
+    "Mehring Carsten"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2012",
+  "doi": "10.1088/1741-2560/9/4/046003",
+  "mesh": [
+    "Adolescent",
+    "Adult",
+    "Brain-Computer Interfaces",
+    "Cerebral Cortex",
+    "Electric Stimulation",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Female",
+    "Humans",
+    "Male",
+    "Movement",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Young Adult"
+  ]
+}

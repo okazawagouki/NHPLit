@@ -1,0 +1,24 @@
+{
+  "pmid": "39427155",
+  "title": "Prediction of lumpy skin disease virus using customized CBAM-DenseNet-attention model.",
+  "abstract": "Lumpy skin disease virus (LSDV) is an extremely infectious, viral, and chronic skin disease that is caused by the Capripox virus. This viral disease is predominantly found in cows. Mosquitoes and ticks are the primary transmitters for the spread of this virus. Recently, LSDV has been rapidly spreading all over the world, especially in several areas of Pakistan, India, and Iran. Thousands of cows have died due to this infectious virus in Pakistan and early detection of LSDV is needed to avoid further loss. The prediction and classification of LSDV are hindered by the lack of publicly available datasets. Despite a few studies using LSDV datasets, such datasets are often small, which may lead to model overfitting. In this regard, we collect the dataset from several online sources, as well as, collecting images from veterinary farms in different areas of Pakistan. Deep learning has been widely used in the medical field for disease detection and classification. Therefore, this study leverages DenseNet deep learning models for LSDV detection and classification. Experiments are performed using VGG-16, ResNet-50, MobileNet-V2, custom-designed convolutional neural network, and Inception-V3. The DenseNet architecture presents a Convolutional Block Attention Module (CBAM) and Spatial Attention (SA) for the prediction and classification of LSD. Results demonstrate that a 99.11% accuracy can be obtained on the augmented dataset while a 94.23% accuracy can be achieved with the original dataset for chicken pox, monkey pox, and LSDV. Comparison with state-of-the-art studies corroborates the superior performance of the proposed model.",
+  "authors": [
+    "Mujahid Muhammad",
+    "Khurshaid Tahir",
+    "Safran Mejdl",
+    "Alfarhood Sultan",
+    "Ashraf Imran"
+  ],
+  "journal": "BMC infectious diseases",
+  "year": "2024",
+  "doi": "10.1186/s12879-024-10032-9",
+  "mesh": [
+    "Lumpy skin disease virus",
+    "Animals",
+    "Lumpy Skin Disease",
+    "Cattle",
+    "Pakistan",
+    "Deep Learning",
+    "Neural Networks, Computer"
+  ]
+}

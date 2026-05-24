@@ -1,0 +1,25 @@
+{
+  "pmid": "33931006",
+  "title": "Decoding Saccade Intention From Primate Prefrontal Cortical Local Field Potentials Using Spectral, Spatial, and Temporal Dimensionality Reduction.",
+  "abstract": "Most invasive Brain Computer Interfaces (iBCIs) use spike and Local Field Potentials (LFPs) from the motor or parietal cortices to decode movement intentions. It has been debated whether harvesting signals from other brain areas that encode global cognitive variables, such as the allocation of attention and eye movement goals in a variety of spatial reference frames, may improve the outcome of iBCIs. Here, we explore the ability of LFP signals, sampled from the lateral prefrontal cortex (LPFC) of macaque monkeys, to encode eye-movement intention during the pre-movement fixation period of a delayed saccade task. We use spectral dimensionality reduction to examine the spatiotemporal properties of the extracted non-rhythmic broadband activity and explore its usefulness in decoding saccade goals. The dynamics of the broadband signal in low spatial dimensions across the pre-movement fixation period uncovered saccade target separation; its discriminative potential was confirmed using support vector machine classifications. These findings reveal that broadband LFP from the LPFC can be used to decode intended saccade target location during pre-movement periods. We further provide a general workflow that can be implemented in iBCIs and it is relatively robust to the loss of spikes in individual electrodes.",
+  "authors": [
+    "Johnston Renée",
+    "Doucet Guillaume",
+    "Boulay Chadwick",
+    "Miller Kai",
+    "Martinez-Trujillo Julio",
+    "Sachs Adam"
+  ],
+  "journal": "International journal of neural systems",
+  "year": "2021",
+  "doi": "10.1142/S0129065721500234",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Intention",
+    "Prefrontal Cortex",
+    "Primates",
+    "Saccades"
+  ]
+}

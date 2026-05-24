@@ -1,0 +1,26 @@
+{
+  "pmid": "12612049",
+  "title": "Automatic sorting for multi-neuronal activity recorded with tetrodes in the presence of overlapping spikes.",
+  "abstract": "Multi-neuronal recording is a powerful electrophysiological technique that has revealed much of what is known about the neuronal interactions in the brain. However, it is difficult to detect precise spike timings, especially synchronized simultaneous firings, among closely neighboring neurons recorded by one common electrode because spike waveforms overlap on the electrode when two or more neurons fire simultaneously. In addition, the non-Gaussian variability (nonstationarity) of spike waveforms, typically seen in the presence of so-called complex spikes, limits the ability to sort multi-neuronal activities into their single-neuron components. Because of these problems, the ordinary spike-sorting techniques often give inaccurate results. Our previous study has shown that independent component analysis (ICA) can solve these problems and separate single-neuron components from multi-neuronal recordings. The ICA has, however, one serious limitation that the number of separated neurons must be less than the number of electrodes. The present study combines the ICA and the efficiency of the ordinary spike-sorting technique (k-means clustering) to solve the spike-overlapping and the nonstationarity problems with no limitation on the number of single neurons to be separated. First, multi-neuronal activities are sorted into an overly large number of clusters by k-means clustering. Second, the sorted clusters are decomposed by ICA. Third, the decomposed clusters are progressively aggregated into a minimal set of putative single neurons based on similarities of basis vectors estimated by ICA. We applied the present procedure to multi-neuronal waveforms recorded with tetrodes composed of four microwires in the prefrontal cortex of awake behaving monkeys. The results demonstrate that there are functional connections among neighboring pyramidal neurons, some of which fire in a precise simultaneous manner and that precisely time-locked monosynaptic connections are working between neighboring pyramidal neurons and interneurons. Detection of these phenomena suggests that the present procedure can sort multi-neuronal activities, which include overlapping spikes and realistic non-Gaussian variability of spike waveforms, into their single-neuron components. We processed several types of synthesized data sets in this procedure and confirmed that the procedure was highly reliable and stable. The present method provides insights into the local circuit bases of excitatory and inhibitory interactions among neighboring neurons.",
+  "authors": [
+    "Takahashi Susumu",
+    "Anzai Yuichiro",
+    "Sakurai Yoshio"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Electrodes",
+    "Electrophysiology",
+    "Haplorhini",
+    "Interneurons",
+    "Prefrontal Cortex",
+    "Pyramidal Cells",
+    "Signal Processing, Computer-Assisted",
+    "Software Design"
+  ]
+}

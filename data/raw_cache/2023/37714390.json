@@ -1,0 +1,27 @@
+{
+  "pmid": "37714390",
+  "title": "Attentional effects on local V1 microcircuits explain selective V1-V4 communication.",
+  "abstract": "Selective attention implements preferential routing of attended stimuli, likely through increasing the influence of the respective synaptic inputs on higher-area neurons. As the inputs of competing stimuli converge onto postsynaptic neurons, presynaptic circuits might offer the best target for attentional top-down influences. If those influences enabled presynaptic circuits to selectively entrain postsynaptic neurons, this might explain selective routing. Indeed, when two visual stimuli induce two gamma rhythms in V1, only the gamma induced by the attended stimulus entrains gamma in V4. Here, we modelled induced responses with a Dynamic Causal Model for Cross-Spectral Densities and found that selective entrainment can be explained by attentional modulation of intrinsic V1 connections. Specifically, local inhibition was decreased in the granular input layer and increased in the supragranular output layer of the V1 circuit that processed the attended stimulus. Thus, presynaptic attentional influences and ensuing entrainment were sufficient to mediate selective routing.",
+  "authors": [
+    "Katsanevaki Christini",
+    "Bastos André M",
+    "Cagnan Hayriye",
+    "Bosman Conrado A",
+    "Friston Karl J",
+    "Fries Pascal"
+  ],
+  "journal": "NeuroImage",
+  "year": "2023",
+  "doi": "10.1016/j.neuroimage.2023.120375",
+  "mesh": [
+    "Attention",
+    "Visual Cortex",
+    "Animals",
+    "Models, Neurological",
+    "Gamma Rhythm",
+    "Nerve Net",
+    "Neurons",
+    "Visual Perception",
+    "Photic Stimulation"
+  ]
+}

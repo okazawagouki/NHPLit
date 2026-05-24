@@ -1,0 +1,29 @@
+{
+  "pmid": "29331450",
+  "title": "Mapping stimulus feature selectivity in macaque V1 by two-photon Ca<sup>2+</sup> imaging: Encoding-model analysis of fluorescence responses to natural movies.",
+  "abstract": "In vivo calcium (Ca<sup>2+</sup>) imaging using two-photon microscopy allows activity to be monitored simultaneously from hundreds of individual neurons within a local population. While this allows us to gain important insights into how cortical neurons represent sensory information, factors such as photo-bleaching of the Ca<sup>2+</sup> indicator limit imaging duration (and thus the numbers of stimuli that can be tested), which in turn hampers the full characterization of neuronal response properties. Here, we demonstrate that using an encoding model combined with presentation of natural movies results in detailed characterization of receptive field (RF) properties despite the relatively short time for data collection. During presentation of natural movie clips to macaque monkeys, we recorded fluorescence signals from primary visual cortex (V1) neurons that had been loaded with a Ca<sup>2+</sup> indicator. For each recorded neuron, we constructed an encoding model that comprised an array of motion-energy filters that tiled over the RFs. We optimized the weight of each filter's output so that the linear sum of the outputs across the filters mimicked the neuron's Ca<sup>2+</sup>-signal responses. These models were able to predict the neural responses to a different set of natural movies with a significant degree of accuracy. Moreover, the orientation tunings of neurons simulated by the model were highly correlated with those experimentally obtained when grating stimuli were presented to the monkeys. The model predictions were also consistent with what is known about spatial frequency tunings, the structure of excitatory subfields of RFs (i.e., classical RFs), and functional maps for these RF properties in V1. Further analysis revealed a new aspect of V1 functional architecture; the extent and distribution of suppressive RF subfields varied among nearby neurons, while those for excitatory subfields were shared. Thus, applying our encoding-model analysis to two-photon Ca<sup>2+</sup> imaging of neuronal responses to natural movies provides a reliable and efficient means of analyzing a wide range of RF properties in multiple neurons imaged in a local region.",
+  "authors": [
+    "Ikezoe Koji",
+    "Amano Mahya",
+    "Nishimoto Shinji",
+    "Fujita Ichiro"
+  ],
+  "journal": "NeuroImage",
+  "year": "2018",
+  "doi": "10.1016/j.neuroimage.2018.01.009",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Calcium",
+    "Female",
+    "Macaca fascicularis",
+    "Microscopy, Fluorescence, Multiphoton",
+    "Models, Neurological",
+    "Motion Pictures",
+    "Neurons",
+    "Organic Chemicals",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

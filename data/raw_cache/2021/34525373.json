@@ -1,0 +1,27 @@
+{
+  "pmid": "34525373",
+  "title": "Primate neuronal connections are sparse in cortex as compared to mouse.",
+  "abstract": "Detailing how primate and mouse neurons differ is critical for creating generalized models of how neurons process information. We reconstruct 15,748 synapses in adult Rhesus macaques and mice and ask how connectivity differs on identified cell types in layer 2/3 of primary visual cortex. Primate excitatory and inhibitory neurons receive 2-5 times fewer excitatory and inhibitory synapses than similar mouse neurons. Primate excitatory neurons have lower excitatory-to-inhibitory (E/I) ratios than mouse but similar E/I ratios in inhibitory neurons. In both species, properties of inhibitory axons such as synapse size and frequency are unchanged, and inhibitory innervation of excitatory neurons is local and specific. Using artificial recurrent neural networks (RNNs) optimized for different cognitive tasks, we find that penalizing networks for creating and maintaining synapses, as opposed to neuronal firing, reduces the number of connections per node as the number of nodes increases, similar to primate neurons compared with mice.",
+  "authors": [
+    "Wildenberg Gregg A",
+    "Rosen Matt R",
+    "Lundell Jack",
+    "Paukner Dawn",
+    "Freedman David J",
+    "Kasthuri Narayanan"
+  ],
+  "journal": "Cell reports",
+  "year": "2021",
+  "doi": "10.1016/j.celrep.2021.109709",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Mice",
+    "Microscopy, Electron",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Primary Visual Cortex",
+    "Synapses"
+  ]
+}

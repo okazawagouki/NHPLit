@@ -1,0 +1,15 @@
+{
+  "pmid": "36405782",
+  "title": "Cortical circuit-based lossless neural integrator for perceptual decision-making: A computational modeling study.",
+  "abstract": "The intrinsic uncertainty of sensory information (i.e., evidence) does not necessarily deter an observer from making a reliable decision. Indeed, uncertainty can be reduced by integrating (accumulating) incoming sensory evidence. It is widely thought that this accumulation is instantiated <i>via</i> recurrent rate-code neural networks. Yet, these networks do not fully explain important aspects of perceptual decision-making, such as a subject's ability to retain accumulated evidence during temporal gaps in the sensory evidence. Here, we utilized computational models to show that cortical circuits can switch flexibly between \"retention\" and \"integration\" modes during perceptual decision-making. Further, we found that, depending on how the sensory evidence was readout, we could simulate \"stepping\" and \"ramping\" activity patterns, which may be analogous to those seen in different studies of decision-making in the primate parietal cortex. This finding may reconcile these previous empirical studies because it suggests these two activity patterns emerge from the same mechanism.",
+  "authors": [
+    "Lee Jung Hoon",
+    "Tsunada Joji",
+    "Vijayan Sujith",
+    "Cohen Yale E"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2022",
+  "doi": "10.3389/fncom.2022.979830",
+  "mesh": []
+}

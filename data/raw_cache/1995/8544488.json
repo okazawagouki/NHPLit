@@ -1,0 +1,27 @@
+{
+  "pmid": "8544488",
+  "title": "An electromechanical stimulator system for neurophysiological and psychophysical studies of pain.",
+  "abstract": "We have developed a computer-based electromechanical stimulator system suited for neurophysiological and psychophysical studies of pain. The core of the stimulator is a servo-controlled linear motor capable of generating 1 kg of force over a 22-mm range. Forces collinear and tangenital to the interchangeable probe tip are calculated using the signal from 3 load cells (resolution: 1/8 g; range: 250 g) arranged in an equilateral triangle. Probe position is measured with an optical encoder (resolution: 1 micron; range: 25 mm). A microprocessor-based digital control system permits smooth switching of feedback control between force or position at the 1-kHz update rate. The stimulator is mounted on a microprocessor-controlled 3-axis translation system that allows automatic movement of the probe over a range of greater than 15 cm to an accuracy of better than 10 microns. The stimulator can be programmed to move in a coordinate system parallel to the skin surface being examined. An IBM-compatible computer is used to command stimulus paradigms and to display real-time motor performance and neural spike-train data. The system has been used to measure the response of nociceptive afferents in monkey to controlled force stimuli applied to various positions within the receptive field.",
+  "authors": [
+    "Schneider W",
+    "Slugg R M",
+    "Turnquist B P",
+    "Meyer R A",
+    "Campbell J N"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "1995",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Electric Stimulation",
+    "Feedback",
+    "Haplorhini",
+    "Nerve Fibers, Myelinated",
+    "Nociceptors",
+    "Pain Measurement",
+    "Physical Stimulation",
+    "Skin Physiological Phenomena",
+    "Software"
+  ]
+}

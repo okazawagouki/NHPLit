@@ -1,0 +1,28 @@
+{
+  "pmid": "33006992",
+  "title": "Recurrent neural networks can explain flexible trading of speed and accuracy in biological vision.",
+  "abstract": "Deep feedforward neural network models of vision dominate in both computational neuroscience and engineering. The primate visual system, by contrast, contains abundant recurrent connections. Recurrent signal flow enables recycling of limited computational resources over time, and so might boost the performance of a physically finite brain or model. Here we show: (1) Recurrent convolutional neural network models outperform feedforward convolutional models matched in their number of parameters in large-scale visual recognition tasks on natural images. (2) Setting a confidence threshold, at which recurrent computations terminate and a decision is made, enables flexible trading of speed for accuracy. At a given confidence threshold, the model expends more time and energy on images that are harder to recognise, without requiring additional parameters for deeper computations. (3) The recurrent model's reaction time for an image predicts the human reaction time for the same image better than several parameter-matched and state-of-the-art feedforward models. (4) Across confidence thresholds, the recurrent model emulates the behaviour of feedforward control models in that it achieves the same accuracy at approximately the same computational cost (mean number of floating-point operations). However, the recurrent model can be run longer (higher confidence threshold) and then outperforms parameter-matched feedforward comparison models. These results suggest that recurrent connectivity, a hallmark of biological visual systems, may be essential for understanding the accuracy, flexibility, and dynamics of human visual recognition.",
+  "authors": [
+    "Spoerer Courtney J",
+    "Kietzmann Tim C",
+    "Mehrer Johannes",
+    "Charest Ian",
+    "Kriegeskorte Nikolaus"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2020",
+  "doi": "10.1371/journal.pcbi.1008215",
+  "mesh": [
+    "Adult",
+    "Computational Biology",
+    "Female",
+    "Humans",
+    "Male",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Reaction Time",
+    "Vision, Ocular",
+    "Visual Perception",
+    "Young Adult"
+  ]
+}

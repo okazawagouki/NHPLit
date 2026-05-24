@@ -1,0 +1,29 @@
+{
+  "pmid": "25995363",
+  "title": "Measuring the signal-to-noise ratio of a neuron.",
+  "abstract": "The signal-to-noise ratio (SNR), a commonly used measure of fidelity in physical systems, is defined as the ratio of the squared amplitude or variance of a signal relative to the variance of the noise. This definition is not appropriate for neural systems in which spiking activity is more accurately represented as point processes. We show that the SNR estimates a ratio of expected prediction errors and extend the standard definition to one appropriate for single neurons by representing neural spiking activity using point process generalized linear models (PP-GLM). We estimate the prediction errors using the residual deviances from the PP-GLM fits. Because the deviance is an approximate χ(2) random variable, we compute a bias-corrected SNR estimate appropriate for single-neuron analysis and use the bootstrap to assess its uncertainty. In the analyses of four systems neuroscience experiments, we show that the SNRs are -10 dB to -3 dB for guinea pig auditory cortex neurons, -18 dB to -7 dB for rat thalamic neurons, -28 dB to -14 dB for monkey hippocampal neurons, and -29 dB to -20 dB for human subthalamic neurons. The new SNR definition makes explicit in the measure commonly used for physical systems the often-quoted observation that single neurons have low SNRs. The neuron's spiking history is frequently a more informative covariate for predicting spiking propensity than the applied stimulus. Our new SNR definition extends to any GLM system in which the factors modulating the response can be expressed as separate components of a likelihood function.",
+  "authors": [
+    "Czanner Gabriela",
+    "Sarma Sridevi V",
+    "Ba Demba",
+    "Eden Uri T",
+    "Wu Wei",
+    "Eskandar Emad",
+    "Lim Hubert H",
+    "Temereanca Simona",
+    "Suzuki Wendy A",
+    "Brown Emery N"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2015",
+  "doi": "10.1073/pnas.1505545112",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Auditory Cortex",
+    "Guinea Pigs",
+    "Likelihood Functions",
+    "Neurons",
+    "Signal-To-Noise Ratio"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "21817092",
+  "title": "Compositionality of rule representations in human prefrontal cortex.",
+  "abstract": "Rules are widely used in everyday life to organize actions and thoughts in accordance with our internal goals. At the simplest level, single rules can be used to link individual sensory stimuli to their appropriate responses. However, most tasks are more complex and require the concurrent application of multiple rules. Experiments on humans and monkeys have shown the involvement of a frontoparietal network in rule representation. Yet, a fundamental issue still needs to be clarified: Is the neural representation of multiple rules compositional, that is, built on the neural representation of their simple constituent rules? Subjects were asked to remember and apply either simple or compound rules. Multivariate decoding analyses were applied to functional magnetic resonance imaging data. Both ventrolateral frontal and lateral parietal cortex were involved in compound representation. Most importantly, we were able to decode the compound rules by training classifiers only on the simple rules they were composed of. This shows that the code used to store rule information in prefrontal cortex is compositional. Compositional coding in rule representation suggests that it might be possible to decode other complex action plans by learning the neural patterns of the known composing elements.",
+  "authors": [
+    "Reverberi Carlo",
+    "Görgen Kai",
+    "Haynes John-Dylan"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2012",
+  "doi": "10.1093/cercor/bhr200",
+  "mesh": [
+    "Adult",
+    "Female",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Nerve Net",
+    "Parietal Lobe",
+    "Photic Stimulation",
+    "Prefrontal Cortex",
+    "Psychomotor Performance",
+    "Reaction Time"
+  ]
+}

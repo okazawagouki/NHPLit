@@ -1,0 +1,35 @@
+{
+  "pmid": "26193102",
+  "title": "Double Virus Vector Infection to the Prefrontal Network of the Macaque Brain.",
+  "abstract": "To precisely understand how higher cognitive functions are implemented in the prefrontal network of the brain, optogenetic and pharmacogenetic methods to manipulate the signal transmission of a specific neural pathway are required. The application of these methods, however, has been mostly restricted to animals other than the primate, which is the best animal model to investigate higher cognitive functions. In this study, we used a double viral vector infection method in the prefrontal network of the macaque brain. This enabled us to express specific constructs into specific neurons that constitute a target pathway without use of germline genetic manipulation. The double-infection technique utilizes two different virus vectors in two monosynaptically connected areas. One is a vector which can locally infect cell bodies of projection neurons (local vector) and the other can retrogradely infect from axon terminals of the same projection neurons (retrograde vector). The retrograde vector incorporates the sequence which encodes Cre recombinase and the local vector incorporates the \"Cre-On\" FLEX double-floxed sequence in which a reporter protein (mCherry) was encoded. mCherry thus came to be expressed only in doubly infected projection neurons with these vectors. We applied this method to two macaque monkeys and targeted two different pathways in the prefrontal network: The pathway from the lateral prefrontal cortex to the caudate nucleus and the pathway from the lateral prefrontal cortex to the frontal eye field. As a result, mCherry-positive cells were observed in the lateral prefrontal cortex in all of the four injected hemispheres, indicating that the double virus vector transfection is workable in the prefrontal network of the macaque brain.",
+  "authors": [
+    "Oguchi Mineki",
+    "Okajima Miku",
+    "Tanaka Shingo",
+    "Koizumi Masashi",
+    "Kikusui Takefumi",
+    "Ichihara Nobutsune",
+    "Kato Shigeki",
+    "Kobayashi Kazuto",
+    "Sakagami Masamichi"
+  ],
+  "journal": "PloS one",
+  "year": "2015",
+  "doi": "10.1371/journal.pone.0132825",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Dependovirus",
+    "Genetic Vectors",
+    "Green Fluorescent Proteins",
+    "Immunohistochemistry",
+    "Luminescent Proteins",
+    "Macaca",
+    "Male",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Microscopy, Fluorescence",
+    "Neural Pathways",
+    "Red Fluorescent Protein"
+  ]
+}

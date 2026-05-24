@@ -1,0 +1,26 @@
+{
+  "pmid": "37329620",
+  "title": "Sequential sparse autoencoder for dynamic heading representation in ventral intraparietal area.",
+  "abstract": "To navigate in space, it is important to predict headings in real-time from neural responses in the brain to vestibular and visual signals, and the ventral intraparietal area (VIP) is one of the critical brain areas. However, it remains unexplored in the population level how the heading perception is represented in VIP. And there are no commonly used methods suitable for decoding the headings from the population responses in VIP, given the large spatiotemporal dynamics and heterogeneity in the neural responses. Here, responses were recorded from 210 VIP neurons in three rhesus monkeys when they were performing a heading perception task. And by specifically and separately modelling the both dynamics with sparse representation, we built a sequential sparse autoencoder (SSAE) to do the population decoding on the recorded dataset and tried to maximize the decoding performance. The SSAE relies on a three-layer sparse autoencoder to extract temporal and spatial heading features in the dataset via unsupervised learning, and a softmax classifier to decode the headings. Compared with other population decoding methods, the SSAE achieves a leading accuracy of 96.8% ± 2.1%, and shows the advantages of robustness, low storage and computing burden for real-time prediction. Therefore, our SSAE model performs well in learning neurobiologically plausible features comprising dynamic navigational information.",
+  "authors": [
+    "Gao Wei",
+    "Shen Jiangrong",
+    "Lin Yipeng",
+    "Wang Kejun",
+    "Lin Zheng",
+    "Tang Huajin",
+    "Chen Xiaodong"
+  ],
+  "journal": "Computers in biology and medicine",
+  "year": "2023",
+  "doi": "10.1016/j.compbiomed.2023.107114",
+  "mesh": [
+    "Animals",
+    "Eye Movements",
+    "Parietal Lobe",
+    "Motion Perception",
+    "Photic Stimulation",
+    "Brain",
+    "Macaca mulatta"
+  ]
+}

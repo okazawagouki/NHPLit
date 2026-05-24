@@ -1,0 +1,20 @@
+{
+  "pmid": "37310489",
+  "title": "Extreme image transformations affect humans and machines differently.",
+  "abstract": "Some recent artificial neural networks (ANNs) claim to model aspects of primate neural and human performance data. Their success in object recognition is, however, dependent on exploiting low-level features for solving visual tasks in a way that humans do not. As a result, out-of-distribution or adversarial input is often challenging for ANNs. Humans instead learn abstract patterns and are mostly unaffected by many extreme image distortions. We introduce a set of novel image transforms inspired by neurophysiological findings and evaluate humans and ANNs on an object recognition task. We show that machines perform better than humans for certain transforms and struggle to perform at par with humans on others that are easy for humans. We quantify the differences in accuracy for humans and machines and find a ranking of difficulty for our transforms for human data. We also suggest how certain characteristics of human visual processing can be adapted to improve the performance of ANNs for our difficult-for-machines transforms.",
+  "authors": [
+    "Malik Girik",
+    "Crowder Dakarai",
+    "Mingolla Ennio"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2023",
+  "doi": "10.1007/s00422-023-00968-7",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Learning",
+    "Neural Networks, Computer",
+    "Visual Perception"
+  ]
+}

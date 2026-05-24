@@ -1,0 +1,20 @@
+{
+  "pmid": "26350398",
+  "title": "Estimating Directed Connectivity from Cortical Recordings and Reconstructed Sources.",
+  "abstract": "In cognitive neuroscience, electrical brain activity is most commonly recorded at the scalp. In order to infer the contributions and connectivity of underlying neuronal sources within the brain, it is necessary to reconstruct sensor data at the source level. Several approaches to this reconstruction have been developed, thereby solving the so-called implicit inverse problem Michel et al. (Clin Neurophysiol 115:2195-2222, 2004). However, a unifying premise against which to validate these source reconstructions is seldom available. The dataset provided in this work, in which brain activity is simultaneously recorded on the scalp (non-invasively) by electroencephalography (EEG) and on the cortex (invasively) by electrocorticography (ECoG), can be of a great help in this direction. These multimodal recordings were obtained from a macaque monkey under wakefulness and sedation. Our primary goal was to establish the connectivity architecture between two sources of interest (frontal and parietal), and to assess how their coupling changes over the conditions. We chose these sources because previous studies have shown that the connections between them are modified by anaesthesia Boly et al. (J Neurosci 32:7082-7090, 2012). Our secondary goal was to evaluate the consistency of the connectivity results when analyzing sources recorded from invasive data (128 implanted ECoG sources) and source activity reconstructed from scalp recordings (19 EEG sensors) at the same locations as the ECoG sources. We conclude that the directed connectivity in the frequency domain between cortical sources reconstructed from scalp EEG is qualitatively similar to the connectivity inferred directly from cortical recordings, using both data-driven (directed transfer function) and biologically grounded (dynamic causal modelling) methods. Furthermore, the connectivity changes identified were consistent with previous findings Boly et al. (J Neurosci 32:7082-7090, 2012). Our findings suggest that inferences about directed connectivity based upon non-invasive electrophysiological data have construct validity in relation to invasive recordings.",
+  "authors": [
+    "Papadopoulou Margarita",
+    "Friston Karl",
+    "Marinazzo Daniele"
+  ],
+  "journal": "Brain topography",
+  "year": "2019",
+  "doi": "10.1007/s10548-015-0450-6",
+  "mesh": [
+    "Brain",
+    "Brain Mapping",
+    "Electrocorticography",
+    "Electroencephalography",
+    "Humans"
+  ]
+}

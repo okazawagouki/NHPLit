@@ -1,0 +1,28 @@
+{
+  "pmid": "38851784",
+  "title": "Disparate nonlinear neural dynamics measured with different techniques in macaque and human V1.",
+  "abstract": "Diverse neuro-imaging techniques measure different aspects of neural responses with distinct spatial and temporal resolutions. Relating measured neural responses across different methods has been challenging. Here, we take a step towards overcoming this challenge, by comparing the nonlinearity of neural dynamics measured across methods. We used widefield voltage-sensitive dye imaging (VSDI) to measure neural population responses in macaque V1 to visual stimuli with a wide range of temporal waveforms. We found that stimulus-evoked VSDI responses are surprisingly near-additive in time. These results are qualitatively different from the strong sub-additive dynamics previously measured using fMRI and electrocorticography (ECoG) in human visual cortex with a similar set of stimuli. To test whether this discrepancy is specific to VSDI-a signal dominated by subthreshold neural activity, we repeated our measurements using widefield imaging of a genetically encoded calcium indicator (GcaMP6f)-a signal dominated by spiking activity, and found that GCaMP signals in macaque V1 are also near-additive. Therefore, the discrepancies in the extent of sub-additivity between the macaque and the human measurements are unlikely due to differences between sub- and supra-threshold neural responses. Finally, we use a simple yet flexible delayed normalization model to capture these different dynamics across measurements (with different model parameters). The model can potentially generalize to a broader set of stimuli, which aligns with previous suggestion that dynamic gain-control is a canonical computation contributing to neural processing in the brain.",
+  "authors": [
+    "Zhou Jingyang",
+    "Whitmire Matt",
+    "Chen Yuzhi",
+    "Seidemann Eyal"
+  ],
+  "journal": "Scientific reports",
+  "year": "2024",
+  "doi": "10.1038/s41598-024-63685-6",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Visual Cortex",
+    "Magnetic Resonance Imaging",
+    "Nonlinear Dynamics",
+    "Macaca",
+    "Electrocorticography",
+    "Photic Stimulation",
+    "Voltage-Sensitive Dye Imaging",
+    "Neurons",
+    "Male",
+    "Brain Mapping"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "23929124",
+  "title": "On parsing the neural code in the prefrontal cortex of primates using principal dynamic modes.",
+  "abstract": "Nonlinear modeling of multi-input multi-output (MIMO) neuronal systems using Principal Dynamic Modes (PDMs) provides a novel method for analyzing the functional connectivity between neuronal groups. This paper presents the PDM-based modeling methodology and initial results from actual multi-unit recordings in the prefrontal cortex of non-human primates. We used the PDMs to analyze the dynamic transformations of spike train activity from Layer 2 (input) to Layer 5 (output) of the prefrontal cortex in primates performing a Delayed-Match-to-Sample task. The PDM-based models reduce the complexity of representing large-scale neural MIMO systems that involve large numbers of neurons, and also offer the prospect of improved biological/physiological interpretation of the obtained models. PDM analysis of neuronal connectivity in this system revealed \"input-output channels of communication\" corresponding to specific bands of neural rhythms that quantify the relative importance of these frequency-specific PDMs across a variety of different tasks. We found that behavioral performance during the Delayed-Match-to-Sample task (correct vs. incorrect outcome) was associated with differential activation of frequency-specific PDMs in the prefrontal cortex.",
+  "authors": [
+    "Marmarelis V Z",
+    "Shin D C",
+    "Song D",
+    "Hampson R E",
+    "Deadwyler S A",
+    "Berger T W"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2014",
+  "doi": "10.1007/s10827-013-0475-3",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Prefrontal Cortex"
+  ]
+}

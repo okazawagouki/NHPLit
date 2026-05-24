@@ -1,0 +1,13 @@
+{
+  "pmid": "25337381",
+  "title": "Evaluation of Phase Locking and Cross Correlation Methods for Estimating the Time Lag between Brain Sites: A Simulation Approach.",
+  "abstract": "INTRODUCTION: Direction and latency of electrical connectivity between different sites of brain explains brain neural functionality. We compared efficiency of cross correlation and phase locking methods in time lag estimation which are based on local field potential (LFP) and LFP-spike signals, respectively. METHODS: Signals recorded from MT area of a macaque's brain was used in a simulation approach. The first signal was real brain activity and the second was identical to the first one, but with two kinds of delayed and not delayed forms. Time lag between two signals was estimated by cross correlation and phase locking methods. RESULTS: Both methods estimated the time lags with no errors. Phase locking was not as time efficient as correlation. In addition, phase locking suffered from temporal self bias. DISCUSSION: Correlation was a more efficient method. Phase locking was not considered as a proper method to estimate the time lags between brain sites due to time inefficiency and self bias, the problems which are reported for the first time about this method.",
+  "authors": [
+    "Soltanzadeh Mohammad Javad",
+    "Daliri Mohammad Reza"
+  ],
+  "journal": "Basic and clinical neuroscience",
+  "year": "2014",
+  "doi": "",
+  "mesh": []
+}

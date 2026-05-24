@@ -1,0 +1,22 @@
+{
+  "pmid": "26575648",
+  "title": "Tuning Properties of MT and MSTd and Divisive Interactions for Eye-Movement Compensation.",
+  "abstract": "The primate brain intelligently processes visual information from the world as the eyes move constantly. The brain must take into account visual motion induced by eye movements, so that visual information about the outside world can be recovered. Certain neurons in the dorsal part of monkey medial superior temporal area (MSTd) play an important role in integrating information about eye movements and visual motion. When a monkey tracks a moving target with its eyes, these neurons respond to visual motion as well as to smooth pursuit eye movements. Furthermore, the responses of some MSTd neurons to the motion of objects in the world are very similar during pursuit and during fixation, even though the visual information on the retina is altered by the pursuit eye movement. We call these neurons compensatory pursuit neurons. In this study we develop a computational model of MSTd compensatory pursuit neurons based on physiological data from single unit studies. Our model MSTd neurons can simulate the velocity tuning of monkey MSTd neurons. The model MSTd neurons also show the pursuit compensation property. We find that pursuit compensation can be achieved by divisive interaction between signals coding eye movements and signals coding visual motion. The model generates two implications that can be tested in future experiments: (1) compensatory pursuit neurons in MSTd should have the same direction preference for pursuit and retinal visual motion; (2) there should be non-compensatory pursuit neurons that show opposite preferred directions of pursuit and retinal visual motion.",
+  "authors": [
+    "Cao Bo",
+    "Mingolla Ennio",
+    "Yazdanbakhsh Arash"
+  ],
+  "journal": "PloS one",
+  "year": "2015",
+  "doi": "10.1371/journal.pone.0142964",
+  "mesh": [
+    "Animals",
+    "Eye Movements",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Neurons",
+    "Retina",
+    "Temporal Lobe"
+  ]
+}

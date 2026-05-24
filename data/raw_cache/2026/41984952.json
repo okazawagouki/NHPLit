@@ -1,0 +1,23 @@
+{
+  "pmid": "41984952",
+  "title": "Cross-species prediction reveals chromatin regions with increased accessibility in humans.",
+  "abstract": "Human-specific genetic variations have shaped unique traits by influencing gene expression. Open chromatin regions (OCRs) are critical regulatory elements associated with gene expression, so investigating the changes in chromatin accessibility is essential for understanding human evolution. Because of the limited availability of epigenetic data from great apes, we developed a convolutional neural network-based approach for cross-species prediction to identify regions of increased chromatin accessibility in humans, which we term \"human predicted increased chromatin accessibility regions\" (hPICAs). Leveraging the limited available assay for transposase-accessible chromatin sequencing (ATAC-seq) data, we demonstrated that models trained exclusively on human chromatin accessibility data can achieve accurate predictions in other primates. We constructed prediction models based on chromatin accessibility data from 111 human cell types and developed a framework to systematically identify hPICAs. We showed that variants within hPICAs are more likely to affect chromatin accessibility by altering transcription factor binding sites. Last, hPICAs are enriched in regions associated with human-specific traits, offering a previously unexplored perspective for investigating human evolution.",
+  "authors": [
+    "Wang Linxiao",
+    "Li Yurun",
+    "Han Dongmei",
+    "Wang Zhen"
+  ],
+  "journal": "Science advances",
+  "year": "2026",
+  "doi": "10.1126/sciadv.ady9169",
+  "mesh": [
+    "Humans",
+    "Chromatin",
+    "Animals",
+    "Binding Sites",
+    "Species Specificity",
+    "Transcription Factors",
+    "Computational Biology"
+  ]
+}

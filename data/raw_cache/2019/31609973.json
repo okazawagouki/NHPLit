@@ -1,0 +1,28 @@
+{
+  "pmid": "31609973",
+  "title": "Categorical encoding of decision variables in orbitofrontal cortex.",
+  "abstract": "A fundamental and recurrent question in systems neuroscience is that of assessing what variables are encoded by a given population of neurons. Such assessments are often challenging because neurons in one brain area may encode multiple variables, and because neuronal representations might be categorical or non-categorical. These issues are particularly pertinent to the representation of decision variables in the orbitofrontal cortex (OFC)-an area implicated in economic choices. Here we present a new algorithm to assess whether a neuronal representation is categorical or non-categorical, and to identify the encoded variables if the representation is indeed categorical. The algorithm is based on two clustering procedures, one variable-independent and the other variable-based. The two partitions are then compared through adjusted mutual information. The present algorithm overcomes limitations of previous approaches and is widely applicable. We tested the algorithm on synthetic data and then used it to examine neuronal data recorded in the primate OFC during economic decisions. Confirming previous assessments, we found the neuronal representation in OFC to be categorical in nature. We also found that neurons in this area encode the value of individual offers, the binary choice outcome and the chosen value. In other words, during economic choice, neurons in the primate OFC encode decision variables in a categorical way.",
+  "authors": [
+    "Onken Arno",
+    "Xie Jue",
+    "Panzeri Stefano",
+    "Padoa-Schioppa Camillo"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2019",
+  "doi": "10.1371/journal.pcbi.1006667",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Choice Behavior",
+    "Cluster Analysis",
+    "Computational Biology",
+    "Decision Making",
+    "Frontal Lobe",
+    "Macaca mulatta",
+    "Models, Theoretical",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Reward"
+  ]
+}

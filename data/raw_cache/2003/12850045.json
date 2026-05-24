@@ -1,0 +1,22 @@
+{
+  "pmid": "12850045",
+  "title": "Divide-and-conquer approach for brain machine interfaces: nonlinear mixture of competitive linear models.",
+  "abstract": "This paper proposes a divide-and-conquer strategy for designing brain machine interfaces. A nonlinear combination of competitively trained local linear models (experts) is used to identify the mapping from neuronal activity in cortical areas associated with arm movement to the hand position of a primate. The proposed architecture and the training algorithm are described in detail and numerical performance comparisons with alternative linear and nonlinear modeling approaches, including time-delay neural networks and recursive multilayer perceptrons, are presented. This new strategy allows training the local linear models using normalized LMS and using a relatively smaller nonlinear network to efficiently combine the predictions of the linear experts. This leads to savings in computational requirements, while the performance is still similar to a large fully nonlinear network.",
+  "authors": [
+    "Kim Sung-Phil",
+    "Sanchez Justin C",
+    "Erdogmus Deniz",
+    "Rao Yadunandana N",
+    "Wessberg Johan",
+    "Principe Jose C",
+    "Nicolelis Miguel"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Artificial Intelligence",
+    "Brain",
+    "Nonlinear Dynamics"
+  ]
+}

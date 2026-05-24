@@ -1,0 +1,29 @@
+{
+  "pmid": "27650101",
+  "title": "MUSIC-Expected maximization gaussian mixture methodology for clustering and detection of task-related neuronal firing rates.",
+  "abstract": "Researchers often rely on simple methods to identify involvement of neurons in a particular motor task. The historical approach has been to inspect large groups of neurons and subjectively separate neurons into groups based on the expertise of the investigator. In cases where neuron populations are small it is reasonable to inspect these neuronal recordings and their firing rates carefully to avoid data omissions. In this paper, a new methodology is presented for automatic objective classification of neurons recorded in association with behavioral tasks into groups. By identifying characteristics of neurons in a particular group, the investigator can then identify functional classes of neurons based on their relationship to the task. The methodology is based on integration of a multiple signal classification (MUSIC) algorithm to extract relevant features from the firing rate and an expectation-maximization Gaussian mixture algorithm (EM-GMM) to cluster the extracted features. The methodology is capable of identifying and clustering similar firing rate profiles automatically based on specific signal features. An empirical wavelet transform (EWT) was used to validate the features found in the MUSIC pseudospectrum and the resulting signal features captured by the methodology. Additionally, this methodology was used to inspect behavioral elements of neurons to physiologically validate the model. This methodology was tested using a set of data collected from awake behaving non-human primates.",
+  "authors": [
+    "Ortiz-Rosario Alexis",
+    "Adeli Hojjat",
+    "Buford John A"
+  ],
+  "journal": "Behavioural brain research",
+  "year": "2017",
+  "doi": "10.1016/j.bbr.2016.09.022",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Cues",
+    "Functional Laterality",
+    "Hand",
+    "Macaca fascicularis",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Normal Distribution",
+    "Principal Component Analysis",
+    "Psychomotor Performance",
+    "Signal Detection, Psychological"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "39680526",
+  "title": "Revisiting the standard for modeling functional brain network activity: Application to consciousness.",
+  "abstract": "Functional connectivity (FC) of resting-state fMRI time series can be estimated using methods that differ in their temporal sensitivity (static vs. dynamic) and the number of regions included in the connectivity estimation (derived from a prior atlas). This paper presents a novel framework for identifying and quantifying resting-state networks using resting-state fMRI recordings. The study employs a linear latent variable model to generate spatially distinct brain networks and their associated activities. It specifically addresses the atlas selection problem, and the statistical inference and multivariate analysis of the obtained brain network activities. The approach is demonstrated on a dataset of resting-state fMRI recordings from monkeys under different anesthetics using static FC. Our results suggest that two networks, one fronto-parietal and cingular and another temporo-parieto-occipital (posterior brain) strongly influences shifts in consciousness, especially between anesthesia and wakefulness. Interestingly, this observation aligns with the two prominent theories of consciousness: the global neural workspace and integrated information theories of consciousness. The proposed method is also able to decipher the level of anesthesia from the brain network activities. Overall, we provide a framework that can be effectively applied to other datasets and may be particularly useful for the study of disorders of consciousness.",
+  "authors": [
+    "Grigis Antoine",
+    "Gomez Chloé",
+    "Frouin Vincent",
+    "Duchesnay Edouard",
+    "Uhrig Lynn",
+    "Jarraya Béchir"
+  ],
+  "journal": "PloS one",
+  "year": "2024",
+  "doi": "10.1371/journal.pone.0314598",
+  "mesh": [
+    "Consciousness",
+    "Magnetic Resonance Imaging",
+    "Animals",
+    "Brain",
+    "Nerve Net",
+    "Models, Neurological",
+    "Brain Mapping",
+    "Wakefulness",
+    "Macaca mulatta",
+    "Male"
+  ]
+}

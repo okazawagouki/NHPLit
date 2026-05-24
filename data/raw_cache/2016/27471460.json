@@ -1,0 +1,16 @@
+{
+  "pmid": "27471460",
+  "title": "Visual Cortex Inspired CNN Model for Feature Construction in Text Analysis.",
+  "abstract": "Recently, biologically inspired models are gradually proposed to solve the problem in text analysis. Convolutional neural networks (CNN) are hierarchical artificial neural networks, which include a various of multilayer perceptrons. According to biological research, CNN can be improved by bringing in the attention modulation and memory processing of primate visual cortex. In this paper, we employ the above properties of primate visual cortex to improve CNN and propose a biological-mechanism-driven-feature-construction based answer recommendation method (BMFC-ARM), which is used to recommend the best answer for the corresponding given questions in community question answering. BMFC-ARM is an improved CNN with four channels respectively representing questions, answers, asker information and answerer information, and mainly contains two stages: biological mechanism driven feature construction (BMFC) and answer ranking. BMFC imitates the attention modulation property by introducing the asker information and answerer information of given questions and the similarity between them, and imitates the memory processing property through bringing in the user reputation information for answerers. Then the feature vector for answer ranking is constructed by fusing the asker-answerer similarities, answerer's reputation and the corresponding vectors of question, answer, asker, and answerer. Finally, the Softmax is used at the stage of answer ranking to get best answers by the feature vector. The experimental results of answer recommendation on the Stackexchange dataset show that BMFC-ARM exhibits better performance.",
+  "authors": [
+    "Fu Hongping",
+    "Niu Zhendong",
+    "Zhang Chunxia",
+    "Ma Jing",
+    "Chen Jie"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2016",
+  "doi": "10.3389/fncom.2016.00064",
+  "mesh": []
+}

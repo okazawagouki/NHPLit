@@ -1,0 +1,22 @@
+{
+  "pmid": "37005470",
+  "title": "Dynamical latent state computation in the male macaque posterior parietal cortex.",
+  "abstract": "Success in many real-world tasks depends on our ability to dynamically track hidden states of the world. We hypothesized that neural populations estimate these states by processing sensory history through recurrent interactions which reflect the internal model of the world. To test this, we recorded brain activity in posterior parietal cortex (PPC) of monkeys navigating by optic flow to a hidden target location within a virtual environment, without explicit position cues. In addition to sequential neural dynamics and strong interneuronal interactions, we found that the hidden state - monkey's displacement from the goal - was encoded in single neurons, and could be dynamically decoded from population activity. The decoded estimates predicted navigation performance on individual trials. Task manipulations that perturbed the world model induced substantial changes in neural interactions, and modified the neural representation of the hidden state, while representations of sensory and motor variables remained stable. The findings were recapitulated by a task-optimized recurrent neural network model, suggesting that task demands shape the neural interactions in PPC, leading them to embody a world model that consolidates information and tracks task-relevant hidden states.",
+  "authors": [
+    "Lakshminarasimhan Kaushik J",
+    "Avila Eric",
+    "Pitkow Xaq",
+    "Angelaki Dora E"
+  ],
+  "journal": "Nature communications",
+  "year": "2023",
+  "doi": "10.1038/s41467-023-37400-4",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Neurons",
+    "Cues",
+    "Macaca mulatta",
+    "Parietal Lobe"
+  ]
+}

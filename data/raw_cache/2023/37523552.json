@@ -1,0 +1,20 @@
+{
+  "pmid": "37523552",
+  "title": "Functional modules for visual scene segmentation in macaque visual cortex.",
+  "abstract": "Segmentation, the computation of object boundaries, is one of the most important steps in intermediate visual processing. Previous studies have reported cells across visual cortex that are modulated by segmentation features, but the functional role of these cells remains unclear. First, it is unclear whether these cells encode segmentation consistently since most studies used only a limited variety of stimulus types. Second, it is unclear whether these cells are organized into specialized modules or instead randomly scattered across the visual cortex: the former would lend credence to a functional role for putative segmentation cells. Here, we used fMRI-guided electrophysiology to systematically characterize the consistency and spatial organization of segmentation-encoding cells across the visual cortex. Using fMRI, we identified a set of patches in V2, V3, V3A, V4, and V4A that were more active for stimuli containing figures compared to ground, regardless of whether figures were defined by texture, motion, luminance, or disparity. We targeted these patches for single-unit recordings and found that cells inside segmentation patches were tuned to both figure-ground and borders more consistently across types of stimuli than cells in the visual cortex outside the patches. Remarkably, we found clusters of cells inside segmentation patches that showed the same border-ownership preference across all stimulus types. Finally, using a population decoding approach, we found that segmentation could be decoded with higher accuracy from segmentation patches than from either color-selective or control regions. Overall, our results suggest that segmentation signals are preferentially encoded in spatially discrete patches.",
+  "authors": [
+    "Hesse Janis K",
+    "Tsao Doris Y"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2023",
+  "doi": "10.1073/pnas.2221122120",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Visual Perception",
+    "Visual Cortex"
+  ]
+}

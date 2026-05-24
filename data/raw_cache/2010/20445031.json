@@ -1,0 +1,37 @@
+{
+  "pmid": "20445031",
+  "title": "The spatial profile of macaque MT neurons is consistent with Gaussian sampling of logarithmically coordinated visual representation.",
+  "abstract": "Neurons in extrastriate visual areas have large receptive fields (RFs) compared with those in primary visual cortex (V1), suggesting extensive spatial integration. To examine the spatial integration of neurons in area MT, we modeled the RFs of MT neurons based on a symmetrical (Gaussian) integration of V1 outputs and tested the model using single-unit recording in two fixating macaque monkeys. Because visual representation in V1 is logarithmically compressed along eccentricity, the resulting RF model is log-Gaussian along the radial axis in polar coordinates. To test the log-Gaussian model, the RF of each neuron was mapped on a 5 x 5 grid using a small patch of random dots drifting at the preferred velocity of the neuron. The majority of MT neurons had RFs with a steeper slope near the fovea and a shallower slope away from the fovea. Among various two-dimensional Gaussian models fitted to the RFs, the log-Gaussian model provided the best description. The fitted parameters revealed that the range of sampling by MT neurons has no systematic relationship with eccentricities, consistent with a recent study for V4 neurons. Our results suggest that MT neurons integrate inputs from constant-sized patches of V1 cortex.",
+  "authors": [
+    "Kumano Hironori",
+    "Uka Takanori"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2010",
+  "doi": "10.1152/jn.00040.2010",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Conditioning, Operant",
+    "Data Interpretation, Statistical",
+    "Databases, Factual",
+    "Discrimination, Psychological",
+    "Electrophysiological Phenomena",
+    "Eye Movements",
+    "Female",
+    "Fovea Centralis",
+    "Macaca",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Normal Distribution",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Vision, Ocular",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

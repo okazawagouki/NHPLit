@@ -1,0 +1,29 @@
+{
+  "pmid": "17011219",
+  "title": "Combined passive and active shimming for in vivo MR spectroscopy at high magnetic fields.",
+  "abstract": "The use of high magnetic fields increases the sensitivity and spectral dispersion in magnetic resonance spectroscopy (MRS) of brain metabolites. Practical limitations arise, however, from susceptibility-induced field distortions, which are increased at higher magnetic field strengths. Solutions to this problem include optimized shimming, provided that active, i.e., electronic, shimming can operate over a sufficient range. To meet our shim requirements, which were an order of magnitude greater than the active shim capacity of our 7T MR system, we developed a combined passive and active shim approach. Simple geometries of ferromagnetic shim elements were derived and numerically optimized to generate a complete set of second-order spherical harmonic shim functions in a modular manner. The major goals of the shim design were maximization of shim field accuracy and ease of practical implementation. The theoretically optimized ferro-shim geometries were mounted on a cylindrical surface and placed inside the magnet bore, surrounding the subject's head and the RF coil. Passive shimming generated very strong shim fields and eliminated the worst of the field distortions, after which the field was further optimized by flexible and highly accurate active shimming. Here, the passive-shimming procedure was first evaluated theoretically, then applied in phantom studies and subsequently validated for in vivo 1H MRS in the macaque visual cortex. No artifacts due to the passive shim setup were observed; adjustments were reproducible between sessions. The modularity and the reduction to two pieces per shim term in this study is an important simplification that makes the method applicable also for passive shimming within single sessions. The feasibility of very strong, flexible and high-quality shimming via a combined approach of passive and active shimming is of great practical relevance for MR imaging and spectroscopy at high field strengths where shim power is limited or where shimming of specific anatomical regions inherently requires strong shim fields.",
+  "authors": [
+    "Juchem Christoph",
+    "Muller-Bierl Bernd",
+    "Schick Fritz",
+    "Logothetis Nikos K",
+    "Pfeuffer Josef"
+  ],
+  "journal": "Journal of magnetic resonance (San Diego, Calif. : 1997)",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Chemistry",
+    "Cerebral Cortex",
+    "Computer-Aided Design",
+    "Equipment Design",
+    "Equipment Failure Analysis",
+    "Macaca",
+    "Magnetic Resonance Spectroscopy",
+    "Magnetics",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity"
+  ]
+}

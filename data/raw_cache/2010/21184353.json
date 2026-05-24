@@ -1,0 +1,27 @@
+{
+  "pmid": "21184353",
+  "title": "Neural correlates of skill acquisition with a cortical brain-machine interface.",
+  "abstract": "Research into the development of brain-machine interfaces (BMIs) has led to demonstrations of rodents, nonhuman primates, and humans controlling prosthetic devices in real time through modulation of neural signals. In particular, cortical BMI studies have shown that improvements in performance require learning and are associated with changes in neuronal tuning properties. These studies have further shown evidence of long-term improvements in performance with practice. The authors conducted experiments to understand long-term skill acquisition with BMIs and to characterize the neural correlates of improvements in task performance. They specifically assessed long-term acquisition of neuroprosthetic skill (i.e., accurate task performance readily recalled across days). In 2 monkeys performing a center-out task using a brain-controlled (BC) computer cursor, they closely monitored daily performance trends and the neural correlates under different conditions. Importantly, they assessed BC performance using a continuous-control multistep task. The authors first conducted experiments that mimicked experimental conditions commonly used. Specifically, a large set of neurons was incorporated with daily recalibration of the transform of neural activity to BC. Under such conditions, they found evidence of variable daily performance. In contrast, when a fixed transform was applied to stable recordings from an ensemble of neurons across days, there was consistent evidence of long-term skill acquisition. Such skill acquisition was associated with the crystallization of a cortical map for prosthetic control. Taken together, the results suggest that the primate motor cortex can achieve skilled control of a neuroprosthetic device through consolidation of a cortical representation.",
+  "authors": [
+    "Ganguly Karunesh",
+    "Carmena Jose M"
+  ],
+  "journal": "Journal of motor behavior",
+  "year": "2010",
+  "doi": "10.1080/00222895.2010.526457",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Macaca",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Motor Skills",
+    "Movement",
+    "Muscles",
+    "Neural Prostheses",
+    "Neurofeedback",
+    "Systems Theory",
+    "User-Computer Interface"
+  ]
+}

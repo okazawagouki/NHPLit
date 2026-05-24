@@ -1,0 +1,31 @@
+{
+  "pmid": "25347884",
+  "title": "Neuron selection based on deflection coefficient maximization for the neural decoding of dexterous finger movements.",
+  "abstract": "Future generations of brain-machine interface (BMI) will require more dexterous motion control such as hand and finger movements. Since a population of neurons in the primary motor cortex (M1) area is correlated with finger movements, neural activities recorded in M1 area are used to reconstruct an intended finger movement. In a BMI system, decoding discrete finger movements from a large number of input neurons does not guarantee a higher decoding accuracy in spite of the increase in computational burden. Hence, we hypothesize that selecting neurons important for coding dexterous flexion/extension of finger movements would improve the BMI performance. In this paper, two metrics are presented to quantitatively measure the importance of each neuron based on Bayes risk minimization and deflection coefficient maximization in a statistical decision problem. Since motor cortical neurons are active with movements of several different fingers, the proposed method is more suitable for a discrete decoding of flexion-extension finger movements than the previous methods for decoding reaching movements. In particular, the proposed metrics yielded high decoding accuracies across all subjects and also in the case of including six combined two-finger movements. While our data acquisition and analysis was done off-line and post processing, our results point to the significance of highly coding neurons in improving BMI performance.",
+  "authors": [
+    "Kim Yong-Hee",
+    "Thakor Nitish V",
+    "Schieber Marc H",
+    "Kim Hyoung-Nam"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2015",
+  "doi": "10.1109/TNSRE.2014.2363193",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Brain-Computer Interfaces",
+    "Equipment Design",
+    "Fingers",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Models, Theoretical",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Neural Prostheses",
+    "Psychomotor Performance",
+    "Reproducibility of Results"
+  ]
+}

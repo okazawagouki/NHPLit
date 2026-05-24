@@ -1,0 +1,28 @@
+{
+  "pmid": "31937557",
+  "title": "Spatial Arrangement Drastically Changes the Neural Representation of Multiple Visual Stimuli That Compete in More Than One Feature Domain.",
+  "abstract": "Natural scenes often contain multiple objects and surfaces. However, how neurons in the visual cortex represent multiple visual stimuli is not well understood. Previous studies have shown that, when multiple stimuli compete in one feature domain, the evoked neuronal response is biased toward the stimulus that has a stronger signal strength. We recorded from two male macaques to investigate how neurons in the middle temporal cortex (MT) represent multiple stimuli that compete in more than one feature domain. Visual stimuli were two random-dot patches moving in different directions. One stimulus had low luminance contrast and moved with high coherence, whereas the other had high contrast and moved with low coherence. We found that how MT neurons represent multiple stimuli depended on the spatial arrangement. When two stimuli were overlapping, MT responses were dominated by the stimulus component that had high contrast. When two stimuli were spatially separated within the receptive fields, the contrast dominance was abolished. We found the same results when using contrast to compete with motion speed. Our neural data and computer simulations using a V1-MT model suggest that the contrast dominance found with overlapping stimuli is due to normalization occurring at an input stage fed to MT, and MT neurons cannot overturn this bias based on their own feature selectivity. The interaction between spatially separated stimuli can largely be explained by normalization within MT. Our results revealed new rules on stimulus competition and highlighted the impact of hierarchical processing on representing multiple stimuli in the visual cortex.<b>SIGNIFICANCE STATEMENT</b> Previous studies have shown that the neural representation of multiple visual stimuli can be accounted for by a divisive normalization model. By using multiple stimuli that compete in more than one feature domain, we found that luminance contrast has a dominant effect in determining competition between multiple stimuli when they are overlapping but not spatially separated. Our results revealed that neuronal responses to multiple stimuli in a given cortical area cannot be simply predicted by the population neural responses elicited in that area by the individual stimulus components. To understand the neural representation of multiple stimuli, rather than considering response normalization only within the area of interest, one must consider the computations including normalization occurring along the hierarchical visual pathway.",
+  "authors": [
+    "Wiesner Steven",
+    "Baumgart Ian W",
+    "Huang Xin"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2020",
+  "doi": "10.1523/JNEUROSCI.1950-19.2020",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Contrast Sensitivity",
+    "Macaca mulatta",
+    "Male",
+    "Motion Perception",
+    "Photic Stimulation",
+    "Temporal Lobe",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

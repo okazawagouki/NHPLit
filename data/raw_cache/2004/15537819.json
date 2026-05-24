@@ -1,0 +1,24 @@
+{
+  "pmid": "15537819",
+  "title": "Distributed population mechanism for the 3-D oculomotor reference frame transformation.",
+  "abstract": "Human saccades require a nonlinear, eye orientation-dependent reference frame transformation to transform visual codes to the motor commands for eye muscles. Primate neurophysiology suggests that this transformation is performed between the superior colliculus and brain stem burst neurons, but provides little clues as to how this is done. To understand how the brain might accomplish this, we trained a 3-layer neural net to generate accurate commands for kinematically correct 3-D saccades. The inputs to the network were a 2-D, eye-centered, topographic map of Gaussian visual receptive fields and an efference copy of eye position in 6-dimensional, push-pull \"neural integrator\" coordinates. The output was an eye orientation displacement command in similar coordinates appropriate to drive brain stem burst neurons. The network learned to generate accurate, kinematically correct saccades, including the eye orientation-dependent tilts in saccade motor error commands required to match saccade trajectories to their visual input. Our analysis showed that the hidden units developed complex, eye-centered visual receptive fields, widely distributed fixed-vector motor commands, and \"gain field\"-like eye position sensitivities. The latter evoked subtle adjustments in the relative motor contributions of each hidden unit, thereby rotating the population motor vector into the correct correspondence with the visual target input for each eye orientation: a distributed population mechanism for the visuomotor reference frame transformation. These findings were robust; there was little variation across networks with between 9 and 49 hidden units. Because essentially the same observations have been reported in the visuomotor transformations of the real oculomotor system, as well as other visuomotor systems (although interpreted elsewhere in terms of other models) we suggest that the mechanism for visuomotor reference frame transformations identified here is the same solution used in the real brain.",
+  "authors": [
+    "Smith Michael A",
+    "Crawford J Douglas"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Feedback",
+    "Functional Laterality",
+    "Humans",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Orientation",
+    "Psychomotor Performance",
+    "Saccades",
+    "Visual Fields",
+    "Visual Perception"
+  ]
+}

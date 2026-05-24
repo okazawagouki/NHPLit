@@ -1,0 +1,31 @@
+{
+  "pmid": "25569757",
+  "title": "A multi-channel, flex-rigid ECoG microelectrode array for visual cortical interfacing.",
+  "abstract": "High-density electrocortical (ECoG) microelectrode arrays are promising signal-acquisition platforms for brain-computer interfaces envisioned, e.g., as high-performance communication solutions for paralyzed persons. We propose a multi-channel microelectrode array capable of recording ECoG field potentials with high spatial resolution. The proposed array is of a 150 mm2 total recording area; it has 124 circular electrodes (100, 300 and 500 µm in diameter) situated on the edges of concentric hexagons (min. 0.8 mm interdistance) and a skull-facing reference electrode (2.5 mm2 surface area). The array is processed as a free-standing device to enable monolithic integration of a rigid interposer, designed for soldering of fine-pitch SMD-connectors on a minimal assembly area. Electrochemical characterization revealed distinct impedance spectral bands for the 100, 300 and 500 µm-type electrodes, and for the array's own reference. Epidural recordings from the primary visual cortex (V1) of an awake Rhesus macaque showed natural electrophysiological signals and clear responses to standard visual stimulation. The ECoG electrodes of larger surface area recorded signals with greater spectral power in the gamma band, while the skull-facing reference electrode provided higher average gamma power spectral density (γPSD) than the common average referencing technique.",
+  "authors": [
+    "Tolstosheeva Elena",
+    "Gordillo-González Víctor",
+    "Biefeld Volker",
+    "Kempen Ludger",
+    "Mandon Sunita",
+    "Kreiter Andreas K",
+    "Lang Walter"
+  ],
+  "journal": "Sensors (Basel, Switzerland)",
+  "year": "2015",
+  "doi": "10.3390/s150100832",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Dielectric Spectroscopy",
+    "Electroencephalography",
+    "Electrophysiological Phenomena",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Microtechnology",
+    "Signal Processing, Computer-Assisted",
+    "Sodium Chloride",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

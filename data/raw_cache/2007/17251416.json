@@ -1,0 +1,24 @@
+{
+  "pmid": "17251416",
+  "title": "Neural variability, detection thresholds, and information transmission in the vestibular system.",
+  "abstract": "A fundamental issue in neural coding is the role of spike timing variation in information transmission of sensory stimuli. Vestibular afferents are particularly well suited to study this issue because they are classified as either regular or irregular based on resting discharge variability as well as morphology. Here, we compared the responses of each afferent class to sinusoidal and random head rotations using both information theoretic and gain measures. Information theoretic measures demonstrated that regular afferents transmitted, on average, two times more information than irregular afferents, despite having significantly lower gains. Moreover, consistent with information theoretic measures, regular afferents had angular velocity detection thresholds that were 50% lower than those of irregular afferents (approximately 4 vs 8 degrees/s). Finally, to quantify the information carried by spike times, we added spike-timing jitter to the spike trains of both regular and irregular afferents. Our results showed that this significantly reduced information transmitted by regular afferents whereas it had little effect on irregular afferents. Thus, information is carried in the spike times of regular but not irregular afferents. Using a simple leaky integrate and fire model with a dynamic threshold, we show that differential levels of intrinsic noise can explain differences in the resting discharge, the responses to sensory stimuli, as well as the information carried by action potential timings of each afferent class. Our experimental and modeling results provide new insights as to how neural variability influences the strategy used by two different classes of sensory neurons to encode behaviorally relevant stimuli.",
+  "authors": [
+    "Sadeghi Soroush G",
+    "Chacron Maurice J",
+    "Taylor Michael C",
+    "Cullen Kathleen E"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Differential Threshold",
+    "Head Movements",
+    "Macaca fascicularis",
+    "Neurons",
+    "Synaptic Transmission",
+    "Vestibule, Labyrinth"
+  ]
+}

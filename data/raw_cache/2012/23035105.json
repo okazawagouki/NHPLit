@@ -1,0 +1,34 @@
+{
+  "pmid": "23035105",
+  "title": "Population response to natural images in the primary visual cortex encodes local stimulus attributes and perceptual processing.",
+  "abstract": "The primary visual cortex (V1) is extensively studied with a large repertoire of stimuli, yet little is known about its encoding of natural images. Using voltage-sensitive dye imaging in behaving monkeys, we measured neural population response evoked in V1 by natural images presented during a face/scramble discrimination task. The population response showed two distinct phases of activity: an early phase that was spread over most of the imaged area, and a late phase that was spatially confined. To study the detailed relation between the stimulus and the population response, we used a simple encoding model to compute a continuous map of the expected neural response based on local attributes of the stimulus (luminance and contrast), followed by an analytical retinotopic transformation. Then, we computed the spatial correlation between the maps of the expected and observed response. We found that the early response was highly correlated with the local luminance of the stimulus and was sufficient to effectively discriminate between stimuli at the single trial level. The late response, on the other hand, showed a much lower correlation to the local luminance, was confined to central parts of the face images, and was highly correlated with the animal's perceptual report. Our study reveals a continuous spatial encoding of low- and high-level features of natural images in V1. The low level is directly linked to the stimulus basic local attributes and the high level is correlated with the perceptual outcome of the stimulus processing.",
+  "authors": [
+    "Ayzenshtat Inbal",
+    "Gilad Ariel",
+    "Zurawel Guy",
+    "Slovin Hamutal"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2012",
+  "doi": "10.1523/JNEUROSCI.1596-12.2012",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Contrast Sensitivity",
+    "Discrimination, Psychological",
+    "Face",
+    "Fixation, Ocular",
+    "Light",
+    "Macaca fascicularis",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Time Factors",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception",
+    "Voltage-Sensitive Dye Imaging"
+  ]
+}

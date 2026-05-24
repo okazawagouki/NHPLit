@@ -1,0 +1,36 @@
+{
+  "pmid": "15462141",
+  "title": "Automatic foveation for video compression using a neurobiological model of visual attention.",
+  "abstract": "We evaluate the applicability of a biologically-motivated algorithm to select visually-salient regions of interest in video streams for multiply-foveated video compression. Regions are selected based on a nonlinear integration of low-level visual cues, mimicking processing in primate occipital, and posterior parietal cortex. A dynamic foveation filter then blurs every frame, increasingly with distance from salient locations. Sixty-three variants of the algorithm (varying number and shape of virtual foveas, maximum blur, and saliency competition) are evaluated against an outdoor video scene, using MPEG-1 and constant-quality MPEG-4 (DivX) encoding. Additional compression radios of 1.1 to 8.5 are achieved by foveation. Two variants of the algorithm are validated against eye fixations recorded from four to six human observers on a heterogeneous collection of 50 video clips (over 45 000 frames in total). Significantly higher overlap than expected by chance is found between human and algorithmic foveations. With both variants, foveated clips are, on average, approximately half the size of unfoveated clips, for both MPEG-1 and MPEG-4. These results suggest a general-purpose usefulness of the algorithm in improving compression ratios of unconstrained video.",
+  "authors": [
+    "Itti Laurent"
+  ],
+  "journal": "IEEE transactions on image processing : a publication of the IEEE Signal Processing Society",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Adult",
+    "Algorithms",
+    "Artificial Intelligence",
+    "Attention",
+    "Biomimetics",
+    "Computer Graphics",
+    "Computer Simulation",
+    "Data Compression",
+    "Eye Movements",
+    "Female",
+    "Fovea Centralis",
+    "Humans",
+    "Image Enhancement",
+    "Male",
+    "Models, Neurological",
+    "Numerical Analysis, Computer-Assisted",
+    "Pattern Recognition, Automated",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Signal Processing, Computer-Assisted",
+    "User-Computer Interface",
+    "Video Recording",
+    "Visual Perception"
+  ]
+}

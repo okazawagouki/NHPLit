@@ -1,0 +1,22 @@
+{
+  "pmid": "36116617",
+  "title": "Understanding transformation tolerant visual object representations in the human brain and convolutional neural networks.",
+  "abstract": "Forming transformation-tolerant object representations is critical to high-level primate vision. Despite its significance, many details of tolerance in the human brain remain unknown. Likewise, despite the ability of convolutional neural networks (CNNs) to exhibit human-like object categorization performance, whether CNNs form tolerance similar to that of the human brain is unknown. Here we provide the first comprehensive documentation and comparison of three tolerance measures in the human brain and CNNs. We measured fMRI responses from human ventral visual areas to real-world objects across both Euclidean and non-Euclidean feature changes. In single fMRI voxels in higher visual areas, we observed robust object response rank-order preservation across feature changes. This is indicative of functional smoothness in tolerance at the fMRI meso-scale level that has never been reported before. At the voxel population level, we found highly consistent object representational structure across feature changes towards the end of ventral processing. Rank-order preservation, consistency, and a third tolerance measure, cross-decoding success (i.e., a linear classifier's ability to generalize performance across feature changes) showed an overall tight coupling. These tolerance measures were in general lower for Euclidean than non-Euclidean feature changes in lower visual areas, but increased over the course of ventral processing for all feature changes. These characteristics of tolerance, however, were absent in eight CNNs pretrained with ImageNet images with varying network architecture, depth, the presence/absence of recurrent processing, or whether a network was pretrained with the original or stylized ImageNet images that encouraged shape processing. CNNs do not appear to develop the same kind of tolerance as the human brain over the course of visual processing.",
+  "authors": [
+    "Xu Yaoda",
+    "Vaziri-Pashkam Maryam"
+  ],
+  "journal": "NeuroImage",
+  "year": "2022",
+  "doi": "10.1016/j.neuroimage.2022.119635",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Pattern Recognition, Visual",
+    "Neural Networks, Computer",
+    "Visual Perception",
+    "Brain",
+    "Magnetic Resonance Imaging",
+    "Brain Mapping"
+  ]
+}

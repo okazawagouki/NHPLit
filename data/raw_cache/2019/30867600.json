@@ -1,0 +1,28 @@
+{
+  "pmid": "30867600",
+  "title": "Feature-selective encoding of substrate vibrations in the forelimb somatosensory cortex.",
+  "abstract": "The spectral content of skin vibrations, produced by either displacing the finger across a surface texture<sup>1</sup> or passively sensing external movements through the solid substrate<sup>2,3</sup>, provides fundamental information about our environment. Low-frequency flutter (below 50 Hz) applied locally to the primate fingertip evokes cyclically entrained spiking in neurons of the primary somatosensory cortex (S1), and thus spike rates in these neurons increase linearly with frequency<sup>4,5</sup>. However, the same local vibrations at high frequencies (over 100 Hz) cannot be discriminated on the basis of differences in discharge rates of S1 neurons<sup>4,6</sup>, because spiking is only partially entrained at these frequencies<sup>6</sup>. Here we investigated whether high-frequency substrate vibrations applied broadly to the mouse forelimb rely on a different cortical coding scheme. We found that forelimb S1 neurons encode vibration frequency similarly to sound pitch representation in the auditory cortex<sup>7,8</sup>: their spike rates are selectively tuned to a preferred value of a low-level stimulus feature without any temporal entrainment. This feature, identified as the product of frequency and a power function of amplitude, was also found to be perceptually relevant as it predicted behaviour in a frequency discrimination task. Using histology, peripheral deafferentation and optogenetic receptor tagging, we show that these selective responses are inherited from deep Pacinian corpuscles located adjacent to bones, most densely around the ulna and radius and only sparsely along phalanges. This mechanoreceptor arrangement and the tuned cortical rate code suggest that the mouse forelimb constitutes a sensory channel best adapted for passive 'listening' to substrate vibrations, rather than for active texture exploration.",
+  "authors": [
+    "Prsa Mario",
+    "Morandell Karin",
+    "Cuenu Géraldine",
+    "Huber Daniel"
+  ],
+  "journal": "Nature",
+  "year": "2019",
+  "doi": "10.1038/s41586-019-1015-8",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Female",
+    "Forelimb",
+    "Male",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Neurons",
+    "Physical Stimulation",
+    "Somatosensory Cortex",
+    "Touch Perception",
+    "Vibration"
+  ]
+}

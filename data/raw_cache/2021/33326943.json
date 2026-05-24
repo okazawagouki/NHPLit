@@ -1,0 +1,29 @@
+{
+  "pmid": "33326943",
+  "title": "Sufficient sampling for kriging prediction of cortical potential in rat, monkey, and human µECoG.",
+  "abstract": "<i>Objective</i>. Large channel count surface-based electrophysiology arrays (e.g. µECoG) are high-throughput neural interfaces with good chronic stability. Electrode spacing remains ad hoc due to redundancy and nonstationarity of field dynamics. Here, we establish a criterion for electrode spacing based on the expected accuracy of predicting unsampled field potential from sampled sites.<i>Approach</i>. We applied spatial covariance modeling and field prediction techniques based on geospatial kriging to quantify sufficient sampling for thousands of 500 ms µECoG snapshots in human, monkey, and rat. We calculated a probably approximately correct (PAC) spacing based on kriging that would be required to predict µECoG fields at≤10% error for most cases (95% of observations).<i>Main results</i>. Kriging theory accurately explained the competing effects of electrode density and noise on predicting field potential. Across five frequency bands from 4-7 to 75-300 Hz, PAC spacing was sub-millimeter for auditory cortex in anesthetized and awake rats, and posterior superior temporal gyrus in anesthetized human. At 75-300 Hz, sub-millimeter PAC spacing was required in all species and cortical areas.<i>Significance</i>. PAC spacing accounted for the effect of signal-to-noise on prediction quality and was sensitive to the full distribution of non-stationary covariance states. Our results show that µECoG arrays should sample at sub-millimeter resolution for applications in diverse cortical areas and for noise resilience.",
+  "authors": [
+    "Trumpis Michael",
+    "Chiang Chia-Han",
+    "Orsborn Amy L",
+    "Bent Brinnae",
+    "Li Jinghua",
+    "Rogers John A",
+    "Pesaran Bijan",
+    "Cogan Gregory",
+    "Viventi Jonathan"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2021",
+  "doi": "10.1088/1741-2552/abd460",
+  "mesh": [
+    "Animals",
+    "Auditory Cortex",
+    "Electrocorticography",
+    "Electrodes, Implanted",
+    "Haplorhini",
+    "Humans",
+    "Rats",
+    "Spatial Analysis"
+  ]
+}

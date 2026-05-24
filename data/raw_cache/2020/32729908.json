@@ -1,0 +1,21 @@
+{
+  "pmid": "32729908",
+  "title": "Constrained sampling from deep generative image models reveals mechanisms of human target detection.",
+  "abstract": "The first steps of visual processing are often described as a bank of oriented filters followed by divisive normalization. This approach has been tremendously successful at predicting contrast thresholds in simple visual displays. However, it is unclear to what extent this kind of architecture also supports processing in more complex visual tasks performed in naturally looking images. We used a deep generative image model to embed arc segments with different curvatures in naturalistic images. These images contain the target as part of the image scene, resulting in considerable appearance variation of target as well as background. Three observers localized arc targets in these images, with an average accuracy of 74.7%. Data were fit by several biologically inspired models, four standard deep convolutional neural networks (CNNs), and a five-layer CNN specifically trained for this task. Four models predicted observer responses particularly well; (1) a bank of oriented filters, similar to complex cells in primate area V1; (2) a bank of oriented filters followed by tuned gain control, incorporating knowledge about cortical surround interactions; (3) a bank of oriented filters followed by local normalization; and (4) the five-layer CNN. A control experiment with optimized stimuli based on these four models showed that the observers' data were best explained by model (2) with tuned gain control. These data suggest that standard models of early vision provide good descriptions of performance in much more complex tasks than what they were designed for, while general-purpose non linear models such as convolutional neural networks do not.",
+  "authors": [
+    "Fruend Ingo"
+  ],
+  "journal": "Journal of vision",
+  "year": "2020",
+  "doi": "10.1167/jov.20.7.32",
+  "mesh": [
+    "Adult",
+    "Computational Biology",
+    "Form Perception",
+    "Humans",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Visual Perception",
+    "Young Adult"
+  ]
+}

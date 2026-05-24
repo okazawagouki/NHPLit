@@ -1,0 +1,17 @@
+{
+  "pmid": "17324497",
+  "title": "Learning the selectivity of V2 and V4 neurons using non-linear multi-layer wavelet networks.",
+  "abstract": "We investigate a non-linear network with two processing stages optimized to reduce the statistical dependencies in natural images. This network serves as a model for the neural information processing in the higher visual areas of primates (visual cortices V2-V4). The resulting population is analyzed with regard to non-linear selectivity and invariance properties. We find units that are very selective with respect to the space spanned by all possible input signals and units that are invariant with respect to certain stimulus classes. In comparison to the measured distribution of selectivity in V2 neurons, the selectivity histogram of the network units shows an even more pronounced tendency towards higher selectivities. A special property of the system is the emergence of non-linear interactions between coefficients from different scales and orientations, which are necessary for the exploitation of higher-order statistical redundancies of natural images. We extend the concept to multi-layer systems and present some simulation results.",
+  "authors": [
+    "Nuding U",
+    "Zetzsche C"
+  ],
+  "journal": "Bio Systems",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Nerve Net",
+    "Neurons",
+    "Sensitivity and Specificity"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "42045070",
+  "title": "The Spatiotemporal Structure of Neural Activity in Motor Cortex during Reaching.",
+  "abstract": "Intracortical brain-computer interfaces (BCIs) leverage knowledge about neural representations to translate movement-related neural activity into actions. BCI implants have targeted broad cortical regions known to have relevant motor representations, but emerging technologies allow flexible targeting to specific neural populations. The structure of motor representations in neural populations across frontal motor cortices, which span centimeters, has not been well characterized. We investigate how motor representations and population dynamics (temporal coordination) vary across a large expanse of frontal motor cortices. We used high-density, laminar, microelectrode arrays to record many neurons, sampling neural populations across frontal motor cortex while two male monkeys performed a reaching task. Our experiments allowed us to map neuronal activity across three spatial dimensions and relate them to movement. Target decoding analysis revealed that target direction information (one key aspect of task information) was heterogeneously distributed across the cortical surface and in depth. Similarly, we found that the temporal dynamics of different neural populations was highly variable, but that the amount of task information predicted which neural populations had similar dynamics. The neural populations with the most similar dynamics were composed of neurons with high task information regardless of spatial location. Our results highlight the spatiotemporal complexity of motor representations across frontal motor cortex at the level of neurons and neural populations, where well-learned movements consistently recruit a spatially distributed subset of neurons. Further insights into the spatiotemporal structure of neural activity patterns across frontal motor cortex will be critical to guide future implants for improved BCI performance.",
+  "authors": [
+    "Canfield Ryan A",
+    "Ouchi Tomohiro",
+    "Fang Hao",
+    "Macagno Beatrice",
+    "Smith Lydia I",
+    "Scholl Leo R",
+    "Orsborn Amy L"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2026",
+  "doi": "10.1523/JNEUROSCI.1965-25.2026",
+  "mesh": [
+    "Animals",
+    "Motor Cortex",
+    "Male",
+    "Macaca mulatta",
+    "Neurons",
+    "Brain-Computer Interfaces",
+    "Psychomotor Performance",
+    "Movement",
+    "Brain Mapping",
+    "Action Potentials"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "38285454",
+  "title": "Asymmetric stimulus representations bias visual perceptual learning.",
+  "abstract": "The primate visual cortex contains various regions that exhibit specialization for different stimulus properties, such as motion, shape, and color. Within each region, there is often further specialization, such that particular stimulus features, such as horizontal and vertical orientations, are over-represented. These asymmetries are associated with well-known perceptual biases, but little is known about how they influence visual learning. Most theories would predict that learning is optimal, in the sense that it is unaffected by these asymmetries. However, other approaches to learning would result in specific patterns of perceptual biases. To distinguish between these possibilities, we trained human observers to discriminate between expanding and contracting motion patterns, which have a highly asymmetrical representation in the visual cortex. Observers exhibited biased percepts of these stimuli, and these biases were affected by training in ways that were often suboptimal. We simulated different neural network models and found that a learning rule that involved only adjustments to decision criteria, rather than connection weights, could account for our data. These results suggest that cortical asymmetries influence visual perception and that human observers often rely on suboptimal strategies for learning.",
+  "authors": [
+    "Laamerad Pooya",
+    "Awada Asmara",
+    "Pack Christopher C",
+    "Bakhtiari Shahab"
+  ],
+  "journal": "Journal of vision",
+  "year": "2024",
+  "doi": "10.1167/jov.24.1.10",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Spatial Learning",
+    "Bias",
+    "Motion",
+    "Neural Networks, Computer",
+    "Visual Cortex"
+  ]
+}

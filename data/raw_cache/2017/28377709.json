@@ -1,0 +1,14 @@
+{
+  "pmid": "28377709",
+  "title": "The Role of Architectural and Learning Constraints in Neural Network Models: A Case Study on Visual Space Coding.",
+  "abstract": "The recent \"deep learning revolution\" in artificial neural networks had strong impact and widespread deployment for engineering applications, but the use of deep learning for neurocomputational modeling has been so far limited. In this article we argue that unsupervised deep learning represents an important step forward for improving neurocomputational models of perception and cognition, because it emphasizes the role of generative learning as opposed to discriminative (supervised) learning. As a case study, we present a series of simulations investigating the emergence of neural coding of visual space for sensorimotor transformations. We compare different network architectures commonly used as building blocks for unsupervised deep learning by systematically testing the type of receptive fields and gain modulation developed by the hidden neurons. In particular, we compare Restricted Boltzmann Machines (RBMs), which are stochastic, generative networks with bidirectional connections trained using contrastive divergence, with autoencoders, which are deterministic networks trained using error backpropagation. For both learning architectures we also explore the role of sparse coding, which has been identified as a fundamental principle of neural computation. The unsupervised models are then compared with supervised, feed-forward networks that learn an explicit mapping between different spatial reference frames. Our simulations show that both architectural and learning constraints strongly influenced the emergent coding of visual space in terms of distribution of tuning functions at the level of single neurons. Unsupervised models, and particularly RBMs, were found to more closely adhere to neurophysiological data from single-cell recordings in the primate parietal cortex. These results provide new insights into how basic properties of artificial neural networks might be relevant for modeling neural information processing in biological systems.",
+  "authors": [
+    "Testolin Alberto",
+    "De Filippo De Grazia Michele",
+    "Zorzi Marco"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2017",
+  "doi": "10.3389/fncom.2017.00013",
+  "mesh": []
+}

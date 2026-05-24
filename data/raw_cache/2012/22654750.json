@@ -1,0 +1,13 @@
+{
+  "pmid": "22654750",
+  "title": "The role of pulvinar in the transmission of information in the visual hierarchy.",
+  "abstract": "VISUAL RECEPTIVE FIELD (RF) ATTRIBUTES IN VISUAL CORTEX OF PRIMATES HAVE BEEN EXPLAINED MAINLY FROM CORTICAL CONNECTIONS: visual RFs progress from simple to complex through cortico-cortical pathways from lower to higher levels in the visual hierarchy. This feedforward flow of information is paired with top-down processes through the feedback pathway. Although the hierarchical organization explains the spatial properties of RFs, is unclear how a non-linear transmission of activity through the visual hierarchy can yield smooth contrast response functions in all level of the hierarchy. Depending on the gain, non-linear transfer functions create either a bimodal response to contrast, or no contrast dependence of the response in the highest level of the hierarchy. One possible mechanism to regulate this transmission of visual contrast information from low to high level involves an external component that shortcuts the flow of information through the hierarchy. A candidate for this shortcut is the Pulvinar nucleus of the thalamus. To investigate representation of stimulus contrast a hierarchical model network of ten cortical areas is examined. In each level of the network, the activity from the previous layer is integrated and then non-linearly transmitted to the next level. The arrangement of interactions creates a gradient from simple to complex RFs of increasing size as one moves from lower to higher cortical levels. The visual input is modeled as a Gaussian random input, whose width codes for the contrast. This input is applied to the first area. The output activity ratio among different contrast values is analyzed for the last level to observe sensitivity to a contrast and contrast invariant tuning. For a purely cortical system, the output of the last area can be approximately contrast invariant, but the sensitivity to contrast is poor. To account for an alternative visual processing pathway, non-reciprocal connections from and to a parallel pulvinar like structure of nine areas is coupled to the system. Compared to the pure feedforward model, cortico-pulvino-cortical output presents much more sensitivity to contrast and has a similar level of contrast invariance of the tuning.",
+  "authors": [
+    "Cortes Nelson",
+    "van Vreeswijk Carl"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2012",
+  "doi": "10.3389/fncom.2012.00029",
+  "mesh": []
+}

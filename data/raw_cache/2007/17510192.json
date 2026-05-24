@@ -1,0 +1,29 @@
+{
+  "pmid": "17510192",
+  "title": "Computing vector differences using a gain field-like mechanism in monkey frontal eye field.",
+  "abstract": "Signals related to eye position are essential for visual perception and eye movements, and are powerful modulators of sensory responses in many regions of the visual and oculomotor systems. We show that visual and pre-saccadic responses of frontal eye field (FEF) neurons are modulated by initial eye position in a way suggestive of a multiplicative mechanism (gain field). Furthermore the slope of the eye position sensitivity tends to be negatively correlated with preferred retinal position across the population. A model with Gaussian visual receptive fields and linear-rectified eye position gain fields accounts for a large portion of the variance in the recorded data. Using physiologically derived parameters, this model is able to subtract the gaze shift from the vector representing the retinal location of the target. This computation might be used to maintain a memory of target location in space during ongoing eye movements. This updated spatial memory can be read directly from the locus of the peak of activity across the retinotopic map of FEF and it is the result of a vector subtraction between retinal target location when flashed and subsequent eye displacement in the dark.",
+  "authors": [
+    "Cassanello Carlos R",
+    "Ferrera Vincent P"
+  ],
+  "journal": "The Journal of physiology",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Artifacts",
+    "Electric Stimulation",
+    "Eye Movements",
+    "Fixation, Ocular",
+    "Linear Models",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Neurons",
+    "Normal Distribution",
+    "Photic Stimulation",
+    "Retina",
+    "Saccades",
+    "Vision, Ocular",
+    "Visual Fields"
+  ]
+}

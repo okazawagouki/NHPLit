@@ -1,0 +1,38 @@
+{
+  "pmid": "28202786",
+  "title": "Dopamine Modulates Adaptive Prediction Error Coding in the Human Midbrain and Striatum.",
+  "abstract": "Learning to optimally predict rewards requires agents to account for fluctuations in reward value. Recent work suggests that individuals can efficiently learn about variable rewards through adaptation of the learning rate, and coding of prediction errors relative to reward variability. Such adaptive coding has been linked to midbrain dopamine neurons in nonhuman primates, and evidence in support for a similar role of the dopaminergic system in humans is emerging from fMRI data. Here, we sought to investigate the effect of dopaminergic perturbations on adaptive prediction error coding in humans, using a between-subject, placebo-controlled pharmacological fMRI study with a dopaminergic agonist (bromocriptine) and antagonist (sulpiride). Participants performed a previously validated task in which they predicted the magnitude of upcoming rewards drawn from distributions with varying SDs. After each prediction, participants received a reward, yielding trial-by-trial prediction errors. Under placebo, we replicated previous observations of adaptive coding in the midbrain and ventral striatum. Treatment with sulpiride attenuated adaptive coding in both midbrain and ventral striatum, and was associated with a decrease in performance, whereas bromocriptine did not have a significant impact. Although we observed no differential effect of SD on performance between the groups, computational modeling suggested decreased behavioral adaptation in the sulpiride group. These results suggest that normal dopaminergic function is critical for adaptive prediction error coding, a key property of the brain thought to facilitate efficient learning in variable environments. Crucially, these results also offer potential insights for understanding the impact of disrupted dopamine function in mental illness.<b>SIGNIFICANCE STATEMENT</b> To choose optimally, we have to learn what to expect. Humans dampen learning when there is a great deal of variability in reward outcome, and two brain regions that are modulated by the brain chemical dopamine are sensitive to reward variability. Here, we aimed to directly relate dopamine to learning about variable rewards, and the neural encoding of associated teaching signals. We perturbed dopamine in healthy individuals using dopaminergic medication and asked them to predict variable rewards while we made brain scans. Dopamine perturbations impaired learning and the neural encoding of reward variability, thus establishing a direct link between dopamine and adaptation to reward variability. These results aid our understanding of clinical conditions associated with dopaminergic dysfunction, such as psychosis.",
+  "authors": [
+    "Diederen Kelly M J",
+    "Ziauddeen Hisham",
+    "Vestergaard Martin D",
+    "Spencer Tom",
+    "Schultz Wolfram",
+    "Fletcher Paul C"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2017",
+  "doi": "10.1523/JNEUROSCI.1979-16.2016",
+  "mesh": [
+    "Adaptation, Physiological",
+    "Adult",
+    "Bromocriptine",
+    "Computer Simulation",
+    "Corpus Striatum",
+    "Dopamine Agonists",
+    "Dopamine Antagonists",
+    "Double-Blind Method",
+    "Female",
+    "Genetic Testing",
+    "Healthy Volunteers",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Male",
+    "Mesencephalon",
+    "Motivation",
+    "Oxygen",
+    "Reward",
+    "Sulpiride",
+    "Young Adult"
+  ]
+}

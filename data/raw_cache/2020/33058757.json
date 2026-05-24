@@ -1,0 +1,32 @@
+{
+  "pmid": "33058757",
+  "title": "The Geometry of Abstraction in the Hippocampus and Prefrontal Cortex.",
+  "abstract": "The curse of dimensionality plagues models of reinforcement learning and decision making. The process of abstraction solves this by constructing variables describing features shared by different instances, reducing dimensionality and enabling generalization in novel situations. Here, we characterized neural representations in monkeys performing a task described by different hidden and explicit variables. Abstraction was defined operationally using the generalization performance of neural decoders across task conditions not used for training, which requires a particular geometry of neural representations. Neural ensembles in prefrontal cortex, hippocampus, and simulated neural networks simultaneously represented multiple variables in a geometry reflecting abstraction but that still allowed a linear classifier to decode a large number of other variables (high shattering dimensionality). Furthermore, this geometry changed in relation to task events and performance. These findings elucidate how the brain and artificial systems represent variables in an abstract format while preserving the advantages conferred by high shattering dimensionality.",
+  "authors": [
+    "Bernardi Silvia",
+    "Benna Marcus K",
+    "Rigotti Mattia",
+    "Munuera Jérôme",
+    "Fusi Stefano",
+    "Salzman C Daniel"
+  ],
+  "journal": "Cell",
+  "year": "2020",
+  "doi": "10.1016/j.cell.2020.09.031",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Brain Mapping",
+    "Computer Simulation",
+    "Hippocampus",
+    "Learning",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Reinforcement, Psychology",
+    "Task Performance and Analysis"
+  ]
+}

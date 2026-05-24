@@ -1,0 +1,23 @@
+{
+  "pmid": "26975238",
+  "title": "A new approach to the automatic identification of organism evolution using neural networks.",
+  "abstract": "Automatic identification of organism evolution still remains a challenging task, which is especially exiting, when the evolution of human is considered. The main aim of this work is to present a new idea to allow organism evolution analysis using neural networks. Here we show that it is possible to identify evolution of any organisms in a fully automatic way using the designed EvolutionXXI program, which contains implemented neural network. The neural network has been taught using cytochrome b sequences of selected organisms. Then, analyses have been carried out for the various exemplary organisms in order to demonstrate capabilities of the EvolutionXXI program. It is shown that the presented idea allows supporting existing hypotheses, concerning evolutionary relationships between selected organisms, among others, Sirenia and elephants, hippopotami and whales, scorpions and spiders, dolphins and whales. Moreover, primate (including human), tree shrew and yeast evolution has been reconstructed.",
+  "authors": [
+    "Kasperski Andrzej",
+    "Kasperska Renata"
+  ],
+  "journal": "Bio Systems",
+  "year": "2016",
+  "doi": "10.1016/j.biosystems.2016.03.005",
+  "mesh": [
+    "Animals",
+    "Computational Biology",
+    "Cytochromes b",
+    "Evolution, Molecular",
+    "Humans",
+    "Models, Genetic",
+    "Neural Networks, Computer",
+    "Phylogeny",
+    "Reproducibility of Results"
+  ]
+}

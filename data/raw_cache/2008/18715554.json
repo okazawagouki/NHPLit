@@ -1,0 +1,28 @@
+{
+  "pmid": "18715554",
+  "title": "Motor cortical activity related to movement kinematics exhibits local spatial organization.",
+  "abstract": "While it is generally accepted that multiple neurons cooperate to generate movement, the precise mechanisms are largely unknown. One way to generate a robust local control signal is for nearby neurons to share similar properties. To study this possibility, we recorded neural activity from the macaque motor cortex during two drawing tasks: free scribbling, and tracing given paths. We analyzed neural activity in relation to three kinematic parameters - position, velocity, and acceleration - while explicitly considering temporal correlations between them. Single-unit (SU) activity was typically related to one parameter, most often velocity, and tended to precede movement. Different SUs encoded different parameters, but nearby units tended to prefer the same parameter. Moreover, while SUs covered a wide range of positions, velocity directions, and acceleration directions, SUs recorded by the same electrode tended to prefer similar values of the same parameter. Nevertheless, some nearby units exhibited marked differences. Multi-unit activity (MUA), estimating the spiking activity of many neurons around the recording electrode, also tended to be related to one parameter and precede movement. However, overall correlations between MUA and movement were more than twice as strong as SU correlations. Finally, SUs and MUAs recorded by the same electrode tended to share similar properties. These two lines of evidence converge to suggest that activity of motor cortex neurons within approximately 200 micrometers is accumulated in a manner useful for representing a single parameter. However, even within a small region there are also neurons related to other parameters, potentially facilitating coordination between distinct parameters.",
+  "authors": [
+    "Stark Eran",
+    "Drori Rotem",
+    "Abeles Moshe"
+  ],
+  "journal": "Cortex; a journal devoted to the study of the nervous system and behavior",
+  "year": "2009",
+  "doi": "10.1016/j.cortex.2008.03.011",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Electrodes, Implanted",
+    "Electrophysiology",
+    "Female",
+    "Functional Laterality",
+    "Macaca fascicularis",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Psychomotor Performance",
+    "Reaction Time"
+  ]
+}

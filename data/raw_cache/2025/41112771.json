@@ -1,0 +1,23 @@
+{
+  "pmid": "41112771",
+  "title": "Recognizing IgA-class endomysial antibody equivalent binding patterns on monkey liver substrate through EfficientNet architectures and deep learning.",
+  "abstract": "Deep learning offers promising potential for automating the interpretation of immunoglobulin A (IgA) endomysial antibody (EMA) tests, a critical serological test for the diagnosis of celiac disease that currently requires labor-intensive and subjective human interpretation. In this study, we employ and comprehensively evaluate the performance of the EfficientNet and EfficientNetV2 architectures in binary (positive <i>vs</i> negative, where all weak and strong positive signals were grouped as positive), three-class (negative, weak positive, strong positive), and four-class (negative, weak positive, strong positive and gray zone) classification scenarios using immunofluorescence images of IgA EMA equivalent (EMA-eq) tests. Our experiments on 368 clinical samples show high performance, with EfficientNetV2-S achieving an accuracy of 99.37% in binary classification, 95.28% in three-class classification, and 86.98% in the complex four-class scenario that introduces gray zone cases as a distinct interpretive category. Contrary to conventional assumptions, medium-sized deep architectures consistently outperformed their larger counterparts. The superior performance of the EfficientNet-V2 models can be attributed to their architectural innovations and higher input resolution (640 × 640 pixels), which proved critical for capturing subtle immunofluorescence patterns. We also incorporate HiRes-CAM (Class Activation Mapping), a convolutional neural network oriented visual explanation tool, to better understand the decisions of the underlying trained deep learning model in an explainable artificial intelligence (AI) manner. This study demonstrates that deep learning has the potential to achieve expert-level performance in EMA-eq test interpretation, offering a path toward more standardized, efficient and objective celiac disease diagnosis while reducing the burden on specialist medical staff.",
+  "authors": [
+    "Soylu Mehmet",
+    "Bozkir Ahmet Selman"
+  ],
+  "journal": "PeerJ",
+  "year": "2025",
+  "doi": "10.7717/peerj.20191",
+  "mesh": [
+    "Deep Learning",
+    "Animals",
+    "Humans",
+    "Immunoglobulin A",
+    "Celiac Disease",
+    "Liver",
+    "Haplorhini",
+    "Neural Networks, Computer",
+    "Convolutional Neural Networks"
+  ]
+}

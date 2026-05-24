@@ -1,0 +1,32 @@
+{
+  "pmid": "34407069",
+  "title": "A hidden Markov model reliably characterizes ketamine-induced spectral dynamics in macaque local field potentials and human electroencephalograms.",
+  "abstract": "Ketamine is an NMDA receptor antagonist commonly used to maintain general anesthesia. At anesthetic doses, ketamine causes high power gamma (25-50 Hz) oscillations alternating with slow-delta (0.1-4 Hz) oscillations. These dynamics are readily observed in local field potentials (LFPs) of non-human primates (NHPs) and electroencephalogram (EEG) recordings from human subjects. However, a detailed statistical analysis of these dynamics has not been reported. We characterize ketamine's neural dynamics using a hidden Markov model (HMM). The HMM observations are sequences of spectral power in seven canonical frequency bands between 0 to 50 Hz, where power is averaged within each band and scaled between 0 and 1. We model the observations as realizations of multivariate beta probability distributions that depend on a discrete-valued latent state process whose state transitions obey Markov dynamics. Using an expectation-maximization algorithm, we fit this beta-HMM to LFP recordings from 2 NHPs, and separately, to EEG recordings from 9 human subjects who received anesthetic doses of ketamine. Our beta-HMM framework provides a useful tool for experimental data analysis. Together, the estimated beta-HMM parameters and optimal state trajectory revealed an alternating pattern of states characterized primarily by gamma and slow-delta activities. The mean duration of the gamma activity was 2.2s([1.7,2.8]s) and 1.2s([0.9,1.5]s) for the two NHPs, and 2.5s([1.7,3.6]s) for the human subjects. The mean duration of the slow-delta activity was 1.6s([1.2,2.0]s) and 1.0s([0.8,1.2]s) for the two NHPs, and 1.8s([1.3,2.4]s) for the human subjects. Our characterizations of the alternating gamma slow-delta activities revealed five sub-states that show regular sequential transitions. These quantitative insights can inform the development of rhythm-generating neuronal circuit models that give mechanistic insights into this phenomenon and how ketamine produces altered states of arousal.",
+  "authors": [
+    "Garwood Indie C",
+    "Chakravarty Sourish",
+    "Donoghue Jacob",
+    "Mahnke Meredith",
+    "Kahali Pegah",
+    "Chamadia Shubham",
+    "Akeju Oluwaseun",
+    "Miller Earl K",
+    "Brown Emery N"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2021",
+  "doi": "10.1371/journal.pcbi.1009280",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Electroencephalography",
+    "Excitatory Amino Acid Antagonists",
+    "Gamma Rhythm",
+    "Humans",
+    "Ketamine",
+    "Macaca",
+    "Markov Chains",
+    "Probability"
+  ]
+}

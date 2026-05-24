@@ -1,0 +1,24 @@
+{
+  "pmid": "41021967",
+  "title": "A Framework for Compressive On-Chip Action Potential Recording.",
+  "abstract": "Scaling neural recording systems to thousands of channels creates extreme bandwidth demands, posing a challenge for resource-constrained, implantable devices. This work introduces an adaptive, multi-stage compression framework for high-bandwidth neural interfaces. The system combines a Wired-OR analog-to-digital compressive readout with a digital core that adaptively requantizes, selectively samples, and encodes the neural signals. Although prior work suggests that action potential recordings can be re-quantized to approximately the signal-to-noise (SNR) number of bits without significantly degrading decoding performance, our results show that the required resolution can often be reduced even further. By matching the number of quantization levels to the electrode's maximum SNR (${\\lceil \\log _{2}\\ \\text{SNR} \\rceil }$ number of bits), we retain waveform fidelity while eliminating unnecessary precision that primarily captures noise. Recorded spike samples are selected using a mutual information-based criterion to preserve both spatial and temporal discriminative waveform features. A static entropy coder completes the pipeline with low computation overhead compression optimized for neural signal statistics. Evaluated on 512-channel macaque retina ex vivo data, the system preserves 90% of spikes while achieving a 1098× total compression over baseline.",
+  "authors": [
+    "Yan Pumiao",
+    "Muratore Dante G",
+    "Chichilnisky E J",
+    "Murmann Boris",
+    "Weissman Tsachy"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2026",
+  "doi": "10.1109/TBME.2025.3615514",
+  "mesh": [
+    "Animals",
+    "Action Potentials",
+    "Signal Processing, Computer-Assisted",
+    "Data Compression",
+    "Signal-To-Noise Ratio",
+    "Algorithms",
+    "Macaca mulatta"
+  ]
+}

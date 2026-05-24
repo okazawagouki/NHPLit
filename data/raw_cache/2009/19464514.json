@@ -1,0 +1,35 @@
+{
+  "pmid": "19464514",
+  "title": "Three-dimensional, automated, real-time video system for tracking limb motion in brain-machine interface studies.",
+  "abstract": "Collection and analysis of limb kinematic data are essential components of the study of biological motion, including research into biomechanics, kinesiology, neurophysiology and brain-machine interfaces (BMIs). In particular, BMI research requires advanced, real-time systems capable of sampling limb kinematics with minimal contact to the subject's body. To answer this demand, we have developed an automated video tracking system for real-time tracking of multiple body parts in freely behaving primates. The system employs high-contrast markers painted on the animal's joints to continuously track the three-dimensional positions of their limbs during activity. Two-dimensional coordinates captured by each video camera are combined and converted to three-dimensional coordinates using a quadratic fitting algorithm. Real-time operation of the system is accomplished using direct memory access (DMA). The system tracks the markers at a rate of 52 frames per second (fps) in real-time and up to 100fps if video recordings are captured to be later analyzed off-line. The system has been tested in several BMI primate experiments, in which limb position was sampled simultaneously with chronic recordings of the extracellular activity of hundreds of cortical cells. During these recordings, multiple computational models were employed to extract a series of kinematic parameters from neuronal ensemble activity in real-time. The system operated reliably under these experimental conditions and was able to compensate for marker occlusions that occurred during natural movements. We propose that this system could also be extended to applications that include other classes of biological motion.",
+  "authors": [
+    "Peikon Ian D",
+    "Fitzsimmons Nathan A",
+    "Lebedev Mikhail A",
+    "Nicolelis Miguel A L"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2009",
+  "doi": "10.1016/j.jneumeth.2009.03.010",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Brain",
+    "Computer Simulation",
+    "Extremities",
+    "Image Processing, Computer-Assisted",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Neurophysiology",
+    "Pattern Recognition, Automated",
+    "Range of Motion, Articular",
+    "Signal Processing, Computer-Assisted",
+    "Time Factors",
+    "User-Computer Interface",
+    "Video Recording"
+  ]
+}

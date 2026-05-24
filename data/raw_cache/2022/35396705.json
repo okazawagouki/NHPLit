@@ -1,0 +1,20 @@
+{
+  "pmid": "35396705",
+  "title": "Temporal information-guided dynamic dual-tracer PET signal separation network.",
+  "abstract": "PURPOSE: The difficulty of dynamic dual-tracer positron emission tomography (PET) technology is to separate the complete single-tracer information from mixed dual-tracer. Traditional methods cannot separate single-injection single-scan dynamic dual-tracer PET images. In this paper, we propose a deep learning framework based on gated recurrent unit (GRU) network and evaluate its performance with simulation experiments and realistic monkey data. METHODS: The proposed single-scan dynamic dual-tracer PET image separation network consists of three parts, including encoder, separation, and decoder module. Encoder part is to map the mixed time activity curves (TACs) from the low-dimensional space to the high-dimensional space to get mixed weight vector matrix. Separation part is to capture the temporal information of mixed weight vector matrix using bi-directional GRU (bi-GRU) layer to obtain the single-tracer masks, and the decoding part remaps the high-dimensional single-tracer weight vector matrix to the low-dimensional space to obtain two separated single tracers. RESULTS: In the simulation experiments under different tracers, phantoms, noise levels, arterial input function (AIF), and k-parameter with Gaussian random, compared to the stacked auto encoder network and traditional background subtraction method, GRU-based network has better performance with low bias and mean squared error. In the realistic study, the image results of GRU network have higher mean structural similarity and peak signal to noise ratio. CONCLUSIONS: This study demonstrates the feasibility of temporal information-guided neural network in single-injection single-scan dynamic dual-tracer PET images separation. The GRU-based network uses TAC temporal information without AIFs to make the separation results more robust and accurate, which significantly outperforms state-of-the-art method qualitatively and quantitatively.",
+  "authors": [
+    "Tong Junyi",
+    "Wang Chunxia",
+    "Liu Huafeng"
+  ],
+  "journal": "Medical physics",
+  "year": "2022",
+  "doi": "10.1002/mp.15566",
+  "mesh": [
+    "Algorithms",
+    "Image Processing, Computer-Assisted",
+    "Phantoms, Imaging",
+    "Positron-Emission Tomography",
+    "Signal-To-Noise Ratio"
+  ]
+}

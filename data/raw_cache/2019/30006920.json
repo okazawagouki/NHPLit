@@ -1,0 +1,26 @@
+{
+  "pmid": "30006920",
+  "title": "A Web-Based Atlas Combining MRI and Histology of the Squirrel Monkey Brain.",
+  "abstract": "The squirrel monkey (Saimiri sciureus) is a commonly-used surrogate for humans in biomedical research. In the neuroimaging community, MRI and histological atlases serve as valuable resources for anatomical, physiological, and functional studies of the brain; however, no digital MRI/histology atlas is currently available for the squirrel monkey. This paper describes the construction of a web-based multi-modal atlas of the squirrel monkey brain. The MRI-derived information includes anatomical MRI contrast (i.e., T2-weighted and proton-density-weighted) and diffusion MRI metrics (i.e., fractional anisotropy and mean diffusivity) from data acquired both in vivo and ex vivo on a 9.4 Tesla scanner. The histological images include Nissl and myelin stains, co-registered to the corresponding MRI, allowing identification of cyto- and myelo-architecture. In addition, a bidirectional neuronal tracer, biotinylated dextran amine (BDA) was injected into the primary motor cortex, enabling highly specific identification of regions connected to the injection location. The atlas integrates the results of common image analysis methods including diffusion tensor imaging glyphs, labels of 57 white-matter tracts identified using DTI-tractography, and 18 cortical regions of interest identified from Nissl-revealed cyto-architecture. All data are presented in a common space, and all image types are accessible through a web-based atlas viewer, which allows visualization and interaction of user-selectable contrasts and varying resolutions. By providing an easy to use reference system of anatomical information, our web-accessible multi-contrast atlas forms a rich and convenient resource for comparisons of brain findings across subjects or modalities. The atlas is called the Combined Histology-MRI Integrated Atlas of the Squirrel Monkey (CHIASM). All images are accessible through our web-based viewer ( https://chiasm.vuse.vanderbilt.edu /), and data are available for download at ( https://www.nitrc.org/projects/smatlas/ ).",
+  "authors": [
+    "Schilling Kurt G",
+    "Gao Yurui",
+    "Christian Matthew",
+    "Janve Vaibhav",
+    "Stepniewska Iwona",
+    "Landman Bennett A",
+    "Anderson Adam W"
+  ],
+  "journal": "Neuroinformatics",
+  "year": "2019",
+  "doi": "10.1007/s12021-018-9391-z",
+  "mesh": [
+    "Animals",
+    "Atlases as Topic",
+    "Brain",
+    "Diffusion Tensor Imaging",
+    "Internet",
+    "Male",
+    "Saimiri"
+  ]
+}

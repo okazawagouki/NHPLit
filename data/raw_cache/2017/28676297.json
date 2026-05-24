@@ -1,0 +1,24 @@
+{
+  "pmid": "28676297",
+  "title": "Inferring synaptic excitation/inhibition balance from field potentials.",
+  "abstract": "Neural circuits sit in a dynamic balance between excitation (E) and inhibition (I). Fluctuations in E:I balance have been shown to influence neural computation, working memory, and information flow, while more drastic shifts and aberrant E:I patterns are implicated in numerous neurological and psychiatric disorders. Current methods for measuring E:I dynamics require invasive procedures that are difficult to perform in behaving animals, and nearly impossible in humans. This has limited the ability to examine the full impact that E:I shifts have in cognition and disease. In this study, we develop a computational model to show that E:I changes can be estimated from the power law exponent (slope) of the electrophysiological power spectrum. Predictions from the model are validated in published data from two species (rats and macaques). We find that reducing E:I ratio via the administration of general anesthetic in macaques results in steeper power spectra, tracking conscious state over time. This causal result is supported by inference from known anatomical E:I changes across the depth of rat hippocampus, as well as oscillatory theta-modulated dynamic shifts in E:I. Our results provide evidence that E:I ratio may be inferred from electrophysiological recordings at many spatial scales, ranging from the local field potential to surface electrocorticography. This simple method for estimating E:I ratio-one that can be applied retrospectively to existing data-removes a major hurdle in understanding a currently difficult to measure, yet fundamental, aspect of neural computation.",
+  "authors": [
+    "Gao Richard",
+    "Peterson Erik J",
+    "Voytek Bradley"
+  ],
+  "journal": "NeuroImage",
+  "year": "2017",
+  "doi": "10.1016/j.neuroimage.2017.06.078",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Electrocorticography",
+    "Macaca",
+    "Models, Neurological",
+    "Neural Inhibition",
+    "Synapses",
+    "Synaptic Transmission"
+  ]
+}

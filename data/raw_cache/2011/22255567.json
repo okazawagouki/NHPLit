@@ -1,0 +1,27 @@
+{
+  "pmid": "22255567",
+  "title": "Exploring time-scales of closed-loop decoder adaptation in brain-machine interfaces.",
+  "abstract": "Performing closed-loop modifications of a brain-machine interface (BMI) decoder is a technique that shows great promise for improving performance. We compare two algorithms for implementing adaptations that update decoder parameters on different time-scales (discrete batches vs. online), and present experimental results of a non-human primate performing a standard center-out BMI task. To ensure that our experimental training models are representative of a broad range of paralyzed patients, our decoders were initially trained using neural activity recorded during subject observation of cursor movement. We find that both closed-loop adaptation algorithms can be used to boost BMI performance from 20-30% to 80%, yielding movement kinematics similar to natural arm movements. Based on insights derived from the performance of each algorithm, we propose that a hybrid of batch and online decoder adaptation may be the best approach.",
+  "authors": [
+    "Orsborn Amy L",
+    "Dangi Siddharth",
+    "Moorman Helene G",
+    "Carmena Jose M"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2011",
+  "doi": "10.1109/IEMBS.2011.6091387",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Electroencephalography",
+    "Evoked Potentials, Motor",
+    "Feedback",
+    "Humans",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Movement",
+    "User-Computer Interface"
+  ]
+}

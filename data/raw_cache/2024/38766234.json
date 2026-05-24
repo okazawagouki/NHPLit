@@ -1,0 +1,21 @@
+{
+  "pmid": "38766234",
+  "title": "An unbiased method to partition diverse neuronal responses into functional ensembles reveals interpretable population dynamics during innate social behavior.",
+  "abstract": "In neuroscience, understanding how single-neuron firing contributes to distributed neural ensembles is crucial. Traditional methods of analysis have been limited to descriptions of whole population activity, or, when analyzing individual neurons, criteria for response categorization varied significantly across experiments. Current methods lack scalability for large datasets, fail to capture temporal changes and rely on parametric assumptions. There's a need for a robust, scalable, and non-parametric functional clustering approach to capture interpretable dynamics. To address this challenge, we developed a model-based, statistical framework for unsupervised clustering of multiple time series datasets that exhibit nonlinear dynamics into an <i>a-priori</i>-unknown number of parameterized ensembles called Functional Encoding Units (FEUs). FEU outperforms existing techniques in accuracy and benchmark scores. Here, we apply this FEU formalism to single-unit recordings collected during social behaviors in rodents and primates and demonstrate its hypothesis-generating and testing capacities. This novel pipeline serves as an analytic bridge, translating neural ensemble codes across model systems.",
+  "authors": [
+    "Lin Alexander",
+    "Akafia Cyril",
+    "Dal Monte Olga",
+    "Fan Siqi",
+    "Fagan Nicholas",
+    "Putnam Philip",
+    "Tye Kay M",
+    "Chang Steve",
+    "Ba Demba",
+    "Allsop Aza Stephen"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.05.08.593229",
+  "mesh": []
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "28268958",
+  "title": "Reward value is encoded in primary somatosensory cortex and can be decoded from neural activity during performance of a psychophysical task.",
+  "abstract": "Encoding of reward valence has been shown in various brain regions, including deep structures such as the substantia nigra as well as cortical structures such as the orbitofrontal cortex. While the correlation between these signals and reward valence have been shown in aggregated data comprised of many trials, little work has been done investigating the feasibility of decoding reward valence on a single trial basis. Towards this goal, one non-human primate (macaca radiata) was trained to grip and hold a target level of force in order to earn zero, one, two, or three juice rewards. The animal was informed of the impending result before reward delivery by means of a visual cue. Neural data was recorded from primary somatosensory cortex (S1) during these experiments and firing rate histograms were created following the appearance of the visual cue and used as input to a variety of classifiers. Reward valence was decoded with high levels of accuracy from S1 both in the post-cue and post-reward periods. Additionally, the proportion of units showing significant changes in their firing rates was influenced in a predictable way based on reward valence. The existence of a signal within S1 cortex that encodes reward valence could have utility for implementing reinforcement learning algorithms for brain machine interfaces. The ability to decode this reward signal in real time with limited data is paramount to the usability of such a signal in practical applications.",
+  "authors": [
+    "McNiel David B",
+    "Choi John S",
+    "Hessburg John P",
+    "Francis Joseph T"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2016",
+  "doi": "10.1109/EMBC.2016.7591376",
+  "mesh": [
+    "Animals",
+    "Macaca radiata",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Psychophysics",
+    "Reinforcement, Psychology",
+    "Reward",
+    "Somatosensory Cortex",
+    "Substantia Nigra"
+  ]
+}

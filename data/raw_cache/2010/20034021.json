@@ -1,0 +1,22 @@
+{
+  "pmid": "20034021",
+  "title": "The use of Artificial Neural Networks to classify primate vocalizations: A pilot study on black lemurs.",
+  "abstract": "The identification of the vocal repertoire of a species represents a crucial prerequisite for a correct interpretation of animal behavior. Artificial Neural Networks (ANNs) have been widely used in behavioral sciences, and today are considered a valuable classification tool for reducing the level of subjectivity and allowing replicable results across different studies. However, to date, no studies have applied this tool to nonhuman primate vocalizations. Here, we apply for the first time ANNs, to discriminate the vocal repertoire in a primate species, Eulemur macaco macaco. We designed an automatic procedure to extract both spectral and temporal features from signals, and performed a comparative analysis between a supervised Multilayer Perceptron and two statistical approaches commonly used in primatology (Discriminant Function Analysis and Cluster Analysis), in order to explore pros and cons of these methods in bioacoustic classification. Our results show that ANNs were able to recognize all seven vocal categories previously described (92.5-95.6%) and perform better than either statistical analysis (76.1-88.4%). The results show that ANNs can provide an effective and robust method for automatic classification also in primates, suggesting that neural models can represent a valuable tool to contribute to a better understanding of primate vocal communication. The use of neural networks to identify primate vocalizations and the further development of this approach in studying primate communication are discussed.",
+  "authors": [
+    "Pozzi Luca",
+    "Gamba Marco",
+    "Giacoma Cristina"
+  ],
+  "journal": "American journal of primatology",
+  "year": "2010",
+  "doi": "10.1002/ajp.20786",
+  "mesh": [
+    "Animals",
+    "Female",
+    "Lemur",
+    "Male",
+    "Neural Networks, Computer",
+    "Pilot Projects",
+    "Vocalization, Animal"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "30286077",
+  "title": "Prediction of gene regulatory enhancers across species reveals evolutionarily conserved sequence properties.",
+  "abstract": "Genomic regions with gene regulatory enhancer activity turnover rapidly across mammals. In contrast, gene expression patterns and transcription factor binding preferences are largely conserved between mammalian species. Based on this conservation, we hypothesized that enhancers active in different mammals would exhibit conserved sequence patterns in spite of their different genomic locations. To investigate this hypothesis, we evaluated the extent to which sequence patterns that are predictive of enhancers in one species are predictive of enhancers in other mammalian species by training and testing two types of machine learning models. We trained support vector machine (SVM) and convolutional neural network (CNN) classifiers to distinguish enhancers defined by histone marks from the genomic background based on DNA sequence patterns in human, macaque, mouse, dog, cow, and opossum. The classifiers accurately identified many adult liver, developing limb, and developing brain enhancers, and the CNNs outperformed the SVMs. Furthermore, classifiers trained in one species and tested in another performed nearly as well as classifiers trained and tested on the same species. We observed similar cross-species conservation when applying the models to human and mouse enhancers validated in transgenic assays. This indicates that many short sequence patterns predictive of enhancers are largely conserved. The sequence patterns most predictive of enhancers in each species matched the binding motifs for a common set of TFs enriched for expression in relevant tissues, supporting the biological relevance of the learned features. Thus, despite the rapid change of active enhancer locations between mammals, cross-species enhancer prediction is often possible. Our results suggest that short sequence patterns encoding enhancer activity have been maintained across more than 180 million years of mammalian evolution.",
+  "authors": [
+    "Chen Ling",
+    "Fish Alexandra E",
+    "Capra John A"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2018",
+  "doi": "10.1371/journal.pcbi.1006484",
+  "mesh": [
+    "Animals",
+    "Conserved Sequence",
+    "Enhancer Elements, Genetic",
+    "Evolution, Molecular",
+    "Genomics",
+    "Humans",
+    "Machine Learning",
+    "Mammals",
+    "Neural Networks, Computer",
+    "Sequence Alignment",
+    "Sequence Analysis, DNA",
+    "Support Vector Machine"
+  ]
+}

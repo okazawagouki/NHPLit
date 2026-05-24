@@ -1,0 +1,25 @@
+{
+  "pmid": "38177794",
+  "title": "Disentangling the flow of signals between populations of neurons.",
+  "abstract": "Technological advances now allow us to record from large populations of neurons across multiple brain areas. These recordings may illuminate how communication between areas contributes to brain function, yet a substantial barrier remains: how do we disentangle the concurrent, bidirectional flow of signals between populations of neurons? We propose here a dimensionality reduction framework, delayed latents across groups (DLAG), that disentangles signals relayed in each direction, identifies how these signals are represented by each population and characterizes how they evolve within and across trials. We demonstrate that DLAG performs well on synthetic datasets similar in scale to current neurophysiological recordings. Then we study simultaneously recorded populations in primate visual areas V1 and V2, where DLAG reveals signatures of bidirectional yet selective communication. Our framework lays a foundation for dissecting the intricate flow of signals across populations of neurons, and how this signalling contributes to cortical computation.",
+  "authors": [
+    "Gokcen Evren",
+    "Jasper Anna I",
+    "Semedo João D",
+    "Zandvakili Amin",
+    "Kohn Adam",
+    "Machens Christian K",
+    "Yu Byron M"
+  ],
+  "journal": "Nature computational science",
+  "year": "2022",
+  "doi": "10.1038/s43588-022-00282-5",
+  "mesh": [
+    "Animals",
+    "Visual Cortex",
+    "Neurons",
+    "Brain",
+    "Brain Mapping",
+    "Neurophysiology"
+  ]
+}

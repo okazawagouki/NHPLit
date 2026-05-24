@@ -1,0 +1,24 @@
+{
+  "pmid": "26584045",
+  "title": "Untangling Brain-Wide Dynamics in Consciousness by Cross-Embedding.",
+  "abstract": "Brain-wide interactions generating complex neural dynamics are considered crucial for emergent cognitive functions. However, the irreducible nature of nonlinear and high-dimensional dynamical interactions challenges conventional reductionist approaches. We introduce a model-free method, based on embedding theorems in nonlinear state-space reconstruction, that permits a simultaneous characterization of complexity in local dynamics, directed interactions between brain areas, and how the complexity is produced by the interactions. We demonstrate this method in large-scale electrophysiological recordings from awake and anesthetized monkeys. The cross-embedding method captures structured interaction underlying cortex-wide dynamics that may be missed by conventional correlation-based analysis, demonstrating a critical role of time-series analysis in characterizing brain state. The method reveals a consciousness-related hierarchy of cortical areas, where dynamical complexity increases along with cross-area information flow. These findings demonstrate the advantages of the cross-embedding method in deciphering large-scale and heterogeneous neuronal systems, suggesting a crucial contribution by sensory-frontoparietal interactions to the emergence of complex brain dynamics during consciousness.",
+  "authors": [
+    "Tajima Satohiro",
+    "Yanagawa Toru",
+    "Fujii Naotaka",
+    "Toyoizumi Taro"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2015",
+  "doi": "10.1371/journal.pcbi.1004537",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Computational Biology",
+    "Consciousness",
+    "Electroencephalography",
+    "Macaca",
+    "Wakefulness"
+  ]
+}

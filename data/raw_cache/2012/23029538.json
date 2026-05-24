@@ -1,0 +1,25 @@
+{
+  "pmid": "23029538",
+  "title": "Rich club organization of macaque cerebral cortex and its role in network communication.",
+  "abstract": "Graph-theoretical analysis of brain connectivity data has revealed significant features of brain network organization across a range of species. Consistently, large-scale anatomical networks exhibit highly nonrandom attributes including an efficient small world modular architecture, with distinct network communities that are interlinked by hub regions. The functional importance of hubs motivates a closer examination of their mutual interconnections, specifically to examine the hypothesis that hub regions are more densely linked than expected based on their degree alone, i.e. forming a central rich club. Extending recent findings of rich club topology in the cat and human brain, this report presents evidence for the existence of rich club organization in the cerebral cortex of a non-human primate, the macaque monkey, based on a connectivity data set representing a collation of numerous tract tracing studies. Rich club regions comprise portions of prefrontal, parietal, temporal and insular cortex and are widely distributed across network communities. An analysis of network motifs reveals that rich club regions tend to form star-like configurations, indicative of their central embedding within sets of nodes. In addition, rich club nodes and edges participate in a large number of short paths across the network, and thus contribute disproportionately to global communication. As rich club regions tend to attract and disperse communication paths, many of the paths follow a characteristic pattern of first increasing and then decreasing node degree. Finally, the existence of non-reciprocal projections imposes a net directional flow of paths into and out of the rich club, with some regions preferentially attracting and others dispersing signals. Overall, the demonstration of rich club organization in a non-human primate contributes to our understanding of the network principles underlying neural connectivity in the mammalian brain, and further supports the hypothesis that rich club regions and connections have a central role in global brain communication.",
+  "authors": [
+    "Harriger Logan",
+    "van den Heuvel Martijn P",
+    "Sporns Olaf"
+  ],
+  "journal": "PloS one",
+  "year": "2012",
+  "doi": "10.1371/journal.pone.0046497",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Cluster Analysis",
+    "Diffusion Tensor Imaging",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Pathways",
+    "Signal Transduction"
+  ]
+}

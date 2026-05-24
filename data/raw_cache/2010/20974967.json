@@ -1,0 +1,27 @@
+{
+  "pmid": "20974967",
+  "title": "Optimal habits can develop spontaneously through sensitivity to local cost.",
+  "abstract": "Habits and rituals are expressed universally across animal species. These behaviors are advantageous in allowing sequential behaviors to be performed without cognitive overload, and appear to rely on neural circuits that are relatively benign but vulnerable to takeover by extreme contexts, neuropsychiatric sequelae, and processes leading to addiction. Reinforcement learning (RL) is thought to underlie the formation of optimal habits. However, this theoretic formulation has principally been tested experimentally in simple stimulus-response tasks with relatively few available responses. We asked whether RL could also account for the emergence of habitual action sequences in realistically complex situations in which no repetitive stimulus-response links were present and in which many response options were present. We exposed naïve macaque monkeys to such experimental conditions by introducing a unique free saccade scan task. Despite the highly uncertain conditions and no instruction, the monkeys developed a succession of stereotypical, self-chosen saccade sequence patterns. Remarkably, these continued to morph for months, long after session-averaged reward and cost (eye movement distance) reached asymptote. Prima facie, these continued behavioral changes appeared to challenge RL. However, trial-by-trial analysis showed that pattern changes on adjacent trials were predicted by lowered cost, and RL simulations that reduced the cost reproduced the monkeys' behavior. Ultimately, the patterns settled into stereotypical saccade sequences that minimized the cost of obtaining the reward on average. These findings suggest that brain mechanisms underlying the emergence of habits, and perhaps unwanted repetitive behaviors in clinical disorders, could follow RL algorithms capturing extremely local explore/exploit tradeoffs.",
+  "authors": [
+    "Desrochers Theresa M",
+    "Jin Dezhe Z",
+    "Goodman Noah D",
+    "Graybiel Ann M"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2010",
+  "doi": "10.1073/pnas.1013470107",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Behavior, Animal",
+    "Eye Movement Measurements",
+    "Female",
+    "Habits",
+    "Learning",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Reinforcement, Psychology",
+    "Reward"
+  ]
+}

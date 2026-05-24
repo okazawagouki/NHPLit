@@ -1,0 +1,24 @@
+{
+  "pmid": "34826830",
+  "title": "Mechanisms underlying activation of retinal bipolar cells through targeted electrical stimulation: a computational study.",
+  "abstract": "<i>Objective</i>. Retinal implants have been developed to electrically stimulate healthy retinal neurons in the progressively degenerated retina. Several stimulation approaches have been proposed to improve the visual percept induced in patients with retinal prostheses. We introduce a computational model capable of simulating the effects of electrical stimulation on retinal neurons. Leveraging this computational platform, we delve into the underlying mechanisms influencing the sensitivity of retinal neurons' response to various stimulus waveforms.<i>Approach</i>. We implemented a model of spiking bipolar cells (BCs) in the magnocellular pathway of the primate retina, diffuse BC subtypes (DB4), and utilized our multiscale admittance method (AM)-NEURON computational platform to characterize the response of BCs to epiretinal electrical stimulation with monophasic, symmetric, and asymmetric biphasic pulses.<i>Main results</i>. Our investigations yielded four notable results: (a) the latency of BCs increases as stimulation pulse duration lengthens; conversely, this latency decreases as the current amplitude increases. (b) Stimulation with a long anodic-first symmetric biphasic pulse (duration > 8 ms) results in a significant decrease in spiking threshold compared to stimulation with similar cathodic-first pulses (from 98.2 to 57.5<i>µ</i>A). (c) The hyperpolarization-activated cyclic nucleotide-gated channel was a prominent contributor to the reduced threshold of BCs in response to long anodic-first stimulus pulses. (d) Finally, extending the study to asymmetric waveforms, our results predict a lower BCs threshold using asymmetric long anodic-first pulses compared to that of asymmetric short cathodic-first stimulation.<i>Significance</i>. This study predicts the effects of several stimulation parameters on spiking BCs response to electrical stimulation. Of importance, our findings shed light on mechanisms underlying the experimental observations from the literature, thus highlighting the capability of the methodology to predict and guide the development of electrical stimulation protocols to generate a desired biological response, thereby constituting an ideal testbed for the development of electroceutical devices.",
+  "authors": [
+    "Paknahad Javad",
+    "Kosta Pragya",
+    "Bouteiller Jean-Marie C",
+    "Humayun Mark S",
+    "Lazzi Gianluca"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2021",
+  "doi": "10.1088/1741-2552/ac3dd8",
+  "mesh": [
+    "Animals",
+    "Electric Stimulation",
+    "Humans",
+    "Retina",
+    "Retinal Bipolar Cells",
+    "Retinal Ganglion Cells",
+    "Visual Prosthesis"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "41702900",
+  "title": "Inferring latent behavioral strategy from the representational geometry of prefrontal cortex activity.",
+  "abstract": "Behavioral tasks can be solved employing various strategies. Sometimes, different strategies result in the same observable behavior, making them latent. In this study, we infer the latent behavioral strategy used by monkeys in a working memory updating task by comparing the representational geometry of two prefrontal regions - the lateral prefrontal cortex (LPFC) and the prearcuate cortex (PAC) - with that of recurrent neural network (RNN) models trained to solve the task using different strategies. We found that neural activity patterns in both LPFC and PAC align with only one of the proposed strategies, suggesting that monkeys employ this latent strategy to perform the task. These findings open avenues for investigating the processes that lead to strategy learning and the decision-making mechanisms that determine which strategies are chosen when multiple options are available.",
+  "authors": [
+    "Qian Yichen",
+    "Herikstad Roger",
+    "Libedinsky Camilo"
+  ],
+  "journal": "Nature communications",
+  "year": "2026",
+  "doi": "10.1038/s41467-026-69380-6",
+  "mesh": [
+    "Prefrontal Cortex",
+    "Animals",
+    "Memory, Short-Term",
+    "Behavior, Animal",
+    "Male",
+    "Macaca mulatta",
+    "Neural Networks, Computer",
+    "Decision Making",
+    "Learning",
+    "Magnetic Resonance Imaging"
+  ]
+}

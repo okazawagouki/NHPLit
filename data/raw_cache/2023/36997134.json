@@ -1,0 +1,25 @@
+{
+  "pmid": "36997134",
+  "title": "Equivalent processing of facial expression and identity by macaque visual system and task-optimized neural network.",
+  "abstract": "Both the primate visual system and artificial deep neural network (DNN) models show an extraordinary ability to simultaneously classify facial expression and identity. However, the neural computations underlying the two systems are unclear. Here, we developed a multi-task DNN model that optimally classified both monkey facial expressions and identities. By comparing the fMRI neural representations of the macaque visual cortex with the best-performing DNN model, we found that both systems: (1) share initial stages for processing low-level face features which segregate into separate branches at later stages for processing facial expression and identity respectively, and (2) gain more specificity for the processing of either facial expression or identity as one progresses along each branch towards higher stages. Correspondence analysis between the DNN and monkey visual areas revealed that the amygdala and anterior fundus face patch (AF) matched well with later layers of the DNN's facial expression branch, while the anterior medial face patch (AM) matched well with later layers of the DNN's facial identity branch. Our results highlight the anatomical and functional similarities between macaque visual system and DNN model, suggesting a common mechanism between the two systems.",
+  "authors": [
+    "Zhang Hui",
+    "Ding Xuetong",
+    "Liu Ning",
+    "Nolan Rachel",
+    "Ungerleider Leslie G",
+    "Japee Shruti"
+  ],
+  "journal": "NeuroImage",
+  "year": "2023",
+  "doi": "10.1016/j.neuroimage.2023.120067",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Facial Expression",
+    "Neural Networks, Computer",
+    "Primates",
+    "Magnetic Resonance Imaging",
+    "Pattern Recognition, Visual"
+  ]
+}

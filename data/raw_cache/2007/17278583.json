@@ -1,0 +1,27 @@
+{
+  "pmid": "17278583",
+  "title": "Tracking spike-amplitude changes to improve the quality of multineuronal data analysis.",
+  "abstract": "During extracellular electrophysiological recording experiments, the waveform of neuronal spikes recorded from a single neuron often changes. These spike-waveform changes make single-neuron identification difficult, particularly when the activities of multiple neurons are simultaneously recorded with a multichannel microelectrode, such as a tetrode or a heptode. We have developed a tracking method of individual neurons despite their changing spike amplitudes. The method is based on a bottom-up hierarchical clustering algorithm that tracks each neuron's spike cluster during temporally overlapping clustering periods. We evaluated this method by comparing spike sorting with and without cluster tracking of an identical series of multineuronal spikes recorded from monkey area-TE neurons responding to a set of visual stimuli. According to Shannon's information theory, errors in spike-amplitude tracking reduce the expected value of the amount of information about a stimulus set that is transferred by the spike train of a cluster. In this study, cluster tracking significantly increased the expected value of the amount of information transferred by a spike train (p < 0.01). Additionally, the stability of the stimulus preference and that of the cross-correlation between clusters improved significantly (p < 0.000001). We conclude that cluster tracking improves the quality of multineuronal data analysis.",
+  "authors": [
+    "Kaneko Hidekazu",
+    "Tamura Hiroshi",
+    "Suzuki Shinya S"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Diagnosis, Computer-Assisted",
+    "Discriminant Analysis",
+    "Electroencephalography",
+    "Evoked Potentials, Visual",
+    "Macaca",
+    "Nerve Net",
+    "Neurons",
+    "Pattern Recognition, Automated",
+    "Temporal Lobe"
+  ]
+}

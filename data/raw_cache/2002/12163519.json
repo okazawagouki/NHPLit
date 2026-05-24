@@ -1,0 +1,26 @@
+{
+  "pmid": "12163519",
+  "title": "Linear regression of eye velocity on eye position and head velocity suggests a common oculomotor neural integrator.",
+  "abstract": "The oculomotor system produces eye-position signals during fixations and head movements by integrating velocity-coded saccadic and vestibular inputs. A previous analysis of nucleus prepositus hypoglossi (nph) lesions in monkeys found that the integration time constant for maintaining fixations decreased, while that for the vestibulo-ocular reflex (VOR) did not. On this basis, it was concluded that saccadic inputs are integrated by the nph, but that the vestibular inputs are integrated elsewhere. We re-analyze the data from which this conclusion was drawn by performing a linear regression of eye velocity on eye position and head velocity to derive the time constant and velocity bias of an imperfect oculomotor neural integrator. The velocity-position regression procedure reveals that the integration time constants for both VOR and saccades decrease in tandem with consecutive nph lesions, consistent with the hypothesis of a single common integrator. The previous evaluation of the integrator time constant relied upon fitting methods that are prone to error in the presence of velocity bias and saccades. The algorithm used to evaluate imperfect fixations in the dark did not account for the nonzero null position of the eyes associated with velocity bias. The phase-shift analysis used in evaluating the response to sinusoidal vestibular input neglects the effect of saccadic resets of eye position on intersaccadic eye velocity, resulting in gross underestimates of the imperfections in integration during VOR. The linear regression method presented here is valid for both fixation and low head velocity VOR data and is easy to implement.",
+  "authors": [
+    "Goldman Mark S",
+    "Kaneko Chris R S",
+    "Major Guy",
+    "Aksay Emre",
+    "Tank David W",
+    "Seung H S"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Electrophysiology",
+    "Head Movements",
+    "Hypoglossal Nerve Injuries",
+    "Linear Models",
+    "Macaca mulatta",
+    "Reflex, Vestibulo-Ocular",
+    "Saccades"
+  ]
+}

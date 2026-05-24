@@ -1,0 +1,24 @@
+{
+  "pmid": "19112487",
+  "title": "A common cortical circuit mechanism for perceptual categorical discrimination and veridical judgment.",
+  "abstract": "Perception involves two types of decisions about the sensory world: identification of stimulus features as analog quantities, or discrimination of the same stimulus features among a set of discrete alternatives. Veridical judgment and categorical discrimination have traditionally been conceptualized as two distinct computational problems. Here, we found that these two types of decision making can be subserved by a shared cortical circuit mechanism. We used a continuous recurrent network model to simulate two monkey experiments in which subjects were required to make either a two-alternative forced choice or a veridical judgment about the direction of random-dot motion. The model network is endowed with a continuum of bell-shaped population activity patterns, each representing a possible motion direction. Slow recurrent excitation underlies accumulation of sensory evidence, and its interplay with strong recurrent inhibition leads to decision behaviors. The model reproduced the monkey's performance as well as single-neuron activity in the categorical discrimination task. Furthermore, we examined how direction identification is determined by a combination of sensory stimulation and microstimulation. Using a population-vector measure, we found that direction judgments instantiate winner-take-all (with the population vector coinciding with either the coherent motion direction or the electrically elicited motion direction) when two stimuli are far apart, or vector averaging (with the population vector falling between the two directions) when two stimuli are close to each other. Interestingly, for a broad range of intermediate angular distances between the two stimuli, the network displays a mixed strategy in the sense that direction estimates are stochastically produced by winner-take-all on some trials and by vector averaging on the other trials, a model prediction that is experimentally testable. This work thus lends support to a common neurodynamic framework for both veridical judgment and categorical discrimination in perceptual decision making.",
+  "authors": [
+    "Liu Feng",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2008",
+  "doi": "10.1371/journal.pcbi.1000253",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Choice Behavior",
+    "Computer Simulation",
+    "Decision Making",
+    "Discrimination Learning",
+    "Haplorhini",
+    "Models, Neurological",
+    "Nerve Net",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "26133797",
+  "title": "Single-unit activity, threshold crossings, and local field potentials in motor cortex differentially encode reach kinematics.",
+  "abstract": "A diversity of signals can be recorded with extracellular electrodes. It remains unclear whether different signal types convey similar or different information and whether they capture the same or different underlying neural phenomena. Some researchers focus on spiking activity, while others examine local field potentials, and still others posit that these are fundamentally the same signals. We examined the similarities and differences in the information contained in four signal types recorded simultaneously from multielectrode arrays implanted in primary motor cortex: well-isolated action potentials from putative single units, multiunit threshold crossings, and local field potentials (LFPs) at two distinct frequency bands. We quantified the tuning of these signal types to kinematic parameters of reaching movements. We found 1) threshold crossing activity is not a proxy for single-unit activity; 2) when examined on individual electrodes, threshold crossing activity more closely resembles LFP activity at frequencies between 100 and 300 Hz than it does single-unit activity; 3) when examined across multiple electrodes, threshold crossing activity and LFP integrate neural activity at different spatial scales; and 4) LFP power in the \"beta band\" (between 10 and 40 Hz) is a reliable indicator of movement onset but does not encode kinematic features on an instant-by-instant basis. These results show that the diverse signals recorded from extracellular electrodes provide somewhat distinct and complementary information. It may be that these signal types arise from biological phenomena that are partially distinct. These results also have practical implications for harnessing richer signals to improve brain-machine interface control.",
+  "authors": [
+    "Perel Sagi",
+    "Sadtler Patrick T",
+    "Oby Emily R",
+    "Ryu Stephen I",
+    "Tyler-Kabara Elizabeth C",
+    "Batista Aaron P",
+    "Chase Steven M"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2015",
+  "doi": "10.1152/jn.00293.2014",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Motor Skills",
+    "Neurons"
+  ]
+}

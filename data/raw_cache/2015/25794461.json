@@ -1,0 +1,31 @@
+{
+  "pmid": "25794461",
+  "title": "Wavelet methodology to improve single unit isolation in primary motor cortex cells.",
+  "abstract": "The proper isolation of action potentials recorded extracellularly from neural tissue is an active area of research in the fields of neuroscience and biomedical signal processing. This paper presents an isolation methodology for neural recordings using the wavelet transform (WT), a statistical thresholding scheme, and the principal component analysis (PCA) algorithm. The effectiveness of five different mother wavelets was investigated: biorthogonal, Daubachies, discrete Meyer, symmetric, and Coifman; along with three different wavelet coefficient thresholding schemes: fixed form threshold, Stein's unbiased estimate of risk, and minimax; and two different thresholding rules: soft and hard thresholding. The signal quality was evaluated using three different statistical measures: mean-squared error, root-mean squared, and signal to noise ratio. The clustering quality was evaluated using two different statistical measures: isolation distance, and L-ratio. This research shows that the selection of the mother wavelet has a strong influence on the clustering and isolation of single unit neural activity, with the Daubachies 4 wavelet and minimax thresholding scheme performing the best.",
+  "authors": [
+    "Ortiz-Rosario Alexis",
+    "Adeli Hojjat",
+    "Buford John A"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2015",
+  "doi": "10.1016/j.jneumeth.2015.03.014",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain Mapping",
+    "Brain Waves",
+    "Cluster Analysis",
+    "Computer Simulation",
+    "Cues",
+    "Macaca fascicularis",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neurons",
+    "Psychomotor Performance",
+    "Reproducibility of Results",
+    "Signal Processing, Computer-Assisted",
+    "Wavelet Analysis"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "34520476",
+  "title": "Rats spontaneously perceive global motion direction of drifting plaids.",
+  "abstract": "Computing global motion direction of extended visual objects is a hallmark of primate high-level vision. Although neurons selective for global motion have also been found in mouse visual cortex, it remains unknown whether rodents can combine multiple motion signals into global, integrated percepts. To address this question, we trained two groups of rats to discriminate either gratings (G group) or plaids (i.e., superpositions of gratings with different orientations; P group) drifting horizontally along opposite directions. After the animals learned the task, we applied a visual priming paradigm, where presentation of the target stimulus was preceded by the brief presentation of either a grating or a plaid. The extent to which rat responses to the targets were biased by such prime stimuli provided a measure of the spontaneous, perceived similarity between primes and targets. We found that gratings and plaids, when used as primes, were equally effective at biasing the perception of plaid direction for the rats of the P group. Conversely, for the G group, only the gratings acted as effective prime stimuli, while the plaids failed to alter the perception of grating direction. To interpret these observations, we simulated a decision neuron reading out the representations of gratings and plaids, as conveyed by populations of either component or pattern cells (i.e., local or global motion detectors). We concluded that the findings for the P group are highly consistent with the existence of a population of pattern cells, playing a functional role similar to that demonstrated in primates. We also explored different scenarios that could explain the failure of the plaid stimuli to elicit a sizable priming magnitude for the G group. These simulations yielded testable predictions about the properties of motion representations in rodent visual cortex at the single-cell and circuitry level, thus paving the way to future neurophysiology experiments.",
+  "authors": [
+    "Matteucci Giulio",
+    "Zattera Benedetta",
+    "Bellacosa Marotti Rosilari",
+    "Zoccolan Davide"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2021",
+  "doi": "10.1371/journal.pcbi.1009415",
+  "mesh": [
+    "Animals",
+    "Computational Biology",
+    "Computer Simulation",
+    "Learning",
+    "Male",
+    "Models, Neurological",
+    "Models, Psychological",
+    "Motion Perception",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Rats",
+    "Rats, Long-Evans",
+    "Visual Cortex"
+  ]
+}

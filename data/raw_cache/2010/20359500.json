@@ -1,0 +1,31 @@
+{
+  "pmid": "20359500",
+  "title": "Population decoding of motor cortical activity using a generalized linear model with hidden states.",
+  "abstract": "Generalized linear models (GLMs) have been developed for modeling and decoding population neuronal spiking activity in the motor cortex. These models provide reasonable characterizations between neural activity and motor behavior. However, they lack a description of movement-related terms which are not observed directly in these experiments, such as muscular activation, the subject's level of attention, and other internal or external states. Here we propose to include a multi-dimensional hidden state to address these states in a GLM framework where the spike count at each time is described as a function of the hand state (position, velocity, and acceleration), truncated spike history, and the hidden state. The model can be identified by an Expectation-Maximization algorithm. We tested this new method in two datasets where spikes were simultaneously recorded using a multi-electrode array in the primary motor cortex of two monkeys. It was found that this method significantly improves the model-fitting over the classical GLM, for hidden dimensions varying from 1 to 4. This method also provides more accurate decoding of hand state (reducing the mean square error by up to 29% in some cases), while retaining real-time computational efficiency. These improvements on representation and decoding over the classical GLM model suggest that this new approach could contribute as a useful tool to motor cortical decoding and prosthetic applications.",
+  "authors": [
+    "Lawhern Vernon",
+    "Wu Wei",
+    "Hatsopoulos Nicholas",
+    "Paninski Liam"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2010",
+  "doi": "10.1016/j.jneumeth.2010.03.024",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Databases as Topic",
+    "Hand",
+    "Linear Models",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Motor Activity",
+    "Motor Cortex",
+    "Signal Processing, Computer-Assisted",
+    "Time Factors"
+  ]
+}

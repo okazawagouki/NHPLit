@@ -1,0 +1,24 @@
+{
+  "pmid": "38232123",
+  "title": "Rhesus monkeys learn to control a directional-key inspired brain machine interface via bio-feedback.",
+  "abstract": "Brain machine interfaces (BMI) connect brains directly to the outside world, bypassing natural neural systems and actuators. Neuronal-activity-to-motion transformation algorithms allow applications such as control of prosthetics or computer cursors. These algorithms lie within a spectrum between bio-mimetic control and bio-feedback control. The bio-mimetic approach relies on increasingly complex algorithms to decode neural activity by mimicking the natural neural system and actuator relationship while focusing on machine learning: the supervised fitting of decoder parameters. On the other hand, the bio-feedback approach uses simple algorithms and relies primarily on user learning, which may take some time, but can facilitate control of novel, non-biological appendages. An increasing amount of work has focused on the arguably more successful bio-mimetic approach. However, as chronic recordings have become more accessible and utilization of novel appendages such as computer cursors have become more universal, users can more easily spend time learning in a bio-feedback control paradigm. We believe a simple approach which leverages user learning and few assumptions will provide users with good control ability. To test the feasibility of this idea, we implemented a simple firing-rate-to-motion correspondence rule, assigned groups of neurons to virtual \"directional keys\" for control of a 2D cursor. Though not strictly required, to facilitate initial control, we selected neurons with similar preferred directions for each group. The groups of neurons were kept the same across multiple recording sessions to allow learning. Two Rhesus monkeys used this BMI to perform a center-out cursor movement task. After about a week of training, monkeys performed the task better and neuronal signal patterns changed on a group basis, indicating learning. While our experiments did not compare this bio-feedback BMI to bio-mimetic BMIs, the results demonstrate the feasibility of our control paradigm and paves the way for further research in multi-dimensional bio-feedback BMIs.",
+  "authors": [
+    "Zhang Chenguang",
+    "Wang Hao",
+    "Tang Shaohua",
+    "Li Zheng"
+  ],
+  "journal": "PloS one",
+  "year": "2024",
+  "doi": "10.1371/journal.pone.0286742",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Feedback",
+    "Biofeedback, Psychology",
+    "Algorithms",
+    "Brain",
+    "User-Computer Interface"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "2742920",
+  "title": "The distributed representation of vestibulo-oculomotor signals by brain-stem neurons.",
+  "abstract": "The vestibuloocular reflex and other oculomotor functions are subserved by populations of neurons operating in parallel. This distributed aspect of the system's organization has been largely ignored in previous block diagram models. Neurons that transmit oculomotor signals, such as those in the vestibular nucleus (VN), actually combine the different types of signals in a diverse, seemingly random way that could not be predicted from a block diagram. We used the backpropagation learning algorithm to program distributed neural-network models of the vestibulo-oculomotor system. Networks were trained to combine vestibular, pursuit and saccadic eye velocity command signals. The model neurons in these neural networks have diverse combinations of vestibulo-oculomotor signals that are qualitatively similar to those reported for actual VN neurons in the monkey. This similarity implicates a learning mechanism as an organizing influence on the vestibulo-oculomotor system and demonstrates how VN neurons can encode vestibulo-oculomotor signals in a diverse, distributed manner.",
+  "authors": [
+    "Anastasio T J",
+    "Robinson D A"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "1989",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Brain Stem",
+    "Models, Neurological",
+    "Nerve Net",
+    "Reflex, Vestibulo-Ocular"
+  ]
+}

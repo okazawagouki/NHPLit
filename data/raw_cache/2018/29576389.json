@@ -1,0 +1,22 @@
+{
+  "pmid": "29576389",
+  "title": "Inter-areal Balanced Amplification Enhances Signal Propagation in a Large-Scale Circuit Model of the Primate Cortex.",
+  "abstract": "Understanding reliable signal transmission represents a notable challenge for cortical systems, which display a wide range of weights of feedforward and feedback connections among heterogeneous areas. We re-examine the question of signal transmission across the cortex in a network model based on mesoscopic directed and weighted inter-areal connectivity data of the macaque cortex. Our findings reveal that, in contrast to purely feedforward propagation models, the presence of long-range excitatory feedback projections could compromise stable signal propagation. Using population rate models as well as a spiking network model, we find that effective signal propagation can be accomplished by balanced amplification across cortical areas while ensuring dynamical stability. Moreover, the activation of prefrontal cortex in our model requires the input strength to exceed a threshold, which is consistent with the ignition model of conscious processing. These findings demonstrate our model as an anatomically realistic platform for investigations of global primate cortex dynamics.",
+  "authors": [
+    "Joglekar Madhura R",
+    "Mejias Jorge F",
+    "Yang Guangyu Robert",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Neuron",
+  "year": "2018",
+  "doi": "10.1016/j.neuron.2018.02.031",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Models, Neurological",
+    "Nerve Net",
+    "Primates",
+    "Signal Transduction"
+  ]
+}

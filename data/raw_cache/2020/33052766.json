@@ -1,0 +1,27 @@
+{
+  "pmid": "33052766",
+  "title": "Prediction of mild parkinsonism revealed by neural oscillatory changes and machine learning.",
+  "abstract": "Neural oscillatory changes within and across different frequency bands are thought to underlie motor dysfunction in Parkinson's disease (PD) and may serve as biomarkers for closed-loop deep brain stimulation (DBS) approaches. Here, we used neural oscillatory signals derived from chronically implanted cortical and subcortical electrode arrays as features to train machine learning algorithms to discriminate between naive and mild PD states in a nonhuman primate model. Local field potential (LFP) data were collected over several months from a 12-channel subdural electrocorticography (ECoG) grid and a 6-channel custom array implanted in the subthalamic nucleus (STN). Relative to the naive state, the PD state showed elevated primary motor cortex (M1) and STN power in the beta, high gamma, and high-frequency oscillation (HFO) bands and decreased power in the delta band. Theta power was found to be decreased in STN but not M1. In the PD state there was elevated beta-HFO phase-amplitude coupling (PAC) in the STN. We applied machine learning with support vector machines with radial basis function (SVM-RBF) kernel and <i>k</i>-nearest neighbors (KNN) classifiers trained by features related to power and PAC changes to discriminate between the naive and mild states. Our results show that the most predictive feature of parkinsonism in the STN was high beta (∼86% accuracy), whereas it was HFO in M1 (∼98% accuracy). A feature fusion approach outperformed every individual feature, particularly in the M1, where ∼98% accuracy was achieved with both classifiers. Overall, our data demonstrate the ability to use various frequency band power to classify the clinical state and are also beneficial in developing closed-loop DBS therapeutic approaches.<b>NEW & NOTEWORTHY</b> Neurophysiological biomarkers that correlate with motor symptoms or disease severity are vital to improve our understanding of the pathophysiology in Parkinson's disease (PD) and for the development of more effective treatments, including deep brain stimulation (DBS). This work provides direct insight into the application of these biomarkers in training classifiers to discriminate between brain states, which is a first step toward developing closed-loop DBS systems.",
+  "authors": [
+    "Bore Joyce Chelangat",
+    "Campbell Brett A",
+    "Cho Hanbin",
+    "Gopalakrishnan Raghavan",
+    "Machado Andre G",
+    "Baker Kenneth B"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2020",
+  "doi": "10.1152/jn.00534.2020",
+  "mesh": [
+    "Animals",
+    "Brain Waves",
+    "Female",
+    "Macaca mulatta",
+    "Machine Learning",
+    "Motor Cortex",
+    "Parkinsonian Disorders",
+    "Signal Processing, Computer-Assisted",
+    "Subthalamic Nucleus"
+  ]
+}

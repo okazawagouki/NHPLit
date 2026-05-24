@@ -1,0 +1,31 @@
+{
+  "pmid": "23603286",
+  "title": "Mapping putative hubs in human, chimpanzee and rhesus macaque connectomes via diffusion tractography.",
+  "abstract": "Mapping anatomical brain networks with graph-theoretic analysis of diffusion tractography has recently gained popularity, because of its presumed value in understanding brain function. However, this approach has seldom been used to compare brain connectomes across species, which may provide insights into brain evolution. Here, we employed a data-driven approach to compare interregional brain connections across three primate species: 1) the intensively studied rhesus macaque, 2) our closest living primate relative, the chimpanzee, and 3) humans. Specifically, we first used random parcellations and surface-based probabilistic diffusion tractography to derive the brain networks of the three species under various network densities and resolutions. We then compared the characteristics of the networks using graph-theoretic measures. In rhesus macaques, our tractography-defined hubs showed reasonable overlap with hubs previously identified using anterograde and retrograde tracer data. Across all three species, hubs were largely symmetric in the two hemispheres and were consistently identified in medial parietal, insular, retrosplenial cingulate and ventrolateral prefrontal cortices, suggesting a conserved structural architecture within these regions. However, species differences were observed in the inferior parietal cortex, polar and medial prefrontal cortices. The potential significance of these interspecies differences is discussed.",
+  "authors": [
+    "Li Longchuan",
+    "Hu Xiaoping",
+    "Preuss Todd M",
+    "Glasser Matthew F",
+    "Damen Frederick W",
+    "Qiu Yuxuan",
+    "Rilling James"
+  ],
+  "journal": "NeuroImage",
+  "year": "2013",
+  "doi": "10.1016/j.neuroimage.2013.04.024",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Connectome",
+    "Diffusion Tensor Imaging",
+    "Humans",
+    "Macaca mulatta",
+    "Models, Anatomic",
+    "Models, Neurological",
+    "Nerve Fibers, Myelinated",
+    "Nerve Net",
+    "Pan troglodytes",
+    "Species Specificity"
+  ]
+}

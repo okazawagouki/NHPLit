@@ -1,0 +1,13 @@
+{
+  "pmid": "25126068",
+  "title": "Ventral-stream-like shape representation: from pixel intensity values to trainable object-selective COSFIRE models.",
+  "abstract": "The remarkable abilities of the primate visual system have inspired the construction of computational models of some visual neurons. We propose a trainable hierarchical object recognition model, which we call S-COSFIRE (S stands for Shape and COSFIRE stands for Combination Of Shifted FIlter REsponses) and use it to localize and recognize objects of interests embedded in complex scenes. It is inspired by the visual processing in the ventral stream (V1/V2 → V4 → TEO). Recognition and localization of objects embedded in complex scenes is important for many computer vision applications. Most existing methods require prior segmentation of the objects from the background which on its turn requires recognition. An S-COSFIRE filter is automatically configured to be selective for an arrangement of contour-based features that belong to a prototype shape specified by an example. The configuration comprises selecting relevant vertex detectors and determining certain blur and shift parameters. The response is computed as the weighted geometric mean of the blurred and shifted responses of the selected vertex detectors. S-COSFIRE filters share similar properties with some neurons in inferotemporal cortex, which provided inspiration for this work. We demonstrate the effectiveness of S-COSFIRE filters in two applications: letter and keyword spotting in handwritten manuscripts and object spotting in complex scenes for the computer vision system of a domestic robot. S-COSFIRE filters are effective to recognize and localize (deformable) objects in images of complex scenes without requiring prior segmentation. They are versatile trainable shape detectors, conceptually simple and easy to implement. The presented hierarchical shape representation contributes to a better understanding of the brain and to more robust computer vision algorithms.",
+  "authors": [
+    "Azzopardi George",
+    "Petkov Nicolai"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2014",
+  "doi": "10.3389/fncom.2014.00080",
+  "mesh": []
+}

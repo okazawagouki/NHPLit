@@ -1,0 +1,29 @@
+{
+  "pmid": "32691490",
+  "title": "The McGill-Mouse-Miniscope platform: A standardized approach for high-throughput imaging of neuronal dynamics during behavior.",
+  "abstract": "Understanding the rules that govern neuronal dynamics throughout the brain to subserve behavior and cognition remains one of the biggest challenges in neuroscience research. Recent technical advances enable the recording of increasingly larger neuronal populations to produce increasingly more sophisticated datasets. Despite bold and important open-science and data-sharing policies, these datasets tend to include unique data acquisition methods, behaviors, and file structures. Discrepancies between experimental protocols present key challenges in comparing data between laboratories and across different brain regions and species. Here, we discuss our recent efforts to create a standardized and high-throughput research platform to address these issues. The McGill-Mouse-Miniscope (M3) platform is an initiative to combine miniscope calcium imaging with standardized touchscreen-based animal behavioral testing. The goal is to curate an open-source and standardized framework for acquiring, analyzing, and accessing high-quality data of the neuronal dynamics that underly cognition throughout the brain in mice, marmosets, and models of disease. We end with a discussion of future developments and a call for users to adopt this standardized approach.",
+  "authors": [
+    "Mosser Coralie-Anne",
+    "Haqqee Zeeshan",
+    "Nieto-Posadas Andrés",
+    "Murai Keith K",
+    "Stifani Stefano",
+    "Williams Sylvain",
+    "Brandon Mark P"
+  ],
+  "journal": "Genes, brain, and behavior",
+  "year": "2021",
+  "doi": "10.1111/gbb.12686",
+  "mesh": [
+    "Animals",
+    "Behavioral Research",
+    "Brain",
+    "Calcium",
+    "Cognition",
+    "High-Throughput Screening Assays",
+    "Mice",
+    "Microscopy, Fluorescence",
+    "Neurons",
+    "User-Computer Interface"
+  ]
+}

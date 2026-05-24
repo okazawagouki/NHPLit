@@ -1,0 +1,14 @@
+{
+  "pmid": "41787846",
+  "title": "Learnable Diffusion Framework for Mouse V1 Neural Decoding.",
+  "abstract": "Decoding visual stimuli from neural signals is an essential step toward understanding how sensory information is represented in the brain. While most existing approaches reconstruct visual stimuli from human functional magnetic resonance imaging (fMRI), utilizing calcium imaging in mice opens the door to single-neuron-level insights into non-primate visual systems with distinct spectral sensitivities. Here, we present Sensorium-Viz, a diffusion-based framework specifically designed for decoding activity in the mouse primary visual cortex. The model is among the first to reliably reconstruct complex, high-resolution images from previously unseen single-neuron responses. At its core, Sensorium-Viz introduces two key advances for neuron-to-image decoding: a synthetic-response augmentation strategy that improves reconstruction performance by more than 30% while enabling cross-mouse generalization through fine-tuning, and an architectural design that integrates a Diffusion Transformer (DiT) with a spatial neuron-embedding module, thereby achieving up to a 10.65% performance gain over leading fMRI-based reconstruction methods across pixel- and content-level benchmarks. Analysis of the neural responses and corresponding reconstructions reveals that neurons sensitive to low-level visual features form the primary basis of V1's representation of external stimuli. These findings establish Sensorium-Viz as a biologically grounded and technically robust tool for vision decoding.",
+  "authors": [
+    "Deng Kaiwen",
+    "Schwendeman Peter S",
+    "Guan Yuanfang"
+  ],
+  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "year": "2026",
+  "doi": "10.1002/advs.202520220",
+  "mesh": []
+}

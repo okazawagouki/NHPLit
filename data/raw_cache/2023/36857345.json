@@ -1,0 +1,23 @@
+{
+  "pmid": "36857345",
+  "title": "Macaques recognize features in synthetic images derived from ventral stream neurons.",
+  "abstract": "Primates can recognize features in virtually all types of images, an ability that still requires a comprehensive computational explanation. One hypothesis is that visual cortex neurons learn patterns from scenes, objects, and textures, and use these patterns to interpolate incoming visual information. We have used machine learning algorithms to instantiate visual patterns stored by neurons-we call these highly activating images prototypes. Prototypes from inferotemporal (IT) neurons often resemble parts of real-world objects, such as monkey faces and body parts, a similarity established via pretrained neural networks [C. R. Ponce <i>et al</i>., <i>Cell</i> <b>177</b>, 999-1009.e10 (2019)] and naïve human participants [A. Bardon, W. Xiao, C. R. Ponce, M. S. Livingstone, G. Kreiman, <i>Proc. Natl. Acad. Sci. U.S.A.</i> <b>119</b>, e2118705119 (2022)]. However, it is not known whether monkeys themselves perceive similarities between neuronal prototypes and real-world objects. Here, we investigated whether monkeys reported similarities between prototypes and real-world objects using a two-alternative forced choice task. We trained the animals to saccade to synthetic images of monkeys, and subsequently tested how they classified prototypes synthesized from IT and primary visual cortex (V1). We found monkeys classified IT prototypes as conspecifics more often than they did random generator images and V1 prototypes, and their choices were partially predicted by convolutional neural networks. Further, we confirmed that monkeys could abstract general shape information from images of real-world objects. Finally, we verified these results with human participants. Our results provide further evidence that prototypes from cortical neurons represent interpretable abstractions from the visual world.",
+  "authors": [
+    "Mueller Katherine N",
+    "Carter Mary C",
+    "Kansupada Jeevun A",
+    "Ponce Carlos R"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2023",
+  "doi": "10.1073/pnas.2213034120",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Macaca",
+    "Algorithms",
+    "Apoptosis",
+    "Concept Formation",
+    "Neurons"
+  ]
+}

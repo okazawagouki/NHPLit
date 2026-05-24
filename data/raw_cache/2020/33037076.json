@@ -1,0 +1,35 @@
+{
+  "pmid": "33037076",
+  "title": "A Minimal Biophysical Model of Neocortical Pyramidal Cells: Implications for Frontal Cortex Microcircuitry and Field Potential Generation.",
+  "abstract": "Ca<sup>2+</sup> spikes initiated in the distal trunk of layer 5 pyramidal cells (PCs) underlie nonlinear dynamic changes in the gain of cellular response, critical for top-down control of cortical processing. Detailed models with many compartments and dozens of ionic channels can account for this Ca<sup>2+</sup> spike-dependent gain and associated critical frequency. However, current models do not account for all known Ca<sup>2+</sup>-dependent features. Previous attempts to include more features have required increasing complexity, limiting their interpretability and utility for studying large population dynamics. We overcome these limitations in a minimal two-compartment biophysical model. In our model, a basal-dendrites/somatic compartment included fast-inactivating Na<sup>+</sup> and delayed-rectifier K<sup>+</sup> conductances, while an apical-dendrites/trunk compartment included persistent Na<sup>+</sup>, hyperpolarization-activated cation (I <i><sub>h</sub></i> ), slow-inactivating K<sup>+</sup>, muscarinic K<sup>+</sup>, and Ca<sup>2+</sup> L-type. The model replicated the Ca<sup>2+</sup> spike morphology and its critical frequency plus three other defining features of layer 5 PC synaptic integration: linear frequency-current relationships, back-propagation-activated Ca<sup>2+</sup> spike firing, and a shift in the critical frequency by blocking I <i><sub>h</sub></i> Simulating 1000 synchronized layer 5 PCs, we reproduced the current source density patterns evoked by Ca<sup>2+</sup> spikes and describe resulting medial-frontal EEG on a male macaque monkey. We reproduced changes in the current source density when I <i><sub>h</sub></i> was blocked. Thus, a two-compartment model with five crucial ionic currents in the apical dendrites reproduces all features of these neurons. We discuss the utility of this minimal model to study the microcircuitry of agranular areas of the frontal lobe involved in cognitive control and responsible for event-related potentials, such as the error-related negativity.<b>SIGNIFICANCE STATEMENT</b> A minimal model of layer 5 pyramidal cells replicates all known features crucial for distal synaptic integration in these neurons. By redistributing voltage-gated and returning transmembrane currents in the model, we establish a theoretical framework for the investigation of cortical microcircuit contribution to intracranial local field potentials and EEG. This tractable model will enable biophysical evaluation of multiscale electrophysiological signatures and computational investigation of cortical processing.",
+  "authors": [
+    "Herrera Beatriz",
+    "Sajad Amirsaman",
+    "Woodman Geoffrey F",
+    "Schall Jeffrey D",
+    "Riera Jorge J"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2020",
+  "doi": "10.1523/JNEUROSCI.0221-20.2020",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biophysics",
+    "Calcium Channels, L-Type",
+    "Calcium Signaling",
+    "Computer Simulation",
+    "Delayed Rectifier Potassium Channels",
+    "Dendrites",
+    "Electroencephalography",
+    "Evoked Potentials",
+    "Hyperpolarization-Activated Cyclic Nucleotide-Gated Channels",
+    "Macaca radiata",
+    "Male",
+    "Models, Neurological",
+    "Neocortex",
+    "Nerve Net",
+    "Pyramidal Cells",
+    "Sodium Channels"
+  ]
+}

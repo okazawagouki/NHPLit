@@ -1,0 +1,19 @@
+{
+  "pmid": "32410977",
+  "title": "MonkeyCBP: A Toolbox for Connectivity-Based Parcellation of Monkey Brain.",
+  "abstract": "Non-human primate models are widely used in studying the brain mechanism underlying brain development, cognitive functions, and psychiatric disorders. Neuroimaging techniques, such as magnetic resonance imaging, play an important role in the examinations of brain structure and functions. As an indispensable tool for brain imaging data analysis, brain atlases have been extensively investigated, and a variety of versions constructed. These atlases diverge in the criteria based on which they are plotted. The criteria range from cytoarchitectonic features, neurotransmitter receptor distributions, myelination fingerprints, and transcriptomic patterns to structural and functional connectomic profiles. Among them, brainnetome atlas is tightly related to brain connectome information and built by parcellating the brain on the basis of the anatomical connectivity profiles derived from structural neuroimaging data. The pipeline for building the brainnetome atlas has been published as a toolbox named ATPP (A Pipeline for Automatic Tractography-Based Brain Parcellation). In this paper, we present a variation of ATPP, which is dedicated to monkey brain parcellation, to address the significant differences in the process between the two species. The new toolbox, MonkeyCBP, has major alterations in three aspects: brain extraction, image registration, and validity indices. By parcellating two different brain regions (posterior cingulate cortex) and (frontal pole) of the rhesus monkey, we demonstrate the efficacy of these alterations. The toolbox has been made public (https://github.com/bheAI/MonkeyCBP_CLI, https://github.com/bheAI/MonkeyCBP_GUI). It is expected that the toolbox can benefit the non-human primate neuroimaging community with high-throughput computation and low labor involvement.",
+  "authors": [
+    "He Bin",
+    "Yang Zhengyi",
+    "Fan Lingzhong",
+    "Gao Bin",
+    "Li Hai",
+    "Ye Chuyang",
+    "You Bo",
+    "Jiang Tianzi"
+  ],
+  "journal": "Frontiers in neuroinformatics",
+  "year": "2020",
+  "doi": "10.3389/fninf.2020.00014",
+  "mesh": []
+}

@@ -1,0 +1,14 @@
+{
+  "pmid": "41933034",
+  "title": "Dynamic spatiotemporal features in action recognition: a multimodal study.",
+  "abstract": "Recognizing and distinguishing actions is a complex cognitive process that relies on integrating various spatiotemporal information. However, the specific contributions of spatial and temporal features to action recognition remain unclear. To address this gap, we conducted fMRI recordings in monkeys as they observed videos of grasping, touching, and reaching actions. Using multivariate pattern analysis (MVPA), we identified distinct action representation patterns across the brain, with most regions of the action observation network (AON) exhibiting a grasping-dominant pattern. This neural representation was consistent with the monkeys' behavioral differentiation of these actions in subsequent categorization tasks. Building on computer vision approaches, we systematically extracted dynamic spatial and temporal features from action videos, capturing evolution of feature information over time, and compared these features with the monkeys' behavioral performance. Our results demonstrate that these features are utilized across a hierarchy and selectively correlate with behavior, reflecting a complex interplay between feature information and key action components. These findings imply a distributed coding strategy in which diverse spatial and temporal features are selectively integrated to form action representations that facilitate recognition or discrimination. Our study provides empirical evidence for current action recognition models and introduces advanced computational tools for analyzing high-dimensional and multimodal data.",
+  "authors": [
+    "Jin Qiuhan",
+    "Cui Ding",
+    "Nelissen Koen"
+  ],
+  "journal": "Communications biology",
+  "year": "2026",
+  "doi": "10.1038/s42003-026-09917-z",
+  "mesh": []
+}

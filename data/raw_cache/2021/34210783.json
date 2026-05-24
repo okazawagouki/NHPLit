@@ -1,0 +1,27 @@
+{
+  "pmid": "34210783",
+  "title": "An Emergent Population Code in Primary Auditory Cortex Supports Selective Attention to Spectral and Temporal Sound Features.",
+  "abstract": "Textbook descriptions of primary sensory cortex (PSC) revolve around single neurons' representation of low-dimensional sensory features, such as visual object orientation in primary visual cortex (V1), location of somatic touch in primary somatosensory cortex (S1), and sound frequency in primary auditory cortex (A1). Typically, studies of PSC measure neurons' responses along few (one or two) stimulus and/or behavioral dimensions. However, real-world stimuli usually vary along many feature dimensions and behavioral demands change constantly. In order to illuminate how A1 supports flexible perception in rich acoustic environments, we recorded from A1 neurons while rhesus macaques (one male, one female) performed a feature-selective attention task. We presented sounds that varied along spectral and temporal feature dimensions (carrier bandwidth and temporal envelope, respectively). Within a block, subjects attended to one feature of the sound in a selective change detection task. We found that single neurons tend to be high-dimensional, in that they exhibit substantial mixed selectivity for both sound features, as well as task context. We found no overall enhancement of single-neuron coding of the attended feature, as attention could either diminish or enhance this coding. However, a population-level analysis reveals that ensembles of neurons exhibit enhanced encoding of attended sound features, and this population code tracks subjects' performance. Importantly, surrogate neural populations with intact single-neuron tuning but shuffled higher-order correlations among neurons fail to yield attention- related effects observed in the intact data. These results suggest that an emergent population code not measurable at the single-neuron level might constitute the functional unit of sensory representation in PSC.<b>SIGNIFICANCE STATEMENT</b> The ability to adapt to a dynamic sensory environment promotes a range of important natural behaviors. We recorded from single neurons in monkey primary auditory cortex (A1), while subjects attended to either the spectral or temporal features of complex sounds. Surprisingly, we found no average increase in responsiveness to, or encoding of, the attended feature across single neurons. However, when we pooled the activity of the sampled neurons via targeted dimensionality reduction (TDR), we found enhanced population-level representation of the attended feature and suppression of the distractor feature. This dissociation of the effects of attention at the level of single neurons versus the population highlights the synergistic nature of cortical sound encoding and enriches our understanding of sensory cortical function.",
+  "authors": [
+    "Downer Joshua D",
+    "Verhein Jessica R",
+    "Rapone Brittany C",
+    "O'Connor Kevin N",
+    "Sutter Mitchell L"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2021",
+  "doi": "10.1523/JNEUROSCI.0693-20.2021",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Auditory Cortex",
+    "Auditory Perception",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Neurons"
+  ]
+}

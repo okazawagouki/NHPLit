@@ -1,0 +1,22 @@
+{
+  "pmid": "19360435",
+  "title": "Stimulus sampling as an exploration mechanism for fast reinforcement learning.",
+  "abstract": "Reinforcement learning in neural networks requires a mechanism for exploring new network states in response to a single, nonspecific reward signal. Existing models have introduced synaptic or neuronal noise to drive this exploration. However, those types of noise tend to almost average out-precluding or significantly hindering learning -when coding in neuronal populations or by mean firing rates is considered. Furthermore, careful tuning is required to find the elusive balance between the often conflicting demands of speed and reliability of learning. Here we show that there is in fact no need to rely on intrinsic noise. Instead, ongoing synaptic plasticity triggered by the naturally occurring online sampling of a stimulus out of an entire stimulus set produces enough fluctuations in the synaptic efficacies for successful learning. By combining stimulus sampling with reward attenuation, we demonstrate that a simple Hebbian-like learning rule yields the performance that is very close to that of primates on visuomotor association tasks. In contrast, learning rules based on intrinsic noise (node and weight perturbation) are markedly slower. Furthermore, the performance advantage of our approach persists for more complex tasks and network architectures. We suggest that stimulus sampling and reward attenuation are two key components of a framework by which any single-cell supervised learning rule can be converted into a reinforcement learning rule for networks without requiring any intrinsic noise source.",
+  "authors": [
+    "Vladimirskiy Boris B",
+    "Vasilaki Eleni",
+    "Urbanczik Robert",
+    "Senn Walter"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2009",
+  "doi": "10.1007/s00422-009-0305-x",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Haplorhini",
+    "Learning",
+    "Neuronal Plasticity",
+    "Reinforcement, Psychology"
+  ]
+}

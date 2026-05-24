@@ -1,0 +1,27 @@
+{
+  "pmid": "41193256",
+  "title": "Orientation Maps in Mouse Superior Colliculus Explained by Population Model of Non-Orientation Selective Neurons.",
+  "abstract": "Mouse superficial superior colliculus (sSC) has been found to have orientation selective maps, suggesting a fundamentally different selectivity than in primate SC. Moreover, orientation selectivity in mouse sSC appears to change with stimulus properties such as size, shape, and spatial frequency, in contradistinction to the computational principle of invariance in primates. To reconcile mouse and primate mechanisms for orientation selectivity, we constructed a computational model of mouse sSC populations with circular-symmetric, center-surround (i.e., not intrinsically orientation selective), stimulus-invariant receptive fields (RFs), classically used to describe monkey lateral geniculate nucleus (LGN) neurons. This model produced population maps similar to those found in mouse sSC, which show strong radial orientation preferences at retinotopic locations along stimulus edges. We show how this selectivity depended critically on spatial frequency tuning of the model units. The model predicted a shift from radial to anti-radial orientation preferences from the same simulated units at high stimulus spatial frequencies, also consistent with measurements from mouse sSC. We found intrinsically oriented RFs were largely unnecessary to explain the imaging data but could explain a possible small subpopulation of intrinsically orientation selective neurons. We conclude that to study orientation selectivity in mouse sSC and other systems, the problem is not the choice of stimulus. Rather than endless tweaks to find the perfect, unbiased stimulus, image-computable population modeling is the solution. Regardless of the stimulus presented, comparing how well models of intrinsically or non-intrinsically orientation selective units account for empirical data provides definitive evidence for underlying neural selectivity.",
+  "authors": [
+    "Kuo Austin",
+    "Gardner Justin L",
+    "Merriam Elisha P"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2026",
+  "doi": "10.1523/JNEUROSCI.1133-25.2025",
+  "mesh": [
+    "Animals",
+    "Superior Colliculi",
+    "Mice",
+    "Neurons",
+    "Models, Neurological",
+    "Orientation",
+    "Photic Stimulation",
+    "Computer Simulation",
+    "Orientation, Spatial",
+    "Brain Mapping",
+    "Visual Pathways",
+    "Visual Fields"
+  ]
+}

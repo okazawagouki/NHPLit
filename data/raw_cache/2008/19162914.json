@@ -1,0 +1,26 @@
+{
+  "pmid": "19162914",
+  "title": "Two-way ANOVA to identify impacts of multiple interactive behavioral factors on the neuronal population dependency during the reaching motion.",
+  "abstract": "Brain neural activities interact with behaviors. The contribution of this paper is that we investigate the significance of the impacts of multiple behavioral factors: target direction (left or right) and obstacle (presence or absence), and their interaction on the dependency among a neuronal ensemble in the dorsal premotor (PMd) area of a monkey during a reaching motion. We first use bootstrapping to extract multiple resamples from successful trials. Then we use redundancy to measure dependency in each resample. We use ANOVA to investigate the significance of the impacts of these two behavioral factors and their interaction on the redundancy. The ANOVA shows that these two behavioral factors and their interaction have significant impacts on the single feature of neural activity. The same significance of impacts is identified in another neuronal ensemble assessed in another experimental session. Its biological explanation is given.",
+  "authors": [
+    "Zhang H",
+    "Ye N",
+    "He J",
+    "Roontiva A",
+    "Aguayo J"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2008",
+  "doi": "10.1109/IEMBS.2008.4649411",
+  "mesh": [
+    "Action Potentials",
+    "Analysis of Variance",
+    "Animals",
+    "Behavior, Animal",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Movement",
+    "Neurons",
+    "Psychomotor Performance"
+  ]
+}

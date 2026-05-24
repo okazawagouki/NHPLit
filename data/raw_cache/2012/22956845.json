@@ -1,0 +1,24 @@
+{
+  "pmid": "22956845",
+  "title": "Dynamics of local input normalization result from balanced short- and long-range intracortical interactions in area V1.",
+  "abstract": "To efficiently drive many behaviors, sensory systems have to integrate the activity of large neuronal populations within a limited time window. These populations need to rapidly achieve a robust representation of the input image, probably through canonical computations such as divisive normalization. However, little is known about the dynamics of the corticocortical interactions implementing these rapid and robust computations. Here, we measured the real-time activity of a large neuronal population in V1 using voltage-sensitive dye imaging in behaving monkeys. We found that contrast gain of the population increases over time with a time constant of ~30 ms and propagates laterally over the cortical surface. This dynamic is well accounted for by a divisive normalization achieved through a recurrent network that transiently increases in size after response onset with a slow swelling speed of 0.007-0.014 m/s, suggesting a polysynaptic intracortical origin. In the presence of a surround, this normalization pool is gradually balanced by lateral inputs propagating from distant cortical locations. This results in a centripetal propagation of surround suppression at a speed of 0.1-0.3 m/s, congruent with horizontal intracortical axons speed. We propose that a simple generalized normalization scheme can account for both the dynamical contrast response function through recurrent polysynaptic intracortical loops and for the surround suppression through long-range monosynaptic horizontal spread. Our results demonstrate that V1 achieves a rapid and robust context-dependent input normalization through a timely push-pull between local and lateral networks. We suggest that divisive normalization, a fundamental canonical computation, should be considered as a dynamic process.",
+  "authors": [
+    "Reynaud Alexandre",
+    "Masson Guillaume S",
+    "Chavane Frédéric"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2012",
+  "doi": "10.1523/JNEUROSCI.1618-12.2012",
+  "mesh": [
+    "Animals",
+    "Functional Laterality",
+    "Macaca mulatta",
+    "Male",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Recurrence",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

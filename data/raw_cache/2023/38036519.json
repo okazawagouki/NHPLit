@@ -1,0 +1,23 @@
+{
+  "pmid": "38036519",
+  "title": "Targeted V1 comodulation supports task-adaptive sensory decisions.",
+  "abstract": "Sensory-guided behavior requires reliable encoding of stimulus information in neural populations, and flexible, task-specific readout. The former has been studied extensively, but the latter remains poorly understood. We introduce a theory for adaptive sensory processing based on functionally-targeted stochastic modulation. We show that responses of neurons in area V1 of monkeys performing a visual discrimination task exhibit low-dimensional, rapidly fluctuating gain modulation, which is stronger in task-informative neurons and can be used to decode from neural activity after few training trials, consistent with observed behavior. In a simulated hierarchical neural network model, such labels are learned quickly and can be used to adapt downstream readout, even after several intervening processing stages. Consistently, we find the modulatory signal estimated in V1 is also present in the activity of simultaneously recorded MT units, and is again strongest in task-informative neurons. These results support the idea that co-modulation facilitates task-adaptive hierarchical information routing.",
+  "authors": [
+    "Haimerl Caroline",
+    "Ruff Douglas A",
+    "Cohen Marlene R",
+    "Savin Cristina",
+    "Simoncelli Eero P"
+  ],
+  "journal": "Nature communications",
+  "year": "2023",
+  "doi": "10.1038/s41467-023-43432-7",
+  "mesh": [
+    "Primary Visual Cortex",
+    "Visual Cortex",
+    "Visual Perception",
+    "Learning",
+    "Discrimination, Psychological",
+    "Photic Stimulation"
+  ]
+}

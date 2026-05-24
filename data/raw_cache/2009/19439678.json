@@ -1,0 +1,29 @@
+{
+  "pmid": "19439678",
+  "title": "Parietal reach region encodes reach depth using retinal disparity and vergence angle signals.",
+  "abstract": "Performing a visually guided reach requires the ability to perceive the egocentric distance of a target in three-dimensional space. Previous studies have shown that the parietal reach region (PRR) encodes the two-dimensional location of frontoparallel targets in an eye-centered reference frame. To investigate how a reach target is represented in three dimensions, we recorded the spiking activity of PRR neurons from two rhesus macaques trained to fixate and perform memory reaches to targets at different depths. Reach and fixation targets were configured to explore whether neural activity directly reflects egocentric distance as the amplitude of the required motor command, which is the absolute depth of the target, or rather the relative depth of the target with reference to fixation depth. We show that planning activity in PRR represents the depth of the reach target as a function of disparity and fixation depth, the spatial parameters important for encoding the depth of a reach goal in an eye centered reference frame. The strength of modulation by disparity is maintained across fixation depth. Fixation depth gain modulates disparity tuning while preserving the location of peak tuning features in PRR neurons. The results show that individual PRR neurons code depth with respect to the fixation point, that is, in eye centered coordinates. However, because the activity is gain modulated by vergence angle, the absolute depth can be decoded from the population activity.",
+  "authors": [
+    "Bhattacharyya Rajan",
+    "Musallam Sam",
+    "Andersen Richard A"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2009",
+  "doi": "10.1152/jn.90359.2008",
+  "mesh": [
+    "Action Potentials",
+    "Analysis of Variance",
+    "Animals",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Neurons",
+    "Neuropsychological Tests",
+    "Parietal Lobe",
+    "Psychomotor Performance",
+    "Space Perception",
+    "Task Performance and Analysis",
+    "Vision Disparity",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

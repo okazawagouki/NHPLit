@@ -1,0 +1,22 @@
+{
+  "pmid": "30440790",
+  "title": "Robust Local Field Potential-based Neural Decoding by Actively Selecting Discriminative Channels.",
+  "abstract": "Local field potentials (LFPs) have been proposed as a neural decoding signal to compensate for spike signal deterioration in invasive brain-machine interface applications. However, the presence of redundancy among LFP signals at different frequency bands across multiple channels may affect the decoding performance. In order to remove redundant LFP channels, we proposed a novel Fisher-distance ratio-based method to actively batch select discriminative channels to maximize the separation between classes. Experimental evaluation was conducted on 5 non-consecutive days of data from a non-human primate. For data from each day, the first experimental session was used to generate the training model, which was then used to perform 4-class decoding of signals from other sessions. Decoding achieved an average accuracy of 79.55%, 79.02% and 79.40% using selected LFP channels for beta, low gamma and high gamma frequency bands, respectively. Compared with decoding using full LFP channels, decoding using selected LFP channels in high gamma band resulted in an increase of 8.67% in accuracy, even if this accuracy was still 7.26% lower than that of spike-based decoding. These results demonstrate the effectiveness of the proposed method in selecting discriminative LFP channels for neural decoding.",
+  "authors": [
+    "Yang Huijuan",
+    "Ang Kai Keng",
+    "Libedinsky Camilo",
+    "So Rosa Q"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2018",
+  "doi": "10.1109/EMBC.2018.8512628",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Motor Cortex",
+    "Primates",
+    "Robotics"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmid": "31008508",
+  "title": "Between Perfectly Critical and Fully Irregular: A Reverberating Model Captures and Predicts Cortical Spike Propagation.",
+  "abstract": "Knowledge about the collective dynamics of cortical spiking is very informative about the underlying coding principles. However, even most basic properties are not known with certainty, because their assessment is hampered by spatial subsampling, i.e., the limitation that only a tiny fraction of all neurons can be recorded simultaneously with millisecond precision. Building on a novel, subsampling-invariant estimator, we fit and carefully validate a minimal model for cortical spike propagation. The model interpolates between two prominent states: asynchronous and critical. We find neither of them in cortical spike recordings across various species, but instead identify a narrow \"reverberating\" regime. This approach enables us to predict yet unknown properties from very short recordings and for every circuit individually, including responses to minimal perturbations, intrinsic network timescales, and the strength of external input compared to recurrent activation \"thereby informing about the underlying coding principles for each circuit, area, state and task.",
+  "authors": [
+    "Wilting J",
+    "Priesemann V"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2019",
+  "doi": "10.1093/cercor/bhz049",
+  "mesh": [
+    "Animals",
+    "Cats",
+    "Cerebral Cortex",
+    "Macaca",
+    "Models, Neurological",
+    "Models, Theoretical",
+    "Neurons",
+    "Rats"
+  ]
+}

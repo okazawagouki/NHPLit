@@ -1,0 +1,31 @@
+{
+  "pmid": "23160043",
+  "title": "A high-performance neural prosthesis enabled by control algorithm design.",
+  "abstract": "Neural prostheses translate neural activity from the brain into control signals for guiding prosthetic devices, such as computer cursors and robotic limbs, and thus offer individuals with disabilities greater interaction with the world. However, relatively low performance remains a critical barrier to successful clinical translation; current neural prostheses are considerably slower, with less accurate control, than the native arm. Here we present a new control algorithm, the recalibrated feedback intention-trained Kalman filter (ReFIT-KF) that incorporates assumptions about the nature of closed-loop neural prosthetic control. When tested in rhesus monkeys implanted with motor cortical electrode arrays, the ReFIT-KF algorithm outperformed existing neural prosthetic algorithms in all measured domains and halved target acquisition time. This control algorithm permits sustained, uninterrupted use for hours and generalizes to more challenging tasks without retraining. Using this algorithm, we demonstrate repeatable high performance for years after implantation in two monkeys, thereby increasing the clinical viability of neural prostheses.",
+  "authors": [
+    "Gilja Vikash",
+    "Nuyujukian Paul",
+    "Chestek Cindy A",
+    "Cunningham John P",
+    "Yu Byron M",
+    "Fan Joline M",
+    "Churchland Mark M",
+    "Kaufman Matthew T",
+    "Kao Jonathan C",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2012",
+  "doi": "10.1038/nn.3265",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Electrodes, Implanted",
+    "Macaca",
+    "Male",
+    "Neural Prostheses",
+    "Photic Stimulation",
+    "Psychomotor Performance"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "22255055",
+  "title": "Functional connectivity during surround suppression in macaque area V4.",
+  "abstract": "Surround suppression is a common feature of sensory neurons. For neurons of the visual cortex, it occurs when a visual stimulus extends beyond a neuron's classical receptive field, reducing the neuron's firing rate. While several studies have been attributing the suppression effect on horizontal, long-range lateral or feedback connections, the underlying circuitry for surround modulation remain unidentified. Since most of these models have been relying on single neuron recordings, the contribution of lateral connections can only be suggested from the surround field properties. A more straightforward approach would be to detect these connections and their dynamics using simultaneous recordings from multiple neurons in one or more visual areas. We have developed a method for estimating these connections and we analyzed data obtained from 100-electrode Utah arrays chronically implanted into area V4 of the macaque monkey. Using a method based on the nonlinear Volterra modeling approach, we computed estimates of the strength and statistical reliability of connections among neurons, including nonlinear interactions and excitatory and inhibitory connections. Our results thus far reveal a pattern of connectivity within V4 that conforms to the results of previous anatomical work: Excitatory connections are far more common than inhibitory connections (∼65%), stronger connections are found among neurons that are physically near one another, and connections are stronger among neurons with similar receptive field properties. However, this connectivity is capable of reorganizing on short time scales according to the stimulus: Stimuli that evoke strong suppression at the single-unit level introduce stronger inhibition among V4 neurons, identifying recurrent connectivity as the source of the suppression. Overall, these results provide insight into the dynamic nature of neuronal organization within V4 and its contribution to surround suppression.",
+  "authors": [
+    "Zanos Theodoros P",
+    "Mineault Patrick J",
+    "Monteon Jachin A",
+    "Pack Christopher C"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2011",
+  "doi": "10.1109/IEMBS.2011.6090906",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

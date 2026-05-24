@@ -1,0 +1,26 @@
+{
+  "pmid": "41408991",
+  "title": "Perisaccadic Attentional Updating in Area V4: A Neurocomputational Approach.",
+  "abstract": "Psychophysical studies with human subjects investigated the dynamics of spatial visual attention around the time of saccades. They revealed that attention pointers remap against saccade direction, but at the same time show a lingering at the irrelevant retinotopic position after saccade. Involved brain areas have remained elusive. However, recordings from neurons in visual area V4 of macaques confirm remapping of spatial attention to a position opposite to the saccade direction shortly before saccade onset. Unexpectedly, in comparison with behavioral data from human subjects, a neural correlate of the lingering of spatial attention has not been observed in V4. To better understand the underlying computational mechanisms of attentional updating in V4, we developed a neurocomputational model of perisaccadic visual attention in area V4 by incorporating perisaccadic spatio-temporal signals from the frontal eye field (FEF) and the lateral intraparietal area (LIP). When we test this model on the same task, our obtained data replicate the observation of predictive remapping of spatial attention pointers in V4. Further, our model provides an intuitive explanation for the lack of lingering attention in the neural recordings: As the monkeys are only rewarded when they detect the target probe at the instructed location, they may aim at minimizing the post-saccadic spread of attention and thus weaken the attention pointer upon saccade planning. By deactivating different pathways, our model predicts that the attentional enhancement measured in V4 originates from spatial updating of a tonic attention pointer and not from a phasic saccade target attention pointer.",
+  "authors": [
+    "Bergelt Julia",
+    "Hamker Fred H"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "2025",
+  "doi": "10.1111/ejn.70354",
+  "mesh": [
+    "Saccades",
+    "Attention",
+    "Animals",
+    "Models, Neurological",
+    "Macaca mulatta",
+    "Visual Cortex",
+    "Neurons",
+    "Computer Simulation",
+    "Humans",
+    "Male",
+    "Space Perception",
+    "Visual Perception"
+  ]
+}

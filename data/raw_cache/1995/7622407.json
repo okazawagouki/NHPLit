@@ -1,0 +1,22 @@
+{
+  "pmid": "7622407",
+  "title": "Modelling the acquisition of goal-directed behaviors by populations of neurons.",
+  "abstract": "Recent neurophysiological studies have revealed the patterns of neuronal activity during the acquisition of goal-directed behaviors, both in single cells, and in large populations of neurons. We propose a model which helps three sets of experimental results in the monkey to be understood: (1) activity of single cells vary greatly and only population activities are causally related to behavior. The model shows how a population of stochastic neurons, whose behaviors vary widely, can learn a skilled conditioned movement with only local activity-dependent synaptic changes. (2) typical changes in neuronal activity occur when the rules governing the behavior are changed, i.e. when the relationship between cues and actions to reach a goal changes over time. There are two types of neuronal patterns during changes in reward contingency: a monotonic increasing pattern and a non-monotonic pattern which follows the change in the way the reward is obtained. Units in the model display these two types of change, which correspond to synaptic modifications related to the encoding of the behavioral significance of sensory and motor events. (3) These two patterns of neuronal activity define two populations whose anatomical distributions in the frontal lobe overlap with a gradient organized in the rostro-caudal direction. The model consists of two artificial neural networks, defined by the same set of equations, but which differ in the values of two parameters (P and Q). P defines the adaptive properties of processing units and Q describes the coding of information. The model suggests that a balance in the relative strengths of these parameters distributed along a rostro-caudal gradient can explain the distribution of neuronal types in the frontal lobe of the monkey.",
+  "authors": [
+    "Guigon E",
+    "Burnod Y"
+  ],
+  "journal": "International journal of psychophysiology : official journal of the International Organization of Psychophysiology",
+  "year": "1995",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Frontal Lobe",
+    "Macaca mulatta",
+    "Mathematics",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons"
+  ]
+}

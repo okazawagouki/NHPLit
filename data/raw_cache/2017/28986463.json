@@ -1,0 +1,31 @@
+{
+  "pmid": "28986463",
+  "title": "Hebbian Learning in a Random Network Captures Selectivity Properties of the Prefrontal Cortex.",
+  "abstract": "Complex cognitive behaviors, such as context-switching and rule-following, are thought to be supported by the prefrontal cortex (PFC). Neural activity in the PFC must thus be specialized to specific tasks while retaining flexibility. Nonlinear \"mixed\" selectivity is an important neurophysiological trait for enabling complex and context-dependent behaviors. Here we investigate (1) the extent to which the PFC exhibits computationally relevant properties, such as mixed selectivity, and (2) how such properties could arise via circuit mechanisms. We show that PFC cells recorded from male and female rhesus macaques during a complex task show a moderate level of specialization and structure that is not replicated by a model wherein cells receive random feedforward inputs. While random connectivity can be effective at generating mixed selectivity, the data show significantly more mixed selectivity than predicted by a model with otherwise matched parameters. A simple Hebbian learning rule applied to the random connectivity, however, increases mixed selectivity and enables the model to match the data more accurately. To explain how learning achieves this, we provide analysis along with a clear geometric interpretation of the impact of learning on selectivity. After learning, the model also matches the data on measures of noise, response density, clustering, and the distribution of selectivities. Of two styles of Hebbian learning tested, the simpler and more biologically plausible option better matches the data. These modeling results provide clues about how neural properties important for cognition can arise in a circuit and make clear experimental predictions regarding how various measures of selectivity would evolve during animal training.<b>SIGNIFICANCE STATEMENT</b> The prefrontal cortex is a brain region believed to support the ability of animals to engage in complex behavior. How neurons in this area respond to stimuli-and in particular, to combinations of stimuli (\"mixed selectivity\")-is a topic of interest. Even though models with random feedforward connectivity are capable of creating computationally relevant mixed selectivity, such a model does not match the levels of mixed selectivity seen in the data analyzed in this study. Adding simple Hebbian learning to the model increases mixed selectivity to the correct level and makes the model match the data on several other relevant measures. This study thus offers predictions on how mixed selectivity and other properties evolve with training.",
+  "authors": [
+    "Lindsay Grace W",
+    "Rigotti Mattia",
+    "Warden Melissa R",
+    "Miller Earl K",
+    "Fusi Stefano"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2017",
+  "doi": "10.1523/JNEUROSCI.1222-17.2017",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cluster Analysis",
+    "Cognition",
+    "Computer Simulation",
+    "Female",
+    "Learning",
+    "Macaca mulatta",
+    "Machine Learning",
+    "Male",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Prefrontal Cortex"
+  ]
+}

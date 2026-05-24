@@ -1,0 +1,33 @@
+{
+  "pmid": "16135553",
+  "title": "Adaptive stimulus optimization for auditory cortical neurons.",
+  "abstract": "Despite the extensive physiological work performed on auditory cortex, our understanding of the basic functional properties of auditory cortical neurons is incomplete. For example, it remains unclear what stimulus features are most important for these cells. Determining these features is challenging given the considerable size of the relevant stimulus parameter space as well as the unpredictable nature of many neurons' responses to complex stimuli due to nonlinear integration across frequency. Here we used an adaptive stimulus optimization technique to obtain the preferred spectral input for neurons in macaque primary auditory cortex (AI). This method uses a neuron's response to progressively modify the frequency composition of a stimulus to determine the preferred spectrum. This technique has the advantage of being able to incorporate nonlinear stimulus interactions into a \"best estimate\" of a neuron's preferred spectrum. The resulting spectra displayed a consistent, relatively simple circumscribed form that was similar across scale and frequency in which excitation and inhibition appeared about equally prominent. In most cases, this structure could be described using two simple models, the Gabor and difference of Gaussians functions. The findings indicate that AI neurons are well suited for extracting important scale-invariant features in sound spectra and suggest that they are designed to efficiently represent natural sounds.",
+  "authors": [
+    "O'Connor Kevin N",
+    "Petkov Christopher I",
+    "Sutter Mitchell L"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Adaptation, Physiological",
+    "Animals",
+    "Auditory Cortex",
+    "Auditory Pathways",
+    "Auditory Perception",
+    "Computer Simulation",
+    "Dose-Response Relationship, Radiation",
+    "Female",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Spectrum Analysis",
+    "Statistics as Topic",
+    "Time Factors"
+  ]
+}

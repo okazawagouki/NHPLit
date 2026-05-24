@@ -1,0 +1,21 @@
+{
+  "pmid": "31363879",
+  "title": "Single-Trial Decoding from Local Field Potential Using Bag of Word Representation.",
+  "abstract": "Neural decoding allows us to study the brain functions by investigating the relationship between a stimulus and the corresponding response. Recently, the local field potential (LFP) has been targeted as a hallmark of brain activity for neural decoding. Despite several decoding methods, there is still a lack of a comprehensive framework to decode cognitive functions in an integrated structure. Here, we addressed this issue by developing a dictionary-based method to represent the LFP signals via a bag-of-words (BOW) approach. First, we defined a general dictionary consisting of various Gabor wavelets as the words which enabled us to represent LFPs in word domain. For each trial, the LFP signal was convolved with the dictionary words. The integral of the absolute value and the mean phase of the complex output were considered as histogram weights. In the next step, using cross-validation leave-one-out method, the trials were split into the training and test sets. The weights of each individual word were swapped across trials within a certain category of the training set while the sequential order was maintained. Finally, the test trial was classified using label voting in the k-nearest training trials. We conducted the proposed method on two independent LFP data sets, recorded from the rat primary auditory cortex (A1) and monkey middle temporal area in order to evaluate its efficiency. In addition to the chance level, the proposed method was compared with a standard BOW approach that has been extended recently for biomedical signals classification. Results show a high efficiency (~ 15% improvement in decoding accuracy) of the proposed method. Together, the aforementioned method provides a comprehensive framework for single-trial decoding from short-length electrophysiological signals.",
+  "authors": [
+    "Parto Dezfouli Mohsen",
+    "Daliri Mohammad Reza"
+  ],
+  "journal": "Brain topography",
+  "year": "2020",
+  "doi": "10.1007/s10548-019-00726-8",
+  "mesh": [
+    "Animals",
+    "Auditory Cortex",
+    "Brain",
+    "Evoked Potentials",
+    "Humans",
+    "Male",
+    "Rats"
+  ]
+}

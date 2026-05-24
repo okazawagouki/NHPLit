@@ -1,0 +1,15 @@
+{
+  "pmid": "33746239",
+  "title": "A Non-Human Primate Brain-Computer Typing Interface.",
+  "abstract": "Brain-computer interfaces (BCIs) record brain activity and translate the information into useful control signals. They can be used to restore function to people with paralysis by controlling end effectors such as computer cursors and robotic limbs. Communication neural prostheses are BCIs that control user interfaces on computers or mobile devices. Here we demonstrate a communication prosthesis by simulating a typing task with two rhesus macaques implanted with electrode arrays. The monkeys used two of the highest known performing BCI decoders to type out words and sentences when prompted one symbol/letter at a time. On average, Monkeys J and L achieved typing rates of 10.0 and 7.2 words per minute (wpm), respectively, copying text from a newspaper article using a velocity-only two dimensional BCI decoder with dwell-based symbol selection. With a BCI decoder that also featured a discrete click for key selection, typing rates increased to 12.0 and 7.8 wpm. These represent the highest known achieved communication rates using a BCI. We then quantified the relationship between bitrate and typing rate and found it approximately linear: typing rate in wpm is nearly three times bitrate in bits per second. We also compared the metrics of achieved bitrate and information transfer rate and discuss their applicability to real-world typing scenarios. Although this study cannot model the impact of cognitive load of word and sentence planning, the findings here demonstrate the feasibility of BCIs to serve as communication interfaces and represent an upper bound on the expected achieved typing rate for a given BCI throughput.",
+  "authors": [
+    "Nuyujukian Paul",
+    "Kao Jonathan C",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Proceedings of the IEEE. Institute of Electrical and Electronics Engineers",
+  "year": "2017",
+  "doi": "10.1109/JPROC.2016.2586967",
+  "mesh": []
+}

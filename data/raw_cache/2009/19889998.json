@@ -1,0 +1,28 @@
+{
+  "pmid": "19889998",
+  "title": "Dynamic encoding of movement direction in motor cortical neurons.",
+  "abstract": "When we perform a skilled movement such as reaching for an object, we can make use of prior information, for example about the location of the object in space. This helps us to prepare the movement, and we gain improved accuracy and speed during movement execution. Here, we investigate how prior information affects the motor cortical representation of movements during preparation and execution. We trained two monkeys in a delayed reaching task and provided a varying degree of prior information about the final target location. We decoded movement direction from multiple single-unit activity recorded from M1 (primary motor cortex) in one monkey and from PMd (dorsal premotor cortex) in a second monkey. Our results demonstrate that motor cortical cells in both areas exhibit individual encoding characteristics that change dynamically in time and dependent on prior information. On the population level, the information about movement direction is at any point in time accurately represented in a neuronal ensemble of time-varying composition. We conclude that movement representation in the motor cortex is not a static one, but one in which neurons dynamically allocate their computational resources to meet the demands defined by the movement task and the context of the movement. Consequently, we find that the decoding accuracy decreases if the precise task time, or the previous information that was available to the monkey, were disregarded in the decoding process. An optimal strategy for the readout of movement parameters from motor cortex should therefore take into account time and contextual parameters.",
+  "authors": [
+    "Rickert Jörn",
+    "Riehle Alexa",
+    "Aertsen Ad",
+    "Rotter Stefan",
+    "Nawrot Martin P"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2009",
+  "doi": "10.1523/JNEUROSCI.5441-08.2009",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Movement",
+    "Orientation",
+    "Psychomotor Performance",
+    "Reaction Time"
+  ]
+}

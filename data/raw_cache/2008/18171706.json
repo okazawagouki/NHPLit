@@ -1,0 +1,31 @@
+{
+  "pmid": "18171706",
+  "title": "Thalamocortical relay fidelity varies across subthalamic nucleus deep brain stimulation protocols in a data-driven computational model.",
+  "abstract": "The therapeutic effectiveness of deep brain stimulation (DBS) of the subthalamic nucleus (STN) may arise through its effects on inhibitory basal ganglia outputs, including those from the internal segment of the globus pallidus (GPi). Changes in GPi activity will impact its thalamic targets, representing a possible pathway for STN-DBS to modulate basal ganglia-thalamocortical processing. To study the effect of STN-DBS on thalamic activity, we examined thalamocortical (TC) relay cell responses to an excitatory input train under a variety of inhibitory signals, using a computational model. The inhibitory signals were obtained from single-unit GPi recordings from normal monkeys and from monkeys rendered parkinsonian through arterial 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine injection. The parkinsonian GPi data were collected in the absence of STN-DBS, under sub-therapeutic STN-DBS, and under therapeutic STN-DBS. Our simulations show that inhibition from parkinsonian GPi activity recorded without DBS-compromised TC relay of excitatory inputs compared with the normal case, whereas TC relay fidelity improved significantly under inhibition from therapeutic, but not sub-therapeutic, STN-DBS GPi activity. In a heterogeneous model TC cell population, response failures to the same input occurred across multiple TC cells significantly more often without DBS than in the therapeutic DBS case and in the normal case. Inhibitory signals preceding successful TC relay were relatively constant, whereas those before failures changed more rapidly. Computationally generated inhibitory inputs yielded similar effects on TC relay. These results support the hypothesis that STN-DBS alters parkinsonian GPi activity in a way that may improve TC relay fidelity.",
+  "authors": [
+    "Guo Yixin",
+    "Rubin Jonathan E",
+    "McIntyre Cameron C",
+    "Vitek Jerrold L",
+    "Terman David"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2008",
+  "doi": "10.1152/jn.01080.2007",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Deep Brain Stimulation",
+    "Humans",
+    "Models, Neurological",
+    "Neural Inhibition",
+    "Neural Pathways",
+    "Neurons",
+    "Parkinson Disease",
+    "Subthalamic Nucleus",
+    "Thalamus"
+  ]
+}

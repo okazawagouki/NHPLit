@@ -1,0 +1,28 @@
+{
+  "pmid": "24893321",
+  "title": "Modeling positive Granger causality and negative phase lag between cortical areas.",
+  "abstract": "Different measures of directional influence have been employed to infer effective connectivity in the brain. When the connectivity between two regions is such that one of them (the sender) strongly influences the other (the receiver), a positive phase lag is often expected. The assumption is that the time difference implicit in the relative phase reflects the transmission time of neuronal activity. However, Brovelli et al. (2004) observed that, in monkeys engaged in processing a cognitive task, a dominant directional influence from one area of sensorimotor cortex to another may be accompanied by either a negative or a positive time delay. Here we present a model of two brain regions, coupled with a well-defined directional influence, that displays similar features to those observed in the experimental data. This model is inspired by the theoretical framework of Anticipated Synchronization developed in the field of dynamical systems. Anticipated Synchronization is a form of synchronization that occurs when a unidirectional influence is transmitted from a sender to a receiver, but the receiver leads the sender in time. This counterintuitive synchronization regime can be a stable solution of two dynamical systems coupled in a master-slave (sender-receiver) configuration when the slave receives a negative delayed self-feedback. Despite efforts to understand the dynamics of Anticipated Synchronization, experimental evidence for it in the brain has been lacking. By reproducing experimental delay times and coherence spectra, our results provide a theoretical basis for the underlying mechanisms of the observed dynamics, and suggest that the primate cortex could operate in a regime of Anticipated Synchronization as part of normal neurocognitive function.",
+  "authors": [
+    "Matias Fernanda S",
+    "Gollo Leonardo L",
+    "Carelli Pedro V",
+    "Bressler Steven L",
+    "Copelli Mauro",
+    "Mirasso Claudio R"
+  ],
+  "journal": "NeuroImage",
+  "year": "2014",
+  "doi": "10.1016/j.neuroimage.2014.05.063",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Causality",
+    "Cerebral Cortex",
+    "Electroencephalography Phase Synchronization",
+    "Haplorhini",
+    "Membrane Potentials",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Psychomotor Performance"
+  ]
+}

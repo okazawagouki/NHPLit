@@ -1,0 +1,29 @@
+{
+  "pmid": "36926325",
+  "title": "Computer-aided classification of indirect immunofluorescence patterns on esophagus and split skin for the detection of autoimmune dermatoses.",
+  "abstract": "Autoimmune bullous dermatoses (AIBD) are rare diseases that affect human skin and mucous membranes. Clinically, they are characterized by blister formation and/or erosions. Depending on the structures involved and the depth of blister formation, they are grouped into pemphigus diseases, pemphigoid diseases, and dermatitis herpetiformis. Classification of AIBD into their sub-entities is crucial to guide treatment decisions. One of the most sensitive screening methods for initial differentiation of AIBD is the indirect immunofluorescence (IIF) microscopy on tissue sections of monkey esophagus and primate salt-split skin, which are used to detect disease-specific autoantibodies. Interpretation of IIF patterns requires a detailed examination of the image by trained professionals automating this process is a challenging task with these highly complex tissue substrates, but offers the great advantage of an objective result. Here, we present computer-aided classification of esophagus and salt-split skin IIF images. We show how deep networks can be adapted to the specifics and challenges of IIF image analysis by incorporating segmentation of relevant regions into the prediction process, and demonstrate their high accuracy. Using this semi-automatic extension can reduce the workload of professionals when reading tissue sections in IIF testing. Furthermore, these results on highly complex tissue sections show that further integration of semi-automated workflows into the daily workflow of diagnostic laboratories is promising.",
+  "authors": [
+    "Hocke Jens",
+    "Krauth Jens",
+    "Krause Christopher",
+    "Gerlach Stefan",
+    "Warnemünde Nicole",
+    "Affeldt Kai",
+    "van Beek Nina",
+    "Schmidt Enno",
+    "Voigt Jörn"
+  ],
+  "journal": "Frontiers in immunology",
+  "year": "2023",
+  "doi": "10.3389/fimmu.2023.1111172",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Fluorescent Antibody Technique, Indirect",
+    "Blister",
+    "Autoimmune Diseases",
+    "Pemphigus",
+    "Pemphigoid, Bullous",
+    "Skin Diseases, Vesiculobullous"
+  ]
+}

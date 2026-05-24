@@ -1,0 +1,26 @@
+{
+  "pmid": "19503613",
+  "title": "A conceptual cortical surface atlas.",
+  "abstract": "Volumetric, slice-based, 3-D atlases are invaluable tools for understanding complex cortical convolutions. We present a simple scheme to convert a slice-based atlas to a conceptual surface atlas that is easier to visualize and understand. The key idea is to unfold each slice into a one-dimensional vector, and concatenate a succession of these vectors--while maintaining as much spatial contiguity as possible--into a 2-D matrix. We illustrate our methodology using a coronal slice-based atlas of the Rhesus Monkey cortex. The conceptual surface-based atlases provide a useful complement to slice-based atlases for the purposes of indexing and browsing.",
+  "authors": [
+    "Modha Dharmendra S"
+  ],
+  "journal": "PloS one",
+  "year": "2009",
+  "doi": "10.1371/journal.pone.0005693",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Computer Graphics",
+    "Databases, Factual",
+    "Image Interpretation, Computer-Assisted",
+    "Imaging, Three-Dimensional",
+    "Macaca mulatta",
+    "Pattern Recognition, Automated",
+    "Software",
+    "User-Computer Interface"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "23505352",
+  "title": "Trade-off between multiple constraints enables simultaneous formation of modules and hubs in neural systems.",
+  "abstract": "The formation of the complex network architecture of neural systems is subject to multiple structural and functional constraints. Two obvious but apparently contradictory constraints are low wiring cost and high processing efficiency, characterized by short overall wiring length and a small average number of processing steps, respectively. Growing evidence shows that neural networks are results from a trade-off between physical cost and functional value of the topology. However, the relationship between these competing constraints and complex topology is not well understood quantitatively. We explored this relationship systematically by reconstructing two known neural networks, Macaque cortical connectivity and C. elegans neuronal connections, from combinatory optimization of wiring cost and processing efficiency constraints, using a control parameter α, and comparing the reconstructed networks to the real networks. We found that in both neural systems, the reconstructed networks derived from the two constraints can reveal some important relations between the spatial layout of nodes and the topological connectivity, and match several properties of the real networks. The reconstructed and real networks had a similar modular organization in a broad range of α, resulting from spatial clustering of network nodes. Hubs emerged due to the competition of the two constraints, and their positions were close to, and partly coincided, with the real hubs in a range of α values. The degree of nodes was correlated with the density of nodes in their spatial neighborhood in both reconstructed and real networks. Generally, the rebuilt network matched a significant portion of real links, especially short-distant ones. These findings provide clear evidence to support the hypothesis of trade-off between multiple constraints on brain networks. The two constraints of wiring cost and processing efficiency, however, cannot explain all salient features in the real networks. The discrepancy suggests that there are further relevant factors that are not yet captured here.",
+  "authors": [
+    "Chen Yuhan",
+    "Wang Shengjun",
+    "Hilgetag Claus C",
+    "Zhou Changsong"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2013",
+  "doi": "10.1371/journal.pcbi.1002937",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Caenorhabditis elegans",
+    "Cluster Analysis",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net"
+  ]
+}

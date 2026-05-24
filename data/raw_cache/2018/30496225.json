@@ -1,0 +1,28 @@
+{
+  "pmid": "30496225",
+  "title": "Self-organising coordinate transformation with peaked and monotonic gain modulation in the primate dorsal visual pathway.",
+  "abstract": "We study a self-organising neural network model of how visual representations in the primate dorsal visual pathway are transformed from an eye-centred to head-centred frame of reference. The model has previously been shown to robustly develop head-centred output neurons with a standard trace learning rule, but only under limited conditions. Specifically it fails when incorporating visual input neurons with monotonic gain modulation by eye-position. Since eye-centred neurons with monotonic gain modulation are so common in the dorsal visual pathway, it is an important challenge to show how efferent synaptic connections from these neurons may self-organise to produce head-centred responses in a subpopulation of postsynaptic neurons. We show for the first time how a variety of modified, yet still biologically plausible, versions of the standard trace learning rule enable the model to perform a coordinate transformation from eye-centred to head-centred reference frames when the visual input neurons have monotonic gain modulation by eye-position.",
+  "authors": [
+    "Navarro Daniel M",
+    "Mender Bedeho M W",
+    "Smithson Hannah E",
+    "Stringer Simon M"
+  ],
+  "journal": "PloS one",
+  "year": "2018",
+  "doi": "10.1371/journal.pone.0207961",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Eye Movements",
+    "Learning",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Primates",
+    "Vision, Ocular",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

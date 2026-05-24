@@ -1,0 +1,16 @@
+{
+  "pmid": "32009920",
+  "title": "Network Models Predict That Pyramidal Neuron Hyperexcitability and Synapse Loss in the dlPFC Lead to Age-Related Spatial Working Memory Impairment in Rhesus Monkeys.",
+  "abstract": "Behavioral studies have shown spatial working memory impairment with aging in several animal species, including humans. Persistent activity of layer 3 pyramidal dorsolateral prefrontal cortex (dlPFC) neurons during delay periods of working memory tasks is important for encoding memory of the stimulus. <i>In vitro</i> studies have shown that these neurons undergo significant age-related structural and functional changes, but the extent to which these changes affect neural mechanisms underlying spatial working memory is not understood fully. Here, we confirm previous studies showing impairment on the Delayed Recognition Span Task in the spatial condition (DRSTsp), and increased <i>in vitro</i> action potential firing rates (hyperexcitability), across the adult life span of the rhesus monkey. We use a bump attractor model to predict how empirically observed changes in the aging dlPFC affect performance on the Delayed Response Task (DRT), and introduce a model of memory retention in the DRSTsp. Persistent activity-and, in turn, cognitive performance-in both models was affected much more by hyperexcitability of pyramidal neurons than by a loss of synapses. Our DRT simulations predict that additional changes to the network, such as increased firing of inhibitory interneurons, are needed to account for lower firing rates during the DRT with aging reported <i>in vivo</i>. Synaptic facilitation was an essential feature of the DRSTsp model, but it did not compensate fully for the effects of the other age-related changes on DRT performance. Modeling pyramidal neuron hyperexcitability and synapse loss simultaneously led to a partial recovery of function in both tasks, with the simulated level of DRSTsp impairment similar to that observed in aging monkeys. This modeling work integrates empirical data across multiple scales, from synapse counts to cognitive testing, to further our understanding of aging in non-human primates.",
+  "authors": [
+    "Ibañez Sara",
+    "Luebke Jennifer I",
+    "Chang Wayne",
+    "Draguljić Danel",
+    "Weaver Christina M"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2019",
+  "doi": "10.3389/fncom.2019.00089",
+  "mesh": []
+}

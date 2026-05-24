@@ -1,0 +1,30 @@
+{
+  "pmid": "34795262",
+  "title": "Visual prototypes in the ventral stream are attuned to complexity and gaze behavior.",
+  "abstract": "Early theories of efficient coding suggested the visual system could compress the world by learning to represent features where information was concentrated, such as contours. This view was validated by the discovery that neurons in posterior visual cortex respond to edges and curvature. Still, it remains unclear what other information-rich features are encoded by neurons in more anterior cortical regions (e.g., inferotemporal cortex). Here, we use a generative deep neural network to synthesize images guided by neuronal responses from across the visuocortical hierarchy, using floating microelectrode arrays in areas V1, V4 and inferotemporal cortex of two macaque monkeys. We hypothesize these images (\"prototypes\") represent such predicted information-rich features. Prototypes vary across areas, show moderate complexity, and resemble salient visual attributes and semantic content of natural images, as indicated by the animals' gaze behavior. This suggests the code for object recognition represents compressed features of behavioral relevance, an underexplored aspect of efficient coding.",
+  "authors": [
+    "Rose Olivia",
+    "Johnson James",
+    "Wang Binxu",
+    "Ponce Carlos R"
+  ],
+  "journal": "Nature communications",
+  "year": "2021",
+  "doi": "10.1038/s41467-021-27027-8",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Fixation, Ocular",
+    "Form Perception",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

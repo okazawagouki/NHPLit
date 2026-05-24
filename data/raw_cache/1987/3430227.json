@@ -1,0 +1,17 @@
+{
+  "pmid": "3430227",
+  "title": "Efficiency of a model human image code.",
+  "abstract": "Hypothetical schemes for neural representation of visual information can be expressed as explicit image codes. We may test whether a given code is sufficient, in the sense of retaining all the information that the human perceives, and necessary, in the sense of retaining only that information. The latter is a test of efficiency. Here, we explore a code modeled on the simple cells of the primate striate cortex. The Cortex transform maps a digital image into a set of subimages (layers) that are bandpass in spatial frequency and orientation. The layers are sampled so as to minimize the number of samples and still avoid aliasing. Samples are quantized in a manner that exploits the bandpass contrast-masking properties of human vision. The entropy of the samples is computed to provide a lower bound on the code size. Finally, the image is reconstructed from the code. We devise psychophysical methods for comparing the original and reconstructed images to evaluate the sufficiency of the code. When each resolution is coded at the threshold for detection artifacts, the image-code size is about 1 bit/pixel.",
+  "authors": [
+    "Watson A B"
+  ],
+  "journal": "Journal of the Optical Society of America. A, Optics and image science",
+  "year": "1987",
+  "doi": "",
+  "mesh": [
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Models, Psychological",
+    "Visual Perception"
+  ]
+}

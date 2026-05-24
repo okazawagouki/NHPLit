@@ -1,0 +1,26 @@
+{
+  "pmid": "31116963",
+  "title": "A wireless miniScope for deep brain imaging in freely moving mice.",
+  "abstract": "BACKGROUND: The increasing interest in the study of neuronal activities at the microcircuit level is motivating neuroscientists and engineers to push the limits in developing miniature in vivo imaging systems. This inter-disciplinary effort led to an increasingly widespread use of wearable miniature microscopes, constantly improving in size, cost, spatial and temporal resolutions, and signal to noise ratio. NEW METHOD: Here we developed a miniature wireless fluorescence microscope (miniScope) that allows recording of brain neural activities at single cell resolution. The wireless miniScope has onboard field-programmable gate array (FPGA) and Micro SD Card storage, and is powered by a battery backpack. RESULTS: Using this wireless miniScope, we simultaneously recorded activities from hundreds of medium spiny neurons (MSNs) in the dorsal striatum of two freely moving mice interacting with each other in an open field, with excellent spatial and temporal resolutions. COMPARISON WITH EXISTING METHODS: Existing miniaturized microscope systems have connecting cables between the microscope sensor and the data acquisition system, consequently limiting the recording to one animal at a time. The wireless miniScope allows simultaneous recording of multiple mice in a group, and could also be applied to freely behaving small primates in the future. CONCLUSION: The wireless miniScope expands the realm of possible behavioral experiments, both by minimizing the repercussions of the cable from the imaging device on the rodent's behavior and by enabling simultaneous in vivo imaging from multiple animals.",
+  "authors": [
+    "Barbera Giovanni",
+    "Liang Bo",
+    "Zhang Lifeng",
+    "Li Yun",
+    "Lin Da-Ting"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2019",
+  "doi": "10.1016/j.jneumeth.2019.05.008",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Brain",
+    "Locomotion",
+    "Mice",
+    "Microscopy, Fluorescence",
+    "Neostriatum",
+    "Neuroimaging",
+    "Neurosciences"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "7097573",
+  "title": "Cutaneous mechanoreceptors in macaque monkey: temporal discharge patterns evoked by vibration, and a receptor model.",
+  "abstract": "1. Vibratory stimuli applied to the hand of a monkey evoke phase locked impulse trains in the three classes of low threshold mechanoreceptive afferents which innervate the area. The responses of each class of afferent (slowly adapting (SA), rapidly adapting (RA), and Pacinian (PC) vary in a systematic but complex way across the range of frequencies and intensities to which they are sensitive. The receptors are not accessible for electrophysiological recording. The aim in this study was to infer the mechanisms underlying their responses from detailed examination of the statistical properties of the impulse trains.2. A very simple receptor model with four degrees of freedom was chosen as a starting point. The independent variables consisted of the resting membrane time constant, tau, a variable membrane conductance, G(r), the fraction of each sinusoidal stimulus cycle producing depolarization, p(r), and the noise level, sigma, which was assigned to the impulse threshold. The aim was to use the deviations between observed data and predictions from the basic model to construct a more effective model. In fact, the deviations were minor and were mostly explained by periods of increased excitability in the wake of each action potential. Almost all of the differences between the responses of the three mechanoreceptive classes examined in this paper were accounted for by differences in time constants.3. The temporal structure of the responses from each mechanoreceptive class was examined at two levels of resolution, a coarse level where the resolution unit was a full cycle, and a fine level where the unit was 0.1 ms.4. The coarse structure of each response was represented by the presence or absence of an impulse on each stimulus cycle. In each mechanoreceptive class, the impulse sequences were random at low stimulus frequencies and regular at high frequencies. The transition frequencies were roughly 5 Hz for the slowly adapting afferents, 7 Hz for the rapidly adapting afferents, and 110 Hz for the Pacinian afferents. The model matched these data closely when the time constants were set at 80, 60 and 3.4 ms for SAs, RAs and PCs, respectively.5. The fine structure of the responses of each mechanoreceptive class exhibited impulse phase locking, phase advance with increasing intensity, and bimodal phase distributions at higher frequencies. Impulses contributing to the first mode of bimodal distributions always occurred in cycles following cycles in which no impulse occurred. Impulses contributing to the retarded mode always occurred in cycles following filled cycles. The mean phase differences between the two modes was called phase retardation. Phase retardation grew with stimulus frequency for both the receptors and the model; the time constants required to match the model against neural phase retardation curves were 123, 64 and 4.8 ms for SAs, RAs and PCs, respectively.",
+  "authors": [
+    "Freeman A W",
+    "Johnson K O"
+  ],
+  "journal": "The Journal of physiology",
+  "year": "1982",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Kinetics",
+    "Macaca nemestrina",
+    "Mechanoreceptors",
+    "Membrane Potentials",
+    "Models, Neurological",
+    "Neurons, Afferent",
+    "Pacinian Corpuscles",
+    "Skin",
+    "Touch",
+    "Vibration"
+  ]
+}

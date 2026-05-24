@@ -1,0 +1,29 @@
+{
+  "pmid": "27247280",
+  "title": "Adaptive neuron-to-EMG decoder training for FES neuroprostheses.",
+  "abstract": "OBJECTIVE: We have previously demonstrated a brain-machine interface neuroprosthetic system that provided continuous control of functional electrical stimulation (FES) and restoration of grasp in a primate model of spinal cord injury (SCI). Predicting intended EMG directly from cortical recordings provides a flexible high-dimensional control signal for FES. However, no peripheral signal such as force or EMG is available for training EMG decoders in paralyzed individuals. APPROACH: Here we present a method for training an EMG decoder in the absence of muscle activity recordings; the decoder relies on mapping behaviorally relevant cortical activity to the inferred EMG activity underlying an intended action. Monkeys were trained at a 2D isometric wrist force task to control a computer cursor by applying force in the flexion, extension, ulnar, and radial directions and execute a center-out task. We used a generic muscle force-to-endpoint force model based on muscle pulling directions to relate each target force to an optimal EMG pattern that attained the target force while minimizing overall muscle activity. We trained EMG decoders during the target hold periods using a gradient descent algorithm that compared EMG predictions to optimal EMG patterns. MAIN RESULTS: We tested this method both offline and online. We quantified both the accuracy of offline force predictions and the ability of a monkey to use these real-time force predictions for closed-loop cursor control. We compared both offline and online results to those obtained with several other direct force decoders, including an optimal decoder computed from concurrently measured neural and force signals. SIGNIFICANCE: This novel approach to training an adaptive EMG decoder could make a brain-control FES neuroprosthesis an effective tool to restore the hand function of paralyzed individuals. Clinical implementation would make use of individualized EMG-to-force models. Broad generalization could be achieved by including data from multiple grasping tasks in the training of the neuron-to-EMG decoder. Our approach would make it possible for persons with SCI to grasp objects with their own hands, using near-normal motor intent.",
+  "authors": [
+    "Ethier Christian",
+    "Acuna Daniel",
+    "Solla Sara A",
+    "Miller Lee E"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2016",
+  "doi": "10.1088/1741-2560/13/4/046009",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electric Stimulation",
+    "Electrodes, Implanted",
+    "Electromyography",
+    "Haplorhini",
+    "Isometric Contraction",
+    "Neural Prostheses",
+    "Neurons",
+    "Online Systems",
+    "Perception",
+    "Prosthesis Design"
+  ]
+}

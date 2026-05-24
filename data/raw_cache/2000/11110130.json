@@ -1,0 +1,36 @@
+{
+  "pmid": "11110130",
+  "title": "Neural coding: higher-order temporal patterns in the neurostatistics of cell assemblies.",
+  "abstract": "Recent advances in the technology of multiunit recordings make it possible to test Hebb's hypothesis that neurons do not function in isolation but are organized in assemblies. This has created the need for statistical approaches to detecting the presence of spatiotemporal patterns of more than two neurons in neuron spike train data. We mention three possible measures for the presence of higher-order patterns of neural activation--coefficients of log-linear models, connected cumulants, and redundancies--and present arguments in favor of the coefficients of log-linear models. We present test statistics for detecting the presence of higher-order interactions in spike train data by parameterizing these interactions in terms of coefficients of log-linear models. We also present a Bayesian approach for inferring the existence or absence of interactions and estimating their strength. The two methods, the frequentist and the Bayesian one, are shown to be consistent in the sense that interactions that are detected by either method also tend to be detected by the other. A heuristic for the analysis of temporal patterns is also proposed. Finally, a Bayesian test is presented that establishes stochastic differences between recorded segments of data. The methods are applied to experimental data and synthetic data drawn from our statistical models. Our experimental data are drawn from multiunit recordings in the prefrontal cortex of behaving monkeys, the somatosensory cortex of anesthetized rats, and multiunit recordings in the visual cortex of behaving monkeys.",
+  "authors": [
+    "Martignon L",
+    "Deco G",
+    "Laskey K",
+    "Diamond M",
+    "Freiwald W",
+    "Vaadia E"
+  ],
+  "journal": "Neural computation",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Anesthesia",
+    "Animals",
+    "Bayes Theorem",
+    "Cell Communication",
+    "Computer Simulation",
+    "Fixation, Ocular",
+    "Frontal Lobe",
+    "Likelihood Functions",
+    "Linear Models",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Rats",
+    "Somatosensory Cortex",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

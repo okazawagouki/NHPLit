@@ -1,0 +1,29 @@
+{
+  "pmid": "25210153",
+  "title": "Joint cross-correlation analysis reveals complex, time-dependent functional relationship between cortical neurons and arm electromyograms.",
+  "abstract": "Correlation between cortical activity and electromyographic (EMG) activity of limb muscles has long been a subject of neurophysiological studies, especially in terms of corticospinal connectivity. Interest in this issue has recently increased due to the development of brain-machine interfaces with output signals that mimic muscle force. For this study, three monkeys were implanted with multielectrode arrays in multiple cortical areas. One monkey performed self-timed touch pad presses, whereas the other two executed arm reaching movements. We analyzed the dynamic relationship between cortical neuronal activity and arm EMGs using a joint cross-correlation (JCC) analysis that evaluated trial-by-trial correlation as a function of time intervals within a trial. JCCs revealed transient correlations between the EMGs of multiple muscles and neural activity in motor, premotor and somatosensory cortical areas. Matching results were obtained using spike-triggered averages corrected by subtracting trial-shuffled data. Compared with spike-triggered averages, JCCs more readily revealed dynamic changes in cortico-EMG correlations. JCCs showed that correlation peaks often sharpened around movement times and broadened during delay intervals. Furthermore, JCC patterns were directionally selective for the arm-reaching task. We propose that such highly dynamic, task-dependent and distributed relationships between cortical activity and EMGs should be taken into consideration for future brain-machine interfaces that generate EMG-like signals.",
+  "authors": [
+    "Zhuang Katie Z",
+    "Lebedev Mikhail A",
+    "Nicolelis Miguel A L"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2014",
+  "doi": "10.1152/jn.00031.2013",
+  "mesh": [
+    "Animals",
+    "Arm",
+    "Data Interpretation, Statistical",
+    "Electromyography",
+    "Evoked Potentials, Motor",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Muscle, Skeletal",
+    "Neurons",
+    "Reaction Time",
+    "Somatosensory Cortex"
+  ]
+}

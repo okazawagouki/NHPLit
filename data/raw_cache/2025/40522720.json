@@ -1,0 +1,22 @@
+{
+  "pmid": "40522720",
+  "title": "Predictive learning rules generate a cortical-like replay of probabilistic sensory experiences.",
+  "abstract": "The brain is thought to construct an optimal internal model representing the probabilistic structure of the environment accurately. Evidence suggests that spontaneous brain activity gives such a model by cycling through activity patterns evoked by previous sensory experiences with the experienced probabilities. The brain's spontaneous activity emerges from internally driven neural population dynamics. However, how cortical neural networks encode internal models into spontaneous activity is poorly understood. Recent computational and experimental studies suggest that a cortical neuron can implement complex computations, including predictive responses, through soma-dendrite interactions. Here, we show that a recurrent network of spiking neurons subject to the same predictive learning principle provides a novel mechanism to learn the spontaneous replay of probabilistic sensory experiences. In this network, the learning rules minimize probability mismatches between stimulus-evoked and internally driven activities in all excitatory and inhibitory neurons. This learning paradigm generates stimulus-specific cell assemblies that internally remember their activation probabilities using within-assembly recurrent connections. Our model contrasts previous models that encode the statistical structure of sensory experiences into Markovian transition patterns among cell assemblies. We demonstrate that the spontaneous activity of our model well replicates the behavioral biases of monkeys performing perceptual decision making. Our results suggest that interactions between intracellular processes and recurrent network dynamics are more crucial for learning cognitive behaviors than previously thought.",
+  "authors": [
+    "Asabuki Toshitake",
+    "Fukai Tomoki"
+  ],
+  "journal": "eLife",
+  "year": "2025",
+  "doi": "10.7554/eLife.92712",
+  "mesh": [
+    "Animals",
+    "Learning",
+    "Models, Neurological",
+    "Neurons",
+    "Macaca mulatta",
+    "Cerebral Cortex",
+    "Action Potentials",
+    "Nerve Net"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "pmid": "38645189",
+  "title": "An inferotemporal coding strategy robust to partial object occlusion.",
+  "abstract": "Object coding in primate ventral pathway cortex progresses in sparseness/compression/efficiency, from many orientation signals in V1, to fewer 2D/3D part signals in V4, to still fewer multi-part configuration signals in AIT (anterior inferotemporal cortex). <sup>1-11</sup> This progression could lead to individual neurons exclusively selective for unique objects, the sparsest code for identity, especially for highly familiar, important objects. <sup>12-18</sup> To test this, we trained macaque monkeys to discriminate 8 simple letter-like shapes in a match-to-sample task, a design in which one-to-one coding of letters by neurons could streamline behavior. Performance increased from chance to >80% correct over a period of weeks, after which AIT neurons showed clear learning effects, with increased selectivity for multi-part configurations within the trained alphabet shapes. But these neurons were not exclusively tuned for unique letters based on training, since their responsiveness generalized to different, non-trained shapes containing the same configurations. This multi-part configuration coding limit in AIT is not maximally sparse, but it could explain the robustness of primate vision to partial object occlusion, which is common in the natural world and problematic for computer vision. Multi-part configurations are highly diagnostic of identity, and neural signals for various partial object structures can provide different but equally sufficient evidence for whole object identity across most occlusion conditions.",
+  "authors": [
+    "Cheng Andrew",
+    "Sokol Sach",
+    "Connor Charles E"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.04.09.588746",
+  "mesh": []
+}

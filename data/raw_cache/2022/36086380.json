@@ -1,0 +1,21 @@
+{
+  "pmid": "36086380",
+  "title": "A computational perspective on coordinate systems for motor control.",
+  "abstract": "It is currently unknown what coordinate system or systems the primate motor cortex uses to represent movement, although experimental evidence has suggested several candidates. In order to understand how the physical geometry of the arm combines with computational constraints to influence the optimal choice of coordinate system, we construct a two-dimensional, physics-based arm model and couple it to a linear model of the motor cortex. The cortical model is provided with target positions and real time feedback of the current hand position in two different coordinate systems: cartesian and joint angle. We then optimize the parameters of the model subject to penalties on neural connectivity and muscle and neural energy use. We find that the optimized model strongly prefers to work in the joint angle coordinate system, suggesting that for neurons whose activity is closely tied to muscle activation, this is computationally the most efficient coordinate system in which to represent movement.",
+  "authors": [
+    "Greene Patrick",
+    "Schieber Marc H",
+    "Sarma Sridevi V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2022",
+  "doi": "10.1109/EMBC48229.2022.9871934",
+  "mesh": [
+    "Animals",
+    "Arm",
+    "Hand",
+    "Motor Cortex",
+    "Movement",
+    "Neurons"
+  ]
+}

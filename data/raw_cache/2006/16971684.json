@@ -1,0 +1,29 @@
+{
+  "pmid": "16971684",
+  "title": "Modeling gravity-dependent plasticity of the angular vestibuloocular reflex with a physiologically based neural network.",
+  "abstract": "A neural network model was developed to explain the gravity-dependent properties of gain adaptation of the angular vestibuloocular reflex (aVOR). Gain changes are maximal at the head orientation where the gain is adapted and decrease as the head is tilted away from that position and can be described by the sum of gravity-independent and gravity-dependent components. The adaptation process was modeled by modifying the weights and bias values of a three-dimensional physiologically based neural network of canal-otolith-convergent neurons that drive the aVOR. Model parameters were trained using experimental vertical aVOR gain values. The learning rule aimed to reduce the error between eye velocities obtained from experimental gain values and model output in the position of adaptation. Although the model was trained only at specific head positions, the model predicted the experimental data at all head positions in three dimensions. Altering the relative learning rates of the weights and bias improved the model-data fits. Model predictions in three dimensions compared favorably with those of a double-sinusoid function, which is a fit that minimized the mean square error at every head position and served as the standard by which we compared the model predictions. The model supports the hypothesis that gravity-dependent adaptation of the aVOR is realized in three dimensions by a direct otolith input to canal-otolith neurons, whose canal sensitivities are adapted by the visual-vestibular mismatch. The adaptation is tuned by how the weights from otolith input to the canal-otolith-convergent neurons are adapted for a given head orientation.",
+  "authors": [
+    "Xiang Yongqing",
+    "Yakushin Sergei B",
+    "Cohen Bernard",
+    "Raphan Theodore"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Adaptation, Physiological",
+    "Algorithms",
+    "Animals",
+    "Gravitation",
+    "Macaca fascicularis",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neural Networks, Computer",
+    "Neuronal Plasticity",
+    "Orientation",
+    "Otolithic Membrane",
+    "Reflex, Vestibulo-Ocular",
+    "Semicircular Canals"
+  ]
+}

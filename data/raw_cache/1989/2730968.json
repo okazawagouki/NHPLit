@@ -1,0 +1,22 @@
+{
+  "pmid": "2730968",
+  "title": "Prediction of linear and non-linear responses of MGB neurons by system identification methods.",
+  "abstract": "In sensory physiology, various System Identification methods are implemented to formalize stimulus-response relationships. We applied the Volterra approach for characterizing input-output relationships of cells in the medial geniculate body (MGB) of an awake squirrel monkey. Intraspecific communication calls comprised the inputs and the corresponding cellular evoked responses--the outputs. A set of vocalization was used to calculate the kernels of the transformation, and these kernels subserved to predict the responses of the cell to a different set of vocalizations. It was found that it is possible to predict the response (PSTH) of MGB cells to natural vocalizations, based on envelopes of the spectral components of the vocalization. Some of the responses could be predicted by assuming a linear transformation function, whereas other responses could be predicted by non-linear (second order) kernels. These two modes of transformation, which are also reflected by a distinct spatial distribution of the linear vis-à-vis non-linear responding cells, apparently represent a new revelation of parallel processing of auditory information.",
+  "authors": [
+    "Yeshurun Y",
+    "Wollberg Z",
+    "Dyn N"
+  ],
+  "journal": "Bulletin of mathematical biology",
+  "year": "1989",
+  "doi": "",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Animals",
+    "Geniculate Bodies",
+    "Mathematics",
+    "Models, Neurological",
+    "Neurons",
+    "Saimiri"
+  ]
+}

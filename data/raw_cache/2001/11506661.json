@@ -1,0 +1,26 @@
+{
+  "pmid": "11506661",
+  "title": "Parallel cortico-basal ganglia mechanisms for acquisition and execution of visuomotor sequences - a computational approach.",
+  "abstract": "Experimental studies have suggested that many brain areas, including the basal ganglia (BG), contribute to procedural learning. Focusing on the basal ganglia-thalamocortical (BG-TC) system, we propose a computational model to explain how different brain areas work together in procedural learning. The BG-TC system is composed of multiple separate loop circuits. According to our model, two separate BG-TC loops learn a visuomotor sequence concurrently but using different coordinates, one visual, and the other motor. The visual loop includes the dorsolateral prefrontal (DLPF) cortex and the anterior part of the BG, while the motor loop includes the supplementary motor area (SMA) and the posterior BG. The concurrent learning in these loops is based on reinforcement signals carried by dopaminergic (DA) neurons that project divergently to the anterior (\"visual\") and posterior (\"motor\") parts of the striatum. It is expected, however, that the visual loop learns a sequence faster than the motor loop due to their different coordinates. The difference in learning speed may lead to inconsistent outputs from the visual and motor loops, and this problem is solved by a mechanism called a \"coordinator,\" which adjusts the contribution of the visual and motor loops to a final motor output. The coordinator is assumed to be in the presupplementary motor area (pre-SMA). We hypothesize that the visual and motor loops, with the help of the coordinator, achieve both the quick acquisition of novel sequences and the robust execution of well-learned sequences. A computational model based on the hypothesis is examined in a series of computer simulations, referring to the results of the 2 x 5 task experiments that have been used on both monkeys and humans. We found that the dual mechanism with the coordinator was superior to the single (visual or motor) mechanism. The model replicated the following essential features of the experimental results: (1) the time course of learning, (2) the effect of opposite hand use, (3) the effect of sequence reversal, and (4) the effects of localized brain inactivations. Our model may account for a common feature of procedural learning: A spatial sequence of discrete actions (subserved by the visual loop) is gradually replaced by a robust motor skill (subserved by the motor loop).",
+  "authors": [
+    "Nakahara H",
+    "Doya K",
+    "Hikosaka O"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Basal Ganglia",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Dopamine",
+    "Forecasting",
+    "Functional Laterality",
+    "Humans",
+    "Models, Biological",
+    "Psychomotor Performance",
+    "Reinforcement, Psychology",
+    "Reward"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "17960143",
+  "title": "The effect of labeling parameters on perfusion-based fMRI in nonhuman primates.",
+  "abstract": "The blood oxygenation level-dependent (BOLD) signal is the most commonly used modality of functional magnetic resonance imaging (fMRI) today. Although easy to implement, it is an ambiguous signal since it results from a combination of several hemodynamic factors. Functional cerebral blood flow changes, as measured by using arterial spin labeling (ASL), typically occur in the parenchyma and have been demonstrated to be more closely coupled to neural activation compared with BOLD. However, the intrinsically low signals from ASL techniques have hindered its widespread application to fMRI for basic research and even more so for clinical applications. Here, we report the first implementation of continuous ASL in the anaesthetized macaque at high magnetic field of 7 T. The technique was optimized to permit maximum signal-to-noise ratio of functional perfusion-based images at high spatial resolution. The effect of labeling parameters, such as label time and post-label delay (PLD), on functional cerebral blood flow (fCBF) in the visual cortex was evaluated. Functional cerebral blood flow maps did not change with increasing label time after 2,000 ms, indicating that a label time of 2,000 ms is sufficient for reliable mapping of fCBF. The percent changes obtained using fCBF were better localized to gray matter, than those obtained with BOLD. A short PLD of 200 ms revealed significantly higher fCBF changes at the cortical surface, indicating large-vessel contamination, than a long PLD of 800 ms. However, the effect of the PLD on fCBF was smaller than on baseline CBF. These results are of importance for high-resolution applications, and when accurate quantification is required for studies in monkeys as well as in humans.",
+  "authors": [
+    "Zappe Anne C",
+    "Pfeuffer Josef",
+    "Merkle Hellmut",
+    "Logothetis Nikos K",
+    "Goense Jozien B M"
+  ],
+  "journal": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism",
+  "year": "2008",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Cerebrovascular Circulation",
+    "Macaca",
+    "Magnetic Resonance Angiography",
+    "Magnetic Resonance Imaging",
+    "Primates",
+    "Regional Blood Flow",
+    "Spin Labels"
+  ]
+}

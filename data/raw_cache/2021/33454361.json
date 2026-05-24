@@ -1,0 +1,23 @@
+{
+  "pmid": "33454361",
+  "title": "Supporting generalization in non-human primate behavior by tapping into structural knowledge: Examples from sensorimotor mappings, inference, and decision-making.",
+  "abstract": "The complex behaviors we ultimately wish to understand are far from those currently used in systems neuroscience laboratories. A salient difference are the closed loops between action and perception prominently present in natural but not laboratory behaviors. The framework of reinforcement learning and control naturally wades across action and perception, and thus is poised to inform the neurosciences of tomorrow, not only from a data analyses and modeling framework, but also in guiding experimental design. We argue that this theoretical framework emphasizes active sensing, dynamical planning, and the leveraging of structural regularities as key operations for intelligent behavior within uncertain, time-varying environments. Similarly, we argue that we may study natural task strategies and their neural circuits without over-training animals when the tasks we use tap into our animal's structural knowledge. As proof-of-principle, we teach animals to navigate through a virtual environment - i.e., explore a well-defined and repetitive structure governed by the laws of physics - using a joystick. Once these animals have learned to 'drive', without further training they naturally (i) show zero- or one-shot learning of novel sensorimotor contingencies, (ii) infer the evolving path of dynamically changing latent variables, and (iii) make decisions consistent with maximizing reward rate. Such task designs allow for the study of flexible and generalizable, yet controlled, behaviors. In turn, they allow for the exploitation of pillars of intelligence - flexibility, prediction, and generalization -, properties whose neural underpinning have remained elusive.",
+  "authors": [
+    "Noel Jean-Paul",
+    "Caziot Baptiste",
+    "Bruni Stefania",
+    "Fitzgerald Nora E",
+    "Avila Eric",
+    "Angelaki Dora E"
+  ],
+  "journal": "Progress in neurobiology",
+  "year": "2021",
+  "doi": "10.1016/j.pneurobio.2021.101996",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Learning",
+    "Primates",
+    "Reward"
+  ]
+}

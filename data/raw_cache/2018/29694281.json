@@ -1,0 +1,23 @@
+{
+  "pmid": "29694281",
+  "title": "Distinct frequency bands in the local field potential are differently tuned to stimulus drift rate.",
+  "abstract": "Local field potential (LFP) recorded with a microelectrode reflects the activity of several neural processes, including afferent synaptic inputs, microcircuit-level computations, and spiking activity. Objectively probing their contribution requires a design that allows dissociation between these potential contributors. Earlier reports have shown that the primate lateral geniculate nucleus (LGN) has a higher temporal frequency (drift rate) cutoff than the primary visual cortex (V1), such that at higher drift rates inputs into V1 from the LGN continue to persist, whereas output ceases, permitting partial dissociation. Using chronic microelectrode arrays, we recorded spikes and LFP from V1 of passively fixating macaques while presenting sinusoidal gratings drifting over a wide range. We further optimized the gratings to produce strong gamma oscillations, since recent studies in rodent V1 have reported LGN-dependent narrow-band gamma oscillations. Consistent with earlier reports, power in higher LFP frequencies (above ~140 Hz) tracked the population firing rate and were tuned to preferred drift rates similar to those for spikes. Significantly, power in the lower (up to ~40 Hz) frequencies increased transiently in the early epoch after stimulus onset, even at high drift rates, and had preferred drift rates higher than for spikes/high gamma. Narrow-band gamma (50-80 Hz) power was not strongly correlated with power in high or low frequencies and had much lower preferred temporal frequencies. Our results demonstrate that distinct frequency bands of the V1 LFP show diverse tuning profiles, which may potentially convey different attributes of the underlying neural activity. NEW & NOTEWORTHY In recent years the local field potential (LFP) has been increasingly studied, but interpreting its rich frequency content has been difficult. We use a stimulus manipulation that generates different tuning profiles for low, gamma, and high frequencies of the LFP, suggesting contributions from potentially different sources. Our results have possible implications for design of better neural prosthesis systems and brain-machine interfacing applications.",
+  "authors": [
+    "Salelkar Siddhesh",
+    "Somasekhar Gowri Manohari",
+    "Ray Supratim"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2018",
+  "doi": "10.1152/jn.00807.2017",
+  "mesh": [
+    "Animals",
+    "Female",
+    "Gamma Rhythm",
+    "Macaca radiata",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

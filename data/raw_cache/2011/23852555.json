@@ -1,0 +1,13 @@
+{
+  "pmid": "23852555",
+  "title": "A low-power 32-channel digitally programmable neural recording integrated circuit.",
+  "abstract": "We report the design of an ultra-low-power 32-channel neural-recording integrated circuit (chip) in a 0.18 μ m CMOS technology. The chip consists of eight neural recording modules where each module contains four neural amplifiers, an analog multiplexer, an A/D converter, and a serial programming interface. Each amplifier can be programmed to record either spikes or LFPs with a programmable gain from 49-66 dB. To minimize the total power consumption, an adaptive-biasing scheme is utilized to adjust each amplifier's input-referred noise to suit the background noise at the recording site. The amplifier's input-referred noise can be adjusted from 11.2 μVrms (total power of 5.4 μW) down to 5.4 μVrms (total power of 20 μW) in the spike-recording setting. The ADC in each recording module digitizes the a.c. signal input to each amplifier at 8-bit precision with a sampling rate of 31.25 kS/s per channel, with an average power consumption of 483 nW per channel, and, because of a.c. coupling, allows d.c. operation over a wide dynamic range. It achieves an ENOB of 7.65, resulting in a net efficiency of 77 fJ/State, making it one of the most energy-efficient designs for neural recording applications. The presented chip was successfully tested in an in vivo wireless recording experiment from a behaving primate with an average power dissipation per channel of 10.1 μ W. The neural amplifier and the ADC occupy areas of 0.03 mm(2) and 0.02 mm(2) respectively, making our design simultaneously area efficient and power efficient, thus enabling scaling to high channel-count systems.",
+  "authors": [
+    "Wattanapanitch W",
+    "Sarpeshkar R"
+  ],
+  "journal": "IEEE transactions on biomedical circuits and systems",
+  "year": "2011",
+  "doi": "10.1109/TBCAS.2011.2163404",
+  "mesh": []
+}

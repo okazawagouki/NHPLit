@@ -1,0 +1,14 @@
+{
+  "pmid": "12662653",
+  "title": "Temporally correlated inputs to leaky integrate-and-fire models can reproduce spiking statistics of cortical neurons.",
+  "abstract": "There has been controversy over whether the standard neuro-spiking models are consistent with the irregular spiking of cortical neurons. In a previous study, we proposed examining this consistency on the basis of the high-order statistics of the inter-spike intervals (ISIs), as represented by the coefficient of variation and the skewness coefficient. In that study we found that a leaky integrate-and-fire model incorporating the assumption of temporally uncorrelated inputs is not able to account for the spiking data recorded from a monkey prefrontal cortex. In the present paper, we attempt to revise the neuro-spiking model so as to make it consistent with the biological data. Here we consider the correlation coefficient of consecutive ISIs, which was ignored in previous studies. Considering three statistical coefficients, we conclude that the leaky integrate-and-fire model with temporally correlated inputs does account for the biological data. The correlation time scale of the inputs needed to explain the biological statistics is found to be on the order of 100ms. We discuss possible origins of this input correlation.",
+  "authors": [
+    "Sakai Y",
+    "Funahashi S",
+    "Shinomoto S"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "1999",
+  "doi": "",
+  "mesh": []
+}

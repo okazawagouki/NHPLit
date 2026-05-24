@@ -1,0 +1,18 @@
+{
+  "pmid": "39257801",
+  "title": "Firing rate diversity lowers the dimension of population covariability in neuronal networks.",
+  "abstract": "Populations of neurons produce activity with two central features. First, neuronal responses are very diverse - specific stimuli or behaviors prompt some neurons to emit many action potentials, while other neurons remain relatively silent. Second, the trial-to-trial fluctuations of neuronal response occupy a low-dimensional space due to correlated activity across the population. We link these two aspects of population response using a randomly coupled recurrent circuit model and derive the following relation: the more diverse the firing rates of neurons in a population, the lower the effective dimension of population trial-to-trial covariability. We tested our prediction using simultaneously recorded neuronal populations from numerous brain areas in mice, non-human primates, and in the motor cortex of human participants. Surprisingly, when populations are restricted to a single brain area our result holds, but when a population is composed from neurons spanning multiple brain areas the relation breaks down. This reflects the fact that the macroscopic connectivity structure at the multi-regional level is significantly more pronounced than the local wiring within a brain area. Finally, using our result we present a theory where a more diverse neuronal code leads to better fine discrimination performance from population activity. In line with this theory, we show that neuronal populations across the brain exhibit both more diverse mean responses and lower-dimensional fluctuations when the brain is in more heightened states of information processing. In sum, we present a key organizational principle of neuronal population response that is widely observed across the nervous system and acts to synergistically improve population representation.",
+  "authors": [
+    "Tian Gengshuo John",
+    "Zhu Ou",
+    "Shirhatti Vinay",
+    "Greenspon Charles M",
+    "Downey John E",
+    "Freedman David J",
+    "Doiron Brent"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2024.08.30.610535",
+  "mesh": []
+}

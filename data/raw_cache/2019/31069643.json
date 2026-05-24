@@ -1,0 +1,35 @@
+{
+  "pmid": "31069643",
+  "title": "On the accuracy of optically tracked transducers for image-guided transcranial ultrasound.",
+  "abstract": "PURPOSE: Transcranial focused ultrasound (FUS) is increasingly being explored to modulate neuronal activity. To target neuromodulation, researchers often localize the FUS beam onto the brain region(s) of interest using spatially tracked tools overlaid on pre-acquired images. Here, we quantify the accuracy of optically tracked image-guided FUS with magnetic resonance imaging (MRI) thermometry, evaluate sources of error and demonstrate feasibility of these procedures to target the macaque somatosensory region. METHODS: We developed an optically tracked FUS system capable of projecting the transducer focus onto a pre-acquired MRI volume. To measure the target registration error (TRE), we aimed the transducer focus at a desired target in a phantom under image guidance, heated the target while imaging with MR thermometry and then calculated the TRE as the difference between the targeted and heated locations. Multiple targets were measured using either an unbiased or bias-corrected calibration. We then targeted the macaque S1 brain region, where displacement induced by the acoustic radiation force was measured using MR acoustic radiation force imaging (MR-ARFI). RESULTS: All calibration methods enabled registration with TRE on the order of 3 mm. Unbiased calibration resulted in an average TRE of 3.26 mm (min-max: 2.80-4.53 mm), which was not significantly changed by prospective bias correction (TRE of 3.05 mm; 2.06-3.81 mm, p = 0.55). Restricting motion between the transducer and target and increasing the distance between tracked markers reduced the TRE to 2.43 mm (min-max: 0.79-3.88 mm). MR-ARFI images showed qualitatively similar shape and extent as projected beam profiles in a living non-human primate. CONCLUSIONS: Our study describes methods for image guidance of FUS neuromodulation and quantifies errors associated with this method in a large animal. The workflow is efficient enough for in vivo use, and we demonstrate transcranial MR-ARFI in vivo in macaques for the first time.",
+  "authors": [
+    "Chaplin V",
+    "Phipps M A",
+    "Jonathan S V",
+    "Grissom W A",
+    "Yang P F",
+    "Chen L M",
+    "Caskey C F"
+  ],
+  "journal": "International journal of computer assisted radiology and surgery",
+  "year": "2019",
+  "doi": "10.1007/s11548-019-01988-0",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Calibration",
+    "Equipment Design",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Motion",
+    "Neuroimaging",
+    "Optics and Photonics",
+    "Phantoms, Imaging",
+    "Prospective Studies",
+    "Reproducibility of Results",
+    "Thermometry",
+    "Transducers",
+    "Ultrasonography"
+  ]
+}

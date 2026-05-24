@@ -1,0 +1,23 @@
+{
+  "pmid": "36670780",
+  "title": "There You Are! Automated Detection of Indris' Songs on Features Extracted from Passive Acoustic Recordings.",
+  "abstract": "The growing concern for the ongoing biodiversity loss drives researchers towards practical and large-scale automated systems to monitor wild animal populations. Primates, with most species threatened by extinction, face substantial risks. We focused on the vocal activity of the indri (Indri indri) recorded in Maromizaha Forest (Madagascar) from 2019 to 2021 via passive acoustics, a method increasingly used for monitoring activities in different environments. We first used indris’ songs, loud distinctive vocal sequences, to detect the species’ presence. We processed the raw data (66,443 10-min recordings) and extracted acoustic features based on the third-octave band system. We then analysed the features extracted from three datasets, divided according to sampling year, site, and recorder type, with a convolutional neural network that was able to generalise to recording sites and previously unsampled periods via data augmentation and transfer learning. For the three datasets, our network detected the song presence with high accuracy (>90%) and recall (>80%) values. Once provided the model with the time and day of recording, the high-performance values ensured that the classification process could accurately depict both daily and annual habits of indris‘ singing pattern, critical information to optimise field data collection. Overall, using this easy-to-implement species-specific detection workflow as a preprocessing method allows researchers to reduce the time dedicated to manual classification.",
+  "authors": [
+    "Ravaglia Davide",
+    "Ferrario Valeria",
+    "De Gregorio Chiara",
+    "Carugati Filippo",
+    "Raimondi Teresa",
+    "Cristiano Walter",
+    "Torti Valeria",
+    "Hardenberg Achaz Von",
+    "Ratsimbazafy Jonah",
+    "Valente Daria",
+    "Giacoma Cristina",
+    "Gamba Marco"
+  ],
+  "journal": "Animals : an open access journal from MDPI",
+  "year": "2023",
+  "doi": "10.3390/ani13020241",
+  "mesh": []
+}

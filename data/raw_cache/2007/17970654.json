@@ -1,0 +1,26 @@
+{
+  "pmid": "17970654",
+  "title": "What is the optimal architecture for visual information routing?",
+  "abstract": "Analyzing the design of networks for visual information routing is an underconstrained problem due to insufficient anatomical and physiological data. We propose here optimality criteria for the design of routing networks. For a very general architecture, we derive the number of routing layers and the fanout that minimize the required neural circuitry. The optimal fanout l is independent of network size, while the number k of layers scales logarithmically (with a prefactor below 1), with the number n of visual resolution units to be routed independently. The results are found to agree with data of the primate visual system.",
+  "authors": [
+    "Wolfrum Philipp",
+    "von der Malsburg Christoph"
+  ],
+  "journal": "Neural computation",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Geniculate Bodies",
+    "Humans",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Retina",
+    "Species Specificity",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

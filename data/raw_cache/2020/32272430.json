@@ -1,0 +1,24 @@
+{
+  "pmid": "32272430",
+  "title": "Crowding in humans is unlike that in convolutional neural networks.",
+  "abstract": "Object recognition is a primary function of the human visual system. It has recently been claimed that the highly successful ability to recognise objects in a set of emergent computer vision systems-Deep Convolutional Neural Networks (DCNNs)-can form a useful guide to recognition in humans. To test this assertion, we systematically evaluated visual crowding, a dramatic breakdown of recognition in clutter, in DCNNs and compared their performance to extant research in humans. We examined crowding in three architectures of DCNNs with the same methodology as that used among humans. We manipulated multiple stimulus factors including inter-letter spacing, letter colour, size, and flanker location to assess the extent and shape of crowding in DCNNs. We found that crowding followed a predictable pattern across architectures that was different from that in humans. Some characteristic hallmarks of human crowding, such as invariance to size, the effect of target-flanker similarity, and confusions between target and flanker identities, were completely missing, minimised or even reversed. These data show that DCNNs, while proficient in object recognition, likely achieve this competence through a set of mechanisms that are distinct from those in humans. They are not necessarily equivalent models of human or primate object recognition and caution must be exercised when inferring mechanisms derived from their operation.",
+  "authors": [
+    "Lonnqvist Ben",
+    "Clarke Alasdair D F",
+    "Chakravarthi Ramakrishna"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2020",
+  "doi": "10.1016/j.neunet.2020.03.021",
+  "mesh": [
+    "Artificial Intelligence",
+    "Crowding",
+    "Humans",
+    "Neural Networks, Computer",
+    "Pattern Recognition, Automated",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Recognition, Psychology",
+    "Visual Perception"
+  ]
+}

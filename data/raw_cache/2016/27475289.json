@@ -1,0 +1,30 @@
+{
+  "pmid": "27475289",
+  "title": "The role of symmetry in neural networks and their Laplacian spectra.",
+  "abstract": "Human and animal nervous systems constitute complexly wired networks that form the infrastructure for neural processing and integration of information. The organization of these neural networks can be analyzed using the so-called Laplacian spectrum, providing a mathematical tool to produce systems-level network fingerprints. In this article, we examine a characteristic central peak in the spectrum of neural networks, including anatomical brain network maps of the mouse, cat and macaque, as well as anatomical and functional network maps of human brain connectivity. We link the occurrence of this central peak to the level of symmetry in neural networks, an intriguing aspect of network organization resulting from network elements that exhibit similar wiring patterns. Specifically, we propose a measure to capture the global level of symmetry of a network and show that, for both empirical networks and network models, the height of the main peak in the Laplacian spectrum is strongly related to node symmetry in the underlying network. Moreover, examination of spectra of duplication-based model networks shows that neural spectra are best approximated using a trade-off between duplication and diversification. Taken together, our results facilitate a better understanding of neural network spectra and the importance of symmetry in neural networks.",
+  "authors": [
+    "de Lange Siemon C",
+    "van den Heuvel Martijn P",
+    "de Reus Marcel A"
+  ],
+  "journal": "NeuroImage",
+  "year": "2016",
+  "doi": "10.1016/j.neuroimage.2016.07.051",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Cats",
+    "Computer Simulation",
+    "Connectome",
+    "Humans",
+    "Macaca",
+    "Mice",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Pathways",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Species Specificity"
+  ]
+}

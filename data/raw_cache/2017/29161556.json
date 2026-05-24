@@ -1,0 +1,25 @@
+{
+  "pmid": "29161556",
+  "title": "Adaptation can explain evidence for encoding of probabilistic information in macaque inferior temporal cortex.",
+  "abstract": "In predictive coding theory, the brain is conceptualized as a prediction machine that constantly constructs and updates expectations of the sensory environment [1]. In the context of this theory, Bell et al.[2] recently studied the effect of the probability of task-relevant stimuli on the activity of macaque inferior temporal (IT) neurons and observed a reduced population response to expected faces in face-selective neurons. They concluded that \"IT neurons encode long-term, latent probabilistic information about stimulus occurrence\", supporting predictive coding. They manipulated expectation by the frequency of face versus fruit stimuli in blocks of trials. With such a design, stimulus repetition is confounded with expectation. As previous studies showed that IT neurons decrease their response with repetition [3], such adaptation (or repetition suppression), instead of expectation suppression as assumed by the authors, could explain their effects. The authors attempted to control for this alternative interpretation with a multiple regression approach. Here we show by using simulation that adaptation can still masquerade as expectation effects reported in [2]. Further, the results from the regression model used for most analyses cannot be trusted, because the model is not uniquely defined.",
+  "authors": [
+    "Vinken Kasper",
+    "Vogels Rufin"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2017",
+  "doi": "10.1016/j.cub.2017.09.018",
+  "mesh": [
+    "Acclimatization",
+    "Action Potentials",
+    "Adaptation, Physiological",
+    "Animals",
+    "Biological Evolution",
+    "Macaca",
+    "Neurons",
+    "Photic Stimulation",
+    "Regression Analysis",
+    "Temporal Lobe",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmid": "35073530",
+  "title": "Modeling multiscale causal interactions between spiking and field potential signals during behavior.",
+  "abstract": "<i>Objective.</i>Brain recordings exhibit dynamics at multiple spatiotemporal scales, which are measured with spike trains and larger-scale field potential signals. To study neural processes, it is important to identify and model causal interactions not only at a single scale of activity, but also across multiple scales, i.e. between spike trains and field potential signals. Standard causality measures are not directly applicable here because spike trains are binary-valued but field potentials are continuous-valued. It is thus important to develop computational tools to recover multiscale neural causality during behavior, assess their performance on neural datasets, and study whether modeling multiscale causalities can improve the prediction of neural signals beyond what is possible with single-scale causality.<i>Approach.</i>We design a multiscale model-based Granger-like causality method based on directed information and evaluate its success both in realistic biophysical spike-field simulations and in motor cortical datasets from two non-human primates (NHP) performing a motor behavior. To compute multiscale causality, we learn point-process generalized linear models that predict the spike events at a given time based on the history of both spike trains and field potential signals. We also learn linear Gaussian models that predict the field potential signals at a given time based on their own history as well as either the history of binary spike events or that of latent firing rates.<i>Main results.</i>We find that our method reveals the true multiscale causality network structure in biophysical simulations despite the presence of model mismatch. Further, models with the identified multiscale causalities in the NHP neural datasets lead to better prediction of both spike trains and field potential signals compared to just modeling single-scale causalities. Finally, we find that latent firing rates are better predictors of field potential signals compared with the binary spike events in the NHP datasets.<i>Significance.</i>This multiscale causality method can reveal the directed functional interactions across spatiotemporal scales of brain activity to inform basic science investigations and neurotechnologies.",
+  "authors": [
+    "Wang Chuanmeizhi",
+    "Pesaran Bijan",
+    "Shanechi Maryam M"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2022",
+  "doi": "10.1088/1741-2552/ac4e1c",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Causality",
+    "Linear Models",
+    "Models, Neurological",
+    "Neurons"
+  ]
+}

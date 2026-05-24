@@ -1,0 +1,23 @@
+{
+  "pmid": "39527647",
+  "title": "Teaching deep networks to see shape: Lessons from a simplified visual world.",
+  "abstract": "Deep neural networks have been remarkably successful as models of the primate visual system. One crucial problem is that they fail to account for the strong shape-dependence of primate vision. Whereas humans base their judgements of category membership to a large extent on shape, deep networks rely much more strongly on other features such as color and texture. While this problem has been widely documented, the underlying reasons remain unclear. We design simple, artificial image datasets in which shape, color, and texture features can be used to predict the image class. By training networks from scratch to classify images with single features and feature combinations, we show that some network architectures are unable to learn to use shape features, whereas others are able to use shape in principle but are biased towards the other features. We show that the bias can be explained by the interactions between the weight updates for many images in mini-batch gradient descent. This suggests that different learning algorithms with sparser, more local weight changes are required to make networks more sensitive to shape and improve their capability to describe human vision.",
+  "authors": [
+    "Jarvers Christian",
+    "Neumann Heiko"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2024",
+  "doi": "10.1371/journal.pcbi.1012019",
+  "mesh": [
+    "Humans",
+    "Neural Networks, Computer",
+    "Algorithms",
+    "Deep Learning",
+    "Computational Biology",
+    "Animals",
+    "Vision, Ocular",
+    "Image Processing, Computer-Assisted",
+    "Visual Perception"
+  ]
+}

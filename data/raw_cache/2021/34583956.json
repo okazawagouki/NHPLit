@@ -1,0 +1,22 @@
+{
+  "pmid": "34583956",
+  "title": "A Stable Population Code for Attention in Prefrontal Cortex Leads a Dynamic Attention Code in Visual Cortex.",
+  "abstract": "Attention often requires maintaining a stable mental state over time while simultaneously improving perceptual sensitivity. These requirements place conflicting demands on neural populations, as sensitivity implies a robust response to perturbation by incoming stimuli, which is antithetical to stability. Functional specialization of cortical areas provides one potential mechanism to resolve this conflict. We reasoned that attention signals in executive control areas might be highly stable over time, reflecting maintenance of the cognitive state, thereby freeing up sensory areas to be more sensitive to sensory input (i.e., unstable), which would be reflected by more dynamic attention signals in those areas. To test these predictions, we simultaneously recorded neural populations in prefrontal cortex (PFC) and visual cortical area V4 in rhesus macaque monkeys performing an endogenous spatial selective attention task. Using a decoding approach, we found that the neural code for attention states in PFC was substantially more stable over time compared with the attention code in V4 on a moment-by-moment basis, in line with our guiding thesis. Moreover, attention signals in PFC predicted the future attention state of V4 better than vice versa, consistent with a top-down role for PFC in attention. These results suggest a functional specialization of attention mechanisms across cortical areas with a division of labor. PFC signals the cognitive state and maintains this state stably over time, whereas V4 responds to sensory input in a manner dynamically modulated by that cognitive state.<b>SIGNIFICANCE STATEMENT</b> Attention requires maintaining a stable mental state while simultaneously improving perceptual sensitivity. We hypothesized that these two demands (stability and sensitivity) are distributed between prefrontal and visual cortical areas, respectively. Specifically, we predicted attention signals in visual cortex would be less stable than in prefrontal cortex, and furthermore prefrontal cortical signals would predict attention signals in visual cortex in line with the hypothesized role of prefrontal cortex in top-down executive control. Our results are consistent with suggestions deriving from previous work using separate recordings in the two brain areas in different animals performing different tasks and represent the first direct evidence in support of this hypothesis with simultaneous multiarea recordings within individual animals.",
+  "authors": [
+    "Snyder Adam C",
+    "Yu Byron M",
+    "Smith Matthew A"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2021",
+  "doi": "10.1523/JNEUROSCI.0608-21.2021",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Visual Cortex"
+  ]
+}

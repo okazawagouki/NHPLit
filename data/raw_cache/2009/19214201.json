@@ -1,0 +1,29 @@
+{
+  "pmid": "19214201",
+  "title": "Can monkeys choose optimally when faced with noisy stimuli and unequal rewards?",
+  "abstract": "We review the leaky competing accumulator model for two-alternative forced-choice decisions with cued responses, and propose extensions to account for the influence of unequal rewards. Assuming that stimulus information is integrated until the cue to respond arrives and that firing rates of stimulus-selective neurons remain well within physiological bounds, the model reduces to an Ornstein-Uhlenbeck (OU) process that yields explicit expressions for the psychometric function that describes accuracy. From these we compute strategies that optimize the rewards expected over blocks of trials administered with mixed difficulty and reward contingencies. The psychometric function is characterized by two parameters: its midpoint slope, which quantifies a subject's ability to extract signal from noise, and its shift, which measures the bias applied to account for unequal rewards. We fit these to data from two monkeys performing the moving dots task with mixed coherences and reward schedules. We find that their behaviors averaged over multiple sessions are close to optimal, with shifts erring in the direction of smaller penalties. We propose two methods for biasing the OU process to produce such shifts.",
+  "authors": [
+    "Feng Samuel",
+    "Holmes Philip",
+    "Rorie Alan",
+    "Newsome William T"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2009",
+  "doi": "10.1371/journal.pcbi.1000284",
+  "mesh": [
+    "Animals",
+    "Choice Behavior",
+    "Cues",
+    "Decision Theory",
+    "Higher Nervous Activity",
+    "Macaca mulatta",
+    "Male",
+    "Models, Psychological",
+    "Movement",
+    "Photic Stimulation",
+    "Psychometrics",
+    "Reward",
+    "Task Performance and Analysis"
+  ]
+}

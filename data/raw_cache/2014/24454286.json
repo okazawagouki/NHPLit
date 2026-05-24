@@ -1,0 +1,14 @@
+{
+  "pmid": "24454286",
+  "title": "The Laplacian spectrum of neural networks.",
+  "abstract": "The brain is a complex network of neural interactions, both at the microscopic and macroscopic level. Graph theory is well suited to examine the global network architecture of these neural networks. Many popular graph metrics, however, encode average properties of individual network elements. Complementing these \"conventional\" graph metrics, the eigenvalue spectrum of the normalized Laplacian describes a network's structure directly at a systems level, without referring to individual nodes or connections. In this paper, the Laplacian spectra of the macroscopic anatomical neuronal networks of the macaque and cat, and the microscopic network of the Caenorhabditis elegans were examined. Consistent with conventional graph metrics, analysis of the Laplacian spectra revealed an integrative community structure in neural brain networks. Extending previous findings of overlap of network attributes across species, similarity of the Laplacian spectra across the cat, macaque and C. elegans neural networks suggests a certain level of consistency in the overall architecture of the anatomical neural networks of these species. Our results further suggest a specific network class for neural networks, distinct from conceptual small-world and scale-free models as well as several empirical networks.",
+  "authors": [
+    "de Lange Siemon C",
+    "de Reus Marcel A",
+    "van den Heuvel Martijn P"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2014",
+  "doi": "10.3389/fncom.2013.00189",
+  "mesh": []
+}

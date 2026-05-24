@@ -1,0 +1,32 @@
+{
+  "pmid": "25973676",
+  "title": "Decoding the timing and target locations of saccadic eye movements from neuronal activity in macaque oculomotor areas.",
+  "abstract": "OBJECTIVE: The control of movement timing has been a significant challenge for brain-machine interfaces (BMIs). As a first step toward developing a timing-based BMI, we aimed to decode movement timing and target locations in a visually guided saccadic eye movement task using the activity of neurons in the primate frontal eye field (FEF) and supplementary eye field (SEF). APPROACH: For this purpose, we developed a template-matching method that could recruit a variety of neurons in these areas. MAIN RESULTS: As a result, we were able to achieve a favorable estimation of saccade onset: for example, data from 20 randomly sampled FEF neurons or 40 SEF neurons achieved a median estimation error of ∼10 ms with an interquartile range less than 50 ms (± ∼25 ms). In the best case, seven simultaneously recorded SEF neurons using a multi-electrode array achieved a comparable accuracy (10 ± 30 ms). The method was significantly better than a heuristic method that used only a group of movement cells with sharp discharges at the onset of saccades. The estimation of target location was less accurate but still favorable, especially when we estimated target location at a timing of 200 ms after the onset of saccade: the method was able to discriminate 16 targets with an accuracy of 90%, which differed not only in their directions (eight directions) but also in amplitude (10/20°) when we used data from 61 randomly sampled FEF neurons. SIGNIFICANCE: The results show that the timing, amplitude and direction of saccades can be decoded from neuronal activity in the FEF and SEF and further suggest that timing-based BMIs can be developed by decoding timing information using the template-matching method.",
+  "authors": [
+    "Ohmae Shogo",
+    "Takahashi Toshimitsu",
+    "Lu Xiaofeng",
+    "Nishimori Yasunori",
+    "Kodaka Yasushi",
+    "Takashima Ichiro",
+    "Kitazawa Shigeru"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2015",
+  "doi": "10.1088/1741-2560/12/3/036014",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Evoked Potentials",
+    "Evoked Potentials, Visual",
+    "Macaca",
+    "Motor Cortex",
+    "Neurons",
+    "Reproducibility of Results",
+    "Saccades",
+    "Sensitivity and Specificity",
+    "Time Factors",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

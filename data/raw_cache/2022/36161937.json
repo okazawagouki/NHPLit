@@ -1,0 +1,21 @@
+{
+  "pmid": "36161937",
+  "title": "Dynamic and stable population coding of attentional instructions coexist in the prefrontal cortex.",
+  "abstract": "A large body of recent work suggests that neural representations in prefrontal cortex (PFC) are changing over time to adapt to task demands. However, it remains unclear whether and how such dynamic coding schemes depend on the encoded variable and are influenced by anatomical constraints. Using a cued attention task and multivariate classification methods, we show that neuronal ensembles in PFC encode and retain in working memory spatial and color attentional instructions in an anatomically specific manner. Spatial instructions could be decoded both from the frontal eye field (FEF) and the ventrolateral PFC (vlPFC) population, albeit more robustly from FEF, whereas color instructions were decoded more robustly from vlPFC. Decoding spatial and color information from vlPFC activity in the high-dimensional state space indicated stronger dynamics for color, across the cue presentation and memory periods. The change in the color code was largely due to rapid changes in the network state during the transition to the delay period. However, we found that dynamic vlPFC activity contained time-invariant color information within a low-dimensional subspace of neural activity that allowed for stable decoding of color across time. Furthermore, spatial attention influenced decoding of stimuli features profoundly in vlPFC, but less so in visual area V4. Overall, our results suggest that dynamic population coding of attentional instructions within PFC is shaped by anatomical constraints and can coexist with stable subspace coding that allows time-invariant decoding of information about the future target.",
+  "authors": [
+    "Sapountzis Panagiotis",
+    "Paneri Sofia",
+    "Papadopoulos Sotirios",
+    "Gregoriou Georgia G"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2022",
+  "doi": "10.1073/pnas.2202564119",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Macaca mulatta",
+    "Memory, Short-Term",
+    "Prefrontal Cortex"
+  ]
+}

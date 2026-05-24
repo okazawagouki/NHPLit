@@ -1,0 +1,21 @@
+{
+  "pmid": "11495947",
+  "title": "Experimental and computational analysis of monkey smooth pursuit eye movements.",
+  "abstract": "Smooth pursuit eye movements are guided by visual feedback and are surprisingly accurate despite the time delay between visual input and motor output. Previous models have reproduced the accuracy of pursuit either by using elaborate visual signals or by adding sources of motor feedback. Our goal was to constrain what types of signals drive pursuit by obtaining data that would discriminate between these two modeling approaches, represented by the \"image motion model\" and the \"tachometer feedback\" model. Our first set of experiments probed the visual properties of pursuit with brief square-pulse and sine-wave perturbations of target velocity. Responses to pulse perturbations increased almost linearly with pulse amplitude, while responses to sine wave perturbations showed strong saturation with increasing stimulus amplitude. The response to sine wave perturbations was strongly dependent on the baseline image velocity at the time of the perturbation. Responses were much smaller if baseline image velocity was naturally large, or was artificially increased by superimposing sine waves on pulse perturbations. The image motion model, but not the tachometer feedback model, could reproduce these features of pursuit. We used a revision of the image motion model that was, like the original, sensitive to both image velocity and image acceleration. Due to a saturating nonlinearity, the sensitivity to image acceleration declined with increasing image velocity. Inclusion of this nonlinearity was motivated by our experimental results, was critical in accounting for the responses to perturbations, and provided an explanation for the unexpected stability of pursuit in the presence of perturbations near the resonant frequency. As an emergent property, the revised image motion model was able to reproduce the frequency and damping of oscillations recorded during artificial feedback delays. Our second set of experiments replicated prior recordings of pursuit responses to multiple-cycle sine wave perturbations, presented over a range of frequencies. The image motion model was able to reproduce the responses to sine wave perturbations across all frequencies, while the tachometer feedback model failed at high frequencies. These failures resulted from the absence of image acceleration signals in the tachometer model. We conclude that visual signals related to image acceleration are important in driving pursuit eye movements and that the nonlinearity of these signals provides stability. Smooth pursuit thus illustrates that a plausible neural strategy for combating natural delays in sensory feedback is to employ information about the derivative of the sensory input.",
+  "authors": [
+    "Churchland M M",
+    "Lisberger S G"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Feedback",
+    "Haplorhini",
+    "Models, Neurological",
+    "Periodicity",
+    "Pursuit, Smooth"
+  ]
+}

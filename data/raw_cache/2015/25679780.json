@@ -1,0 +1,28 @@
+{
+  "pmid": "25679780",
+  "title": "Input-dependent frequency modulation of cortical gamma oscillations shapes spatial synchronization and enables phase coding.",
+  "abstract": "Fine-scale temporal organization of cortical activity in the gamma range (∼25-80Hz) may play a significant role in information processing, for example by neural grouping ('binding') and phase coding. Recent experimental studies have shown that the precise frequency of gamma oscillations varies with input drive (e.g. visual contrast) and that it can differ among nearby cortical locations. This has challenged theories assuming widespread gamma synchronization at a fixed common frequency. In the present study, we investigated which principles govern gamma synchronization in the presence of input-dependent frequency modulations and whether they are detrimental for meaningful input-dependent gamma-mediated temporal organization. To this aim, we constructed a biophysically realistic excitatory-inhibitory network able to express different oscillation frequencies at nearby spatial locations. Similarly to cortical networks, the model was topographically organized with spatially local connectivity and spatially-varying input drive. We analyzed gamma synchronization with respect to phase-locking, phase-relations and frequency differences, and quantified the stimulus-related information represented by gamma phase and frequency. By stepwise simplification of our models, we found that the gamma-mediated temporal organization could be reduced to basic synchronization principles of weakly coupled oscillators, where input drive determines the intrinsic (natural) frequency of oscillators. The gamma phase-locking, the precise phase relation and the emergent (measurable) frequencies were determined by two principal factors: the detuning (intrinsic frequency difference, i.e. local input difference) and the coupling strength. In addition to frequency coding, gamma phase contained complementary stimulus information. Crucially, the phase code reflected input differences, but not the absolute input level. This property of relative input-to-phase conversion, contrasting with latency codes or slower oscillation phase codes, may resolve conflicting experimental observations on gamma phase coding. Our modeling results offer clear testable experimental predictions. We conclude that input-dependency of gamma frequencies could be essential rather than detrimental for meaningful gamma-mediated temporal organization of cortical activity.",
+  "authors": [
+    "Lowet Eric",
+    "Roberts Mark",
+    "Hadjipapas Avgis",
+    "Peter Alina",
+    "van der Eerden Jan",
+    "De Weerd Peter"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2015",
+  "doi": "10.1371/journal.pcbi.1004072",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computational Biology",
+    "Electric Conductivity",
+    "Electroencephalography Phase Synchronization",
+    "Gamma Rhythm",
+    "Humans",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Visual Cortex"
+  ]
+}

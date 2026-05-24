@@ -1,0 +1,26 @@
+{
+  "pmid": "19362902",
+  "title": "Extraction of bistable-percept-related features from local field potential by integration of local regression and common spatial patterns.",
+  "abstract": "Bistable perception arises when an ambiguous stimulus under continuous view is perceived as an alternation of two mutually exclusive states. Such a stimulus provides a unique opportunity for understanding the neural basis of visual perception because it dissociates the perception from the visual input. In this paper, we focus on extracting the percept-related features from the local field potential (LFP) in monkey visual cortex for decoding its bistable structure-from-motion (SFM) perception. Our proposed feature extraction approach consists of two stages. First, we estimate and remove from each LFP trial the nonpercept-related stimulus-evoked activity via a local regression method called the locally weighted scatterplot smoothing because of the dissociation between the perception and the stimulus in our experimental paradigm. Second, we use the common spatial patterns approach to design spatial filters based on the residue signals of multiple channels to extract the percept-related features. We exploit a support vector machine (SVM) classifier on the extracted features to decode the reported perception on a single-trial basis. We apply the proposed approach to the multichannel intracortical LFP data collected from the middle temporal (MT) visual cortex in a macaque monkey performing an SFM task. We demonstrate that our approach is effective in extracting the discriminative features of the percept-related activity from LFP and achieves excellent decoding performance. We also find that the enhanced gamma band synchronization and reduced alpha and beta band desynchronization may be the underpinnings of the percept-related activity.",
+  "authors": [
+    "Wang Zhisong",
+    "Maier Alexander",
+    "Logothetis Nikos K",
+    "Liang Hualou"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2009",
+  "doi": "10.1109/TBME.2009.2018630",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Electroencephalography",
+    "Electrophysiology",
+    "Evoked Potentials, Visual",
+    "Macaca mulatta",
+    "Male",
+    "Regression Analysis",
+    "Signal Processing, Computer-Assisted",
+    "Visual Cortex"
+  ]
+}

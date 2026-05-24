@@ -1,0 +1,25 @@
+{
+  "pmid": "41336632",
+  "title": "Learning Temporal Basis Vectors for Closed-Loop Neural Stimulation.",
+  "abstract": "We introduce a new framework for forecasting the spatiotemporal neural response to stimulation based on learning temporal basis functions. Our proposed temporal basis function model (TBFM) predicts neural responses as a function of both past neural activity and stimulation parameters. This enables TBFM's application to closed-loop neural stimulation using model-based control techniques such as model predictive control (MPC) or model-based reinforcement learning (MBRL). We illustrate the use of TBFMs on data from 40 sessions of micro-electrocorticography (μECog) capturing the response to excitatory optogenetic stimulation in two non-human primates (NHPs). We show that in such a setting, TBFMs require less than 20 minutes of data collection and 5 minutes of training time, while exhibiting accuracy comparable to a complex non-linear dynamical systems model, and greater accuracy than linear state space models (LSSMs) such as those based on the Kalman Filter. Finally, we demonstrate the model's ability to shape neural activity towards desired regimes in two simulated closed-loop stimulation experiments.Clinical relevance- By optimizing sample efficiency, training time, and latency, our model begins to bridge the gap between complex AI-based approaches to modeling brain stimulation and the vision of using such models to develop novel closed-loop stimulation protocols for treating a variety neurological conditions.",
+  "authors": [
+    "Bryan Matthew J",
+    "Schwock Felix",
+    "Yazdan-Shahmorad Azadeh",
+    "Rao Rajesh P N"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2025",
+  "doi": "10.1109/EMBC58623.2025.11254522",
+  "mesh": [
+    "Animals",
+    "Optogenetics",
+    "Humans",
+    "Models, Neurological",
+    "Algorithms",
+    "Electrocorticography",
+    "Brain",
+    "Macaca mulatta",
+    "Neurons"
+  ]
+}

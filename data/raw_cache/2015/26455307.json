@@ -1,0 +1,21 @@
+{
+  "pmid": "26455307",
+  "title": "A Neural Mechanism for Sensing and Reproducing a Time Interval.",
+  "abstract": "Timing plays a crucial role in sensorimotor function. However, the neural mechanisms that enable the brain to flexibly measure and reproduce time intervals are not known. We recorded neural activity in parietal cortex of monkeys in a time reproduction task. Monkeys were trained to measure and immediately afterward reproduce different sample intervals. While measuring an interval, neural responses had a nonlinear profile that increased with the duration of the sample interval. Activity was reset during the transition from measurement to production and was followed by a ramping activity whose slope encoded the previously measured sample interval. We found that firing rates at the end of the measurement epoch were correlated with both the slope of the ramp and the monkey's corresponding production interval on a trial-by-trial basis. Analysis of response dynamics further linked the rate of change of firing rates in the measurement epoch to the slope of the ramp in the production epoch. These observations suggest that, during time reproduction, an interval is measured prospectively in relation to the desired motor plan to reproduce that interval.",
+  "authors": [
+    "Jazayeri Mehrdad",
+    "Shadlen Michael N"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2015",
+  "doi": "10.1016/j.cub.2015.08.038",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Macaca mulatta",
+    "Motor Activity",
+    "Motor Neurons",
+    "Parietal Lobe",
+    "Time Perception"
+  ]
+}

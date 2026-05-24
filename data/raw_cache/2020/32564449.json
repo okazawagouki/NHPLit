@@ -1,0 +1,23 @@
+{
+  "pmid": "32564449",
+  "title": "A biologically constrained spiking neural network model of the primate basal ganglia with overlapping pathways exhibits action selection.",
+  "abstract": "Action selection has been hypothesized to be a key function of the basal ganglia, yet the nuclei involved, their interactions and the importance of the direct/indirect pathway segregation in such process remain debated. Here, we design a spiking computational model of the monkey basal ganglia derived from a previously published population model, initially parameterized to reproduce electrophysiological activity at rest and to embody as much quantitative anatomical data as possible. As a particular feature, both models exhibit the strong overlap between the direct and indirect pathways that has been documented in non-human primates. Here, we first show how the translation from a population to an individual neuron model was achieved, with the addition of a minimal number of parameters. We then show that our model performs action selection, even though it was built without any assumption on the activity carried out during behaviour. We investigate the mechanisms of this selection through circuit disruptions and found an instrumental role of the off-centre/on-surround structure of the MSN-STN-GPi circuit, as well as of the MSN-MSN and FSI-MSN projections. This validates their potency in enabling selection. We finally study the pervasive centromedian and parafascicular thalamic inputs that reach all basal ganglia nuclei and whose influence is therefore difficult to anticipate. Our model predicts that these inputs modulate the responsiveness of action selection, making them a candidate for the regulation of the speed-accuracy trade-off during decision-making.",
+  "authors": [
+    "Girard Benoît",
+    "Lienard Jean",
+    "Gutierrez Carlos Enrique",
+    "Delord Bruno",
+    "Doya Kenji"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "2021",
+  "doi": "10.1111/ejn.14869",
+  "mesh": [
+    "Animals",
+    "Basal Ganglia",
+    "Neural Networks, Computer",
+    "Neural Pathways",
+    "Primates",
+    "Thalamus"
+  ]
+}

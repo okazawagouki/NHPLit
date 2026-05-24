@@ -1,0 +1,31 @@
+{
+  "pmid": "25974945",
+  "title": "A CMOS Neural Interface for a Multichannel Vestibular Prosthesis.",
+  "abstract": "We present a high-voltage CMOS neural-interface chip for a multichannel vestibular prosthesis (MVP) that measures head motion and modulates vestibular nerve activity to restore vision- and posture-stabilizing reflexes. This application specific integrated circuit neural interface (ASIC-NI) chip was designed to work with a commercially available microcontroller, which controls the ASIC-NI via a fast parallel interface to deliver biphasic stimulation pulses with 9-bit programmable current amplitude via 16 stimulation channels. The chip was fabricated in the ONSemi C5 0.5 micron, high-voltage CMOS process and can accommodate compliance voltages up to 12 V, stimulating vestibular nerve branches using biphasic current pulses up to 1.45±0.06 mA with durations as short as 10 μs/phase. The ASIC-NI includes a dedicated digital-to-analog converter for each channel, enabling it to perform complex multipolar stimulation. The ASIC-NI replaces discrete components that cover nearly half of the 2nd generation MVP (MVP2) printed circuit board, reducing the MVP system size by 48% and power consumption by 17%. Physiological tests of the ASIC-based MVP system (MVP2A) in a rhesus monkey produced reflexive eye movement responses to prosthetic stimulation similar to those observed when using the MVP2. Sinusoidal modulation of stimulus pulse rate from 68-130 pulses per second at frequencies from 0.1 to 5 Hz elicited appropriately-directed slow phase eye velocities ranging in amplitude from 1.9-16.7 °/s for the MVP2 and 2.0-14.2 °/s for the MVP2A. The eye velocities evoked by MVP2 and MVP2A showed no significant difference ( t-test, p=0.34), suggesting that the MVP2A achieves performance at least as good as the larger MVP2.",
+  "authors": [
+    "Hageman Kristin N",
+    "Kalayjian Zaven K",
+    "Tejada Francisco",
+    "Chiang Bryce",
+    "Rahman Mehdi A",
+    "Fridman Gene Y",
+    "Dai Chenkai",
+    "Pouliquen Philippe O",
+    "Georgiou Julio",
+    "Della Santina Charles C",
+    "Andreou Andreas G"
+  ],
+  "journal": "IEEE transactions on biomedical circuits and systems",
+  "year": "2016",
+  "doi": "10.1109/TBCAS.2015.2409797",
+  "mesh": [
+    "Animals",
+    "Electric Stimulation",
+    "Equipment Design",
+    "Head Movements",
+    "Humans",
+    "Neural Prostheses",
+    "Vestibular Diseases",
+    "Vestibular Nerve"
+  ]
+}

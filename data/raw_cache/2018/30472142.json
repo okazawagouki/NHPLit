@@ -1,0 +1,24 @@
+{
+  "pmid": "30472142",
+  "title": "Information seeking mechanism of neural populations in the lateral prefrontal cortex.",
+  "abstract": "In addition to primary rewards such as food and water, humans continuously seek information in daily life. Whereas the neural mechanisms for processing primary rewards have been clarified in detail in the homeostatic system, those for information seeking remain poorly understood. Although studies in psychology and economics have suggested several criteria with which information is assessed in human information seeking, the neural mechanism that assesses information remains unknown. The suggested criteria include the value of information (VOI; Hubbard, 2010), Shannon information, and the probability gain (Baron, 1985), which are defined as reduction of expected cost, reduction in expected entropy, and expected improvement of identifying correct response, respectively. We examined which criterion the nervous system uses to assess information. We recorded neuronal activity from the lateral prefrontal cortices (lPFCs) of monkeys while the animals performed information seeking tasks. We found that activity of the lPFC neurons was correlated with information that the animals expected to receive, and that more neurons encoded the VOI than did the two other criteria. Further, using principal component analysis, we found that the responses of entire neuronal populations could encode the three criteria. Finally, using a \"targeted dimensionality reduction\" analysis (Mante et al., 2013), we found that the population responses could encode information values assessed with the VOI longer than the probability gain, but not Shannon information. These findings suggest that the lPFC is involved in assessing information, and the assessment is primarily based on the criterion of the VOI, which captures reduction in expected cost.",
+  "authors": [
+    "Nakamura Kiyohiko",
+    "Komatsu Misako"
+  ],
+  "journal": "Brain research",
+  "year": "2019",
+  "doi": "10.1016/j.brainres.2018.11.029",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Female",
+    "Information Seeking Behavior",
+    "Macaca fuscata",
+    "Male",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Principal Component Analysis",
+    "Reward"
+  ]
+}

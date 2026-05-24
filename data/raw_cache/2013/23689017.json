@@ -1,0 +1,25 @@
+{
+  "pmid": "23689017",
+  "title": "Temporally-structured acquisition of multidimensional optical imaging data facilitates visualization of elusive cortical representations in the behaving monkey.",
+  "abstract": "Fundamental understanding of higher cognitive functions can greatly benefit from imaging of cortical activity with high spatiotemporal resolution in the behaving non-human primate. To achieve rapid imaging of high-resolution dynamics of cortical representations of spontaneous and evoked activity, we designed a novel data acquisition protocol for sensory stimulation by rapidly interleaving multiple stimuli in continuous sessions of optical imaging with voltage-sensitive dyes. We also tested a new algorithm for the \"temporally structured component analysis\" (TSCA) of a multidimensional time series that was developed for our new data acquisition protocol, but was tested only on simulated data (Blumenfeld, 2010). In addition to the raw data, the algorithm incorporates prior knowledge about the temporal structure of the data as well as input from other information. Here we showed that TSCA can successfully separate functional signal components from other signals referred to as noise. Imaging of responses to multiple visual stimuli, utilizing voltage-sensitive dyes, was performed on the visual cortex of awake monkeys. Multiple cortical representations, including orientation and ocular dominance maps as well as the hitherto elusive retinotopic representation of orientation stimuli, were extracted in only 10s of imaging, approximately two orders of magnitude faster than accomplished by conventional methods. Since the approach is rather general, other imaging techniques may also benefit from the same stimulation protocol. This methodology can thus facilitate rapid optical imaging explorations in monkeys, rodents and other species with a versatility and speed that were not feasible before.",
+  "authors": [
+    "Omer David B",
+    "Hildesheim Rina",
+    "Grinvald Amiram"
+  ],
+  "journal": "NeuroImage",
+  "year": "2013",
+  "doi": "10.1016/j.neuroimage.2013.05.045",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Image Processing, Computer-Assisted",
+    "Macaca fascicularis",
+    "Male",
+    "Optical Imaging",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Voltage-Sensitive Dye Imaging"
+  ]
+}

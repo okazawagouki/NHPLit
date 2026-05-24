@@ -1,0 +1,29 @@
+{
+  "pmid": "22911113",
+  "title": "The vestibular system implements a linear-nonlinear transformation in order to encode self-motion.",
+  "abstract": "Although it is well established that the neural code representing the world changes at each stage of a sensory pathway, the transformations that mediate these changes are not well understood. Here we show that self-motion (i.e. vestibular) sensory information encoded by VIIIth nerve afferents is integrated nonlinearly by post-synaptic central vestibular neurons. This response nonlinearity was characterized by a strong (~50%) attenuation in neuronal sensitivity to low frequency stimuli when presented concurrently with high frequency stimuli. Using computational methods, we further demonstrate that a static boosting nonlinearity in the input-output relationship of central vestibular neurons accounts for this unexpected result. Specifically, when low and high frequency stimuli are presented concurrently, this boosting nonlinearity causes an intensity-dependent bias in the output firing rate, thereby attenuating neuronal sensitivities. We suggest that nonlinear integration of afferent input extends the coding range of central vestibular neurons and enables them to better extract the high frequency features of self-motion when embedded with low frequency motion during natural movements. These findings challenge the traditional notion that the vestibular system uses a linear rate code to transmit information and have important consequences for understanding how the representation of sensory information changes across sensory pathways.",
+  "authors": [
+    "Massot Corentin",
+    "Schneider Adam D",
+    "Chacron Maurice J",
+    "Cullen Kathleen E"
+  ],
+  "journal": "PLoS biology",
+  "year": "2012",
+  "doi": "10.1371/journal.pbio.1001365",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Animals",
+    "Brain",
+    "Computational Biology",
+    "Macaca",
+    "Motion Perception",
+    "Movement",
+    "Neural Pathways",
+    "Neurons, Afferent",
+    "Nonlinear Dynamics",
+    "Posture",
+    "Vestibular Nuclei",
+    "Vestibule, Labyrinth"
+  ]
+}

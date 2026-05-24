@@ -1,0 +1,20 @@
+{
+  "pmid": "34788286",
+  "title": "Cross-population coupling of neural activity based on Gaussian process current source densities.",
+  "abstract": "Because local field potentials (LFPs) arise from multiple sources in different spatial locations, they do not easily reveal coordinated activity across neural populations on a trial-to-trial basis. As we show here, however, once disparate source signals are decoupled, their trial-to-trial fluctuations become more accessible, and cross-population correlations become more apparent. To decouple sources we introduce a general framework for estimation of current source densities (CSDs). In this framework, the set of LFPs result from noise being added to the transform of the CSD by a biophysical forward model, while the CSD is considered to be the sum of a zero-mean, stationary, spatiotemporal Gaussian process, having fast and slow components, and a mean function, which is the sum of multiple time-varying functions distributed across space, each varying across trials. We derived biophysical forward models relevant to the data we analyzed. In simulation studies this approach improved identification of source signals compared to existing CSD estimation methods. Using data recorded from primate auditory cortex, we analyzed trial-to-trial fluctuations in both steady-state and task-evoked signals. We found cortical layer-specific phase coupling between two probes and showed that the same analysis applied directly to LFPs did not recover these patterns. We also found task-evoked CSDs to be correlated across probes, at specific cortical depths. Using data from Neuropixels probes in mouse visual areas, we again found evidence for depth-specific phase coupling of primary visual cortex and lateromedial area based on the CSDs.",
+  "authors": [
+    "Klein Natalie",
+    "Siegle Joshua H",
+    "Teichert Tobias",
+    "Kass Robert E"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2021",
+  "doi": "10.1371/journal.pcbi.1009601",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Models, Neurological",
+    "Primary Visual Cortex"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "8136411",
+  "title": "Neural network simulations of the primate oculomotor system. I. The vertical saccadic burst generator.",
+  "abstract": "The performance of a neural network that simulates the vertical saccade-generating portion of the primate brain is evaluated. Consistent with presently available anatomical evidence, the model makes use of an eye displacement signal for its feedback. Its major features include a simple mechanism for resetting its integrator at the end of each saccade, the ability to generate staircases of saccades in response to stimulation of the superior colliculus, and the ability to account for the monotonic relation between motor error and the instantaneous discharge of presaccadic neurons of the superior colliculus without placing the latter within the local feedback loop. Several experimentally testable predictions about the effects of stimulation or lesion of saccade-related areas of the primate brain are made on the basis of model output in response to \"stimulation\" or \"lesion\" of model elements.",
+  "authors": [
+    "Moschovakis A K"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "1994",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Axons",
+    "Brain",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Oculomotor Muscles",
+    "Primates",
+    "Saccades",
+    "Superior Colliculi",
+    "Time Factors"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmid": "34767547",
+  "title": "Dynamic divisive normalization circuits explain and predict change detection in monkey area MT.",
+  "abstract": "Sudden changes in visual scenes often indicate important events for behavior. For their quick and reliable detection, the brain must be capable to process these changes as independently as possible from its current activation state. In motion-selective area MT, neurons respond to instantaneous speed changes with pronounced transients, often far exceeding the expected response as derived from their speed tuning profile. We here show that this complex, non-linear behavior emerges from the combined temporal dynamics of excitation and divisive inhibition, and provide a comprehensive mathematical analysis. A central prediction derived from this investigation is that attention increases the steepness of the transient response irrespective of the activation state prior to a stimulus change, and irrespective of the sign of the change (i.e. irrespective of whether the stimulus is accelerating or decelerating). Extracellular recordings of attention-dependent representation of both speed increments and decrements confirmed this prediction and suggest that improved change detection derives from basic computations in a canonical cortical circuitry.",
+  "authors": [
+    "Ernst Udo A",
+    "Chen Xiao",
+    "Bohnenkamp Lisa",
+    "Galashan Fingal Orlando",
+    "Wegener Detlef"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2021",
+  "doi": "10.1371/journal.pcbi.1009595",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

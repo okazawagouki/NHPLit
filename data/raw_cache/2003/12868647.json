@@ -1,0 +1,19 @@
+{
+  "pmid": "12868647",
+  "title": "Hierarchical Bayesian inference in the visual cortex.",
+  "abstract": "Traditional views of visual processing suggest that early visual neurons in areas V1 and V2 are static spatiotemporal filters that extract local features from a visual scene. The extracted information is then channeled through a feedforward chain of modules in successively higher visual areas for further analysis. Recent electrophysiological recordings from early visual neurons in awake behaving monkeys reveal that there are many levels of complexity in the information processing of the early visual cortex, as seen in the long-latency responses of its neurons. These new findings suggest that activity in the early visual cortex is tightly coupled and highly interactive with the rest of the visual system. They lead us to propose a new theoretical setting based on the mathematical framework of hierarchical Bayesian inference for reasoning about the visual system. In this framework, the recurrent feedforward/feedback loops in the cortex serve to integrate top-down contextual priors and bottom-up observations so as to implement concurrent probabilistic inference along the visual hierarchy. We suggest that the algorithms of particle filtering and Bayesian-belief propagation might model these interactive cortical computations. We review some recent neurophysiological evidences that support the plausibility of these ideas.",
+  "authors": [
+    "Lee Tai Sing",
+    "Mumford David"
+  ],
+  "journal": "Journal of the Optical Society of America. A, Optics, image science, and vision",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Haplorhini",
+    "Models, Neurological",
+    "Visual Cortex"
+  ]
+}

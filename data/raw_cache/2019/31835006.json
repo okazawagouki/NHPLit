@@ -1,0 +1,25 @@
+{
+  "pmid": "31835006",
+  "title": "Face Representations via Tensorfaces of Various Complexities.",
+  "abstract": "Neurons selective for faces exist in humans and monkeys. However, characteristics of face cell receptive fields are poorly understood. In this theoretical study, we explore the effects of complexity, defined as algorithmic information (Kolmogorov complexity) and logical depth, on possible ways that face cells may be organized. We use tensor decompositions to decompose faces into a set of components, called tensorfaces, and their associated weights, which can be interpreted as model face cells and their firing rates. These tensorfaces form a high-dimensional representation space in which each tensorface forms an axis of the space. A distinctive feature of the decomposition algorithm is the ability to specify tensorface complexity. We found that low-complexity tensorfaces have blob-like appearances crudely approximating faces, while high-complexity tensorfaces appear clearly face-like. Low-complexity tensorfaces require a larger population to reach a criterion face reconstruction error than medium- or high-complexity tensorfaces, and thus are inefficient by that criterion. Low-complexity tensorfaces, however, generalize better when representing statistically novel faces, which are faces falling beyond the distribution of face description parameters found in the tensorface training set. The degree to which face representations are parts based or global forms a continuum as a function of tensorface complexity, with low and medium tensorfaces being more parts based. Given the computational load imposed in creating high-complexity face cells (in the form of algorithmic information and logical depth) and in the absence of a compelling advantage to using high-complexity cells, we suggest face representations consist of a mixture of low- and medium-complexity face cells.",
+  "authors": [
+    "Lehky Sidney R",
+    "Phan Anh Huy",
+    "Cichocki Andrzej",
+    "Tanaka Keiji"
+  ],
+  "journal": "Neural computation",
+  "year": "2020",
+  "doi": "10.1162/neco_a_01258",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biometry",
+    "Haplorhini",
+    "Humans",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Recognition, Psychology"
+  ]
+}

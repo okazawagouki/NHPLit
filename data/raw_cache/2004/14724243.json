@@ -1,0 +1,31 @@
+{
+  "pmid": "14724243",
+  "title": "Dynamic analysis of learning in behavioral experiments.",
+  "abstract": "Understanding how an animal's ability to learn relates to neural activity or is altered by lesions, different attentional states, pharmacological interventions, or genetic manipulations are central questions in neuroscience. Although learning is a dynamic process, current analyses do not use dynamic estimation methods, require many trials across many animals to establish the occurrence of learning, and provide no consensus as how best to identify when learning has occurred. We develop a state-space model paradigm to characterize learning as the probability of a correct response as a function of trial number (learning curve). We compute the learning curve and its confidence intervals using a state-space smoothing algorithm and define the learning trial as the first trial on which there is reasonable certainty (>0.95) that a subject performs better than chance for the balance of the experiment. For a range of simulated learning experiments, the smoothing algorithm estimated learning curves with smaller mean integrated squared error and identified the learning trials with greater reliability than commonly used methods. The smoothing algorithm tracked easily the rapid learning of a monkey during a single session of an association learning experiment and identified learning 2 to 4 d earlier than accepted criteria for a rat in a 47 d procedural learning experiment. Our state-space paradigm estimates learning curves for single animals, gives a precise definition of learning, and suggests a coherent statistical framework for the design and analysis of learning experiments that could reduce the number of animals and trials per animal that these studies require.",
+  "authors": [
+    "Smith Anne C",
+    "Frank Loren M",
+    "Wirth Sylvia",
+    "Yanike Marianna",
+    "Hu Dan",
+    "Kubota Yasuo",
+    "Graybiel Ann M",
+    "Suzuki Wendy A",
+    "Brown Emery N"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Association Learning",
+    "Behavior, Animal",
+    "Computer Simulation",
+    "Learning",
+    "Macaca",
+    "Maze Learning",
+    "Models, Neurological",
+    "Rats"
+  ]
+}

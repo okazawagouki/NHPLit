@@ -1,0 +1,22 @@
+{
+  "pmid": "36309512",
+  "title": "Natural scene sampling reveals reliable coarse-scale orientation tuning in human V1.",
+  "abstract": "Orientation selectivity in primate visual cortex is organized into cortical columns. Since cortical columns are at a finer spatial scale than the sampling resolution of standard BOLD fMRI measurements, analysis approaches have been proposed to peer past these spatial resolution limitations. It was recently found that these methods are predominantly sensitive to stimulus vignetting - a form of selectivity arising from an interaction of the oriented stimulus with the aperture edge. Beyond vignetting, it is not clear whether orientation-selective neural responses are detectable in BOLD measurements. Here, we leverage a dataset of visual cortical responses measured using high-field 7T fMRI. Fitting these responses using image-computable models, we compensate for vignetting and nonetheless find reliable tuning for orientation. Results further reveal a coarse-scale map of orientation preference that may constitute the neural basis for known perceptual anisotropies. These findings settle a long-standing debate in human neuroscience, and provide insights into functional organization principles of visual cortex.",
+  "authors": [
+    "Roth Zvi N",
+    "Kay Kendrick",
+    "Merriam Elisha P"
+  ],
+  "journal": "Nature communications",
+  "year": "2022",
+  "doi": "10.1038/s41467-022-34134-7",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Brain Mapping",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Magnetic Resonance Imaging",
+    "Anisotropy"
+  ]
+}

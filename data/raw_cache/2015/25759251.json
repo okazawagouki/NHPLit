@@ -1,0 +1,28 @@
+{
+  "pmid": "25759251",
+  "title": "Choice-correlated activity fluctuations underlie learning of neuronal category representation.",
+  "abstract": "The ability to categorize stimuli into discrete behaviourally relevant groups is an essential cognitive function. To elucidate the neural mechanisms underlying categorization, we constructed a cortical circuit model that is capable of learning a motion categorization task through reward-dependent plasticity. Here we show that stable category representations develop in neurons intermediate to sensory and decision layers if they exhibit choice-correlated activity fluctuations (choice probability). In the model, choice probability and task-specific interneuronal correlations emerge from plasticity of top-down projections from decision neurons. Specific model predictions are confirmed by analysis of single-neuron activity from the monkey parietal cortex, which reveals a mixture of directional and categorical tuning, and a positive correlation between category selectivity and choice probability. Beyond demonstrating a circuit mechanism for categorization, the present work suggests a key role of plastic top-down feedback in simultaneously shaping both neural tuning and correlated neural variability.",
+  "authors": [
+    "Engel Tatiana A",
+    "Chaisangmongkon Warasinee",
+    "Freedman David J",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Nature communications",
+  "year": "2015",
+  "doi": "10.1038/ncomms7454",
+  "mesh": [
+    "Animals",
+    "Choice Behavior",
+    "Cognition",
+    "Discrimination Learning",
+    "Electrodes, Implanted",
+    "Feedback, Sensory",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Parietal Lobe",
+    "Pattern Recognition, Visual",
+    "Reward"
+  ]
+}

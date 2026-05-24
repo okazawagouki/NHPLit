@@ -1,0 +1,26 @@
+{
+  "pmid": "32589671",
+  "title": "Population coding of figure and ground in natural image patches by V4 neurons.",
+  "abstract": "Segmentation of a natural scene into objects and background is a fundamental but challenging task for recognizing objects. Investigating intermediate-level visual cortical areas with a focus on local information is a crucial step towards understanding the formation of the cortical representations of figure and ground. We examined the activity of a population of macaque V4 neurons during the presentation of natural image patches and their respective variations. The natural image patches were optimized to exclude the influence of global context but included various characteristics of local stimulus. Around one fourth of the patch-responsive V4 neurons exhibited significant modulation of firing activity that was dependent on the positional relation between the figural region of the stimulus and the classical receptive field of the neuron. However, the individual neurons showed low consistency in figure-ground modulation across a variety of image patches (55-62%), indicating that individual neurons were capable of correctly signaling figure and ground only for a limited number of stimuli. We examined whether integration of the activity of multiple neurons enabled higher consistency across a variety of natural patches by training a support vector machine to classify figure and ground of the stimuli from the population firing activity. The integration of the activity of a few tens of neurons yielded discrimination accuracy much greater than that of single neurons (up to 85%), suggesting a crucial role of population coding for figure-ground discrimination in natural images.",
+  "authors": [
+    "Yamane Yukako",
+    "Kodama Atsushi",
+    "Shishikura Motofumi",
+    "Kimura Kouji",
+    "Tamura Hiroshi",
+    "Sakai Ko"
+  ],
+  "journal": "PloS one",
+  "year": "2020",
+  "doi": "10.1371/journal.pone.0235128",
+  "mesh": [
+    "Animals",
+    "Female",
+    "Macaca fuscata",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

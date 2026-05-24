@@ -1,0 +1,25 @@
+{
+  "pmid": "40481218",
+  "title": "End-to-end topographic networks as models of cortical map formation and human visual behaviour.",
+  "abstract": "A prominent feature of the primate visual system is its topographic organization. For understanding its origins, its computational role and its behavioural implications, computational models are of central importance. Yet, vision is commonly modelled using convolutional neural networks, which are hard-wired to learn identical features across space and thus lack topography. Here we overcome this limitation by introducing all-topographic neural networks (All-TNNs). All-TNNs develop several features reminiscent of primate topography, including smooth orientation and category selectivity maps, and enhanced processing of regions with task-relevant information. In addition, All-TNNs operate on a low energy budget, suggesting a metabolic benefit of smooth topographic organization. To test our model against behaviour, we collected a dataset of human spatial biases in object recognition and found that All-TNNs significantly outperform control models. All-TNNs thereby offer a promising candidate for modelling primate visual topography and its role in downstream behaviour.",
+  "authors": [
+    "Lu Zejin",
+    "Doerig Adrien",
+    "Bosch Victoria",
+    "Krahmer Bas",
+    "Kaiser Daniel",
+    "Cichy Radoslaw M",
+    "Kietzmann Tim C"
+  ],
+  "journal": "Nature human behaviour",
+  "year": "2025",
+  "doi": "10.1038/s41562-025-02220-7",
+  "mesh": [
+    "Humans",
+    "Neural Networks, Computer",
+    "Visual Perception",
+    "Models, Neurological",
+    "Visual Cortex",
+    "Animals"
+  ]
+}

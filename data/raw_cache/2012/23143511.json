@@ -1,0 +1,29 @@
+{
+  "pmid": "23143511",
+  "title": "Neural population partitioning and a concurrent brain-machine interface for sequential motor function.",
+  "abstract": "Although brain-machine interfaces (BMIs) have focused largely on performing single-targeted movements, many natural tasks involve planning a complete sequence of such movements before execution. For these tasks, a BMI that can concurrently decode the full planned sequence before its execution may also consider the higher-level goal of the task to reformulate and perform it more effectively. Using population-wide modeling, we discovered two distinct subpopulations of neurons in the rhesus monkey premotor cortex that allow two planned targets of a sequential movement to be simultaneously held in working memory without degradation. Such marked stability occurred because each subpopulation encoded either only currently held or only newly added target information irrespective of the exact sequence. On the basis of these findings, we developed a BMI that concurrently decodes a full motor sequence in advance of movement and can then accurately execute it as desired.",
+  "authors": [
+    "Shanechi Maryam M",
+    "Hu Rollin C",
+    "Powers Marissa",
+    "Wornell Gregory W",
+    "Brown Emery N",
+    "Williams Ziv M"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2012",
+  "doi": "10.1038/nn.3250",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Neurons",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Random Allocation",
+    "Reaction Time"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "36305614",
+  "title": "Bioinspired and Low-Power 2D Machine Vision with Adaptive Machine Learning and Forgetting.",
+  "abstract": "Natural intelligence has many dimensions, with some of its most important manifestations being tied to learning about the environment and making behavioral changes. In primates, vision plays a critical role in learning. The underlying biological neural networks contain specialized neurons and synapses which not only sense and process visual stimuli but also learn and adapt with remarkable energy efficiency. Forgetting also plays an active role in learning. Mimicking the adaptive neurobiological mechanisms for seeing, learning, and forgetting can, therefore, accelerate the development of artificial intelligence (AI) and bridge the massive energy gap that exists between AI and biological intelligence. Here, we demonstrate a bioinspired machine vision system based on a 2D phototransistor array fabricated from large-area monolayer molybdenum disulfide (MoS<sub>2</sub>) and integrated with an analog, nonvolatile, and programmable memory gate-stack; this architecture not only enables dynamic learning and relearning from visual stimuli but also offers learning adaptability under noisy illumination conditions at miniscule energy expenditure. In short, our demonstrated \"all-in-one\" hardware vision platform combines \"sensing\", \"computing\", and \"storage\" to not only overcome the von Neumann bottleneck of conventional complementary metal-oxide-semiconductor (CMOS) technology but also to eliminate the need for peripheral circuits and sensors.",
+  "authors": [
+    "Dodda Akhil",
+    "Jayachandran Darsith",
+    "Subbulakshmi Radhakrishnan Shiva",
+    "Pannone Andrew",
+    "Zhang Yikai",
+    "Trainor Nicholas",
+    "Redwing Joan M",
+    "Das Saptarshi"
+  ],
+  "journal": "ACS nano",
+  "year": "2022",
+  "doi": "10.1021/acsnano.2c02906",
+  "mesh": [
+    "Artificial Intelligence",
+    "Neural Networks, Computer",
+    "Machine Learning",
+    "Semiconductors",
+    "Synapses"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "9114259",
+  "title": "Prediction of complex two-dimensional trajectories by a cerebellar model of smooth pursuit eye movement.",
+  "abstract": "A neural network model based on the anatomy and physiology of the cerebellum is presented that can generate both simple and complex predictive pursuit, while also responding in a feedback mode to visual perturbations from an ongoing trajectory. The model allows the prediction of complex movements by adding two features that are not present in other pursuit models: an array of inputs distributed over a range of physiologically justified delays, and a novel, biologically plausible learning rule that generated changes in synaptic strengths in response to retinal slip errors that arrive after long delays. To directly test the model, its output was compared with the behavior of monkeys tracking the same trajectories. There was a close correspondence between model and monkey performance. Complex target trajectories were created by summing two or three sinusoidal components of different frequencies along horizontal and/or vertical axes. Both the model and the monkeys were able to track these complex sum-of-sines trajectories with small phase delays that averaged 8 and 20 ms in magnitude, respectively. Both the model and the monkeys showed a consistent relationship between the high- and low-frequency components of pursuit: high-frequency components were tracked with small phase lags, whereas low-frequency components were tracked with phase leads. The model was also trained to track targets moving along a circular trajectory with infrequent right-angle perturbations that moved the target along a circle meridian. Before the perturbation, the model tracked the target with very small phase differences that averaged 5 ms. After the perturbation, the model overshot the target while continuing along the expected nonperturbed circular trajectory for 80 ms, before it moved toward the new perturbed trajectory. Monkeys showed similar behaviors with an average phase difference of 3 ms during circular pursuit, followed by a perturbation response after 90 ms. In both cases, the delays required to process visual information were much longer than delays associated with nonperturbed circular and sum-of-sines pursuit. This suggests that both the model and the eye make short-term predictions about future events to compensate for visual feedback delays in receiving information about the direction of a target moving along a changing trajectory. In addition, both the eye and the model can adjust to abrupt changes in target direction on the basis of visual feedback, but do so after significant processing delays.",
+  "authors": [
+    "Kettner R E",
+    "Mahamud S",
+    "Leung H C",
+    "Sitkoff N",
+    "Houk J C",
+    "Peterson B W",
+    "Barto A G"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1997",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cerebellum",
+    "Computer Simulation",
+    "Feedback",
+    "Haplorhini",
+    "Learning",
+    "Nerve Fibers",
+    "Nerve Net",
+    "Neurons",
+    "Purkinje Cells",
+    "Pursuit, Smooth",
+    "Synapses"
+  ]
+}

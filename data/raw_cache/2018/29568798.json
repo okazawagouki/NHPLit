@@ -1,0 +1,26 @@
+{
+  "pmid": "29568798",
+  "title": "Encoding of Spatial Attention by Primate Prefrontal Cortex Neuronal Ensembles.",
+  "abstract": "Single neurons in the primate lateral prefrontal cortex (LPFC) encode information about the allocation of visual attention and the features of visual stimuli. However, how this compares to the performance of neuronal ensembles at encoding the same information is poorly understood. Here, we recorded the responses of neuronal ensembles in the LPFC of two macaque monkeys while they performed a task that required attending to one of two moving random dot patterns positioned in different hemifields and ignoring the other pattern. We found single units selective for the location of the attended stimulus as well as for its motion direction. To determine the coding of both variables in the population of recorded units, we used a linear classifier and progressively built neuronal ensembles by iteratively adding units according to their individual performance (best single units), or by iteratively adding units based on their contribution to the ensemble performance (best ensemble). For both methods, ensembles of relatively small sizes (<i>n</i> < 60) yielded substantially higher decoding performance relative to individual single units. However, the decoder reached similar performance using fewer neurons with the best ensemble building method compared with the best single units method. Our results indicate that neuronal ensembles within the LPFC encode more information about the attended spatial and nonspatial features of visual stimuli than individual neurons. They further suggest that efficient coding of attention can be achieved by relatively small neuronal ensembles characterized by a certain relationship between signal and noise correlation structures.",
+  "authors": [
+    "Backen Theda",
+    "Treue Stefan",
+    "Martinez-Trujillo Julio C"
+  ],
+  "journal": "eNeuro",
+  "year": "2018",
+  "doi": "10.1523/ENEURO.0372-16.2017",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Electrodes, Implanted",
+    "Macaca",
+    "Male",
+    "Motion Perception",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Signal Processing, Computer-Assisted",
+    "Space Perception"
+  ]
+}

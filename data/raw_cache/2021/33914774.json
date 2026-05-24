@@ -1,0 +1,27 @@
+{
+  "pmid": "33914774",
+  "title": "MR. Estimator, a toolbox to determine intrinsic timescales from subsampled spiking activity.",
+  "abstract": "Here we present our Python toolbox \"MR. Estimator\" to reliably estimate the intrinsic timescale from electrophysiologal recordings of heavily subsampled systems. Originally intended for the analysis of time series from neuronal spiking activity, our toolbox is applicable to a wide range of systems where subsampling-the difficulty to observe the whole system in full detail-limits our capability to record. Applications range from epidemic spreading to any system that can be represented by an autoregressive process. In the context of neuroscience, the intrinsic timescale can be thought of as the duration over which any perturbation reverberates within the network; it has been used as a key observable to investigate a functional hierarchy across the primate cortex and serves as a measure of working memory. It is also a proxy for the distance to criticality and quantifies a system's dynamic working point.",
+  "authors": [
+    "Spitzner F P",
+    "Dehning J",
+    "Wilting J",
+    "Hagemann A",
+    "P Neto J",
+    "Zierenberg J",
+    "Priesemann V"
+  ],
+  "journal": "PloS one",
+  "year": "2021",
+  "doi": "10.1371/journal.pone.0249447",
+  "mesh": [
+    "Action Potentials",
+    "Neurons",
+    "Animals",
+    "Models, Neurological",
+    "Software",
+    "Algorithms",
+    "Time Factors",
+    "Humans"
+  ]
+}

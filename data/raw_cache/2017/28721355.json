@@ -1,0 +1,16 @@
+{
+  "pmid": "28721355",
+  "title": "Simultaneously estimating the task-related and stimulus-evoked components of hemodynamic imaging measurements.",
+  "abstract": "Task-related hemodynamic responses contribute prominently to functional magnetic resonance imaging (fMRI) recordings. They reflect behaviorally important brain states, such as arousal and attention, and can dominate stimulus-evoked responses, yet they remain poorly understood. To help characterize these responses, we present a method for parametrically estimating both stimulus-evoked and task-related components of hemodynamic responses from subjects engaged in temporally predictable tasks. The stimulus-evoked component is modeled by convolving a hemodynamic response function (HRF) kernel with spiking. The task-related component is modeled by convolving a Fourier-series task-related function (TRF) kernel with task timing. We fit this model with simultaneous electrode recordings and intrinsic-signal optical imaging from the primary visual cortex of alert, task-engaged monkeys. With high [Formula: see text], the model returns HRFs that are consistent across experiments and recording sites for a given animal and TRFs that entrain to task timing independent of stimulation or local spiking. When the task schedule conflicts with that of stimulation, the TRF remains locked to the task emphasizing its behavioral origins. The current approach is strikingly more robust to fluctuations than earlier ones and gives consistently, if modestly, better fits. This approach could help parse the distinct components of fMRI recordings made in the context of a task.",
+  "authors": [
+    "Herman Max Charles",
+    "Cardoso Mariana M B",
+    "Lima Bruss",
+    "Sirotin Yevgeniy B",
+    "Das Aniruddha"
+  ],
+  "journal": "Neurophotonics",
+  "year": "2017",
+  "doi": "10.1117/1.NPh.4.3.031223",
+  "mesh": []
+}

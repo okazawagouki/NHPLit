@@ -1,0 +1,28 @@
+{
+  "pmid": "35168154",
+  "title": "Predictive coding during action observation - A depth-resolved intersubject functional correlation study at 7T.",
+  "abstract": "While the brain regions involved in action observation are relatively well documented in humans and primates, how these regions communicate to help understand and predict actions remains poorly understood. Traditional views emphasized a feed-forward architecture in which visual features are organized into increasingly complex representations that feed onto motor programs in parietal and then premotor cortices where the matching of observed actions upon the observer's own motor programs contributes to action understanding. Predictive coding models place less emphasis on feed-forward connections and propose that feed-back connections from premotor regions back to parietal and visual neurons represent predictions about upcoming actions that can supersede visual inputs when actions become predictable, with visual input then merely representing prediction errors. Here we leverage the notion that feed-back connections target specific cortical layers to help adjudicate across these views. Specifically, we test whether observing sequences of hand actions in their natural order, which permits participants to predict upcoming actions, triggers more feed-back input to parietal regions than seeing the same actions in a scrambled sequence that hinders making predictions. Using submillimeter fMRI acquisition at 7T, we find that watching predictable sequences triggers more action-related activity (as measured using intersubject functional correlation) in the parietal cortical area PFt at depths receiving feed-back connections (layers III and V/VI) than watching the exact same actions in scrambled and hence unpredictable sequence. In addition, functional connectivity analysis performed using intersubject functional connectivity confirms that these increased action-related signals in PFt could originate from ventral premotor region BA44. This data showcases the utility of intersubject functional correlation in combination with 7T MRI to explore the architecture of social cognition under more naturalistic conditions, and provides evidence for models that emphasize the importance of feed-back connections in action prediction.",
+  "authors": [
+    "Cerliani Leonardo",
+    "Bhandari Ritu",
+    "De Angelis Lorenzo",
+    "van der Zwaag Wietske",
+    "Bazin Pierre-Louis",
+    "Gazzola Valeria",
+    "Keysers Christian"
+  ],
+  "journal": "Cortex; a journal devoted to the study of the nervous system and behavior",
+  "year": "2022",
+  "doi": "10.1016/j.cortex.2021.12.008",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Correlation of Data",
+    "Hand",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Parietal Lobe",
+    "Psychomotor Performance",
+    "Visual Perception"
+  ]
+}

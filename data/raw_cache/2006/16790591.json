@@ -1,0 +1,31 @@
+{
+  "pmid": "16790591",
+  "title": "Linear encoding of muscle activity in primary motor cortex and cerebellum.",
+  "abstract": "The activity of neurons in primary motor cortex (M1) and cerebellum is known to correlate with extrinsic movement parameters, including hand position and velocity. Relatively few studies have addressed the encoding of intrinsic parameters, such as muscle activity. Here we applied a generalized regression analysis to describe the relationship of neurons in M1 and cerebellar dentate nucleus to electromyographic (EMG) activity from hand and forearm muscles, during performance of precision grip by macaque monkeys. We showed that cells in both M1 and dentate encode muscle activity in a linear fashion, and that EMG signals provide predictions of neural discharge that are equally accurate to those from kinematic information under these task conditions. Neural activity in M1 was significantly more correlated with both EMG and kinematic signals than was activity in dentate nucleus. Furthermore, the analysis enabled us to look at the temporal properties of muscle encoding. Cells were broadly tuned to muscle activity as a function of the lag between spiking and EMG and there was considerable heterogeneity in the optimal delay among individual neurons. However, a single lag (40 ms) was generally sufficient to provide good fits. Finally, incorporating spike history effects in our model offered no advantage in predicting novel spike trains, reinforcing the simple nature of the muscle encoding that we observed here.",
+  "authors": [
+    "Townsend Benjamin R",
+    "Paninski Liam",
+    "Lemon Roger N"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Cerebellum",
+    "Electromyography",
+    "Electrophysiology",
+    "Female",
+    "Forearm",
+    "Hand",
+    "Linear Models",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Muscle, Skeletal"
+  ]
+}

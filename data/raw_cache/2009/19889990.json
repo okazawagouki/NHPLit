@@ -1,0 +1,23 @@
+{
+  "pmid": "19889990",
+  "title": "From neurons to circuits: linear estimation of local field potentials.",
+  "abstract": "Extracellular physiological recordings are typically separated into two frequency bands: local field potentials (LFPs) (a circuit property) and spiking multiunit activity (MUA). Recently, there has been increased interest in LFPs because of their correlation with functional magnetic resonance imaging blood oxygenation level-dependent measurements and the possibility of studying local processing and neuronal synchrony. To further understand the biophysical origin of LFPs, we asked whether it is possible to estimate their time course based on the spiking activity from the same electrode or nearby electrodes. We used \"signal estimation theory\" to show that a linear filter operation on the activity of one or a few neurons can explain a significant fraction of the LFP time course in the macaque monkey primary visual cortex. The linear filter used to estimate the LFPs had a stereotypical shape characterized by a sharp downstroke at negative time lags and a slower positive upstroke for positive time lags. The filter was similar across different neocortical regions and behavioral conditions, including spontaneous activity and visual stimulation. The estimations had a spatial resolution of approximately 1 mm and a temporal resolution of approximately 200 ms. By considering a causal filter, we observed a temporal asymmetry such that the positive time lags in the filter contributed more to the LFP estimation than the negative time lags. Additionally, we showed that spikes occurring within approximately 10 ms of spikes from nearby neurons yielded better estimation accuracies than nonsynchronous spikes. In summary, our results suggest that at least some circuit-level local properties of the field potentials can be predicted from the activity of one or a few neurons.",
+  "authors": [
+    "Rasch Malte",
+    "Logothetis Nikos K",
+    "Kreiman Gabriel"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2009",
+  "doi": "10.1523/JNEUROSCI.2390-09.2009",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Linear Models",
+    "Macaca mulatta",
+    "Nerve Net",
+    "Neurons",
+    "Visual Fields",
+    "Visual Pathways"
+  ]
+}

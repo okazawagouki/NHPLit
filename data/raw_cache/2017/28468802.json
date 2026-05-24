@@ -1,0 +1,19 @@
+{
+  "pmid": "28468802",
+  "title": "Universal transition from unstructured to structured neural maps.",
+  "abstract": "Neurons sharing similar features are often selectively connected with a higher probability and should be located in close vicinity to save wiring. Selective connectivity has, therefore, been proposed to be the cause for spatial organization in cortical maps. Interestingly, orientation preference (OP) maps in the visual cortex are found in carnivores, ungulates, and primates but are not found in rodents, indicating fundamental differences in selective connectivity that seem unexpected for closely related species. Here, we investigate this finding by using multidimensional scaling to predict the locations of neurons based on minimizing wiring costs for any given connectivity. Our model shows a transition from an unstructured salt-and-pepper organization to a pinwheel arrangement when increasing the number of neurons, even without changing the selectivity of the connections. Increasing neuronal numbers also leads to the emergence of layers, retinotopy, or ocular dominance columns for the selective connectivity corresponding to each arrangement. We further show that neuron numbers impact overall interconnectivity as the primary reason for the appearance of neural maps, which we link to a known phase transition in an Ising-like model from statistical mechanics. Finally, we curated biological data from the literature to show that neural maps appear as the number of neurons in visual cortex increases over a wide range of mammalian species. Our results provide a simple explanation for the existence of salt-and-pepper arrangements in rodents and pinwheel arrangements in the visual cortex of primates, carnivores, and ungulates without assuming differences in the general visual cortex architecture and connectivity.",
+  "authors": [
+    "Weigand Marvin",
+    "Sartori Fabio",
+    "Cuntz Hermann"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2017",
+  "doi": "10.1073/pnas.1616163114",
+  "mesh": [
+    "Animals",
+    "Models, Biological",
+    "Nerve Net",
+    "Temperature"
+  ]
+}

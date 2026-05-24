@@ -1,0 +1,19 @@
+{
+  "pmid": "31031112",
+  "title": "A Stable Visual World in Primate Primary Visual Cortex.",
+  "abstract": "Humans and other primates rely on eye movements to explore visual scenes and to track moving objects. As a result, the image that is projected onto the retina-and propagated throughout the visual cortical hierarchy-is almost constantly changing and makes little sense without taking into account the momentary direction of gaze. How is this achieved in the visual system? Here, we show that in primary visual cortex (V1), the earliest stage of cortical vision, neural representations carry an embedded \"eye tracker\" that signals the direction of gaze associated with each image. Using chronically implanted multi-electrode arrays, we recorded the activity of neurons in area V1 of macaque monkeys during tasks requiring fast (exploratory) and slow (pursuit) eye movements. Neurons were stimulated with flickering, full-field luminance noise at all times. As in previous studies, we observed neurons that were sensitive to gaze direction during fixation, despite comparable stimulation of their receptive fields. We trained a decoder to translate neural activity into metric estimates of gaze direction. This decoded signal tracked the eye accurately not only during fixation but also during fast and slow eye movements. After a fast eye movement, the eye-position signal arrived in V1 at approximately the same time at which the new visual information arrived from the retina. Using simulations, we show that this V1 eye-position signal could be used to take into account the sensory consequences of eye movements and map the fleeting positions of objects on the retina onto their stable position in the world.",
+  "authors": [
+    "Morris Adam P",
+    "Krekelberg Bart"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2019",
+  "doi": "10.1016/j.cub.2019.03.069",
+  "mesh": [
+    "Animals",
+    "Eye Movements",
+    "Macaca mulatta",
+    "Male",
+    "Visual Cortex"
+  ]
+}

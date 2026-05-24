@@ -1,0 +1,26 @@
+{
+  "pmid": "22255624",
+  "title": "Reinforcement learning via kernel temporal difference.",
+  "abstract": "This paper introduces a kernel adaptive filter implemented with stochastic gradient on temporal differences, kernel Temporal Difference (TD)(λ), to estimate the state-action value function in reinforcement learning. The case λ=0 will be studied in this paper. Experimental results show the method's applicability for learning motor state decoding during a center-out reaching task performed by a monkey. The results are compared to the implementation of a time delay neural network (TDNN) trained with backpropagation of the temporal difference error. From the experiments, it is observed that kernel TD(0) allows faster convergence and a better solution than the neural network.",
+  "authors": [
+    "Bae Jihye",
+    "Chhatbar Pratik",
+    "Francis Joseph T",
+    "Sanchez Justin C",
+    "Principe Jose C"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2011",
+  "doi": "10.1109/IEMBS.2011.6091370",
+  "mesh": [
+    "Algorithms",
+    "Artificial Intelligence",
+    "Biomimetics",
+    "Brain",
+    "Electroencephalography",
+    "Humans",
+    "Pattern Recognition, Automated",
+    "Reinforcement, Psychology",
+    "User-Computer Interface"
+  ]
+}

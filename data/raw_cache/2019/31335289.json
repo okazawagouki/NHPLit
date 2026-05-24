@@ -1,0 +1,24 @@
+{
+  "pmid": "31335289",
+  "title": "Hidden Markov Models Predict the Future Choice Better Than a PSTH-Based Method.",
+  "abstract": "Beyond average firing rate, other measurable signals of neuronal activity are fundamental to an understanding of behavior. Recently, hidden Markov models (HMMs) have been applied to neural recordings and have described how neuronal ensembles process information by going through sequences of different states. Such collective dynamics are impossible to capture by just looking at the average firing rate. To estimate how well HMMs can decode information contained in single trials, we compared HMMs with a recently developed classification method based on the peristimulus time histogram (PSTH). The accuracy of the two methods was tested by using the activity of prefrontal neurons recorded while two monkeys were engaged in a strategy task. In this task, the monkeys had to select one of three spatial targets based on an instruction cue and on their previous choice. We show that by using the single trial's neural activity in a period preceding action execution, both models were able to classify the monkeys' choice with an accuracy higher than by chance. Moreover, the HMM was significantly more accurate than the PSTH-based method, even in cases in which the HMM performance was low, although always above chance. Furthermore, the accuracy of both methods was related to the number of neurons exhibiting spatial selectivity within an experimental session. Overall, our study shows that neural activity is better described when not only the mean activity of individual neurons is considered and that therefore, the study of other signals rather than only the average firing rate is fundamental to an understanding of the dynamics of neuronal ensembles.",
+  "authors": [
+    "Marcos Encarni",
+    "Londei Fabrizio",
+    "Genovesio Aldo"
+  ],
+  "journal": "Neural computation",
+  "year": "2019",
+  "doi": "10.1162/neco_a_01216",
+  "mesh": [
+    "Animals",
+    "Forecasting",
+    "Macaca mulatta",
+    "Male",
+    "Markov Chains",
+    "Neurons",
+    "Photic Stimulation",
+    "Probability",
+    "Psychomotor Performance"
+  ]
+}

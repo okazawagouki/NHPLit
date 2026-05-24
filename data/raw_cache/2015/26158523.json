@@ -1,0 +1,28 @@
+{
+  "pmid": "26158523",
+  "title": "Computing Arm Movements with a Monkey Brainet.",
+  "abstract": "Traditionally, brain-machine interfaces (BMIs) extract motor commands from a single brain to control the movements of artificial devices. Here, we introduce a Brainet that utilizes very-large-scale brain activity (VLSBA) from two (B2) or three (B3) nonhuman primates to engage in a common motor behaviour. A B2 generated 2D movements of an avatar arm where each monkey contributed equally to X and Y coordinates; or one monkey fully controlled the X-coordinate and the other controlled the Y-coordinate. A B3 produced arm movements in 3D space, while each monkey generated movements in 2D subspaces (X-Y, Y-Z, or X-Z). With long-term training we observed increased coordination of behavior, increased correlations in neuronal activity between different brains, and modifications to neuronal representation of the motor plan. Overall, performance of the Brainet improved owing to collective monkey behaviour. These results suggest that primate brains can be integrated into a Brainet, which self-adapts to achieve a common motor goal.",
+  "authors": [
+    "Ramakrishnan Arjun",
+    "Ifft Peter J",
+    "Pais-Vieira Miguel",
+    "Byun Yoon Woo",
+    "Zhuang Katie Z",
+    "Lebedev Mikhail A",
+    "Nicolelis Miguel A L"
+  ],
+  "journal": "Scientific reports",
+  "year": "2015",
+  "doi": "10.1038/srep10767",
+  "mesh": [
+    "Animals",
+    "Arm",
+    "Behavior, Animal",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Haplorhini",
+    "Movement",
+    "Neurons"
+  ]
+}

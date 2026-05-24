@@ -1,0 +1,27 @@
+{
+  "pmid": "38683837",
+  "title": "Recurrent neural networks that learn multi-step visual routines with reinforcement learning.",
+  "abstract": "Many cognitive problems can be decomposed into series of subproblems that are solved sequentially by the brain. When subproblems are solved, relevant intermediate results need to be stored by neurons and propagated to the next subproblem, until the overarching goal has been completed. We will here consider visual tasks, which can be decomposed into sequences of elemental visual operations. Experimental evidence suggests that intermediate results of the elemental operations are stored in working memory as an enhancement of neural activity in the visual cortex. The focus of enhanced activity is then available for subsequent operations to act upon. The main question at stake is how the elemental operations and their sequencing can emerge in neural networks that are trained with only rewards, in a reinforcement learning setting. We here propose a new recurrent neural network architecture that can learn composite visual tasks that require the application of successive elemental operations. Specifically, we selected three tasks for which electrophysiological recordings of monkeys' visual cortex are available. To train the networks, we used RELEARNN, a biologically plausible four-factor Hebbian learning rule, which is local both in time and space. We report that networks learn elemental operations, such as contour grouping and visual search, and execute sequences of operations, solely based on the characteristics of the visual stimuli and the reward structure of a task. After training was completed, the activity of the units of the neural network elicited by behaviorally relevant image items was stronger than that elicited by irrelevant ones, just as has been observed in the visual cortex of monkeys solving the same tasks. Relevant information that needed to be exchanged between subroutines was maintained as a focus of enhanced activity and passed on to the subsequent subroutines. Our results demonstrate how a biologically plausible learning rule can train a recurrent neural network on multistep visual tasks.",
+  "authors": [
+    "Mollard Sami",
+    "Wacongne Catherine",
+    "Bohte Sander M",
+    "Roelfsema Pieter R"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2024",
+  "doi": "10.1371/journal.pcbi.1012030",
+  "mesh": [
+    "Animals",
+    "Visual Cortex",
+    "Neural Networks, Computer",
+    "Reinforcement, Psychology",
+    "Models, Neurological",
+    "Computational Biology",
+    "Memory, Short-Term",
+    "Neurons",
+    "Learning",
+    "Visual Perception",
+    "Macaca mulatta"
+  ]
+}

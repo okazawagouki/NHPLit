@@ -1,0 +1,20 @@
+{
+  "pmid": "35766377",
+  "title": "Model-based characterization of the selectivity of neurons in primary visual cortex.",
+  "abstract": "Statistical models are increasingly being used to understand the complexity of stimulus selectivity in primary visual cortex (V1) in the context of complex time-varying stimuli, replacing averaging responses to simple parametric stimuli. Although such models often can more accurately reflect the computations performed by V1 neurons in more natural visual environments, they do not by themselves provide insight into V1 neural selectivity to basic stimulus features such as receptive field size, spatial frequency tuning, and phase invariance. Here, we present a battery of analyses that can be directly applied to encoding models to link complex encoding models to more interpretable aspects of stimulus selectivity. We apply this battery to nonlinear models of V1 neurons recorded in awake macaque during random bar stimuli. In linking model properties to more classical measurements, we demonstrate several novel aspects of V1 selectivity not available to simpler experimental measurements. For example, this approach reveals that individual spatiotemporal elements of the V1 models often have a smaller spatial scale than the neuron as a whole, resulting in nontrivial tuning to spatial frequencies. In addition, we propose measures of nonlinear integration that suggest that classical classifications of V1 neurons into simple versus complex cells will be spatial-frequency dependent. In total, rather than obfuscate classical characterizations of V1 neurons, model-based characterizations offer a means to more fully understand their selectivity, and link their classical tuning properties to their roles in more complex, natural, visual processing.<b>NEW & NOTEWORTHY</b> Visual neurons are increasingly being studied with more complex, natural visual stimuli, and increasingly complex models are necessary to characterize their response properties. Here, we describe a battery of analyses that relate these more complex models to classical characterizations. Using such model-based characterizations of V1 neurons furthermore yields several new insights into V1 processing not possible to capture in more classical means to measure their visual selectivity.",
+  "authors": [
+    "Bartsch Felix",
+    "Cumming Bruce G",
+    "Butts Daniel A"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2022",
+  "doi": "10.1152/jn.00416.2021",
+  "mesh": [
+    "Neurons",
+    "Photic Stimulation",
+    "Primary Visual Cortex",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

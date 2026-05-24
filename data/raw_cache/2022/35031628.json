@@ -1,0 +1,23 @@
+{
+  "pmid": "35031628",
+  "title": "Estimating null and potent modes of feedforward communication in a computational model of cortical activity.",
+  "abstract": "Communication across anatomical areas of the brain is key to both sensory and motor processes. Dimensionality reduction approaches have shown that the covariation of activity across cortical areas follows well-delimited patterns. Some of these patterns fall within the \"potent space\" of neural interactions and generate downstream responses; other patterns fall within the \"null space\" and prevent the feedforward propagation of synaptic inputs. Despite growing evidence for the role of null space activity in visual processing as well as preparatory motor control, a mechanistic understanding of its neural origins is lacking. Here, we developed a mean-rate model that allowed for the systematic control of feedforward propagation by potent and null modes of interaction. In this model, altering the number of null modes led to no systematic changes in firing rates, pairwise correlations, or mean synaptic strengths across areas, making it difficult to characterize feedforward communication with common measures of functional connectivity. A novel measure termed the null ratio captured the proportion of null modes relayed from one area to another. Applied to simultaneous recordings of primate cortical areas V1 and V2 during image viewing, the null ratio revealed that feedforward interactions have a broad null space that may reflect properties of visual stimuli.",
+  "authors": [
+    "Thivierge Jean-Philippe",
+    "Pilzak Artem"
+  ],
+  "journal": "Scientific reports",
+  "year": "2022",
+  "doi": "10.1038/s41598-021-04684-9",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Neural Networks, Computer",
+    "Photic Stimulation",
+    "Primates",
+    "Synaptic Transmission",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

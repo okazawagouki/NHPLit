@@ -1,0 +1,26 @@
+{
+  "pmid": "39933920",
+  "title": "MEDiCINe: Motion Correction for Neural Electrophysiology Recordings.",
+  "abstract": "Electrophysiology recordings from the brain using laminar multielectrode arrays allow researchers to measure the activity of many neurons simultaneously. However, laminar microelectrode arrays move relative to their surrounding neural tissue for a variety of reasons, such as pulsation, changes in intracranial pressure, and decompression of neural tissue after insertion. Inferring and correcting for this motion stabilizes the recording and is critical to identify and track single neurons across time. Such motion correction is a preprocessing step of standard spike-sorting methods. However, estimating motion robustly and accurately in electrophysiology recordings is challenging due to the stochasticity of the neural data. To tackle this problem, we introduce <b>MEDiCINe</b> (<b>M</b>otion <b>E</b>stimation by <b>Di</b>stributional <b>C</b>ontrastive <b>I</b>nference for <b>Ne</b>urophysiology), a novel motion estimation method. We show that MEDiCINe outperforms existing motion estimation methods on an extensive suite of simulated neurophysiology recordings and leads to more accurate spike sorting. We also show that MEDiCINe accurately estimates the motion in primate and rodent electrophysiology recordings with a variety of motion and stability statistics. We open-source MEDiCINe, usage instructions, examples integrating MEDiCINe with common tools for spike sorting, and data and code for reproducing our results. This open software will enable other researchers to use MEDiCINe to improve spike sorting results and get the most out of their electrophysiology datasets.",
+  "authors": [
+    "Watters Nicholas",
+    "Buccino Alessio",
+    "Jazayeri Mehrdad"
+  ],
+  "journal": "eNeuro",
+  "year": "2025",
+  "doi": "10.1523/ENEURO.0529-24.2025",
+  "mesh": [
+    "Animals",
+    "Neurons",
+    "Action Potentials",
+    "Motion",
+    "Microelectrodes",
+    "Brain",
+    "Electrophysiology",
+    "Electrophysiological Phenomena",
+    "Signal Processing, Computer-Assisted",
+    "Rats",
+    "Software"
+  ]
+}

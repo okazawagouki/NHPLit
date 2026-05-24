@@ -1,0 +1,23 @@
+{
+  "pmid": "38063378",
+  "title": "Unsupervised Neural Manifold Alignment for Stable Decoding of Movement from Cortical Signals.",
+  "abstract": "The stable decoding of movement parameters using neural activity is crucial for the success of brain-machine interfaces (BMIs). However, neural activity can be unstable over time, leading to changes in the parameters used for decoding movement, which can hinder accurate movement decoding. To tackle this issue, one approach is to transfer neural activity to a stable, low-dimensional manifold using dimensionality reduction techniques and align manifolds across sessions by maximizing correlations of the manifolds. However, the practical use of manifold stabilization techniques requires knowledge of the true subject intentions such as target direction or behavioral state. To overcome this limitation, an automatic unsupervised algorithm is proposed that determines movement target intention before manifold alignment in the presence of manifold rotation and scaling across sessions. This unsupervised algorithm is combined with a dimensionality reduction and alignment method to overcome decoder instabilities. The effectiveness of the BMI stabilizer method is represented by decoding the two-dimensional (2D) hand velocity of two rhesus macaque monkeys during a center-out-reaching movement task. The performance of the proposed method is evaluated using correlation coefficient and <i>R</i>-squared measures, demonstrating higher decoding performance compared to a state-of-the-art unsupervised BMI stabilizer. The results offer benefits for the automatic determination of movement intents in long-term BMI decoding. Overall, the proposed method offers a promising automatic solution for achieving stable and accurate movement decoding in BMI applications.",
+  "authors": [
+    "Ganjali Mohammadali",
+    "Mehridehnavi Alireza",
+    "Rakhshani Sajed",
+    "Khorasani Abed"
+  ],
+  "journal": "International journal of neural systems",
+  "year": "2024",
+  "doi": "10.1142/S0129065724500060",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Movement",
+    "Algorithms",
+    "Hand",
+    "Brain-Computer Interfaces"
+  ]
+}

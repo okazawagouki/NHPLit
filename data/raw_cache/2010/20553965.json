@@ -1,0 +1,21 @@
+{
+  "pmid": "20553965",
+  "title": "Modelling the dynamics of motion integration with a new luminance-gated diffusion mechanism.",
+  "abstract": "The dynamics of motion integration show striking similarities when observed at neuronal, psychophysical, and oculomotor levels. Based on the inter-relation and complementary insights given by those dynamics, our goal was to test how basic mechanisms of dynamical cortical processing can be incorporated in a dynamical model to solve several aspects of 2D motion integration and segmentation. Our model is inspired by the hierarchical processing stages of the primate visual cortex: we describe the interactions between several layers processing local motion and form information through feedforward, feedback, and inhibitive lateral connections. Also, following perceptual studies concerning contour integration and physiological studies of receptive fields, we postulate that motion estimation takes advantage of another low-level cue, which is luminance smoothness along edges or surfaces, in order to gate recurrent motion diffusion. With such a model, we successfully reproduced the temporal dynamics of motion integration on a wide range of simple motion stimuli: line segments, rotating ellipses, plaids, and barber poles. Furthermore, we showed that the proposed computational rule of luminance-gated diffusion of motion information is sufficient to explain a large set of contextual modulations of motion integration and segmentation in more elaborated stimuli such as chopstick illusions, simulated aperture problems, or rotating diamonds. As a whole, in this paper we proposed a new basal luminance-driven motion integration mechanism as an alternative to less parsimonious models, we carefully investigated the dynamics of motion integration, and we established a distinction between simple and complex stimuli according to the kind of information required to solve their ambiguities.",
+  "authors": [
+    "Tlapale Emilien",
+    "Masson Guillaume S",
+    "Kornprobst Pierre"
+  ],
+  "journal": "Vision research",
+  "year": "2010",
+  "doi": "10.1016/j.visres.2010.05.022",
+  "mesh": [
+    "Eye Movements",
+    "Humans",
+    "Lighting",
+    "Models, Biological",
+    "Motion Perception",
+    "Pattern Recognition, Visual"
+  ]
+}

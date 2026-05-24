@@ -1,0 +1,23 @@
+{
+  "pmid": "23312524",
+  "title": "Preference distributions of primary motor cortex neurons reflect control solutions optimized for limb biomechanics.",
+  "abstract": "Neurons in monkey primary motor cortex (M1) tend to be most active for certain directions of hand movement and joint-torque loads applied to the limb. The origin and function of these biases in preference distribution are unclear but may be key to understanding the causal role of M1 in limb control. We demonstrate that these distributions arise naturally in a network model that commands muscle activity and is optimized to control movements and counter applied forces. In the model, movement and load preference distributions matching those observed empirically are only evident when particular features of the musculoskeletal system were included: limb geometry, intersegmental dynamics, and the force-length/velocity properties of muscle were dominant factors in dictating movement preferences, and the presence of biarticular muscles dictated load preferences. Our results suggest a general principle: neural activity in M1 commands muscle activity and is optimized for the physics of the motor effector.",
+  "authors": [
+    "Lillicrap Timothy P",
+    "Scott Stephen H"
+  ],
+  "journal": "Neuron",
+  "year": "2013",
+  "doi": "10.1016/j.neuron.2012.10.041",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Extremities",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Nerve Net",
+    "Neurons",
+    "Photic Stimulation",
+    "Psychomotor Performance"
+  ]
+}

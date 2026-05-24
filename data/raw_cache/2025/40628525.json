@@ -1,0 +1,24 @@
+{
+  "pmid": "40628525",
+  "title": "Strategies to Decipher Neuron Identity from Extracellular Recordings in Behaving Nonhuman Primates.",
+  "abstract": "Identification of the neuron type is critical when using extracellular recordings in awake, behaving animal subjects to understand computation in neural circuits. Yet, modern recording probes have limited power to resolve neuron identity. Here, we present a generalizable framework for assigning the neuron type from extracellular recordings in nonhuman primates. The framework uses a combination of logic, circuit architecture, laminar information, and functional discharge properties. We apply the framework to the well characterized architecture of the cerebellar circuit by using well validated strategies to perform expert identification for a subset of extracellular neural recordings in behaving male rhesus macaques. We then use the subpopulation of expert-labeled neurons to train deep-learning classifiers to perform neuron identification with readily accessible extracellular features as inputs. Waveform, discharge statistics, and the anatomical layer each provide information about neuron identity for a sizable fraction of cerebellar units. Together, as inputs to a deep-learning classifier, the features perform even better. Our tools and methodologies, validated during smooth pursuit eye movements in the cerebellar floccular complex of awake behaving monkeys, can guide expert identification of the neuron type across neural circuits and species by leveraging the circuit layer, waveforms, discharge statistics, anatomical context, and circuit-specific knowledge. Thus, our generalized methodology lays essential groundwork for characterization of information processing at the level of neural circuits.",
+  "authors": [
+    "Herzfeld David J",
+    "Hall Nathan J",
+    "Lisberger Stephen G"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2025",
+  "doi": "10.1523/JNEUROSCI.0230-25.2025",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Cerebellum",
+    "Action Potentials",
+    "Deep Learning",
+    "Pursuit, Smooth",
+    "Wakefulness"
+  ]
+}

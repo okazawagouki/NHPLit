@@ -1,0 +1,26 @@
+{
+  "pmid": "31404915",
+  "title": "Modeling stimulus-dependent variability improves decoding of population neural responses.",
+  "abstract": "OBJECTIVE: Neural responses to repeated presentations of an identical stimulus often show substantial trial-to-trial variability. How the mean firing rate varies in response to different stimuli or during different movements (tuning curves) has been extensively modeled in a wide variety of neural systems. However, the variability of neural responses can also have clear tuning independent of the tuning in the mean firing rate. This suggests that the variability could contain information regarding the stimulus/movement beyond what is encoded in the mean firing rate. Here we demonstrate how taking variability into account can improve neural decoding. APPROACH: In a typical neural coding model spike counts are assumed to be Poisson with the mean response depending on an external variable, such as a stimulus or movement. Bayesian decoding methods then use the probabilities under these Poisson tuning models (the likelihood) to estimate the probability of each stimulus given the spikes on a given trial (the posterior). However, under the Poisson model, spike count variability is always exactly equal to the mean (Fano factor  =  1). Here we use two alternative models-the Conway-Maxwell-Poisson (CMP) model and negative binomial (NB) model-to more flexibly characterize how neural variability depends on external stimuli. These models both contain the Poisson distribution as a special case but have an additional parameter that allows the variance to be greater than the mean (Fano factor  >  1) or, for the CMP model, less than the mean (Fano factor  <  1). MAIN RESULTS: We find that neural responses in primary motor (M1), visual (V1), and auditory (A1) cortices have diverse tuning in both their mean firing rates and response variability. Across cortical areas, we find that Bayesian decoders using the CMP or NB models improve stimulus/movement estimation accuracy by 4%-12% compared to the Poisson model. SIGNIFICANCE: Moreover, the uncertainty of the non-Poisson decoders more accurately reflects the magnitude of estimation errors. In addition to tuning curves that reflect average neural responses, stimulus-dependent response variability may be an important aspect of the neural code. Modeling this structure could, potentially, lead to improvements in brain machine interfaces.",
+  "authors": [
+    "Ghanbari Abed",
+    "Lee Christopher M",
+    "Read Heather L",
+    "Stevenson Ian H"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2019",
+  "doi": "10.1088/1741-2552/ab3a68",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cerebral Cortex",
+    "Databases, Factual",
+    "Macaca",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Poisson Distribution",
+    "Rats"
+  ]
+}

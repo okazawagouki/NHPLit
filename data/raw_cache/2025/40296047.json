@@ -1,0 +1,35 @@
+{
+  "pmid": "40296047",
+  "title": "Regional and aging-specific cellular architecture of non-human primate brains.",
+  "abstract": "BACKGROUND: Deciphering the functionality and dynamics of brain networks across different regions and age groups in non-human primates (NHPs) is crucial for understanding the evolution of human cognition as well as the processes underlying brain pathogenesis. However, systemic delineation of the cellular composition and molecular connections among multiple brain regions and their alterations induced by aging in NHPs remain largely unresolved. METHODS: In this study, we performed single-nucleus RNA sequencing on 39 samples collected from 10 brain regions of two young and two aged rhesus macaques using the DNBelab C4 system. Validation of protein expression of signatures specific to particular cell types, brain regions, and aging was conducted through a series of immunofluorescence and immunohistochemistry staining experiments. Loss-of-function experiments mediated by short hairpin RNA (shRNA) targeting two age-related genes (i.e., VSNL1 and HPCAL4) were performed in U251 glioma cells to verify their aging effects. Senescence-associated beta-galactosidase (SA-β-gal) staining and quantitative PCR (qPCR) of senescence marker genes were employed to assess cellular senescence in U251 cells. RESULTS: We have established a large-scale cell atlas encompassing over 330,000 cells for the rhesus macaque brain. Our analysis identified numerous gene expression signatures that were specific to particular cell types, subtypes, brain regions, and aging. These datasets greatly expand our knowledge of primate brain organization and highlight the potential involvement of specific molecular and cellular components in both the regionalization and functional integrity of the brain. Our analysis also disclosed extensive transcriptional alterations and cell-cell connections across brain regions in the aging macaques. Finally, by examining the heritability enrichment of human complex traits and diseases, we determined that neurological traits were significantly enriched in neuronal cells and multiple regions with aging-relevant gene expression signatures, while immune-related traits exhibited pronounced enrichment in microglia. CONCLUSIONS: Taken together, our study presents a valuable resource for investigating the cellular and molecular architecture of the primate nervous system, thereby expanding our understanding of the mechanisms underlying brain function, aging, and disease.",
+  "authors": [
+    "Wang Yun-Mei",
+    "Wang Wen-Chao",
+    "Pan Yongzhang",
+    "Zeng Lin",
+    "Wu Jing",
+    "Wang Zheng-Bo",
+    "Zhuang Xiao-Lin",
+    "Li Ming-Li",
+    "Cooper David N",
+    "Wang Sheng",
+    "Shao Yong",
+    "Wang Li-Min",
+    "Fan Ying-Yin",
+    "He Yonghan",
+    "Hu Xin-Tian",
+    "Wu Dong-Dong"
+  ],
+  "journal": "Genome medicine",
+  "year": "2025",
+  "doi": "10.1186/s13073-025-01469-x",
+  "mesh": [
+    "Animals",
+    "Aging",
+    "Brain",
+    "Macaca mulatta",
+    "Humans",
+    "Cellular Senescence",
+    "Cell Line, Tumor"
+  ]
+}

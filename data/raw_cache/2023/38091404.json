@@ -1,0 +1,21 @@
+{
+  "pmid": "38091404",
+  "title": "The neuronal implementation of representational geometry in primate prefrontal cortex.",
+  "abstract": "Modern neuroscience has seen the rise of a population-doctrine that represents cognitive variables using geometrical structures in activity space. Representational geometry does not, however, account for how individual neurons implement these representations. Leveraging the principle of sparse coding, we present a framework to dissect representational geometry into biologically interpretable components that retain links to single neurons. Applied to extracellular recordings from the primate prefrontal cortex in a working memory task with interference, the identified components revealed disentangled and sequential memory representations including the recovery of memory content after distraction, signals hidden to conventional analyses. Each component was contributed by small subpopulations of neurons with distinct spiking properties and response dynamics. Modeling showed that such sparse implementations are supported by recurrently connected circuits as in prefrontal cortex. The perspective of neuronal implementation links representational geometries to their cellular constituents, providing mechanistic insights into how neural systems encode and process information.",
+  "authors": [
+    "Lin Xiao-Xiong",
+    "Nieder Andreas",
+    "Jacob Simon N"
+  ],
+  "journal": "Science advances",
+  "year": "2023",
+  "doi": "10.1126/sciadv.adh8685",
+  "mesh": [
+    "Animals",
+    "Prefrontal Cortex",
+    "Memory, Short-Term",
+    "Macaca mulatta",
+    "Neurons",
+    "Models, Neurological"
+  ]
+}

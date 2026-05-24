@@ -1,0 +1,28 @@
+{
+  "pmid": "30692266",
+  "title": "Stimulus complexity shapes response correlations in primary visual cortex.",
+  "abstract": "Spike count correlations (SCCs) are ubiquitous in sensory cortices, are characterized by rich structure, and arise from structured internal dynamics. However, most theories of visual perception treat contributions of neurons to the representation of stimuli independently and focus on mean responses. Here, we argue that, in a functional model of visual perception, featuring probabilistic inference over a hierarchy of features, inferences about high-level features modulate inferences about low-level features ultimately introducing structured internal dynamics and patterns in SCCs. Specifically, high-level inferences for complex stimuli establish the local context in which neurons in the primary visual cortex (V1) interpret stimuli. Since the local context differentially affects multiple neurons, this conjecture predicts specific modulations in the fine structure of SCCs as stimulus identity and, more importantly, stimulus complexity varies. We designed experiments with natural and synthetic stimuli to measure the fine structure of SCCs in V1 of awake behaving macaques and assessed their dependence on stimulus identity and stimulus statistics. We show that the fine structure of SCCs is specific to the identity of natural stimuli and changes in SCCs are independent of changes in response mean. Critically, we demonstrate that stimulus specificity of SCCs in V1 can be directly manipulated by altering the amount of high-order structure in synthetic stimuli. Finally, we show that simple phenomenological models of V1 activity cannot account for the observed SCC patterns and conclude that the stimulus dependence of SCCs is a natural consequence of structured internal dynamics in a hierarchical probabilistic model of natural images.",
+  "authors": [
+    "Bányai Mihály",
+    "Lazar Andreea",
+    "Klein Liane",
+    "Klon-Lipok Johanna",
+    "Stippinger Marcell",
+    "Singer Wolf",
+    "Orbán Gergő"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2019",
+  "doi": "10.1073/pnas.1816766116",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

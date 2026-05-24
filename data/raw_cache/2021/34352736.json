@@ -1,0 +1,24 @@
+{
+  "pmid": "34352736",
+  "title": "Long-term intracortical microelectrode array performance in a human: a 5 year retrospective analysis.",
+  "abstract": "<i>Objective</i>. Brain-computer interfaces (BCIs) that record neural activity using intracortical microelectrode arrays (MEAs) have shown promise for mitigating disability associated with neurological injuries and disorders. While the chronic performance and failure modes of MEAs have been well studied and systematically described in non-human primates, there is far less reported about long-term MEA performance in humans. Our group has collected one of the largest neural recording datasets from a Utah MEA in a human subject, spanning over 5 years (2014-2019). Here we present both long-term signal quality and BCI performance as well as highlight several acute signal disruption events observed during the clinical study.<i>Approach</i>. Long-term Utah array performance was evaluated by analyzing neural signal metric trends and decoding accuracy for tasks regularly performed across 448 clinical recording sessions. For acute signal disruptions, we identify or hypothesize the root cause of the disruption, show how the disruption manifests in the collected data, and discuss potential identification and mitigation strategies for the disruption.<i>Main results</i>. Neural signal quality metrics deteriorated rapidly within the first year, followed by a slower decline through the remainder of the study. Nevertheless, BCI performance remained high 5 years after implantation, which is encouraging for the translational potential of this technology as an assistive device. We also present examples of unanticipated signal disruptions during chronic MEA use, which are critical to detect as BCI technology progresses toward home usage.<i>Significance</i>. Our work fills a gap in knowledge around long-term MEA performance in humans, providing longevity and efficacy data points to help characterize the performance of implantable neural sensors in a human population. The trial was registered on ClinicalTrials.gov (Identifier NCT01997125) and conformed to institutional requirements for the conduct of human subjects research.",
+  "authors": [
+    "Colachis Samuel C",
+    "Dunlap Collin F",
+    "Annetta Nicholas V",
+    "Tamrakar Sanjay M",
+    "Bockbrader Marcia A",
+    "Friedenberg David A"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2021",
+  "doi": "10.1088/1741-2552/ac1add",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Humans",
+    "Microelectrodes",
+    "Primates",
+    "Retrospective Studies"
+  ]
+}

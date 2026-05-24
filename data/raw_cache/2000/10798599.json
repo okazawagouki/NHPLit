@@ -1,0 +1,28 @@
+{
+  "pmid": "10798599",
+  "title": "Computational modeling of orientation tuning dynamics in monkey primary visual cortex.",
+  "abstract": "In the primate visual pathway, orientation tuning of neurons is first observed in the primary visual cortex. The LGN cells that comprise the thalamic input to V1 are not orientation tuned, but some V1 neurons are quite selective. Two main classes of theoretical models have been offered to explain orientation selectivity: feedforward models, in which inputs from spatially aligned LGN cells are summed together by one cortical neuron; and feedback models, in which an initial weak orientation bias due to convergent LGN input is sharpened and amplified by intracortical feedback. Recent data on the dynamics of orientation tuning, obtained by a cross-correlation technique, may help to distinguish between these classes of models. To test this possibility, we simulated the measurement of orientation tuning dynamics on various receptive field models, including a simple Hubel-Wiesel type feedforward model: a linear spatiotemporal filter followed by an integrate-and-fire spike generator. The computational study reveals that simple feedforward models may account for some aspects of the experimental data but fail to explain many salient features of orientation tuning dynamics in V1 cells. A simple feedback model of interacting cells is also considered. This model is successful in explaining the appearance of Mexican-hat orientation profiles, but other features of the data continue to be unexplained.",
+  "authors": [
+    "Pugh M C",
+    "Ringach D L",
+    "Shapley R",
+    "Shelley M J"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cell Communication",
+    "Haplorhini",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Orientation",
+    "Synaptic Transmission",
+    "Time Factors",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

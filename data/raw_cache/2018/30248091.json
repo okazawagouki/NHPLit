@@ -1,0 +1,28 @@
+{
+  "pmid": "30248091",
+  "title": "Inferring decoding strategies for multiple correlated neural populations.",
+  "abstract": "Studies of neuron-behaviour correlation and causal manipulation have long been used separately to understand the neural basis of perception. Yet these approaches sometimes lead to drastically conflicting conclusions about the functional role of brain areas. Theories that focus only on choice-related neuronal activity cannot reconcile those findings without additional experiments involving large-scale recordings to measure interneuronal correlations. By expanding current theories of neural coding and incorporating results from inactivation experiments, we demonstrate here that it is possible to infer decoding weights of different brain areas at a coarse scale without precise knowledge of the correlation structure. We apply this technique to neural data collected from two different cortical areas in macaque monkeys trained to perform a heading discrimination task. We identify two opposing decoding schemes, each consistent with data depending on the nature of correlated noise. Our theory makes specific testable predictions to distinguish these scenarios experimentally without requiring measurement of the underlying noise correlations.",
+  "authors": [
+    "Lakshminarasimhan Kaushik J",
+    "Pouget Alexandre",
+    "DeAngelis Gregory C",
+    "Angelaki Dora E",
+    "Pitkow Xaq"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2018",
+  "doi": "10.1371/journal.pcbi.1006371",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Choice Behavior",
+    "Computer Simulation",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motion",
+    "Motion Perception",
+    "Neurons",
+    "Normal Distribution"
+  ]
+}

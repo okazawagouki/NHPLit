@@ -1,0 +1,22 @@
+{
+  "pmid": "15571738",
+  "title": "Selectivity and sparseness in the responses of striate complex cells.",
+  "abstract": "Probability distributions of macaque complex cell responses to a large set of images were determined. Measures of selectivity were based on the overall shape of the response probability distribution, as quantified by either kurtosis or entropy. We call this non-parametric selectivity, in contrast to parametric selectivity, which measures tuning curve bandwidths. To examine how receptive field properties affected non-parametric selectivity, two models of complex cells were created. One was a standard Gabor energy model, and the other a slight variant constructed from a Gabor function and its Hilbert transform. Functionally, these models differed primarily in the size of their DC responses. The Hilbert model produced higher selectivities than the Gabor model, with the two models bracketing the data from above and below. Thus we see that tiny changes in the receptive field profiles can lead to major changes in selectivity. While selectivity looks at the response distribution of a single neuron across a set of stimuli, sparseness looks at the response distribution of a population of neurons to a single stimulus. In the model, we found that on average the sparseness of a population was equal to the selectivity of cells comprising that population, a property we call ergodicity. We raise the possibility that high sparseness is the result of distortions in the shape of response distributions caused by non-linear, information-losing transforms, unrelated to information theoretic issues of efficient coding.",
+  "authors": [
+    "Lehky Sidney R",
+    "Sejnowski Terrence J",
+    "Desimone Robert"
+  ],
+  "journal": "Vision research",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Vision, Ocular",
+    "Visual Cortex"
+  ]
+}

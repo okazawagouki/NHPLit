@@ -1,0 +1,31 @@
+{
+  "pmid": "23366246",
+  "title": "Stable online control of an electrocorticographic brain-computer interface using a static decoder.",
+  "abstract": "A brain computer interface (BCI) system was implemented by recording electrocorticographic signals (ECoG) from the motor cortex of a Rhesus macaque. These signals were used to control two-dimensional cursor movements in a standard center-out task, utilizing an optimal linear estimation (OLE) method. We examined the time course over which a monkey could acquire accurate control when operating in a co-adaptive training scheme. Accurate and maintained control was achieved after 4-5 days. We then held the decode parameters constant and observed stable control over the next 28 days. We also investigated the underlying neural strategy employed for control, asking whether neural features that were correlated with a given kinematic output (e.g. velocity in a certain direction) were clustered anatomically, and whether the features were coordinated or conflicting in their contributions to the control signal.",
+  "authors": [
+    "Ashmore Robin C",
+    "Endler Bridget M",
+    "Smalianchuk Ivan",
+    "Degenhart Alan D",
+    "Hatsopoulos Nicholas G",
+    "Tyler-Kabara Elizabeth C",
+    "Batista Aaron P",
+    "Wang Wei"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2012",
+  "doi": "10.1109/EMBC.2012.6346285",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Online Systems",
+    "Task Performance and Analysis"
+  ]
+}

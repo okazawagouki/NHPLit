@@ -1,0 +1,33 @@
+{
+  "pmid": "19196233",
+  "title": "Generating spike trains with specified correlation coefficients.",
+  "abstract": "Spike trains recorded from populations of neurons can exhibit substantial pairwise correlations between neurons and rich temporal structure. Thus, for the realistic simulation and analysis of neural systems, it is essential to have efficient methods for generating artificial spike trains with specified correlation structure. Here we show how correlated binary spike trains can be simulated by means of a latent multivariate gaussian model. Sampling from the model is computationally very efficient and, in particular, feasible even for large populations of neurons. The entropy of the model is close to the theoretical maximum for a wide range of parameters. In addition, this framework naturally extends to correlations over time and offers an elegant way to model correlated neural spike counts with arbitrary marginal distributions.",
+  "authors": [
+    "Macke Jakob H",
+    "Berens Philipp",
+    "Ecker Alexander S",
+    "Tolias Andreas S",
+    "Bethge Matthias"
+  ],
+  "journal": "Neural computation",
+  "year": "2009",
+  "doi": "10.1162/neco.2008.02-08-713",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Entropy",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Normal Distribution",
+    "Orientation",
+    "Photic Stimulation",
+    "Statistics as Topic",
+    "Time Factors",
+    "Visual Cortex",
+    "Wakefulness"
+  ]
+}

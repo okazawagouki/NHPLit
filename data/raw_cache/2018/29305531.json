@@ -1,0 +1,35 @@
+{
+  "pmid": "29305531",
+  "title": "Nonselective Wiring Accounts for Red-Green Opponency in Midget Ganglion Cells of the Primate Retina.",
+  "abstract": "In primate retina, \"red-green\" color coding is initiated when signals originating in long (L) and middle (M) wavelength-sensitive cone photoreceptors interact antagonistically. The center-surround receptive field of \"midget\" ganglion cells provides the neural substrate for L versus M cone-opponent interaction, but the underlying circuitry remains unsettled, centering around the longstanding question of whether specialized cone wiring is present. To address this question, we measured the strength, sign, and spatial tuning of L- and M-cone input to midget receptive fields in the peripheral retina of macaque primates of either sex. Consistent with previous work, cone opponency arose when one of the cone types showed a stronger connection to the receptive field center than to the surround. We implemented a difference-of-Gaussians spatial receptive field model, incorporating known biology of the midget circuit, to test whether physiological responses we observed in real cells could be captured entirely by anatomical nonselectivity. When this model sampled nonselectively from a realistic cone mosaic, it accurately reproduced key features of a cone-opponent receptive field structure, and predicted both the variability and strength of cone opponency across the retina. The model introduced here is consistent with abundant anatomical evidence for nonselective wiring, explains both local and global properties of the midget population, and supports a role in their multiplexing of spatial and color information. It provides a neural basis for human chromatic sensitivity across the visual field, as well as the maintenance of normal color vision despite significant variability in the relative number of L and M cones across individuals.<b>SIGNIFICANCE STATEMENT</b> Red-green color vision is a hallmark of the human and nonhuman primate that starts in the retina with the presence of long (L)- and middle (M)-wavelength sensitive cone photoreceptor types. Understanding the underlying retinal mechanism for color opponency has focused on the broad question of whether this characteristic can emerge from nonselective wiring, or whether complex cone-type-specific wiring must be invoked. We provide experimental and modeling support for the hypothesis that nonselective connectivity is sufficient to produce the range of red-green color opponency observed in midget ganglion cells across the retina. Our nonselective model reproduces the diversity of physiological responses of midget cells while also accounting for systematic changes in color sensitivity across the visual field.",
+  "authors": [
+    "Wool Lauren E",
+    "Crook Joanna D",
+    "Troy John B",
+    "Packer Orin S",
+    "Zaidi Qasim",
+    "Dacey Dennis M"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2018",
+  "doi": "10.1523/JNEUROSCI.1688-17.2017",
+  "mesh": [
+    "Animals",
+    "Cell Size",
+    "Color Perception",
+    "Color Vision",
+    "Female",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Macaca nemestrina",
+    "Male",
+    "Models, Neurological",
+    "Nerve Net",
+    "Normal Distribution",
+    "Photic Stimulation",
+    "Retina",
+    "Retinal Cone Photoreceptor Cells",
+    "Retinal Ganglion Cells",
+    "Visual Fields"
+  ]
+}

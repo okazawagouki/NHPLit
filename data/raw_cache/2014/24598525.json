@@ -1,0 +1,25 @@
+{
+  "pmid": "24598525",
+  "title": "Encoding frequency contrast in primate auditory cortex.",
+  "abstract": "Changes in amplitude and frequency jointly determine much of the communicative significance of complex acoustic signals, including human speech. We have previously described responses of neurons in the core auditory cortex of awake rhesus macaques to sinusoidal amplitude modulation (SAM) signals. Here we report a complementary study of sinusoidal frequency modulation (SFM) in the same neurons. Responses to SFM were analogous to SAM responses in that changes in multiple parameters defining SFM stimuli (e.g., modulation frequency, modulation depth, carrier frequency) were robustly encoded in the temporal dynamics of the spike trains. For example, changes in the carrier frequency produced highly reproducible changes in shapes of the modulation period histogram, consistent with the notion that the instantaneous probability of discharge mirrors the moment-by-moment spectrum at low modulation rates. The upper limit for phase locking was similar across SAM and SFM within neurons, suggesting shared biophysical constraints on temporal processing. Using spike train classification methods, we found that neural thresholds for modulation depth discrimination are typically far lower than would be predicted from frequency tuning to static tones. This \"dynamic hyperacuity\" suggests a substantial central enhancement of the neural representation of frequency changes relative to the auditory periphery. Spike timing information was superior to average rate information when discriminating among SFM signals, and even when discriminating among static tones varying in frequency. This finding held even when differences in total spike count across stimuli were normalized, indicating both the primacy and generality of temporal response dynamics in cortical auditory processing.",
+  "authors": [
+    "Malone Brian J",
+    "Scott Brian H",
+    "Semple Malcolm N"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2014",
+  "doi": "10.1152/jn.00878.2013",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Auditory Cortex",
+    "Auditory Threshold",
+    "Macaca mulatta",
+    "Male",
+    "Nerve Net",
+    "Pitch Perception",
+    "Sensory Receptor Cells"
+  ]
+}

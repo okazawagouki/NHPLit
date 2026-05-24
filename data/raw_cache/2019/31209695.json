@@ -1,0 +1,25 @@
+{
+  "pmid": "31209695",
+  "title": "EECoG-Comp: An Open Source Platform for Concurrent EEG/ECoG Comparisons-Applications to Connectivity Studies.",
+  "abstract": "Electrophysiological Source Imaging (ESI) is hampered by lack of \"gold standards\" for model validation. Concurrent electroencephalography (EEG) and electrocorticography (ECoG) experiments (EECoG) are useful for this purpose, especially primate models due to their flexibility and translational value for human research. Unfortunately, there is only one EECoG experiments in the public domain that we know of: the Multidimensional Recording (MDR) is based on a single monkey ( www.neurotycho.org ). The mining of this type of data is hindered by lack of specialized procedures to deal with: (1) Severe EECoG artifacts due to the experimental produces; (2) Sophisticated forward models that account for surgery induced skull defects and implanted ECoG electrode strips; (3) Reliable statistical procedures to estimate and compare source connectivity (partial correlation). We provide solutions to the processing issues just mentioned with EECoG-Comp: an open source platform ( https://github.com/Vincent-wq/EECoG-Comp ). EECoG lead fields calculated with FEM (Simbio) for MDR data are also provided and were used in other papers of this special issue. As a use case with the MDR, we show: (1) For real MDR data, 4 popular ESI methods (MNE, LCMV, eLORETA and SSBL) showed significant but moderate concordance with a usual standard, the ECoG Laplacian (standard partial [Formula: see text]); (2) In both monkey and human simulations, all ESI methods as well as Laplacian had a significant but poor correspondence with the true source connectivity. These preliminary results may stimulate the development of improved ESI connectivity estimators but require the availability of more EECoG data sets to obtain neurobiologically valid inferences.",
+  "authors": [
+    "Wang Qing",
+    "Valdés-Hernández Pedro Antonio",
+    "Paz-Linares Deirel",
+    "Bosch-Bayard Jorge",
+    "Oosugi Naoya",
+    "Komatsu Misako",
+    "Fujii Naotaka",
+    "Valdés-Sosa Pedro Antonio"
+  ],
+  "journal": "Brain topography",
+  "year": "2019",
+  "doi": "10.1007/s10548-019-00708-w",
+  "mesh": [
+    "Artifacts",
+    "Electrocorticography",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Humans"
+  ]
+}

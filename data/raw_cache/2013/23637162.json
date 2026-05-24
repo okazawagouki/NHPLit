@@ -1,0 +1,32 @@
+{
+  "pmid": "23637162",
+  "title": "Feature-specific information processing precedes concerted activation in human visual cortex.",
+  "abstract": "Current knowledge about the precise timing of visual input to the cortex relies largely on spike timings in monkeys and evoked-response latencies in humans. However, quantifying the activation onset does not unambiguously describe the timing of stimulus-feature-specific information processing. Here, we investigated the information content of the early human visual cortical activity by decoding low-level visual features from single-trial magnetoencephalographic (MEG) responses. MEG was measured from nine healthy subjects as they viewed annular sinusoidal gratings (spanning the visual field from 2 to 10° for a duration of 1 s), characterized by spatial frequency (0.33 cycles/degree or 1.33 cycles/degree) and orientation (45° or 135°); gratings were either static or rotated clockwise or anticlockwise from 0 to 180°. Time-resolved classifiers using a 20 ms moving window exceeded chance level at 51 ms (the later edge of the window) for spatial frequency, 65 ms for orientation, and 98 ms for rotation direction. Decoding accuracies of spatial frequency and orientation peaked at 70 and 90 ms, respectively, coinciding with the peaks of the onset evoked responses. Within-subject time-insensitive pattern classifiers decoded spatial frequency and orientation simultaneously (mean accuracy 64%, chance 25%) and rotation direction (mean 82%, chance 50%). Classifiers trained on data from other subjects decoded the spatial frequency (73%), but not the orientation, nor the rotation direction. Our results indicate that unaveraged brain responses contain decodable information about low-level visual features already at the time of the earliest cortical evoked responses, and that representations of spatial frequency are highly robust across individuals.",
+  "authors": [
+    "Ramkumar Pavan",
+    "Jas Mainak",
+    "Pannasch Sebastian",
+    "Hari Riitta",
+    "Parkkonen Lauri"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2013",
+  "doi": "10.1523/JNEUROSCI.3905-12.2013",
+  "mesh": [
+    "Adult",
+    "Brain Mapping",
+    "Evoked Potentials, Visual",
+    "Female",
+    "Humans",
+    "Magnetoencephalography",
+    "Male",
+    "Orientation",
+    "Pattern Recognition, Visual",
+    "Reaction Time",
+    "Sensory Gating",
+    "Time Factors",
+    "Visual Cortex",
+    "Visual Fields",
+    "Young Adult"
+  ]
+}

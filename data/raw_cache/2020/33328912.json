@@ -1,0 +1,18 @@
+{
+  "pmid": "33328912",
+  "title": "Stimulus Feature-Specific Information Flow Along the Columnar Cortical Microcircuit Revealed by Multivariate Laminar Spiking Analysis.",
+  "abstract": "Most of the mammalian neocortex is comprised of a highly similar anatomical structure, consisting of a granular cell layer between superficial and deep layers. Even so, different cortical areas process different information. Taken together, this suggests that cortex features a canonical functional microcircuit that supports region-specific information processing. For example, the primate primary visual cortex (V1) combines the two eyes' signals, extracts stimulus orientation, and integrates contextual information such as visual stimulation history. These processes co-occur during the same laminar stimulation sequence that is triggered by the onset of visual stimuli. Yet, we still know little regarding the laminar processing differences that are specific to each of these types of stimulus information. Univariate analysis techniques have provided great insight by examining one electrode at a time or by studying average responses across multiple electrodes. Here we focus on multivariate statistics to examine response patterns across electrodes instead. Specifically, we applied multivariate pattern analysis (MVPA) to linear multielectrode array recordings of laminar spiking responses to decode information regarding the eye-of-origin, stimulus orientation, and stimulus repetition. MVPA differs from conventional univariate approaches in that it examines patterns of neural activity across simultaneously recorded electrode sites. We were curious whether this added dimensionality could reveal neural processes on the population level that are challenging to detect when measuring brain activity without the context of neighboring recording sites. We found that eye-of-origin information was decodable for the entire duration of stimulus presentation, but diminished in the deepest layers of V1. Conversely, orientation information was transient and equally pronounced along all layers. More importantly, using time-resolved MVPA, we were able to evaluate laminar response properties beyond those yielded by univariate analyses. Specifically, we performed a time generalization analysis by training a classifier at one point of the neural response and testing its performance throughout the remaining period of stimulation. Using this technique, we demonstrate repeating (reverberating) patterns of neural activity that have not previously been observed using standard univariate approaches.",
+  "authors": [
+    "Tovar David A",
+    "Westerberg Jacob A",
+    "Cox Michele A",
+    "Dougherty Kacie",
+    "Carlson Thomas A",
+    "Wallace Mark T",
+    "Maier Alexander"
+  ],
+  "journal": "Frontiers in systems neuroscience",
+  "year": "2020",
+  "doi": "10.3389/fnsys.2020.600601",
+  "mesh": []
+}

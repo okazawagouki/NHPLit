@@ -1,0 +1,23 @@
+{
+  "pmid": "33318073",
+  "title": "Spatiotemporal Coding in the Macaque Supplementary Eye Fields: Landmark Influence in the Target-to-Gaze Transformation.",
+  "abstract": "Eye-centered (egocentric) and landmark-centered (allocentric) visual signals influence spatial cognition, navigation, and goal-directed action, but the neural mechanisms that integrate these signals for motor control are poorly understood. A likely candidate for egocentric/allocentric integration in the gaze control system is the supplementary eye fields (SEF), a mediofrontal structure with high-level \"executive\" functions, spatially tuned visual/motor response fields, and reciprocal projections with the frontal eye fields (FEF). To test this hypothesis, we trained two head-unrestrained monkeys (<i>Macaca mulatta</i>) to saccade toward a remembered visual target in the presence of a visual landmark that shifted during the delay, causing gaze end points to shift partially in the same direction. A total of 256 SEF neurons were recorded, including 68 with spatially tuned response fields. Model fits to the latter established that, like the FEF and superior colliculus (SC), spatially tuned SEF responses primarily showed an egocentric (eye-centered) target-to-gaze position transformation. However, the landmark shift influenced this default egocentric transformation: during the delay, motor neurons (with no visual response) showed a transient but unintegrated shift (i.e., not correlated with the target-to-gaze transformation), whereas during the saccade-related burst visuomotor (VM) neurons showed an integrated shift (i.e., correlated with the target-to-gaze transformation). This differed from our simultaneous FEF recordings (Bharmauria et al., 2020), which showed a transient shift in VM neurons, followed by an integrated response in all motor responses. Based on these findings and past literature, we propose that prefrontal cortex incorporates landmark-centered information into a distributed, eye-centered target-to-gaze transformation through a reciprocal prefrontal circuit.",
+  "authors": [
+    "Bharmauria Vishal",
+    "Sajad Amirsaman",
+    "Yan Xiaogang",
+    "Wang Hongying",
+    "Crawford John Douglas"
+  ],
+  "journal": "eNeuro",
+  "year": "2021",
+  "doi": "10.1523/ENEURO.0446-20.2020",
+  "mesh": [
+    "Animals",
+    "Fixation, Ocular",
+    "Frontal Lobe",
+    "Saccades",
+    "Superior Colliculi",
+    "Visual Perception"
+  ]
+}

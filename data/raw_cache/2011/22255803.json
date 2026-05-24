@@ -1,0 +1,33 @@
+{
+  "pmid": "22255803",
+  "title": "Identifying neuron communities during a reach and grasp task using an unsupervised clustering analysis.",
+  "abstract": "Recent advances in brain-machine interfaces (BMIs) have allowed for high density recordings using microelectrode arrays. However, these large datasets present a challenge in how to practically identify features of interest and discard non-task-related neurons. Thus, we apply a previously reported unsupervised clustering analysis to neural data acquired from a non-human primate as it performed a center-out reach-and-grasp task. Although neurons were recorded from multiple arrays across motor and premotor areas, neurons were found to cluster into only two groups which differ by their mean firing rate. No spatial distribution of neurons was evident in different groups, either across arrays or at different depths. Using a Kalman filter to decode arm, hand, and finger kinematics, we find that using neurons from only one of the groups resulted in higher decoding accuracy (r=0.73) than using randomly selected neurons (r=0.68). This suggests that the proposed method can be used to prune the input space and identify an optimal population of neurons for BMI tasks.",
+  "authors": [
+    "Newman Geoffrey I",
+    "Aggarwal Vikram",
+    "Schieber Marc H",
+    "Thakor Nitish V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2011",
+  "doi": "10.1109/IEMBS.2011.6091580",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Brain",
+    "Cluster Analysis",
+    "Electrodes",
+    "Equipment Design",
+    "Hand Strength",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Models, Statistical",
+    "Motor Cortex",
+    "Neurons",
+    "Reproducibility of Results",
+    "Self-Help Devices",
+    "User-Computer Interface"
+  ]
+}

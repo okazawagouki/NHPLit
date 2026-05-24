@@ -1,0 +1,26 @@
+{
+  "pmid": "38763969",
+  "title": "Oscillating latent dynamics in robot systems during walking and reaching.",
+  "abstract": "Sensorimotor control of complex, dynamic systems such as humanoids or quadrupedal robots is notoriously difficult. While artificial systems traditionally employ hierarchical optimisation approaches or black-box policies, recent results in systems neuroscience suggest that complex behaviours such as locomotion and reaching are correlated with limit cycles in the primate motor cortex. A recent result suggests that, when applied to a learned latent space, oscillating patterns of activation can be used to control locomotion in a physical robot. While reminiscent of limit cycles observed in primate motor cortex, these dynamics are unsurprising given the cyclic nature of the robot's behaviour (walking). In this preliminary investigation, we consider how a similar approach extends to a less obviously cyclic behaviour (reaching). This has been explored in prior work using computational simulations. But simulations necessarily make simplifying assumptions that do not necessarily correspond to reality, so do not trivially transfer to real robot platforms. Our primary contribution is to demonstrate that we can infer and control real robot states in a learnt representation using oscillatory dynamics during reaching tasks. We further show that the learned latent representation encodes interpretable movements in the robot's workspace. Compared to robot locomotion, the dynamics that we observe for reaching are not fully cyclic, as they do not begin and end at the same position of latent space. However, they do begin to trace out the shape of a cycle, and, by construction, they are driven by the same underlying oscillatory mechanics.",
+  "authors": [
+    "Parker Jones Oiwi",
+    "Mitchell Alexander L",
+    "Yamada Jun",
+    "Merkt Wolfgang",
+    "Geisert Mathieu",
+    "Havoutis Ioannis",
+    "Posner Ingmar"
+  ],
+  "journal": "Scientific reports",
+  "year": "2024",
+  "doi": "10.1038/s41598-024-61610-5",
+  "mesh": [
+    "Robotics",
+    "Walking",
+    "Humans",
+    "Animals",
+    "Computer Simulation",
+    "Locomotion",
+    "Motor Cortex"
+  ]
+}

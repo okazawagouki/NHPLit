@@ -1,0 +1,21 @@
+{
+  "pmid": "36332851",
+  "title": "Fusion of quantitative susceptibility maps and T1-weighted images improve brain tissue contrast in primates.",
+  "abstract": "Recent progress in quantitative susceptibility mapping (QSM) has enabled the accurate delineation of submillimeter-scale subcortical brain structures in humans. However, the simultaneous visualization of cortical, subcortical, and white matter structure remains challenging, utilizing QSM data solely. Here we present TQ-SILiCON, a fusion method that enhances the contrast of cortex and subcortical structures and provides an excellent white matter delineation by combining QSM and conventional T1-weighted (T1w) images. In this study, we first applied QSM in the macaque monkey to map iron-rich subcortical structures. Implementing the same QSM acquisition and analysis methods allowed a similar accurate delineation of subcortical structures in humans. However, the QSM contrast of white and cortical gray matter was not sufficient for appropriate segmentation. Applying automatic brain tissue segmentation to TQ-SILiCON images of the macaque improved the classification of subcortical brain structures as compared to the single T1 contrast by maintaining an excellent white to cortical gray matter contrast. Furthermore, we validated our dual-contrast fusion approach in humans and similarly demonstrated improvements in automated segmentation of the cortex and subcortical structures. We believe the proposed contrast will facilitate translational studies in nonhuman primates to investigate the pathophysiology of neurodegenerative diseases that affect subcortical structures such as the basal ganglia in humans.",
+  "authors": [
+    "Dadarwal Rakshit",
+    "Ortiz-Rios Michael",
+    "Boretius Susann"
+  ],
+  "journal": "NeuroImage",
+  "year": "2022",
+  "doi": "10.1016/j.neuroimage.2022.119730",
+  "mesh": [
+    "Humans",
+    "Brain Mapping",
+    "Magnetic Resonance Imaging",
+    "Brain",
+    "Gray Matter",
+    "White Matter"
+  ]
+}

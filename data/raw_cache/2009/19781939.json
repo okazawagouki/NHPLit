@@ -1,0 +1,26 @@
+{
+  "pmid": "19781939",
+  "title": "Deciphering cortical number coding from human brain activity patterns.",
+  "abstract": "BACKGROUND: Neuropsychology and human functional neuroimaging have implicated human parietal cortex in numerical processing, and macaque electrophysiology has shown that intraparietal areas house neurons tuned to numerosity. Yet although the areas responding overall during numerical tasks have been well defined by neuroimaging, a direct demonstration of individual number coding by spatial patterns has thus far been elusive. RESULTS: We used multivariate pattern recognition on high-resolution functional imaging data to decode the information content of fine-scale signals evoked by different individual numbers. Parietal activation patterns for individual numerosities could be accurately discriminated and generalized across changes in low-level stimulus parameters. Distinct patterns were evoked by symbolic and nonsymbolic number formats, and individual digits were less accurately decoded (albeit still with significant accuracy) than numbers of dots. Interestingly, the numerosity of dot sets could be predicted above chance from the brain activation patterns evoked by digits, but not vice versa. Finally, number-evoked patterns changed in a gradual fashion as a function of numerical distance for the nonsymbolic notation, compatible with some degree of orderly layout of individual number representations. CONCLUSIONS: Our findings demonstrate partial format invariance of individual number codes that is compatible with more numerous but more broadly tuned populations for nonsymbolic than for symbolic numbers, as postulated by recent computational models. In more general terms, our results illustrate the potential of functional magnetic resonance imaging pattern recognition to understand the detailed format of representations within a single semantic category, and beyond sensory cortical areas for which columnar architectures are well established.",
+  "authors": [
+    "Eger Evelyn",
+    "Michel Vincent",
+    "Thirion Bertrand",
+    "Amadon Alexis",
+    "Dehaene Stanislas",
+    "Kleinschmidt Andreas"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2009",
+  "doi": "10.1016/j.cub.2009.08.047",
+  "mesh": [
+    "Analysis of Variance",
+    "Cognition",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Magnetic Resonance Imaging",
+    "Mathematical Concepts",
+    "Parietal Lobe",
+    "Regression Analysis"
+  ]
+}

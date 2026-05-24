@@ -1,0 +1,32 @@
+{
+  "pmid": "39383087",
+  "title": "Inhibitory Components in Muscle Synergies Factorized by the Rectified Latent Variable Model From Electromyographic Data.",
+  "abstract": "Non-negative matrix factorization (NMF), widely used in motor neuroscience for identifying muscle synergies from electromyographical signals (EMGs), extracts non-negative synergies and is yet unable to identify potential negative components (NegCps) in synergies underpinned by inhibitory spinal interneurons. To overcome this constraint, we propose to utilize rectified latent variable model (RLVM) to extract muscle synergies. RLVM uses an autoencoder neural network, and the weight matrix of its neural network could be negative, while latent variables must remain non-negative. If inputs to the model are EMGs, the weight matrix and latent variables represent muscle synergies and their temporal activation coefficients, respectively. We compared performances of NMF and RLVM in identifying muscle synergies in simulated and experimental datasets. Our simulated results showed that RLVM performed better in identifying muscle-synergy subspace and NMF had a good correlation with ground truth. Finally, we applied RLVM to a previously published experimental dataset comprising EMGs from upper-limb muscles and spike recordings of spinal premotor interneurons (PreM-INs) collected from two macaque monkeys during grasping tasks. RLVM and NMF synergies were highly similar, but a few small negative muscle components were observed in RLVM synergies. The muscles with NegCps identified by RLVM exhibited near-zero values in their corresponding synergies identified by NMF. Importantly, NegCps of RLVM synergies showed correspondence with the muscle connectivity of PreM-INs with inhibitory muscle fields, as identified by spike-triggered averaging of EMGs. Our results demonstrate the feasibility of RLVM in extracting potential inhibitory muscle-synergy components from EMGs.",
+  "authors": [
+    "Guo Xiaoyu",
+    "Huang Subing",
+    "He Borong",
+    "Lan Chuanlin",
+    "Xie Jodie J",
+    "Lau Kelvin Y S",
+    "Takei Tomohiko",
+    "Mak Arthur D P",
+    "Cheung Roy T H",
+    "Seki Kazuhiko",
+    "Cheung Vincent C K",
+    "Chan Rosa H M"
+  ],
+  "journal": "IEEE journal of biomedical and health informatics",
+  "year": "2025",
+  "doi": "10.1109/JBHI.2024.3453603",
+  "mesh": [
+    "Electromyography",
+    "Animals",
+    "Muscle, Skeletal",
+    "Signal Processing, Computer-Assisted",
+    "Neural Networks, Computer",
+    "Algorithms",
+    "Male",
+    "Macaca mulatta"
+  ]
+}

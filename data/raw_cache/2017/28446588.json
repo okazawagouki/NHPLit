@@ -1,0 +1,27 @@
+{
+  "pmid": "28446588",
+  "title": "Hierarchical differences in population coding within auditory cortex.",
+  "abstract": "Most models of auditory cortical (AC) population coding have focused on primary auditory cortex (A1). Thus our understanding of how neural coding for sounds progresses along the cortical hierarchy remains obscure. To illuminate this, we recorded from two AC fields: A1 and middle lateral belt (ML) of rhesus macaques. We presented amplitude-modulated (AM) noise during both passive listening and while the animals performed an AM detection task (\"active\" condition). In both fields, neurons exhibit monotonic AM-depth tuning, with A1 neurons mostly exhibiting increasing rate-depth functions and ML neurons approximately evenly distributed between increasing and decreasing functions. We measured noise correlation (<i>r</i><sub>noise</sub>) between simultaneously recorded neurons and found that whereas engagement decreased average <i>r</i><sub>noise</sub> in A1, engagement increased average <i>r</i><sub>noise</sub> in ML. This finding surprised us, because attentive states are commonly reported to decrease average <i>r</i><sub>noise</sub> We analyzed the effect of <i>r</i><sub>noise</sub> on AM coding in both A1 and ML and found that whereas engagement-related shifts in <i>r</i><sub>noise</sub> in A1 enhance AM coding, <i>r</i><sub>noise</sub> shifts in ML have little effect. These results imply that the effect of <i>r</i><sub>noise</sub> differs between sensory areas, based on the distribution of tuning properties among the neurons within each population. A possible explanation of this is that higher areas need to encode nonsensory variables (e.g., attention, choice, and motor preparation), which impart common noise, thus increasing <i>r</i><sub>noise</sub> Therefore, the hierarchical emergence of <i>r</i><sub>noise</sub>-robust population coding (e.g., as we observed in ML) enhances the ability of sensory cortex to integrate cognitive and sensory information without a loss of sensory fidelity.<b>NEW & NOTEWORTHY</b> Prevailing models of population coding of sensory information are based on a limited subset of neural structures. An important and under-explored question in neuroscience is how distinct areas of sensory cortex differ in their population coding strategies. In this study, we compared population coding between primary and secondary auditory cortex. Our findings demonstrate striking differences between the two areas and highlight the importance of considering the diversity of neural structures as we develop models of population coding.",
+  "authors": [
+    "Downer Joshua D",
+    "Niwa Mamiko",
+    "Sutter Mitchell L"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2017",
+  "doi": "10.1152/jn.00899.2016",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Auditory Cortex",
+    "Auditory Perception",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Neurons",
+    "Signal Detection, Psychological"
+  ]
+}

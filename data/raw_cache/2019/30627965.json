@@ -1,0 +1,23 @@
+{
+  "pmid": "30627965",
+  "title": "Neural Evidence of the Cerebellum as a State Predictor.",
+  "abstract": "We here provide neural evidence that the cerebellar circuit can predict future inputs from present outputs, a hallmark of an internal forward model. Recent computational studies hypothesize that the cerebellum performs state prediction known as a forward model. To test the forward-model hypothesis, we analyzed activities of 94 mossy fibers (inputs to the cerebellar cortex), 83 Purkinje cells (output from the cerebellar cortex to dentate nucleus), and 73 dentate nucleus cells (cerebellar output) in the cerebro-cerebellum, all recorded from a monkey performing step-tracking movements of the right wrist. We found that the firing rates of one population could be reconstructed as a weighted linear sum of those of preceding populations. We then went on to investigate if the current outputs of the cerebellum (dentate cells) could predict the future inputs of the cerebellum (mossy fibers). The firing rates of mossy fibers at time t + t<sub>1</sub> could be well reconstructed from as a weighted sum of firing rates of dentate cells at time t, thereby proving that the dentate activities contained predictive information about the future inputs. The average goodness-of-fit (R<sup>2</sup>) decreased moderately from 0.89 to 0.86 when t<sub>1</sub> was increased from 20 to 100 ms, hence indicating that the prediction is able to compensate the latency of sensory feedback. The linear equations derived from the firing rates resembled those of a predictor known as Kalman filter composed of prediction and filtering steps. In summary, our analysis of cerebellar activities supports the forward-model hypothesis of the cerebellum.",
+  "authors": [
+    "Tanaka Hirokazu",
+    "Ishikawa Takahiro",
+    "Kakei Shinji"
+  ],
+  "journal": "Cerebellum (London, England)",
+  "year": "2019",
+  "doi": "10.1007/s12311-018-0996-4",
+  "mesh": [
+    "Animals",
+    "Cerebellum",
+    "Computer Simulation",
+    "Macaca",
+    "Male",
+    "Models, Neurological",
+    "Movement",
+    "Psychomotor Performance"
+  ]
+}

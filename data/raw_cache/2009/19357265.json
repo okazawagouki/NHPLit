@@ -1,0 +1,18 @@
+{
+  "pmid": "19357265",
+  "title": "Rank-order-selective neurons form a temporal basis set for the generation of motor sequences.",
+  "abstract": "Many behaviors are composed of a series of elementary motor actions that must occur in a specific order, but the neuronal mechanisms by which such motor sequences are generated are poorly understood. In particular, if a sequence consists of a few motor actions, a primate can learn to replicate it from memory after practicing it for just a few trials. How do the motor and premotor areas of the brain assemble motor sequences so fast? The network model presented here reveals part of the solution to this problem. The model is based on experiments showing that, during the performance of motor sequences, some cortical neurons are always activated at specific times, regardless of which motor action is being executed. In the model, a population of such rank-order-selective (ROS) cells drives a layer of downstream motor neurons so that these generate specific movements at different times in different sequences. A key ingredient of the model is that the amplitude of the ROS responses must be modulated by sequence identity. Because of this modulation, which is consistent with experimental reports, the network is able not only to produce multiple sequences accurately but also to learn a new sequence with minimal changes in connectivity. The ROS neurons modulated by sequence identity thus serve as a basis set for constructing arbitrary sequences of motor responses downstream. The underlying mechanism is analogous to the mechanism described in parietal areas for generating coordinate transformations in the spatial domain.",
+  "authors": [
+    "Salinas Emilio"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2009",
+  "doi": "10.1523/JNEUROSCI.0164-09.2009",
+  "mesh": [
+    "Motor Activity",
+    "Motor Cortex",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Time Factors"
+  ]
+}

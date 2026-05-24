@@ -1,0 +1,41 @@
+{
+  "pmid": "33434274",
+  "title": "Multiple Alu Exonization in 3'UTR of a Primate-Specific Isoform of CYP20A1 Creates a Potential miRNA Sponge.",
+  "abstract": "Alu repeats contribute to phylogenetic novelties in conserved regulatory networks in primates. Our study highlights how exonized Alus could nucleate large-scale mRNA-miRNA interactions. Using a functional genomics approach, we characterize a transcript isoform of an orphan gene, CYP20A1 (CYP20A1_Alu-LT) that has exonization of 23 Alus in its 3'UTR. CYP20A1_Alu-LT, confirmed by 3'RACE, is an outlier in length (9 kb 3'UTR) and widely expressed. Using publically available data sets, we demonstrate its expression in higher primates and presence in single nucleus RNA-seq of 15,928 human cortical neurons. miRanda predicts ∼4,700 miRNA recognition elements (MREs) for ∼1,000 miRNAs, primarily originated within these 3'UTR-Alus. CYP20A1_Alu-LT could be a potential multi-miRNA sponge as it harbors ≥10 MREs for 140 miRNAs and has cytosolic localization. We further tested whether expression of CYP20A1_Alu-LT correlates with mRNAs harboring similar MRE targets. RNA-seq with conjoint miRNA-seq analysis was done in primary human neurons where we observed CYP20A1_Alu-LT to be downregulated during heat shock response and upregulated in HIV1-Tat treatment. In total, 380 genes were positively correlated with its expression (significantly downregulated in heat shock and upregulated in Tat) and they harbored MREs for nine expressed miRNAs which were also enriched in CYP20A1_Alu-LT. MREs were significantly enriched in these 380 genes compared with random sets of differentially expressed genes (P = 8.134e-12). Gene ontology suggested involvement of these genes in neuronal development and hemostasis pathways thus proposing a novel component of Alu-miRNA-mediated transcriptional modulation that could govern specific physiological outcomes in higher primates.",
+  "authors": [
+    "Bhattacharya Aniket",
+    "Jha Vineet",
+    "Singhal Khushboo",
+    "Fatima Mahar",
+    "Singh Dayanidhi",
+    "Chaturvedi Gaura",
+    "Dholakia Dhwani",
+    "Kutum Rintu",
+    "Pandey Rajesh",
+    "Bakken Trygve E",
+    "Seth Pankaj",
+    "Pillai Beena",
+    "Mukerji Mitali"
+  ],
+  "journal": "Genome biology and evolution",
+  "year": "2021",
+  "doi": "10.1093/gbe/evaa233",
+  "mesh": [
+    "3' Untranslated Regions",
+    "Alu Elements",
+    "Animals",
+    "Cytochrome P-450 Enzyme System",
+    "Exons",
+    "Gene Expression Regulation",
+    "Heat-Shock Response",
+    "Humans",
+    "MicroRNAs",
+    "Neurons",
+    "Phylogeny",
+    "Porifera",
+    "Primates",
+    "Protein Isoforms",
+    "RNA, Messenger",
+    "Up-Regulation"
+  ]
+}

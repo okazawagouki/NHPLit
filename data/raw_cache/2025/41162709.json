@@ -1,0 +1,36 @@
+{
+  "pmid": "41162709",
+  "title": "Sensory expectations shape neural population dynamics in motor circuits.",
+  "abstract": "The neural basis of movement preparation has been extensively studied during self-initiated actions, in which motor cortical activity during preparation shows a lawful relationship to the parameters of the subsequent action<sup>1,2</sup>. However, movements are regularly triggered or corrected on the basis of sensory inputs caused by disturbances to the body. Since such disturbances are often predictable, and since preparing for disturbances would make movements more prescise, we hypothesized that expectations about sensory inputs also influence preparatory activity in motor circuits. Here we show that when humans or monkeys are probabilistically cued about the direction of future mechanical perturbations, they incorporate sensory expectations into their movement preparation and improve their corrective responses. Using high-density neural recordings, we establish that sensory expectations are widespread across the brain, including the motor cortical areas involved in preparing self-initiated actions. The geometry of these preparatory signals in the neural population state is simple, and scales directly with the probability of each perturbation direction. After perturbation onset, a condition-independent signal shifts the neural state leading to rapid responses that initially reflect sensory expectations. Using neural networks coupled to a biomechanical model of the arm<sup>3</sup>, we show that this neural geometry emerges only when sensory inputs signal that a perturbation has occurred, before resolving the direction of the perturbation. Thus, just as preparatory activity sets the stage for self-initiated movement, it also configures motor circuits to respond efficiently to sensory inputs.",
+  "authors": [
+    "Michaels Jonathan A",
+    "Kashefi Mehrdad",
+    "Zheng Jack",
+    "Codol Olivier",
+    "Weiler Jeffrey",
+    "Kersten Rhonda",
+    "Lau Jonathan C",
+    "Gribble Paul L",
+    "Diedrichsen Jörn",
+    "Pruszynski J Andrew"
+  ],
+  "journal": "Nature",
+  "year": "2025",
+  "doi": "10.1038/s41586-025-09690-9",
+  "mesh": [
+    "Humans",
+    "Animals",
+    "Motor Cortex",
+    "Male",
+    "Movement",
+    "Female",
+    "Models, Neurological",
+    "Cues",
+    "Macaca mulatta",
+    "Adult",
+    "Biomechanical Phenomena",
+    "Neurons",
+    "Young Adult",
+    "Sensation"
+  ]
+}

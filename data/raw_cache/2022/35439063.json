@@ -1,0 +1,23 @@
+{
+  "pmid": "35439063",
+  "title": "Texture-like representation of objects in human visual cortex.",
+  "abstract": "The human visual ability to recognize objects and scenes is widely thought to rely on representations in category-selective regions of the visual cortex. These representations could support object vision by specifically representing objects, or, more simply, by representing complex visual features regardless of the particular spatial arrangement needed to constitute real-world objects, that is, by representing visual textures. To discriminate between these hypotheses, we leveraged an image synthesis approach that, unlike previous methods, provides independent control over the complexity and spatial arrangement of visual features. We found that human observers could easily detect a natural object among synthetic images with similar complex features that were spatially scrambled. However, observer models built from BOLD responses from category-selective regions, as well as a model of macaque inferotemporal cortex and Imagenet-trained deep convolutional neural networks, were all unable to identify the real object. This inability was not due to a lack of signal to noise, as all observer models could predict human performance in image categorization tasks. How then might these texture-like representations in category-selective regions support object perception? An image-specific readout from category-selective cortex yielded a representation that was more selective for natural feature arrangement, showing that the information necessary for natural object discrimination is available. Thus, our results suggest that the role of the human category-selective visual cortex is not to explicitly encode objects but rather to provide a basis set of texture-like features that can be infinitely reconfigured to flexibly learn and identify new object categories.",
+  "authors": [
+    "Jagadeesh Akshay V",
+    "Gardner Justin L"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2022",
+  "doi": "10.1073/pnas.2115302119",
+  "mesh": [
+    "Brain Mapping",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Neural Networks, Computer",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

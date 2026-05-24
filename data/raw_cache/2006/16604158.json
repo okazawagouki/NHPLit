@@ -1,0 +1,28 @@
+{
+  "pmid": "16604158",
+  "title": "A model for integrating elementary neural functions into delayed-response behavior.",
+  "abstract": "It is well established that various cortical regions can implement a wide array of neural processes, yet the mechanisms which integrate these processes into behavior-producing, brain-scale activity remain elusive. We propose that an important role in this respect might be played by executive structures controlling the traffic of information between the cortical regions involved. To illustrate this hypothesis, we present a neural network model comprising a set of interconnected structures harboring stimulus-related activity (visual representation, working memory, and planning), and a group of executive units with task-related activity patterns that manage the information flowing between them. The resulting dynamics allows the network to perform the dual task of either retaining an image during a delay (delayed-matching to sample task), or recalling from this image another one that has been associated with it during training (delayed-pair association task). The model reproduces behavioral and electrophysiological data gathered on the inferior temporal and prefrontal cortices of primates performing these same tasks. It also makes predictions on how neural activity coding for the recall of the image associated with the sample emerges and becomes prospective during the training phase. The network dynamics proves to be very stable against perturbations, and it exhibits signs of scale-invariant organization and cooperativity. The present network represents a possible neural implementation for active, top-down, prospective memory retrieval in primates. The model suggests that brain activity leading to performance of cognitive tasks might be organized in modular fashion, simple neural functions becoming integrated into more complex behavior by executive structures harbored in prefrontal cortex and/or basal ganglia.",
+  "authors": [
+    "Gisiger Thomas",
+    "Kerszberg Michel"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Basal Ganglia",
+    "Brain",
+    "Brain Mapping",
+    "Computer Simulation",
+    "Electrophysiology",
+    "Haplorhini",
+    "Humans",
+    "Learning",
+    "Memory, Short-Term",
+    "Models, Neurological",
+    "Nerve Net",
+    "Prefrontal Cortex"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pmid": "28722685",
+  "title": "Neural control of finger movement via intracortical brain-machine interface.",
+  "abstract": "OBJECTIVE: Intracortical brain-machine interfaces (BMIs) are a promising source of prosthesis control signals for individuals with severe motor disabilities. Previous BMI studies have primarily focused on predicting and controlling whole-arm movements; precise control of hand kinematics, however, has not been fully demonstrated. Here, we investigate the continuous decoding of precise finger movements in rhesus macaques. APPROACH: In order to elicit precise and repeatable finger movements, we have developed a novel behavioral task paradigm which requires the subject to acquire virtual fingertip position targets. In the physical control condition, four rhesus macaques performed this task by moving all four fingers together in order to acquire a single target. This movement was equivalent to controlling the aperture of a power grasp. During this task performance, we recorded neural spikes from intracortical electrode arrays in primary motor cortex. MAIN RESULTS: Using a standard Kalman filter, we could reconstruct continuous finger movement offline with an average correlation of ρ  =  0.78 between actual and predicted position across four rhesus macaques. For two of the monkeys, this movement prediction was performed in real-time to enable direct brain control of the virtual hand. Compared to physical control, neural control performance was slightly degraded; however, the monkeys were still able to successfully perform the task with an average target acquisition rate of 83.1%. The monkeys' ability to arbitrarily specify fingertip position was also quantified using an information throughput metric. During brain control task performance, the monkeys achieved an average 1.01 bits s<sup>-1</sup> throughput, similar to that achieved in previous studies which decoded upper-arm movements to control computer cursors using a standard Kalman filter. SIGNIFICANCE: This is, to our knowledge, the first demonstration of brain control of finger-level fine motor skills. We believe that these results represent an important step towards full and dexterous control of neural prosthetic devices.",
+  "authors": [
+    "Irwin Z T",
+    "Schroeder K E",
+    "Vu P P",
+    "Bullard A J",
+    "Tat D M",
+    "Nu C S",
+    "Vaskov A",
+    "Nason S R",
+    "Thompson D E",
+    "Bentley J N",
+    "Patil P G",
+    "Chestek C A"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2017",
+  "doi": "10.1088/1741-2552/aa80bd",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Fingers",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Motor Skills",
+    "Movement",
+    "Photic Stimulation"
+  ]
+}

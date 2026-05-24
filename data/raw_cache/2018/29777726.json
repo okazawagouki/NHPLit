@@ -1,0 +1,30 @@
+{
+  "pmid": "29777726",
+  "title": "A novel approach to probabilistic characterisation of neural firing patterns.",
+  "abstract": "BACKGROUND: The advances in extracellular neural recording techniques result in big data volumes that necessitate fast, reliable, and automatic identification of statistically similar units. This study proposes a single framework yielding a compact set of probabilistic descriptors that characterise the firing patterns of a single unit. NEW METHOD: Probabilistic features are estimated from an inter-spike-interval time series, without assumptions about the firing distribution or the stationarity. The first level of proposed firing patterns decomposition divides the inter-spike intervals into bursting, moderate and idle firing modes, yielding a coarse feature set. The second level identifies the successive bursting spikes, or the spiking acceleration/deceleration in the moderate firing mode, yielding a refined feature set. The features are estimated from simulated data and from experimental recordings from the lateral prefrontal cortex in awake, behaving rhesus monkeys. RESULTS: An efficient and stable partitioning of neural units is provided by the ensemble evidence accumulation clustering. The possibility of selecting the number of clusters and choosing among coarse and refined feature sets provides an opportunity to explore and compare different data partitions. CONCLUSIONS: The estimation of features, if applied to a single unit, can serve as a tool for the firing analysis, observing either overall spiking activity or the periods of interest in trial-to-trial recordings. If applied to massively parallel recordings, it additionally serves as an input to the clustering procedure, with the potential to compare the functional properties of various brain structures and to link the types of neural cells to the particular behavioural states.",
+  "authors": [
+    "Mijatović Gorana",
+    "Lončar-Turukalo Tatjana",
+    "Procyk Emmanuel",
+    "Bajić Dragana"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2018",
+  "doi": "10.1016/j.jneumeth.2018.05.005",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Cluster Analysis",
+    "Computer Simulation",
+    "Electrophysiology",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Probability",
+    "Reproducibility of Results",
+    "Signal Processing, Computer-Assisted",
+    "Time Factors"
+  ]
+}

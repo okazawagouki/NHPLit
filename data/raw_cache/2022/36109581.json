@@ -1,0 +1,24 @@
+{
+  "pmid": "36109581",
+  "title": "A robust spike sorting method based on the joint optimization of linear discrimination analysis and density peaks.",
+  "abstract": "Spike sorting is a fundamental step in extracting single-unit activity from neural ensemble recordings, which play an important role in basic neuroscience and neurotechnologies. A few algorithms have been applied in spike sorting. However, when noise level or waveform similarity becomes relatively high, their robustness still faces a big challenge. In this study, we propose a spike sorting method combining Linear Discriminant Analysis (LDA) and Density Peaks (DP) for feature extraction and clustering. Relying on the joint optimization of LDA and DP: DP provides more accurate classification labels for LDA, LDA extracts more discriminative features to cluster for DP, and the algorithm achieves high performance after iteration. We first compared the proposed LDA-DP algorithm with several algorithms on one publicly available simulated dataset and one real rodent neural dataset with different noise levels. We further demonstrated the performance of the LDA-DP method on a real neural dataset from non-human primates with more complex distribution characteristics. The results show that our LDA-DP algorithm extracts a more discriminative feature subspace and achieves better cluster quality than previously established methods in both simulated and real data. Especially in the neural recordings with high noise levels or waveform similarity, the LDA-DP still yields a robust performance with automatic detection of the number of clusters. The proposed LDA-DP algorithm achieved high sorting accuracy and robustness to noise, which offers a promising tool for spike sorting and facilitates the following analysis of neural population activity.",
+  "authors": [
+    "Zhang Yiwei",
+    "Han Jiawei",
+    "Liu Tengjun",
+    "Yang Zelan",
+    "Chen Weidong",
+    "Zhang Shaomin"
+  ],
+  "journal": "Scientific reports",
+  "year": "2022",
+  "doi": "10.1038/s41598-022-19771-8",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Cluster Analysis",
+    "Discriminant Analysis",
+    "Neurons"
+  ]
+}

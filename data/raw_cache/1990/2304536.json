@@ -1,0 +1,23 @@
+{
+  "pmid": "2304536",
+  "title": "A dimension reduction framework for understanding cortical maps.",
+  "abstract": "We argue that cortical maps, such as those for ocular dominance, orientation and retinotopic position in primary visual cortex, can be understood in terms of dimension-reducing mappings from many-dimensional parameter spaces to the surface of the cortex. The goal of these mappings is to preserve as far as possible neighbourhood relations in parameter space so that local computations in parameter space can be performed locally in the cortex. We have found that, in a simple case, certain self-organizing models generate maps that are near-optimally local, in the sense that they come close to minimizing the neuronal wiring required for local operations. When these self-organizing models are applied to the task of simultaneously mapping retinotopic position and orientation, they produce maps with orientation vortices resembling those produced in primary visual cortex. This approach also yields a new prediction, which is that the mapping of position in visual cortex will be distorted in the orientation fracture zones.",
+  "authors": [
+    "Durbin R",
+    "Mitchison G"
+  ],
+  "journal": "Nature",
+  "year": "1990",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Dominance, Cerebral",
+    "Macaca",
+    "Models, Neurological",
+    "Models, Psychological",
+    "Neurons",
+    "Vision, Ocular",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

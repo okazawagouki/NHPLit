@@ -1,0 +1,26 @@
+{
+  "pmid": "16338996",
+  "title": "Spatial integration of optic flow signals in fly motion-sensitive neurons.",
+  "abstract": "Neurons in the fly lobula plate integrate motion signals over large regions of visual space in a directionally selective manner. This study is concerned with the details of this integration process. We used a stimulus consisting of a 4 x 4 lattice of locally moving Gabor patches, in which each patch could take any direction independently. We also presented only one patch at a time or two patches at a time. Across all possible directions of motion, the firing rate response r1+2 to two simultaneously presented patches was well described by r1+2(d1, d2) = G x [r1(d1) + r2(d2)] + S, where r1 and r2 are responses to individual patches moving in directions d1 and d2, and G approximately 0.81, S approximately -23. However, this quasi-linear scaling expression failed to account for three main empirical observations: 1) the directional-tuning curve for one patch is broader in the presence of another patch moving in the neuron's preferred direction (PD); 2) the vertical compression of this curve is greater when the second patch moves in the antipreferred direction (AD) as opposed to PD; 3) the ability of the neuronal response to discriminate the direction of a patch is greater when the other patch is moving in the PD as opposed to AD, where this ability is assessed using both information theory and a standard discriminability index. To account for these departures from the simple scaling model, we used a normalization model very similar to one used for macaque area MT/V5. This model can qualitatively explain all three departures from the scaling equation described above, suggesting that a gain-control normalization network may be at work within the fly lobula plate.",
+  "authors": [
+    "Neri Peter"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Diptera",
+    "Evoked Potentials, Visual",
+    "Female",
+    "Models, Neurological",
+    "Motion Perception",
+    "Nerve Net",
+    "Neurons, Afferent",
+    "Photic Stimulation",
+    "Space Perception",
+    "Visual Pathways"
+  ]
+}

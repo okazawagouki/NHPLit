@@ -1,0 +1,26 @@
+{
+  "pmid": "37714969",
+  "title": "MF-Net: Automated Muscle Fiber Segmentation From Immunofluorescence Images Using a Local-Global Feature Fusion Network.",
+  "abstract": "Histological assessment of skeletal muscle slices is very important for the accurate evaluation of weightless muscle atrophy. The accurate identification and segmentation of muscle fiber boundary is an important prerequisite for the evaluation of skeletal muscle fiber atrophy. However, there are many challenges to segment muscle fiber from immunofluorescence images, including the presence of low contrast in fiber boundaries in immunofluorescence images and the influence of background noise. Due to the limitations of traditional convolutional neural network-based segmentation methods in capturing global information, they cannot achieve ideal segmentation results. In this paper, we propose a muscle fiber segmentation network (MF-Net) method for effective segmentation of macaque muscle fibers in immunofluorescence images. The network adopts a dual encoder branch composed of convolutional neural networks and transformer to effectively capture local and global feature information in the immunofluorescence image, highlight foreground features, and suppress irrelevant background noise. In addition, a low-level feature decoder module is proposed to capture more global context information by combining different image scales to supplement the missing detail pixels. In this study, a comprehensive experiment was carried out on the immunofluorescence datasets of six macaques' weightlessness models and compared with the state-of-the-art deep learning model. It is proved from five segmentation indices that the proposed automatic segmentation method can be accurately and effectively applied to muscle fiber segmentation in shank immunofluorescence images.",
+  "authors": [
+    "Du Getao",
+    "Zhang Peng",
+    "Guo Jianzhong",
+    "Pang Xiangsheng",
+    "Kan Guanghan",
+    "Zeng Bin",
+    "Chen Xiaoping",
+    "Liang Jimin",
+    "Zhan Yonghua"
+  ],
+  "journal": "Journal of digital imaging",
+  "year": "2023",
+  "doi": "10.1007/s10278-023-00890-1",
+  "mesh": [
+    "Muscle Fibers, Skeletal",
+    "Fluorescent Antibody Technique",
+    "Muscle, Skeletal",
+    "Neural Networks, Computer",
+    "Image Processing, Computer-Assisted"
+  ]
+}

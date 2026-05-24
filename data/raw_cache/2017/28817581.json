@@ -1,0 +1,29 @@
+{
+  "pmid": "28817581",
+  "title": "Population activity structure of excitatory and inhibitory neurons.",
+  "abstract": "Many studies use population analysis approaches, such as dimensionality reduction, to characterize the activity of large groups of neurons. To date, these methods have treated each neuron equally, without taking into account whether neurons are excitatory or inhibitory. We studied population activity structure as a function of neuron type by applying factor analysis to spontaneous activity from spiking networks with balanced excitation and inhibition. Throughout the study, we characterized population activity structure by measuring its dimensionality and the percentage of overall activity variance that is shared among neurons. First, by sampling only excitatory or only inhibitory neurons, we found that the activity structures of these two populations in balanced networks are measurably different. We also found that the population activity structure is dependent on the ratio of excitatory to inhibitory neurons sampled. Finally we classified neurons from extracellular recordings in the primary visual cortex of anesthetized macaques as putative excitatory or inhibitory using waveform classification, and found similarities with the neuron type-specific population activity structure of a balanced network with excitatory clustering. These results imply that knowledge of neuron type is important, and allows for stronger statistical tests, when interpreting population activity structure.",
+  "authors": [
+    "Bittner Sean R",
+    "Williamson Ryan C",
+    "Snyder Adam C",
+    "Litwin-Kumar Ashok",
+    "Doiron Brent",
+    "Chase Steven M",
+    "Smith Matthew A",
+    "Yu Byron M"
+  ],
+  "journal": "PloS one",
+  "year": "2017",
+  "doi": "10.1371/journal.pone.0181773",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cluster Analysis",
+    "Excitatory Postsynaptic Potentials",
+    "Inhibitory Postsynaptic Potentials",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "36379711",
+  "title": "Decoding the Time Course of Spatial Information from Spiking and Local Field Potential Activities in the Superior Colliculus.",
+  "abstract": "Place code representation is ubiquitous in circuits that encode spatial parameters. For visually guided eye movements, neurons in many brain regions emit spikes when a stimulus is presented in their receptive fields and/or when a movement is directed into their movement fields. Crucially, individual neurons respond for a broad range of directions or eccentricities away from the optimal vector, making it difficult to decode the stimulus location or the saccade vector from each cell's activity. We investigated whether it is possible to decode the spatial parameter with a population-level analysis, even when the optimal vectors are similar across neurons. Spiking activity and local field potentials (LFPs) in the superior colliculus (SC) were recorded with a laminar probe as monkeys performed a delayed saccade task to one of eight targets radially equidistant in direction. A classifier was applied offline to decode the spatial configuration as the trial progresses from sensation to action. For spiking activity, decoding performance across all eight directions was highest during the visual and motor epochs and lower but well above chance during the delay period. Classification performance followed a similar pattern for LFP activity too, except the performance during the delay period was limited mostly to the preferred direction. Increasing the number of neurons in the population consistently increased classifier performance for both modalities. Overall, this study demonstrates the power of population activity for decoding spatial information not possible from individual neurons.",
+  "authors": [
+    "Heusser Michelle R",
+    "Bourrelly Clara",
+    "Gandhi Neeraj J"
+  ],
+  "journal": "eNeuro",
+  "year": "2022",
+  "doi": "10.1523/ENEURO.0347-22.2022",
+  "mesh": [
+    "Animals",
+    "Superior Colliculi",
+    "Macaca mulatta",
+    "Saccades",
+    "Eye Movements",
+    "Neurons"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "30211694",
+  "title": "A neural mass model to predict electrical stimulation evoked responses in human and non-human primate brain.",
+  "abstract": "OBJECTIVE: Deep brain stimulation (DBS) is a valuable tool for ameliorating drug resistant pathologies such as movement disorders and epilepsy. DBS is also being considered for complex neuro-psychiatric disorders, which are characterized by high variability in symptoms and slow responses that hinder DBS setting optimization. The objective of this work was to develop an in silico platform to examine the effects of electrical stimulation in regions neighboring a stimulated brain region. APPROACH: We used the Jansen-Rit neural mass model of single and coupled nodes to simulate the response to a train of electrical current pulses at different frequencies (10-160 Hz) of the local field potential recorded in the amygdala and cortical structures in human subjects and a non-human primate. RESULTS: We found that using a single node model, the evoked responses could be accurately modeled following a narrow range of stimulation frequencies. Including a second coupled node increased the range of stimulation frequencies whose evoked responses could be efficiently modeled. Furthermore, in a chronic recording from a non-human primate, features of the in vivo evoked response remained consistent for several weeks, suggesting that model re-parameterization for chronic stimulation protocols would be infrequent. SIGNIFICANCE: Using a model of neural population activity, we reproduced the evoked response to cortical and subcortical stimulation in human and non-human primate. This modeling framework provides an environment to explore, safely and rapidly, a wide range of stimulation settings not possible in human brain stimulation studies. The model can be trained on a limited dataset of stimulation responses to develop an optimal stimulation strategy for an individual patient.",
+  "authors": [
+    "Basu Ishita",
+    "Crocker Britni",
+    "Farnes Kara",
+    "Robertson Madeline M",
+    "Paulk Angelique C",
+    "Vallejo Deborah I",
+    "Dougherty Darin D",
+    "Cash Sydney S",
+    "Eskandar Emad N",
+    "Kramer Mark M",
+    "Widge Alik S"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2018",
+  "doi": "10.1088/1741-2552/aae136",
+  "mesh": [
+    "Algorithms",
+    "Amygdala",
+    "Animals",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Deep Brain Stimulation",
+    "Evoked Potentials",
+    "Humans",
+    "Male",
+    "Models, Neurological",
+    "Primates",
+    "Reproducibility of Results"
+  ]
+}

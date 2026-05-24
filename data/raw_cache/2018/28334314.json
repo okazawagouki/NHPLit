@@ -1,0 +1,31 @@
+{
+  "pmid": "28334314",
+  "title": "A Template and Probabilistic Atlas of the Human Sensorimotor Tracts using Diffusion MRI.",
+  "abstract": "The purpose of this study was to develop a high-resolution sensorimotor area tract template (SMATT) which segments corticofugal tracts based on 6 cortical regions in primary motor cortex, dorsal premotor cortex, ventral premotor cortex, supplementary motor area (SMA), pre-supplementary motor area (preSMA), and primary somatosensory cortex using diffusion tensor imaging. Individual probabilistic tractography analyses were conducted in 100 subjects using the highest resolution data currently available. Tractography results were refined using a novel algorithm to objectively determine slice level thresholds that best minimized overlap between tracts while preserving tract volume. Consistent with tracing studies in monkey and rodent, our observations show that cortical topography is generally preserved through the internal capsule, with the preSMA tract remaining most anterior and the primary somatosensory tract remaining most posterior. We combine our results into a freely available white matter template named the SMATT. We also provide a probabilistic SMATT that quantifies the extent of overlap between tracts. Finally, we assess how the SMATT operates at the individual subject level in another independent data set, and in an individual after stroke. The SMATT and probabilistic SMATT provide new tools that segment and label sensorimotor tracts at a spatial resolution not previously available.",
+  "authors": [
+    "Archer Derek B",
+    "Vaillancourt David E",
+    "Coombes Stephen A"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2018",
+  "doi": "10.1093/cercor/bhx066",
+  "mesh": [
+    "Adult",
+    "Aged",
+    "Algorithms",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Connectome",
+    "Datasets as Topic",
+    "Diffusion Magnetic Resonance Imaging",
+    "Female",
+    "Humans",
+    "Male",
+    "Neural Pathways",
+    "Probability",
+    "Stroke",
+    "White Matter",
+    "Young Adult"
+  ]
+}

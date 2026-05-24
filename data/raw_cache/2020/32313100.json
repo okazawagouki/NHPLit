@@ -1,0 +1,31 @@
+{
+  "pmid": "32313100",
+  "title": "Stabilization of a brain-computer interface via the alignment of low-dimensional spaces of neural activity.",
+  "abstract": "The instability of neural recordings can render clinical brain-computer interfaces (BCIs) uncontrollable. Here, we show that the alignment of low-dimensional neural manifolds (low-dimensional spaces that describe specific correlation patterns between neurons) can be used to stabilize neural activity, thereby maintaining BCI performance in the presence of recording instabilities. We evaluated the stabilizer with non-human primates during online cursor control via intracortical BCIs in the presence of severe and abrupt recording instabilities. The stabilized BCIs recovered proficient control under different instability conditions and across multiple days. The stabilizer does not require knowledge of user intent and can outperform supervised recalibration. It stabilized BCIs even when neural activity contained little information about the direction of cursor movement. The stabilizer may be applicable to other neural interfaces and may improve the clinical viability of BCIs.",
+  "authors": [
+    "Degenhart Alan D",
+    "Bishop William E",
+    "Oby Emily R",
+    "Tyler-Kabara Elizabeth C",
+    "Chase Steven M",
+    "Batista Aaron P",
+    "Yu Byron M"
+  ],
+  "journal": "Nature biomedical engineering",
+  "year": "2020",
+  "doi": "10.1038/s41551-020-0542-9",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Brain-Computer Interfaces",
+    "Electrodes",
+    "Electroencephalography",
+    "Electrophysiology",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "User-Computer Interface"
+  ]
+}

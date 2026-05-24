@@ -1,0 +1,25 @@
+{
+  "pmid": "36206725",
+  "title": "Neural correlates of learning in a linear discriminant analysis brain-computer interface paradigm.",
+  "abstract": "<i>Objective.</i>With practice, the control of brain-computer interfaces (BCI) would improve over time; the neural correlate for such learning had not been well studied. We demonstrated here that monkeys controlling a motor BCI using a linear discriminant analysis (LDA) decoder could learn to make the firing patterns of the recorded neurons more distinct over a short period of time for different output classes to improve task performance.<i>Approach.</i>Using an LDA decoder, we studied two Macaque monkeys implanted with microelectrode arrays as they controlled the movement of a mobile robotic platform. The LDA decoder mapped high-dimensional neuronal firing patterns linearly onto a lower-dimensional linear discriminant (LD) space, and we studied the changes in the spatial coordinates of these neural signals in the LD space over time, and their correspondence to trial performance. Direction selectivity was quantified with permutation feature importance (FI).<i>Main results.</i>We observed that, within individual sessions, there was a tendency for the points in the LD space encoding different directions to diverge, leading to fewer misclassification errors, and, hence, improvement in task accuracy. Accuracy was correlated with the presence of channels with strong directional preference (i.e. high FI), as well as a varied population code (i.e. high variance in FI distribution).<i>Significance.</i>We emphasized the importance of studying the short-term/intra-sessional variations in neural representations during the use of BCI. Over the course of individual sessions, both monkeys could modulate their neural activities to create increasingly distinct neural representations.",
+  "authors": [
+    "Lo Yu Tung",
+    "Premchand Brian",
+    "Libedinsky Camilo",
+    "So Rosa Qi Yue"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2022",
+  "doi": "10.1088/1741-2552/ac985f",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Discriminant Analysis",
+    "Movement",
+    "Learning",
+    "Neurons",
+    "Haplorhini",
+    "Macaca",
+    "Electroencephalography"
+  ]
+}

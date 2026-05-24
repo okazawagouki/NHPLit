@@ -1,0 +1,28 @@
+{
+  "pmid": "23666130",
+  "title": "An implantable neural sensing microsystem with fiber-optic data transmission and power delivery.",
+  "abstract": "We have developed a prototype cortical neural sensing microsystem for brain implantable neuroengineering applications. Its key feature is that both the transmission of broadband, multichannel neural data and power required for the embedded microelectronics are provided by optical fiber access. The fiber-optic system is aimed at enabling neural recording from rodents and primates by converting cortical signals to a digital stream of infrared light pulses. In the full microsystem whose performance is summarized in this paper, an analog-to-digital converter and a low power digital controller IC have been integrated with a low threshold, semiconductor laser to extract the digitized neural signals optically from the implantable unit. The microsystem also acquires electrical power and synchronization clocks via optical fibers from an external laser by using a highly efficient photovoltaic cell on board. The implantable unit employs a flexible polymer substrate to integrate analog and digital microelectronics and on-chip optoelectronic components, while adapting to the anatomical and physiological constraints of the environment. A low power analog CMOS chip, which includes preamplifier and multiplexing circuitry, is directly flip-chip bonded to the microelectrode array to form the cortical neurosensor device.",
+  "authors": [
+    "Park Sunmee",
+    "Borton David A",
+    "Kang Mingyu",
+    "Nurmikko Arto V",
+    "Song Yoon-Kyu"
+  ],
+  "journal": "Sensors (Basel, Switzerland)",
+  "year": "2013",
+  "doi": "10.3390/s130506014",
+  "mesh": [
+    "Animals",
+    "Electric Power Supplies",
+    "Electrodes, Implanted",
+    "Fiber Optic Technology",
+    "Microelectrodes",
+    "Neural Prostheses",
+    "Prosthesis Design",
+    "Rats",
+    "Signal Processing, Computer-Assisted",
+    "Somatosensory Cortex",
+    "Telemetry"
+  ]
+}

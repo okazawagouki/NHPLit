@@ -1,0 +1,24 @@
+{
+  "pmid": "22993262",
+  "title": "Potential confounds in estimating trial-to-trial correlations between neuronal response and behavior using choice probabilities.",
+  "abstract": "Correlations between trial-to-trial fluctuations in the responses of individual sensory neurons and perceptual reports, commonly quantified with choice probability (CP), have been widely used as an important tool for assessing the contributions of neurons to behavior. These correlations are usually weak and often require a large number of trials for a reliable estimate. Therefore, working with measures such as CP warrants care in data analysis as well as rigorous controls during data collection. Here we identify potential confounds that can arise in data analysis and lead to biased estimates of CP, and suggest methods to avoid the bias. In particular, we show that the common practice of combining neuronal responses across different stimulus conditions with z-score normalization can result in an underestimation of CP when the ratio of the numbers of trials for the two behavioral response categories differs across the stimulus conditions. We also discuss the effects of using variable time intervals for quantifying neuronal response on CP measurements. Finally, we demonstrate that serious artifacts can arise in reaction time tasks that use varying measurement intervals if the mean neuronal response and mean behavioral performance vary over time within trials. To emphasize the importance of addressing these concerns in neurophysiological data, we present a set of data collected from V1 cells in macaque monkeys while the animals performed a detection task.",
+  "authors": [
+    "Kang Incheol",
+    "Maunsell John H R"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2012",
+  "doi": "10.1152/jn.00471.2012",
+  "mesh": [
+    "Animals",
+    "Choice Behavior",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Photic Stimulation",
+    "Probability",
+    "Psychomotor Performance",
+    "Random Allocation",
+    "Reaction Time"
+  ]
+}

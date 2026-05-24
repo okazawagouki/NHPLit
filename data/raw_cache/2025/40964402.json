@@ -1,0 +1,14 @@
+{
+  "pmid": "40964402",
+  "title": "Mechanisms of Neural Representation and Segregation of Multiple Spatially Separated Visual Stimuli.",
+  "abstract": "Segregating objects from one another and the background is essential for scene understanding, object recognition, and visually guided action. In natural scenes, it is common to encounter spatially separated stimuli, such as distinct figure-ground regions, adjacent objects, and partial occlusions. Neurons in mid- and high-level visual cortex have large receptive fields (RFs) that often encompass multiple, spatially separated stimuli. It is unclear how neurons represent and segregate multiple stimuli within their RFs, and the role of spatial cues for such representation. To investigate these questions, we recorded neuronal responses in the middle temporal (MT) cortex of monkeys to spatially separated stimuli that moved simultaneously in two directions. We found that, across motion directions, response tuning to multiple stimuli was systematically biased toward the stimulus located at the more-preferred RF subregion of the neuron. The sign and magnitude of this spatial-location bias were correlated with the spatial preference of the neuron for single stimuli presented in isolation. We demonstrated that neuronal responses to multiple stimuli can be captured by an extended normalization model, which is a sum of the responses elicited by individual stimuli weighted by the spatial preference of the neuron. We also proposed a circuit implementation for the model. Our results indicate that visual neurons leverage spatial selectivity within their RFs to represent multiple spatially separated stimuli. The spatial-location bias in neuronal responses enables individual components of multiple stimuli to be represented by a population of neurons with different spatial preferences, providing a neural substrate for segregating multiple stimuli.",
+  "authors": [
+    "Wiesner Steven",
+    "Ghimire Bikalpa",
+    "Huang Xin"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.09.11.675659",
+  "mesh": []
+}

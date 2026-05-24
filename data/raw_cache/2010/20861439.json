@@ -1,0 +1,24 @@
+{
+  "pmid": "20861439",
+  "title": "Visual stimulation decorrelates neuronal activity.",
+  "abstract": "The accuracy of neuronal encoding depends on the response statistics of individual neurons and the correlation of the activity between different neurons. Here, the dynamics of the neuronal response statistics in the anterior superior temporal sulcus of the macaque monkey is described. A transient reduction in the normalized trial-by-trial variability and decorrelation of the responses with both the activity of other neurons and previous activity of the same neuron are found at response onset. The variability of neuronal activity and its correlation structure return to the levels observed in the resting state 50-100 ms after response onset, except for marked increases in the signal correlation between neurons. The transient changes in the response statistics are seen even if there is little or no stimulus-elicited activity, indicating the effect is due to network properties rather than to activity changes per se. Modeling also indicates that the observed variations in response variability and correlation structure of the neuronal activity over time cannot be attributed to changes in firing rate. However, a reset of the underlying spike-generating process, possibly due to the driving input changing from recurrent to feedforward inputs, captures most of the observed changes. The nonstationarity indicated by the changes in correlation structure around response onset increases coding efficiency: compared with the mutual information calculated without regard to the transitory changes, the decorrelation increases the information conveyed by the initial response of modeled neuronal pairs by ≤ 4% and suggests that an integration time of as little as 50 ms is sufficient to extract 95% the available information during the initial response period.",
+  "authors": [
+    "Oram Mike W"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2011",
+  "doi": "10.1152/jn.00711.2009",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain Mapping",
+    "Evoked Potentials",
+    "Macaca mulatta",
+    "Nerve Net",
+    "Photic Stimulation",
+    "Sensory Receptor Cells",
+    "Statistics as Topic",
+    "Temporal Lobe",
+    "Visual Perception"
+  ]
+}

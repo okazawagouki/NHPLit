@@ -1,0 +1,30 @@
+{
+  "pmid": "23274645",
+  "title": "Simultaneous reconstruction of continuous hand movements from primary motor and posterior parietal cortex.",
+  "abstract": "Primary motor cortex (MI) and parietal area PE both participate in cortical control of reaching actions, but few studies have been able to directly compare the form of kinematic encoding in the two areas simultaneously during hand tracking movements. To directly compare kinematic coding properties in these two areas under identical behavioral conditions, we recorded simultaneously from two chronically implanted multielectrode arrays in areas MI and PE (or areas 2/5) during performance of a continuous manual tracking task. Monkeys manually pursued a continuously moving target that followed a series of straight-line movement segments, arranged in a sequence where the direction (but not length) of the upcoming segment varied unpredictably as each new segment appeared. Based on recordings from populations of MI (31-143 units) and PE (22-87 units), we compared hand position and velocity reconstructions based on linear filters. We successfully reconstructed hand position and velocity from area PE (mean r (2) = 0.751 for position reconstruction, r (2) = 0.614 for velocity), demonstrating trajectory reconstruction from each area. Combing these populations provided no reconstruction improvements, suggesting that kinematic representations in MI and PE encode overlapping hand movement information, rather than complementary or unique representations. These overlapping representations may reflect the areas' common engagement in a sensorimotor feedback loop for error signals and movement goals, as required by a task with continuous, time-evolving demands and feedback. The similarity of information in both areas suggests that either area might provide a suitable target to obtain control signals for brain computer interface applications.",
+  "authors": [
+    "Philip Benjamin A",
+    "Rao Naveen",
+    "Donoghue John P"
+  ],
+  "journal": "Experimental brain research",
+  "year": "2013",
+  "doi": "10.1007/s00221-012-3377-0",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Brain Mapping",
+    "Feedback, Physiological",
+    "Hand",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Parietal Lobe",
+    "Psychomotor Performance",
+    "Statistics as Topic",
+    "Time Factors"
+  ]
+}

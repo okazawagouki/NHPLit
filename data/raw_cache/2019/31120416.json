@@ -1,0 +1,30 @@
+{
+  "pmid": "31120416",
+  "title": "Complementary congruent and opposite neurons achieve concurrent multisensory integration and segregation.",
+  "abstract": "Our brain perceives the world by exploiting multisensory cues to extract information about various aspects of external stimuli. The sensory cues from the same stimulus should be integrated to improve perception, and otherwise segregated to distinguish different stimuli. In reality, however, the brain faces the challenge of recognizing stimuli without knowing in advance the sources of sensory cues. To address this challenge, we propose that the brain conducts integration and segregation concurrently with complementary neurons. Studying the inference of heading-direction via visual and vestibular cues, we develop a network model with two reciprocally connected modules modeling interacting visual-vestibular areas. In each module, there are two groups of neurons whose tunings under each sensory cue are either congruent or opposite. We show that congruent neurons implement integration, while opposite neurons compute cue disparity information for segregation, and the interplay between two groups of neurons achieves efficient multisensory information processing.",
+  "authors": [
+    "Zhang Wen-Hao",
+    "Wang He",
+    "Chen Aihua",
+    "Gu Yong",
+    "Lee Tai Sing",
+    "Wong Ky Michael",
+    "Wu Si"
+  ],
+  "journal": "eLife",
+  "year": "2019",
+  "doi": "10.7554/eLife.43753",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Head Movements",
+    "Humans",
+    "Macaca mulatta",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Temporal Lobe",
+    "Vestibule, Labyrinth",
+    "Visual Perception"
+  ]
+}

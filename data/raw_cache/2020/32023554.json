@@ -1,0 +1,23 @@
+{
+  "pmid": "32023554",
+  "title": "Spatial resolution of local field potential signals in macaque V4.",
+  "abstract": "OBJECTIVE: An important challenge for the development of cortical visual prostheses is to generate spatially localized percepts of light, using artificial stimulation. Such percepts are called phosphenes, and the goal of prosthetic applications is to generate a pattern of phosphenes that matches the structure of the retinal image. A preliminary step in this process is to understand how the spatial positions of phosphene-like visual stimuli are encoded in the distributed activity of cortical neurons. The spatial resolution with which the distributed responses discriminate positions puts a limit on the capability of visual prosthesis devices to induce phosphenes at multiple positions. While most previous prosthetic devices have targeted the primary visual cortex, the extrastriate cortex has the advantage of covering a large part of the visual field with a smaller amount of cortical tissue, providing the possibility of a more compact implant. Here, we studied how well ensembles of Local Field Potentials (LFPs) and Multiunit activity (MUA) responses from extrastriate cortical visual area V4 of a behaving macaque monkey can discriminate between two-dimensional spatial positions. APPROACH: We used support vector machines (SVM) to determine the capabilities of LFPs and MUA to discriminate responses to phosphene-like stimuli (probes) at different spatial separations. We proposed a selection strategy based on the combined responses of multiple electrodes and used the linear learning weights to find the minimum number of electrodes for fine and coarse discriminations. We also measured the contribution of correlated trial-to-trial variability in the responses to the discrimination performance for MUA and LFP. MAIN RESULTS: We found that despite the large receptive field sizes in V4, the combined responses from multiple sites, whether MUA or LFP, are capable of fine and coarse discrimination of positions. Our electrode selection procedure significantly increased discrimination performance while reducing the required number of electrodes. Analysis of noise correlations in MUA and LFP responses showed that noise correlations in LFPs carry more information about spatial positions. SIGNIFICANCE: This study determined the coding strategy for fine discrimination, suggesting that spatial positions could be well localized with patterned stimulation in extrastriate area V4. It also provides a novel approach to build a compact prosthesis with relatively few electrodes, which has the potential advantage of reducing tissue damage in real applications.",
+  "authors": [
+    "Foroushani Armin Najarpour",
+    "Neupane Sujaya",
+    "De Heredia Pastor Pablo",
+    "Pack Christopher C",
+    "Sawan Mohamad"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2020",
+  "doi": "10.1088/1741-2552/ab7321",
+  "mesh": [
+    "Animals",
+    "Evoked Potentials, Visual",
+    "Macaca",
+    "Phosphenes",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

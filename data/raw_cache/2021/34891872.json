@@ -1,0 +1,24 @@
+{
+  "pmid": "34891872",
+  "title": "Evaluation of Deep Learning Topcoders Method for Neuron Individualization in Histological Macaque Brain Section<sup></sup>.",
+  "abstract": "Cell individualization has a vital role in digital pathology image analysis. Deep Learning is considered as an efficient tool for instance segmentation tasks, including cell individualization. However, the precision of the Deep Learning model relies on massive unbiased dataset and manual pixel-level annotations, which is labor intensive. Moreover, most applications of Deep Learning have been developed for processing oncological data. To overcome these challenges, i) we established a pipeline to synthesize pixel-level labels with only point annotations provided; ii) we tested an ensemble Deep Learning algorithm to perform cell individualization on neurological data. Results suggest that the proposed method successfully segments neuronal cells in both object-level and pixel-level, with an average detection accuracy of 0.93.",
+  "authors": [
+    "Wu Huaqian",
+    "Souedet Nicolas",
+    "You Zhenzhen",
+    "Jan Caroline",
+    "Clouchoux Cedric",
+    "Delzescaux Thierry"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2021",
+  "doi": "10.1109/EMBC46164.2021.9630914",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Deep Learning",
+    "Image Processing, Computer-Assisted",
+    "Macaca",
+    "Neurons"
+  ]
+}

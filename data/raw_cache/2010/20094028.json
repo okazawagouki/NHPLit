@@ -1,0 +1,22 @@
+{
+  "pmid": "20094028",
+  "title": "Scalable fluidic injector arrays for viral targeting of intact 3-D brain circuits.",
+  "abstract": "Our understanding of neural circuits--how they mediate the computations that subserve sensation, thought, emotion, and action, and how they are corrupted in neurological and psychiatric disorders--would be greatly facilitated by a technology for rapidly targeting genes to complex 3-dimensional neural circuits, enabling fast creation of \"circuit-level transgenics.\" We have recently developed methods in which viruses encoding for light-sensitive proteins can sensitize specific cell types to millisecond-timescale activation and silencing in the intact brain. We here present the design and implementation of an injector array capable of delivering viruses (or other fluids) to dozens of defined points within the 3-dimensional structure of the brain (Figure. 1A, 1B). The injector array comprises one or more displacement pumps that each drive a set of syringes, each of which feeds into a polyimide/fused-silica capillary via a high-pressure-tolerant connector. The capillaries are sized, and then inserted into, desired locations specified by custom-milling a stereotactic positioning board, thus allowing viruses or other reagents to be delivered to the desired set of brain regions. To use the device, the surgeon first fills the fluidic subsystem entirely with oil, backfills the capillaries with the virus, inserts the device into the brain, and infuses reagents slowly (<0.1 microliters/min). The parallel nature of the injector array facilitates rapid, accurate, and robust labeling of entire neural circuits with viral payloads such as optical sensitizers to enable light-activation and silencing of defined brain circuits. Along with other technologies, such as optical fiber arrays for light delivery to desired sets of brain regions, we hope to create a toolbox that enables the systematic probing of causal neural functions in the intact brain. This technology may not only open up such systematic approaches to circuit-focused neuroscience in mammals, and facilitate labeling of brain regions in large animals such as non-human primates, but may also open up a clinical translational path for cell-specific optical control prosthetics, whose precision may enable improved treatment of intractable brain disorders. Finally, such devices as described here may facilitate precisely-timed fluidic delivery of other payloads, such as stem cells and pharmacological agents, to 3-dimensional structures, in an easily user-customizable fashion.",
+  "authors": [
+    "Chan Stephanie",
+    "Bernstein Jacob",
+    "Boyden Edward"
+  ],
+  "journal": "Journal of visualized experiments : JoVE",
+  "year": "2010",
+  "doi": "10.3791/1489",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Injections",
+    "Mice",
+    "Neural Pathways",
+    "Neurons",
+    "Stereotaxic Techniques"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "23798408",
+  "title": "Transformation of the neural code for tactile detection from thalamus to cortex.",
+  "abstract": "To understand how sensory-driven neural activity gives rise to perception, it is essential to characterize how various relay stations in the brain encode stimulus presence. Neurons in the ventral posterior lateral (VPL) nucleus of the somatosensory thalamus and in primary somatosensory cortex (S1) respond to vibrotactile stimulation with relatively slow modulations (∼100 ms) of their firing rate. In addition, faster modulations (∼10 ms) time-locked to the stimulus waveform are observed in both areas, but their contribution to stimulus detection is unknown. Furthermore, it is unclear whether VPL and S1 neurons encode stimulus presence with similar accuracy and via the same response features. To address these questions, we recorded single neurons while trained monkeys judged the presence or absence of a vibrotactile stimulus of variable amplitude, and their activity was analyzed with a unique decoding method that is sensitive to the time scale of the firing rate fluctuations. We found that the maximum detection accuracy of single neurons is similar in VPL and S1. However, VPL relies more heavily on fast rate modulations than S1, and as a consequence, the neural code in S1 is more tolerant: its performance degrades less when the readout method or the time scale of integration is suboptimal. Therefore, S1 neurons implement a more robust code, one less sensitive to the temporal integration window used to infer stimulus presence downstream. The differences between VPL and S1 responses signaling the appearance of a stimulus suggest a transformation of the neural code from thalamus to cortex.",
+  "authors": [
+    "Vázquez Yuriria",
+    "Salinas Emilio",
+    "Romo Ranulfo"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2013",
+  "doi": "10.1073/pnas.1309728110",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Behavior, Animal",
+    "Cerebral Cortex",
+    "Evoked Potentials",
+    "Macaca mulatta",
+    "Neurons",
+    "Psychometrics",
+    "Task Performance and Analysis",
+    "Thalamus",
+    "Touch",
+    "Uncertainty"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "19716125",
+  "title": "A neural model of how the brain computes heading from optic flow in realistic scenes.",
+  "abstract": "Visually-based navigation is a key competence during spatial cognition. Animals avoid obstacles and approach goals in novel cluttered environments using optic flow to compute heading with respect to the environment. Most navigation models try either explain data, or to demonstrate navigational competence in real-world environments without regard to behavioral and neural substrates. The current article develops a model that does both. The ViSTARS neural model describes interactions among neurons in the primate magnocellular pathway, including V1, MT(+), and MSTd. Model outputs are quantitatively similar to human heading data in response to complex natural scenes. The model estimates heading to within 1.5 degrees in random dot or photo-realistically rendered scenes, and within 3 degrees in video streams from driving in real-world environments. Simulated rotations of less than 1 degrees /s do not affect heading estimates, but faster simulated rotation rates do, as in humans. The model is part of a larger navigational system that identifies and tracks objects while navigating in cluttered environments.",
+  "authors": [
+    "Browning N Andrew",
+    "Grossberg Stephen",
+    "Mingolla Ennio"
+  ],
+  "journal": "Cognitive psychology",
+  "year": "2009",
+  "doi": "10.1016/j.cogpsych.2009.07.002",
+  "mesh": [
+    "Algorithms",
+    "Cognition",
+    "Computer Simulation",
+    "Environment",
+    "Humans",
+    "Light",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Orientation",
+    "Rotation",
+    "Space Perception",
+    "Spatial Behavior",
+    "Vision, Binocular",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

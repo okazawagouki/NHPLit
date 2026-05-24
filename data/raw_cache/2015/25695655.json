@@ -1,0 +1,25 @@
+{
+  "pmid": "25695655",
+  "title": "Diverse cortical codes for scene segmentation in primate auditory cortex.",
+  "abstract": "The temporal coherence of amplitude fluctuations is a critical cue for segmentation of complex auditory scenes. The auditory system must accurately demarcate the onsets and offsets of acoustic signals. We explored how and how well the timing of onsets and offsets of gated tones are encoded by auditory cortical neurons in awake rhesus macaques. Temporal features of this representation were isolated by presenting otherwise identical pure tones of differing durations. Cortical response patterns were diverse, including selective encoding of onset and offset transients, tonic firing, and sustained suppression. Spike train classification methods revealed that many neurons robustly encoded tone duration despite substantial diversity in the encoding process. Excellent discrimination performance was achieved by neurons whose responses were primarily phasic at tone offset and by those that responded robustly while the tone persisted. Although diverse cortical response patterns converged on effective duration discrimination, this diversity significantly constrained the utility of decoding models referenced to a spiking pattern averaged across all responses or averaged within the same response category. Using maximum likelihood-based decoding models, we demonstrated that the spike train recorded in a single trial could support direct estimation of stimulus onset and offset. Comparisons between different decoding models established the substantial contribution of bursts of activity at sound onset and offset to demarcating the temporal boundaries of gated tones. Our results indicate that relatively few neurons suffice to provide temporally precise estimates of such auditory \"edges,\" particularly for models that assume and exploit the heterogeneity of neural responses in awake cortex.",
+  "authors": [
+    "Malone Brian J",
+    "Scott Brian H",
+    "Semple Malcolm N"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2015",
+  "doi": "10.1152/jn.01054.2014",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Auditory Cortex",
+    "Auditory Perception",
+    "Cues",
+    "Macaca mulatta",
+    "Male",
+    "Nerve Net",
+    "Neurons"
+  ]
+}

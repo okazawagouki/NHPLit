@@ -1,0 +1,27 @@
+{
+  "pmid": "12181587",
+  "title": "Schema design and implementation of the grasp-related mirror neuron system.",
+  "abstract": "Mirror neurons within a monkey's premotor area F5 fire not only when the monkey performs a certain class of actions but also when the monkey observes another monkey (or the experimenter) perform a similar action. It has thus been argued that these neurons are crucial for understanding of actions by others. We offer the hand-state hypothesis as a new explanation of the evolution of this capability: the basic functionality of the F5 mirror system is to elaborate the appropriate feedback - what we call the hand state - for opposition-space based control of manual grasping of an object. Given this functionality, the social role of the F5 mirror system in understanding the actions of others may be seen as an exaptation gained by generalizing from one's own hand to an other's hand. In other words, mirror neurons first evolved to augment the \"canonical\" F5 neurons (active during self-movement based on observation of an object) by providing visual feedback on \"hand state,\" relating the shape of the hand to the shape of the object. We then introduce the MNS1 (mirror neuron system 1) model of F5 and related brain regions. The existing Fagg-Arbib-Rizzolatti-Sakata model represents circuitry for visually guided grasping of objects, linking the anterior intraparietal area (AIP) with F5 canonical neurons. The MNS1 model extends the AIP visual pathway by also modeling pathways, directed toward F5 mirror neurons, which match arm-hand trajectories to the affordances and location of a potential target object. We present the basic schemas for the MNS1 model, then aggregate them into three \"grand schemas\" - visual analysis of hand state, reach and grasp, and the core mirror circuit - for each of which we present a useful implementation (a non-neural visual processing system, a multijoint 3-D kinematics simulator, and a learning neural network, respectively). With this implementation we show how the mirror system may learn to recognize actions already in the repertoire of the F5 canonical neurons. We show that the connectivity pattern of mirror neuron circuitry can be established through training, and that the resultant network can exhibit a range of novel, physiologically interesting behaviors during the process of action recognition. We train the system on the basis of final grasp but then observe the whole time course of mirror neuron activity, yielding predictions for neurophysiological experiments under conditions of spatial perturbation, altered kinematics, and ambiguous grasp execution which highlight the importance of the timing of mirror neuron activity.",
+  "authors": [
+    "Oztop Erhan",
+    "Arbib Michael A"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Brain Mapping",
+    "Feedback",
+    "Hand",
+    "Humans",
+    "Macaca",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neurons",
+    "Psychomotor Performance",
+    "Time Factors",
+    "Visual Perception"
+  ]
+}

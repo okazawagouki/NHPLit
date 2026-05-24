@@ -1,0 +1,24 @@
+{
+  "pmid": "33826896",
+  "title": "Slower prefrontal metastable dynamics during deliberation predicts error trials in a distance discrimination task.",
+  "abstract": "Cortical activity related to erroneous behavior in discrimination or decision-making tasks is rarely analyzed, yet it can help clarify which computations are essential during a specific task. Here, we use a hidden Markov model (HMM) to perform a trial-by-trial analysis of the ensemble activity of dorsolateral prefrontal cortex (PFdl) neurons of rhesus monkeys performing a distance discrimination task. By segmenting the neural activity into sequences of metastable states, HMM allows us to uncover modulations of the neural dynamics related to internal computations. We find that metastable dynamics slow down during error trials, while state transitions at a pivotal point during the trial take longer in difficult correct trials. Both these phenomena occur during the decision interval, with errors occurring in both easy and difficult trials. Our results provide further support for the emerging role of metastable cortical dynamics in mediating complex cognitive functions and behavior.",
+  "authors": [
+    "Benozzo Danilo",
+    "La Camera Giancarlo",
+    "Genovesio Aldo"
+  ],
+  "journal": "Cell reports",
+  "year": "2021",
+  "doi": "10.1016/j.celrep.2021.108934",
+  "mesh": [
+    "Animals",
+    "Discrimination, Psychological",
+    "Distance Perception",
+    "Macaca mulatta",
+    "Male",
+    "Markov Chains",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Task Performance and Analysis"
+  ]
+}

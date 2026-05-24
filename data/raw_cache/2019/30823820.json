@@ -1,0 +1,27 @@
+{
+  "pmid": "30823820",
+  "title": "Deep convolutional network for animal sound classification and source attribution using dual audio recordings.",
+  "abstract": "This paper introduces an end-to-end feedforward convolutional neural network that is able to reliably classify the source and type of animal calls in a noisy environment using two streams of audio data after being trained on a dataset of modest size and imperfect labels. The data consists of audio recordings from captive marmoset monkeys housed in pairs, with several other cages nearby. The network in this paper can classify both the call type and which animal made it with a single pass through a single network using raw spectrogram images as input. The network vastly increases data analysis capacity for researchers interested in studying marmoset vocalizations, and allows data collection in the home cage, in group housed animals.",
+  "authors": [
+    "Oikarinen Tuomas",
+    "Srinivasan Karthik",
+    "Meisner Olivia",
+    "Hyman Julia B",
+    "Parmar Shivangi",
+    "Fanucci-Kiss Adrian",
+    "Desimone Robert",
+    "Landman Rogier",
+    "Feng Guoping"
+  ],
+  "journal": "The Journal of the Acoustical Society of America",
+  "year": "2019",
+  "doi": "10.1121/1.5087827",
+  "mesh": [
+    "Animals",
+    "Callithrix",
+    "Neural Networks, Computer",
+    "Signal Processing, Computer-Assisted",
+    "Sound Spectrography",
+    "Vocalization, Animal"
+  ]
+}

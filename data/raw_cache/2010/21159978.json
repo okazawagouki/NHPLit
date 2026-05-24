@@ -1,0 +1,29 @@
+{
+  "pmid": "21159978",
+  "title": "Encoding of coordinated grasp trajectories in primary motor cortex.",
+  "abstract": "Few studies have investigated how the cortex encodes the preshaping of the hand as an object is grasped, an ethological movement referred to as prehension. We developed an encoding model of hand kinematics to test whether primary motor cortex (MI) neurons encode temporally extensive combinations of joint motions that characterize a prehensile movement. Two female rhesus macaque monkeys were trained to grasp 4 different objects presented by a robot while their arm was held in place by a thermoplastic brace. We used multielectrode arrays to record MI neurons and an infrared camera motion tracking system to record the 3-D positions of 14 markers placed on the monkeys' wrist and digits. A generalized linear model framework was used to predict the firing rate of each neuron in a 4 ms time interval, based on its own spiking history and the spatiotemporal kinematics of the joint angles of the hand. Our results show that the variability of the firing rate of MI neurons is better described by temporally extensive combinations of finger and wrist joint angle kinematics rather than any individual joint motion or any combination of static kinematic parameters at their optimal lag. Moreover, a higher percentage of neurons encoded joint angular velocities than joint angular positions. These results suggest that neurons encode the covarying trajectories of the hand's joints during a prehensile movement.",
+  "authors": [
+    "Saleh Maryam",
+    "Takahashi Kazutaka",
+    "Amit Yali",
+    "Hatsopoulos Nicholas G"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2010",
+  "doi": "10.1523/JNEUROSCI.2558-10.2010",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Arm",
+    "Biomechanical Phenomena",
+    "Female",
+    "Hand",
+    "Hand Strength",
+    "Joints",
+    "Linear Models",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Movement",
+    "Neurons"
+  ]
+}

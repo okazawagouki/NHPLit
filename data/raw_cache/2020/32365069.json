@@ -1,0 +1,25 @@
+{
+  "pmid": "32365069",
+  "title": "Conservation laws by virtue of scale symmetries in neural systems.",
+  "abstract": "In contrast to the symmetries of translation in space, rotation in space, and translation in time, the known laws of physics are not universally invariant under transformation of scale. However, a special case exists in which the action is scale invariant if it satisfies the following two constraints: 1) it must depend upon a scale-free Lagrangian, and 2) the Lagrangian must change under scale in the same way as the inverse time, [Formula: see text]. Our contribution lies in the derivation of a generalised Lagrangian, in the form of a power series expansion, that satisfies these constraints. This generalised Lagrangian furnishes a normal form for dynamic causal models-state space models based upon differential equations-that can be used to distinguish scale symmetry from scale freeness in empirical data. We establish face validity with an analysis of simulated data, in which we show how scale symmetry can be identified and how the associated conserved quantities can be estimated in neuronal time series.",
+  "authors": [
+    "Fagerholm Erik D",
+    "Foulkes W M C",
+    "Gallero-Salas Yasir",
+    "Helmchen Fritjof",
+    "Friston Karl J",
+    "Moran Rosalyn J",
+    "Leech Robert"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2020",
+  "doi": "10.1371/journal.pcbi.1007865",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "Mice",
+    "Models, Neurological",
+    "Neurons"
+  ]
+}

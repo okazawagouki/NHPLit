@@ -1,0 +1,32 @@
+{
+  "pmid": "22775500",
+  "title": "Bayesian analogy with relational transformations.",
+  "abstract": "How can humans acquire relational representations that enable analogical inference and other forms of high-level reasoning? Using comparative relations as a model domain, we explore the possibility that bottom-up learning mechanisms applied to objects coded as feature vectors can yield representations of relations sufficient to solve analogy problems. We introduce Bayesian analogy with relational transformations (BART) and apply the model to the task of learning first-order comparative relations (e.g., larger, smaller, fiercer, meeker) from a set of animal pairs. Inputs are coded by vectors of continuous-valued features, based either on human magnitude ratings, normed feature ratings (De Deyne et al., 2008), or outputs of the topics model (Griffiths, Steyvers, & Tenenbaum, 2007). Bootstrapping from empirical priors, the model is able to induce first-order relations represented as probabilistic weight distributions, even when given positive examples only. These learned representations allow classification of novel instantiations of the relations and yield a symbolic distance effect of the sort obtained with both humans and other primates. BART then transforms its learned weight distributions by importance-guided mapping, thereby placing distinct dimensions into correspondence. These transformed representations allow BART to reliably solve 4-term analogies (e.g., larger:smaller::fiercer:meeker), a type of reasoning that is arguably specific to humans. Our results provide a proof-of-concept that structured analogies can be solved with representations induced from unstructured feature vectors by mechanisms that operate in a largely bottom-up fashion. We discuss potential implications for algorithmic and neural models of relational thinking, as well as for the evolution of abstract thought.",
+  "authors": [
+    "Lu Hongjing",
+    "Chen Dawn",
+    "Holyoak Keith J"
+  ],
+  "journal": "Psychological review",
+  "year": "2012",
+  "doi": "10.1037/a0028719",
+  "mesh": [
+    "Adult",
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Child",
+    "Cognition",
+    "Computer Simulation",
+    "Discrimination, Psychological",
+    "Generalization, Psychological",
+    "Humans",
+    "Learning",
+    "Macaca mulatta",
+    "Models, Psychological",
+    "Neural Networks, Computer",
+    "Recognition, Psychology",
+    "Semantics",
+    "Thinking"
+  ]
+}

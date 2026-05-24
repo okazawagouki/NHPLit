@@ -1,0 +1,31 @@
+{
+  "pmid": "16563542",
+  "title": "Prediction of arm trajectory from a small number of neuron activities in the primary motor cortex.",
+  "abstract": "Monkey arm movement was reconstructed from neuron activities recorded in the primary motor cortex (Ml). We recorded single neuron activities from a monkey's Ml, while the animal performed an arm reaching task. We also recorded electromyographic (EMG) activity and movement trajectories during the task. First, we reconstructed the EMG signals from the neuron activities. The EMG signals were reliably reconstructed with a linear summation of the neuron activities. Next, we reconstructed joint angles from the reconstructed EMG signals with an artificial neural network model. The reconstructed trajectories of the hand position and elbow position showed good correlation with the actual arm movement. This model appropriately reflected the anatomical characteristics.",
+  "authors": [
+    "Koike Yasuharu",
+    "Hirose Hideaki",
+    "Sakurai Yoshio",
+    "Iijima Toshio"
+  ],
+  "journal": "Neuroscience research",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Arm",
+    "Behavior, Animal",
+    "Brain Mapping",
+    "Electromyography",
+    "Female",
+    "Functional Laterality",
+    "Macaca fascicularis",
+    "Motor Cortex",
+    "Movement",
+    "Muscle Contraction",
+    "Neurons",
+    "Predictive Value of Tests",
+    "Psychomotor Performance"
+  ]
+}

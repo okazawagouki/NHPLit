@@ -1,0 +1,34 @@
+{
+  "pmid": "38643691",
+  "title": "Brain age of rhesus macaques over the lifespan.",
+  "abstract": "Through the application of machine learning algorithms to neuroimaging data the brain age methodology was shown to provide a useful individual-level biological age prediction and identify key brain regions responsible for the prediction. In this study, we present the methodology of constructing a rhesus macaque brain age model using a machine learning algorithm and discuss the key predictive brain regions in comparison to the human brain, to shed light on cross-species primate similarities and differences. Structural information of the brain (e.g., parcellated volumes) from brain magnetic resonance imaging of 43 rhesus macaques were used to develop brain atlas-based features to build a brain age model that predicts biological age. The best-performing model used 22 selected features and achieved an R<sup>2</sup> of 0.72. We also identified interpretable predictive brain features including Right Fronto-orbital Cortex, Right Frontal Pole, Right Inferior Lateral Parietal Cortex, and Bilateral Posterior Central Operculum. Our findings provide converging evidence of the parallel and comparable brain regions responsible for both non-human primates and human biological age prediction.",
+  "authors": [
+    "Liu Yang S",
+    "Baxi Madhura",
+    "Madan Christopher R",
+    "Zhan Kevin",
+    "Makris Nikolaos",
+    "Rosene Douglas L",
+    "Killiany Ronald J",
+    "Cetin-Karayumak Suheyla",
+    "Pasternak Ofer",
+    "Kubicki Marek",
+    "Cao Bo"
+  ],
+  "journal": "Neurobiology of aging",
+  "year": "2024",
+  "doi": "10.1016/j.neurobiolaging.2024.02.014",
+  "mesh": [
+    "Macaca mulatta",
+    "Animals",
+    "Brain",
+    "Magnetic Resonance Imaging",
+    "Aging",
+    "Humans",
+    "Machine Learning",
+    "Male",
+    "Longevity",
+    "Female",
+    "Algorithms"
+  ]
+}

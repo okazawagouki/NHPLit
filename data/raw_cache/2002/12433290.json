@@ -1,0 +1,22 @@
+{
+  "pmid": "12433290",
+  "title": "Long-term reward prediction in TD models of the dopamine system.",
+  "abstract": "This article addresses the relationship between long-term reward predictions and slow-timescale neural activity in temporal difference (TD) models of the dopamine system. Such models attempt to explain how the activity of dopamine (DA) neurons relates to errors in the prediction of future rewards. Previous models have been mostly restricted to short-term predictions of rewards expected during a single, somewhat artificially defined trial. Also, the models focused exclusively on the phasic pause-and-burst activity of primate DA neurons; the neurons' slower, tonic background activity was assumed to be constant. This has led to difficulty in explaining the results of neurochemical experiments that measure indications of DA release on a slow timescale, results that seem at first glance inconsistent with a reward prediction model. In this article, we investigate a TD model of DA activity modified so as to enable it to make longer-term predictions about rewards expected far in the future. We show that these predictions manifest themselves as slow changes in the baseline error signal, which we associate with tonic DA activity. Using this model, we make new predictions about the behavior of the DA system in a number of experimental situations. Some of these predictions suggest new computational explanations for previously puzzling data, such as indications from microdialysis studies of elevated DA activity triggered by aversive events.",
+  "authors": [
+    "Daw Nathaniel D",
+    "Touretzky David S"
+  ],
+  "journal": "Neural computation",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Brain Chemistry",
+    "Conditioning, Psychological",
+    "Dopamine",
+    "Extinction, Psychological",
+    "Models, Neurological",
+    "Primates",
+    "Reward"
+  ]
+}

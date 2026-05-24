@@ -1,0 +1,15 @@
+{
+  "pmid": "22754509",
+  "title": "Non-stationary discharge patterns in motor cortex under subthalamic nucleus deep brain stimulation.",
+  "abstract": "Deep brain stimulation (DBS) of the subthalamic nucleus (STN) directly modulates the basal ganglia (BG), but how such stimulation impacts the cortex upstream is largely unknown. There is evidence of cortical activation in 6-hydroxydopamine (OHDA)-lesioned rodents and facilitation of motor evoked potentials in Parkinson's disease (PD) patients, but the impact of the DBS settings on the cortical activity in normal vs. Parkinsonian conditions is still debated. We use point process models to analyze non-stationary activation patterns and inter-neuronal dependencies in the motor and sensory cortices of two non-human primates during STN DBS. These features are enhanced after treatment with 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP), which causes a consistent PD-like motor impairment, while high-frequency (HF) DBS (i.e., ≥100 Hz) strongly reduces the short-term patterns (period: 3-7 ms) both before and after MPTP treatment, and elicits a short-latency post-stimulus activation. Low-frequency DBS (i.e., ≤50 Hz), instead, has negligible effects on the non-stationary features. Finally, by using tools from the information theory [i.e., receiver operating characteristic (ROC) curve and information rate (IR)], we show that the predictive power of these models is dependent on the DBS settings, i.e., the probability of spiking of the cortical neurons (which is captured by the point process models) is significantly conditioned on the timely delivery of the DBS input. This dependency increases with the DBS frequency and is significantly larger for high- vs. low-frequency DBS. Overall, the selective suppression of non-stationary features and the increased modulation of the spike probability suggest that HF STN DBS enhances the neuronal activation in motor and sensory cortices, presumably because of reinforcement mechanisms, which perhaps involve the overlap between feedback antidromic and feed-forward orthodromic responses along the BG-thalamo-cortical loop.",
+  "authors": [
+    "Santaniello Sabato",
+    "Montgomery Erwin B",
+    "Gale John T",
+    "Sarma Sridevi V"
+  ],
+  "journal": "Frontiers in integrative neuroscience",
+  "year": "2012",
+  "doi": "10.3389/fnint.2012.00035",
+  "mesh": []
+}

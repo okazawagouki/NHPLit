@@ -1,0 +1,33 @@
+{
+  "pmid": "10938300",
+  "title": "Responses to continuously changing optic flow in area MST.",
+  "abstract": "We studied the temporal behavior and tuning properties of medial superior temporal (MST) neurons in response to constant flow-field stimulation and continuously changing flow-field stimulation (transitions), which were obtained by morphing one flow field into another. During transitions, the flow fields resembled the motion pattern seen by an observer during changing ego-motion. Our aim was to explore the behavior of MST cells in response to changes in the flow-field pattern and to establish whether the responses of MST cells are temporally independent or if they are affected by contextual information from preceding stimulation. We first tested whether the responses obtained during transitions were linear with respect to the two stimuli defining the transition. In over half of the transitions, the cell response was nonlinear: the response during the transition could not be predicted by the linear interpolation between the stimulus before and after the transition. Nonlinearities in the responses could arise from a dependence on temporal context or from nonlinearities in the tuning to flow-field patterns. To distinguish between these two hypotheses, we fit the responses during transitions and during continuous stimuli to the predictions of a temporally independent model (temporal-independence test) and we compared the responses during transitions to the responses elicited by inverse transitions (temporal-symmetry test). The effect of temporal context was significant in only 7.2% and 5.5% of cells in the temporal-independence test and in the temporal-symmetry test, respectively. Most of the nonlinearities in the cell responses could be accounted for by nonlinearities in the tuning to flow-field stimuli (i.e., the responses to a restricted set of flow fields did not predict the responses to other flow fields). Tuning nonlinearities indicate that a complete characterization of the tuning properties of MST neurons cannot be obtained by testing only a small number of flow fields. Because the cells' responses do not depend on temporal context, continuously changing stimulation can be used to characterize the receptive field properties of cells more efficiently than constant stimulation. Temporal independence in the responses to transitions indicates that MST cells do not code for second-order temporal properties of flow-field stimuli, i.e., for changes in the flow field through time that can be construed as paths through the environment. Information about ego-motion three-dimensional paths through the environment may either be processed at the population level in MST or in other cortical areas.",
+  "authors": [
+    "Paolini M",
+    "Distler C",
+    "Bremmer F",
+    "Lappe M",
+    "Hoffmann K P"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain Mapping",
+    "Conditioning, Psychological",
+    "Electrophysiology",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motion Perception",
+    "Nonlinear Dynamics",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Rotation",
+    "Temporal Lobe",
+    "Visual Fields",
+    "Visual Pathways"
+  ]
+}

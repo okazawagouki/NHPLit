@@ -1,0 +1,25 @@
+{
+  "pmid": "24932596",
+  "title": "Search for information-bearing components in neural data.",
+  "abstract": "Multivariate empirical mode decomposition (MEMD) is an important extension of EMD, suitable for processing multichannel data. It can adaptively decompose multivariate data into a set of intrinsic mode functions (IMFs) that are matched both in number and in frequency scale. This method is thus holds great potential for the analysis of multi- channel neural recordings as it is capable of ensuring all the intrinsic oscillatory modes are aligned not only across channels, but also across trials. Given a plethora of IMFs derived by MEMD, a question of significant interest is how to identify which IMFs contain information, and which IMFs are noise. Existing methods that exploit the dyadic filter bank structure of white noise decomposition are insufficient since the IMFs do not always adhere to the presumed dyadic relationship. Here we propose a statistical procedure to identify information-bearing IMFs, which is built upon MEMD that allows adding noise as separate channels to serve as a reference to facilitate IMF identification. In this procedure, Wasserstein distance is used to measure the similarity between the reference IMF and that from data. Simulations are performed to validate the method. Local field potentials from cortex of monkeys while performing visual tasks are used for demonstration.",
+  "authors": [
+    "Hu Meng",
+    "Liang Hualou"
+  ],
+  "journal": "PloS one",
+  "year": "2014",
+  "doi": "10.1371/journal.pone.0099793",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Discrimination, Psychological",
+    "Macaca",
+    "Reference Standards",
+    "Signal-To-Noise Ratio",
+    "Statistics as Topic",
+    "Time Factors"
+  ]
+}

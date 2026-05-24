@@ -1,0 +1,24 @@
+{
+  "pmid": "36190286",
+  "title": "Through a Dog's Eyes: fMRI Decoding of Naturalistic Videos from the Dog Cortex.",
+  "abstract": "Recent advancements using machine learning and functional magnetic resonance imaging (fMRI) to decode visual stimuli from the human and nonhuman cortex have resulted in new insights into the nature of perception. However, this approach has yet to be applied substantially to animals other than primates, raising questions about the nature of such representations across the animal kingdom. Here, we used awake fMRI in two domestic dogs and two humans, obtained while each watched specially created dog-appropriate naturalistic videos. We then trained a neural net (Ivis) to classify the video content from a total of 90 min of recorded brain activity from each. We tested both an object-based classifier, attempting to discriminate categories such as dog, human, and car, and an action-based classifier, attempting to discriminate categories such as eating, sniffing, and talking. Compared to the two human subjects, for whom both types of classifier performed well above chance, only action-based classifiers were successful in decoding video content from the dogs. These results demonstrate the first known application of machine learning to decode naturalistic videos from the brain of a carnivore and suggest that the dog's-eye view of the world may be quite different from our own.",
+  "authors": [
+    "Phillips Erin M",
+    "Gillette Kirsten D",
+    "Dilks Daniel D",
+    "Berns Gregory S"
+  ],
+  "journal": "Journal of visualized experiments : JoVE",
+  "year": "2022",
+  "doi": "10.3791/64442",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Dogs",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Nerve Net"
+  ]
+}

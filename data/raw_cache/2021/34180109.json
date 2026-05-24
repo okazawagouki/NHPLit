@@ -1,0 +1,29 @@
+{
+  "pmid": "34180109",
+  "title": "Predicting their past: Machine language learning can discriminate the brains of chimpanzees with different early-life social rearing experiences.",
+  "abstract": "Early life experiences, including separation from caregivers, can result in substantial, persistent effects on neural, behavioral, and physiological systems as is evidenced in a long-standing literature and consistent findings across species, populations, and experimental models. In humans and other animals, differential rearing conditions can affect brain structure and function. We tested for whole brain patterns of morphological difference between 108 chimpanzees reared typically with their mothers (MR; N = 54) and those reared decades ago in a nursery with peers, human caregivers, and environmental enrichment (NR; N = 54). We applied support vector machine (SVM) learning to archival MRI images of chimpanzee brains to test whether we could, with any degree of significant probability, retrospectively classify subjects as MR and NR based on variation in gray matter within the entire brain. We could accurately discriminate MR and NR chimpanzee brains with nearly 70% accuracy. The combined brain regions discriminating the two rearing groups were widespread throughout the cortex. We believe this is the first report using machine language learning as an analytic method for discriminating nonhuman primate brains based on early rearing experiences. In this sense, the approach and findings are novel, and we hope they stimulate application of the technique to studies on neural outcomes associated with early experiences. The findings underscore the potential for infant separation from caregivers to leave a long-term mark on the developing brain.",
+  "authors": [
+    "Bennett Allyson J",
+    "Pierre Peter J",
+    "Wesley Michael J",
+    "Latzman Robert",
+    "Schapiro Steven J",
+    "Mareno Mary Catherine",
+    "Bradley Brenda J",
+    "Sherwood Chet C",
+    "Mullholland Michele M",
+    "Hopkins William D"
+  ],
+  "journal": "Developmental science",
+  "year": "2021",
+  "doi": "10.1111/desc.13114",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Gray Matter",
+    "Humans",
+    "Language",
+    "Pan troglodytes",
+    "Retrospective Studies"
+  ]
+}

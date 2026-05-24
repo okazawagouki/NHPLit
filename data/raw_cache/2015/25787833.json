@@ -1,0 +1,30 @@
+{
+  "pmid": "25787833",
+  "title": "Validation of High-Resolution Tractography Against In Vivo Tracing in the Macaque Visual Cortex.",
+  "abstract": "Diffusion magnetic resonance imaging (MRI) allows for the noninvasive in vivo examination of anatomical connections in the human brain, which has an important role in understanding brain function. Validation of this technique is vital, but has proved difficult due to the lack of an adequate gold standard. In this work, the macaque visual system was used as a model as an extensive body of literature of in vivo and postmortem tracer studies has established a detailed understanding of the underlying connections. We performed probabilistic tractography on high angular resolution diffusion imaging data of 2 ex vivo, in vitro macaque brains. Comparisons were made between identified connections at different thresholds of probabilistic connection \"strength,\" and with various tracking optimization strategies previously proposed in the literature, and known connections from the detailed visual system wiring map described by Felleman and Van Essen (1991; FVE91). On average, 74% of connections that were identified by FVE91 were reproduced by performing the most successfully optimized probabilistic diffusion MRI tractography. Further comparison with the results of a more recent tracer study ( Markov et al. 2012) suggests that the fidelity of tractography in estimating the presence or absence of interareal connections may be greater than this.",
+  "authors": [
+    "Azadbakht Hojjatollah",
+    "Parkes Laura M",
+    "Haroon Hamied A",
+    "Augath Mark",
+    "Logothetis Nikos K",
+    "de Crespigny Alex",
+    "D'Arceuil Helen E",
+    "Parker Geoffrey J M"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2015",
+  "doi": "10.1093/cercor/bhu326",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Diffusion Magnetic Resonance Imaging",
+    "Imaging, Three-Dimensional",
+    "Macaca mulatta",
+    "Neural Pathways",
+    "ROC Curve",
+    "Reproducibility of Results",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "39561186",
+  "title": "Reward Bases: A simple mechanism for adaptive acquisition of multiple reward types.",
+  "abstract": "Animals can adapt their preferences for different types of reward according to physiological state, such as hunger or thirst. To explain this ability, we employ a simple multi-objective reinforcement learning model that learns multiple values according to different reward dimensions such as food or water. We show that by weighting these learned values according to the current needs, behaviour may be flexibly adapted to present preferences. This model predicts that individual dopamine neurons should encode the errors associated with some reward dimensions more than with others. To provide a preliminary test of this prediction, we reanalysed a small dataset obtained from a single primate in an experiment which to our knowledge is the only published study where the responses of dopamine neurons to stimuli predicting distinct types of rewards were recorded. We observed that in addition to subjective economic value, dopamine neurons encode a gradient of reward dimensions; some neurons respond most to stimuli predicting food rewards while the others respond more to stimuli predicting fluids. We also proposed a possible implementation of the model in the basal ganglia network, and demonstrated how the striatal system can learn values in multiple dimensions, even when dopamine neurons encode mixtures of prediction error from different dimensions. Additionally, the model reproduces the instant generalisation to new physiological states seen in dopamine responses and in behaviour. Our results demonstrate how a simple neural circuit can flexibly guide behaviour according to animals' needs.",
+  "authors": [
+    "Millidge Beren",
+    "Song Yuhang",
+    "Lak Armin",
+    "Walton Mark E",
+    "Bogacz Rafal"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2024",
+  "doi": "10.1371/journal.pcbi.1012580",
+  "mesh": [
+    "Reward",
+    "Animals",
+    "Models, Neurological",
+    "Dopaminergic Neurons",
+    "Computational Biology",
+    "Reinforcement, Psychology",
+    "Basal Ganglia",
+    "Learning",
+    "Behavior, Animal"
+  ]
+}

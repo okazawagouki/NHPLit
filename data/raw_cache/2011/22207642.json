@@ -1,0 +1,35 @@
+{
+  "pmid": "22207642",
+  "title": "Virtual active touch using randomly patterned intracortical microstimulation.",
+  "abstract": "Intracortical microstimulation (ICMS) has promise as a means for delivering somatosensory feedback in neuroprosthetic systems. Various tactile sensations could be encoded by temporal, spatial, or spatiotemporal patterns of ICMS. However, the applicability of temporal patterns of ICMS to artificial tactile sensation during active exploration is unknown, as is the minimum discriminable difference between temporally modulated ICMS patterns. We trained rhesus monkeys in an active exploration task in which they discriminated periodic pulse-trains of ICMS (200 Hz bursts at a 10 Hz secondary frequency) from pulse trains with the same average pulse rate, but distorted periodicity (200 Hz bursts at a variable instantaneous secondary frequency). The statistics of the aperiodic pulse trains were drawn from a gamma distribution with mean inter-burst intervals equal to those of the periodic pulse trains. The monkeys distinguished periodic pulse trains from aperiodic pulse trains with coefficients of variation 0.25 or greater. Reconstruction of movement kinematics, extracted from the activity of neuronal populations recorded in the sensorimotor cortex concurrent with the delivery of ICMS feedback, improved when the recording intervals affected by ICMS artifacts were removed from analysis. These results add to the growing evidence that temporally patterned ICMS can be used to simulate a tactile sense for neuroprosthetic devices.",
+  "authors": [
+    "O'Doherty Joseph E",
+    "Lebedev Mikhail A",
+    "Li Zheng",
+    "Nicolelis Miguel A L"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2012",
+  "doi": "10.1109/TNSRE.2011.2166807",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artifacts",
+    "Biomechanical Phenomena",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Electric Stimulation",
+    "Equipment Design",
+    "Exploratory Behavior",
+    "Learning",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Motor Cortex",
+    "Movement",
+    "Psychometrics",
+    "Psychomotor Performance",
+    "Somatosensory Cortex",
+    "Touch",
+    "User-Computer Interface"
+  ]
+}

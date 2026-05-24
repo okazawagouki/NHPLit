@@ -1,0 +1,32 @@
+{
+  "pmid": "19109918",
+  "title": "Similarity effect and optimal control of multiple-choice decision making.",
+  "abstract": "Decision making with several choice options is central to cognition. To elucidate the neural mechanisms of such decisions, we investigated a recurrent cortical circuit model in which fluctuating spiking neural dynamics underlie trial-by-trial stochastic decisions. The model encodes a continuous analog stimulus feature and is thus applicable to multiple-choice decisions. Importantly, the continuous network captures similarity between alternatives and possible overlaps in their neural representation. Model simulations accounted for behavioral as well as single-unit neurophysiological data from a recent monkey experiment and revealed testable predictions about the patterns of error rate as a function of the similarity between the correct and actual choices. We also found that the similarity and number of options affect speed and accuracy of responses. A mechanism is proposed for flexible control of speed-accuracy tradeoff, based on a simple top-down signal to the decision circuit that may vary nonmonotonically with the number of choice alternatives.",
+  "authors": [
+    "Furman Moran",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Neuron",
+  "year": "2008",
+  "doi": "10.1016/j.neuron.2008.12.003",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Decision Making",
+    "Discrimination, Psychological",
+    "Excitatory Amino Acid Agonists",
+    "Models, Neurological",
+    "Motion Perception",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Reaction Time",
+    "Synapses",
+    "Time Factors",
+    "alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid"
+  ]
+}

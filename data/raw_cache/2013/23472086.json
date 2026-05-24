@@ -1,0 +1,30 @@
+{
+  "pmid": "23472086",
+  "title": "Cortical plasticity induced by spike-triggered microstimulation in primate somatosensory cortex.",
+  "abstract": "Electrical stimulation of the nervous system for therapeutic purposes, such as deep brain stimulation in the treatment of Parkinson's disease, has been used for decades. Recently, increased attention has focused on using microstimulation to restore functions as diverse as somatosensation and memory. However, how microstimulation changes the neural substrate is still not fully understood. Microstimulation may cause cortical changes that could either compete with or complement natural neural processes, and could result in neuroplastic changes rendering the region dysfunctional or even epileptic. As part of our efforts to produce neuroprosthetic devices and to further study the effects of microstimulation on the cortex, we stimulated and recorded from microelectrode arrays in the hand area of the primary somatosensory cortex (area 1) in two awake macaque monkeys. We applied a simple neuroprosthetic microstimulation protocol to a pair of electrodes in the area 1 array, using either random pulses or pulses time-locked to the recorded spiking activity of a reference neuron. This setup was replicated using a computer model of the thalamocortical system, which consisted of 1980 spiking neurons distributed among six cortical layers and two thalamic nuclei. Experimentally, we found that spike-triggered microstimulation induced cortical plasticity, as shown by increased unit-pair mutual information, while random microstimulation did not. In addition, there was an increased response to touch following spike-triggered microstimulation, along with decreased neural variability. The computer model successfully reproduced both qualitative and quantitative aspects of the experimental findings. The physiological findings of this study suggest that even simple microstimulation protocols can be used to increase somatosensory information flow.",
+  "authors": [
+    "Song Weiguo",
+    "Kerr Cliff C",
+    "Lytton William W",
+    "Francis Joseph T"
+  ],
+  "journal": "PloS one",
+  "year": "2013",
+  "doi": "10.1371/journal.pone.0057453",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Computer Simulation",
+    "Electric Stimulation",
+    "Female",
+    "Macaca",
+    "Male",
+    "Microelectrodes",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Principal Component Analysis",
+    "Signal Processing, Computer-Assisted",
+    "Somatosensory Cortex",
+    "Touch"
+  ]
+}

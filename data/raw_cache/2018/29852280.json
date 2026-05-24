@@ -1,0 +1,26 @@
+{
+  "pmid": "29852280",
+  "title": "Concentric radiofrequency arrays to increase the statistical power of resting-state maps in monkeys.",
+  "abstract": "The close homology of monkeys and humans has increased the prevalence of non-human-primate models in functional MRI studies of brain connectivity. To improve upon the attainable resolution in functional MRI studies, a commensurate increase in the sensitivity of the radiofrequency receiver coil is required to avoid a reduction in the statistical power of the analysis. Most receive coils are comprised of multiple loops distributed equidistantly over a surface to produce spatially independent sensitivity profiles. A larger number of smaller elements will in turn provide a higher signal-to-noise ratio (SNR) over the same field of view. As the loops become physically smaller, noise originating from the sample is reduced relative to noise originating from the coil. In this coil-noise-dominated regime, coil elements can have overlapping sensitivity profiles, yet still possess only mildly correlated noise. In this manuscript, we demonstrate that inductively decoupled, concentric coil arrays can improve temporal SNR when operating in the coil-noise-dominated regime-in contrast to what is expected for the more ubiquitous sample-noise-dominated array. A small, thin, 7-channel flexible coil is developed and operated in conjunction with an existing whole-head monkey coil. The mean and maximum noise correlation between the two arrays was 5% and 23%, respectively. When the flex coil was placed over the sensorimotor cortex, the temporal SNR improved by up to 2.3-fold in the peripheral cortex and up to 1.3-fold at a 2- to 3-cm depth within the brain. When the flex coil was placed over the frontal eye fields, resting-state maps showed substantially elevated sensitivity to correlations in the prefrontal cortex (54%), supplementary eye fields (39%), and anterior cingulate cortex (41%). The concentric-coil topology provided a pragmatic and robust means to significantly improve local temporal SNR and the statistical power of functional connectivity maps.",
+  "authors": [
+    "Gilbert Kyle M",
+    "Schaeffer David J",
+    "Zeman Peter",
+    "Diedrichsen Jörn",
+    "Everling Stefan",
+    "Martinez-Trujillo Julio C",
+    "Pruszynski J Andrew",
+    "Menon Ravi S"
+  ],
+  "journal": "NeuroImage",
+  "year": "2018",
+  "doi": "10.1016/j.neuroimage.2018.05.057",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Haplorhini",
+    "Magnetic Resonance Imaging",
+    "Signal-To-Noise Ratio"
+  ]
+}

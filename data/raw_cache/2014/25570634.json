@@ -1,0 +1,25 @@
+{
+  "pmid": "25570634",
+  "title": "On the asynchronously continuous control of mobile robot movement by motor cortical spiking activity.",
+  "abstract": "This paper presents an asynchronously intracortical brain-computer interface (BCI) which allows the subject to continuously drive a mobile robot. This system has a great implication for disabled patients to move around. By carefully designing a multiclass support vector machine (SVM), the subject's self-paced instantaneous movement intents are continuously decoded to control the mobile robot. In particular, we studied the stability of the neural representation of the movement directions. Experimental results on the nonhuman primate showed that the overt movement directions were stably represented in ensemble of recorded units, and our SVM classifier could successfully decode such movements continuously along the desired movement path. However, the neural representation of the stop state for the self-paced control was not stably represented and could drift.",
+  "authors": [
+    "Xu Zhiming",
+    "So Rosa Q",
+    "Toe Kyaw Kyar",
+    "Ang Kai Keng",
+    "Guan Cuntai"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2014",
+  "doi": "10.1109/EMBC.2014.6944266",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Robotics",
+    "Support Vector Machine"
+  ]
+}

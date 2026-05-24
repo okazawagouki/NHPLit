@@ -1,0 +1,29 @@
+{
+  "pmid": "16738214",
+  "title": "Computational analysis of subthalamic nucleus and lenticular fasciculus activation during therapeutic deep brain stimulation.",
+  "abstract": "The subthalamic nucleus (STN) is the most common target for the treatment of Parkinson's disease (PD) with deep brain stimulation (DBS). DBS of the globus pallidus internus (GPi) is also effective in the treatment of PD. The output fibers of the GPi that form the lenticular fasciculus pass in close proximity to STN DBS electrodes. In turn, both STN projection neurons and GPi fibers of passage represent possible therapeutic targets of DBS in the STN region. We built a comprehensive computational model of STN DBS in parkinsonian macaques to study the effects of stimulation in a controlled environment. The model consisted of three fundamental components: 1) a three-dimensional (3D) anatomical model of the macaque basal ganglia, 2) a finite element model of the DBS electrode and electric field transmitted to the tissue medium, and 3) multicompartment biophysical models of STN projection neurons, GPi fibers of passage, and internal capsule fibers of passage. Populations of neurons were positioned within the 3D anatomical model. Neurons were stimulated with electrode positions and stimulation parameters defined as clinically effective in two parkinsonian monkeys. The model predicted axonal activation of STN neurons and GPi fibers during STN DBS. Model predictions regarding the degree of GPi fiber activation matched well with experimental recordings in both monkeys. Only axonal activation of the STN neurons showed a statistically significant increase in both monkeys when comparing clinically effective and ineffective stimulation. Nonetheless, both neural targets may play important roles in the therapeutic mechanisms of STN DBS.",
+  "authors": [
+    "Miocinovic Svjetlana",
+    "Parent Martin",
+    "Butson Christopher R",
+    "Hahn Philip J",
+    "Russo Gary S",
+    "Vitek Jerrold L",
+    "McIntyre Cameron C"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Basal Ganglia",
+    "Computer Simulation",
+    "Deep Brain Stimulation",
+    "Image Processing, Computer-Assisted",
+    "Macaca fascicularis",
+    "Models, Animal",
+    "Models, Neurological",
+    "Neurons",
+    "Subthalamic Nucleus"
+  ]
+}

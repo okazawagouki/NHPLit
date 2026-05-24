@@ -1,0 +1,26 @@
+{
+  "pmid": "11718415",
+  "title": "Neuronal integration mechanisms have little effect on spike auto-correlations of cortical neurons.",
+  "abstract": "Cortical neurons of behaving animals generate irregular spike sequences, but the sequences generally differ from an entirely random sequence (Poisson process), and they have temporal correlations (spike auto-correlations). Temporally correlated spike sequences can be brought about because of incoming synaptic inputs to the neuron, or because of the neuronal integration mechanism. In this paper, we attempt to determine which is the origin of spike auto-correlations observed in the spiking data recorded from neurons in the prefrontal cortex of a monkey preserving a cue information in the delay response task experiment. Each incoming input is assumed to be independent from its own spike events, and the temporal integration in the neuron is assumed to be reset by every spike event. So, the process to spike is assumed to be divided into two processes: the process independent from its own spikes, which drives the process reset by its own spikes. Under these assumptions, it is found that the spike-independent process needs to have temporal correlations, through examinations of two kinds of correlation coefficient of consecutive inter-spike intervals. It is also found that the spike-reset process has little effect on the spike auto-correlations and the interval distributions. This suggests that the spike auto-correlation does originate in the temporal correlation of incoming synaptic inputs and the neuronal integration mechanism has little effect on the spike auto-correlation.",
+  "authors": [
+    "Sakai Y"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Behavior, Animal",
+    "Cerebral Cortex",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Pathways",
+    "Neurons",
+    "Poisson Distribution",
+    "Statistics as Topic",
+    "Stochastic Processes",
+    "Synaptic Transmission",
+    "Time Factors"
+  ]
+}

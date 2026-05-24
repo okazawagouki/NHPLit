@@ -1,0 +1,23 @@
+{
+  "pmid": "21698393",
+  "title": "A library of cortical morphology analysis tools to study development, aging and genetics of cerebral cortex.",
+  "abstract": "Sharing of analysis techniques and tools is among the main driving forces of modern neuroscience. We describe a library of tools developed to quantify global and regional differences in cortical anatomy in high resolution structural MR images. This library is distributed as a plug-in application for popular structural analysis software, BrainVisa (BV). It contains tools to measure global and regional gyrification, gray matter thickness and sulcal and gyral white matter spans. We provide a description of each tool and examples for several case studies to demonstrate their use. These examples show how the BV library was used to study cortical folding process during antenatal development and recapitulation of this process during cerebral aging. Further, the BV library was used to perform translation research in humans and non-human primates on the genetics of cerebral gyrification. This library, including source code and self-contained binaries for popular computer platforms, is available from the NIH-Neuroimaging Informatics Tools and Resources Clearinghouse (NITRC) resource ( http://www.nitrc.org/projects/brainvisa_ext ).",
+  "authors": [
+    "Kochunov Peter",
+    "Rogers William",
+    "Mangin Jean-Francois",
+    "Lancaster Jack"
+  ],
+  "journal": "Neuroinformatics",
+  "year": "2012",
+  "doi": "10.1007/s12021-011-9127-9",
+  "mesh": [
+    "Aging",
+    "Cerebral Cortex",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Magnetic Resonance Imaging",
+    "Neuroimaging",
+    "Software"
+  ]
+}

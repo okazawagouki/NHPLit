@@ -1,0 +1,24 @@
+{
+  "pmid": "40914164",
+  "title": "Inactivation of primate cortex reveals inductive biases in visual learning.",
+  "abstract": "Humans and other primates are capable of learning to recognize new visual stimuli throughout their lifetimes. Most theoretical models assume that such learning occurs through the adjustment of the large number of synaptic weights connecting the visual cortex to downstream decision-making areas. While this approach to learning can optimize performance on behavioral tasks, it can also be costly in terms of time and energy. An alternative hypothesis is that the brain favors simpler learning rules that do not necessarily optimize the readout of information from visual cortical neurons. Here, we have examined these hypotheses by reversibly inactivating visual area V4 in non-human primates at different stages of training on form discrimination tasks. We find that V4 inactivation generally has a behavioral effect for only a subset of the stimuli that are encoded in the V4 population activity, specifically those that can be represented efficiently in the population firing rate. As a result, neural measures of discriminability do not necessarily predict the causal contribution of V4 neurons to task performance. This pattern of results can be explained by incorporating a strong inductive bias for simpler perceptual readouts into existing theoretical frameworks. Such a simplicity bias is suboptimal in the sense that it ignores information that could theoretically be extracted from the neural population, but it has the likely advantage of facilitating efficient learning on ecologically relevant timescales.",
+  "authors": [
+    "Laamerad Pooya",
+    "Krause Matthew R",
+    "Guitton Daniel",
+    "Pack Christopher C"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2025",
+  "doi": "10.1016/j.cub.2025.08.027",
+  "mesh": [
+    "Animals",
+    "Visual Cortex",
+    "Learning",
+    "Visual Perception",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Photic Stimulation"
+  ]
+}

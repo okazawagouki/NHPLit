@@ -1,0 +1,23 @@
+{
+  "pmid": "19089445",
+  "title": "Computational object recognition: a biologically motivated approach.",
+  "abstract": "We propose a conceptual framework for artificial object recognition systems based on findings from neurophysiological and neuropsychological research on the visual system in primate cortex. We identify some essential questions, which have to be addressed in the course of designing object recognition systems. As answers, we review some major aspects of biological object recognition, which are then translated into the technical field of computer vision. The key suggestions are the use of incremental and view-based approaches together with the ability of online feature selection and the interconnection of object-views to form an overall object representation. The effectiveness of the computational approach is estimated by testing a possible realization in various tasks and conditions explicitly designed to allow for a direct comparison with the biological counterpart. The results exhibit excellent performance with regard to recognition accuracy, the creation of sparse models and the selection of appropriate features.",
+  "authors": [
+    "Kietzmann Tim C",
+    "Lange Sascha",
+    "Riedmiller Martin"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2009",
+  "doi": "10.1007/s00422-008-0281-6",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Learning",
+    "Mathematics",
+    "Models, Neurological",
+    "Pattern Recognition, Automated",
+    "Pattern Recognition, Visual",
+    "Semantics"
+  ]
+}

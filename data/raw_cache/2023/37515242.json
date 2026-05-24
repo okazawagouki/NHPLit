@@ -1,0 +1,35 @@
+{
+  "pmid": "37515242",
+  "title": "Risk Assessment of the Possible Intermediate Host Role of Pigs for Coronaviruses with a Deep Learning Predictor.",
+  "abstract": "Swine coronaviruses (CoVs) have been found to cause infection in humans, suggesting that Suiformes might be potential intermediate hosts in CoV transmission from their natural hosts to humans. The present study aims to establish convolutional neural network (CNN) models to predict host adaptation of swine CoVs. Decomposing of each <i>ORF1ab</i> and <i>Spike</i> sequence was performed with dinucleotide composition representation (DCR) and other traits. The relationship between CoVs from different adaptive hosts was analyzed by unsupervised learning, and CNN models based on DCR of <i>ORF1ab</i> and <i>Spike</i> were built to predict the host adaptation of swine CoVs. The rationality of the models was verified with phylogenetic analysis. Unsupervised learning showed that there is a multiple host adaptation of different swine CoVs. According to the adaptation prediction of CNN models, swine acute diarrhea syndrome CoV (SADS-CoV) and porcine epidemic diarrhea virus (PEDV) are adapted to Chiroptera, swine transmissible gastroenteritis virus (TGEV) is adapted to Carnivora, porcine hemagglutinating encephalomyelitis (PHEV) might be adapted to Primate, Rodent, and Lagomorpha, and porcine deltacoronavirus (PDCoV) might be adapted to Chiroptera, Artiodactyla, and Carnivora. In summary, the DCR trait has been confirmed to be representative for the CoV genome, and the DCR-based deep learning model works well to assess the adaptation of swine CoVs to other mammals. Suiformes might be intermediate hosts for human CoVs and other mammalian CoVs. The present study provides a novel approach to assess the risk of adaptation and transmission to humans and other mammals of swine CoVs.",
+  "authors": [
+    "Jiang Shuyang",
+    "Zhang Sen",
+    "Kang Xiaoping",
+    "Feng Ye",
+    "Li Yadan",
+    "Nie Maoshun",
+    "Li Yuchang",
+    "Chen Yuehong",
+    "Zhao Shishun",
+    "Jiang Tao",
+    "Li Jing"
+  ],
+  "journal": "Viruses",
+  "year": "2023",
+  "doi": "10.3390/v15071556",
+  "mesh": [
+    "Swine",
+    "Animals",
+    "Humans",
+    "Coronavirus",
+    "Chiroptera",
+    "Phylogeny",
+    "Deep Learning",
+    "Swine Diseases",
+    "Coronavirus Infections",
+    "Porcine epidemic diarrhea virus",
+    "Risk Assessment",
+    "Carnivora"
+  ]
+}

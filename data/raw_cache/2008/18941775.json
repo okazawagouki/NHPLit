@@ -1,0 +1,31 @@
+{
+  "pmid": "18941775",
+  "title": "An implementation of reinforcement learning based on spike timing dependent plasticity.",
+  "abstract": "An explanatory model is developed to show how synaptic learning mechanisms modeled through spike-timing dependent plasticity (STDP) can result in long-term adaptations consistent with reinforcement learning models. In particular, the reinforcement learning model known as temporal difference (TD) learning has been used to model neuronal behavior in the orbitofrontal cortex (OFC) and ventral tegmental area (VTA) of macaque monkey during reinforcement learning. While some research has observed, empirically, a connection between STDP and TD, there has not been an explanatory model directly connecting TD to STDP. Through analysis of the learning dynamics that results from a general form of a STDP learning rule, the connection between STDP and TD is explained. We further demonstrate that a STDP learning rule drives the spike probability of a reward predicting neuronal population to a stable equilibrium. The equilibrium solution has an increasing slope where the steepness of the slope predicts the probability of the reward, similar to the results from electrophysiological recordings suggesting a different slope that predicts the value of the anticipated reward of Montague and Berns [Neuron 36(2):265-284, 2002]. This connection begins to shed light into more recent data gathered from VTA and OFC which are not well modeled by TD. We suggest that STDP provides the underlying mechanism for explaining reinforcement learning and other higher level perceptual and cognitive function.",
+  "authors": [
+    "Roberts Patrick D",
+    "Santiago Roberto A",
+    "Lafferriere Gerardo"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2008",
+  "doi": "10.1007/s00422-008-0265-6",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Dopamine",
+    "Humans",
+    "Learning",
+    "Macaca",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Reinforcement, Psychology",
+    "Synaptic Transmission",
+    "Time Factors",
+    "Ventral Tegmental Area"
+  ]
+}

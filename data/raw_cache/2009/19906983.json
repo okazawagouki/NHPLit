@@ -1,0 +1,32 @@
+{
+  "pmid": "19906983",
+  "title": "Brain control of movement execution onset using local field potentials in posterior parietal cortex.",
+  "abstract": "The precise control of movement execution onset is essential for safe and autonomous cortical motor prosthetics. A recent study from the parietal reach region (PRR) suggested that the local field potentials (LFPs) in this area might be useful for decoding execution time information because of the striking difference in the LFP spectrum between the plan and execution states (Scherberger et al., 2005). More specifically, the LFP power in the 0-10 Hz band sharply rises while the power in the 20-40 Hz band falls as the state transitions from plan to execution. However, a change of visual stimulus immediately preceded reach onset, raising the possibility that the observed spectral change reflected the visual event instead of the reach onset. Here, we tested this possibility and found that the LFP spectrum change was still time locked to the movement onset in the absence of a visual event in self-paced reaches. Furthermore, we successfully trained the macaque subjects to use the LFP spectrum change as a \"go\" signal in a closed-loop brain-control task in which the animals only modulated the LFP and did not execute a reach. The execution onset was signaled by the change in the LFP spectrum while the target position of the cursor was controlled by the spike firing rates recorded from the same site. The results corroborate that the LFP spectrum change in PRR is a robust indicator for the movement onset and can be used for control of execution onset in a cortical prosthesis.",
+  "authors": [
+    "Hwang Eun Jung",
+    "Andersen Richard A"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2009",
+  "doi": "10.1523/JNEUROSCI.2081-09.2009",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cues",
+    "Hand",
+    "Linear Models",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Motor Activity",
+    "Neurons",
+    "Neuropsychological Tests",
+    "Parietal Lobe",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Time Factors",
+    "Time Perception",
+    "User-Computer Interface",
+    "Visual Perception"
+  ]
+}

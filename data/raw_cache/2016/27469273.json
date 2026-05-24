@@ -1,0 +1,25 @@
+{
+  "pmid": "27469273",
+  "title": "Connectivity-based parcellation of the macaque frontal cortex, and its relation with the cytoarchitectonic distribution described in current atlases.",
+  "abstract": "Through its connectivity with the rest of the brain, a cortical region constrains its function. The advent of MRI methods such as diffusion-weighted imaging tractography allows us to estimate whole-brain anatomical connectivity at multiple seed regions in the same subject. This makes it possible to use data-driven techniques to define the spatial boundaries between adjacent brain regions characterized by sharply different connectivity. This approach has recently been employed to identify connectivity-based subdivisions of the human frontal lobe bearing an apparent similarity with cytoarchitectural subdivisions. However, the spatial relationships between the boundaries of cytoarchitectonic areas and tractography-based subdivisions remain largely hypothetical. In this work we present the first tractography-based parcellation of the frontal lobes in macaques. Diffusion-weighted data for tractography were acquired on ex vivo macaque brain specimens, ruling out the presence of various sources of noise present in acquisitions on living subjects. An unsupervised multivariate technique consistently showed the presence of 11 tractography-driven subdivisions in the frontal lobe across specimens. Comparison with several microstructural atlases suggested a heterogeneous relationship of these subdivisions with cytoarchitectonic areas: caudal frontal, medial and orbitofronal subdivisions featured the most consistent relationship between modalities, while lateral prefrontal subdivisions mostly differed from atlas-based cytoarchitectonic subdivisions. Other subdivisions were reminiscent of the organization of anatomical projections of the caudal motor cortex, as well as of the intrinsic orbitofrontal networks. Hence, although some cytoarchitectural and connectivity-based subdivisions share a similar spatial distribution, they should not necessarily be considered as equivalent. Instead, connectivity-based subdivisions appear to provide complementary information on the spatial organization of anatomical connectivity.",
+  "authors": [
+    "Cerliani Leonardo",
+    "D'Arceuil Helen",
+    "Thiebaut de Schotten Michel"
+  ],
+  "journal": "Brain structure & function",
+  "year": "2017",
+  "doi": "10.1007/s00429-016-1280-3",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Diffusion Tensor Imaging",
+    "Frontal Lobe",
+    "Image Processing, Computer-Assisted",
+    "Macaca fascicularis",
+    "Male",
+    "Nerve Net",
+    "Neural Pathways",
+    "Principal Component Analysis"
+  ]
+}

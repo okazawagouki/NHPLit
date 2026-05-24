@@ -1,0 +1,25 @@
+{
+  "pmid": "39259769",
+  "title": "Oscillations in an artificial neural network convert competing inputs into a temporal code.",
+  "abstract": "The field of computer vision has long drawn inspiration from neuroscientific studies of the human and non-human primate visual system. The development of convolutional neural networks (CNNs), for example, was informed by the properties of simple and complex cells in early visual cortex. However, the computational relevance of oscillatory dynamics experimentally observed in the visual system are typically not considered in artificial neural networks (ANNs). Computational models of neocortical dynamics, on the other hand, rarely take inspiration from computer vision. Here, we combine methods from computational neuroscience and machine learning to implement multiplexing in a simple ANN using oscillatory dynamics. We first trained the network to classify individually presented letters. Post-training, we added temporal dynamics to the hidden layer, introducing refraction in the hidden units as well as pulsed inhibition mimicking neuronal alpha oscillations. Without these dynamics, the trained network correctly classified individual letters but produced a mixed output when presented with two letters simultaneously, indicating a bottleneck problem. When introducing refraction and oscillatory inhibition, the output nodes corresponding to the two stimuli activate sequentially, ordered along the phase of the inhibitory oscillations. Our model implements the idea that inhibitory oscillations segregate competing inputs in time. The results of our simulations pave the way for applications in deeper network architectures and more complicated machine learning problems.",
+  "authors": [
+    "Duecker Katharina",
+    "Idiart Marco",
+    "van Gerven Marcel",
+    "Jensen Ole"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2024",
+  "doi": "10.1371/journal.pcbi.1012429",
+  "mesh": [
+    "Neural Networks, Computer",
+    "Humans",
+    "Models, Neurological",
+    "Computational Biology",
+    "Neurons",
+    "Visual Cortex",
+    "Animals",
+    "Machine Learning",
+    "Computer Simulation"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "25448117",
+  "title": "A neural model of border-ownership from kinetic occlusion.",
+  "abstract": "Camouflaged animals that have very similar textures to their surroundings are difficult to detect when stationary. However, when an animal moves, humans readily see a figure at a different depth than the background. How do humans perceive a figure breaking camouflage, even though the texture of the figure and its background may be statistically identical in luminance? We present a model that demonstrates how the primate visual system performs figure-ground segregation in extreme cases of breaking camouflage based on motion alone. Border-ownership signals develop as an emergent property in model V2 units whose receptive fields are nearby kinetically defined borders that separate the figure and background. Model simulations support border-ownership as a general mechanism by which the visual system performs figure-ground segregation, despite whether figure-ground boundaries are defined by luminance or motion contrast. The gradient of motion- and luminance-related border-ownership signals explains the perceived depth ordering of the foreground and background surfaces. Our model predicts that V2 neurons, which are sensitive to kinetic edges, are selective to border-ownership (magnocellular B cells). A distinct population of model V2 neurons is selective to border-ownership in figures defined by luminance contrast (parvocellular B cells). B cells in model V2 receive feedback from neurons in V4 and MT with larger receptive fields to bias border-ownership signals toward the figure. We predict that neurons in V4 and MT sensitive to kinetically defined figures play a crucial role in determining whether the foreground surface accretes, deletes, or produces a shearing motion with respect to the background.",
+  "authors": [
+    "Layton Oliver W",
+    "Yazdanbakhsh Arash"
+  ],
+  "journal": "Vision research",
+  "year": "2015",
+  "doi": "10.1016/j.visres.2014.11.002",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Kinetics",
+    "Models, Neurological",
+    "Motion Perception",
+    "Pattern Recognition, Visual",
+    "Primates",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "36195614",
+  "title": "Recurrent neural networks with explicit representation of dynamic latent variables can mimic behavioral patterns in a physical inference task.",
+  "abstract": "Primates can richly parse sensory inputs to infer latent information. This ability is hypothesized to rely on establishing mental models of the external world and running mental simulations of those models. However, evidence supporting this hypothesis is limited to behavioral models that do not emulate neural computations. Here, we test this hypothesis by directly comparing the behavior of primates (humans and monkeys) in a ball interception task to that of a large set of recurrent neural network (RNN) models with or without the capacity to dynamically track the underlying latent variables. Humans and monkeys exhibit similar behavioral patterns. This primate behavioral pattern is best captured by RNNs endowed with dynamic inference, consistent with the hypothesis that the primate brain uses dynamic inferences to support flexible physical predictions. Moreover, our work highlights a general strategy for using model neural systems to test computational hypotheses of higher brain function.",
+  "authors": [
+    "Rajalingham Rishi",
+    "Piccato Aída",
+    "Jazayeri Mehrdad"
+  ],
+  "journal": "Nature communications",
+  "year": "2022",
+  "doi": "10.1038/s41467-022-33581-6",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Haplorhini",
+    "Humans",
+    "Neural Networks, Computer"
+  ]
+}

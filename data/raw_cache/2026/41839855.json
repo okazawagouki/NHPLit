@@ -1,0 +1,24 @@
+{
+  "pmid": "41839855",
+  "title": "Local lateral connectivity is sufficient for replicating cortex-like topographical organization in deep neural networks.",
+  "abstract": "Across the primate cortex, neurons with similar functions tend to cluster spatially, a principle that extends across many species and reflects a common strategy for organizing sensory processing. In the visual cortex, this appears as modular clusters tuned to specific visual features. Although short connections are widely believed to support such organization, the underlying neural mechanisms remain unclear. Here, we show that artificial deep neural networks develop topographic maps resembling those in primary, intermediate, and high-level human visual cortex when their units include local lateral connections and are trained through standard top-down credit assignment. Notably, this modular organization emerges without any explicitly imposed topography-inducing objectives or learning rules, suggesting that local lateral connections alone can drive the formation of cortical-like maps. Incorporating such lateral connections also improves model robustness to subtle, adversarial perturbations, highlighting an additional computational role for local recurrent structure in shaping robust visual representations.",
+  "authors": [
+    "Qian Xinyu",
+    "Dehghani Amir Ozhan",
+    "Farahani Asa Borzabadi",
+    "Bashivan Pouya"
+  ],
+  "journal": "Nature communications",
+  "year": "2026",
+  "doi": "10.1038/s41467-026-70065-3",
+  "mesh": [
+    "Humans",
+    "Visual Cortex",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Models, Neurological",
+    "Nerve Net",
+    "Animals",
+    "Brain Mapping"
+  ]
+}

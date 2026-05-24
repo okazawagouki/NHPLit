@@ -1,0 +1,23 @@
+{
+  "pmid": "16905648",
+  "title": "Orientation selectivity in visual cortex by fluctuation-controlled criticality.",
+  "abstract": "Within a large-scale neuronal network model of macaque primary visual cortex, we examined how intrinsic dynamic fluctuations in synaptic currents modify the effect of strong recurrent excitation on orientation selectivity. Previously, we showed that, using a strong network inhibition countered by feedforward and recurrent excitation, the cortical model reproduced many observed properties of simple and complex cells. However, that network's complex cells were poorly selective for orientation, and increasing cortical self-excitation led to network instabilities and unrealistically high firing rates. Here, we show that a sparsity of connections in the network produces large, intrinsic fluctuations in the cortico-cortical conductances that can stabilize the network and that there is a critical level of fluctuations (controllable by sparsity) that allows strong cortical gain and the emergence of orientation-selective complex cells. The resultant sparse network also shows near contrast invariance in its selectivity and, in agreement with recent experiments, has extracellular tuning properties that are similar in pinwheel center and iso-orientation regions, whereas intracellular conductances show positional dependencies. Varying the strength of synaptic fluctuations by adjusting the sparsity of network connectivity, we identified a transition between the dynamics of bistability and without bistability. In a network with strong recurrent excitation, this transition is characterized by a near hysteretic behavior and a rapid rise of network firing rates as the synaptic drive or stimulus input is increased. We discuss the connection between this transition and orientation selectivity in our model of primary visual cortex.",
+  "authors": [
+    "Tao Louis",
+    "Cai David",
+    "McLaughlin David W",
+    "Shelley Michael J",
+    "Shapley Robert"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Nerve Net",
+    "Orientation",
+    "Visual Cortex"
+  ]
+}

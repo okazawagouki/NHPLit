@@ -1,0 +1,25 @@
+{
+  "pmid": "24201281",
+  "title": "Context-dependent computation by recurrent dynamics in prefrontal cortex.",
+  "abstract": "Prefrontal cortex is thought to have a fundamental role in flexible, context-dependent behaviour, but the exact nature of the computations underlying this role remains largely unknown. In particular, individual prefrontal neurons often generate remarkably complex responses that defy deep understanding of their contribution to behaviour. Here we study prefrontal cortex activity in macaque monkeys trained to flexibly select and integrate noisy sensory inputs towards a choice. We find that the observed complexity and functional roles of single neurons are readily understood in the framework of a dynamical process unfolding at the level of the population. The population dynamics can be reproduced by a trained recurrent neural network, which suggests a previously unknown mechanism for selection and integration of task-relevant inputs. This mechanism indicates that selection and integration are two aspects of a single dynamical process unfolding within the same prefrontal circuits, and potentially provides a novel, general framework for understanding context-dependent computations.",
+  "authors": [
+    "Mante Valerio",
+    "Sussillo David",
+    "Shenoy Krishna V",
+    "Newsome William T"
+  ],
+  "journal": "Nature",
+  "year": "2013",
+  "doi": "10.1038/nature12742",
+  "mesh": [
+    "Animals",
+    "Choice Behavior",
+    "Discrimination Learning",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Prefrontal Cortex"
+  ]
+}

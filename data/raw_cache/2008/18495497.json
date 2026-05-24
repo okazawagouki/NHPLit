@@ -1,0 +1,35 @@
+{
+  "pmid": "18495497",
+  "title": "Diffusion spectrum magnetic resonance imaging (DSI) tractography of crossing fibers.",
+  "abstract": "MRI tractography is the mapping of neural fiber pathways based on diffusion MRI of tissue diffusion anisotropy. Tractography based on diffusion tensor imaging (DTI) cannot directly image multiple fiber orientations within a single voxel. To address this limitation, diffusion spectrum MRI (DSI) and related methods were developed to image complex distributions of intravoxel fiber orientation. Here we demonstrate that tractography based on DSI has the capacity to image crossing fibers in neural tissue. DSI was performed in formalin-fixed brains of adult macaque and in the brains of healthy human subjects. Fiber tract solutions were constructed by a streamline procedure, following directions of maximum diffusion at every point, and analyzed in an interactive visualization environment (TrackVis). We report that DSI tractography accurately shows the known anatomic fiber crossings in optic chiasm, centrum semiovale, and brainstem; fiber intersections in gray matter, including cerebellar folia and the caudate nucleus; and radial fiber architecture in cerebral cortex. In contrast, none of these examples of fiber crossing and complex structure was identified by DTI analysis of the same data sets. These findings indicate that DSI tractography is able to image crossing fibers in neural tissue, an essential step toward non-invasive imaging of connectional neuroanatomy.",
+  "authors": [
+    "Wedeen V J",
+    "Wang R P",
+    "Schmahmann J D",
+    "Benner T",
+    "Tseng W Y I",
+    "Dai G",
+    "Pandya D N",
+    "Hagmann P",
+    "D'Arceuil H",
+    "de Crespigny A J"
+  ],
+  "journal": "NeuroImage",
+  "year": "2008",
+  "doi": "10.1016/j.neuroimage.2008.03.036",
+  "mesh": [
+    "Adult",
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Diffusion Magnetic Resonance Imaging",
+    "Female",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Macaca fascicularis",
+    "Male",
+    "Middle Aged",
+    "Nerve Fibers",
+    "Neural Pathways"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "23106103",
+  "title": "Dynamic properties of functional connectivity in the rodent.",
+  "abstract": "Functional connectivity mapping with resting-state magnetic resonance imaging (MRI) has become an immensely powerful technique that provides insight into both normal cognitive function and disruptions linked to neurological disorders. Traditionally, connectivity is mapped using data from an entire scan (minutes), but it is well known that cognitive processes occur on much shorter time scales (seconds). Recent studies have demonstrated that the correlation between the blood oxygenation level-dependent (BOLD) MRI signal from different areas varies over time, motivating a further exploration of these fluctuations in apparent connectivity. However, it has also been shown that similar changes in correlation can arise when the timing relationships between voxels are randomized (Handwerker et al., 2012 ). In this work, we show that functional connectivity in the anesthetized rat exhibits dynamic properties that are similar to those previously observed in awake humans (Chang and Glover, 2010 ) and anesthetized monkeys (Hutchison et al., 2012 ). Sliding window correlation between BOLD time courses obtained from bilateral cortical and subcortical regions of interest results in periods of variable positive and negative correlation for most pairs of areas except homologous areas in opposite hemispheres, which exhibit a primarily positive correlation. A comparison with sliding window correlation of randomly matched time courses suggests that with the exception of homologous areas and sensorimotor connections, the dynamics cannot be distinguished from random fluctuations in correlation over time, supporting the idea that some of these dynamic patterns may be due to inherent properties of the signal rather than variations in neural coherence. Within the pairs of areas where the dynamics are most different from those of randomly matched time courses, ten common patterns of connectivity are identified, and their occurrence as a function of time is plotted for all animals. The observation of time-varying correlation in the rodent model will facilitate the future multimodal experiments needed to determine whether the changes in apparent connectivity are linked to underlying neural variability.",
+  "authors": [
+    "Keilholz Shella D",
+    "Magnuson Matthew E",
+    "Pan Wen-Ju",
+    "Willis Martha",
+    "Thompson Garth J"
+  ],
+  "journal": "Brain connectivity",
+  "year": "2013",
+  "doi": "10.1089/brain.2012.0115",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Image Processing, Computer-Assisted",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Nerve Net",
+    "Rats",
+    "Rats, Sprague-Dawley"
+  ]
+}

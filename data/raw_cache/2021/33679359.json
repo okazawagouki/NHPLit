@@ -1,0 +1,16 @@
+{
+  "pmid": "33679359",
+  "title": "Transfer of Learning in the Convolutional Neural Networks on Classifying Geometric Shapes Based on Local or Global Invariants.",
+  "abstract": "The convolutional neural networks (CNNs) are a powerful tool of image classification that has been widely adopted in applications of automated scene segmentation and identification. However, the mechanisms underlying CNN image classification remain to be elucidated. In this study, we developed a new approach to address this issue by investigating transfer of learning in representative CNNs (AlexNet, VGG, ResNet-101, and Inception-ResNet-v2) on classifying geometric shapes based on local/global features or invariants. While the local features are based on simple components, such as orientation of line segment or whether two lines are parallel, the global features are based on the whole object such as whether an object has a hole or whether an object is inside of another object. Six experiments were conducted to test two hypotheses on CNN shape classification. The first hypothesis is that transfer of learning based on local features is higher than transfer of learning based on global features. The second hypothesis is that the CNNs with more layers and advanced architectures have higher transfer of learning based global features. The first two experiments examined how the CNNs transferred learning of discriminating local features (square, rectangle, trapezoid, and parallelogram). The other four experiments examined how the CNNs transferred learning of discriminating global features (presence of a hole, connectivity, and inside/outside relationship). While the CNNs exhibited robust learning on classifying shapes, transfer of learning varied from task to task, and model to model. The results rejected both hypotheses. First, some CNNs exhibited lower transfer of learning based on local features than that based on global features. Second the advanced CNNs exhibited lower transfer of learning on global features than that of the earlier models. Among the tested geometric features, we found that learning of discriminating inside/outside relationship was the most difficult to be transferred, indicating an effective benchmark to develop future CNNs. In contrast to the \"ImageNet\" approach that employs natural images to train and analyze the CNNs, the results show proof of concept for the \"ShapeNet\" approach that employs well-defined geometric shapes to elucidate the strengths and limitations of the computation in CNN image classification. This \"ShapeNet\" approach will also provide insights into understanding visual information processing the primate visual systems.",
+  "authors": [
+    "Zheng Yufeng",
+    "Huang Jun",
+    "Chen Tianwen",
+    "Ou Yang",
+    "Zhou Wu"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2021",
+  "doi": "10.3389/fncom.2021.637144",
+  "mesh": []
+}

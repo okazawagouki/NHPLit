@@ -1,0 +1,26 @@
+{
+  "pmid": "15599590",
+  "title": "A computational model of monkey cortical grating cells.",
+  "abstract": "Grating cells were discovered in the V1 and V2 areas of the monkey visual cortex by von der Heydt et al. (1992). These cells responded vigorously to grating patterns of appropriate orientation and periodicity. Computational models inspired by these findings were used as texture operator (Kruzinga and Petkov 1995, 1999; Petkov and Kruzinga 1997) and for the emergence and self-organization of grating cells (Brunner et al. 1998; Bauer et al. 1999). The aim of this paper is to create a grating cell operator that demonstrates similar responses to monkey grating cells by applying operator to the same stimuli as in the experiments carried out by von der Heydt et al. (1992). Operator will be tested on images that contain periodic patterns as suggested by De Valois (1988). In order to learn more about the role of grating cells in natural vision, operator is applied to 338 real-world images of textures obtained from three different databases. The results suggest that grating cells respond strongly to regular alternating periodic patterns of a certain orientation. Such patterns are common in images of human-made structures, like buildings, fabrics, and tiles, and to regular natural periodic patterns, which are relatively rare in nature.",
+  "authors": [
+    "Lourens Tino",
+    "Barakova Emilia",
+    "Okuno Hiroshi G",
+    "Tsujino Hiroshi"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Haplorhini",
+    "Models, Neurological",
+    "Neurons",
+    "Orientation",
+    "Periodicity",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

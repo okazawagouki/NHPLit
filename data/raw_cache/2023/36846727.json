@@ -1,0 +1,18 @@
+{
+  "pmid": "36846727",
+  "title": "HC-Net: A hybrid convolutional network for non-human primate brain extraction.",
+  "abstract": "Brain extraction (skull stripping) is an essential step in the magnetic resonance imaging (MRI) analysis of brain sciences. However, most of the current brain extraction methods that achieve satisfactory results for human brains are often challenged by non-human primate brains. Due to the small sample characteristics and the nature of thick-slice scanning of macaque MRI data, traditional deep convolutional neural networks (DCNNs) are unable to obtain excellent results. To overcome this challenge, this study proposed a symmetrical end-to-end trainable hybrid convolutional neural network (HC-Net). It makes full use of the spatial information between adjacent slices of the MRI image sequence and combines three consecutive slices from three axes for 3D convolutions, which reduces the calculation consumption and promotes accuracy. The HC-Net consists of encoding and decoding structures of 3D convolutions and 2D convolutions in series. The effective use of 2D convolutions and 3D convolutions relieves the underfitting of 2D convolutions to spatial features and the overfitting of 3D convolutions to small samples. After evaluating macaque brain data from different sites, the results showed that HC-Net performed better in inference time (approximately 13 s per volume) and accuracy (mean Dice coefficient reached 95.46%). The HC-Net model also had good generalization ability and stability in different modes of brain extraction tasks.",
+  "authors": [
+    "Fei Hong",
+    "Wang Qianshan",
+    "Shang Fangxin",
+    "Xu Wenyi",
+    "Chen Xiaofeng",
+    "Chen Yifei",
+    "Li Haifang"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2023",
+  "doi": "10.3389/fncom.2023.1113381",
+  "mesh": []
+}

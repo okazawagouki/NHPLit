@@ -1,0 +1,23 @@
+{
+  "pmid": "9412516",
+  "title": "A model that accounts for activity in primate frontal cortex during a delayed matching-to-sample task.",
+  "abstract": "A fully recurrent neural network model was optimized to perform a spatial delayed matching-to-sample task (DMS). In DMS, a stimulus is presented at a sample location, and a match is reported when a subsequent stimulus appears at that location. Stimuli elsewhere are ignored. Computationally, a DMS system could consist of memory and comparison components. The model, although not constrained to do so, worked by using two corresponding classes of neurons in the hidden layer: storage and comparator units. Storage units form a dynamical system with one fixed point attractor for each sample location. Comparator units constitute a system receiving input from these storage units as well as from current input stimuli. Both unit types were tuned directionally. These two sources of information combine to create unique patterns of activity that determine whether a match has occurred. In networks with abundant hidden units, the storage and comparator functions were distributed so that individual units took part in both. We compared the model with single-neuron recordings from premotor (PM) and prefrontal (PF) cortex. As shown previously, many PM and PF neurons behaved like storage units. In addition, both regions contain neurons that behave like the comparator units of the model and appear to have dual functionality similar to that observed in the model units. No neuron in either area had properties identical to those of the match output neuron of the model. However, four PF neurons and one PM neuron resembled the output signal more closely than any of the hidden units of the model.",
+  "authors": [
+    "Moody S L",
+    "Wise S P",
+    "di Pellegrino G",
+    "Zipser D"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Conditioning, Psychological",
+    "Frontal Lobe",
+    "Models, Neurological",
+    "Prefrontal Cortex",
+    "Primates",
+    "Task Performance and Analysis"
+  ]
+}

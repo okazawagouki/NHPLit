@@ -1,0 +1,28 @@
+{
+  "pmid": "40540231",
+  "title": "Modeling characteristics of neuronal firing in the thalamocortical network of connections in control and parkinsonian primates.",
+  "abstract": "According to current anatomical models, motor cortical areas, the basal ganglia, and the ventral motor thalamus form partially closed (re-entrant) loop structures. The normal patterning of neuronal activity within this network regulates aspects of movement planning and execution, while abnormal firing patterns can contribute to movement impairments, such as those seen in Parkinson's disease. Most previous research on such firing pattern abnormalities has focused on parkinsonism-associated changes in the basal ganglia, demonstrating, among other abnormalities, prominent changes in firing rates, as well as the emergence of synchronized beta-band oscillatory burst patterns. In contrast, abnormalities of neuronal activity in the thalamus and cortex are less explored. However, recent studies have shown both changes in thalamocortical connectivity and anatomical changes in corticothalamic terminals in Parkinson's disease. To explore these changes, we created a computational framework to model the effects of changes in thalamocortical connections as they may occur when an individual transitions from the healthy to the parkinsonian state. A 5-dimensional average neuronal firing rate model was fitted to replicate neuronal firing rate information recorded in healthy and parkinsonian primates. The study focused on the effects of (1) changes in synaptic weights of the reciprocal projections between cortical neurons and thalamic principal neurons, and (2) changes in synaptic weights of the cortical projection to thalamic interneurons. We found that it is possible to force the system to change from a healthy to a parkinsonian state, including the emergent oscillatory activity, by only adjusting these two sets of synaptic weights. Thus, this study demonstrates that small changes in the afferent and efferent connections of thalamic neurons could contribute to the emergence of network-wide firing patterns that are characteristic for the parkinsonian state.",
+  "authors": [
+    "Ferrell Carly",
+    "Jiang Qile",
+    "Leu Margaret Olivia",
+    "Wichmann Thomas",
+    "Caiola Michael"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2025",
+  "doi": "10.1007/s10827-025-00909-2",
+  "mesh": [
+    "Animals",
+    "Thalamus",
+    "Neurons",
+    "Models, Neurological",
+    "Action Potentials",
+    "Neural Pathways",
+    "Cerebral Cortex",
+    "Parkinsonian Disorders",
+    "Nerve Net",
+    "Macaca mulatta",
+    "Computer Simulation"
+  ]
+}

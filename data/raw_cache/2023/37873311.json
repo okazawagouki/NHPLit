@@ -1,0 +1,15 @@
+{
+  "pmid": "37873311",
+  "title": "Computational mechanisms underlying motivation to earn symbolic reinforcers.",
+  "abstract": "Reinforcement learning (RL) is a theoretical framework that describes how agents learn to select options that maximize rewards and minimize punishments over time. We often make choices, however, to obtain symbolic reinforcers (e.g. money, points) that can later be exchanged for primary reinforcers (e.g. food, drink). Although symbolic reinforcers are motivating, little is understood about the neural or computational mechanisms underlying the motivation to earn them. In the present study, we examined how monkeys learn to make choices that maximize fluid rewards through reinforcement with tokens. The question addressed here is how the value of a state, which is a function of multiple task features (e.g. current number of accumulated tokens, choice options, task epoch, trials since last delivery of primary reinforcer, etc.), drives value and affects motivation. We constructed a Markov decision process model that computes the value of task states given task features to capture the motivational state of the animal. Fixation times, choice reaction times, and abort frequency were all significantly related to values of task states during the tokens task (n=5 monkeys). Furthermore, the model makes predictions for how neural responses could change on a moment-by-moment basis relative to changes in state value. Together, this task and model allow us to capture learning and behavior related to symbolic reinforcement.",
+  "authors": [
+    "Burk Diana C",
+    "Taswell Craig",
+    "Tang Hua",
+    "Averbeck Bruno B"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2023",
+  "doi": "10.1101/2023.10.11.561900",
+  "mesh": []
+}

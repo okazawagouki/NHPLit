@@ -1,0 +1,26 @@
+{
+  "pmid": "8586556",
+  "title": "Cells and circuits contributing to functional properties in area V1 of macaque monkey cerebral cortex: bases for neuroanatomically realistic models.",
+  "abstract": "Anatomical and physiological data obtained from investigations of area V1 of the macaque monkey visual cerebral cortex have been used in 3 models outlining possible circuitry underlying functional properties of the region. The 3 models use, respectively, a fully implemented computer neural network, a mathematical formulation of interactions in a descriptive model of anatomical circuitry and a purely descriptive account of circuitry that could underlie particular functions. The 1st 2 models involve as part of their design an interpolation principle where afferents of opposite physiological property establish spatially offset but adjacent terminal fields and the postsynaptic neurons' dendrites have a continuum of different degrees of overlap into the 2 afferent pools and therefore different synaptic weights from the 2 afferents; this creates a functional and spatial gradient of response properties in the postsynaptic neurons between the properties of the different sets of afferents. The 3rd model examines lateral excitatory and inhibitory interactions in such gradients. Model 1 addresses the transformation of distinct thalamic axon properties to a gradient of response properties in postsynaptic spiny stellate neurons in layer 4C of V1. Model 2 proposes circuitry producing orientation specificity in V1 that begins by generating specificity of responses to orthogonal orientations; this is achieved by means of orthogonally oriented lateral axon projections made by the layer 4C spiny stellate neurons; this is followed by generation of a full cycle of orientation specificities by means of pyramidal neuron dendritic overlap across spatially separated fields of spiny stellate neuron axons responding preferentially to orthogonal orientations. Model 3 describes a circuitry to explain inhibitory and facilitatory interactions observed to occur in single unit responses when the classical receptive field is stimulated concurrently with the surround region. All the proposed models make predictions that can be tested by further anatomical and physiological experiments in the real visual cortex.",
+  "authors": [
+    "Lund J S",
+    "Wu Q",
+    "Hadingham P T",
+    "Levitt J B"
+  ],
+  "journal": "Journal of anatomy",
+  "year": "1995",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Macaca",
+    "Mathematics",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neural Pathways",
+    "Orientation",
+    "Thalamic Nuclei",
+    "Visual Cortex"
+  ]
+}

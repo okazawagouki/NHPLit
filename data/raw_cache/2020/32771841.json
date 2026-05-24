@@ -1,0 +1,23 @@
+{
+  "pmid": "32771841",
+  "title": "Improved object recognition using neural networks trained to mimic the brain's statistical properties.",
+  "abstract": "The current state-of-the-art object recognition algorithms, deep convolutional neural networks (DCNNs), are inspired by the architecture of the mammalian visual system, and are capable of human-level performance on many tasks. As they are trained for object recognition tasks, it has been shown that DCNNs develop hidden representations that resemble those observed in the mammalian visual system (Razavi and Kriegeskorte, 2014; Yamins and Dicarlo, 2016; Gu and van Gerven, 2015; Mcclure and Kriegeskorte, 2016). Moreover, DCNNs trained on object recognition tasks are currently among the best models we have of the mammalian visual system. This led us to hypothesize that teaching DCNNs to achieve even more brain-like representations could improve their performance. To test this, we trained DCNNs on a composite task, wherein networks were trained to: (a) classify images of objects; while (b) having intermediate representations that resemble those observed in neural recordings from monkey visual cortex. Compared with DCNNs trained purely for object categorization, DCNNs trained on the composite task had better object recognition performance and are more robust to label corruption. Interestingly, we found that neural data was not required for this process, but randomized data with the same statistical properties as neural data also boosted performance. While the performance gains we observed when training on the composite task vs the \"pure\" object recognition task were modest, they were remarkably robust. Notably, we observed these performance gains across all network variations we studied, including: smaller (CORNet-Z) vs larger (VGG-16) architectures; variations in optimizers (Adam vs gradient descent); variations in activation function (ReLU vs ELU); and variations in network initialization. Our results demonstrate the potential utility of a new approach to training object recognition networks, using strategies in which the brain - or at least the statistical properties of its activation patterns - serves as a teacher signal for training DCNNs.",
+  "authors": [
+    "Federer Callie",
+    "Xu Haoyan",
+    "Fyshe Alona",
+    "Zylberberg Joel"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2020",
+  "doi": "10.1016/j.neunet.2020.07.013",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Pattern Recognition, Automated",
+    "Pattern Recognition, Visual",
+    "Visual Cortex"
+  ]
+}

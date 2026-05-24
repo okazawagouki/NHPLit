@@ -1,0 +1,14 @@
+{
+  "pmid": "36387007",
+  "title": "Category learning in a recurrent neural network with reinforcement learning.",
+  "abstract": "It is known that humans and animals can learn and utilize category information quickly and efficiently to adapt to changing environments, and several brain areas are involved in learning and encoding category information. However, it is unclear that how the brain system learns and forms categorical representations from the view of neural circuits. In order to investigate this issue from the network level, we combine a recurrent neural network with reinforcement learning to construct a deep reinforcement learning model to demonstrate how the category is learned and represented in the network. The model consists of a policy network and a value network. The policy network is responsible for updating the policy to choose actions, while the value network is responsible for evaluating the action to predict rewards. The agent learns dynamically through the information interaction between the policy network and the value network. This model was trained to learn six stimulus-stimulus associative chains in a sequential paired-association task that was learned by the monkey. The simulated results demonstrated that our model was able to learn the stimulus-stimulus associative chains, and successfully reproduced the similar behavior of the monkey performing the same task. Two types of neurons were found in this model: one type primarily encoded identity information about individual stimuli; the other type mainly encoded category information of associated stimuli in one chain. The two types of activity-patterns were also observed in the primate prefrontal cortex after the monkey learned the same task. Furthermore, the ability of these two types of neurons to encode stimulus or category information was enhanced during this model was learning the task. Our results suggest that the neurons in the recurrent neural network have the ability to form categorical representations through deep reinforcement learning during learning stimulus-stimulus associations. It might provide a new approach for understanding neuronal mechanisms underlying how the prefrontal cortex learns and encodes category information.",
+  "authors": [
+    "Zhang Ying",
+    "Pan Xiaochuan",
+    "Wang Yihong"
+  ],
+  "journal": "Frontiers in psychiatry",
+  "year": "2022",
+  "doi": "10.3389/fpsyt.2022.1008011",
+  "mesh": []
+}

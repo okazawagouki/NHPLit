@@ -1,0 +1,15 @@
+{
+  "pmid": "39651243",
+  "title": "Dorsolateral prefrontal cortex drives strategic aborting by optimizing long-run policy extraction.",
+  "abstract": "Real world choices often involve balancing decisions that are optimized for the short-vs. long-term. Here, we reason that apparently sub-optimal single trial decisions in macaques may in fact reflect long-term, strategic planning. We demonstrate that macaques freely navigating in VR for sequentially presented targets will strategically abort offers, forgoing more immediate rewards on individual trials to maximize session-long returns. This behavior is highly specific to the individual, demonstrating that macaques reason about their own long-run performance. Reinforcement-learning (RL) models suggest this behavior is algorithmically supported by modular actor-critic networks with a policy module not only optimizing long-term value functions, but also informed of specific state-action values allowing for rapid policy optimization. The behavior of artificial networks suggests that changes in policy for a matched offer ought to be evident as soon as offers are made, even if the aborting behavior occurs much later. We confirm this prediction by demonstrating that single units and population dynamics in macaque dorsolateral prefrontal cortex (dlPFC), but not parietal area 7a or dorsomedial superior temporal area (MSTd), reflect the upcoming reward-maximizing aborting behavior upon offer presentation. These results cast dlPFC as a specialized policy module, and stand in contrast to recent work demonstrating the distributed and recurrent nature of belief-networks.",
+  "authors": [
+    "Noel Jean-Paul",
+    "Zhang Ruiyi",
+    "Pitkow Xaq",
+    "Angelaki Dora E"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.11.28.625897",
+  "mesh": []
+}

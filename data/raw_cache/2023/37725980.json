@@ -1,0 +1,24 @@
+{
+  "pmid": "37725980",
+  "title": "A view-based decision mechanism for rewards in the primate amygdala.",
+  "abstract": "Primates make decisions visually by shifting their view from one object to the next, comparing values between objects, and choosing the best reward, even before acting. Here, we show that when monkeys make value-guided choices, amygdala neurons encode their decisions in an abstract, purely internal representation defined by the monkey's current view but not by specific object or reward properties. Across amygdala subdivisions, recorded activity patterns evolved gradually from an object-specific value code to a transient, object-independent code in which currently viewed and last-viewed objects competed to reflect the emerging view-based choice. Using neural-network modeling, we identified a sequence of computations by which amygdala neurons implemented view-based decision making and eventually recovered the chosen object's identity when the monkeys acted on their choice. These findings reveal a neural mechanism in the amygdala that derives object choices from abstract, view-based computations, suggesting an efficient solution for decision problems with many objects.",
+  "authors": [
+    "Grabenhorst Fabian",
+    "Ponce-Alvarez Adrián",
+    "Battaglia-Mayer Alexandra",
+    "Deco Gustavo",
+    "Schultz Wolfram"
+  ],
+  "journal": "Neuron",
+  "year": "2023",
+  "doi": "10.1016/j.neuron.2023.08.024",
+  "mesh": [
+    "Animals",
+    "Choice Behavior",
+    "Macaca mulatta",
+    "Amygdala",
+    "Reward",
+    "Neurons",
+    "Decision Making"
+  ]
+}

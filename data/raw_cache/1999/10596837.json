@@ -1,0 +1,24 @@
+{
+  "pmid": "10596837",
+  "title": "A feedback model of attention and context dependence in visual cortical networks.",
+  "abstract": "We have modeled biologically realistic neural networks that may be involved in contextual modulation of stimulus responses, as reported in the neurophysiological experiments of Motter (1994a, 1994b) (Journal of Neuroscience, 14:2179-2189 and 2190-2199). The networks of our model are structured hierarchically with feedforward, feedback, and lateral connections, totaling several thousand cells and about 300,000 synapses. The contextual modulation, arising from attention cues, is explicitly modeled as a feedback signal coming from the highest-order cortical network. The feedback signal arises from mutually inhibitory neurons with different stimulus preferences. Although our model is probably the simplest one consistent with available anatomical and physiological evidence and ignores the complexities that may exist in high-level cortical networks such as the prefrontal cortex, it reproduces the experimental results quite well and offers some guidance for future experiments. We also report the unexpected observation of 40 Hz oscillations in the model.",
+  "authors": [
+    "Kirkland K L",
+    "Gerstein G L"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pmid": "27555826",
+  "title": "The Effects of Auditory Contrast Tuning upon Speech Intelligibility.",
+  "abstract": "We have previously identified neurons tuned to spectral contrast of wideband sounds in auditory cortex of awake marmoset monkeys. Because additive noise alters the spectral contrast of speech, contrast-tuned neurons, if present in human auditory cortex, may aid in extracting speech from noise. Given that this cortical function may be underdeveloped in individuals with sensorineural hearing loss, incorporating biologically-inspired algorithms into external signal processing devices could provide speech enhancement benefits to cochlear implantees. In this study we first constructed a computational signal processing algorithm to mimic auditory cortex contrast tuning. We then manipulated the shape of contrast channels and evaluated the intelligibility of reconstructed noisy speech using a metric to predict cochlear implant user perception. Candidate speech enhancement strategies were then tested in cochlear implantees with a hearing-in-noise test. Accentuation of intermediate contrast values or all contrast values improved computed intelligibility. Cochlear implant subjects showed significant improvement in noisy speech intelligibility with a contrast shaping procedure.",
+  "authors": [
+    "Killian Nathan J",
+    "Watkins Paul V",
+    "Davidson Lisa S",
+    "Barbour Dennis L"
+  ],
+  "journal": "Frontiers in psychology",
+  "year": "2016",
+  "doi": "10.3389/fpsyg.2016.01145",
+  "mesh": []
+}

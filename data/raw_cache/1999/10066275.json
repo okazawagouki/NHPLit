@@ -1,0 +1,27 @@
+{
+  "pmid": "10066275",
+  "title": "Visual motion analysis for pursuit eye movements in area MT of macaque monkeys.",
+  "abstract": "We asked whether the dynamics of target motion are represented in visual area MT and how information about image velocity and acceleration might be extracted from the population responses in area MT for use in motor control. The time course of MT neuron responses was recorded in anesthetized macaque monkeys during target motions that covered the range of dynamics normally seen during smooth pursuit eye movements. When the target motion provided steps of target speed, MT neurons showed a continuum from purely tonic responses to those with large transient pulses of firing at the onset of motion. Cells with large transient responses for steps of target speed also had larger responses for smooth accelerations than for decelerations through the same range of target speeds. Condition-test experiments with pairs of 64 msec pulses of target speed revealed response attenuation at short interpulse intervals in cells with large transient responses. For sinusoidal modulation of target speed, MT neuron responses were strongly modulated for frequencies up to, but not higher than, 8 Hz. The phase of the responses was consistent with a 90 msec time delay between target velocity and firing rate. We created a model that reproduced the dynamic responses of MT cells using divisive gain control, used the model to visualize the population response in MT to individual stimuli, and devised weighted-averaging computations to reconstruct target speed and acceleration from the population response. Target speed could be reconstructed if each neuron's output was weighted according to its preferred speed. Target acceleration could be reconstructed if each neuron's output was weighted according to the product of preferred speed and a measure of the size of its transient response.",
+  "authors": [
+    "Lisberger S G",
+    "Movshon J A"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Acceleration",
+    "Animals",
+    "Computer Simulation",
+    "Macaca fascicularis",
+    "Macaca nemestrina",
+    "Models, Biological",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Pursuit, Smooth",
+    "Reaction Time",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

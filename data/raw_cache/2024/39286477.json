@@ -1,0 +1,13 @@
+{
+  "pmid": "39286477",
+  "title": "Accuracy optimized neural networks do not effectively model optic flow tuning in brain area MSTd.",
+  "abstract": "Accuracy-optimized convolutional neural networks (CNNs) have emerged as highly effective models at predicting neural responses in brain areas along the primate ventral stream, but it is largely unknown whether they effectively model neurons in the complementary primate dorsal stream. We explored how well CNNs model the optic flow tuning properties of neurons in dorsal area MSTd and we compared our results with the Non-Negative Matrix Factorization (NNMF) model, which successfully models many tuning properties of MSTd neurons. To better understand the role of computational properties in the NNMF model that give rise to optic flow tuning that resembles that of MSTd neurons, we created additional CNN model variants that implement key NNMF constraints - non-negative weights and sparse coding of optic flow. While the CNNs and NNMF models both accurately estimate the observer's self-motion from purely translational or rotational optic flow, NNMF and the CNNs with nonnegative weights yield substantially less accurate estimates than the other CNNs when tested on more complex optic flow that combines observer translation and rotation. Despite its poor accuracy, NNMF gives rise to tuning properties that align more closely with those observed in primate MSTd than any of the accuracy-optimized CNNs. This work offers a step toward a deeper understanding of the computational properties and constraints that describe the optic flow tuning of primate area MSTd.",
+  "authors": [
+    "Layton Oliver W",
+    "Steinmetz Scott T"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2024",
+  "doi": "10.3389/fnins.2024.1441285",
+  "mesh": []
+}

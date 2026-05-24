@@ -1,0 +1,15 @@
+{
+  "pmid": "20204164",
+  "title": "Brain-Computer Interfaces for Speech Communication.",
+  "abstract": "This paper briefly reviews current silent speech methodologies for normal and disabled individuals. Current techniques utilizing electromyographic (EMG) recordings of vocal tract movements are useful for physically healthy individuals but fail for tetraplegic individuals who do not have accurate voluntary control over the speech articulators. Alternative methods utilizing EMG from other body parts (e.g., hand, arm, or facial muscles) or electroencephalography (EEG) can provide capable silent communication to severely paralyzed users, though current interfaces are extremely slow relative to normal conversation rates and require constant attention to a computer screen that provides visual feedback and/or cueing. We present a novel approach to the problem of silent speech via an intracortical microelectrode brain computer interface (BCI) to predict intended speech information directly from the activity of neurons involved in speech production. The predicted speech is synthesized and acoustically fed back to the user with a delay under 50 ms. We demonstrate that the Neurotrophic Electrode used in the BCI is capable of providing useful neural recordings for over 4 years, a necessary property for BCIs that need to remain viable over the lifespan of the user. Other design considerations include neural decoding techniques based on previous research involving BCIs for computer cursor or robotic arm control via prediction of intended movement kinematics from motor cortical signals in monkeys and humans. Initial results from a study of continuous speech production with instantaneous acoustic feedback show the BCI user was able to improve his control over an artificial speech synthesizer both within and across recording sessions. The success of this initial trial validates the potential of the intracortical microelectrode-based approach for providing a speech prosthesis that can allow much more rapid communication rates.",
+  "authors": [
+    "Brumberg Jonathan S",
+    "Nieto-Castanon Alfonso",
+    "Kennedy Philip R",
+    "Guenther Frank H"
+  ],
+  "journal": "Speech communication",
+  "year": "2010",
+  "doi": "",
+  "mesh": []
+}

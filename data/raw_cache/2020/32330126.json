@@ -1,0 +1,33 @@
+{
+  "pmid": "32330126",
+  "title": "Dimensionality, information and learning in prefrontal cortex.",
+  "abstract": "Learning leads to changes in population patterns of neural activity. In this study we wanted to examine how these changes in patterns of activity affect the dimensionality of neural responses and information about choices. We addressed these questions by carrying out high channel count recordings in dorsal-lateral prefrontal cortex (dlPFC; 768 electrodes) while monkeys performed a two-armed bandit reinforcement learning task. The high channel count recordings allowed us to study population coding while monkeys learned choices between actions or objects. We found that the dimensionality of neural population activity was higher across blocks in which animals learned the values of novel pairs of objects, than across blocks in which they learned the values of actions. The increase in dimensionality with learning in object blocks was related to less shared information across blocks, and therefore patterns of neural activity that were less similar, when compared to learning in action blocks. Furthermore, these differences emerged with learning, and were not a simple function of the choice of a visual image or action. Therefore, learning the values of novel objects increases the dimensionality of neural representations in dlPFC.",
+  "authors": [
+    "Bartolo Ramon",
+    "Saunders Richard C",
+    "Mitz Andrew R",
+    "Averbeck Bruno B"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2020",
+  "doi": "10.1371/journal.pcbi.1007514",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Electrodes",
+    "Eye Movements",
+    "Image Processing, Computer-Assisted",
+    "Learning",
+    "Light",
+    "Macaca",
+    "Male",
+    "Microelectrodes",
+    "Neurons",
+    "Photic Stimulation",
+    "Prefrontal Cortex",
+    "Reinforcement, Psychology",
+    "Reward",
+    "Saccades"
+  ]
+}

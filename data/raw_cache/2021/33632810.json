@@ -1,0 +1,20 @@
+{
+  "pmid": "33632810",
+  "title": "An Integrate-and-Fire Spiking Neural Network Model Simulating Artificially Induced Cortical Plasticity.",
+  "abstract": "We describe an integrate-and-fire (IF) spiking neural network that incorporates spike-timing-dependent plasticity (STDP) and simulates the experimental outcomes of four different conditioning protocols that produce cortical plasticity. The original conditioning experiments were performed in freely moving non-human primates (NHPs) with an autonomous head-fixed bidirectional brain-computer interface (BCI). Three protocols involved closed-loop stimulation triggered from (1) spike activity of single cortical neurons, (2) electromyographic (EMG) activity from forearm muscles, and (3) cycles of spontaneous cortical beta activity. A fourth protocol involved open-loop delivery of pairs of stimuli at neighboring cortical sites. The IF network that replicates the experimental results consists of 360 units with simulated membrane potentials produced by synaptic inputs and triggering a spike when reaching threshold. The 240 cortical units produce either excitatory or inhibitory postsynaptic potentials (PSPs) in their target units. In addition to the experimentally observed conditioning effects, the model also allows computation of underlying network behavior not originally documented. Furthermore, the model makes predictions about outcomes from protocols not yet investigated, including spike-triggered inhibition, γ-triggered stimulation and disynaptic conditioning. The success of the simulations suggests that a simple voltage-based IF model incorporating STDP can capture the essential mechanisms mediating targeted plasticity with closed-loop stimulation.",
+  "authors": [
+    "Shupe Larry",
+    "Fetz Eberhard"
+  ],
+  "journal": "eNeuro",
+  "year": "2021",
+  "doi": "10.1523/ENEURO.0333-20.2021",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neuronal Plasticity",
+    "Neurons"
+  ]
+}

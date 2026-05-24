@@ -1,0 +1,28 @@
+{
+  "pmid": "19439598",
+  "title": "Preserving information in neural transmission.",
+  "abstract": "Along most neural pathways, the spike trains transmitted from one neuron to the next are altered. In the process, neurons can either achieve a more efficient stimulus representation, or extract some biologically important stimulus parameter, or succeed at both. We recorded the inputs from single retinal ganglion cells and the outputs from connected lateral geniculate neurons in the macaque to examine how visual signals are relayed from retina to cortex. We found that geniculate neurons re-encoded multiple temporal stimulus features to yield output spikes that carried more information about stimuli than was available in each input spike. The coding transformation of some relay neurons occurred with no decrement in information rate, despite output spike rates that averaged half the input spike rates. This preservation of transmitted information was achieved by the short-term summation of inputs that geniculate neurons require to spike. A reduced model of the retinal and geniculate visual responses, based on two stimulus features and their associated nonlinearities, could account for >85% of the total information available in the spike trains and the preserved information transmission. These results apply to neurons operating on a single time-varying input, suggesting that synaptic temporal integration can alter the temporal receptive field properties to create a more efficient representation of visual signals in the thalamus than the retina.",
+  "authors": [
+    "Sincich Lawrence C",
+    "Horton Jonathan C",
+    "Sharpee Tatyana O"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2009",
+  "doi": "10.1523/JNEUROSCI.3701-08.2009",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Excitatory Postsynaptic Potentials",
+    "Geniculate Bodies",
+    "Macaca",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Retinal Ganglion Cells",
+    "Synaptic Transmission",
+    "Time",
+    "Visual Pathways"
+  ]
+}

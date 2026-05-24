@@ -1,0 +1,28 @@
+{
+  "pmid": "38508293",
+  "title": "Temporal interference stimulation targets deep primate brain.",
+  "abstract": "Temporal interference (TI) stimulation, a novel non-invasive stimulation strategy, has recently been shown to modulate neural activity in deep brain regions of living mice. Yet, it is uncertain if this method is applicable to larger brains and whether the electric field produced under traditional safety currents can penetrate deep regions as observed in mice. Despite recent model-based simulation studies offering positive evidence at both macro- and micro-scale levels, the absence of electrophysiological data from actual brains hinders comprehensive understanding and potential application of TI. This study aims to directly measure the spatiotemporal properties of the interfered electric field in the rhesus monkey brain and to validate the effects of TI on the human brain. Two monkeys were involved in the measurement, with implantation of several stereo-electroencephalography (SEEG) depth electrodes. TI stimulation was applied to anesthetized monkeys using two pairs of surface electrodes at differing stimulation parameters. Model-based simulations were also conducted and subsequently compared with actual recordings. Additionally, TI stimulation was administered to patients with motor disorders to validate its effects on motor symptoms. Through the integration of computational electric field simulation with empirical measurements, it was determined that the temporally interfering electric fields in the deep central regions are capable of attaining a magnitude sufficient to induce a subthreshold modulation effect on neural signals. Additionally, an improvement in movement disorders was observed as a result of TI stimulation. This study is the first to systematically measure the TI electric field in living non-human primates, offering empirical evidence that TI holds promise as a more focal and precise method for modulating neural activities in deep regions of a large brain. This advancement paves the way for future applications of TI in treating neuropsychiatric disorders.",
+  "authors": [
+    "Liu Ruobing",
+    "Zhu Guanyu",
+    "Wu Zhengping",
+    "Gan Yifei",
+    "Zhang Jianguo",
+    "Liu Jiali",
+    "Wang Liang"
+  ],
+  "journal": "NeuroImage",
+  "year": "2024",
+  "doi": "10.1016/j.neuroimage.2024.120581",
+  "mesh": [
+    "Humans",
+    "Animals",
+    "Mice",
+    "Brain",
+    "Electrodes",
+    "Computer Simulation",
+    "Electroencephalography",
+    "Primates",
+    "Deep Brain Stimulation"
+  ]
+}

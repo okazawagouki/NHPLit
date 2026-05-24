@@ -1,0 +1,14 @@
+{
+  "pmid": "39975199",
+  "title": "Strategies to decipher neuron identity from extracellular recordings in the cerebellum of behaving non-human primates.",
+  "abstract": "Identification of neuron type is critical to understand computation in neural circuits through extracellular recordings in awake, behaving animal subjects. Yet, modern recording probes have limited power to resolve neuron type. Here, we leverage the well-characterized architecture of the cerebellar circuit to perform expert identification of neuron type from extracellular recordings in behaving non-human primates. Using deep-learning classifiers we evaluate the information contained in readily accessible extracellular features for neuron identification. Waveform, discharge statistics, anatomical layer, and functional interactions each can inform neuron labels for a sizable fraction of cerebellar units. Together, as inputs to a deep-learning classifier, the features perform even better. Our tools and methodologies, validated during smooth pursuit eye movements in the cerebellar floccular complex of awake behaving monkeys, can guide expert identification of neuron type during cerebellar-dependent tasks in behaving animals across species. They lay the groundwork for characterization of information processing in the cerebellar cortex.",
+  "authors": [
+    "Herzfeld David J",
+    "Hall Nathan J",
+    "Lisberger Stephen G"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.01.29.634860",
+  "mesh": []
+}

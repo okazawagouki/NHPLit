@@ -1,0 +1,32 @@
+{
+  "pmid": "24466019",
+  "title": "Comparison of classifiers for decoding sensory and cognitive information from prefrontal neuronal populations.",
+  "abstract": "Decoding neuronal information is important in neuroscience, both as a basic means to understand how neuronal activity is related to cerebral function and as a processing stage in driving neuroprosthetic effectors. Here, we compare the readout performance of six commonly used classifiers at decoding two different variables encoded by the spiking activity of the non-human primate frontal eye fields (FEF): the spatial position of a visual cue, and the instructed orientation of the animal's attention. While the first variable is exogenously driven by the environment, the second variable corresponds to the interpretation of the instruction conveyed by the cue; it is endogenously driven and corresponds to the output of internal cognitive operations performed on the visual attributes of the cue. These two variables were decoded using either a regularized optimal linear estimator in its explicit formulation, an optimal linear artificial neural network estimator, a non-linear artificial neural network estimator, a non-linear naïve Bayesian estimator, a non-linear Reservoir recurrent network classifier or a non-linear Support Vector Machine classifier. Our results suggest that endogenous information such as the orientation of attention can be decoded from the FEF with the same accuracy as exogenous visual information. All classifiers did not behave equally in the face of population size and heterogeneity, the available training and testing trials, the subject's behavior and the temporal structure of the variable of interest. In most situations, the regularized optimal linear estimator and the non-linear Support Vector Machine classifiers outperformed the other tested decoders.",
+  "authors": [
+    "Astrand Elaine",
+    "Enel Pierre",
+    "Ibos Guilhem",
+    "Dominey Peter Ford",
+    "Baraduc Pierre",
+    "Ben Hamed Suliann"
+  ],
+  "journal": "PloS one",
+  "year": "2014",
+  "doi": "10.1371/journal.pone.0086314",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Bayes Theorem",
+    "Cognition",
+    "Computer Simulation",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Photic Stimulation",
+    "Prefrontal Cortex",
+    "Support Vector Machine"
+  ]
+}

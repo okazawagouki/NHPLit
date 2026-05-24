@@ -1,0 +1,34 @@
+{
+  "pmid": "25527184",
+  "title": "Functional consequences of age-related morphologic changes to pyramidal neurons of the rhesus monkey prefrontal cortex.",
+  "abstract": "Layer 3 (L3) pyramidal neurons in the lateral prefrontal cortex (LPFC) of rhesus monkeys exhibit dendritic regression, spine loss and increased action potential (AP) firing rates during normal aging. The relationship between these structural and functional alterations, if any, is unknown. To address this issue, morphological and electrophysiological properties of L3 LPFC pyramidal neurons from young and aged rhesus monkeys were characterized using in vitro whole-cell patch-clamp recordings and high-resolution digital reconstruction of neurons. Consistent with our previous studies, aged neurons exhibited significantly reduced dendritic arbor length and spine density, as well as increased input resistance and firing rates. Computational models using the digital reconstructions with Hodgkin-Huxley and AMPA channels allowed us to assess relationships between demonstrated age-related changes and to predict physiological changes that have not yet been tested empirically. For example, the models predict that in both backpropagating APs and excitatory postsynaptic currents (EPSCs), attenuation is lower in aged versus young neurons. Importantly, when identical densities of passive parameters and voltage- and calcium-gated conductances were used in young and aged model neurons, neither input resistance nor firing rates differed between the two age groups. Tuning passive parameters for each model predicted significantly higher membrane resistance (R m ) in aged versus young neurons. This R m increase alone did not account for increased firing rates in aged models, but coupling these R m values with subtle differences in morphology and membrane capacitance did. The predicted differences in passive parameters (or parameters with similar effects) are mathematically plausible, but must be tested empirically.",
+  "authors": [
+    "Coskren Patrick J",
+    "Luebke Jennifer I",
+    "Kabaso Doron",
+    "Wearne Susan L",
+    "Yadav Aniruddha",
+    "Rumbell Timothy",
+    "Hof Patrick R",
+    "Weaver Christina M"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2015",
+  "doi": "10.1007/s10827-014-0541-5",
+  "mesh": [
+    "Action Potentials",
+    "Aging",
+    "Animals",
+    "Dendrites",
+    "Electrophysiology",
+    "Excitatory Postsynaptic Potentials",
+    "Image Processing, Computer-Assisted",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Patch-Clamp Techniques",
+    "Prefrontal Cortex",
+    "Pyramidal Cells",
+    "Receptors, AMPA",
+    "Voltage-Gated Sodium Channels"
+  ]
+}

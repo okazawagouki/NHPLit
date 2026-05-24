@@ -1,0 +1,21 @@
+{
+  "pmid": "26236229",
+  "title": "Subject-specific computational modeling of DBS in the PPTg area.",
+  "abstract": "Deep brain stimulation (DBS) in the pedunculopontine tegmental nucleus (PPTg) has been proposed to alleviate medically intractable gait difficulties associated with Parkinson's disease. Clinical trials have shown somewhat variable outcomes, stemming in part from surgical targeting variability, modulating fiber pathways implicated in side effects, and a general lack of mechanistic understanding of DBS in this brain region. Subject-specific computational models of DBS are a promising tool to investigate the underlying therapy and side effects. In this study, a parkinsonian rhesus macaque was implanted unilaterally with an 8-contact DBS lead in the PPTg region. Fiber tracts adjacent to PPTg, including the oculomotor nerve, central tegmental tract, and superior cerebellar peduncle, were reconstructed from a combination of pre-implant 7T MRI, post-implant CT, and post-mortem histology. These structures were populated with axon models and coupled with a finite element model simulating the voltage distribution in the surrounding neural tissue during stimulation. This study introduces two empirical approaches to evaluate model parameters. First, incremental monopolar cathodic stimulation (20 Hz, 90 μs pulse width) was evaluated for each electrode, during which a right eyelid flutter was observed at the proximal four contacts (-1.0 to -1.4 mA). These current amplitudes followed closely with model predicted activation of the oculomotor nerve when assuming an anisotropic conduction medium. Second, PET imaging was collected OFF-DBS and twice during DBS (two different contacts), which supported the model predicted activation of the central tegmental tract and superior cerebellar peduncle. Together, subject-specific models provide a framework to more precisely predict pathways modulated by DBS.",
+  "authors": [
+    "Zitella Laura M",
+    "Teplitzky Benjamin A",
+    "Yager Paul",
+    "Hudson Heather M",
+    "Brintz Katelynn",
+    "Duchin Yuval",
+    "Harel Noam",
+    "Vitek Jerrold L",
+    "Baker Kenneth B",
+    "Johnson Matthew D"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2015",
+  "doi": "10.3389/fncom.2015.00093",
+  "mesh": []
+}

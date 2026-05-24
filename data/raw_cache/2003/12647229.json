@@ -1,0 +1,35 @@
+{
+  "pmid": "12647229",
+  "title": "Robustness of neuroprosthetic decoding algorithms.",
+  "abstract": "We assessed the ability of two algorithms to predict hand kinematics from neural activity as a function of the amount of data used to determine the algorithm parameters. Using chronically implanted intracortical arrays, single- and multineuron discharge was recorded during trained step tracking and slow continuous tracking tasks in macaque monkeys. The effect of increasing the amount of data used to build a neural decoding model on the ability of that model to predict hand kinematics accurately was examined. We evaluated how well a maximum-likelihood model classified discrete reaching directions and how well a linear filter model reconstructed continuous hand positions over time within and across days. For each of these two models we asked two questions: (1) How does classification performance change as the amount of data the model is built upon increases? (2) How does varying the time interval between the data used to build the model and the data used to test the model affect reconstruction? Less than 1 min of data for the discrete task (8 to 13 neurons) and less than 3 min (8 to 18 neurons) for the continuous task were required to build optimal models. Optimal performance was defined by a cost function we derived that reflects both the ability of the model to predict kinematics accurately and the cost of taking more time to build such models. For both the maximum-likelihood classifier and the linear filter model, increasing the duration between the time of building and testing the model within a day did not cause any significant trend of degradation or improvement in performance. Linear filters built on one day and tested on neural data on a subsequent day generated error-measure distributions that were not significantly different from those generated when the linear filters were tested on neural data from the initial day (p<0.05, Kolmogorov-Smirnov test). These data show that only a small amount of data from a limited number of cortical neurons appears to be necessary to construct robust models to predict kinematic parameters for the subsequent hours. Motor-control signals derived from neurons in motor cortex can be reliably acquired for use in neural prosthetic devices. Adequate decoding models can be built rapidly from small numbers of cells and maintained with daily calibration sessions.",
+  "authors": [
+    "Serruya Mijail",
+    "Hatsopoulos Nicholas",
+    "Fellows Matthew",
+    "Paninski Liam",
+    "Donoghue John"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Efferent Pathways",
+    "Female",
+    "Hand",
+    "Linear Models",
+    "Macaca",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Movement",
+    "Predictive Value of Tests",
+    "Reproducibility of Results",
+    "Signal Processing, Computer-Assisted",
+    "User-Computer Interface"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "26935275",
+  "title": "Population Code Dynamics in Categorical Perception.",
+  "abstract": "Categorical perception is a ubiquitous function in sensory information processing, and is reported to have important influences on the recognition of presented and/or memorized stimuli. However, such complex interactions among categorical perception and other aspects of sensory processing have not been explained well in a unified manner. Here, we propose a recurrent neural network model to process categorical information of stimuli, which approximately realizes a hierarchical Bayesian estimation on stimuli. The model accounts for a wide variety of neurophysiological and cognitive phenomena in a consistent framework. In particular, the reported complexity of categorical effects, including (i) task-dependent modulation of neural response, (ii) clustering of neural population representation, (iii) temporal evolution of perceptual color memory, and (iv) a non-uniform discrimination threshold, are explained as different aspects of a single model. Moreover, we directly examine key model behaviors in the monkey visual cortex by analyzing neural population dynamics during categorization and discrimination of color stimuli. We find that the categorical task causes temporally-evolving biases in the neuronal population representations toward the focal colors, which supports the proposed model. These results suggest that categorical perception can be achieved by recurrent neural dynamics that approximates optimal probabilistic inference in the changing environment.",
+  "authors": [
+    "Tajima Chihiro I",
+    "Tajima Satohiro",
+    "Koida Kowa",
+    "Komatsu Hidehiko",
+    "Aihara Kazuyuki",
+    "Suzuki Hideyuki"
+  ],
+  "journal": "Scientific reports",
+  "year": "2016",
+  "doi": "10.1038/srep22536",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Nerve Net",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

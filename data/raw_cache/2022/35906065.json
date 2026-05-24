@@ -1,0 +1,34 @@
+{
+  "pmid": "35906065",
+  "title": "Detecting Spontaneous Neural Oscillation Events in Primate Auditory Cortex.",
+  "abstract": "Electrophysiological oscillations in the brain have been shown to occur as multicycle events, with onset and offset dependent on behavioral and cognitive state. To provide a baseline for state-related and task-related events, we quantified oscillation features in resting-state recordings. We developed an open-source wavelet-based tool to detect and characterize such oscillation events (OEvents) and exemplify the use of this tool in both simulations and two invasively-recorded electrophysiology datasets: one from human, and one from nonhuman primate (NHP) auditory system. After removing incidentally occurring event-related potentials (ERPs), we used OEvents to quantify oscillation features. We identified ∼2 million oscillation events, classified within traditional frequency bands: δ, θ, α, β, low γ, γ, and high γ. Oscillation events of 1-44 cycles could be identified in at least one frequency band 90% of the time in human and NHP recordings. Individual oscillation events were characterized by nonconstant frequency and amplitude. This result necessarily contrasts with prior studies which assumed frequency constancy, but is consistent with evidence from event-associated oscillations. We measured oscillation event duration, frequency span, and waveform shape. Oscillations tended to exhibit multiple cycles per event, verifiable by comparing filtered to unfiltered waveforms. In addition to the clear intraevent rhythmicity, there was also evidence of interevent rhythmicity within bands, demonstrated by finding that coefficient of variation of interval distributions and Fano factor (FF) measures differed significantly from a Poisson distribution assumption. Overall, our study provides an easy-to-use tool to study oscillation events at the single-trial level or in ongoing recordings, and demonstrates that rhythmic, multicycle oscillation events dominate auditory cortical dynamics.",
+  "authors": [
+    "Neymotin Samuel A",
+    "Tal Idan",
+    "Barczak Annamaria",
+    "O'Connell Monica N",
+    "McGinnis Tammy",
+    "Markowitz Noah",
+    "Espinal Elizabeth",
+    "Griffith Erica",
+    "Anwar Haroon",
+    "Dura-Bernal Salvador",
+    "Schroeder Charles E",
+    "Lytton William W",
+    "Jones Stephanie R",
+    "Bickel Stephan",
+    "Lakatos Peter"
+  ],
+  "journal": "eNeuro",
+  "year": "2022",
+  "doi": "10.1523/ENEURO.0281-21.2022",
+  "mesh": [
+    "Animals",
+    "Auditory Cortex",
+    "Brain",
+    "Evoked Potentials",
+    "Humans",
+    "Periodicity",
+    "Primates"
+  ]
+}

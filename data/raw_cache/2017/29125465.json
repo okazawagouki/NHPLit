@@ -1,0 +1,31 @@
+{
+  "pmid": "29125465",
+  "title": "Decoding Kinematics Using Task-Independent Movement-Phase-Specific Encoding Models.",
+  "abstract": "Neural decoders of kinematic variables have largely relied on task-dependent (TD) encoding models of the neural activity. TD decoders, though, require prior knowledge of the tasks, which may be unavailable, lack scalability as the number of tasks grows, and require a large number of trials per task to reduce the effects of neuronal variability. The execution of movements involves a sequence of phases (e.g., idle, planning, and so on) whose progression contributes to the neuronal variability. We hypothesize that information about the movement phase facilitates the decoding of kinematics and compensates for the lack of prior knowledge about the task. We test this hypothesis by designing a task-independent movement-phase-specific (TI-MPS) decoding algorithm. The algorithm assumes that movements proceed through a consistent sequence of phases regardless of the specific task, and it builds one model per phase by combining data from different tasks. Phase transitions are detected online from neural data and, for each phase, a specific encoding model is used. The TI-MPS algorithm was tested on single-unit recordings from 437 neurons in the dorsal and ventral pre-motor cortices from two nonhuman primates performing 3-D multi-object reach-to-grasp tasks. The TI-MPS decoder accurately decoded kinematics from tasks it was not trained for and outperformed TD approaches (one-way ANOVA with Tukey's post-hoc test and -value <0.05). Results indicate that a TI paradigm with MPS models may help decoding kinematics when prior information about the task is unavailable and pave the way toward clinically viable prosthetics.",
+  "authors": [
+    "Sumsky Stefan L",
+    "Schieber Marc H",
+    "Thakor Nitish V",
+    "Sarma Sridevi V",
+    "Santaniello Sabato"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2017",
+  "doi": "10.1109/TNSRE.2017.2709756",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Biomechanical Phenomena",
+    "Macaca mulatta",
+    "Male",
+    "Markov Chains",
+    "Models, Neurological",
+    "Movement",
+    "Neural Prostheses",
+    "Normal Distribution",
+    "Prosthesis Design",
+    "Psychomotor Performance",
+    "Reproducibility of Results"
+  ]
+}

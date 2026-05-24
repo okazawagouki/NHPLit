@@ -1,0 +1,29 @@
+{
+  "pmid": "26335997",
+  "title": "Corticostriatal response selection in sentence production: Insights from neural network simulation with reservoir computing.",
+  "abstract": "Language production requires selection of the appropriate sentence structure to accommodate the communication goal of the speaker - the transmission of a particular meaning. Here we consider event meanings, in terms of predicates and thematic roles, and we address the problem that a given event can be described from multiple perspectives, which poses a problem of response selection. We present a model of response selection in sentence production that is inspired by the primate corticostriatal system. The model is implemented in the context of reservoir computing where the reservoir - a recurrent neural network with fixed connections - corresponds to cortex, and the readout corresponds to the striatum. We demonstrate robust learning, and generalization properties of the model, and demonstrate its cross linguistic capabilities in English and Japanese. The results contribute to the argument that the corticostriatal system plays a role in response selection in language production, and to the stance that reservoir computing is a valid potential model of corticostriatal processing.",
+  "authors": [
+    "Hinaut Xavier",
+    "Lance Florian",
+    "Droin Colas",
+    "Petit Maxime",
+    "Pointeau Gregoire",
+    "Dominey Peter Ford"
+  ],
+  "journal": "Brain and language",
+  "year": "2015",
+  "doi": "10.1016/j.bandl.2015.08.002",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Corpus Striatum",
+    "Humans",
+    "Language",
+    "Learning",
+    "Linguistics",
+    "Models, Neurological",
+    "Models, Psychological",
+    "Neural Networks, Computer",
+    "Primates"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "40695825",
+  "title": "Relating natural image statistics to patterns of response covariability in macaque primary visual cortex.",
+  "abstract": "Determining how the brain encodes sensory information requires understanding the structure of cortical activity, including how its variability is shared among neurons. The role of this covariability in cortical representations of natural visual inputs is unclear. Here, we adopt the neural sampling hypothesis and extend a well-established generative model of image statistics, to explain pairwise activity as representing joint probabilistic inferences about latent features of images. According to the theory, variability reflects uncertainty about those latent features. In natural images, some sources of uncertainty are shared between features and lead to covariability between neurons, whereas other independent sources contribute to private variability. Our analysis shows that spatial context in images reduces shared uncertainty for overlapping features, whereas it reduces independent uncertainty for non-overlapping features. As a result, the model predicts that increasing the size of an image reduces correlations for pairs with overlapping receptive fields and increases correlations for pairs with offset receptive fields. This prediction was confirmed by recordings from male macaque primary visual cortex (V1). Our study establishes a precise connection between V1 correlations and natural scene statistics, suggesting patterns of covariability are a feature of probabilistic representations of scenes.",
+  "authors": [
+    "Farzmahdi Amirhossein",
+    "Kohn Adam",
+    "Coen-Cagli Ruben"
+  ],
+  "journal": "Nature communications",
+  "year": "2025",
+  "doi": "10.1038/s41467-025-62086-1",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Primary Visual Cortex",
+    "Neurons",
+    "Photic Stimulation",
+    "Models, Neurological",
+    "Macaca mulatta",
+    "Visual Perception",
+    "Macaca",
+    "Visual Cortex"
+  ]
+}

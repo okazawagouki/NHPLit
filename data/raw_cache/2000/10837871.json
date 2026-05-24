@@ -1,0 +1,22 @@
+{
+  "pmid": "10837871",
+  "title": "A digital averaging method for removal of stimulus artifacts in neurophysiologic experiments.",
+  "abstract": "Stimulation artifacts can greatly complicate the evaluation of short-latency responses in experiments in which anterograde stimulation techniques are used to investigate connections between different brain regions. For an experiment involving recording of the responses in the primate substantia nigra pars reticulata to stimulation at various sites in the striatum, a digital averaging technique was developed for removing stimulation artifacts from traces of neuronal signals. In the first of two stages of this procedure, an estimate of the average stimulus artifact is calculated from traces of multiple stimulations at the same site. In the second step, the resulting average stimulation artifact (after time- and amplitude-optimization) is subtracted from individual data segments that contain the artifact. The data presented here demonstrate that this technique, applied off-line, is highly effective in removing artifacts, and uncovering neuronal potentials superimposed on the artifact. Faster computers and optimized software may make on-line application of this technique feasible.",
+  "authors": [
+    "Wichmann T"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Artifacts",
+    "Corpus Striatum",
+    "Electroencephalography",
+    "Electromyography",
+    "Neurons",
+    "Neurophysiology",
+    "Primates",
+    "Substantia Nigra"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "41724737",
+  "title": "Automated Detection and Risk-Related Behavior Recognition of Long-Tailed Macaques in a University Campus Area Using CNN-Based Object Detection.",
+  "abstract": "BACKGROUND: Increasing interface zones between long-tailed macaques (Macaca fascicularis) and humans can increase macaques' risk-related behaviors to human safety because of their aggressiveness. In addition, risk to human properties and the environment can occur when they play or search for food and other stuff on vehicles and take trash out from trash bins to find edible items. OBJECTIVE: This study aims to develop a YOLOv8-based detection system for identifying long-tailed macaques and their risk-related behaviors in a university campus, with enhanced robustness through data augmentation and Genetic Algorithm-based hyperparameter tuning to support early warning and deterrent system. METHODS: We developed a You Only Look Once version 8 (YOLOv8)-based object detection system to identify macaques and recognize risk-related behaviors within a multi-purpose university campus environment. A dataset of annotated images and video frames compiled from on-site observations was supplemented by using data-augmentation techniques such as Mosaic, MixUp, and geometric transformation to improve robustness under varying environmental conditions. Model performance was further improved through Genetic Algorithm (GA)-based hyperparameter tuning. RESULTS: The experimental results show that the system could detect macaques and contextual objects in real-time with strong performance across diverse scenes, even when they were camouflaged or partially occluded. CONCLUSIONS: The findings indicate that this approach could be used to provide an automated early warning and deterrent system to help reduce human-macaque negative interaction.",
+  "authors": [
+    "Watchanupaporn Orawan",
+    "Jadejaroen Janya",
+    "Homsapaya Kanyanut"
+  ],
+  "journal": "Journal of medical primatology",
+  "year": "2026",
+  "doi": "10.1111/jmp.70067",
+  "mesh": [
+    "Animals",
+    "Macaca fascicularis",
+    "Universities",
+    "Algorithms",
+    "Behavior, Animal",
+    "Risk-Taking"
+  ]
+}

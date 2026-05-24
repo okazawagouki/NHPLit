@@ -1,0 +1,31 @@
+{
+  "pmid": "25904712",
+  "title": "Generalized analog thresholding for spike acquisition at ultralow sampling rates.",
+  "abstract": "Efficient spike acquisition techniques are needed to bridge the divide from creating large multielectrode arrays (MEA) to achieving whole-cortex electrophysiology. In this paper, we introduce generalized analog thresholding (gAT), which achieves millisecond temporal resolution with sampling rates as low as 10 Hz. Consider the torrent of data from a single 1,000-channel MEA, which would generate more than 3 GB/min using standard 30-kHz Nyquist sampling. Recent neural signal processing methods based on compressive sensing still require Nyquist sampling as a first step and use iterative methods to reconstruct spikes. Analog thresholding (AT) remains the best existing alternative, where spike waveforms are passed through an analog comparator and sampled at 1 kHz, with instant spike reconstruction. By generalizing AT, the new method reduces sampling rates another order of magnitude, detects more than one spike per interval, and reconstructs spike width. Unlike compressive sensing, the new method reveals a simple closed-form solution to achieve instant (noniterative) spike reconstruction. The base method is already robust to hardware nonidealities, including realistic quantization error and integration noise. Because it achieves these considerable specifications using hardware-friendly components like integrators and comparators, generalized AT could translate large-scale MEAs into implantable devices for scientific investigation and medical technology.",
+  "authors": [
+    "He Bryan D",
+    "Wein Alex",
+    "Varshney Lav R",
+    "Kusuma Julius",
+    "Richardson Andrew G",
+    "Srinivasan Lakshminarayan"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2015",
+  "doi": "10.1152/jn.00623.2014",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Arm",
+    "Electrodes, Implanted",
+    "Electrophysiology",
+    "History, 15th Century",
+    "Macaca mulatta",
+    "Motor Activity",
+    "Motor Cortex",
+    "Neurons",
+    "ROC Curve",
+    "Signal Processing, Computer-Assisted",
+    "Time Factors"
+  ]
+}

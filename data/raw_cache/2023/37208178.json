@@ -1,0 +1,28 @@
+{
+  "pmid": "37208178",
+  "title": "Abstract Value Encoding in Neural Populations But Not Single Neurons.",
+  "abstract": "An important open question in neuroeconomics is how the brain represents the value of offers in a way that is both abstract (allowing for comparison) and concrete (preserving the details of the factors that influence value). Here, we examine neuronal responses to risky and safe options in five brain regions that putatively encode value in male macaques. Surprisingly, we find no detectable overlap in the neural codes used for risky and safe options, even when the options have identical subjective values (as revealed by preference) in any of the regions. Indeed, responses are weakly correlated and occupy distinct (semi-orthogonal) encoding subspaces. Notably, however, these subspaces are linked through a linear transform of their constituent encodings, a property that allows for comparison of dissimilar option types. This encoding scheme allows these regions to multiplex decision related processes: they can encode the detailed factors that influence offer value (here, risky and safety) but also directly compare dissimilar offer types. Together these results suggest a neuronal basis for the qualitatively different psychological properties of risky and safe options and highlight the power of population geometry to resolve outstanding problems in neural coding.<b>SIGNIFICANCE STATEMENT</b> To make economic choices, we must have some mechanism for comparing dissimilar offers. We propose that the brain uses distinct neural codes for risky and safe offers, but that these codes are linearly transformable. This encoding scheme has the dual advantage of allowing for comparison across offer types while preserving information about offer type, which in turn allows for flexibility in changing circumstances. We show that responses to risky and safe offers exhibit these predicted properties in five different reward-sensitive regions. Together, these results highlight the power of population coding principles for solving representation problems in economic choice.",
+  "authors": [
+    "Fine Justin M",
+    "Maisson David J-N",
+    "Yoo Seng Bum Michael",
+    "Cash-Padgett Tyler V",
+    "Wang Maya Zhe",
+    "Zimmermann Jan",
+    "Hayden Benjamin Y"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2023",
+  "doi": "10.1523/JNEUROSCI.1954-22.2023",
+  "mesh": [
+    "Male",
+    "Animals",
+    "Choice Behavior",
+    "Neurons",
+    "Reward",
+    "Brain",
+    "Problem Solving",
+    "Decision Making",
+    "Prefrontal Cortex"
+  ]
+}

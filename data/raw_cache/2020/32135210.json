@@ -1,0 +1,27 @@
+{
+  "pmid": "32135210",
+  "title": "A Deep Learning Approach for Automated Sleep-Wake Scoring in Pre-Clinical Animal Models.",
+  "abstract": "BACKGROUND: Experimental investigation of sleep-wake dynamics in animals is an important part of pharmaceutical development. Typically, it involves recording of electroencephalogram, electromyogram, locomotor activity, and electrooculogram. Visual identification, or scoring, of the sleep-wake states from these recordings is time-consuming. We sought to develop software for automated sleep-wake scoring capable of processing large databases of multi-channel signal recordings in a range of species. NEW METHOD: We used a large historical database of signal recordings and scores in non-human primates, dogs, mice, and rats, to develop a deep Convolutional Neural Network (CNN) classification algorithm for automatically scoring sleep-wake states. We compared the performance of the CNN algorithm with that of a widely used Machine Learning algorithm, Random Forest (RF). RESULTS: CNN accuracy in sleep-wake scoring of data in non-human primates and dogs was significantly higher than RF accuracy (0.75 vs. 0.66 for non-human primates and 0.73 vs. 0.64 for dogs). In rodents, the difference between CNN and RF was smaller: 0.83 vs. 0.81 for mice and 0.78 vs. 0.77 for rats. The variability of CNN accuracy was lower than that of RF for non-human primates, dogs and mice but similar for rats. COMPARISON WITH EXISTING METHODS: Deep Learning algorithms have not been previously evaluated across a range of species for animal sleep-wake scoring. CONCLUSIONS: We recommend use of CNN for sleep-wake scoring in non-human primates and dogs, and RF for sleep-wake scoring in rodents.",
+  "authors": [
+    "Svetnik Vladimir",
+    "Wang Ting-Chuan",
+    "Xu Yuting",
+    "Hansen Bryan J",
+    "V Fox Steven"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2020",
+  "doi": "10.1016/j.jneumeth.2020.108668",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Deep Learning",
+    "Dogs",
+    "Mice",
+    "Models, Animal",
+    "Neural Networks, Computer",
+    "Rats",
+    "Sleep",
+    "Sleep Stages"
+  ]
+}

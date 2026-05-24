@@ -1,0 +1,24 @@
+{
+  "pmid": "40997885",
+  "title": "Using economic value signals from primate prefrontal cortex in neuro-engineering applications.",
+  "abstract": "<i>Objective.</i>Brain-machine interface (BMI) research has shown the efficacy of using motor and sensory-related neural signals to assist physically impaired patients. Despite the comparable ability to extract more abstract cognitive signals from the brain, little effort has been devoted to leveraging these signals in neuro-engineering applications. In this study, we explore the use of neural signals related to economic value, a key cognitive construct, in a BMI context.<i>Approach.</i>Using multivariate time series data collected from the orbitofrontal cortex in non-human primates, we develop deep learning-based neural decoders to predict the monkeys' choices in a value-based decision-making task. We implement a reinforcement learning-based training approach to develop adaptive decoders that can be extended to handle multi-step decisions, which frequently arise in real-world settings.<i>Main results.</i>We develop neural decoders leveraging subjective value signals to predict the monkeys' choices with>70%accuracy on average, with above-chance accuracy even when choice options are objectively equal. We show that this same decoder architecture can be trained to execute choice-related actions and execute action sequences aligned with the user's goal. Finally, we explore a decoder architecture that uses a neural forecasting model equipped with task-related information, and show that it makes high accuracy predictions∼300 ms sooner than would otherwise be possible.<i>Significance.</i>These findings support the feasibility of user preference-informed neuro-engineering devices that leverage abstract cognitive signals to aid users in goal-directed behavior. They suggest that using abstract cognitive signals in real-world settings may be more accurate when combined with information from multiple sources, such as motor and sensory regions. This research also highlights the potential need for systems to measure their confidence in their actions when user input is minimal.",
+  "authors": [
+    "Rouse Tevin C",
+    "Lupkin Shira M",
+    "McGinty Vincent B"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2025",
+  "doi": "10.1088/1741-2552/ae0bf6",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Prefrontal Cortex",
+    "Macaca mulatta",
+    "Male",
+    "Choice Behavior",
+    "Decision Making",
+    "Reinforcement, Psychology",
+    "Deep Learning"
+  ]
+}

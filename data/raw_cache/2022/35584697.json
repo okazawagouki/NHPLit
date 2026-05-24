@@ -1,0 +1,23 @@
+{
+  "pmid": "35584697",
+  "title": "Perceptual enhancement and suppression correlate with V1 neural activity during active sensing.",
+  "abstract": "Perception in multiple sensory modalities is an active process that involves exploratory behaviors. In humans and other primates, vision results from sensory sampling guided by saccadic eye movements. Saccades are known to modulate visual perception, and a corollary discharge signal associated with saccades appears to establish a sense of visual stability. Neural recordings have shown that saccades also modulate activity widely across the brain. To investigate the neural basis of saccadic effects on perception, simultaneous recordings from multiple neurons in area V1 were made as animals performed a contrast detection task. Perceptual and neural measures were compared when the animal made real saccades that brought a stimulus into V1 receptive fields and when simulated saccades were made (identical retinal stimulation but no eye movement). When real saccades were made and low spatial frequency stimuli were presented, we observed a reduction in both perceptual sensitivity and neural activity compared with simulated saccades; conversely, with higher spatial frequency stimuli, saccades increased visual sensitivity and neural activity. The performance of neural decoders, which used the activity of the population of simultaneously recorded neurons, showed saccade effects on sensitivity that mirrored the frequency-dependent perceptual changes, suggesting that the V1 population activity could support the perceptual effects. A minority of V1 neurons had significant choice probabilities, and the saccades decreased both average choice probability and pairwise noise correlations. Taken together, the findings suggest that a signal related to saccadic eye movements alters V1 spiking to increase the independence of spiking neurons and bias the system toward processing higher spatial frequencies, presumably to enhance object recognition. The effects of saccades on visual perception and noise correlations appear to parallel effects observed in other sensory modalities, suggesting a general principle of active sensory processing.",
+  "authors": [
+    "Niemeyer James E",
+    "Akers-Campbell Seth",
+    "Gregoire Aaron",
+    "Paradiso Michael A"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2022",
+  "doi": "10.1016/j.cub.2022.04.067",
+  "mesh": [
+    "Animals",
+    "Neurons",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Saccades",
+    "Vision, Ocular",
+    "Visual Perception"
+  ]
+}

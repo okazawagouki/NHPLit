@@ -1,0 +1,24 @@
+{
+  "pmid": "39143078",
+  "title": "Reach-dependent reorientation of rotational dynamics in motor cortex.",
+  "abstract": "During reaching, neurons in motor cortex exhibit complex, time-varying activity patterns. Though single-neuron activity correlates with movement parameters, movement correlations explain neural activity only partially. Neural responses also reflect population-level dynamics thought to generate outputs. These dynamics have previously been described as \"rotational,\" such that activity orbits in neural state space. Here, we reanalyze reaching datasets from male Rhesus macaques and find two essential features that cannot be accounted for with standard dynamics models. First, the planes in which rotations occur differ for different reaches. Second, this variation in planes reflects the overall location of activity in neural state space. Our \"location-dependent rotations\" model fits nearly all motor cortex activity during reaching, and high-quality decoding of reach kinematics reveals a quasilinear relationship with spiking. Varying rotational planes allows motor cortex to produce richer outputs than possible under previous models. Finally, our model links representational and dynamical ideas: representation is present in the state space location, which dynamics then convert into time-varying command signals.",
+  "authors": [
+    "Sabatini David A",
+    "Kaufman Matthew T"
+  ],
+  "journal": "Nature communications",
+  "year": "2024",
+  "doi": "10.1038/s41467-024-51308-7",
+  "mesh": [
+    "Motor Cortex",
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Rotation",
+    "Movement",
+    "Biomechanical Phenomena",
+    "Models, Neurological",
+    "Neurons",
+    "Psychomotor Performance"
+  ]
+}

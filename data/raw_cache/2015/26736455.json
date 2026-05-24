@@ -1,0 +1,22 @@
+{
+  "pmid": "26736455",
+  "title": "Combining firing rate and spike-train synchrony features in the decoding of motor cortical activity.",
+  "abstract": "Decoding of directional information in the motor cortex traditionally utilizes only firing rate information. However, information from other features could be extracted and combined with firing rate in order to increase classification accuracy. This study proposes the combination of firing rate and spike-train synchrony information in the decoding of motor cortical activity. Synchrony measures used are Event Synchronization (ES), SPIKE-Distance, and ISI-Distance. All data used for analyses were obtained from implanted electrode recordings of the primary motor cortex of a monkey that was trained to manipulate a motorized vehicle with 4 degrees of freedom (left, right, front and stop) via joystick control. Firstly, synchrony features could decode time periods, which were otherwise incorrectly decoded by firing rate alone, above chance levels. Secondly, using an ensemble classifier design for offline analysis, combining firing rate and ISI-distance information increases overall decoding accuracy by 1.1%. These results show that synchrony features in spike-trains do contain information not carried in firing rate. In addition, these results also demonstrate the feasibility of combining synchrony and firing rate for improving the classification accuracy of invasive brain-machine interface (BMI) in the control of neural prosthetics.",
+  "authors": [
+    "Chew Gabriel",
+    "Kai Keng Ang",
+    "So Rosa Q",
+    "Zhiming Xu",
+    "Cuntai Guan"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2015",
+  "doi": "10.1109/EMBC.2015.7318555",
+  "mesh": [
+    "Action Potentials",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Humans",
+    "Motor Cortex"
+  ]
+}

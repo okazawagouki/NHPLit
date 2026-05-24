@@ -1,0 +1,25 @@
+{
+  "pmid": "42146679",
+  "title": "A framework for quantifying the mechanics of dexterous grasp.",
+  "abstract": "A hallmark of primate behavior is the exceptional ability to dexterously grasp and manipulate objects, yet the investigation of the neural mechanisms that support manual dexterity has been hindered by technical challenges. Optical hand tracking is complicated by frequent occlusions, and contact forces are hard to measure with sufficient precision. Furthermore, while monitoring the kinematics during reaching phase, and the contact forces during object manipulation phase is difficult, joint torques are impossible to measure directly. While challenging, the ability to estimate joint torques in the complex primate hand could provide an invaluable continuous mechanical description spanning both phases. With this in mind, we have developed an experimental apparatus and data processing pipeline for quantifying these variables describing prehension. The apparatus presented objects of various sizes and orientations throughout the workspace, evoking different grasping strategies. Object surfaces were instrumented with thousands of pressure-sensitive elements, enabling high-resolution measurement of distributed contact forces. Simultaneously, eight high-speed cameras were used to reconstruct hand and arm movements with markerless tracking, triangulating 3D landmarks, and mapping them onto a musculoskeletal model, enabling estimation of time-varying joint angles. This posture quantification allowed contact forces to be automatically assigned to specific hand segments, in close agreement with manual human annotations. We used the reconstructed movements and contact forces with the musculoskeletal model of the hand to compute inverse dynamics, yielding joint torques throughout behavior, unifying the hand kinematics and grasp forces into a single physical description. Throughout the processing, we identified individual neurons in the motor cortex of monkeys that were related to grasp force, kinematics, and torques. Together, this framework enabled a comprehensive and precise physical characterization of primate manual behavior, providing a foundation for investigating the neural mechanisms of manual dexterity.",
+  "authors": [
+    "Sobinov Anton R",
+    "Ma Xuan",
+    "Okorokova Elizaveta V",
+    "Greenspon Charles M",
+    "Raman Caleb",
+    "Shelchkova Natalya",
+    "He Qinpu",
+    "Darabi Neema",
+    "Bhatt Rashi",
+    "Jordan Patrick",
+    "Arters Paul",
+    "Hatsopoulos Nicholas G",
+    "Miller Lee E",
+    "Bensmaia Sliman J"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2026",
+  "doi": "10.64898/2026.05.05.723084",
+  "mesh": []
+}

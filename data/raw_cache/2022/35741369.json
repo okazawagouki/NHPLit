@@ -1,0 +1,15 @@
+{
+  "pmid": "35741369",
+  "title": "Prediction of Major Histocompatibility Complex Binding with Bilateral and Variable Long Short Term Memory Networks.",
+  "abstract": "As an important part of immune surveillance, major histocompatibility complex (MHC) is a set of proteins that recognize foreign molecules. Computational prediction methods for MHC binding peptides have been developed. However, existing methods share the limitation of fixed peptide sequence length, which necessitates the training of models by peptide length or prediction with a length reduction technique. Using a bidirectional long short-term memory neural network, we constructed BVMHC, an MHC class I and II binding prediction tool that is independent of peptide length. The performance of BVMHC was compared to seven MHC class I prediction tools and three MHC class II prediction tools using eight performance criteria independently. BVMHC attained the best performance in three of the eight criteria for MHC class I, and the best performance in four of the eight criteria for MHC class II, including accuracy and AUC. Furthermore, models for non-human species were also trained using the same strategy and made available for applications in mice, chimpanzees, macaques, and rats. BVMHC is composed of a series of peptide length independent MHC class I and II binding predictors. Models from this study have been implemented in an online web portal for easy access and use.",
+  "authors": [
+    "Jiang Limin",
+    "Tang Jijun",
+    "Guo Fei",
+    "Guo Yan"
+  ],
+  "journal": "Biology",
+  "year": "2022",
+  "doi": "10.3390/biology11060848",
+  "mesh": []
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "12938766",
+  "title": "Convergence properties of three spike-triggered analysis techniques.",
+  "abstract": "We analyse the convergence properties of three spike-triggered data analysis techniques. Our results are obtained in the setting of a probabilistic linear-nonlinear (LN) cascade neural encoding model; this model has recently become popular in the study of the neural coding of natural signals. We start by giving exact rate-of-convergence results for the common spike-triggered average technique. Next, we analyse a spike-triggered covariance method, variants of which have been recently exploited successfully by Bialek, Simoncelli and colleagues. Unfortunately, the conditions that guarantee that these two estimators will converge to the correct parameters are typically not satisfied by natural signal data. Therefore, we introduce an estimator for the LN model parameters which is designed to converge under general conditions to the correct model. We derive the rate of convergence of this estimator, provide an algorithm for its computation and demonstrate its application to simulated data as well as physiological data from the primary motor cortex of awake behaving monkeys. We also give lower bounds on the convergence rate of any possible LN estimator. Our results should prove useful in the study of the neural coding of high-dimensional natural signals.",
+  "authors": [
+    "Paninski Liam"
+  ],
+  "journal": "Network (Bristol, England)",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Haplorhini",
+    "Linear Models",
+    "Motor Cortex",
+    "Neural Networks, Computer"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "34695120",
+  "title": "Complexity and diversity in sparse code priors improve receptive field characterization of Macaque V1 neurons.",
+  "abstract": "System identification techniques-projection pursuit regression models (PPRs) and convolutional neural networks (CNNs)-provide state-of-the-art performance in predicting visual cortical neurons' responses to arbitrary input stimuli. However, the constituent kernels recovered by these methods are often noisy and lack coherent structure, making it difficult to understand the underlying component features of a neuron's receptive field. In this paper, we show that using a dictionary of diverse kernels with complex shapes learned from natural scenes based on efficient coding theory, as the front-end for PPRs and CNNs can improve their performance in neuronal response prediction as well as algorithmic data efficiency and convergence speed. Extensive experimental results also indicate that these sparse-code kernels provide important information on the component features of a neuron's receptive field. In addition, we find that models with the complex-shaped sparse code front-end are significantly better than models with a standard orientation-selective Gabor filter front-end for modeling V1 neurons that have been found to exhibit complex pattern selectivity. We show that the relative performance difference due to these two front-ends can be used to produce a sensitive metric for detecting complex selectivity in V1 neurons.",
+  "authors": [
+    "Wu Ziniu",
+    "Rockwell Harold",
+    "Zhang Yimeng",
+    "Tang Shiming",
+    "Lee Tai Sing"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2021",
+  "doi": "10.1371/journal.pcbi.1009528",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computational Biology",
+    "Macaca",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

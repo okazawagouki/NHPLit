@@ -1,0 +1,24 @@
+{
+  "pmid": "12611978",
+  "title": "An information theoretic approach to the contributions of the firing rates and the correlations between the firing of neurons.",
+  "abstract": "To analyze the extent to which populations of neurons encode information in the numbers of spikes each neuron emits or in the relative time of firing of the different neurons that might reflect synchronization, we developed and analyzed the performance of an information theoretic approach. The formula quantifies the corrections to the instantaneous information rate that result from correlations in spike emission between pairs of neurons. We showed how these cross-cell terms can be separated from the correlations that occur between the spikes emitted by each neuron, the auto-cell terms in the information rate expansion. We also described a method to test whether the estimate of the amount of information contributed by stimulus-dependent synchronization is significant. With simulated data, we show that the approach can separate information arising from the number of spikes emitted by each neuron from the redundancy that can arise if neurons have common inputs and from the synergy that can arise if cells have stimulus-dependent synchronization. The usefulness of the approach is also demonstrated by showing how it helps to interpret the encoding shown by neurons in the primate inferior temporal visual cortex. When applied to a sample dataset of simultaneously recorded inferior temporal cortex neurons, the algorithm showed that most of the information is available in the number of spikes emitted by each cell; that there is typically just a small degree (approximately 12%) of redundancy between simultaneously recorded inferior temporal cortex (IT) neurons; and that there is very little gain of information that arises from stimulus-dependent synchronization effects in these neurons.",
+  "authors": [
+    "Rolls Edmund T",
+    "Franco Leonardo",
+    "Aggelopoulos Nicholas C",
+    "Reece Steven"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Electrophysiology",
+    "Information Theory",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons",
+    "Temporal Lobe"
+  ]
+}

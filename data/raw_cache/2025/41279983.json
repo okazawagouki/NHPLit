@@ -1,0 +1,23 @@
+{
+  "pmid": "41279983",
+  "title": "Deep learning-driven characterization of single cell tuning in primate visual area V4 supports topological organization.",
+  "abstract": "Deciphering the brain's structure-function relationship is key to understanding the neuronal mechanisms underlying perception and cognition. The cortical column, a vertical organization of neurons with similar functions, is a classic example of primate neocortex structure-function organization. While columns have been identified in primary sensory areas using parametric stimuli, their prevalence across higher-level cortex is debated, particularly regarding complex tuning in natural image space. However, a key hurdle in identifying columns is characterizing the complex, nonlinear tuning of neurons to high-dimensional sensory inputs. Building on prior findings of topological organization for features like color and orientation, we investigate functional clustering in macaque visual area V4 in non-parametric natural image space, using large-scale recordings and deep learning-based analysis. We combined linear probe recordings with deep learning methods to systematically characterize the tuning of >1,200 V4 neurons using <i>in silico</i> synthesis of most exciting images (MEIs), followed by <i>in vivo</i> verification. Single V4 neurons exhibited MEIs containing complex features, including textures and shapes, and even high-level attributes with eye-like appearance. Neurons recorded on the same silicon probe, inserted orthogonal to the cortical surface, often exhibited similarities in their spatial feature selectivity, suggesting a degree of functional organization along the cortical depth. We quantified MEI similarity using human psychophysics and distances in a contrastive learning-derived embedding space. Moreover, the selectivity of the V4 neuronal population showed evidence of clustering into functional groups of shared feature selectivity. These functional groups showed parallels with the feature maps of units in artificial vision systems, suggesting potential shared encoding strategies. These results demonstrate the feasibility and scalability of deep learning-based functional characterization of neuronal selectivity in naturalistic visual contexts, offering a framework for quantitatively mapping cortical organization across multiple levels of the visual hierarchy.",
+  "authors": [
+    "Willeke Konstantin F",
+    "Restivo Kelli",
+    "Franke Katrin",
+    "Nix Arne F",
+    "Cadena Santiago A",
+    "Shinn Tori",
+    "Nealley Cate",
+    "Rodriguez Gabrielle",
+    "Patel Saumil",
+    "Ecker Alexander S",
+    "Sinz Fabian H",
+    "Tolias Andreas S"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2023.05.12.540591",
+  "mesh": []
+}

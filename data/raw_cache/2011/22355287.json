@@ -1,0 +1,14 @@
+{
+  "pmid": "22355287",
+  "title": "Correlation transfer from basal ganglia to thalamus in Parkinson's disease.",
+  "abstract": "Spike trains from neurons in the basal ganglia of parkinsonian primates show increased pairwise correlations, oscillatory activity, and burst rate compared to those from neurons recorded during normal brain activity. However, it is not known how these changes affect the behavior of downstream thalamic neurons. To understand how patterns of basal ganglia population activity may affect thalamic spike statistics, we study pairs of model thalamocortical (TC) relay neurons receiving correlated inhibitory input from the internal segment of the globus pallidus (GPi), a primary output nucleus of the basal ganglia. We observe that the strength of correlations of TC neuron spike trains increases with the GPi correlation level, and bursty firing patterns such as those seen in the parkinsonian GPi allow for stronger transfer of correlations than do firing patterns found under normal conditions. We also show that the T-current in the TC neurons does not significantly affect correlation transfer, despite its pronounced effects on spiking. Oscillatory firing patterns in GPi are shown to affect the timescale at which correlations are best transferred through the system. To explain this last result, we analytically compute the spike count correlation coefficient for oscillatory cases in a reduced point process model. Our analysis indicates that the dependence of the timescale of correlation transfer is robust to different levels of input spike and rate correlations and arises due to differences in instantaneous spike correlations, even when the long timescale rhythmic modulations of neurons are identical. Overall, these results show that parkinsonian firing patterns in GPi do affect the transfer of correlations to the thalamus.",
+  "authors": [
+    "Reitsma Pamela",
+    "Doiron Brent",
+    "Rubin Jonathan"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2011",
+  "doi": "10.3389/fncom.2011.00058",
+  "mesh": []
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "20579829",
+  "title": "Integration of EEG source imaging and fMRI during continuous viewing of natural movies.",
+  "abstract": "Electroencephalography (EEG) and functional magnetic resonance imaging (fMRI) are noninvasive neuroimaging tools which can be used to measure brain activity with excellent temporal and spatial resolution, respectively. By combining the neural and hemodynamic recordings from these modalities, we can gain better insight into how and where the brain processes complex stimuli, which may be especially useful in patients with different neural diseases. However, due to their vastly different spatial and temporal resolutions, the integration of EEG and fMRI recordings is not always straightforward. One fundamental obstacle has been that paradigms used for EEG experiments usually rely on event-related paradigms, while fMRI is not limited in this regard. Therefore, here we ask whether one can reliably localize stimulus-driven EEG activity using the continuously varying feature intensities occurring in natural movie stimuli presented over relatively long periods of time. Specifically, we asked whether stimulus-driven aspects in the EEG signal would be co-localized with the corresponding stimulus-driven BOLD signal during free viewing of a movie. Secondly, we wanted to integrate the EEG signal directly with the BOLD signal, by estimating the underlying impulse response function (IRF) that relates the BOLD signal to the underlying current density in the primary visual area (V1). We made sequential fMRI and 64-channel EEG recordings in seven subjects who passively watched 2-min-long segments of a James Bond movie. To analyze EEG data in this natural setting, we developed a method based on independent component analysis (ICA) to reject EEG artifacts due to blinks, subject movement, etc., in a way unbiased by human judgment. We then calculated the EEG source strength of this artifact-free data at each time point of the movie within the entire brain volume using low-resolution electromagnetic tomography (LORETA). This provided for every voxel in the brain (i.e., in 3D space) an estimate of the current density at every time point. We then carried out a correlation between the time series of visual contrast changes in the movie with that of EEG voxels. We found the most significant correlations in visual area V1, just as seen in previous fMRI studies (Bartels A, Zeki, S, Logothetis NK. Natural vision reveals regional specialization to local motion and to contrast-invariant, global flow in the human brain. Cereb Cortex 2008;18(3):705-717), but on the time scale of milliseconds rather than of seconds. To obtain an estimate of how the EEG signal relates to the BOLD signal, we calculated the IRF between the BOLD signal and the estimated current density in area V1. We found that this IRF was very similar to that observed using combined intracortical recordings and fMRI experiments in nonhuman primates. Taken together, these findings open a new approach to noninvasive mapping of the brain. It allows, firstly, the localization of feature-selective brain areas during natural viewing conditions with the temporal resolution of EEG. Secondly, it provides a tool to assess EEG/BOLD transfer functions during processing of more natural stimuli. This is especially useful in combined EEG/fMRI experiments, where one can now potentially study neural-hemodynamic relationships across the whole brain volume in a noninvasive manner.",
+  "authors": [
+    "Whittingstall Kevin",
+    "Bartels Andreas",
+    "Singh Vanessa",
+    "Kwon Soyoung",
+    "Logothetis Nikos K"
+  ],
+  "journal": "Magnetic resonance imaging",
+  "year": "2010",
+  "doi": "10.1016/j.mri.2010.03.042",
+  "mesh": [
+    "Adult",
+    "Artifacts",
+    "Brain",
+    "Brain Mapping",
+    "Electroencephalography",
+    "Female",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Photic Stimulation",
+    "Principal Component Analysis",
+    "Radiation",
+    "Time Factors",
+    "Tomography",
+    "Vision, Ocular"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "30856172",
+  "title": "Latent goal models for dynamic strategic interaction.",
+  "abstract": "Understanding the principles by which agents interact with both complex environments and each other is a key goal of decision neuroscience. However, most previous studies have used experimental paradigms in which choices are discrete (and few), play is static, and optimal solutions are known. Yet in natural environments, interactions between agents typically involve continuous action spaces, ongoing dynamics, and no known optimal solution. Here, we seek to bridge this divide by using a \"penalty shot\" task in which pairs of monkeys competed against each other in a competitive, real-time video game. We modeled monkeys' strategies as driven by stochastically evolving goals, onscreen positions that served as set points for a control model that produced observed joystick movements. We fit this goal-based dynamical system model using approximate Bayesian inference methods, using neural networks to parameterize players' goals as a dynamic mixture of Gaussian components. Our model is conceptually simple, constructed of interpretable components, and capable of generating synthetic data that capture the complexity of real player dynamics. We further characterized players' strategies using the number of change points on each trial. We found that this complexity varied more across sessions than within sessions, and that more complex strategies benefited offensive players but not defensive players. Together, our experimental paradigm and model offer a powerful combination of tools for the study of realistic social dynamics in the laboratory setting.",
+  "authors": [
+    "Iqbal Shariq N",
+    "Yin Lun",
+    "Drucker Caroline B",
+    "Kuang Qian",
+    "Gariépy Jean-François",
+    "Platt Michael L",
+    "Pearson John M"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2019",
+  "doi": "10.1371/journal.pcbi.1006895",
+  "mesh": [
+    "Animals",
+    "Computational Biology",
+    "Decision Making",
+    "Goals",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Reward",
+    "Video Games"
+  ]
+}

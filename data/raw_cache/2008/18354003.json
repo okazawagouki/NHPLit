@@ -1,0 +1,31 @@
+{
+  "pmid": "18354003",
+  "title": "Saccade target selection in the superior colliculus: a signal detection theory approach.",
+  "abstract": "How the brain selects one action from among multiple options is unknown. A main tenet of signal detection theory (SDT) is that sensory stimuli are represented as noisy information channels. Therefore, the accuracy of selection might be predicted by how well neuronal activity representing alternatives can be distinguished. Here, we apply an SDT framework to a motor system by recording from superior colliculus (SC) neurons during performance of a color, oddball selection task. We recorded from sets of four neurons simultaneously, each of the four representing one of the four possible targets. Because the electrode placement constrained the position of the stimuli in the visual field, the stimulus arrangement varied across experiments. This variability in stimulus arrangement led to variability in choices allowing us to explore the relationship between SC neuronal activity and performance accuracy. SC target neurons had higher levels of discharge than SC distractor neurons in subsets of trials when selection performance was very accurate. In subsets of trials when performance was poor, the discharge level decreased in target neurons and increased in distractor neurons. Accurate performance was associated with larger separations between neuronal activity from targets and distractors as quantified by the receiver operating characteristic (ROC) area and d' (an index of discriminability). Poorer performance was associated with less separation of target and distractor neuronal activity. ROC area and d' scaled approximately linearly with performance accuracy. Furthermore, ROC area and d' increased as saccade onset approached. Together, the results indicate that SC buildup neuronal activity signals the saccadic eye movement decision.",
+  "authors": [
+    "Kim Byounghoon",
+    "Basso Michele A"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2008",
+  "doi": "10.1523/JNEUROSCI.5424-07.2008",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Behavior, Animal",
+    "Color Perception",
+    "Discrimination, Psychological",
+    "Macaca mulatta",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Photic Stimulation",
+    "Probability",
+    "ROC Curve",
+    "Saccades",
+    "Signal Detection, Psychological",
+    "Space Perception",
+    "Superior Colliculi",
+    "Time Factors",
+    "Visual Fields"
+  ]
+}

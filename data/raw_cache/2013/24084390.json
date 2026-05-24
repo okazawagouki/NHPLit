@@ -1,0 +1,22 @@
+{
+  "pmid": "24084390",
+  "title": "Automatic mapping of visual cortex receptive fields: a fast and precise algorithm.",
+  "abstract": "An important issue for neurophysiological studies of the visual system is the definition of the region of the visual field that can modify a neuron's activity (i.e., the neuron's receptive field - RF). Usually a trade-off exists between precision and the time required to map a RF. Manual methods (qualitative) are fast but impose a variable degree of imprecision, while quantitative methods are more precise but usually require more time. We describe a rapid quantitative method for mapping visual RFs that is derived from computerized tomography and named back-projection. This method finds the intersection of responsive regions of the visual field based on spike density functions that are generated over time in response to long bars moving in different directions. An algorithm corrects the response profiles for latencies and allows for the conversion of the time domain into a 2D-space domain. The final product is an RF map that shows the distribution of the neuronal activity in visual-spatial coordinates. In addition to mapping the RF, this method also provides functional properties, such as latency, orientation and direction preference indexes. This method exhibits the following beneficial properties: (a) speed; (b) ease of implementation; (c) precise RF localization; (d) sensitivity (this method can map RFs based on few responses); (e) reliability (this method provides consistent information about RF shapes and sizes, which will allow for comparative studies); (f) comprehensiveness (this method can scan for RFs over an extensive area of the visual field); (g) informativeness (it provides functional quantitative data about the RF); and (h) usefulness (this method can map RFs in regions without direct retinal inputs, such as the cortical representations of the optic disc and of retinal lesions, which should allow for studies of functional connectivity, reorganization and neural plasticity). Furthermore, our method allows for precise mapping of RFs in a 30° by 30° area of the visual field for an array of microelectrodes of any size in less than 6 min.",
+  "authors": [
+    "Fiorani Mario",
+    "Azzi João C B",
+    "Soares Juliana G M",
+    "Gattass Ricardo"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2014",
+  "doi": "10.1016/j.jneumeth.2013.09.012",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Haplorhini",
+    "Image Processing, Computer-Assisted",
+    "Visual Cortex"
+  ]
+}

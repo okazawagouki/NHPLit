@@ -1,0 +1,26 @@
+{
+  "pmid": "30365485",
+  "title": "Representations of regular and irregular shapes by deep Convolutional Neural Networks, monkey inferotemporal neurons and human judgments.",
+  "abstract": "Recent studies suggest that deep Convolutional Neural Network (CNN) models show higher representational similarity, compared to any other existing object recognition models, with macaque inferior temporal (IT) cortical responses, human ventral stream fMRI activations and human object recognition. These studies employed natural images of objects. A long research tradition employed abstract shapes to probe the selectivity of IT neurons. If CNN models provide a realistic model of IT responses, then they should capture the IT selectivity for such shapes. Here, we compare the activations of CNN units to a stimulus set of 2D regular and irregular shapes with the response selectivity of macaque IT neurons and with human similarity judgements. The shape set consisted of regular shapes that differed in nonaccidental properties, and irregular, asymmetrical shapes with curved or straight boundaries. We found that deep CNNs (Alexnet, VGG-16 and VGG-19) that were trained to classify natural images show response modulations to these shapes that were similar to those of IT neurons. Untrained CNNs with the same architecture than trained CNNs, but with random weights, demonstrated a poorer similarity than CNNs trained in classification. The difference between the trained and untrained CNNs emerged at the deep convolutional layers, where the similarity between the shape-related response modulations of IT neurons and the trained CNNs was high. Unlike IT neurons, human similarity judgements of the same shapes correlated best with the last layers of the trained CNNs. In particular, these deepest layers showed an enhanced sensitivity for straight versus curved irregular shapes, similar to that shown in human shape judgments. In conclusion, the representations of abstract shape similarity are highly comparable between macaque IT neurons and deep convolutional layers of CNNs that were trained to classify natural images, while human shape similarity judgments correlate better with the deepest layers.",
+  "authors": [
+    "Kalfas Ioannis",
+    "Vinken Kasper",
+    "Vogels Rufin"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2018",
+  "doi": "10.1371/journal.pcbi.1006557",
+  "mesh": [
+    "Adult",
+    "Algorithms",
+    "Animals",
+    "Computational Biology",
+    "Humans",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Temporal Lobe"
+  ]
+}

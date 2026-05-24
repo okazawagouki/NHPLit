@@ -1,0 +1,31 @@
+{
+  "pmid": "35143322",
+  "title": "Geometry of sequence working memory in macaque prefrontal cortex.",
+  "abstract": "How the brain stores a sequence in memory remains largely unknown. We investigated the neural code underlying sequence working memory using two-photon calcium imaging to record thousands of neurons in the prefrontal cortex of macaque monkeys memorizing and then reproducing a sequence of locations after a delay. We discovered a regular geometrical organization: The high-dimensional neural state space during the delay could be decomposed into a sum of low-dimensional subspaces, each storing the spatial location at a given ordinal rank, which could be generalized to novel sequences and explain monkey behavior. The rank subspaces were distributed across large overlapping neural groups, and the integration of ordinal and spatial information occurred at the collective level rather than within single neurons. Thus, a simple representational geometry underlies sequence working memory.",
+  "authors": [
+    "Xie Yang",
+    "Hu Peiyao",
+    "Li Junru",
+    "Chen Jingwen",
+    "Song Weibin",
+    "Wang Xiao-Jing",
+    "Yang Tianming",
+    "Dehaene Stanislas",
+    "Tang Shiming",
+    "Min Bin",
+    "Wang Liping"
+  ],
+  "journal": "Science (New York, N.Y.)",
+  "year": "2022",
+  "doi": "10.1126/science.abm0204",
+  "mesh": [
+    "Animals",
+    "Calcium",
+    "Macaca mulatta",
+    "Memory, Short-Term",
+    "Models, Neurological",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Spatial Memory"
+  ]
+}

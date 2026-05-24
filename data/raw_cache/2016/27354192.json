@@ -1,0 +1,34 @@
+{
+  "pmid": "27354192",
+  "title": "A Computational Framework for Realistic Retina Modeling.",
+  "abstract": "Computational simulations of the retina have led to valuable insights about the biophysics of its neuronal activity and processing principles. A great number of retina models have been proposed to reproduce the behavioral diversity of the different visual processing pathways. While many of these models share common computational stages, previous efforts have been more focused on fitting specific retina functions rather than generalizing them beyond a particular model. Here, we define a set of computational retinal microcircuits that can be used as basic building blocks for the modeling of different retina mechanisms. To validate the hypothesis that similar processing structures may be repeatedly found in different retina functions, we implemented a series of retina models simply by combining these computational retinal microcircuits. Accuracy of the retina models for capturing neural behavior was assessed by fitting published electrophysiological recordings that characterize some of the best-known phenomena observed in the retina: adaptation to the mean light intensity and temporal contrast, and differential motion sensitivity. The retinal microcircuits are part of a new software platform for efficient computational retina modeling from single-cell to large-scale levels. It includes an interface with spiking neural networks that allows simulation of the spiking response of ganglion cells and integration with models of higher visual areas.",
+  "authors": [
+    "Martínez-Cañada Pablo",
+    "Morillas Christian",
+    "Pino Begoña",
+    "Ros Eduardo",
+    "Pelayo Francisco"
+  ],
+  "journal": "International journal of neural systems",
+  "year": "2016",
+  "doi": "10.1142/S0129065716500301",
+  "mesh": [
+    "Adaptation, Physiological",
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Feedback, Physiological",
+    "Linear Models",
+    "Macaca",
+    "Membrane Potentials",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neural Pathways",
+    "Neuronal Plasticity",
+    "Nonlinear Dynamics",
+    "Pattern Recognition, Automated",
+    "Retina",
+    "Software",
+    "Vision, Ocular"
+  ]
+}

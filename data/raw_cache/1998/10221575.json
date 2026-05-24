@@ -1,0 +1,22 @@
+{
+  "pmid": "10221575",
+  "title": "Computational modelling of optic flow selectivity in MSTd neurons.",
+  "abstract": "In neurophysiological experiments examining the selectivity of MSTd neurons to visual motion components of optic flow stimuli in monkeys, Duffy and Wurtz (1991) reported cells with double-component (plano-radial and plano-circular) and triple-component (plano-radial-circular) selectivities, while Graziano et al (1994) reported neurons selective to a continuum of optic flow stimuli including spiral motion. Here, we address these reported findings under simulated experimental conditions by examining the development of optic flow selectivity in the hidden units of a two-layer back-propagation network. We also examine network motion sensitivity during simulated psychophysical tests via the addition of a competitive decision layer. Network analysis with neurophysiological stimuli identified a majority of hidden units whose position invariance and motion selectivity were consistent with MSTd responses to the visual motion components of optic flow stimuli reported by Duffy and Wurtz and Graziano et al. Furthermore, the hidden units developed a continuum of optic flow selectivities independent of the biases associated with the specification of the motion selectivity in the output layer. During psychophysical testing, network responses showed motion sensitivities which met or exceeded human performance. Within the limitations imposed by the learning algorithm, the psychophysical results were consistent with a model of global motion perception via local integration along complex motion trajectories.",
+  "authors": [
+    "Beardsley S A",
+    "Vaina L M"
+  ],
+  "journal": "Network (Bristol, England)",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Haplorhini",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Psychological Tests",
+    "Temporal Lobe"
+  ]
+}

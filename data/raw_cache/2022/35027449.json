@@ -1,0 +1,23 @@
+{
+  "pmid": "35027449",
+  "title": "A connectivity-constrained computational account of topographic organization in primate high-level visual cortex.",
+  "abstract": "Inferotemporal (IT) cortex in humans and other primates is topographically organized, containing multiple hierarchically organized areas selective for particular domains, such as faces and scenes. This organization is commonly viewed in terms of evolved domain-specific visual mechanisms. Here, we develop an alternative, domain-general and developmental account of IT cortical organization. The account is instantiated in interactive topographic networks (ITNs), a class of computational models in which a hierarchy of model IT areas, subject to biologically plausible connectivity-based constraints, learns high-level visual representations optimized for multiple domains. We find that minimizing a wiring cost on spatially organized feedforward and lateral connections, alongside realistic constraints on the sign of neuronal connectivity within model IT, results in a hierarchical, topographic organization. This organization replicates a number of key properties of primate IT cortex, including the presence of domain-selective spatial clusters preferentially involved in the representation of faces, objects, and scenes; columnar responses across separate excitatory and inhibitory units; and generic spatial organization whereby the response correlation of pairs of units falls off with their distance. We thus argue that topographic domain selectivity is an emergent property of a visual system optimized to maximize behavioral performance under generic connectivity-based constraints.",
+  "authors": [
+    "Blauch Nicholas M",
+    "Behrmann Marlene",
+    "Plaut David C"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2022",
+  "doi": "10.1073/pnas.2112566119",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Primates",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

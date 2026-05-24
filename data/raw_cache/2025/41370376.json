@@ -1,0 +1,22 @@
+{
+  "pmid": "41370376",
+  "title": "From sensory to perceptual manifolds: The twist of neural geometry.",
+  "abstract": "Classification constitutes a fundamental cognitive challenge for both biological and artificial intelligence systems. Here, we investigated how the brain categorizes stimuli that are not linearly separable in the physical world by analyzing the geometry of neural manifolds formed by macaque V2 neurons during a classification task involving motion-induced illusory contours. We identified two related but distinct neural manifolds: the sensory and perceptual manifolds. The sensory manifold was embedded in a three-dimensional subspace defined by three stimulus features, where contour orientations remained linearly inseparable. However, through a sequence of geometric transformations equivalent to twist operations, this three-dimensional sensory manifold expanded into a seven-dimensional perceptual manifold, enabling the linear separability of contour orientations. Computational modeling further demonstrated that this dimension expansion was facilitated by neurons exhibiting nonlinear mixed selectivity with heterogeneous response profiles. These findings provide insights into how biological neural networks enhance the dimensionality of representational spaces, illuminating the geometric mechanism underlying the transformation from sensation to perception.",
+  "authors": [
+    "Ma Heng",
+    "Jiang Longsheng",
+    "Liu Tao",
+    "Liu Jia"
+  ],
+  "journal": "Science advances",
+  "year": "2025",
+  "doi": "10.1126/sciadv.adv0431",
+  "mesh": [
+    "Animals",
+    "Neurons",
+    "Models, Neurological",
+    "Macaca mulatta",
+    "Visual Cortex",
+    "Humans"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "7918230",
+  "title": "Space-time spectra of complex cell filters in the macaque monkey: a comparison of results obtained with pseudowhite noise and grating stimuli.",
+  "abstract": "White noise stimuli were used to estimate second-order kernels for complex cells in cortical area V1 of the macaque monkey, and drifting grating stimuli were presented to the sample of neurons to obtain orientation and spatial-frequency tuning curves. Using these data, we quantified how well second-order kernels predict the normalized tuning of the average response of complex cells to drifting gratings. The estimated second-order kernel of each complex cell was transformed into an interaction function defined over all spatial and temporal lags without regard to absolute position or delay. The Fourier transform of each interaction function was then computed to obtain an interaction spectrum. For a cell that is well modeled by a second-order system, the cell's interaction spectrum is proportional to the tuning of its average spike rate to drifting gratings. This result was used to obtain spatial-frequency and orientation tuning predictions for each cell based on its second-order kernel. From the spatial-frequency and orientation tuning curves, we computed peaks and bandwidths, and an index for directional selectivity. We found that the predictions derived from second-order kernels provide an accurate description of the change in the average spike rate of complex cells to single drifting sine-wave gratings. These findings are consistent with a model for complex cells that has a quadratic spectral energy operator at its core but are inconsistent with a spectral amplitude model.",
+  "authors": [
+    "Gaska J P",
+    "Jacobson L D",
+    "Chen H W",
+    "Pollen D A"
+  ],
+  "journal": "Visual neuroscience",
+  "year": "1994",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Electrophysiology",
+    "Fourier Analysis",
+    "Macaca fascicularis",
+    "Male",
+    "Microelectrodes",
+    "Neurons",
+    "Orientation",
+    "Space Perception",
+    "Time Perception",
+    "Visual Cortex"
+  ]
+}

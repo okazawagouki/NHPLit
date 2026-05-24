@@ -1,0 +1,21 @@
+{
+  "pmid": "17065444",
+  "title": "Probabilistic encoding of vocalizations in macaque ventral lateral prefrontal cortex.",
+  "abstract": "We examined strategies for classifying macaque vocalizations into their corresponding categories, as well as whether or not there was evidence that prefrontal auditory neurons were related to this process. We found that static estimates of the spectral and temporal contrasts of the calls were not effective features for discriminating among the call classes. A hidden Markov model (HMM), however, was more effective at discriminating among the call classes, reaching a performance of almost 75% correct. Finally, we found that the responses of prefrontal auditory neurons could be predicted more effectively as linear functions of the probabilistic output of the HMM than as linear functions of the spectral features of the calls. This provides evidence that, for call recognition, the macaque auditory system likely performs dynamic processing of vocalizations, and that prefrontal auditory neurons carry a signal related to the output of this processing.",
+  "authors": [
+    "Averbeck Bruno B",
+    "Romanski Lizabeth M"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Animals",
+    "Brain Mapping",
+    "Macaca mulatta",
+    "Models, Statistical",
+    "Prefrontal Cortex",
+    "Vocalization, Animal"
+  ]
+}

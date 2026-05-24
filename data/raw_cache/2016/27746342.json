@@ -1,0 +1,33 @@
+{
+  "pmid": "27746342",
+  "title": "The temporal-spatial dynamics of feature maps during monocular deprivation revealed by chronic imaging and self-organization model simulation.",
+  "abstract": "Experiments on the adult visual cortex of cats, ferrets and monkeys have revealed organized spatial relationships between multiple feature maps which can also be reproduced by the Kohonen and elastic net self-organization models. However, attempts to apply these models to simulate the temporal kinetics of monocular deprivation (MD) during the critical period, and their effects on the spatial arrangement of feature maps, have led to conflicting results. In this study, we performed MD and chronic imaging in the ferret visual cortex during the critical period of ocular dominance (OD) plasticity. We also used the Kohonen model to simulate the effects of MD on OD and orientation map development. Both the experiments and simulations demonstrated two general parameter-insensitive findings. Specifically, our first finding demonstrated that the OD index shift resulting from MD, and its subsequent recovery during binocular vision (BV), were both nonlinear, with a significantly stronger shift occurring during the initial period. Meanwhile, spatial reorganization of feature maps led to globally unchanged but locally shifted map patterns. In detail, we found that the periodicity of OD and orientation maps remained unchanged during, and after, deprivation. Relationships between OD and orientation maps remained similar but were significantly weakened due to OD border shifts. These results indicate that orthogonal gradient relationships between maps may be preset and are only mildly modifiable during the critical period. The Kohonen model was able to reproduce these experimental results, hence its role is further extended to the description of cortical feature map dynamics during development.",
+  "authors": [
+    "Tong Lei",
+    "Xie Yang",
+    "Yu Hongbo"
+  ],
+  "journal": "Neuroscience",
+  "year": "2016",
+  "doi": "10.1016/j.neuroscience.2016.10.014",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Computer Simulation",
+    "Dominance, Ocular",
+    "Ferrets",
+    "Models, Neurological",
+    "Neuronal Plasticity",
+    "Nonlinear Dynamics",
+    "Optical Imaging",
+    "Orientation",
+    "Photic Stimulation",
+    "Sensory Deprivation",
+    "Time Factors",
+    "Vision, Binocular",
+    "Vision, Monocular",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

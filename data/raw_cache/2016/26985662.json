@@ -1,0 +1,25 @@
+{
+  "pmid": "26985662",
+  "title": "A Sensorimotor Model for Computing Intended Reach Trajectories.",
+  "abstract": "The presumed role of the primate sensorimotor system is to transform reach targets from retinotopic to joint coordinates for producing motor output. However, the interpretation of neurophysiological data within this framework is ambiguous, and has led to the view that the underlying neural computation may lack a well-defined structure. Here, I consider a model of sensorimotor computation in which temporal as well as spatial transformations generate representations of desired limb trajectories, in visual coordinates. This computation is suggested by behavioral experiments, and its modular implementation makes predictions that are consistent with those observed in monkey posterior parietal cortex (PPC). In particular, the model provides a simple explanation for why PPC encodes reach targets in reference frames intermediate between the eye and hand, and further explains why these reference frames shift during movement. Representations in PPC are thus consistent with the orderly processing of information, provided we adopt the view that sensorimotor computation manipulates desired movement trajectories, and not desired movement endpoints.",
+  "authors": [
+    "Üstün Cevat"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2016",
+  "doi": "10.1371/journal.pcbi.1004734",
+  "mesh": [
+    "Anticipation, Psychological",
+    "Arm",
+    "Attention",
+    "Computer Simulation",
+    "Feedback, Sensory",
+    "Humans",
+    "Intention",
+    "Models, Neurological",
+    "Movement",
+    "Parietal Lobe",
+    "Psychomotor Performance",
+    "Sensorimotor Cortex"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "30097577",
+  "title": "Multiple timescales of normalized value coding underlie adaptive choice behavior.",
+  "abstract": "Adaptation is a fundamental process crucial for the efficient coding of sensory information. Recent evidence suggests that similar coding principles operate in decision-related brain areas, where neural value coding adapts to recent reward history. However, the circuit mechanism for value adaptation is unknown, and the link between changes in adaptive value coding and choice behavior is unclear. Here we show that choice behavior in nonhuman primates varies with the statistics of recent rewards. Consistent with efficient coding theory, decision-making shows increased choice sensitivity in lower variance reward environments. Both the average adaptation effect and across-session variability are explained by a novel multiple timescale dynamical model of value representation implementing divisive normalization. The model predicts empirical variance-driven changes in behavior despite having no explicit knowledge of environmental statistics, suggesting that distributional characteristics can be captured by dynamic model architectures. These findings highlight the importance of treating decision-making as a dynamic process and the role of normalization as a unifying computation for contextual phenomena in choice.",
+  "authors": [
+    "Zimmermann Jan",
+    "Glimcher Paul W",
+    "Louie Kenway"
+  ],
+  "journal": "Nature communications",
+  "year": "2018",
+  "doi": "10.1038/s41467-018-05507-8",
+  "mesh": [
+    "Adaptation, Psychological",
+    "Animals",
+    "Behavior, Animal",
+    "Choice Behavior",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Reward",
+    "Task Performance and Analysis",
+    "Time Factors"
+  ]
+}

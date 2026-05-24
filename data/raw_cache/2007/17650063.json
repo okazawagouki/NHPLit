@@ -1,0 +1,24 @@
+{
+  "pmid": "17650063",
+  "title": "Visual remapping by vector subtraction: analysis of multiplicative gain field models.",
+  "abstract": "Saccadic eye movements remain spatially accurate even when the target becomes invisible and the initial eye position is perturbed. The brain accomplishes this in part by remapping the remembered target location in retinal coordinates. The computation that underlies this visual remapping is approximated by vector subtraction: the original saccade vector is updated by subtracting the vector corresponding to the intervening eye movement. The neural mechanism by which vector subtraction is implemented is not fully understood. Here, we investigate vector subtraction within a framework in which eye position and retinal target position signals interact multiplicatively (gain field). When the eyes move, they induce a spatial modulation of the firing rates across a retinotopic map of neurons. The updated saccade metric can be read from the shift of the peak of the population activity across the map. This model uses a quasi-linear (half-rectified) dependence on the eye position and requires the slope of the eye position input to be negatively proportional to the preferred retinal position of each neuron. We derive analytically this constraint and study its range of validity. We discuss how this mechanism relates to experimental results reported in the frontal eye fields of macaque monkeys.",
+  "authors": [
+    "Cassanello Carlos R",
+    "Ferrera Vincent P"
+  ],
+  "journal": "Neural computation",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Humans",
+    "Models, Neurological",
+    "Nonlinear Dynamics",
+    "Photic Stimulation",
+    "Saccades",
+    "Vision, Ocular",
+    "Visual Fields",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "22157115",
+  "title": "Decoding 3D reach and grasp from hybrid signals in motor and premotor cortices: spikes, multiunit activity, and local field potentials.",
+  "abstract": "Neural activity in motor cortex during reach and grasp movements shows modulations in a broad range of signals from single-neuron spiking activity (SA) to various frequency bands in broadband local field potentials (LFPs). In particular, spatiotemporal patterns in multiband LFPs are thought to reflect dendritic integration of local and interareal synaptic inputs, attentional and preparatory processes, and multiunit activity (MUA) related to movement representation in the local motor area. Nevertheless, the relationship between multiband LFPs and SA, and their relationship to movement parameters and their relative value as brain-computer interface (BCI) control signals, remain poorly understood. Also, although this broad range of signals may provide complementary information channels in primary (MI) and ventral premotor (PMv) areas, areal differences in information have not been systematically examined. Here, for the first time, the amount of information in SA and multiband LFPs was compared for MI and PMv by recording from dual 96-multielectrode arrays while monkeys made naturalistic reach and grasp actions. Information was assessed as decoding accuracy for 3D arm end point and grip aperture kinematics based on SA or LFPs in MI and PMv, or combinations of signal types across areas. In contrast with previous studies with ≤16 simultaneous electrodes, here ensembles of >16 units (on average) carried more information than multiband, multichannel LFPs. Furthermore, reach and grasp information added by various LFP frequency bands was not independent from that in SA ensembles but rather typically less than and primarily contained within the latter. Notably, MI and PMv did not show a particular bias toward reach or grasp for this task or for a broad range of signal types. For BCIs, our results indicate that neuronal ensemble spiking is the preferred signal for decoding, while LFPs and combined signals from PMv and MI can add robustness to BCI control.",
+  "authors": [
+    "Bansal Arjun K",
+    "Truccolo Wilson",
+    "Vargas-Irwin Carlos E",
+    "Donoghue John P"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2012",
+  "doi": "10.1152/jn.00781.2011",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Male",
+    "Motor Activity",
+    "Motor Cortex",
+    "Movement",
+    "Photic Stimulation",
+    "Psychomotor Performance"
+  ]
+}

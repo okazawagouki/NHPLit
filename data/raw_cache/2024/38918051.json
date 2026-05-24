@@ -1,0 +1,31 @@
+{
+  "pmid": "38918051",
+  "title": "Synchronous Measurements of Extracellular Action Potentials and Neurochemical Activity with Carbon Fiber Electrodes in Nonhuman Primates.",
+  "abstract": "Measuring the dynamic relationship between neuromodulators, such as dopamine, and neuronal action potentials is imperative to understand how these fundamental modes of neural signaling interact to mediate behavior. We developed methods to measure concurrently dopamine and extracellular action potentials (i.e., spikes) in monkeys. Standard fast-scan cyclic voltammetric (FSCV) electrochemical (EChem) and electrophysiological (EPhys) recording systems are combined and used to collect spike and dopamine signals, respectively, from an array of carbon fiber (CF) sensors implanted in the monkey striatum. FSCV requires the application of small voltages at the implanted sensors to measure redox currents generated from target molecules, such as dopamine. These applied voltages create artifacts at neighboring EPhys measurement sensors which may lead to misclassification of these signals as physiological spikes. Therefore, simple automated temporal interpolation algorithms were designed to remove these artifacts and enable accurate spike extraction. We validated these methods using simulated artifacts and demonstrated an average spike recovery rate of 84.5%. We identified and discriminated cell type-specific units in the monkey striatum that were shown to correlate to specific behavioral task parameters related to reward size and eye movement direction. Synchronously recorded spike and dopamine signals displayed contrasting relations to the task variables, suggesting a complex relationship between these two modes of neural signaling. Future application of our methods will help advance our understanding of the interactions between neuromodulator signaling and neuronal activity, to elucidate more detailed mechanisms of neural circuitry and plasticity mediating behaviors in health and in disease.",
+  "authors": [
+    "Amjad Usamma",
+    "Choi Jiwon",
+    "Gibson Daniel J",
+    "Murray Raymond",
+    "Graybiel Ann M",
+    "Schwerdt Helen N"
+  ],
+  "journal": "eNeuro",
+  "year": "2024",
+  "doi": "10.1523/ENEURO.0001-24.2024",
+  "mesh": [
+    "Animals",
+    "Action Potentials",
+    "Carbon Fiber",
+    "Dopamine",
+    "Male",
+    "Macaca mulatta",
+    "Neurons",
+    "Electrodes, Implanted",
+    "Corpus Striatum",
+    "Artifacts",
+    "Electrochemical Techniques",
+    "Eye Movements",
+    "Reward"
+  ]
+}

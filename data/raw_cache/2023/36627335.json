@@ -1,0 +1,24 @@
+{
+  "pmid": "36627335",
+  "title": "The importance of contrast features in rat vision.",
+  "abstract": "Models of object recognition have mostly focused upon the hierarchical processing of objects from local edges up to more complex shape features. An alternative strategy that might be involved in pattern recognition centres around coarse-level contrast features. In humans and monkeys, the use of such features is most documented in the domain of face perception. Given prior suggestions that, generally, rodents might rely upon contrast features for object recognition, we hypothesized that they would pick up the typical contrast features relevant for face detection. We trained rats in a face-nonface categorization task with stimuli previously used in computer vision and tested for generalization with new, unseen stimuli by including manipulations of the presence and strength of a range of contrast features previously identified to be relevant for face detection. Although overall generalization performance was low, it was significantly modulated by contrast features. A model taking into account the summed strength of contrast features predicted the variation in accuracy across stimuli. Finally, with deep neural networks, we further investigated and quantified the performance and representations of the animals. The findings suggest that rat behaviour in visual pattern recognition tasks is partially explained by contrast feature processing.",
+  "authors": [
+    "Schnell Anna Elisabeth",
+    "Vinken Kasper",
+    "de Beeck Hans Op"
+  ],
+  "journal": "Scientific reports",
+  "year": "2023",
+  "doi": "10.1038/s41598-023-27533-3",
+  "mesh": [
+    "Humans",
+    "Rats",
+    "Animals",
+    "Vision, Ocular",
+    "Visual Perception",
+    "Pattern Recognition, Visual",
+    "Neural Networks, Computer",
+    "Facial Recognition",
+    "Photic Stimulation"
+  ]
+}

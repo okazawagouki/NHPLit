@@ -1,0 +1,28 @@
+{
+  "pmid": "23825433",
+  "title": "Strong correlations between sensitivity and variability give rise to constant discrimination thresholds across the otolith afferent population.",
+  "abstract": "The vestibular system is vital for our sense of linear self-motion. At the earliest processing stages, the otolith afferents of the vestibular nerve encode linear motion. Their resting discharge regularity has long been known to span a wide range, suggesting an important role in sensory coding, yet to date, the question of how this regularity alters the coding of translational motion is not fully understood. Here, we recorded from single otolith afferents in macaque monkeys during linear motion along the preferred directional axis of each afferent over a wide range of frequencies (0.5-16 Hz) corresponding to physiologically relevant stimulation. We used signal-detection theory to directly measure neuronal thresholds and found that values for single afferents were substantially higher than those observed for human perception even when a Kaiser filter was used to provide an estimate of firing rate. Surprisingly, we further found that neuronal thresholds were independent of both stimulus frequency and resting discharge regularity. This was because increases in trial-to-trial variability were matched by increases in sensitivity such that their ratio remains constant: a coding strategy that markedly differs from that used by semicircular canal vestibular afferents to encode rotations. Finally, using Fisher information, we show that pooling the activities of multiple otolith afferents gives rise to neural thresholds comparable with those measured for perception. Together, our results strongly suggest that higher-order structures integrate inputs across afferent populations to provide our sense of linear motion and provide unexpected insight into the influence of variability on sensory encoding.",
+  "authors": [
+    "Jamali Mohsen",
+    "Carriot Jerome",
+    "Chacron Maurice J",
+    "Cullen Kathleen E"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2013",
+  "doi": "10.1523/JNEUROSCI.0459-13.2013",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Discrimination, Psychological",
+    "Head Movements",
+    "Humans",
+    "Macaca fascicularis",
+    "Male",
+    "Microelectrodes",
+    "Neurons, Afferent",
+    "Otolithic Membrane",
+    "Sensory Thresholds",
+    "Vestibular Nerve"
+  ]
+}

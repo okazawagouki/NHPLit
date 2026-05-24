@@ -1,0 +1,34 @@
+{
+  "pmid": "20169103",
+  "title": "Ensemble fractional sensitivity: a quantitative approach to neuron selection for decoding motor tasks.",
+  "abstract": "A robust method to help identify the population of neurons used for decoding motor tasks is developed. We use sensitivity analysis to develop a new metric for quantifying the relative contribution of a neuron towards the decoded output, called \"fractional sensitivity.\" Previous model-based approaches for neuron ranking have been shown to largely depend on the collection of training data. We suggest the use of an ensemble of models that are trained on random subsets of trials to rank neurons. For this work, we tested a decoding algorithm on neuronal data recorded from two male rhesus monkeys while they performed a reach to grasp a bar at three orientations (45 degrees, 90 degrees, or 135 degrees). An ensemble approach led to a statistically significant increase of 5% in decoding accuracy and 25% increase in identification accuracy of simulated noisy neurons, when compared to a single model. Furthermore, ranking neurons based on the ensemble fractional sensitivities resulted in decoding accuracies 10%-20% greater than when randomly selecting neurons or ranking based on firing rates alone. By systematically reducing the size of the input space, we determine the optimal number of neurons needed for decoding the motor output. This selection approach has practical benefits for other BMI applications where limited number of electrodes and training datasets are available, but high decoding accuracies are desirable.",
+  "authors": [
+    "Singhal Girish",
+    "Aggarwal Vikram",
+    "Acharya Soumyadipta",
+    "Aguayo Jose",
+    "He Jiping",
+    "Thakor Nitish"
+  ],
+  "journal": "Computational intelligence and neuroscience",
+  "year": "2010",
+  "doi": "10.1155/2010/648202",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Frontal Lobe",
+    "Hand",
+    "Macaca mulatta",
+    "Male",
+    "Monte Carlo Method",
+    "Motor Activity",
+    "Motor Cortex",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Signal Processing, Computer-Assisted",
+    "Wrist"
+  ]
+}

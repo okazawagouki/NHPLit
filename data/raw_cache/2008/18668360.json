@@ -1,0 +1,26 @@
+{
+  "pmid": "18668360",
+  "title": "A neuronal network model of primary visual cortex explains spatial frequency selectivity.",
+  "abstract": "We address how spatial frequency selectivity arises in Macaque primary visual cortex (V1) by simulating V1 with a large-scale network model consisting of O(10(4)) excitatory and inhibitory integrate-and-fire neurons with realistic synaptic conductances. The new model introduces variability of the widths of subregions in V1 neuron receptive fields. As a consequence different model V1 neurons prefer different spatial frequencies. The model cortex has distributions of spatial frequency selectivity and of preference that resemble experimental findings from the real V1. Two main sources of spatial frequency selectivity in the model are the spatial arrangement of feedforward excitation, and cortical nonlinear suppression, a result of cortical inhibition.",
+  "authors": [
+    "Zhu Wei",
+    "Shelley Michael",
+    "Shapley Robert"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2009",
+  "doi": "10.1007/s10827-008-0110-x",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Geniculate Bodies",
+    "Macaca",
+    "Neural Inhibition",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Photic Stimulation",
+    "Time",
+    "Visual Cortex"
+  ]
+}

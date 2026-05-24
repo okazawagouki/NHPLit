@@ -1,0 +1,31 @@
+{
+  "pmid": "24111003",
+  "title": "Information-theoretic metric learning: 2-D linear projections of neural data for visualization.",
+  "abstract": "Intracortical neural recordings are typically high-dimensional due to many electrodes, channels, or units and high sampling rates, making it very difficult to visually inspect differences among responses to various conditions. By representing the neural response in a low-dimensional space, a researcher can visually evaluate the amount of information the response carries about the conditions. We consider a linear projection to 2-D space that also parametrizes a metric between neural responses. The projection, and corresponding metric, should preserve class-relevant information pertaining to different behavior or stimuli. We find the projection as a solution to the information-theoretic optimization problem of maximizing the information between the projected data and the class labels. The method is applied to two datasets using different types of neural responses: motor cortex neuronal firing rates of a macaque during a center-out reaching task, and local field potentials in the somatosensory cortex of a rat during tactile stimulation of the forepaw. In both cases, projected data points preserve the natural topology of targets or peripheral touch sites. Using the learned metric on the neural responses increases the nearest-neighbor classification rate versus the original data; thus, the metric is tuned to distinguish among the conditions.",
+  "authors": [
+    "Brockmeier Austin J",
+    "Sanchez Giraldo Luis G",
+    "Emigh Matthew S",
+    "Bae Jihye",
+    "Choi John S",
+    "Francis Joseph T",
+    "Principe Jose C"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2013",
+  "doi": "10.1109/EMBC.2013.6610816",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Electroencephalography",
+    "Female",
+    "Forelimb",
+    "Information Theory",
+    "Learning",
+    "Macaca",
+    "Male",
+    "Motor Cortex",
+    "Rats, Long-Evans",
+    "Task Performance and Analysis"
+  ]
+}

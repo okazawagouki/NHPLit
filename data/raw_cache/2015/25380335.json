@@ -1,0 +1,27 @@
+{
+  "pmid": "25380335",
+  "title": "Spike train SIMilarity Space (SSIMS): a framework for single neuron and ensemble data analysis.",
+  "abstract": "Increased emphasis on circuit level activity in the brain makes it necessary to have methods to visualize and evaluate large-scale ensemble activity beyond that revealed by raster-histograms or pairwise correlations. We present a method to evaluate the relative similarity of neural spiking patterns by combining spike train distance metrics with dimensionality reduction. Spike train distance metrics provide an estimate of similarity between activity patterns at multiple temporal resolutions. Vectors of pair-wise distances are used to represent the intrinsic relationships between multiple activity patterns at the level of single units or neuronal ensembles. Dimensionality reduction is then used to project the data into concise representations suitable for clustering analysis as well as exploratory visualization. Algorithm performance and robustness are evaluated using multielectrode ensemble activity data recorded in behaving primates. We demonstrate how spike train SIMilarity space (SSIMS) analysis captures the relationship between goal directions for an eight-directional reaching task and successfully segregates grasp types in a 3D grasping task in the absence of kinematic information. The algorithm enables exploration of virtually any type of neural spiking (time series) data, providing similarity-based clustering of neural activity states with minimal assumptions about potential information encoding models.",
+  "authors": [
+    "Vargas-Irwin Carlos E",
+    "Brandman David M",
+    "Zimmermann Jonas B",
+    "Donoghue John P",
+    "Black Michael J"
+  ],
+  "journal": "Neural computation",
+  "year": "2015",
+  "doi": "10.1162/NECO_a_00684",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Humans",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Space Perception"
+  ]
+}

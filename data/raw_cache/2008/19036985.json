@@ -1,0 +1,33 @@
+{
+  "pmid": "19036985",
+  "title": "Decoding trajectories from posterior parietal cortex ensembles.",
+  "abstract": "High-level cognitive signals in the posterior parietal cortex (PPC) have previously been used to decode the intended endpoint of a reach, providing the first evidence that PPC can be used for direct control of a neural prosthesis (Musallam et al., 2004). Here we expand on this work by showing that PPC neural activity can be harnessed to estimate not only the endpoint but also to continuously control the trajectory of an end effector. Specifically, we trained two monkeys to use a joystick to guide a cursor on a computer screen to peripheral target locations while maintaining central ocular fixation. We found that we could accurately reconstruct the trajectory of the cursor using a relatively small ensemble of simultaneously recorded PPC neurons. Using a goal-based Kalman filter that incorporates target information into the state-space, we showed that the decoded estimate of cursor position could be significantly improved. Finally, we tested whether we could decode trajectories during closed-loop brain control sessions, in which the real-time position of the cursor was determined solely by a monkey's neural activity in PPC. The monkey learned to perform brain control trajectories at 80% success rate (for 8 targets) after just 4-5 sessions. This improvement in behavioral performance was accompanied by a corresponding enhancement in neural tuning properties (i.e., increased tuning depth and coverage of encoding parameter space) as well as an increase in off-line decoding performance of the PPC ensemble.",
+  "authors": [
+    "Mulliken Grant H",
+    "Musallam Sam",
+    "Andersen Richard A"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2008",
+  "doi": "10.1523/JNEUROSCI.1463-08.2008",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electrophysiology",
+    "Fixation, Ocular",
+    "Learning",
+    "Macaca mulatta",
+    "Male",
+    "Motor Skills",
+    "Nerve Net",
+    "Neurons",
+    "Neuropsychological Tests",
+    "Orientation",
+    "Parietal Lobe",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Signal Processing, Computer-Assisted",
+    "Space Perception",
+    "User-Computer Interface"
+  ]
+}

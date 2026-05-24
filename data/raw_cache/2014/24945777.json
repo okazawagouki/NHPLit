@@ -1,0 +1,32 @@
+{
+  "pmid": "24945777",
+  "title": "Closed-loop decoder adaptation shapes neural plasticity for skillful neuroprosthetic control.",
+  "abstract": "Neuroplasticity may play a critical role in developing robust, naturally controlled neuroprostheses. This learning, however, is sensitive to system changes such as the neural activity used for control. The ultimate utility of neuroplasticity in real-world neuroprostheses is thus unclear. Adaptive decoding methods hold promise for improving neuroprosthetic performance in nonstationary systems. Here, we explore the use of decoder adaptation to shape neuroplasticity in two scenarios relevant for real-world neuroprostheses: nonstationary recordings of neural activity and changes in control context. Nonhuman primates learned to control a cursor to perform a reaching task using semistationary neural activity in two contexts: with and without simultaneous arm movements. Decoder adaptation was used to improve initial performance and compensate for changes in neural recordings. We show that beneficial neuroplasticity can occur alongside decoder adaptation, yielding performance improvements, skill retention, and resistance to interference from native motor networks. These results highlight the utility of neuroplasticity for real-world neuroprostheses.",
+  "authors": [
+    "Orsborn Amy L",
+    "Moorman Helene G",
+    "Overduin Simon A",
+    "Shanechi Maryam M",
+    "Dimitrov Dragan F",
+    "Carmena Jose M"
+  ],
+  "journal": "Neuron",
+  "year": "2014",
+  "doi": "10.1016/j.neuron.2014.04.048",
+  "mesh": [
+    "Adaptation, Physiological",
+    "Animals",
+    "Feasibility Studies",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Motor Skills",
+    "Neural Prostheses",
+    "Neuronal Plasticity",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Random Allocation",
+    "Teach-Back Communication",
+    "User-Computer Interface"
+  ]
+}

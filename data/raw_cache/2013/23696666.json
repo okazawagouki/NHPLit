@@ -1,0 +1,24 @@
+{
+  "pmid": "23696666",
+  "title": "Spatiotemporal dynamics of neuronal population response in the primary visual cortex.",
+  "abstract": "One of the fundamental questions in system neuroscience is how the brain encodes external stimuli in the early sensory cortex. It has been found in experiments that even some simple sensory stimuli can activate large populations of neurons. It is believed that information can be encoded in the spatiotemporal profile of these collective neuronal responses. Here, we use a large-scale computational model of the primary visual cortex (V1) to study the population responses in V1 as observed in experiments in which monkeys performed visual detection tasks. We show that our model can capture very well spatiotemporal activities measured by voltage-sensitive-dye-based optical imaging in V1 of the awake state. In our model, the properties of horizontal long-range connections with NMDA conductance play an important role in the correlated population responses and have strong implications for spatiotemporal coding of neuronal populations. Our computational modeling approach allows us to reveal intrinsic cortical dynamics, separating them from those statistical effects arising from averaging procedures in experiment. For example, in experiments, it was shown that there was a spatially antagonistic center-surround structure in optimal weights in signal detection theory, which was believed to underlie the efficiency of population coding. However, our study shows that this feature is an artifact of data processing.",
+  "authors": [
+    "Zhou Douglas",
+    "Rangan Aaditya V",
+    "McLaughlin David W",
+    "Cai David"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2013",
+  "doi": "10.1073/pnas.1308167110",
+  "mesh": [
+    "Computational Biology",
+    "Humans",
+    "Models, Neurological",
+    "N-Methylaspartate",
+    "Nerve Net",
+    "Neurons",
+    "Optical Imaging",
+    "Visual Cortex"
+  ]
+}

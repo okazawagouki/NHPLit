@@ -1,0 +1,29 @@
+{
+  "pmid": "21709222",
+  "title": "Neural and computational mechanisms of postponed decisions.",
+  "abstract": "We consider the mechanisms that enable decisions to be postponed for a period after the evidence has been provided. Using an information theoretic approach, we show that information about the forthcoming action becomes available from the activity of neurons in the medial premotor cortex in a sequential decision-making task after the second stimulus is applied, providing the information for a decision about whether the first or second stimulus is higher in vibrotactile frequency. The information then decays in a 3-s delay period in which the neuronal activity declines before the behavioral response can be made. The information then increases again when the behavioral response is required. We model this neuronal activity using an attractor decision-making network in which information reflecting the decision is maintained at a low level during the delay period, and is then selectively restored by a nonspecific input when the response is required. One mechanism for the short-term memory is synaptic facilitation, which can implement a mechanism for postponed decisions that can be correct even when there is little neuronal firing during the delay period before the postponed decision. Another mechanism is graded firing rates by different neurons in the delay period, with restoration by the nonspecific input of the low-rate activity from the higher-rate neurons still firing in the delay period. These mechanisms can account for the decision making and for the memory of the decision before a response can be made, which are evident in the activity of neurons in the medial premotor cortex.",
+  "authors": [
+    "Martínez-García Marina",
+    "Rolls Edmund T",
+    "Deco Gustavo",
+    "Romo Ranulfo"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2011",
+  "doi": "10.1073/pnas.1108137108",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Decision Making",
+    "Decision Theory",
+    "Discrimination Learning",
+    "Information Theory",
+    "Macaca mulatta",
+    "Mental Recall",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neurons",
+    "Synaptic Transmission",
+    "Time Factors"
+  ]
+}

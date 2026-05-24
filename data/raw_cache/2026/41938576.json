@@ -1,0 +1,13 @@
+{
+  "pmid": "41938576",
+  "title": "A brain-inspired ISMO-PNN framework for neurally-grounded bearing fault diagnosis.",
+  "abstract": "INTRODUCTION: In advanced robot systems, monitoring the health of key components such as bearings in the transmission system is crucial for achieving reliable autonomous operation. However, there are still challenges in accurately diagnosing bearing faults under dynamic and noisy conditions. METHODS: To address this issue, this paper propose a brain-inspired computational framework that integrates an Improved Spider Monkey Optimization algorithm with a Probabilistic Neural Network (ISMO-PNN) for neurally-grounded bearing fault diagnosis in robotic systems. The main content includes: (1) extracting a 22 dimensional mixed feature set from vibration signals, (2) using intelligent PCA strategy to reduce the dimensionality of features to three dimensions while retaining more than 80% of the discriminative information, and (3) using ISMO algorithm to automatically optimize the key smoothing parameters of PNN. RESULTS: On the CWRU bearing dataset, the ISMO-PNN model has a fault classification accuracy of 97.14% and a macro-average F1 score of 97.32%, which is superior to other comparative models in the article. In addition, the minimum training and testing accuracy difference of the model is 0.72%, indicating strong generalization ability. DISCUSSION: This brain-inspired framework, synergizing a neurally-grounded probabilistic classifier with a bio-inspired swarm optimizer, forms a robust and efficient embedded health monitoring model, which can provide feasible solutions for the development of advanced robot systems.",
+  "authors": [
+    "Zhang Fan",
+    "Zhang Bangcheng"
+  ],
+  "journal": "Frontiers in neurorobotics",
+  "year": "2026",
+  "doi": "10.3389/fnbot.2026.1807995",
+  "mesh": []
+}

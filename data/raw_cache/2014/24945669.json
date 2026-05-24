@@ -1,0 +1,24 @@
+{
+  "pmid": "24945669",
+  "title": "A copula approach to assessing Granger causality.",
+  "abstract": "In neuroscience, as in many other fields of science and engineering, it is crucial to assess the causal interactions among multivariate time series. Granger causality has been increasingly used to identify causal influence between time series based on multivariate autoregressive models. Such an approach is based on linear regression framework with implicit Gaussian assumption of model noise residuals having constant variance. As a consequence, this measure cannot detect the cause-effect relationship in high-order moments and nonlinear causality. Here, we propose an effective model-free, copula-based Granger causality measure that can be used to reveal nonlinear and high-order moment causality. We first formulate Granger causality as the log-likelihood ratio in terms of conditional distribution, and then derive an efficient estimation procedure using conditional copula. We use resampling techniques to build a baseline null-hypothesis distribution from which statistical significance can be derived. We perform a series of simulations to investigate the performance of our copula-based Granger causality, and compare its performance against other state-of-the-art techniques. Our method is finally applied to neural field potential time series recorded from visual cortex of a monkey while performing a visual illusion task.",
+  "authors": [
+    "Hu Meng",
+    "Liang Hualou"
+  ],
+  "journal": "NeuroImage",
+  "year": "2014",
+  "doi": "10.1016/j.neuroimage.2014.06.013",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Data Interpretation, Statistical",
+    "Evoked Potentials, Visual",
+    "Illusions",
+    "Macaca",
+    "Models, Statistical",
+    "Neurosciences",
+    "Statistical Distributions",
+    "Visual Cortex"
+  ]
+}

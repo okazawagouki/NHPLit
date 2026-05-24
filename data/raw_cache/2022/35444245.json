@@ -1,0 +1,26 @@
+{
+  "pmid": "35444245",
+  "title": "Subthalamic nucleus deep brain stimulation driven by primary motor cortex γ2 activity in parkinsonian monkeys.",
+  "abstract": "In parkinsonism, subthalamic nucleus (STN) electrical deep brain stimulation (DBS) improves symptoms, but may be associated with side effects. Adaptive DBS (aDBS), which enables modulation of stimulation, may limit side effects, but limited information is available about clinical effectiveness and efficaciousness. We developed a brain-machine interface for aDBS, which enables modulation of stimulation parameters of STN-DBS in response to γ2 band activity (80-200 Hz) of local field potentials (LFPs) recorded from the primary motor cortex (M1), and tested its effectiveness in parkinsonian monkeys. We trained two monkeys to perform an upper limb reaching task and rendered them parkinsonian with 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine. Bipolar intracortical recording electrodes were implanted in the M1, and a recording chamber was attached to access the STN. In aDBS, the M1 LFPs were recorded, filtered into the γ2 band, and discretized into logic pulses by a window discriminator, and the pulses were used to modulate the interval and amplitude of DBS pulses. In constant DBS (cDBS), constant stimulus intervals and amplitudes were used. Reaction and movement times during the task were measured and compared between aDBS and cDBS. The M1-γ2 activities were increased before and during movements in parkinsonian monkeys and these activities modulated the aDBS pulse interval, amplitude, and dispersion. With aDBS and cDBS, reaction and movement times were significantly decreased in comparison to DBS-OFF. The electric charge delivered was lower with aDBS than cDBS. M1-γ2 aDBS in parkinsonian monkeys resulted in clinical benefits that did not exceed those from cDBS. However, M1-γ2 aDBS achieved this magnitude of benefit for only two thirds of the charge delivered by cDBS. In conclusion, M1-γ2 aDBS is an effective therapeutic approach which requires a lower electrical charge delivery than cDBS for comparable clinical benefits.",
+  "authors": [
+    "Darbin Olivier",
+    "Hatanaka Nobuhiko",
+    "Takara Sayuki",
+    "Kaneko Nobuya",
+    "Chiken Satomi",
+    "Naritoku Dean",
+    "Martino Anthony",
+    "Nambu Atsushi"
+  ],
+  "journal": "Scientific reports",
+  "year": "2022",
+  "doi": "10.1038/s41598-022-10130-1",
+  "mesh": [
+    "Animals",
+    "Deep Brain Stimulation",
+    "Haplorhini",
+    "Motor Cortex",
+    "Parkinsonian Disorders",
+    "Subthalamic Nucleus"
+  ]
+}

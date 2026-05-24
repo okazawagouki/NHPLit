@@ -1,0 +1,32 @@
+{
+  "pmid": "29887338",
+  "title": "Unsupervised Discovery of Demixed, Low-Dimensional Neural Dynamics across Multiple Timescales through Tensor Component Analysis.",
+  "abstract": "Perceptions, thoughts, and actions unfold over millisecond timescales, while learned behaviors can require many days to mature. While recent experimental advances enable large-scale and long-term neural recordings with high temporal fidelity, it remains a formidable challenge to extract unbiased and interpretable descriptions of how rapid single-trial circuit dynamics change slowly over many trials to mediate learning. We demonstrate a simple tensor component analysis (TCA) can meet this challenge by extracting three interconnected, low-dimensional descriptions of neural data: neuron factors, reflecting cell assemblies; temporal factors, reflecting rapid circuit dynamics mediating perceptions, thoughts, and actions within each trial; and trial factors, describing both long-term learning and trial-to-trial changes in cognitive state. We demonstrate the broad applicability of TCA by revealing insights into diverse datasets derived from artificial neural networks, large-scale calcium imaging of rodent prefrontal cortex during maze navigation, and multielectrode recordings of macaque motor cortex during brain machine interface learning.",
+  "authors": [
+    "Williams Alex H",
+    "Kim Tony Hyun",
+    "Wang Forea",
+    "Vyas Saurabh",
+    "Ryu Stephen I",
+    "Shenoy Krishna V",
+    "Schnitzer Mark",
+    "Kolda Tamara G",
+    "Ganguli Surya"
+  ],
+  "journal": "Neuron",
+  "year": "2018",
+  "doi": "10.1016/j.neuron.2018.05.015",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Mice",
+    "Motor Cortex",
+    "Neural Networks, Computer",
+    "Prefrontal Cortex",
+    "Principal Component Analysis",
+    "Spatial Navigation",
+    "Time Factors",
+    "Unsupervised Machine Learning"
+  ]
+}

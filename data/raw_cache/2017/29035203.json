@@ -1,0 +1,27 @@
+{
+  "pmid": "29035203",
+  "title": "Developing a Nonstationary Computational Framework With Application to Modeling Dynamic Modulations in Neural Spiking Responses.",
+  "abstract": "OBJECTIVE: This paper aims to develop a computational model that incorporates the functional effects of modulatory covariates (such as context, task, or behavior), which dynamically alter the relationship between the stimulus and the neural response. METHODS: We develop a general computational approach along with an efficient estimation procedure in the widely used generalized linear model (GLM) framework to characterize such nonstationary dynamics in spiking response and spatiotemporal characteristics of a neuron at the level of individual trials. The model employs a set of modulatory components, which nonlinearly interact with other stimulus-related signals to reproduce such nonstationary effects. RESULTS: The model is tested for its ability to predict the responses of neurons in the middle temporal cortex of macaque monkeys during an eye movement task. The fitted model proves successful in capturing the fast temporal modulations in the response, reproducing the spike response temporal statistics, and accurately accounting for the neurons' dynamic spatiotemporal sensitivities, during eye movements. CONCLUSION: The nonstationary GLM framework developed in this study can be used in cases where a time-varying behavioral or cognitive component makes GLM-based models insufficient to describe the dependencies of neural responses on the stimulus-related covariates. SIGNIFICANCE: In addition to being quite powerful in encoding time-varying response modulations, this general framework also enables a readout of the neural code while dissociating the influence of other nonstimulus covariates. This framework will advance our ability to understand sensory processing in higher brain areas when modulated by several behavioral or cognitive variables.",
+  "authors": [
+    "Akbarian Amir",
+    "Niknam Kaiser",
+    "Parsa Moahammadbagher",
+    "Clark Kelsey",
+    "Noudoost Behrad",
+    "Nategh Neda"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2018",
+  "doi": "10.1109/TBME.2017.2762687",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Eye Movements",
+    "Linear Models",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Signal Processing, Computer-Assisted",
+    "Temporal Lobe"
+  ]
+}

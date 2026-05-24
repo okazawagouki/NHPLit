@@ -1,0 +1,15 @@
+{
+  "pmid": "31636530",
+  "title": "Low-Dimensional Motor Cortex Dynamics Preserve Kinematics Information During Unconstrained Locomotion in Nonhuman Primates.",
+  "abstract": "The dynamical systems view of movement generation in motor cortical areas has emerged as an effective way to explain the firing properties of populations of neurons recorded from these regions. Recently, many studies have focused on finding low-dimensional representations of these dynamical systems during voluntary reaching and grasping behaviors carried out by the forelimbs. One such model, the Poisson linear-dynamical-system (PLDS) model, has been shown to extract dynamics which can be used to decode reaching kinematics. However, few have investigated these dynamics, especially in non-human primates, during behaviors such as locomotion, which may involve motor cortex to a lesser degree. Here, we focused on unconstrained quadrupedal locomotion, and investigated whether unsupervised latent state-space models can extract low-dimensional dynamics while preserving information about hind-limb kinematics. Spiking activity from the leg area of primary motor cortex of rhesus macaques was recorded simultaneously with hind-limb joint positions during ambulation across a corridor, ladder, and on a treadmill at various speeds. We found that PLDS models can extract stereotyped low-dimensional neural trajectories from these neurons phase-locked to the gait cycle, and that distinct trajectories emerge depending on the speed and class of behavior. Additionally, it was possible to decode both the hind-limb kinematics and the gait phase from these inferred trajectories just as well or better than from the full neural population (18-80 neurons) with only 12 dimensions. Our results demonstrate that kinematics and gait phase during various locomotion tasks are well represented in low-dimensional latent dynamics inferred from motor cortex population activity.",
+  "authors": [
+    "Xing David",
+    "Aghagolzadeh Mehdi",
+    "Truccolo Wilson",
+    "Borton David"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2019",
+  "doi": "10.3389/fnins.2019.01046",
+  "mesh": []
+}

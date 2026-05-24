@@ -1,0 +1,33 @@
+{
+  "pmid": "19297518",
+  "title": "Factor-analysis methods for higher-performance neural prostheses.",
+  "abstract": "Neural prostheses aim to provide treatment options for individuals with nervous-system disease or injury. It is necessary, however, to increase the performance of such systems before they can be clinically viable for patients with motor dysfunction. One performance limitation is the presence of correlated trial-to-trial variability that can cause neural responses to wax and wane in concert as the subject is, for example, more attentive or more fatigued. If a system does not properly account for this variability, it may mistakenly interpret such variability as an entirely different intention by the subject. We report here the design and characterization of factor-analysis (FA)-based decoding algorithms that can contend with this confound. We characterize the decoders (classifiers) on experimental data where monkeys performed both a real reach task and a prosthetic cursor task while we recorded from 96 electrodes implanted in dorsal premotor cortex. The decoder attempts to infer the underlying factors that comodulate the neurons' responses and can use this information to substantially lower error rates (one of eight reach endpoint predictions) by <or=75% (e.g., approximately 20% total prediction error using traditional independent Poisson models reduced to approximately 5%). We also examine additional key aspects of these new algorithms: the effect of neural integration window length on performance, an extension of the algorithms to use Poisson statistics, and the effect of training set size on the decoding accuracy of test data. We found that FA-based methods are most effective for integration windows >150 ms, although still advantageous at shorter timescales, that Gaussian-based algorithms performed better than the analogous Poisson-based algorithms and that the FA algorithm is robust even with a limited amount of training data. We propose that FA-based methods are effective in modeling correlated trial-to-trial neural variability and can be used to substantially increase overall prosthetic system performance.",
+  "authors": [
+    "Santhanam Gopal",
+    "Yu Byron M",
+    "Gilja Vikash",
+    "Ryu Stephen I",
+    "Afshar Afsheen",
+    "Sahani Maneesh",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2009",
+  "doi": "10.1152/jn.00097.2009",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Analysis of Variance",
+    "Animals",
+    "Electrodes, Implanted",
+    "Factor Analysis, Statistical",
+    "Frontal Lobe",
+    "Haplorhini",
+    "Models, Neurological",
+    "Motor Activity",
+    "Neurons",
+    "Neuropsychological Tests",
+    "Poisson Distribution",
+    "Prostheses and Implants"
+  ]
+}

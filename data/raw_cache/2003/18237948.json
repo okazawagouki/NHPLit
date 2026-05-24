@@ -1,0 +1,14 @@
+{
+  "pmid": "18237948",
+  "title": "Contour detection based on nonclassical receptive field inhibition.",
+  "abstract": "We propose a biologically motivated method, called nonclassical receptive field (non-CRF) inhibition (more generally, surround inhibition or suppression), to improve contour detection in machine vision. Non-CRF inhibition is exhibited by 80% of the orientation-selective neurons in the primary visual cortex of monkeys and has been shown to influence human visual perception as well. Essentially, the response of an edge detector at a certain point is suppressed by the responses of the operator in the region outside the supported area. We combine classical edge detection with isotropic and anisotropic inhibition, both of which have counterparts in biology. We also use a biologically motivated method (the Gabor energy operator) for edge detection. The resulting operator responds strongly to isolated lines, edges, and contours, but exhibits weak or no response to edges that are part of texture. We use natural images with associated ground truth contour maps to assess the performance of the proposed operator for detecting contours while suppressing texture edges. Our method enhances contour detection in cluttered visual scenes more effectively than classical edge detectors used in machine vision (Canny edge detector). Therefore, the proposed operator is more useful for contour-based object recognition tasks, such as shape comparison, than traditional edge detectors, which do not distinguish between contour and texture edges. Traditional edge detection algorithms can, however, also be extended with surround suppression. This study contributes also to the understanding of inhibitory mechanisms in biology.",
+  "authors": [
+    "Grigorescu Cosmin",
+    "Petkov Nicolai",
+    "Westenberg Michel A"
+  ],
+  "journal": "IEEE transactions on image processing : a publication of the IEEE Signal Processing Society",
+  "year": "2003",
+  "doi": "10.1109/TIP.2003.814250",
+  "mesh": []
+}

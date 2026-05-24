@@ -1,0 +1,14 @@
+{
+  "pmid": "24734008",
+  "title": "Recovering stimulus locations using populations of eye-position modulated neurons in dorsal and ventral visual streams of non-human primates.",
+  "abstract": "We recorded visual responses while monkeys fixated the same target at different gaze angles, both dorsally (lateral intraparietal cortex, LIP) and ventrally (anterior inferotemporal cortex, AIT). While eye-position modulations occurred in both areas, they were both more frequent and stronger in LIP neurons. We used an intrinsic population decoding technique, multidimensional scaling (MDS), to recover eye positions, equivalent to recovering fixated target locations. We report that eye-position based visual space in LIP was more accurate (i.e., metric). Nevertheless, the AIT spatial representation remained largely topologically correct, perhaps indicative of a categorical spatial representation (i.e., a qualitative description such as \"left of\" or \"above\" as opposed to a quantitative, metrically precise description). Additionally, we developed a simple neural model of eye position signals and illustrate that differences in single cell characteristics can influence the ability to recover target position in a population of cells. We demonstrate for the first time that the ventral stream contains sufficient information for constructing an eye-position based spatial representation. Furthermore we demonstrate, in dorsal and ventral streams as well as modeling, that target locations can be extracted directly from eye position signals in cortical visual responses without computing coordinate transforms of visual space.",
+  "authors": [
+    "Sereno Anne B",
+    "Sereno Margaret E",
+    "Lehky Sidney R"
+  ],
+  "journal": "Frontiers in integrative neuroscience",
+  "year": "2014",
+  "doi": "10.3389/fnint.2014.00028",
+  "mesh": []
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "26085629",
+  "title": "Single-Trial Decoding of Visual Attention from Local Field Potentials in the Primate Lateral Prefrontal Cortex Is Frequency-Dependent.",
+  "abstract": "Local field potentials (LFPs) are fluctuations of extracellular voltage that may reflect the physiological phenomena occurring within a volume of neural tissue. It is known that the allocation of spatial attention modulates the amplitude of LFPs in visual areas of primates. An issue that remains poorly investigated is whether and how attention modulates LFPs in executive brain areas, such as the lateral prefrontal cortex (LPFC), thought to be involved in the origins of attention. We addressed this issue by recording LFPs from multielectrode arrays implanted in the LPFC of two macaques. We found that the allocation of attention can be reliably decoded on a single-trial basis from ensembles of LFPs with frequencies >60 Hz. Using LFP frequencies <60 Hz, we could not decode the allocation of attention, but we could decode the location of a visual stimulus as well as the endpoint of saccades toward that stimulus. The information contained in the high-frequency LFPs was fully redundant with the information contained in the spiking activity of single neurons recorded from the same electrodes. Moreover, the decoding of attention using γ frequency LFPs was less accurate than using spikes, but it was twice more stable across time. Finally, decorrelating the LFP signals from the different electrodes increased decoding performance in the high frequencies by up to ∼14%. Our findings suggest that LFPs recorded from chronically implanted multielectrode arrays in the LPFC contain information about sensory, cognitive, and motor components of a task in a frequency-dependent manner.",
+  "authors": [
+    "Tremblay Sébastien",
+    "Doucet Guillaume",
+    "Pieper Florian",
+    "Sachs Adam",
+    "Martinez-Trujillo Julio"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.1041-15.2015",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Macaca fascicularis",
+    "Male",
+    "Photic Stimulation",
+    "Prefrontal Cortex",
+    "Psychomotor Performance",
+    "Time Factors"
+  ]
+}

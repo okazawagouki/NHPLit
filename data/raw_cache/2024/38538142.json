@@ -1,0 +1,25 @@
+{
+  "pmid": "38538142",
+  "title": "Identifying Distinct Neural Features between the Initial and Corrective Phases of Precise Reaching Using AutoLFADS.",
+  "abstract": "Many initial movements require subsequent corrective movements, but how the motor cortex transitions to make corrections and how similar the encoding is to initial movements is unclear. In our study, we explored how the brain's motor cortex signals both initial and corrective movements during a precision reaching task. We recorded a large population of neurons from two male rhesus macaques across multiple sessions to examine the neural firing rates during not only initial movements but also subsequent corrective movements. AutoLFADS, an autoencoder-based deep-learning model, was applied to provide a clearer picture of neurons' activity on individual corrective movements across sessions. Decoding of reach velocity generalized poorly from initial to corrective submovements. Unlike initial movements, it was challenging to predict the velocity of corrective movements using traditional linear methods in a single, global neural space. We identified several locations in the neural space where corrective submovements originated after the initial reaches, signifying firing rates different than the baseline before initial movements. To improve corrective movement decoding, we demonstrate that a state-dependent decoder incorporating the population firing rates at the initiation of correction improved performance, highlighting the diverse neural features of corrective movements. In summary, we show neural differences between initial and corrective submovements and how the neural activity encodes specific combinations of velocity and position. These findings are inconsistent with assumptions that neural correlations with kinematic features are global and independent, emphasizing that traditional methods often fall short in describing these diverse neural processes for online corrective movements.",
+  "authors": [
+    "Lee Wei-Hsien",
+    "Karpowicz Brianna M",
+    "Pandarinath Chethan",
+    "Rouse Adam G"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2024",
+  "doi": "10.1523/JNEUROSCI.1224-23.2024",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Macaca mulatta",
+    "Psychomotor Performance",
+    "Motor Cortex",
+    "Neurons",
+    "Movement",
+    "Deep Learning",
+    "Action Potentials"
+  ]
+}

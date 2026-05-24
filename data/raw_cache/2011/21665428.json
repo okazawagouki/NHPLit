@@ -1,0 +1,28 @@
+{
+  "pmid": "21665428",
+  "title": "On the road to invariant recognition: explaining tradeoff and morph properties of cells in inferotemporal cortex using multiple-scale task-sensitive attentive learning.",
+  "abstract": "Visual object recognition is an essential accomplishment of advanced brains. Object recognition needs to be tolerant, or invariant, with respect to changes in object position, size, and view. In monkeys and humans, a key area for recognition is the anterior inferotemporal cortex (ITa). Recent neurophysiological data show that ITa cells with high object selectivity often have low position tolerance. We propose a neural model whose cells learn to simulate this tradeoff, as well as ITa responses to image morphs, while explaining how invariant recognition properties may arise in stages due to processes across multiple cortical areas. These processes include the cortical magnification factor, multiple receptive field sizes, and top-down attentive matching and learning properties that may be tuned by task requirements to attend to either concrete or abstract visual features with different levels of vigilance. The model predicts that data from the tradeoff and image morph tasks emerge from different levels of vigilance in the animals performing them. This result illustrates how different vigilance requirements of a task may change the course of category learning, notably the critical features that are attended and incorporated into learned category prototypes. The model outlines a path for developing an animal model of how defective vigilance control can lead to symptoms of various mental disorders, such as autism and amnesia.",
+  "authors": [
+    "Grossberg Stephen",
+    "Markowitz Jeffrey",
+    "Cao Yongqiang"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2011",
+  "doi": "10.1016/j.neunet.2011.04.001",
+  "mesh": [
+    "Animals",
+    "Arousal",
+    "Attention",
+    "Humans",
+    "Learning",
+    "Models, Neurological",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Primates",
+    "Species Specificity",
+    "Temporal Lobe",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "29393065",
+  "title": "Modeling task-specific neuronal ensembles improves decoding of grasp.",
+  "abstract": "OBJECTIVE: Dexterous movement involves the activation and coordination of networks of neuronal populations across multiple cortical regions. Attempts to model firing of individual neurons commonly treat the firing rate as directly modulating with motor behavior. However, motor behavior may additionally be associated with modulations in the activity and functional connectivity of neurons in a broader ensemble. Accounting for variations in neural ensemble connectivity may provide additional information about the behavior being performed. APPROACH: In this study, we examined neural ensemble activity in primary motor cortex (M1) and premotor cortex (PM) of two male rhesus monkeys during performance of a center-out reach, grasp and manipulate task. We constructed point process encoding models of neuronal firing that incorporated task-specific variations in the baseline firing rate as well as variations in functional connectivity with the neural ensemble. Models were evaluated both in terms of their encoding capabilities and their ability to properly classify the grasp being performed. MAIN RESULTS: Task-specific ensemble models correctly predicted the performed grasp with over 95% accuracy and were shown to outperform models of neuronal activity that assume only a variable baseline firing rate. Task-specific ensemble models exhibited superior decoding performance in 82% of units in both monkeys (p  <  0.01). Inclusion of ensemble activity also broadly improved the ability of models to describe observed spiking. Encoding performance of task-specific ensemble models, measured by spike timing predictability, improved upon baseline models in 62% of units. SIGNIFICANCE: These results suggest that additional discriminative information about motor behavior found in the variations in functional connectivity of neuronal ensembles located in motor-related cortical regions is relevant to decode complex tasks such as grasping objects, and may serve the basis for more reliable and accurate neural prosthesis.",
+  "authors": [
+    "Smith Ryan J",
+    "Soares Alcimar B",
+    "Rouse Adam G",
+    "Schieber Marc H",
+    "Thakor Nitish V"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2018",
+  "doi": "10.1088/1741-2552/aaac93",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Neurons",
+    "Photic Stimulation",
+    "Psychomotor Performance"
+  ]
+}

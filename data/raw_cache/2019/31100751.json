@@ -1,0 +1,24 @@
+{
+  "pmid": "31100751",
+  "title": "Sparse model-based estimation of functional dependence in high-dimensional field and spike multiscale networks.",
+  "abstract": "OBJECTIVE: Behavior is encoded across multiple scales of brain activity, from binary neuronal spikes to continuous fields including local field potentials (LFP). Multiscale models need to describe both the encoding of behavior and the conditional dependencies in simultaneously recorded spike and field signals, which form a high-dimensional multiscale network. However, learning spike-field dependencies in high-dimensional recordings is challenging due to the prohibitively large number of spike-field signal pairs, which makes standard learning techniques subject to overfitting. APPROACH: We present a sparse model-based estimation algorithm to learn these multiscale network dependencies. We develop a multiscale encoding model consisting of a point process model of binary spikes for each neuron whose firing rate is a function of the LFP network features and behavioral states. Doing so, spike-field dependencies constitute the model parameters to be learned. We resolve the parameter learning challenge by forming a constrained optimization problem to maximize the likelihood with an L1 penalty term that eases the detection of significant spike-LFP dependencies. We then apply the Akaike information criterion (AIC) to force a sparse number of nonzero dependency parameters in the model. MAIN RESULTS: We validate the algorithm using simulations and spike-field data from two non-human primates (NHP) in a 3D motor task with motor cortical recordings and a pro-saccade visual task with prefrontal recordings. We find that by identifying a model with a sparse set of dependency parameters, the algorithm improves spike prediction compared with models without dependencies. Further, the algorithm identifies significantly fewer dependency parameters compared with standard methods while improving their spike prediction likely due to detecting fewer spurious dependencies. Also, spike prediction on any electrode improves by including LFP features from all electrodes compared with using only those on the same electrode. Finally, unlike standard methods, the algorithm uncovers patterns of spike-field network dependencies as a function of distance, brain region, and frequency band. SIGNIFICANCE: This algorithm can help study functional dependencies in high-dimensional spike-field networks and leads to more accurate multiscale encoding models.",
+  "authors": [
+    "Bighamian Ramin",
+    "Wong Yan T",
+    "Pesaran Bijan",
+    "Shanechi Maryam M"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2019",
+  "doi": "10.1088/1741-2552/ab225b",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neurons",
+    "Photic Stimulation",
+    "Psychomotor Performance"
+  ]
+}

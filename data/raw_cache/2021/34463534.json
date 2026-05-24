@@ -1,0 +1,27 @@
+{
+  "pmid": "34463534",
+  "title": "Insights into bioinformatic approaches for repurposing compounds as anti-viral drugs.",
+  "abstract": "BACKGROUND: Drug repurposing is a cost-effective strategy to identify drugs with novel effects. We searched for drugs exhibiting inhibitory activity to Herpes Simplex virus 1 (HSV-1). Our strategy utilized gene expression data generated from HSV-1-infected cell cultures which was paired with drug effects on gene expression. Gene expression data from HSV-1 infected and uninfected neurons were analyzed using BaseSpace Correlation Engine (Illumina®). Based on the general Signature Reversing Principle (SRP), we hypothesized that the effects of candidate antiviral drugs on gene expression would be diametrically opposite (negatively correlated) to those effects induced by HSV-1 infection. RESULTS: We initially identified compounds capable of inducing changes in gene expression opposite to those which were consequent to HSV-1 infection. The most promising negatively correlated drugs (Valproic acid, Vorinostat) did not significantly inhibit HSV-1 infection further in African green monkey kidney epithelial cells (Vero cells). Next, we tested Sulforaphane and Menadione which showed effects similar to those caused by viral infections (positively correlated). Intriguingly, Sulforaphane caused a modest but significant inhibition of HSV-1 infection in Vero cells (IC50 = 180.4 µM, <i>p</i> = 0.008), but exhibited toxicity when further explored in human neuronal progenitor cells (NPCs) derived from induced pluripotent stem cells. CONCLUSIONS: These results reveal the limits of the commonly used SRP strategy when applied to the identification of novel antiviral drugs and highlight the necessity to refine the SRP strategy to increase its utility.",
+  "authors": [
+    "Zheng Wenxiao",
+    "D'Aiuto Leonardo",
+    "Demers Matthew J",
+    "Muralidaran Vaishali",
+    "Wood Joel A",
+    "Wesesky Maribeth",
+    "Chattopadhyay Ansuman",
+    "Nimgaonkar Vishwajit L"
+  ],
+  "journal": "Antiviral chemistry & chemotherapy",
+  "year": "2021",
+  "doi": "10.1177/20402066211036822",
+  "mesh": [
+    "Animals",
+    "Antiviral Agents",
+    "Chlorocebus aethiops",
+    "Computational Biology",
+    "Drug Repositioning",
+    "Pharmaceutical Preparations",
+    "Vero Cells"
+  ]
+}

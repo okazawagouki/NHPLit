@@ -1,0 +1,24 @@
+{
+  "pmid": "25283778",
+  "title": "Dopamine reward prediction error responses reflect marginal utility.",
+  "abstract": "BACKGROUND: Optimal choices require an accurate neuronal representation of economic value. In economics, utility functions are mathematical representations of subjective value that can be constructed from choices under risk. Utility usually exhibits a nonlinear relationship to physical reward value that corresponds to risk attitudes and reflects the increasing or decreasing marginal utility obtained with each additional unit of reward. Accordingly, neuronal reward responses coding utility should robustly reflect this nonlinearity. RESULTS: In two monkeys, we measured utility as a function of physical reward value from meaningful choices under risk (that adhered to first- and second-order stochastic dominance). The resulting nonlinear utility functions predicted the certainty equivalents for new gambles, indicating that the functions' shapes were meaningful. The monkeys were risk seeking (convex utility function) for low reward and risk avoiding (concave utility function) with higher amounts. Critically, the dopamine prediction error responses at the time of reward itself reflected the nonlinear utility functions measured at the time of choices. In particular, the reward response magnitude depended on the first derivative of the utility function and thus reflected the marginal utility. Furthermore, dopamine responses recorded outside of the task reflected the marginal utility of unpredicted reward. Accordingly, these responses were sufficient to train reinforcement learning models to predict the behaviorally defined expected utility of gambles. CONCLUSIONS: These data suggest a neuronal manifestation of marginal utility in dopamine neurons and indicate a common neuronal basis for fundamental explanatory constructs in animal learning theory (prediction error) and economic decision theory (marginal utility).",
+  "authors": [
+    "Stauffer William R",
+    "Lak Armin",
+    "Schultz Wolfram"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2014",
+  "doi": "10.1016/j.cub.2014.08.064",
+  "mesh": [
+    "Animals",
+    "Choice Behavior",
+    "Dopamine",
+    "Macaca mulatta",
+    "Male",
+    "Probability",
+    "Reward",
+    "Risk-Taking",
+    "Stochastic Processes"
+  ]
+}

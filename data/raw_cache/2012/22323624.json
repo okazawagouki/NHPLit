@@ -1,0 +1,23 @@
+{
+  "pmid": "22323624",
+  "title": "Decoding conjunctions of direction-of-motion and binocular disparity from human visual cortex.",
+  "abstract": "Motion and binocular disparity are two features in our environment that share a common correspondence problem. Decades of psychophysical research dedicated to understanding stereopsis suggest that these features interact early in human visual processing to disambiguate depth. Single-unit recordings in the monkey also provide evidence for the joint encoding of motion and disparity across much of the dorsal visual stream. Here, we used functional MRI and multivariate pattern analysis to examine where in the human brain conjunctions of motion and disparity are encoded. Subjects sequentially viewed two stimuli that could be distinguished only by their conjunctions of motion and disparity. Specifically, each stimulus contained the same feature information (leftward and rightward motion and crossed and uncrossed disparity) but differed exclusively in the way these features were paired. Our results revealed that a linear classifier could accurately decode which stimulus a subject was viewing based on voxel activation patterns throughout the dorsal visual areas and as early as V2. This decoding success was conditional on some voxels being individually sensitive to the unique conjunctions comprising each stimulus, thus a classifier could not rely on independent information about motion and binocular disparity to distinguish these conjunctions. This study expands on evidence that disparity and motion interact at many levels of human visual processing, particularly within the dorsal stream. It also lends support to the idea that stereopsis is subserved by early mechanisms also tuned to direction of motion.",
+  "authors": [
+    "Seymour Kiley J",
+    "Clifford Colin W G"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2012",
+  "doi": "10.1152/jn.01103.2011",
+  "mesh": [
+    "Female",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Motion Perception",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Vision Disparity",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "24809544",
+  "title": "Long-term decoding stability of local field potentials from silicon arrays in primate motor cortex during a 2D center out task.",
+  "abstract": "OBJECTIVE: Many serious concerns exist in the long-term stability of brain-machine interfaces (BMIs) based on spike signals (single unit activity, SUA; multi unit activity, MUA). Some studies showed local field potentials (LFPs) could offer a stable decoding performance. However, the decoding stability of LFPs was examined only when high quality spike signals were recorded. Here we aim to examine the long-term decoding stability of LFPs over a larger time scale when the quality of spike signals was from good to poor or even no spike was recorded. APPROACH: Neural signals were collected from motor cortex of three monkeys via silicon arrays over 230, 290 and 690 days post-implantation when they performed 2D center out task. To compare long-term stability between LFPs and spike signals, we examined them in neural signals characteristics, directional tuning properties and offline decoding performance, respectively. MAIN RESULTS: We observed slow decreasing trends in the number of LFP channels recorded and mean LFP power in different frequency bands when spike signals quality decayed over time. The number of significantly directional tuning LFP channels decreased more slowly than that of tuning SUA and MUA. The variable preferred directions for the same signal features across sessions indicated non-stationarity of neural activity. We also found that LFPs achieved better decoding performance than SUA and MUA in retrained decoder when the quality of spike signals seriously decayed. Especially, when no spike was recorded in one monkey after 671 days post-implantation, LFPs still provided some kinematic information. In addition, LFPs outperformed MUA in long-term decoding stability in a static decoder. SIGNIFICANCE: Our results suggested that LFPs were more durable and could provide better decoding performance when spike signals quality seriously decayed. It might be due to their resistance to recording degradation and their high redundancy among channels.",
+  "authors": [
+    "Wang Dong",
+    "Zhang Qiaosheng",
+    "Li Yue",
+    "Wang Yiwen",
+    "Zhu Junming",
+    "Zhang Shaomin",
+    "Zheng Xiaoxiang"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2014",
+  "doi": "10.1088/1741-2560/11/3/036009",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Equipment Design",
+    "Equipment Failure Analysis",
+    "Evoked Potentials, Motor",
+    "Longitudinal Studies",
+    "Macaca",
+    "Male",
+    "Microarray Analysis",
+    "Microelectrodes",
+    "Motor Cortex",
+    "Movement",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Silicon"
+  ]
+}

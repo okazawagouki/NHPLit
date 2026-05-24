@@ -1,0 +1,15 @@
+{
+  "pmid": "39131368",
+  "title": "Context-dependence of deterministic and nondeterministic contributions to closed-loop steering control.",
+  "abstract": "In natural circumstances, sensory systems operate in a closed loop with motor output, whereby actions shape subsequent sensory experiences. A prime example of this is the sensorimotor processing required to align one's direction of travel, or heading, with one's goal, a behavior we refer to as steering. In steering, motor outputs work to eliminate errors between the direction of heading and the goal, modifying subsequent errors in the process. The closed-loop nature of the behavior makes it challenging to determine how deterministic and nondeterministic processes contribute to behavior. We overcome this by applying a nonparametric, linear kernel-based analysis to behavioral data of monkeys steering through a virtual environment in two experimental contexts. In a given context, the results were consistent with previous work that described the transformation as a second-order linear system. Classically, the parameters of such second-order models are associated with physical properties of the limb such as viscosity and stiffness that are commonly assumed to be approximately constant. By contrast, we found that the fit kernels differed strongly across tasks in these and other parameters, suggesting context-dependent changes in neural and biomechanical processes. We additionally fit residuals to a simple noise model and found that the form of the noise was highly conserved across both contexts and animals. Strikingly, the fitted noise also closely matched that found previously in a human steering task. Altogether, this work presents a kernel-based analysis that characterizes the context-dependence of deterministic and non-deterministic components of a closed-loop sensorimotor task.",
+  "authors": [
+    "Egger Seth W",
+    "Keemink Sander W",
+    "Goldman Mark S",
+    "Britten Kenneth H"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.07.26.605325",
+  "mesh": []
+}

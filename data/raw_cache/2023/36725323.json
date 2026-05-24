@@ -1,0 +1,27 @@
+{
+  "pmid": "36725323",
+  "title": "Neurons in Primate Area MSTd Signal Eye Movement Direction Inferred from Dynamic Perspective Cues in Optic Flow.",
+  "abstract": "Smooth eye movements are common during natural viewing; we frequently rotate our eyes to track moving objects or to maintain fixation on an object during self-movement. Reliable information about smooth eye movements is crucial to various neural computations, such as estimating heading from optic flow or judging depth from motion parallax. While it is well established that extraretinal signals (e.g., efference copies of motor commands) carry critical information about eye velocity, the rotational optic flow field produced by eye rotations also carries valuable information. Although previous work has shown that dynamic perspective cues in optic flow can be used in computations that require estimates of eye velocity, it has remained unclear where and how the brain processes these visual cues and how they are integrated with extraretinal signals regarding eye rotation. We examined how neurons in the dorsal region of the medial superior temporal area (MSTd) of two male rhesus monkeys represent the direction of smooth pursuit eye movements based on both visual cues (dynamic perspective) and extraretinal signals. We find that most MSTd neurons have matched preferences for the direction of eye rotation based on visual and extraretinal signals. Moreover, neural responses to combinations of these signals are well predicted by a weighted linear summation model. These findings demonstrate a neural substrate for representing the velocity of smooth eye movements based on rotational optic flow and establish area MSTd as a key node for integrating visual and extraretinal signals into a more generalized representation of smooth eye movements.<b>SIGNIFICANCE STATEMENT</b> We frequently rotate our eyes to smoothly track objects of interest during self-motion. Information about eye velocity is crucial for a variety of computations performed by the brain, including depth perception and heading perception. Traditionally, information about eye rotation has been thought to arise mainly from extraretinal signals, such as efference copies of motor commands. Previous work shows that eye velocity can also be inferred from rotational optic flow that accompanies smooth eye movements, but the neural origins of these visual signals about eye rotation have remained unknown. We demonstrate that macaque neurons signal the direction of smooth eye rotation based on visual signals, and that they integrate both visual and extraretinal signals regarding eye rotation in a congruent fashion.",
+  "authors": [
+    "DiRisio Grace F",
+    "Ra Yongsoo",
+    "Qiu Yinghui",
+    "Anzai Akiyuki",
+    "DeAngelis Gregory C"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2023",
+  "doi": "10.1523/JNEUROSCI.1885-22.2023",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Eye Movements",
+    "Optic Flow",
+    "Cues",
+    "Pursuit, Smooth",
+    "Neurons",
+    "Macaca mulatta",
+    "Motion Perception",
+    "Photic Stimulation"
+  ]
+}

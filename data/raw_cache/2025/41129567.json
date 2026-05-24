@@ -1,0 +1,24 @@
+{
+  "pmid": "41129567",
+  "title": "Simultaneously determining regional heterogeneity and connection directionality from neural activity and symmetric connection.",
+  "abstract": "The spatiotemporal patterns of neural dynamics are jointly shaped by directed structural interactions and heterogeneous intrinsic features of the neural components. Despite well-developed methods for estimating directionality in network connections from network of homogeneous nodes, how local heterogeneity impacts on directionality estimation remains poorly understood. In particular, the role of excitatory-inhibitory interactions in shaping network directionality and how these interactions should be incorporated into reconstruction frameworks remain largely unexplored. Here, we present a novel reconstruction framework that simultaneously estimates effective heterogeneity across network nodes and asymmetric network connections from neural activity and symmetric connection, both are assessible in experimental data, validated using macaque cortical connectivity data and several circuit models. We found that the estimated local heterogeneity remains consistent across various forms of parameterized local circuit heterogeneity. Furthermore, we demonstrated and quantified how hidden local inhibitory populations only modify within-region connection strengths, elucidating the functional equivalence between dynamics of excitatory-inhibitory networks and purely observing excitatory networks when estimating effective heterogeneity and asymmetry. Finally, we demonstrated the sampling interval effect in estimating network interactions with respect to the sampling resolution. Together, our results not only provide a unified framework for evaluating relative functional contributions of local heterogeneity and asymmetry to overall system dynamics but also reveal the fundamental limitations and scaling principles in reconstructing neural circuit connectivity from experimental observations.",
+  "authors": [
+    "Chang Jiawen",
+    "Yang Zhuda",
+    "Zhou Changsong"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2025",
+  "doi": "10.1371/journal.pcbi.1013612",
+  "mesh": [
+    "Animals",
+    "Models, Neurological",
+    "Nerve Net",
+    "Computational Biology",
+    "Macaca",
+    "Neurons",
+    "Connectome",
+    "Neural Pathways",
+    "Brain"
+  ]
+}

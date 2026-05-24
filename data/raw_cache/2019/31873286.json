@@ -1,0 +1,26 @@
+{
+  "pmid": "31873286",
+  "title": "A neural basis of probabilistic computation in visual cortex.",
+  "abstract": "Bayesian models of behavior suggest that organisms represent uncertainty associated with sensory variables. However, the neural code of uncertainty remains elusive. A central hypothesis is that uncertainty is encoded in the population activity of cortical neurons in the form of likelihood functions. We tested this hypothesis by simultaneously recording population activity from primate visual cortex during a visual categorization task in which trial-to-trial uncertainty about stimulus orientation was relevant for the decision. We decoded the likelihood function from the trial-to-trial population activity and found that it predicted decisions better than a point estimate of orientation. This remained true when we conditioned on the true orientation, suggesting that internal fluctuations in neural activity drive behaviorally meaningful variations in the likelihood function. Our results establish the role of population-encoded likelihood functions in mediating behavior and provide a neural underpinning for Bayesian models of perception.",
+  "authors": [
+    "Walker Edgar Y",
+    "Cotton R James",
+    "Ma Wei Ji",
+    "Tolias Andreas S"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2020",
+  "doi": "10.1038/s41593-019-0554-5",
+  "mesh": [
+    "Animals",
+    "Decision Making",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Orientation",
+    "Uncertainty",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "26974951",
+  "title": "Spike sorting for large, dense electrode arrays.",
+  "abstract": "Developments in microfabrication technology have enabled the production of neural electrode arrays with hundreds of closely spaced recording sites, and electrodes with thousands of sites are under development. These probes in principle allow the simultaneous recording of very large numbers of neurons. However, use of this technology requires the development of techniques for decoding the spike times of the recorded neurons from the raw data captured from the probes. Here we present a set of tools to solve this problem, implemented in a suite of practical, user-friendly, open-source software. We validate these methods on data from the cortex, hippocampus and thalamus of rat, mouse, macaque and marmoset, demonstrating error rates as low as 5%.",
+  "authors": [
+    "Rossant Cyrille",
+    "Kadir Shabnam N",
+    "Goodman Dan F M",
+    "Schulman John",
+    "Hunter Maximilian L D",
+    "Saleem Aman B",
+    "Grosmark Andres",
+    "Belluscio Mariano",
+    "Denfield George H",
+    "Ecker Alexander S",
+    "Tolias Andreas S",
+    "Solomon Samuel",
+    "Buzsaki Gyorgy",
+    "Carandini Matteo",
+    "Harris Kenneth D"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2016",
+  "doi": "10.1038/nn.4268",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Callithrix",
+    "Cerebral Cortex",
+    "Electrodes, Implanted",
+    "Hippocampus",
+    "Macaca mulatta",
+    "Male",
+    "Mice",
+    "Rats",
+    "Signal Processing, Computer-Assisted",
+    "Species Specificity",
+    "Thalamus"
+  ]
+}

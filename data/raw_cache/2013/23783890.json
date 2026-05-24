@@ -1,0 +1,30 @@
+{
+  "pmid": "23783890",
+  "title": "Firing-rate models capture essential response dynamics of LGN relay cells.",
+  "abstract": "Firing-rate models provide a practical tool for studying signal processing in the early visual system, permitting more thorough mathematical analysis than spike-based models. We show here that essential response properties of relay cells in the lateral geniculate nucleus (LGN) can be captured by surprisingly simple firing-rate models consisting of a low-pass filter and a nonlinear activation function. The starting point for our analysis are two spiking neuron models based on experimental data: a spike-response model fitted to data from macaque (Carandini et al. J. Vis., 20(14), 1-2011, 2007), and a model with conductance-based synapses and afterhyperpolarizing currents fitted to data from cat (Casti et al. J. Comput. Neurosci., 24(2), 235-252, 2008). We obtained the nonlinear activation function by stimulating the model neurons with stationary stochastic spike trains, while we characterized the linear filter by fitting a low-pass filter to responses to sinusoidally modulated stochastic spike trains. To account for the non-Poisson nature of retinal spike trains, we performed all analyses with spike trains with higher-order gamma statistics in addition to Poissonian spike trains. Interestingly, the properties of the low-pass filter depend only on the average input rate, but not on the modulation depth of sinusoidally modulated input. Thus, the response properties of our model are fully specified by just three parameters (low-frequency gain, cutoff frequency, and delay) for a given mean input rate and input regularity. This simple firing-rate model reproduces the response of spiking neurons to a step in input rate very well for Poissonian as well as for non-Poissonian input. We also found that the cutoff frequencies, and thus the filter time constants, of the rate-based model are unrelated to the membrane time constants of the underlying spiking models, in agreement with similar observations for simpler models.",
+  "authors": [
+    "Heiberg Thomas",
+    "Kriener Birgit",
+    "Tetzlaff Tom",
+    "Casti Alex",
+    "Einevoll Gaute T",
+    "Plesser Hans E"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2013",
+  "doi": "10.1007/s10827-013-0456-6",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Electric Stimulation",
+    "Electrophysiological Phenomena",
+    "Excitatory Postsynaptic Potentials",
+    "Geniculate Bodies",
+    "Membrane Potentials",
+    "Models, Neurological",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Synaptic Transmission"
+  ]
+}

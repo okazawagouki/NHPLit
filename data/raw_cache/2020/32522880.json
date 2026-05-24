@@ -1,0 +1,35 @@
+{
+  "pmid": "32522880",
+  "title": "Parallel RNA and DNA analysis after deep sequencing (PRDD-seq) reveals cell type-specific lineage patterns in human brain.",
+  "abstract": "Elucidating the lineage relationships among different cell types is key to understanding human brain development. Here we developed parallel RNA and DNA analysis after deep sequencing (PRDD-seq), which combines RNA analysis of neuronal cell types with analysis of nested spontaneous DNA somatic mutations as cell lineage markers, identified from joint analysis of single-cell and bulk DNA sequencing by single-cell MosaicHunter (scMH). PRDD-seq enables simultaneous reconstruction of neuronal cell type, cell lineage, and sequential neuronal formation (\"birthdate\") in postmortem human cerebral cortex. Analysis of two human brains showed remarkable quantitative details that relate mutation mosaic frequency to clonal patterns, confirming an early divergence of precursors for excitatory and inhibitory neurons, and an \"inside-out\" layer formation of excitatory neurons as seen in other species. In addition our analysis allows an estimate of excitatory neuron-restricted precursors (about 10) that generate the excitatory neurons within a cortical column. Inhibitory neurons showed complex, subtype-specific patterns of neurogenesis, including some patterns of development conserved relative to mouse, but also some aspects of primate cortical interneuron development not seen in mouse. PRDD-seq can be broadly applied to characterize cell identity and lineage from diverse archival samples with single-cell resolution and in potentially any developmental or disease condition.",
+  "authors": [
+    "Huang August Yue",
+    "Li Pengpeng",
+    "Rodin Rachel E",
+    "Kim Sonia N",
+    "Dou Yanmei",
+    "Kenny Connor J",
+    "Akula Shyam K",
+    "Hodge Rebecca D",
+    "Bakken Trygve E",
+    "Miller Jeremy A",
+    "Lein Ed S",
+    "Park Peter J",
+    "Lee Eunjung Alice",
+    "Walsh Christopher A"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2020",
+  "doi": "10.1073/pnas.2006163117",
+  "mesh": [
+    "Cell Lineage",
+    "Cerebral Cortex",
+    "High-Throughput Nucleotide Sequencing",
+    "Humans",
+    "Mutation Accumulation",
+    "Neural Stem Cells",
+    "Neurogenesis",
+    "Sequence Analysis, DNA",
+    "Single-Cell Analysis"
+  ]
+}

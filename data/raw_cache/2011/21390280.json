@@ -1,0 +1,27 @@
+{
+  "pmid": "21390280",
+  "title": "Power-law input-output transfer functions explain the contrast-response and tuning properties of neurons in visual cortex.",
+  "abstract": "We develop a unified model accounting simultaneously for the contrast invariance of the width of the orientation tuning curves (OT) and for the sigmoidal shape of the contrast response function (CRF) of neurons in the primary visual cortex (V1). We determine analytically the conditions for the structure of the afferent LGN and recurrent V1 inputs that lead to these properties for a hypercolumn composed of rate based neurons with a power-law transfer function. We investigate what are the relative contributions of single neuron and network properties in shaping the OT and the CRF. We test these results with numerical simulations of a network of conductance-based model (CBM) neurons and we demonstrate that they are valid and more robust here than in the rate model. The results indicate that because of the acceleration in the transfer function, described here by a power-law, the orientation tuning curves of V1 neurons are more tuned, and their CRF is steeper than those of their inputs. Last, we show that it is possible to account for the diversity in the measured CRFs by introducing heterogeneities either in single neuron properties or in the input to the neurons. We show how correlations among the parameters that characterize the CRF depend on these sources of heterogeneities. Comparison with experimental data suggests that both sources contribute nearly equally to the diversity of CRF shapes observed in V1 neurons.",
+  "authors": [
+    "Persi Erez",
+    "Hansel David",
+    "Nowak Lionel",
+    "Barone Pascal",
+    "van Vreeswijk Carl"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2011",
+  "doi": "10.1371/journal.pcbi.1001078",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Callithrix",
+    "Computational Biology",
+    "Membrane Potentials",
+    "Models, Neurological",
+    "Neurons",
+    "Reproducibility of Results",
+    "Synapses",
+    "Visual Cortex"
+  ]
+}

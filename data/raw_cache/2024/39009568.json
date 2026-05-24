@@ -1,0 +1,28 @@
+{
+  "pmid": "39009568",
+  "title": "Biophysical neural adaptation mechanisms enable artificial neural networks to capture dynamic retinal computation.",
+  "abstract": "Adaptation is a universal aspect of neural systems that changes circuit computations to match prevailing inputs. These changes facilitate efficient encoding of sensory inputs while avoiding saturation. Conventional artificial neural networks (ANNs) have limited adaptive capabilities, hindering their ability to reliably predict neural output under dynamic input conditions. Can embedding neural adaptive mechanisms in ANNs improve their performance? To answer this question, we develop a new deep learning model of the retina that incorporates the biophysics of photoreceptor adaptation at the front-end of conventional convolutional neural networks (CNNs). These conventional CNNs build on 'Deep Retina,' a previously developed model of retinal ganglion cell (RGC) activity. CNNs that include this new photoreceptor layer outperform conventional CNN models at predicting male and female primate and rat RGC responses to naturalistic stimuli that include dynamic local intensity changes and large changes in the ambient illumination. These improved predictions result directly from adaptation within the phototransduction cascade. This research underscores the potential of embedding models of neural adaptation in ANNs and using them to determine how neural circuits manage the complexities of encoding natural inputs that are dynamic and span a large range of light levels.",
+  "authors": [
+    "Idrees Saad",
+    "Manookin Michael B",
+    "Rieke Fred",
+    "Field Greg D",
+    "Zylberberg Joel"
+  ],
+  "journal": "Nature communications",
+  "year": "2024",
+  "doi": "10.1038/s41467-024-50114-5",
+  "mesh": [
+    "Animals",
+    "Retinal Ganglion Cells",
+    "Neural Networks, Computer",
+    "Rats",
+    "Retina",
+    "Male",
+    "Female",
+    "Deep Learning",
+    "Adaptation, Physiological",
+    "Models, Neurological",
+    "Photic Stimulation"
+  ]
+}

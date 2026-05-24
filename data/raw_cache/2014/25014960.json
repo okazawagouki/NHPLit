@@ -1,0 +1,32 @@
+{
+  "pmid": "25014960",
+  "title": "WIMAGINE: wireless 64-channel ECoG recording implant for long term clinical applications.",
+  "abstract": "A wireless 64-channel ElectroCorticoGram (ECoG) recording implant named WIMAGINE has been designed for various clinical applications. The device is aimed at interfacing a cortical electrode array to an external computer for neural recording and control applications. This active implantable medical device is able to record neural activity on 64 electrodes with selectable gain and sampling frequency, with less than 1 μV(RMS) input referred noise in the [0.5 Hz - 300 Hz] band. It is powered remotely through an inductive link at 13.56 MHz which provides up to 100 mW. The digitized data is transmitted wirelessly to a custom designed base station connected to a PC. The hermetic housing and the antennae have been designed and optimized to ease the surgery. The design of this implant takes into account all the requirements of a clinical trial, in particular safety, reliability, and compliance with the regulations applicable to class III AIMD. The main features of this WIMAGINE implantable device and its architecture are presented, as well as its functional performances and long-term biocompatibility results.",
+  "authors": [
+    "Mestais Corinne S",
+    "Charvet Guillaume",
+    "Sauter-Starace Fabien",
+    "Foerster Michael",
+    "Ratel David",
+    "Benabid Alim Louis"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2015",
+  "doi": "10.1109/TNSRE.2014.2333541",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Electronics",
+    "Equipment Design",
+    "Humans",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Materials Testing",
+    "Neural Prostheses",
+    "Signal Processing, Computer-Assisted",
+    "Software",
+    "Wireless Technology"
+  ]
+}

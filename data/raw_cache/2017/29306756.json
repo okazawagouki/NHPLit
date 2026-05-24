@@ -1,0 +1,21 @@
+{
+  "pmid": "29306756",
+  "title": "A loop-based neural architecture for structured behavior encoding and decoding.",
+  "abstract": "We present a new type of artificial neural network that generalizes on anatomical and dynamical aspects of the mammal brain. Its main novelty lies in its topological structure which is built as an array of interacting elementary motifs shaped like loops. These loops come in various types and can implement functions such as gating, inhibitory or executive control, or encoding of task elements to name a few. Each loop features two sets of neurons and a control region, linked together by non-recurrent projections. The two neural sets do the bulk of the loop's computations while the control unit specifies the timing and the conditions under which the computations implemented by the loop are to be performed. By functionally linking many such loops together, a neural network is obtained that may perform complex cognitive computations. To demonstrate the potential offered by such a system, we present two neural network simulations. The first illustrates the structure and dynamics of a single loop implementing a simple gating mechanism. The second simulation shows how connecting four loops in series can produce neural activity patterns that are sufficient to pass a simplified delayed-response task. We also show that this network reproduces electrophysiological measurements gathered in various regions of the brain of monkeys performing similar tasks. We also demonstrate connections between this type of neural network and recurrent or long short-term memory network models, and suggest ways to generalize them for future artificial intelligence research.",
+  "authors": [
+    "Gisiger Thomas",
+    "Boukadoum Mounir"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2018",
+  "doi": "10.1016/j.neunet.2017.11.019",
+  "mesh": [
+    "Animals",
+    "Artificial Intelligence",
+    "Brain",
+    "Haplorhini",
+    "Humans",
+    "Neural Networks, Computer",
+    "Neurons"
+  ]
+}

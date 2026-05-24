@@ -1,0 +1,21 @@
+{
+  "pmid": "33787967",
+  "title": "Feed-forward and noise-tolerant detection of feature homogeneity in spiking networks with a latency code.",
+  "abstract": "In studies of the visual system as well as in computer vision, the focus is often on contrast edges. However, the primate visual system contains a large number of cells that are insensitive to spatial contrast and, instead, respond to uniform homogeneous illumination of their visual field. The purpose of this information remains unclear. Here, we propose a mechanism that detects feature homogeneity in visual areas, based on latency coding and spike time coincidence, in a purely feed-forward and therefore rapid manner. We demonstrate how homogeneity information can interact with information on contrast edges to potentially support rapid image segmentation. Furthermore, we analyze how neuronal crosstalk (noise) affects the mechanism's performance. We show that the detrimental effects of crosstalk can be partly mitigated through delayed feed-forward inhibition that shapes bi-phasic post-synaptic events. The delay of the feed-forward inhibition allows effectively controlling the size of the temporal integration window and, thereby, the coincidence threshold. The proposed model is based on single-spike latency codes in a purely feed-forward architecture that supports low-latency processing, making it an attractive scheme of computation in spiking neuronal networks where rapid responses and low spike counts are desired.",
+  "authors": [
+    "Schmuker Michael",
+    "Kupper Rüdiger",
+    "Aertsen Ad",
+    "Wachtler Thomas",
+    "Gewaltig Marc-Oliver"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2021",
+  "doi": "10.1007/s00422-021-00866-w",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Neurons",
+    "Photic Stimulation"
+  ]
+}

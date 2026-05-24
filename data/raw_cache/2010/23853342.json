@@ -1,0 +1,16 @@
+{
+  "pmid": "23853342",
+  "title": "HermesD: A High-Rate Long-Range Wireless Transmission System for Simultaneous Multichannel Neural Recording Applications.",
+  "abstract": "HermesD is a high-rate, low-power wireless transmission system to aid research in neural prosthetic systems for motor disabilities and basic motor neuroscience. It is the third generation of our \"Hermes systems\" aimed at recording and transmitting neural activity from brain-implanted electrode arrays. This system supports the simultaneous transmission of 32 channels of broadband data sampled at 30 ks/s, 12 b/sample, using frequency-shift keying modulation on a carrier frequency adjustable from 3.7 to 4.1 GHz, with a link range extending over 20 m. The channel rate is 24 Mb/s and the bit stream includes synchronization and error detection mechanisms. The power consumption, approximately 142 mW, is low enough to allow the system to operate continuously for 33 h, using two 3.6-V/1200-mAh Li-SOCl2 batteries. The transmitter was designed using off-the-shelf components and is assembled in a stack of three 28 mm ? 28-mm boards that fit in a 38 mm ? 38 mm ? 51-mm aluminum enclosure, a significant size reduction over the initial version of HermesD. A 7-dBi circularly polarized patch antenna is used as the transmitter antenna, while on the receiver side, a 13-dBi circular horn antenna is employed. The advantages of using circularly polarized waves are analyzed and confirmed by indoor measurements. The receiver is a stand-alone device composed of several submodules and is interfaced to a computer for data acquisition and processing. It is based on the superheterodyne architecture and includes automatic frequency control that keeps it optimally tuned to the transmitter frequency. The HermesD communications performance is shown through bit-error rate measurements and eye-diagram plots. The sensitivity of the receiver is -83 dBm for a bit-error probability of 10(-9). Experimental recordings from a rhesus monkey conducting multiple tasks show a signal quality comparable to commercial acquisition systems, both in the low-frequency (local field potentials) and upper-frequency bands (action potentials) of the neural signals. This system can be easily scaled up in terms of the number of channels and data rate to accommodate future generations of Hermes systems.",
+  "authors": [
+    "Miranda Henrique",
+    "Gilja Vikash",
+    "Chestek Cindy A",
+    "Shenoy Krishna V",
+    "Meng Teresa H"
+  ],
+  "journal": "IEEE transactions on biomedical circuits and systems",
+  "year": "2010",
+  "doi": "10.1109/TBCAS.2010.2044573",
+  "mesh": []
+}

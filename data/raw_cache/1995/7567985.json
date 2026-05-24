@@ -1,0 +1,28 @@
+{
+  "pmid": "7567985",
+  "title": "Cortical activity flips among quasi-stationary states.",
+  "abstract": "Parallel recordings of spike trains of several single cortical neurons in behaving monkeys were analyzed as a hidden Markov process. The parallel spike trains were considered as a multivariate Poisson process whose vector firing rates change with time. As a consequence of this approach, the complete recording can be segmented into a sequence of a few statistically discriminated hidden states, whose dynamics are modeled as a first-order Markov chain. The biological validity and benefits of this approach were examined in several independent ways: (i) the statistical consistency of the segmentation and its correspondence to the behavior of the animals; (ii) direct measurement of the collective flips of activity, obtained by the model; and (iii) the relation between the segmentation and the pair-wise short-term cross-correlations between the recorded spike trains. Comparison with surrogate data was also carried out for each of the above examinations to assure their significance. Our results indicated the existence of well-separated states of activity, within which the firing rates were approximately stationary. With our present data we could reliably discriminate six to eight such states. The transitions between states were fast and were associated with concomitant changes of firing rates of several neurons. Different behavioral modes and stimuli were consistently reflected by different states of neural activity. Moreover, the pair-wise correlations between neurons varied considerably between the different states, supporting the hypothesis that these distinct states were brought about by the cooperative action of many neurons.",
+  "authors": [
+    "Abeles M",
+    "Bergman H",
+    "Gat I",
+    "Meilijson I",
+    "Seidemann E",
+    "Tishby N",
+    "Vaadia E"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "1995",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Cerebral Cortex",
+    "Haplorhini",
+    "Higher Nervous Activity",
+    "Markov Chains",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons"
+  ]
+}

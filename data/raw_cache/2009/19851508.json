@@ -1,0 +1,29 @@
+{
+  "pmid": "19851508",
+  "title": "A computational predictor of human episodic memory based on a theta phase precession network.",
+  "abstract": "In the rodent hippocampus, a phase precession phenomena of place cell firing with the local field potential (LFP) theta is called \"theta phase precession\" and is considered to contribute to memory formation with spike time dependent plasticity (STDP). On the other hand, in the primate hippocampus, the existence of theta phase precession is unclear. Our computational studies have demonstrated that theta phase precession dynamics could contribute to primate-hippocampal dependent memory formation, such as object-place association memory. In this paper, we evaluate human theta phase precession by using a theory-experiment combined analysis. Human memory recall of object-place associations was analyzed by an individual hippocampal network simulated by theta phase precession dynamics of human eye movement and EEG data during memory encoding. It was found that the computational recall of the resultant network is significantly correlated with human memory recall performance, while other computational predictors without theta phase precession are not significantly correlated with subsequent memory recall. Moreover the correlation is larger than the correlation between human recall and traditional experimental predictors. These results indicate that theta phase precession dynamics are necessary for the better prediction of human recall performance with eye movement and EEG data. In this analysis, theta phase precession dynamics appear useful for the extraction of memory-dependent components from the spatio-temporal pattern of eye movement and EEG data as an associative network. Theta phase precession may be a common neural dynamic between rodents and humans for the formation of environmental memories.",
+  "authors": [
+    "Sato Naoyuki",
+    "Yamaguchi Yoko"
+  ],
+  "journal": "PloS one",
+  "year": "2009",
+  "doi": "10.1371/journal.pone.0007536",
+  "mesh": [
+    "Action Potentials",
+    "Adult",
+    "Cluster Analysis",
+    "Computational Biology",
+    "Computer Simulation",
+    "Electroencephalography",
+    "Eye Movements",
+    "Female",
+    "Hippocampus",
+    "Humans",
+    "Male",
+    "Memory",
+    "Models, Neurological",
+    "Nerve Net",
+    "Synaptic Transmission"
+  ]
+}

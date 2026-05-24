@@ -1,0 +1,14 @@
+{
+  "pmid": "41993563",
+  "title": "Modulation of feature attention by reward prediction error explains value learning behavior.",
+  "abstract": "Adaptive behavior requires learning the value of environmental features while selectively attending to those most likely to yield reward. Reward prediction errors (RPEs) drive value learning and learned values guide attention, yet the computational function linking RPEs to attentional modulation remains unspecified. Here, we developed a reinforcement learning model with a perceptual front-end to investigate how value and RPE signals modulate attentional gain during learning. We compared five candidate RPE-attention transfer functions, each combined with either single- or multi-focus attention, against behavioral data from two adult male rhesus macaques performing a color-value learning task with shifting reward contingencies. Monkeys exhibited rapid initial learning followed by sub-optimal asymptotic accuracy. Overall, single-focus architectures consistently outperformed multi-focus counterparts on matching monkey errors, indicating that macaques collapse the value distribution into a winner-take-all attentional focus. Furthermore, the \"Switch\" model, in which attention targets the highest-valued feature but transiently inverts following negative RPEs, produced the fastest exploration dynamics following target switches and, together with the Absolute Value model, yielded decision confidence trajectories that positively correlated with empirical reaction times. In support of this, single-neuron correlation analyses revealed that 27 - 42% of neurons in prefrontal cortex, frontal eye fields, and lateral intraparietal area encoded previous-trial RPE at the time of next trial onset. In total, we conclude that capacity constrained attention that inverts its focus after negative RPE best explains value learning dynamics. These results provide a normative account for why biological learners sacrifice asymptotic precision for rapid adaptation in volatile environments.",
+  "authors": [
+    "Leukos Mingze L",
+    "Liang Albert",
+    "Lindsay Grace W"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2026",
+  "doi": "10.64898/2026.04.10.717847",
+  "mesh": []
+}

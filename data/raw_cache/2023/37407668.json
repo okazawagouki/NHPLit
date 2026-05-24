@@ -1,0 +1,22 @@
+{
+  "pmid": "37407668",
+  "title": "Analysis of convolutional neural networks reveals the computational properties essential for subcortical processing of facial expression.",
+  "abstract": "Perception of facial expression is crucial for primate social interactions. This visual information is processed through the ventral cortical pathway and the subcortical pathway. However, the subcortical pathway exhibits inaccurate processing, and the responsible architectural and physiological properties remain unclear. To investigate this, we constructed and examined convolutional neural networks with three key properties of the subcortical pathway: a shallow layer architecture, concentric receptive fields at the initial processing stage, and a greater degree of spatial pooling. These neural networks achieved modest accuracy in classifying facial expressions. By replacing these properties, individually or in combination, with corresponding cortical features, performance gradually improved. Similar to amygdala neurons, some units in the final processing layer exhibited sensitivity to retina-based spatial frequencies (SFs), while others were sensitive to object-based SFs. Replacement of any of these properties affected the coordinates of the SF encoding. Therefore, all three properties limit the accuracy of facial expression information and are essential for determining the SF representation coordinate. These findings characterize the role of the subcortical computational processes in facial expression recognition.",
+  "authors": [
+    "Lim Chanseok",
+    "Inagaki Mikio",
+    "Shinozaki Takashi",
+    "Fujita Ichiro"
+  ],
+  "journal": "Scientific reports",
+  "year": "2023",
+  "doi": "10.1038/s41598-023-37995-0",
+  "mesh": [
+    "Animals",
+    "Facial Expression",
+    "Neural Networks, Computer",
+    "Amygdala",
+    "Facial Recognition",
+    "Primates"
+  ]
+}

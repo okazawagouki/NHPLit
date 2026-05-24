@@ -1,0 +1,28 @@
+{
+  "pmid": "40543276",
+  "title": "Three-dimensional U-Net with transfer learning improves automated whole brain delineation from MRI brain scans of rats, mice, and monkeys.",
+  "abstract": "BACKGROUND: Automated whole-brain delineation (WBD) techniques often struggle to generalize across pre-clinical studies due to variations in animal models, magnetic resonance imaging (MRI) scanners, and tissue contrasts. We developed a 3D U-Net neural network for WBD pre-trained on organophosphate intoxication (OPI) rat brain MRI scans. We used transfer learning (TL) to adapt this OPI-pretrained network to other animal models: rat model of Alzheimer's disease (AD), mouse model of tetramethylenedisulfotetramine (TETS) intoxication, and titi monkey model of social bonding. METHODS: We assessed an OPI-pretrained 3D U-Net across animal models under three conditions: (1) direct application to each dataset; (2) utilizing TL; and (3) training disease-specific U-Net models. For each condition, training dataset size (TDS) was optimized, and output WBDs were compared to manual segmentations for accuracy. RESULTS: The OPI-pretrained 3D U-Net (TDS = 100) achieved the best accuracy [median[min-max]] for the test OPI dataset with a Dice coefficient (DC) = [0.987 [0.977-0.992]] and Hausdorff distance (HD) = [0.86 [0.55-1.27]]mm. TL improved generalization across all models [AD (TDS = 40): DC = 0.987 [0.977-0.992] and HD = 0.72 [0.54-1.00]mm; TETS (TDS = 10): DC = 0.992 [0.984-0.993] and HD = 0.40 [0.31-0.50]mm; Monkey (TDS = 8): DC = 0.977 [0.968-0.979] and HD = 3.03 [2.19-3.91]mm], showing performance comparable to disease-specific networks. CONCLUSIONS: The OPI-pretrained 3D U-Net with TL achieved accuracy comparable to disease-specific networks with reduced training data (TDS ≤ 40 scans) across all models. Future work will focus on developing a multi-region delineation pipeline for pre-clinical MRI brain data, utilizing the proposed WBD as an initial step.",
+  "authors": [
+    "Porter Valerie A",
+    "Hobson Brad A",
+    "D'Almeida Alita J",
+    "Bales Karen L",
+    "Lein Pamela J",
+    "Chaudhari Abhijit J"
+  ],
+  "journal": "Computers in biology and medicine",
+  "year": "2025",
+  "doi": "10.1016/j.compbiomed.2025.110569",
+  "mesh": [
+    "Animals",
+    "Magnetic Resonance Imaging",
+    "Brain",
+    "Rats",
+    "Mice",
+    "Imaging, Three-Dimensional",
+    "Neural Networks, Computer",
+    "Disease Models, Animal",
+    "Male",
+    "Alzheimer Disease"
+  ]
+}

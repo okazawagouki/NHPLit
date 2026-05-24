@@ -1,0 +1,25 @@
+{
+  "pmid": "23031711",
+  "title": "DISCOV (DImensionless Shunting COlor Vision): a neural model for spatial data analysis.",
+  "abstract": "The DISCOV (DImensionless Shunting COlor Vision) system models a cascade of primate color vision neurons: retinal ganglion, thalamic single opponent, and cortical double opponent. A unified model derived from psychophysical axioms produces transparent network dynamics and principled parameter settings. DISCOV fits an array of physiological data for each cell type, and makes testable experimental predictions. Binary DISCOV augments an earlier version of the model to achieve stable computations for spatial data analysis. The model is described in terms of RGB images, but inputs may consist of any number of spatially defined components. System dynamics are derived using algebraic computations, and robust parameter ranges that meet experimental data are fully specified. Assuming default values, the only free parameter for the user to specify is the spatial scale. Multi-scale analysis accommodates items of various sizes and perspective. Image inputs are first processed by complement coding, which produces an ON channel stream and an OFF channel stream for each component. Subsequent computations are on-center/off-surround, with the OFF channel replacing the off-center/on-surround fields of other models. Together with an orientation filter, DISCOV provides feature input vectors for an integrated recognition system. The development of DISCOV models is being carried out in the context of a large-scale research program that is integrating cognitive and neural systems derived from analyses of vision and recognition to produce both biological models and technological applications.",
+  "authors": [
+    "Carpenter Gail A",
+    "Chelian Suhas E"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2013",
+  "doi": "10.1016/j.neunet.2012.08.012",
+  "mesh": [
+    "Animals",
+    "Color Perception",
+    "Color Vision",
+    "Form Perception",
+    "Humans",
+    "Models, Neurological",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Retina",
+    "Space Perception",
+    "Visual Pathways"
+  ]
+}

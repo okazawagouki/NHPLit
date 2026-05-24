@@ -1,0 +1,13 @@
+{
+  "pmid": "34381346",
+  "title": "Human Texture Vision as Multi-Order Spectral Analysis.",
+  "abstract": "Texture information plays a critical role in the rapid perception of scenes, objects, and materials. Here, we propose a novel model in which visual texture perception is essentially determined by the 1st-order (2D-luminance) and 2nd-order (4D-energy) spectra. This model is an extension of the dimensionality of the Filter-Rectify-Filter (FRF) model, and it also corresponds to the frequency representation of the Portilla-Simoncelli (PS) statistics. We show that preserving two spectra and randomizing phases of a natural texture image result in a perceptually similar texture, strongly supporting the model. Based on only two single spectral spaces, this model provides a simpler framework to describe and predict texture representations in the primate visual system. The idea of multi-order spectral analysis is consistent with the hierarchical processing principle of the visual cortex, which is approximated by a multi-layer convolutional network.",
+  "authors": [
+    "Okada Kosuke",
+    "Motoyoshi Isamu"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2021",
+  "doi": "10.3389/fncom.2021.692334",
+  "mesh": []
+}

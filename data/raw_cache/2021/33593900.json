@@ -1,0 +1,26 @@
+{
+  "pmid": "33593900",
+  "title": "An ecologically motivated image dataset for deep learning yields better models of human vision.",
+  "abstract": "Deep neural networks provide the current best models of visual information processing in the primate brain. Drawing on work from computer vision, the most commonly used networks are pretrained on data from the ImageNet Large Scale Visual Recognition Challenge. This dataset comprises images from 1,000 categories, selected to provide a challenging testbed for automated visual object recognition systems. Moving beyond this common practice, we here introduce <i>ecoset</i>, a collection of >1.5 million images from 565 basic-level categories selected to better capture the distribution of objects relevant to humans. Ecoset categories were chosen to be both frequent in linguistic usage and concrete, thereby mirroring important physical objects in the world. We test the effects of training on this ecologically more valid dataset using multiple instances of two neural network architectures: AlexNet and vNet, a novel architecture designed to mimic the progressive increase in receptive field sizes along the human ventral stream. We show that training on ecoset leads to significant improvements in predicting representations in human higher-level visual cortex and perceptual judgments, surpassing the previous state of the art. Significant and highly consistent benefits are demonstrated for both architectures on two separate functional magnetic resonance imaging (fMRI) datasets and behavioral data, jointly covering responses to 1,292 visual stimuli from a wide variety of object categories. These results suggest that computational visual neuroscience may take better advantage of the deep learning framework by using image sets that reflect the human perceptual and cognitive experience. Ecoset and trained network models are openly available to the research community.",
+  "authors": [
+    "Mehrer Johannes",
+    "Spoerer Courtney J",
+    "Jones Emer C",
+    "Kriegeskorte Nikolaus",
+    "Kietzmann Tim C"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2021",
+  "doi": "10.1073/pnas.2011417118",
+  "mesh": [
+    "Brain Mapping",
+    "Deep Learning",
+    "Ecology",
+    "Humans",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Pattern Recognition, Visual",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

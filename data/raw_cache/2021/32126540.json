@@ -1,0 +1,21 @@
+{
+  "pmid": "32126540",
+  "title": "Extracellular voltage thresholds for maximizing information extraction in primate auditory cortex: implications for a brain computer interface.",
+  "abstract": "<i>Objective</i>. Research by Oby (2016<i>J. Neural. Eng.</i><b>13</b>036009) demonstrated that the optimal threshold for extracting information from visual and motor cortices may differ from the optimal threshold for identifying single neurons via spike sorting methods. The optimal threshold for extracting information from auditory cortex has yet to be identified, nor has the optimal temporal scale for representing auditory cortical activity. Here, we describe a procedure to jointly optimize the extracellular threshold and bin size with respect to the decoding accuracy achieved by a linear classifier for a diverse set of auditory stimuli.<i>Approach</i>. We used linear multichannel arrays to record extracellular neural activity from the auditory cortex of awake squirrel monkeys passively listening to both simple and complex sounds. We executed a grid search of the coordinate space defined by the voltage threshold (in units of standard deviation) and the bin size (in units of milliseconds), and computed decoding accuracy at each point.<i>Main results</i>. The optimal threshold for information extraction was consistently near two standard deviations below the voltage trace mean, which falls significantly below the range of three to five standard deviations typically used as inputs to spike sorting algorithms in basic research and in brain-computer interface (BCI) applications. The optimal binwidth was minimized at the optimal voltage threshold, particularly for acoustic stimuli dominated by temporally dynamic features, indicating that permissive thresholding permits readout of cortical responses with temporal precision on the order of a few milliseconds.<i>Significance</i>. The improvements in decoding accuracy we observed for optimal readout parameters suggest that standard thresholding methods substantially underestimate the information present in auditory cortical spiking patterns. The fact that optimal thresholds were relatively low indicates that local populations of cortical neurons exhibit high temporal coherence that could be leveraged in service of future auditory BCI applications.",
+  "authors": [
+    "Bigelow James",
+    "Malone Brian J"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2021",
+  "doi": "10.1088/1741-2552/ab7c19",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Auditory Cortex",
+    "Brain-Computer Interfaces",
+    "Information Storage and Retrieval",
+    "Primates"
+  ]
+}

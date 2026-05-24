@@ -1,0 +1,24 @@
+{
+  "pmid": "27341100",
+  "title": "Prospective Coding by Spiking Neurons.",
+  "abstract": "Animals learn to make predictions, such as associating the sound of a bell with upcoming feeding or predicting a movement that a motor command is eliciting. How predictions are realized on the neuronal level and what plasticity rule underlies their learning is not well understood. Here we propose a biologically plausible synaptic plasticity rule to learn predictions on a single neuron level on a timescale of seconds. The learning rule allows a spiking two-compartment neuron to match its current firing rate to its own expected future discounted firing rate. For instance, if an originally neutral event is repeatedly followed by an event that elevates the firing rate of a neuron, the originally neutral event will eventually also elevate the neuron's firing rate. The plasticity rule is a form of spike timing dependent plasticity in which a presynaptic spike followed by a postsynaptic spike leads to potentiation. Even if the plasticity window has a width of 20 milliseconds, associations on the time scale of seconds can be learned. We illustrate prospective coding with three examples: learning to predict a time varying input, learning to predict the next stimulus in a delayed paired-associate task and learning with a recurrent network to reproduce a temporally compressed version of a sequence. We discuss the potential role of the learning mechanism in classical trace conditioning. In the special case that the signal to be predicted encodes reward, the neuron learns to predict the discounted future reward and learning is closely related to the temporal difference learning algorithm TD(λ).",
+  "authors": [
+    "Brea Johanni",
+    "Gaál Alexisz Tamás",
+    "Urbanczik Robert",
+    "Senn Walter"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2016",
+  "doi": "10.1371/journal.pcbi.1005003",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computational Biology",
+    "Dendrites",
+    "Macaca",
+    "Models, Neurological",
+    "Neuronal Plasticity",
+    "Neurons"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "25217468",
+  "title": "Negative Correlations in Visual Cortical Networks.",
+  "abstract": "The amount of information encoded by cortical circuits depends critically on the capacity of nearby neurons to exhibit trial-to-trial (noise) correlations in their responses. Depending on their sign and relationship to signal correlations, noise correlations can either increase or decrease the population code accuracy relative to uncorrelated neuronal firing. Whereas positive noise correlations have been extensively studied using experimental and theoretical tools, the functional role of negative correlations in cortical circuits has remained elusive. We addressed this issue by performing multiple-electrode recording in the superficial layers of the primary visual cortex (V1) of alert monkey. Despite the fact that positive noise correlations decayed exponentially with the difference in the orientation preference between cells, negative correlations were uniformly distributed across the population. Using a statistical model for Fisher Information estimation, we found that a mild increase in negative correlations causes a sharp increase in network accuracy even when mean correlations were held constant. To examine the variables controlling the strength of negative correlations, we implemented a recurrent spiking network model of V1. We found that increasing local inhibition and reducing excitation causes a decrease in the firing rates of neurons while increasing the negative noise correlations, which in turn increase the population signal-to-noise ratio and network accuracy. Altogether, these results contribute to our understanding of the neuronal mechanism involved in the generation of negative correlations and their beneficial impact on cortical circuit function.",
+  "authors": [
+    "Chelaru Mircea I",
+    "Dragoi Valentin"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2016",
+  "doi": "10.1093/cercor/bhu207",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Haplorhini",
+    "Male",
+    "Nerve Net",
+    "Neurons",
+    "Noise",
+    "Orientation",
+    "Signal-To-Noise Ratio",
+    "Visual Cortex"
+  ]
+}

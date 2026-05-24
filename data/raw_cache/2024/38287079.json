@@ -1,0 +1,22 @@
+{
+  "pmid": "38287079",
+  "title": "AutoTransOP: translating omics signatures without orthologue requirements using deep learning.",
+  "abstract": "The development of therapeutics and vaccines for human diseases requires a systematic understanding of human biology. Although animal and in vitro culture models can elucidate some disease mechanisms, they typically fail to adequately recapitulate human biology as evidenced by the predominant likelihood of clinical trial failure. To address this problem, we developed AutoTransOP, a neural network autoencoder framework, to map omics profiles from designated species or cellular contexts into a global latent space, from which germane information for different contexts can be identified without the typically imposed requirement of matched orthologues. This approach was found in general to perform at least as well as current alternative methods in identifying animal/culture-specific molecular features predictive of other contexts-most importantly without requiring homology matching. For an especially challenging test case, we successfully applied our framework to a set of inter-species vaccine serology studies, where 1-to-1 mapping between human and non-human primate features does not exist.",
+  "authors": [
+    "Meimetis Nikolaos",
+    "Pullen Krista M",
+    "Zhu Daniel Y",
+    "Nilsson Avlant",
+    "Hoang Trong Nghia",
+    "Magliacane Sara",
+    "Lauffenburger Douglas A"
+  ],
+  "journal": "NPJ systems biology and applications",
+  "year": "2024",
+  "doi": "10.1038/s41540-024-00341-9",
+  "mesh": [
+    "Animals",
+    "Deep Learning",
+    "Neural Networks, Computer"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pmid": "33584234",
+  "title": "Predicting Grating Orientations With Cross-Frequency Coupling and Least Absolute Shrinkage and Selection Operator in V1 and V4 of Rhesus Monkeys.",
+  "abstract": "Orientation selectivity, as an emergent property of neurons in the visual cortex, is of critical importance in the processing of visual information. Characterizing the orientation selectivity based on neuronal firing activities or local field potentials (LFPs) is a hot topic of current research. In this paper, we used cross-frequency coupling and least absolute shrinkage and selection operator (LASSO) to predict the grating orientations in V1 and V4 of two rhesus monkeys. The experimental data were recorded by utilizing two chronically implanted multi-electrode arrays, which were placed, respectively, in V1 and V4 of two rhesus monkeys performing a selective visual attention task. The phase-amplitude coupling (PAC) and amplitude-amplitude coupling (AAC) were employed to characterize the cross-frequency coupling of LFPs under sinusoidal grating stimuli with different orientations. Then, a LASSO logistic regression model was constructed to predict the grating orientation based on the strength of PAC and AAC. Moreover, the cross-validation method was used to evaluate the performance of the model. It was found that the average accuracy of the prediction based on the combination of PAC and AAC was 73.9%, which was higher than the predicting accuracy with PAC or AAC separately. In conclusion, a LASSO logistic regression model was introduced in this study, which can predict the grating orientations with relatively high accuracy by using PAC and AAC together. Our results suggest that the principle behind the LASSO model is probably an alternative direction to explore the mechanism for generating orientation selectivity.",
+  "authors": [
+    "Li Zhaohui",
+    "Du Yue",
+    "Xiao Youben",
+    "Yin Liyong"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2020",
+  "doi": "10.3389/fncom.2020.605104",
+  "mesh": []
+}

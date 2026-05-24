@@ -1,0 +1,18 @@
+{
+  "pmid": "39747548",
+  "title": "Acquisition of similar properties by filters in the same stream of a multistream convolutional neural network.",
+  "abstract": "Functional modular organization is observed in a variety of cortical areas in the brain. In the visual cortex of primates, adjacent neurons often respond to the same visual submodality, such as color or orientation, and have a similar preferred orientation or preferred color. However, it remains unclear why functional modular organization emerges in the cerebral cortex. In the present study, I constructed and trained a multistream convolutional neural network to examine whether filters in the same stream acquire similar properties. Although filters in the same stream were able to develop any structures, they acquired similar degrees of orientation and color selectivity and preferred similar orientations and colors. The deletion of filters in a single stream that had similar degrees of stimulus selectivity resulted in larger decreases in classification accuracy than the deletion of those that did not. By contrast, the deletion of filters in a single stream that shared a preferred stimulus resulted in similar decreases in classification accuracy to the deletion of those that did not. Together, these findings suggest that filters with similar degrees of stimulus selectivity in the same stream are required for optimal task performance of the multistream convolutional neural network, and probably of the brain.",
+  "authors": [
+    "Tamura Hiroshi"
+  ],
+  "journal": "Scientific reports",
+  "year": "2025",
+  "doi": "10.1038/s41598-024-84981-1",
+  "mesh": [
+    "Neural Networks, Computer",
+    "Animals",
+    "Visual Cortex",
+    "Neurons",
+    "Photic Stimulation"
+  ]
+}

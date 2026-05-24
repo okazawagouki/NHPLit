@@ -1,0 +1,19 @@
+{
+  "pmid": "7548314",
+  "title": "Complex sensory-motor sequence learning based on recurrent state representation and reinforcement learning.",
+  "abstract": "A novel neural network model is presented that learns by trial-and-error to reproduce complex sensory-motor sequences. One subnetwork, corresponding to the prefrontal cortex (PFC), is responsible for generating unique patterns of activity that represent the continuous state of sequence execution. A second subnetwork, corresponding to the striatum, associates these state-encoding patterns with the correct response at each point in the sequence execution. From a neuroscience perspective, the model is based on the known cortical and subcortical anatomy of the primate oculomotor system. From a theoretical perspective, the architecture is similar to that of a finite automaton in which outputs and state transitions are generated as a function of inputs and the current state. Simulation results for complex sequence reproduction and sequence discrimination are presented.",
+  "authors": [
+    "Dominey P F"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "1995",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Humans",
+    "Models, Theoretical",
+    "Neural Networks, Computer",
+    "Psychomotor Performance"
+  ]
+}

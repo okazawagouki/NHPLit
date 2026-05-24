@@ -1,0 +1,14 @@
+{
+  "pmid": "23964916",
+  "title": "A self-organizing neural model of motor equivalent reaching and tool use by a multijoint arm.",
+  "abstract": "Abstract This paper describes a self-organizing neural model for eye-hand coordination. Called the DIRECT model, it embodies a solution of the classical motor equivalence problem. Motor equivalence computations allow humans and other animals to flexibly employ an arm with more degrees of freedom than the space in which it moves to carry out spatially defined tasks under conditions that may require novel joint configurations. During a motor babbling phase, the model endogenously generates movement commands that activate the correlated visual, spatial, and motor information that are used to learn its internal coordinate transformations. After learning occurs, the model is capable of controlling reaching movements of the arm to prescribed spatial targets using many different combinations of joints. When allowed visual feedback, the model can automatically perform, without additional learning, reaches with tools of variable lengths, with clamped joints, with distortions of visual input by a prism, and with unexpected perturbations. These compensatory computations occur within a single accurate reaching movement. No corrective movements are needed. Blind reaches using internal feedback have also been simulated. The model achieves its competence by transforming visual information about target position and end effector position in 3-D space into a body-centered spatial representation of the direction in 3-D space that the end effector must move to contact the target. The spatial direction vector is adaptively transformed into a motor direction vector, which represents the joint rotations that move the end effector in the desired spatial direction from the present arm configuration. Properties of the model are compared with psychophysical data on human reaching movements, neurophysiological data on the tuning curves of neurons in the monkey motor cortex, and alternative models of movement control.",
+  "authors": [
+    "Bullock D",
+    "Grossberg S",
+    "Guenther F H"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "1993",
+  "doi": "10.1162/jocn.1993.5.4.408",
+  "mesh": []
+}

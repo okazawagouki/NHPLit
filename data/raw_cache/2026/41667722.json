@@ -1,0 +1,19 @@
+{
+  "pmid": "41667722",
+  "title": "An intracortical brain-machine interface based on macaque ventral premotor activity.",
+  "abstract": "UNLABELLED: The majority of brain-machine interface (BMI) studies have focused on decoding intended movements based on neural activity of primary motor (M1) and dorsal premotor cortex (PMd). The ventral premotor cortex (PMv), and more specifically area F5c, has been implicated in object grasping and action observation, and may represent an alternative for motor BMI control due to its phasic modulation during action observation. Using chronically implanted Utah arrays in F5c, PMd, and M1 in two male macaques, we compared the efficacy of controlling a motor BMI based on neural activity of each area. PMv decoding reached similar or even higher success rates than M1 and PMd in a 2D cursor control task, especially when controlling for the number of motion selective channels that were used by the decoder. We found similar results during a 2D robot avatar control task in a simulated 3D environment. At both the multi-unit and the population level, neural responses in all areas were highly similar during the training phase (passive observation of cursor movements) and the online decoding phase, and only a small subset of neurons modulated its selectivity for the direction of motion. Thus, ventral premotor area F5c may represent an alternative for online motor BMI control. SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1038/s41598-026-38536-1.",
+  "authors": [
+    "De Schrijver Sofie",
+    "Garcia Ramirez Jesus",
+    "Iregui Santiago",
+    "Aertbeliën Erwin",
+    "De Schutter Joris",
+    "Theys Tom",
+    "Decramer Thomas",
+    "Janssen Peter"
+  ],
+  "journal": "Scientific reports",
+  "year": "2026",
+  "doi": "10.1038/s41598-026-38536-1",
+  "mesh": []
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "38271715",
+  "title": "Spike sorting in the presence of stimulation artifacts: a dynamical control systems approach.",
+  "abstract": "<i>Objective</i>. Bi-directional electronic neural interfaces, capable of both electrical recording and stimulation, communicate with the nervous system to permit precise calibration of electrical inputs by capturing the evoked neural responses. However, one significant challenge is that stimulation artifacts often mask the actual neural signals. To address this issue, we introduce a novel approach that employs dynamical control systems to detect and decipher electrically evoked neural activity despite the presence of electrical artifacts.<i>Approach</i>. Our proposed method leverages the unique spatiotemporal patterns of neural activity and electrical artifacts to distinguish and identify individual neural spikes. We designed distinctive dynamical models for both the stimulation artifact and each neuron observed during spontaneous neural activity. We can estimate which neurons were active by analyzing the recorded voltage responses across multiple electrodes post-stimulation. This technique also allows us to exclude signals from electrodes heavily affected by stimulation artifacts, such as the stimulating electrode itself, yet still accurately differentiate between evoked spikes and electrical artifacts.<i>Main results</i>. We applied our method to high-density multi-electrode recordings from the primate retina in an<i>ex vivo</i>setup, using a grid of 512 electrodes. Through repeated electrical stimulations at varying amplitudes, we were able to construct activation curves for each neuron. The curves obtained with our method closely resembled those derived from manual spike sorting. Additionally, the stimulation thresholds we estimated strongly agreed with those determined through manual analysis, demonstrating high reliability (R2=0.951for human 1 andR2=0.944for human 2).<i>Significance</i>. Our method can effectively separate evoked neural spikes from stimulation artifacts by exploiting the distinct spatiotemporal propagation patterns captured by a dense, large-scale multi-electrode array. This technique holds promise for future applications in real-time closed-loop stimulation systems and for managing multi-channel stimulation strategies.",
+  "authors": [
+    "Shokri Mohammad",
+    "Gogliettino Alex R",
+    "Hottowy Paweł",
+    "Sher Alexander",
+    "Litke Alan M",
+    "Chichilnisky E J",
+    "Pequito Sérgio",
+    "Muratore Dante"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2024",
+  "doi": "10.1088/1741-2552/ad228f",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Artifacts",
+    "Reproducibility of Results",
+    "Electrodes",
+    "Primates",
+    "Electric Stimulation",
+    "Systems Analysis"
+  ]
+}

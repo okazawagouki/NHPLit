@@ -1,0 +1,30 @@
+{
+  "pmid": "12783946",
+  "title": "Control strategies correcting inaccurately programmed fingertip forces: model predictions derived from human behavior.",
+  "abstract": "When picking up a familiar object between the index finger and the thumb, the motor commands are predetermined by the CNS to correspond to the frictional demand of the finger-object contact area. If the friction is less than expected, the object will start to slip out of the hand, giving rise to unexpected sensory information. Here we study the correction strategies of the motor system in response to an unexpected frictional demand. The motor commands to the mononeuron pool are estimated by a novel technique combining behavioral recordings and neuromuscular modelling. We first propose a mathematical model incorporating muscles, hand mechanics, and the action of lifting an object. A simple control system sends motor commands to and receives sensory signals from the model. We identify three factors influencing the efficiency of the correction: the time development of the motor command, the delay between the onset of the grip and load forces (GF-LF-delay), and how fast the lift is performed. A sensitivity analysis describes how these factors affect the ability to prevent or stop slipping and suggests an efficient control strategy that prepares and corrects for an altered frictional condition. We then analyzed fingertip grip and load forces (GF and LF) and position data from 200 lifts made by five healthy subjects. The friction was occasionally reduced, forcing an increase of the GF to prevent the object being dropped. The data were then analyzed by feeding it through the inverted model. This provided an estimate of the motor commands to the motoneuron pool. As suggested by the sensitivity analysis the GF-LF-delay was indeed used by the subjects to prevent slip. In agreement with recordings from neurons in the primary motor cortex of the monkey, a sharp burst in the estimated GF motor command (NGF) efficiently arrested any slip. The estimated motor commands indicate a control system that uses a small set of corrective commands, which together with the GF-LF-delay form efficient correction strategies. The selection of a strategy depends on the amount of tactile information reporting unexpected friction and how long it takes to arrive. We believe that this technique of estimating the motor commands behind the fingertip forces during a precision grip lift can provide a powerful tool for the investigation of the central control of the motor system.",
+  "authors": [
+    "Fagergren Anders",
+    "Ekeberg Orjan",
+    "Forssberg Hans"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Adult",
+    "Female",
+    "Fingers",
+    "Friction",
+    "Hand Strength",
+    "Humans",
+    "Lifting",
+    "Male",
+    "Middle Aged",
+    "Models, Biological",
+    "Motor Activity",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Muscle, Skeletal",
+    "Sensitivity and Specificity"
+  ]
+}

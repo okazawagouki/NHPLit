@@ -1,0 +1,26 @@
+{
+  "pmid": "36266211",
+  "title": "Motion opponency at the middle temporal cortex: Preserved motion information and the effect of perceptual learning.",
+  "abstract": "Motion opponency, first observed within the primate middle temporal cortex (MT), refers to the suppressing effect of opposite motion directions on neuronal activity. Namely, when opposing motion directional signals stimulate an MT neuron's receptive field, this neuron's response is comparable with that induced by flicker noise. Under such suppression, it is unknown whether any directional information is still represented at MT. In this study, we applied support vector machine (SVM) learning to human functional magnetic resonance imaging data to investigate if any motion defined orientation information was still available from suppressed MT. We found that, at least at the level of ±45° discrimination, such orientation information was still available. Interestingly, after behavioural perceptual learning that improved human discrimination of fine orientation discrimination (e.g. 42° vs. 48°) using the MT-suppressive motion stimuli, the SVM discrimination of ±45° worsened when functional magnetic resonance imaging (fMRI) signals at post-learning MT were used. This result is consistent with findings in Thompson et al. (2013) that, post-perceptual learning, MT suppression was not released, suggesting that motion opponency was perhaps functionally too important for perceptual learning to overcome.",
+  "authors": [
+    "Yu Alexander",
+    "Zhang Ruizhe",
+    "Silva Andrew E",
+    "Xing Yang",
+    "Thompson Benjamin",
+    "Liu Zili"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "2022",
+  "doi": "10.1111/ejn.15850",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Motion Perception",
+    "Temporal Lobe",
+    "Motion",
+    "Learning",
+    "Magnetic Resonance Imaging",
+    "Photic Stimulation"
+  ]
+}

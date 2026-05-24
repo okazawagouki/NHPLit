@@ -1,0 +1,25 @@
+{
+  "pmid": "34561480",
+  "title": "Inferring entire spiking activity from local field potentials.",
+  "abstract": "Extracellular recordings are typically analysed by separating them into two distinct signals: local field potentials (LFPs) and spikes. Previous studies have shown that spikes, in the form of single-unit activity (SUA) or multiunit activity (MUA), can be inferred solely from LFPs with moderately good accuracy. SUA and MUA are typically extracted via threshold-based technique which may not be reliable when the recordings exhibit a low signal-to-noise ratio (SNR). Another type of spiking activity, referred to as entire spiking activity (ESA), can be extracted by a threshold-less, fast, and automated technique and has led to better performance in several tasks. However, its relationship with the LFPs has not been investigated. In this study, we aim to address this issue by inferring ESA from LFPs intracortically recorded from the motor cortex area of three monkeys performing different tasks. Results from long-term recording sessions and across subjects revealed that ESA can be inferred from LFPs with good accuracy. On average, the inference performance of ESA was consistently and significantly higher than those of SUA and MUA. In addition, local motor potential (LMP) was found to be the most predictive feature. The overall results indicate that LFPs contain substantial information about spiking activity, particularly ESA. This could be useful for understanding LFP-spike relationship and for the development of LFP-based BMIs.",
+  "authors": [
+    "Ahmadi Nur",
+    "Constandinou Timothy G",
+    "Bouganis Christos-Savvas"
+  ],
+  "journal": "Scientific reports",
+  "year": "2021",
+  "doi": "10.1038/s41598-021-98021-9",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Behavior, Animal",
+    "Datasets as Topic",
+    "Electrophysiology",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Signal-To-Noise Ratio",
+    "Task Performance and Analysis"
+  ]
+}

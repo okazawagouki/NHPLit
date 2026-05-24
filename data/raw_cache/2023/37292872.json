@@ -1,0 +1,16 @@
+{
+  "pmid": "37292872",
+  "title": "Quantifying network behavior in the rat prefrontal cortex: a reproducibility crisis.",
+  "abstract": "UNLABELLED: The question of how consciousness and behavior arise from neural activity is fundamental to understanding the brain, and to improving the diagnosis and treatment of neurological and psychiatric disorders. There is significant murine and primate literature on how behavior is related to the electrophysiological activity of the medial prefrontal cortex and its role in working memory processes such as planning and decision-making. Existing experimental designs, however, have insufficient statistical power to unravel the complex processes of the prefrontal cortex. We therefore examined the theoretical limitations of such experiments, providing concrete guidelines for robust and reproducible science. We piloted the use of dynamic time warping and associated statistical tests to data from neuron spike trains and local field potentials, to quantify neural network synchronicity and correlate neuroelectrophysiology with rat behavior. Our results indicate the statistical limitations of existing data, making meaningful comparison between dynamic time warping with traditional Fourier and wavelet analysis currently impossible until larger and cleaner datasets are available. SIGNIFICANCE STATEMENT: The prefrontal cortex is important in decision-making, yet no robust method currently exists to correlate neuron firing in the PFC to behavior. We argue that existing experimental designs are ill-suited to addressing these scientific questions, and we propose a potential method using dynamic time warping to analyze PFC neural electrical activity. We conclude that careful curation of experimental controls is needed to separate true neural signals from noise accurately.",
+  "authors": [
+    "Sha Congzhou M",
+    "Wang Jian",
+    "Mailman Richard B",
+    "Yang Yang",
+    "Dokholyan Nikolay V"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2023",
+  "doi": "10.1101/2023.05.16.541018",
+  "mesh": []
+}

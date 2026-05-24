@@ -1,0 +1,21 @@
+{
+  "pmid": "20837521",
+  "title": "Millisecond encoding precision of auditory cortex neurons.",
+  "abstract": "Neurons in auditory cortex are central to our perception of sounds. However, the underlying neural codes, and the relevance of millisecond-precise spike timing in particular, remain debated. Here, we addressed this issue in the auditory cortex of alert nonhuman primates by quantifying the amount of information carried by precise spike timing about complex sounds presented for extended periods of time (random tone sequences and natural sounds). We investigated the dependence of stimulus information on the temporal precision at which spike times were registered and found that registering spikes at a precision coarser than a few milliseconds significantly reduced the encoded information. This dependence demonstrates that auditory cortex neurons can carry stimulus information at high temporal precision. In addition, we found that the main determinant of finely timed information was rapid modulation of the firing rate, whereas higher-order correlations between spike times contributed negligibly. Although the neural coding precision was high for random tone sequences and natural sounds, the information lost at a precision coarser than a few milliseconds was higher for the stimulus sequence that varied on a faster time scale (random tones), suggesting that the precision of cortical firing depends on the stimulus dynamics. Together, these results provide a neural substrate for recently reported behavioral relevance of precisely timed activity patterns with auditory cortex. In addition, they highlight the importance of millisecond-precise neural coding as general functional principle of auditory processing--from the periphery to cortex.",
+  "authors": [
+    "Kayser Christoph",
+    "Logothetis Nikos K",
+    "Panzeri Stefano"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2010",
+  "doi": "10.1073/pnas.1012656107",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Animals",
+    "Auditory Cortex",
+    "Auditory Perception",
+    "Neurons, Afferent",
+    "Time Factors"
+  ]
+}

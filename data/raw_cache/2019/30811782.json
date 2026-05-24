@@ -1,0 +1,29 @@
+{
+  "pmid": "30811782",
+  "title": "Disparity level identification using the voxel-wise Gabor model of fMRI data.",
+  "abstract": "Perceiving disparities is the intuitive basis for our understanding of the physical world. Although many electrophysiology studies have revealed the disparity-tuning characteristics of the neurons in the visual areas of the macaque brain, neuron population responses to disparity processing have seldom been investigated. Many disparity studies using functional magnetic resonance imaging (fMRI) have revealed the disparity-selective visual areas in the human brain. However, it is unclear how to characterize neuron population disparity-tuning responses using fMRI technique. In the present study, we constructed three voxel-wise encoding Gabor models to predict the voxel responses to novel disparity levels and used a decoding method to identify the new disparity levels from population responses in the cortex. Among the three encoding models, the fine-coarse model (FCM) that used fine/coarse disparities to fit the voxel responses to disparities outperformed the single model and uncrossed-crossed model. Moreover, the FCM demonstrated high accuracy in predicting voxel responses in V3A complex and high accuracy in identifying novel disparities from responses in V3A complex. Our results suggest that the FCM can better characterize the voxel responses to disparities than the other two models and V3A complex is a critical visual area for representing disparity information.",
+  "authors": [
+    "Li Yuan",
+    "Hou Chunping",
+    "Yao Li",
+    "Zhang Chuncheng",
+    "Zheng Hongna",
+    "Zhang Jiacai",
+    "Long Zhiying"
+  ],
+  "journal": "Human brain mapping",
+  "year": "2019",
+  "doi": "10.1002/hbm.24547",
+  "mesh": [
+    "Adult",
+    "Female",
+    "Functional Neuroimaging",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Models, Theoretical",
+    "Pattern Recognition, Visual",
+    "Visual Cortex",
+    "Young Adult"
+  ]
+}

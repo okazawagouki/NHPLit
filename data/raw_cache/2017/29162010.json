@@ -1,0 +1,26 @@
+{
+  "pmid": "29162010",
+  "title": "Statistics of Visual Responses to Image Object Stimuli from Primate AIT Neurons to DNN Neurons.",
+  "abstract": "Under the goal-driven paradigm, Yamins et al. ( 2014 ; Yamins & DiCarlo, 2016 ) have shown that by optimizing only the final eight-way categorization performance of a four-layer hierarchical network, not only can its top output layer quantitatively predict IT neuron responses but its penultimate layer can also automatically predict V4 neuron responses. Currently, deep neural networks (DNNs) in the field of computer vision have reached image object categorization performance comparable to that of human beings on ImageNet, a data set that contains 1.3 million training images of 1000 categories. We explore whether the DNN neurons (units in DNNs) possess image object representational statistics similar to monkey IT neurons, particularly when the network becomes deeper and the number of image categories becomes larger, using VGG19, a typical and widely used deep network of 19 layers in the computer vision field. Following Lehky, Kiani, Esteky, and Tanaka ( 2011 , 2014 ), where the response statistics of 674 IT neurons to 806 image stimuli are analyzed using three measures (kurtosis, Pareto tail index, and intrinsic dimensionality), we investigate the three issues in this letter using the same three measures: (1) the similarities and differences of the neural response statistics between VGG19 and primate IT cortex, (2) the variation trends of the response statistics of VGG19 neurons at different layers from low to high, and (3) the variation trends of the response statistics of VGG19 neurons when the numbers of stimuli and neurons increase. We find that the response statistics on both single-neuron selectivity and population sparseness of VGG19 neurons are fundamentally different from those of IT neurons in most cases; by increasing the number of neurons in different layers and the number of stimuli, the response statistics of neurons at different layers from low to high do not substantially change; and the estimated intrinsic dimensionality values at the low convolutional layers of VGG19 are considerably larger than the value of approximately 100 reported for IT neurons in Lehky et al. ( 2014 ), whereas those at the high fully connected layers are close to or lower than 100. To the best of our knowledge, this work is the first attempt to analyze the response statistics of DNN neurons with respect to primate IT neurons in image object representation.",
+  "authors": [
+    "Dong Qiulei",
+    "Wang Hong",
+    "Hu Zhanyi"
+  ],
+  "journal": "Neural computation",
+  "year": "2018",
+  "doi": "10.1162/neco_a_01039",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cerebral Cortex",
+    "Image Processing, Computer-Assisted",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Pattern Recognition, Automated",
+    "Statistics as Topic",
+    "Visual Perception"
+  ]
+}

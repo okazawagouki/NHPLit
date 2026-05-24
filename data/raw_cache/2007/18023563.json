@@ -1,0 +1,26 @@
+{
+  "pmid": "18023563",
+  "title": "The functional role of different neural activation profiles during precision grip: an artificial neural network approach.",
+  "abstract": "A dynamic and recurrent artificial neural network was used to investigate the functional properties of firing patterns observed in the primary motor (M1) and the primary somatosensory (S1) cortex of the behaving monkey during control of precision grip force. In the behaving monkey it was found that neurons in M1 and in S1 increase their firing activity with increasing grip force, as do the intrinsic and extrinsic hand muscles implicated in the task. However, some neurons also decreased their activity as a function of increasing force. The functional implication of these latter neurons is not clear and has not been elucidated so far. In order to explore their functional implication, we therefore simulated patterns of neural activity in artificial neural networks that represent cortical, spinal and afferent neural populations and tested whether particular activity profiles would emerge as a function of the input and of the connectivity of these networks. The functional implication of units with emergent or imposed decreasing activity was then explored. Decreasing patterns of activity in M1 units did not emerge from the networks. However, the same networks generated decreasing activity if imposed as target patterns. As indicated by the emerging weight space, M1 projection units with decreasing patterns are functionally less involved in driving alpha motoneurons than units with increasing profiles. Furthermore, these units did not provide significant fusimotor drive, whereas those with increasing profiles did. Fusimotor drive was a function of the (imposed) form of muscle spindle afferent activity: with gamma (fusimotor) drive, muscle spindle afferents provided signals other than muscle length (as observed experimentally). The network solutions thus predict a functional dichotomy between increasing and decreasing M1 neurons: the former primarily drive alpha and gamma motoneurons, the latter only weakly alpha motoneurons.",
+  "authors": [
+    "Grandjean Bernard",
+    "Hepp-Reymond Marie-Claude",
+    "Maier Marc A"
+  ],
+  "journal": "Journal of physiology, Paris",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Hand",
+    "Hand Strength",
+    "Haplorhini",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Muscle Contraction",
+    "Muscle, Skeletal",
+    "Neural Networks, Computer",
+    "Somatosensory Cortex"
+  ]
+}

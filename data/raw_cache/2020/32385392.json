@@ -1,0 +1,21 @@
+{
+  "pmid": "32385392",
+  "title": "Convolutional neural networks explain tuning properties of anterior, but not middle, face-processing areas in macaque inferotemporal cortex.",
+  "abstract": "Recent computational studies have emphasized layer-wise quantitative similarity between convolutional neural networks (CNNs) and the primate visual ventral stream. However, whether such similarity holds for the face-selective areas, a subsystem of the higher visual cortex, is not clear. Here, we extensively investigate whether CNNs exhibit tuning properties as previously observed in different macaque face areas. While simulating four past experiments on a variety of CNN models, we sought for the model layer that quantitatively matches the multiple tuning properties of each face area. Our results show that higher model layers explain reasonably well the properties of anterior areas, while no layer simultaneously explains the properties of middle areas, consistently across the model variation. Thus, some similarity may exist between CNNs and the primate face-processing system in the near-goal representation, but much less clearly in the intermediate stages, thus requiring alternative modeling such as non-layer-wise correspondence or different computational principles.",
+  "authors": [
+    "Raman Rajani",
+    "Hosoya Haruo"
+  ],
+  "journal": "Communications biology",
+  "year": "2020",
+  "doi": "10.1038/s42003-020-0945-x",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Facial Recognition",
+    "Macaca",
+    "Nerve Net",
+    "Photic Stimulation"
+  ]
+}

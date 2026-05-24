@@ -1,0 +1,23 @@
+{
+  "pmid": "34916514",
+  "title": "Face detection in untrained deep neural networks.",
+  "abstract": "Face-selective neurons are observed in the primate visual pathway and are considered as the basis of face detection in the brain. However, it has been debated as to whether this neuronal selectivity can arise innately or whether it requires training from visual experience. Here, using a hierarchical deep neural network model of the ventral visual stream, we suggest a mechanism in which face-selectivity arises in the complete absence of training. We found that units selective to faces emerge robustly in randomly initialized networks and that these units reproduce many characteristics observed in monkeys. This innate selectivity also enables the untrained network to perform face-detection tasks. Intriguingly, we observed that units selective to various non-face objects can also arise innately in untrained networks. Our results imply that the random feedforward connections in early, untrained deep neural networks may be sufficient for initializing primitive visual selectivity.",
+  "authors": [
+    "Baek Seungdae",
+    "Song Min",
+    "Jang Jaeson",
+    "Kim Gwangsu",
+    "Paik Se-Bum"
+  ],
+  "journal": "Nature communications",
+  "year": "2021",
+  "doi": "10.1038/s41467-021-27606-9",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Facial Recognition",
+    "Haplorhini",
+    "Neural Networks, Computer",
+    "Visual Pathways"
+  ]
+}

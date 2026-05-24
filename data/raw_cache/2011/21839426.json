@@ -1,0 +1,21 @@
+{
+  "pmid": "21839426",
+  "title": "Lateral thinking, from the Hopfield model to cortical dynamics.",
+  "abstract": "Self-organizing attractor networks may comprise the building blocks for cortical dynamics, providing the basic operations of categorization, including analog-to-digital conversion, association and auto-association, which are then expressed as components of distinct cognitive functions depending on the contents of the neural codes in each region. To assess the viability of this scenario, we first review how a local cortical patch may be modeled as an attractor network, in which memory representations are not artificially stored as prescribed binary patterns of activity as in the Hopfield model, but self-organize as continuously graded patterns induced by afferent input. Recordings in macaques indicate that such cortical attractor networks may express retrieval dynamics over cognitively plausible rapid time scales, shorter than those dominated by neuronal fatigue. A cortical network encompassing many local attractor networks, and incorporating a realistic description of adaptation dynamics, may be captured by a Potts model. This network model has the capacity to engage long-range associations into sustained iterative attractor dynamics at a cortical scale, in what may be regarded as a mathematical model of spontaneous lateral thought. This article is part of a Special Issue entitled: Neural Coding.",
+  "authors": [
+    "Akrami Athena",
+    "Russo Eleonora",
+    "Treves Alessandro"
+  ],
+  "journal": "Brain research",
+  "year": "2012",
+  "doi": "10.1016/j.brainres.2011.07.030",
+  "mesh": [
+    "Action Potentials",
+    "Cerebral Cortex",
+    "Functional Laterality",
+    "Humans",
+    "Neural Networks, Computer",
+    "Thinking"
+  ]
+}

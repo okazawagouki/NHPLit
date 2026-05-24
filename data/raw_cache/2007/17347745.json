@@ -1,0 +1,28 @@
+{
+  "pmid": "17347745",
+  "title": "Efficient signal processing of multineuronal activities for neural interface and prosthesis.",
+  "abstract": "OBJECTIVES: Multineuronal spike trains must be efficiently decoded in order to utilize them for controlling artificial limbs and organs. Here we evaluated the efficiency of pooling (averaging) and combining (vectorizing) activities of multiple neurons for decoding neuronal information. METHODS: Multineuronal activities in the monkey inferior temporal (IT) cortex were obtained by classifying spikes of constituent neurons from multichannel data recorded with a multisite microelectrode. We compared pooling and combining procedures for the amount of visual information transferred by neurons, and for the success rate of stimulus estimation based on neuronal activities in each trial. RESULTS: Both pooling and combining activities of multiple neurons increased the amount of information and the success rate with the number of neurons. However, the degree of improvement obtained by increasing the number of neurons was higher when combining activities as opposed to pooling them. CONCLUSION: Combining the activities of multiple neurons is more efficient than pooling them for obtaining a precise interpretation of neuronal signals.",
+  "authors": [
+    "Kaneko H",
+    "Tamura H",
+    "Kawashima T",
+    "Suzuki S S",
+    "Fujita I"
+  ],
+  "journal": "Methods of information in medicine",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Biomedical Engineering",
+    "Electrodes, Implanted",
+    "Haplorhini",
+    "Information Theory",
+    "Neurons",
+    "Prostheses and Implants",
+    "Signal Processing, Computer-Assisted",
+    "Statistics as Topic",
+    "Time",
+    "Vision, Ocular"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "9753122",
+  "title": "Eye position encoding in the macaque posterior parietal cortex.",
+  "abstract": "In two previous studies, we had demonstrated the influence of eye position on neuronal discharges in the middle temporal area, medial superior temporal area, lateral intraparietal area and area 7A of the awake monkey (Bremmer et al., 1997a,b). Eye position effects also have been found in visual cortical areas V3A and V6 and even in the premotor cortex and the supplementary eye field. These effects are generally discussed in light of a coordinate transformation of visual signals into a non-retinocentric frame of reference. Neural network studies dealing with the eye position effect succeeded in constructing such non-retinocentric representations by using model neurones whose response characteristics resembled those of 'real' neurones. However, to our knowledge, response properties of real neurones never acted as input into these neural networks. In the present study, we thus investigated whether, theoretically, eye position could be estimated from the population discharge of the (previously) recorded neurones and, if so, we intended to develop an encoding algorithm for the position of the eyes in the orbit. The optimal linear estimator proved the capability of the ensemble activity for determining correctly eye position. We then developed the so-called subpopulation encoding of eye position. This algorithm is based on the partition of the ensemble of neurones into two pairs of subpopulations. Eye position is represented by the differences of activity levels within each pair of subpopulations. Considering this result, encoding of the location of an object relative to the head could easily be accomplished by combining eye position information with the intrinsic knowledge about the retinal location of a visual stimulus. Taken together, these results show that throughout the monkey's visual cortical system information is available which can be used in a fairly simple manner in order to generate a non-retinocentric representation of visual information.",
+  "authors": [
+    "Bremmer F",
+    "Pouget A",
+    "Hoffmann K P"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Eye Movements",
+    "Fixation, Ocular",
+    "Macaca",
+    "Neurons, Afferent",
+    "Parietal Lobe",
+    "Photic Stimulation",
+    "Space Perception"
+  ]
+}

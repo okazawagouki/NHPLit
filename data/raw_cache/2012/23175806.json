@@ -1,0 +1,28 @@
+{
+  "pmid": "23175806",
+  "title": "Coding of the long-term value of multiple future rewards in the primate striatum.",
+  "abstract": "Decisions maximizing benefits involve a tradeoff between the quantity of a reward and the cost of elapsed time until an animal receives it. The estimation of long-term reward values is critical to attain the most desirable outcomes over a certain period of time. Reinforcement learning theories have established algorithms to estimate the long-term reward values of multiple future rewards in which the values of future rewards are discounted as a function of how many steps of choices are necessary to achieve them. Here, we report that presumed striatal projection neurons represent the long-term values of multiple future rewards estimated by a standard reinforcement learning model while monkeys are engaged in a series of trial-and-error choices and adaptive decisions for multiple rewards. We found that the magnitude of activity of a subset of neurons was positively correlated with the long-term reward values, and that of another subset of neurons was negatively correlated throughout the entire decision-making process in individual trials: from the start of the task trial, estimation of the values and their comparison among alternatives, choice execution, and evaluation of the received rewards. An idiosyncratic finding was that neurons showing negative correlations represented reward values in the near future (high discounting), while neurons showing positive correlations represented reward values not only in the near future, but also in the far future (low discounting). These findings provide a new insight that long-term value signals are embedded in two subsets of striatal neurons as high and low discounting of multiple future rewards.",
+  "authors": [
+    "Yamada Hiroshi",
+    "Inokawa Hitoshi",
+    "Matsumoto Naoyuki",
+    "Ueda Yasumasa",
+    "Enomoto Kazuki",
+    "Kimura Minoru"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2013",
+  "doi": "10.1152/jn.00289.2012",
+  "mesh": [
+    "Action Potentials",
+    "Adaptation, Psychological",
+    "Animals",
+    "Decision Making",
+    "Female",
+    "Macaca",
+    "Male",
+    "Neostriatum",
+    "Neurons",
+    "Reward"
+  ]
+}

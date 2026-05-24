@@ -1,0 +1,28 @@
+{
+  "pmid": "15317840",
+  "title": "Modeling of smooth pursuit-related neuronal responses in the DLPN and NRTP of the rhesus macaque.",
+  "abstract": "The dorsolateral pontine nucleus (DLPN) and nucleus reticularis tegmenti pontis (NRTP) comprise obligatory links in the cortico-ponto-cerebellar system supporting smooth pursuit eye movements. We examined the response properties of DLPN and rNRTP neurons during step-ramp smooth pursuit of a small target moving across a dark background. Our neurophysiological studies were conducted in awake, behaving juvenile macaques (Macaca mulatta). We used multiple linear-regression modeling to estimate the relative sensitivities of neurons to eye parameters (position, velocity, and acceleration) and retinal-error parameters (position, velocity, and acceleration). We found that a large proportion of pursuit-related DLPN neurons primarily code eye-velocity information, whereas a large proportion of rNRTP neurons primarily code eye-acceleration information. We calculated the relative decrease in variance found when using a six-component model that included both eye- and retinal-error parameters compared with three-component models that include either eye or retinal error. These comparisons show that a majority of DLPN (14/20) and rNRTP (17/19) neurons have larger contributions from eye compared with retinal-error parameters (P < 0.001, paired t-test). Even though eye-motion parameters provide the strongest contributions in a given model, a significant contribution from retinal error was often present (i.e., >20% reduction in variance in 6-component model compared with 3-component models). Thus our results indicate that the DLPN plays a larger role in maintaining steady-state smooth pursuit eye velocity, whereas rNRTP contributes to both the initiation and maintenance of smooth pursuit.",
+  "authors": [
+    "Ono Seiji",
+    "Das Vallabh E",
+    "Economides John R",
+    "Mustari Michael J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Acceleration",
+    "Action Potentials",
+    "Analysis of Variance",
+    "Animals",
+    "Behavior, Animal",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Neurons",
+    "Photic Stimulation",
+    "Pons",
+    "Pursuit, Smooth",
+    "Visual Perception"
+  ]
+}

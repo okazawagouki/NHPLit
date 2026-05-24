@@ -1,0 +1,31 @@
+{
+  "pmid": "18466751",
+  "title": "Assessing the function of motor cortex: single-neuron models of how neural response is modulated by limb biomechanics.",
+  "abstract": "Do neurons in primary motor cortex encode the generative details of motor behavior, such as individual muscle activities, or do they encode high-level movement attributes? Resolving this question has proven difficult, in large part because of the sizeable uncertainty inherent in estimating or measuring the joint torques and muscle forces that underlie movements made by biological limbs. We circumvented this difficulty by considering single-neuron responses in an isometric task, where joint torques and muscle forces can be straightforwardly computed from limb geometry. The response for each neuron was modeled as a linear function of a \"preferred\" joint torque vector, and this model was fit to individual neural responses across variations in limb posture. The resulting goodness of fit suggests that neurons in motor cortex do encode the kinetics of motor behavior and that the neural response properties of \"preferred direction\" and \"gain\" are dual components of a unitary response vector.",
+  "authors": [
+    "Ajemian Robert",
+    "Green Andrea",
+    "Bullock Daniel",
+    "Sergio Lauren",
+    "Kalaska John",
+    "Grossberg Stephen"
+  ],
+  "journal": "Neuron",
+  "year": "2008",
+  "doi": "10.1016/j.neuron.2008.02.033",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Hand",
+    "Joints",
+    "Macaca mulatta",
+    "Mice",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Muscle, Skeletal",
+    "Neurons",
+    "Posture",
+    "Torque"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "41477828",
+  "title": "Neuronal heterogeneity of normalization strength in a circuit model.",
+  "abstract": "Neurons in higher-order visual areas integrate information through a canonical computation called normalization. The strength of normalization is highly heterogeneous across neurons, and this heterogeneity correlates with attention-mediated modulations in neural responses. However, the circuit mechanism underlying the heterogeneous normalization strength is unclear. In this work, we study normalization in a spiking neuron network model of visual cortex. Our model reveals that the heterogeneity of normalization strength is highly correlated with the inhibitory current each neuron receives. The correlation between inhibition and other synaptic inputs explains the experimentally observed dependence of spike count correlations on normalization strength. Further, we find that neurons with stronger normalization encode information more efficiently, and that networks with more heterogeneity in normalization encode visual stimuli with higher information and capacity. Together, our model provides a mechanistic explanation of heterogeneous normalization strengths in the visual cortex and sheds light on the computational benefits of neuronal heterogeneity.",
+  "authors": [
+    "Song Deying",
+    "Ruff Douglas",
+    "Cohen Marlene",
+    "Huang Chengcheng"
+  ],
+  "journal": "Science advances",
+  "year": "2026",
+  "doi": "10.1126/sciadv.adv9396",
+  "mesh": [
+    "Neurons",
+    "Visual Cortex",
+    "Action Potentials",
+    "Nerve Net",
+    "Models, Neurological",
+    "Datasets as Topic",
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Photic Stimulation",
+    "Eye-Tracking Technology",
+    "Electrodes, Implanted",
+    "Microelectrodes"
+  ]
+}

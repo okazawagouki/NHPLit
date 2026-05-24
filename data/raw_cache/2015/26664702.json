@@ -1,0 +1,13 @@
+{
+  "pmid": "26664702",
+  "title": "Matching Behavior as a Tradeoff Between Reward Maximization and Demands on Neural Computation.",
+  "abstract": "When faced with a choice, humans and animals commonly distribute their behavior in proportion to the frequency of payoff of each option. Such behavior is referred to as matching and has been captured by the matching law. However, matching is not a general law of economic choice. Matching in its strict sense seems to be specifically observed in tasks whose properties make matching an optimal or a near-optimal strategy. We engaged monkeys in a foraging task in which matching was not the optimal strategy. Over-matching the proportions of the mean offered reward magnitudes would yield more reward than matching, yet, surprisingly, the animals almost exactly matched them. To gain insight into this phenomenon, we modeled the animals' decision-making using a mechanistic model. The model accounted for the animals' macroscopic and microscopic choice behavior. When the models' three parameters were not constrained to mimic the monkeys' behavior, the model over-matched the reward proportions and in doing so, harvested substantially more reward than the monkeys. This optimized model revealed a marked bottleneck in the monkeys' choice function that compares the value of the two options. The model featured a very steep value comparison function relative to that of the monkeys. The steepness of the value comparison function had a profound effect on the earned reward and on the level of matching. We implemented this value comparison function through responses of simulated biological neurons. We found that due to the presence of neural noise, steepening the value comparison requires an exponential increase in the number of value-coding neurons. Matching may be a compromise between harvesting satisfactory reward and the high demands placed by neural noise on optimal neural computation.",
+  "authors": [
+    "Kubanek Jan",
+    "Snyder Lawrence H"
+  ],
+  "journal": "F1000Research",
+  "year": "2015",
+  "doi": "10.12688/f1000research.6574.2",
+  "mesh": []
+}

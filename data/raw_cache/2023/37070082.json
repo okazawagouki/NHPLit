@@ -1,0 +1,15 @@
+{
+  "pmid": "37070082",
+  "title": "Neural encoding of multiple motion speeds in visual cortical area MT.",
+  "abstract": "Segmenting objects from each other and their background is critical for vision. The speed at which objects move provides a salient cue for segmentation. However, how the visual system represents and differentiates multiple speeds is largely unknown. Here we investigated the neural encoding of multiple speeds of overlapping stimuli in the primate visual cortex. We first characterized the perceptual capacity of human and monkey subjects to segment spatially overlapping stimuli moving at different speeds. We then determined how neurons in the motion-sensitive, middle-temporal (MT) cortex of macaque monkeys encode multiple speeds. We made a novel finding that the responses of MT neurons to two speeds of overlapping stimuli showed a robust bias toward the faster speed component when both speeds were slow (≤ 20°/s). The faster-speed bias occurred even when a neuron had a slow preferred speed and responded more strongly to the slower component than the faster component when presented alone. The faster-speed bias emerged very early in neuronal response and was robust over time and to manipulations of motion direction and attention. As the stimulus speed increased, the faster-speed bias changed to response averaging. Our finding can be explained by a modified divisive normalization model, in which the weights for the speed components are proportional to the responses of a population of neurons elicited by the individual speeds. Our results suggest that the neuron population, referred to as the weighting pool, includes neurons that have a broad range of speed preferences. As a result, the response weights for the speed components are determined by the stimulus speeds and invariant to the speed preferences of individual neurons. Our findings help to define the neural encoding rule of multiple stimuli and provide new insight into the underlying neural mechanisms. The faster-speed bias would benefit behavioral tasks such as figure-ground segregation if figural objects tend to move faster than the background in the natural environment.",
+  "authors": [
+    "Huang Xin",
+    "Ghimire Bikalpa",
+    "Chakrala Anjani Sreeprada",
+    "Wiesner Steven"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2023",
+  "doi": "10.1101/2023.04.08.532456",
+  "mesh": []
+}

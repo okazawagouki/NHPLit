@@ -1,0 +1,22 @@
+{
+  "pmid": "27504806",
+  "title": "Adaptive learning and decision-making under uncertainty by metaplastic synapses guided by a surprise detection system.",
+  "abstract": "Recent experiments have shown that animals and humans have a remarkable ability to adapt their learning rate according to the volatility of the environment. Yet the neural mechanism responsible for such adaptive learning has remained unclear. To fill this gap, we investigated a biophysically inspired, metaplastic synaptic model within the context of a well-studied decision-making network, in which synapses can change their rate of plasticity in addition to their efficacy according to a reward-based learning rule. We found that our model, which assumes that synaptic plasticity is guided by a novel surprise detection system, captures a wide range of key experimental findings and performs as well as a Bayes optimal model, with remarkably little parameter tuning. Our results further demonstrate the computational power of synaptic plasticity, and provide insights into the circuit-level computation which underlies adaptive decision-making.",
+  "authors": [
+    "Iigaya Kiyohito"
+  ],
+  "journal": "eLife",
+  "year": "2016",
+  "doi": "10.7554/eLife.18073",
+  "mesh": [
+    "Adaptation, Physiological",
+    "Animals",
+    "Biophysical Phenomena",
+    "Decision Making",
+    "Humans",
+    "Learning",
+    "Neural Networks, Computer",
+    "Neuronal Plasticity",
+    "Uncertainty"
+  ]
+}

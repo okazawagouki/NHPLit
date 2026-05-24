@@ -1,0 +1,22 @@
+{
+  "pmid": "19534742",
+  "title": "Deciphering the connectivity structure of biological networks using MixNet.",
+  "abstract": "BACKGROUND: As biological networks often show complex topological features, mathematical methods are required to extract meaningful information. Clustering methods are useful in this setting, as they allow the summary of the network's topology into a small number of relevant classes. Different strategies are possible for clustering, and in this article we focus on a model-based strategy that aims at clustering nodes based on their connectivity profiles. RESULTS: We present MixNet, the first publicly available computer software that analyzes biological networks using mixture models. We apply this method to various networks such as the E. coli transcriptional regulatory network, the macaque cortex network, a foodweb network and the Buchnera aphidicola metabolic network. This method is also compared with other approaches such as module identification or hierarchical clustering. CONCLUSION: We show how MixNet can be used to extract meaningful biological information, and to give a summary of the networks topology that highlights important biological features. This approach is powerful as MixNet is adaptive to the network under study, and finds structural information without any a priori on the structure that is investigated. This makes MixNet a very powerful tool to summarize and decipher the connectivity structure of biological networks.",
+  "authors": [
+    "Picard Franck",
+    "Miele Vincent",
+    "Daudin Jean-Jacques",
+    "Cottret Ludovic",
+    "Robin Stéphane"
+  ],
+  "journal": "BMC bioinformatics",
+  "year": "2009",
+  "doi": "10.1186/1471-2105-10-S6-S17",
+  "mesh": [
+    "Algorithms",
+    "Computational Biology",
+    "Metabolic Networks and Pathways",
+    "Models, Biological",
+    "Software"
+  ]
+}

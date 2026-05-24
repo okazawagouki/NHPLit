@@ -1,0 +1,24 @@
+{
+  "pmid": "29118193",
+  "title": "Duration analysis using matching pursuit algorithm reveals longer bouts of gamma rhythm.",
+  "abstract": "The gamma rhythm (30-80 Hz), often associated with high-level cortical functions, is believed to provide a temporal reference frame for spiking activity, for which it should have a stable center frequency and linear phase for an extended duration. However, recent studies that have estimated the power and phase of gamma as a function of time suggest that gamma occurs in short bursts and lacks the temporal structure required to act as a reference frame. Here, we show that the bursty appearance of gamma arises from the variability in the spectral estimator used in these studies. To overcome this problem, we use another duration estimator based on a matching pursuit algorithm that robustly estimates the duration of gamma in simulated data. Applying this algorithm to gamma oscillations recorded from implanted microelectrodes in the primary visual cortex of awake monkeys, we show that the median gamma duration is greater than 300 ms, which is three times longer than previously reported values. NEW & NOTEWORTHY Gamma oscillations (30-80 Hz) have been hypothesized to provide a temporal reference frame for coordination of spiking activity, but recent studies have shown that gamma occurs in very short bursts. We show that existing techniques have severely underestimated the rhythm duration, use a technique based on the Matching Pursuit algorithm, which provides a robust estimate of the duration, and show that the median duration of gamma is greater than 300 ms, much longer than previous estimates.",
+  "authors": [
+    "Chandran Ks Subhash",
+    "Seelamantula Chandra Sekhar",
+    "Ray Supratim"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2018",
+  "doi": "10.1152/jn.00154.2017",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Female",
+    "Gamma Rhythm",
+    "Macaca radiata",
+    "Reproducibility of Results",
+    "Signal Processing, Computer-Assisted",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

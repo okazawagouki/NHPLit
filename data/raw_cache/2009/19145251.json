@@ -1,0 +1,37 @@
+{
+  "pmid": "19145251",
+  "title": "Differential expression of anti-angiogenic factors and guidance genes in the developing macula.",
+  "abstract": "PURPOSE: The primate retina contains a specialized, cone-rich macula, which mediates high acuity and color vision. The spatial resolution provided by the neural retina at the macula is optimized by stereotyped retinal blood vessel and ganglion cell axon patterning, which radiate away from the macula and reduce shadowing of macular photoreceptors. However, the genes that mediate these specializations, and the reasons for the vulnerability of the macula to degenerative disease, remain obscure. The aim of this study was to identify novel genes that may influence retinal vascular patterning and definition of the foveal avascular area. METHODS: We used RNA from human fetal retinas at 19-20 weeks of gestation (WG; n=4) to measure differential gene expression in the macula, a region nasal to disc (nasal) and in the surrounding retina (surround) by hybridization to 12 GeneChip microarrays (HG-U133 Plus 2.0). The raw data was subjected to quality control assessment and preprocessing, using GC-RMA. We then used ANOVA analysis (Partek) Genomic Suite 6.3) and clustering (DAVID website) to identify the most highly represented genes clustered according to \"biological process.\" The neural retina is fully differentiated at the macula at 19-20 WG, while neuronal progenitor cells are present throughout the rest of the retina. We therefore excluded genes associated with the cell cycle, and markers of differentiated neurons, from further analyses. Significantly regulated genes (p<0.01) were then identified in a second round of clustering according to molecular/reaction (KEGG) pathway. Genes of interest were verified by quantitative PCR (QRT-PCR), and 2 genes were localized by in situ hybridization. RESULTS: We generated two lists of differentially regulated genes: \"macula versus surround\" and \"macula versus nasal.\" KEGG pathway clustering of the filtered gene lists identified 25 axon guidance-related genes that are differentially regulated in the macula. Furthermore, we found significant upregulation of three anti-angiogenic factors in the macula: pigment epithelium derived factor (PEDF), natriuretic peptide precurusor B (NPPB), and collagen type IValpha2. Differential expression of several members of the ephrin and semaphorin axon guidance gene families, PEDF, and NPPB was verified by QRT-PCR. Localization of PEDF and Eph-A6 mRNAs in sections of macaque retina shows expression of both genes concentrates in the ganglion cell layer (GCL) at the developing fovea, consistent with an involvement in definition of the foveal avascular area. CONCLUSIONS: Because the axons of macular ganglion cells exit the retina from around 8 WG, we suggest that the axon guidance genes highly expressed at the macula at 19-20 WG are also involved in vascular patterning, along with PEDF and NPPB. Localization of both PEDF and Eph-A6 mRNAs to the GCL of the developing fovea supports this idea. It is possible that specialization of the macular vessels, including definition of the foveal avascular area, is mediated by processes that piggyback on axon guidance mechanisms in effect earlier in development. These findings may be useful to understand the vulnerability of the macula to degeneration and to develop new therapeutic strategies to inhibit neovascularization.",
+  "authors": [
+    "Kozulin Peter",
+    "Natoli Riccardo",
+    "O'Brien Keely M Bumsted",
+    "Madigan Michele C",
+    "Provis Jan M"
+  ],
+  "journal": "Molecular vision",
+  "year": "2009",
+  "doi": "",
+  "mesh": [
+    "Adult",
+    "Angiogenesis Inhibitors",
+    "Animals",
+    "Axons",
+    "Eye Proteins",
+    "Fetus",
+    "Gene Expression Profiling",
+    "Gene Expression Regulation, Developmental",
+    "Humans",
+    "In Situ Hybridization",
+    "Macaca",
+    "Macula Lutea",
+    "Membrane Proteins",
+    "Multigene Family",
+    "Nerve Growth Factors",
+    "Oligonucleotide Array Sequence Analysis",
+    "Quality Control",
+    "RNA, Messenger",
+    "Serpins",
+    "Pigment Epithelium-Derived Factor"
+  ]
+}

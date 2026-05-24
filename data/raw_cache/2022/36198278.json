@@ -1,0 +1,23 @@
+{
+  "pmid": "36198278",
+  "title": "Validation of a non-invasive, real-time, human-in-the-loop model of intracortical brain-computer interfaces.",
+  "abstract": "<i>Objective</i>. Despite the tremendous promise of invasive brain-computer interfaces (iBCIs), the associated study costs, risks, and ethical considerations limit the opportunity to develop and test the algorithms that decode neural activity into a user's intentions. Our goal was to address this challenge by designing an iBCI model capable of testing many human subjects in closed-loop.<i>Approach</i>. We developed an iBCI model that uses artificial neural networks (ANNs) to translate human finger movements into realistic motor cortex firing patterns, which can then be decoded in real time. We call the model the joint angle BCI, or jaBCI. jaBCI allows readily recruited, healthy subjects to perform closed-loop iBCI tasks using any neural decoder, preserving subjects' control-relevant short-latency error correction and learning dynamics.<i>Main results</i>. We validated jaBCI offline through emulated neuron firing statistics, confirming that emulated neural signals have firing rates, low-dimensional PCA geometry, and rotational jPCA dynamics that are quite similar to the actual neurons (recorded in monkey M1) on which we trained the ANN. We also tested jaBCI in closed-loop experiments, our single study examining roughly as many subjects as have been tested world-wide with iBCIs (<i>n</i>= 25). Performance was consistent with that of the paralyzed, human iBCI users with implanted intracortical electrodes. jaBCI allowed us to imitate the experimental protocols (e.g. the same velocity Kalman filter decoder and center-out task) and compute the same seven behavioral measures used in three critical studies.<i>Significance</i>. These encouraging results suggest the jaBCI's real-time firing rate emulation is a useful means to provide statistically robust sample sizes for rapid prototyping and optimization of decoding algorithms, the study of bi-directional learning in iBCIs, and improving iBCI control.",
+  "authors": [
+    "Awasthi Peeyush",
+    "Lin Tzu-Hsiang",
+    "Bae Jihye",
+    "Miller Lee E",
+    "Danziger Zachary C"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2022",
+  "doi": "10.1088/1741-2552/ac97c3",
+  "mesh": [
+    "Algorithms",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Humans",
+    "Motor Cortex",
+    "Movement"
+  ]
+}

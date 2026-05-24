@@ -1,0 +1,34 @@
+{
+  "pmid": "32091984",
+  "title": "The Neural Engine: A Reprogrammable Low Power Platform for Closed-Loop Optogenetics.",
+  "abstract": "Brain-machine Interfaces (BMI) hold great potential for treating neurological disorders such as epilepsy. Technological progress is allowing for a shift from open-loop, pacemaker-class, intervention towards fully closed-loop neural control systems. Low power programmable processing systems are therefore required which can operate within the thermal window of 2° C for medical implants and maintain long battery life. In this work, we have developed a low power neural engine with an optimized set of algorithms which can operate under a power cycling domain. We have integrated our system with a custom-designed brain implant chip and demonstrated the operational applicability to the closed-loop modulating neural activities in in-vitro and in-vivo brain tissues: the local field potentials can be modulated at required central frequency ranges. Also, both a freely-moving non-human primate (24-hour) and a rodent (1-hour) in-vivo experiments were performed to show system reliable recording performance. The overall system consumes only 2.93 mA during operation with a biological recording frequency 50 Hz sampling rate (the lifespan is approximately 56 hours). A library of algorithms has been implemented in terms of detection, suppression and optical intervention to allow for exploratory applications in different neurological disorders. Thermal experiments demonstrated that operation creates minimal heating as well as battery performance exceeding 24 hours on a freely moving rodent. Therefore, this technology shows great capabilities for both neuroscience in-vitro/in-vivo applications and medical implantable processing units.",
+  "authors": [
+    "Luo Junwen",
+    "Firflionis Dimitris",
+    "Turnbull Mark",
+    "Xu Wei",
+    "Walsh Darren",
+    "Escobedo-Cousin Enrique",
+    "Soltan Ahmed",
+    "Ramezani Reza",
+    "Liu Yan",
+    "Bailey Richard",
+    "ONeill Anthony",
+    "Idil Ahmad Shah",
+    "Donaldson Nick",
+    "Constandinou Tim",
+    "Jackson Andrew",
+    "Degenaar Patrick"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2020",
+  "doi": "10.1109/TBME.2020.2973934",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Epilepsy",
+    "Optogenetics"
+  ]
+}

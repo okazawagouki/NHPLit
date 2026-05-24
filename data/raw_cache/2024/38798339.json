@@ -1,0 +1,16 @@
+{
+  "pmid": "38798339",
+  "title": "Primate V2 Receptive Fields Derived from Anatomically Identified Large-Scale V1 Inputs.",
+  "abstract": "In the primate visual system, visual object recognition involves a series of cortical areas arranged hierarchically along the ventral visual pathway. As information flows through this hierarchy, neurons become progressively tuned to more complex image features. The circuit mechanisms and computations underlying the increasing complexity of these receptive fields (RFs) remain unidentified. To understand how this complexity emerges in the secondary visual area (V2), we investigated the functional organization of inputs from the primary visual cortex (V1) to V2 by combining retrograde anatomical tracing of these inputs with functional imaging of feature maps in macaque monkey V1 and V2. We found that V1 neurons sending inputs to single V2 orientation columns have a broad range of preferred orientations, but are strongly biased towards the orientation represented at the injected V2 site. For each V2 site, we then constructed a feedforward model based on the linear combination of its anatomically-identified large-scale V1 inputs, and studied the response proprieties of the generated V2 RFs. We found that V2 RFs derived from the linear feedforward model were either elongated versions of V1 filters or had spatially complex structures. These modeled RFs predicted V2 neuron responses to oriented grating stimuli with high accuracy. Remarkably, this simple model also explained the greater selectivity to naturalistic textures of V2 cells compared to their V1 input cells. Our results demonstrate that simple linear combinations of feedforward inputs can account for the orientation selectivity and texture sensitivity of V2 RFs.",
+  "authors": [
+    "Hassanpour Mahlega S",
+    "Merlin Sam",
+    "Federer Frederick",
+    "Zaidi Qasim",
+    "Angelucci Alessandra"
+  ],
+  "journal": "Research square",
+  "year": "2024",
+  "doi": "10.21203/rs.3.rs-4139501/v1",
+  "mesh": []
+}

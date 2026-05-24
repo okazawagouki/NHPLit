@@ -1,0 +1,16 @@
+{
+  "pmid": "21808619",
+  "title": "Robot cognitive control with a neurophysiologically inspired reinforcement learning model.",
+  "abstract": "A major challenge in modern robotics is to liberate robots from controlled industrial settings, and allow them to interact with humans and changing environments in the real-world. The current research attempts to determine if a neurophysiologically motivated model of cortical function in the primate can help to address this challenge. Primates are endowed with cognitive systems that allow them to maximize the feedback from their environment by learning the values of actions in diverse situations and by adjusting their behavioral parameters (i.e., cognitive control) to accommodate unexpected events. In such contexts uncertainty can arise from at least two distinct sources - expected uncertainty resulting from noise during sensory-motor interaction in a known context, and unexpected uncertainty resulting from the changing probabilistic structure of the environment. However, it is not clear how neurophysiological mechanisms of reinforcement learning and cognitive control integrate in the brain to produce efficient behavior. Based on primate neuroanatomy and neurophysiology, we propose a novel computational model for the interaction between lateral prefrontal and anterior cingulate cortex reconciling previous models dedicated to these two functions. We deployed the model in two robots and demonstrate that, based on adaptive regulation of a meta-parameter β that controls the exploration rate, the model can robustly deal with the two kinds of uncertainties in the real-world. In addition the model could reproduce monkey behavioral performance and neurophysiological data in two problem-solving tasks. A last experiment extends this to human-robot interaction with the iCub humanoid, and novel sources of uncertainty corresponding to \"cheating\" by the human. The combined results provide concrete evidence for the ability of neurophysiologically inspired cognitive systems to control advanced robots in the real-world.",
+  "authors": [
+    "Khamassi Mehdi",
+    "Lallée Stéphane",
+    "Enel Pierre",
+    "Procyk Emmanuel",
+    "Dominey Peter F"
+  ],
+  "journal": "Frontiers in neurorobotics",
+  "year": "2011",
+  "doi": "10.3389/fnbot.2011.00001",
+  "mesh": []
+}

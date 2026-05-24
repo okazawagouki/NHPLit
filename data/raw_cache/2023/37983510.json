@@ -1,0 +1,21 @@
+{
+  "pmid": "37983510",
+  "title": "Optimal information loading into working memory explains dynamic coding in the prefrontal cortex.",
+  "abstract": "Working memory involves the short-term maintenance of information and is critical in many tasks. The neural circuit dynamics underlying working memory remain poorly understood, with different aspects of prefrontal cortical (PFC) responses explained by different putative mechanisms. By mathematical analysis, numerical simulations, and using recordings from monkey PFC, we investigate a critical but hitherto ignored aspect of working memory dynamics: information loading. We find that, contrary to common assumptions, optimal loading of information into working memory involves inputs that are largely orthogonal, rather than similar, to the late delay activities observed during memory maintenance, naturally leading to the widely observed phenomenon of dynamic coding in PFC. Using a theoretically principled metric, we show that PFC exhibits the hallmarks of optimal information loading. We also find that optimal information loading emerges as a general dynamical strategy in task-optimized recurrent neural networks. Our theory unifies previous, seemingly conflicting theories of memory maintenance based on attractor or purely sequential dynamics and reveals a normative principle underlying dynamic coding.",
+  "authors": [
+    "Stroud Jake P",
+    "Watanabe Kei",
+    "Suzuki Takafumi",
+    "Stokes Mark G",
+    "Lengyel Máté"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2023",
+  "doi": "10.1073/pnas.2307991120",
+  "mesh": [
+    "Memory, Short-Term",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Neural Networks, Computer"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "pmid": "26696876",
+  "title": "The Development of Hand-Centered Visual Representations in the Primate Brain: A Computer Modeling Study Using Natural Visual Scenes.",
+  "abstract": "Neurons that respond to visual targets in a hand-centered frame of reference have been found within various areas of the primate brain. We investigate how hand-centered visual representations may develop in a neural network model of the primate visual system called VisNet, when the model is trained on images of the hand seen against natural visual scenes. The simulations show how such neurons may develop through a biologically plausible process of unsupervised competitive learning and self-organization. In an advance on our previous work, the visual scenes consisted of multiple targets presented simultaneously with respect to the hand. Three experiments are presented. First, VisNet was trained with computerized images consisting of a realistic image of a hand and a variety of natural objects, presented in different textured backgrounds during training. The network was then tested with just one textured object near the hand in order to verify if the output cells were capable of building hand-centered representations with a single localized receptive field. We explain the underlying principles of the statistical decoupling that allows the output cells of the network to develop single localized receptive fields even when the network is trained with multiple objects. In a second simulation we examined how some of the cells with hand-centered receptive fields decreased their shape selectivity and started responding to a localized region of hand-centered space as the number of objects presented in overlapping locations during training increases. Lastly, we explored the same learning principles training the network with natural visual scenes collected by volunteers. These results provide an important step in showing how single, localized, hand-centered receptive fields could emerge under more ecologically realistic visual training conditions.",
+  "authors": [
+    "Galeazzi Juan M",
+    "Minini Loredana",
+    "Stringer Simon M"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2015",
+  "doi": "10.3389/fncom.2015.00147",
+  "mesh": []
+}

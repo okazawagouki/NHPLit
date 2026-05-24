@@ -1,0 +1,31 @@
+{
+  "pmid": "22663075",
+  "title": "Learning stable, regularised latent models of neural population dynamics.",
+  "abstract": "Ongoing advances in experimental technique are making commonplace simultaneous recordings of the activity of tens to hundreds of cortical neurons at high temporal resolution. Latent population models, including Gaussian-process factor analysis and hidden linear dynamical system (LDS) models, have proven effective at capturing the statistical structure of such data sets. They can be estimated efficiently, yield useful visualisations of population activity, and are also integral building-blocks of decoding algorithms for brain-machine interfaces (BMI). One practical challenge, particularly to LDS models, is that when parameters are learned using realistic volumes of data the resulting models often fail to reflect the true temporal continuity of the dynamics; and indeed may describe a biologically-implausible unstable population dynamic that is, it may predict neural activity that grows without bound. We propose a method for learning LDS models based on expectation maximisation that constrains parameters to yield stable systems and at the same time promotes capture of temporal structure by appropriate regularisation. We show that when only little training data is available our method yields LDS parameter estimates which provide a substantially better statistical description of the data than alternatives, whilst guaranteeing stable dynamics. We demonstrate our methods using both synthetic data and extracellular multi-electrode recordings from motor cortex.",
+  "authors": [
+    "Buesing Lars",
+    "Macke Jakob H",
+    "Sahani Maneesh"
+  ],
+  "journal": "Network (Bristol, England)",
+  "year": "2012",
+  "doi": "10.3109/0954898X.2012.677095",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artificial Intelligence",
+    "Computer Simulation",
+    "Data Interpretation, Statistical",
+    "Electrodes, Implanted",
+    "Likelihood Functions",
+    "Linear Models",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Normal Distribution",
+    "Population Dynamics",
+    "User-Computer Interface"
+  ]
+}

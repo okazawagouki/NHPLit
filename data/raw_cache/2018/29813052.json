@@ -1,0 +1,26 @@
+{
+  "pmid": "29813052",
+  "title": "Can a time varying external drive give rise to apparent criticality in neural systems?",
+  "abstract": "The finding of power law scaling in neural recordings lends support to the hypothesis of critical brain dynamics. However, power laws are not unique to critical systems and can arise from alternative mechanisms. Here, we investigate whether a common time-varying external drive to a set of Poisson units can give rise to neuronal avalanches and exhibit apparent criticality. To this end, we analytically derive the avalanche size and duration distributions, as well as additional measures, first for homogeneous Poisson activity, and then for slowly varying inhomogeneous Poisson activity. We show that homogeneous Poisson activity cannot give rise to power law distributions. Inhomogeneous activity can also not generate perfect power laws, but it can exhibit approximate power laws with cutoffs that are comparable to those typically observed in experiments. The mechanism of generating apparent criticality by time-varying external fields, forces or input may generalize to many other systems like dynamics of swarms, diseases or extinction cascades. Here, we illustrate the analytically derived effects for spike recordings in vivo and discuss approaches to distinguish true from apparent criticality. Ultimately, this requires causal interventions, which allow separating internal system properties from externally imposed ones.",
+  "authors": [
+    "Priesemann Viola",
+    "Shriki Oren"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2018",
+  "doi": "10.1371/journal.pcbi.1006081",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain",
+    "Electroencephalography",
+    "Haplorhini",
+    "Humans",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Poisson Distribution",
+    "Time Factors"
+  ]
+}

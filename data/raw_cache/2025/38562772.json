@@ -1,0 +1,15 @@
+{
+  "pmid": "38562772",
+  "title": "Assistive sensory-motor perturbations influence learned neural representations.",
+  "abstract": "Task errors are used to learn and refine motor skills. We investigated how task assistance influences learned neural representations using Brain-Computer Interfaces (BCIs), which map neural activity into movement via a decoder. We analyzed motor cortex activity as monkeys practiced BCI with a decoder that adapted to improve or maintain performance over days. Over time, task-relevant information became concentrated in fewer neurons, unlike with fixed decoders. At the population level, task information also became largely confined to a few neural modes that accounted for an unexpectedly small fraction of the population variance. A neural network model suggests the adaptive decoders directly contribute to forming these more compact neural representations. Our findings show that assistive decoders manipulate error information used for long-term learning computations like credit assignment, which informs our understanding of motor learning and has implications for designing real-world BCIs.",
+  "authors": [
+    "Rajeswaran Pavithra",
+    "Payeur Alexandre",
+    "Lajoie Guillaume",
+    "Orsborn Amy L"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2024.03.20.585972",
+  "mesh": []
+}

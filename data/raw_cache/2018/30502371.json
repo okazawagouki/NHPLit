@@ -1,0 +1,34 @@
+{
+  "pmid": "30502371",
+  "title": "An automated behavioral apparatus to combine parameterized reaching and grasping movements in 3D space.",
+  "abstract": "BACKGROUND: The neural principles underlying reaching and grasping movements have been studied extensively in primates for decades. However, few experimental apparatuses have been developed to enable a flexible combination of reaching and grasping in one task in three-dimensional (3D) space. NEW METHOD: By combining a custom turning table with a 3D translational device, we have developed a highly flexible apparatus that enables the subject to reach multiple positions in 3D space, and grasp differently shaped objects with multiple grip types in each position. Meanwhile, hand trajectory and grip types can be recorded via optical motion tracking cameras and touch sensors, respectively. RESULTS: We have used the apparatus to successfully train a macaque monkey to accomplish a visually-guided reach-to-grasp task, in which, six objects, fixed on the turning table, were grasped appropriately when they were transported to multiple positions in 3D space. A preliminary analysis of neural signals recorded in primary motor cortex, shows that plenty of neurons exhibit significant tuning to both target position and grip type. COMPARISON WITH EXISTING METHOD(S): Our apparatus realizes an arbitrary combination of parameterized reaching and grasping movements in a single task, which were usually separated or fixed in other systems. Meanwhile, the apparatus has high expansibility in terms of dynamic range, object shapes and applicable subjects. CONCLUSIONS: The apparatus provides a valuable platform to study upper limb functions in behavioral and neurophysiological studies, and may facilitate simultaneous reconstruction of reaching and grasping movements in brain-machine interfaces (BMIs).",
+  "authors": [
+    "Chen Junjun",
+    "Hao Yaoyao",
+    "Zhang Shaomin",
+    "Sun Guanghao",
+    "Xu Kedi",
+    "Chen Weidong",
+    "Zheng Xiaoxiang"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2019",
+  "doi": "10.1016/j.jneumeth.2018.11.022",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Behavioral Research",
+    "Biomechanical Phenomena",
+    "Equipment Design",
+    "Hand Strength",
+    "Macaca",
+    "Male",
+    "Motor Activity",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Psychomotor Performance",
+    "Upper Extremity",
+    "Video Recording"
+  ]
+}

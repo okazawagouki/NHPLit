@@ -1,0 +1,35 @@
+{
+  "pmid": "15188861",
+  "title": "Modeling and decoding motor cortical activity using a switching Kalman filter.",
+  "abstract": "We present a switching Kalman filter model for the real-time inference of hand kinematics from a population of motor cortical neurons. Firing rates are modeled as a Gaussian mixture where the mean of each Gaussian component is a linear function of hand kinematics. A \"hidden state\" models the probability of each mixture component and evolves over time in a Markov chain. The model generalizes previous encoding and decoding methods, addresses the non-Gaussian nature of firing rates, and can cope with crudely sorted neural data common in on-line prosthetic applications.",
+  "authors": [
+    "Wu Wei",
+    "Black Michael J",
+    "Mumford David",
+    "Gao Yun",
+    "Bienenstock Elie",
+    "Donoghue John P"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Electroencephalography",
+    "Hand",
+    "Likelihood Functions",
+    "Macaca",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Motor Neurons",
+    "Movement",
+    "Nerve Net",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Signal Processing, Computer-Assisted",
+    "Stochastic Processes"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "12750895",
+  "title": "Elimination of response latency variability in neuronal spike trains.",
+  "abstract": "Neuronal activity in the mammalian cortex exhibits a considerable amount of trial-by-trial variability. This may be reflected by the magnitude of the activity as well as by the response latency with respect to an external event, such as the onset of a sensory stimulus, or a behavioral event. Here we present a novel nonparametric method for estimating trial-by-trial differences in response latency from neuronal spike trains. The method makes use of the dynamic rate profile for each single trial and maximizes their total pairwise correlation by appropriately shifting all trials in time. The result is a new alignment of trials that largely eliminates the variability in response latency and provides a new internal trigger that is independent of experiment time. To calibrate the method, we simulated spike trains based on stochastic point processes using a parametric model for phasic response profiles. We illustrate the method by an application to simultaneous recordings from a pair of neurons in the motor cortex of a behaving monkey. It is demonstrated how the method can be used to study the temporal relation of the neuronal response to the experiment, to investigate whether neurons share the same dynamics, and to improve spike correlation analysis. Differences between this and other previously published methods are discussed.",
+  "authors": [
+    "Nawrot Martin P",
+    "Aertsen Ad",
+    "Rotter Stefan"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cerebral Cortex",
+    "Humans",
+    "Models, Neurological",
+    "Neurons",
+    "Reaction Time",
+    "Reproducibility of Results"
+  ]
+}

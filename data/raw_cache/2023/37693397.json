@@ -1,0 +1,13 @@
+{
+  "pmid": "37693397",
+  "title": "Convolutional neural network models of neuronal responses in macaque V1 reveal limited non-linear processing.",
+  "abstract": "Computational models of the primary visual cortex (V1) have suggested that V1 neurons behave like Gabor filters followed by simple non-linearities. However, recent work employing convolutional neural network (CNN) models has suggested that V1 relies on far more non-linear computations than previously thought. Specifically, unit responses in an intermediate layer of VGG-19 were found to best predict macaque V1 responses to thousands of natural and synthetic images. Here, we evaluated the hypothesis that the poor performance of lower-layer units in VGG-19 might be attributable to their small receptive field size rather than to their lack of complexity <i>per se</i>. We compared VGG-19 with AlexNet, which has much larger receptive fields in its lower layers. Whereas the best-performing layer of VGG-19 occurred after seven non-linear steps, the first convolutional layer of AlexNet best predicted V1 responses. Although VGG-19's predictive accuracy was somewhat better than standard AlexNet, we found that a modified version of AlexNet could match VGG-19's performance after only a few non-linear computations. Control analyses revealed that decreasing the size of the input images caused the best-performing layer of VGG-19 to shift to a lower layer, consistent with the hypothesis that the relationship between image size and receptive field size can strongly affect model performance. We conducted additional analyses using a Gabor pyramid model to test for non-linear contributions of normalization and contrast saturation. Overall, our findings suggest that the feedforward responses of V1 neurons can be well explained by assuming only a few non-linear processing stages.",
+  "authors": [
+    "Miao Hui-Yuan",
+    "Tong Frank"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2023",
+  "doi": "10.1101/2023.08.26.554952",
+  "mesh": []
+}

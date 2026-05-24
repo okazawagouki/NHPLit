@@ -1,0 +1,32 @@
+{
+  "pmid": "31636197",
+  "title": "Arm movements induced by noninvasive optogenetic stimulation of the motor cortex in the common marmoset.",
+  "abstract": "Optogenetics is now a fundamental tool for investigating the relationship between neuronal activity and behavior. However, its application to the investigation of motor control systems in nonhuman primates is rather limited, because optogenetic stimulation of cortical neurons in nonhuman primates has failed to induce or modulate any hand/arm movements. Here, we used a tetracycline-inducible gene expression system carrying CaMKII promoter and the gene encoding a Channelrhodopsin-2 variant with fast kinetics in the common marmoset, a small New World monkey. In an awake state, forelimb movements could be induced when Channelrhodopsin-2-expressing neurons in the motor cortex were illuminated by blue laser light with a spot diameter of 1 mm or 2 mm through a cranial window without cortical invasion. Forelimb muscles responded 10 ms to 50 ms after photostimulation onset. Long-duration (500 ms) photostimulation induced discrete forelimb movements that could be markerlessly tracked with charge-coupled device cameras and a deep learning algorithm. Long-duration photostimulation mapping revealed that the primary motor cortex is divided into multiple domains that can induce hand and elbow movements in different directions. During performance of a forelimb movement task, movement trajectories were modulated by weak photostimulation, which did not induce visible forelimb movements at rest, around the onset of task-relevant movement. The modulation was biased toward the movement direction induced by the strong photostimulation. Combined with calcium imaging, all-optical interrogation of motor circuits should be possible in behaving marmosets.",
+  "authors": [
+    "Ebina Teppei",
+    "Obara Keitaro",
+    "Watakabe Akiya",
+    "Masamizu Yoshito",
+    "Terada Shin-Ichiro",
+    "Matoba Ryota",
+    "Takaji Masafumi",
+    "Hatanaka Nobuhiko",
+    "Nambu Atsushi",
+    "Mizukami Hiroaki",
+    "Yamamori Tetsuo",
+    "Matsuzaki Masanori"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2019",
+  "doi": "10.1073/pnas.1903445116",
+  "mesh": [
+    "Animals",
+    "Callithrix",
+    "Electromyography",
+    "Forelimb",
+    "Light",
+    "Motor Cortex",
+    "Movement",
+    "Optogenetics"
+  ]
+}

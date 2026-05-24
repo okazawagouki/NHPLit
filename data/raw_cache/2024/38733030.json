@@ -1,0 +1,25 @@
+{
+  "pmid": "38733030",
+  "title": "Anthropomorphic Tendon-Based Hands Controlled by Agonist-Antagonist Corticospinal Neural Network.",
+  "abstract": "This article presents a study on the neurobiological control of voluntary movements for anthropomorphic robotic systems. A corticospinal neural network model has been developed to control joint trajectories in multi-fingered robotic hands. The proposed neural network simulates cortical and spinal areas, as well as the connectivity between them, during the execution of voluntary movements similar to those performed by humans or monkeys. Furthermore, this neural connection allows for the interpretation of functional roles in the motor areas of the brain. The proposed neural control system is tested on the fingers of a robotic hand, which is driven by agonist-antagonist tendons and actuators designed to accurately emulate complex muscular functionality. The experimental results show that the corticospinal controller produces key properties of biological movement control, such as bell-shaped asymmetric velocity profiles and the ability to compensate for disturbances. Movements are dynamically compensated for through sensory feedback. Based on the experimental results, it is concluded that the proposed biologically inspired adaptive neural control system is robust, reliable, and adaptable to robotic platforms with diverse biomechanics and degrees of freedom. The corticospinal network successfully integrates biological concepts with engineering control theory for the generation of functional movement. This research significantly contributes to improving our understanding of neuromotor control in both animals and humans, thus paving the way towards a new frontier in the field of neurobiological control of anthropomorphic robotic systems.",
+  "authors": [
+    "García-Córdova Francisco",
+    "Guerrero-González Antonio",
+    "Hidalgo-Castelo Fernando"
+  ],
+  "journal": "Sensors (Basel, Switzerland)",
+  "year": "2024",
+  "doi": "10.3390/s24092924",
+  "mesh": [
+    "Humans",
+    "Robotics",
+    "Hand",
+    "Neural Networks, Computer",
+    "Tendons",
+    "Movement",
+    "Nerve Net",
+    "Biomechanical Phenomena",
+    "Pyramidal Tracts",
+    "Animals"
+  ]
+}

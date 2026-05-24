@@ -1,0 +1,28 @@
+{
+  "pmid": "34135005",
+  "title": "Neural Dynamics in Primate Cortex during Exposure to Subanesthetic Concentrations of Nitrous Oxide.",
+  "abstract": "Nitrous oxide (N<sub>2</sub>O) is a hypnotic gas with antidepressant and psychedelic properties at subanesthetic concentrations. Despite long-standing clinical use, there is insufficient understanding of its effect on neural dynamics and cortical processing, which is important for mechanistic understanding of its therapeutic effects. We administered subanesthetic (70%), inhaled N<sub>2</sub>O and studied the dynamic changes of spiking rate, spectral content, and somatosensory information representation in primary motor cortex (M1) in two male rhesus macaques implanted with Utah microelectrode arrays in the hand area of M1. The average sorted multiunit spiking rate in M1 increased from 8.1 ± 0.99 to 10.6 ± 1.3 Hz in Monkey W (<i>p </i><<i> </i>0.001) and from 5.6 ± 0.87 to 7.0 ± 1.1 Hz in Monkey N (<i>p </i>=<i> </i>0.003). Power spectral densities increased in beta- and gamma-band power. To evaluate somatosensory content in M1 as a surrogate of information transfer, fingers were lightly brushed and classified using a naive Bayes classifier. In both monkeys, the proportion of correctly classified fingers dropped from 0.50 ± 0.06 before N<sub>2</sub>O inhalation to 0.34 ± 0.03 during N<sub>2</sub>O inhalation (<i>p </i>=<i> </i>0.018), although some fingers continued to be correctly classified (<i>p </i>=<i> </i>0.005). The decrease in correct classifications corresponded to decreased modulation depth for the population (<i>p </i>=<i> </i>0.005) and fewer modulated units (<i>p </i>=<i> </i>0.046). However, the increased single-unit firing rate was not correlated with its modulation depth (<i>R</i><sup>2</sup> < 0.001, <i>p </i>=<i> </i>0.93). These data suggest that N<sub>2</sub>O degrades information transfer, although no clear relationship was found between neuronal tuning and N<sub>2</sub>O-induced changes in firing rate.",
+  "authors": [
+    "Willsey Matthew S",
+    "Nu Chrono S",
+    "Nason Samuel R",
+    "Schroeder Karen E",
+    "Hutchison Brianna C",
+    "Welle Elissa J",
+    "Patil Parag G",
+    "Mashour George A",
+    "Chestek Cynthia A"
+  ],
+  "journal": "eNeuro",
+  "year": "2021",
+  "doi": "10.1523/ENEURO.0479-20.2021",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Neurons",
+    "Nitrous Oxide"
+  ]
+}

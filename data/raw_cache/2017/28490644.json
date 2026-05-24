@@ -1,0 +1,26 @@
+{
+  "pmid": "28490644",
+  "title": "Background noise exerts diverse effects on the cortical encoding of foreground sounds.",
+  "abstract": "In natural listening conditions, many sounds must be detected and identified in the context of competing sound sources, which function as background noise. Traditionally, noise is thought to degrade the cortical representation of sounds by suppressing responses and increasing response variability. However, recent studies of neural network models and brain slices have shown that background synaptic noise can improve the detection of signals. Because acoustic noise affects the synaptic background activity of cortical networks, it may improve the cortical responses to signals. We used spike train decoding techniques to determine the functional effects of a continuous white noise background on the responses of clusters of neurons in auditory cortex to foreground signals, specifically frequency-modulated sweeps (FMs) of different velocities, directions, and amplitudes. Whereas the addition of noise progressively suppressed the FM responses of some cortical sites in the core fields with decreasing signal-to-noise ratios (SNRs), the stimulus representation remained robust or was even significantly enhanced at specific SNRs in many others. Even though the background noise level was typically not explicitly encoded in cortical responses, significant information about noise context could be decoded from cortical responses on the basis of how the neural representation of the foreground sweeps was affected. These findings demonstrate significant diversity in signal in noise processing even within the core auditory fields that could support noise-robust hearing across a wide range of listening conditions.<b>NEW & NOTEWORTHY</b> The ability to detect and discriminate sounds in background noise is critical for our ability to communicate. The neural basis of robust perceptual performance in noise is not well understood. We identified neuronal populations in core auditory cortex of squirrel monkeys that differ in how they process foreground signals in background noise and that may contribute to robust signal representation and discrimination in acoustic environments with prominent background noise.",
+  "authors": [
+    "Malone B J",
+    "Heiser Marc A",
+    "Beitel Ralph E",
+    "Schreiner Christoph E"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2017",
+  "doi": "10.1152/jn.00152.2017",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Auditory Cortex",
+    "Auditory Perception",
+    "Female",
+    "Neurons",
+    "Noise",
+    "Saimiri",
+    "Signal-To-Noise Ratio"
+  ]
+}

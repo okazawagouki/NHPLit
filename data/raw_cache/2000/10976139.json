@@ -1,0 +1,25 @@
+{
+  "pmid": "10976139",
+  "title": "Rate limitations of unitary event analysis.",
+  "abstract": "Unitary event analysis is a new method for detecting episodes of synchronized neural activity (Riehle, Grün, Diesmann, & Aertsen, 1997). It detects time intervals that contain coincident firing at higher rates than would be expected if the neurons fired as independent inhomogeneous Poisson processes; all coincidences in such intervals are called unitary events (UEs). Changes in the frequency of UEs that are correlated with behavioral states may indicate synchronization of neural firing that mediates or represents the behavioral state. We show that UE analysis is subject to severe limitations due to the underlying discrete statistics of the number of coincident events. These limitations are particularly stringent for low (0-10 spikes/s) firing rates. Under these conditions, the frequency of UEs is a random variable with a large variation relative to its mean. The relative variation decreases with increasing firing rate, and we compute the lowest firing rate, at which the 95% confidence interval around the mean frequency of UEs excludes zero. This random variation in UE frequency makes interpretation of changes in UEs problematic for neurons with low firing rates. As a typical example, when analyzing 150 trials of an experiment using an averaging window 100 ms wide and a 5 ms coincidence window, firing rates should be greater than 7 spikes per second.",
+  "authors": [
+    "Roy A",
+    "Steinmetz P N",
+    "Niebur E"
+  ],
+  "journal": "Neural computation",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons",
+    "Poisson Distribution",
+    "Psychomotor Performance",
+    "Somatosensory Cortex"
+  ]
+}

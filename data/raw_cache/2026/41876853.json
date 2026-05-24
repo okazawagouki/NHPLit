@@ -1,0 +1,38 @@
+{
+  "pmid": "41876853",
+  "title": "Adversarial AI reveals mechanisms and treatments for disorders of consciousness.",
+  "abstract": "Understanding disorders of consciousness (DOC) remains one of the most challenging problems in neuroscience, hindered by the lack of experimental models for probing mechanisms or testing interventions. Here, to address this, we introduce a generative adversarial artificial intelligence (AI) framework that pits deep neural networks-trained to detect consciousness across more than 680,000 ten-second neuroelectrophysiology samples and validated on 565 patients, healthy volunteers and animals-against interpretable, machine learning-driven neural field models. This adversarial architecture produces biologically realistic simulations of both conscious and comatose brains that recapitulate empirical neurophysiological features across humans, monkeys, rats and bats. Without explicit programming, the AI model retrodicts known DOC responses to brain stimulation and generates testable predictions about the mechanisms of unconsciousness. Two such predictions are validated here: selective disruption of the basal ganglia indirect pathway, supported by diffusion magnetic resonance imaging in 51 patients with DOC, and increased cortical inhibitory-to-inhibitory synaptic coupling, supported by RNA sequencing of resected brain tissue from 6 human patients with coma and a rat stroke model. The model also identifies high-frequency stimulation of the subthalamic nucleus as a promising intervention for DOC, supported by electrophysiological data from human patients. This work introduces an AI framework for causal inference and therapeutic discovery in consciousness research, as well as in complex systems more broadly.",
+  "authors": [
+    "Toker Daniel",
+    "Zheng Zhong Sheng",
+    "Thum Jasmine A",
+    "Guang Jing",
+    "Annen Jitka",
+    "Miyamoto Hiroyuki",
+    "Yamakawa Kazuhiro",
+    "Vespa Paul M",
+    "Laureys Steven",
+    "Schnakers Caroline",
+    "Bari Ausaf A",
+    "Hudson Andrew",
+    "Pouratian Nader",
+    "Monti Martin M"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2026",
+  "doi": "10.1038/s41593-026-02220-4",
+  "mesh": [
+    "Humans",
+    "Consciousness Disorders",
+    "Animals",
+    "Rats",
+    "Artificial Intelligence",
+    "Brain",
+    "Male",
+    "Consciousness",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Female",
+    "Adult"
+  ]
+}

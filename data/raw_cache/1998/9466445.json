@@ -1,0 +1,26 @@
+{
+  "pmid": "9466445",
+  "title": "The significance of precisely replicating patterns in mammalian CNS spike trains.",
+  "abstract": "Neuronal spike trains from both single and multi-unit recordings often contain patterns such as doublets and triplets of spikes that precisely replicate themselves at a later time. The presence of such precisely replicating patterns can still be detected when the tolerance on interval replication is shortened to a fraction of a millisecond. In this context we examine here data taken from various parts of the central nervous systems of anesthetized rats, cats and monkeys. The relative abundance of replicating triplets varies from centre to centre, and is nearly always significantly greater than obtained in Monte-Carlo simulations of either a Poisson-like process or a renewal process having the same interspike interval distribution as the neuronal data. However, a remarkable exception is found in the activity of retinal ganglion cells. Significant deviations were found in the primary visual cortex and, even more so, in the lateral geniculate body and the mitral cells of the olfactory bulb. Using a fixed tolerance for the replication of intervals (0.5 ms) it is usually observed that replicating patterns are produced in excess (with respect to renewal process models) mostly in low firing rate episodes (< or = 100 Hz). However, using a tolerance that varies in direct proportion to the mean interval (i.e. as the reciprocal of the firing rate), one generally observes that replicating triplets occur with higher than expected frequency in comparable proportions at all firing rates. This observation suggests the existence of a scale invariance principle in these phenomena with respect to certain neuronal codes. In order to decrease the influence of the estimated neuronal firing rate on the results of the comparisons, we computed also the ratio NT2/ND3, of the number of replicating triplets to the number of doublets replicating three times [Lestienne R. (1994) Proc. Soc. Neurosci. 20, 22; Lestienne R. (1996) Biol. Cybern. 74, 55-61], using both a fixed or a variable tolerance. In spike trains obeying a Poisson process, NT2/ND3 ratios should be nearly independent of the frequency, especially when using a variable tolerance. These studies supported previous results: significant deviations from the models are found in all the spike trains examined, except in the case of retinal ganglion cells, and the most significant deviations are found in recordings from the lateral geniculate nucleus and the mitral cells of the olfactory bulb. Removing spikes that belong to bursts having large \"Poisson surprise\" values [Legéndy C. R. and Salcman M. (1985) J. Neurophysiol. 53, 926-939] (except the very first spike of the burst) significantly decreases NT2/ND3 ratios in the record from the lateral geniculate nucleus, suggesting that in this case bursty episodes greatly contribute to the production of replicating patterns, but such a removal does not affect results from the piriform record. Finally, in both the lateral geniculate nucleus and in the mitral cells of the olfactory bulb records, perturbing the timing of spikes by applying to interspike intervals small jitters of uniform probability density with amplitude up to 3 ms, very significantly decrease NT2/ND3 ratios in these centres, but does not change much the NT2/ND3 ratios in other neuronal recordings. Implications of these findings for a possible role of precisely replicating patterns in temporal coding of neuronal information is discussed, as well as possible mechanisms for their production.",
+  "authors": [
+    "Lestienne R",
+    "Tuckwell H C"
+  ],
+  "journal": "Neuroscience",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cats",
+    "Central Nervous System",
+    "Electrophysiology",
+    "Haplorhini",
+    "Models, Biological",
+    "Neurons",
+    "Poisson Distribution",
+    "Prefrontal Cortex",
+    "Rats",
+    "Retinal Ganglion Cells",
+    "Visual Cortex"
+  ]
+}

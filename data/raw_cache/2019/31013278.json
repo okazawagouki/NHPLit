@@ -1,0 +1,29 @@
+{
+  "pmid": "31013278",
+  "title": "Deep convolutional models improve predictions of macaque V1 responses to natural images.",
+  "abstract": "Despite great efforts over several decades, our best models of primary visual cortex (V1) still predict spiking activity quite poorly when probed with natural stimuli, highlighting our limited understanding of the nonlinear computations in V1. Recently, two approaches based on deep learning have emerged for modeling these nonlinear computations: transfer learning from artificial neural networks trained on object recognition and data-driven convolutional neural network models trained end-to-end on large populations of neurons. Here, we test the ability of both approaches to predict spiking activity in response to natural images in V1 of awake monkeys. We found that the transfer learning approach performed similarly well to the data-driven approach and both outperformed classical linear-nonlinear and wavelet-based feature representations that build on existing theories of V1. Notably, transfer learning using a pre-trained feature space required substantially less experimental time to achieve the same performance. In conclusion, multi-layer convolutional neural networks (CNNs) set the new state of the art for predicting neural responses to natural images in primate V1 and deep features learned for object recognition are better explanations for V1 computation than all previous filter bank theories. This finding strengthens the necessity of V1 models that are multiple nonlinearities away from the image domain and it supports the idea of explaining early visual cortex based on high-level functional goals.",
+  "authors": [
+    "Cadena Santiago A",
+    "Denfield George H",
+    "Walker Edgar Y",
+    "Gatys Leon A",
+    "Tolias Andreas S",
+    "Bethge Matthias",
+    "Ecker Alexander S"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2019",
+  "doi": "10.1371/journal.pcbi.1006897",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computational Biology",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "pmid": "38617349",
+  "title": "Orbitofrontal high-gamma reflects spike-dissociable value and decision mechanisms.",
+  "abstract": "The orbitofrontal cortex (OFC) plays a crucial role in value-based decision-making. While previous research has focused on spiking activity in OFC neurons, the role of OFC local field potentials (LFPs) in decision-making remains unclear. LFPs are important because they can reflect synaptic and subthreshold activity not directly coupled to spiking, and because they are potential targets for less invasive forms of brain-machine interface (BMI). We recorded LFPs and spiking activity using multi-channel vertical probes while monkeys performed a two-option value-based decision-making task. We compared the value- and decision-coding properties of high-gamma range LFPs (HG, 50-150 Hz) to the coding properties of spiking multi-unit activity (MUA) recorded concurrently on the same electrodes. Results show that HG and MUA both represent the values of decision targets, and that their representations have similar temporal profiles in a trial. However, we also identified value-coding properties of HG that were dissociable from the concurrently-measured MUA. On average across channels, HG amplitude increased monotonically with value, whereas the average value encoding in MUA was net neutral. HG also encoded a signal consistent with a comparison between the values of the two targets, a signal which was much weaker in MUA. In individual channels, HG was better able to predict choice outcomes than MUA; however, when simultaneously recorded channels were combined in population-based decoder, MUA provided more accurate predictions than HG. Interestingly, HG value representations were accentuated in channels in or near shallow cortical layers, suggesting a dissociation between neuronal sources of HG and MUA. In summary, we find that HG signals are dissociable from MUA with respect to cognitive variables encoded in prefrontal cortex, evident in the monotonic encoding of value, stronger encoding of value comparisons, and more accurate predictions about behavior. High-frequency LFPs may therefore be a viable - or even preferable - target for BMIs to assist cognitive function, opening the possibility for less invasive access to mental contents that would otherwise be observable only with spike-based measures.",
+  "authors": [
+    "Sharma Dixit",
+    "Lupkin Shira M",
+    "McGinty Vincent B"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.04.02.587758",
+  "mesh": []
+}

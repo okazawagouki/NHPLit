@@ -1,0 +1,14 @@
+{
+  "pmid": "32655388",
+  "title": "Object Recognition at Higher Regions of the Ventral Visual Stream via Dynamic Inference.",
+  "abstract": "The ventral visual stream (VVS) is a fundamental pathway involved in visual object identification and recognition. In this work, we present a hypothesis of a sequence of computations performed by the VVS during object recognition. The operations performed by the inferior temporal (IT) cortex are represented as not being akin to a neural-network, but rather in-line with a dynamic inference instantiation of the untangling notion. The presentation draws upon a technique for dynamic maximum a posteriori probability (MAP) sequence estimation based on the Viterbi algorithm. Simulation results are presented to show that the decoding portion of the architecture that is associated with the IT can effectively untangle object identity when presented with synthetic data. More importantly, we take a step forward in visual neuroscience by presenting a framework for an inference-based approach that is biologically inspired via attributes implicated in primate object recognition. The analysis will provide insight in explaining the exceptional proficiency of the VVS.",
+  "authors": [
+    "Sorooshyari Siamak K",
+    "Sheng Huanjie",
+    "Poor H Vincent"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2020",
+  "doi": "10.3389/fncom.2020.00046",
+  "mesh": []
+}

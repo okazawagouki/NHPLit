@@ -1,0 +1,22 @@
+{
+  "pmid": "25057148",
+  "title": "Spectral receptive fields do not explain tuning for boundary curvature in V4.",
+  "abstract": "The midlevel visual cortical area V4 in the primate is thought to be critical for the neural representation of visual shape. Several studies agree that V4 neurons respond to contour features, e.g., convexities and concavities along a shape boundary, that are more complex than the oriented segments encoded by neurons in the primary visual cortex. Here we compare two distinct approaches to modeling V4 shape selectivity: one based on a spectral receptive field (SRF) map in the orientation and spatial frequency domain and the other based on a map in an object-centered angular position and contour curvature space. We test the ability of these two characterizations to account for the responses of V4 neurons to a set of parametrically designed two-dimensional shapes recorded previously in the awake macaque. We report two lines of evidence suggesting that the SRF model does not capture the contour sensitivity of V4 neurons. First, the SRF model discards spatial phase information, which is inconsistent with the neuronal data. Second, the amount of variance explained by the SRF model was significantly less than that explained by the contour curvature model. Notably, cells best fit by the curvature model were poorly fit by the SRF model, the latter being appropriate for a subset of V4 neurons that appear to be orientation tuned. These limitations of the SRF model suggest that a full understanding of midlevel shape representation requires more complicated models that preserve phase information and perhaps deal with object segmentation.",
+  "authors": [
+    "Oleskiw Timothy D",
+    "Pasupathy Anitha",
+    "Bair Wyeth"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2014",
+  "doi": "10.1152/jn.00250.2014",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Perception"
+  ]
+}

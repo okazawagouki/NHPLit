@@ -1,0 +1,21 @@
+{
+  "pmid": "31765302",
+  "title": "Deep Learning Neural Encoders for Motor Cortex.",
+  "abstract": "Intracortical brain-machine interfaces (BMIs) transform neural activity into control signals to drive a prosthesis or communication device, such as a robotic arm or computer cursor. To be clinically viable, BMI decoders must achieve high accuracy and robustness. Optimizing these decoders is expensive, traditionally requiring animal or human experiments spanning months to years. This is because BMIs are closed-loop systems, where the user updates his or her motor commands in response to an imperfectly decoded output. Decoder optimization using previously collected \"offline\" data will therefore not capture this closed-loop response. An alternative approach to significantly accelerate decoder optimization is to use a closed-loop experimental simulator. A key component of this simulator is the neural encoder, which synthetically generates neural population activity from kinematics. Prior neural encoders do not model important features of neural population activity. To overcome these limitations, we use deep learning neural encoders. We find these models significantly outperform prior neural encoders in reproducing peri-stimulus time histograms (PSTHs) and neural population dynamics. We also find that deep learning neural encoders better match neural decoding results in offline data and closed-loop experimental data. We anticipate these deep-learning neural encoders will substantially improve simulators for BMIs, enabling faster evaluation, optimization, and characterization of BMI decoder algorithms.",
+  "authors": [
+    "Liang Ken-Fu",
+    "Kao Jonathan C"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2020",
+  "doi": "10.1109/TBME.2019.2955722",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Deep Learning",
+    "Humans",
+    "Macaca mulatta",
+    "Motor Cortex"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "pmid": "36451696",
+  "title": "Moving beyond generalization to accurate interpretation of flexible models.",
+  "abstract": "Machine learning optimizes flexible models to predict data. In scientific applications, there is a rising interest in interpreting these flexible models to derive hypotheses from data. However, it is unknown whether good data prediction guarantees accurate interpretation of flexible models. Here we test this connection using a flexible, yet intrinsically interpretable framework for modelling neural dynamics. We find that many models discovered during optimization predict data equally well, yet they fail to match the correct hypothesis. We develop an alternative approach that identifies models with correct interpretation by comparing model features across data samples to separate true features from noise. We illustrate our findings using recordings of spiking activity from the visual cortex of behaving monkeys. Our results reveal that good predictions cannot substitute for accurate interpretation of flexible models and offer a principled approach to identify models with correct interpretation.",
+  "authors": [
+    "Genkin Mikhail",
+    "Engel Tatiana A"
+  ],
+  "journal": "Nature machine intelligence",
+  "year": "2020",
+  "doi": "10.1038/s42256-020-00242-6",
+  "mesh": []
+}

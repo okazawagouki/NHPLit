@@ -1,0 +1,20 @@
+{
+  "pmid": "33284772",
+  "title": "Lightweight Salient Object Detection via Hierarchical Visual Perception Learning.",
+  "abstract": "Recently, salient object detection (SOD) has witnessed vast progress with the rapid development of convolutional neural networks (CNNs). However, the improvement of SOD accuracy comes with the increase in network depth and width, resulting in large network size and heavy computational overhead. This prevents state-of-the-art SOD methods from being deployed into practical platforms, especially mobile devices. To promote the deployment of real-world SOD applications, we aim at developing a lightweight SOD model in this article. Our observation comes from that the primate visual system processes visual signals hierarchically with different receptive fields and eccentricities in different visual cortex areas. Inspired by this, we propose a hierarchical visual perception (HVP) module to imitate the primate visual cortex for hierarchical perception learning. With the HVP module incorporated, we design a lightweight SOD network, namely, HVPNet. Extensive experiments on popular benchmarks demonstrate that HVPNet achieves highly competitive accuracy compared with state-of-the-art SOD methods while running at 4.3 frames/s CPU speed and 333.2 frames/s GPU speed with only 1.23M parameters.",
+  "authors": [
+    "Liu Yun",
+    "Gu Yu-Chao",
+    "Zhang Xin-Yu",
+    "Wang Weiwei",
+    "Cheng Ming-Ming"
+  ],
+  "journal": "IEEE transactions on cybernetics",
+  "year": "2021",
+  "doi": "10.1109/TCYB.2020.3035613",
+  "mesh": [
+    "Deep Learning",
+    "Neural Networks, Computer",
+    "Visual Perception"
+  ]
+}

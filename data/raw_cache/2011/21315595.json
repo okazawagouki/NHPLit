@@ -1,0 +1,23 @@
+{
+  "pmid": "21315595",
+  "title": "A sparse object coding scheme in area V4.",
+  "abstract": "Sparse coding has long been recognized as a primary goal of image transformation in the visual system. Sparse coding in early visual cortex is achieved by abstracting local oriented spatial frequencies and by excitatory/inhibitory surround modulation. Object responses are thought to be sparse at subsequent processing stages, but neural mechanisms for higher-level sparsification are not known. Here, convergent results from macaque area V4 neural recording and simulated V4 populations trained on natural object contours suggest that sparse coding is achieved in midlevel visual cortex by emphasizing representation of acute convex and concave curvature. We studied 165 V4 neurons with a random, adaptive stimulus strategy to minimize bias and explore an unlimited range of contour shapes. V4 responses were strongly weighted toward contours containing acute convex or concave curvature. In contrast, the tuning distribution in nonsparse simulated V4 populations was strongly weighted toward low curvature. But as sparseness constraints increased, the simulated tuning distribution shifted progressively toward more acute convex and concave curvature, matching the neural recording results. These findings indicate a sparse object coding scheme in midlevel visual cortex based on uncommon but diagnostic regions of acute contour curvature.",
+  "authors": [
+    "Carlson Eric T",
+    "Rasquinha Russell J",
+    "Zhang Kechen",
+    "Connor Charles E"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2011",
+  "doi": "10.1016/j.cub.2011.01.013",
+  "mesh": [
+    "Animals",
+    "Form Perception",
+    "Macaca mulatta",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "32745096",
+  "title": "Task-evoked activity quenches neural correlations and variability across cortical areas.",
+  "abstract": "Many large-scale functional connectivity studies have emphasized the importance of communication through increased inter-region correlations during task states. In contrast, local circuit studies have demonstrated that task states primarily reduce correlations among pairs of neurons, likely enhancing their information coding by suppressing shared spontaneous activity. Here we sought to adjudicate between these conflicting perspectives, assessing whether co-active brain regions during task states tend to increase or decrease their correlations. We found that variability and correlations primarily decrease across a variety of cortical regions in two highly distinct data sets: non-human primate spiking data and human functional magnetic resonance imaging data. Moreover, this observed variability and correlation reduction was accompanied by an overall increase in dimensionality (reflecting less information redundancy) during task states, suggesting that decreased correlations increased information coding capacity. We further found in both spiking and neural mass computational models that task-evoked activity increased the stability around a stable attractor, globally quenching neural variability and correlations. Together, our results provide an integrative mechanistic account that encompasses measures of large-scale neural activity, variability, and correlations during resting and task states.",
+  "authors": [
+    "Ito Takuya",
+    "Brincat Scott L",
+    "Siegel Markus",
+    "Mill Ravi D",
+    "He Biyu J",
+    "Miller Earl K",
+    "Rotstein Horacio G",
+    "Cole Michael W"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2020",
+  "doi": "10.1371/journal.pcbi.1007983",
+  "mesh": [
+    "Action Potentials",
+    "Adult",
+    "Animals",
+    "Brain",
+    "Female",
+    "Humans",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Nerve Net",
+    "Neurons",
+    "Task Performance and Analysis",
+    "Young Adult"
+  ]
+}

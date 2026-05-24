@@ -1,0 +1,15 @@
+{
+  "pmid": "40909568",
+  "title": "Neuronal Decoding of Decisions in Multidimensional Feature Space Using a Gated Recurrent Variational Autoencoder.",
+  "abstract": "Recent advances in neuroscience enable recording neuronal signals across hundreds of channels while subjects perform complex tasks involving multiple stimulus dimensions. In this study, we developed a novel encode-decode-classify framework employing a gated recurrent variational autoencoder (VAE) to decode decision-making processes from over 300 simultaneously recorded neuronal channels in the prefrontal cortex and basal ganglia of monkeys performing a multidimensional feature-learning task. Using hierarchical stratified sampling and balanced accuracy, we trained and evaluated the model's ability to predict behavioral choices based on neuronal population dynamics. The results revealed distinct neural coding roles, with anterior cingulate cortex (ACC) channels encoding decision variables collectively and prefrontal cortex (PFC) channels contributing individually to decoding accuracy. This approach demonstrated decoding accuracy for decisions in multi-dimensional feature space that is comparable to single-label decoding accuracy for lower dimensional problems, highlighting the potential of machine learning frameworks to capture complex spatiotemporal neuronal interactions involved in multidimensional cognitive behaviors. The code has been released in https://github.com/cgerrity/Neural-Data-Reading.",
+  "authors": [
+    "Gerrity Charles Grimes",
+    "Treuting Robert Louis",
+    "Peters Richard Alan",
+    "Womelsdorf Thilo"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.08.20.671126",
+  "mesh": []
+}

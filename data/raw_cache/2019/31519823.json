@@ -1,0 +1,25 @@
+{
+  "pmid": "31519823",
+  "title": "A Target-Detecting Visual Neuron in the Dragonfly Locks on to Selectively Attended Targets.",
+  "abstract": "The visual world projects a complex and rapidly changing image onto the retina of many animal species. This presents computational challenges for those animals reliant on visual processing to provide an accurate representation of the world. One such challenge is parsing a visual scene for the most salient targets, such as the selection of prey amid a swarm. The ability to selectively prioritize processing of some stimuli over others is known as 'selective attention'. We recently identified a dragonfly visual neuron called 'Centrifugal Small Target Motion Detector 1' (CSTMD1) that exhibits selective attention when presented with multiple, equally salient targets. Here we conducted <i>in vivo</i>, electrophysiological recordings from CSTMD1 in wild-caught male dragonflies (<i>Hemicordulia tau</i>), while presenting visual stimuli on an LCD monitor. To identify the target selected in any given trial, we uniquely modulated the intensity of the moving targets (frequency tagging). We found that the frequency information of the selected target is preserved in the neuronal response, while the distracter is completely ignored. We also show that the competitive system that underlies selection in this neuron can be biased by the presentation of a preceding target on the same trajectory, even when it is of lower contrast than an abrupt, novel distracter. With this improved method for identifying and biasing target selection in CSTMD1, the dragonfly provides an ideal animal model system to probe the neuronal mechanisms underlying selective attention.<b>SIGNIFICANCE STATEMENT</b> We present the first application of frequency tagging to intracellular neuronal recordings, demonstrating that the frequency component of a stimulus is encoded in the spiking response of an <i>individual</i> neuron. Using this technique as an identifier, we demonstrate that CSTMD1 'locks on' to a selected target and encodes the absolute strength of this target, even in the presence of abruptly appearing, high-contrast distracters. The underlying mechanism also permits the selection mechanism to switch between targets mid-trial, even among equivalent targets. Together, these results demonstrate greater complexity in this selective attention system than would be expected in a winner-takes-all network. These results are in contrast to typical findings in the primate and avian brain, but display intriguing resemblance to observations in human psychophysics.",
+  "authors": [
+    "Lancer Benjamin H",
+    "Evans Bernard J E",
+    "Fabian Joseph M",
+    "O'Carroll David C",
+    "Wiederman Steven D"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2019",
+  "doi": "10.1523/JNEUROSCI.1431-19.2019",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Male",
+    "Neurons",
+    "Odonata",
+    "Photic Stimulation",
+    "Vision, Ocular",
+    "Visual Perception"
+  ]
+}

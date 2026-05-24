@@ -1,0 +1,24 @@
+{
+  "pmid": "34349023",
+  "title": "How multisensory neurons solve causal inference.",
+  "abstract": "Sitting in a static railway carriage can produce illusory self-motion if the train on an adjoining track moves off. While our visual system registers motion, vestibular signals indicate that we are stationary. The brain is faced with a difficult challenge: is there a single cause of sensations (I am moving) or two causes (I am static, another train is moving)? If a single cause, integrating signals produces a more precise estimate of self-motion, but if not, one cue should be ignored. In many cases, this process of causal inference works without error, but how does the brain achieve it? Electrophysiological recordings show that the macaque medial superior temporal area contains many neurons that encode combinations of vestibular and visual motion cues. Some respond best to vestibular and visual motion in the same direction (\"congruent\" neurons), while others prefer opposing directions (\"opposite\" neurons). Congruent neurons could underlie cue integration, but the function of opposite neurons remains a puzzle. Here, we seek to explain this computational arrangement by training a neural network model to solve causal inference for motion estimation. Like biological systems, the model develops congruent and opposite units and recapitulates known behavioral and neurophysiological observations. We show that all units (both congruent and opposite) contribute to motion estimation. Importantly, however, it is the balance between their activity that distinguishes whether visual and vestibular cues should be integrated or separated. This explains the computational purpose of puzzling neural representations and shows how a relatively simple feedforward network can solve causal inference.",
+  "authors": [
+    "Rideaux Reuben",
+    "Storrs Katherine R",
+    "Maiello Guido",
+    "Welchman Andrew E"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2021",
+  "doi": "10.1073/pnas.2106235118",
+  "mesh": [
+    "Animals",
+    "Cues",
+    "Macaca mulatta",
+    "Motion Perception",
+    "Neural Networks, Computer",
+    "Photic Stimulation",
+    "Sensory Receptor Cells",
+    "Temporal Lobe"
+  ]
+}

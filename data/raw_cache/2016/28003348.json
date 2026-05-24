@@ -1,0 +1,29 @@
+{
+  "pmid": "28003348",
+  "title": "Spatiotemporal Filter for Visual Motion Integration from Pursuit Eye Movements in Humans and Monkeys.",
+  "abstract": "Despite the enduring interest in motion integration, a direct measure of the space-time filter that the brain imposes on a visual scene has been elusive. This is perhaps because of the challenge of estimating a 3D function from perceptual reports in psychophysical tasks. We take a different approach. We exploit the close connection between visual motion estimates and smooth pursuit eye movements to measure stimulus-response correlations across space and time, computing the linear space-time filter for global motion direction in humans and monkeys. Although derived from eye movements, we find that the filter predicts perceptual motion estimates quite well. To distinguish visual from motor contributions to the temporal duration of the pursuit motion filter, we recorded single-unit responses in the monkey middle temporal cortical area (MT). We find that pursuit response delays are consistent with the distribution of cortical neuron latencies and that temporal motion integration for pursuit is consistent with a short integration MT subpopulation. Remarkably, the visual system appears to preferentially weight motion signals across a narrow range of foveal eccentricities rather than uniformly over the whole visual field, with a transiently enhanced contribution from locations along the direction of motion. We find that the visual system is most sensitive to motion falling at approximately one-third the radius of the stimulus aperture. Hypothesizing that the visual drive for pursuit is related to the filtered motion energy in a motion stimulus, we compare measured and predicted eye acceleration across several other target forms.<b>SIGNIFICANCE STATEMENT</b> A compact model of the spatial and temporal processing underlying global motion perception has been elusive. We used visually driven smooth eye movements to find the 3D space-time function that best predicts both eye movements and perception of translating dot patterns. We found that the visual system does not appear to use all available motion signals uniformly, but rather weights motion preferentially in a narrow band at approximately one-third the radius of the stimulus. Although not universal, the filter predicts responses to other types of stimuli, demonstrating a remarkable degree of generalization that may lead to a deeper understanding of visual motion processing.",
+  "authors": [
+    "Mukherjee Trishna",
+    "Liu Bing",
+    "Simoncini Claudio",
+    "Osborne Leslie C"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2017",
+  "doi": "10.1523/JNEUROSCI.2682-16.2016",
+  "mesh": [
+    "Animals",
+    "Eye Movements",
+    "Female",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Motion Perception",
+    "Photic Stimulation",
+    "Pursuit, Smooth",
+    "Space Perception",
+    "Species Specificity",
+    "Time Factors",
+    "Visual Fields"
+  ]
+}

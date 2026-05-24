@@ -1,0 +1,21 @@
+{
+  "pmid": "39040642",
+  "title": "Neural population dynamics in songbird RA and HVC during learned motor-vocal behavior.",
+  "abstract": "Complex, learned motor behaviors involve the coordination of large-scale neural activity across multiple brain regions, but our understanding of the population-level dynamics within different regions tied to the same behavior remains limited. Here, we investigate the neural population dynamics underlying learned vocal production in awake-singing songbirds. We use Neuropixels probes to record the simultaneous extracellular activity of populations of neurons in two regions of the vocal motor pathway. In line with observations made in non-human primates during limb-based motor tasks, we show that the population-level activity in both the premotor nucleus HVC and the motor nucleus RA is organized on low-dimensional neural manifolds upon which coordinated neural activity is well described by temporally structured trajectories during singing behavior. Both the HVC and RA latent trajectories provide relevant information to predict vocal sequence transitions between song syllables. However, the dynamics of these latent trajectories differ between regions. Our state-space models suggest a unique and continuous-over-time correspondence between the latent space of RA and vocal output, whereas the corresponding relationship for HVC exhibits a higher degree of neural variability. We then demonstrate that comparable high-fidelity reconstruction of continuous vocal outputs can be achieved from HVC and RA neural latents and spiking activity. Unlike those that use spiking activity, however, decoding models using neural latents generalize to novel sub-populations in each region, consistent with the existence of preserved manifolds that confine vocal-motor activity in HVC and RA.",
+  "authors": [
+    "Tostado-Marcos Pablo",
+    "Arneodo Ezequiel M",
+    "Ostrowski Lauren",
+    "Brown Daril E",
+    "Perez Xavier A",
+    "Kadwory Adam",
+    "Stanwicks Lauren L",
+    "Alothman Abdullah",
+    "Gentner Timothy Q",
+    "Gilja Vikash"
+  ],
+  "journal": "ArXiv",
+  "year": "2024",
+  "doi": "",
+  "mesh": []
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "15537818",
+  "title": "Spatial reconstruction of trajectories of an array of recording microelectrodes.",
+  "abstract": "We present a method for estimating the locations of sites visited by an array of microelectrodes. The method relies on visualization of tracks made by electrodes coated in a fluorescent dye. These tracks are used to estimate the parameters of a simple geometrical model that generates coordinates for each recording site. We describe several ways to measure the error of this procedure and present experimental results from recordings in the motor cortex of macaque monkeys that suggest that errors are of the order of 230 microm. We also introduce a coordinate transformation that takes into account the convoluted structure of the cortex near sulci to conveniently visualize recording site locations in a rectilinear representation. This method greatly extends the capabilities of microelectrodes for studying the three-dimensional structure of topographic maps in the cortex.",
+  "authors": [
+    "Naselaris Thomas",
+    "Merchant Hugo",
+    "Amirikian Bagrat",
+    "Georgopoulos Apostolos P"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Motor Cortex"
+  ]
+}

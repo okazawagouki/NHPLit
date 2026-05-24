@@ -1,0 +1,26 @@
+{
+  "pmid": "35921802",
+  "title": "Extracting synchronized neuronal activity from local field potentials based on a marked point process framework.",
+  "abstract": "<i>Objective.</i>Brain-machine interfaces (BMIs) translate neural activity into motor commands to restore motor functions for people with paralysis. Local field potentials (LFPs) are promising for long-term BMIs, since the quality of the recording lasts longer than single neuronal spikes. Inferring neuronal spike activity from population activities such as LFPs is challenging, because LFPs stem from synaptic currents flowing in the neural tissue produced by various neuronal ensembles and reflect neural synchronization. Existing studies that combine LFPs with spikes leverage the spectrogram of the former, which can neither detect the transient characteristics of LFP features (here, neuromodulation in a specific frequency band) with high accuracy, nor correlate them with relevant neuronal activity with a sufficient time resolution.<i>Approach.</i>We propose a feature extraction and validation framework to directly extract LFP neuromodulations related to synchronized spike activity using recordings from the primary motor cortex of six Sprague Dawley rats during a lever-press task. We first select important LFP frequency bands relevant to behavior, and then implement a marked point process (MPP) methodology to extract transient LFP neuromodulations. We validate the LFP feature extraction by examining the correlation with the pairwise synchronized firing probability of important neurons, which are selected according to their contribution to behavioral decoding. The highly correlated synchronized firings identified by the LFP neuromodulations are fed into a decoder to check whether they can serve as a reliable neural data source for movement decoding.<i>Main results.</i>We find that the gamma band (30-80 Hz) LFP neuromodulations demonstrate significant correlation with synchronized firings. Compared with traditional spectrogram-based method, the higher-temporal resolution MPP method captures the synchronized firing patterns with fewer false alarms, and demonstrates significantly higher correlation than single neuron spikes. The decoding performance using the synchronized neuronal firings identified by the LFP neuromodulations can reach 90% compared to the full recorded neuronal ensembles.<i>Significance.</i>Our proposed framework successfully extracts the sparse LFP neuromodulations that can identify temporal synchronized neuronal spikes with high correlation. The identified neuronal spike pattern demonstrates high decoding performance, which suggest LFP can be used as an effective modality for long-term BMI decoding.",
+  "authors": [
+    "Huang Yifan",
+    "Zhang Xiang",
+    "Shen Xiang",
+    "Chen Shuhang",
+    "Principe Jose C",
+    "Wang Yiwen"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2022",
+  "doi": "10.1088/1741-2552/ac86a3",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Humans",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Neurons",
+    "Rats",
+    "Rats, Sprague-Dawley"
+  ]
+}

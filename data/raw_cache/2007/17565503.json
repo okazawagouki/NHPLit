@@ -1,0 +1,24 @@
+{
+  "pmid": "17565503",
+  "title": "Granger causality between multiple interdependent neurobiological time series: blockwise versus pairwise methods.",
+  "abstract": "Granger causality is becoming an important tool for determining causal relations between neurobiological time series. For multivariate data, there is often the need to examine causal relations between two blocks of time series, where each block could represent a brain region of interest. Two alternative methods are available. In the pairwise method, bivariate autoregressive models are fit to all pairwise combinations involving one time series from the first block and one from the second. The total Granger causality between the two blocks is then derived by summing pairwise causality values from each of these models. This approach is intuitive but computationally cumbersome. Theoretically, a more concise method can be derived, which we term the blockwise Granger causality method. In this method, a single multivariate model is fit to all the time series, and the causality between the two blocks is then computed from this model. We compare these two methods by applying them to cortical local field potential recordings from monkeys performing a sensorimotor task. The obtained results demonstrate consistency between the two methods and point to the significance potential of utilizing Granger causality analysis in understanding coupled neural systems.",
+  "authors": [
+    "Wang Xue",
+    "Chen Yonghong",
+    "Bressler Steven L",
+    "Ding Mingzhou"
+  ],
+  "journal": "International journal of neural systems",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Macaca",
+    "Mathematical Computing",
+    "Models, Neurological",
+    "Psychomotor Performance",
+    "Somatosensory Cortex",
+    "Time"
+  ]
+}

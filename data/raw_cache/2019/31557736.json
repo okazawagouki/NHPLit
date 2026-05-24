@@ -1,0 +1,24 @@
+{
+  "pmid": "31557736",
+  "title": "Nerve cuff electrode pressure estimation via electrical impedance measurement.",
+  "abstract": "OBJECTIVE: Implantable neuromodulation devices that have cuff electrodes are known to exert mechanical pressure on the target nerves. The amount of pressure exerted by cuff enclosures is one of the key determinants of physiological safety of these devices since excess pressures can cause neural damage. Because direct measurements of pressure on a nerve are challenging, the current cuff design approaches rely heavily on theoretical models or numerical computations for pressure predictions. An experimental approach to test these devices for pressure can complement existing theoretical models and can also serve as a quality control step to screen cuff electrode designs before implantation. APPROACH: We hypothesize that the pressure exerted on a nerve by a cuff can be estimated by measuring the resulting changes to the nerve's electrical impedance. MAIN RESULTS: We investigated ten 1 cm-long explanted rat sciatic nerves: five that were used within an hour after surgery, and five after 50 h of storage in physiological saline. For each experiment we applied variable pressure on the nerve ex vivo and measured the resulting changes in its impedance. We found a strong correlation between the external pressure on the nerve and its impedance and generated a pressure-impedance calibration curve. At the upper limit of physiologically safe pressure, the nerve impedance increased by ~2 kΩ, whereas, a rise of ~3 kΩ corresponded to pressure value that onsets irreversible nerve damage. SIGNIFICANCE: As a proof-of-concept, we used this protocol to generate a pressure-impedance calibration curve for a monkey tibial nerve and estimated pressure exerted by a commercial silicone cuff electrode on the explanted nerve. This single-point measurement was in an agreement with an independent estimate of the pressure measured using a mechanical pull test within 3 mmHg.",
+  "authors": [
+    "Thakur Raviraj",
+    "Jin Andrew",
+    "Nair Ankitha",
+    "Fridman Gene"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2019",
+  "doi": "10.1088/1741-2552/ab486f",
+  "mesh": [
+    "Animals",
+    "Calibration",
+    "Electric Impedance",
+    "Electrodes, Implanted",
+    "Equipment Design",
+    "Pressure",
+    "Rats",
+    "Sciatic Nerve"
+  ]
+}

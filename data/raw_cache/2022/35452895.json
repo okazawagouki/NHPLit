@@ -1,0 +1,25 @@
+{
+  "pmid": "35452895",
+  "title": "Decoding sensorimotor information from superior parietal lobule of macaque via Convolutional Neural Networks.",
+  "abstract": "Despite the well-recognized role of the posterior parietal cortex (PPC) in processing sensory information to guide action, the differential encoding properties of this dynamic processing, as operated by different PPC brain areas, are scarcely known. Within the monkey's PPC, the superior parietal lobule hosts areas V6A, PEc, and PE included in the dorso-medial visual stream that is specialized in planning and guiding reaching movements. Here, a Convolutional Neural Network (CNN) approach is used to investigate how the information is processed in these areas. We trained two macaque monkeys to perform a delayed reaching task towards 9 positions (distributed on 3 different depth and direction levels) in the 3D peripersonal space. The activity of single cells was recorded from V6A, PEc, PE and fed to convolutional neural networks that were designed and trained to exploit the temporal structure of neuronal activation patterns, to decode the target positions reached by the monkey. Bayesian Optimization was used to define the main CNN hyper-parameters. In addition to discrete positions in space, we used the same network architecture to decode plausible reaching trajectories. We found that data from the most caudal V6A and PEc areas outperformed PE area in the spatial position decoding. In all areas, decoding accuracies started to increase at the time the target to reach was instructed to the monkey, and reached a plateau at movement onset. The results support a dynamic encoding of the different phases and properties of the reaching movement differentially distributed over a network of interconnected areas. This study highlights the usefulness of neurons' firing rate decoding via CNNs to improve our understanding of how sensorimotor information is encoded in PPC to perform reaching movements. The obtained results may have implications in the perspective of novel neuroprosthetic devices based on the decoding of these rich signals for faithfully carrying out patient's intentions.",
+  "authors": [
+    "Filippini Matteo",
+    "Borra Davide",
+    "Ursino Mauro",
+    "Magosso Elisa",
+    "Fattori Patrizia"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2022",
+  "doi": "10.1016/j.neunet.2022.03.044",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Bayes Theorem",
+    "Macaca fascicularis",
+    "Movement",
+    "Neural Networks, Computer",
+    "Parietal Lobe",
+    "Psychomotor Performance"
+  ]
+}

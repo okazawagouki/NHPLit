@@ -1,0 +1,31 @@
+{
+  "pmid": "40499534",
+  "title": "Adaptive reinforcement learning is causally supported by anterior cingulate cortex and striatum.",
+  "abstract": "Reinforcement learning can benefit from adaptive strategies that adjust exploration-exploitation levels, leverage working memory, or guide attention toward relevant information. We tested how the anterior cingulate cortex (ACC) and the striatum support these processes during learning of feature-based attention at varying feature uncertainty and motivational saliency. Brief, gaze-contingent electrical stimulation affected adaptive reinforcement learning in ACC and the striatum at high feature uncertainty, but in opposite ways. ACC stimulation impaired learning, while striatum stimulation improved learning. Modeling showed that ACC stimulation impaired optimizing exploration and use of prediction errors to reduce uncertainty, while striatum stimulation improved the updating of value expectations. These findings were consistent with neuronal selectivity. In ACC, neurons tracked error history and fired more strongly during more uncertain choices, while in the striatum, neurons fired more strongly during more certain, higher-value choices. These results show that the ACC and the striatum optimize the guidance of exploration toward reward-relevant objects during periods of uncertainty.",
+  "authors": [
+    "Treuting Robert Louis",
+    "Banaie Boroujeni Kianoush",
+    "Gerrity Charles Grimes",
+    "Neumann Adam",
+    "Tiesinga Paul",
+    "Womelsdorf Thilo"
+  ],
+  "journal": "Neuron",
+  "year": "2025",
+  "doi": "10.1016/j.neuron.2025.05.018",
+  "mesh": [
+    "Gyrus Cinguli",
+    "Reinforcement, Psychology",
+    "Corpus Striatum",
+    "Animals",
+    "Male",
+    "Uncertainty",
+    "Macaca mulatta",
+    "Neurons",
+    "Reward",
+    "Attention",
+    "Choice Behavior",
+    "Learning",
+    "Electric Stimulation"
+  ]
+}

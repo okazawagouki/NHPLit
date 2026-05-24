@@ -1,0 +1,25 @@
+{
+  "pmid": "22496532",
+  "title": "Behavioral and neural correlates of visuomotor adaptation observed through a brain-computer interface in primary motor cortex.",
+  "abstract": "Brain-computer interfaces (BCIs) provide a defined link between neural activity and devices, allowing a detailed study of the neural adaptive responses generating behavioral output. We trained monkeys to perform two-dimensional center-out movements of a computer cursor using a BCI. We then applied a perturbation by randomly selecting a subset of the recorded units and rotating their directional contributions to cursor movement by a consistent angle. Globally, this perturbation mimics a visuomotor transformation, and in the first part of this article we characterize the psychophysical indications of motor adaptation and compare them with known results from adaptation of natural reaching movements. Locally, however, only a subset of the neurons in the population actually contributes to error, allowing us to probe for signatures of neural adaptation that might be specific to the subset of neurons we perturbed. One compensation strategy would be to selectively adapt the subset of cells responsible for the error. An alternate strategy would be to globally adapt the entire population to correct the error. Using a recently developed mathematical technique that allows us to differentiate these two mechanisms, we found evidence of both strategies in the neural responses. The dominant strategy we observed was global, accounting for ∼86% of the total error reduction. The remaining 14% came from local changes in the tuning functions of the perturbed units. Interestingly, these local changes were specific to the details of the applied rotation: in particular, changes in the depth of tuning were only observed when the percentage of perturbed cells was small. These results imply that there may be constraints on the network's adaptive capabilities, at least for perturbations lasting only a few hundreds of trials.",
+  "authors": [
+    "Chase Steven M",
+    "Kass Robert E",
+    "Schwartz Andrew B"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2012",
+  "doi": "10.1152/jn.00371.2011",
+  "mesh": [
+    "Action Potentials",
+    "Adaptation, Physiological",
+    "Animals",
+    "Biofeedback, Psychology",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "User-Computer Interface",
+    "Visual Perception"
+  ]
+}

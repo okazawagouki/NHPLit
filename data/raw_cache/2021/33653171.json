@@ -1,0 +1,35 @@
+{
+  "pmid": "33653171",
+  "title": "HistoNet: A Deep Learning-Based Model of Normal Histology.",
+  "abstract": "We introduce HistoNet, a deep neural network trained on normal tissue. On 1690 slides with rat tissue samples from 6 preclinical toxicology studies, tissue regions were outlined and annotated by pathologists into 46 different tissue classes. From these annotated regions, we sampled small 224 × 224 pixels images (patches) at 6 different levels of magnification. Using 4 studies as training set and 2 studies as test set, we trained VGG-16, ResNet-50, and Inception-v3 networks separately at each magnification level. Among these model architectures, Inception-v3 and ResNet-50 outperformed VGG-16. Inception-v3 identified the tissue from query images, with an accuracy up to 83.4%. Most misclassifications occurred between histologically similar tissues. Investigation of the features learned by the model (embedding layer) using Uniform Manifold Approximation and Projection revealed not only coherent clusters associated with the individual tissues but also subclusters corresponding to histologically meaningful structures that had not been annotated or trained for. This suggests that the histological representation learned by HistoNet could be useful as the basis of other machine learning algorithms and data mining. Finally, we found that models trained on rat tissues can be used on non-human primate and minipig tissues with minimal retraining.",
+  "authors": [
+    "Hoefling Holger",
+    "Sing Tobias",
+    "Hossain Imtiaz",
+    "Boisclair Julie",
+    "Doelemeyer Arno",
+    "Flandre Thierry",
+    "Piaia Alessandro",
+    "Romanet Vincent",
+    "Santarossa Gianluca",
+    "Saravanan Chandrassegar",
+    "Sutter Esther",
+    "Turner Oliver",
+    "Wuersch Kuno",
+    "Moulin Pierre"
+  ],
+  "journal": "Toxicologic pathology",
+  "year": "2021",
+  "doi": "10.1177/0192623321993425",
+  "mesh": [
+    "Animals",
+    "Deep Learning",
+    "Histological Techniques",
+    "Humans",
+    "Machine Learning",
+    "Neural Networks, Computer",
+    "Rats",
+    "Swine",
+    "Swine, Miniature"
+  ]
+}

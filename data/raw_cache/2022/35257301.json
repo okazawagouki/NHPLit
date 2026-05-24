@@ -1,0 +1,15 @@
+{
+  "pmid": "35257301",
+  "title": "A neurocomputational model for the processing of conflicting information in context-dependent decision tasks.",
+  "abstract": "Context-dependent computation is a relevant characteristic of neural systems, endowing them with the capacity of adaptively modifying behavioral responses and flexibly discriminating between relevant and irrelevant information in a stimulus. This ability is particularly highlighted in solving conflicting tasks. A long-standing problem in computational neuroscience, flexible routing of information, is also closely linked with the ability to perform context-dependent associations. Here we present an extension of a context-dependent associative memory model to achieve context-dependent decision-making in the presence of conflicting and noisy multi-attribute stimuli. In these models, the input vectors are multiplied by context vectors via the Kronecker tensor product. To outfit the model with a noisy dynamic, we embedded the context-dependent associative memory in a leaky competing accumulator model, and, finally, we proved the power of the model in the reproduction of a behavioral experiment with monkeys in a context-dependent conflicting decision-making task. At the end, we discuss the neural feasibility of the tensor product and made the suggestive observation that the capacities of tensor context models are surprisingly in alignment with the more recent experimental findings about functional flexibility at different levels of brain organization.",
+  "authors": [
+    "López Francisco M",
+    "Pomi Andrés"
+  ],
+  "journal": "Journal of biological physics",
+  "year": "2022",
+  "doi": "10.1007/s10867-021-09601-9",
+  "mesh": [
+    "Brain"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "pmid": "18267411",
+  "title": "Nonlinear operator for oriented texture.",
+  "abstract": "Texture is an important part of the visual world of animals and humans and their visual systems successfully detect, discriminate, and segment texture. Relatively recently progress was made concerning structures in the brain that are presumably responsible for texture processing. Neurophysiologists reported on the discovery of a new type of orientation selective neuron in areas V1 and V2 of the visual cortex of monkeys which they called grating cells. Such cells respond vigorously to a grating of bars of appropriate orientation, position and periodicity. In contrast to other orientation selective cells, grating cells respond very weakly or not at all to single bars which do not make part of a grating. Elsewhere we proposed a nonlinear model of this type of cell and demonstrated the advantages of grating cells with respect to the separation of texture and form information. In this paper, we use grating cell operators to obtain features and compare these operators in texture analysis tasks with commonly used feature extracting operators such as Gabor-energy and co-occurrence matrix operators. For a quantitative comparison of the discrimination properties of the concerned operators a new method is proposed which is based on the Fisher (1923) linear discriminant and the Fisher criterion. The operators are also qualitatively compared with respect to their ability to separate texture from form information and their suitability for texture segmentation.",
+  "authors": [
+    "Kruizinga P",
+    "Petkov N"
+  ],
+  "journal": "IEEE transactions on image processing : a publication of the IEEE Signal Processing Society",
+  "year": "1999",
+  "doi": "10.1109/83.791965",
+  "mesh": []
+}

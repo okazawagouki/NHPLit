@@ -1,0 +1,32 @@
+{
+  "pmid": "15992487",
+  "title": "Data-robust tight lower bounds to the information carried by spike times of a neuronal population.",
+  "abstract": "We develop new data-robust lower-bound methods to quantify the information carried by the timing of spikes emitted by neuronal populations. These methods have better sampling properties and are tighter than previous bounds based on neglecting correlation in the noise entropy. Our new lower bounds are precise also in the presence of strongly correlated firing. They are not precise only if correlations are strongly stimulus modulated over a long time range. Under conditions typical of many neurophysiological experiments, these techniques permit precise information estimates to be made even with data samples that are three orders of magnitude smaller than the size of the response space.",
+  "authors": [
+    "Pola G",
+    "Petersen R S",
+    "Thiele A",
+    "Young M P",
+    "Panzeri S"
+  ],
+  "journal": "Neural computation",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Artifacts",
+    "Computer Simulation",
+    "Entropy",
+    "Macaca",
+    "Markov Chains",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Rats",
+    "Reaction Time",
+    "Selection Bias",
+    "Somatosensory Cortex",
+    "Visual Cortex"
+  ]
+}

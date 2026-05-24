@@ -1,0 +1,23 @@
+{
+  "pmid": "11110127",
+  "title": "A model of invariant object recognition in the visual system: learning rules, activation functions, lateral inhibition, and information-based performance measures.",
+  "abstract": "VisNet2 is a model to investigate some aspects of invariant visual object recognition in the primate visual system. It is a four-layer feedforward network with convergence to each part of a layer from a small region of the preceding layer, with competition between the neurons within a layer and with a trace learning rule to help it learn transform invariance. The trace rule is a modified Hebbian rule, which modifies synaptic weights according to both the current firing rates and the firing rates to recently seen stimuli. This enables neurons to learn to respond similarly to the gradually transforming inputs it receives, which over the short term are likely to be about the same object, given the statistics of normal visual inputs. First, we introduce for VisNet2 both single-neuron and multiple-neuron information-theoretic measures of its ability to respond to transformed stimuli. Second, using these measures, we show that quantitatively resetting the trace between stimuli is not necessary for good performance. Third, it is shown that the sigmoid activation functions used in VisNet2, which allow the sparseness of the representation to be controlled, allow good performance when using sparse distributed representations. Fourth, it is shown that VisNet2 operates well with medium-range lateral inhibition with a radius in the same order of size as the region of the preceding layer from which neurons receive inputs. Fifth, in an investigation of different learning rules for learning transform invariance, it is shown that VisNet2 operates better with a trace rule that incorporates in the trace only activity from the preceding presentations of a given stimulus, with no contribution to the trace from the current presentation, and that this is related to temporal difference learning.",
+  "authors": [
+    "Rolls E T",
+    "Milward T"
+  ],
+  "journal": "Neural computation",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artificial Intelligence",
+    "Computer Simulation",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Primates"
+  ]
+}

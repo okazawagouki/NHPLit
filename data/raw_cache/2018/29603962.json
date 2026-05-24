@@ -1,0 +1,13 @@
+{
+  "pmid": "29603962",
+  "title": "Processing of chromatic information in a deep convolutional neural network.",
+  "abstract": "Deep convolutional neural networks are a class of machine-learning algorithms capable of solving non-trivial tasks, such as object recognition, with human-like performance. Little is known about the exact computations that deep neural networks learn, and to what extent these computations are similar to the ones performed by the primate brain. Here, we investigate how color information is processed in the different layers of the AlexNet deep neural network, originally trained on object classification of over 1.2M images of objects in their natural contexts. We found that the color-responsive units in the first layer of AlexNet learned linear features and were broadly tuned to two directions in color space, analogously to what is known of color responsive cells in the primate thalamus. Moreover, these directions are decorrelated and lead to statistically efficient representations, similar to the cardinal directions of the second-stage color mechanisms in primates. We also found, in analogy to the early stages of the primate visual system, that chromatic and achromatic information were segregated in the early layers of the network. Units in the higher layers of AlexNet exhibit on average a lower responsivity for color than units at earlier stages.",
+  "authors": [
+    "Flachot Alban",
+    "Gegenfurtner Karl R"
+  ],
+  "journal": "Journal of the Optical Society of America. A, Optics, image science, and vision",
+  "year": "2018",
+  "doi": "10.1364/JOSAA.35.00B334",
+  "mesh": []
+}

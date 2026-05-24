@@ -1,0 +1,28 @@
+{
+  "pmid": "34097695",
+  "title": "Learning divisive normalization in primary visual cortex.",
+  "abstract": "Divisive normalization (DN) is a prominent computational building block in the brain that has been proposed as a canonical cortical operation. Numerous experimental studies have verified its importance for capturing nonlinear neural response properties to simple, artificial stimuli, and computational studies suggest that DN is also an important component for processing natural stimuli. However, we lack quantitative models of DN that are directly informed by measurements of spiking responses in the brain and applicable to arbitrary stimuli. Here, we propose a DN model that is applicable to arbitrary input images. We test its ability to predict how neurons in macaque primary visual cortex (V1) respond to natural images, with a focus on nonlinear response properties within the classical receptive field. Our model consists of one layer of subunits followed by learned orientation-specific DN. It outperforms linear-nonlinear and wavelet-based feature representations and makes a significant step towards the performance of state-of-the-art convolutional neural network (CNN) models. Unlike deep CNNs, our compact DN model offers a direct interpretation of the nature of normalization. By inspecting the learned normalization pool of our model, we gained insights into a long-standing question about the tuning properties of DN that update the current textbook description: we found that within the receptive field oriented features were normalized preferentially by features with similar orientation rather than non-specifically as currently assumed.",
+  "authors": [
+    "Burg Max F",
+    "Cadena Santiago A",
+    "Denfield George H",
+    "Walker Edgar Y",
+    "Tolias Andreas S",
+    "Bethge Matthias",
+    "Ecker Alexander S"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2021",
+  "doi": "10.1371/journal.pcbi.1009028",
+  "mesh": [
+    "Animals",
+    "Learning",
+    "Macaca mulatta",
+    "Male",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Wavelet Analysis"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "29662213",
+  "title": "Encoding of error and learning to correct that error by the Purkinje cells of the cerebellum.",
+  "abstract": "The primary output cells of the cerebellar cortex, Purkinje cells, make kinematic predictions about ongoing movements via high-frequency simple spikes, but receive sensory error information about that movement via low-frequency complex spikes (CS). How is the vector space of sensory errors encoded by this low-frequency signal? Here we measured Purkinje cell activity in the oculomotor vermis of animals during saccades, then followed the chain of events from experience of visual error, generation of CS, modulation of simple spikes, and ultimately change in motor output. We found that while error direction affected the probability of CS, error magnitude altered its temporal distribution. Production of CS changed the simple spikes on the next trial, but regardless of the actual visual error, this change biased the movement only along a vector that was parallel to the Purkinje cell's preferred error. From these results, we inferred the anatomy of a sensory-to-motor adaptive controller that transformed visual error vectors into motor-corrections.",
+  "authors": [
+    "Herzfeld David J",
+    "Kojima Yoshiko",
+    "Soetedjo Robijanto",
+    "Shadmehr Reza"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2018",
+  "doi": "10.1038/s41593-018-0136-y",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Biomechanical Phenomena",
+    "Cerebellar Cortex",
+    "Cerebellum",
+    "Electrophysiological Phenomena",
+    "Learning",
+    "Macaca mulatta",
+    "Oculomotor Nerve",
+    "Psychomotor Performance",
+    "Purkinje Cells",
+    "Saccades"
+  ]
+}

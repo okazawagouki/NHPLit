@@ -1,0 +1,17 @@
+{
+  "pmid": "37875104",
+  "title": "Inferring population dynamics in macaque cortex.",
+  "abstract": "<i>Objective.</i>The proliferation of multi-unit cortical recordings over the last two decades, especially in macaques and during motor-control tasks, has generated interest in neural 'population dynamics': the time evolution of neural activity across a group of neurons working together. A good model of these dynamics should be able to infer the activity of unobserved neurons within the same population and of the observed neurons at future times. Accordingly, Pandarinath and colleagues have introduced a benchmark to evaluate models on these two (and related) criteria: four data sets, each consisting of firing rates from a population of neurons, recorded from macaque cortex during movement-related tasks.<i>Approach.</i>Since this is a discriminative-learning task, we hypothesize that general-purpose architectures based on recurrent neural networks (RNNs) trained with masking can outperform more 'bespoke' models. To capture long-distance dependencies without sacrificing the autoregressive bias of recurrent networks, we also propose a novel, hybrid architecture ('TERN') that augments the RNN with self-attention, as in transformer networks.<i>Main results.</i>Our RNNs outperform all published models on all four data sets in the benchmark. The hybrid architecture improves performance further still. Pure transformer models fail to achieve this level of performance, either in our work or that of other groups.<i>Significance.</i>We argue that the autoregressive bias imposed by RNNs is critical for achieving the highest levels of performance, and establish the state of the art on the neural latents benchmark. We conclude, however, by proposing that the benchmark be augmented with an alternative evaluation of latent dynamics that favors generative over discriminative models like the ones we propose in this report.",
+  "authors": [
+    "Meghanath Ganga",
+    "Jimenez Bryan",
+    "Makin Joseph G"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2023",
+  "doi": "10.1088/1741-2552/ad0651",
+  "mesh": [
+    "Neural Networks, Computer",
+    "Neurons"
+  ]
+}

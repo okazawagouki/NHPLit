@@ -1,0 +1,20 @@
+{
+  "pmid": "35983150",
+  "title": "Application and Research of Computer Intelligent Technology in Modern Agricultural Machinery Equipment.",
+  "abstract": "Every country, including China, is deeply concerned and interested in the topic of agricultural machinery automation. The world's population is growing at an astronomical rate, and as a result, the need of food is also growing at an astronomical rate. Farmers are forced to apply more toxic pesticides since traditional methods are not up to the task of meeting the rising demand. This has a major impact on agricultural practices, and in the long run, the land becomes barren and unproductive. Intelligent technologies such as Internet of Things, wireless communication, and machine learning can help with crop disease and pesticide storage management, as well as water management and irrigation. In this paper, we design and analyze an intelligent system that automatically predicts the agricultural land features for irrigation purpose. Initially, the dataset is collected and preprocessed using normalization. The features are extracted using principal component analysis (PCA). For automatic prediction by the equipment, we propose heterogeneous fuzzy-based artificial neural network (HF-ANN) with genetic quantum spider monkey optimization (GQ-SMO) algorithm. Analyses and comparisons are made between the proposed approach and current methodologies. The findings indicate the effectiveness of the proposed system.",
+  "authors": [
+    "Zhou Hongyu",
+    "Liu Jinqi",
+    "Huang Fan"
+  ],
+  "journal": "Computational intelligence and neuroscience",
+  "year": "2022",
+  "doi": "10.1155/2022/9978167",
+  "mesh": [
+    "Agriculture",
+    "China",
+    "Computers",
+    "Pesticides",
+    "Technology"
+  ]
+}

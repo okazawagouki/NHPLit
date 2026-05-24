@@ -1,0 +1,35 @@
+{
+  "pmid": "26289473",
+  "title": "Spike sorting of synchronous spikes from local neuron ensembles.",
+  "abstract": "Synchronous spike discharge of cortical neurons is thought to be a fingerprint of neuronal cooperativity. Because neighboring neurons are more densely connected to one another than neurons that are located further apart, near-synchronous spike discharge can be expected to be prevalent and it might provide an important basis for cortical computations. Using microelectrodes to record local groups of neurons does not allow for the reliable separation of synchronous spikes from different cells, because available spike sorting algorithms cannot correctly resolve the temporally overlapping waveforms. We show that high spike sorting performance of in vivo recordings, including overlapping spikes, can be achieved with a recently developed filter-based template matching procedure. Using tetrodes with a three-dimensional structure, we demonstrate with simulated data and ground truth in vitro data, obtained by dual intracellular recording of two neurons located next to a tetrode, that the spike sorting of synchronous spikes can be as successful as the spike sorting of nonoverlapping spikes and that the spatial information provided by multielectrodes greatly reduces the error rates. We apply the method to tetrode recordings from the prefrontal cortex of behaving primates, and we show that overlapping spikes can be identified and assigned to individual neurons to study synchronous activity in local groups of neurons.",
+  "authors": [
+    "Franke Felix",
+    "Pröpper Robert",
+    "Alle Henrik",
+    "Meier Philipp",
+    "Geiger Jörg R P",
+    "Obermayer Klaus",
+    "Munk Matthias H J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2015",
+  "doi": "10.1152/jn.00993.2014",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Electric Stimulation",
+    "Hippocampus",
+    "Macaca",
+    "Memory, Short-Term",
+    "Models, Neurological",
+    "Neurons",
+    "Neuropsychological Tests",
+    "Patch-Clamp Techniques",
+    "Prefrontal Cortex",
+    "Rats, Wistar",
+    "Signal Processing, Computer-Assisted",
+    "Tissue Culture Techniques",
+    "Visual Perception"
+  ]
+}

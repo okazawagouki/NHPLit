@@ -1,0 +1,22 @@
+{
+  "pmid": "36559437",
+  "title": "Mesoscopic architecture enhances communication across the macaque connectome revealing structure-function correspondence in the brain.",
+  "abstract": "Analyzing the brain in terms of organizational structures at intermediate scales provides an approach to unravel the complexity arising from interactions between its large number of components. Focusing on a wiring diagram that spans the cortex, basal ganglia, and thalamus of the macaque brain, we identify robust modules in the network that provide a mesoscopic-level description of its topological architecture. Surprisingly, we find that the modular architecture facilitates rapid communication across the network, instead of localizing activity as is typically expected in networks having community organization. By considering processes of diffusive spreading and coordination, we demonstrate that the specific pattern of inter- and intramodular connectivity in the network allows propagation to be even faster than equivalent randomized networks with or without modular structure. This pattern of connectivity is seen at different scales and is conserved across principal cortical divisions, as well as subcortical structures. Furthermore, we find that the physical proximity between areas is insufficient to explain the modular organization, as similar mesoscopic structures can be obtained even after factoring out the effect of distance constraints on the connectivity. By supplementing the topological information about the macaque connectome with physical locations, volumes, and functions of the constituent areas and analyzing this augmented dataset, we reveal a counterintuitive role played by the modular architecture of the brain in promoting global coordination of its activity. It suggests a possible explanation for the ubiquity of modularity in brain networks.",
+  "authors": [
+    "Pathak Anand",
+    "Menon Shakti N",
+    "Sinha Sitabhra"
+  ],
+  "journal": "Physical review. E",
+  "year": "2022",
+  "doi": "10.1103/PhysRevE.106.054304",
+  "mesh": [
+    "Animals",
+    "Connectome",
+    "Macaca",
+    "Brain",
+    "Diffusion Magnetic Resonance Imaging",
+    "Communication",
+    "Nerve Net"
+  ]
+}

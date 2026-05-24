@@ -1,0 +1,27 @@
+{
+  "pmid": "27012500",
+  "title": "Joint analysis of spikes and local field potentials using copula.",
+  "abstract": "Recent technological advances, which allow for simultaneous recording of spikes and local field potentials (LFPs) at multiple sites in a given cortical area or across different areas, have greatly increased our understanding of signal processing in brain circuits. Joint analysis of simultaneously collected spike and LFP signals is an important step to explicate how the brain orchestrates information processing. In this contribution, we present a novel statistical framework based on Gaussian copula to jointly model spikes and LFP. In our approach, we use copula to link separate, marginal regression models to construct a joint regression model, in which the binary-valued spike train data are modeled using generalized linear model (GLM) and the continuous-valued LFP data are modeled using linear regression. Model parameters can be efficiently estimated via maximum-likelihood. In particular, we show that our model offers a means to statistically detect directional influence between spikes and LFP, akin to Granger causality measure, and that we are able to assess its statistical significance by conducting a Wald test. Through extensive simulations, we also show that our method is able to reliably recover the true model used to generate the data. To demonstrate the effectiveness of our approach in real setting, we further apply the method to a mixed neural dataset, consisting of spikes and LFP simultaneously recorded from the visual cortex of a monkey performing a contour detection task.",
+  "authors": [
+    "Hu Meng",
+    "Li Mingyao",
+    "Li Wu",
+    "Liang Hualou"
+  ],
+  "journal": "NeuroImage",
+  "year": "2016",
+  "doi": "10.1016/j.neuroimage.2016.03.030",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Brain Mapping",
+    "Computer Simulation",
+    "Electroencephalography",
+    "Evoked Potentials",
+    "Humans",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Nerve Net",
+    "Sensitivity and Specificity"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "36332976",
+  "title": "Pattern Motion Direction Is Encoded in the Population Activity of Macaque Area MT.",
+  "abstract": "Direction selective neurons in macaque primary visual cortex are narrowly tuned for orientation, and are thus afflicted by the aperture problem. At the next stage of motion processing, in the middle temporal (MT) area, some cells appear to solve this problem, responding to the pattern motion direction of plaids. Models have been proposed to account for this computation, but they do not replicate the diversity of responses observed in MT. We recorded from 386 cells in area MT of two male macaques, while presenting a wide range of random-line stimuli and their compositions into noise plaids. As we broadened the range of stimuli used to probe the cells, yielding ever more challenging conditions for extracting pattern motion, the diversity of the responses observed increased, and the fraction of cells that faithfully encoded pattern motion direction shrank. However, we show here that a pattern motion signal is present at the population level. We identified four mechanisms, one never proposed before, that together might account for the observed diversity in single-cell responses. Pattern motion is thus extracted in area MT, but it is encoded across the population, and not in a small subset of pattern neurons.<b>SIGNIFICANCE STATEMENT</b> Some neurons in the middle temporal area of macaques solve the aperture problem, signaling the direction of motion of complex patterns. As the number of pattern types used to probe this mechanism is increased, fewer and fewer cells retain this capability. We show here that different cells fail in different ways, and that simply summing their responses averages away their failures, yielding a clear pattern motion signal. Similar encodings, which unequivocally violate the \"neuron as a feature detector\" hypothesis that has dominated sensory processing theories for the past 50 years, might apply throughout the brain.",
+  "authors": [
+    "Quaia Christian",
+    "Kang Incheol",
+    "Cumming Bruce G"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2022",
+  "doi": "10.1523/JNEUROSCI.0011-22.2022",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Humans",
+    "Visual Cortex",
+    "Motion Perception",
+    "Photic Stimulation",
+    "Macaca fascicularis",
+    "Motion"
+  ]
+}

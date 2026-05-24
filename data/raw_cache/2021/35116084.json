@@ -1,0 +1,16 @@
+{
+  "pmid": "35116084",
+  "title": "Non-additive activity modulation during a decision making task involving tactic selection.",
+  "abstract": "UNLABELLED: Human brain imaging has revealed that stimulus-induced activity does generally not simply add to the pre-stimulus activity, but rather builds in a non-additive way on this activity. Here we investigate this subject at the single neuron level and address the question whether and to what extent a strong form of non-additivity where activity drops post-cue is present in different areas of monkey cortex, including prefrontal and agranular frontal areas, during a perceptual decision making task involving action and tactic selection. Specifically we analyze spike train data recorded in vivo from the posterior dorsomedial prefrontal cortex (pmPFC), the supplementary motor area (SMA) and the presupplementary motor area (pre-SMA). For each neuron, we compute the ratio of the trial-averaged pre-stimulus spike count to the trial-averaged post-stimulus count. We also perform the ratio and averaging procedures in reverse order. We find that the statistics of these quantities behave differently across areas. pmPFC involved in tactic selection shows stronger non-additivity compared to the two other areas which more generically just increase their firing rate pos-stimulus. pmPFC behaved more similarly to pre-SMA, a likely consequence of the reciprocal connections between these areas. The trial-averaged ratio statistic was reproduced by a surrogate inhomogeneous Poisson process in which the measured trial-averaged firing rate for a given neuron is used as its time-dependent rate. Principal component analysis (PCA) of the trial-averaged firing rates of neuronal ensembles further reveals area-specific time courses of response to the stimulus, including latency to peak neural response, for the typical population activity. Our work demonstrates subtle forms of area-specific non-additivity based on the fine variability structure of pre- and post-stimulus spiking activity on the single neuron level. It also reveals significant differences between areas for PCA and surrogate analysis, complementing previous observations of regional differences based solely on post-stimulus responses. Moreover, we observe regional differences in non-additivity which are related to the monkey's successful tactic selection and decision making. SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1007/s11571-021-09702-0.",
+  "authors": [
+    "Braun Wilhelm",
+    "Matsuzaka Yoshiya",
+    "Mushiake Hajime",
+    "Northoff Georg",
+    "Longtin André"
+  ],
+  "journal": "Cognitive neurodynamics",
+  "year": "2022",
+  "doi": "10.1007/s11571-021-09702-0",
+  "mesh": []
+}

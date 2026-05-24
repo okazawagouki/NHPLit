@@ -1,0 +1,18 @@
+{
+  "pmid": "31496943",
+  "title": "Exploring the Phase-Locking Mechanisms Yielding Delayed and Anticipated Synchronization in Neuronal Circuits.",
+  "abstract": "Synchronization is one of the brain mechanisms allowing the coordination of neuronal activity required in many cognitive tasks. Anticipated Synchronization (AS) is a specific type of out-of-phase synchronization that occurs when two systems are unidirectionally coupled and, consequently, the information is transmitted from the sender to the receiver, but the receiver leads the sender in time. It has been shown that the primate cortex could operate in a regime of AS as part of normal neurocognitive function. However it is still unclear what is the mechanism that gives rise to anticipated synchronization in neuronal motifs. Here, we investigate the synchronization properties of cortical motifs on multiple scales and show that the internal dynamics of the receiver, which is related to its free running frequency in the uncoupled situation, is the main ingredient for AS to occur. For biologically plausible parameters, including excitation/inhibition balance, we found that the phase difference between the sender and the receiver decreases when the free running frequency of the receiver increases. As a consequence, the system switches from the usual delayed synchronization (DS) regime to an AS regime. We show that at three different scales, neuronal microcircuits, spiking neuronal populations and neural mass models, both the inhibitory loop and the external current acting on the receiver mediate the DS-AS transition for the sender-receiver configuration by changing the free running frequency of the receiver. Therefore, we propose that a faster internal dynamics of the receiver system is the main mechanism underlying anticipated synchronization in brain circuits.",
+  "authors": [
+    "Dalla Porta Leonardo",
+    "Matias Fernanda S",
+    "Dos Santos Alfredo J",
+    "Alonso Ana",
+    "Carelli Pedro V",
+    "Copelli Mauro",
+    "Mirasso Claudio R"
+  ],
+  "journal": "Frontiers in systems neuroscience",
+  "year": "2019",
+  "doi": "10.3389/fnsys.2019.00041",
+  "mesh": []
+}

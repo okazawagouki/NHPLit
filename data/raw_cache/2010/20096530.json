@@ -1,0 +1,34 @@
+{
+  "pmid": "20096530",
+  "title": "Relationship between neural and hemodynamic signals during spontaneous activity studied with temporal kernel CCA.",
+  "abstract": "Functional magnetic resonance imaging (fMRI) based on the so-called blood oxygen level-dependent (BOLD) contrast is a powerful tool for studying brain function not only locally but also on the large scale. Most studies assume a simple relationship between neural and BOLD activity, in spite of the fact that it is important to elucidate how the \"when\" and \"what\" components of neural activity are correlated to the \"where\" of fMRI data. Here we conducted simultaneous recordings of neural and BOLD signal fluctuations in primary visual (V1) cortex of anesthetized monkeys. We explored the neurovascular relationship during periods of spontaneous activity by using temporal kernel canonical correlation analysis (tkCCA). tkCCA is a multivariate method that can take into account any features in the signals that univariate analysis cannot. The method detects filters in voxel space (for fMRI data) and in frequency-time space (for neural data) that maximize the neurovascular correlation without any assumption of a hemodynamic response function (HRF). Our results showed a positive neurovascular coupling with a lag of 4-5 s and a larger contribution from local field potentials (LFPs) in the γ range than from low-frequency LFPs or spiking activity. The method also detected a higher correlation around the recording site in the concurrent spatial map, even though the pattern covered most of the occipital part of V1. These results are consistent with those of previous studies and represent the first multivariate analysis of intracranial electrophysiology and high-resolution fMRI.",
+  "authors": [
+    "Murayama Yusuke",
+    "Biessmann Felix",
+    "Meinecke Frank C",
+    "Müller Klaus-Robert",
+    "Augath Mark",
+    "Oeltermann Axel",
+    "Logothetis Nikos K"
+  ],
+  "journal": "Magnetic resonance imaging",
+  "year": "2010",
+  "doi": "10.1016/j.mri.2009.12.016",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Electrodes",
+    "Electrophysiology",
+    "Hemodynamics",
+    "Image Processing, Computer-Assisted",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Multivariate Analysis",
+    "Neurons",
+    "Oxygen",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

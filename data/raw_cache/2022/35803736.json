@@ -1,0 +1,25 @@
+{
+  "pmid": "35803736",
+  "title": "Monkey Prefrontal Single-Unit Activity Reflecting Category-Based Logical Thinking Process and Its Neural Network Model.",
+  "abstract": "Category-based thinking is a fundamental form of logical thinking. Here, we aimed to investigate its neural process at the local circuit level in the prefrontal cortex (PFC). We recorded single-unit PFC activity while male monkeys (<i>Macaca fuscata</i>) performed a task in which the category and rule were prerequisites of logical thinking and the outcome contingency was its consequence. Different groups of neurons coded a single type of information discretely or multiple types in a transitional form. Results of time-by-time analysis of neuronal activity suggest an information flow from category-coding and rule-coding neurons to transitional intermediate neurons, and then to contingency-coding neurons. Category-coding, rule-coding, and contingency-coding neurons showed stable coding of information, whereas intermediate neurons showed dynamic coding, as if it integrated category and rule to derive contingency. A similar process was confirmed by using a spiking neural network model that consisted of subnetworks coding category and rule on the input layer and those coding contingency on the output layer, with a subnetwork for integration in the intermediate layer. These results suggest that category-based logical thinking is realized in the PFC by separated neural populations organized for working in a feedforward manner.<b>SIGNIFICANCE STATEMENT</b> To elucidate the neural process for logical thinking, we combined an in-depth analysis of single-unit activity data with a biologically plausible computational model. Results of time-by-time analysis of prefrontal neuronal activity suggest an information flow from category-coding and rule-coding neurons to transitional intermediate neurons, and then to contingency-coding neurons. Category-coding, rule-coding, and contingency-coding neurons showed stable coding, whereas intermediate neurons showed dynamic coding, as if they integrated category and rule to derive contingency. A spiking neural network model reproduced similar temporal changes of information as the recorded neuronal data. Our results suggest that the prefrontal cortex (PFC) is critically involved in category-based thought process, and this process may be produced by separated neural populations organized for working in a feedforward manner.",
+  "authors": [
+    "Hosokawa Takayuki",
+    "Xu Muyuan",
+    "Katori Yuichi",
+    "Yamada Munekazu",
+    "Aihara Kazuyuki",
+    "Tsutsui Ken-Ichiro"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2022",
+  "doi": "10.1523/JNEUROSCI.2286-21.2022",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Thinking"
+  ]
+}

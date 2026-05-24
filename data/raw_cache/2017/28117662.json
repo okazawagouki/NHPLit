@@ -1,0 +1,20 @@
+{
+  "pmid": "28117662",
+  "title": "Multivariate cross-frequency coupling via generalized eigendecomposition.",
+  "abstract": "This paper presents a new framework for analyzing cross-frequency coupling in multichannel electrophysiological recordings. The generalized eigendecomposition-based cross-frequency coupling framework (gedCFC) is inspired by source-separation algorithms combined with dynamics of mesoscopic neurophysiological processes. It is unaffected by factors that confound traditional CFC methods-such as non-stationarities, non-sinusoidality, and non-uniform phase angle distributions-attractive properties considering that brain activity is neither stationary nor perfectly sinusoidal. The gedCFC framework opens new opportunities for conceptualizing CFC as network interactions with diverse spatial/topographical distributions. Five specific methods within the gedCFC framework are detailed, these are validated in simulated data and applied in several empirical datasets. gedCFC accurately recovers physiologically plausible CFC patterns embedded in noise that causes traditional CFC methods to perform poorly. The paper also demonstrates that spike-field coherence in multichannel local field potential data can be analyzed using the gedCFC framework, which provides significant advantages over traditional spike-field coherence analyses. Null-hypothesis testing is also discussed.",
+  "authors": [
+    "Cohen Michael X"
+  ],
+  "journal": "eLife",
+  "year": "2017",
+  "doi": "10.7554/eLife.21792",
+  "mesh": [
+    "Action Potentials",
+    "Biostatistics",
+    "Brain",
+    "Brain Waves",
+    "Electroencephalography",
+    "Models, Neurological",
+    "Nerve Net"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "18971472",
+  "title": "Mechanisms underlying the transformation of disparity signals from V1 to V2 in the macaque.",
+  "abstract": "Stereo vision relies on cortical signals that encode binocular disparity. In V1, the disparity energy model explains many features of binocular interaction, but it overestimates the responses to anticorrelated images. Combining the outputs of two, or more, energy model-like subunits [two-subunit (2SU) model] can resolve this discrepancy and provides an alternative explanation for disparity signals previously thought to indicate phase disparity between the receptive fields (RFs) of each eye. The 2SU model naturally explains how \"near/far\" (odd-symmetric) tuning becomes dominant in extrastriate cortex. To compare the energy and the 2SU models, we used a broadband compound grating and applied a common interocular phase difference to all spatial frequency components (a stimulus phase disparity), combined with a common spatial displacement (a stimulus position disparity). This produces binocular images that never occur in natural viewing, for which the 2SU model and the energy model make distinctively different predictions. Responses of neurons recorded from both V1 and V2 of awake rhesus macaques systematically deviated from the predictions of the energy model, in accordance with the 2SU model. These deviations correlated with the symmetry of the tuning curve, indicating that the 2SU mechanism is exploited to produce odd symmetry. Nonetheless, individual subunits also contain RF phase disparity that contributes to odd symmetry. The results suggest that neurons in V2 probably inherit phase disparity signals from V1 neurons, but systematically combine input from V1 neurons with different position disparities, in a way that elaborates odd-symmetric tuning and extends the range of disparities encoded by single neurons.",
+  "authors": [
+    "Tanabe Seiji",
+    "Cumming Bruce G"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2008",
+  "doi": "10.1523/JNEUROSCI.3477-08.2008",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Macaca mulatta",
+    "Male",
+    "Models, Biological",
+    "Photic Stimulation",
+    "Vision Disparity",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

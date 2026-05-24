@@ -1,0 +1,21 @@
+{
+  "pmid": "33060626",
+  "title": "Precise measurement of correlations between frequency coupling and visual task performance.",
+  "abstract": "Functional connectivity analyses focused on frequency-domain relationships, i.e. frequency coupling, powerfully reveal neurophysiology. Coherence is commonly used but neural activity does not follow its Gaussian assumption. The recently introduced mutual information in frequency (MIF) technique makes no model assumptions and measures non-Gaussian and nonlinear relationships. We develop a powerful MIF estimator optimized for correlating frequency coupling with task performance and other relevant task phenomena. In light of variance reduction afforded by multitaper spectral estimation, which is critical to precisely measuring such correlations, we propose a multitaper approach for MIF and compare its performance with coherence in simulations. Additionally, multitaper MIF and coherence are computed between macaque visual cortical recordings and their correlation with task performance is analyzed. Our multitaper MIF estimator produces low variance and performs better than all other estimators in simulated correlation analyses. Simulations further suggest that multitaper MIF captures more information than coherence. For the macaque data set, coherence and our new MIF estimator largely agree. Overall, we provide a new way to precisely estimate frequency coupling that sheds light on task performance and helps neuroscientists accurately capture correlations between coupling and task phenomena in general. Additionally, we make an MIF toolbox available for the first time.",
+  "authors": [
+    "Young Joseph",
+    "Dragoi Valentin",
+    "Aazhang Behnaam"
+  ],
+  "journal": "Scientific reports",
+  "year": "2020",
+  "doi": "10.1038/s41598-020-74057-1",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Macaca mulatta",
+    "Task Performance and Analysis",
+    "Vision, Ocular",
+    "Visual Cortex"
+  ]
+}

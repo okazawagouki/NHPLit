@@ -1,0 +1,25 @@
+{
+  "pmid": "29192609",
+  "title": "Superior arm-movement decoding from cortex with a new, unsupervised-learning algorithm.",
+  "abstract": "OBJECTIVE: The aim of this work is to improve the state of the art for motor-control with a brain-machine interface (BMI). BMIs use neurological recording devices and decoding algorithms to transform brain activity directly into real-time control of a machine, archetypically a robotic arm or a cursor. The standard procedure treats neural activity-vectors of spike counts in small temporal windows-as noisy observations of the kinematic state (position, velocity, acceleration) of the fingertip. Inferring the state from the observations then takes the form of a dynamical filter, typically some variant on Kalman's (KF). The KF, however, although fairly robust in practice, is optimal only when the relationships between variables are linear and the noise is Gaussian, conditions usually violated in practice. APPROACH: To overcome these limitations we introduce a new filter, the 'recurrent exponential-family harmonium' (rEFH), that models the spike counts explicitly as Poisson-distributed, and allows for arbitrary nonlinear dynamics and observation models. Furthermore, the model underlying the filter is acquired through unsupervised learning, which allows temporal correlations in spike counts to be explained by latent dynamics that do not necessarily correspond to the kinematic state of the fingertip. MAIN RESULTS: We test the rEFH on offline reconstruction of the kinematics of reaches in the plane. The rEFH outperforms the standard, as well as three other state-of-the-art, decoders, across three monkeys, two different tasks, most kinematic variables, and a range of bin widths, amounts of training data, and numbers of neurons. SIGNIFICANCE: Our algorithm establishes a new state of the art for offline decoding of reaches-in particular, for fingertip velocities, the variable used for control in most online decoders.",
+  "authors": [
+    "Makin Joseph G",
+    "O'Doherty Joseph E",
+    "Cardoso Mariana M B",
+    "Sabes Philip N"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2018",
+  "doi": "10.1088/1741-2552/aa9e95",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Electrodes, Implanted",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Unsupervised Machine Learning"
+  ]
+}

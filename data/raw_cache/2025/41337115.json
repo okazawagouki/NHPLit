@@ -1,0 +1,24 @@
+{
+  "pmid": "41337115",
+  "title": "Adaptively Pruned Spiking Neural Networks for Energy-Efficient Intracortical Neural Decoding.",
+  "abstract": "Intracortical brain-machine interfaces demand low-latency, energy-efficient solutions for neural decoding. Spiking Neural Networks (SNNs) deployed on neuromorphic hardware have demonstrated remarkable efficiency in neural decoding by leveraging sparse binary activations and efficient spatiotemporal processing. However, reducing the computational cost of SNNs remains a critical challenge for developing ultra-efficient intracortical neural implants. In this work, we introduce a novel adaptive pruning algorithm specifically designed for SNNs with high activation sparsity, targeting intracortical neural decoding. Our method dynamically adjusts pruning decisions and employs a rollback mechanism to selectively eliminate redundant synaptic connections without compromising decoding accuracy. Experimental evaluation on the NeuroBench Non-Human Primate (NHP) Motor Prediction benchmark shows that our pruned network achieves performance comparable to dense networks, with a maximum tenfold improvement in efficiency. Moreover, hardware simulation on the neuromorphic processor reveals that the pruned network operates at sub-μW power levels, underscoring its potential for energy-constrained neural implants. These results underscore the promise of our approach for advancing energy-efficient intracortical brain-machine interfaces with low-overhead on-device intelligence.",
+  "authors": [
+    "Rivelli Francesca",
+    "Popov Martin",
+    "Kouzinopoulos Charalampos S",
+    "Tang Guangzhi"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2025",
+  "doi": "10.1109/EMBC58623.2025.11254088",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Algorithms",
+    "Neural Networks, Computer",
+    "Humans",
+    "Neurons",
+    "Action Potentials",
+    "Nerve Net"
+  ]
+}

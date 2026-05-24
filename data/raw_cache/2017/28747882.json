@@ -1,0 +1,14 @@
+{
+  "pmid": "28747882",
+  "title": "Comparison of IT Neural Response Statistics with Simulations.",
+  "abstract": "Lehky et al. (2011) provided a statistical analysis on the responses of the recorded 674 neurons to 806 image stimuli in anterior inferotemporalm (AIT) cortex of two monkeys. In terms of kurtosis and Pareto tail index, they observed that the population sparseness of both unnormalized and normalized responses is always larger than their single-neuron selectivity, hence concluded that the critical features for individual neurons in primate AIT cortex are not very complex, but there is an indefinitely large number of them. In this work, we explore an \"inverse problem\" by simulation, that is, by simulating each neuron indeed only responds to a very limited number of stimuli among a very large number of neurons and stimuli, to assess whether the population sparseness is always larger than the single-neuron selectivity. Our simulation results show that the population sparseness exceeds the single-neuron selectivity in most cases even if the number of neurons and stimuli are much larger than several hundreds, which confirms the observations in Lehky et al. (2011). In addition, we found that the variances of the computed kurtosis and Pareto tail index are quite large in some cases, which reveals some limitations of these two criteria when used for neuron response evaluation.",
+  "authors": [
+    "Dong Qiulei",
+    "Liu Bo",
+    "Hu Zhanyi"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2017",
+  "doi": "10.3389/fncom.2017.00060",
+  "mesh": []
+}

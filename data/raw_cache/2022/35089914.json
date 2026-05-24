@@ -1,0 +1,24 @@
+{
+  "pmid": "35089914",
+  "title": "Positional SHAP (PoSHAP) for Interpretation of machine learning models trained from biological sequences.",
+  "abstract": "Machine learning with multi-layered artificial neural networks, also known as \"deep learning,\" is effective for making biological predictions. However, model interpretation is challenging, especially for sequential input data used with recurrent neural network architectures. Here, we introduce a framework called \"Positional SHAP\" (PoSHAP) to interpret models trained from biological sequences by utilizing SHapely Additive exPlanations (SHAP) to generate positional model interpretations. We demonstrate this using three long short-term memory (LSTM) regression models that predict peptide properties, including binding affinity to major histocompatibility complexes (MHC), and collisional cross section (CCS) measured by ion mobility spectrometry. Interpretation of these models with PoSHAP reproduced MHC class I (rhesus macaque Mamu-A1*001 and human A*11:01) peptide binding motifs, reflected known properties of peptide CCS, and provided new insights into interpositional dependencies of amino acid interactions. PoSHAP should have widespread utility for interpreting a variety of models trained from biological sequences.",
+  "authors": [
+    "Dickinson Quinn",
+    "Meyer Jesse G"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2022",
+  "doi": "10.1371/journal.pcbi.1009736",
+  "mesh": [
+    "Amino Acid Sequence",
+    "Animals",
+    "Binding Sites",
+    "Computational Biology",
+    "Deep Learning",
+    "Humans",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Peptides",
+    "Sequence Analysis, Protein"
+  ]
+}

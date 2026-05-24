@@ -1,0 +1,19 @@
+{
+  "pmid": "29730046",
+  "title": "Color encoding in biologically-inspired convolutional neural networks.",
+  "abstract": "Convolutional Neural Networks have been proposed as suitable frameworks to model biological vision. Some of these artificial networks showed representational properties that rival primate performances in object recognition. In this paper we explore how color is encoded in a trained artificial network. It is performed by estimating a color selectivity index for each neuron, which allows us to describe the neuron activity to a color input stimuli. The index allows us to classify whether they are color selective or not and if they are of a single or double color. We have determined that all five convolutional layers of the network have a large number of color selective neurons. Color opponency clearly emerges in the first layer, presenting 4 main axes (Black-White, Red-Cyan, Blue-Yellow and Magenta-Green), but this is reduced and rotated as we go deeper into the network. In layer 2 we find a denser hue sampling of color neurons and opponency is reduced almost to one new main axis, the Bluish-Orangish coinciding with the dataset bias. In layers 3, 4 and 5 color neurons are similar amongst themselves, presenting different type of neurons that detect specific colored objects (e.g., orangish faces), specific surrounds (e.g., blue sky) or specific colored or contrasted object-surround configurations (e.g. blue blob in a green surround). Overall, our work concludes that color and shape representation are successively entangled through all the layers of the studied network, revealing certain parallelisms with the reported evidences in primate brains that can provide useful insight into intermediate hierarchical spatio-chromatic representations.",
+  "authors": [
+    "Rafegas Ivet",
+    "Vanrell Maria"
+  ],
+  "journal": "Vision research",
+  "year": "2018",
+  "doi": "10.1016/j.visres.2018.03.010",
+  "mesh": [
+    "Color Perception",
+    "Color Vision",
+    "Humans",
+    "Models, Biological",
+    "Neural Networks, Computer"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "26650354",
+  "title": "Rate and timing of cortical responses driven by separate sensory channels.",
+  "abstract": "The sense of touch comprises multiple sensory channels that each conveys characteristic signals during interactions with objects. These neural signals must then be integrated in such a way that behaviorally relevant information about the objects is preserved. To understand the process of integration, we implement a simple computational model that describes how the responses of neurons in somatosensory cortex-recorded from awake, behaving monkeys-are shaped by the peripheral input, reconstructed using simulations of neuronal populations that reproduce natural spiking responses in the nerve with millisecond precision. First, we find that the strength of cortical responses is driven by one population of nerve fibers (rapidly adapting) whereas the timing of cortical responses is shaped by the other (Pacinian). Second, we show that input from these sensory channels is integrated in an optimal fashion that exploits the disparate response behaviors of different fiber types.",
+  "authors": [
+    "Saal Hannes P",
+    "Harvey Michael A",
+    "Bensmaia Sliman J"
+  ],
+  "journal": "eLife",
+  "year": "2015",
+  "doi": "10.7554/eLife.10450",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Haplorhini",
+    "Models, Neurological",
+    "Somatosensory Cortex",
+    "Touch Perception"
+  ]
+}

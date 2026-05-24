@@ -1,0 +1,31 @@
+{
+  "pmid": "20648040",
+  "title": "Cerebral blood flow modeling in primate cortex.",
+  "abstract": "We report new results on blood flow modeling over large volumes of cortical gray matter of primate brain. We propose a network method for computing the blood flow, which handles realistic boundary conditions, complex vessel shapes, and complex nonlinear blood rheology. From a detailed comparison of the available models for the blood flow rheology and the phase separation effect, we are able to derive important new results on the impact of network structure on blood pressure, hematocrit, and flow distributions. Our findings show that the network geometry (vessel shapes and diameters), the boundary conditions associated with the arterial inputs and venous outputs, and the effective viscosity of the blood are essential components in the flow distribution. In contrast, we show that the phase separation effect has a minor function in the global microvascular hemodynamic behavior. The behavior of the pressure, hematocrit, and blood flow distributions within the network are described through the depth of the primate cerebral cortex and are discussed.",
+  "authors": [
+    "Guibert Romain",
+    "Fonta Caroline",
+    "Plouraboué Franck"
+  ],
+  "journal": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism",
+  "year": "2010",
+  "doi": "10.1038/jcbfm.2010.105",
+  "mesh": [
+    "Animals",
+    "Arteries",
+    "Blood Flow Velocity",
+    "Blood Pressure",
+    "Blood Vessels",
+    "Blood Viscosity",
+    "Cerebral Cortex",
+    "Cerebrovascular Circulation",
+    "Hematocrit",
+    "Hemodynamics",
+    "Hemorheology",
+    "Microcirculation",
+    "Microvessels",
+    "Models, Neurological",
+    "Primates",
+    "Veins"
+  ]
+}

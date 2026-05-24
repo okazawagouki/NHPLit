@@ -1,0 +1,19 @@
+{
+  "pmid": "38352540",
+  "title": "Building compositional tasks with shared neural subspaces.",
+  "abstract": "Cognition is remarkably flexible; we are able to rapidly learn and perform many different tasks<sup>1</sup>. Theoretical modeling has shown artificial neural networks trained to perform multiple tasks will re-use representations<sup>2</sup> and computational components<sup>3</sup> across tasks. By composing tasks from these sub-components, an agent can flexibly switch between tasks and rapidly learn new tasks<sup>4</sup>. Yet, whether such compositionality is found in the brain is unknown. Here, we show the same subspaces of neural activity represent task-relevant information across multiple tasks, with each task compositionally combining these subspaces in a task-specific manner. We trained monkeys to switch between three compositionally related tasks. Neural recordings found task-relevant information about stimulus features and motor actions were represented in subspaces of neural activity that were shared across tasks. When monkeys performed a task, neural representations in the relevant shared sensory subspace were transformed to the relevant shared motor subspace. Subspaces were flexibly engaged as monkeys discovered the task in effect; their internal belief about the current task predicted the strength of representations in task-relevant subspaces. In sum, our findings suggest that the brain can flexibly perform multiple tasks by compositionally combining task-relevant neural representations across tasks.",
+  "authors": [
+    "Tafazoli Sina",
+    "Bouchacourt Flora M",
+    "Ardalan Adel",
+    "Markov Nikola T",
+    "Uchimura Motoaki",
+    "Mattar Marcelo G",
+    "Daw Nathaniel D",
+    "Buschman Timothy J"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.01.31.578263",
+  "mesh": []
+}

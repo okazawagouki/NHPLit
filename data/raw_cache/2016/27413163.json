@@ -1,0 +1,27 @@
+{
+  "pmid": "27413163",
+  "title": "Stimulus Dependence of Correlated Variability across Cortical Areas.",
+  "abstract": "UNLABELLED: The way that correlated trial-to-trial variability between pairs of neurons in the same brain area (termed spike count or noise correlation, rSC) depends on stimulus or task conditions can constrain models of cortical circuits and of the computations performed by networks of neurons (Cohen and Kohn, 2011). In visual cortex, rSC tends not to depend on stimulus properties (Kohn and Smith, 2005; Huang and Lisberger, 2009) but does depend on cognitive factors like visual attention (Cohen and Maunsell, 2009; Mitchell et al., 2009). However, neurons across visual areas respond to any visual stimulus or contribute to any perceptual decision, and the way that information from multiple areas is combined to guide perception is unknown. To gain insight into these issues, we recorded simultaneously from neurons in two areas of visual cortex (primary visual cortex, V1, and the middle temporal area, MT) while rhesus monkeys viewed different visual stimuli in different attention conditions. We found that correlations between neurons in different areas depend on stimulus and attention conditions in very different ways than do correlations within an area. Correlations across, but not within, areas depend on stimulus direction and the presence of a second stimulus, and attention has opposite effects on correlations within and across areas. This observed pattern of cross-area correlations is predicted by a normalization model where MT units sum V1 inputs that are passed through a divisive nonlinearity. Together, our results provide insight into how neurons in different areas interact and constrain models of the neural computations performed across cortical areas. SIGNIFICANCE STATEMENT: Correlations in the responses of pairs of neurons within the same cortical area have been a subject of growing interest in systems neuroscience. However, correlated variability between different cortical areas is likely just as important. We recorded simultaneously from neurons in primary visual cortex and the middle temporal area while rhesus monkeys viewed different visual stimuli in different attention conditions. We found that correlations between neurons in different areas depend on stimulus and attention conditions in very different ways than do correlations within an area. The observed pattern of cross-area correlations was predicted by a simple normalization model. Our results provide insight into how neurons in different areas interact and constrain models of the neural computations performed across cortical areas.",
+  "authors": [
+    "Ruff Douglas A",
+    "Cohen Marlene R"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2016",
+  "doi": "10.1523/JNEUROSCI.0504-16.2016",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Computer Simulation",
+    "Linear Models",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Pathways",
+    "Neurons",
+    "Physical Stimulation",
+    "Temporal Lobe",
+    "Visual Cortex"
+  ]
+}

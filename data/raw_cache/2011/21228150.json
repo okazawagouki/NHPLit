@@ -1,0 +1,30 @@
+{
+  "pmid": "21228150",
+  "title": "Distinct mechanisms for coding of visual actions in macaque temporal cortex.",
+  "abstract": "Temporal cortical neurons are known to respond to visual dynamic-action displays. Many human psychophysical and functional imaging studies examining biological motion perception have used treadmill walking, in contrast to previous macaque single-cell studies. We assessed the coding of locomotion in rhesus monkey (Macaca mulatta) temporal cortex using movies of stationary walkers, varying both form and motion (i.e., different facing directions) or varying only the frame sequence (i.e., forward vs backward walking). The majority of superior temporal sulcus and inferior temporal neurons were selective for facing direction, whereas a minority distinguished forward from backward walking. Support vector machines using the temporal cortical population responses as input classified facing direction well, but forward and backward walking less so. Classification performance for the latter improved markedly when the within-action response modulation was considered, reflecting differences in momentary body poses within the locomotion sequences. Responses to static pose presentations predicted the responses during the course of the action. Analyses of the responses to walking sequences wherein the start frame was varied across trials showed that some neurons also carried a snapshot sequence signal. Such sequence information was present in neurons that responded to static snapshot presentations and in neurons that required motion. Our data suggest that actions are analyzed by temporal cortical neurons using distinct mechanisms. Most neurons predominantly signal momentary pose. In addition, temporal cortical neurons, including those responding to static pose, are sensitive to pose sequence, which can contribute to the signaling of learned action sequences.",
+  "authors": [
+    "Vangeneugden Joris",
+    "De Mazière Patrick A",
+    "Van Hulle Marc M",
+    "Jaeggli Tobias",
+    "Van Gool Luc",
+    "Vogels Rufin"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2011",
+  "doi": "10.1523/JNEUROSCI.2703-10.2011",
+  "mesh": [
+    "Animals",
+    "Artificial Intelligence",
+    "Female",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Posture",
+    "Temporal Lobe",
+    "Visual Perception",
+    "Walking"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "33359348",
+  "title": "PREEMACS: Pipeline for preprocessing and extraction of the macaque brain surface.",
+  "abstract": "Accurate extraction of the cortical brain surface is critical for cortical thickness estimation and a key element to perform multimodal imaging analysis, where different metrics are integrated and compared in a common space. While brain surface extraction has become widespread practice in human studies, several challenges unique to neuroimaging of non-human primates (NHP) have hindered its adoption for the study of macaques. Although, some of these difficulties can be addressed at the acquisition stage, several common artifacts can be minimized through image preprocessing. Likewise, there are several image analysis pipelines for human MRIs, but very few automated methods for extraction of cortical surfaces have been reported for NHPs and none have been tested on data from diverse sources. We present PREEMACS, a pipeline that standardizes the preprocessing of structural MRI images (T1- and T2-weighted) and carries out an automatic surface extraction of the macaque brain. Building upon and extending pre-existing tools, the first module performs volume orientation, image cropping, intensity non-uniformity correction, and volume averaging, before skull-stripping through a convolutional neural network. The second module performs quality control using an adaptation of MRIqc method to extract objective quality metrics that are then used to determine the likelihood of accurate brain surface estimation. The third and final module estimates the white matter (wm) and pial surfaces from the T1-weighted volume (T1w) using an NHP customized version of FreeSurfer aided by the T2-weighted volumes (T2w). To evaluate the generalizability of PREEMACS, we tested the pipeline using 57 T1w/T2w NHP volumes acquired at 11 different sites from the PRIME-DE public dataset. Results showed an accurate and robust automatic brain surface extraction from images that passed the quality control segment of our pipeline. This work offers a robust, efficient and generalizable pipeline for the automatic standardization of MRI surface analysis on NHP.",
+  "authors": [
+    "Garcia-Saldivar Pamela",
+    "Garimella Arun",
+    "Garza-Villarreal Eduardo A",
+    "Mendez Felipe A",
+    "Concha Luis",
+    "Merchant Hugo"
+  ],
+  "journal": "NeuroImage",
+  "year": "2021",
+  "doi": "10.1016/j.neuroimage.2020.117671",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Image Processing, Computer-Assisted",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Neuroimaging"
+  ]
+}

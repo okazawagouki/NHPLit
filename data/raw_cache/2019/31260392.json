@@ -1,0 +1,20 @@
+{
+  "pmid": "31260392",
+  "title": "Approximating the Architecture of Visual Cortex in a Convolutional Network.",
+  "abstract": "Deep convolutional neural networks (CNNs) have certain structural, mechanistic, representational, and functional parallels with primate visual cortex and also many differences. However, perhaps some of the differences can be reconciled. This study develops a cortex-like CNN architecture, via (1) a loss function that quantifies the consistency of a CNN architecture with neural data from tract tracing, cell reconstruction, and electrophysiology studies; (2) a hyperparameter-optimization approach for reducing this loss, and (3) heuristics for organizing units into convolutional-layer grids. The optimized hyperparameters are consistent with neural data. The cortex-like architecture differs from typical CNN architectures. In particular, it has longer skip connections, larger kernels and strides, and qualitatively different connection sparsity. Importantly, layers of the cortex-like network have one-to-one correspondences with cortical neuron populations. This should allow unambiguous comparison of model and brain representations in the future and, consequently, more precise measurement of progress toward more biologically realistic deep networks.",
+  "authors": [
+    "Tripp Bryan"
+  ],
+  "journal": "Neural computation",
+  "year": "2019",
+  "doi": "10.1162/neco_a_01211",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neural Pathways",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

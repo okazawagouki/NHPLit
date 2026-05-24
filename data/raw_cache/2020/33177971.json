@@ -1,0 +1,14 @@
+{
+  "pmid": "33177971",
+  "title": "Decoding Kinematic Information From Primary Motor Cortex Ensemble Activities Using a Deep Canonical Correlation Analysis.",
+  "abstract": "The control of arm movements through intracortical brain-machine interfaces (BMIs) mainly relies on the activities of the primary motor cortex (M1) neurons and mathematical models that decode their activities. Recent research on decoding process attempts to not only improve the performance but also simultaneously understand neural and behavioral relationships. In this study, we propose an efficient decoding algorithm using a deep canonical correlation analysis (DCCA), which maximizes correlations between canonical variables with the non-linear approximation of mappings from neuronal to canonical variables via deep learning. We investigate the effectiveness of using DCCA for finding a relationship between M1 activities and kinematic information when non-human primates performed a reaching task with one arm. Then, we examine whether using neural activity representations from DCCA improves the decoding performance through linear and non-linear decoders: a linear Kalman filter (LKF) and a long short-term memory in recurrent neural networks (LSTM-RNN). We found that neural representations of M1 activities estimated by DCCA resulted in more accurate decoding of velocity than those estimated by linear canonical correlation analysis, principal component analysis, factor analysis, and linear dynamical system. Decoding with DCCA yielded better performance than decoding the original FRs using LSTM-RNN (6.6 and 16.0% improvement on average for each velocity and position, respectively; Wilcoxon rank sum test, <i>p</i> < 0.05). Thus, DCCA can identify the kinematics-related canonical variables of M1 activities, thus improving the decoding performance. Our results may help advance the design of decoding models for intracortical BMIs.",
+  "authors": [
+    "Kim Min-Ki",
+    "Sohn Jeong-Woo",
+    "Kim Sung-Phil"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2020",
+  "doi": "10.3389/fnins.2020.509364",
+  "mesh": []
+}

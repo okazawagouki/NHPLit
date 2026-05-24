@@ -1,0 +1,23 @@
+{
+  "pmid": "35725902",
+  "title": "Face identity coding in the deep neural network and primate brain.",
+  "abstract": "A central challenge in face perception research is to understand how neurons encode face identities. This challenge has not been met largely due to the lack of simultaneous access to the entire face processing neural network and the lack of a comprehensive multifaceted model capable of characterizing a large number of facial features. Here, we addressed this challenge by conducting in silico experiments using a pre-trained face recognition deep neural network (DNN) with a diverse array of stimuli. We identified a subset of DNN units selective to face identities, and these identity-selective units demonstrated generalized discriminability to novel faces. Visualization and manipulation of the network revealed the importance of identity-selective units in face recognition. Importantly, using our monkey and human single-neuron recordings, we directly compared the response of artificial units with real primate neurons to the same stimuli and found that artificial units shared a similar representation of facial features as primate neurons. We also observed a region-based feature coding mechanism in DNN units as in human neurons. Together, by directly linking between artificial and primate neural systems, our results shed light on how the primate brain performs face recognition tasks.",
+  "authors": [
+    "Wang Jinge",
+    "Cao Runnan",
+    "Brandmeir Nicholas J",
+    "Li Xin",
+    "Wang Shuo"
+  ],
+  "journal": "Communications biology",
+  "year": "2022",
+  "doi": "10.1038/s42003-022-03557-9",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Facial Recognition",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Primates"
+  ]
+}

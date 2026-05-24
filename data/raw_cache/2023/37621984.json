@@ -1,0 +1,14 @@
+{
+  "pmid": "37621984",
+  "title": "Modelling perception as a hierarchical competition differentiates imagined, veridical, and hallucinated percepts.",
+  "abstract": "Mental imagery is a process by which thoughts become experienced with sensory characteristics. Yet, it is not clear why mental images appear diminished compared to veridical images, nor how mental images are phenomenologically distinct from hallucinations, another type of non-veridical sensory experience. Current evidence suggests that imagination and veridical perception share neural resources. If so, we argue that considering how neural representations of externally generated stimuli (i.e. sensory input) and internally generated stimuli (i.e. thoughts) might interfere with one another can sufficiently differentiate between veridical, imaginary, and hallucinatory perception. We here use a simple computational model of a serially connected, hierarchical network with bidirectional information flow to emulate the primate visual system. We show that modelling even first approximations of neural competition can more coherently explain imagery phenomenology than non-competitive models. Our simulations predict that, without competing sensory input, imagined stimuli should ubiquitously dominate hierarchical representations. However, with competition, imagination should dominate high-level representations but largely fail to outcompete sensory inputs at lower processing levels. To interpret our findings, we assume that low-level stimulus information (e.g. in early visual cortices) contributes most to the sensory aspects of perceptual experience, while high-level stimulus information (e.g. towards temporal regions) contributes most to its abstract aspects. Our findings therefore suggest that ongoing bottom-up inputs during waking life may prevent imagination from overriding veridical sensory experience. In contrast, internally generated stimuli may be hallucinated when sensory input is dampened or eradicated. Our approach can explain individual differences in imagery, along with aspects of daydreaming, hallucinations, and non-visual mental imagery.",
+  "authors": [
+    "Sulfaro Alexander A",
+    "Robinson Amanda K",
+    "Carlson Thomas A"
+  ],
+  "journal": "Neuroscience of consciousness",
+  "year": "2023",
+  "doi": "10.1093/nc/niad018",
+  "mesh": []
+}

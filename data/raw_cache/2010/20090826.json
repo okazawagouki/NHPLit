@@ -1,0 +1,23 @@
+{
+  "pmid": "20090826",
+  "title": "How synchronization protects from noise.",
+  "abstract": "THE FUNCTIONAL ROLE OF SYNCHRONIZATION HAS ATTRACTED MUCH INTEREST AND DEBATE: in particular, synchronization may allow distant sites in the brain to communicate and cooperate with each other, and therefore may play a role in temporal binding, in attention or in sensory-motor integration mechanisms. In this article, we study another role for synchronization: the so-called \"collective enhancement of precision\". We argue, in a full nonlinear dynamical context, that synchronization may help protect interconnected neurons from the influence of random perturbations-intrinsic neuronal noise-which affect all neurons in the nervous system. More precisely, our main contribution is a mathematical proof that, under specific, quantified conditions, the impact of noise on individual interconnected systems and on their spatial mean can essentially be cancelled through synchronization. This property then allows reliable computations to be carried out even in the presence of significant noise (as experimentally found e.g., in retinal ganglion cells in primates). This in turn is key to obtaining meaningful downstream signals, whether in terms of precisely-timed interaction (temporal coding), population coding, or frequency coding. Similar concepts may be applicable to questions of noise and variability in systems biology.",
+  "authors": [
+    "Tabareau Nicolas",
+    "Slotine Jean-Jacques",
+    "Pham Quang-Cuong"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2010",
+  "doi": "10.1371/journal.pcbi.1000637",
+  "mesh": [
+    "Algorithms",
+    "Computer Simulation",
+    "Membrane Potentials",
+    "Models, Biological",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Systems Biology",
+    "Time Factors"
+  ]
+}

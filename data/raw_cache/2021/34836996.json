@@ -1,0 +1,30 @@
+{
+  "pmid": "34836996",
+  "title": "Reduced and stable feature sets selection with random forest for neurons segmentation in histological images of macaque brain.",
+  "abstract": "In preclinical research, histology images are produced using powerful optical microscopes to digitize entire sections at cell scale. Quantification of stained tissue relies on machine learning driven segmentation. However, such methods require multiple additional information, or features, which are increasing the quantity of data to process. As a result, the quantity of features to deal with represents a drawback to process large series or massive histological images rapidly in a robust manner. Existing feature selection methods can reduce the amount of required information but the selected subsets lack reproducibility. We propose a novel methodology operating on high performance computing (HPC) infrastructures and aiming at finding small and stable sets of features for fast and robust segmentation of high-resolution histological images. This selection has two steps: (1) selection at features families scale (an intermediate pool of features, between spaces and individual features) and (2) feature selection performed on pre-selected features families. We show that the selected sets of features are stables for two different neuron staining. In order to test different configurations, one of these dataset is a mono-subject dataset and the other is a multi-subjects dataset to test different configurations. Furthermore, the feature selection results in a significant reduction of computation time and memory cost. This methodology will allow exhaustive histological studies at a high-resolution scale on HPC infrastructures for both preclinical and clinical research.",
+  "authors": [
+    "Bouvier C",
+    "Souedet N",
+    "Levy J",
+    "Jan C",
+    "You Z",
+    "Herard A-S",
+    "Mergoil G",
+    "Rodriguez B H",
+    "Clouchoux C",
+    "Delzescaux T"
+  ],
+  "journal": "Scientific reports",
+  "year": "2021",
+  "doi": "10.1038/s41598-021-02344-6",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Image Processing, Computer-Assisted",
+    "Macaca",
+    "Machine Learning",
+    "Microscopy",
+    "Neurons"
+  ]
+}

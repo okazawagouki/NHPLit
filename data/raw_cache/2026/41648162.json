@@ -1,0 +1,15 @@
+{
+  "pmid": "41648162",
+  "title": "The geometry of context-dependent biased decisions during learning.",
+  "abstract": "Adaptive behavior requires inferring latent context and rapidly adjusting decisions in response to changing environmental contingencies. We investigated how reward context is learned, represented, and updated during decision making. We recorded large populations of neurons in lateral prefrontal cortex while macaque monkeys learned a direction-discrimination task in which reward contingencies alternated unpredictably between favoring leftward and rightward choices. Once trained, monkeys inferred context switches from a single unexpected outcome, immediately adjusting both choice bias and reaction times-hallmarks of model-based inference. Early in learning, however, adaptation unfolded gradually across multiple trials. Neural population analyses revealed that reward context was encoded through systematic shifts in the geometry of neural representations. Accumulated sensory evidence (decision variable) and choice were organized along curvilinear decision manifolds, which were displaced across contexts primarily along the decision-variable axis. This geometry naturally implemented context-dependent biases: a fixed linear readout generated different choice tendencies across contexts without remapping. Longitudinal recordings further showed that, with learning, these representational transitions between manifolds became faster, mirroring the emergence of one-trial behavioral generalization. Recurrent neural networks trained on the same task reproduced both the behavioral signatures and the context-dependent geometric shifts. Together, these findings identify a mechanism by which prefrontal circuits support hierarchical inference: reward context is encoded as structured shifts in representational geometry, enabling rapid generalization and flexible control of decision policies.",
+  "authors": [
+    "Nogueira Ramon",
+    "Esteki Saleh",
+    "Fusi Stefano",
+    "Kiani Roozbeh"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2026",
+  "doi": "10.64898/2026.01.14.699497",
+  "mesh": []
+}

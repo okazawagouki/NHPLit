@@ -1,0 +1,34 @@
+{
+  "pmid": "30379603",
+  "title": "A muscle-activity-dependent gain between motor cortex and EMG.",
+  "abstract": "Whether one is delicately placing a contact lens on the surface of the eye or lifting a heavy weight from the floor, the motor system must produce a wide range of forces under different dynamical loads. How does the motor cortex, with neurons that have a limited activity range, function effectively under these widely varying conditions? In this study, we explored the interaction of activity in primary motor cortex (M1) and muscles (electromyograms, EMGs) of two male rhesus monkeys for wrist movements made during three tasks requiring different dynamical loads and forces. Despite traditionally providing adequate predictions in single tasks, in our experiments, a single linear model failed to account for the relation between M1 activity and EMG across conditions. However, a model with a gain parameter that increased with the target force remained accurate across forces and dynamical loads. Surprisingly, this model showed that a greater proportion of EMG changes were explained by the nonlinear gain than the linear mapping from M1. In addition to its theoretical implications, the strength of this nonlinearity has important implications for brain-computer interfaces (BCIs). If BCI decoders are to be used to control movement dynamics (including interaction forces) directly, they will need to be nonlinear and include training data from broad data sets to function effectively across tasks. Our study reinforces the need to investigate neural control of movement across a wide range of conditions to understand its basic characteristics as well as translational implications. NEW & NOTEWORTHY We explored the motor cortex-to-electromyogram (EMG) mapping across a wide range of forces and loading conditions, which we found to be highly nonlinear. A greater proportion of EMG was explained by a nonlinear gain than a linear mapping. This nonlinearity allows motor cortex to control the wide range of forces encountered in the real world. These results unify earlier observations and inform the next-generation brain-computer interfaces that will control movement dynamics and interaction forces.",
+  "authors": [
+    "Naufel Stephanie",
+    "Glaser Joshua I",
+    "Kording Konrad P",
+    "Perreault Eric J",
+    "Miller Lee E"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2019",
+  "doi": "10.1152/jn.00329.2018",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Electromyography",
+    "Isometric Contraction",
+    "Linear Models",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Muscle, Skeletal",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Signal Processing, Computer-Assisted",
+    "Torque",
+    "Wrist"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "pmid": "23971503",
+  "title": "Modeling the Temporal Dynamics of IT Neurons in Visual Search: A Mechanism for Top-Down Selective Attention.",
+  "abstract": "We propose a neural model for object-oriented attention in which various visual stimuli (shapes, colors, letters, etc.) are represented by competing, mutually inhibitory, cell assemblies. The model's response to a sequence of cue and target stimuli mimics the neural responses in infero temporal (IT) visual cortex of monkeys performing a visual search task: enhanced response during the display of the stimulus, which decays but remains above a spontaneous rate after the cue disappears. When, subsequently, a display consisting of the target and several distractors is presented, the activity of all stimulus-driven cells is initially enhanced. After a short period of time, however, the activity of the cell assembly representing the cue stimulus is enhanced while the activity of the distractors decays because of mutual competition and a small top-down \"expectational\" input. The model fits the measured delayed activity in IT-cortex, recently reported by Chelazzi, Miller, Duncan, and Desimone (1993a), and we suggest that such a process, which is largely independent of the number of distractors, may be used by the visual system for selecting an expected target (appearing at an uncertain location) among distractors.",
+  "authors": [
+    "Usher M",
+    "Niebur E"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "1996",
+  "doi": "10.1162/jocn.1996.8.4.311",
+  "mesh": []
+}

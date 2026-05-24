@@ -1,0 +1,25 @@
+{
+  "pmid": "22343520",
+  "title": "Building a mechanistic model of the development and function of the primary visual cortex.",
+  "abstract": "Researchers have used a very wide range of different experimental and theoretical approaches to help understand mammalian visual systems. These approaches tend to have quite different assumptions, strengths, and weaknesses. Computational models of the visual cortex, in particular, have typically implemented either a proposed circuit for part of the visual cortex of the adult, assuming a very specific wiring pattern based on findings from adults, or else attempted to explain the long-term development of a visual cortex region from an initially undifferentiated starting point. Previous models of adult V1 have been able to account for many of the measured properties of V1 neurons, while not explaining how these properties arise or why neurons have those properties in particular. Previous developmental models have been able to reproduce the overall organization of specific feature maps in V1, such as orientation maps, but are generally formulated at an abstract level that does not allow testing with real images or analysis of detailed neural properties relevant for visual function. In this review of results from a large set of new, integrative models developed from shared principles and a set of shared software components, I show how these models now represent a single, consistent explanation for a wide body of experimental evidence, and form a compact hypothesis for much of the development and behavior of neurons in the visual cortex. The models are the first developmental models with wiring consistent with V1, the first to have realistic behavior with respect to visual contrast, and the first to include all of the demonstrated visual feature dimensions. The goal is to have a comprehensive explanation for why V1 is wired as it is in the adult, and how that circuitry leads to the observed behavior of the neurons during visual tasks.",
+  "authors": [
+    "Bednar James A"
+  ],
+  "journal": "Journal of physiology, Paris",
+  "year": "2012",
+  "doi": "10.1016/j.jphysparis.2011.12.001",
+  "mesh": [
+    "Animals",
+    "Cats",
+    "Computer Simulation",
+    "Macaca",
+    "Models, Animal",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Neuronal Plasticity",
+    "Photoreceptor Cells, Vertebrate",
+    "Sensory Receptor Cells",
+    "Tupaiidae",
+    "Visual Cortex"
+  ]
+}

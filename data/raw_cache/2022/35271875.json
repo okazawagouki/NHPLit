@@ -1,0 +1,24 @@
+{
+  "pmid": "35271875",
+  "title": "A behavioral paradigm for cortical control of a robotic actuator by freely moving rats in a one-dimensional two-target reaching task.",
+  "abstract": "BACKGROUND: Controlling the trajectory of a neuroprosthesis to reach distant targets is a commonly used brain-machine interface (BMI) task in primates and has not been available for rodents yet. NEW METHOD: Here, we describe a novel, fine-tuned behavioral paradigm and setup which enables this task for rats in one-dimensional space for reaching two distant targets depending on their limited cognitive and visual capabilities compared to those of primates. An online transform was used to convert the activity of a pair of primary motor cortex (M1) units into two robotic actions. The rats were shaped to adapt to the transform and direct the robotic actuator toward the selected target by modulating the activity of the M1 neurons. RESULTS: All three rats involved in the study were capable of achieving randomly selected targets with at least 78% accuracy. A total of 9 out of 16 pairs of units examined were eligible for exceeding this success criterion. Two out of three rats were capable of reversal learning, where the mapping between the activity of the M1 units and the robotic actions were reversed. COMPARISON WITH EXISTING METHODS: The present work is the first demonstration of trajectory-based control of a neuroprosthetic device by rodents to reach two distant targets using visual feedback. CONCLUSION: The behavioral paradigm and setup introduced here can be used as a cost-effective platform for elucidating the information processing principles in the neural circuits related to neuroprosthetic control and for studying the performance of novel BMI technologies using freely moving rats.",
+  "authors": [
+    "Zaidi Syed Muhammad Talha",
+    "Kocatürk Samet",
+    "Baykaş Tunçer",
+    "Kocatürk Mehmet"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2022",
+  "doi": "10.1016/j.jneumeth.2022.109555",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Rats",
+    "Robotic Surgical Procedures",
+    "Robotics"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "31747389",
+  "title": "Predicting neuronal dynamics with a delayed gain control model.",
+  "abstract": "Visual neurons respond to static images with specific dynamics: neuronal responses sum sub-additively over time, reduce in amplitude with repeated or sustained stimuli (neuronal adaptation), and are slower at low stimulus contrast. Here, we propose a simple model that predicts these seemingly disparate response patterns observed in a diverse set of measurements-intracranial electrodes in patients, fMRI, and macaque single unit spiking. The model takes a time-varying contrast time course of a stimulus as input, and produces predicted neuronal dynamics as output. Model computation consists of linear filtering, expansive exponentiation, and a divisive gain control. The gain control signal relates to but is slower than the linear signal, and this delay is critical in giving rise to predictions matched to the observed dynamics. Our model is simpler than previously proposed related models, and fitting the model to intracranial EEG data uncovers two regularities across human visual field maps: estimated linear filters (temporal receptive fields) systematically differ across and within visual field maps, and later areas exhibit more rapid and substantial gain control. The model is further generalizable to account for dynamics of contrast-dependent spike rates in macaque V1, and amplitudes of fMRI BOLD in human V1.",
+  "authors": [
+    "Zhou Jingyang",
+    "Benson Noah C",
+    "Kay Kendrick",
+    "Winawer Jonathan"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2019",
+  "doi": "10.1371/journal.pcbi.1007484",
+  "mesh": [
+    "Action Potentials",
+    "Adaptation, Physiological",
+    "Adult",
+    "Animals",
+    "Brain",
+    "Computational Biology",
+    "Female",
+    "Forecasting",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Middle Aged",
+    "Models, Neurological",
+    "Models, Theoretical",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "17573920",
+  "title": "Coding of movement- and force-related information in primate primary motor cortex: a computational approach.",
+  "abstract": "Coordinated movements result from descending commands transmitted by central motor systems to the muscles. Although the resulting effect of the commands has the dimension of a muscular force, it is unclear whether the information transmitted by the commands concerns movement kinematics (e.g. position, velocity) or movement dynamics (e.g. force, torque). To address this issue, we used an optimal control model of movement production that calculates inputs to motoneurons that are appropriate to drive an articulated limb toward a goal. The model quantitatively accounted for kinematic, kinetic and muscular properties of planar, shoulder/elbow arm-reaching movements of monkeys, and reproduced detailed features of neuronal correlates of these movements in primate motor cortex. The model also reproduced qualitative spatio-temporal characteristics of movement- and force-related single neuron discharges in non-planar reaching and isometric force production tasks. The results suggest that the nervous system of the primate controls movements through a muscle-based controller that could be located in the motor cortex.",
+  "authors": [
+    "Guigon Emmanuel",
+    "Baraduc Pierre",
+    "Desmurget Michel"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Biomechanical Phenomena",
+    "Data Interpretation, Statistical",
+    "Haplorhini",
+    "Kinetics",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Muscle, Skeletal",
+    "Primates"
+  ]
+}

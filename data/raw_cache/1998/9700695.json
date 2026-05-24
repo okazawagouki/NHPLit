@@ -1,0 +1,29 @@
+{
+  "pmid": "9700695",
+  "title": "Digital video: a tool for correlating neuronal firing patterns with hand motor behavior.",
+  "abstract": "This report describes the use of multimedia technology for simultaneous recording of single unit responses in cerebral cortex, and imaging of hand kinematics as monkeys grasp and manipulate objects. These imaging methods allow direct correlation of full-frame, full-field video images with the actual spike trains recorded with microelectrodes. Our implementation of digital video provides high-resolution snapshots of the hand motor behavior every 33.3 ms, and a precise calibration and display of the synchronously recorded electrophysiological activity digitized at rates up to 44.5 kHz on the same platform. These imaging methods permit non-invasive, non-traumatic monitoring of both trained and spontaneous activity in experimental animals, while providing synchronized digitized records of neuronal spike trains. We also describe software instruments that quantify and analyze the digitized spike trains. One instrument employs user-selectable objective criteria for distinguishing spikes from noise, separates individual action potential waveforms by their amplitude and duration, and compiles time stamps for each spike train. A second instrument constructs rasters and histograms of repeated behavioral trials using the timing of the corresponding video frame for alignment. These analyses reveal functional classes of cortical neurons signaling specific stages of prehension.",
+  "authors": [
+    "Ro J Y",
+    "Debowy D",
+    "Lu S",
+    "Ghosh S",
+    "Gardner E P"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Electrophysiology",
+    "Hand",
+    "Hand Strength",
+    "Image Processing, Computer-Assisted",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Signal Processing, Computer-Assisted",
+    "Somatosensory Cortex",
+    "Videotape Recording"
+  ]
+}

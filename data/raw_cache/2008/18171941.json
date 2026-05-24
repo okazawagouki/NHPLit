@@ -1,0 +1,28 @@
+{
+  "pmid": "18171941",
+  "title": "Universal memory mechanism for familiarity recognition and identification.",
+  "abstract": "Macaque monkeys were tested on a delayed-match-to-multiple-sample task, with either a limited set of well trained images (in randomized sequence) or with never-before-seen images. They performed much better with novel images. False positives were mostly limited to catch-trial image repetitions from the preceding trial. This result implies extremely effective one-shot learning, resembling Standing's finding that people detect familiarity for 10,000 once-seen pictures (with 80% accuracy) (Standing, 1973). Familiarity memory may differ essentially from identification, which embeds and generates contextual information. When encountering another person, we can say immediately whether his or her face is familiar. However, it may be difficult for us to identify the same person. To accompany the psychophysical findings, we present a generic neural network model reproducing these behaviors, based on the same conservative Hebbian synaptic plasticity that generates delay activity identification memory. Familiarity becomes the first step toward establishing identification. Adding an inter-trial reset mechanism limits false positives for previous-trial images. The model, unlike previous proposals, relates repetition-recognition with enhanced neural activity, as recently observed experimentally in 92% of differential cells in prefrontal cortex, an area directly involved in familiarity recognition. There may be an essential functional difference between enhanced responses to novel versus to familiar images: The maximal signal from temporal cortex is for novel stimuli, facilitating additional sensory processing of newly acquired stimuli. The maximal signal for familiar stimuli arising in prefrontal cortex facilitates the formation of selective delay activity, as well as additional consolidation of the memory of the image in an upstream cortical module.",
+  "authors": [
+    "Yakovlev Volodya",
+    "Amit Daniel J",
+    "Romani Sandro",
+    "Hochstein Shaul"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2008",
+  "doi": "10.1523/JNEUROSCI.4799-07.2008",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Computer Simulation",
+    "Discrimination, Psychological",
+    "Haplorhini",
+    "Identification, Psychological",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Photic Stimulation",
+    "ROC Curve",
+    "Recognition, Psychology",
+    "Task Performance and Analysis"
+  ]
+}

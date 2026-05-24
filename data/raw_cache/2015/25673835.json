@@ -1,0 +1,30 @@
+{
+  "pmid": "25673835",
+  "title": "Reversal learning and dopamine: a bayesian perspective.",
+  "abstract": "Reversal learning has been studied as the process of learning to inhibit previously rewarded actions. Deficits in reversal learning have been seen after manipulations of dopamine and lesions of the orbitofrontal cortex. However, reversal learning is often studied in animals that have limited experience with reversals. As such, the animals are learning that reversals occur during data collection. We have examined a task regime in which monkeys have extensive experience with reversals and stable behavioral performance on a probabilistic two-arm bandit reversal learning task. We developed a Bayesian analysis approach to examine the effects of manipulations of dopamine on reversal performance in this regime. We find that the analysis can clarify the strategy of the animal. Specifically, at reversal, the monkeys switch quickly from choosing one stimulus to choosing the other, as opposed to gradually transitioning, which might be expected if they were using a naive reinforcement learning (RL) update of value. Furthermore, we found that administration of haloperidol affects the way the animals integrate prior knowledge into their choice behavior. Animals had a stronger prior on where reversals would occur on haloperidol than on levodopa (l-DOPA) or placebo. This strong prior was appropriate, because the animals had extensive experience with reversals occurring in the middle of the block. Overall, we find that Bayesian dissection of the behavior clarifies the strategy of the animals and reveals an effect of haloperidol on integration of prior information with evidence in favor of a choice reversal.",
+  "authors": [
+    "Costa Vincent D",
+    "Tran Valery L",
+    "Turchi Janita",
+    "Averbeck Bruno B"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.1989-14.2015",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Choice Behavior",
+    "Conditioning, Operant",
+    "Dopamine",
+    "Dopamine Agents",
+    "Dopamine Antagonists",
+    "Female",
+    "Haloperidol",
+    "Levodopa",
+    "Macaca mulatta",
+    "Male",
+    "Reversal Learning"
+  ]
+}

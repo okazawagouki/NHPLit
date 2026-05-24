@@ -1,0 +1,29 @@
+{
+  "pmid": "30403971",
+  "title": "Coarse-to-fine information integration in human vision.",
+  "abstract": "Coarse-to-fine theories of vision propose that the coarse information carried by the low spatial frequencies (LSF) of visual input guides the integration of finer, high spatial frequency (HSF) detail. Whether and how LSF modulates HSF processing in naturalistic broad-band stimuli is still unclear. Here we used multivariate decoding of EEG signals to separate the respective contribution of LSF and HSF to the neural response evoked by broad-band images. Participants viewed images of human faces, monkey faces and phase-scrambled versions that were either broad-band or filtered to contain LSF or HSF. We trained classifiers on EEG scalp-patterns evoked by filtered scrambled stimuli and evaluated the derived models on broad-band scrambled and intact trials. We found reduced HSF contribution when LSF was informative towards image content, indicating that coarse information does guide the processing of fine detail, in line with coarse-to-fine theories. We discuss the potential cortical mechanisms underlying such coarse-to-fine feedback.",
+  "authors": [
+    "Petras Kirsten",
+    "Ten Oever Sanne",
+    "Jacobs Christianne",
+    "Goffaux Valerie"
+  ],
+  "journal": "NeuroImage",
+  "year": "2019",
+  "doi": "10.1016/j.neuroimage.2018.10.086",
+  "mesh": [
+    "Adult",
+    "Cerebral Cortex",
+    "Electroencephalography",
+    "Evoked Potentials",
+    "Facial Recognition",
+    "Female",
+    "Humans",
+    "Male",
+    "Pattern Recognition, Automated",
+    "Support Vector Machine",
+    "Time Factors",
+    "Visual Perception",
+    "Young Adult"
+  ]
+}

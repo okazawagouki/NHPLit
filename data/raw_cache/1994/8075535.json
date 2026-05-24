@@ -1,0 +1,20 @@
+{
+  "pmid": "8075535",
+  "title": "A neural model of the cortical representation of egocentric distance.",
+  "abstract": "Neurons in the visual cortex of monkeys respond selectively to the disparity between the images in the two eyes. Recent recordings have shown that some of the disparity-selective neurons in the primary visual cortex and the posterior parietal cortex are modulated by the distance of fixation. A population of such gain-modulated, disparity-selective neurons forms a set of basis functions of horizontal disparity and distance of fixation that can be used as an intermediate representation for computing egocentric distance. This distributed representation is consistent with psychophysical studies of human depth perception; in contrast, neurons explicitly tuned to distance are not consistent with how we perceive distance. In a population model that includes noise in the firing rates of neurons, the perceived distance is shown to be the estimate of geometrical distance that minimizes the variance of the estimation.",
+  "authors": [
+    "Pouget A",
+    "Sejnowski T J"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "1994",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Depth Perception",
+    "Humans",
+    "Models, Neurological",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

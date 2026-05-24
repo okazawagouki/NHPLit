@@ -1,0 +1,27 @@
+{
+  "pmid": "24695217",
+  "title": "Sensory stimulation shifts visual cortex from synchronous to asynchronous states.",
+  "abstract": "In the mammalian cerebral cortex, neural responses are highly variable during spontaneous activity and sensory stimulation. To explain this variability, the cortex of alert animals has been proposed to be in an asynchronous high-conductance state in which irregular spiking arises from the convergence of large numbers of uncorrelated excitatory and inhibitory inputs onto individual neurons. Signatures of this state are that a neuron's membrane potential (Vm) hovers just below spike threshold, and its aggregate synaptic input is nearly Gaussian, arising from many uncorrelated inputs. Alternatively, irregular spiking could arise from infrequent correlated input events that elicit large fluctuations in Vm (refs 5, 6). To distinguish between these hypotheses, we developed a technique to perform whole-cell Vm measurements from the cortex of behaving monkeys, focusing on primary visual cortex (V1) of monkeys performing a visual fixation task. Here we show that, contrary to the predictions of an asynchronous state, mean Vm during fixation was far from threshold (14 mV) and spiking was triggered by occasional large spontaneous fluctuations. Distributions of Vm values were skewed beyond that expected for a range of Gaussian input, but were consistent with synaptic input arising from infrequent correlated events. Furthermore, spontaneous fluctuations in Vm were correlated with the surrounding network activity, as reflected in simultaneously recorded nearby local field potential. Visual stimulation, however, led to responses more consistent with an asynchronous state: mean Vm approached threshold, fluctuations became more Gaussian, and correlations between single neurons and the surrounding network were disrupted. These observations show that sensory drive can shift a common cortical circuitry from a synchronous to an asynchronous state.",
+  "authors": [
+    "Tan Andrew Y Y",
+    "Chen Yuzhi",
+    "Scholl Benjamin",
+    "Seidemann Eyal",
+    "Priebe Nicholas J"
+  ],
+  "journal": "Nature",
+  "year": "2014",
+  "doi": "10.1038/nature13159",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Fixation, Ocular",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Synapses",
+    "Visual Cortex"
+  ]
+}

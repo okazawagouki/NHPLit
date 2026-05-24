@@ -1,0 +1,33 @@
+{
+  "pmid": "23853294",
+  "title": "A 100-channel hermetically sealed implantable device for chronic wireless neurosensing applications.",
+  "abstract": "A 100-channel fully implantable wireless broadband neural recording system was developed. It features 100 parallel broadband (0.1 Hz-7.8 kHz) neural recording channels, a medical grade 200 mAh Li-ion battery recharged inductively at 150 kHz , and data telemetry using 3.2 GHz to 3.8 GHz FSK modulated wireless link for 48 Mbps Manchester encoded data. All active electronics are hermetically sealed in a titanium enclosure with a sapphire window for electromagnetic transparency. A custom, high-density configuration of 100 individual hermetic feedthrough pins enable connection to an intracortical neural recording microelectrode array. A 100 MHz bandwidth custom receiver was built to remotely receive the FSK signal and achieved -77.7 dBm sensitivity with 10(-8) BER at 48 Mbps data rate. ESD testing on all the electronic inputs and outputs has proven that the implantable device satisfies the HBM Class-1B ESD Standard. In addition, the evaluation of the worst-case charge density delivered to the tissue from each I/O pin verifies the patient safety of the device in the event of failure. Finally, the functionality and reliability of the complete device has been tested on-bench and further validated chronically in ongoing freely moving swine and monkey animal trials for more than one year to date.",
+  "authors": [
+    "Yin Ming",
+    "Borton David A",
+    "Aceros Juan",
+    "Patterson William R",
+    "Nurmikko Arto V"
+  ],
+  "journal": "IEEE transactions on biomedical circuits and systems",
+  "year": "2013",
+  "doi": "10.1109/TBCAS.2013.2255874",
+  "mesh": [
+    "Aluminum Oxide",
+    "Amplifiers, Electronic",
+    "Animals",
+    "Biomedical Engineering",
+    "Electromagnetic Radiation",
+    "Electronics",
+    "Equipment Design",
+    "Haplorhini",
+    "Implantable Neurostimulators",
+    "Microelectrodes",
+    "Neural Prostheses",
+    "Signal Processing, Computer-Assisted",
+    "Swine",
+    "Telemetry",
+    "Titanium",
+    "Wireless Technology"
+  ]
+}

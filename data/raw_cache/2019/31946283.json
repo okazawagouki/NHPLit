@@ -1,0 +1,22 @@
+{
+  "pmid": "31946283",
+  "title": "Quantifying Interactions between Neural Populations during Behavior using Dynamical Systems Models.",
+  "abstract": "There has been a recent surge of dynamical systems models (DSMs) constructed from brain activity to investigate how neural firing patterns evolve over time, and how such patterns in turn generate measured behavior. An advantage with DSMs are their ability to accurately reconstruct neural patterns and behavior simultaneously, capturing variability in data due to different tasks. In this paper, we demonstrate how to use a general DSM beyond reconstruction. In particular, we show that the general DSM can also be used to (i) quantify which states, i.e. which neural regions drive the dynamics of the observed neural activity throughout behavior, and (ii) whether interactions between populations are primarily within the same brain region (intra) or across brain regions (inter). We first begin with an intuitive dynamical system example - a coupled two-mass spring system, and then perform the same analyses for a DSM estimated from neural data collected from a nonhuman primate executing a reach-to-grasp motor task. These examples show that DSM is a modeling approach that not only can accurately reconstruct observed neural and behavioral activities, but can predict important dynamical neural drivers as well as interactions between different neural populations that cannot be gleaned from data alone.",
+  "authors": [
+    "D'Aleo Raina",
+    "Rouse Adam",
+    "Schieber Marc",
+    "Sarma Sridevi V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2019",
+  "doi": "10.1109/EMBC.2019.8856678",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Hand Strength",
+    "Models, Theoretical",
+    "Neurons",
+    "Primates"
+  ]
+}

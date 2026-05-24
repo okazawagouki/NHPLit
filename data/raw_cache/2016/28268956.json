@@ -1,0 +1,26 @@
+{
+  "pmid": "28268956",
+  "title": "Maximum correntropy based attention-gated reinforcement learning designed for brain machine interface.",
+  "abstract": "Reinforcement learning is an effective algorithm for brain machine interfaces (BMIs) which interprets the mapping between neural activities with plasticity and the kinematics. Exploring large state-action space is difficulty when the complicated BMIs needs to assign credits over both time and space. For BMIs attention gated reinforcement learning (AGREL) has been developed to classify multi-actions for spatial credit assignment task with better efficiency. However, the outliers existing in the neural signals still make interpret the neural-action mapping difficult. We propose an enhanced AGREL algorithm using correntropy as a criterion, which is more insensitive to noise. Then the algorithm is tested on the neural data where the monkey is trained to do the obstacle avoidance task. The new method converges faster during the training period, and improves from 44.63% to 68.79% on average in success rate compared with the original AGREL. The result indicates that the combination of correntropy criterion and AGREL can reduce the effect of the outliers with better performance when interpreting the mapping between neural signal and kinematics.",
+  "authors": [
+    "Hongbao Li",
+    "Fang Wang",
+    "Qiaosheng Zhang",
+    "Shaomin Zhang",
+    "Yiwen Wang",
+    "Xiaoxiang Zheng",
+    "Principe Jose C"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2016",
+  "doi": "10.1109/EMBC.2016.7591374",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Attention",
+    "Brain-Computer Interfaces",
+    "Haplorhini",
+    "Nonlinear Dynamics",
+    "Reinforcement, Psychology"
+  ]
+}

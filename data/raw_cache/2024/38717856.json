@@ -1,0 +1,19 @@
+{
+  "pmid": "38717856",
+  "title": "A dopamine mechanism for reward maximization.",
+  "abstract": "Individual survival and evolutionary selection require biological organisms to maximize reward. Economic choice theories define the necessary and sufficient conditions, and neuronal signals of decision variables provide mechanistic explanations. Reinforcement learning (RL) formalisms use predictions, actions, and policies to maximize reward. Midbrain dopamine neurons code reward prediction errors (RPE) of subjective reward value suitable for RL. Electrical and optogenetic self-stimulation experiments demonstrate that monkeys and rodents repeat behaviors that result in dopamine excitation. Dopamine excitations reflect positive RPEs that increase reward predictions via RL; against increasing predictions, obtaining similar dopamine RPE signals again requires better rewards than before. The positive RPEs drive predictions higher again and thus advance a recursive reward-RPE-prediction iteration toward better and better rewards. Agents also avoid dopamine inhibitions that lower reward prediction via RL, which allows smaller rewards than before to elicit positive dopamine RPE signals and resume the iteration toward better rewards. In this way, dopamine RPE signals serve a causal mechanism that attracts agents via RL to the best rewards. The mechanism improves daily life and benefits evolutionary selection but may also induce restlessness and greed.",
+  "authors": [
+    "Schultz Wolfram"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2024",
+  "doi": "10.1073/pnas.2316658121",
+  "mesh": [
+    "Reward",
+    "Animals",
+    "Dopamine",
+    "Dopaminergic Neurons",
+    "Humans",
+    "Reinforcement, Psychology"
+  ]
+}

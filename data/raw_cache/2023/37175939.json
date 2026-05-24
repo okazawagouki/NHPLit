@@ -1,0 +1,26 @@
+{
+  "pmid": "37175939",
+  "title": "Spatial Attention Modulates Neuronal Interactions between Simple and Complex Cells in V1.",
+  "abstract": "Visual perception is profoundly modulated by spatial attention, which can selectively prioritize goal-related information. Previous studies found spatial attention facilitated the efficacy of neuronal communication between visual cortices with hierarchical organizations. In the primary visual cortex (V1), there is also a hierarchical connection between simple (S) and complex (C) cells. We wonder whether and how spatial attention modulates neuronal communication within V1, especially for neuronal pairs with heterogeneous visual input. We simultaneously recorded the pairs' activity from macaque monkeys when they performed a spatial-attention-involved task, then applied likelihood-based Granger causality analysis to explore attentional modulation of neuronal interactions. First, a significant attention-related decrease in Granger causality was found in S-C pairs, which primarily displayed in the S-to-C feedforward connection. Second, the interaction strength of the feedforward connection was significantly higher than that of the feedback under attend toward (AT) conditions. Although information flow did not alter as the attentional focus shifted, the strength of communications between target- and distractor-stimuli-covered neurons differed only when attending to complex cells' receptive fields (RFs). Furthermore, pairs' communications depended on the attentional modulation of neurons' firing rates. Our findings demonstrate spatial attention does not induce specific information flow but rather amplifies directed communication within V1.",
+  "authors": [
+    "Zheng Zhiyan",
+    "Hu Qiyi",
+    "Bu Xiangdong",
+    "Jiang Hongru",
+    "Sui Xiaohong",
+    "Li Liming",
+    "Chai Xinyu",
+    "Chen Yao"
+  ],
+  "journal": "International journal of molecular sciences",
+  "year": "2023",
+  "doi": "10.3390/ijms24098229",
+  "mesh": [
+    "Animals",
+    "Likelihood Functions",
+    "Macaca mulatta",
+    "Attention",
+    "Visual Perception",
+    "Neurons"
+  ]
+}

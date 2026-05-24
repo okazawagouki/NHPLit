@@ -1,0 +1,30 @@
+{
+  "pmid": "39299799",
+  "title": "A Novel Directed Seed-Based Connectivity Analysis Toolbox Applied to Human and Marmoset Resting-State FMRI.",
+  "abstract": "Estimating the direction of functional connectivity (FC) can help further elucidate complex brain function. However, the estimation of directed FC at the voxel level in fMRI data, and evaluating its performance, has yet to be done. We therefore developed a novel directed seed-based connectivity analysis (SCA) method based on normalized pairwise Granger causality that provides greater detail and accuracy over ROI-based methods. We evaluated its performance against 145 cortical retrograde tracer injections in male and female marmosets that were used as ground truth cellular connectivity on a voxel-by-voxel basis. The receiver operating characteristic (ROC) curve was calculated for each injection, and we achieved area under the ROC curve of 0.95 for undirected and 0.942 for directed SCA in the case of high cell count threshold. This indicates that SCA can reliably estimate the strong cellular connections between voxels in fMRI data. We then used our directed SCA method to analyze the human default mode network (DMN) and found that dlPFC (dorsolateral prefrontal cortex) and temporal lobe were separated from other DMN regions, forming part of the language-network that works together with the core DMN regions. We also found that the cerebellum (Crus I-II) was strongly targeted by the posterior parietal cortices and dlPFC, but reciprocal connections were not observed. Thus, the cerebellum may not be a part of, but instead a target of, the DMN and language-network. Summarily, our novel directed SCA method, visualized with a new functional flat mapping technique, opens a new paradigm for whole-brain functional analysis.",
+  "authors": [
+    "Okuno Takuto",
+    "Hata Junichi",
+    "Kawai Chino",
+    "Okano Hideyuki",
+    "Woodward Alexander"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2024",
+  "doi": "10.1523/JNEUROSCI.0389-24.2024",
+  "mesh": [
+    "Magnetic Resonance Imaging",
+    "Callithrix",
+    "Animals",
+    "Humans",
+    "Male",
+    "Female",
+    "Nerve Net",
+    "Brain",
+    "Connectome",
+    "Brain Mapping",
+    "Default Mode Network",
+    "Adult",
+    "Neural Pathways"
+  ]
+}

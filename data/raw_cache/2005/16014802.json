@@ -1,0 +1,30 @@
+{
+  "pmid": "16014802",
+  "title": "Vibratory adaptation of cutaneous mechanoreceptive afferents.",
+  "abstract": "The objective of this study was to investigate the effects of extended suprathreshold vibratory stimulation on the sensitivity of slowly adapting type 1 (SA1), rapidly adapting (RA), and Pacinian (PC) afferents. To that end, an algorithm was developed to track afferent absolute (I0) and entrainment (I1) thresholds as they change over time. We recorded afferent responses to periliminal vibratory test stimuli, which were interleaved with intense vibratory conditioning stimuli during the adaptation period of each experimental run. From these measurements, the algorithm allowed us to infer changes in the afferents' sensitivity. We investigated the stimulus parameters that affect adaptation by assessing the degree to which adaptation depends on the amplitude and frequency of the adapting stimulus. For all three afferent types, I0 and I1 increased with increasing adaptation frequency and amplitude. The degree of adaptation seems to be independent of the firing rate evoked in the afferent by the conditioning stimulus. In the analysis, we distinguished between additive adaptation (in which I0 and I1 shift equally) and multiplicative effects (in which the ratio I1/I0 remains constant). RA threshold shifts are almost perfectly additive. SA1 threshold shifts are close to additive and far from multiplicative (I1 threshold shifts are twice the I0 shifts). PC shifts are more difficult to classify. We used an integrate-and-fire model to study the possible neural mechanisms. A change in transducer gain predicts a multiplicative change in I0 and I1 and is thus ruled out as a mechanism underlying SA1 and RA adaptation. A change in the resting action potential threshold predicts equal, additive change in I0 and I1 and thus accounts well for RA adaptation. A change in the degree of refractoriness during the relative refractory period predicts an additional change in I1 such as that observed for SA1 fibers. We infer that adaptation is caused by an increase in spiking thresholds produced by ion flow through transducer channels in the receptor membrane. In a companion paper, we describe the time-course of vibratory adaptation and recovery for SA1, RA, and PC fibers.",
+  "authors": [
+    "Bensmaïa S J",
+    "Leung Y Y",
+    "Hsiao S S",
+    "Johnson K O"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Adaptation, Physiological",
+    "Afferent Pathways",
+    "Animals",
+    "Computer Simulation",
+    "Macaca mulatta",
+    "Mechanoreceptors",
+    "Mechanotransduction, Cellular",
+    "Models, Neurological",
+    "Physical Stimulation",
+    "Skin",
+    "Skin Physiological Phenomena",
+    "Touch",
+    "Vibration"
+  ]
+}

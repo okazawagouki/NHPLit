@@ -1,0 +1,37 @@
+{
+  "pmid": "28054725",
+  "title": "Mapping complementary features of cross-species structural connectivity to construct realistic \"Virtual Brains\".",
+  "abstract": "Modern systems neuroscience increasingly leans on large-scale multi-lab neuroinformatics initiatives to provide necessary capacity for biologically realistic modeling of primate whole-brain activity. Here, we present a framework to assemble primate brain's biologically plausible anatomical backbone for such modeling initiatives. In this framework, structural connectivity is determined by adding complementary information from invasive macaque axonal tract tracing and non-invasive human diffusion tensor imaging. Both modalities are combined by means of available interspecies registration tools and a newly developed Bayesian probabilistic modeling approach to extract common connectivity evidence. We demonstrate how this novel framework is embedded in the whole-brain simulation platform called The Virtual Brain (TVB). Hum Brain Mapp 38:2080-2093, 2017. © 2017 Wiley Periodicals, Inc.",
+  "authors": [
+    "Bezgin Gleb",
+    "Solodkin Ana",
+    "Bakker Rembrandt",
+    "Ritter Petra",
+    "McIntosh Anthony R"
+  ],
+  "journal": "Human brain mapping",
+  "year": "2017",
+  "doi": "10.1002/hbm.23506",
+  "mesh": [
+    "Adolescent",
+    "Adult",
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Connectome",
+    "Databases, Factual",
+    "Diffusion Tensor Imaging",
+    "Female",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Libraries, Digital",
+    "Macaca",
+    "Male",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neural Pathways",
+    "Species Specificity",
+    "Young Adult"
+  ]
+}

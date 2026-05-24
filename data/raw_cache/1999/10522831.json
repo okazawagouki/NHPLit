@@ -1,0 +1,27 @@
+{
+  "pmid": "10522831",
+  "title": "Automatic detection of bursts in spike trains recorded from the thalamus of a monkey performing wrist movements.",
+  "abstract": "In a previous paper (Churchward PR, Butler EG, Finkelstein DI, Aumann TD, Sudbury A, Horne MK. J Neurosci Methods 1997;76:203-210), we showed that a simple back propagation neural network could reliably model visual inspection by human observers in detecting the point of change of neuronal discharge patterns. The data for that study was deliberately chosen so that the point of change was readily detected and there would be high concordance between human observers. We wished to extend this investigation by comparing a variety of automatic analysis methods on more complex data sets. Two automatic analysis methods have been discussed in this paper. The knowledge based spike train analysis (KBSTA) was designed to emulate the detection of bursts by human observers. The self-organizing feature map (SOFM) spike train analysis determined a burst by classifying the patterns of neuronal discharge. Neuronal discharge was recorded from the motor thalamus and nucleus ventralis posterior lateralis caudalis (VPLc) of a monkey performing consecutive trials of skilled wrist movements. Recordings were made from 36 neurons whose discharge patterns were related to wrist movement. Three hundred and sixty trials performed during the recording of these 36 neurons were chosen at random and used to compare the three methods, KBSTA, SOFM, and visual inspection. The main results of this study show that for the 360 trials the three detection methods have very similar results in detecting the onset and offset of neuronal bursts. The SOFM method is not the best first approach for detecting a burst, but it does provides independent evidence to support the KBSTA and visual inspection methods. In conclusion we propose the KBSTA method as a practical, automatic technique to identify bursts of neuronal discharge.",
+  "authors": [
+    "Xu Z M",
+    "Ivanusic J J",
+    "Bourke D W",
+    "Butler E G",
+    "Horne M K"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Macaca mulatta",
+    "Movement",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Observer Variation",
+    "Poisson Distribution",
+    "Thalamic Nuclei",
+    "Time Factors"
+  ]
+}

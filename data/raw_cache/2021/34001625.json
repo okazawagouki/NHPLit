@@ -1,0 +1,22 @@
+{
+  "pmid": "34001625",
+  "title": "Accounting for Biases in the Estimation of Neuronal Signal Correlation.",
+  "abstract": "Signal correlation (<i>r</i><sub>s</sub>) is commonly defined as the correlation between the tuning curves of two neurons and is widely used as a metric of tuning similarity. It is fundamental to how populations of neurons represent stimuli and has been central to many studies of neural coding. Yet the classic estimate, Pearson's correlation coefficient, [Formula: see text], between the average responses of two neurons to a set of stimuli suffers from confounding biases. The estimate [Formula: see text] can be downwardly biased by trial-to-trial variability and also upwardly biased by trial-to-trial correlation between neurons, and these biases can hide important aspects of neural coding. Here we provide analytic results on the source of these biases and explore them for ranges of parameters that are relevant for electrophysiological experiments. We then provide corrections for these biases that we validate in simulation. Furthermore, we apply these corrected estimators to make the following novel experimental observation in cortical area MT: pairs of nearby neurons that are strongly tuned for motion direction tend to have high signal correlation, and pairs that are weakly tuned tend to have low signal correlation. We dismiss a trivial explanation for this and find that an analogous trend holds for orientation tuning in the primary visual cortex. We also consider the potential consequences for encoding whereby the association of signal correlation and tuning strength naturally regularizes the dimensionality of downstream computations.<b>SIGNIFICANCE STATEMENT</b> Fundamental to how cortical neurons encode information about the environment is their functional similarity, that is, the redundancy in what they encode and their shared noise. These properties have been extensively studied theoretically and experimentally throughout the nervous system, but here we show that a common estimator of functional similarity has confounding biases. We characterize these biases and provide estimators that do not suffer from them. Using our improved estimators, we demonstrate a novel result, that is, there is a positive relationship between tuning curve similarity and amplitude for nearby neurons in the visual cortical motion area MT. We provide a simple stochastic model explaining this relationship and discuss how it would naturally regularize the dimensionality of neural encoding.",
+  "authors": [
+    "Pospisil Dean A",
+    "Bair Wyeth"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2021",
+  "doi": "10.1523/JNEUROSCI.2775-20.2021",
+  "mesh": [
+    "Animals",
+    "Bias",
+    "Humans",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

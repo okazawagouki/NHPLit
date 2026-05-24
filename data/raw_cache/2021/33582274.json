@@ -1,0 +1,26 @@
+{
+  "pmid": "33582274",
+  "title": "Behavioral validation of novel high resolution attention decoding method from multi-units & local field potentials.",
+  "abstract": "The ability to access brain information in real-time is crucial both for a better understanding of cognitive functions and for the development of therapeutic applications based on brain-machine interfaces. Great success has been achieved in the field of neural motor prosthesis. Progress is still needed in the real-time decoding of higher-order cognitive processes such as covert attention. Recently, we showed that we can track the location of the attentional spotlight using classification methods applied to prefrontal multi-unit activity (MUA) in the non-human primates. Importantly, we demonstrated that the decoded (x,y) attentional spotlight parametrically correlates with the behavior of the monkeys thus validating our decoding of attention. We also demonstrate that this spotlight is extremely dynamic. Here, in order to get closer to non-invasive decoding applications, we extend our previous work to local field potential signals (LFP). Specifically, we achieve, for the first time, high decoding accuracy of the (x,y) location of the attentional spotlight from prefrontal LFP signals, to a degree comparable to that achieved from MUA signals, and we show that this LFP content is predictive of behavior. This LFP attention-related information is maximal in the gamma band (30-250 Hz), peaking between 60 to 120 Hz. In addition, we introduce a novel two-step decoding procedure based on the labelling of maximally attention-informative trials during the decoding procedure. This procedure strongly improves the correlation between our real-time MUA and LFP based decoding and behavioral performance, thus further refining the functional relevance of this real-time decoding of the (x,y) locus of attention. This improvement is more marked for LFP signals than for MUA signals. Overall, this study demonstrates that the attentional spotlight can be accessed from LFP frequency content, in real-time, and can be used to drive high-information content cognitive brain-machine interfaces for the development of new therapeutic strategies.",
+  "authors": [
+    "De Sousa Carine",
+    "Gaillard C",
+    "Di Bello F",
+    "Ben Hadj Hassen S",
+    "Ben Hamed S"
+  ],
+  "journal": "NeuroImage",
+  "year": "2021",
+  "doi": "10.1016/j.neuroimage.2021.117853",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Macaca mulatta",
+    "Machine Learning",
+    "Male",
+    "Photic Stimulation",
+    "Prefrontal Cortex",
+    "Psychomotor Performance",
+    "Reproducibility of Results"
+  ]
+}

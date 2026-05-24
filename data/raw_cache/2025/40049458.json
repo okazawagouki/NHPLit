@@ -1,0 +1,38 @@
+{
+  "pmid": "40049458",
+  "title": "Comparing a BCI communication system in a patient with Multiple System Atrophy, with an animal model.",
+  "abstract": "Paralysis affects many people worldwide, and the people affected often suffer from impaired communication. We developed a microelectrode-based Brain-Computer Interface (BCI) for enabling communication in patients affected by paralysis, and implanted it in a patient with Multiple System Atrophy (MSA), a neurodegenerative disease that causes widespread neural symptoms including paralysis. To verify the effectiveness of the BCI system, it was also tested by implanting it in a non-human primate (NHP). Data from the human and NHP were used to train binary classifiers two different types of machine learning models: a Linear Discriminant Analysis (LDA) model, and a Long Short-Term Memory (LSTM)-based Artificial Neural Network (ANN). The LDA model performed at up to 72.7 % accuracy for binary decoding in the human patient, however, performance was highly variable and was much lower on most recording days. The BCI system was able to accurately decode movement vs non-movement in the NHP (accuracy using LDA: 82.7 ± 3.3 %, LSTM: 83.7 ± 2.2 %, 95 % confidence intervals), however it was not able to with recordings from the human patient (accuracy using LDA: 47.0 ± 5.1 %, LSTM: 44.6 ± 9.9 %, 95 % confidence intervals). We discuss how neurodegenerative diseases such as MSA can impede BCI-based communication, and postulate on the mechanisms by which this may occur.",
+  "authors": [
+    "Premchand Brian",
+    "Toe Kyaw Kyar",
+    "Wang Chuanchu",
+    "Wan Kai Rui",
+    "Selvaratnam Thevapriya",
+    "Toh Valerie Ethans",
+    "Ng Wai Hoe",
+    "Libedinsky Camilo",
+    "Chen Weiguo",
+    "Lim Ruiqi",
+    "Cheng Ming-Yuan",
+    "Gao Yuan",
+    "Ang Kai Keng",
+    "So Rosa Qi Yue"
+  ],
+  "journal": "Brain research bulletin",
+  "year": "2025",
+  "doi": "10.1016/j.brainresbull.2025.111289",
+  "mesh": [
+    "Brain-Computer Interfaces",
+    "Multiple System Atrophy",
+    "Animals",
+    "Humans",
+    "Electroencephalography",
+    "Disease Models, Animal",
+    "Neural Networks, Computer",
+    "Male",
+    "Communication Devices for People with Disabilities",
+    "Machine Learning",
+    "Macaca mulatta",
+    "Female"
+  ]
+}

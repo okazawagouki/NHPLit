@@ -1,0 +1,19 @@
+{
+  "pmid": "36685404",
+  "title": "A multimodal imaging-guided software for access to primate brains.",
+  "abstract": "BACKGROUND: Imaging-guided access to the brain has become a routine procedure for various research and clinical applications, including drug administration, neurophysiological recording, and sampling tissue. Therefore, open-source software is required to handle such datasets in these specific applications. NEW METHODS: Here, we proposed an open-source tool utilizing different imaging modalities for automating the steps to access the brain. This tool provides means for easily calculating the coordination of the area of interest concerning a specific point of entry. The source and documentation are available at this link. RESULTS: We have used this software for three different applications: electrophysiological recording, drug infusion in the nonhuman primate brain, and guided biopsy procedure in the human brain. We performed a neural recording of two monkeys' prefrontal cortex and inferior temporal cortex using this software in submillimeter resolution. We also applied our procedure for infusion in the putamen and caudate nuclei in both hemispheres of another group of rhesus monkeys with histological proof in one animal. More so, we validated this software in the human subjects that underwent biopsy surgery with the commercial software used in human biopsy surgery. COMPARISON WITH EXISTING METHODS: Our software uses different imaging modalities by co-registering them. This will provide structural details of the skull and brain tissue. We can calculate each brain region's coordination at the point of entry by re-slicing the images. Atlas-based image segmentation were implemented in our software. Three mentioned applications of our software in neuroscience will be further discussed in this paper. CONCLUSION: In our procedure, working with different imaging modalities provides a precise estimation of the specific region in the brain related to the location of implants or stereotaxic frames. There is no limitation to using metal implants in this procedure.",
+  "authors": [
+    "Rezayat Ehsan",
+    "Heidari-Gorji Hamed",
+    "Narimani Pouya",
+    "Shayanfar Farzad",
+    "Noroozi Jalaledin",
+    "Shahbazi Ebrahim",
+    "Ertiaei Abolhassan",
+    "Dehaqani Mohammad-Reza A"
+  ],
+  "journal": "Heliyon",
+  "year": "2023",
+  "doi": "10.1016/j.heliyon.2022.e12675",
+  "mesh": []
+}

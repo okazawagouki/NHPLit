@@ -1,0 +1,39 @@
+{
+  "pmid": "36693887",
+  "title": "Brain Data Standards - A method for building data-driven cell-type ontologies.",
+  "abstract": "Large-scale single-cell 'omics profiling is being used to define a complete catalogue of brain cell types, something that traditional methods struggle with due to the diversity and complexity of the brain. But this poses a problem: How do we organise such a catalogue - providing a standard way to refer to the cell types discovered, linking their classification and properties to supporting data? Cell ontologies provide a partial solution to these problems, but no existing ontology schemas support the definition of cell types by direct reference to supporting data, classification of cell types using classifications derived directly from data, or links from cell types to marker sets along with confidence scores. Here we describe a generally applicable schema that solves these problems and its application in a semi-automated pipeline to build a data-linked extension to the Cell Ontology representing cell types in the Primary Motor Cortex of humans, mice and marmosets. The methods and resulting ontology are designed to be scalable and applicable to similar whole-brain atlases currently in preparation.",
+  "authors": [
+    "Tan Shawn Zheng Kai",
+    "Kir Huseyin",
+    "Aevermann Brian D",
+    "Gillespie Tom",
+    "Harris Nomi",
+    "Hawrylycz Michael J",
+    "Jorstad Nikolas L",
+    "Lein Ed S",
+    "Matentzoglu Nicolas",
+    "Miller Jeremy A",
+    "Mollenkopf Tyler S",
+    "Mungall Christopher J",
+    "Ray Patrick L",
+    "Sanchez Raymond E A",
+    "Staats Brian",
+    "Vermillion Jim",
+    "Yadav Ambika",
+    "Zhang Yun",
+    "Scheuermann Richard H",
+    "Osumi-Sutherland David"
+  ],
+  "journal": "Scientific data",
+  "year": "2023",
+  "doi": "10.1038/s41597-022-01886-2",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Mice",
+    "Biological Ontologies",
+    "Brain",
+    "Callithrix",
+    "Data Collection"
+  ]
+}

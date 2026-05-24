@@ -1,0 +1,19 @@
+{
+  "pmid": "23825935",
+  "title": "Dynamic excitatory and inhibitory gain modulation can produce flexible, robust and optimal decision-making.",
+  "abstract": "Behavioural and neurophysiological studies in primates have increasingly shown the involvement of urgency signals during the temporal integration of sensory evidence in perceptual decision-making. Neuronal correlates of such signals have been found in the parietal cortex, and in separate studies, demonstrated attention-induced gain modulation of both excitatory and inhibitory neurons. Although previous computational models of decision-making have incorporated gain modulation, their abstract forms do not permit an understanding of the contribution of inhibitory gain modulation. Thus, the effects of co-modulating both excitatory and inhibitory neuronal gains on decision-making dynamics and behavioural performance remain unclear. In this work, we incorporate time-dependent co-modulation of the gains of both excitatory and inhibitory neurons into our previous biologically based decision circuit model. We base our computational study in the context of two classic motion-discrimination tasks performed in animals. Our model shows that by simultaneously increasing the gains of both excitatory and inhibitory neurons, a variety of the observed dynamic neuronal firing activities can be replicated. In particular, the model can exhibit winner-take-all decision-making behaviour with higher firing rates and within a significantly more robust model parameter range. It also exhibits short-tailed reaction time distributions even when operating near a dynamical bifurcation point. The model further shows that neuronal gain modulation can compensate for weaker recurrent excitation in a decision neural circuit, and support decision formation and storage. Higher neuronal gain is also suggested in the more cognitively demanding reaction time than in the fixed delay version of the task. Using the exact temporal delays from the animal experiments, fast recruitment of gain co-modulation is shown to maximize reward rate, with a timescale that is surprisingly near the experimentally fitted value. Our work provides insights into the simultaneous and rapid modulation of excitatory and inhibitory neuronal gains, which enables flexible, robust, and optimal decision-making.",
+  "authors": [
+    "Niyogi Ritwik K",
+    "Wong-Lin KongFatt"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2013",
+  "doi": "10.1371/journal.pcbi.1003099",
+  "mesh": [
+    "Decision Making",
+    "Humans",
+    "Models, Theoretical",
+    "Reaction Time",
+    "Task Performance and Analysis"
+  ]
+}

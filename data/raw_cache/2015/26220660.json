@@ -1,0 +1,25 @@
+{
+  "pmid": "26220660",
+  "title": "Single-trial dynamics of motor cortex and their applications to brain-machine interfaces.",
+  "abstract": "Increasing evidence suggests that neural population responses have their own internal drive, or dynamics, that describe how the neural population evolves through time. An important prediction of neural dynamical models is that previously observed neural activity is informative of noisy yet-to-be-observed activity on single-trials, and may thus have a denoising effect. To investigate this prediction, we built and characterized dynamical models of single-trial motor cortical activity. We find these models capture salient dynamical features of the neural population and are informative of future neural activity on single trials. To assess how neural dynamics may beneficially denoise single-trial neural activity, we incorporate neural dynamics into a brain-machine interface (BMI). In online experiments, we find that a neural dynamical BMI achieves substantially higher performance than its non-dynamical counterpart. These results provide evidence that neural dynamics beneficially inform the temporal evolution of neural activity on single trials and may directly impact the performance of BMIs.",
+  "authors": [
+    "Kao Jonathan C",
+    "Nuyujukian Paul",
+    "Ryu Stephen I",
+    "Churchland Mark M",
+    "Cunningham John P",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Nature communications",
+  "year": "2015",
+  "doi": "10.1038/ncomms8759",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex"
+  ]
+}

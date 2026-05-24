@@ -1,0 +1,22 @@
+{
+  "pmid": "15555850",
+  "title": "Self-organization of globally continuous and locally distributed information representation.",
+  "abstract": "A number of findings suggest that the preferences of neighboring neurons in the inferior temporal (IT) cortex of macaque monkeys tend to be similar. However, a recent study reports convincingly that the preferences of neighboring neurons actually differ. These findings seem contradictory. To explain this conflict, we propose a new view of information representation in the IT cortex. This view takes into account sparse and local neuronal excitation. Since the excitation is sparse, information regarding visual objects seems to be encoded in a distributed manner. The local excitation of neurons coincides with the classical notion of a column structure. Our model consists of input layer and output layer. The main difference from conventional models is that the output layer has local and random intra-layer connections. In this paper, we adopt two rings embedded in three-dimensional space as an input signal space, and examine how resultant information representation depends on the distance between two rings that is denoted as D. We show that there exists critical value for the distance Dc. When D > Dc the output layer becomes able to form the column structure, this model can obtain the distributed representation within the column. While the output layer acquires the conventional information representation observed in the V1 cortex when D < Dc. Moreover, we consider the origin of the difference between information representation of the V1 cortex and that of the IT cortex. Our finding suggests that the difference in the information representations between the V1 and the IT cortices could be caused by difference between the input space structures.",
+  "authors": [
+    "Wada Koji",
+    "Kurata Koji",
+    "Okada Masato"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Macaca",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Neurons",
+    "Temporal Lobe"
+  ]
+}

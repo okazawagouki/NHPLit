@@ -1,0 +1,28 @@
+{
+  "pmid": "39406517",
+  "title": "Neural Transformation from Retinotopic to Background-Centric Coordinates in the Macaque Precuneus.",
+  "abstract": "Visual information is initially represented in retinotopic coordinates and later in craniotopic coordinates. Psychophysical evidence suggests that visual information is further represented in more general coordinates related to the external world; however, the neural basis of nonegocentric coordinates remains elusive. This study investigates the automatic transformation from egocentric to nonegocentric coordinates in the macaque precuneus (two males, one female), identified by a functional imaging study as a key area for nonegocentric representation. We found that 6.2% of neurons in the precuneus have receptive fields (RFs) anchored to the background rather than to the retina or the head, while 16% had traditional retinotopic RFs. Notably, these two types were not exclusive: many background-centric neurons initially encode a stimulus' position in retinotopic coordinates (up to ∼90 ms from the stimulus onset) but later shift to background coordinates, peaking at ∼150 ms. Regarding retinotopic information, the stimulus dominated the initial period, whereas the background dominated the later period. In the absence of a background, there is a dramatic surge in retinotopic information about the stimulus during the later phase, clearly delineating two distinct periods of retinotopic encoding: one focusing on the figure to be attended and another on the background. These findings suggest that the initial retinotopic information of the stimulus is combined with the background retinotopic information in a subsequent stage, yielding a more stable representation of the stimulus relative to the background through time-division multiplexing.",
+  "authors": [
+    "Uchimura Motoaki",
+    "Kumano Hironori",
+    "Kitazawa Shigeru"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2024",
+  "doi": "10.1523/JNEUROSCI.0892-24.2024",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Female",
+    "Parietal Lobe",
+    "Retina",
+    "Photic Stimulation",
+    "Visual Perception",
+    "Macaca mulatta",
+    "Neurons",
+    "Magnetic Resonance Imaging",
+    "Visual Fields",
+    "Brain Mapping",
+    "Visual Pathways"
+  ]
+}

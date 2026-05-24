@@ -1,0 +1,35 @@
+{
+  "pmid": "21775782",
+  "title": "Long-term stability of neural prosthetic control signals from silicon cortical arrays in rhesus macaque motor cortex.",
+  "abstract": "Cortically-controlled prosthetic systems aim to help disabled patients by translating neural signals from the brain into control signals for guiding prosthetic devices. Recent reports have demonstrated reasonably high levels of performance and control of computer cursors and prosthetic limbs, but to achieve true clinical viability, the long-term operation of these systems must be better understood. In particular, the quality and stability of the electrically-recorded neural signals require further characterization. Here, we quantify action potential changes and offline neural decoder performance over 382 days of recording from four intracortical arrays in three animals. Action potential amplitude decreased by 2.4% per month on average over the course of 9.4, 10.4, and 31.7 months in three animals. During most time periods, decoder performance was not well correlated with action potential amplitude (p > 0.05 for three of four arrays). In two arrays from one animal, action potential amplitude declined by an average of 37% over the first 2 months after implant. However, when using simple threshold-crossing events rather than well-isolated action potentials, no corresponding performance loss was observed during this time using an offline decoder. One of these arrays was effectively used for online prosthetic experiments over the following year. Substantial short-term variations in waveforms were quantified using a wireless system for contiguous recording in one animal, and compared within and between days for all three animals. Overall, this study suggests that action potential amplitude declines more slowly than previously supposed, and performance can be maintained over the course of multiple years when decoding from threshold-crossing events rather than isolated action potentials. This suggests that neural prosthetic systems may provide high performance over multiple years in human clinical trials.",
+  "authors": [
+    "Chestek Cynthia A",
+    "Gilja Vikash",
+    "Nuyujukian Paul",
+    "Foster Justin D",
+    "Fan Joline M",
+    "Kaufman Matthew T",
+    "Churchland Mark M",
+    "Rivera-Alvidrez Zuley",
+    "Cunningham John P",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2011",
+  "doi": "10.1088/1741-2560/8/4/045005",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Data Interpretation, Statistical",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Neurons",
+    "Prostheses and Implants",
+    "Prosthesis Design",
+    "User-Computer Interface"
+  ]
+}

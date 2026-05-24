@@ -1,0 +1,30 @@
+{
+  "pmid": "28087767",
+  "title": "Trial-by-Trial Motor Cortical Correlates of a Rapidly Adapting Visuomotor Internal Model.",
+  "abstract": "Accurate motor control is mediated by internal models of how neural activity generates movement. We examined neural correlates of an adapting internal model of visuomotor gain in motor cortex while two macaques performed a reaching task in which the gain scaling between the hand and a presented cursor was varied. Previous studies of cortical changes during visuomotor adaptation focused on preparatory and perimovement epochs and analyzed trial-averaged neural data. Here, we recorded simultaneous neural population activity using multielectrode arrays and focused our analysis on neural differences in the period before the target appeared. We found that we could estimate the monkey's internal model of the gain using the neural population state during this pretarget epoch. This neural correlate depended on the gain experienced during recent trials and it predicted the speed of the subsequent reach. To explore the utility of this internal model estimate for brain-machine interfaces, we performed an offline analysis showing that it can be used to compensate for upcoming reach extent errors. Together, these results demonstrate that pretarget neural activity in motor cortex reflects the monkey's internal model of visuomotor gain on single trials and can potentially be used to improve neural prostheses.<b>SIGNIFICANCE STATEMENT</b> When generating movement commands, the brain is believed to use internal models of the relationship between neural activity and the body's movement. Visuomotor adaptation tasks have revealed neural correlates of these computations in multiple brain areas during movement preparation and execution. Here, we describe motor cortical changes in a visuomotor gain change task even before a specific movement is cued. We were able to estimate the gain internal model from these pretarget neural correlates and relate it to single-trial behavior. This is an important step toward understanding the sensorimotor system's algorithms for updating its internal models after specific movements and errors. Furthermore, the ability to estimate the internal model before movement could improve motor neural prostheses being developed for people with paralysis.",
+  "authors": [
+    "Stavisky Sergey D",
+    "Kao Jonathan C",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2017",
+  "doi": "10.1523/JNEUROSCI.1091-16.2016",
+  "mesh": [
+    "Action Potentials",
+    "Adaptation, Physiological",
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Neural Pathways",
+    "Neurons",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Reaction Time",
+    "Statistics as Topic"
+  ]
+}

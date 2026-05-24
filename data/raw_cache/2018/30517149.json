@@ -1,0 +1,34 @@
+{
+  "pmid": "30517149",
+  "title": "Altering alpha-frequency brain oscillations with rapid analog feedback-driven neurostimulation.",
+  "abstract": "Oscillations of the brain's local field potential (LFP) may coordinate neural ensembles and brain networks. It has been difficult to causally test this model or to translate its implications into treatments, because there are few reliable ways to alter LFP oscillations. We developed a closed-loop analog circuit to enhance brain oscillations by feeding them back into cortex through phase-locked transcranial electrical stimulation. We tested the system in a rhesus macaque with chronically implanted electrode arrays, targeting 8-15 Hz (alpha) oscillations. Ten seconds of stimulation increased alpha oscillatory power for up to 1 second after stimulation offset. In contrast, open-loop stimulation decreased alpha power. There was no effect in the neighboring 15-30 Hz (beta) LFP rhythm or on a neighboring array that did not participate in closed-loop feedback. Analog closed-loop neurostimulation might thus be a useful strategy for altering brain oscillations, both for basic research and the treatment of neuro-psychiatric disease.",
+  "authors": [
+    "Widge Alik S",
+    "Boggess Matthew",
+    "Rockhill Alexander P",
+    "Mullen Andrew",
+    "Sheopory Shivani",
+    "Loonis Roman",
+    "Freeman Daniel K",
+    "Miller Earl K"
+  ],
+  "journal": "PloS one",
+  "year": "2018",
+  "doi": "10.1371/journal.pone.0207781",
+  "mesh": [
+    "Alpha Rhythm",
+    "Animals",
+    "Brain",
+    "Electrodes, Implanted",
+    "Electrophysiological Phenomena",
+    "Frontal Lobe",
+    "Macaca mulatta",
+    "Male",
+    "Models, Animal",
+    "Models, Neurological",
+    "Neurofeedback",
+    "Prefrontal Cortex",
+    "Somatosensory Cortex",
+    "Transcranial Direct Current Stimulation"
+  ]
+}

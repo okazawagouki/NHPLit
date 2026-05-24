@@ -1,0 +1,23 @@
+{
+  "pmid": "39746908",
+  "title": "Dynamic tracking of objects in the macaque dorsomedial frontal cortex.",
+  "abstract": "A central tenet of cognitive neuroscience is that humans build an internal model of the external world and use mental simulation of the model to perform physical inferences. Decades of human experiments have shown that behaviors in many physical reasoning tasks are consistent with predictions from the mental simulation theory. However, evidence for the defining feature of mental simulation - that neural population dynamics reflect simulations of physical states in the environment - is limited. We test the mental simulation hypothesis by combining a naturalistic ball-interception task, large-scale electrophysiology in non-human primates, and recurrent neural network modeling. We find that neurons in the monkeys' dorsomedial frontal cortex (DMFC) represent task-relevant information about the ball position in a multiplexed fashion. At a population level, the activity pattern in DMFC comprises a low-dimensional neural embedding that tracks the ball both when it is visible and invisible, serving as a neural substrate for mental simulation. A systematic comparison of different classes of task-optimized RNN models with the DMFC data provides further evidence supporting the mental simulation hypothesis. Our findings provide evidence that neural dynamics in the frontal cortex are consistent with internal simulation of external states in the environment.",
+  "authors": [
+    "Rajalingham Rishi",
+    "Sohn Hansem",
+    "Jazayeri Mehrdad"
+  ],
+  "journal": "Nature communications",
+  "year": "2025",
+  "doi": "10.1038/s41467-024-54688-y",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Frontal Lobe",
+    "Neurons",
+    "Male",
+    "Models, Neurological",
+    "Prefrontal Cortex",
+    "Behavior, Animal"
+  ]
+}

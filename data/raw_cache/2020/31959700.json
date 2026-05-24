@@ -1,0 +1,34 @@
+{
+  "pmid": "31959700",
+  "title": "Neural Mechanisms Underlying High-Frequency Vestibulocollic Reflexes In Humans And Monkeys.",
+  "abstract": "The vestibulocollic reflex is a compensatory response that stabilizes the head in space. During everyday activities, this stabilizing response is evoked by head movements that typically span frequencies from 0 to 30 Hz. Transient head impacts, however, can elicit head movements with frequency content up to 300-400 Hz, raising the question whether vestibular pathways contribute to head stabilization at such high frequencies. Here, we first established that electrical vestibular stimulation modulates human neck motor unit (MU) activity at sinusoidal frequencies up to 300 Hz, but that sensitivity increases with frequency up to a low-pass cutoff of ∼70-80 Hz. To examine the neural substrates underlying the low-pass dynamics of vestibulocollic reflexes, we then recorded vestibular afferent responses to the same electrical stimuli in monkeys. Vestibular afferents also responded to electrical stimuli up to 300 Hz, but in contrast to MUs their sensitivity increased with frequency up to the afferent resting firing rate (∼100-150 Hz) and at higher frequencies afferents tended to phase-lock to the vestibular stimulus. This latter nonlinearity, however, was not transmitted to neck motoneurons, which instead showed minimal phase-locking that decreased at frequencies >75 Hz. Similar to human data, we validated that monkey muscle activity also exhibited low-pass filtered vestibulocollic reflex dynamics. Together, our results show that neck MUs are activated by high-frequency signals encoded by primary vestibular afferents, but undergo low-pass filtering at intermediate stages in the vestibulocollic reflex. These high-frequency contributions to vestibular-evoked neck muscle responses could stabilize the head during unexpected head transients.<b>SIGNIFICANCE STATEMENT</b> Vestibular-evoked neck muscle responses rely on accurate encoding and transmission of head movement information to stabilize the head in space. Unexpected transient events, such as head impacts, are likely to push the limits of these neural pathways since their high-frequency features (0-300 Hz) extend beyond the frequency bandwidth of head movements experienced during everyday activities (0-30 Hz). Here, we demonstrate that vestibular primary afferents encode high-frequency stimuli through frequency-dependent increases in sensitivity and phase-locking. When transmitted to neck motoneurons, these signals undergo low-pass filtering that limits neck motoneuron phase-locking in response to stimuli >75 Hz. This study provides insight into the neural dynamics producing vestibulocollic reflexes, which may respond to high-frequency transient events to stabilize the head.",
+  "authors": [
+    "Forbes Patrick A",
+    "Kwan Annie",
+    "Rasman Brandon G",
+    "Mitchell Diana E",
+    "Cullen Kathleen E",
+    "Blouin Jean-Sébastien"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2020",
+  "doi": "10.1523/JNEUROSCI.1463-19.2020",
+  "mesh": [
+    "Adult",
+    "Afferent Pathways",
+    "Animals",
+    "Electric Stimulation",
+    "Electromyography",
+    "Electrophysiological Phenomena",
+    "Head Movements",
+    "Humans",
+    "Macaca fascicularis",
+    "Male",
+    "Motor Neurons",
+    "Muscle Fibers, Skeletal",
+    "Neck Muscles",
+    "Neural Pathways",
+    "Reflex, Vestibulo-Ocular",
+    "Young Adult"
+  ]
+}

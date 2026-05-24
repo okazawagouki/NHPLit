@@ -1,0 +1,36 @@
+{
+  "pmid": "22879431",
+  "title": "Genome-wide search for novel human uORFs and N-terminal protein extensions using ribosomal footprinting.",
+  "abstract": "So far, the annotation of translation initiation sites (TISs) has been based mostly upon bioinformatics rather than experimental evidence. We adapted ribosomal footprinting to puromycin-treated cells to generate a transcriptome-wide map of TISs in a human monocytic cell line. A neural network was trained on the ribosomal footprints observed at previously annotated AUG translation initiation codons (TICs), and used for the ab initio prediction of TISs in 5062 transcripts with sufficient sequence coverage. Functional interpretation suggested 2994 novel upstream open reading frames (uORFs) in the 5' UTR, 1406 uORFs overlapping with the coding sequence, and 546 N-terminal protein extensions. The TIS detection method was validated on the basis of previously published alternative TISs and uORFs. Among primates, TICs in newly annotated TISs were significantly more conserved than control codons, both for AUGs and near-cognate codons. The transcriptome-wide map of novel candidate TISs derived as part of the study will shed further light on the way in which human proteome diversity is influenced by alternative translation initiation and regulation.",
+  "authors": [
+    "Fritsch Claudia",
+    "Herrmann Alexander",
+    "Nothnagel Michael",
+    "Szafranski Karol",
+    "Huse Klaus",
+    "Schumann Frank",
+    "Schreiber Stefan",
+    "Platzer Matthias",
+    "Krawczak Michael",
+    "Hampe Jochen",
+    "Brosch Mario"
+  ],
+  "journal": "Genome research",
+  "year": "2012",
+  "doi": "10.1101/gr.139568.112",
+  "mesh": [
+    "5' Untranslated Regions",
+    "Binding Sites",
+    "Cell Line",
+    "Codon, Initiator",
+    "DNA, Complementary",
+    "Genome, Human",
+    "Humans",
+    "Open Reading Frames",
+    "Peptide Chain Initiation, Translational",
+    "Puromycin",
+    "Ribosomes",
+    "Sequence Analysis, DNA",
+    "Transcriptome"
+  ]
+}

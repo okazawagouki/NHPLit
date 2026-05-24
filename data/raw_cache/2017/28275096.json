@@ -1,0 +1,23 @@
+{
+  "pmid": "28275096",
+  "title": "Correlated variability modifies working memory fidelity in primate prefrontal neuronal ensembles.",
+  "abstract": "Neurons in the primate lateral prefrontal cortex (LPFC) encode working memory (WM) representations via sustained firing, a phenomenon hypothesized to arise from recurrent dynamics within ensembles of interconnected neurons. Here, we tested this hypothesis by using microelectrode arrays to examine spike count correlations (<i>r</i><sub><i>sc</i></sub> ) in LPFC neuronal ensembles during a spatial WM task. We found a pattern of pairwise <i>r</i><sub><i>sc</i></sub> during WM maintenance indicative of stronger coupling between similarly tuned neurons and increased inhibition between dissimilarly tuned neurons. We then used a linear decoder to quantify the effects of the high-dimensional <i>r</i><sub><i>sc</i></sub> structure on information coding in the neuronal ensembles. We found that the <i>r</i><sub><i>sc</i></sub> structure could facilitate or impair coding, depending on the size of the ensemble and tuning properties of its constituent neurons. A simple optimization procedure demonstrated that near-maximum decoding performance could be achieved using a relatively small number of neurons. These WM-optimized subensembles were more signal correlation (<i>r</i><sub><i>signal</i></sub> )-diverse and anatomically dispersed than predicted by the statistics of the full recorded population of neurons, and they often contained neurons that were poorly WM-selective, yet enhanced coding fidelity by shaping the ensemble's <i>r</i><sub><i>sc</i></sub> structure. We observed a pattern of <i>r</i><sub><i>sc</i></sub> between LPFC neurons indicative of recurrent dynamics as a mechanism for WM-related activity and that the <i>r</i><sub><i>sc</i></sub> structure can increase the fidelity of WM representations. Thus, WM coding in LPFC neuronal ensembles arises from a complex synergy between single neuron coding properties and multidimensional, ensemble-level phenomena.",
+  "authors": [
+    "Leavitt Matthew L",
+    "Pieper Florian",
+    "Sachs Adam J",
+    "Martinez-Trujillo Julio C"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2017",
+  "doi": "10.1073/pnas.1619949114",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Macaca",
+    "Male",
+    "Memory, Short-Term",
+    "Neurons",
+    "Prefrontal Cortex"
+  ]
+}

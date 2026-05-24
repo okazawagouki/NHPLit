@@ -1,0 +1,25 @@
+{
+  "pmid": "27307243",
+  "title": "A Model of Binocular Motion Integration in MT Neurons.",
+  "abstract": "UNLABELLED: Primate cortical area MT plays a central role in visual motion perception, but models of this area have largely overlooked the binocular integration of motion signals. Recent electrophysiological studies tested binocular integration in MT and found surprisingly that MT neurons lose their hallmark \"pattern motion\" selectivity when stimuli are presented dichoptically and that many neurons are selective for motion-in-depth (MID). By unifying these novel observations with insights from monocular, frontoparallel motion studies concurrently in a binocular MT motion model, we generated clear, testable predictions about the circuitry and mechanisms underlying visual motion processing. We built binocular models in which signals from left- and right-eye streams could be integrated at various stages from V1 to MT, attempting to create the simplest plausible circuits that accounted for the physiological range of pattern motion selectivity, that explained changes across this range for dichoptic stimulus presentation, and that spanned the spectrum of MID selectivity observed in MT. Our successful models predict that motion-opponent suppression is the key mechanism to account for the striking loss of pattern motion sensitivity with dichoptic plaids, that opponent suppression precedes binocular integration, and that opponent suppression will be stronger in inputs to pattern cells than to component cells. We also found an unexpected connection between circuits for pattern motion selectivity and MID selectivity, suggesting that these two separately studied phenomena could be related. These results also hold in models that include binocular disparity computations, providing a platform for future exploration of binocular response properties in MT. SIGNIFICANCE STATEMENT: The neural pathways underlying our sense of visual motion are among the most studied and well-understood parts of the primate cerebral cortex. Nevertheless, our understanding is incomplete because electrophysiological research has focused mainly on motion in the 2D frontoparallel plane, even though real-world motion often occurs in three dimensions, involving a change in distance from the viewer. Recent studies have revealed a specialization for sensing 3D motion in area MT, the cortical area most tightly linked to the processing and perception of visual motion. Our study provides the first model to explain how 3D motion sensitivity can arise in MT neurons and predicts how essential features of 2D motion integration may relate to 3D motion processing.",
+  "authors": [
+    "Baker Pamela M",
+    "Bair Wyeth"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2016",
+  "doi": "10.1523/JNEUROSCI.3213-15.2016",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Humans",
+    "Models, Biological",
+    "Motion",
+    "Motion Perception",
+    "Neural Pathways",
+    "Neurons",
+    "Photic Stimulation",
+    "Vision, Binocular",
+    "Visual Cortex"
+  ]
+}

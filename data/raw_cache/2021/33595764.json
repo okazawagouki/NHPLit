@@ -1,0 +1,25 @@
+{
+  "pmid": "33595764",
+  "title": "Comparison of neuronal responses in primate inferior-temporal cortex and feed-forward deep neural network model with regard to information processing of faces.",
+  "abstract": "Feed-forward deep neural networks have better performance in object categorization tasks than other models of computer vision. To understand the relationship between feed-forward deep networks and the primate brain, we investigated representations of upright and inverted faces in a convolutional deep neural network model and compared them with representations by neurons in the monkey anterior inferior-temporal cortex, area TE. We applied principal component analysis to feature vectors in each model layer to visualize the relationship between the vectors of the upright and inverted faces. The vectors of the upright and inverted monkey faces were more separated through the convolution layers. In the fully-connected layers, the separation among human individuals for upright faces was larger than for inverted faces. The Spearman correlation between each model layer and TE neurons reached a maximum at the fully-connected layers. These results indicate that the processing of faces in the fully-connected layers might resemble the asymmetric representation of upright and inverted faces by the TE neurons. The separation of upright and inverted faces might take place by feed-forward processing in the visual cortex, and separations among human individuals for upright faces, which were larger than those for inverted faces, might occur in area TE.",
+  "authors": [
+    "Matsumoto Narihisa",
+    "Mototake Yoh-Ichi",
+    "Kawano Kenji",
+    "Okada Masato",
+    "Sugase-Miyamoto Yasuko"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2021",
+  "doi": "10.1007/s10827-021-00778-5",
+  "mesh": [
+    "Animals",
+    "Face",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Photic Stimulation",
+    "Primates",
+    "Temporal Lobe"
+  ]
+}

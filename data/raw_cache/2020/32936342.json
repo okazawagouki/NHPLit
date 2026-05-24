@@ -1,0 +1,30 @@
+{
+  "pmid": "32936342",
+  "title": "Reproducing macaque lateral grasping and oculomotor networks using resting state functional connectivity and diffusion tractography.",
+  "abstract": "Cortico-cortical networks involved in motor control have been well defined in the macaque using a range of invasive techniques. The advent of neuroimaging has enabled non-invasive study of these large-scale functionally specialized networks in the human brain; however, assessing its accuracy in reproducing genuine anatomy is more challenging. We set out to assess the similarities and differences between connections of macaque motor control networks defined using axonal tracing and those reproduced using structural and functional connectivity techniques. We processed a cohort of macaques scanned in vivo that were made available by the open access PRIME-DE resource, to evaluate connectivity using diffusion imaging tractography and resting state functional connectivity (rs-FC). Sectors of the lateral grasping and exploratory oculomotor networks were defined anatomically on structural images, and connections were reproduced using different structural and functional approaches (probabilistic and deterministic whole-brain and seed-based tractography; group template and native space functional connectivity analysis). The results showed that parieto-frontal connections were best reproduced using both structural and functional connectivity techniques. Tractography showed lower sensitivity but better specificity in reproducing connections identified by tracer data. Functional connectivity analysis performed in native space had higher sensitivity but lower specificity and was better at identifying connections between intrasulcal ROIs than group-level analysis. Connections of AIP were most consistently reproduced, although those connected with prefrontal sectors were not identified. We finally compared diffusion MR modelling with histology based on an injection in AIP and speculate on anatomical bases for the observed false negatives. Our results highlight the utility of precise ex vivo techniques to support the accuracy of neuroimaging in reproducing connections, which is relevant also for human studies.",
+  "authors": [
+    "Howells Henrietta",
+    "Simone Luciano",
+    "Borra Elena",
+    "Fornia Luca",
+    "Cerri Gabriella",
+    "Luppino Giuseppe"
+  ],
+  "journal": "Brain structure & function",
+  "year": "2020",
+  "doi": "10.1007/s00429-020-02142-2",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Connectome",
+    "Diffusion Tensor Imaging",
+    "Female",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Nerve Net",
+    "Neuroimaging",
+    "Psychomotor Performance",
+    "Visual Pathways"
+  ]
+}

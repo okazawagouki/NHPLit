@@ -1,0 +1,24 @@
+{
+  "pmid": "31343407",
+  "title": "Primate prefrontal neurons signal economic risk derived from the statistics of recent reward experience.",
+  "abstract": "Risk derives from the variation of rewards and governs economic decisions, yet how the brain calculates risk from the frequency of experienced events, rather than from explicit risk-descriptive cues, remains unclear. Here, we investigated whether neurons in dorsolateral prefrontal cortex process risk derived from reward experience. Monkeys performed in a probabilistic choice task in which the statistical variance of experienced rewards evolved continually. During these choices, prefrontal neurons signaled the reward-variance associated with specific objects ('object risk') or actions ('action risk'). Crucially, risk was not derived from explicit, risk-descriptive cues but calculated internally from the variance of recently experienced rewards. Support-vector-machine decoding demonstrated accurate neuronal risk discrimination. Within trials, neuronal signals transitioned from experienced reward to risk (risk updating) and from risk to upcoming choice (choice computation). Thus, prefrontal neurons encode the statistical variance of recently experienced rewards, complying with formal decision variables of object risk and action risk.",
+  "authors": [
+    "Grabenhorst Fabian",
+    "Tsutsui Ken-Ichiro",
+    "Kobayashi Shunsuke",
+    "Schultz Wolfram"
+  ],
+  "journal": "eLife",
+  "year": "2019",
+  "doi": "10.7554/eLife.44838",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Choice Behavior",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Reward"
+  ]
+}

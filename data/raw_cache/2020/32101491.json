@@ -1,0 +1,27 @@
+{
+  "pmid": "32101491",
+  "title": "A neural network for online spike classification that improves decoding accuracy.",
+  "abstract": "Separating neural signals from noise can improve brain-computer interface performance and stability. However, most algorithms for separating neural action potentials from noise are not suitable for use in real time and have shown mixed effects on decoding performance. With the goal of removing noise that impedes online decoding, we sought to automate the intuition of human spike-sorters to operate in real time with an easily tunable parameter governing the stringency with which spike waveforms are classified. We trained an artificial neural network with one hidden layer on neural waveforms that were hand-labeled as either spikes or noise. The network output was a likelihood metric for each waveform it classified, and we tuned the network's stringency by varying the minimum likelihood value for a waveform to be considered a spike. Using the network's labels to exclude noise waveforms, we decoded remembered target location during a memory-guided saccade task from electrode arrays implanted in prefrontal cortex of rhesus macaque monkeys. The network classified waveforms in real time, and its classifications were qualitatively similar to those of a human spike-sorter. Compared with decoding with threshold crossings, in most sessions we improved decoding performance by removing waveforms with low spike likelihood values. Furthermore, decoding with our network's classifications became more beneficial as time since array implantation increased. Our classifier serves as a feasible preprocessing step, with little risk of harm, that could be applied to both off-line neural data analyses and online decoding.<b>NEW & NOTEWORTHY</b> Although there are many spike-sorting methods that isolate well-defined single units, these methods typically involve human intervention and have inconsistent effects on decoding. We used human classified neural waveforms as training data to create an artificial neural network that could be tuned to separate spikes from noise that impaired decoding. We found that this network operated in real time and was suitable for both off-line data processing and online decoding.",
+  "authors": [
+    "Issar Deepa",
+    "Williamson Ryan C",
+    "Khanna Sanjeev B",
+    "Smith Matthew A"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2020",
+  "doi": "10.1152/jn.00641.2019",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrocorticography",
+    "Macaca mulatta",
+    "Male",
+    "Neural Networks, Computer",
+    "Pattern Recognition, Automated",
+    "Prefrontal Cortex",
+    "Saccades",
+    "Spatial Memory"
+  ]
+}

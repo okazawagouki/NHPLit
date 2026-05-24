@@ -1,0 +1,26 @@
+{
+  "pmid": "38936111",
+  "title": "A biologically inspired computational model of human ventral temporal cortex.",
+  "abstract": "Our minds represent miscellaneous objects in the physical world metaphorically in an abstract and complex high-dimensional object space, which is implemented in a two-dimensional surface of the ventral temporal cortex (VTC) with topologically organized object selectivity. Here we investigated principles guiding the topographical organization of object selectivities in the VTC by constructing a hybrid Self-Organizing Map (SOM) model that harnesses a biologically inspired algorithm of wiring cost minimization and adheres to the constraints of the lateral wiring span of human VTC neurons. In a series of in silico experiments with functional brain neuroimaging and neurophysiological single-unit data from humans and non-human primates, the VTC-SOM predicted the topographical structure of fine-scale category-selective regions (face-, tool-, body-, and place-selective regions) and the boundary in large-scale abstract functional maps (animate vs. inanimate, real-word small-size vs. big-size, central vs. peripheral), with no significant loss in functionality (e.g., categorical selectivity and view-invariant representations). In addition, when the same principle was applied to V1 orientation preferences, a pinwheel-like topology emerged, suggesting the model's broad applicability. In summary, our study illustrates that the simple principle of wiring cost minimization, coupled with the appropriate biological constraint of lateral wiring span, is able to implement the high-dimensional object space in a two-dimensional cortical surface.",
+  "authors": [
+    "Zhang Yiyuan",
+    "Zhou Ke",
+    "Bao Pinglei",
+    "Liu Jia"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2024",
+  "doi": "10.1016/j.neunet.2024.106437",
+  "mesh": [
+    "Humans",
+    "Temporal Lobe",
+    "Animals",
+    "Computer Simulation",
+    "Models, Neurological",
+    "Algorithms",
+    "Neurons",
+    "Neural Networks, Computer",
+    "Magnetic Resonance Imaging",
+    "Brain Mapping"
+  ]
+}

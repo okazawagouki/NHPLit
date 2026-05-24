@@ -1,0 +1,33 @@
+{
+  "pmid": "31622346",
+  "title": "Reading-out task variables as a low-dimensional reconstruction of neural spike trains in single trials.",
+  "abstract": "We propose a new model of the read-out of spike trains that exploits the multivariate structure of responses of neural ensembles. Assuming the point of view of a read-out neuron that receives synaptic inputs from a population of projecting neurons, synaptic inputs are weighted with a heterogeneous set of weights. We propose that synaptic weights reflect the role of each neuron within the population for the computational task that the network has to solve. In our case, the computational task is discrimination of binary classes of stimuli, and weights are such as to maximize the discrimination capacity of the network. We compute synaptic weights as the feature weights of an optimal linear classifier. Once weights have been learned, they weight spike trains and allow to compute the post-synaptic current that modulates the spiking probability of the read-out unit in real time. We apply the model on parallel spike trains from V1 and V4 areas in the behaving monkey macaca mulatta, while the animal is engaged in a visual discrimination task with binary classes of stimuli. The read-out of spike trains with our model allows to discriminate the two classes of stimuli, while population PSTH entirely fails to do so. Splitting neurons in two subpopulations according to the sign of the weight, we show that population signals of the two functional subnetworks are negatively correlated. Disentangling the superficial, the middle and the deep layer of the cortex, we show that in both V1 and V4, superficial layers are the most important in discriminating binary classes of stimuli.",
+  "authors": [
+    "Koren Veronika",
+    "Andrei Ariana R",
+    "Hu Ming",
+    "Dragoi Valentin",
+    "Obermayer Klaus"
+  ],
+  "journal": "PloS one",
+  "year": "2019",
+  "doi": "10.1371/journal.pone.0222649",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Behavior, Animal",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Discrimination, Psychological",
+    "Humans",
+    "Learning",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Synapses",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

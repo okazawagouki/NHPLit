@@ -1,0 +1,23 @@
+{
+  "pmid": "39680435",
+  "title": "Homeostatic synaptic normalization optimizes learning in network models of neural population codes.",
+  "abstract": "Studying and understanding the code of large neural populations hinge on accurate statistical models of population activity. A novel class of models, based on learning to weigh sparse nonlinear Random Projections (RP) of the population, has demonstrated high accuracy, efficiency, and scalability. Importantly, these RP models have a clear and biologically plausible implementation as shallow neural networks. We present a new class of RP models that are learned by optimizing the randomly selected sparse projections themselves. This 'reshaping' of projections is akin to changing synaptic connections in just one layer of the corresponding neural circuit model. We show that Reshaped RP models are more accurate and efficient than the standard RP models in recapitulating the code of tens of cortical neurons from behaving monkeys. Incorporating more biological features and utilizing synaptic normalization in the learning process, results in accurate models that are more efficient. Remarkably, these models exhibit homeostasis in firing rates and total synaptic weights of projection neurons. We further show that these sparse homeostatic reshaped RP models outperform fully connected neural network models. Thus, our new scalable, efficient, and highly accurate population code models are not only biologically plausible but are actually optimized due to their biological features. These findings suggest a dual functional role of synaptic normalization in neural circuits: maintaining spiking and synaptic homeostasis while concurrently optimizing network performance and efficiency in encoding information and learning.",
+  "authors": [
+    "Mayzel Jonathan",
+    "Schneidman Elad"
+  ],
+  "journal": "eLife",
+  "year": "2024",
+  "doi": "10.7554/eLife.96566",
+  "mesh": [
+    "Animals",
+    "Models, Neurological",
+    "Learning",
+    "Neurons",
+    "Homeostasis",
+    "Synapses",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Haplorhini"
+  ]
+}

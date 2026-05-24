@@ -1,0 +1,22 @@
+{
+  "pmid": "35927277",
+  "title": "Distributed encoding of curvilinear self-motion across spiral optic flow patterns.",
+  "abstract": "Self-motion along linear paths without eye movements creates optic flow that radiates from the direction of travel (heading). Optic flow-sensitive neurons in primate brain area MSTd have been linked to linear heading perception, but the neural basis of more general curvilinear self-motion perception is unknown. The optic flow in this case is more complex and depends on the gaze direction and curvature of the path. We investigated the extent to which signals decoded from a neural model of MSTd predict the observer's curvilinear self-motion. Specifically, we considered the contributions of MSTd-like units that were tuned to radial, spiral, and concentric optic flow patterns in \"spiral space\". Self-motion estimates decoded from units tuned to the full set of spiral space patterns were substantially more accurate and precise than those decoded from units tuned to radial expansion. Decoding only from units tuned to spiral subtypes closely approximated the performance of the full model. Only the full decoding model could account for human judgments when path curvature and gaze covaried in self-motion stimuli. The most predictive units exhibited bias in center-of-motion tuning toward the periphery, consistent with neurophysiology and prior modeling. Together, findings support a distributed encoding of curvilinear self-motion across spiral space.",
+  "authors": [
+    "Layton Oliver W",
+    "Fajen Brett R"
+  ],
+  "journal": "Scientific reports",
+  "year": "2022",
+  "doi": "10.1038/s41598-022-16371-4",
+  "mesh": [
+    "Animals",
+    "Eye Movements",
+    "Humans",
+    "Macaca mulatta",
+    "Motion Perception",
+    "Optic Flow",
+    "Photic Stimulation",
+    "Temporal Lobe"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "33875887",
+  "title": "Geometric deep learning enables 3D kinematic profiling across species and environments.",
+  "abstract": "Comprehensive descriptions of animal behavior require precise three-dimensional (3D) measurements of whole-body movements. Although two-dimensional approaches can track visible landmarks in restrictive environments, performance drops in freely moving animals, due to occlusions and appearance changes. Therefore, we designed DANNCE to robustly track anatomical landmarks in 3D across species and behaviors. DANNCE uses projective geometry to construct inputs to a convolutional neural network that leverages learned 3D geometric reasoning. We trained and benchmarked DANNCE using a dataset of nearly seven million frames that relates color videos and rodent 3D poses. In rats and mice, DANNCE robustly tracked dozens of landmarks on the head, trunk, and limbs of freely moving animals in naturalistic settings. We extended DANNCE to datasets from rat pups, marmosets, and chickadees, and demonstrate quantitative profiling of behavioral lineage during development.",
+  "authors": [
+    "Dunn Timothy W",
+    "Marshall Jesse D",
+    "Severson Kyle S",
+    "Aldarondo Diego E",
+    "Hildebrand David G C",
+    "Chettih Selmaan N",
+    "Wang William L",
+    "Gellis Amanda J",
+    "Carlson David E",
+    "Aronov Dmitriy",
+    "Freiwald Winrich A",
+    "Wang Fan",
+    "Ölveczky Bence P"
+  ],
+  "journal": "Nature methods",
+  "year": "2021",
+  "doi": "10.1038/s41592-021-01106-6",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Deep Learning",
+    "Image Processing, Computer-Assisted",
+    "Motor Activity",
+    "Video Recording"
+  ]
+}

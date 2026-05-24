@@ -1,0 +1,26 @@
+{
+  "pmid": "20174620",
+  "title": "On the similarity of functional connectivity between neurons estimated across timescales.",
+  "abstract": "A central objective in neuroscience is to understand how neurons interact. Such functional interactions have been estimated using signals recorded with different techniques and, consequently, different temporal resolutions. For example, spike data often have sub-millisecond resolution while some imaging techniques may have a resolution of many seconds. Here we use multi-electrode spike recordings to ask how similar functional connectivity inferred from slower timescale signals is to the one inferred from fast timescale signals. We find that functional connectivity is relatively robust to low-pass filtering--dropping by about 10% when low pass filtering at 10 hz and about 50% when low pass filtering down to about 1 Hz--and that estimates are robust to high levels of additive noise. Moreover, there is a weak correlation for physiological filters such as hemodynamic or Ca2+ impulse responses and filters based on local field potentials. We address the origin of these correlations using simulation techniques and find evidence that the similarity between functional connectivity estimated across timescales is due to processes that do not depend on fast pair-wise interactions alone. Rather, it appears that connectivity on multiple timescales or common-input related to stimuli or movement drives the observed correlations. Despite this qualification, our results suggest that techniques with intermediate temporal resolution may yield good estimates of the functional connections between individual neurons.",
+  "authors": [
+    "Stevenson Ian H",
+    "Körding Konrad P"
+  ],
+  "journal": "PloS one",
+  "year": "2010",
+  "doi": "10.1371/journal.pone.0009206",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Evoked Potentials, Motor",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neural Pathways",
+    "Neurons",
+    "Psychomotor Performance",
+    "Time Factors"
+  ]
+}

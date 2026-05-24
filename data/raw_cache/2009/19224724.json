@@ -1,0 +1,26 @@
+{
+  "pmid": "19224724",
+  "title": "Relaxation-based feature selection for single-trial decoding of bistable perception.",
+  "abstract": "Bistable perception refers to the phenomenon of spontaneously alternating percepts while viewing the same stimulus continuously. Bistable stimuli allow dissociation between stimuli and perception, and thus, provide a unique opportunity for understanding the neural basis of visual perception. In this paper, we focus on a relaxation (RELAX) based algorithm to select features from the multitaper spectral estimates of the multichannel intracortical local field potential (LFP), simultaneously collected from the middle temporal visual cortex of a macaque monkey, for decoding its bistable structure-from-motion (SFM) perception. We demonstrate that RELAX surpasses the conventional sequential forward selection (SFS) by offering the flexibility of modifying selected features. We propose a redundancy reduction preprocessing technique to significantly reduce the computational load for both SFS and RELAX. We exploit the support vector machines classifier based on the selected features for single-trial decoding the reported perception. Our results demonstrate the excellent performance of the RELAX feature selection algorithm. Furthermore, we find that the features in the gamma frequency band (30-100 Hz) of LFP are most relevant to bistable SFM perception. This finding is novel in awake monkey studies and suggests that gamma oscillations carry the most discriminative information for bistable perception of SFM stimuli.",
+  "authors": [
+    "Wang Zhisong",
+    "Maier Alexander",
+    "Logothetis Nikos K",
+    "Liang Hualou"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2009",
+  "doi": "10.1109/TBME.2008.2003260",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artificial Intelligence",
+    "Electrophysiological Phenomena",
+    "Evoked Potentials, Visual",
+    "Fourier Analysis",
+    "Macaca mulatta",
+    "Models, Statistical",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

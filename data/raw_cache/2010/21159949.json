@@ -1,0 +1,28 @@
+{
+  "pmid": "21159949",
+  "title": "Incorporating feedback from multiple sensory modalities enhances brain-machine interface control.",
+  "abstract": "The brain typically uses a rich supply of feedback from multiple sensory modalities to control movement in healthy individuals. In many individuals, these afferent pathways, as well as their efferent counterparts, are compromised by disease or injury resulting in significant impairments and reduced quality of life. Brain-machine interfaces (BMIs) offer the promise of recovered functionality to these individuals by allowing them to control a device using their thoughts. Most current BMI implementations use visual feedback for closed-loop control; however, it has been suggested that the inclusion of additional feedback modalities may lead to improvements in control. We demonstrate for the first time that kinesthetic feedback can be used together with vision to significantly improve control of a cursor driven by neural activity of the primary motor cortex (MI). Using an exoskeletal robot, the monkey's arm was moved to passively follow a cortically controlled visual cursor, thereby providing the monkey with kinesthetic information about the motion of the cursor. When visual and proprioceptive feedback were congruent, both the time to successfully reach a target decreased and the cursor paths became straighter, compared with incongruent feedback conditions. This enhanced performance was accompanied by a significant increase in the amount of movement-related information contained in the spiking activity of neurons in MI. These findings suggest that BMI control can be significantly improved in paralyzed patients with residual kinesthetic sense and provide the groundwork for augmenting cortically controlled BMIs with multiple forms of natural or surrogate sensory feedback.",
+  "authors": [
+    "Suminski Aaron J",
+    "Tkach Dennis C",
+    "Fagg Andrew H",
+    "Hatsopoulos Nicholas G"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2010",
+  "doi": "10.1523/JNEUROSCI.3967-10.2010",
+  "mesh": [
+    "Animals",
+    "Arm",
+    "Feedback, Sensory",
+    "Kinesthesis",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Reaction Time",
+    "Robotics",
+    "User-Computer Interface"
+  ]
+}

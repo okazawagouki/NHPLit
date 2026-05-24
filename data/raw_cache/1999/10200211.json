@@ -1,0 +1,27 @@
+{
+  "pmid": "10200211",
+  "title": "Three-dimensional eye-head coordination during gaze saccades in the primate.",
+  "abstract": "The purpose of this investigation was to describe the neural constraints on three-dimensional (3-D) orientations of the eye in space (Es), head in space (Hs), and eye in head (Eh) during visual fixations in the monkey and the control strategies used to implement these constraints during head-free gaze saccades. Dual scleral search coil signals were used to compute 3-D orientation quaternions, two-dimensional (2-D) direction vectors, and 3-D angular velocity vectors for both the eye and head in three monkeys during the following visual tasks: radial to/from center, repetitive horizontal, nonrepetitive oblique, random (wide 2-D range), and random with pin-hole goggles. Although 2-D gaze direction (of Es) was controlled more tightly than the contributing 2-D Hs and Eh components, the torsional standard deviation of Es was greater (mean 3.55 degrees ) than Hs (3.10 degrees ), which in turn was greater than Eh (1.87 degrees ) during random fixations. Thus the 3-D Es range appeared to be the byproduct of Hs and Eh constraints, resulting in a pseudoplanar Es range that was twisted (in orthogonal coordinates) like the zero torsion range of Fick coordinates. The Hs fixation range was similarly Fick-like, whereas the Eh fixation range was quasiplanar. The latter Eh range was maintained through exquisite saccade/slow phase coordination, i.e., during each head movement, multiple anticipatory saccades drove the eye torsionally out of the planar range such that subsequent slow phases drove the eye back toward the fixation range. The Fick-like Hs constraint was maintained by the following strategies: first, during purely vertical/horizontal movements, the head rotated about constantly oriented axes that closely resembled physical Fick gimbals, i.e., about head-fixed horizontal axes and space-fixed vertical axes, respectively (although in 1 animal, the latter constraint was relaxed during repetitive horizontal movements, allowing for trajectory optimization). However, during large oblique movements, head orientation made transient but dramatic departures from the zero-torsion Fick surface, taking the shortest path between two torsionally eccentric fixation points on the surface. Moreover, in the pin-hole goggle task, the head-orientation range flattened significantly, suggesting a task-dependent default strategy similar to Listing's law. These and previous observations suggest two quasi-independent brain stem circuits: an oculomotor 2-D to 3-D transformation that coordinates anticipatory saccades with slow phases to uphold Listing's law, and a flexible \"Fick operator\" that selects head motor error; both nested within a dynamic gaze feedback loop.",
+  "authors": [
+    "Crawford J D",
+    "Ceylan M Z",
+    "Klier E M",
+    "Guitton D"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Conditioning, Psychological",
+    "Fixation, Ocular",
+    "Head Movements",
+    "Macaca fascicularis",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Saccades",
+    "Torsion Abnormality",
+    "Visual Perception"
+  ]
+}

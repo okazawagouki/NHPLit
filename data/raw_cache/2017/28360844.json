@@ -1,0 +1,15 @@
+{
+  "pmid": "28360844",
+  "title": "Recurrent Network Dynamics; a Link between Form and Motion.",
+  "abstract": "To discriminate visual features such as corners and contours, the brain must be sensitive to spatial correlations between multiple points in an image. Consistent with this, macaque V2 neurons respond selectively to patterns with well-defined multipoint correlations. Here, we show that a standard feedforward model (a cascade of linear-non-linear filters) does not capture this multipoint selectivity. As an alternative, we developed an artificial neural network model with two hierarchical stages of processing and locally recurrent connectivity. This model faithfully reproduced neurons' selectivity for multipoint correlations. By probing the model, we gained novel insights into early form processing. First, the diverse selectivity for multipoint correlations and complex response dynamics of the hidden units in the model were surprisingly similar to those observed in V1 and V2. This suggests that both transient and sustained response dynamics may be a vital part of form computations. Second, the model self-organized units with speed and direction selectivity that was correlated with selectivity for multipoint correlations. In other words, the model units that detected multipoint spatial correlations also detected space-time correlations. This leads to the novel hypothesis that higher-order spatial correlations could be computed by the rapid, sequential assessment and comparison of multiple low-order correlations within the receptive field. This computation links spatial and temporal processing and leads to the testable prediction that the analysis of complex form and motion are closely intertwined in early visual cortex.",
+  "authors": [
+    "Joukes Jeroen",
+    "Yu Yunguo",
+    "Victor Jonathan D",
+    "Krekelberg Bart"
+  ],
+  "journal": "Frontiers in systems neuroscience",
+  "year": "2017",
+  "doi": "10.3389/fnsys.2017.00012",
+  "mesh": []
+}

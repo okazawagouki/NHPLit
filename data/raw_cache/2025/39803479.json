@@ -1,0 +1,15 @@
+{
+  "pmid": "39803479",
+  "title": "Linking neural population formatting to function.",
+  "abstract": "Animals capable of complex behaviors tend to have more distinct brain areas than simpler organisms, and artificial networks that perform many tasks tend to self-organize into modules (1-3). This suggests that different brain areas serve distinct functions supporting complex behavior. However, a common observation is that essentially anything that an animal senses, knows, or does can be decoded from neural activity in any brain area (4-6). If everything is everywhere, why have distinct areas? Here we show that the function of a brain area is more related to how different types of information are combined (formatted) in neural representations than merely whether that information is present. We compared two brain areas: the middle temporal area (MT), which is important for visual motion perception (7, 8), and the dorsolateral prefrontal cortex (dlPFC), which is linked to decision-making and reward expectation (9, 10)). When monkeys based decisions on a combination of motion and reward information, both types of information were present in both areas. However, they were formatted differently: in MT, they were encoded separably, while in dlPFC, they were represented jointly in ways that reflected the monkeys' decision-making. A recurrent neural network (RNN) model that mirrored the information formatting in MT and dlPFC predicted that manipulating activity in these areas would differently affect decision-making. Consistent with model predictions, electrically stimulating MT biased choices midway between the visual motion stimulus and the preferred direction of the stimulated units (11), while stimulating dlPFC produced 'winner-take-all' decisions that sometimes reflected the visual motion stimulus and sometimes reflected the preference of the stimulated units, but never in between. These results are consistent with the tantalizing possibility that a modular structure enables complex behavior by flexibly reformatting information to accomplish behavioral goals.",
+  "authors": [
+    "Ruff Douglas A",
+    "Markman Sol K",
+    "Kim Jason Z",
+    "Cohen Marlene R"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.01.03.631242",
+  "mesh": []
+}

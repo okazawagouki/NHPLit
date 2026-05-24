@@ -1,0 +1,25 @@
+{
+  "pmid": "23011343",
+  "title": "Nonlinear modeling of dynamic interactions within neuronal ensembles using Principal Dynamic Modes.",
+  "abstract": "A methodology for nonlinear modeling of multi-input multi-output (MIMO) neuronal systems is presented that utilizes the concept of Principal Dynamic Modes (PDM). The efficacy of this new methodology is demonstrated in the study of the dynamic interactions between neuronal ensembles in the Pre-Frontal Cortex (PFC) of a behaving non-human primate (NHP) performing a Delayed Match-to-Sample task. Recorded spike trains from Layer-2 and Layer-5 neurons were viewed as the \"inputs\" and \"outputs\", respectively, of a putative MIMO system/model that quantifies the dynamic transformation of multi-unit neuronal activity between Layer-2 and Layer-5 of the PFC. Model prediction performance was evaluated by means of computed Receiver Operating Characteristic (ROC) curves. The PDM-based approach seeks to reduce the complexity of MIMO models of neuronal ensembles in order to enable the practicable modeling of large-scale neural systems incorporating hundreds or thousands of neurons, which is emerging as a preeminent issue in the study of neural function. The \"scaling-up\" issue has attained critical importance as multi-electrode recordings are increasingly used to probe neural systems and advance our understanding of integrated neural function. The initial results indicate that the PDM-based modeling methodology may greatly reduce the complexity of the MIMO model without significant degradation of performance. Furthermore, the PDM-based approach offers the prospect of improved biological/physiological interpretation of the obtained MIMO models.",
+  "authors": [
+    "Marmarelis Vasilis Z",
+    "Shin Dae C",
+    "Song Dong",
+    "Hampson Robert E",
+    "Deadwyler Sam A",
+    "Berger Theodore W"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2013",
+  "doi": "10.1007/s10827-012-0407-7",
+  "mesh": [
+    "Action Potentials",
+    "Humans",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "ROC Curve"
+  ]
+}

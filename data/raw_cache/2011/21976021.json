@@ -1,0 +1,31 @@
+{
+  "pmid": "21976021",
+  "title": "Active tactile exploration using a brain-machine-brain interface.",
+  "abstract": "Brain-machine interfaces use neuronal activity recorded from the brain to establish direct communication with external actuators, such as prosthetic arms. It is hoped that brain-machine interfaces can be used to restore the normal sensorimotor functions of the limbs, but so far they have lacked tactile sensation. Here we report the operation of a brain-machine-brain interface (BMBI) that both controls the exploratory reaching movements of an actuator and allows signalling of artificial tactile feedback through intracortical microstimulation (ICMS) of the primary somatosensory cortex. Monkeys performed an active exploration task in which an actuator (a computer cursor or a virtual-reality arm) was moved using a BMBI that derived motor commands from neuronal ensemble activity recorded in the primary motor cortex. ICMS feedback occurred whenever the actuator touched virtual objects. Temporal patterns of ICMS encoded the artificial tactile properties of each object. Neuronal recordings and ICMS epochs were temporally multiplexed to avoid interference. Two monkeys operated this BMBI to search for and distinguish one of three visually identical objects, using the virtual-reality arm to identify the unique artificial texture associated with each. These results suggest that clinical motor neuroprostheses might benefit from the addition of ICMS feedback to generate artificial somatic perceptions associated with mechanical, robotic or even virtual prostheses.",
+  "authors": [
+    "O'Doherty Joseph E",
+    "Lebedev Mikhail A",
+    "Ifft Peter J",
+    "Zhuang Katie Z",
+    "Shokur Solaiman",
+    "Bleuler Hannes",
+    "Nicolelis Miguel A L"
+  ],
+  "journal": "Nature",
+  "year": "2011",
+  "doi": "10.1038/nature10489",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artificial Limbs",
+    "Brain",
+    "Feedback",
+    "Macaca mulatta",
+    "Man-Machine Systems",
+    "Psychometrics",
+    "Reward",
+    "Somatosensory Cortex",
+    "Touch",
+    "User-Computer Interface"
+  ]
+}

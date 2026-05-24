@@ -1,0 +1,23 @@
+{
+  "pmid": "27063867",
+  "title": "Microsaccades enable efficient synchrony-based coding in the retina: a simulation study.",
+  "abstract": "It is now reasonably well established that microsaccades (MS) enhance visual perception, although the underlying neuronal mechanisms are unclear. Here, using numerical simulations, we show that MSs enable efficient synchrony-based coding among the primate retinal ganglion cells (RGC). First, using a jerking contrast edge as stimulus, we demonstrate a qualitative change in the RGC responses: synchronous firing, with a precision in the 10 ms range, only occurs at high speed and high contrast. MSs appear to be sufficiently fast to be able reach the synchronous regime. Conversely, the other kinds of fixational eye movements known as tremor and drift both hardly synchronize RGCs because of a too weak amplitude and a too slow speed respectively. Then, under natural image stimulation, we find that each MS causes certain RGCs to fire synchronously, namely those whose receptive fields contain contrast edges after the MS. The emitted synchronous spike volley thus rapidly transmits the most salient edges of the stimulus, which often constitute the most crucial information. We demonstrate that the readout could be done rapidly by simple coincidence-detector neurons without knowledge of the MS landing time, and that the required connectivity could emerge spontaneously with spike timing-dependent plasticity.",
+  "authors": [
+    "Masquelier Timothée",
+    "Portelli Geoffrey",
+    "Kornprobst Pierre"
+  ],
+  "journal": "Scientific reports",
+  "year": "2016",
+  "doi": "10.1038/srep24086",
+  "mesh": [
+    "Eye Movements",
+    "Humans",
+    "Models, Neurological",
+    "Photic Stimulation",
+    "Retinal Ganglion Cells",
+    "Saccades",
+    "Software",
+    "Visual Perception"
+  ]
+}

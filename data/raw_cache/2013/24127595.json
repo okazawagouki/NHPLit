@@ -1,0 +1,34 @@
+{
+  "pmid": "24127595",
+  "title": "Restoring the sense of touch with a prosthetic hand through a brain interface.",
+  "abstract": "Our ability to manipulate objects dexterously relies fundamentally on sensory signals originating from the hand. To restore motor function with upper-limb neuroprostheses requires that somatosensory feedback be provided to the tetraplegic patient or amputee. Given the complexity of state-of-the-art prosthetic limbs and, thus, the huge state space they can traverse, it is desirable to minimize the need for the patient to learn associations between events impinging on the limb and arbitrary sensations. Accordingly, we have developed approaches to intuitively convey sensory information that is critical for object manipulation--information about contact location, pressure, and timing--through intracortical microstimulation of primary somatosensory cortex. In experiments with nonhuman primates, we show that we can elicit percepts that are projected to a localized patch of skin and that track the pressure exerted on the skin. In a real-time application, we demonstrate that animals can perform a tactile discrimination task equally well whether mechanical stimuli are delivered to their native fingers or to a prosthetic one. Finally, we propose that the timing of contact events can be signaled through phasic intracortical microstimulation at the onset and offset of object contact that mimics the ubiquitous on and off responses observed in primary somatosensory cortex to complement slowly varying pressure-related feedback. We anticipate that the proposed biomimetic feedback will considerably increase the dexterity and embodiment of upper-limb neuroprostheses and will constitute an important step in restoring touch to individuals who have lost it.",
+  "authors": [
+    "Tabot Gregg A",
+    "Dammann John F",
+    "Berg Joshua A",
+    "Tenore Francesco V",
+    "Boback Jessica L",
+    "Vogelstein R Jacob",
+    "Bensmaia Sliman J"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2013",
+  "doi": "10.1073/pnas.1221113110",
+  "mesh": [
+    "Afferent Pathways",
+    "Animals",
+    "Artificial Limbs",
+    "Biomimetics",
+    "Brain Mapping",
+    "Brain-Computer Interfaces",
+    "Electric Stimulation",
+    "Feedback",
+    "Hand",
+    "Humans",
+    "Macaca mulatta",
+    "Pressure",
+    "Somatosensory Cortex",
+    "Time Factors",
+    "Touch"
+  ]
+}

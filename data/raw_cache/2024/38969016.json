@@ -1,0 +1,25 @@
+{
+  "pmid": "38969016",
+  "title": "Population coding for figure-ground texture segregation in macaque V1 and V4.",
+  "abstract": "Object recognition often involves the brain segregating objects from their surroundings. Neurophysiological studies of figure-ground texture segregation have yielded inconsistent results, particularly on whether V1 neurons can perform figure-ground texture segregation or just detect texture borders. To address this issue from a population perspective, we utilized two-photon calcium imaging to simultaneously record the responses of large samples of V1 and V4 neurons to figure-ground texture stimuli in awake, fixating macaques. The average response changes indicate that V1 neurons mainly detect texture borders, while V4 neurons are involved in figure-ground segregation. However, population analysis (SVM decoding of PCA-transformed neuronal responses) reveal that V1 neurons not only detect figure-ground borders, but also contribute to figure-ground texture segregation, although requiring substantially more principal components than V4 neurons to reach a 75 % decoding accuracy. Individually, V1/V4 neurons showing larger (negative/positive) figure-ground response differences contribute more to figure-ground segregation. But for V1 neurons, the contribution becomes significant only when many principal components are considered. We conclude that V1 neurons participate in figure-ground segregation primarily by defining the figure borders, and the poorly structured figure-ground information V1 neurons carry could be further utilized by V4 neurons to accomplish figure-ground segregation.",
+  "authors": [
+    "Zhao Xing-Nan",
+    "Dong Xing-Si",
+    "Jiang Dan-Qing",
+    "Wu Si",
+    "Tang Shi-Ming",
+    "Yu Cong"
+  ],
+  "journal": "Progress in neurobiology",
+  "year": "2024",
+  "doi": "10.1016/j.pneurobio.2024.102655",
+  "mesh": [
+    "Animals",
+    "Visual Cortex",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Macaca mulatta",
+    "Male"
+  ]
+}

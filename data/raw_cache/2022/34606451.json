@@ -1,0 +1,28 @@
+{
+  "pmid": "34606451",
+  "title": "Semi-Supervised Segmentation of Radiation-Induced Pulmonary Fibrosis From Lung CT Scans With Multi-Scale Guided Dense Attention.",
+  "abstract": "Computed Tomography (CT) plays an important role in monitoring radiation-induced Pulmonary Fibrosis (PF), where accurate segmentation of the PF lesions is highly desired for diagnosis and treatment follow-up. However, the task is challenged by ambiguous boundary, irregular shape, various position and size of the lesions, as well as the difficulty in acquiring a large set of annotated volumetric images for training. To overcome these problems, we propose a novel convolutional neural network called PF-Net and incorporate it into a semi-supervised learning framework based on Iterative Confidence-based Refinement And Weighting of pseudo Labels (I-CRAWL). Our PF-Net combines 2D and 3D convolutions to deal with CT volumes with large inter-slice spacing, and uses multi-scale guided dense attention to segment complex PF lesions. For semi-supervised learning, our I-CRAWL employs pixel-level uncertainty-based confidence-aware refinement to improve the accuracy of pseudo labels of unannotated images, and uses image-level uncertainty for confidence-based image weighting to suppress low-quality pseudo labels in an iterative training process. Extensive experiments with CT scans of Rhesus Macaques with radiation-induced PF showed that: 1) PF-Net achieved higher segmentation accuracy than existing 2D, 3D and 2.5D neural networks, and 2) I-CRAWL outperformed state-of-the-art semi-supervised learning methods for the PF lesion segmentation task. Our method has a potential to improve the diagnosis of PF and clinical assessment of side effects of radiotherapy for lung cancers.",
+  "authors": [
+    "Wang Guotai",
+    "Zhai Shuwei",
+    "Lasio Giovanni",
+    "Zhang Baoshe",
+    "Yi Byong",
+    "Chen Shifeng",
+    "Macvittie Thomas J",
+    "Metaxas Dimitris",
+    "Zhou Jinghao",
+    "Zhang Shaoting"
+  ],
+  "journal": "IEEE transactions on medical imaging",
+  "year": "2022",
+  "doi": "10.1109/TMI.2021.3117564",
+  "mesh": [
+    "Animals",
+    "Image Processing, Computer-Assisted",
+    "Lung",
+    "Macaca mulatta",
+    "Pulmonary Fibrosis",
+    "Tomography, X-Ray Computed"
+  ]
+}

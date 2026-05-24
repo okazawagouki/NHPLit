@@ -1,0 +1,22 @@
+{
+  "pmid": "40560722",
+  "title": "Protocol for phase-amplitude coupling analysis in local field potentials from macaque monkeys to investigate neural oscillation dynamics.",
+  "abstract": "Phase-amplitude coupling (PAC) is a critical neural mechanism that reflects the coordination between oscillatory brain activity across different frequency bands. Here, we present a protocol for analyzing PAC in macaque monkeys. We describe steps for preprocessing local field potential (LFP), performing time-frequency decomposition, and computing PAC between distinct frequency bands. We then detail procedures for normalizing the results using surrogate data. This protocol can be applied to various experimental conditions to explore neural synchronization and its role in cognitive processes. For complete details on the use and execution of this protocol, please refer to Aliramezani et al.<sup>1</sup>.",
+  "authors": [
+    "Aliramezani Mohammad",
+    "Farrokhi Ashkan",
+    "Constantinidis Christos",
+    "Daliri Mohammad Reza"
+  ],
+  "journal": "STAR protocols",
+  "year": "2025",
+  "doi": "10.1016/j.xpro.2025.103877",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Brain",
+    "Macaca mulatta",
+    "Neurons",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

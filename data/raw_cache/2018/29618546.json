@@ -1,0 +1,26 @@
+{
+  "pmid": "29618546",
+  "title": "Attention Selectively Gates Afferent Signal Transmission to Area V4.",
+  "abstract": "Selective attention allows focusing on only part of the incoming sensory information. Neurons in the extrastriate visual cortex reflect such selective processing when different stimuli are simultaneously present in their large receptive fields. Their spiking response then resembles the response to the attended stimulus when presented in isolation. Unclear is where in the neuronal pathway attention intervenes to achieve such selective signal routing and processing. To investigate this question, we tagged two equivalent visual stimuli by independent broadband luminance noise and used the spectral coherence of these behaviorally irrelevant signals with the field potential of a local neuronal population in male macaque monkeys' area V4 as a measure for their respective causal influences. This new experimental paradigm revealed that signal transmission was considerably weaker for the not-attended stimulus. Furthermore, our results show that attention does not need to modulate responses in the input populations sending signals to V4 to selectively represent a stimulus, nor do they suggest a change of the V4 neurons' output gain depending on their feature similarity with the stimuli. Our results rather imply that selective attention uses a gating mechanism comprising the synaptic \"inputs\" that transmit signals from upstream areas into the V4 neurons. A minimal model implementing attention-dependent routing by gamma-band synchrony replicated the attentional gating effect and the signals' spectral transfer characteristics. It supports the proposal that selective interareal gamma-band synchrony subserves signal routing and explains our experimental finding that attention selectively gates signals already at the level of afferent synaptic input.<b>SIGNIFICANCE STATEMENT</b> Depending on the behavioral context, the brain needs to channel the flow of information through its networks of massively interconnected neurons. We designed an experiment that allows to causally assess routing of information originating from an attended object. We found that attention \"gates\" signals at the interplay between afferent fibers and the local neurons. A minimal model demonstrated that coherent gamma-rhythmic activity (∼60 Hz) between local neurons and their afferent-providing input neurons can realize the gating. Importantly, the attended signals did not need to be amplified already in an earlier processing stage, nor did they get amplified by a simple output response modulation. The method provides a useful tool to study mechanisms of dynamic network configuration underlying cognitive processes.",
+  "authors": [
+    "Grothe Iris",
+    "Rotermund David",
+    "Neitzel Simon David",
+    "Mandon Sunita",
+    "Ernst Udo Alexander",
+    "Kreiter Andreas K",
+    "Pawelzik Klaus Richard"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2018",
+  "doi": "10.1523/JNEUROSCI.2221-17.2018",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Macaca mulatta",
+    "Male",
+    "Sensory Gating",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

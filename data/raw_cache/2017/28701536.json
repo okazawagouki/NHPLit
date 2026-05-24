@@ -1,0 +1,23 @@
+{
+  "pmid": "28701536",
+  "title": "Spatially tuned normalization explains attention modulation variance within neurons.",
+  "abstract": "Spatial attention improves perception of attended parts of a scene, a behavioral enhancement accompanied by modulations of neuronal firing rates. These modulations vary in size across neurons in the same brain area. Models of normalization explain much of this variance in attention modulation with differences in tuned normalization across neurons (Lee J, Maunsell JHR. <i>PLoS One</i> 4: e4651, 2009; Ni AM, Ray S, Maunsell JHR. <i>Neuron</i> 73: 803-813, 2012). However, recent studies suggest that normalization tuning varies with spatial location both across and within neurons (Ruff DA, Alberts JJ, Cohen MR. <i>J Neurophysiol</i> 116: 1375-1386, 2016; Verhoef BE, Maunsell JHR. <i>eLife</i> 5: e17256, 2016). Here we show directly that attention modulation and normalization tuning do in fact covary within individual neurons, in addition to across neurons as previously demonstrated. We recorded the activity of isolated neurons in the middle temporal area of two rhesus monkeys as they performed a change-detection task that controlled the focus of spatial attention. Using the same two drifting Gabor stimuli and the same two receptive field locations for each neuron, we found that switching which stimulus was presented at which location affected both attention modulation and normalization in a correlated way within neurons. We present an equal-maximum-suppression spatially tuned normalization model that explains this covariance both across and within neurons: each stimulus generates equally strong suppression of its own excitatory drive, but its suppression of distant stimuli is typically less. This new model specifies how the tuned normalization associated with each stimulus location varies across space both within and across neurons, changing our understanding of the normalization mechanism and how attention modulations depend on this mechanism.<b>NEW & NOTEWORTHY</b> Tuned normalization studies have demonstrated that the variance in attention modulation size seen across neurons from the same cortical area can be largely explained by between-neuron differences in normalization strength. Here we demonstrate that attention modulation size varies within neurons as well and that this variance is largely explained by within-neuron differences in normalization strength. We provide a new spatially tuned normalization model that explains this broad range of observed normalization and attention effects.",
+  "authors": [
+    "Ni Amy M",
+    "Maunsell John H R"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2017",
+  "doi": "10.1152/jn.00218.2017",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Cues",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Spatial Processing",
+    "Temporal Lobe"
+  ]
+}

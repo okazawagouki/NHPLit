@@ -1,0 +1,23 @@
+{
+  "pmid": "12750901",
+  "title": "Time representing cortical activities: two models inspired by prefrontal persistent activity.",
+  "abstract": "Timing information in the range of seconds is significantly correlated with our behavior. There is growing interest in the cognitive behaviors that rely on perception, comparison, or generation of timing. However, little is known about the neural mechanisms underlying such behaviors. Here we model two different neural mechanisms to represent timing information in the range of seconds. In one model, a recurrent network of bistable spiking neurons shows a quasistable state that is initiated by a brief input and typically lasts for a few to several seconds. The duration of this quasistable activity may be regarded as the neural representation of internal time obeying a psychophysical law of time recognition. Another model uses synfire chains to provide the timing information necessary for predicting the times of anticipated events. In this model, the neurons projected to by multiple synfire chains are conditioned to fire synchronously at the times when an external event (GO signal) is expected. The conditioning is accomplished by spike-timing-dependent plasticity. The two models are inspired by the prefrontal activities of the monkeys engaging in different timing-information-related tasks. Thus, this cortical region may provide the timing information required for organizing various behaviors.",
+  "authors": [
+    "Kitano K",
+    "Okamoto H",
+    "Fukai T"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Humans",
+    "Memory",
+    "Models, Neurological",
+    "Neuronal Plasticity",
+    "Prefrontal Cortex",
+    "Time Perception"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "24509130",
+  "title": "A nonparametric method for detecting fixations and saccades using cluster analysis: removing the need for arbitrary thresholds.",
+  "abstract": "BACKGROUND: Eye tracking is an important component of many human and non-human primate behavioral experiments. As behavioral paradigms have become more complex, including unconstrained viewing of natural images, eye movements measured in these paradigms have become more variable and complex as well. Accordingly, the common practice of using acceleration, dispersion, or velocity thresholds to segment viewing behavior into periods of fixations and saccades may be insufficient. NEW METHOD: Here we propose a novel algorithm, called Cluster Fix, which uses k-means cluster analysis to take advantage of the qualitative differences between fixations and saccades. The algorithm finds natural divisions in 4 state space parameters-distance, velocity, acceleration, and angular velocity-to separate scan paths into periods of fixations and saccades. The number and size of clusters adjusts to the variability of individual scan paths. RESULTS: Cluster Fix can detect small saccades that were often indistinguishable from noisy fixations. Local analysis of fixations helped determine the transition times between fixations and saccades. COMPARISON WITH EXISTING METHODS: Because Cluster Fix detects natural divisions in the data, predefined thresholds are not needed. CONCLUSIONS: A major advantage of Cluster Fix is the ability to precisely identify the beginning and end of saccades, which is essential for studying neural activity that is modulated by or time-locked to saccades. Our data suggest that Cluster Fix is more sensitive than threshold-based algorithms but comes at the cost of an increase in computational time.",
+  "authors": [
+    "König Seth D",
+    "Buffalo Elizabeth A"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2014",
+  "doi": "10.1016/j.jneumeth.2014.01.032",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cluster Analysis",
+    "Fixation, Ocular",
+    "Humans",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Saccades",
+    "Signal Detection, Psychological"
+  ]
+}

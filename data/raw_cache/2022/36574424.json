@@ -1,0 +1,24 @@
+{
+  "pmid": "36574424",
+  "title": "Robust and brain-like working memory through short-term synaptic plasticity.",
+  "abstract": "Working memory has long been thought to arise from sustained spiking/attractor dynamics. However, recent work has suggested that short-term synaptic plasticity (STSP) may help maintain attractor states over gaps in time with little or no spiking. To determine if STSP endows additional functional advantages, we trained artificial recurrent neural networks (RNNs) with and without STSP to perform an object working memory task. We found that RNNs with and without STSP were able to maintain memories despite distractors presented in the middle of the memory delay. However, RNNs with STSP showed activity that was similar to that seen in the cortex of a non-human primate (NHP) performing the same task. By contrast, RNNs without STSP showed activity that was less brain-like. Further, RNNs with STSP were more robust to network degradation than RNNs without STSP. These results show that STSP can not only help maintain working memories, it also makes neural networks more robust and brain-like.",
+  "authors": [
+    "Kozachkov Leo",
+    "Tauber John",
+    "Lundqvist Mikael",
+    "Brincat Scott L",
+    "Slotine Jean-Jacques",
+    "Miller Earl K"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2022",
+  "doi": "10.1371/journal.pcbi.1010776",
+  "mesh": [
+    "Animals",
+    "Memory, Short-Term",
+    "Brain",
+    "Neural Networks, Computer",
+    "Primates",
+    "Neuronal Plasticity"
+  ]
+}

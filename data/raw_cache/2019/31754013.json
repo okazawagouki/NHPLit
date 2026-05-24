@@ -1,0 +1,34 @@
+{
+  "pmid": "31754013",
+  "title": "The Effects of Population Tuning and Trial-by-Trial Variability on Information Encoding and Behavior.",
+  "abstract": "Identifying the features of population responses that are relevant to the amount of information encoded by neuronal populations is a crucial step toward understanding population coding. Statistical features, such as tuning properties, individual and shared response variability, and global activity modulations, could all affect the amount of information encoded and modulate behavioral performance. We show that two features in particular affect information: the modulation of population responses across conditions (population signal) and the inverse population covariability along the modulation axis (projected precision). We demonstrate that fluctuations of these two quantities are correlated with fluctuations of behavioral performance in various tasks and brain regions consistently across 4 monkeys (1 female and 1 male <i>Macaca mulatta</i>; and 2 male <i>Macaca fascicularis</i>). In contrast, fluctuations in mean correlations among neurons and global activity have negligible or inconsistent effects on the amount of information encoded and behavioral performance. We also show that differential correlations reduce the amount of information encoded in finite populations by reducing projected precision. Our results are consistent with predictions of a model that optimally decodes population responses to produce behavior.<b>SIGNIFICANCE STATEMENT</b> The last two or three decades of research have seen hot debates about what features of population tuning and trial-by-trial variability influence the information carried by a population of neurons, with some camps arguing, for instance, that mean pairwise correlations or global fluctuations are important while other camps report opposite results. In this study, we identify the most important features of neural population responses that determine the amount of encoded information and behavioral performance by combining analytic calculations with a novel nonparametric method that allows us to isolate the effects of different statistical features. We tested our hypothesis on 4 macaques, three decision-making tasks, and two brain areas. The predictions of our theory were in agreement with the experimental data.",
+  "authors": [
+    "Nogueira Ramon",
+    "Peltier Nicole E",
+    "Anzai Akiyuki",
+    "DeAngelis Gregory C",
+    "Martínez-Trujillo Julio",
+    "Moreno-Bote Rubén"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2020",
+  "doi": "10.1523/JNEUROSCI.0859-19.2019",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Behavior, Animal",
+    "Discriminant Analysis",
+    "Female",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Psychomotor Performance",
+    "Temporal Lobe",
+    "Visual Perception"
+  ]
+}

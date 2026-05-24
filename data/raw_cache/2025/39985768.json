@@ -1,0 +1,26 @@
+{
+  "pmid": "39985768",
+  "title": "Modeling conditional distributions of neural and behavioral data with masked variational autoencoders.",
+  "abstract": "Extracting the relationship between high-dimensional neural recordings and complex behavior is a ubiquitous problem in neuroscience. Encoding and decoding models target the conditional distribution of neural activity given behavior and vice versa, while dimensionality reduction techniques extract low-dimensional representations thereof. Variational autoencoders (VAEs) are flexible tools for inferring such low-dimensional embeddings but struggle to accurately model arbitrary conditional distributions such as those arising in neural encoding and decoding, let alone simultaneously. Here, we present a VAE-based approach for calculating such conditional distributions. We first validate our approach on a task with known ground truth. Next, we retrieve conditional distributions over masked body parts of walking flies. Finally, we decode motor trajectories from neural activity in a monkey-reach task and query the same VAE for the encoding distribution. Our approach unifies dimensionality reduction and learning conditional distributions, allowing the scaling of common analyses in neuroscience to today's high-dimensional multi-modal datasets.",
+  "authors": [
+    "Schulz Auguste",
+    "Vetter Julius",
+    "Gao Richard",
+    "Morales Daniel",
+    "Lobato-Rios Victor",
+    "Ramdya Pavan",
+    "Gonçalves Pedro J",
+    "Macke Jakob H"
+  ],
+  "journal": "Cell reports",
+  "year": "2025",
+  "doi": "10.1016/j.celrep.2025.115338",
+  "mesh": [
+    "Animals",
+    "Models, Neurological",
+    "Neurons",
+    "Behavior, Animal",
+    "Algorithms",
+    "Autoencoder"
+  ]
+}

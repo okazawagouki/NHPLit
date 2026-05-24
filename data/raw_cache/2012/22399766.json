@@ -1,0 +1,26 @@
+{
+  "pmid": "22399766",
+  "title": "From salience to saccades: multiple-alternative gated stochastic accumulator model of visual search.",
+  "abstract": "We describe a stochastic accumulator model demonstrating that visual search performance can be understood as a gated feedforward cascade from a salience map to multiple competing accumulators. The model quantitatively accounts for behavior and predicts neural dynamics of macaque monkeys performing visual search for a target stimulus among different numbers of distractors. The salience accumulated in the model is equated with the spike trains recorded from visually responsive neurons in the frontal eye field. Accumulated variability in the firing rates of these neurons explains choice probabilities and the distributions of correct and error response times with search arrays of different set sizes if the accumulators are mutually inhibitory. The dynamics of the stochastic accumulators quantitatively predict the activity of presaccadic movement neurons that initiate eye movements if gating inhibition prevents accumulation before the representation of stimulus salience emerges. Adjustments in the level of gating inhibition can control trade-offs in speed and accuracy that optimize visual search performance.",
+  "authors": [
+    "Purcell Braden A",
+    "Schall Jeffrey D",
+    "Logan Gordon D",
+    "Palmeri Thomas J"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2012",
+  "doi": "10.1523/JNEUROSCI.4622-11.2012",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Macaca radiata",
+    "Male",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Saccades",
+    "Sensory Gating",
+    "Stochastic Processes",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "18761038",
+  "title": "An open-source hardware and software system for acquisition and real-time processing of electrophysiology during high field MRI.",
+  "abstract": "Simultaneous recording of electrophysiology and functional magnetic resonance imaging (fMRI) is a technique of growing importance in neuroscience. Rapidly evolving clinical and scientific requirements have created a need for hardware and software that can be customized for specific applications. Hardware may require customization to enable a variety of recording types (e.g., electroencephalogram, local field potentials, or multi-unit activity) while meeting the stringent and costly requirements of MRI safety and compatibility. Real-time signal processing tools are an enabling technology for studies of learning, attention, sleep, epilepsy, neurofeedback, and neuropharmacology, yet real-time signal processing tools are difficult to develop. We describe an open-source system for simultaneous electrophysiology and fMRI featuring low-noise (<0.6microV p-p input noise), electromagnetic compatibility for MRI (tested up to 7T), and user-programmable real-time signal processing. The hardware distribution provides the complete specifications required to build an MRI-compatible electrophysiological data acquisition system, including circuit schematics, print circuit board (PCB) layouts, Gerber files for PCB fabrication and robotic assembly, a bill of materials with part numbers, data sheets, and vendor information, and test procedures. The software facilitates rapid implementation of real-time signal processing algorithms. This system has been used in human EEG/fMRI studies at 3 and 7T examining the auditory system, visual system, sleep physiology, and anesthesia, as well as in intracranial electrophysiological studies of the non-human primate visual system during 3T fMRI, and in human hyperbaric physiology studies at depths of up to 300 feet below sea level.",
+  "authors": [
+    "Purdon Patrick L",
+    "Millan Hernan",
+    "Fuller Peter L",
+    "Bonmassar Giorgio"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2008",
+  "doi": "10.1016/j.jneumeth.2008.07.017",
+  "mesh": [
+    "Brain",
+    "Brain Mapping",
+    "Computers",
+    "Electroencephalography",
+    "Electrophysiology",
+    "Evoked Potentials",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Magnetic Resonance Imaging",
+    "Numerical Analysis, Computer-Assisted",
+    "Oxygen",
+    "Software"
+  ]
+}

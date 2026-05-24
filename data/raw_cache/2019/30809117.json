@@ -1,0 +1,15 @@
+{
+  "pmid": "30809117",
+  "title": "Optimizing the Yield of Multi-Unit Activity by Including the Entire Spiking Activity.",
+  "abstract": "Neurophysiological data acquisition using multi-electrode arrays and/or (semi-) chronic recordings frequently has to deal with low signal-to-noise ratio (SNR) of neuronal responses and potential failure of detecting evoked responses within random background fluctuations. Conventional methods to extract action potentials (spikes) from background noise often apply thresholds to the recorded signal, usually allowing reliable detection of spikes when data exhibit a good SNR, but often failing when SNR is poor. We here investigate a threshold-independent, fast, and automated procedure for analysis of low SNR data, based on fullwave-rectification and low-pass filtering the signal as a measure of the entire spiking activity (ESA). We investigate the sensitivity and reliability of the ESA-signal for detecting evoked responses by applying an automated receptive field (RF) mapping procedure to semi-chronically recorded data from primary visual cortex (V1) of five macaque monkeys. For recording sites with low SNR, the usage of ESA improved the detection rate of RFs by a factor of 2.5 in comparison to MUA-based detection. For recording sites with medium and high SNR, ESA delivered 30% more RFs than MUA. This significantly higher yield of ESA-based RF-detection still hold true when using an iterative procedure for determining the optimal spike threshold for each MUA individually. Moreover, selectivity measures for ESA-based RFs were quite compatible with MUA-based RFs. Regarding RF size, ESA delivered larger RFs than thresholded MUA, but size difference was consistent over all SNR fractions. Regarding orientation selectivity, ESA delivered more sites with significant orientation-dependent responses but with somewhat lower orientation indexes than MUA. However, preferred orientations were similar for both signal types. The results suggest that ESA is a powerful signal for applications requiring automated, fast, and reliable response detection, as e.g., brain-computer interfaces and neuroprosthetics, due to its high sensitivity and its independence from user-dependent intervention. Because the full information of the spiking activity is preserved, ESA also constitutes a valuable alternative for offline analysis of data with limited SNR.",
+  "authors": [
+    "Drebitz Eric",
+    "Schledde Bastian",
+    "Kreiter Andreas K",
+    "Wegener Detlef"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2019",
+  "doi": "10.3389/fnins.2019.00083",
+  "mesh": []
+}

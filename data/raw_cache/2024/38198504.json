@@ -1,0 +1,22 @@
+{
+  "pmid": "38198504",
+  "title": "High-performing neural network models of visual cortex benefit from high latent dimensionality.",
+  "abstract": "Geometric descriptions of deep neural networks (DNNs) have the potential to uncover core representational principles of computational models in neuroscience. Here we examined the geometry of DNN models of visual cortex by quantifying the latent dimensionality of their natural image representations. A popular view holds that optimal DNNs compress their representations onto low-dimensional subspaces to achieve invariance and robustness, which suggests that better models of visual cortex should have lower dimensional geometries. Surprisingly, we found a strong trend in the opposite direction-neural networks with high-dimensional image subspaces tended to have better generalization performance when predicting cortical responses to held-out stimuli in both monkey electrophysiology and human fMRI data. Moreover, we found that high dimensionality was associated with better performance when learning new categories of stimuli, suggesting that higher dimensional representations are better suited to generalize beyond their training domains. These findings suggest a general principle whereby high-dimensional geometry confers computational benefits to DNN models of visual cortex.",
+  "authors": [
+    "Elmoznino Eric",
+    "Bonner Michael F"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2024",
+  "doi": "10.1371/journal.pcbi.1011792",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Neural Networks, Computer",
+    "Learning",
+    "Visual Cortex",
+    "Magnetic Resonance Imaging",
+    "Neurosciences",
+    "Haplorhini"
+  ]
+}

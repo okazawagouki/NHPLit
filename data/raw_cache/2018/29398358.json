@@ -1,0 +1,35 @@
+{
+  "pmid": "29398358",
+  "title": "Motor Cortex Embeds Muscle-like Commands in an Untangled Population Response.",
+  "abstract": "Primate motor cortex projects to spinal interneurons and motoneurons, suggesting that motor cortex activity may be dominated by muscle-like commands. Observations during reaching lend support to this view, but evidence remains ambiguous and much debated. To provide a different perspective, we employed a novel behavioral paradigm that facilitates comparison between time-evolving neural and muscle activity. We found that single motor cortex neurons displayed many muscle-like properties, but the structure of population activity was not muscle-like. Unlike muscle activity, neural activity was structured to avoid \"tangling\": moments where similar activity patterns led to dissimilar future patterns. Avoidance of tangling was present across tasks and species. Network models revealed a potential reason for this consistent feature: low tangling confers noise robustness. Finally, we were able to predict motor cortex activity from muscle activity by leveraging the hypothesis that muscle-like commands are embedded in additional structure that yields low tangling.",
+  "authors": [
+    "Russo Abigail A",
+    "Bittner Sean R",
+    "Perkins Sean M",
+    "Seely Jeffrey S",
+    "London Brian M",
+    "Lara Antonio H",
+    "Miri Andrew",
+    "Marshall Najja J",
+    "Kohn Adam",
+    "Jessell Thomas M",
+    "Abbott Laurence F",
+    "Cunningham John P",
+    "Churchland Mark M"
+  ],
+  "journal": "Neuron",
+  "year": "2018",
+  "doi": "10.1016/j.neuron.2018.01.004",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Mice",
+    "Models, Neurological",
+    "Motor Activity",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Muscle, Skeletal",
+    "Neural Pathways"
+  ]
+}

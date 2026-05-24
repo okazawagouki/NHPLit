@@ -1,0 +1,28 @@
+{
+  "pmid": "16207780",
+  "title": "Virtual vocalization stimuli for investigating neural representations of species-specific vocalizations.",
+  "abstract": "Most studies investigating neural representations of species-specific vocalizations in non-human primates and other species have involved studying neural responses to vocalization tokens. One limitation of such approaches is the difficulty in determining which acoustical features of vocalizations evoke neural responses. Traditionally used filtering techniques are often inadequate in manipulating features of complex vocalizations. Furthermore, the use of vocalization tokens cannot fully account for intrinsic stochastic variations of vocalizations that are crucial in understanding the neural codes for categorizing and discriminating vocalizations differing along multiple feature dimensions. In this work, we have taken a rigorous and novel approach to the study of species-specific vocalization processing by creating parametric \"virtual vocalization\" models of major call types produced by the common marmoset (Callithrix jacchus). The main findings are as follows. 1) Acoustical parameters were measured from a database of the four major call types of the common marmoset. This database was obtained from eight different individuals, and for each individual, we typically obtained hundreds of samples of each major call type. 2) These feature measurements were employed to parameterize models defining representative virtual vocalizations of each call type for each of the eight animals as well as an overall species-representative virtual vocalization averaged across individuals for each call type. 3) Using the same feature-measurement that was applied to the vocalization samples, we measured acoustical features of the virtual vocalizations, including features not explicitly modeled and found the virtual vocalizations to be statistically representative of the callers and call types. 4) The accuracy of the virtual vocalizations was further confirmed by comparing neural responses to real and synthetic virtual vocalizations recorded from awake marmoset auditory cortex. We found a strong agreement between the responses to token vocalizations and their synthetic counterparts. 5) We demonstrated how these virtual vocalization stimuli could be employed to precisely and quantitatively define the notion of vocalization \"selectivity\" by using stimuli with parameter values both within and outside the naturally occurring ranges. We also showed the potential of the virtual vocalization stimuli in studying issues related to vocalization categorizations by morphing between different call types and individual callers.",
+  "authors": [
+    "DiMattina Christopher",
+    "Wang Xiaoqin"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Animals",
+    "Auditory Cortex",
+    "Auditory Pathways",
+    "Callithrix",
+    "Evoked Potentials, Auditory",
+    "Female",
+    "Male",
+    "Sound Spectrography",
+    "Species Specificity",
+    "Speech Production Measurement",
+    "Speech Recognition Software",
+    "User-Computer Interface",
+    "Vocalization, Animal"
+  ]
+}

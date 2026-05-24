@@ -1,0 +1,23 @@
+{
+  "pmid": "20007050",
+  "title": "Learning in closed-loop brain-machine interfaces: modeling and experimental validation.",
+  "abstract": "Closed-loop operation of a brain-machine interface (BMI) relies on the subject's ability to learn an inverse transformation of the plant to be controlled. In this paper, we propose a model of the learning process that undergoes closed-loop BMI operation. We first explore the properties of the model and show that it is able to learn an inverse model of the controlled plant. Then, we compare the model predictions to actual experimental neural and behavioral data from nonhuman primates operating a BMI, which demonstrate high accordance of the model with the experimental data. Applying tools from control theory to this learning model will help in the design of a new generation of neural information decoders which will maximize learning speed for BMI users.",
+  "authors": [
+    "Héliot Rodolphe",
+    "Ganguly Karunesh",
+    "Jimenez Jessica",
+    "Carmena Jose M"
+  ],
+  "journal": "IEEE transactions on systems, man, and cybernetics. Part B, Cybernetics : a publication of the IEEE Systems, Man, and Cybernetics Society",
+  "year": "2010",
+  "doi": "10.1109/TSMCB.2009.2036931",
+  "mesh": [
+    "Biofeedback, Psychology",
+    "Brain",
+    "Electroencephalography",
+    "Humans",
+    "Learning",
+    "Models, Neurological",
+    "User-Computer Interface"
+  ]
+}

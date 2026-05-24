@@ -1,0 +1,26 @@
+{
+  "pmid": "37986895",
+  "title": "Decomposition of retinal ganglion cell electrical images for cell type and functional inference.",
+  "abstract": "OBJECTIVE: Identifying neuronal cell types and their biophysical properties based on their extracellular electrical features is a major challenge for experimental neuroscience and for the development of high-resolution brain-machine interfaces. One example is identification of retinal ganglion cell (RGC) types and their visual response properties, which is fundamental for developing future electronic implants that can restore vision. APPROACH: The electrical image (EI) of a RGC, or the mean spatio-temporal voltage footprint of its recorded spikes on a high-density electrode array, contains substantial information about its anatomical, morphological, and functional properties. However, the analysis of these properties is complex because of the high-dimensional nature of the EI. We present a novel optimization-based algorithm to decompose electrical image into a low-dimensional, biophysically-based representation: the temporally-shifted superposition of three learned basis waveforms corresponding to spike waveforms produced in the somatic, dendritic and axonal cellular compartments. RESULTS: The decomposition was evaluated using large-scale multi-electrode recordings from the macaque retina. The decomposition accurately localized the somatic and dendritic compartments of the cell. The imputed dendritic fields of RGCs correctly predicted the location and shape of their visual receptive fields. The inferred waveform amplitudes and shapes accurately identified the four major primate RGC types (ON and OFF midget and parasol cells) substantially more accurately than previous approaches. SIGNIFICANCE: These findings contribute to more accurate inference of RGC types and their original light responses based purely on their electrical features, with potential implications for vision restoration technology.",
+  "authors": [
+    "Wu Eric G",
+    "Rudzite Andra M",
+    "Bohlen Martin O",
+    "Li Peter H",
+    "Kling Alexandra",
+    "Cooler Sam",
+    "Rhoades Colleen",
+    "Brackbill Nora",
+    "Gogliettino Alex R",
+    "Shah Nishal P",
+    "Madugula Sasidhar S",
+    "Sher Alexander",
+    "Litke Alan M",
+    "Field Greg D",
+    "Chichilnisky E J"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2023.11.06.565889",
+  "mesh": []
+}

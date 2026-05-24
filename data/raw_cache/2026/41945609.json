@@ -1,0 +1,31 @@
+{
+  "pmid": "41945609",
+  "title": "Modeling spatial contrast sensitivity in responses of primate retinal ganglion cells to natural movies.",
+  "abstract": "Retinal ganglion cells, the output neurons of the vertebrate retina, often display nonlinear summation of visual signals over their receptive fields. This creates sensitivity to spatial contrast, letting the cells respond to spatially structured visual stimuli even when no net change in overall illumination of the receptive field occurs. Yet, computational models of ganglion cell responses are often based on linear receptive fields, and typical nonlinear extensions, which separate receptive fields into nonlinearly combined subunits, are often cumbersome to fit to experimental data. Previous work has suggested to model spatial-contrast sensitivity in responses to flashed images by combining signals from the mean and variance of light intensity inside the receptive field. Here, we extend and adjust this spatial contrast model for application to spatiotemporal stimulation and explore its performance on spiking responses that we recorded from ganglion cells of marmosets under artificial and naturalistic movies. We show how the model can be fitted to experimental data and that it outperforms common models with linear spatial integration to different degrees for different types of ganglion cells. Finally, we use the model framework to infer the cells' spatial scale of nonlinear spatial integration. Our work shows that the spatial contrast model can capture aspects of nonlinear spatial integration in the primate retina with only few free parameters. The model can be used to assess the cells' functional properties under natural stimulation and provides a simple-to-obtain benchmark for comparison with more detailed nonlinear encoding models.",
+  "authors": [
+    "Sridhar Shashwat",
+    "Vystrčilová Michaela",
+    "Khani Mohammad H",
+    "Karamanlis Dimokratis",
+    "Schreyer Helene M",
+    "Ramakrishna Varsha",
+    "Krüppel Steffen",
+    "Zapp Sören J",
+    "Mietsch Matthias",
+    "Ecker Alexander S",
+    "Gollisch Tim"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2026",
+  "doi": "10.1371/journal.pcbi.1014157",
+  "mesh": [
+    "Retinal Ganglion Cells",
+    "Animals",
+    "Contrast Sensitivity",
+    "Models, Neurological",
+    "Photic Stimulation",
+    "Callithrix",
+    "Computational Biology",
+    "Computer Simulation"
+  ]
+}

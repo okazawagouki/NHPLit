@@ -1,0 +1,24 @@
+{
+  "pmid": "40146856",
+  "title": "Bayesian inference by visuomotor neurons in the prefrontal cortex.",
+  "abstract": "Perceptual judgments of the environment emerge from the concerted activity of neural populations in decision-making areas downstream of the sensory cortex. When the sensory input is ambiguous, perceptual judgments can be biased by prior expectations shaped by environmental regularities. These effects are examples of Bayesian inference, a reasoning method in which prior knowledge is leveraged to optimize uncertain decisions. However, it is not known how decision-making circuits combine sensory signals and prior expectations to form a perceptual decision. Here, we study neural population activity in the prefrontal cortex of macaque monkeys trained to report perceptual judgments of ambiguous visual stimuli under two different stimulus distributions. We isolate the component of the neural population response that represents the formation of the perceptual decision (the decision variable, DV), and find that its dynamical evolution reflects the integration of sensory signals and prior expectations. Prior expectations impact the DV's trajectory both before and during stimulus presentation such that DV trajectories with a smaller dynamic range result in more biased and less sensitive perceptual decisions. We show that these results resemble a specific variant of Bayesian inference known as approximate hierarchical inference. Our findings expand our understanding of the mechanisms by which prefrontal circuits can execute Bayesian inference.",
+  "authors": [
+    "Langlois Thomas A",
+    "Charlton Julie A",
+    "Goris Robbe L T"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2025",
+  "doi": "10.1073/pnas.2420815122",
+  "mesh": [
+    "Animals",
+    "Prefrontal Cortex",
+    "Bayes Theorem",
+    "Macaca mulatta",
+    "Neurons",
+    "Decision Making",
+    "Visual Perception",
+    "Photic Stimulation",
+    "Male"
+  ]
+}

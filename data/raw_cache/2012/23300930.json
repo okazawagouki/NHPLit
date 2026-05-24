@@ -1,0 +1,24 @@
+{
+  "pmid": "23300930",
+  "title": "A bio-inspired, motion-based analysis of crowd behavior attributes relevance to motion transparency, velocity gradients, and motion patterns.",
+  "abstract": "The analysis of motion crowds is concerned with the detection of potential hazards for individuals of the crowd. Existing methods analyze the statistics of pixel motion to classify non-dangerous or dangerous behavior, to detect outlier motions, or to estimate the mean throughput of people for an image region. We suggest a biologically inspired model for the analysis of motion crowds that extracts motion features indicative for potential dangers in crowd behavior. Our model consists of stages for motion detection, integration, and pattern detection that model functions of the primate primary visual cortex area (V1), the middle temporal area (MT), and the medial superior temporal area (MST), respectively. This model allows for the processing of motion transparency, the appearance of multiple motions in the same visual region, in addition to processing opaque motion. We suggest that motion transparency helps to identify \"danger zones\" in motion crowds. For instance, motion transparency occurs in small exit passages during evacuation. However, motion transparency occurs also for non-dangerous crowd behavior when people move in opposite directions organized into separate lanes. Our analysis suggests: The combination of motion transparency and a slow motion speed can be used for labeling of candidate regions that contain dangerous behavior. In addition, locally detected decelerations or negative speed gradients of motions are a precursor of danger in crowd behavior as are globally detected motion patterns that show a contraction toward a single point. In sum, motion transparency, image speeds, motion patterns, and speed gradients extracted from visual motion in videos are important features to describe the behavioral state of a motion crowd.",
+  "authors": [
+    "Raudies Florian",
+    "Neumann Heiko"
+  ],
+  "journal": "PloS one",
+  "year": "2012",
+  "doi": "10.1371/journal.pone.0053456",
+  "mesh": [
+    "Animals",
+    "Crowding",
+    "Humans",
+    "Mass Behavior",
+    "Models, Theoretical",
+    "Motion",
+    "Motion Perception",
+    "Neurons",
+    "Primates",
+    "Visual Cortex"
+  ]
+}

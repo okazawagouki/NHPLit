@@ -1,0 +1,24 @@
+{
+  "pmid": "23223286",
+  "title": "The interaction of bayesian priors and sensory data and its neural circuit implementation in visually guided movement.",
+  "abstract": "Sensory-motor behavior results from a complex interaction of noisy sensory data with priors based on recent experience. By varying the stimulus form and contrast for the initiation of smooth pursuit eye movements in monkeys, we show that visual motion inputs compete with two independent priors: one prior biases eye speed toward zero; the other prior attracts eye direction according to the past several days' history of target directions. The priors bias the speed and direction of the initiation of pursuit for the weak sensory data provided by the motion of a low-contrast sine wave grating. However, the priors have relatively little effect on pursuit speed and direction when the visual stimulus arises from the coherent motion of a high-contrast patch of dots. For any given stimulus form, the mean and variance of eye speed covary in the initiation of pursuit, as expected for signal-dependent noise. This relationship suggests that pursuit implements a trade-off between movement accuracy and variation, reducing both when the sensory signals are noisy. The tradeoff is implemented as a competition of sensory data and priors that follows the rules of Bayesian estimation. Computer simulations show that the priors can be understood as direction-specific control of the strength of visual-motor transmission, and can be implemented in a neural-network model that makes testable predictions about the population response in the smooth eye movement region of the frontal eye fields.",
+  "authors": [
+    "Yang Jin",
+    "Lee Joonyeol",
+    "Lisberger Stephen G"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2012",
+  "doi": "10.1523/JNEUROSCI.1163-12.2012",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Macaca mulatta",
+    "Male",
+    "Motion Perception",
+    "Neural Networks, Computer",
+    "Photic Stimulation",
+    "Pursuit, Smooth",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "27053217",
+  "title": "Inferring Cortical Variability from Local Field Potentials.",
+  "abstract": "UNLABELLED: The responses of sensory neurons can be quite different to repeated presentations of the same stimulus. Here, we demonstrate a direct link between the trial-to-trial variability of cortical neuron responses and network activity that is reflected in local field potentials (LFPs). Spikes and LFPs were recorded with a multielectrode array from the middle temporal (MT) area of the visual cortex of macaques during the presentation of continuous optic flow stimuli. A maximum likelihood-based modeling framework was used to predict single-neuron spiking responses using the stimulus, the LFPs, and the activity of other recorded neurons. MT neuron responses were strongly linked to gamma oscillations (maximum at 40 Hz) as well as to lower-frequency delta oscillations (1-4 Hz), with consistent phase preferences across neurons. The predicted modulation associated with the LFP was largely complementary to that driven by visual stimulation, as well as the activity of other neurons, and accounted for nearly half of the trial-to-trial variability in the spiking responses. Moreover, the LFP model predictions accurately captured the temporal structure of noise correlations between pairs of simultaneously recorded neurons, and explained the variation in correlation magnitudes observed across the population. These results therefore identify signatures of network activity related to the variability of cortical neuron responses, and suggest their central role in sensory cortical function. SIGNIFICANCE STATEMENT: The function of sensory neurons is nearly always cast in terms of representing sensory stimuli. However, recordings from visual cortex in awake animals show that a large fraction of neural activity is not predictable from the stimulus. We show that this variability is predictable given the simultaneously recorded measures of network activity, local field potentials. A model that combines elements of these signals with the stimulus processing of the neuron can predict neural responses dramatically better than current models, and can predict the structure of correlations across the cortical population. In identifying ways to understand stimulus processing in the context of ongoing network activity, this work thus provides a foundation to understand the role of sensory cortex in combining sensory and cognitive variables.",
+  "authors": [
+    "Cui Yuwei",
+    "Liu Liu D",
+    "McFarland James M",
+    "Pack Christopher C",
+    "Butts Daniel A"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2016",
+  "doi": "10.1523/JNEUROSCI.2502-15.2016",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cerebral Cortex",
+    "Evoked Potentials, Visual",
+    "Female",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Nerve Net",
+    "Photic Stimulation",
+    "Sensory Receptor Cells",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "31191633",
+  "title": "Discrimination of Motion Direction in a Robot Using a Phenomenological Model of Synaptic Plasticity.",
+  "abstract": "Recognizing and tracking the direction of moving stimuli is crucial to the control of much animal behaviour. In this study, we examine whether a bio-inspired model of synaptic plasticity implemented in a robotic agent may allow the discrimination of motion direction of real-world stimuli. Starting with a well-established model of short-term synaptic plasticity (STP), we develop a microcircuit motif of spiking neurons capable of exhibiting preferential and nonpreferential responses to changes in the direction of an orientation stimulus in motion. While the robotic agent processes sensory inputs, the STP mechanism introduces direction-dependent changes in the synaptic connections of the microcircuit, resulting in a population of units that exhibit a typical cortical response property observed in primary visual cortex (V1), namely, direction selectivity. Visually evoked responses from the model are then compared to those observed in multielectrode recordings from V1 in anesthetized macaque monkeys, while sinusoidal gratings are displayed on a screen. Overall, the model highlights the role of STP as a complementary mechanism in explaining the direction selectivity and applies these insights in a physical robot as a method for validating important response characteristics observed in experimental data from V1, namely, direction selectivity.",
+  "authors": [
+    "Berberian Nareg",
+    "Ross Matt",
+    "Chartier Sylvain"
+  ],
+  "journal": "Computational intelligence and neuroscience",
+  "year": "2019",
+  "doi": "10.1155/2019/6989128",
+  "mesh": [
+    "Animals",
+    "Evoked Potentials, Visual",
+    "Motion",
+    "Motion Perception",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Orientation",
+    "Robotics",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

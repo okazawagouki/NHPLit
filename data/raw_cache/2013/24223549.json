@@ -1,0 +1,13 @@
+{
+  "pmid": "24223549",
+  "title": "Temporal binding of sound emerges out of anatomical structure and synaptic dynamics of auditory cortex.",
+  "abstract": "The ability to represent and recognize naturally occuring sounds such as speech depends not only on spectral analysis carried out by the subcortical auditory system but also on the ability of the cortex to bind spectral information over time. In primates, these temporal binding processes are mirrored as selective responsiveness of neurons to species-specific vocalizations. Here, we used computational modeling of auditory cortex to investigate how selectivity to spectrally and temporally complex stimuli is achieved. A set of 208 microcolumns were arranged in a serial core-belt-parabelt structure documented in both humans and animals. Stimulus material comprised multiple consonant-vowel (CV) pseudowords. Selectivity to the spectral structure of the sounds was commonly found in all regions of the model (N = 122 columns out of 208), and this selectivity was only weakly affected by manipulating the structure and dynamics of the model. In contrast, temporal binding was rarer (N = 39), found mostly in the belt and parabelt regions. Thus, the serial core-belt-parabelt structure of auditory cortex is necessary for temporal binding. Further, adaptation due to synaptic depression-rendering the cortical network malleable by stimulus history-was crucial for the emergence of neurons sensitive to the temporal structure of the stimuli. Both spectral selectivity and temporal binding required that a sufficient proportion of the columns interacted in an inhibitory manner. The model and its structural modifications had a small-world structure (i.e., columns formed clusters and were within short node-to-node distances from each other). However, simulations showed that a small-world structure is not a necessary condition for spectral selectivity and temporal binding to emerge. In summary, this study suggests that temporal binding arises out of (1) the serial structure typical to the auditory cortex, (2) synaptic adaptation, and (3) inhibitory interactions between microcolumns.",
+  "authors": [
+    "May Patrick J C",
+    "Tiitinen Hannu"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2013",
+  "doi": "10.3389/fncom.2013.00152",
+  "mesh": []
+}

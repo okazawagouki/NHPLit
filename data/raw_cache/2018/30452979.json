@@ -1,0 +1,29 @@
+{
+  "pmid": "30452979",
+  "title": "Multifractal detrended fluctuation analysis of continuous neural time series in primate visual cortex.",
+  "abstract": "BACKGROUND: Local field potential (LFP) recordings have become an important tool to study the activity of populations of neurons. The functional activity of LFPs is usually compared with the activity of neighboring single spike neurons with sampling rates much higher than those of the continuous field potential channel (5 kHz). However, comparison of these signals generated with the lower sampling rate technique is important. NEW METHOD: In this study, we provide an analysis of extracellular field potential time series using the sophisticated nonlinear multifractal detrended fluctuation analysis (MF-DFA). Using the MF-DFA, we demonstrate that the integral of the singularity spectrum is a powerful new method to measure the response tuning of spikes in the continuous field potential channel. RESULTS: Results show that the spikes in the continuous channel at frequency ranges above the LFP component signals were consistently tuned similar to those in the spike channel. Our results also show that using a low-pass filter (<250 Hz), which is commonly applied as a preprocessing step to insulate LFPs from spikes, significantly influences the nonlinearity of the multifractal time series. COMPARISON WITH EXISTING METHODS AND CONCLUSIONS: Our approach for inferring the tuning curve of spiking activity from the continuous channel has some advantages compared to conventional methods such as spike trains. The MF-DFA does not require any preprocessing of the raw signal data and makes no assumptions about the time series characteristics. This method is robust and can be applied to short time series of continuous raw signals.",
+  "authors": [
+    "Fayyaz Zahra",
+    "Bahadorian Mohammadreza",
+    "Doostmohammadi Jafar",
+    "Davoodnia Vandad",
+    "Khodadadian Sajad",
+    "Lashgari Reza"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2019",
+  "doi": "10.1016/j.jneumeth.2018.10.039",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain Waves",
+    "Data Interpretation, Statistical",
+    "Fractals",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Signal Processing, Computer-Assisted",
+    "Visual Cortex"
+  ]
+}

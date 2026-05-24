@@ -1,0 +1,24 @@
+{
+  "pmid": "30726164",
+  "title": "Distinct types of neural reorganization during long-term learning.",
+  "abstract": "What are the neural mechanisms of skill acquisition? Many studies find that long-term practice is associated with a functional reorganization of cortical neural activity. However, the link between these changes in neural activity and the behavioral improvements that occur is not well understood, especially for long-term learning that takes place over several weeks. To probe this link in detail, we leveraged a brain-computer interface (BCI) paradigm in which rhesus monkeys learned to master nonintuitive mappings between neural spiking in primary motor cortex and computer cursor movement. Critically, these BCI mappings were designed to disambiguate several different possible types of neural reorganization. We found that during the initial phase of learning, lasting minutes to hours, rapid changes in neural activity common to all neurons led to a fast suppression of motor error. In parallel, local changes to individual neurons gradually accrued over several weeks of training. This slower timescale cortical reorganization persisted long after the movement errors had decreased to asymptote and was associated with more efficient control of movement. We conclude that long-term practice evokes two distinct neural reorganization processes with vastly different timescales, leading to different aspects of improvement in motor behavior. NEW & NOTEWORTHY We leveraged a brain-computer interface learning paradigm to track the neural reorganization occurring throughout the full time course of motor skill learning lasting several weeks. We report on two distinct types of neural reorganization that mirror distinct phases of behavioral improvement: a fast phase, in which global reorganization of neural recruitment leads to a quick suppression of motor error, and a slow phase, in which local changes in individual tuning lead to improvements in movement efficiency.",
+  "authors": [
+    "Zhou Xiao",
+    "Tien Rex N",
+    "Ravikumar Sadhana",
+    "Chase Steven M"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2019",
+  "doi": "10.1152/jn.00466.2018",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Male",
+    "Memory, Long-Term",
+    "Motor Cortex",
+    "Motor Skills",
+    "Neurons"
+  ]
+}

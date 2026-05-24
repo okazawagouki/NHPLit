@@ -1,0 +1,24 @@
+{
+  "pmid": "14672159",
+  "title": "Color constancy and the functional significance of McCollough effects.",
+  "abstract": "A central problem in visual perception concerns how humans perceive stable and uniform object colors despite variable lighting conditions (i.e. color constancy). One solution is to 'discount' variations in lighting across object surfaces by encoding color contrasts, and utilize this information to 'fill in' properties of the entire object surface. Implicit in this solution is the caveat that the color contrasts defining object boundaries must be distinguished from the spurious color fringes that occur naturally along luminance-defined edges in the retinal image (i.e. optical chromatic aberration). In the present paper, we propose that the neural machinery underlying color constancy is complemented by an 'error-correction' procedure which compensates for chromatic aberration, and suggest that error-correction may be linked functionally to the experimentally induced illusory colored aftereffects known as McCollough effects (MEs). To test these proposals, we develop a neural network model which incorporates many of the receptive-field (RF) profiles of neurons in primate color vision. The model is composed of two parallel processing streams which encode complementary sets of stimulus features: one stream encodes color contrasts to facilitate filling-in and color constancy; the other stream selectively encodes (spurious) color fringes at luminance boundaries, and learns to inhibit the filling-in of these colors within the first stream. Computer simulations of the model illustrate how complementary color-spatial interactions between error-correction and filling-in operations (a) facilitate color constancy, (b) reveal functional links between color constancy and the ME, and (c) reconcile previously reported anomalies in the local (edge) and global (spreading) properties of the ME. We discuss the broader implications of these findings by considering the complementary functional roles performed by RFs mediating color-spatial interactions in the primate visual system.",
+  "authors": [
+    "Vladusich Tony",
+    "Broerse Jack"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Color Perception",
+    "Color Perception Tests",
+    "Computer Simulation",
+    "Contrast Sensitivity",
+    "Illusions",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Space Perception"
+  ]
+}

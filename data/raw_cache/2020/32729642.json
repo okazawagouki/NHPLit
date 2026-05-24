@@ -1,0 +1,35 @@
+{
+  "pmid": "32729642",
+  "title": "A dedicated eight-channel receive RF coil array for monkey brain MRI at 9.4 T.",
+  "abstract": "The neuroimaging of nonhuman primates (NHPs) realised with magnetic resonance imaging (MRI) plays an important role in understanding brain structures and functions, as well as neurodegenerative diseases and pathological disorders. Theoretically, an ultrahigh field MRI (≥7 T) is capable of providing a higher signal-to-noise ratio (SNR) for better resolution; however, the lack of appropriate radiofrequency (RF) coils for 9.4 T monkey MRI undermines the benefits provided by a higher field strength. In particular, the standard volume birdcage coil at 9.4 T generates typical destructive interferences in the periphery of the brain, which reduces the SNR in the neuroscience-focused cortex region. Also, the standard birdcage coil is not capable of performing parallel imaging. Consequently, extended scan durations may cause unnecessary damage due to overlong anaesthesia. In this work, assisted by numerical simulations, an eight-channel receive RF coil array was specially designed and manufactured for imaging NHPs at 9.4 T. The structure and geometry of the proposed receive array was optimised with numerical simulations, so that the SNR enhancement region was particularly focused on monkey brain. Validated with rhesus monkey and cynomolgus monkey brain images acquired from a 9.4 T MRI scanner, the proposed receive array outperformed standard birdcage coil with higher SNR, mean diffusivity and fractional anisotropy values, as well as providing better capability for parallel imaging.",
+  "authors": [
+    "Li Mingyan",
+    "Li Yu",
+    "Jin Jin",
+    "Yang Zhengyi",
+    "Zhang Baogui",
+    "Liu Yanyan",
+    "Song Ming",
+    "Freakly Craig",
+    "Weber Ewald",
+    "Liu Feng",
+    "Jiang Tianzi",
+    "Crozier Stuart"
+  ],
+  "journal": "NMR in biomedicine",
+  "year": "2020",
+  "doi": "10.1002/nbm.4369",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Diffusion Magnetic Resonance Imaging",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Mice",
+    "Phantoms, Imaging",
+    "Radio Waves",
+    "Signal-To-Noise Ratio"
+  ]
+}

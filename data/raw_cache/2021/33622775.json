@@ -1,0 +1,28 @@
+{
+  "pmid": "33622775",
+  "title": "Variable Statistical Structure of Neuronal Spike Trains in Monkey Superior Colliculus.",
+  "abstract": "Popular models of decision-making propose that noisy sensory evidence accumulates until reaching a bound. Behavioral evidence as well as trial-averaged ramping of neuronal activity in sensorimotor regions of the brain support this idea. However, averaging activity across trials can mask other processes, such as rapid shifts in decision commitment, calling into question the hypothesis that evidence accumulation is encoded by delay period activity of individual neurons. We mined two sets of data from experiments in four monkeys in which we recorded from superior colliculus neurons during two different decision-making tasks and a delayed saccade task. We applied second-order statistical measures and spike train simulations to determine whether spiking statistics were similar or different in the different tasks and monkeys, despite similar trial-averaged activity across tasks and monkeys. During a motion direction discrimination task, single-trial delay period activity behaved statistically consistent with accumulation. During an orientation detection task, the activity behaved superficially like accumulation, but statistically consistent with stepping. Simulations confirmed both findings. Importantly, during a simple saccade task, with similar trial-averaged activity, neither process explained spiking activity, ruling out interpretations based on differences in attention, reward, or motor planning. These results highlight the need for exploring single-trial spiking dynamics to understand cognitive processing and raise the interesting hypothesis that the superior colliculus participates in different aspects of decision-making depending on task differences.<b>SIGNIFICANCE STATEMENT</b> How are decisions based on sensory information transformed into actions? We report that single-trial neuronal activity dynamics in the superior colliculus of monkeys show differences in decision-making tasks depending on task idiosyncrasies and requirements and despite similar trial-averaged ramping activity. These results highlight the importance of exploring single-trial spiking dynamics to understand cognitive processing and raise the interesting hypothesis that the superior colliculus participates in different aspects of decision-making depending on task requirements.",
+  "authors": [
+    "Cho Seong-Hah",
+    "Crapse Trinity",
+    "Grimaldi Piercesare",
+    "Lau Hakwan",
+    "Basso Michele A"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2021",
+  "doi": "10.1523/JNEUROSCI.1491-20.2021",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Decision Making",
+    "Macaca mulatta",
+    "Male",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Saccades",
+    "Superior Colliculi"
+  ]
+}

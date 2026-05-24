@@ -1,0 +1,22 @@
+{
+  "pmid": "38370650",
+  "title": "Identifying Interpretable Latent Factors with Sparse Component Analysis.",
+  "abstract": "In many neural populations, the computationally relevant signals are posited to be a set of 'latent factors' - signals shared across many individual neurons. Understanding the relationship between neural activity and behavior requires the identification of factors that reflect distinct computational roles. Methods for identifying such factors typically require supervision, which can be suboptimal if one is unsure how (or whether) factors can be grouped into distinct, meaningful sets. Here, we introduce Sparse Component Analysis (SCA), an unsupervised method that identifies interpretable latent factors. SCA seeks factors that are sparse in time and occupy orthogonal dimensions. With these simple constraints, SCA facilitates surprisingly clear parcellations of neural activity across a range of behaviors. We applied SCA to motor cortex activity from reaching and cycling monkeys, single-trial imaging data from <i>C. elegans</i>, and activity from a multitask artificial network. SCA consistently identified sets of factors that were useful in describing network computations.",
+  "authors": [
+    "Zimnik Andrew J",
+    "Cora Ames K",
+    "An Xinyue",
+    "Driscoll Laura",
+    "Lara Antonio H",
+    "Russo Abigail A",
+    "Susoy Vladislav",
+    "Cunningham John P",
+    "Paninski Liam",
+    "Churchland Mark M",
+    "Glaser Joshua I"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.02.05.578988",
+  "mesh": []
+}

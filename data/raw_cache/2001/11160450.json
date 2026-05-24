@@ -1,0 +1,32 @@
+{
+  "pmid": "11160450",
+  "title": "Reliability of macaque frontal eye field neurons signaling saccade targets during visual search.",
+  "abstract": "Although many studies have explored the neural correlates of visual attention and selection, few have examined the reliability with which neurons represent relevant information. We monitored activity in the frontal eye field (FEF) of monkeys trained to make a saccade to a target defined by the conjunction of color and shape or to a target defined by color differences. The difficulty of conjunction search was manipulated by varying the number of distractors, and the difficulty of feature search was manipulated by varying the similarity in color between target and distractors. The reliability of individual neurons in signaling the target location in correct trials was determined using a neuron-anti-neuron approach within a winner-take-all architecture. On average, approximately seven trials of the activity of single neurons were sufficient to match near-perfect behavioral performance in the easiest search, and approximately 14 trials were sufficient in the most difficult search. We also determined how many neurons recorded separately need to be evaluated within a trial to match behavioral performance. Results were quantitatively similar to those of the single neuron analysis. We also found that signal reliability in the FEF did not change with task demands, and overall, behavioral accuracy across the search tasks was approximated when only six trials or neurons were combined. Furthermore, whether combining trials or neurons, the increase in time of target discrimination corresponded to the increase in mean saccade latency across visual search difficulty levels. Finally, the variance of spike counts in the FEF increased as a function of the mean spike count, and the parameters of this relationship did not change with attentional selection.",
+  "authors": [
+    "Bichot N P",
+    "Thompson K G",
+    "Chenchal Rao S",
+    "Schall J D"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Cell Count",
+    "Color",
+    "Data Display",
+    "Fixation, Ocular",
+    "Macaca mulatta",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Reproducibility of Results",
+    "Saccades",
+    "Signal Processing, Computer-Assisted",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "34640699",
+  "title": "Selection of Essential Neural Activity Timesteps for Intracortical Brain-Computer Interface Based on Recurrent Neural Network.",
+  "abstract": "Intracortical brain-computer interfaces (iBCIs) translate neural activity into control commands, thereby allowing paralyzed persons to control devices via their brain signals. Recurrent neural networks (RNNs) are widely used as neural decoders because they can learn neural response dynamics from continuous neural activity. Nevertheless, excessively long or short input neural activity for an RNN may decrease its decoding performance. Based on the temporal attention module exploiting relations in features over time, we propose a temporal attention-aware timestep selection (TTS) method that improves the interpretability of the salience of each timestep in an input neural activity. Furthermore, TTS determines the appropriate input neural activity length for accurate neural decoding. Experimental results show that the proposed TTS efficiently selects 28 essential timesteps for RNN-based neural decoders, outperforming state-of-the-art neural decoders on two nonhuman primate datasets (R2=0.76±0.05 for monkey Indy and CC=0.91±0.01 for monkey N). In addition, it reduces the computation time for offline training (reducing 5-12%) and online prediction (reducing 16-18%). When visualizing the attention mechanism in TTS, the preparatory neural activity is consecutively highlighted during arm movement, and the most recent neural activity is highlighted during the resting state in nonhuman primates. Selecting only a few essential timesteps for an RNN-based neural decoder provides sufficient decoding performance and requires only a short computation time.",
+  "authors": [
+    "Yang Shih-Hung",
+    "Huang Jyun-We",
+    "Huang Chun-Jui",
+    "Chiu Po-Hsiung",
+    "Lai Hsin-Yi",
+    "Chen You-Yin"
+  ],
+  "journal": "Sensors (Basel, Switzerland)",
+  "year": "2021",
+  "doi": "10.3390/s21196372",
+  "mesh": [
+    "Animals",
+    "Awareness",
+    "Brain-Computer Interfaces",
+    "Learning",
+    "Movement",
+    "Neural Networks, Computer"
+  ]
+}

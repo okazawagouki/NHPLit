@@ -1,0 +1,35 @@
+{
+  "pmid": "28566464",
+  "title": "Activation of ganglion cells and axon bundles using epiretinal electrical stimulation.",
+  "abstract": "Epiretinal prostheses for treating blindness activate axon bundles, causing large, arc-shaped visual percepts that limit the quality of artificial vision. Improving the function of epiretinal prostheses therefore requires understanding and avoiding axon bundle activation. This study introduces a method to detect axon bundle activation on the basis of its electrical signature and uses the method to test whether epiretinal stimulation can directly elicit spikes in individual retinal ganglion cells without activating nearby axon bundles. Combined electrical stimulation and recording from isolated primate retina were performed using a custom multielectrode system (512 electrodes, 10-μm diameter, 60-μm pitch). Axon bundle signals were identified by their bidirectional propagation, speed, and increasing amplitude as a function of stimulation current. The threshold for bundle activation varied across electrodes and retinas, and was in the same range as the threshold for activating retinal ganglion cells near their somas. In the peripheral retina, 45% of electrodes that activated individual ganglion cells (17% of all electrodes) did so without activating bundles. This permitted selective activation of 21% of recorded ganglion cells (7% of expected ganglion cells) over the array. In one recording in the central retina, 75% of electrodes that activated individual ganglion cells (16% of all electrodes) did so without activating bundles. The ability to selectively activate a subset of retinal ganglion cells without axon bundles suggests a possible novel architecture for future epiretinal prostheses.<b>NEW & NOTEWORTHY</b> Large-scale multielectrode recording and stimulation were used to test how selectively retinal ganglion cells can be electrically activated without activating axon bundles. A novel method was developed to identify axon activation on the basis of its unique electrical signature and was used to find that a subset of ganglion cells can be activated at single-cell, single-spike resolution without producing bundle activity in peripheral and central retina. These findings have implications for the development of advanced retinal prostheses.",
+  "authors": [
+    "Grosberg Lauren E",
+    "Ganesan Karthik",
+    "Goetz Georges A",
+    "Madugula Sasidhar S",
+    "Bhaskhar Nandita",
+    "Fan Victoria",
+    "Li Peter",
+    "Hottowy Pawel",
+    "Dabrowski Wladyslaw",
+    "Sher Alexander",
+    "Litke Alan M",
+    "Mitra Subhasish",
+    "Chichilnisky E J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2017",
+  "doi": "10.1152/jn.00750.2016",
+  "mesh": [
+    "Animals",
+    "Axons",
+    "Electric Stimulation",
+    "Evoked Potentials",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Neural Prostheses",
+    "Retinal Ganglion Cells",
+    "Sensory Thresholds"
+  ]
+}

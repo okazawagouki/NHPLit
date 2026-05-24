@@ -1,0 +1,21 @@
+{
+  "pmid": "35859800",
+  "title": "Fast Simulation of a Multi-Area Spiking Network Model of Macaque Cortex on an MPI-GPU Cluster.",
+  "abstract": "Spiking neural network models are increasingly establishing themselves as an effective tool for simulating the dynamics of neuronal populations and for understanding the relationship between these dynamics and brain function. Furthermore, the continuous development of parallel computing technologies and the growing availability of computational resources are leading to an era of large-scale simulations capable of describing regions of the brain of ever larger dimensions at increasing detail. Recently, the possibility to use MPI-based parallel codes on GPU-equipped clusters to run such complex simulations has emerged, opening up novel paths to further speed-ups. NEST GPU is a GPU library written in CUDA-C/C++ for large-scale simulations of spiking neural networks, which was recently extended with a novel algorithm for remote spike communication through MPI on a GPU cluster. In this work we evaluate its performance on the simulation of a multi-area model of macaque vision-related cortex, made up of about 4 million neurons and 24 billion synapses and representing 32 mm<sup>2</sup> surface area of the macaque cortex. The outcome of the simulations is compared against that obtained using the well-known CPU-based spiking neural network simulator NEST on a high-performance computing cluster. The results show not only an optimal match with the NEST statistical measures of the neural activity in terms of three informative distributions, but also remarkable achievements in terms of simulation time per second of biological activity. Indeed, NEST GPU was able to simulate a second of biological time of the full-scale macaque cortex model in its metastable state 3.1× faster than NEST using 32 compute nodes equipped with an NVIDIA V100 GPU each. Using the same configuration, the ground state of the full-scale macaque cortex model was simulated 2.4× faster than NEST.",
+  "authors": [
+    "Tiddia Gianmarco",
+    "Golosio Bruno",
+    "Albers Jasper",
+    "Senk Johanna",
+    "Simula Francesco",
+    "Pronold Jari",
+    "Fanti Viviana",
+    "Pastorelli Elena",
+    "Paolucci Pier Stanislao",
+    "van Albada Sacha J"
+  ],
+  "journal": "Frontiers in neuroinformatics",
+  "year": "2022",
+  "doi": "10.3389/fninf.2022.883333",
+  "mesh": []
+}

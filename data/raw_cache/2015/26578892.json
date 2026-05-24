@@ -1,0 +1,27 @@
+{
+  "pmid": "26578892",
+  "title": "Gating of tactile information through gamma band during passive arm movement in awake primates.",
+  "abstract": "To make precise and prompt action in a dynamic environment, the sensorimotor system needs to integrate all related information. The inflow of somatosensory information to the cerebral cortex is regulated and mostly suppressed by movement, which is commonly referred to as sensory gating or gating. Sensory gating plays an important role in preventing redundant information from reaching the cortex, which should be considered when designing somatosensory neuroprosthetics. Gating can occur at several levels within the sensorimotor pathway, while the underlying mechanism is not yet fully understood. The average sensory evoked potential is commonly used to assess sensory information processing, however the assumption of a stereotyped response to each stimulus is still an open question. Event related spectral perturbation (ERSP), which is the power spectrum after time-frequency decomposition on single trial evoked potentials (total power), could overcome this limitation of averaging and provide additional information for understanding the underlying mechanism. To this aim, neural activities in primary somatosensory cortex (S1), primary motor cortex (M1), and ventral posterolateral (VPL) nucleus of thalamus were recorded simultaneously in two areas (S1 and M1 or S1 and VPL) during passive arm movement and rest in awake monkeys. Our results showed that neural activity at different recording areas demonstrated specific and unique response frequency characteristics. Tactile input induced early high frequency responses followed by low frequency oscillations within sensorimotor circuits, and passive movement suppressed these oscillations either in a phase-locked or non-phase-locked manner. Sensory gating by movement was non-phase-locked in M1, and complex in sensory areas. VPL showed gating of non-phase-locked at gamma band and mix of phase-locked and non-phase-locked at low frequency, while S1 showed gating of phase-locked and non-phase-locked at gamma band and an early phase-locked elevation followed by non-phase-locked gating at low frequency. Granger causality (GC) analysis showed bidirectional coupling between VPL and S1, while GC between M1 and S1 was not responsive to tactile input. Thus, these results suggest that tactile input is dominantly transmitted along the ascending direction from VPL to S1, and the sensory input is suppressed during movement through a bottom-up strategy within the gamma-band during passive movement.",
+  "authors": [
+    "Song Weiguo",
+    "Francis Joseph T"
+  ],
+  "journal": "Frontiers in neural circuits",
+  "year": "2015",
+  "doi": "10.3389/fncir.2015.00064",
+  "mesh": [
+    "Animals",
+    "Arm",
+    "Female",
+    "Gamma Rhythm",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Sensory Gating",
+    "Somatosensory Cortex",
+    "Touch Perception",
+    "Ventral Thalamic Nuclei",
+    "Wakefulness"
+  ]
+}

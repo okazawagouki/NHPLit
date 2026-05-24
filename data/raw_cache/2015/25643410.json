@@ -1,0 +1,33 @@
+{
+  "pmid": "25643410",
+  "title": "Task-Independent Cognitive State Transition Detection From Cortical Neurons During 3-D Reach-to-Grasp Movements.",
+  "abstract": "Complex reach, grasp, and object manipulation tasks require sequential, temporal coordination of movements by neurons in the brain. Detecting cognitive state transitions associated with motor tasks from sequential neural data is pivotal in rehabilitation engineering. The cognitive state detectors proposed thus far rely on task-dependent (TD) models, i.e., the detection strategy exploits a priori knowledge of the movement tasks to determine the actual cognitive states, regardless of whether these cognitive states actually depend on the movement tasks or not. This approach, however, is not viable when the tasks are not known a priori (e.g., the subject performs many different tasks) or there is paucity of neural data for each task. Moreover, some cognitive states (e.g., holding) may be invariant to the movement tasks performed. Here we propose a real-time (online) task-independent (TI) framework to detect cognitive state transitions from spike trains and kinematic measurements. We constructed this detection framework using 452 single-unit neural spike recordings collected via multielectrode arrays in the premotor dorsal and ventral (PMd and PMv) cortical regions of two nonhuman primates performing 3-D multiobject reach-to-grasp tasks. We used the detection latency and accuracy of state transitions to measure the performance. We find that, in both online and offline detection modes: 1) TI models have significantly better performance than corresponding TD models when using neuronal data alone and 2) during movements, the addition of the kinematics history to the TI models further improves detection performance. These findings suggest that TI models may accurately detect cognitive state transitions. Our framework could pave the way for a TI control of neural prosthesis from cortical neurons.",
+  "authors": [
+    "Kang Xiaoxu",
+    "Sarma Sridevi V",
+    "Santaniello Sabato",
+    "Schieber Marc",
+    "Thakor Nitish V"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2015",
+  "doi": "10.1109/TNSRE.2015.2396495",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Cerebral Cortex",
+    "Cognition",
+    "Computer Systems",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Male",
+    "Markov Chains",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neural Prostheses",
+    "Neurons",
+    "Prosthesis Design",
+    "Psychomotor Performance"
+  ]
+}

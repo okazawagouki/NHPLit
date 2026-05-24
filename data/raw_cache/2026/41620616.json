@@ -1,0 +1,29 @@
+{
+  "pmid": "41620616",
+  "title": "MER57E3 transposable elements regulate gene expression in a human cell model of neural development.",
+  "abstract": "BACKGROUND: Long dismissed as mere genomic parasites, transposable elements (TEs) are now recognized as major drivers of genome evolution. TEs serve as a source of cell-type specific cis-regulatory elements, influencing gene expression and observable phenotypes. However, the precise TE regulatory roles in different contexts remain largely unexplored and the impact of TEs on transcriptional regulatory networks and contribution to disease risk is likely deeply underestimated. RESULTS: Using a multimapper-aware strategy, we systematically characterize the epigenetic profile of TEs in human cell systems modeling neural development. This analysis reveals that MER57E3, a primate-specific TE subfamily, exhibits strong enrichment for active, and absence of repressive, histone modifications across six cultured human neural cell types. MER57E3 copies are predominantly located near zinc finger genes and enriched for homeodomain motifs recognized by brain-specific transcription factors, including GBX1 and BSX. Upon CRISPR interference (CRISPRi) targeting specific MER57E3 copies, RNA-seq analysis demonstrates downregulation of the key neurogenesis-related genes PAX6 and NEUROG2. CONCLUSIONS: Our data indicate that members of the MER57E3 TE subfamily regulate the expression of critical neurogenesis genes during neural progenitor cell (NPC) development. Moreover, this study emphasizes the importance of investigating TEs, offering new insights into how their epigenetic dysregulation may contribute to pathogenesis of neurodevelopmental disorders.",
+  "authors": [
+    "Almeida da Paz Michelle",
+    "Yildiz Umut",
+    "Kim Minyoung",
+    "Campos-Fornés Víctor",
+    "Pinkasz Marina",
+    "Dahlet Thomas",
+    "Noh Kyung-Min",
+    "Taher Leila"
+  ],
+  "journal": "Genome biology",
+  "year": "2026",
+  "doi": "10.1186/s13059-026-03946-x",
+  "mesh": [
+    "Humans",
+    "DNA Transposable Elements",
+    "Neurogenesis",
+    "Gene Expression Regulation, Developmental",
+    "Epigenesis, Genetic",
+    "Neural Stem Cells",
+    "PAX6 Transcription Factor",
+    "Nerve Tissue Proteins",
+    "Basic Helix-Loop-Helix Proteins"
+  ]
+}

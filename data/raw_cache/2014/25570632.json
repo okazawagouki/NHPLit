@@ -1,0 +1,24 @@
+{
+  "pmid": "25570632",
+  "title": "Hybrid decoding of both spikes and low-frequency local field potentials for brain-machine interfaces.",
+  "abstract": "The best-performing brain-machine interfaces (BMIs) to date decode movement intention from intracortically recorded spikes, but these signals may be lost over time. A way to increase the useful lifespan of BMIs is to make more comprehensive use of available neural signals. Recent studies have demonstrated that the local field potential (LFP), a potentially more robust signal, can also be used to control a BMI. However, LFP-driven performance has fallen short of the best spikes-driven performance. Here we report a biomimetic BMI driven by low-frequency LFP that enabled a rhesus monkey to acquire and hold randomly placed targets with 99% success rate. Although LFP-driven performance was still worse than when decoding spikes, to the best of our knowledge this represents the highest-performing LFP-based BMI. We also demonstrate a new hybrid BMI that decodes cursor velocity using both spikes and LFP. This hybrid decoder improved performance over spikes-only decoding. Our results suggest that LFP can complement spikes when spikes are available or provide an alternative control signal if spikes are absent.",
+  "authors": [
+    "Stavisky Sergey D",
+    "Kao Jonathan C",
+    "Nuyujukian Paul",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2014",
+  "doi": "10.1109/EMBC.2014.6944264",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrodes",
+    "Evoked Potentials, Motor",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Movement"
+  ]
+}

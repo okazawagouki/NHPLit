@@ -1,0 +1,25 @@
+{
+  "pmid": "39656432",
+  "title": "Cross-species real-time detection of trends in pupil size fluctuation.",
+  "abstract": "Pupillometry is a popular method because pupil size is easily measured and sensitive to central neural activity linked to behavior, cognition, emotion, and perception. Currently, there is no method for online monitoring phases of pupil size fluctuation. We introduce rtPupilPhase-an open-source software that automatically detects trends in pupil size in real time. This tool enables novel applications of real-time pupillometry for achieving numerous research and translational goals. We validated the performance of rtPupilPhase on human, rodent, and monkey pupil data, and we propose future implementations of real-time pupillometry.",
+  "authors": [
+    "Kronemer Sharif I",
+    "Gobo Victoria E",
+    "Walsh Catherine R",
+    "Teves Joshua B",
+    "Burk Diana C",
+    "Shahsavarani Somayeh",
+    "Gonzalez-Castillo Javier",
+    "Bandettini Peter A"
+  ],
+  "journal": "Behavior research methods",
+  "year": "2024",
+  "doi": "10.3758/s13428-024-02545-7",
+  "mesh": [
+    "Pupil",
+    "Humans",
+    "Animals",
+    "Software",
+    "Male"
+  ]
+}

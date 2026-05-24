@@ -1,0 +1,32 @@
+{
+  "pmid": "31852399",
+  "title": "A simple linear readout of MT supports motion direction-discrimination performance.",
+  "abstract": "Motion discrimination is a well-established model system for investigating how sensory signals are used to form perceptual decisions. Classic studies relating single-neuron activity in the middle temporal area (MT) to perceptual decisions have suggested that a simple linear readout could underlie motion discrimination behavior. A theoretically optimal readout, in contrast, would take into account the correlations between neurons and the sensitivity of individual neurons at each time point. However, it remains unknown how sophisticated the readout needs to be to support actual motion-discrimination behavior or to approach optimal performance. In this study, we evaluated the performance of various neurally plausible decoders, trained to discriminate motion direction from small ensembles of simultaneously recorded MT neurons. We found that decoding the stimulus without knowledge of the interneuronal correlations was sufficient to match an optimal (correlation aware) decoder. Additionally, a decoder could match the psychophysical performance of the animals with flat integration of up to half the stimulus and inherited temporal dynamics from the time-varying MT responses. These results demonstrate that simple, linear decoders operating on small ensembles of neurons can match both psychophysical performance and optimal sensitivity without taking correlations into account and that such simple read-out mechanisms can exhibit complex temporal properties inherited from the sensory dynamics themselves.<b>NEW & NOTEWORTHY</b> Motion perception depends on the ability to decode the activity of neurons in the middle temporal area. Theoretically optimal decoding requires knowledge of the sensitivity of neurons and interneuronal correlations. We report that a simple correlation-blind decoder performs as well as the optimal decoder for coarse motion discrimination. Additionally, the decoder could match the psychophysical performance with moderate temporal integration and dynamics inherited from sensory responses.",
+  "authors": [
+    "Yates Jacob L",
+    "Katz Leor N",
+    "Levi Aaron J",
+    "Pillow Jonathan W",
+    "Huk Alexander C"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2020",
+  "doi": "10.1152/jn.00117.2019",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Decision Making",
+    "Discrimination, Psychological",
+    "Electrophysiological Phenomena",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Models, Biological",
+    "Motion Perception",
+    "Neurons",
+    "Neurophysiology",
+    "Pattern Recognition, Visual",
+    "Space Perception",
+    "Temporal Lobe"
+  ]
+}

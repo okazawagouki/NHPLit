@@ -1,0 +1,22 @@
+{
+  "pmid": "27341686",
+  "title": "Competitive Dynamics in MSTd: A Mechanism for Robust Heading Perception Based on Optic Flow.",
+  "abstract": "Human heading perception based on optic flow is not only accurate, it is also remarkably robust and stable. These qualities are especially apparent when observers move through environments containing other moving objects, which introduce optic flow that is inconsistent with observer self-motion and therefore uninformative about heading direction. Moving objects may also occupy large portions of the visual field and occlude regions of the background optic flow that are most informative about heading perception. The fact that heading perception is biased by no more than a few degrees under such conditions attests to the robustness of the visual system and warrants further investigation. The aim of the present study was to investigate whether recurrent, competitive dynamics among MSTd neurons that serve to reduce uncertainty about heading over time offer a plausible mechanism for capturing the robustness of human heading perception. Simulations of existing heading models that do not contain competitive dynamics yield heading estimates that are far more erratic and unstable than human judgments. We present a dynamical model of primate visual areas V1, MT, and MSTd based on that of Layton, Mingolla, and Browning that is similar to the other models, except that the model includes recurrent interactions among model MSTd neurons. Competitive dynamics stabilize the model's heading estimate over time, even when a moving object crosses the future path. Soft winner-take-all dynamics enhance units that code a heading direction consistent with the time history and suppress responses to transient changes to the optic flow field. Our findings support recurrent competitive temporal dynamics as a crucial mechanism underlying the robustness and stability of perception of heading.",
+  "authors": [
+    "Layton Oliver W",
+    "Fajen Brett R"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2016",
+  "doi": "10.1371/journal.pcbi.1004942",
+  "mesh": [
+    "Computer Simulation",
+    "Humans",
+    "Models, Neurological",
+    "Motion Perception",
+    "Optic Flow",
+    "Orientation",
+    "Spatial Navigation",
+    "Visual Cortex"
+  ]
+}

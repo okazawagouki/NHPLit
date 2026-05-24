@@ -1,0 +1,24 @@
+{
+  "pmid": "37221602",
+  "title": "Integrated analysis of robust sex-biased gene signatures in human brain.",
+  "abstract": "BACKGROUND: Sexual dimorphism is highly prominent in mammals with many physiological and behavioral differences between male and female form of the species. Accordingly, the fundamental social and cultural stratification factors for humans is sex. The sex differences are thought to emerge from a combination of genetic and environmental factors. It distinguishes individuals most prominently on the reproductive traits, but also affects many of the other related traits and manifest in different disease susceptibilities and treatment responses across sexes. Sex differences in brain have raised a lot of controversy due to small and sometimes contradictory sex-specific effects. Many studies have been published to identify sex-biased genes in one or several brain regions, but the assessment of the robustness of these studies is missing. We therefore collected huge amount of publicly available transcriptomic data to first estimate whether consistent sex differences exist and further explore their likely origin and functional significance. RESULTS AND CONCLUSION: In order to systematically characterise sex-specific differences across human brain regions, we collected transcription profiles for more than 16,000 samples from 46 datasets across 11 brain regions. By systematic integration of the data from multiple studies, we identified robust transcription level differences in human brain across to identify male-biased and female-biased genes in each brain region. Firstly, both male and female-biased genes were highly conserved across primates and showed a high overlap with sex-biased genes in other species. Female-biased genes were enriched for neuron-associated processes while male-biased genes were enriched for membranes and nuclear structures. Male-biased genes were enriched on the Y chromosome while female-biased genes were enriched on the X chromosome, which included X chromosome inactivation escapees explaining the origins of some sex differences. Male-biased genes were enriched for mitotic processes while female-biased genes were enriched for synaptic membrane and lumen. Finally, sex-biased genes were enriched for drug-targets and more female-biased genes were affected by adverse drug reactions than male-biased genes. In summary, by building a comprehensive resource of sex differences across human brain regions at gene expression level, we explored their likely origin and functional significance. We have also developed a web resource to make the entire analysis available for the scientific community for further exploration, available at https://joshiapps.cbu.uib.no/SRB_app/.",
+  "authors": [
+    "Wapeesittipan Pattama",
+    "Joshi Anagha"
+  ],
+  "journal": "Biology of sex differences",
+  "year": "2023",
+  "doi": "10.1186/s13293-023-00515-w",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Female",
+    "Male",
+    "Brain",
+    "Sex Characteristics",
+    "Drug-Related Side Effects and Adverse Reactions",
+    "Gene Expression Profiling",
+    "Phenotype",
+    "Mammals"
+  ]
+}

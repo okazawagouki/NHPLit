@@ -1,0 +1,32 @@
+{
+  "pmid": "27511007",
+  "title": "Synchronous Spike Patterns in Macaque Motor Cortex during an Instructed-Delay Reach-to-Grasp Task.",
+  "abstract": "UNLABELLED: The computational role of spike time synchronization at millisecond precision among neurons in the cerebral cortex is hotly debated. Studies performed on data of limited size provided experimental evidence that low-order correlations occur in relation to behavior. Advances in electrophysiological technology to record from hundreds of neurons simultaneously provide the opportunity to observe coordinated spiking activity of larger populations of cells. We recently published a method that combines data mining and statistical evaluation to search for significant patterns of synchronous spikes in massively parallel spike trains (Torre et al., 2013). The method solves the computational and multiple testing problems raised by the high dimensionality of the data. In the current study, we used our method on simultaneous recordings from two macaque monkeys engaged in an instructed-delay reach-to-grasp task to determine the emergence of spike synchronization in relation to behavior. We found a multitude of synchronous spike patterns aligned in both monkeys along a preferential mediolateral orientation in brain space. The occurrence of the patterns is highly specific to behavior, indicating that different behaviors are associated with the synchronization of different groups of neurons (\"cell assemblies\"). However, pooled patterns that overlap in neuronal composition exhibit no specificity, suggesting that exclusive cell assemblies become active during different behaviors, but can recruit partly identical neurons. These findings are consistent across multiple recording sessions analyzed across the two monkeys. SIGNIFICANCE STATEMENT: Neurons in the brain communicate via electrical impulses called spikes. How spikes are coordinated to process information is still largely unknown. Synchronous spikes are effective in triggering a spike emission in receiving neurons and have been shown to occur in relation to behavior in a number of studies on simultaneous recordings of few neurons. We recently published a method to extend this type of investigation to larger data. Here, we apply it to simultaneous recordings of hundreds of neurons from the motor cortex of macaque monkeys performing a motor task. Our analysis reveals groups of neurons selectively synchronizing their activity in relation to behavior, which sheds new light on the role of synchrony in information processing in the cerebral cortex.",
+  "authors": [
+    "Torre Emiliano",
+    "Quaglio Pietro",
+    "Denker Michael",
+    "Brochier Thomas",
+    "Riehle Alexa",
+    "Grün Sonja"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2016",
+  "doi": "10.1523/JNEUROSCI.4375-15.2016",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Conditioning, Operant",
+    "Electrophysiology",
+    "Female",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neurons",
+    "Range of Motion, Articular",
+    "Reaction Time",
+    "Vibrissae"
+  ]
+}

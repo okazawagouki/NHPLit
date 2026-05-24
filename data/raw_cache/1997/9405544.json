@@ -1,0 +1,27 @@
+{
+  "pmid": "9405544",
+  "title": "Analysis of primate IBN spike trains using system identification techniques. I. Relationship To eye movement dynamics during head-fixed saccades.",
+  "abstract": "The dynamic behavior of primate (Macaca fascicularis) inhibitory burst neurons (IBNs) during head-fixed saccades was analyzed by using system identification techniques. Neurons were categorized as IBNs on the basis of their anatomic location as well as by their activity during horizontal head-fixed saccadic and smooth pursuit eye movements and vestibular nystagmus. Each IBN's latency or \"dynamic lead time\" (td) was determined by shifting the unit discharge in time until an optimal fit to the firing rate frequency B(t) profile was obtained by using the simple model based on eye movement dynamics,B(t) = r + b1(t); where is eye velocity. For the population of IBNs, the dynamic estimate of lead time provided a significantly lower value than a method that used the onset of the first spike. We then compared the relative abilities of different eye movement-based models to predict B(t) by using objective optimization algorithms. The most important terms for predicting B(t) were eye velocity gain (b1) and bias terms (r) mentioned above. The contributions of higher-order velocity, acceleration, and/or eye position terms to model fits were found to be negligible. The addition of a pole term [the time derivative of B(t)] in conjunction with an acceleration term significantly improved model fits to IBN spike trains, particularly when the firing rates at the beginning of each saccade [initial conditions (ICs)] were estimated as parameters. Such a model fit the data well (a fit comparable to a linear regression analysis with a R2 value of 0.5, or equivalently, a correlation coefficient of 0.74). A simplified version of this model [B(t) = rk + b1(t)], which did not contain a pole term, but in which the bias term (rk) was estimated separately for each saccade, provided nearly equivalent fits of the data. However, models in which ICs or rks were estimated separately for each saccade contained too many parameters to be considered as useful models of IBN discharges. We discovered that estimated ICs and rks were correlated with saccade amplitude for the majority of short-lead IBNs (SLIBNs; 56%) and many long-lead IBNs (LLIBNs; 42%). This observation led us to construct a more simple model that included a term that was inversely related to the amplitude of the saccade, in addition to eye velocity and constant bias terms. Such a model better described neuron discharges than more complex models based on a third-order nonlinear function of eye velocity. Given the small number of parameters required by this model (only 3) and its ability to fit the data, we suggest that it provides the most valuable description of IBN discharges. This model emphasizes that the IBN discharges are dependent on saccade amplitude and implies further that a mechanism must exist, at the motoneuron (MN) level, to offset the effect of the bias and amplitude-dependent terms. In addition, we did not find a significant difference in the variance accounted for by any of the downstream models tested for SLIBNs versus LLIBNs. Therefore we conclude that the eye movement signals encoded dynamically by SLIBNs and LLIBNs are similar in nature. Put another way, SLIBNs are not closer, dynamically, to MNs than LLIBNs.",
+  "authors": [
+    "Cullen K E",
+    "Guitton D"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1997",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Eye Movements",
+    "Head Movements",
+    "Macaca fascicularis",
+    "Models, Neurological",
+    "Neural Inhibition",
+    "Neurons",
+    "Reaction Time",
+    "Reproducibility of Results",
+    "Saccades"
+  ]
+}

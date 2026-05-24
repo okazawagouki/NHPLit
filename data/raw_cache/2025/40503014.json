@@ -1,0 +1,18 @@
+{
+  "pmid": "40503014",
+  "title": "Learning to cluster neuronal function.",
+  "abstract": "Deep neural networks trained to predict neural activity from visual input and behaviour have shown great potential to serve as digital twins of the visual cortex. Per-neuron embeddings derived from these models could potentially be used to map the functional landscape or identify cell types. However, state-of-the-art predictive models of mouse V1 do not generate functional embeddings that exhibit clear clustering patterns which would correspond to cell types. This raises the question whether the lack of clustered structure is due to limitations of current models or a true feature of the functional organization of mouse V1. In this work, we introduce DECEMber - Deep Embedding Clustering via Expectation Maximization-based refinement - an explicit inductive bias into predictive models that enhances clustering by adding an auxiliary <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mi>t</mi></mrow> </math> -distribution-inspired loss function that enforces structured organization among per-neuron embeddings. We jointly optimize both neuronal feature embeddings and clustering parameters, updating cluster centers and scale matrices using the EM-algorithm. We demonstrate that these modifications improve cluster consistency while preserving high predictive performance and surpassing standard clustering methods in terms of stability. Moreover, DECEMber generalizes well across species (mice, primates) and visual areas (retina, V1, V4). The code is available at https://github.com/Nisone2000/sensorium/tree/neuroips_version.",
+  "authors": [
+    "Nellen Nina S",
+    "Turishcheva Polina",
+    "Vystrčilová Michaela",
+    "Sridhar Shashwat",
+    "Gollisch Tim",
+    "Tolias Andreas S",
+    "Ecker Alexander S"
+  ],
+  "journal": "ArXiv",
+  "year": "2025",
+  "doi": "",
+  "mesh": []
+}

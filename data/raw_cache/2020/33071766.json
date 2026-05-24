@@ -1,0 +1,14 @@
+{
+  "pmid": "33071766",
+  "title": "Proto-Object Based Saliency Model With Texture Detection Channel.",
+  "abstract": "The amount of visual information projected from the retina to the brain exceeds the information processing capacity of the latter. Attention, therefore, functions as a filter to highlight important information at multiple stages of the visual pathway that requires further and more detailed analysis. Among other functions, this determines where to fixate since only the fovea allows for high resolution imaging. Visual saliency modeling, i.e. understanding how the brain selects important information to analyze further and to determine where to fixate next, is an important research topic in computational neuroscience and computer vision. Most existing bottom-up saliency models use low-level features such as intensity and color, while some models employ high-level features, like faces. However, little consideration has been given to mid-level features, such as texture, for visual saliency models. In this paper, we extend a biologically plausible proto-object based saliency model by adding simple texture channels which employ nonlinear operations that mimic the processing performed by primate visual cortex. The extended model shows statistically significant improved performance in predicting human fixations compared to the previous model. Comparing the performance of our model with others on publicly available benchmarking datasets, we find that our biologically plausible model matches the performance of other models, even though those were designed entirely for maximal performance with little regard to biological realism.",
+  "authors": [
+    "Uejima Takeshi",
+    "Niebur Ernst",
+    "Etienne-Cummings Ralph"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2020",
+  "doi": "10.3389/fncom.2020.541581",
+  "mesh": []
+}

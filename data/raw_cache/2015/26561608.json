@@ -1,0 +1,31 @@
+{
+  "pmid": "26561608",
+  "title": "Single-trial decoding of intended eye movement goals from lateral prefrontal cortex neural ensembles.",
+  "abstract": "Neurons in the lateral prefrontal cortex (LPFC) encode sensory and cognitive signals, as well as commands for goal-directed actions. Therefore, the LPFC might be a good signal source for a goal-selection brain-computer interface (BCI) that decodes the intended goal of a motor action previous to its execution. As a first step in the development of a goal-selection BCI, we set out to determine if we could decode simple behavioral intentions to direct gaze to eight different locations in space from single-trial LPFC neural activity. We recorded neuronal spiking activity from microelectrode arrays implanted in area 8A of the LPFC of two adult macaques while they made visually guided saccades to one of eight targets in a center-out task. Neuronal activity encoded target location immediately after target presentation, during a delay epoch, during the execution of the saccade, and every combination thereof. Many (40%) of the neurons that encoded target location during multiple epochs preferred different locations during different epochs. Despite heterogeneous and dynamic responses, the neuronal feature set that best predicted target location was the averaged firing rates from the entire trial and it was best classified using linear discriminant analysis (63.6-96.9% in 12 sessions, mean 80.3%; information transfer rate: 21-59, mean 32.8 bits/min). Our results demonstrate that it is possible to decode intended saccade target location from single-trial LPFC activity and suggest that the LPFC is a suitable signal source for a goal-selection cognitive BCI.",
+  "authors": [
+    "Boulay Chadwick B",
+    "Pieper Florian",
+    "Leavitt Matthew",
+    "Martinez-Trujillo Julio",
+    "Sachs Adam J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2016",
+  "doi": "10.1152/jn.00788.2015",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Information Theory",
+    "Intention",
+    "Macaca fascicularis",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Prefrontal Cortex",
+    "Psychomotor Performance",
+    "Saccades",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "31113304",
+  "title": "Effective Dimensionality Reduction for Visualizing Neural Dynamics by Laplacian Eigenmaps.",
+  "abstract": "With the development of neural recording technology, it has become possible to collect activities from hundreds or even thousands of neurons simultaneously. Visualization of neural population dynamics can help neuroscientists analyze large-scale neural activities efficiently. In this letter, Laplacian eigenmaps is applied to this task for the first time, and the experimental results show that the proposed method significantly outperforms the commonly used methods. This finding was confirmed by the systematic evaluation using nonhuman primate data, which contained the complex dynamics well suited for testing. According to our results, Laplacian eigenmaps is better than the other methods in various ways and can clearly visualize interesting biological phenomena related to neural dynamics.",
+  "authors": [
+    "Sun G",
+    "Zhang S",
+    "Zhang Y",
+    "Xu K",
+    "Zhang Q",
+    "Zhao T",
+    "Zheng X"
+  ],
+  "journal": "Neural computation",
+  "year": "2019",
+  "doi": "10.1162/neco_a_01203",
+  "mesh": [
+    "Algorithms",
+    "Artificial Intelligence",
+    "Computers",
+    "Humans",
+    "Nerve Net",
+    "Pattern Recognition, Automated"
+  ]
+}

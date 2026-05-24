@@ -1,0 +1,27 @@
+{
+  "pmid": "39657201",
+  "title": "Testing Hubel and Wiesel's \"ice-cube\" model of functional maps at cellular resolution in macaque V1.",
+  "abstract": "Hubel and Wiesel's ice-cube model proposed that V1 orientation and ocular dominance functional maps intersect orthogonally to optimize wiring efficiency. Here, we revisited this model and additional arrangements at both cellular and pixel levels in awake macaques using two-photon calcium imaging. The recorded response fields of view were similar in size to hypercolumns, each containing up to 2,000 identified neurons and representing full periods of orientation preferences and ocular dominance. We estimated each neuron/pixel's orientation, ocular dominance, and spatial frequency preferences, constructed respective functional maps, computed geometric gradients of feature preferences, and calculated intersection angles among these gradients. At the cellular level, the intersection angles among functional maps were nearly evenly distributed. Nonetheless, pixel-based maps after Gaussian smoothing displayed orientation-ocular dominance and orientation-spatial frequency orthogonality, as well as ocular dominance-spatial frequency parallelism, in alignment with previous results, even though the trends were weak and highly variable. However, these Gaussian smoothing effects were not observed in cellular maps, indicating that the pixel-based trends may not accurately represent the relationships among feature-tuning properties of V1 neurons. We suggest that the widely distributed intersections among cellular maps can ensure that multiple stimulus features are represented within a hypercolumn, and no pair of features is represented with the least economical wiring (e.g. parallel intersections).",
+  "authors": [
+    "Zhang Sheng-Hui",
+    "Tang Shi-Ming",
+    "Yu Cong"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2024",
+  "doi": "10.1093/cercor/bhae471",
+  "mesh": [
+    "Animals",
+    "Dominance, Ocular",
+    "Brain Mapping",
+    "Neurons",
+    "Visual Cortex",
+    "Models, Neurological",
+    "Male",
+    "Visual Pathways",
+    "Photic Stimulation",
+    "Macaca mulatta",
+    "Orientation",
+    "Primary Visual Cortex"
+  ]
+}

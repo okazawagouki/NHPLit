@@ -1,0 +1,27 @@
+{
+  "pmid": "28446586",
+  "title": "Muscle synergies obtained from comprehensive mapping of the primary motor cortex forelimb representation using high-frequency, long-duration ICMS.",
+  "abstract": "Simplifying neuromuscular control for movement has previously been explored by extracting muscle synergies from voluntary movement electromyography (EMG) patterns. The purpose of this study was to investigate muscle synergies represented in EMG recordings associated with direct electrical stimulation of single sites in primary motor cortex (M1). We applied single-electrode high-frequency, long-duration intracortical microstimulation (HFLD-ICMS) to the forelimb region of M1 in two rhesus macaques using parameters previously found to produce forelimb movements to stable spatial end points (90-150 Hz, 90-150 μA, 1,000-ms stimulus train lengths). To develop a comprehensive representation of cortical output, stimulation was applied systematically across the full extent of M1. We recorded EMG activity from 24 forelimb muscles together with movement kinematics. Nonnegative matrix factorization (NMF) was applied to the mean stimulus-evoked EMG, and the weighting coefficients associated with each synergy were mapped to the cortical location of the stimulating electrode. Synergies were found for three data sets including <i>1</i>) all stimulated sites in the cortex, <i>2</i>) a subset of sites that produced stable movement end points, and <i>3</i>) EMG activity associated with voluntary reaching. Two or three synergies accounted for 90% of the overall variation in voluntary movement EMG whereas four or five synergies were needed for HFLD-ICMS-evoked EMG data sets. Maps of the weighting coefficients from the full HFLD-ICMS data set show limited regional areas of higher activation for particular synergies. Our results demonstrate fundamental NMF-based muscle synergies in the collective M1 output, but whether and how the central nervous system might coordinate movements using these synergies remains unclear.<b>NEW & NOTEWORTHY</b> While muscle synergies have been investigated in various muscle activity sets, it is unclear whether and how synergies may be organized in the cortex. We have investigated muscle synergies resulting from high-frequency, long-duration intracortical microstimulation (HFLD-ICMS) applied throughout M1. We compared HFLD-ICMS synergies to synergies from voluntary movement. While synergies can be identified from M1 stimulation, they are not clearly related to voluntary movement synergies and do not show an orderly topographic organization across M1.",
+  "authors": [
+    "Amundsen Huffmaster Sommer L",
+    "Van Acker Gustaf M",
+    "Luchies Carl W",
+    "Cheney Paul D"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2017",
+  "doi": "10.1152/jn.00784.2016",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Brain Mapping",
+    "Electric Stimulation",
+    "Electromyography",
+    "Forelimb",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Motor Activity",
+    "Motor Cortex"
+  ]
+}

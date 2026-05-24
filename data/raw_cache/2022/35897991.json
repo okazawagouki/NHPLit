@@ -1,0 +1,21 @@
+{
+  "pmid": "35897991",
+  "title": "Adaptive Modular Convolutional Neural Network for Image Recognition.",
+  "abstract": "Image recognition has long been one of the research hotspots in computer vision tasks. The development of deep learning is rapid in recent years, and convolutional neural networks usually need to be designed with fixed resources. If sufficient resources are available, the model can be scaled up to achieve higher accuracy, for example, VggNet, ResNet, GoogLeNet, etc. Although the accuracy of large-scale models has been improved, the following problems will occur with the expansion of model scale: (1) There may be over-fitting; (2) increasing model parameters; (3) slow model convergence. This paper proposes a design method for a modular convolutional neural network model which solves the problem of over-fitting and large model parameters by connecting multiple modules in parallel. Moreover, each module contains several submodules (three submodules in this paper) and fuses the features extracted from the submodules. The model convergence can be accelerated by using the fused features (the fused features contain more image information). In this study, we add a gate unit based on the attention mechanism to the model, which aims to optimize the structure of the model (select the optimal number of modules), allowing the model to select an optimum network structure by learning and dynamically reducing FLOPs (floating-point operations per second) of the model. Compared to VggNet, ResNet, and GoogLeNet, the structure of the model proposed in this paper is simple and the parameters are small. The proposed model achieves good results in the Kaggle datasets Cats-vs.-Dogs (99.3%), 10-Monkey Species (99.26%), and Birds-400 (99.13%).",
+  "authors": [
+    "Wu Wenbo",
+    "Pan Yun"
+  ],
+  "journal": "Sensors (Basel, Switzerland)",
+  "year": "2022",
+  "doi": "10.3390/s22155488",
+  "mesh": [
+    "Animals",
+    "Birds",
+    "Cats",
+    "Dogs",
+    "Haplorhini",
+    "Image Processing, Computer-Assisted",
+    "Neural Networks, Computer"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "38842507",
+  "title": "The primate cortical LFP exhibits multiple spectral and temporal gradients and widespread task dependence during visual short-term memory.",
+  "abstract": "Although cognitive functions are hypothesized to be mediated by synchronous neuronal interactions in multiple frequency bands among widely distributed cortical areas, we still lack a basic understanding of the distribution and task dependence of oscillatory activity across the cortical map. Here, we ask how the spectral and temporal properties of the local field potential (LFP) vary across the primate cerebral cortex, and how they are modulated during visual short-term memory. We measured the LFP from 55 cortical areas in two macaque monkeys while they performed a visual delayed match to sample task. Analysis of peak frequencies in the LFP power spectra reveals multiple discrete frequency bands between 3 and 80 Hz that differ between the two monkeys. The LFP power in each band, as well as the sample entropy, a measure of signal complexity, display distinct spatial gradients across the cortex, some of which correlate with reported spine counts in cortical pyramidal neurons. Cortical areas can be robustly decoded using a small number of spectral and temporal parameters, and significant task-dependent increases and decreases in spectral power occur in all cortical areas. These findings reveal pronounced, widespread, and spatially organized gradients in the spectral and temporal activity of cortical areas. Task-dependent changes in cortical activity are globally distributed, even for a simple cognitive task.<b>NEW & NOTEWORTHY</b> We recorded extracellular electrophysiological signals from roughly the breadth and depth of a cortical hemisphere in nonhuman primates (NHPs) performing a visual memory task. Analyses of the band-limited local field potential (LFP) power displayed widespread, frequency-dependent cortical gradients in spectral power. Using a machine learning classifier, these features allowed robust cortical area decoding. Further task dependence in LFP power were found to be widespread, indicating large-scale gradients of LFP activity, and task-related activity.",
+  "authors": [
+    "Hoffman Steven J",
+    "Dotson Nicholas M",
+    "Lima Vinicius",
+    "Gray Charles M"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2024",
+  "doi": "10.1152/jn.00264.2023",
+  "mesh": [
+    "Cerebral Cortex",
+    "Macaca",
+    "Animals",
+    "Memory, Short-Term",
+    "Visual Cortex",
+    "Visual Perception",
+    "Female",
+    "Synaptic Potentials",
+    "Cognition"
+  ]
+}

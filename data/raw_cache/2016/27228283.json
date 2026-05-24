@@ -1,0 +1,23 @@
+{
+  "pmid": "27228283",
+  "title": "A neural basis for the spatial suppression of visual motion perception.",
+  "abstract": "In theory, sensory perception should be more accurate when more neurons contribute to the representation of a stimulus. However, psychophysical experiments that use larger stimuli to activate larger pools of neurons sometimes report impoverished perceptual performance. To determine the neural mechanisms underlying these paradoxical findings, we trained monkeys to discriminate the direction of motion of visual stimuli that varied in size across trials, while simultaneously recording from populations of motion-sensitive neurons in cortical area MT. We used the resulting data to constrain a computational model that explained the behavioral data as an interaction of three main mechanisms: noise correlations, which prevented stimulus information from growing with stimulus size; neural surround suppression, which decreased sensitivity for large stimuli; and a read-out strategy that emphasized neurons with receptive fields near the stimulus center. These results suggest that paradoxical percepts reflect tradeoffs between sensitivity and noise in neuronal populations.",
+  "authors": [
+    "Liu Liu D",
+    "Haefner Ralf M",
+    "Pack Christopher C"
+  ],
+  "journal": "eLife",
+  "year": "2016",
+  "doi": "10.7554/eLife.16167",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Female",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

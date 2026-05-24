@@ -1,0 +1,32 @@
+{
+  "pmid": "33169030",
+  "title": "Modeling behaviorally relevant neural dynamics enabled by preferential subspace identification.",
+  "abstract": "Neural activity exhibits complex dynamics related to various brain functions, internal states and behaviors. Understanding how neural dynamics explain specific measured behaviors requires dissociating behaviorally relevant and irrelevant dynamics, which is not achieved with current neural dynamic models as they are learned without considering behavior. We develop preferential subspace identification (PSID), which is an algorithm that models neural activity while dissociating and prioritizing its behaviorally relevant dynamics. Modeling data in two monkeys performing three-dimensional reach and grasp tasks, PSID revealed that the behaviorally relevant dynamics are significantly lower-dimensional than otherwise implied. Moreover, PSID discovered distinct rotational dynamics that were more predictive of behavior. Furthermore, PSID more accurately learned behaviorally relevant dynamics for each joint and recording channel. Finally, modeling data in two monkeys performing saccades demonstrated the generalization of PSID across behaviors, brain regions and neural signal types. PSID provides a general new tool to reveal behaviorally relevant neural dynamics that can otherwise go unnoticed.",
+  "authors": [
+    "Sani Omid G",
+    "Abbaspourazad Hamidreza",
+    "Wong Yan T",
+    "Pesaran Bijan",
+    "Shanechi Maryam M"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2021",
+  "doi": "10.1038/s41593-020-00733-0",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Behavior, Animal",
+    "Electrophysiological Phenomena",
+    "Hand Strength",
+    "Learning",
+    "Macaca mulatta",
+    "Machine Learning",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Prefrontal Cortex",
+    "Psychomotor Performance",
+    "Rotation",
+    "Saccades",
+    "Space Perception"
+  ]
+}

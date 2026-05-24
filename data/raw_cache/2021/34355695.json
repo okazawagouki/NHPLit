@@ -1,0 +1,30 @@
+{
+  "pmid": "34355695",
+  "title": "Non-linear dimensionality reduction on extracellular waveforms reveals cell type diversity in premotor cortex.",
+  "abstract": "Cortical circuits are thought to contain a large number of cell types that coordinate to produce behavior. Current in vivo methods rely on clustering of specified features of extracellular waveforms to identify putative cell types, but these capture only a small amount of variation. Here, we develop a new method (<i>WaveMAP</i>) that combines non-linear dimensionality reduction with graph clustering to identify putative cell types. We apply <i>WaveMAP</i> to extracellular waveforms recorded from dorsal premotor cortex of macaque monkeys performing a decision-making task. Using <i>WaveMAP</i>, we robustly establish eight waveform clusters and show that these clusters recapitulate previously identified narrow- and broad-spiking types while revealing previously unknown diversity within these subtypes. The eight clusters exhibited distinct laminar distributions, characteristic firing rate patterns, and decision-related dynamics. Such insights were weaker when using feature-based approaches. <i>WaveMAP</i> therefore provides a more nuanced understanding of the dynamics of cell types in cortical circuits.",
+  "authors": [
+    "Lee Eric Kenji",
+    "Balasubramanian Hymavathy",
+    "Tsolias Alexandra",
+    "Anakwe Stephanie Udochukwu",
+    "Medalla Maria",
+    "Shenoy Krishna V",
+    "Chandrasekaran Chandramouli"
+  ],
+  "journal": "eLife",
+  "year": "2021",
+  "doi": "10.7554/eLife.67490",
+  "mesh": [
+    "Animals",
+    "Decision Making",
+    "Macaca mulatta",
+    "Machine Learning",
+    "Male",
+    "Motor Cortex",
+    "Neural Pathways",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Software",
+    "Task Performance and Analysis"
+  ]
+}

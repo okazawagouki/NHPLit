@@ -1,0 +1,14 @@
+{
+  "pmid": "36644291",
+  "title": "A flexible Bayesian framework for unbiased estimation of timescales.",
+  "abstract": "Timescales characterize the pace of change for many dynamic processes in nature. Timescales are usually estimated by fitting the exponential decay of data autocorrelation in the time or frequency domain. Here we show that this standard procedure often fails to recover the correct timescales due to a statistical bias arising from the finite sample size. We develop an alternative approach which estimates timescales by fitting the sample autocorrelation or power spectrum with a generative model based on a mixture of Ornstein-Uhlenbeck (OU) processes using adaptive approximate Bayesian computations (aABC). Our method accounts for finite sample size and noise in data and returns a posterior distribution of timescales that quantifies the estimation uncertainty and can be used for model selection. We demonstrate the accuracy of our method on synthetic data and illustrate its application to recordings from primate cortex. We provide a customizable Python package implementing our framework with different generative models suitable for diverse applications.",
+  "authors": [
+    "Zeraati Roxana",
+    "Engel Tatiana A",
+    "Levina Anna"
+  ],
+  "journal": "Nature computational science",
+  "year": "2022",
+  "doi": "10.1038/s43588-022-00214-3",
+  "mesh": []
+}

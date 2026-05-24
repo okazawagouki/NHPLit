@@ -1,0 +1,14 @@
+{
+  "pmid": "23574739",
+  "title": "A network model of the periodic synchronization process in the dynamics of calcium concentration in GnRH neurons.",
+  "abstract": "Mathematical neuroendocrinology is a branch of mathematical neurosciences that is specifically interested in endocrine neurons, which have the uncommon ability of secreting neurohormones into the blood. One of the most striking features of neuroendocrine networks is their ability to exhibit very slow rhythms of neurosecretion, on the order of one or several hours. A prototypical instance is that of the pulsatile secretion pattern of GnRH (gonadotropin releasing hormone), the master hormone controlling the reproductive function, whose origin remains a puzzle issue since its discovery in the seventies. In this paper, we investigate the question of GnRH neuron synchronization on a mesoscopic scale, and study how synchronized events in calcium dynamics can arise from the average electric activity of individual neurons. We use as reference seminal experiments performed on embryonic GnRH neurons from rhesus monkeys, where calcium imaging series were recorded simultaneously in tens of neurons, and which have clearly shown the occurrence of synchronized calcium peaks associated with GnRH pulses, superposed on asynchronous, yet oscillatory individual background dynamics. We design a network model by coupling 3D individual dynamics of FitzHugh-Nagumo type. Using phase-plane analysis, we constrain the model behavior so that it meets qualitative and quantitative specifications derived from the experiments, including the precise control of the frequency of the synchronization episodes. In particular, we show how the time scales of the model can be tuned to fit the individual and synchronized time scales of the experiments. Finally, we illustrate the ability of the model to reproduce additional experimental observations, such as partial recruitment of cells within the synchronization process or the occurrence of doublets of synchronization.",
+  "authors": [
+    "Krupa Maciej",
+    "Vidal Alexandre",
+    "Clément Frédérique"
+  ],
+  "journal": "Journal of mathematical neuroscience",
+  "year": "2013",
+  "doi": "10.1186/2190-8567-3-4",
+  "mesh": []
+}

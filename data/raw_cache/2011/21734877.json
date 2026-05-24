@@ -1,0 +1,18 @@
+{
+  "pmid": "21734877",
+  "title": "Deciphering elapsed time and predicting action timing from neuronal population signals.",
+  "abstract": "The proper timing of actions is necessary for the survival of animals, whether in hunting prey or escaping predators. Researchers in the field of neuroscience have begun to explore neuronal signals correlated to behavioral interval timing. Here, we attempt to decode the lapse of time from neuronal population signals recorded from the frontal cortex of monkeys performing a multiple-interval timing task. We designed a Bayesian algorithm that deciphers temporal information hidden in noisy signals dispersed within the activity of individual neurons recorded from monkeys trained to determine the passage of time before initiating an action. With this decoder, we succeeded in estimating the elapsed time with a precision of approximately 1 s throughout the relevant behavioral period from firing rates of 25 neurons in the pre-supplementary motor area. Further, an extended algorithm makes it possible to determine the total length of the time-interval required to wait in each trial. This enables observers to predict the moment at which the subject will take action from the neuronal activity in the brain. A separate population analysis reveals that the neuronal ensemble represents the lapse of time in a manner scaled relative to the scheduled interval, rather than representing it as the real physical time.",
+  "authors": [
+    "Shinomoto Shigeru",
+    "Omi Takahiro",
+    "Mita Akihisa",
+    "Mushiake Hajime",
+    "Shima Keisetsu",
+    "Matsuzaka Yoshiya",
+    "Tanji Jun"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2011",
+  "doi": "10.3389/fncom.2011.00029",
+  "mesh": []
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "39899712",
+  "title": "Active vision in freely moving marmosets using head-mounted eye tracking.",
+  "abstract": "Our understanding of how vision functions as primates actively navigate the real-world is remarkably sparse. As most data have been limited to chaired and typically head-restrained animals, the synergistic interactions of different motor actions/plans inherent to active sensing-e.g., eyes, head, posture, movement, etc.-on visual perception are largely unknown. To address this considerable gap in knowledge, we developed an innovative wireless head-mounted eye-tracking system that performs Chair-free Eye-Recording using Backpack mounted micROcontrollers (CEREBRO) for small mammals, such as marmoset monkeys. Because eye illumination and environment lighting change continuously in natural contexts, we developed a segmentation artificial neural network to perform robust pupil tracking in these conditions. Leveraging this innovative system to investigate active vision, we demonstrate that although freely moving marmosets exhibit frequent compensatory eye movements equivalent to other primates, including humans, the predictability of the visual behavior (gaze) is higher when animals are freely moving relative to when they are head-fixed. Moreover, despite increases in eye/head-motion during locomotion, gaze stabilization remains steady because of an increase in vestibularocular reflex gain during locomotion. These results demonstrate the efficient, dynamic visuo-motor mechanisms and related behaviors that enable stable, high-resolution foveal vision in primates as they explore the natural world.",
+  "authors": [
+    "Singh Vikram Pal",
+    "Li Jingwen",
+    "Dawson Kana",
+    "Mitchell Jude F",
+    "Miller Cory T"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2025",
+  "doi": "10.1073/pnas.2412954122",
+  "mesh": [
+    "Animals",
+    "Callithrix",
+    "Eye Movements",
+    "Eye-Tracking Technology",
+    "Vision, Ocular",
+    "Head Movements",
+    "Visual Perception",
+    "Male",
+    "Female",
+    "Locomotion"
+  ]
+}

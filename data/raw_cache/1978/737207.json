@@ -1,0 +1,26 @@
+{
+  "pmid": "737207",
+  "title": "An inference upon the neural network finding binocular correspondence.",
+  "abstract": "Previously, the authors proposed a model of neural network extracting binocular parallax (Hirai and Fukushima, 1975). It is a multilayered network whose final layers consist of neural elements corresponding to \"binocular depth neurons\" found in monkey's visual cortex. The binocular depth neuron is selectively sensitive to a binocular stimulus with a specific amount of binocular parallax and does not respond to a monocular one. As described in the last chapter of the previous article (Hirai and Fukushima, 1975), when a binocular pair of input patterns consist of, for example, many vertical bars placed very closely to each other, the binocular depth neurons might respond not only to correct binocular pairs, but also to incorrect ones. Our present study is concentrated upon how the visual system finds correct binocular pairs or binocular correspondence. It is assumed that some neural network is cascaded after the binocular depth neurons and finds out correct binocular correspondence by eliminating the incorrect binocular pairs. In this article a model of such neural network is proposed. The performance of the model has been simulated on a digital computer. The results of the computer simulation show that this model finds binocular correspondence satisfactorily. It has been demonstrated by the computer simulation that this model also explains the mechanism of the hysteresis in the binocular depth perception reported by Fender and Julesz (1967).",
+  "authors": [
+    "Hirai Y",
+    "Fukushima K"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "1978",
+  "doi": "",
+  "mesh": [
+    "Computers",
+    "Depth Perception",
+    "Humans",
+    "Mathematics",
+    "Models, Neurological",
+    "Neural Conduction",
+    "Neural Inhibition",
+    "Neurons",
+    "Photic Stimulation",
+    "Photoreceptor Cells",
+    "Retina",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "8296473",
+  "title": "An oscillation-based model for the neuronal basis of attention.",
+  "abstract": "We propose a model for the neuronal implementation of selective visual attention based on the temporal structure of neuronal activity. In particular, we set out to explain the electrophysiological data from areas V4 and IT in monkey cortex of Moran and Desimone [(1985) Science, 229, 782-784] using the \"temporal tagging\" hypothesis of Crick and Koch [(1990a) Cold Spring Harbor Symposiums in Quantitative Biology, LV, 953-962; (1990b) Seminars in the neurosciences (pp. 1-36)]. Neurons in primary visual cortex respond to visual stimuli with a Poisson distributed spike train with an appropriate, stimulus-dependent mean firing rate. The firing rate of neurons whose receptive fields overlap with the \"focus of attention\" is modulated with a periodic function in the 40 Hz range, such that their mean firing rate is identical to the mean firing rate of neurons in \"non-attended\" areas. This modulation is detected by inhibitory interneurons in V4 and is used to suppress the response of V4 cells associated with non-attended visual stimuli. Using very simple single-cell models, we obtain quantitative agreement with Moran and Desimone's (1985) experiments.",
+  "authors": [
+    "Niebur E",
+    "Koch C",
+    "Rosin C"
+  ],
+  "journal": "Vision research",
+  "year": "1993",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Computer Simulation",
+    "Geniculate Ganglion",
+    "Haplorhini",
+    "Neurons, Afferent",
+    "Visual Cortex"
+  ]
+}

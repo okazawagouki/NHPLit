@@ -1,0 +1,14 @@
+{
+  "pmid": "41980952",
+  "title": "Sparseness facilitates image encoding across visuo-frontal networks in freely moving macaque.",
+  "abstract": "Sparseness is a quantitative measure of coding efficiency that characterizes the extent to which information is represented by the selective activation of a small subset of neurons. However, although highly influential, this general principle of sensory coding has only been tested under restrictive experimental conditions whereby stimuli were presented on a computer screen while animals were physically restrained. Here, we wirelessly recorded the spiking activity of populations of neurons in visual (area V4) and dorsolateral prefrontal cortex (dlPFC) in conjunction with oculomotor events while freely moving male macaques inspected their environment. A convolutional autoencoder was trained to reduce the dimensionality of fixated natural stimuli to help examine the structure of population activity in each cortical area and its contribution to stimulus encoding in different states of wakefulness. We found a sparseness-based connectivity rule between neurons in different cortical areas whereby V4 and dlPFC neurons with high degrees of sparseness are more strongly coupled. The highly sparse neurons in both areas had a higher contribution to stimulus encoding during active relative to passive wakefulness. Our results indicate that sparsification constitutes a general principle underlying population coding across sensory and executive cortical circuits during unrestrained environmental exploration.",
+  "authors": [
+    "Parajuli Arun",
+    "Franch Melissa",
+    "Dragoi Valentin"
+  ],
+  "journal": "Nature communications",
+  "year": "2026",
+  "doi": "10.1038/s41467-026-71051-5",
+  "mesh": []
+}

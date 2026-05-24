@@ -1,0 +1,43 @@
+{
+  "pmid": "22964890",
+  "title": "Modeling of epigenome dynamics identifies transcription factors that mediate Polycomb targeting.",
+  "abstract": "Although changes in chromatin are integral to transcriptional reprogramming during cellular differentiation, it is currently unclear how chromatin modifications are targeted to specific loci. To systematically identify transcription factors (TFs) that can direct chromatin changes during cell fate decisions, we model the relationship between genome-wide dynamics of chromatin marks and the local occurrence of computationally predicted TF binding sites. By applying this computational approach to a time course of Polycomb-mediated H3K27me3 marks during neuronal differentiation of murine stem cells, we identify several motifs that likely regulate the dynamics of this chromatin mark. Among these, the sites bound by REST and by the SNAIL family of TFs are predicted to transiently recruit H3K27me3 in neuronal progenitors. We validate these predictions experimentally and show that absence of REST indeed causes loss of H3K27me3 at target promoters in trans, specifically at the neuronal progenitor state. Moreover, using targeted transgenic insertion, we show that promoter fragments containing REST or SNAIL binding sites are sufficient to recruit H3K27me3 in cis, while deletion of these sites results in loss of H3K27me3. These findings illustrate that the occurrence of TF binding sites can determine chromatin dynamics. Local determination of Polycomb activity by REST and SNAIL motifs exemplifies such TF based regulation of chromatin. Furthermore, our results show that key TFs can be identified ab initio through computational modeling of epigenome data sets using a modeling approach that we make readily accessible.",
+  "authors": [
+    "Arnold Phil",
+    "Schöler Anne",
+    "Pachkov Mikhail",
+    "Balwierz Piotr J",
+    "Jørgensen Helle",
+    "Stadler Michael B",
+    "van Nimwegen Erik",
+    "Schübeler Dirk"
+  ],
+  "journal": "Genome research",
+  "year": "2013",
+  "doi": "10.1101/gr.142661.112",
+  "mesh": [
+    "Animals",
+    "Binding Sites",
+    "Cattle",
+    "Cell Differentiation",
+    "Chromatin",
+    "Chromatin Assembly and Disassembly",
+    "Dogs",
+    "Epigenesis, Genetic",
+    "Genome",
+    "Histones",
+    "Horses",
+    "Humans",
+    "Macaca",
+    "Mice",
+    "Models, Genetic",
+    "Neurons",
+    "Opossums",
+    "Polycomb-Group Proteins",
+    "Promoter Regions, Genetic",
+    "Snail Family Transcription Factors",
+    "Stem Cells",
+    "Transcription Factors",
+    "Transgenes"
+  ]
+}

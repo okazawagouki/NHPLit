@@ -1,0 +1,29 @@
+{
+  "pmid": "41285813",
+  "title": "Belief embodiment through eye movements facilitates memory-guided navigation.",
+  "abstract": "The brain evolved to navigate a dynamic and uncertain world, but the mechanisms underlying ethologically-relevant behavioral strategies remain unclear. In the real-world, such strategies are shaped both by task demands and by the cognitive resources available to the animal. We hypothesized that eye movements constitute a vital cognitive resource to support neural computations for memory-guided navigation. We tested this using a naturalistic task in which humans use a joystick to steer and catch flashing targets in a virtual environment lacking explicit position cues. While navigating to the goal, participants physically track the latent target position with their gaze even in the absence of optic flow, demonstrating that these task-relevant eye movements reflect an embodiment of the subjects' dynamic internal beliefs about the goal location. We developed a neural network model with tuned recurrent connectivity between oculomotor and evidence-integrating frontoparietal circuits to account for this behavioral strategy. We show that this model better explained neural data from male monkeys' posterior parietal cortex compared to models optimized solely for task performance and unconstrained by such an oculomotor-based strategy. These results highlight the importance of eye movements in working memory computations and establish a functional significance of oculomotor signals for evidence-integration and navigation computations via embodied cognition.",
+  "authors": [
+    "Stavropoulos Akis",
+    "Lakshminarasimhan Kaushik J",
+    "Angelaki Dora E"
+  ],
+  "journal": "Nature communications",
+  "year": "2025",
+  "doi": "10.1038/s41467-025-66080-5",
+  "mesh": [
+    "Humans",
+    "Male",
+    "Eye Movements",
+    "Animals",
+    "Spatial Navigation",
+    "Adult",
+    "Parietal Lobe",
+    "Female",
+    "Young Adult",
+    "Memory, Short-Term",
+    "Macaca mulatta",
+    "Neural Networks, Computer",
+    "Cues",
+    "Memory"
+  ]
+}

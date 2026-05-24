@@ -1,0 +1,13 @@
+{
+  "pmid": "39229195",
+  "title": "A Population Representation of the Confidence in a Decision in the Parietal Cortex.",
+  "abstract": "Confidence in a decision is the belief, prior to feedback, that one's choice is correct. In the brain, many decisions are implemented as a race between competing evidence-accumulation processes. We ask whether the neurons that represent evidence accumulation also carry information about whether the choice is correct (i.e., confidence). Monkeys performed a reaction time version of the random dot motion task. Neuropixels probes were used to record from neurons in the lateral intraparietal (LIP) area. LIP neurons with response fields that overlap the choice-target contralateral to the recording site ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mrow><msub><mtext>T</mtext> <mrow><mtext>in</mtext></mrow> </msub> </mrow> </math> neurons) represent the accumulation of evidence in favor of contralateral target selection. We demonstrate that shortly before a contralateral choice is reported, the population of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mrow><msub><mtext>T</mtext> <mrow><mtext>in</mtext></mrow> </msub> </mrow> </math> neurons contains information about the accuracy of the choice (i.e., whether the choice is correct or incorrect). This finding is unexpected because, on average, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mrow><msub><mtext>T</mtext> <mrow><mtext>in</mtext></mrow> </msub> </mrow> </math> neurons exhibit a level of activity before the report that is independent of reaction time and evidence strength-both strong predictors of accuracy. This apparent contradiction is resolved by examining the variability in neuronal responses across the population of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mrow><msub><mtext>T</mtext> <mrow><mtext>in</mtext></mrow> </msub> </mrow> </math> neurons. While on average, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mrow><msub><mtext>T</mtext> <mrow><mtext>in</mtext></mrow> </msub> </mrow> </math> neurons exhibit a stereotyped level of activity before a contralateral choice, many neurons depart from this average in a consistent manner. From these neurons, the accuracy of the choice can be predicted using a simple logistic decoder. The accuracy of the choice predicted from neural activity reproduces the hallmarks of confidence identified in human behavioral experiments. Therefore, neurons that represent evidence accumulation can also inform the monkey's confidence.",
+  "authors": [
+    "Zylberberg Ariel",
+    "Shadlen Michael N"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2024.08.15.608159",
+  "mesh": []
+}

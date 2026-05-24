@@ -1,0 +1,26 @@
+{
+  "pmid": "16277293",
+  "title": "Method of unconfounding orientation and direction tunings in neuronal response to moving bars and gratings.",
+  "abstract": "When an oriented bar or grating is drifted across the receptive field of a cortical neuron at various orientations, the tuning function reflects both, and thus confounds the orientation (ORI) and the direction-of-motion (DIR) selectivity of the cell. Since ORI (or DIR), by definition, has a period of 180(or 360) deg/cycle, a popular method for separating these two components, due to Wörgötter and Eysel [Biol. Cybern. 57, 349 (1987)], is to Fourier decompose the neuron's response along the angular direction and then identify the first and the second harmonic with DIR and ORI, respectively (the SDO method). Zhang [Biol. Cybern. 63, 135 (1990)] pointed out that this interpretation is misconceived--all odd harmonics (not just the first harmonic) reflect the DIR component, whereas all even harmonics (including the second harmonic) contain contributions from both DIR and ORI. Here, a simplified procedure is proposed to accomplish the goal of unconfounding ORI and DIR. We first construct the sum of all odd harmonics of the overall tuning curve, denoted ODDSUM, by calculating the difference in the neuronal response to opposite drifting directions. Then we construct ODDSUM+/ODDSUM/ and identify it with DIR (here . denotes the absolute value). Subtracting DIR, that is ODDSUM+ /ODDSUM/, from the overall tuning curve gives ORI. Our method ensures that (i) the reconstructed DIR contains only one, positive peak at the preferred direction and can have power in all harmonics, and (ii) the reconstructed ORI has two peaks separated by 180 degrees and has zero power for all odd harmonics. Using this procedure, we have unconfounded orientation and direction components for a considerable sample of macaque striate cortical cells, and compared the results with those obtained using Wörgötter and Eysel's SDO method. We found that whereas the estimate of the peak angle of ORI remains largely unaffected, Wörgötter and Eysel's method considerably overestimated the relative strength of ORI. To conclude, a simple method is provided for appropriately separating the orientation and directional tuning in a neuron's response that is confounded as a result of the use of drifting oriented stimuli.",
+  "authors": [
+    "Zhang Jun"
+  ],
+  "journal": "Journal of the Optical Society of America. A, Optics, image science, and vision",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Form Perception",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Motion Perception",
+    "Neurons",
+    "Orientation",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

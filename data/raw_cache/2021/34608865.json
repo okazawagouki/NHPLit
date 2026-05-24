@@ -1,0 +1,21 @@
+{
+  "pmid": "34608865",
+  "title": "Modelling the neural code in large populations of correlated neurons.",
+  "abstract": "Neurons respond selectively to stimuli, and thereby define a code that associates stimuli with population response patterns. Certain correlations within population responses (noise correlations) significantly impact the information content of the code, especially in large populations. Understanding the neural code thus necessitates response models that quantify the coding properties of modelled populations, while fitting large-scale neural recordings and capturing noise correlations. In this paper, we propose a class of response model based on mixture models and exponential families. We show how to fit our models with expectation-maximization, and that they capture diverse variability and covariability in recordings of macaque primary visual cortex. We also show how they facilitate accurate Bayesian decoding, provide a closed-form expression for the Fisher information, and are compatible with theories of probabilistic population coding. Our framework could allow researchers to quantitatively validate the predictions of neural coding theories against both large-scale neural recordings and cognitive performance.",
+  "authors": [
+    "Sokoloski Sacha",
+    "Aschner Amir",
+    "Coen-Cagli Ruben"
+  ],
+  "journal": "eLife",
+  "year": "2021",
+  "doi": "10.7554/eLife.64615",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Primary Visual Cortex"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "21095948",
+  "title": "Modeling the effects of Deep Brain Stimulation on sensorimotor cortex in normal and MPTP conditions.",
+  "abstract": "Deep Brain Stimulation (DBS) is an effective surgical therapy for the treatment of movement disorders in Parkinson's disease (PD) and other neurological pathologies. DBS is known to modulate the spiking activity of the neurons within the basal ganglia, but how such modulation impacts the primary sensorimotor cortex is still uncertain. In this study a monkey was stimulated with DBS at several frequencies in the subthalamic nucleus (STN) before and after treatment with 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) to develop PD symptoms, while single unit recordings are simultaneously obtained from the sensorimotor cortex. We exploit such data to develop point-process input-output models of the cortical neurons. Our models describe the effects of stimulation in normal and MPTP conditions and investigate the influence of the stimulation frequency on the neuronal activity. Our models show increased synchronization of the cortical neurons in MPTP vs. normal conditions before stimulation, suggest that STN DBS impacts the cortical activity by antidromically eliciting spikes at the stimulation frequency, and support the hypothesis that high frequency DBS partially masks the effects of thalamo-cortical input.",
+  "authors": [
+    "Santaniello S",
+    "Gale J T",
+    "Montgomery E B",
+    "Sarma S V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2010",
+  "doi": "10.1109/IEMBS.2010.5626285",
+  "mesh": [
+    "1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+    "Algorithms",
+    "Animals",
+    "Cerebral Cortex",
+    "Deep Brain Stimulation",
+    "Disease Models, Animal",
+    "Dopamine Agents",
+    "Electric Stimulation Therapy",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Neurons",
+    "Parkinson Disease",
+    "Time Factors"
+  ]
+}

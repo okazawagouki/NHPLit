@@ -1,0 +1,23 @@
+{
+  "pmid": "29376116",
+  "title": "Conflicts of interest improve collective computation of adaptive social structures.",
+  "abstract": "In many biological systems, the functional behavior of a group is collectively computed by the system's individual components. An example is the brain's ability to make decisions via the activity of billions of neurons. A long-standing puzzle is how the components' decisions combine to produce beneficial group-level outputs, despite conflicts of interest and imperfect information. We derive a theoretical model of collective computation from mechanistic first principles, using results from previous work on the computation of power structure in a primate model system. Collective computation has two phases: an information accumulation phase, in which (in this study) pairs of individuals gather information about their fighting abilities and make decisions about their dominance relationships, and an information aggregation phase, in which these decisions are combined to produce a collective computation. To model information accumulation, we extend a stochastic decision-making model-the leaky integrator model used to study neural decision-making-to a multiagent game-theoretic framework. We then test alternative algorithms for aggregating information-in this study, decisions about dominance resulting from the stochastic model-and measure the mutual information between the resultant power structure and the \"true\" fighting abilities. We find that conflicts of interest can improve accuracy to the benefit of all agents. We also find that the computation can be tuned to produce different power structures by changing the cost of waiting for a decision. The successful application of a similar stochastic decision-making model in neural and social contexts suggests general principles of collective computation across substrates and scales.",
+  "authors": [
+    "Brush Eleanor R",
+    "Krakauer David C",
+    "Flack Jessica C"
+  ],
+  "journal": "Science advances",
+  "year": "2018",
+  "doi": "10.1126/sciadv.1603311",
+  "mesh": [
+    "Adaptation, Physiological",
+    "Algorithms",
+    "Animals",
+    "Conflict of Interest",
+    "Consensus",
+    "Decision Making",
+    "Primates",
+    "Social Behavior"
+  ]
+}

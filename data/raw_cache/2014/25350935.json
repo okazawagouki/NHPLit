@@ -1,0 +1,28 @@
+{
+  "pmid": "25350935",
+  "title": "Musculoskeletal representation of a large repertoire of hand grasping actions in primates.",
+  "abstract": "Reach-to-grasp tasks have become popular paradigms for exploring the neural origin of hand and arm movements. This is typically investigated by correlating limb kinematic with electrophysiological signals from intracortical recordings. However, it has never been investigated whether reach and grasp movements could be well expressed in the muscle domain and whether this could bring improvements with respect to current joint domain-based task representations. In this study, we trained two macaque monkeys to grasp 50 different objects, which resulted in a high variability of hand configurations. A generic musculoskeletal model of the human upper extremity was scaled and morphed to match the specific anatomy of each individual animal. The primate-specific model was used to perform 3-D reach-to-grasp simulations driven by experimental upper limb kinematics derived from electromagnetic sensors. Simulations enabled extracting joint angles from 27 degrees of freedom and the instantaneous length of 50 musculotendon units. Results demonstrated both a more compact representation and a higher decoding capacity of grasping tasks when movements were expressed in the muscle kinematics domain than when expressed in the joint kinematics domain. Accessing musculoskeletal variables might improve our understanding of cortical hand-grasping areas coding, with implications in the development of prosthetics hands.",
+  "authors": [
+    "Schaffelhofer S",
+    "Sartori M",
+    "Scherberger H",
+    "Farina D"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2015",
+  "doi": "10.1109/TNSRE.2014.2364776",
+  "mesh": [
+    "Animals",
+    "Arm",
+    "Computer Simulation",
+    "Female",
+    "Hand Strength",
+    "Joints",
+    "Macaca mulatta",
+    "Male",
+    "Models, Biological",
+    "Movement",
+    "Muscle Contraction",
+    "Muscle, Skeletal"
+  ]
+}

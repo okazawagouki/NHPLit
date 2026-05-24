@@ -1,0 +1,21 @@
+{
+  "pmid": "21738626",
+  "title": "Neuronal spike train analysis in likelihood space.",
+  "abstract": "BACKGROUND: Conventional methods for spike train analysis are predominantly based on the rate function. Additionally, many experiments have utilized a temporal coding mechanism. Several techniques have been used for analyzing these two sources of information separately, but using both sources in a single framework remains a challenging problem. Here, an innovative technique is proposed for spike train analysis that considers both rate and temporal information. METHODOLOGY/PRINCIPAL FINDINGS: Point process modeling approach is used to estimate the stimulus conditional distribution, based on observation of repeated trials. The extended Kalman filter is applied for estimation of the parameters in a parametric model. The marked point process strategy is used in order to extend this model from a single neuron to an entire neuronal population. Each spike train is transformed into a binary vector and then projected from the observation space onto the likelihood space. This projection generates a newly structured space that integrates temporal and rate information, thus improving performance of distribution-based classifiers. In this space, the stimulus-specific information is used as a distance metric between two stimuli. To illustrate the advantages of the proposed technique, spiking activity of inferior temporal cortex neurons in the macaque monkey are analyzed in both the observation and likelihood spaces. Based on goodness-of-fit, performance of the estimation method is demonstrated and the results are subsequently compared with the firing rate-based framework. CONCLUSIONS/SIGNIFICANCE: From both rate and temporal information integration and improvement in the neural discrimination of stimuli, it may be concluded that the likelihood space generates a more accurate representation of stimulus space. Further, an understanding of the neuronal mechanism devoted to visual object categorization may be addressed in this framework as well.",
+  "authors": [
+    "Salimpour Yousef",
+    "Soltanian-Zadeh Hamid",
+    "Salehi Sina",
+    "Emadi Nazli",
+    "Abouzari Mehdi"
+  ],
+  "journal": "PloS one",
+  "year": "2011",
+  "doi": "10.1371/journal.pone.0021256",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Models, Neurological",
+    "Neurons"
+  ]
+}

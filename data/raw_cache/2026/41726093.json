@@ -1,0 +1,14 @@
+{
+  "pmid": "41726093",
+  "title": "Prewired static visual receptive fields for environment-agnostic perception.",
+  "abstract": "Biological brains can effortlessly adapt to continuously changing stimulus environments, whereas conventional deep neural networks (DNNs) remain highly susceptible to domain shifts. Here, we demonstrate that static, hard-wired receptive fields, which spontaneously emerge in the early visual pathway, facilitate environment-agnostic object recognition in the brain. To test this mechanism, we introduced pre-developed Gabor filters in the early layers of DNNs, keeping them fixed during training. Despite the reduced learning flexibility, our networks exhibited robust continual learning capabilities under significant domain shifts, unlike conventional DNNs, which fail to generalize under similar conditions. Our network achieved generalized representations across domains in the latent space, while conventional DNNs only captured domain-specific variance. The static visual filters helped prevent local texture biases, leading to shape-based perception similar to that of primates. These findings highlight an intrinsic biological strategy that enables reliable continual learning in dynamic and unpredictable environments.",
+  "authors": [
+    "Kang Minjun",
+    "Baek Seungdae",
+    "Paik Se-Bum"
+  ],
+  "journal": "Patterns (New York, N.Y.)",
+  "year": "2026",
+  "doi": "10.1016/j.patter.2025.101475",
+  "mesh": []
+}

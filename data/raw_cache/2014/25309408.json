@@ -1,0 +1,14 @@
+{
+  "pmid": "25309408",
+  "title": "Exploration of complex visual feature spaces for object perception.",
+  "abstract": "The mid- and high-level visual properties supporting object perception in the ventral visual pathway are poorly understood. In the absence of well-specified theory, many groups have adopted a data-driven approach in which they progressively interrogate neural units to establish each unit's selectivity. Such methods are challenging in that they require search through a wide space of feature models and stimuli using a limited number of samples. To more rapidly identify higher-level features underlying human cortical object perception, we implemented a novel functional magnetic resonance imaging method in which visual stimuli are selected in real-time based on BOLD responses to recently shown stimuli. This work was inspired by earlier primate physiology work, in which neural selectivity for mid-level features in IT was characterized using a simple parametric approach (Hung et al., 2012). To extend such work to human neuroimaging, we used natural and synthetic object stimuli embedded in feature spaces constructed on the basis of the complex visual properties of the objects themselves. During fMRI scanning, we employed a real-time search method to control continuous stimulus selection within each image space. This search was designed to maximize neural responses across a pre-determined 1 cm(3) brain region within ventral cortex. To assess the value of this method for understanding object encoding, we examined both the behavior of the method itself and the complex visual properties the method identified as reliably activating selected brain regions. We observed: (1) Regions selective for both holistic and component object features and for a variety of surface properties; (2) Object stimulus pairs near one another in feature space that produce responses at the opposite extremes of the measured activity range. Together, these results suggest that real-time fMRI methods may yield more widely informative measures of selectivity within the broad classes of visual features associated with cortical object representation.",
+  "authors": [
+    "Leeds Daniel D",
+    "Pyles John A",
+    "Tarr Michael J"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2014",
+  "doi": "10.3389/fncom.2014.00106",
+  "mesh": []
+}

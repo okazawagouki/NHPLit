@@ -1,0 +1,33 @@
+{
+  "pmid": "30190446",
+  "title": "Optical and thermal simulations for the design of optodes for minimally invasive optogenetics stimulation or photomodulation of deep and large cortical areas in non-human primate brain.",
+  "abstract": "UNLABELLED: The use of optogenetics or photobiomodulation in non-human primate (NHP) requires the ability to noninvasively stimulate large and deep cortical brain tissues volumes. In this context, the optical and geometrical parameters of optodes are critical. Methods and general guidelines to optimize these parameters have to be defined. OBJECTIVE: We propose the design of an optode for safe and efficient optical stimulation of a large volume of NHP cortex, down to 3-5 mm depths without inserting fibers into the cortex. APPROACH: Monte Carlo simulations of optical and thermal transport have been carried out using the Geant4 application for tomographic emission (GATE) platform. Parameters such as the fiber diameter, numerical aperture, number of fibers and their geometrical arrangement have been studied. Optimal hardware parameters are proposed to obtain homogeneous fluence above the fluence threshold for opsin activation without detrimental thermal effects. MAIN RESULTS: The simulations show that a large fiber diameter and a large numerical aperture are preferable since they allow limiting power concentration and hence the resulting thermal increases at the brain surface. To obtain a volume of 200-500 mm<sup>3</sup> of brain tissues receiving a fluence above the opsin activation threshold for optogenetics or below a phototocixity threshold for photobiomodulation, a 4 fibers configuration is proposed. The optimal distance between the fibers was found to be 4 mm. A practical implementation of the optode has been performed and the corresponding fluence and thermal maps have been simulated. SIGNIFICANCE: The present study defines a method to optimize the design of optode and the choice of stimulation parameters for optogenetics and more generally light delivery to deep and large volumes of tissues in NHP brain with a controlled irradiance dosimetry. The general guidelines are the use of silica fibers with a large numerical aperture and a large diameter. The combination of several fibers is required if large volumes need to be stimulated while avoiding thermal effects.",
+  "authors": [
+    "Dubois A",
+    "Chiang Chih-Chieh",
+    "Smekens F",
+    "Jan S",
+    "Cuplov V",
+    "Palfi S",
+    "Chuang Keh-Shih",
+    "Senova S",
+    "Pain F"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2018",
+  "doi": "10.1088/1741-2552/aadf97",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Hot Temperature",
+    "Mineral Fibers",
+    "Monte Carlo Method",
+    "Motor Cortex",
+    "Opsins",
+    "Optogenetics",
+    "Photic Stimulation",
+    "Physical Stimulation",
+    "Primates"
+  ]
+}

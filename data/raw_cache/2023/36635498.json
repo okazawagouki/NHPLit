@@ -1,0 +1,19 @@
+{
+  "pmid": "36635498",
+  "title": "Residual dynamics resolves recurrent contributions to neural computation.",
+  "abstract": "Relating neural activity to behavior requires an understanding of how neural computations arise from the coordinated dynamics of distributed, recurrently connected neural populations. However, inferring the nature of recurrent dynamics from partial recordings of a neural circuit presents considerable challenges. Here we show that some of these challenges can be overcome by a fine-grained analysis of the dynamics of neural residuals-that is, trial-by-trial variability around the mean neural population trajectory for a given task condition. Residual dynamics in macaque prefrontal cortex (PFC) in a saccade-based perceptual decision-making task reveals recurrent dynamics that is time dependent, but consistently stable, and suggests that pronounced rotational structure in PFC trajectories during saccades is driven by inputs from upstream areas. The properties of residual dynamics restrict the possible contributions of PFC to decision-making and saccade generation and suggest a path toward fully characterizing distributed neural computations with large-scale neural recordings and targeted causal perturbations.",
+  "authors": [
+    "Galgali Aniruddh R",
+    "Sahani Maneesh",
+    "Mante Valerio"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2023",
+  "doi": "10.1038/s41593-022-01230-2",
+  "mesh": [
+    "Animals",
+    "Prefrontal Cortex",
+    "Saccades",
+    "Macaca"
+  ]
+}

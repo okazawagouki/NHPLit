@@ -1,0 +1,28 @@
+{
+  "pmid": "25680520",
+  "title": "Invariance in current dipole moment density across brain structures and species: physiological constraint for neuroimaging.",
+  "abstract": "Although anatomical constraints have been shown to be effective for MEG and EEG inverse solutions, there are still no effective physiological constraints. Strength of the current generator is normally described by the moment of an equivalent current dipole Q. This value is quite variable since it depends on size of active tissue. In contrast, the current dipole moment density q, defined as Q per surface area of active cortex, is independent of size of active tissue. Here we studied whether the value of q has a maximum in physiological conditions across brain structures and species. We determined the value due to the primary neuronal current (q primary) alone, correcting for distortions due to measurement conditions and secondary current sources at boundaries separating regions of differing electrical conductivities. The values were in the same range for turtle cerebellum (0.56-1.48 nAm/mm(2)), guinea pig hippocampus (0.30-1.34 nAm/mm(2)), and swine neocortex (0.18-1.63 nAm/mm(2)), rat neocortex (~2.2 nAm/mm(2)), monkey neocortex (~0.40 nAm/mm(2)) and human neocortex (0.16-0.77 nAm/mm(2)). Thus, there appears to be a maximum value across the brain structures and species (1-2 nAm/mm(2)). The empirical values closely matched the theoretical values obtained with our independently validated neural network model (1.6-2.8 nAm/mm(2) for initial spike and 0.7-3.1 nAm/mm(2) for burst), indicating that the apparent invariance is not coincidental. Our model study shows that a single maximum value may exist across a wide range of brain structures and species, varying in neuron density, due to fundamental electrical properties of neurons. The maximum value of q primary may serve as an effective physiological constraint for MEG/EEG inverse solutions.",
+  "authors": [
+    "Murakami Shingo",
+    "Okada Yoshio"
+  ],
+  "journal": "NeuroImage",
+  "year": "2015",
+  "doi": "10.1016/j.neuroimage.2015.02.003",
+  "mesh": [
+    "Animals",
+    "Cerebellum",
+    "Electroencephalography",
+    "Electrophysiological Phenomena",
+    "Guinea Pigs",
+    "Haplorhini",
+    "Hippocampus",
+    "Humans",
+    "Magnetoencephalography",
+    "Neocortex",
+    "Neural Networks, Computer",
+    "Rats",
+    "Swine",
+    "Turtles"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "20719928",
+  "title": "Estimating network parameters from combined dynamics of firing rate and irregularity of single neurons.",
+  "abstract": "High firing irregularity is a hallmark of cortical neurons in vivo, and modeling studies suggest a balance of excitation and inhibition is necessary to explain this high irregularity. Such a balance must be generated, at least partly, from local interconnected networks of excitatory and inhibitory neurons, but the details of the local network structure are largely unknown. The dynamics of the neural activity depends on the local network structure; this in turn suggests the possibility of estimating network structure from the dynamics of the firing statistics. Here we report a new method to estimate properties of the local cortical network from the instantaneous firing rate and irregularity (CV(2)) under the assumption that recorded neurons are a part of a randomly connected sparse network. The firing irregularity, measured in monkey motor cortex, exhibits two features; many neurons show relatively stable firing irregularity in time and across different task conditions; the time-averaged CV(2) is widely distributed from quasi-regular to irregular (CV(2) = 0.3-1.0). For each recorded neuron, we estimate the three parameters of a local network [balance of local excitation-inhibition, number of recurrent connections per neuron, and excitatory postsynaptic potential (EPSP) size] that best describe the dynamics of the measured firing rates and irregularities. Our analysis shows that optimal parameter sets form a two-dimensional manifold in the three-dimensional parameter space that is confined for most of the neurons to the inhibition-dominated region. High irregularity neurons tend to be more strongly connected to the local network, either in terms of larger EPSP and inhibitory PSP size or larger number of recurrent connections, compared with the low irregularity neurons, for a given excitatory/inhibitory balance. Incorporating either synaptic short-term depression or conductance-based synapses leads many low CV(2) neurons to move to the excitation-dominated region as well as to an increase of EPSP size.",
+  "authors": [
+    "Hamaguchi Kosuke",
+    "Riehle Alexa",
+    "Brunel Nicolas"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2011",
+  "doi": "10.1152/jn.00858.2009",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Excitatory Postsynaptic Potentials",
+    "Inhibitory Postsynaptic Potentials",
+    "Macaca mulatta",
+    "Male",
+    "Models, Animal",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neurons",
+    "Synapses"
+  ]
+}

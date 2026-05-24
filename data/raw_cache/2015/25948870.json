@@ -1,0 +1,25 @@
+{
+  "pmid": "25948870",
+  "title": "Confidence estimation as a stochastic process in a neurodynamical system of decision making.",
+  "abstract": "Evaluation of confidence about one's knowledge is key to the brain's ability to monitor cognition. To investigate the neural mechanism of confidence assessment, we examined a biologically realistic spiking network model and found that it reproduced salient behavioral observations and single-neuron activity data from a monkey experiment designed to study confidence about a decision under uncertainty. Interestingly, the model predicts that changes of mind can occur in a mnemonic delay when confidence is low; the probability of changes of mind increases (decreases) with task difficulty in correct (error) trials. Furthermore, a so-called \"hard-easy effect\" observed in humans naturally emerges, i.e., behavior shows underconfidence (underestimation of correct rate) for easy or moderately difficult tasks and overconfidence (overestimation of correct rate) for very difficult tasks. Importantly, in the model, confidence is computed using a simple neural signal in individual trials, without explicit representation of probability functions. Therefore, even a concept of metacognition can be explained by sampling a stochastic neural activity pattern.",
+  "authors": [
+    "Wei Ziqiang",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2015",
+  "doi": "10.1152/jn.00793.2014",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Decision Making",
+    "Discrimination, Psychological",
+    "Haplorhini",
+    "Humans",
+    "Interneurons",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Pyramidal Cells",
+    "Stochastic Processes"
+  ]
+}

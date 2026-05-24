@@ -1,0 +1,23 @@
+{
+  "pmid": "25394574",
+  "title": "Real-time estimation and biofeedback of single-neuron firing rates using local field potentials.",
+  "abstract": "The long-term stability and low-frequency composition of local field potentials (LFPs) offer important advantages for robust and efficient neuroprostheses. However, cortical LFPs recorded by multi-electrode arrays are often assumed to contain only redundant information arising from the activity of large neuronal populations. Here we show that multichannel LFPs in monkey motor cortex each contain a slightly different mixture of distinctive slow potentials that accompany neuronal firing. As a result, the firing rates of individual neurons can be estimated with surprising accuracy. We implemented this method in a real-time biofeedback brain-machine interface, and found that monkeys could learn to modulate the activity of arbitrary neurons using feedback derived solely from LFPs. These findings provide a principled method for monitoring individual neurons without long-term recording of action potentials.",
+  "authors": [
+    "Hall Thomas M",
+    "Nazarpour Kianoush",
+    "Jackson Andrew"
+  ],
+  "journal": "Nature communications",
+  "year": "2014",
+  "doi": "10.1038/ncomms6462",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Female",
+    "Macaca mulatta",
+    "Neurofeedback",
+    "Neurons"
+  ]
+}

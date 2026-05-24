@@ -1,0 +1,20 @@
+{
+  "pmid": "36086236",
+  "title": "Kernel Temporal Differences for EEG-based Reinforcement Learning Brain Machine Interfaces.",
+  "abstract": "Kernel temporal differences (KTD) (λ) algorithm integrated in Q-learning (Q-KTD) has shown its applicability and feasibility for reinforcement learning brain machine interfaces (RLBMIs). RLBMI with its unique learning strategy based on trial-error allows continuous learning and adaptation in BMIs. Q-KTD has shown good performance in both open and closed-loop experiments for finding a proper mapping from neural intention to control commands of an external device. However, previous studies have been limited to intracortical BMIs where monkey's firing rates from primary motor cortex were used as inputs to the neural decoder. This study provides the first attempt to investigate Q-KTD algorithm's applicability in EEG-based RLBMIs. Two different publicly available EEG data sets are considered, we refer to them as Data set A and Data set B. EEG motor imagery tasks are integrated in a single step center-out reaching task, and we observe the open-loop RLBMI experiments reach 100% average success rates after sufficient learning experience. Data set A converges after approximately 20 epochs for raw features and Data set B shows convergence after approximately 40 epochs for both raw and Fourier transform features. Although there still exist challenges to overcome in EEG-based RLBMI using Q-KTD, including increasing the learning speed, and optimization of a continuously growing number of kernel units, the results encourage further investigation of Q-KTD in closed-loop RLBMIs using EEG. Clinical Relevance- This study supports feasibility of noninvasive EEG-based RLBMI implementations and addresses benefits and challenges of RLBMI using EEG.",
+  "authors": [
+    "Thapa Bhoj Raj",
+    "Tangarife Daniel Restrepo",
+    "Bae Jihye"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2022",
+  "doi": "10.1109/EMBC48229.2022.9871862",
+  "mesh": [
+    "Algorithms",
+    "Brain-Computer Interfaces",
+    "Electroencephalography",
+    "Learning",
+    "Reinforcement, Psychology"
+  ]
+}

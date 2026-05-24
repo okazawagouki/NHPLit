@@ -1,0 +1,23 @@
+{
+  "pmid": "30833513",
+  "title": "Partial Adaptation to the Value Range in the Macaque Orbitofrontal Cortex.",
+  "abstract": "Values available for choice in different behavioral contexts can vary immensely. To compensate for this variability, neuronal circuits underlying economic decisions undergo adaptation. In orbitofrontal cortex (OFC), neurons encode the subjective value of offered and chosen goods in a quasilinear way. Previous experiments found that the gain of the encoding is lower when the value range is wider. However, the parameters OFC neurons adapted to remained unclear. Furthermore, previous studies did not examine additive changes in neuronal responses. Computational considerations indicate that these factors can directly impact choice behavior. Here we investigated how OFC neurons adapt to changes in the value range. We recorded from two male rhesus monkeys during a juice choice task. Each session was divided into two blocks of trials. In each block, juices were offered within a set range of values, and ranges changed between blocks. Across blocks, neuronal responses adapted to both the maximum and the minimum value, but only partially. As a result, the minimum neural activity was elevated in some value ranges relative to others. Through simulation of a linear decision model, we showed that increasing the minimum response increases choice variability, lowering the expected payoff. This effect is modulated by the balance between cells with positive and negative encoding. The presence of these two populations induces a non-monotonic relationship between the value range and choice efficacy, such that the expected payoff is highest for decisions in an intermediate value range.<b>SIGNIFICANCE STATEMENT</b> Economic decisions are thought to rely on the orbitofrontal cortex (OFC). The values available for choice vary enormously in different contexts. Previous work showed that neurons in OFC encode values in a linear way, and that the gain of encoding is inversely related to the range of available values. However, the specific parameters driving adaptation remained unclear. Here we show that OFC neurons adapt to both the maximum and minimum value in the current context. However, adaptation is partial, leading to contextual changes in the response offset. Interestingly, increasing the activity offset negatively affects choices in a simulated network. Partial adaptation may allow the circuit to maintain information about context value at the cost of slightly reduced payoff.",
+  "authors": [
+    "Conen Katherine E",
+    "Padoa-Schioppa Camillo"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2019",
+  "doi": "10.1523/JNEUROSCI.2279-18.2019",
+  "mesh": [
+    "Adaptation, Physiological",
+    "Animals",
+    "Choice Behavior",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Reward"
+  ]
+}

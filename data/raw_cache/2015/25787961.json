@@ -1,0 +1,25 @@
+{
+  "pmid": "25787961",
+  "title": "Population coding in area V4 during rapid shape detections.",
+  "abstract": "While previous studies have suggested that neuronal correlations are common in visual cortex over a range of timescales, the effect of correlations on rapid visually based decisions has received little attention. We trained Macaca mulatta to saccade to a peripherally presented shape embedded in dynamic noise as soon as the shape appeared. While the monkeys performed the task, we recorded from neuronal populations (5-29 cells) using a microelectrode array implanted in area V4, a visual area thought to be involved in form perception. While modest correlations were present between cells during visual stimulation, their magnitude did not change significantly subsequent to the appearance of a shape. We quantified the reliability and temporal precision with which neuronal populations signaled the appearance of the shape and predicted the animals' choices using mutual information analyses. To study the impact of correlations, we shuffled the activity from each cell across observations while retaining stimulus-dependent modulations in firing rate. We found that removing correlations by shuffling across trials minimally affected the reliability or timing with which pairs, or larger groups of cells, signaled the presence of a shape. To assess the downstream impact of correlations, we also studied how shuffling affected the ability of V4 populations to predict behavioral choices. Surprisingly, shuffling created a modest increase in the accuracy of such predictions, suggesting that the reliability of downstream neurons is slightly compromised by activity correlations. Our findings are consistent with neuronal correlations having a minimal effect on the reliability and timing of rapid perceptual decisions.",
+  "authors": [
+    "Weiner Katherine F",
+    "Ghose Geoffrey M"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2015",
+  "doi": "10.1152/jn.01044.2014",
+  "mesh": [
+    "Animals",
+    "Form Perception",
+    "Macaca mulatta",
+    "Male",
+    "Nerve Net",
+    "Neurons",
+    "Reaction Time",
+    "Saccades",
+    "Time Factors",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "15887309",
+  "title": "Spline-based non-parametric regression for periodic functions and its application to directional tuning of neurons.",
+  "abstract": "The activity of neurons in the brain often varies systematically with some quantitative feature of a stimulus or action. A well-known example is the tendency of the firing rates of neurons in the primary motor cortex to vary with the direction of a subject's arm or wrist movement. When this movement is constrained to vary in only two dimensions, the direction of movement may be characterized by an angle, and the neuronal firing rate can be written as a function of this angle. The firing rate function has traditionally been fit with a cosine, but recent evidence suggests that departures from cosine tuning occur frequently. We report here a new non-parametric regression method for fitting periodic functions and demonstrate its application to the fitting of neuronal data. The method is an extension of Bayesian adaptive regression splines (BARS) and applies both to normal and non-normal data, including Poisson data, which commonly arise in neuronal applications. We compare the new method to a periodic version of smoothing splines and some parametric alternatives and find the new method to be especially valuable when the smoothness of the periodic function varies unevenly across its domain.",
+  "authors": [
+    "Kaufman Cari G",
+    "Ventura Valérie",
+    "Kass Robert E"
+  ],
+  "journal": "Statistics in medicine",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Movement",
+    "Neurons",
+    "Regression Analysis"
+  ]
+}

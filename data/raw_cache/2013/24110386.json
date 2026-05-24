@@ -1,0 +1,30 @@
+{
+  "pmid": "24110386",
+  "title": "An externally head-mounted wireless neural recording device for laboratory animal research and possible human clinical use.",
+  "abstract": "In this paper we present a new type of head-mounted wireless neural recording device in a highly compact package, dedicated for untethered laboratory animal research and designed for future mobile human clinical use. The device, which takes its input from an array of intracortical microelectrode arrays (MEA) has ninety-seven broadband parallel neural recording channels and was integrated on to two custom designed printed circuit boards. These house several low power, custom integrated circuits, including a preamplifier ASIC, a controller ASIC, plus two SAR ADCs, a 3-axis accelerometer, a 48MHz clock source, and a Manchester encoder. Another ultralow power RF chip supports an OOK transmitter with the center frequency tunable from 3GHz to 4GHz, mounted on a separate low loss dielectric board together with a 3V LDO, with output fed to a UWB chip antenna. The IC boards were interconnected and packaged in a polyether ether ketone (PEEK) enclosure which is compatible with both animal and human use (e.g. sterilizable). The entire system consumes 17mA from a 1.2Ahr 3.6V Li-SOCl2 1/2AA battery, which operates the device for more than 2 days. The overall system includes a custom RF receiver electronics which are designed to directly interface with any number of commercial (or custom) neural signal processors for multi-channel broadband neural recording. Bench-top measurements and in vivo testing of the device in rhesus macaques are presented to demonstrate the performance of the wireless neural interface.",
+  "authors": [
+    "Yin Ming",
+    "Li Hao",
+    "Bull Christopher",
+    "Borton David A",
+    "Aceros Juan",
+    "Larson Lawrence",
+    "Nurmikko Arto V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2013",
+  "doi": "10.1109/EMBC.2013.6610199",
+  "mesh": [
+    "Action Potentials",
+    "Amplifiers, Electronic",
+    "Animal Experimentation",
+    "Animals",
+    "Animals, Laboratory",
+    "Brain",
+    "Electrodes, Implanted",
+    "Head",
+    "Humans",
+    "Macaca",
+    "Wireless Technology"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "31051108",
+  "title": "Evolving Images for Visual Neurons Using a Deep Generative Network Reveals Coding Principles and Neuronal Preferences.",
+  "abstract": "What specific features should visual neurons encode, given the infinity of real-world images and the limited number of neurons available to represent them? We investigated neuronal selectivity in monkey inferotemporal cortex via the vast hypothesis space of a generative deep neural network, avoiding assumptions about features or semantic categories. A genetic algorithm searched this space for stimuli that maximized neuronal firing. This led to the evolution of rich synthetic images of objects with complex combinations of shapes, colors, and textures, sometimes resembling animals or familiar people, other times revealing novel patterns that did not map to any clear semantic category. These results expand our conception of the dictionary of features encoded in the cortex, and the approach can potentially reveal the internal representations of any system whose input can be captured by a generative model.",
+  "authors": [
+    "Ponce Carlos R",
+    "Xiao Will",
+    "Schade Peter F",
+    "Hartmann Till S",
+    "Kreiman Gabriel",
+    "Livingstone Margaret S"
+  ],
+  "journal": "Cell",
+  "year": "2019",
+  "doi": "10.1016/j.cell.2019.04.005",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cerebral Cortex",
+    "Macaca mulatta",
+    "Male",
+    "Nerve Net",
+    "Neurons",
+    "Temporal Lobe",
+    "Visual Perception"
+  ]
+}

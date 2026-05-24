@@ -1,0 +1,23 @@
+{
+  "pmid": "37225708",
+  "title": "Robust cortical encoding of 3D tongue shape during feeding in macaques.",
+  "abstract": "Dexterous tongue deformation underlies eating, drinking, and speaking. The orofacial sensorimotor cortex has been implicated in the control of coordinated tongue kinematics, but little is known about how the brain encodes-and ultimately drives-the tongue's 3D, soft-body deformation. Here we combine a biplanar x-ray video technology, multi-electrode cortical recordings, and machine-learning-based decoding to explore the cortical representation of lingual deformation. We trained long short-term memory (LSTM) neural networks to decode various aspects of intraoral tongue deformation from cortical activity during feeding in male Rhesus monkeys. We show that both lingual movements and complex lingual shapes across a range of feeding behaviors could be decoded with high accuracy, and that the distribution of deformation-related information across cortical regions was consistent with previous studies of the arm and hand.",
+  "authors": [
+    "Laurence-Chasen Jeffrey D",
+    "Ross Callum F",
+    "Arce-McShane Fritzie I",
+    "Hatsopoulos Nicholas G"
+  ],
+  "journal": "Nature communications",
+  "year": "2023",
+  "doi": "10.1038/s41467-023-38586-3",
+  "mesh": [
+    "Male",
+    "Animals",
+    "Tongue",
+    "Macaca mulatta",
+    "Electrodes",
+    "Feeding Behavior",
+    "Sensorimotor Cortex"
+  ]
+}

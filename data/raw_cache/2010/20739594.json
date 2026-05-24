@@ -1,0 +1,31 @@
+{
+  "pmid": "20739594",
+  "title": "A neural representation of sequential states within an instructed task.",
+  "abstract": "In the study of the neural basis of sensorimotor transformations, it has become clear that the brain does not always wait to sense external events and afterward select the appropriate responses. If there are predictable regularities in the environment, the brain begins to anticipate the timing of instructional cues and the signals to execute a response, revealing an internal representation of the sequential behavioral states of the task being performed. To investigate neural mechanisms that could represent the sequential states of a task, we recorded neural activity from two oculomotor structures implicated in behavioral timing--the supplementary eye fields (SEF) and the lateral intraparietal area (LIP)--while rhesus monkeys performed a memory-guided saccade task. The neurons of the SEF were found to collectively encode the progression of the task with individual neurons predicting and/or detecting states or transitions between states. LIP neurons, while also encoding information about the current temporal interval, were limited with respect to SEF neurons in two ways. First, LIP neurons tended to be active when the monkey was planning a saccade but not in the precue or intertrial intervals, whereas SEF neurons tended to have activity modulation in all intervals. Second, the LIP neurons were more likely to be spatially tuned than SEF neurons. SEF neurons also show anticipatory activity. The state-selective and anticipatory responses of SEF neurons support two complementary models of behavioral timing, state dependent and accumulator models, and suggest that each model describes a contribution SEF makes to timing at different temporal resolutions.",
+  "authors": [
+    "Campos Michael",
+    "Breznen Boris",
+    "Andersen Richard A"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2010",
+  "doi": "10.1152/jn.01124.2009",
+  "mesh": [
+    "Analysis of Variance",
+    "Animals",
+    "Attention",
+    "Brain Mapping",
+    "Cues",
+    "Electrophysiology",
+    "Eye Movement Measurements",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Photic Stimulation",
+    "Saccades",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

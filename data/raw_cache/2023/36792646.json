@@ -1,0 +1,34 @@
+{
+  "pmid": "36792646",
+  "title": "Classification of electrically-evoked potentials in the parkinsonian subthalamic nucleus region.",
+  "abstract": "Electrically evoked compound action potentials (ECAPs) generated in the subthalamic nucleus (STN) contain features that may be useful for titrating deep brain stimulation (DBS) therapy for Parkinson's disease. Delivering a strong therapeutic effect with DBS therapies, however, relies on selectively targeting neural pathways to avoid inducing side effects. In this study, we investigated the spatiotemporal features of ECAPs in and around the STN across parameter sweeps of stimulation current amplitude, pulse width, and electrode configuration, and used a linear classifier of ECAP responses to predict electrode location. Four non-human primates were implanted unilaterally with either a directional (n = 3) or non-directional (n = 1) DBS lead targeting the sensorimotor STN. ECAP responses were characterized by primary features (within 1.6 ms after a stimulus pulse) and secondary features (between 1.6 and 7.4 ms after a stimulus pulse). Using these features, a linear classifier was able to accurately differentiate electrodes within the STN versus dorsal to the STN in all four subjects. ECAP responses varied systematically with recording and stimulating electrode locations, which provides a subject-specific neuroanatomical basis for selecting electrode configurations in the treatment of Parkinson's disease with DBS therapy.",
+  "authors": [
+    "Rosing Joshua",
+    "Doyle Alex",
+    "Brinda AnneMarie",
+    "Blumenfeld Madeline",
+    "Lecy Emily",
+    "Spencer Chelsea",
+    "Dao Joan",
+    "Krieg Jordan",
+    "Wilmerding Kelton",
+    "Sullivan Disa",
+    "Best Sendréa",
+    "Mohanty Biswaranjan",
+    "Wang Jing",
+    "Johnson Luke A",
+    "Vitek Jerrold L",
+    "Johnson Matthew D"
+  ],
+  "journal": "Scientific reports",
+  "year": "2023",
+  "doi": "10.1038/s41598-023-29439-6",
+  "mesh": [
+    "Animals",
+    "Subthalamic Nucleus",
+    "Parkinson Disease",
+    "Evoked Potentials",
+    "Action Potentials",
+    "Deep Brain Stimulation"
+  ]
+}

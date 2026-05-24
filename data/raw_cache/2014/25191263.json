@@ -1,0 +1,14 @@
+{
+  "pmid": "25191263",
+  "title": "Signal-independent timescale analysis (SITA) and its application for neural coding during reaching and walking.",
+  "abstract": "What are the relevant timescales of neural encoding in the brain? This question is commonly investigated with respect to well-defined stimuli or actions. However, neurons often encode multiple signals, including hidden or internal, which are not experimentally controlled, and thus excluded from such analysis. Here we consider all rate modulations as the signal, and define the rate-modulations signal-to-noise ratio (RM-SNR) as the ratio between the variance of the rate and the variance of the neuronal noise. As the bin-width increases, RM-SNR increases while the update rate decreases. This tradeoff is captured by the ratio of RM-SNR to bin-width, and its variations with the bin-width reveal the timescales of neural activity. Theoretical analysis and simulations elucidate how the interactions between the recovery properties of the unit and the spectral content of the encoded signals shape this ratio and determine the timescales of neural coding. The resulting signal-independent timescale analysis (SITA) is applied to investigate timescales of neural activity recorded from the motor cortex of monkeys during: (i) reaching experiments with Brain-Machine Interface (BMI), and (ii) locomotion experiments at different speeds. Interestingly, the timescales during BMI experiments did not change significantly with the control mode or training. During locomotion, the analysis identified units whose timescale varied consistently with the experimentally controlled speed of walking, though the specific timescale reflected also the recovery properties of the unit. Thus, the proposed method, SITA, characterizes the timescales of neural encoding and how they are affected by the motor task, while accounting for all rate modulations.",
+  "authors": [
+    "Zacksenhouse Miriam",
+    "Lebedev Mikhail A",
+    "Nicolelis Miguel A L"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2014",
+  "doi": "10.3389/fncom.2014.00091",
+  "mesh": []
+}

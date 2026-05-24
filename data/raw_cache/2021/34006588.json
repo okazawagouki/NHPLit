@@ -1,0 +1,21 @@
+{
+  "pmid": "34006588",
+  "title": "Encoding of Partially Occluded and Occluding Objects in Primate Inferior Temporal Cortex.",
+  "abstract": "Object segmentation-the process of parsing visual scenes-is essential for object recognition and scene understanding. We investigated how responses of neurons in macaque inferior temporal (IT) cortex contribute to object segmentation under partial occlusion. Specifically, we asked whether IT responses to occluding and occluded objects are bound together as in the visual image or linearly separable reflecting their segmentation. We recorded the activity of 121 IT neurons while two male animals performed a shape discrimination task under partial occlusion. We found that for a majority (60%) of neurons, responses were enhanced by partial occlusion, but they were only weakly shape selective for the discriminanda at all levels of occlusion. Enhancement of IT responses in these neurons depended largely on the area of occlusion but only minimally on the color and shape of the occluding dots. In contrast to the above group of neurons, a sizable minority responded best to the unoccluded stimulus and showed strong selectivity for the shape of the discriminanda. In these neurons, response magnitude and shape selectivity declined with increasing levels of occlusion. Simulations revealed that the response characteristics of both classes of neurons were consistent with a model in which the responses to the occluded shape and the occluders are weighted separately and linearly combined. Overall, our results support the hypothesis that information about occluded and occluding stimuli are linearly separable and easily decodable from IT responses and that IT neurons encode a segmented representation of the visual scene.<b>SIGNIFICANCE STATEMENT</b> Recognizing partially occluded objects can be challenging, yet the primate visual system achieves it rapidly and effortlessly. For successful recognition in the face of occlusion, segmentation of the occluded and occluding objects is a critical first step. Using a combination of experimental data and simulations, here we demonstrate that responses of neurons in macaque IT cortex, the highest stage of the form processing pathway, reflect occluded and occluding stimuli as segmented components and are not bound together as they appear in the visual image. These results support the idea that segmentation and perception of occluded and occluding stimuli are directly mirrored in the responses of neurons in the highest form processing stages.",
+  "authors": [
+    "Namima Tomoyuki",
+    "Pasupathy Anitha"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2021",
+  "doi": "10.1523/JNEUROSCI.2992-20.2021",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Recognition, Psychology",
+    "Temporal Lobe"
+  ]
+}

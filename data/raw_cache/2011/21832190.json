@@ -1,0 +1,27 @@
+{
+  "pmid": "21832190",
+  "title": "Mapping human cortical areas in vivo based on myelin content as revealed by T1- and T2-weighted MRI.",
+  "abstract": "Noninvasively mapping the layout of cortical areas in humans is a continuing challenge for neuroscience. We present a new method of mapping cortical areas based on myelin content as revealed by T1-weighted (T1w) and T2-weighted (T2w) MRI. The method is generalizable across different 3T scanners and pulse sequences. We use the ratio of T1w/T2w image intensities to eliminate the MR-related image intensity bias and enhance the contrast to noise ratio for myelin. Data from each subject were mapped to the cortical surface and aligned across individuals using surface-based registration. The spatial gradient of the group average myelin map provides an observer-independent measure of sharp transitions in myelin content across the surface--i.e., putative cortical areal borders. We found excellent agreement between the gradients of the myelin maps and the gradients of published probabilistic cytoarchitectonically defined cortical areas that were registered to the same surface-based atlas. For other cortical regions, we used published anatomical and functional information to make putative identifications of dozens of cortical areas or candidate areas. In general, primary and early unimodal association cortices are heavily myelinated and higher, multimodal, association cortices are more lightly myelinated, but there are notable exceptions in the literature that are confirmed by our results. The overall pattern in the myelin maps also has important correlations with the developmental onset of subcortical white matter myelination, evolutionary cortical areal expansion in humans compared with macaques, postnatal cortical expansion in humans, and maps of neuronal density in non-human primates.",
+  "authors": [
+    "Glasser Matthew F",
+    "Van Essen David C"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2011",
+  "doi": "10.1523/JNEUROSCI.2180-11.2011",
+  "mesh": [
+    "Adolescent",
+    "Adult",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Female",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Middle Aged",
+    "Myelin Sheath",
+    "Nerve Fibers, Myelinated",
+    "Young Adult"
+  ]
+}

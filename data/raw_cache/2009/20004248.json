@@ -1,0 +1,23 @@
+{
+  "pmid": "20004248",
+  "title": "Effect of hemodynamic variability on Granger causality analysis of fMRI.",
+  "abstract": "In this work, we investigated the effect of the regional variability of the hemodynamic response on the sensitivity of Granger causality (GC) analysis of functional magnetic resonance imaging (fMRI) data to neuronal causal influences. We simulated fMRI data by convolving a standard canonical hemodynamic response function (HRF) with local field potentials (LFPs) acquired from the macaque cortex and manipulated the causal influence and neuronal delays between the LFPs, the hemodynamic delays between the HRFs, the signal-to-noise ratio (SNR), and the sampling period (TR) to assess the effect of each of these factors on the detectability of the neuronal delays from GC analysis of fMRI. In our first bivariate implementation, we assumed the worst-case scenario of the hemodynamic delay being at the empirical upper limit of its normal physiological range and opposing the direction of neuronal delay. We found that, in the absence of HRF confounds, even tens of milliseconds of neuronal delays can be inferred from fMRI. However, in the presence of HRF delays which opposed neuronal delays, the minimum detectable neuronal delay was hundreds of milliseconds. In our second multivariate simulation, we mimicked the real situation more closely by using a multivariate network of four time series and assumed the hemodynamic and neuronal delays to be unknown and drawn from a uniform random distribution. The resulting accuracy of detecting the correct multivariate network from fMRI was well above chance and was up to 90% with faster sampling. Generically, under all conditions, faster sampling and low measurement noise improved the sensitivity of GC analysis of fMRI data to neuronal causality.",
+  "authors": [
+    "Deshpande Gopikrishna",
+    "Sathian K",
+    "Hu Xiaoping"
+  ],
+  "journal": "NeuroImage",
+  "year": "2010",
+  "doi": "10.1016/j.neuroimage.2009.11.060",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Hemodynamics",
+    "Image Processing, Computer-Assisted",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "Neurons"
+  ]
+}

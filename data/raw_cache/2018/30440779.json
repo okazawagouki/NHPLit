@@ -1,0 +1,22 @@
+{
+  "pmid": "30440779",
+  "title": "Decoding hindlimb kinematics from primate motor cortex using long short-term memory recurrent neural networks.",
+  "abstract": "Recent machine learning techniques have become a powerful tool in a variety of tasks, including neural decoding. Deep neural networks, particularly recurrent models, leverage the temporal evolution of neural ensemble activity to decode complex movement and sensory signals. Using single-unit recordings from microelectrode arrays implanted in the leg area of primary motor cortex in non-human primates, we decode the positions and angles of hindlimb joints during a locomotion task using a long short-term memory (LSTM) network. The LSTM decoder improved decoding over traditional filtering methods, such as Wiener and Kalman filters. However, dramatic improvements over other machine learning (e.g. XGBoost) and latent state-space methods were not observed.",
+  "authors": [
+    "Wang Y",
+    "Truccolo W",
+    "Borton D A"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2018",
+  "doi": "10.1109/EMBC.2018.8512609",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Hindlimb",
+    "Motor Cortex",
+    "Neural Networks, Computer",
+    "Primates"
+  ]
+}

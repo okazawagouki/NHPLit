@@ -1,0 +1,30 @@
+{
+  "pmid": "12657699",
+  "title": "Decoding spike trains instant by instant using order statistics and the mixture-of-Poissons model.",
+  "abstract": "In the brain, spike trains are generated in time and presumably also interpreted as they unfold in time. Recent work (Oram et al., 1999; Baker and Lemon, 2000) suggests that in several areas of the monkey brain, individual spike times carry information because they reflect an underlying rate variation. Constructing a model based on this stochastic structure allows us to apply order statistics to decode spike trains instant by instant as spikes arrive or do not. Order statistics are time-consuming to compute in the general case. We demonstrate that data from neurons in primary visual cortex are well fit by a mixture of Poisson processes; in this special case, our computations are substantially faster. In these data, spike timing contributed information beyond that available from the spike count throughout the trial. At the end of the trial, a decoder based on the mixture-of-Poissons model correctly decoded about three times as many trials as expected by chance, compared with approximately twice as many as expected by chance using the spike count only. If our model perfectly described the spike trains, and enough data were available to estimate model parameters, then our Bayesian decoder would be optimal. For four-fifths of the sets of stimulus-elicited responses, the observed spike trains were consistent with the mixture-of-Poissons model. Most of the error in estimating stimulus probabilities is attributable to not having enough data to specify the parameters of the model rather than to misspecification of the model itself.",
+  "authors": [
+    "Wiener Matthew C",
+    "Richmond Barry J"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Bayes Theorem",
+    "Fixation, Ocular",
+    "Haplorhini",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurons",
+    "Photic Stimulation",
+    "Poisson Distribution",
+    "Reproducibility of Results",
+    "Sample Size",
+    "Signal Processing, Computer-Assisted",
+    "Stochastic Processes",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

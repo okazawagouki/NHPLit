@@ -1,0 +1,25 @@
+{
+  "pmid": "35781352",
+  "title": "Integrated neural dynamics for behavioural decisions and attentional competition in the prefrontal cortex.",
+  "abstract": "In the behaving monkey, complex neural dynamics in the prefrontal cortex contribute to context-dependent decisions and attentional competition. We used demixed principal component analysis to track prefrontal activity dynamics in a cued target detection task. In this task, the animal combined identity of a visual object with a prior instruction cue to determine a target/nontarget decision. From population activity, we extracted principal components for each task feature and examined their time course and sensitivity to stimulus and task variations. For displays containing a single choice object in left or right hemifield, object identity, cue identity and decision were all encoded in population activity, with different dynamics and lateralisation. Object information peaked at 100-200 ms from display onset and was largely confined to the contralateral hemisphere. Cue information was weaker and present even prior to display onset. Integrating information from cue and object, decision information arose more slowly and was bilateral. Individual neurons contributed independently to coding of the three task features. The analysis was then extended to displays with a target in one hemifield and a competing distractor in the other. In this case, the data suggest that each hemisphere initially encoded the identity of the contralateral object. The distractor representation was then rapidly suppressed, with the final target decision again encoded bilaterally. The results show how information is coded along task-related dimensions while competition is resolved and suggest how information flows within and across frontal lobes to implement a learned behavioural decision.",
+  "authors": [
+    "Erez Yaara",
+    "Kadohisa Mikiko",
+    "Petrov Philippe",
+    "Sigala Natasha",
+    "Buckley Mark J",
+    "Kusunoki Makoto",
+    "Duncan John"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "2022",
+  "doi": "10.1111/ejn.15757",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Cues",
+    "Photic Stimulation",
+    "Prefrontal Cortex",
+    "Reaction Time"
+  ]
+}

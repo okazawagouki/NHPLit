@@ -1,0 +1,28 @@
+{
+  "pmid": "15165394",
+  "title": "Automated algorithms for multiscale morphometry of neuronal dendrites.",
+  "abstract": "We describe the synthesis of automated neuron branching morphology and spine detection algorithms to provide multiscale three-dimensional morphological analysis of neurons. The resulting software is applied to the analysis of a high-resolution (0.098 microm x 0.098 microm x 0.081 microm) image of an entire pyramidal neuron from layer III of the superior temporal cortex in rhesus macaque monkey. The approach provides a highly automated, complete morphological analysis of the entire neuron; each dendritic branch segment is characterized by several parameters, including branch order, length, and radius as a function of distance along the branch, as well as by the locations, lengths, shape classification (e.g., mushroom, stubby, thin), and density distribution of spines on the branch. Results for this automated analysis are compared to published results obtained by other computer-assisted manual means.",
+  "authors": [
+    "Weaver Christina M",
+    "Hof Patrick R",
+    "Wearne Susan L",
+    "Lindquist W Brent"
+  ],
+  "journal": "Neural computation",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cell Count",
+    "Dendrites",
+    "Electronic Data Processing",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Indoles",
+    "Macaca",
+    "Microscopy, Confocal",
+    "Neocortex",
+    "Pyramidal Cells"
+  ]
+}

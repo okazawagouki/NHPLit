@@ -1,0 +1,15 @@
+{
+  "pmid": "17281582",
+  "title": "Prediction of four degrees of freedom arm movement using EMG signal.",
+  "abstract": "In this paper, we predicted four degrees of freedom movement of a monkey's arm by using a neural network model based on the EMG signal. Through the monkey's reaching task, we measured the electromyograms(EMG) signal from the seven muscles of the arm and simultaneously three dimensional movement trajectory of it. The neural network model used in this study is composed of three layers: the input layer with seven values from the EMG signal of the seven muscles, the middle layer consisted of ten and the output layer of four outputs. The movement predicted by this model was almost the same as the real movement. Besides we could implement no delay interface using the EMG signal that is a fundamental signal from the brain that makes it possible to induce the body's movement. Moreover we can predict not only the external movement of the monkey's arm but also the force of it, which is impossible to be sensed by the external movement sensing devices.",
+  "authors": [
+    "Choi Kyuwan",
+    "Hirose Hideaki",
+    "Iijima Toshio",
+    "Koike Yasuharu"
+  ],
+  "journal": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+  "year": "2005",
+  "doi": "",
+  "mesh": []
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "30986724",
+  "title": "Semi-supervised deep learning of brain tissue segmentation.",
+  "abstract": "Brain image segmentation is of great importance not only for clinical use but also for neuroscience research. Recent developments in deep neural networks (DNNs) have led to the application of DNNs to brain image segmentation, which required extensive human annotations of whole brain images. Annotating three-dimensional brain images requires laborious efforts by expert anatomists because of the differences among images in terms of their dimensionality, noise, contrast, or ambiguous boundaries that even prevent these experts from necessarily attaining consistency. This paper proposes a semi-supervised learning framework to train a DNN based on a relatively small number of annotated (labeled) images, named atlases, but also a relatively large number of unlabeled images by leveraging image registration to attach pseudo-labels to images that were originally unlabeled. We applied our proposed method to two different datasets: open human brain images and our original marmoset brain images. When provided with the same number of atlases for training, we found our method achieved superior and more stable segmentation results than those by existing registration-based and DNN-based methods.",
+  "authors": [
+    "Ito Ryo",
+    "Nakae Ken",
+    "Hata Junichi",
+    "Okano Hideyuki",
+    "Ishii Shin"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2019",
+  "doi": "10.1016/j.neunet.2019.03.014",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Callithrix",
+    "Deep Learning",
+    "Humans",
+    "Imaging, Three-Dimensional",
+    "Neural Networks, Computer",
+    "Supervised Machine Learning"
+  ]
+}

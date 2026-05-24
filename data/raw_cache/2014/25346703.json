@@ -1,0 +1,14 @@
+{
+  "pmid": "25346703",
+  "title": "Neural dynamics of feedforward and feedback processing in figure-ground segregation.",
+  "abstract": "Determining whether a region belongs to the interior or exterior of a shape (figure-ground segregation) is a core competency of the primate brain, yet the underlying mechanisms are not well understood. Many models assume that figure-ground segregation occurs by assembling progressively more complex representations through feedforward connections, with feedback playing only a modulatory role. We present a dynamical model of figure-ground segregation in the primate ventral stream wherein feedback plays a crucial role in disambiguating a figure's interior and exterior. We introduce a processing strategy whereby jitter in RF center locations and variation in RF sizes is exploited to enhance and suppress neural activity inside and outside of figures, respectively. Feedforward projections emanate from units that model cells in V4 known to respond to the curvature of boundary contours (curved contour cells), and feedback projections from units predicted to exist in IT that strategically group neurons with different RF sizes and RF center locations (teardrop cells). Neurons (convex cells) that preferentially respond when centered on a figure dynamically balance feedforward (bottom-up) information and feedback from higher visual areas. The activation is enhanced when an interior portion of a figure is in the RF via feedback from units that detect closure in the boundary contours of a figure. Our model produces maximal activity along the medial axis of well-known figures with and without concavities, and inside algorithmically generated shapes. Our results suggest that the dynamic balancing of feedforward signals with the specific feedback mechanisms proposed by the model is crucial for figure-ground segregation.",
+  "authors": [
+    "Layton Oliver W",
+    "Mingolla Ennio",
+    "Yazdanbakhsh Arash"
+  ],
+  "journal": "Frontiers in psychology",
+  "year": "2014",
+  "doi": "10.3389/fpsyg.2014.00972",
+  "mesh": []
+}

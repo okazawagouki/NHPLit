@@ -1,0 +1,23 @@
+{
+  "pmid": "37828225",
+  "title": "Rapid compensatory plasticity revealed by dynamic correlated activity in monkeys in vivo.",
+  "abstract": "To produce adaptive behavior, neural networks must balance between plasticity and stability. Computational work has demonstrated that network stability requires plasticity mechanisms to be counterbalanced by rapid compensatory processes. However, such processes have yet to be experimentally observed. Here we demonstrate that repeated optogenetic activation of excitatory neurons in monkey visual cortex (area V1) induces a population-wide dynamic reduction in the strength of neuronal interactions over the timescale of minutes during the awake state, but not during rest. This new form of rapid plasticity was observed only in the correlation structure, with firing rates remaining stable across trials. A computational network model operating in the balanced regime confirmed experimental findings and revealed that inhibitory plasticity is responsible for the decrease in correlated activity in response to repeated light stimulation. These results provide the first experimental evidence for rapid homeostatic plasticity that primarily operates during wakefulness, which stabilizes neuronal interactions during strong network co-activation.",
+  "authors": [
+    "Andrei Ariana R",
+    "Akil Alan E",
+    "Kharas Natasha",
+    "Rosenbaum Robert",
+    "Josić Krešimir",
+    "Dragoi Valentin"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2023",
+  "doi": "10.1038/s41593-023-01446-w",
+  "mesh": [
+    "Neuronal Plasticity",
+    "Neurons",
+    "Homeostasis",
+    "Visual Cortex",
+    "Adaptation, Psychological"
+  ]
+}

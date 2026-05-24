@@ -1,0 +1,24 @@
+{
+  "pmid": "31831758",
+  "title": "Analysis of neuronal ensemble activity reveals the pitfalls and shortcomings of rotation dynamics.",
+  "abstract": "Back in 2012, Churchland and his colleagues proposed that \"rotational dynamics\", uncovered through linear transformations of multidimensional neuronal data, represent a fundamental type of neuronal population processing in a variety of organisms, from the isolated leech central nervous system to the primate motor cortex. Here, we evaluated this claim using Churchland's own data and simple simulations of neuronal responses. We observed that rotational patterns occurred in neuronal populations when (1) there was a temporal sequence in peak firing rates exhibited by individual neurons, and (2) this sequence remained consistent across different experimental conditions. Provided that such a temporal order of peak firing rates existed, rotational patterns could be easily obtained using a rather arbitrary computer simulation of neural activity; modeling of any realistic properties of motor cortical responses was not needed. Additionally, arbitrary traces, such as Lissajous curves, could be easily obtained from Churchland's data with multiple linear regression. While these observations suggest that temporal sequences of neuronal responses could be visualized as rotations with various methods, we express doubt about Churchland et al.'s bold assessment that such rotations are related to \"an unexpected yet surprisingly simple structure in the population response\", which \"explains many of the confusing features of individual neural responses\". Instead, we argue that their approach provides little, if any, insight on the underlying neuronal mechanisms employed by neuronal ensembles to encode motor behaviors in any species.",
+  "authors": [
+    "Lebedev Mikhail A",
+    "Ossadtchi Alexei",
+    "Mill Nil Adell",
+    "Urpí Núria Armengol",
+    "Cervera Maria R",
+    "Nicolelis Miguel A L"
+  ],
+  "journal": "Scientific reports",
+  "year": "2019",
+  "doi": "10.1038/s41598-019-54760-4",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Haplorhini",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neurons"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "16189482",
+  "title": "Categorical signals in a single-trial neuron activity of the inferotemporal cortex.",
+  "abstract": "We developed an algorithm that decodes categorical signals from the single-trial activity of a neuronal population in the monkey inferotemporal cortex. We defined a global category (i.e. human faces vs. monkey faces vs. shape) and fine categories (i.e. human identity, monkey expression, and shape form) from the single-trial activity. The accuracy of estimation for the trials was roughly 100% for the global category and 88.1% for the fine categories. The accuracy of stimulus identification for the trials was 70.4%. These results suggest that signals concerning global and fine categories as well as object identification can be decoded using the single-trial activity of a neuronal population in the inferotemporal cortex.",
+  "authors": [
+    "Matsumoto Narihisa",
+    "Sugase-Miyamoto Yasuko",
+    "Okada Masato"
+  ],
+  "journal": "Neuroreport",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Face",
+    "Humans",
+    "Macaca",
+    "Neurons",
+    "Photic Stimulation",
+    "Principal Component Analysis",
+    "Recognition, Psychology",
+    "Temporal Lobe"
+  ]
+}

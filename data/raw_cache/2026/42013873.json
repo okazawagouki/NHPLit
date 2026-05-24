@@ -1,0 +1,24 @@
+{
+  "pmid": "42013873",
+  "title": "Temporal state-space model for forecasting slow-wave EEG power in non-human primates.",
+  "abstract": "<i>Objective.</i>An accurate forecast of longitudinal brain activity is essential for monitoring disease progression. While time-series forecasting has been applied to short-term electroencephalography (EEG) dynamics, the modeling of continuous, longitudinal signals remains largely unexplored. This study addresses this gap by validating an individualized time series forecasting framework based on a trigonometric, box-cox transformation with autoregressive moving average errors and trend and seasonal/periodic components (TBATS) model to predict slow-wave activity (SWA, 0.5-4 Hz) power in EEG collected from cynomolgus monkeys.<i>Approach.</i>We recorded continuous wireless telemetry EEG data from three cynomolgus monkeys for 12 consecutive days. The SWA power was aggregated into hourly bins. We implemented a TBATS model to forecast SWA dynamics and compared its root mean squared errors (RMSE) against a naïve model, Holt-Winters (HW) model, and seasonal autoregressive integrated moving average (SARIMA) model. We then assessed the model validity using residual autocorrelation to evaluate the independence of model residuals. We also applied an expanding window approach to calculate the minimum amount of training data required for accurate model performance.<i>Main results.</i>The TBATS model demonstrated high data efficiency by achieving stable forecasts with as few as 2 d of training data. TBATS demonstrated comparable out-of-sample RMSE values in comparison to SARIMA and HW benchmarks. In contrast to SARIMA and HW, TBATS was the only framework to consistently produce white-noise residuals, which indicated that it captured the latent temporal dynamics of the time series data.<i>Significance.</i>This study demonstrated the TBATS model as a robust and efficient tool for forecasting longitudinal EEG signals. By accurately modeling subject-specific temporal structure with minimal data requirements, this approach provided a practical method for establishing a personalized neural baseline, critical for tracking neurodegeneration or optimizing closed-loop therapies.",
+  "authors": [
+    "Jiang Ruitong",
+    "Murphy Max",
+    "Low Julian",
+    "Weber Douglas J",
+    "Griffin Darcy M"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2026",
+  "doi": "10.1088/1741-2552/ae62a9",
+  "mesh": [
+    "Animals",
+    "Electroencephalography",
+    "Macaca fascicularis",
+    "Forecasting",
+    "Brain",
+    "Male",
+    "Telemetry"
+  ]
+}

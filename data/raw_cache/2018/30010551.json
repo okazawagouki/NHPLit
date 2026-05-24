@@ -1,0 +1,30 @@
+{
+  "pmid": "30010551",
+  "title": "PAT-Probabilistic Axon Tracking for Densely Labeled Neurons in Large 3-D Micrographs.",
+  "abstract": "A major goal of contemporary neuroscience research is to map the structural connectivity of mammalian brain using microscopy imaging data. In this context, the reconstruction of densely labeled axons from two-photon microscopy images is a challenging and important task. The visually overlapping, crossing, and often strongly distorted images of the axons allow many ambiguous interpretations to be made. We address the problem of tracking axons in densely labeled samples of neurons in large image data sets acquired from marmoset brains. Our high-resolution images were acquired using two-photon microscopy and they provided whole brain coverage, occupying terabytes of memory. Both the image distortions and the large data set size frequently make it impractical to apply present-day neuron tracing algorithms to such data due to the optimization of such algorithms to the precise tracing of either single or sparse sets of neurons. Thus, new tracking techniques are needed. We propose a probabilistic axon tracking algorithm (PAT). PAT tackles the tracking of axons in two steps: locally (L-PAT) and globally (G-PAT). L-PAT is a probabilistic tracking algorithm that can tackle distorted, cluttered images of densely labeled axons. L-PAT divides a large micrograph into smaller image stacks. It then processes each image stack independently before mapping the axons in each image to a sparse model of axon trajectories. G-PAT merges the sparse L-PAT models into a single global model of axon trajectories by minimizing a global objective function using a probabilistic optimization method. We demonstrate the superior performance of PAT over standard approaches on synthetic data. Furthermore, we successfully apply PAT to densely labeled axons in large images acquired from marmoset brains.",
+  "authors": [
+    "Skibbe Henrik",
+    "Reisert Marco",
+    "Nakae Ken",
+    "Watakabe Akiya",
+    "Hata Junichi",
+    "Mizukami Hiroaki",
+    "Okano Hideyuki",
+    "Yamamori Tetsuo",
+    "Ishii Shin"
+  ],
+  "journal": "IEEE transactions on medical imaging",
+  "year": "2019",
+  "doi": "10.1109/TMI.2018.2855736",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Axons",
+    "Brain",
+    "Callithrix",
+    "Diffusion Tensor Imaging",
+    "Imaging, Three-Dimensional",
+    "Monte Carlo Method",
+    "Neurons"
+  ]
+}

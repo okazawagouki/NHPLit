@@ -1,0 +1,22 @@
+{
+  "pmid": "38562871",
+  "title": "<i>In vivo</i> optogenetics using a Utah Optrode Array with enhanced light output and spatial selectivity.",
+  "abstract": "Optogenetics allows manipulation of neural circuits <i>in vivo</i> with high spatial and temporal precision. However, combining this precision with control over a significant portion of the brain is technologically challenging (especially in larger animal models). Here, we have developed, optimised, and tested in vivo, the Utah Optrode Array (UOA), an electrically addressable array of optical needles and interstitial sites illuminated by 181 µLEDs and used to optogenetically stimulate the brain. The device is specifically designed for non-human primate studies. Thinning the combined µLED and needle backplane of the device from 300 µm to 230 µm improved the efficiency of light delivery to tissue by 80%, allowing lower µLED drive currents, which improved power management and thermal performance. The spatial selectivity of each site was also improved by integrating an optical interposer to reduce stray light emission. These improvements were achieved using an innovative fabrication method to create an anodically bonded glass/silicon substrate with through-silicon vias etched, forming an optical interposer. Optical modelling was used to demonstrate that the tip structure of the device had a major influence on the illumination pattern. The thermal performance was evaluated through a combination of modelling and experiment, in order to ensure that cortical tissue temperatures did not rise by more than 1°C. The device was tested <i>in vivo</i> in the visual cortex of macaque expressing ChR2-tdTomato in cortical neurons. It was shown that the strongest optogenetic response occurred in the region surrounding the needle tips, and that the extent of the optogenetic response matched the predicted illumination profile based on optical modelling - demonstrating the improved spatial selectivity resulting from the optical interposer approach. Furthermore, different needle illumination sites generated different patterns of low-frequency potential (LFP) activity.",
+  "authors": [
+    "McAlinden Niall",
+    "Reiche Christopher F",
+    "Clark Andrew M",
+    "Scharf Robert",
+    "Cheng Yunzhou",
+    "Sharma Rohit",
+    "Rieth Loren",
+    "Dawson Martin D",
+    "Angelucci Alessandra",
+    "Mathieson Keith",
+    "Blair Steve"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.03.18.585479",
+  "mesh": []
+}

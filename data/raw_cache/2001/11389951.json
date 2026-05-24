@@ -1,0 +1,26 @@
+{
+  "pmid": "11389951",
+  "title": "Detecting precise firing sequences in experimental data.",
+  "abstract": "A precise firing sequence (PFS) is defined here as a sequence of three spikes with fixed delays (up to some time accuracy Delta), that repeat excessively. This paper provides guidelines for detecting PFSs, verifying their significance through surrogate spike trains, and identifying existing PFSs. The method is based on constructing a three-fold correlation among spikes, estimating the expected shape of the correlation by smoothing, and detecting points for which the correlations significantly protrude above the expected correlation. Validation is achieved by generating surrogate spike trains in which the time of each of the real spikes is randomly jittered within a small time window. The method is extensively tested through application to simulated spike trains, and the results are illustrated with recordings of single units in the frontal cortex of behaving monkeys. Pitfalls which may cause false detection of PFSs, or loss of existing PFSs, include searching for PFSs in which the same neuron participates more than once, and attempting to produce a surrogate with some fixed statistical property.",
+  "authors": [
+    "Abeles M",
+    "Gat I"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Central Nervous System",
+    "Electrophysiology",
+    "Haplorhini",
+    "Models, Neurological",
+    "Neurons",
+    "Neurophysiology",
+    "Poisson Distribution",
+    "Reproducibility of Results",
+    "Signal Processing, Computer-Assisted",
+    "Statistics as Topic"
+  ]
+}

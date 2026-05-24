@@ -1,0 +1,20 @@
+{
+  "pmid": "39933318",
+  "title": "Bio-inspired two-stage network for efficient RGB-D salient object detection.",
+  "abstract": "Recently, with the development of the Convolutional Neural Network and Vision Transformer, the detection accuracy of the RGB-D salient object detection (SOD) model has been greatly improved. However, most of the existing methods cannot balance computational efficiency and performance well. In this paper, inspired by the P visual pathway and the M visual pathway in the primate biological visual system, we propose a Bio-inspired Two-stage Network for Efficient RGB-D SOD, named BTNet. It simulates the visual information processing of the P visual pathway and the M visual pathway. Specifically, BTNet contains two stages: region locking and object refinement. Among them, the region locking stage simulates the visual information processing process of the M visual pathway to obtain coarse-grained visual representation. The object refinement stage simulates the visual information processing process of the P visual pathway to obtain fine-grained visual representation. Experimental results show that BTNet outperforms other state-of-the-art methods on six mainstream benchmark datasets, achieving significant parameter reduction and processing 384 × 384 resolution images at a speed of 175.4 Frames Per Second (FPS). Compared with the cutting-edge method CPNet, BTNet reduces parameters by 93.6% and is nearly 7.2 times faster. The source codes are available at https://github.com/ROC-Star/BTNet.",
+  "authors": [
+    "Ren Peng",
+    "Bai Tian",
+    "Sun Fuming"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2025",
+  "doi": "10.1016/j.neunet.2025.107244",
+  "mesh": [
+    "Neural Networks, Computer",
+    "Visual Pathways",
+    "Animals",
+    "Humans",
+    "Pattern Recognition, Visual"
+  ]
+}

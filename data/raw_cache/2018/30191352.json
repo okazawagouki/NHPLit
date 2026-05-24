@@ -1,0 +1,30 @@
+{
+  "pmid": "30191352",
+  "title": "Adjusted regularization of cortical covariance.",
+  "abstract": "It is now common to record dozens to hundreds or more neurons simultaneously, and to ask how the network activity changes across experimental conditions. A natural framework for addressing questions of functional connectivity is to apply Gaussian graphical modeling to neural data, where each edge in the graph corresponds to a non-zero partial correlation between neurons. Because the number of possible edges is large, one strategy for estimating the graph has been to apply methods that aim to identify large sparse effects using an [Formula: see text] penalty. However, the partial correlations found in neural spike count data are neither large nor sparse, so techniques that perform well in sparse settings will typically perform poorly in the context of neural spike count data. Fortunately, the correlated firing for any pair of cortical neurons depends strongly on both their distance apart and the features for which they are tuned. We introduce a method that takes advantage of these known, strong effects by allowing the penalty to depend on them: thus, for example, the connection between pairs of neurons that are close together will be penalized less than pairs that are far apart. We show through simulations that this physiologically-motivated procedure performs substantially better than off-the-shelf generic tools, and we illustrate by applying the methodology to populations of neurons recorded with multielectrode arrays implanted in macaque visual cortex areas V1 and V4.",
+  "authors": [
+    "Vinci Giuseppe",
+    "Ventura Valérie",
+    "Smith Matthew A",
+    "Kass Robert E"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2018",
+  "doi": "10.1007/s10827-018-0692-x",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Interatrial Block",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Pathways",
+    "Neurons",
+    "Photic Stimulation",
+    "ROC Curve",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

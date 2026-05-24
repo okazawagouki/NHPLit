@@ -1,0 +1,23 @@
+{
+  "pmid": "36153356",
+  "title": "Selective modulation of cortical population dynamics during neuroprosthetic skill learning.",
+  "abstract": "Brain-machine interfaces (BMIs) provide a framework for studying how cortical population dynamics evolve over learning in a task in which the mapping between neural activity and behavior is precisely defined. Learning to control a BMI is associated with the emergence of coordinated neural dynamics in populations of neurons whose activity serves as direct input to the BMI decoder (direct subpopulation). While previous work shows differential modification of firing rate modulation in this population relative to a population whose activity was not directly input to the BMI decoder (indirect subpopulation), little is known about how learning-related changes in cortical population dynamics within these groups compare.To investigate this, we monitored both direct and indirect subpopulations as two macaque monkeys learned to control a BMI. We found that while the combined population increased coordinated neural dynamics, this increase in coordination was primarily driven by changes in the direct subpopulation. These findings suggest that motor cortex refines cortical dynamics by increasing neural variance throughout the entire population during learning, with a more pronounced coordination of firing activity in subpopulations that are causally linked to behavior.",
+  "authors": [
+    "Zippi Ellen L",
+    "You Albert K",
+    "Ganguly Karunesh",
+    "Carmena Jose M"
+  ],
+  "journal": "Scientific reports",
+  "year": "2022",
+  "doi": "10.1038/s41598-022-20218-3",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Learning",
+    "Macaca",
+    "Motor Cortex",
+    "Neurons",
+    "Population Dynamics"
+  ]
+}

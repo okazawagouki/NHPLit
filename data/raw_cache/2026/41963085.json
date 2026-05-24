@@ -1,0 +1,29 @@
+{
+  "pmid": "41963085",
+  "title": "Population Dynamics in Songbird RA and HVC During Learned Motor-Vocal Behavior.",
+  "abstract": "Complex, learned motor behaviors involve the coordination of large-scale neural activity across multiple brain regions, but our understanding of population-level neural dynamics within different regions tied to the same behavior remains limited. Here, we investigate the neural population dynamics underlying learned vocal production in awake, singing songbirds. Using Neuropixels probes, we record simultaneous extracellular activity from populations of neurons in two regions of the vocal-motor pathway in adult male zebra finches. In line with observations made in non-human primates during limb-based motor tasks, we show that the population-level activity in both the premotor nucleus HVC and the motor nucleus RA is organized onto low-dimensional neural manifolds upon which coordinated neural activity is captured by temporally structured trajectories during singing behavior. Both HVC and RA latent trajectories carry relevant information to predict vocal sequence transitions between song syllables. However, the dynamics of these latent trajectories differ between regions. Our state-space models suggest a unique and continuous-over-time correspondence between the latent space of RA and vocal output, whereas the corresponding relationship for HVC exhibits a higher degree of neural variability. We demonstrate that high-fidelity reconstruction of continuous vocal outputs can be achieved from both spiking activity and neural latents. However, in contrast to models relying on spiking activity, decoding models leveraging latent dynamics generalize to novel subpopulations in each region, supporting the existence of preserved manifolds that confine vocal-motor activity in HVC and RA.",
+  "authors": [
+    "Tostado-Marcos Pablo",
+    "Arneodo Ezequiel M",
+    "Ostrowski Lauren",
+    "Brown Daril E",
+    "Perez Xavier A",
+    "Kadwory Adam",
+    "Stanwicks Lauren L",
+    "Alothman Abdullah",
+    "Gentner Timothy Q",
+    "Gilja Vikash"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2026",
+  "doi": "10.1523/JNEUROSCI.0580-25.2026",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Vocalization, Animal",
+    "Finches",
+    "Learning",
+    "Neurons",
+    "Population Dynamics"
+  ]
+}

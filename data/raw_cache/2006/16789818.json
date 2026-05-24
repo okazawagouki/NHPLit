@@ -1,0 +1,40 @@
+{
+  "pmid": "16789818",
+  "title": "A community resource benchmarking predictions of peptide binding to MHC-I molecules.",
+  "abstract": "Recognition of peptides bound to major histocompatibility complex (MHC) class I molecules by T lymphocytes is an essential part of immune surveillance. Each MHC allele has a characteristic peptide binding preference, which can be captured in prediction algorithms, allowing for the rapid scan of entire pathogen proteomes for peptide likely to bind MHC. Here we make public a large set of 48,828 quantitative peptide-binding affinity measurements relating to 48 different mouse, human, macaque, and chimpanzee MHC class I alleles. We use this data to establish a set of benchmark predictions with one neural network method and two matrix-based prediction methods extensively utilized in our groups. In general, the neural network outperforms the matrix-based predictions mainly due to its ability to generalize even on a small amount of data. We also retrieved predictions from tools publicly available on the internet. While differences in the data used to generate these predictions hamper direct comparisons, we do conclude that tools based on combinatorial peptide libraries perform remarkably well. The transparent prediction evaluation on this dataset provides tool developers with a benchmark for comparison of newly developed prediction methods. In addition, to generate and evaluate our own prediction methods, we have established an easily extensible web-based prediction framework that allows automated side-by-side comparisons of prediction methods implemented by experts. This is an advance over the current practice of tool developers having to generate reference predictions themselves, which can lead to underestimating the performance of prediction methods they are not as familiar with as their own. The overall goal of this effort is to provide a transparent prediction evaluation allowing bioinformaticians to identify promising features of prediction methods and providing guidance to immunologists regarding the reliability of prediction tools.",
+  "authors": [
+    "Peters Bjoern",
+    "Bui Huynh-Hoa",
+    "Frankild Sune",
+    "Nielson Morten",
+    "Lundegaard Claus",
+    "Kostem Emrah",
+    "Basch Derek",
+    "Lamberth Kasper",
+    "Harndahl Mikkel",
+    "Fleri Ward",
+    "Wilson Stephen S",
+    "Sidney John",
+    "Lund Ole",
+    "Buus Soren",
+    "Sette Alessandro"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Databases, Factual",
+    "HLA Antigens",
+    "Histocompatibility Antigens Class I",
+    "Humans",
+    "Inhibitory Concentration 50",
+    "Macaca",
+    "Mice",
+    "Neural Networks, Computer",
+    "Pan troglodytes",
+    "Peptides",
+    "ROC Curve",
+    "Software"
+  ]
+}

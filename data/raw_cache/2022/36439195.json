@@ -1,0 +1,17 @@
+{
+  "pmid": "36439195",
+  "title": "HOA2.0-ComPaRe: A next generation Harvard-Oxford Atlas comparative parcellation reasoning method for human and macaque individual brain parcellation and atlases of the cerebral cortex.",
+  "abstract": "Comparative structural neuroanatomy is a cornerstone for understanding human brain structure and function. A parcellation framework that relates systematically to fundamental principles of histological organization is an essential step in generating structural comparisons between species. In the present investigation, we developed a comparative parcellation reasoning system (ComPaRe), which is a formal ontological system in human and non-human primate brains based on the cortical cytoarchitectonic mapping used for both species as detailed by Brodmann. ComPaRe provides a theoretical foundation for mapping neural systems in humans and other species using neuroimaging. Based on this approach, we revised the methodology of the original Harvard-Oxford Atlas (HOA) system of brain parcellation to produce a comparative framework for the human (hHOA) and the rhesus monkey (mHOA) brains, which we refer to as HOA2.0-ComPaRe. In addition, we used dedicated segmentation software in the publicly available 3D Slicer platform to parcellate an individual human and rhesus monkey brain. This method produces quantitative morphometric parcellations in the individual brains. Based on these parcellations we created a representative template and 3D brain atlas for the two species, each based on a single subject. Thus, HOA2.0-ComPaRe provides a theoretical foundation for mapping neural systems in humans and other species using neuroimaging, while also representing a significant revision of the original human and macaque monkey HOA parcellation schemas. The methodology and atlases presented here can be used in basic and clinical neuroimaging for morphometric (volumetric) analysis, further generation of atlases, as well as localization of function and structural lesions.",
+  "authors": [
+    "Rushmore Richard Jarrett",
+    "Bouix Sylvain",
+    "Kubicki Marek",
+    "Rathi Yogesh",
+    "Yeterian Edward",
+    "Makris Nikos"
+  ],
+  "journal": "Frontiers in neuroanatomy",
+  "year": "2022",
+  "doi": "10.3389/fnana.2022.1035420",
+  "mesh": []
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "38165748",
+  "title": "An energy-aware heart disease prediction system using ESMO and optimal deep learning model for healthcare monitoring in IoT.",
+  "abstract": "The Internet of Things (IoT), which provides seamless connectivity between people and things, improves our quality of life. In the medical field, predictive analytics can help transform a reactive healthcare (HC) strategy into a proactive one. The HC industry embraces cutting-edge artificial intelligence and machine learning (ML) technologies. ML's area of deep learning has the revolutionary potential to reliably analyze massive volumes of data quickly, produce insightful revelations and solve challenging issues. This article proposes an energy-aware heart disease prediction (HDP) system based on enhanced spider monkey optimization (ESMO) and a weight-optimized neural network for an IoT-based HC environment. The proposed work consists of two essential phases: energy-efficient data transmission and HDP. In energy-efficient transmission, the cluster leaders are optimally selected using ESMO and the cluster formation is done based on Euclidean distance. In HDP, the patient data are collected from the dataset, and essential features are extracted. After that, the dimensionality reduction is carried out using the modified linear discriminant analysis approach to reduce over-fitting issues. Finally, the HDP uses the enhanced Archimedes weight-optimized deep neural network (EAWO-DNN). The simulation findings demonstrate that the proposed optimal clustering mechanism enhances the network's lifespan by consuming minimal energy compared to the existing techniques. Also, the proposed EAWO-DNN classifier achieves higher prediction accuracy, precision, recall and f-measure than the conventional methods for predicting heart disease in IoT.",
+  "authors": [
+    "Sornalakshmi M",
+    "Devakanth J Jude Moses Anto",
+    "Rajalakshmi R",
+    "Velmurugadass P"
+  ],
+  "journal": "Journal of biomolecular structure & dynamics",
+  "year": "2025",
+  "doi": "10.1080/07391102.2023.2298736",
+  "mesh": [
+    "Deep Learning",
+    "Humans",
+    "Heart Diseases",
+    "Neural Networks, Computer",
+    "Internet of Things",
+    "Delivery of Health Care",
+    "Algorithms"
+  ]
+}

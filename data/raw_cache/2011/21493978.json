@@ -1,0 +1,25 @@
+{
+  "pmid": "21493978",
+  "title": "Fast attainment of computer cursor control with noninvasively acquired brain signals.",
+  "abstract": "Brain-computer interface (BCI) systems are allowing humans and non-human primates to drive prosthetic devices such as computer cursors and artificial arms with just their thoughts. Invasive BCI systems acquire neural signals with intracranial or subdural electrodes, while noninvasive BCI systems typically acquire neural signals with scalp electroencephalography (EEG). Some drawbacks of invasive BCI systems are the inherent risks of surgery and gradual degradation of signal integrity. A limitation of noninvasive BCI systems for two-dimensional control of a cursor, in particular those based on sensorimotor rhythms, is the lengthy training time required by users to achieve satisfactory performance. Here we describe a novel approach to continuously decoding imagined movements from EEG signals in a BCI experiment with reduced training time. We demonstrate that, using our noninvasive BCI system and observational learning, subjects were able to accomplish two-dimensional control of a cursor with performance levels comparable to those of invasive BCI systems. Compared to other studies of noninvasive BCI systems, training time was substantially reduced, requiring only a single session of decoder calibration (∼ 20 min) and subject practice (∼ 20 min). In addition, we used standardized low-resolution brain electromagnetic tomography to reveal that the neural sources that encoded observed cursor movement may implicate a human mirror neuron system. These findings offer the potential to continuously control complex devices such as robotic arms with one's mind without lengthy training or surgery.",
+  "authors": [
+    "Bradberry Trent J",
+    "Gentili Rodolphe J",
+    "Contreras-Vidal José L"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2011",
+  "doi": "10.1088/1741-2560/8/3/036010",
+  "mesh": [
+    "Adult",
+    "Algorithms",
+    "Brain Mapping",
+    "Computer Peripherals",
+    "Electroencephalography",
+    "Evoked Potentials, Visual",
+    "Humans",
+    "Male",
+    "User-Computer Interface",
+    "Visual Perception"
+  ]
+}

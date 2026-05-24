@@ -1,0 +1,31 @@
+{
+  "pmid": "31772154",
+  "title": "Digit-tracking as a new tactile interface for visual perception analysis.",
+  "abstract": "Eye-tracking is a valuable tool in cognitive science for measuring how visual processing resources are allocated during scene exploration. However, eye-tracking technology is largely confined to laboratory-based settings, making it difficult to apply to large-scale studies. Here, we introduce a biologically-inspired solution that involves presenting, on a touch-sensitive interface, a Gaussian-blurred image that is locally unblurred by sliding a finger over the display. Thus, the user's finger movements provide a proxy for their eye movements and attention. We validated the method by showing strong correlations between attention maps obtained using finger-tracking vs. conventional optical eye-tracking. Using neural networks trained to predict empirically-derived attention maps, we established that identical high-level features hierarchically drive explorations with either method. Finally, the diagnostic value of digit-tracking was tested in autistic and brain-damaged patients. Rapid yet robust measures afforded by this method open the way to large scale applications in research and clinical settings.",
+  "authors": [
+    "Lio Guillaume",
+    "Fadda Roberta",
+    "Doneddu Giuseppe",
+    "Duhamel Jean-René",
+    "Sirigu Angela"
+  ],
+  "journal": "Nature communications",
+  "year": "2019",
+  "doi": "10.1038/s41467-019-13285-0",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Autism Spectrum Disorder",
+    "Case-Control Studies",
+    "Deep Learning",
+    "Eye Movements",
+    "Fingers",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Macaca",
+    "Male",
+    "Neural Networks, Computer",
+    "Visual Perception",
+    "Young Adult"
+  ]
+}

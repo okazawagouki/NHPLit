@@ -1,0 +1,30 @@
+{
+  "pmid": "27455526",
+  "title": "Control of Redundant Kinematic Degrees of Freedom in a Closed-Loop Brain-Machine Interface.",
+  "abstract": "Brain-machine interface (BMI) systems use signals acquired from the brain to directly control the movement of an actuator, such as a computer cursor or a robotic arm, with the goal of restoring motor function lost due to injury or disease of the nervous system. In BMIs with kinematically redundant actuators, the combination of the task goals and the system under neural control can allow for many equally optimal task solutions. The extent to which kinematically redundant degrees of freedom (DOFs) in a BMI system may be under direct neural control is unknown. To address this question, a Kalman filter was used to decode single- and multi-unit cortical neural activity of two macaque monkeys into the joint velocities of a virtual four-link kinematic chain. Subjects completed movements of the chain's endpoint to instructed target locations within a two-dimensional plane. This system was kinematically redundant for an endpoint movement task, as four DOFs were used to manipulate the 2-D endpoint position. Both subjects successfully performed the task and improved with practice by producing faster endpoint velocity control signals. Kinematic redundancy allowed null movements whereby the individual links of the chain could move in a way that cancels out and does not result in endpoint movement. As the subjects became more proficient at controlling the chain, the amount of null movement also increased. Task performance suffered when the links of the kinematic chain were hidden and only the endpoint was visible. Furthermore, all four DOFs of the joint-velocity control space exhibited task-relevant modulation. The relative usage of each DOF depended on the configuration of the chain, and trials in which the less-prominent DOFs were utilized also had better task performance. Overall, these results indicate that the subjects incorporated the redundant components of the control space into their control strategy. Future BMI systems with kinematic redundancy, such as exoskeletal systems or anthropomorphic robotic arms, may benefit from allowing neural control over redundant configuration dimensions as well as the end-effector.",
+  "authors": [
+    "Moorman Helene G",
+    "Gowda Suraj",
+    "Carmena Jose M"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2017",
+  "doi": "10.1109/TNSRE.2016.2593696",
+  "mesh": [
+    "Animals",
+    "Artificial Limbs",
+    "Biofeedback, Psychology",
+    "Brain-Computer Interfaces",
+    "Computer Simulation",
+    "Electroencephalography",
+    "Exoskeleton Device",
+    "Feedback, Physiological",
+    "Joints",
+    "Macaca mulatta",
+    "Male",
+    "Man-Machine Systems",
+    "Models, Biological",
+    "Robotics",
+    "Task Performance and Analysis"
+  ]
+}

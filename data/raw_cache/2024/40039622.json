@@ -1,0 +1,28 @@
+{
+  "pmid": "40039622",
+  "title": "Spike Neural Network of Motor Cortex Model for Arm Reaching Control.",
+  "abstract": "Motor cortex modeling is crucial for understanding movement planning and execution. While interconnected recurrent neural networks have successfully described the dynamics of neural population activity, most existing methods utilize continuous signal-based neural networks, which do not reflect the biological spike neural signal. To address this limitation, we propose a recurrent spike neural network to simulate motor cortical activity during an arm-reaching task. Specifically, our model is built upon integrate-and-fire spiking neurons with conductance-based synapses. We carefully designed the interconnections of neurons with two different firing time scales - \"fast\" and \"slow\" neurons. Experimental results demonstrate the effectiveness of our method, with the model's neuronal activity in good agreement with monkey's motor cortex data at both single-cell and population levels. Quantitative analysis reveals a correlation coefficient 0.89 between the model's and real data. These results suggest the possibility of multiple timescales in motor cortical control.",
+  "authors": [
+    "Jiang Hongru",
+    "Bu Xiangdong",
+    "Sui Xiaohong",
+    "Tang Huajin",
+    "Pan Xiaochuan",
+    "Chen Yao"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2024",
+  "doi": "10.1109/EMBC53108.2024.10781802",
+  "mesh": [
+    "Motor Cortex",
+    "Arm",
+    "Animals",
+    "Models, Neurological",
+    "Action Potentials",
+    "Humans",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Movement",
+    "Neurons"
+  ]
+}

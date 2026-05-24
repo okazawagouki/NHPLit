@@ -1,0 +1,16 @@
+{
+  "pmid": "37461661",
+  "title": "A machine learning toolbox for the analysis of sharp-wave ripples reveal common features across species.",
+  "abstract": "The study of sharp-wave ripples (SWRs) has advanced our understanding of memory function, and their alteration in neurological conditions such as epilepsy and Alzheimer's disease is considered a biomarker of dysfunction. SWRs exhibit diverse waveforms and properties that cannot be fully characterized by spectral methods alone. Here, we describe a toolbox of machine learning (ML) models for automatic detection and analysis of SWRs. The ML architectures, which resulted from a crowdsourced hackathon, are able to capture a wealth of SWR features recorded in the dorsal hippocampus of mice. When applied to data from the macaque hippocampus, these models were able to generalize detection and revealed shared SWR properties across species. We hereby provide a user-friendly open-source toolbox for model use and extension, which can help to accelerate and standardize SWR research, lowering the threshold for its adoption in biomedical applications.",
+  "authors": [
+    "Navas-Olive Andrea",
+    "Rubio Adrian",
+    "Abbaspoor Saman",
+    "Hoffman Kari L",
+    "de la Prida Liset M"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2023",
+  "doi": "10.1101/2023.07.02.547382",
+  "mesh": []
+}

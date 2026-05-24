@@ -1,0 +1,26 @@
+{
+  "pmid": "9636117",
+  "title": "Model of cortical-basal ganglionic processing: encoding the serial order of sensory events.",
+  "abstract": "Several lines of evidence suggest that the prefrontal (PF) cortex and basal ganglia are important in cognitive aspects of serial order in behavior. We present a modular neural network model of these areas that encodes the serial order of events into spatial patterns of PF activity. The model is based on the topographically specific circuits linking the PF with the basal ganglia. Each module traces a pathway from the PF, through the basal ganglia and thalamus, and back to the PF. The complete model consists of an array of modules interacting through recurrent corticostriatal projections and collateral inhibition between striatal spiny units. The model's architecture positions spiny units for the classification of cortical contexts and events and provides bistable cortical-thalamic loops for sustaining a representation of these contextual events in working memory activations. The model was tested with a simulated version of a delayed-sequencing task. In single-unit studies, the task begins with the presentation of a sequence of target lights. After a short delay, the monkey must touch the targets in the order in which they were presented. When instantiated with randomly distributed corticostriatal weights, the model produces different patterns of PF activation in response to different target sequences. These patterns represent an unambiguous and spatially distributed encoding of the sequence. Parameter studies of these random networks were used to compare the computational consequences of collateral and feed-forward inhibition within the striatum. In addition, we studied the receptive fields of 20,640 model units and uncovered an interesting set of cue-, rank- and sequence-related responses that qualitatively resemble responses reported in single unit studies of the PF. The majority of units respond to more than one sequence of stimuli. A method for analyzing serial receptive fields is presented and utilized for comparing the model units to single-unit data.",
+  "authors": [
+    "Beiser D G",
+    "Houk J C"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Basal Ganglia",
+    "Cerebral Cortex",
+    "Electric Stimulation",
+    "Electrophysiology",
+    "Globus Pallidus",
+    "Membrane Potentials",
+    "Models, Neurological",
+    "Nerve Net",
+    "Sensation",
+    "Synapses",
+    "Thalamus"
+  ]
+}

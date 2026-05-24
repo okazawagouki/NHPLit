@@ -1,0 +1,25 @@
+{
+  "pmid": "21562200",
+  "title": "Statistics of visual responses in primate inferotemporal cortex to object stimuli.",
+  "abstract": "We have characterized selectivity and sparseness in anterior inferotemporal cortex, using a large data set. Responses were collected from 674 monkey inferotemporal cells, each stimulated by 806 object photographs. This 806 × 674 matrix was examined in two ways: columnwise, looking at responses of a single neuron to all images (single-neuron selectivity), and rowwise, looking at the responses of all neurons caused by a single image (population sparseness). Selectivity and sparseness were measured as kurtosis of probability distributions. Population sparseness exceeded single-neuron selectivity, with specific values dependent on the size of the data sample. This difference was principally caused by inclusion, within the population, of neurons with a variety of dynamic ranges (standard deviations of responses over all images). Statistics of large responses were examined by quantifying how quickly the upper tail of the probability distribution decreased (tail heaviness). This analysis demonstrated that population responses had heavier tails than single-neuron responses, consistent with the difference between sparseness and selectivity measurements. Population responses with spontaneous activity subtracted had the heaviest tails, following a power law. The very light tails of single-neuron responses indicate that the critical feature for each neuron is simple enough to have a high probability of occurring within a limited stimulus set. Heavy tails of population responses indicate that there are a large number of different critical features to which different neurons are tuned. These results are inconsistent with some structural models of object recognition that posit that objects are decomposed into a small number of standard features.",
+  "authors": [
+    "Lehky Sidney R",
+    "Kiani Roozbeh",
+    "Esteky Hossein",
+    "Tanaka Keiji"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2011",
+  "doi": "10.1152/jn.00990.2010",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Macaca mulatta",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Random Allocation",
+    "Temporal Lobe",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

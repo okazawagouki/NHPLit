@@ -1,0 +1,23 @@
+{
+  "pmid": "14561456",
+  "title": "Identification of prosodic attitudes by a temporal recurrent network.",
+  "abstract": "Human speakers modulate the fundamental frequency (F0) of their utterances in order to express different 'prosodic' attitudes such as surprise or curiosity. How are these prosodic attitudes then decoded? The current research addresses the issue of how the temporal structure of F0 can be used in order to discriminate between prosodic attitudes in natural language using a temporal recurrent neural network (TRN) that was initially developed to simulate the neurophysiology of the primate frontostriatal system. In the TRN, a recurrent network of leaky integrator neurons encodes a continuous trajectory of internal states that characterizes the input sequence. The input to the model is a population coding of the continuous, time-varying values of the fundamental frequency (F0) of natural language sentences. We expose the model to an experiment based on one in which human subjects were required to discriminate between different prosodic attitudes (surprise, exclamation, question, etc.). After training, the model discriminates between six prosodic attitudes in new sentences at 82.52% correct, compared to 72.8% correct for human subjects. These results reveal (1) that F0 provides relevant information for prosodic attitude discrimination, and (2) that the TRN demonstrates a categorical sensitivity to this information that can be used for classifying new sentences.",
+  "authors": [
+    "Blanc Jean-Marc",
+    "Dominey Peter Ford"
+  ],
+  "journal": "Brain research. Cognitive brain research",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Attitude",
+    "Discrimination, Psychological",
+    "Expressed Emotion",
+    "Humans",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Speech",
+    "Speech Perception"
+  ]
+}

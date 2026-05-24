@@ -1,0 +1,26 @@
+{
+  "pmid": "7703687",
+  "title": "Analysis of retinotopic maps in extrastriate cortex.",
+  "abstract": "Two new techniques for analyzing retinotopic maps--arrow diagrams and visual field sign maps--are demonstrated with a large electrophysiological mapping data set from owl monkey extrastriate visual cortex. An arrow diagram (vectors indicating receptive field centers placed at cortical coordinates) provides a more compact and understandable representation of retinotopy than does a standard receptive field chart (accompanied by a penetration map) or a double contour map (e.g., isoeccentricity and isopolar angle as a function of cortical x, y-coordinates). None of these three representational techniques, however, make separate areas easily visible, especially in data sets containing numerous areas with partial, distorted representations of the visual hemifield. Therefore, we computed visual field sign maps (non-mirror-image vs mirror-image visual field representation) from the angle between the direction of the cortical gradient in receptive field eccentricity and the cortical gradient in receptive field angle for each small region of the cortex. Visual field sign is a local measure invariant to cortical map orientation and distortion but also to choice of receptive field coordinate system. To estimate the gradients, we first interpolated the eccentricity and polar angle data onto regular grids using a distance-weighted smoothing algorithm. The visual field sign technique provides a more objective method for using retinotopy to outline multiple visual areas. In order to relate these arrow and visual field sign maps accurately to architectonic features visualized in the stained, flattened cortex, we also developed a deformable template algorithm for warping the photograph-derived penetration map using the final observed location of a set of marking lesions.",
+  "authors": [
+    "Sereno M I",
+    "McDonald C T",
+    "Allman J M"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "1994",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Aotidae",
+    "Brain Mapping",
+    "Electrophysiology",
+    "Occipital Lobe",
+    "Parietal Lobe",
+    "Photic Stimulation",
+    "Retina",
+    "Visual Cortex",
+    "Visual Fields"
+  ]
+}

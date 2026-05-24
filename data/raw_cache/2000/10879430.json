@@ -1,0 +1,19 @@
+{
+  "pmid": "10879430",
+  "title": "Conditions for noise reduction and stable encoding of spatial structure by cortical neural networks.",
+  "abstract": "Cortical circuits have been proposed to encode information by forming stable spatially structured attractors. Experimentally in the primary somatosensory cortex of the monkey, temporally invariant stimuli lead to spatially structured activity patterns. The purpose of this work is to study a recurrent cortical neural network model with lateral inhibition and examine what effect additive random noise has on the networks' ability to form stable spatially structured representations of the stimulus pattern. We show numerically that this network performs edge enhancement and forms statistically stationary, spatially structured responses when the lateral inhibition is of moderate strength. We then derive analytical conditions on the connectivity matrix that ensure stochasticly stable encoding of the stimulus spatial structure by the network. For stimuli whose strength falls in the near linear region of the sigmoid, we are able to give explicit conditions on the eigenvalues of the connection matrix. Finally, we prove that a network with a connection matrix, where the total excitation and inhibition impinging upon a neural unit are nearly balanced, will yield stable spatial attractor responses.",
+  "authors": [
+    "Gutkin B S",
+    "Smith C E"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Models, Biological",
+    "Nerve Net",
+    "Somatosensory Cortex"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "21659018",
+  "title": "EMG prediction from motor cortical recordings via a nonnegative point-process filter.",
+  "abstract": "A constrained point-process filtering mechanism for prediction of electromyogram (EMG) signals from multichannel neural spike recordings is proposed here. Filters from the Kalman family are inherently suboptimal in dealing with non-Gaussian observations, or a state evolution that deviates from the Gaussianity assumption. To address these limitations, we modeled the non-Gaussian neural spike train observations by using a generalized linear model that encapsulates covariates of neural activity, including the neurons' own spiking history, concurrent ensemble activity, and extrinsic covariates (EMG signals). In order to predict the envelopes of EMGs, we reformulated the Kalman filter in an optimization framework and utilized a nonnegativity constraint. This structure characterizes the nonlinear correspondence between neural activity and EMG signals reasonably. The EMGs were recorded from 12 forearm and hand muscles of a behaving monkey during a grip-force task. In the case of limited training data, the constrained point-process filter improved the prediction accuracy when compared to a conventional Wiener cascade filter (a linear causal filter followed by a static nonlinearity) for different bin sizes and delays between input spikes and EMG output. For longer training datasets, results of the proposed filter and that of the Wiener cascade filter were comparable.",
+  "authors": [
+    "Nazarpour Kianoush",
+    "Ethier Christian",
+    "Paninski Liam",
+    "Rebesco James M",
+    "Miall R Chris",
+    "Miller Lee E"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2012",
+  "doi": "10.1109/TBME.2011.2159115",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Databases, Factual",
+    "Electrodes, Implanted",
+    "Electromyography",
+    "Forearm",
+    "Hand",
+    "Linear Models",
+    "Macaca mulatta",
+    "Man-Machine Systems",
+    "Motor Cortex",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

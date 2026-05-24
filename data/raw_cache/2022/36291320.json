@@ -1,0 +1,16 @@
+{
+  "pmid": "36291320",
+  "title": "Visual-Based Spatial Coordinate Dominates Probabilistic Multisensory Inference in Macaque MST-d Disparity Encoding.",
+  "abstract": "Numerous studies have demonstrated that animal brains accurately infer whether multisensory stimuli are from a common source or separate sources. Previous work proposed that the multisensory neurons in the dorsal medial superior temporal area (MST-d) serve as integration or separation encoders determined by the tuning-response ratio. However, it remains unclear whether MST-d neurons mainly take a sense input as a spatial coordinate reference for carrying out multisensory integration or separation. Our experimental analysis shows that the preferred tuning response to visual input is generally larger than vestibular according to the Macaque MST-d neuronal recordings. This may be crucial to serving as the base of coordinate reference when the subject perceives moving direction information from two senses. By constructing a flexible Monte-Carlo probabilistic sampling (fMCS) model, we validate this hypothesis that the visual and vestibular cues are more likely to be integrated into a visual-based coordinate rather than vestibular. Furthermore, the property of the tuning gradient also affects decision-making regarding whether the cues should be integrated or not. To a dominant modality, an effective decision is produced by a steep response-tuning gradient of the corresponding neurons, while to a subordinate modality a steep tuning gradient produces a rigid decision with a significant bias to either integration or separation. This work proposes that the tuning response amplitude and tuning gradient jointly modulate which modality serves as the base coordinate for the reference frame and the direction change with which modality is decoded effectively.",
+  "authors": [
+    "Zhang Jiawei",
+    "Huang Mingyi",
+    "Gu Yong",
+    "Chen Aihua",
+    "Yu Yuguo"
+  ],
+  "journal": "Brain sciences",
+  "year": "2022",
+  "doi": "10.3390/brainsci12101387",
+  "mesh": []
+}

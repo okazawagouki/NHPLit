@@ -1,0 +1,23 @@
+{
+  "pmid": "8833074",
+  "title": "An investigation of the mechanics of tactile sense using two-dimensional models of the primate fingertip.",
+  "abstract": "Tactile information about an object in contact with the skin surface is contained in the spatio-temporal load distribution on the skin, the corresponding stresses and strains at mechanosensitive receptor locations within the skin, and the associated pattern of electrical impulses produced by the receptor population. At present, although the responses of the receptors to known stimuli can be recorded, no experimental techniques exist to observe either the load distribution on the skin or the corresponding stress-state at the receptor locations. In this paper, the role of mechanics in the neural coding of tactile information is investigated using simple models of the primate fingertip. Four models that range in geometry from a semi-infinite medium to a cylindrical finger with a rigid bone, and composed of linear elastic media, are analyzed under plane strain conditions using the finite element method. The results show that the model geometry has a significant influence on the surface load distribution as well as the subsurface stress and strain fields for a given mechanical stimulus. The elastic medium acts like a spatial low pass filter with the property that deeper the receptor location, the more blurred the tactile information. None of the models predicted the experimentally observed surface deflection profiles under line loads as closely as a simple heterogeneous waterbed model that treated the fingerpad as a membrane enclosing an incompressible fluid (Srinivasan, 1989). This waterbed model, however, predicted a uniform state of stress inside the fingertip and thus failed to explain the spatial variations observed in the neural response. For the cylindrical model indented by rectangular gratings, the maximum compressive strain and strain energy density at typical receptor locations emerged as the two strain measures that were directly related to the electrophysiologically recorded response rate of slowly adapting type I (SAI) mechanoreceptors. Strain energy density is a better candidate to be the relevant stimulus for SAIs, since it is a scalar that is invariant with respect to receptor orientations and is a direct measure of the distortion of the receptor caused by the loads imposed on the skin.",
+  "authors": [
+    "Srinivasan M A",
+    "Dandekar K"
+  ],
+  "journal": "Journal of biomechanical engineering",
+  "year": "1996",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Fingers",
+    "Mechanoreceptors",
+    "Models, Biological",
+    "Primates",
+    "Stress, Mechanical",
+    "Surface Properties",
+    "Touch"
+  ]
+}

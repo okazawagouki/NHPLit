@@ -1,0 +1,26 @@
+{
+  "pmid": "20079853",
+  "title": "Contrast-dependence of surround suppression in Macaque V1: experimental testing of a recurrent network model.",
+  "abstract": "Neuronal responses in primary visual cortex (V1) to optimally oriented high-contrast stimuli in the receptive field (RF) center are suppressed by stimuli in the RF surround, but can be facilitated when the RF center is stimulated at low contrast. The neural circuits and mechanisms for surround modulation are still unknown. We previously proposed that topdown feedback connections mediate suppression from the \"far\" surround, while \"near' surround suppression is mediated primarily by horizontal connections. We implemented this idea in a recurrent network model of V1. A model assumption needed to account for the contrast-dependent sign of surround modulation is a response asymmetry between excitation and inhibition; accordingly, inhibition, but not excitation, is silent for weak visual inputs to the RF center, and surround stimulation can evoke facilitation. A prediction stemming from this same assumption is that surround suppression is weaker for low than for high contrast stimuli in the RF center. Previous studies are inconsistent with this prediction. Using single unit recordings in macaque V1, we confirm this model's prediction. Model simulations demonstrate that our results can be reconciled with those from previous studies. We also performed a systematic comparison of the experimentally measured surround suppression strength with predictions of the model operated in different parameter regimes. We find that the original model, with strong horizontal and no feedback excitation of local inhibitory neurons, can only partially account quantitatively for the experimentally measured suppression. Strong direct feedback excitation of V1 inhibitory neurons is necessary to account for the experimentally measured surround suppression strength.",
+  "authors": [
+    "Schwabe Lars",
+    "Ichida Jennifer M",
+    "Shushruth S",
+    "Mangapathy Pradeep",
+    "Angelucci Alessandra"
+  ],
+  "journal": "NeuroImage",
+  "year": "2010",
+  "doi": "10.1016/j.neuroimage.2010.01.032",
+  "mesh": [
+    "Animals",
+    "Macaca fascicularis",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Patch-Clamp Techniques",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "24110920",
+  "title": "Feature extraction and unsupervised classification of neural population reward signals for reinforcement based BMI.",
+  "abstract": "New reinforcement based paradigms for building adaptive decoders for Brain-Machine Interfaces involve using feedback directly from the brain. In this work, we investigated neuromodulation in the Nucleus Accumbens (reward center) during a multi-target reaching task and investigated how to extract a reinforcing or non-reinforcing signal that could be used to adapt a BMI decoder. One of the challenges in brain-driven adaptation is how to translate biological neuromodulation into a single binary signal from the distributed representation of the neural population, which may encode many aspects of reward. To extract these signals, feature analysis and clustering were used to identify timing and coding properties of a user's neuromodulation related to reward perception. First, Principal Component Analysis (PCA) of reward related neural signals was used to extract variance in the firing and the optimum time correlation between the neural signal and the reward phase of the task. Next, k-means clustering was used to separate data into two classes.",
+  "authors": [
+    "Prins Noeline W",
+    "Geng Shijia",
+    "Pohlmeyer Eric A",
+    "Mahmoudi Babak",
+    "Sanchez Justin C"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2013",
+  "doi": "10.1109/EMBC.2013.6610733",
+  "mesh": [
+    "Animals",
+    "Biofeedback, Psychology",
+    "Body Mass Index",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Callithrix",
+    "Cluster Analysis",
+    "Nucleus Accumbens",
+    "Principal Component Analysis",
+    "Reinforcement, Psychology",
+    "Reward"
+  ]
+}

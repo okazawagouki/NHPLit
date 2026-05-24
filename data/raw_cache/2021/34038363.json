@@ -1,0 +1,23 @@
+{
+  "pmid": "34038363",
+  "title": "Deep Pinsker and James-Stein Neural Networks for Decoding Motor Intentions From Limited Data.",
+  "abstract": "Non-parametric regression has been shown to be useful in extracting relevant features from Local Field Potential (LFP) signals for decoding motor intentions. Yet, in many instances, brain-computer interfaces (BCIs) rely on simple classification methods, circumventing deep neural networks (DNNs) due to limited training data. This paper leverages the robustness of several important results in non-parametric regression to harness the potentials of deep learning in limited data setups. We consider a solution that combines Pinsker's theorem as well as its adaptively optimal counterpart due to James-Stein for feature extraction from LFPs, followed by a DNN for classifying motor intentions. We apply our approach to the problem of decoding eye movement intentions from LFPs collected in macaque cortex while the animals perform memory-guided visual saccades to one of eight target locations. The results demonstrate that a DNN classifier trained over the Pinsker features outperforms the benchmark method based on linear discriminant analysis (LDA) trained over the same features.",
+  "authors": [
+    "Angjelichinoski Marko",
+    "Soltani Mohammadreza",
+    "Choi John",
+    "Pesaran Bijan",
+    "Tarokh Vahid"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2021",
+  "doi": "10.1109/TNSRE.2021.3083755",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Eye Movements",
+    "Intention",
+    "Movement",
+    "Neural Networks, Computer"
+  ]
+}

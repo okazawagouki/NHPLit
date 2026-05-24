@@ -1,0 +1,23 @@
+{
+  "pmid": "34767448",
+  "title": "Automated audiovisual behavior recognition in wild primates.",
+  "abstract": "Large video datasets of wild animal behavior are crucial to produce longitudinal research and accelerate conservation efforts; however, large-scale behavior analyses continue to be severely constrained by time and resources. We present a deep convolutional neural network approach and fully automated pipeline to detect and track two audiovisually distinctive actions in wild chimpanzees: buttress drumming and nut cracking. Using camera trap and direct video recordings, we train action recognition models using audio and visual signatures of both behaviors, attaining high average precision (buttress drumming: 0.87 and nut cracking: 0.85), and demonstrate the potential for behavioral analysis using the automatically parsed video. Our approach produces the first automated audiovisual action recognition of wild primate behavior, setting a milestone for exploiting large datasets in ethology and conservation.",
+  "authors": [
+    "Bain Max",
+    "Nagrani Arsha",
+    "Schofield Daniel",
+    "Berdugo Sophie",
+    "Bessa Joana",
+    "Owen Jake",
+    "Hockings Kimberley J",
+    "Matsuzawa Tetsuro",
+    "Hayashi Misato",
+    "Biro Dora",
+    "Carvalho Susana",
+    "Zisserman Andrew"
+  ],
+  "journal": "Science advances",
+  "year": "2021",
+  "doi": "10.1126/sciadv.abi4883",
+  "mesh": []
+}

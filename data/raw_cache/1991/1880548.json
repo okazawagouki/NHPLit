@@ -1,0 +1,25 @@
+{
+  "pmid": "1880548",
+  "title": "The response of area MT and V1 neurons to transparent motion.",
+  "abstract": "An important use of motion information is to segment a complex visual scene into surfaces and objects. Transparent motions present a particularly difficult problem for segmentation because more than one velocity vector occurs at each local region in the image, and current machine vision systems fail in these circumstances. The fact that motion transparency is prevalent in natural scenes, and yet artificial systems display an inability to analyze it, suggests that the primate visual system has developed specialized methods for perceiving transparent motion. Also, the currently prevalent model of physiological mechanisms for motion-direction selectivity employs inhibitory interactions between neurons; such interactions would silence neurons under transparent conditions and render the visual system blind to transparent motion. To examine how the primate visual system solves this transparency problem, we recorded the activity of direction-selective cells in the first (area V1) and in a later (area MT) stage in the cortical motion-processing pathway in behaving monkeys. The visual stimuli consisted of random dot patterns forming single moving surfaces, transparent surfaces, and motion discontinuities. We found that area V1 cells responded to their preferred direction of movement even under transparent conditions, whereas area MT cells were suppressed under the transparent condition. These data suggest a simple solution to the transparency problem at the level of area V1. More than one motion vector can be represented at a single retinal location by different subpopulations of neurons tuned to different directions of motion; these subpopulations may represent the early stage for segmenting different, transparent surfaces. The results also suggest that facilitatory mechanisms, which unlike inhibitory interactions are largely unaffected by transparent conditions, play an important role in direction selectivity in area V1. The inhibitory interactions for different motion directions for area MT neurons may contribute to a mechanism for smoothing or averaging the velocity field, computations thought to be necessary for reducing noise and interpolating moving surfaces from sparse information.",
+  "authors": [
+    "Snowden R J",
+    "Treue S",
+    "Erickson R G",
+    "Andersen R A"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1991",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Electrophysiology",
+    "Macaca mulatta",
+    "Male",
+    "Motion",
+    "Motion Perception",
+    "Neurons",
+    "Retina",
+    "Visual Cortex"
+  ]
+}

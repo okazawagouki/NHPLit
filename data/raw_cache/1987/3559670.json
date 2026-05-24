@@ -1,0 +1,26 @@
+{
+  "pmid": "3559670",
+  "title": "Temporal encoding of two-dimensional patterns by single units in primate inferior temporal cortex. III. Information theoretic analysis.",
+  "abstract": "Ablation and single-unit studies in primates have shown that inferior temporal (IT) cortex is important for pattern discrimination. The first paper in this series suggested that single units in IT cortex of alert monkeys respond to a set of two-dimensional patterns with complex temporal modulation of their spike trains. The second paper quantified the waveform of the modulated responses of IT neurons with principal components and demonstrated that the coefficients of two to four of the principal components were stimulus dependent. Although the coefficients of the principal components are uncorrelated, it is possible that they are not statistically independent. That is, several coefficients could be determined by the same feature of the stimulus, and thus could be conveying the same information. The final part of this study examined this issue by comparing the amount of information about the stimulus that can be conveyed by two codes: a temporal waveform code derived from the coefficients of the first three principal components and a mean rate code derived from the spike count. We considered the neuron to be an information channel conveying messages about stimulus parameters. Previous applications of information theory to neurophysiology have dealt either with the theoretical capacity of neuronal channels or the temporal distribution of information within the spike train. This previous work usually used a general binary code to represent the spike train of a neuron's response. Such a general approach yields no indication of the nature of the neuron's intrinsic coding scheme because it depends only on the timing of spikes in the response. In particular, it is independent of any statistical properties of the responses. Our approach uses the principal components of the response waveform to derive a code for representing information about the stimuli. We regard this code as an indication of the neuron's intrinsic coding scheme, because it is based on the statistical properties of the neuronal responses. We measured how much information about the stimulus was present in the neuron's responses. This transmitted information was calculated for codes based on either the spike count or on the first three principal components of the response waveform. The information transmitted by each of the first three principal components was largely independent of that transmitted by the others. It was found that the average amount of information transmitted by the principal components was about twice as large as that transmitted by the spike count.(ABSTRACT TRUNCATED AT 400 WORDS)",
+  "authors": [
+    "Optican L M",
+    "Richmond B J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1987",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Electrophysiology",
+    "Form Perception",
+    "Information Theory",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Models, Psychological",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Probability",
+    "Temporal Lobe",
+    "Time Factors"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "25035965",
+  "title": "Hierarchical Adaptive Means (HAM) clustering for hardware-efficient, unsupervised and real-time spike sorting.",
+  "abstract": "This work presents a novel unsupervised algorithm for real-time adaptive clustering of neural spike data (spike sorting). The proposed Hierarchical Adaptive Means (HAM) clustering method combines centroid-based clustering with hierarchical cluster connectivity to classify incoming spikes using groups of clusters. It is described how the proposed method can adaptively track the incoming spike data without requiring any past history, iteration or training and autonomously determines the number of spike classes. Its performance (classification accuracy) has been tested using multiple datasets (both simulated and recorded) achieving a near-identical accuracy compared to k-means (using 10-iterations and provided with the number of spike classes). Also, its robustness in applying to different feature extraction methods has been demonstrated by achieving classification accuracies above 80% across multiple datasets. Last but crucially, its low complexity, that has been quantified through both memory and computation requirements makes this method hugely attractive for future hardware implementation.",
+  "authors": [
+    "Paraskevopoulou Sivylla E",
+    "Wu Di",
+    "Eftekhar Amir",
+    "Constandinou Timothy G"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2014",
+  "doi": "10.1016/j.jneumeth.2014.07.004",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Basal Ganglia",
+    "Cerebral Cortex",
+    "Cluster Analysis",
+    "Computer Simulation",
+    "Computers",
+    "Databases, Factual",
+    "Female",
+    "Humans",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons",
+    "Pattern Recognition, Automated",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

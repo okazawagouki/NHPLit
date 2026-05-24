@@ -1,0 +1,27 @@
+{
+  "pmid": "16838020",
+  "title": "A high-performance brain-computer interface.",
+  "abstract": "Recent studies have demonstrated that monkeys and humans can use signals from the brain to guide computer cursors. Brain-computer interfaces (BCIs) may one day assist patients suffering from neurological injury or disease, but relatively low system performance remains a major obstacle. In fact, the speed and accuracy with which keys can be selected using BCIs is still far lower than for systems relying on eye movements. This is true whether BCIs use recordings from populations of individual neurons using invasive electrode techniques or electroencephalogram recordings using less- or non-invasive techniques. Here we present the design and demonstration, using electrode arrays implanted in monkey dorsal premotor cortex, of a manyfold higher performance BCI than previously reported. These results indicate that a fast and accurate key selection system, capable of operating with a range of keyboard sizes, is possible (up to 6.5 bits per second, or approximately 15 words per minute, with 96 electrodes). The highest information throughput is achieved with unprecedentedly brief neural recordings, even as recording quality degrades over time. These performance results and their implications for system design should substantially increase the clinical viability of BCIs in humans.",
+  "authors": [
+    "Santhanam Gopal",
+    "Ryu Stephen I",
+    "Yu Byron M",
+    "Afshar Afsheen",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Nature",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Bionics",
+    "Brain",
+    "Brain Injuries",
+    "Electrodes",
+    "Humans",
+    "Macaca mulatta",
+    "Prostheses and Implants",
+    "Psychomotor Performance",
+    "User-Computer Interface"
+  ]
+}

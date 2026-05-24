@@ -1,0 +1,20 @@
+{
+  "pmid": "33212575",
+  "title": "Characterizing spreading dynamics of subsampled systems with nonstationary external input.",
+  "abstract": "Many systems with propagation dynamics, such as spike propagation in neural networks and spreading of infectious diseases, can be approximated by autoregressive models. The estimation of model parameters can be complicated by the experimental limitation that one observes only a fraction of the system (subsampling) and potentially time-dependent parameters, leading to incorrect estimates. We show analytically how to overcome the subsampling bias when estimating the propagation rate for systems with certain nonstationary external input. This approach is readily applicable to trial-based experimental setups and seasonal fluctuations as demonstrated on spike recordings from monkey prefrontal cortex and spreading of norovirus and measles.",
+  "authors": [
+    "de Heuvel Jorge",
+    "Wilting Jens",
+    "Becker Moritz",
+    "Priesemann Viola",
+    "Zierenberg Johannes"
+  ],
+  "journal": "Physical review. E",
+  "year": "2020",
+  "doi": "10.1103/PhysRevE.102.040301",
+  "mesh": [
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons"
+  ]
+}

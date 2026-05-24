@@ -1,0 +1,27 @@
+{
+  "pmid": "16764517",
+  "title": "Representation and timing in theories of the dopamine system.",
+  "abstract": "Although the responses of dopamine neurons in the primate midbrain are well characterized as carrying a temporal difference (TD) error signal for reward prediction, existing theories do not offer a credible account of how the brain keeps track of past sensory events that may be relevant to predicting future reward. Empirically, these shortcomings of previous theories are particularly evident in their account of experiments in which animals were exposed to variation in the timing of events. The original theories mispredicted the results of such experiments due to their use of a representational device called a tapped delay line. Here we propose that a richer understanding of history representation and a better account of these experiments can be given by considering TD algorithms for a formal setting that incorporates two features not originally considered in theories of the dopaminergic response: partial observability (a distinction between the animal's sensory experience and the true underlying state of the world) and semi-Markov dynamics (an explicit account of variation in the intervals between events). The new theory situates the dopaminergic system in a richer functional and anatomical context, since it assumes (in accord with recent computational theories of cortex) that problems of partial observability and stimulus history are solved in sensory cortex using statistical modeling and inference and that the TD system predicts reward using the results of this inference rather than raw sensory data. It also accounts for a range of experimental data, including the experiments involving programmed temporal variability and other previously unmodeled dopaminergic response phenomena, which we suggest are related to subjective noise in animals' interval timing. Finally, it offers new experimental predictions and a rich theoretical framework for designing future experiments.",
+  "authors": [
+    "Daw Nathaniel D",
+    "Courville Aaron C",
+    "Touretzky David S"
+  ],
+  "journal": "Neural computation",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Dopamine",
+    "Humans",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Reaction Time",
+    "Reward",
+    "Time Factors"
+  ]
+}

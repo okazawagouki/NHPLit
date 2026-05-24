@@ -1,0 +1,31 @@
+{
+  "pmid": "21543839",
+  "title": "A chronic generalized bi-directional brain-machine interface.",
+  "abstract": "A bi-directional neural interface (NI) system was designed and prototyped by incorporating a novel neural recording and processing subsystem into a commercial neural stimulator architecture. The NI system prototype leverages the system infrastructure from an existing neurostimulator to ensure reliable operation in a chronic implantation environment. In addition to providing predicate therapy capabilities, the device adds key elements to facilitate chronic research, such as four channels of electrocortigram/local field potential amplification and spectral analysis, a three-axis accelerometer, algorithm processing, event-based data logging, and wireless telemetry for data uploads and algorithm/configuration updates. The custom-integrated micropower sensor and interface circuits facilitate extended operation in a power-limited device. The prototype underwent significant verification testing to ensure reliability, and meets the requirements for a class CF instrument per IEC-60601 protocols. The ability of the device system to process and aid in classifying brain states was preclinically validated using an in vivo non-human primate model for brain control of a computer cursor (i.e. brain-machine interface or BMI). The primate BMI model was chosen for its ability to quantitatively measure signal decoding performance from brain activity that is similar in both amplitude and spectral content to other biomarkers used to detect disease states (e.g. Parkinson's disease). A key goal of this research prototype is to help broaden the clinical scope and acceptance of NI techniques, particularly real-time brain state detection. These techniques have the potential to be generalized beyond motor prosthesis, and are being explored for unmet needs in other neurological conditions such as movement disorders, stroke and epilepsy.",
+  "authors": [
+    "Rouse A G",
+    "Stanslaski S R",
+    "Cong P",
+    "Jensen R M",
+    "Afshar P",
+    "Ullestad D",
+    "Gupta R",
+    "Molnar G F",
+    "Moran D W",
+    "Denison T J"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2011",
+  "doi": "10.1088/1741-2560/8/3/036018",
+  "mesh": [
+    "Brain",
+    "Electric Stimulation Therapy",
+    "Electroencephalography",
+    "Equipment Design",
+    "Equipment Failure Analysis",
+    "Humans",
+    "Parkinson Disease",
+    "Prostheses and Implants",
+    "Therapy, Computer-Assisted"
+  ]
+}

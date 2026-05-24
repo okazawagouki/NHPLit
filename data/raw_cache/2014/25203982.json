@@ -1,0 +1,31 @@
+{
+  "pmid": "25203982",
+  "title": "A high-performance keyboard neural prosthesis enabled by task optimization.",
+  "abstract": "Communication neural prostheses are an emerging class of medical devices that aim to restore efficient communication to people suffering from paralysis. These systems rely on an interface with the user, either via the use of a continuously moving cursor (e.g., mouse) or the discrete selection of symbols (e.g., keyboard). In developing these interfaces, many design choices have a significant impact on the performance of the system. The objective of this study was to explore the design choices of a continuously moving cursor neural prosthesis and optimize the interface to maximize information theoretic performance. We swept interface parameters of two keyboard-like tasks to find task and subject-specific optimal parameters as measured by achieved bitrate using two rhesus macaques implanted with multielectrode arrays. In this paper, we present the highest performing free-paced neural prosthesis under any recording modality with sustainable communication rates of up to 3.5 bits/s. These findings demonstrate that meaningful high performance can be achieved using an intracortical neural prosthesis, and that, when optimized, these systems may be appropriate for use as communication devices for those with physical disabilities.",
+  "authors": [
+    "Nuyujukian Paul",
+    "Fan Joline M",
+    "Kao Jonathan C",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2015",
+  "doi": "10.1109/TBME.2014.2354697",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Communication Devices for People with Disabilities",
+    "Computer Peripherals",
+    "Equipment Design",
+    "Equipment Failure Analysis",
+    "Humans",
+    "Macaca mulatta",
+    "Man-Machine Systems",
+    "Movement Disorders",
+    "Pattern Recognition, Visual",
+    "Task Performance and Analysis",
+    "User-Computer Interface",
+    "Visual Cortex"
+  ]
+}

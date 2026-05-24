@@ -1,0 +1,27 @@
+{
+  "pmid": "23121444",
+  "title": "New Markov-autocorrelation indices for re-evaluation of links in chemical and biological complex networks used in metabolomics, parasitology, neurosciences, and epidemiology.",
+  "abstract": "The development of new methods for the computational re-evaluation of links in chemical and biological complex networks is very important to save time and resources. The Moreau-Broto autocorrelation indices (MBis) are well-known topological indices (TIs) used in QSAR/QSPR studies to encode the structural information contained in molecular graphs. In addition, MBis and similar autocorrelation measures have been used to study other systems like, for example, proteins. In the present work, MBis are combined with Markov chains to develop a general class of stochastic MBis of order k (MB(k)) that is used to encode the structural information contained in different types of large complex networks. The MB(k) values obtained for the nodes (centralities) of these networks are used as input variables to seek QSPR-like equations (by means of linear discriminant analysis) in which the outputs are numerical scores S(L(ij)) that allow us to discriminate between connected and nonconnected nodes and therefore re-evaluate the connectivity of the whole network. The models developed in this work produced the following results in terms of overall accuracy for network reconstruction: metabolic networks (72.10%), parasite-host networks (88.70%), CoCoMac brain cortex coactivation network (81.89%), and fasciolosis spreading network (86.39%).",
+  "authors": [
+    "González-Díaz Humberto",
+    "Riera-Fernández Pablo"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "year": "2012",
+  "doi": "10.1021/ci300321f",
+  "mesh": [
+    "Animals",
+    "Cattle",
+    "Cattle Diseases",
+    "Cerebral Cortex",
+    "Epidemiology",
+    "Fascioliasis",
+    "Host-Parasite Interactions",
+    "Macaca",
+    "Markov Chains",
+    "Metabolic Networks and Pathways",
+    "Metabolomics",
+    "Neurosciences",
+    "Parasitology"
+  ]
+}

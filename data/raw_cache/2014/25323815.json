@@ -1,0 +1,24 @@
+{
+  "pmid": "25323815",
+  "title": "Own-race and own-species advantages in face perception: a computational view.",
+  "abstract": "The frequency to which an organism is exposed to a particular type of face influences recognition performance. For example, Asians are better in individuating Asian than Caucasian faces, known as the own-race advantage. Similarly, humans in general are better in individuating human than monkey faces, known as the own-species advantage. It is an open question whether the underlying mechanisms causing these effects are similar. We hypothesize that these processes are governed by neural plasticity of the face discrimination system to retain optimal discrimination performance in its environment. Using common face features derived from a set of images from various face classes, we show that maximizing the feature variance between different individuals while ensuring minimal variance within individuals achieved good discrimination performances on own-class faces when selecting a subset of feature dimensions. Further, the selected subset of features does not necessarily lead to an optimal performance on the other class of faces. Thus, the face discrimination system continuously re-optimizes its space constraint face representation to optimize recognition performance on the current distribution of faces in its environment. This model can account for both, the own-race and own-species advantages. We name this approach Space Constraint Optimized Representational Embedding (SCORE).",
+  "authors": [
+    "Dahl Christoph D",
+    "Chen Chien-Chung",
+    "Rasch Malte J"
+  ],
+  "journal": "Scientific reports",
+  "year": "2014",
+  "doi": "10.1038/srep06654",
+  "mesh": [
+    "Animals",
+    "Asian People",
+    "Face",
+    "Humans",
+    "Pan troglodytes",
+    "Pattern Recognition, Visual",
+    "Recognition, Psychology",
+    "Visual Perception",
+    "White People"
+  ]
+}

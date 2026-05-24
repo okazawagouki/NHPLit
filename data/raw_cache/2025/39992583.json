@@ -1,0 +1,27 @@
+{
+  "pmid": "39992583",
+  "title": "Beyond human perception: challenges in AI interpretability of orangutan artwork.",
+  "abstract": "Drawings serve as a profound medium of expression for both humans and apes, offering unique insights into the cognitive and emotional landscapes of the artists, regardless of their species. This study employs artificial intelligence (AI), specifically Convolutional Neural Networks (CNNs) and the interpretability tool Captum, to analyse non-figurative drawings by Molly, an orangutan. The research utilizes VGG19 and ResNet18 models to decode seasonal nuances in the drawings, achieving notable accuracy in seasonal classification and revealing complex influences beyond human-centric methods. Techniques, such as occlusion, integrated gradients, PCA, t-SNE, and Louvain clustering, highlight critical areas and elements influencing seasonal recognition, providing deeper insights into the drawings. This approach not only advances the analysis of non-human art but also demonstrates the potential of AI to enrich our understanding of non-human cognitive and emotional expressions, with significant implications for fields like evolutionary anthropology and comparative psychology.",
+  "authors": [
+    "Sueur Cédric",
+    "Maitre Elliot",
+    "Falck Jimmy",
+    "Shimada Masaki",
+    "Pelé Marie"
+  ],
+  "journal": "Primates; journal of primatology",
+  "year": "2025",
+  "doi": "10.1007/s10329-025-01185-5",
+  "mesh": [
+    "Animals",
+    "Artificial Intelligence",
+    "Art",
+    "Pongo",
+    "Pongo pygmaeus",
+    "Humans",
+    "Male",
+    "Female",
+    "Neural Networks, Computer",
+    "Cognition"
+  ]
+}

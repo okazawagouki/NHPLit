@@ -1,0 +1,24 @@
+{
+  "pmid": "31026016",
+  "title": "Using deep learning to probe the neural code for images in primary visual cortex.",
+  "abstract": "Primary visual cortex (V1) is the first stage of cortical image processing, and major effort in systems neuroscience is devoted to understanding how it encodes information about visual stimuli. Within V1, many neurons respond selectively to edges of a given preferred orientation: These are known as either simple or complex cells. Other neurons respond to localized center-surround image features. Still others respond selectively to certain image stimuli, but the specific features that excite them are unknown. Moreover, even for the simple and complex cells-the best-understood V1 neurons-it is challenging to predict how they will respond to natural image stimuli. Thus, there are important gaps in our understanding of how V1 encodes images. To fill this gap, we trained deep convolutional neural networks to predict the firing rates of V1 neurons in response to natural image stimuli, and we find that the predicted firing rates are highly correlated (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mrow class=\"MJX-TeXAtom-ORD\"> <msub> <mover> <mrow class=\"MJX-TeXAtom-ORD\"> <mrow class=\"MJX-TeXAtom-ORD\"> <mi mathvariant=\"normal\">C</mi> <mi mathvariant=\"normal\">C</mi> </mrow> </mrow> <mo accent=\"false\">¯</mo> </mover> <mrow class=\"MJX-TeXAtom-ORD\"> <mrow class=\"MJX-TeXAtom-ORD\"> <mrow class=\"MJX-TeXAtom-ORD\"> <mi mathvariant=\"normal\">n</mi> <mi mathvariant=\"normal\">o</mi> <mi mathvariant=\"normal\">r</mi> <mi mathvariant=\"normal\">m</mi> </mrow> </mrow> </mrow> </msub> </mrow> <mo>=</mo> <mrow class=\"MJX-TeXAtom-ORD\"> <mn>0</mn> </mrow> <mo>.</mo> <mrow class=\"MJX-TeXAtom-ORD\"> <mn>556</mn> </mrow> <mtext> </mtext> <mo>±</mo> <mtext> </mtext> <mrow class=\"MJX-TeXAtom-ORD\"> <mn>0</mn> </mrow> <mo>.</mo> <mrow class=\"MJX-TeXAtom-ORD\"> <mn>01</mn> </mrow> </math>) with the neurons' actual firing rates over a population of 355 neurons. This performance value is quoted for all neurons, with no selection filter. Performance is better for more active neurons: When evaluated only on neurons with mean firing rates above 5 Hz, our predictors achieve correlations of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mrow class=\"MJX-TeXAtom-ORD\"> <msub> <mover> <mrow class=\"MJX-TeXAtom-ORD\"> <mrow class=\"MJX-TeXAtom-ORD\"> <mi mathvariant=\"normal\">C</mi> <mi mathvariant=\"normal\">C</mi> </mrow> </mrow> <mo accent=\"false\">¯</mo> </mover> <mrow class=\"MJX-TeXAtom-ORD\"> <mrow class=\"MJX-TeXAtom-ORD\"> <mrow class=\"MJX-TeXAtom-ORD\"> <mi mathvariant=\"normal\">n</mi> <mi mathvariant=\"normal\">o</mi> <mi mathvariant=\"normal\">r</mi> <mi mathvariant=\"normal\">m</mi> </mrow> </mrow> </mrow> </msub> </mrow> <mo>=</mo> <mrow class=\"MJX-TeXAtom-ORD\"> <mn>0</mn> </mrow> <mo>.</mo> <mrow class=\"MJX-TeXAtom-ORD\"> <mn>69</mn> </mrow> <mtext> </mtext> <mo>±</mo> <mtext> </mtext> <mrow class=\"MJX-TeXAtom-ORD\"> <mn>0</mn> </mrow> <mo>.</mo> <mrow class=\"MJX-TeXAtom-ORD\"> <mn>01</mn> </mrow> </math> with the neurons' true firing rates. We find that the firing rates of both orientation-selective and non-orientation-selective neurons can be predicted with high accuracy. Additionally, we use a variety of models to benchmark performance and find that our convolutional neural-network model makes more accurate predictions.",
+  "authors": [
+    "Kindel William F",
+    "Christensen Elijah D",
+    "Zylberberg Joel"
+  ],
+  "journal": "Journal of vision",
+  "year": "2019",
+  "doi": "10.1167/19.4.29",
+  "mesh": [
+    "Animals",
+    "Deep Learning",
+    "Macaca",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Orientation",
+    "Orientation, Spatial",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

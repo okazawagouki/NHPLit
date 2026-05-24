@@ -1,0 +1,14 @@
+{
+  "pmid": "41542165",
+  "title": "Quantifying task-relevant representational similarity using decision variable correlation.",
+  "abstract": "Previous studies have compared neural activities in the visual cortex to representations in deep neural networks trained on image classification. Interestingly, while some suggest that their representations are highly similar, others argued the opposite. Here, we propose a new approach to characterize the similarity of the decision strategies of two observers (models or brains) using decision variable correlation (DVC). DVC quantifies the image-by-image correlation between the decoded decisions based on the internal neural representations in a classification task. Thus, it can capture task-relevant information rather than general representational alignment. We evaluate DVC using monkey V4/IT recordings and network models trained on image classification tasks. We find that model-model similarity is comparable to monkey-monkey similarity, whereas model-monkey similarity is consistently lower. Strikingly, DVC decreases with increasing network performance on ImageNet-1k. Adversarial training does not improve model-monkey similarity in task-relevant dimensions assessed using DVC, although it markedly increases the model-model similarity. Similarly, pre-training on larger datasets does not improve model-monkey similarity. These results suggest a divergence between the task-relevant representations in monkey V4/IT and those learned by models trained on image classification tasks.",
+  "authors": [
+    "Qian Yu Eric",
+    "Geisler Wilson S",
+    "Wei Xue-Xin"
+  ],
+  "journal": "ArXiv",
+  "year": "2026",
+  "doi": "",
+  "mesh": []
+}

@@ -1,0 +1,18 @@
+{
+  "pmid": "35590680",
+  "title": "Revealing directed effective connectivity of cortical neuronal networks from measurements.",
+  "abstract": "In the study of biological networks, one of the major challenges is to understand the relationships between network structure and dynamics. In this paper, we model in vitro cortical neuronal cultures as stochastic dynamical systems and apply a method that reconstructs directed networks from dynamics [Ching and Tam, Phys. Rev. E 95, 010301(R) (2017)2470-004510.1103/PhysRevE.95.010301] to reveal directed effective connectivity, namely, the directed links and synaptic weights, of the neuronal cultures from voltage measurements recorded by a multielectrode array. The effective connectivity so obtained reproduces several features of cortical regions in rats and monkeys and has similar network properties as the synaptic network of the nematode Caenorhabditis elegans, whose entire nervous system has been mapped out. The distribution of the incoming degree is bimodal and the distributions of the average incoming and outgoing synaptic strength are non-Gaussian with long tails. The effective connectivity captures different information from the commonly studied functional connectivity, estimated using statistical correlation between spiking activities. The average synaptic strengths of excitatory incoming and outgoing links are found to increase with the spiking activity in the estimated effective connectivity but not in the functional connectivity estimated using the same sets of voltage measurements. These results thus demonstrate that the reconstructed effective connectivity can capture the general properties of synaptic connections and better reveal relationships between network structure and dynamics.",
+  "authors": [
+    "Sun Chumin",
+    "Lin K C",
+    "Yeung C Y",
+    "Ching Emily S C",
+    "Huang Yu-Ting",
+    "Lai Pik-Yin",
+    "Chan C K"
+  ],
+  "journal": "Physical review. E",
+  "year": "2022",
+  "doi": "10.1103/PhysRevE.105.044406",
+  "mesh": []
+}

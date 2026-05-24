@@ -1,0 +1,28 @@
+{
+  "pmid": "30943102",
+  "title": "Rapid geometric feature signaling in the simulated spiking activity of a complete population of tactile nerve fibers.",
+  "abstract": "Tactile feature extraction is essential to guide the dexterous manipulation of objects. The longstanding theory is that geometric features at each location of contact between hand and object are extracted from the spatial layout of the response of populations of tactile nerve fibers. However, recent evidence suggests that some features (e.g., edge orientation) are extracted very rapidly (<200 ms), casting doubt that this information relies on a spatial code, which ostensibly requires integrating responses over time. An alternative hypothesis is that orientation is conveyed in precise temporal spiking patterns. Here we simulate, using a recently developed and validated model, the responses of the two relevant subpopulations of tactile fibers from the entire human fingertip (~800 afferents) to edges indented into the skin. We show that edge orientation can be quickly (<50 ms) and accurately (<3°) decoded from the spatial pattern of activation across the afferent population, starting with the very first spike. Next, we implement a biomimetic decoder of edge orientation, consisting of a bank of oriented Gabor filters, designed to mimic the documented responses of cortical neurons. We find that the biomimetic approach leads to orientation decoding performance that approaches the limit set by optimal decoders and is actually more robust to changes in other stimulus features. Finally, we show that orientation signals, measured from single units in the somatosensory cortex of nonhuman primates (2 macaque monkeys, 1 female), follow a time course consistent with that of their counterparts in the nerve. We conclude that a spatial code is fast and accurate enough to support object manipulation. <b>NEW & NOTEWORTHY</b> The dexterous manipulation of objects relies on the rapid and accurate extraction of the objects' geometric features by the sense of touch. Here we simulate the responses of all the nerve fibers that innervate the fingertip when an edge is indented into the skin and characterize the time course over which signals about its orientation evolve in this neural population. We show that orientation can be rapidly and accurately decoded from the spatial pattern of afferent activation using spatial filters that mimic the response properties of neurons in cortical somatosensory neurons along a time course consistent with that observed in cortex. We conclude that the classical model of tactile feature extraction is rapid and accurate enough to support object manipulation.",
+  "authors": [
+    "Delhaye Benoit P",
+    "Xia Xinyue",
+    "Bensmaia Sliman J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2019",
+  "doi": "10.1152/jn.00002.2019",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Female",
+    "Fingers",
+    "Humans",
+    "Macaca",
+    "Machine Learning",
+    "Mechanoreceptors",
+    "Models, Neurological",
+    "Nerve Fibers",
+    "Somatosensory Cortex",
+    "Touch",
+    "Touch Perception"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "22255267",
+  "title": "Comparisons between linear and nonlinear methods for decoding motor cortical activities of monkey.",
+  "abstract": "Brain Machine Interfaces (BMI) aim at building a direct communication link between the neural system and external devices. The decoding of neuronal signals is one of the important steps in BMI systems. Existing decoding methods commonly fall into two categories, i.e., linear methods and nonlinear methods. This paper compares the performance between the two kinds of methods in the decoding of motor cortical activities of a monkey. Kalman filter (KF) is chosen as an example of linear methods, and General Regression Neural Network (GRNN) and Support Vector Regression (SVR) are two nonlinear approaches evaluated in our work. The experiments are conducted to reconstruct 2D trajectories in a center-out task. The correlation coefficient (CC) and the root mean square error (RMSE) are used to assess the performance. The experimental results show that GRNN and SVR achieve better performance than Kalman filter with average improvements of about 30% in CC and 40% in RMSE. This demonstrates that nonlinear models can better encode the relationship between the neuronal signals and response. In addition, GRNN and SVR are more effective than Kalman filter on noisy data.",
+  "authors": [
+    "Xu Kai",
+    "Wang Yueming",
+    "Zhang Shaomin",
+    "Zhao Ting",
+    "Wang Yiwen",
+    "Chen Weidong",
+    "Zheng Xiaoxiang"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2011",
+  "doi": "10.1109/IEMBS.2011.6091044",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Support Vector Machine"
+  ]
+}

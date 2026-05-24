@@ -1,0 +1,28 @@
+{
+  "pmid": "20608868",
+  "title": "Discrete time rescaling theorem: determining goodness of fit for discrete time statistical models of neural spiking.",
+  "abstract": "One approach for understanding the encoding of information by spike trains is to fit statistical models and then test their goodness of fit. The time-rescaling theorem provides a goodness-of-fit test consistent with the point process nature of spike trains. The interspike intervals (ISIs) are rescaled (as a function of the model's spike probability) to be independent and exponentially distributed if the model is accurate. A Kolmogorov-Smirnov (KS) test between the rescaled ISIs and the exponential distribution is then used to check goodness of fit. This rescaling relies on assumptions of continuously defined time and instantaneous events. However, spikes have finite width, and statistical models of spike trains almost always discretize time into bins. Here we demonstrate that finite temporal resolution of discrete time models prevents their rescaled ISIs from being exponentially distributed. Poor goodness of fit may be erroneously indicated even if the model is exactly correct. We present two adaptations of the time-rescaling theorem to discrete time models. In the first we propose that instead of assuming the rescaled times to be exponential, the reference distribution be estimated through direct simulation by the fitted model. In the second, we prove a discrete time version of the time-rescaling theorem that analytically corrects for the effects of finite resolution. This allows us to define a rescaled time that is exponentially distributed, even at arbitrary temporal discretizations. We demonstrate the efficacy of both techniques by fitting generalized linear models to both simulated spike trains and spike trains recorded experimentally in monkey V1 cortex. Both techniques give nearly identical results, reducing the false-positive rate of the KS test and greatly increasing the reliability of model evaluation based on the time-rescaling theorem.",
+  "authors": [
+    "Haslinger Robert",
+    "Pipa Gordon",
+    "Brown Emery"
+  ],
+  "journal": "Neural computation",
+  "year": "2010",
+  "doi": "10.1162/NECO_a_00015",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Haplorhini",
+    "Humans",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neural Networks, Computer",
+    "Poisson Distribution",
+    "Reaction Time",
+    "Reproducibility of Results",
+    "Time Factors"
+  ]
+}

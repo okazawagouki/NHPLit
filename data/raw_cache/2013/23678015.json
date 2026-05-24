@@ -1,0 +1,22 @@
+{
+  "pmid": "23678015",
+  "title": "Parkinsonism-related features of neuronal discharge in primates.",
+  "abstract": "Parkinson's disease is known to be associated with abnormal electrical spiking activities of basal ganglia neurons, including changes in firing rate, bursting activities and oscillatory firing patterns and changes in entropy. We explored the relative importance of these measures through optimal feature selection and discrimination analysis methods. We identified key characteristics of basal ganglia activity that predicted whether the neurons were recorded in the normal or parkinsonian state. Starting with 29 features extracted from the spike timing of neurons recorded in normal and parkinsonian monkeys in the internal or external segment of the globus pallidus or the subthalamic nucleus (STN), we used a method that incorporates a support vector machine algorithm to find feature combinations that optimally discriminate between the normal and parkinsonian states. Our results demonstrate that the discrimination power of combinations of specific features is higher than that of single features, or of all features combined, and that the most discriminative feature sets differ substantially between basal ganglia structures. Each nucleus or class of neurons in the basal ganglia may react differently to the parkinsonian condition, and the features used to describe this state should be adapted to the neuron type under study. The feature that was overall most predictive of the parkinsonian state in our data set was a high STN intraburst frequency. Interestingly, this feature was not correlated with parameters describing oscillatory firing properties in recordings made in the normal condition but was significantly correlated with spectral power in specific frequency bands in recordings from the parkinsonian state (specifically with power in the 8-13 Hz band).",
+  "authors": [
+    "Sanders Teresa H",
+    "Clements Mark A",
+    "Wichmann Thomas"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2013",
+  "doi": "10.1152/jn.00672.2012",
+  "mesh": [
+    "Animals",
+    "Data Interpretation, Statistical",
+    "Globus Pallidus",
+    "Macaca mulatta",
+    "Neurons",
+    "Parkinsonian Disorders",
+    "Subthalamic Nucleus"
+  ]
+}

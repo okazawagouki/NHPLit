@@ -1,0 +1,24 @@
+{
+  "pmid": "11024069",
+  "title": "Precise spatiotemporal repeating patterns in monkey primary and supplementary motor areas occur at chance levels.",
+  "abstract": "Precise spatiotemporal patterns in neural discharge are a possible mechanism for information encoding in the brain. Previous studies have found that such patterns repeat and appear to relate to key behavioral events. Whether these patterns occur above chance levels remains controversial. To address this question, we have made simultaneous recordings from between two and nine neurons in the primary motor cortex and supplementary motor area of three monkeys while they performed a precision grip task. Out of a total of 67 neurons, 46 were antidromically identified as pyramidal tract neurons. Sections of recordings 60 s long were searched for patterns involving three or more spikes that repeated at least twice. The allowed jitter for pattern repetition was 3 ms, and the pattern length was limited to 192 ms. In all 11 recordings analyzed, large numbers of repeating patterns were found. To assess the expected chance level of patterns, \"surrogate\" datasets were generated. These had the same moment-by-moment modulation in firing rate as the experimental spike trains, and matched their interspike interval distribution, but did not preserve the precise timing of individual spikes. The number of repeating patterns in 10 randomly generated surrogates was used to form 99% confidence limits on the repeating pattern count expected by chance. There was close agreement between these confidence limits and the number of patterns seen in the experimental data. Analysis of high complexity patterns was carried out in four long recordings (mean duration 23.2 min, mean number of neurons simultaneously recorded 7.5). This analysis logged only patterns composed of a larger number (7-11) of spikes. The number of patterns seen in the surrogate datasets showed a small but significant excess over those seen in the original experimental data; this is discussed in the context of surrogate generation. The occurrence of repeating patterns in the experimental data were strongly associated with particular phases of the precision grip task; however, a similar task dependence was seen for the surrogate data. When a repeating pattern was used as a template to find inexact matches, in which up to half of the component spikes could be missing, similar numbers of matches were found in experimental and surrogate data, and the time of occurrence of such matches showed the same task dependence. We conclude that the existence of precise repeating patterns in our data are not due to cortical mechanisms that favor this form of coding, since as many, if not more, patterns are produced by spike trains constructed only to modulate their firing rate in the same way as the experimental data, and to match the interspike interval histograms. The task dependence of pattern occurrence is explicable as an artifact of the modulation of neural firing rate. The consequences for theories of temporal coding in the cortex are discussed.",
+  "authors": [
+    "Baker S N",
+    "Lemon R N"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Artifacts",
+    "Electrophysiology",
+    "Female",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Macaca nemestrina",
+    "Motor Cortex",
+    "Time Factors"
+  ]
+}

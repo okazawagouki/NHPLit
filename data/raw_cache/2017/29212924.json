@@ -1,0 +1,28 @@
+{
+  "pmid": "29212924",
+  "title": "Robust mixture modeling reveals category-free selectivity in reward region neuronal ensembles.",
+  "abstract": "Classification of neurons into clusters based on their response properties is an important tool for gaining insight into neural computations. However, it remains unclear to what extent neurons fall naturally into discrete functional categories. We developed a Bayesian method that models the tuning properties of neural populations as a mixture of multiple types of task-relevant response patterns. We applied this method to data from several cortical and striatal regions in economic choice tasks. In all cases, neurons fell into only two clusters: one multiple-selectivity cluster containing all cells driven by task variables of interest and another of no selectivity for those variables. The single cluster of task-sensitive cells argues against robust categorical tuning in these areas. The no-selectivity cluster was unanticipated and raises important questions about what distinguishes these neurons and what role they play. Moreover, the ability to formally identify these nonselective cells allows for more accurate measurement of ensemble effects by excluding or appropriately down-weighting them in analysis. Our findings provide a valuable tool for analysis of neural data, challenge simple categorization schemes previously proposed for these regions, and place useful constraints on neurocomputational models of economic choice and control. NEW & NOTEWORTHY We present a Bayesian method for formally detecting whether a population of neurons can be naturally classified into clusters based on their response tuning properties. We then examine several data sets of reward system neurons for variables and find in all cases that neurons can be classified into only two categories: a functional class and a non-task-driven class. These results provide important constraints for neural models of the reward system.",
+  "authors": [
+    "Blanchard Tommy C",
+    "Piantadosi Steven T",
+    "Hayden Benjamin Y"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2018",
+  "doi": "10.1152/jn.00808.2017",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Behavior, Animal",
+    "Choice Behavior",
+    "Eye Movement Measurements",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Psychomotor Performance",
+    "Reward",
+    "Risk-Taking"
+  ]
+}

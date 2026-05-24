@@ -1,0 +1,34 @@
+{
+  "pmid": "35217206",
+  "title": "An open access resource for functional brain connectivity from fully awake marmosets.",
+  "abstract": "The common marmoset (Callithrix jacchus) is quickly gaining traction as a premier neuroscientific model. However, considerable progress is still needed in understanding the functional and structural organization of the marmoset brain to rival that documented in longstanding preclinical model species, like mice, rats, and Old World primates. To accelerate such progress, we present the Marmoset Functional Brain Connectivity Resource (marmosetbrainconnectome.org), currently consisting of over 70 h of resting-state fMRI (RS-fMRI) data acquired at 500 µm isotropic resolution from 31 fully awake marmosets in a common stereotactic space. Three-dimensional functional connectivity (FC) maps for every cortical and subcortical gray matter voxel are stored online. Users can instantaneously view, manipulate, and download any whole-brain functional connectivity (FC) topology (at the subject- or group-level) along with the raw datasets and preprocessing code. Importantly, researchers can use this resource to test hypotheses about FC directly - with no additional analyses required - yielding whole-brain correlations for any gray matter voxel on demand. We demonstrate the resource's utility for presurgical planning and comparison with tracer-based neuronal connectivity as proof of concept. Complementing existing structural connectivity resources for the marmoset brain, the Marmoset Functional Brain Connectivity Resource affords users the distinct advantage of exploring the connectivity of any voxel in the marmoset brain, not limited to injection sites nor constrained by regional atlases. With the entire raw database (RS-fMRI and structural images) and preprocessing code openly available for download and use, we expect this resource to be broadly valuable to test novel hypotheses about the functional organization of the marmoset brain.",
+  "authors": [
+    "Schaeffer David J",
+    "Klassen L Martyn",
+    "Hori Yuki",
+    "Tian Xiaoguang",
+    "Szczupak Diego",
+    "Yen Cecil Chern-Chyi",
+    "Cléry Justine C",
+    "Gilbert Kyle M",
+    "Gati Joseph S",
+    "Menon Ravi S",
+    "Liu CiRong",
+    "Everling Stefan",
+    "Silva Afonso C"
+  ],
+  "journal": "NeuroImage",
+  "year": "2022",
+  "doi": "10.1016/j.neuroimage.2022.119030",
+  "mesh": [
+    "Access to Information",
+    "Animals",
+    "Brain",
+    "Callithrix",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Mice",
+    "Rats",
+    "Wakefulness"
+  ]
+}

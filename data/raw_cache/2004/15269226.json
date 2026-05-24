@@ -1,0 +1,30 @@
+{
+  "pmid": "15269226",
+  "title": "Parietal representation of hand velocity in a copy task.",
+  "abstract": "We recorded neural activity from ensembles of neurons in areas 5 and 2 of parietal cortex, while two monkeys copied triangles, squares, trapezoids, and inverted triangles and used both linear and nonlinear models to predict the hand velocity from the neural activity of the ensembles. The linear model generally outperformed the nonlinear model, suggesting a reasonably linear relation between the neural activity and the hand velocity. We also found that the average transfer function of the linear model fit to individual cells was a low-pass filter because the neural response had considerable high-frequency power, whereas the hand velocity only had power at frequencies below approximately 5 Hz. Increasing the width of the transfer function, up to a width of 700-800 ms, improved the fit of the model. Furthermore, the Rsqr of the linear model improved monotonically with the number of cells in the ensemble, saturating at 60-80% for a filter width of 700 ms. Finally, it was found that including an interaction term, which allowed the transfer function to shift with the eye position, did not improve the fit of the model. Thus ensemble neural responses in superior parietal cortex provide a high-fidelity, linear representation of hand kinematics within our task.",
+  "authors": [
+    "Averbeck Bruno B",
+    "Chafee Matthew V",
+    "Crowe David A",
+    "Georgopoulos Apostolos P"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Behavior, Animal",
+    "Data Interpretation, Statistical",
+    "Hand",
+    "Linear Models",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Parietal Lobe",
+    "Psychomotor Performance",
+    "Reaction Time"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "29060269",
+  "title": "Stop state classification in intracortical brain-machine-interface.",
+  "abstract": "Invasive brain-machine-interface (BMI) has the prospect to empower tetraplegic patients with independent mobility through the use of brain-controlled wheelchairs. For the practical and long-term use of such control systems, the system has to distinguish between stop and movement states and has to be robust to overcome non-stationarity in the brain signals. In this work, we investigates the non-stationarity of the stop state on neural data collected from a macaque trained to control a robotic platform to stop and move in left, right, forward directions We then propose a hybrid approach that employs both random forest and linear discriminant analysis (LDA). Using this approach, we performed offline decoding on 8 days of data collected over the course of three months during joystick control of the robotic platform. We compared the results of using the proposed approach with the use of LDA alone to perform direct classifications of stop, left, right and forward. The results showed an average performance increment of 22.7% using the proposed hybrid approach. The results yielded significant improvements during sessions where LDA showed a heavy bias towards the stop state. This suggests that the proposed hybrid approach addresses the non-stationarity in the stop state and subsequently facilitates a more accurate decoding of the movement states.",
+  "authors": [
+    "Tze Hui Koh",
+    "Libedinsky Camilo",
+    "Cuntai Guan",
+    "Kai Keng Ang",
+    "So Rosa Q"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2017",
+  "doi": "10.1109/EMBC.2017.8037225",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Discriminant Analysis",
+    "Macaca",
+    "Movement"
+  ]
+}

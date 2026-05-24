@@ -1,0 +1,32 @@
+{
+  "pmid": "17124337",
+  "title": "Computational model of a primate arm: from hand position to joint angles, joint torques and muscle forces.",
+  "abstract": "Three-dimensional reaching by non-human primates is an important behavioral paradigm for investigating representations existing in motor control areas of the brain. Most studies to date have correlated neural activity to a few of the many arm motion parameters including: global hand position or velocity, joint angles, joint angular velocities, joint torques or muscle activations. So far, no single study has been able to incorporate all these parameters in a meaningful way that would allow separation of these often highly correlated variables. This paper introduces a three-dimensional, seven degree-of-freedom computational musculoskeletal model of the macaque arm that translates the coordinates of eight tracking markers placed on the arm into joint angles, joint torques, musculotendon lengths and finally into an optimized prediction of muscle forces. This paper uses this model to illustrate how the classic center-out reaching task used by many researchers over the last 20 years is not optimal in separating out intrinsic, extrinsic, kinematic and kinetic variables. However, by using the musculoskeletal model to design and test novel behavioral movement tasks, a priori, it is possible to disassociate the myriad of movement parameters in motor neurophysiological reaching studies.",
+  "authors": [
+    "Chan Sherwin S",
+    "Moran Daniel W"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Anthropometry",
+    "Arm",
+    "Biomechanical Phenomena",
+    "Computer Simulation",
+    "Elbow Joint",
+    "Hand",
+    "Infrared Rays",
+    "Joints",
+    "Kinetics",
+    "Macaca mulatta",
+    "Models, Anatomic",
+    "Models, Statistical",
+    "Muscle Contraction",
+    "Muscle, Skeletal",
+    "Shoulder Joint",
+    "Wrist Joint"
+  ]
+}

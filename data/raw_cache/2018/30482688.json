@@ -1,0 +1,26 @@
+{
+  "pmid": "30482688",
+  "title": "Dissecting the Synapse- and Frequency-Dependent Network Mechanisms of In Vivo Hippocampal Sharp Wave-Ripples.",
+  "abstract": "Hippocampal ripple oscillations likely support reactivation of memory traces that manifest themselves as temporally organized spiking of sparse neuronal ensembles. However, the network mechanisms concurring to achieve this function are largely unknown. We designed a multi-compartmental model of the CA3-CA1 subfields to generate biophysically realistic ripple dynamics from the cellular level to local field potentials. Simulations broadly parallel in vivo observations and support that ripples emerge from CA1 pyramidal spiking paced by recurrent inhibition. In addition to ripple oscillations, key coordination mechanisms involve concomitant aspects of network activity. Recurrent synaptic interactions in CA1 exhibit slow-gamma band coherence with CA3 input, thus offering a way to coordinate CA1 activities with CA3 inducers. Moreover, CA1 feedback inhibition controls the content of spontaneous replay during CA1 ripples, forming new mnemonic representations through plasticity. These insights are consistent with slow-gamma interactions and interneuronal circuit plasticity observed in vivo, suggesting a multifaceted ripple-related replay phenomenon.",
+  "authors": [
+    "Ramirez-Villegas Juan F",
+    "Willeke Konstantin F",
+    "Logothetis Nikos K",
+    "Besserve Michel"
+  ],
+  "journal": "Neuron",
+  "year": "2018",
+  "doi": "10.1016/j.neuron.2018.09.041",
+  "mesh": [
+    "Animals",
+    "Brain Waves",
+    "Hippocampus",
+    "Interneurons",
+    "Macaca mulatta",
+    "Male",
+    "Membrane Potentials",
+    "Models, Neurological",
+    "Neurons",
+    "Synapses"
+  ]
+}

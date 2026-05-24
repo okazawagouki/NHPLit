@@ -1,0 +1,27 @@
+{
+  "pmid": "16399673",
+  "title": "A resilient, low-frequency, small-world human brain functional network with highly connected association cortical hubs.",
+  "abstract": "Small-world properties have been demonstrated for many complex networks. Here, we applied the discrete wavelet transform to functional magnetic resonance imaging (fMRI) time series, acquired from healthy volunteers in the resting state, to estimate frequency-dependent correlation matrices characterizing functional connectivity between 90 cortical and subcortical regions. After thresholding the wavelet correlation matrices to create undirected graphs of brain functional networks, we found a small-world topology of sparse connections most salient in the low-frequency interval 0.03-0.06 Hz. Global mean path length (2.49) was approximately equivalent to a comparable random network, whereas clustering (0.53) was two times greater; similar parameters have been reported for the network of anatomical connections in the macaque cortex. The human functional network was dominated by a neocortical core of highly connected hubs and had an exponentially truncated power law degree distribution. Hubs included recently evolved regions of the heteromodal association cortex, with long-distance connections to other regions, and more cliquishly connected regions of the unimodal association and primary cortices; paralimbic and limbic regions were topologically more peripheral. The network was more resilient to targeted attack on its hubs than a comparable scale-free network, but about equally resilient to random error. We conclude that correlated, low-frequency oscillations in human fMRI data have a small-world architecture that probably reflects underlying anatomical connectivity of the cortex. Because the major hubs of this network are critical for cognition, its slow dynamics could provide a physiological substrate for segregated and distributed information processing.",
+  "authors": [
+    "Achard Sophie",
+    "Salvador Raymond",
+    "Whitcher Brandon",
+    "Suckling John",
+    "Bullmore Ed"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Adult",
+    "Biological Clocks",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Female",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Nerve Net",
+    "Neural Pathways"
+  ]
+}

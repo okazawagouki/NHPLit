@@ -1,0 +1,25 @@
+{
+  "pmid": "30120205",
+  "title": "Rhythm and Synchrony in a Cortical Network Model.",
+  "abstract": "We studied mechanisms for cortical gamma-band activity in the cerebral cortex and identified neurobiological factors that affect such activity. This was done by analyzing the behavior of a previously developed, data-driven, large-scale network model that simulated many visual functions of monkey V1 cortex (Chariker et al., 2016). Gamma activity was an emergent property of the model. The model's gamma activity, like that of the real cortex, was (1) episodic, (2) variable in frequency and phase, and (3) graded in power with stimulus variables like orientation. The spike firing of the model's neuronal population was only partially synchronous during multiple firing events (MFEs) that occurred at gamma rates. Detailed analysis of the model's MFEs showed that gamma-band activity was multidimensional in its sources. Most spikes were evoked by excitatory inputs. A large fraction of these inputs came from recurrent excitation within the local circuit, but feedforward and feedback excitation also contributed, either through direct pulsing or by raising the overall baseline. Inhibition was responsible for ending MFEs, but disinhibition led directly to only a small minority of the synchronized spikes. As a potential explanation for the wide range of gamma characteristics observed in different parts of cortex, we found that the relative rise times of AMPA and GABA synaptic conductances have a strong effect on the degree of synchrony in gamma.<b>SIGNIFICANCE STATEMENT</b> Canonical computations used throughout the cerebral cortex are performed in primary visual cortex (V1). Providing theoretical mechanisms for these computations will advance understanding of computation throughout cortex. We studied one dynamical feature, gamma-band rhythms, in a large-scale, data-driven, computational model of monkey V1. Our most significant conclusion is that the sources of gamma band activity are multidimensional. A second major finding is that the relative rise times of excitatory and inhibitory synaptic potentials have strong effects on spike synchrony and peak gamma band power. Insight gained from studying our V1 model can shed light on the functions of other cortical regions.",
+  "authors": [
+    "Chariker Logan",
+    "Shapley Robert",
+    "Young Lai-Sang"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2018",
+  "doi": "10.1523/JNEUROSCI.0675-18.2018",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Cortical Synchronization",
+    "Gamma Rhythm",
+    "Humans",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

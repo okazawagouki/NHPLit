@@ -1,0 +1,28 @@
+{
+  "pmid": "30991369",
+  "title": "Minimax-optimal decoding of movement goals from local field potentials using complex spectral features.",
+  "abstract": "OBJECTIVE: We consider the problem of predicting eye movement goals from local field potentials (LFP) recorded through a multielectrode array in the macaque prefrontal cortex. The monkey is tasked with performing memory-guided saccades to one of eight targets during which LFP activity is recorded and used to train a decoder. APPROACH: Previous reports have mainly relied on the spectral amplitude of the LFPs as decoding feature, while neglecting the phase without proper theoretical justification. This paper formulates the problem of decoding eye movement intentions in a statistically optimal framework and uses Gaussian sequence modeling and Pinsker's theorem to generate minimax-optimal estimates of the LFP signals which are used as decoding features. The approach is shown to act as a low-pass filter and each LFP in the feature space is represented via its complex Fourier coefficients after appropriate shrinking such that higher frequency components are attenuated; this way, the phase information inherently present in the LFP signal is naturally embedded into the feature space. MAIN RESULTS: We show that the proposed complex spectrum-based decoder achieves prediction accuracy of up to [Formula: see text] at superficial cortical depths near the surface of the prefrontal cortex; this marks a significant performance improvement over conventional power spectrum-based decoders. SIGNIFICANCE: The presented analyses showcase the promising potential of low-pass filtered LFP signals for highly reliable neural decoding of intended motor actions.",
+  "authors": [
+    "Angjelichinoski Marko",
+    "Banerjee Taposh",
+    "Choi John",
+    "Pesaran Bijan",
+    "Tarokh Vahid"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2019",
+  "doi": "10.1088/1741-2552/ab1a1f",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Eye Movements",
+    "Goals",
+    "Macaca mulatta",
+    "Male",
+    "Movement",
+    "Photic Stimulation",
+    "Prefrontal Cortex"
+  ]
+}

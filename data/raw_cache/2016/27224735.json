@@ -1,0 +1,30 @@
+{
+  "pmid": "27224735",
+  "title": "Tuning Curves for Arm Posture Control in Motor Cortex Are Consistent with Random Connectivity.",
+  "abstract": "Neuronal responses characterized by regular tuning curves are typically assumed to arise from structured synaptic connectivity. However, many responses exhibit both regular and irregular components. To address the relationship between tuning curve properties and underlying circuitry, we analyzed neuronal activity recorded from primary motor cortex (M1) of monkeys performing a 3D arm posture control task and compared the results with a neural network model. Posture control is well suited for examining M1 neuronal tuning because it avoids the dynamic complexity of time-varying movements. As a function of hand position, the neuronal responses have a linear component, as has previously been described, as well as heterogeneous and highly irregular nonlinearities. These nonlinear components involve high spatial frequencies and therefore do not support explicit encoding of movement parameters. Yet both the linear and nonlinear components contribute to the decoding of EMG of major muscles used in the task. Remarkably, despite the presence of a strong linear component, a feedforward neural network model with entirely random connectivity can replicate the data, including both the mean and distributions of the linear and nonlinear components as well as several other features of the neuronal responses. This result shows that smoothness provided by the regularity in the inputs to M1 can impose apparent structure on neural responses, in this case a strong linear (also known as cosine) tuning component, even in the absence of ordered synaptic connectivity.",
+  "authors": [
+    "Lalazar Hagai",
+    "Abbott L F",
+    "Vaadia Eilon"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2016",
+  "doi": "10.1371/journal.pcbi.1004910",
+  "mesh": [
+    "Animals",
+    "Arm",
+    "Computational Biology",
+    "Electromyography",
+    "Feedback, Sensory",
+    "Female",
+    "Macaca fascicularis",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Posture",
+    "User-Computer Interface"
+  ]
+}

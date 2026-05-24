@@ -1,0 +1,33 @@
+{
+  "pmid": "24109684",
+  "title": "Operant conditioning of a multiple degree-of-freedom brain-machine interface in a primate model of amputation.",
+  "abstract": "Operant conditioning with biofeedback has been shown to be an effective method to modify neural activity to generate goal-directed actions in a brain-machine interface. It is particularly useful when neural activity cannot be mathematically mapped to motor actions of the actual body such as in the case of amputation. Here, we implement an operant conditioning approach with visual feedback in which an amputated monkey is trained to control a multiple degree-of-freedom robot to perform a reach-to-grasp behavior. A key innovation is that each controlled dimension represents a behaviorally relevant synergy among a set of joint degrees-of-freedom. We present a number of behavioral metrics by which to assess improvements in BMI control with exposure to the system. The use of non-human primates with chronic amputation is arguably the most clinically-relevant model of human amputation that could have direct implications for developing a neural prosthesis to treat humans with missing upper limbs.",
+  "authors": [
+    "Balasubramanian Karthikeyan",
+    "Southerland Joshua",
+    "Vaidya Mukta",
+    "Qian Kai",
+    "Eleryan Ahmed",
+    "Fagg Andrew H",
+    "Sluzky Marc",
+    "Oweiss Karim",
+    "Hatsopoulos Nicholas"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2013",
+  "doi": "10.1109/EMBC.2013.6609497",
+  "mesh": [
+    "Action Potentials",
+    "Amputation, Surgical",
+    "Animals",
+    "Biofeedback, Psychology",
+    "Brain-Computer Interfaces",
+    "Conditioning, Operant",
+    "Hand",
+    "Hand Strength",
+    "Humans",
+    "Macaca mulatta",
+    "Movement",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

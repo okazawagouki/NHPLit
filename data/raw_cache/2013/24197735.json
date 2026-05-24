@@ -1,0 +1,32 @@
+{
+  "pmid": "24197735",
+  "title": "A brain-machine interface enables bimanual arm movements in monkeys.",
+  "abstract": "Brain-machine interfaces (BMIs) are artificial systems that aim to restore sensation and movement to paralyzed patients. So far, BMIs have enabled only one arm to be moved at a time. Control of bimanual arm movements remains a major challenge. We have developed and tested a bimanual BMI that enables rhesus monkeys to control two avatar arms simultaneously. The bimanual BMI was based on the extracellular activity of 374 to 497 neurons recorded from several frontal and parietal cortical areas of both cerebral hemispheres. Cortical activity was transformed into movements of the two arms with a decoding algorithm called a fifth-order unscented Kalman filter (UKF). The UKF was trained either during a manual task performed with two joysticks or by having the monkeys passively observe the movements of avatar arms. Most cortical neurons changed their modulation patterns when both arms were engaged simultaneously. Representing the two arms jointly in a single UKF decoder resulted in improved decoding performance compared with using separate decoders for each arm. As the animals' performance in bimanual BMI control improved over time, we observed widespread plasticity in frontal and parietal cortical areas. Neuronal representation of the avatar and reach targets was enhanced with learning, whereas pairwise correlations between neurons initially increased and then decreased. These results suggest that cortical networks may assimilate the two avatar arms through BMI control. These findings should help in the design of more sophisticated BMIs capable of enabling bimanual motor control in human patients.",
+  "authors": [
+    "Ifft Peter J",
+    "Shokur Solaiman",
+    "Li Zheng",
+    "Lebedev Mikhail A",
+    "Nicolelis Miguel A L"
+  ],
+  "journal": "Science translational medicine",
+  "year": "2013",
+  "doi": "10.1126/scitranslmed.3006159",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Behavior, Animal",
+    "Brain-Computer Interfaces",
+    "Cerebral Cortex",
+    "Electrodes, Implanted",
+    "Female",
+    "Haplorhini",
+    "Humans",
+    "Male",
+    "Movement",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Task Performance and Analysis"
+  ]
+}

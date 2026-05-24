@@ -1,0 +1,23 @@
+{
+  "pmid": "19043613",
+  "title": "Object segmentation from motion discontinuities and temporal occlusions--a biologically inspired model.",
+  "abstract": "BACKGROUND: Optic flow is an important cue for object detection. Humans are able to perceive objects in a scene using only kinetic boundaries, and can perform the task even when other shape cues are not provided. These kinetic boundaries are characterized by the presence of motion discontinuities in a local neighbourhood. In addition, temporal occlusions appear along the boundaries as the object in front covers the background and the objects that are spatially behind it. METHODOLOGY/PRINCIPAL FINDINGS: From a technical point of view, the detection of motion boundaries for segmentation based on optic flow is a difficult task. This is due to the problem that flow detected along such boundaries is generally not reliable. We propose a model derived from mechanisms found in visual areas V1, MT, and MSTl of human and primate cortex that achieves robust detection along motion boundaries. It includes two separate mechanisms for both the detection of motion discontinuities and of occlusion regions based on how neurons respond to spatial and temporal contrast, respectively. The mechanisms are embedded in a biologically inspired architecture that integrates information of different model components of the visual processing due to feedback connections. In particular, mutual interactions between the detection of motion discontinuities and temporal occlusions allow a considerable improvement of the kinetic boundary detection. CONCLUSIONS/SIGNIFICANCE: A new model is proposed that uses optic flow cues to detect motion discontinuities and object occlusion. We suggest that by combining these results for motion discontinuities and object occlusion, object segmentation within the model can be improved. This idea could also be applied in other models for object segmentation. In addition, we discuss how this model is related to neurophysiological findings. The model was successfully tested both with artificial and real sequences including self and object motion.",
+  "authors": [
+    "Beck Cornelia",
+    "Ognibeni Thilo",
+    "Neumann Heiko"
+  ],
+  "journal": "PloS one",
+  "year": "2008",
+  "doi": "10.1371/journal.pone.0003807",
+  "mesh": [
+    "Cues",
+    "Humans",
+    "Models, Biological",
+    "Motion",
+    "Motion Perception",
+    "Photic Stimulation",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

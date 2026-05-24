@@ -1,0 +1,25 @@
+{
+  "pmid": "11839599",
+  "title": "Prefrontal cortex and dynamic categorization tasks: representational organization and neuromodulatory control.",
+  "abstract": "We present a computational model of the intradimensional/ extradimensional (ID/ED) task (a variant of the Wisconsin card sorting task) that simulates the performance of intact and frontally lesioned monkeys on three different kinds of rule changes (Dias et al., 1997, J Neurosci 17:9285-9297). Although Dias et al. interpret the lesion data as supporting a model in which prefrontal cortex is organized into different processing functions, our model suggests an alternative account based on representational content. A key aspect of the model is that prefrontal cortex representations are organized according to different levels of abstraction, with orbital areas encoding more specific featural information and dorsolateral areas encoding more abstract dimensional information. This representational scheme of the model is integrated with two additional key elements: (i) activation-based working memory representations controlled by a dynamic gating mechanism that simulates the hypothesized phasic actions of dopaminergic neuromodulation in prefrontal cortex, which acts to stabilize or destabilize frontal representations based on success in the task; and (ii) a weight-based associative learning system simulating posterior cortex and other subcortical areas, where the stimulus-response mappings are encoded. Frontal cortex contributes to the task via top-down activation-based biasing of task-appropriate features and dimensions in this posterior cortex system - this top-down biasing is specifically important for overcoming prepotent associations after a sorting rule reverses. The ability of the model to capture the double-dissociation observed by Dias et al. with orbital versus dorsolateral lesions supports the validity of these principles, many of which have also been useful in accounting for other frontal phenomena.",
+  "authors": [
+    "O'Reilly Randall C",
+    "Noelle David C",
+    "Braver Todd S",
+    "Cohen Jonathan D"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cognition",
+    "Computer Simulation",
+    "Dopamine",
+    "Haplorhini",
+    "Learning",
+    "Memory",
+    "Models, Neurological",
+    "Prefrontal Cortex"
+  ]
+}

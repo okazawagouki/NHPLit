@@ -1,0 +1,16 @@
+{
+  "pmid": "28626355",
+  "title": "Classifier Performance in Primary Somatosensory Cortex Towards Implementation of a Reinforcement Learning Based Brain Machine Interface.",
+  "abstract": "Increasingly accurate control of prosthetic limbs has been made possible by a series of advancements in brain machine interface (BMI) control theory. One promising control technique for future BMI applications is reinforcement learning (RL). RL based BMIs require a reinforcing signal to inform the controller whether or not a given movement was intended by the user. This signal has been shown to exist in cortical structures simultaneously used for BMI control. This work evaluates the ability of several common classifiers to detect impending reward delivery within primary somatosensory (S1) cortex during a grip force match to sample task performed by a nonhuman primate. The accuracy of these classifiers was further evaluated over a range of conditions to identify parameters that provide maximum classification accuracy. S1 cortex was found to provide highly accurate classification of the reinforcement signal across many classifiers and a wide variety of data input parameters. The classification accuracy in S1 cortex between rewarding and non-rewarding trials was apparent when the animal was expecting an impending delivery or an impending withholding of reward following trial completion. The high accuracy of classification in S1 cortex can be used to adapt an RL based BMI towards a user's intent. Real-time implementation of these classifiers in an RL based BMI could be used to adapt control of a prosthesis dynamically to match the intent of its user.",
+  "authors": [
+    "McNiel David",
+    "Bataineh Mohammad",
+    "Choi John",
+    "Hessburg John",
+    "Francis Joseph"
+  ],
+  "journal": "Proceedings of the ... Southern Biomedical Engineering Conference. Southern Biomedical Engineering Conference",
+  "year": "2016",
+  "doi": "10.1109/SBEC.2016.19",
+  "mesh": []
+}

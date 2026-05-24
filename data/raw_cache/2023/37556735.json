@@ -1,0 +1,21 @@
+{
+  "pmid": "37556735",
+  "title": "Deep Learning from Phylogenies for Diversification Analyses.",
+  "abstract": "Birth-death (BD) models are widely used in combination with species phylogenies to study past diversification dynamics. Current inference approaches typically rely on likelihood-based methods. These methods are not generalizable, as a new likelihood formula must be established each time a new model is proposed; for some models, such a formula is not even tractable. Deep learning can bring solutions in such situations, as deep neural networks can be trained to learn the relation between simulations and parameter values as a regression problem. In this paper, we adapt a recently developed deep learning method from pathogen phylodynamics to the case of diversification inference, and we extend its applicability to the case of the inference of state-dependent diversification models from phylogenies associated with trait data. We demonstrate the accuracy and time efficiency of the approach for the time-constant homogeneous BD model and the Binary-State Speciation and Extinction model. Finally, we illustrate the use of the proposed inference machinery by reanalyzing a phylogeny of primates and their associated ecological role as seed dispersers. Deep learning inference provides at least the same accuracy as likelihood-based inference while being faster by several orders of magnitude, offering a promising new inference approach for the deployment of future models in the field.",
+  "authors": [
+    "Lambert Sophia",
+    "Voznica Jakub",
+    "Morlon Hélène"
+  ],
+  "journal": "Systematic biology",
+  "year": "2023",
+  "doi": "10.1093/sysbio/syad044",
+  "mesh": [
+    "Animals",
+    "Phylogeny",
+    "Likelihood Functions",
+    "Deep Learning",
+    "Genetic Speciation",
+    "Primates"
+  ]
+}

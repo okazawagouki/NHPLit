@@ -1,0 +1,24 @@
+{
+  "pmid": "35609556",
+  "title": "Improving the spatial resolution of artificial vision using midget retinal ganglion cell populations modeled at the human fovea.",
+  "abstract": "<i>Objective</i>. Retinal prostheses seek to create artificial vision by stimulating surviving retinal neurons of patients with profound vision impairment. Notwithstanding tremendous research efforts, the performance of all implants tested to date has remained rudimentary, incapable of overcoming the threshold for legal blindness. To maximize the perceptual efficacy of retinal prostheses, a device must be capable of controlling retinal neurons with greater spatiotemporal precision. Most studies of retinal stimulation were derived from either non-primate species or the peripheral primate retina. We investigated if artificial stimulation could leverage the high spatial resolution afforded by the neural substrates at the primate fovea and surrounding regions to achieve improved percept qualities.<i>Approach.</i>We began by developing a new computational model capable of generating anatomically accurate retinal ganglion cell (RGC) populations within the human central retina. Next, multiple RGC populations across the central retina were stimulated<i>in-silico</i>to compare clinical and recently proposed neurostimulation configurations based on their ability to improve perceptual efficacy and reduce activation thresholds.<i>Main results.</i>Our model uniquely upholds eccentricity-dependent characteristics such as RGC density and dendritic field diameter, whilst incorporating anatomically accurate features such as axon projection and three-dimensional (3D) RGC layering, features often forgone in favor of reduced computational complexity. Following epiretinal stimulation, the RGCs in our model produced response patterns in shapes akin to the complex and non-trivial percepts reported in clinical trials. Our results also demonstrated that even within the neuron-dense central retina, epiretinal stimulation using a multi-return hexapolar electrode arrangement could reliably achieve spatially focused RGC activation and could achieve single-cell excitation in 56% of all tested locations.<i>Significance</i>. This study establishes an anatomically accurate 3D model of RGC populations within the human central retina and demonstrates the potential for an epiretinal hexapolar configuration to achieve consistent, spatially confined retinal responses, even within the unique and neuron-dense foveal region. Our results and model promote the prospect and optimization of higher spatial resolution in future epiretinal implants.",
+  "authors": [
+    "Italiano Michael L",
+    "Guo Tianruo",
+    "Lovell Nigel H",
+    "Tsai David"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2022",
+  "doi": "10.1088/1741-2552/ac72c2",
+  "mesh": [
+    "Animals",
+    "Axons",
+    "Electric Stimulation",
+    "Humans",
+    "Retina",
+    "Retinal Ganglion Cells",
+    "Vision, Ocular",
+    "Visual Prosthesis"
+  ]
+}

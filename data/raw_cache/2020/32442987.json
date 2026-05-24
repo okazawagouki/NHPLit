@@ -1,0 +1,22 @@
+{
+  "pmid": "32442987",
+  "title": "Decoding hand kinematics from population responses in sensorimotor cortex during grasping.",
+  "abstract": "OBJECTIVE: The hand-a complex effector comprising dozens of degrees of freedom of movement-endows us with the ability to flexibly, precisely, and effortlessly interact with objects. The neural signals associated with dexterous hand movements in primary motor cortex (M1) and somatosensory cortex (SC) have received comparatively less attention than have those associated with proximal upper limb control. APPROACH: To fill this gap, we trained two monkeys to grasp objects varying in size and shape while tracking their hand postures and recording single-unit activity from M1 and SC. We then decoded their hand kinematics across tens of joints from population activity in these areas. MAIN RESULTS: We found that we could accurately decode kinematics with a small number of neural signals and that different cortical fields carry different amounts of information about hand kinematics. In particular, neural signals in rostral M1 led to better performance than did signals in caudal M1, whereas Brodmann's area 3a outperformed areas 1 and 2 in SC. Moreover, decoding performance was higher for joint angles than joint angular velocities, in contrast to what has been found with proximal limb decoders. SIGNIFICANCE: We conclude that cortical signals can be used for dexterous hand control in brain machine interface applications and that postural representations in SC may be exploited via intracortical stimulation to close the sensorimotor loop.",
+  "authors": [
+    "Okorokova Elizaveta V",
+    "Goodman James M",
+    "Hatsopoulos Nicholas G",
+    "Bensmaia Sliman J"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2020",
+  "doi": "10.1088/1741-2552/ab95ea",
+  "mesh": [
+    "Biomechanical Phenomena",
+    "Hand",
+    "Hand Strength",
+    "Motor Cortex",
+    "Movement",
+    "Sensorimotor Cortex"
+  ]
+}

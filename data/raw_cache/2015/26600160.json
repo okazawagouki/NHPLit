@@ -1,0 +1,41 @@
+{
+  "pmid": "26600160",
+  "title": "Enabling Low-Power, Multi-Modal Neural Interfaces Through a Common, Low-Bandwidth Feature Space.",
+  "abstract": "Brain-Machine Interfaces (BMIs) have shown great potential for generating prosthetic control signals. Translating BMIs into the clinic requires fully implantable, wireless systems; however, current solutions have high power requirements which limit their usability. Lowering this power consumption typically limits the system to a single neural modality, or signal type, and thus to a relatively small clinical market. Here, we address both of these issues by investigating the use of signal power in a single narrow frequency band as a decoding feature for extracting information from electrocorticographic (ECoG), electromyographic (EMG), and intracortical neural data. We have designed and tested the Multi-modal Implantable Neural Interface (MINI), a wireless recording system which extracts and transmits signal power in a single, configurable frequency band. In prerecorded datasets, we used the MINI to explore low frequency signal features and any resulting tradeoff between power savings and decoding performance losses. When processing intracortical data, the MINI achieved a power consumption 89.7% less than a more typical system designed to extract action potential waveforms. When processing ECoG and EMG data, the MINI achieved similar power reductions of 62.7% and 78.8%. At the same time, using the single signal feature extracted by the MINI, we were able to decode all three modalities with less than a 9% drop in accuracy relative to using high-bandwidth, modality-specific signal features. We believe this system architecture can be used to produce a viable, cost-effective, clinical BMI.",
+  "authors": [
+    "Irwin Zachary T",
+    "Thompson David E",
+    "Schroeder Karen E",
+    "Tat Derek M",
+    "Hassani Ali",
+    "Bullard Autumn J",
+    "Woo Shoshana L",
+    "Urbanchek Melanie G",
+    "Sachs Adam J",
+    "Cederna Paul S",
+    "Stacey William C",
+    "Patil Parag G",
+    "Chestek Cynthia A"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2016",
+  "doi": "10.1109/TNSRE.2015.2501752",
+  "mesh": [
+    "Amplifiers, Electronic",
+    "Analog-Digital Conversion",
+    "Animals",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Data Compression",
+    "Electric Power Supplies",
+    "Electrocorticography",
+    "Electromyography",
+    "Energy Transfer",
+    "Equipment Design",
+    "Equipment Failure Analysis",
+    "Humans",
+    "Macaca mulatta",
+    "Signal Processing, Computer-Assisted",
+    "Wireless Technology"
+  ]
+}

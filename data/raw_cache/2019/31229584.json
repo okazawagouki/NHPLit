@@ -1,0 +1,25 @@
+{
+  "pmid": "31229584",
+  "title": "A parameterized digital 3D model of the Rhesus macaque face for investigating the visual processing of social cues.",
+  "abstract": "BACKGROUND: Rhesus macaques are the most popular model species for studying the neural basis of visual face processing and social interaction using intracranial methods. However, the challenge of creating realistic, dynamic, and parametric macaque face stimuli has limited the experimental control and ethological validity of existing approaches. NEW METHOD: We performed statistical analyses of in vivo computed tomography data to generate an anatomically accurate, three-dimensional representation of Rhesus macaque cranio-facial morphology. The surface structures were further edited, rigged and textured by a professional digital artist with careful reference to photographs of macaque facial expression, colouration and pelage. RESULTS: The model offers precise, continuous, parametric control of craniofacial shape, emotional expression, head orientation, eye gaze direction, and many other parameters that can be adjusted to render either static or dynamic high-resolution faces. Example single-unit responses to such stimuli in macaque inferotemporal cortex demonstrate the value of parametric control over facial appearance and behaviours. COMPARISON WITH EXISTING METHOD(S): The generation of such a high-dimensionality and systematically controlled stimulus set of conspecific faces, with accurate craniofacial modelling and professional finalization of facial details, is currently not achievable using existing methods. CONCLUSIONS: The results herald a new set of possibilities in adaptive sampling of a high-dimensional and socially meaningful feature space, thus opening the door to systematic testing of hypotheses about the abundant neural specialization for faces found in the primate.",
+  "authors": [
+    "Murphy Aidan P",
+    "Leopold David A"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2019",
+  "doi": "10.1016/j.jneumeth.2019.06.001",
+  "mesh": [
+    "Animals",
+    "Cues",
+    "Face",
+    "Image Processing, Computer-Assisted",
+    "Imaging, Three-Dimensional",
+    "Macaca mulatta",
+    "Models, Anatomic",
+    "Models, Animal",
+    "Software",
+    "Tomography, X-Ray Computed",
+    "Visual Perception"
+  ]
+}

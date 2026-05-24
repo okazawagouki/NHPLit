@@ -1,0 +1,29 @@
+{
+  "pmid": "32516573",
+  "title": "Neural Trajectories in the Supplementary Motor Area and Motor Cortex Exhibit Distinct Geometries, Compatible with Different Classes of Computation.",
+  "abstract": "The supplementary motor area (SMA) is believed to contribute to higher order aspects of motor control. We considered a key higher order role: tracking progress throughout an action. We propose that doing so requires population activity to display low \"trajectory divergence\": situations with different future motor outputs should be distinct, even when present motor output is identical. We examined neural activity in SMA and primary motor cortex (M1) as monkeys cycled various distances through a virtual environment. SMA exhibited multiple response features that were absent in M1. At the single-neuron level, these included ramping firing rates and cycle-specific responses. At the population level, they included a helical population-trajectory geometry with shifts in the occupied subspace as movement unfolded. These diverse features all served to reduce trajectory divergence, which was much lower in SMA versus M1. Analogous population-trajectory geometry, also with low divergence, naturally arose in networks trained to internally guide multi-cycle movement.",
+  "authors": [
+    "Russo Abigail A",
+    "Khajeh Ramin",
+    "Bittner Sean R",
+    "Perkins Sean M",
+    "Cunningham John P",
+    "Abbott L F",
+    "Churchland Mark M"
+  ],
+  "journal": "Neuron",
+  "year": "2020",
+  "doi": "10.1016/j.neuron.2020.05.020",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain Mapping",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Neural Pathways",
+    "Neurons",
+    "Psychomotor Performance",
+    "Reaction Time",
+    "User-Computer Interface"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "pmid": "42079751",
+  "title": "Accelerated Intrinsic Beating Rate in Heterogeneously Coupled Human Pluripotent Stem Cell-Derived Cardiomyocytes Can Underlie Focal Ventricular Tachycardia in Regenerative Therapy.",
+  "abstract": "Cardiac regenerative therapies seek to replace damaged tissue following myocardial infarction to prevent heart failure. Human pluripotent stem-cell derived cardiomyocyte (hPSC-CM) injection can be used to remuscularize the heart and improve function but also cause ventricular tachycardia (VT). Electrical mapping studies suggest this VT is focal (i.e., driven by spontaneous excitations), but true mechanisms remain unknown. Computational approaches can provide new insights into these arrhythmias, but current simulation frameworks have not replicated focal VT. In this study, we conducted simulations with biophysically plausible representations of cell injection and the formation of gap junctions between hPSC-CM grafts and host tissue. We examined hPSC-CM ionic models with slow (1.1 Hz) and accelerated (2.5, 4 Hz) beating rates and assessed if these conditions could produce focal VT that is adequately rapid and robust to overpower sinus rhythm. For simulations conducted in human ventricular slice geometries with non-human primate graft patterns, we assessed susceptibility to focal VT. For the slow ionic model, focal VT was seen only at bradycardic heart rates (40 bpm); at faster heart rates (60 or 80 bpm), ectopic activity from the graft could not out-compete Purkinje-like endocardial excitations. In contrast, focal VT was seen for all tested heart rates when faster ionic models were used. Doubling graft size to cover larger infarct areas increased focal VT susceptibility in all cases. Thus, we conclude that post-injection increase in hPSC-CM spontaneous beating rate is a potential mechanism for focal VT, with applications in safer cell injection methods following experimental validation.",
+  "authors": [
+    "Gibbs Chelsea E",
+    "Boyle Patrick M"
+  ],
+  "journal": "Journal of precision medicine (Amsterdam, Netherlands)",
+  "year": "2026",
+  "doi": "10.1016/j.premed.2026.100035",
+  "mesh": []
+}

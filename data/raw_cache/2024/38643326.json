@@ -1,0 +1,18 @@
+{
+  "pmid": "38643326",
+  "title": "An analysis of information segregation in parallel streams of a multi-stream convolutional neural network.",
+  "abstract": "Visual information is processed in hierarchically organized parallel streams in the primate brain. In the present study, information segregation in parallel streams was examined by constructing a convolutional neural network with parallel architecture in all of the convolutional layers. Although filter weights for convolution were initially set to random values, color information was segregated from shape information in most model instances after training. Deletion of the color-related stream decreased recognition accuracy of animate images, whereas deletion of the shape-related stream decreased recognition accuracy of both animate and inanimate images. The results suggest that properties of filters and functions of a stream are spontaneously segregated in parallel streams of neural networks.",
+  "authors": [
+    "Tamura Hiroshi"
+  ],
+  "journal": "Scientific reports",
+  "year": "2024",
+  "doi": "10.1038/s41598-024-59930-7",
+  "mesh": [
+    "Animals",
+    "Neural Networks, Computer",
+    "Brain",
+    "Recognition, Psychology",
+    "Visual Cortex"
+  ]
+}

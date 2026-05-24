@@ -1,0 +1,30 @@
+{
+  "pmid": "23366816",
+  "title": "Wearable wireless sensor platform for studying autonomic activity and social behavior in non-human primates.",
+  "abstract": "A portable system has been designed to enable remote monitoring of autonomic nervous system output in non-human primates for the purpose of studying neural function related to social behavior over extended periods of time in an ambulatory setting. In contrast to prior systems which only measure heart activity, are restricted to a constrained laboratory setting, or require surgical attachment, our system is comprised of a multi-sensor self-contained wearable vest that can easily be transferred from one subject to another. The vest contains a small detachable low-power electronic sensor module for measuring electrodermal activity (EDA), electrocardiography (ECG), 3-axis acceleration, and temperature. The wireless transmission is implemented using a standard Bluetooth protocol and a mobile phone, which enables freedom of movement for the researcher as well as for the test subject. A custom Android software application was created on the mobile phone for viewing and recording live data as well as creating annotations. Data from up to seven monkeys can be recorded simultaneously using the mobile phone, with the option of real-time upload to a remote web server. Sample data are presented from two rhesus macaque monkeys showing stimulus-induced response in the laboratory as well as long-term ambulatory data collected in a large monkey cage. This system enables new possibilities for studying underlying mechanisms between autonomic brain function and social behavior with connection to human research in areas such as autism, substance abuse, and mood disorders.",
+  "authors": [
+    "Fletcher Richard Ribón",
+    "Amemori Ken-ichi",
+    "Goodwin Matthew",
+    "Graybiel Ann M"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2012",
+  "doi": "10.1109/EMBC.2012.6346855",
+  "mesh": [
+    "Actigraphy",
+    "Animals",
+    "Autonomic Nervous System",
+    "Behavior, Animal",
+    "Electrocardiography",
+    "Equipment Design",
+    "Equipment Failure Analysis",
+    "Female",
+    "Galvanic Skin Response",
+    "Heart Rate",
+    "Macaca mulatta",
+    "Monitoring, Ambulatory",
+    "Social Behavior",
+    "Telemetry"
+  ]
+}

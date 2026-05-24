@@ -1,0 +1,30 @@
+{
+  "pmid": "31539592",
+  "title": "Validation of structural brain connectivity networks: The impact of scanning parameters.",
+  "abstract": "Evaluation of the structural connectivity (SC) of the brain based on tractography has mainly focused on the choice of diffusion model, tractography algorithm, and their respective parameter settings. Here, we systematically validate SC derived from a post mortem monkey brain, while varying key acquisition parameters such as the b-value, gradient angular resolution and image resolution. As gold standard we use the connectivity matrix obtained invasively with histological tracers by Markov et al. (2014). As performance metric, we use cross entropy as a measure that enables comparison of the relative tracer labeled neuron counts to the streamline counts from tractography. We find that high angular resolution and high signal-to-noise ratio are important to estimate SC, and that SC derived from low image resolution (1.0<sup>3</sup> mm<sup>3</sup>) are in better agreement with the tracer network, than those derived from high image resolution (0.5<sup>3</sup> mm<sup>3</sup>) or at an even lower image resolution (2.0<sup>3</sup> mm<sup>3</sup>). In contradiction, sensitivity and specificity analyses suggest that if the angular resolution is sufficient, the balanced compromise in which sensitivity and specificity are identical remains 60-64% regardless of the other scanning parameters. Interestingly, the tracer graph is assumed to be the gold standard but by thresholding, the balanced compromise increases to 70-75%. Hence, by using performance metrics based on binarized tracer graphs, one risks losing important information, changing the performance of SC graphs derived by tractography and their dependence of different scanning parameters.",
+  "authors": [
+    "Ambrosen Karen S",
+    "Eskildsen Simon F",
+    "Hinne Max",
+    "Krug Kristine",
+    "Lundell Henrik",
+    "Schmidt Mikkel N",
+    "van Gerven Marcel A J",
+    "Mørup Morten",
+    "Dyrby Tim B"
+  ],
+  "journal": "NeuroImage",
+  "year": "2020",
+  "doi": "10.1016/j.neuroimage.2019.116207",
+  "mesh": [
+    "Animals",
+    "Autopsy",
+    "Brain",
+    "Diffusion Tensor Imaging",
+    "Macaca mulatta",
+    "Male",
+    "Nerve Net",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "28660250",
+  "title": "Shape Selectivity of Middle Superior Temporal Sulcus Body Patch Neurons.",
+  "abstract": "Functional MRI studies in primates have demonstrated cortical regions that are strongly activated by visual images of bodies. The presence of such body patches in macaques allows characterization of the stimulus selectivity of their single neurons. Middle superior temporal sulcus body (MSB) patch neurons showed similar stimulus selectivity for natural, shaded, and textured images compared with their silhouettes, suggesting that shape is an important determinant of MSB responses. Here, we examined and modeled the shape selectivity of single MSB neurons. We measured the responses of single MSB neurons to a variety of shapes producing a wide range of responses. We used an adaptive stimulus sampling procedure, selecting and modifying shapes based on the responses of the neuron. Forty percent of shapes that produced the maximal response were rated by humans as animal-like, but the top shape of many MSB neurons was not judged as resembling a body. We fitted the shape selectivity of MSB neurons with a model that parameterizes shapes in terms of curvature and orientation of contour segments, with a pixel-based model, and with layers of units of convolutional neural networks (CNNs). The deep convolutional layers of CNNs provided the best goodness-of-fit, with a median explained explainable variance of the neurons' responses of 77%. The goodness-of-fit increased along the convolutional layers' hierarchy but was lower for the fully connected layers. Together with demonstrating the successful modeling of single unit shape selectivity with deep CNNs, the data suggest that semantic or category knowledge determines only slightly the single MSB neuron's shape selectivity.",
+  "authors": [
+    "Kalfas Ioannis",
+    "Kumar Satwant",
+    "Vogels Rufin"
+  ],
+  "journal": "eNeuro",
+  "year": "2017",
+  "doi": "10.1523/ENEURO.0113-17.2017",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Eye Movement Measurements",
+    "Form Perception",
+    "Humans",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Psychophysics",
+    "Temporal Lobe"
+  ]
+}

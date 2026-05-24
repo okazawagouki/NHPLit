@@ -1,0 +1,25 @@
+{
+  "pmid": "17070071",
+  "title": "Independent component analysis of high-resolution imaging data identifies distinct functional domains.",
+  "abstract": "In the vertebrate brain external stimuli are often represented in distinct functional domains distributed across the cortical surface. Fast imaging techniques used to measure patterns of population activity record movies with many pixels and many frames, i.e., data sets with high dimensionality. Here we demonstrate that principal component analysis (PCA) followed by spatial independent component analysis (sICA), can be exploited to reduce the dimensionality of data sets recorded in the olfactory bulb and the somatosensory cortex of mice as well as the visual cortex of monkeys, without loosing the stimulus-specific responses. Different neuronal populations are separated based on their stimulus-specific spatiotemporal activation. Both, spatial and temporal response characteristics can be objectively obtained, simultaneously. In the olfactory bulb, groups of glomeruli with different response latencies can be identified. This is shown for recordings of olfactory receptor neuron input measured with a calcium-sensitive axon tracer and for network dynamics measured with the voltage-sensitive dye RH 1838. In the somatosensory cortex, barrels responding to the stimulation of single whiskers can be automatically detected. In the visual cortex orientation columns can be extracted. In all cases artifacts due to movement, heartbeat or respiration were separated from the functional signal by sICA and could be removed from the data set. sICA following PCA is therefore a powerful technique for data compression, unbiased analysis and dissection of imaging data of population activity, collected with high spatial and temporal resolution.",
+  "authors": [
+    "Reidl Jürgen",
+    "Starke Jens",
+    "Omer David B",
+    "Grinvald Amiram",
+    "Spors Hartwig"
+  ],
+  "journal": "NeuroImage",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Data Interpretation, Statistical",
+    "Macaca fascicularis",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Olfactory Bulb",
+    "Somatosensory Cortex",
+    "Visual Cortex"
+  ]
+}

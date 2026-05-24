@@ -1,0 +1,31 @@
+{
+  "pmid": "38744976",
+  "title": "A brain machine interface framework for exploring proactive control of smart environments.",
+  "abstract": "Brain machine interfaces (BMIs) can substantially improve the quality of life of elderly or disabled people. However, performing complex action sequences with a BMI system is onerous because it requires issuing commands sequentially. Fundamentally different from this, we have designed a BMI system that reads out mental planning activity and issues commands in a proactive manner. To demonstrate this, we recorded brain activity from freely-moving monkeys performing an instructed task and decoded it with an energy-efficient, small and mobile field-programmable gate array hardware decoder triggering real-time action execution on smart devices. Core of this is an adaptive decoding algorithm that can compensate for the day-by-day neuronal signal fluctuations with minimal re-calibration effort. We show that open-loop planning-ahead control is possible using signals from primary and pre-motor areas leading to significant time-gain in the execution of action sequences. This novel approach provides, thus, a stepping stone towards improved and more humane control of different smart environments with mobile brain machine interfaces.",
+  "authors": [
+    "Braun Jan-Matthias",
+    "Fauth Michael",
+    "Berger Michael",
+    "Huang Nan-Sheng",
+    "Simeoni Ezequiel",
+    "Gaeta Eugenio",
+    "Rodrigues do Carmo Ricardo",
+    "García-Betances Rebeca I",
+    "Arredondo Waldmeyer María Teresa",
+    "Gail Alexander",
+    "Larsen Jørgen C",
+    "Manoonpong Poramate",
+    "Tetzlaff Christian",
+    "Wörgötter Florentin"
+  ],
+  "journal": "Scientific reports",
+  "year": "2024",
+  "doi": "10.1038/s41598-024-60280-7",
+  "mesh": [
+    "Brain-Computer Interfaces",
+    "Animals",
+    "Algorithms",
+    "Brain",
+    "Macaca mulatta"
+  ]
+}

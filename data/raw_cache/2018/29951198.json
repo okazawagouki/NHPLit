@@ -1,0 +1,17 @@
+{
+  "pmid": "29951198",
+  "title": "A new approach to solving the feature-binding problem in primate vision.",
+  "abstract": "We discuss a recently proposed approach to solve the classic feature-binding problem in primate vision that uses neural dynamics known to be present within the visual cortex. Broadly, the feature-binding problem in the visual context concerns not only how a hierarchy of features such as edges and objects within a scene are represented, but also the hierarchical relationships between these features at every spatial scale across the visual field. This is necessary for the visual brain to be able to make sense of its visuospatial world. Solving this problem is an important step towards the development of artificial general intelligence. In neural network simulation studies, it has been found that neurons encoding the binding relations between visual features, known as binding neurons, emerge during visual training when key properties of the visual cortex are incorporated into the models. These biological network properties include (i) bottom-up, lateral and top-down synaptic connections, (ii) spiking neuronal dynamics, (iii) spike timing-dependent plasticity, and (iv) a random distribution of axonal transmission delays (of the order of several milliseconds) in the propagation of spikes between neurons. After training the network on a set of visual stimuli, modelling studies have reported observing the gradual emergence of polychronization through successive layers of the network, in which subpopulations of neurons have learned to emit their spikes in regularly repeating spatio-temporal patterns in response to specific visual stimuli. Such a subpopulation of neurons is known as a polychronous neuronal group (PNG). Some neurons embedded within these PNGs receive convergent inputs from neurons representing lower- and higher-level visual features, and thus appear to encode the hierarchical binding relationship between features. Neural activity with this kind of spatio-temporal structure robustly emerges in the higher network layers even when neurons in the input layer represent visual stimuli with spike timings that are randomized according to a Poisson distribution. The resulting hierarchical representation of visual scenes in such models, including the representation of hierarchical binding relations between lower- and higher-level visual features, is consistent with the hierarchical phenomenology or subjective experience of primate vision and is distinct from approaches interested in segmenting a visual scene into a finite set of objects.",
+  "authors": [
+    "Isbister James B",
+    "Eguchi Akihiro",
+    "Ahmad Nasir",
+    "Galeazzi Juan M",
+    "Buckley Mark J",
+    "Stringer Simon"
+  ],
+  "journal": "Interface focus",
+  "year": "2018",
+  "doi": "10.1098/rsfs.2018.0021",
+  "mesh": []
+}

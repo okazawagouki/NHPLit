@@ -1,0 +1,25 @@
+{
+  "pmid": "35902037",
+  "title": "Modelling transcranial ultrasound neuromodulation: an energy-based multiscale framework.",
+  "abstract": "Several animal and human studies have now established the potential of low intensity, low frequency transcranial ultrasound (TUS) for non-invasive neuromodulation. Paradoxically, the underlying mechanisms through which TUS neuromodulation operates are still unclear, and a consensus on the identification of optimal sonication parameters still remains elusive. One emerging hypothesis based on thermodynamical considerations attributes the acoustic-induced nerve activity alterations to the mechanical energy and/or entropy conversions occurring during TUS action. Here, we propose a multiscale modelling framework to examine the energy states of neuromodulation under TUS. First, macroscopic tissue-level acoustic simulations of the sonication of a whole monkey brain are conducted under different sonication protocols. For each one of them, mechanical loading conditions of the received waves in the anterior cingulate cortex region are recorded and exported into a microscopic cell-level 3D viscoelastic finite element model of a neuronal axon embedded in extracellular medium. Pulse-averaged elastically stored and viscously dissipated energy rate densities during axon deformation are finally computed under different sonication incident angles and are mapped against distinct combinations of sonication parameters of the TUS. The proposed multiscale framework allows for the analysis of vibrational patterns of the axons and its comparison against the spectrograms of stimulating ultrasound. The results are in agreement with literature data on neuromodulation, demonstrating the potential of this framework to identify optimised acoustic parameters in TUS neuromodulation. The proposed approach is finally discussed in the context of multiphysics energetic considerations, argued here to be a promising avenue towards a scalable framework for TUS in silico predictions. STATEMENT OF SIGNIFICANCE: Low-intensity transcranial ultrasound (TUS) is poised to become a leading neuromodulation technique for the treatment of neurological disorders. Paradoxically, how it operates at the cellular scale remains unknown, hampering progress in personalised treatment. To this end, models of the multiphysics of neurons able to upscale results to the organ scale are required. We propose here to achieve this by considering an axon submitted to an ultrasound wave extracted from a simulation at the organ scale. Doing so, information pertaining to both stored and dissipated axonal energies can be extracted for a given head/brain morphology. This two-scale multiphysics energetic approach is a promising scalable framework for in silico predictions in the context of personalised TUS treatment.",
+  "authors": [
+    "Chen Haoyu",
+    "Felix Ciara",
+    "Folloni Davide",
+    "Verhagen Lennart",
+    "Sallet Jérôme",
+    "Jerusalem Antoine"
+  ],
+  "journal": "Acta biomaterialia",
+  "year": "2022",
+  "doi": "10.1016/j.actbio.2022.07.034",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Humans",
+    "Neurons",
+    "Ultrasonic Waves",
+    "Ultrasonography"
+  ]
+}

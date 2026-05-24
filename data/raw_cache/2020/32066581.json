@@ -1,0 +1,28 @@
+{
+  "pmid": "32066581",
+  "title": "Electrocorticogram (ECoG) Is Highly Informative in Primate Visual Cortex.",
+  "abstract": "Neural signals recorded at different scales contain information about environment and behavior and have been used to control Brain Machine Interfaces with varying degrees of success. However, a direct comparison of their efficacy has not been possible due to different recording setups, tasks, species, etc. To address this, we implanted customized arrays having both microelectrodes and electrocorticogram (ECoG) electrodes in the primary visual cortex of 2 female macaque monkeys, and also recorded electroencephalogram (EEG), while they viewed a variety of naturalistic images and parametric gratings. Surprisingly, ECoG had higher information and decodability than all other signals. Combining a few ECoG electrodes allowed more accurate decoding than combining a much larger number of microelectrodes. Control analyses showed that higher decoding accuracy of ECoG compared with local field potential was not because of differences in low-level visual features captured by them but instead because of larger spatial summation of the ECoG. Information was high in the 30-80 Hz range and at lower frequencies. Information in different frequencies and scales was nonredundant. These results have strong implications for Brain Machine Interface applications and for study of population representation of visual stimuli.<b>SIGNIFICANCE STATEMENT</b> Electrophysiological signals captured across scales by different recording electrodes are regularly used for Brain Machine Interfaces, but the information content varies due to electrode size and location. A systematic comparison of their efficiency for Brain Machine Interfaces is important but technically challenging. Here, we recorded simultaneous signals across four scales: spikes, local field potential, electrocorticogram (ECoG), and EEG, and compared their information and decoding accuracy for a large variety of naturalistic stimuli. We found that ECoGs were highly informative and outperformed other signals in information content and decoding accuracy.",
+  "authors": [
+    "Kanth Sidrat Tasawoor",
+    "Ray Supratim"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2020",
+  "doi": "10.1523/JNEUROSCI.1368-19.2020",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Brain Mapping",
+    "Brain-Computer Interfaces",
+    "Electrocorticography",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Electrophysiological Phenomena",
+    "Evoked Potentials, Visual",
+    "Female",
+    "Macaca radiata",
+    "Microelectrodes",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

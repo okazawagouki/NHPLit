@@ -1,0 +1,24 @@
+{
+  "pmid": "27740497",
+  "title": "Encoding and Decoding of Multi-Channel ICMS in Macaque Somatosensory Cortex.",
+  "abstract": "Naturalistic control of brain-machine interfaces will require artificial proprioception, potentially delivered via intracortical microstimulation (ICMS). We have previously shown that multi-channel ICMS can guide a monkey reaching to unseen targets in a planar workspace. Here, we expand on that work, asking how ICMS is decoded into target angle and distance by analyzing the performance of a monkey when ICMS feedback was degraded. From the resulting pattern of errors, we found that the animal's estimate of target direction was consistent with a weighted circular-mean strategy-close to the optimal decoding strategy given the ICMS encoding. These results support our previous finding that animals can learn to use this artificial sensory feedback in an efficient and naturalistic manner.",
+  "authors": [
+    "Dadarlat Maria C",
+    "Sabes Philip N"
+  ],
+  "journal": "IEEE transactions on haptics",
+  "year": "2016",
+  "doi": "10.1109/TOH.2016.2616311",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electric Stimulation",
+    "Electrocorticography",
+    "Feedback, Sensory",
+    "Macaca",
+    "Male",
+    "Proprioception",
+    "Psychomotor Performance",
+    "Somatosensory Cortex"
+  ]
+}

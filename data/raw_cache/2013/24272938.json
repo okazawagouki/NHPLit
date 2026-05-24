@@ -1,0 +1,31 @@
+{
+  "pmid": "24272938",
+  "title": "Trial-to-trial, uncertainty-based adjustment of decision boundaries in visual categorization.",
+  "abstract": "Categorization is a cornerstone of perception and cognition. Computationally, categorization amounts to applying decision boundaries in the space of stimulus features. We designed a visual categorization task in which optimal performance requires observers to incorporate trial-to-trial knowledge of the level of sensory uncertainty when setting their decision boundaries. We found that humans and monkeys did adjust their decision boundaries from trial to trial as the level of sensory noise varied, with some subjects performing near optimally. We constructed a neural network that implements uncertainty-based, near-optimal adjustment of decision boundaries. Divisive normalization emerges automatically as a key neural operation in this network. Our results offer an integrated computational and mechanistic framework for categorization under uncertainty.",
+  "authors": [
+    "Qamar Ahmad T",
+    "Cotton R James",
+    "George Ryan G",
+    "Beck Jeffrey M",
+    "Prezhdo Eugenia",
+    "Laudano Allison",
+    "Tolias Andreas S",
+    "Ma Wei Ji"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2013",
+  "doi": "10.1073/pnas.1219756110",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Concept Formation",
+    "Decision Making",
+    "Haplorhini",
+    "Humans",
+    "Likelihood Functions",
+    "Models, Neurological",
+    "Nerve Net",
+    "Species Specificity",
+    "Visual Perception"
+  ]
+}

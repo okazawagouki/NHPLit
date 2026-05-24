@@ -1,0 +1,25 @@
+{
+  "pmid": "30344047",
+  "title": "A Neural Population Mechanism for Rapid Learning.",
+  "abstract": "Long-term learning of language, mathematics, and motor skills likely requires cortical plasticity, but behavior often requires much faster changes, sometimes even after single errors. Here, we propose one neural mechanism to rapidly develop new motor output without altering the functional connectivity within or between cortical areas. We tested cortico-cortical models relating the activity of hundreds of neurons in the premotor (PMd) and primary motor (M1) cortices throughout adaptation to reaching movement perturbations. We found a signature of learning in the \"output-null\" subspace of PMd with respect to M1 reflecting the ability of premotor cortex to alter preparatory activity without directly influencing M1. The output-null subspace planning activity evolved with adaptation, yet the \"output-potent\" mapping that captures information sent to M1 was preserved. Our results illustrate a population-level cortical mechanism to progressively adjust the output from one brain area to its downstream structures that could be exploited for rapid behavioral adaptation.",
+  "authors": [
+    "Perich Matthew G",
+    "Gallego Juan A",
+    "Miller Lee E"
+  ],
+  "journal": "Neuron",
+  "year": "2018",
+  "doi": "10.1016/j.neuron.2018.09.030",
+  "mesh": [
+    "Adaptation, Physiological",
+    "Animals",
+    "Learning",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Neurons",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Time Factors"
+  ]
+}

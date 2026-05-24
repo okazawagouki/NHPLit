@@ -1,0 +1,25 @@
+{
+  "pmid": "31150326",
+  "title": "Model-Based Separation, Detection, and Classification of Eye Movements.",
+  "abstract": "OBJECTIVE: We present a physiologically motivated eye movement analysis framework for model-based separation, detection, and classification (MBSDC) of eye movements. By estimating kinematic and neural controller signals for saccades, smooth pursuit, and fixational eye movements in a mechanistic model of the oculomotor system we are able to separate and analyze these eye movements independently. METHODS: We extended an established oculomotor model for horizontal eye movements by neural controller signals and by a blink artifact model. To estimate kinematic (position, velocity, acceleration, forces) and neural controller signals from eye position data, we employ Kalman smoothing and sparse input estimation techniques. The estimated signals are used for detecting saccade start and end points, and for classifying the recording into saccades, smooth pursuit, fixations, post-saccadic oscillations, and blinks. RESULTS: On simulated data, the reconstruction error of the velocity profiles is about half the error value obtained by the commonly employed approach of filtering and numerical differentiation. In experiments with smooth pursuit data from human subjects, we observe an accurate signal separation. In addition, in neural recordings from non-human primates, the estimated neural controller signals match the real recordings strikingly well. SIGNIFICANCE: The MBSDC framework enables the analysis of multi-type eye movement recordings and provides a physiologically motivated approach to study motor commands and might aid the discovery of new digital biomarkers. CONCLUSION: The proposed framework provides a model-based approach for a wide variety of eye movement analysis tasks.",
+  "authors": [
+    "Wadehn Federico",
+    "Weber Thilo",
+    "Mack David J",
+    "Heldt Thomas",
+    "Loeliger Hans-Andrea"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2020",
+  "doi": "10.1109/TBME.2019.2918986",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Eye Movements",
+    "Humans",
+    "Models, Biological",
+    "Signal Processing, Computer-Assisted",
+    "Video Recording"
+  ]
+}

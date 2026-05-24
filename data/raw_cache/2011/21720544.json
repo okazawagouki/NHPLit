@@ -1,0 +1,24 @@
+{
+  "pmid": "21720544",
+  "title": "Statistical analyses support power law distributions found in neuronal avalanches.",
+  "abstract": "The size distribution of neuronal avalanches in cortical networks has been reported to follow a power law distribution with exponent close to -1.5, which is a reflection of long-range spatial correlations in spontaneous neuronal activity. However, identifying power law scaling in empirical data can be difficult and sometimes controversial. In the present study, we tested the power law hypothesis for neuronal avalanches by using more stringent statistical analyses. In particular, we performed the following steps: (i) analysis of finite-size scaling to identify scale-free dynamics in neuronal avalanches, (ii) model parameter estimation to determine the specific exponent of the power law, and (iii) comparison of the power law to alternative model distributions. Consistent with critical state dynamics, avalanche size distributions exhibited robust scaling behavior in which the maximum avalanche size was limited only by the spatial extent of sampling (\"finite size\" effect). This scale-free dynamics suggests the power law as a model for the distribution of avalanche sizes. Using both the Kolmogorov-Smirnov statistic and a maximum likelihood approach, we found the slope to be close to -1.5, which is in line with previous reports. Finally, the power law model for neuronal avalanches was compared to the exponential and to various heavy-tail distributions based on the Kolmogorov-Smirnov distance and by using a log-likelihood ratio test. Both the power law distribution without and with exponential cut-off provided significantly better fits to the cluster size distributions in neuronal avalanches than the exponential, the lognormal and the gamma distribution. In summary, our findings strongly support the power law scaling in neuronal avalanches, providing further evidence for critical state dynamics in superficial layers of cortex.",
+  "authors": [
+    "Klaus Andreas",
+    "Yu Shan",
+    "Plenz Dietmar"
+  ],
+  "journal": "PloS one",
+  "year": "2011",
+  "doi": "10.1371/journal.pone.0019779",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cluster Analysis",
+    "Data Interpretation, Statistical",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons"
+  ]
+}

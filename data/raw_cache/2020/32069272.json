@@ -1,0 +1,21 @@
+{
+  "pmid": "32069272",
+  "title": "The role of adaptation in generating monotonic rate codes in auditory cortex.",
+  "abstract": "In primary auditory cortex, slowly repeated acoustic events are represented temporally by the stimulus-locked activity of single neurons. Single-unit studies in awake marmosets (Callithrix jacchus) have shown that a sub-population of these neurons also monotonically increase or decrease their average discharge rate during stimulus presentation for higher repetition rates. Building on a computational single-neuron model that generates stimulus-locked responses with stimulus evoked excitation followed by strong inhibition, we find that stimulus-evoked short-term depression is sufficient to produce synchronized monotonic positive and negative responses to slowly repeated stimuli. By exploring model robustness and comparing it to other models for adaptation to such stimuli, we conclude that short-term depression best explains our observations in single-unit recordings in awake marmosets. Together, our results show how a simple biophysical mechanism in single neurons can generate complementary neural codes for acoustic stimuli.",
+  "authors": [
+    "Lee Jong Hoon",
+    "Wang Xiaoqin",
+    "Bendor Daniel"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2020",
+  "doi": "10.1371/journal.pcbi.1007627",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Adaptation, Physiological",
+    "Animals",
+    "Auditory Cortex",
+    "Callithrix",
+    "Evoked Potentials, Auditory"
+  ]
+}

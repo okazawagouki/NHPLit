@@ -1,0 +1,15 @@
+{
+  "pmid": "24910596",
+  "title": "Corticocortical feedback increases the spatial extent of normalization.",
+  "abstract": "Normalization has been proposed as a canonical computation operating across different brain regions, sensory modalities, and species. It provides a good phenomenological description of non-linear response properties in primary visual cortex (V1), including the contrast response function and surround suppression. Despite its widespread application throughout the visual system, the underlying neural mechanisms remain largely unknown. We recently observed that corticocortical feedback contributes to surround suppression in V1, raising the possibility that feedback acts through normalization. To test this idea, we characterized area summation and contrast response properties in V1 with and without feedback from V2 and V3 in alert macaques and applied a standard normalization model to the data. Area summation properties were well explained by a form of divisive normalization, which computes the ratio between a neuron's driving input and the spatially integrated activity of a \"normalization pool.\" Feedback inactivation reduced surround suppression by shrinking the spatial extent of the normalization pool. This effect was independent of the gain modulation thought to mediate the influence of contrast on area summation, which remained intact during feedback inactivation. Contrast sensitivity within the receptive field center was also unaffected by feedback inactivation, providing further evidence that feedback participates in normalization independent of the circuit mechanisms involved in modulating contrast gain and saturation. These results suggest that corticocortical feedback contributes to surround suppression by increasing the visuotopic extent of normalization and, via this mechanism, feedback can play a critical role in contextual information processing.",
+  "authors": [
+    "Nassi Jonathan J",
+    "Gómez-Laberge Camille",
+    "Kreiman Gabriel",
+    "Born Richard T"
+  ],
+  "journal": "Frontiers in systems neuroscience",
+  "year": "2014",
+  "doi": "10.3389/fnsys.2014.00105",
+  "mesh": []
+}

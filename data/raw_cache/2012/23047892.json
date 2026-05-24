@@ -1,0 +1,27 @@
+{
+  "pmid": "23047892",
+  "title": "Feedback-controlled parallel point process filter for estimation of goal-directed movements from neural signals.",
+  "abstract": "Real-time brain-machine interfaces have estimated either the target of a movement, or its kinematics. However, both are encoded in the brain. Moreover, movements are often goal-directed and made to reach a target. Hence, modeling the goal-directed nature of movements and incorporating the target information in the kinematic decoder can increase its accuracy. Using an optimal feedback control design, we develop a recursive Bayesian kinematic decoder that models goal-directed movements and combines the target information with the neural spiking activity during movement. To do so, we build a prior goal-directed state-space model for the movement using an optimal feedback control model of the sensorimotor system that aims to emulate the processes underlying actual motor control and takes into account the sensory feedback. Most goal-directed models, however, depend on the movement duration, not known a priori to the decoder. This has prevented their real-time implementation. To resolve this duration uncertainty, the decoder discretizes the duration and consists of a bank of parallel point process filters, each combining the prior model of a discretized duration with the neural activity. The kinematics are computed by optimally combining these filter estimates. Using the feedback-controlled model and even a coarse discretization, the decoder significantly reduces the root mean square error in estimation of reaching movements performed by a monkey.",
+  "authors": [
+    "Shanechi Maryam M",
+    "Wornell Gregory W",
+    "Williams Ziv M",
+    "Brown Emery N"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2013",
+  "doi": "10.1109/TNSRE.2012.2221743",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Evoked Potentials, Motor",
+    "Feedback",
+    "Goals",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Movement",
+    "Signal Processing, Computer-Assisted",
+    "Task Performance and Analysis"
+  ]
+}

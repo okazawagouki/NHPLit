@@ -1,0 +1,26 @@
+{
+  "pmid": "40627399",
+  "title": "Multiarea processing in body patches of the primate inferotemporal cortex implements inverse graphics.",
+  "abstract": "Stimulus-driven, multiarea processing in the inferotemporal (IT) cortex is thought to be critical for transforming sensory inputs into useful representations of the world. What are the formats of these neural representations and how are they computed across the nodes of the IT networks? A growing literature in computational neuroscience focuses on the computational-level objective of acquiring high-level image statistics that supports useful distinctions, including between object identities or categories. Here, inspired by classic theories of vision, we suggest an alternative possibility. We show that inferring 3D objects may be a distinct computational-level objective of IT, implemented via an algorithm analogous to graphics-based generative models of how 3D scenes form and project to images, but in the reverse order. Using perception of bodies as a case study, we show that inverse graphics spontaneously emerges in inference networks trained to map images to 3D objects. Remarkably, this correspondence to the reverse of a graphics-based generative model also holds across the body processing network of the macaque IT cortex. Finally, inference networks recapitulate the feedforward progression across the stages of this IT network and do so better than the currently dominant vision models, including both supervised and unsupervised variants, none of which aligns with the reverse of graphics. This work suggests inverse graphics as a multiarea neural algorithm implemented within IT, and points to ways for replicating primate vision capabilities in machines.",
+  "authors": [
+    "Yilmaz Hakan",
+    "Shah Aalap D",
+    "Letrou Ariadne",
+    "Kumar Satwant",
+    "Vogels Rufin",
+    "Yildirim Ilker"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2025",
+  "doi": "10.1073/pnas.2420287122",
+  "mesh": [
+    "Animals",
+    "Temporal Lobe",
+    "Models, Neurological",
+    "Algorithms",
+    "Visual Perception",
+    "Macaca mulatta",
+    "Visual Cortex",
+    "Computer Graphics"
+  ]
+}

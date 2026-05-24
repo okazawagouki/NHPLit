@@ -1,0 +1,28 @@
+{
+  "pmid": "29623905",
+  "title": "Compact standalone platform for neural recording with real-time spike sorting and data logging.",
+  "abstract": "OBJECTIVE: Longitudinal observation of single unit neural activity from large numbers of cortical neurons in awake and mobile animals is often a vital step in studying neural network behaviour and towards the prospect of building effective brain-machine interfaces (BMIs). These recordings generate enormous amounts of data for transmission and storage, and typically require offline processing to tease out the behaviour of individual neurons. Our aim was to create a compact system capable of: (1) reducing the data bandwidth by circa 2 to 3 orders of magnitude (greatly improving battery lifetime and enabling low power wireless transmission in future versions); (2) producing real-time, low-latency, spike sorted data; and (3) long term untethered operation. APPROACH: We have developed a headstage that operates in two phases. In the short training phase a computer is attached and classic spike sorting is performed to generate templates. In the second phase the system is untethered and performs template matching to create an event driven spike output that is logged to a micro-SD card. To enable validation the system is capable of logging the high bandwidth raw neural signal data as well as the spike sorted data. MAIN RESULTS: The system can successfully record 32 channels of raw neural signal data and/or spike sorted events for well over 24 h at a time and is robust to power dropouts during battery changes as well as SD card replacement. A 24 h initial recording in a non-human primate M1 showed consistent spike shapes with the expected changes in neural activity during awake behaviour and sleep cycles. SIGNIFICANCE: The presented platform allows neural activity to be unobtrusively monitored and processed in real-time in freely behaving untethered animals-revealing insights that are not attainable through scheduled recording sessions. This system achieves the lowest power per channel to date and provides a robust, low-latency, low-bandwidth and verifiable output suitable for BMIs, closed loop neuromodulation, wireless transmission and long term data logging.",
+  "authors": [
+    "Luan Song",
+    "Williams Ian",
+    "Maslik Michal",
+    "Liu Yan",
+    "De Carvalho Felipe",
+    "Jackson Andrew",
+    "Quiroga Rodrigo Quian",
+    "Constandinou Timothy G"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2018",
+  "doi": "10.1088/1741-2552/aabc23",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Systems",
+    "Data Interpretation, Statistical",
+    "Haplorhini",
+    "Neurons",
+    "Printing, Three-Dimensional",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

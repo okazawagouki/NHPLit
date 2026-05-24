@@ -1,0 +1,30 @@
+{
+  "pmid": "22465678",
+  "title": "Serial section registration of axonal confocal microscopy datasets for long-range neural circuit reconstruction.",
+  "abstract": "In the context of long-range digital neural circuit reconstruction, this paper investigates an approach for registering axons across histological serial sections. Tracing distinctly labeled axons over large distances allows neuroscientists to study very explicit relationships between the brain's complex interconnects and, for example, diseases or aberrant development. Large scale histological analysis requires, however, that the tissue be cut into sections. In immunohistochemical studies thin sections are easily distorted due to the cutting, preparation, and slide mounting processes. In this work we target the registration of thin serial sections containing axons. Sections are first traced to extract axon centerlines, and these traces are used to define registration landmarks where they intersect section boundaries. The trace data also provides distinguishing information regarding an axon's size and orientation within a section. We propose the use of these features when pairing axons across sections in addition to utilizing the spatial relationships among the landmarks. The global rotation and translation of an unregistered section are accounted for using a random sample consensus (RANSAC) based technique. An iterative nonrigid refinement process using B-spline warping is then used to reconnect axons and produce the sought after connectivity information.",
+  "authors": [
+    "Hogrebe Luke",
+    "Paiva Antonio R C",
+    "Jurrus Elizabeth",
+    "Christensen Cameron",
+    "Bridge Michael",
+    "Dai Li",
+    "Pfeiffer Rebecca L",
+    "Hof Patrick R",
+    "Roysam Badrinath",
+    "Korenberg Julie R",
+    "Tasdizen Tolga"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2012",
+  "doi": "10.1016/j.jneumeth.2012.03.002",
+  "mesh": [
+    "Animals",
+    "Axons",
+    "Brain",
+    "Databases, Factual",
+    "Macaca",
+    "Microscopy, Confocal",
+    "Nerve Net"
+  ]
+}

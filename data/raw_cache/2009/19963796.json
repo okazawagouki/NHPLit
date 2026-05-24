@@ -1,0 +1,34 @@
+{
+  "pmid": "19963796",
+  "title": "Neural prosthetic systems: current problems and future directions.",
+  "abstract": "By decoding neural activity into useful behavioral commands, neural prosthetic systems seek to improve the lives of severely disabled human patients. Motor decoding algorithms, which map neural spiking data to control parameters of a device such as a prosthetic arm, have received particular attention in the literature. Here, we highlight several outstanding problems that exist in most current approaches to decode algorithm design. These include two problems that we argue will unlikely result in further dramatic increases in performance, specifically spike sorting and spiking models. We also discuss three issues that have been less examined in the literature, and we argue that addressing these issues may result in dramatic future increases in performance. These include: non-stationarity of recorded waveforms, limitations of a linear mappings between neural activity and movement kinematics, and the low signal to noise ratio of the neural data. We demonstrate these problems with data from 39 experimental sessions with a non-human primate performing reaches and with recent literature. In all, this study suggests that research in cortically-controlled prosthetic systems may require reprioritization to achieve performance that is acceptable for a clinically viable human system.",
+  "authors": [
+    "Chestek Cindy A",
+    "Cunningham John P",
+    "Gilja Vikash",
+    "Nuyujukian Paul",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2009",
+  "doi": "10.1109/IEMBS.2009.5332822",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Biomedical Engineering",
+    "Electroencephalography",
+    "Equipment Design",
+    "Evoked Potentials, Motor",
+    "Humans",
+    "Likelihood Functions",
+    "Macaca mulatta",
+    "Man-Machine Systems",
+    "Models, Neurological",
+    "Movement",
+    "Neurons",
+    "Reproducibility of Results",
+    "User-Computer Interface"
+  ]
+}

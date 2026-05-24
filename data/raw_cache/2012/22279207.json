@@ -1,0 +1,22 @@
+{
+  "pmid": "22279207",
+  "title": "Encoding of coordinated reach and grasp trajectories in primary motor cortex.",
+  "abstract": "Though the joints of the arm and hand together comprise 27 degrees of freedom, an ethological movement like reaching and grasping coordinates many of these joints so as to operate in a reduced dimensional space. We used a generalized linear model to predict single neuron responses in primary motor cortex (MI) during a reach-to-grasp task based on 40 features that represent positions and velocities of the arm and hand in joint angle and Cartesian coordinates as well as the neurons' own spiking history. Two rhesus monkeys were trained to reach and grasp one of five objects, located at one of seven locations while we used an infrared camera motion-tracking system to track markers placed on their upper limb and recorded single-unit activity from a microelectrode array implanted in MI. The kinematic trajectories that described hand shaping and transport to the object depended on both the type of object and its location. Modeling the kinematics as temporally extensive trajectories consistently yielded significantly higher predictive power in most neurons. Furthermore, a model that included all feature trajectories yielded more predictive power than one that included any single feature trajectory in isolation, and neurons tended to encode feature velocities over positions. The predictive power of a majority of neurons reached a plateau for a model that included only the first five principal components of all the features' trajectories, suggesting that MI has evolved or adapted to encode the natural kinematic covariations associated with prehension described by a limited set of kinematic synergies.",
+  "authors": [
+    "Saleh Maryam",
+    "Takahashi Kazutaka",
+    "Hatsopoulos Nicholas G"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2012",
+  "doi": "10.1523/JNEUROSCI.2438-11.2012",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Female",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Psychomotor Performance"
+  ]
+}

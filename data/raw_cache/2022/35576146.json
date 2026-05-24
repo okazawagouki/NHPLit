@@ -1,0 +1,40 @@
+{
+  "pmid": "35576146",
+  "title": "Machine learning sequence prioritization for cell type-specific enhancer design.",
+  "abstract": "Recent discoveries of extreme cellular diversity in the brain warrant rapid development of technologies to access specific cell populations within heterogeneous tissue. Available approaches for engineering-targeted technologies for new neuron subtypes are low yield, involving intensive transgenic strain or virus screening. Here, we present Specific Nuclear-Anchored Independent Labeling (SNAIL), an improved virus-based strategy for cell labeling and nuclear isolation from heterogeneous tissue. SNAIL works by leveraging machine learning and other computational approaches to identify DNA sequence features that confer cell type-specific gene activation and then make a probe that drives an affinity purification-compatible reporter gene. As a proof of concept, we designed and validated two novel SNAIL probes that target parvalbumin-expressing (PV+) neurons. Nuclear isolation using SNAIL in wild-type mice is sufficient to capture characteristic open chromatin features of PV+ neurons in the cortex, striatum, and external globus pallidus. The SNAIL framework also has high utility for multispecies cell probe engineering; expression from a mouse PV+ SNAIL enhancer sequence was enriched in PV+ neurons of the macaque cortex. Expansion of this technology has broad applications in cell type-specific observation, manipulation, and therapeutics across species and disease models.",
+  "authors": [
+    "Lawler Alyssa J",
+    "Ramamurthy Easwaran",
+    "Brown Ashley R",
+    "Shin Naomi",
+    "Kim Yeonju",
+    "Toong Noelle",
+    "Kaplow Irene M",
+    "Wirthlin Morgan",
+    "Zhang Xiaoyu",
+    "Phan BaDoi N",
+    "Fox Grant A",
+    "Wade Kirsten",
+    "He Jing",
+    "Ozturk Bilge Esin",
+    "Byrne Leah C",
+    "Stauffer William R",
+    "Fish Kenneth N",
+    "Pfenning Andreas R"
+  ],
+  "journal": "eLife",
+  "year": "2022",
+  "doi": "10.7554/eLife.69571",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Computational Biology",
+    "Enhancer Elements, Genetic",
+    "Globus Pallidus",
+    "Machine Learning",
+    "Mice",
+    "Neurons",
+    "Parvalbumins",
+    "Sequence Analysis, DNA"
+  ]
+}

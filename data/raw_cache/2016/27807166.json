@@ -1,0 +1,26 @@
+{
+  "pmid": "27807166",
+  "title": "Natural Firing Patterns Imply Low Sensitivity of Synaptic Plasticity to Spike Timing Compared with Firing Rate.",
+  "abstract": "UNLABELLED: Synaptic plasticity is sensitive to the rate and the timing of presynaptic and postsynaptic action potentials. In experimental protocols inducing plasticity, the imposed spike trains are typically regular and the relative timing between every presynaptic and postsynaptic spike is fixed. This is at odds with firing patterns observed in the cortex of intact animals, where cells fire irregularly and the timing between presynaptic and postsynaptic spikes varies. To investigate synaptic changes elicited by in vivo-like firing, we used numerical simulations and mathematical analysis of synaptic plasticity models. We found that the influence of spike timing on plasticity is weaker than expected from regular stimulation protocols. Moreover, when neurons fire irregularly, synaptic changes induced by precise spike timing can be equivalently induced by a modest firing rate variation. Our findings bridge the gap between existing results on synaptic plasticity and plasticity occurring in vivo, and challenge the dominant role of spike timing in plasticity. SIGNIFICANCE STATEMENT: Synaptic plasticity, the change in efficacy of connections between neurons, is thought to underlie learning and memory. The dominant paradigm posits that the precise timing of neural action potentials (APs) is central for plasticity induction. This concept is based on experiments using highly regular and stereotyped patterns of APs, in stark contrast with natural neuronal activity. Using synaptic plasticity models, we investigated how irregular, in vivo-like activity shapes synaptic plasticity. We found that synaptic changes induced by precise timing of APs are much weaker than suggested by regular stimulation protocols, and can be equivalently induced by modest variations of the AP rate alone. Our results call into question the dominant role of precise AP timing for plasticity in natural conditions.",
+  "authors": [
+    "Graupner Michael",
+    "Wallisch Pascal",
+    "Ostojic Srdjan"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2016",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Humans",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Nerve Net",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Synapses",
+    "Synaptic Transmission"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "28098561",
+  "title": "Decoding of intended saccade direction in an oculomotor brain-computer interface.",
+  "abstract": "OBJECTIVE: To date, invasive brain-computer interface (BCI) research has largely focused on replacing lost limb functions using signals from the hand/arm areas of motor cortex. However, the oculomotor system may be better suited to BCI applications involving rapid serial selection from spatial targets, such as choosing from a set of possible words displayed on a computer screen in an augmentative and alternative communication (AAC) application. Here we aimed to demonstrate the feasibility of a BCI utilizing the oculomotor system. APPROACH: We developed a chronic intracortical BCI in monkeys to decode intended saccadic eye movement direction using activity from multiple frontal cortical areas. MAIN RESULTS: Intended saccade direction could be decoded in real time with high accuracy, particularly at contralateral locations. Accurate decoding was evident even at the beginning of the BCI session; no extensive BCI experience was necessary. High-frequency (80-500 Hz) local field potential magnitude provided the best performance, even over spiking activity, thus simplifying future BCI applications. Most of the information came from the frontal and supplementary eye fields, with relatively little contribution from dorsolateral prefrontal cortex. SIGNIFICANCE: Our results support the feasibility of high-accuracy intracortical oculomotor BCIs that require little or no practice to operate and may be ideally suited for 'point and click' computer operation as used in most current AAC systems.",
+  "authors": [
+    "Jia Nan",
+    "Brincat Scott L",
+    "Salazar-Gómez Andrés F",
+    "Panko Mikhail",
+    "Guenther Frank H",
+    "Miller Earl K"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2017",
+  "doi": "10.1088/1741-2552/aa5a3e",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Male",
+    "Oculomotor Nerve",
+    "Photic Stimulation",
+    "Prefrontal Cortex",
+    "Random Allocation",
+    "Saccades"
+  ]
+}

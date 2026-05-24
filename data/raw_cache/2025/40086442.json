@@ -1,0 +1,23 @@
+{
+  "pmid": "40086442",
+  "title": "Oscillatory control over representational geometry of sequence working memory in macaque frontal cortex.",
+  "abstract": "To process sequential streams of information, e.g., language, the brain must encode multiple items in sequence working memory (SWM) according to their ordinal relationship. While the geometry of neural states could represent sequential events in the frontal cortex, the control mechanism over these neural states remains unclear. Using high-throughput electrophysiology recording in the macaque frontal cortex, we observed widespread theta responses after each stimulus entry. Crucially, by applying targeted dimensionality reduction to extract task-relevant neural subspaces from both local field potential (LFP) and spike data, we found that theta power transiently encoded each sequentially presented stimulus regardless of its order. At the same time, theta-spike interaction was rank-selectively associated with memory subspaces, thereby potentially supporting the binding of items to appropriate ranks. Furthermore, this putative theta control can generalize to length-variable and error sequences, predicting behavior. Thus, decomposed entry/rank-WM subspaces and theta-spike interactions may underlie the control of SWM.",
+  "authors": [
+    "Fang Wen",
+    "Jiang Xi",
+    "Chen Jingwen",
+    "Zhang Cong",
+    "Wang Liping"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2025",
+  "doi": "10.1016/j.cub.2025.02.031",
+  "mesh": [
+    "Animals",
+    "Memory, Short-Term",
+    "Frontal Lobe",
+    "Theta Rhythm",
+    "Macaca mulatta",
+    "Male"
+  ]
+}

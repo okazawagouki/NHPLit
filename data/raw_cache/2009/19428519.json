@@ -1,0 +1,25 @@
+{
+  "pmid": "19428519",
+  "title": "Denoising neural data with state-space smoothing: method and application.",
+  "abstract": "Neural data are inevitably contaminated by noise. When such noisy data are subjected to statistical analysis, misleading conclusions can be reached. Here we attempt to address this problem by applying a state-space smoothing method, based on the combined use of the Kalman filter theory and the Expectation-Maximization algorithm, to denoise two datasets of local field potentials recorded from monkeys performing a visuomotor task. For the first dataset, it was found that the analysis of the high gamma band (60-90 Hz) neural activity in the prefrontal cortex is highly susceptible to the effect of noise, and denoising leads to markedly improved results that were physiologically interpretable. For the second dataset, Granger causality between primary motor and primary somatosensory cortices was not consistent across two monkeys and the effect of noise was suspected. After denoising, the discrepancy between the two subjects was significantly reduced.",
+  "authors": [
+    "Nalatore Hariharan",
+    "Ding Mingzhou",
+    "Rangarajan Govindan"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2009",
+  "doi": "10.1016/j.jneumeth.2009.01.013",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Confidence Intervals",
+    "Macaca",
+    "Neurons",
+    "Neuropsychological Tests",
+    "Reaction Time",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

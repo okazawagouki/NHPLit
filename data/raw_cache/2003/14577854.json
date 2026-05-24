@@ -1,0 +1,16 @@
+{
+  "pmid": "14577854",
+  "title": "An adjustment to the time-rescaling method for application to short-trial spike train data.",
+  "abstract": "It is important to validate models of neural data using appropriate goodness-of-fit measures. Models summarizing some response features--for example, spike count distributions or peristimulus time histograms--can be assessed using standard statistical tools. Measuring the fit of a full point-process model of spike trains is more difficult. Recently, Barbieri, Quirk, Frank, Wilson, and Brown (2001) and Brown, Barbieri, Ventura, Kass, and Frank (2002) presented a method for rescaling time so that if an underlying description correctly describes the conditional intensity function of a point process, the rescaling will convert the process into a homogeneous Poisson process. The corresponding interevent intervals are exponential with mean 1 and can be transformed to be uniform; tests of the uniformity of the transformed intervals are thus tests of how well the model fits the data. When the lengths of interevent intervals are comparable to the length of the observation window, as can happen in common neurophysiology paradigms using short trials, the fact that long intervals cannot be observed (are censored) can cause the tests based on time rescaling to reject a correct model inappropriately. This article presents a simple adjustment to the time-rescaling method to account for interval censoring, avoiding inappropriate rejection of acceptable models for short-trial data. We illustrate the adjustment's effect using both simulated data and short-trial data from monkey primary visual cortex.",
+  "authors": [
+    "Wiener Matthew C"
+  ],
+  "journal": "Neural computation",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Models, Neurological",
+    "Time Factors"
+  ]
+}

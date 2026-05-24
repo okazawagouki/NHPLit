@@ -1,0 +1,33 @@
+{
+  "pmid": "23181471",
+  "title": "Continuous decoding of grasping tasks for a prospective implantable cortical neuroprosthesis.",
+  "abstract": "BACKGROUND: In the recent past several invasive cortical neuroprostheses have been developed. Signals recorded from the motor cortex (area MI) have been decoded and used to control computer cursors and robotic devices. Nevertheless, few attempts have been carried out to predict different grips.A Support Vector Machines (SVMs) classifier has been trained for a continuous decoding of four/six grip types using signals recorded in two monkeys from motor neurons of the ventral premotor cortex (area F5) during a reach-to-grasp task. FINDINGS: The results showed that four/six grip types could be extracted with classification accuracy higher than 96% using window width of 75-150 ms. CONCLUSIONS: These results open new and promising possibilities for the development of invasive cortical neural prostheses for the control of reaching and grasping.",
+  "authors": [
+    "Carpaneto Jacopo",
+    "Raos Vassilis",
+    "Umiltà Maria A",
+    "Fogassi Leonardo",
+    "Murata Akira",
+    "Gallese Vittorio",
+    "Micera Silvestro"
+  ],
+  "journal": "Journal of neuroengineering and rehabilitation",
+  "year": "2012",
+  "doi": "10.1186/1743-0003-9-84",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Cerebral Cortex",
+    "Hand Strength",
+    "Macaca nemestrina",
+    "Motor Cortex",
+    "Movement",
+    "Neural Prostheses",
+    "Neurons",
+    "Pattern Recognition, Automated",
+    "Prosthesis Design",
+    "Psychomotor Performance",
+    "Support Vector Machine"
+  ]
+}

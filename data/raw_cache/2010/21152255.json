@@ -1,0 +1,12 @@
+{
+  "pmid": "21152255",
+  "title": "Decision making under uncertainty: a neural model based on partially observable markov decision processes.",
+  "abstract": "A fundamental problem faced by animals is learning to select actions based on noisy sensory information and incomplete knowledge of the world. It has been suggested that the brain engages in Bayesian inference during perception but how such probabilistic representations are used to select actions has remained unclear. Here we propose a neural model of action selection and decision making based on the theory of partially observable Markov decision processes (POMDPs). Actions are selected based not on a single \"optimal\" estimate of state but on the posterior distribution over states (the \"belief\" state). We show how such a model provides a unified framework for explaining experimental results in decision making that involve both information gathering and overt actions. The model utilizes temporal difference (TD) learning for maximizing expected reward. The resulting neural architecture posits an active role for the neocortex in belief computation while ascribing a role to the basal ganglia in belief representation, value computation, and action selection. When applied to the random dots motion discrimination task, model neurons representing belief exhibit responses similar to those of LIP neurons in primate neocortex. The appropriate threshold for switching from information gathering to overt actions emerges naturally during reward maximization. Additionally, the time course of reward prediction error in the model shares similarities with dopaminergic responses in the basal ganglia during the random dots task. For tasks with a deadline, the model learns a decision making strategy that changes with elapsed time, predicting a collapsing decision threshold consistent with some experimental studies. The model provides a new framework for understanding neural decision making and suggests an important role for interactions between the neocortex and the basal ganglia in learning the mapping between probabilistic sensory representations and actions that maximize rewards.",
+  "authors": [
+    "Rao Rajesh P N"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2010",
+  "doi": "10.3389/fncom.2010.00146",
+  "mesh": []
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "16957068",
+  "title": "The role of feedback in shaping the extra-classical receptive field of cortical neurons: a recurrent network model.",
+  "abstract": "The responses of neurons in sensory cortices are affected by the spatial context within which stimuli are embedded. In the primary visual cortex (V1), orientation-selective responses to stimuli in the receptive field (RF) center are suppressed by similarly oriented stimuli in the RF surround. Surround suppression, a likely neural correlate of perceptual figure-ground segregation, is traditionally thought to be generated within V1 by long-range horizontal connections. Recently however, it has been shown that these connections are too short and too slow to mediate fast suppression from distant regions of the RF surround. We use an anatomically and physiologically constrained recurrent network model of macaque V1 to show how interareal feedback connections, which are faster and longer-range than horizontal connections, can generate \"far\" surround suppression. We provide a novel solution to the puzzle of how surround suppression can arise from excitatory feedback axons contacting predominantly excitatory neurons in V1. The basic mechanism involves divergent feedback connections from the far surround targeting pyramidal neurons sending monosynaptic horizontal connections to excitatory and inhibitory neurons in the RF center. One of several predictions of our model is that the \"suppressive far surround\" is not always suppressive, but can facilitate the response of the RF center, depending on the amount of excitatory drive to the local inhibitors. Our model provides a general mechanism of how top-down feedback signals directly contribute to generating cortical neuron responses to simple sensory stimuli.",
+  "authors": [
+    "Schwabe Lars",
+    "Obermayer Klaus",
+    "Angelucci Alessandra",
+    "Bressloff Paul C"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Feedback",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Inhibition",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "pmid": "36590291",
+  "title": "COnstrained Reference frame diffusion TEnsor Correlation Spectroscopic (CORTECS) MRI: A practical framework for high-resolution diffusion tensor distribution imaging.",
+  "abstract": "High-resolution imaging studies have consistently shown that in cortical tissue water diffuses preferentially along radial and tangential orientations with respect to the cortical surface, in agreement with histology. These dominant orientations do not change significantly even if the relative contributions from microscopic water pools to the net voxel signal vary across experiments that use different diffusion times, <i>b</i>-values, TEs, and TRs. With this in mind, we propose a practical new framework for imaging non-parametric diffusion tensor distributions (DTDs) by constraining the microscopic diffusion tensors of the DTD to be diagonalized using the same orthonormal reference frame of the mesoscopic voxel. In each voxel, the constrained DTD (cDTD) is completely determined by the correlation spectrum of the microscopic principal diffusivities associated with the axes of the voxel reference frame. Consequently, all cDTDs are inherently limited to the domain of positive definite tensors and can be reconstructed efficiently using Inverse Laplace Transform methods. Moreover, the cDTD reconstruction can be performed using only data acquired efficiently with single diffusion encoding, although it also supports datasets with multiple diffusion encoding. In tissues with a well-defined architecture, such as the cortex, we can further constrain the cDTD to contain only cylindrically symmetric diffusion tensors and measure the 2D correlation spectra of principal diffusivities along the radial and tangential orientation with respect to the cortical surface. To demonstrate this framework, we perform numerical simulations and analyze high-resolution dMRI data from a fixed macaque monkey brain. We estimate 2D cDTDs in the cortex and derive, in each voxel, the marginal distributions of the microscopic principal diffusivities, the corresponding distributions of the microscopic fractional anisotropies and mean diffusivities along with their 2D correlation spectra to quantify the cDTD shape-size characteristics. Signal components corresponding to specific bands in these cDTD-derived spectra show high specificity to cortical laminar structures observed with histology. Our framework drastically simplifies the measurement of non-parametric DTDs in high-resolution datasets with mesoscopic voxel sizes much smaller than the radius of curvature of the underlying anatomy, e.g., cortical surface, and can be applied retrospectively to analyze existing diffusion MRI data from fixed cortical tissues.",
+  "authors": [
+    "Avram Alexandru V",
+    "Saleem Kadharbatcha S",
+    "Basser Peter J"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2022",
+  "doi": "10.3389/fnins.2022.1054509",
+  "mesh": []
+}

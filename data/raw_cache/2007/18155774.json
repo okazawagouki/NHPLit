@@ -1,0 +1,35 @@
+{
+  "pmid": "18155774",
+  "title": "Measurement of variability dynamics in cortical spike trains.",
+  "abstract": "We propose a method for the time-resolved joint analysis of two related aspects of single neuron variability, the spiking irregularity measured by the squared coefficient of variation (CV(2)) of the ISIs and the trial-by-trial variability of the spike count measured by the Fano factor (FF). We provide a calibration of both estimators using the theory of renewal processes, and verify it for spike trains recorded in vitro. Both estimators exhibit a considerable bias for short observations that count less than about 5-10 spikes on average. The practical difficulty of measuring the CV(2) in rate modulated data can be overcome by a simple procedure of spike train demodulation which was tested in numerical simulations and in real spike trains. We propose to test neuronal spike trains for deviations from the null-hypothesis FF=CV(2). We show that cortical pyramidal neurons, recorded under controlled stationary input conditions in vitro, comply with this assumption. Performing a time-resolved joint analysis of CV(2) and FF of a single unit recording from the motor cortex of a behaving monkey we demonstrate how the dynamic change of their quantitative relation can be interpreted with respect to neuron intrinsic and extrinsic factors that influence cortical variability in vivo. Finally, we discuss the effect of several additional factors such as serial interval correlation and refractory period on the empiric relation of FF and CV(2).",
+  "authors": [
+    "Nawrot Martin P",
+    "Boucsein Clemens",
+    "Rodriguez Molina Victor",
+    "Riehle Alexa",
+    "Aertsen Ad",
+    "Rotter Stefan"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2008",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Calibration",
+    "Cerebral Cortex",
+    "Electroencephalography",
+    "Electrophysiology",
+    "Excitatory Postsynaptic Potentials",
+    "Haplorhini",
+    "Motor Cortex",
+    "Neurons",
+    "Poisson Distribution",
+    "Pyramidal Cells",
+    "Rats",
+    "Rats, Long-Evans",
+    "Refractory Period, Electrophysiological",
+    "Stochastic Processes",
+    "Synapses"
+  ]
+}

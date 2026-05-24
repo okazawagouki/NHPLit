@@ -1,0 +1,25 @@
+{
+  "pmid": "41066496",
+  "title": "RISNet: A variable multi-modal image feature fusion adversarial neural network for generating specific dMRI images.",
+  "abstract": "The b-value in the diffusion magnetic resonance image(dMRI) reflects the degree to which the water molecules are affected by the magnetic field gradient pulse in the tissue, and the different b-values not only affect the image contrast but also the accuracy of the subsequent calculation. The imbalance between the lower and higher b-value image categories in the macaque dMRI brain imaging dataset dramatically affects the accuracy of computational neuroscience. The medical image conversion method based on the generative adversarial network can generate different b-value images. However, the macaque brain dataset has multi-center and small-sample problems, which restricts the training effect of the general model. To increase macaques' lower b-value dMRI data, we propose a variable multi-modal image feature fusion adversarial neural network called RISNet. The network can use the proposed rapid insertion structural(RIS) to input features from different modes into a general residual decoding structure to enhance the model's generalization ability. The RIS combines the advantages of multi-modal data, which can quickly rewrite the network and extract and fuse the features of multi-modal data. We used a T1 image and a higher b-value image of the brain as model inputs to generate high-quality, lower b-value images. Experimental results show that our method improves the PSNR index by 1.8211 on average and the SSIM index by 0.0111 compared with other methods. In addition, in terms of qualitative observation and DTI estimation, our process also shows sound visual effects and strong generalization ability. These advantages make our method an effective means to solve the problem of dMRI brain image conversion in macaques and provide strong support for future neuroscience research.",
+  "authors": [
+    "Wang Guolan",
+    "Xue Xiaohong",
+    "Chen Yifei",
+    "Liu Hao",
+    "Li Haifang",
+    "Wang Qianshan"
+  ],
+  "journal": "PloS one",
+  "year": "2025",
+  "doi": "10.1371/journal.pone.0329653",
+  "mesh": [
+    "Animals",
+    "Neural Networks, Computer",
+    "Brain",
+    "Diffusion Magnetic Resonance Imaging",
+    "Image Processing, Computer-Assisted",
+    "Algorithms",
+    "Macaca"
+  ]
+}

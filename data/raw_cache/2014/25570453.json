@@ -1,0 +1,25 @@
+{
+  "pmid": "25570453",
+  "title": "Cell categories and K-nearest neighbor algorithm based decoding of primary motor cortical activity during reach-to-grasp task.",
+  "abstract": "Neural decoding is a procedure to acquire intended movement information from neural activity and generate movement commands to control external devices such as intelligent prostheses. In this study, monkey Astra was trained to accomplish a 3-D reach-to-grasp task, and we recorded neural signals from its primary motor cortex (M1) during the task. The task-related cells were divided into four classes based on their correlation with two movement parameters: movement direction and orientation. We adopted the simple k-nearest neighbor (KNN) algorithm as the classifier, and chose cells from appropriate cell classes for movement parameter decoding. Cell classification was shown improving decoding accuracy with relatively less cells, even during movement planning stage (CRT). High decoding accuracy before movement actually performed is of great significance for intelligent prostheses control, and provides evidence that M1 is more than accepting ready-made movement commands but also participating in movement planning. We also found that population of task-related cells in M1 had a preference for specific direction and orientation, and this preference was more significant when it came to population of direction-related cells and orientation-related cells.",
+  "authors": [
+    "Yangyang Guo",
+    "Wei Li",
+    "Jiping He"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2014",
+  "doi": "10.1109/EMBC.2014.6944085",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cerebral Cortex",
+    "Cluster Analysis",
+    "Hand Strength",
+    "Haplorhini",
+    "Motor Cortex",
+    "Movement",
+    "Psychomotor Performance",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

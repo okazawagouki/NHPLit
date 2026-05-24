@@ -1,0 +1,31 @@
+{
+  "pmid": "29131818",
+  "title": "Electrical stimulus artifact cancellation and neural spike detection on large multi-electrode arrays.",
+  "abstract": "Simultaneous electrical stimulation and recording using multi-electrode arrays can provide a valuable technique for studying circuit connectivity and engineering neural interfaces. However, interpreting these measurements is challenging because the spike sorting process (identifying and segregating action potentials arising from different neurons) is greatly complicated by electrical stimulation artifacts across the array, which can exhibit complex and nonlinear waveforms, and overlap temporarily with evoked spikes. Here we develop a scalable algorithm based on a structured Gaussian Process model to estimate the artifact and identify evoked spikes. The effectiveness of our methods is demonstrated in both real and simulated 512-electrode recordings in the peripheral primate retina with single-electrode and several types of multi-electrode stimulation. We establish small error rates in the identification of evoked spikes, with a computational complexity that is compatible with real-time data analysis. This technology may be helpful in the design of future high-resolution sensory prostheses based on tailored stimulation (e.g., retinal prostheses), and for closed-loop neural stimulation at a much larger scale than currently possible.",
+  "authors": [
+    "Mena Gonzalo E",
+    "Grosberg Lauren E",
+    "Madugula Sasidhar",
+    "Hottowy Paweł",
+    "Litke Alan",
+    "Cunningham John",
+    "Chichilnisky E J",
+    "Paninski Liam"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2017",
+  "doi": "10.1371/journal.pcbi.1005842",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Artifacts",
+    "Electric Stimulation",
+    "Electrodes",
+    "Humans",
+    "Models, Statistical",
+    "Primates",
+    "Retinal Neurons",
+    "Signal-To-Noise Ratio"
+  ]
+}

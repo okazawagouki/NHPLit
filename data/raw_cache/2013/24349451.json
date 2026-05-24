@@ -1,0 +1,21 @@
+{
+  "pmid": "24349451",
+  "title": "A fully automated high-throughput training system for rodents.",
+  "abstract": "Addressing the neural mechanisms underlying complex learned behaviors requires training animals in well-controlled tasks, an often time-consuming and labor-intensive process that can severely limit the feasibility of such studies. To overcome this constraint, we developed a fully computer-controlled general purpose system for high-throughput training of rodents. By standardizing and automating the implementation of predefined training protocols within the animal's home-cage our system dramatically reduces the efforts involved in animal training while also removing human errors and biases from the process. We deployed this system to train rats in a variety of sensorimotor tasks, achieving learning rates comparable to existing, but more laborious, methods. By incrementally and systematically increasing the difficulty of the task over weeks of training, rats were able to master motor tasks that, in complexity and structure, resemble ones used in primate studies of motor sequence learning. By enabling fully automated training of rodents in a home-cage setting this low-cost and modular system increases the utility of rodents for studying the neural underpinnings of a variety of complex behaviors.",
+  "authors": [
+    "Poddar Rajesh",
+    "Kawai Risa",
+    "Ölveczky Bence P"
+  ],
+  "journal": "PloS one",
+  "year": "2013",
+  "doi": "10.1371/journal.pone.0083171",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Learning",
+    "Motor Skills",
+    "Physical Conditioning, Animal",
+    "Rats"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "38988289",
+  "title": "Hue and orientation pinwheels in macaque area V4.",
+  "abstract": "Area V4 is an intermediate-level area of the macaque visual cortical hierarchy that serves key functions in visual processing by integrating inputs from lower areas such as V1 and V2 and providing feedforward inputs to many higher cortical areas. Previous V4 imaging studies have focused on differential responses to color, orientation, disparity, and motion stimuli, but many details of the spatial organization of significant hue and orientation tuning have not been fully described. We used support vector machine (SVM) decoding of intrinsic cortical single-condition responses to generate high-resolution maps of hue and orientation tuning and to describe the organization of hue and orientation pinwheels in V4. Like V1 and V2, V4 contains maps of orientation that are organized as pinwheels. V4 also contains maps of hue that are organized as pinwheels, whose circular organization more closely represents the perception of hue than is observed in antecedent cortical areas. Unlike V1, where orientation is continuously mapped across the surface, V4 hue and orientation pinwheels are organized in limited numbers of pinwheel sequences. The organization of these sequences and the distance between pinwheels may provide insight into the functional organization of V4. Regions significantly tuned for hue occupy roughly four times that of the orientation, are largely separated from each other, and overlap by roughly 5%. This spatial organization is largely consistent with segregated inputs arising from V2 thin and interstripes. This modular organization of V4 suggests that further integration of color and shape might occur in higher areas in inferotemporal cortical.<b>NEW & NOTEWORTHY</b> The representation of hue and orientation in macaque monkey area V4 was determined by intrinsic cortical imaging of responses to isoluminant hues and achromatic grating stimuli. Vector summation of support vector machine (SVM) decoded single-condition responses was used to generate hue and orientation maps that, like V1 orientation maps, were both characterized by distinct pinwheel patterns. These data suggest that pinwheels are an important structure to represent different stimulus features across multiple visual cortical areas.",
+  "authors": [
+    "Parajuli Arun",
+    "Felleman Daniel J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2024",
+  "doi": "10.1152/jn.00366.2023",
+  "mesh": [
+    "Animals",
+    "Visual Cortex",
+    "Macaca mulatta",
+    "Color Perception",
+    "Male",
+    "Orientation",
+    "Support Vector Machine",
+    "Photic Stimulation",
+    "Visual Pathways",
+    "Orientation, Spatial"
+  ]
+}

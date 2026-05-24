@@ -1,0 +1,29 @@
+{
+  "pmid": "29979681",
+  "title": "Unsupervised clustering of temporal patterns in high-dimensional neuronal ensembles using a novel dissimilarity measure.",
+  "abstract": "Temporally ordered multi-neuron patterns likely encode information in the brain. We introduce an unsupervised method, SPOTDisClust (Spike Pattern Optimal Transport Dissimilarity Clustering), for their detection from high-dimensional neural ensembles. SPOTDisClust measures similarity between two ensemble spike patterns by determining the minimum transport cost of transforming their corresponding normalized cross-correlation matrices into each other (SPOTDis). Then, it performs density-based clustering based on the resulting inter-pattern dissimilarity matrix. SPOTDisClust does not require binning and can detect complex patterns (beyond sequential activation) even when high levels of out-of-pattern \"noise\" spiking are present. Our method handles efficiently the additional information from increasingly large neuronal ensembles and can detect a number of patterns that far exceeds the number of recorded neurons. In an application to neural ensemble data from macaque monkey V1 cortex, SPOTDisClust can identify different moving stimulus directions on the sole basis of temporal spiking patterns.",
+  "authors": [
+    "Grossberger Lukas",
+    "Battaglia Francesco P",
+    "Vinck Martin"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2018",
+  "doi": "10.1371/journal.pcbi.1006283",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Cerebral Cortex",
+    "Cluster Analysis",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Photic Stimulation",
+    "Signal-To-Noise Ratio",
+    "Systems Biology",
+    "Time Factors"
+  ]
+}

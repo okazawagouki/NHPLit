@@ -1,0 +1,22 @@
+{
+  "pmid": "29060035",
+  "title": "An input-output linear time invariant model captures neuronal firing responses to external and behavioral events.",
+  "abstract": "Investigating how neurons in different motor regions respond to external stimuli and behavioral events provides insight into motor control. A recent approach to studying neuronal activity is to construct a zero-input linear time invariant (ZI-LTI) state-space model, wherein the state vector consists of firing rate signals for different populations of neurons across motor regions. This approach allows for the populations to influence each other in a dynamical manner given an initial firing rate condition, and the model can accurately reconstruct firing rates within a limited epoch in the motor task during which no event occurs. Here, we generalize this LTI modeling approach to characterize firing responses of neurons to two events (a go cue and movement onset) in a movement task with a non-zero input LTI state-space model, herein referred to as input-output LTI (IO-LTI). Specifically, responses from 196 neurons in the primary motor (M1), ventral premotor (PMv), and dorsal premotor cortex (PMd) were recorded and modeled in two nonhuman primates executing a reach-to-grasp task. We found that a single IO-LTI model can reconstruct neuronal firing rate patterns of six populations of these neurons across the three areas in the presence of multiple events (go cue, movement onset). This is the first step towards constructing generative models of neuronal firing rates in the presence of multiple events, which then can be used to construct better decoders for brain machine interactive control.",
+  "authors": [
+    "D'Aleo Raina",
+    "Rouse Adam",
+    "Schieber Marc",
+    "Sarma Sridevi V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2017",
+  "doi": "10.1109/EMBC.2017.8036987",
+  "mesh": [
+    "Animals",
+    "Hand Strength",
+    "Linear Models",
+    "Motor Cortex",
+    "Movement",
+    "Neurons"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "23950699",
+  "title": "Top-down beta rhythms support selective attention via interlaminar interaction: a model.",
+  "abstract": "Cortical rhythms have been thought to play crucial roles in our cognitive abilities. Rhythmic activity in the beta frequency band, around 20 Hz, has been reported in recent studies that focused on neural correlates of attention, indicating that top-down beta rhythms, generated in higher cognitive areas and delivered to earlier sensory areas, can support attentional gain modulation. To elucidate functional roles of beta rhythms and underlying mechanisms, we built a computational model of sensory cortical areas. Our simulation results show that top-down beta rhythms can activate ascending synaptic projections from L5 to L4 and L2/3, responsible for biased competition in superficial layers. In the simulation, slow-inhibitory interneurons are shown to resonate to the 20 Hz input and modulate the activity in superficial layers in an attention-related manner. The predicted critical roles of these cells in attentional gain provide a potential mechanism by which cholinergic drive can support selective attention.",
+  "authors": [
+    "Lee Jung H",
+    "Whittington Miles A",
+    "Kopell Nancy J"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2013",
+  "doi": "10.1371/journal.pcbi.1003164",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Beta Rhythm",
+    "Computational Biology",
+    "Computer Simulation",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons",
+    "Pyramidal Cells"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "27812205",
+  "title": "A Markerless 3D Computerized Motion Capture System Incorporating a Skeleton Model for Monkeys.",
+  "abstract": "In this study, we propose a novel markerless motion capture system (MCS) for monkeys, in which 3D surface images of monkeys were reconstructed by integrating data from four depth cameras, and a skeleton model of the monkey was fitted onto 3D images of monkeys in each frame of the video. To validate the MCS, first, estimated 3D positions of body parts were compared between the 3D MCS-assisted estimation and manual estimation based on visual inspection when a monkey performed a shuttling behavior in which it had to avoid obstacles in various positions. The mean estimation error of the positions of body parts (3-14 cm) and of head rotation (35-43°) between the 3D MCS-assisted and manual estimation were comparable to the errors between two different experimenters performing manual estimation. Furthermore, the MCS could identify specific monkey actions, and there was no false positive nor false negative detection of actions compared with those in manual estimation. Second, to check the reproducibility of MCS-assisted estimation, the same analyses of the above experiments were repeated by a different user. The estimation errors of positions of most body parts between the two experimenters were significantly smaller in the MCS-assisted estimation than in the manual estimation. Third, effects of methamphetamine (MAP) administration on the spontaneous behaviors of four monkeys were analyzed using the MCS. MAP significantly increased head movements, tended to decrease locomotion speed, and had no significant effect on total path length. The results were comparable to previous human clinical data. Furthermore, estimated data following MAP injection (total path length, walking speed, and speed of head rotation) correlated significantly between the two experimenters in the MCS-assisted estimation (r = 0.863 to 0.999). The results suggest that the presented MCS in monkeys is useful in investigating neural mechanisms underlying various psychiatric disorders and developing pharmacological interventions.",
+  "authors": [
+    "Nakamura Tomoya",
+    "Matsumoto Jumpei",
+    "Nishimaru Hiroshi",
+    "Bretas Rafael Vieira",
+    "Takamura Yusaku",
+    "Hori Etsuro",
+    "Ono Taketoshi",
+    "Nishijo Hisao"
+  ],
+  "journal": "PloS one",
+  "year": "2016",
+  "doi": "10.1371/journal.pone.0166154",
+  "mesh": [
+    "Animals",
+    "Female",
+    "Haplorhini",
+    "Imaging, Three-Dimensional",
+    "Male",
+    "Movement",
+    "Reproducibility of Results",
+    "Skeleton"
+  ]
+}

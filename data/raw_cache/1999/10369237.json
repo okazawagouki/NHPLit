@@ -1,0 +1,29 @@
+{
+  "pmid": "10369237",
+  "title": "Computer analysis of the tonic, phasic, and kinesthetic activity of pallidal discharges in Parkinson patients.",
+  "abstract": "OBJECTIVE: Intraoperative analysis of microrecording data during pallidotomy often depends on subjective interpretation of the oscilloscope signal, especially during the analysis of phasic activity. The goals of this project were: 1) to develop an inexpensive system that allowed on-line, objective characterization of single-unit pallidal discharges, and 2) to have objective criteria to differentiate the internal part (GPi) from the external part (GPe) of the globus pallidus. METHODS: A computer program was developed that allowed the analysis of firing rates (mean, median, and quartiles), spike count per unit time, and interspike interval (ISI) histograms with Chi-square statistical evaluation. Indices were developed that measured phasic activity, including burst index (BI) for the measurement of bursts, pause index (PI) for the measurement of pauses, and pause ratio (PR) for analysis of time spent in pauses. Single-unit activity of 152 GPe and 203 GPi cells in 47 Parkinson patients were digitized using the computer soundcard during pallidotomy and analyzed using this software. RESULTS: GPe discharges had a mean firing rate = 42 Hz, BI = 0.81, PI = 0.21, and PR = 1.41. GPi had a mean firing rate = 81, BI = 1.61, PI = 0.04, and PR = 0.21. The PR was the best index that differentiated GPe from GPi, followed by PI, BI, and firing rates, in that order. Kinesthetic cells were recorded equally in GPe from GPi, and their responses to generalized movements were not significantly different. CONCLUSION: (1) Signal analysis using the digitization process of a computer sound card and dedicated software is satisfactory for the objective \"on-line\" and \"off-line\" analysis of microrecordings (including phasic activity); (2) PI and PR are most helpful in differentiating neurons of GPi from those of GPe; (3) no single parameter can differentiate GPe from GPi activity in all cases; and (4) unlike the findings in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-treated monkeys, GPe and GPi of Parkinson patients have similar prevalence of kinesthetic cells and similar responses to generalized somatotopic effects.",
+  "authors": [
+    "Favre J",
+    "Taha J M",
+    "Baumann T",
+    "Burchiel K J"
+  ],
+  "journal": "Surgical neurology",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Adult",
+    "Aged",
+    "Female",
+    "Globus Pallidus",
+    "Humans",
+    "Male",
+    "Microelectrodes",
+    "Middle Aged",
+    "Monitoring, Intraoperative",
+    "Parkinson Disease, Secondary",
+    "Signal Processing, Computer-Assisted",
+    "Software",
+    "Stereotaxic Techniques"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "23197457",
+  "title": "Quantitative inference of population response properties across eccentricity from motion-induced maps in macaque V1.",
+  "abstract": "Interpreting population responses in the primary visual cortex (V1) remains a challenge especially with the advent of techniques measuring activations of large cortical areas simultaneously with high precision. For successful interpretation, a quantitatively precise model prediction is of great importance. In this study, we investigate how accurate a spatiotemporal filter (STF) model predicts average response profiles to coherently drifting random dot motion obtained by optical imaging of intrinsic signals in V1 of anesthetized macaques. We establish that orientation difference maps, obtained by subtracting orthogonal axis-of-motion, invert with increasing drift speeds, consistent with the motion streak effect. Consistent with perception, the speed at which the map inverts (the critical speed) depends on cortical eccentricity and systematically increases from foveal to parafoveal. We report that critical speeds and response maps to drifting motion are excellently reproduced by the STF model. Our study thus suggests that the STF model is quantitatively accurate enough to be used as a first model of choice for interpreting responses obtained with intrinsic imaging methods in V1. We show further that this good quantitative correspondence opens the possibility to infer otherwise not easily accessible population receptive field properties from responses to complex stimuli, such as drifting random dot motions.",
+  "authors": [
+    "Rasch Malte J",
+    "Chen Ming",
+    "Wu Si",
+    "Lu Haidong D",
+    "Roe Anna W"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2013",
+  "doi": "10.1152/jn.00673.2012",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Fovea Centralis",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motion",
+    "Motion Perception",
+    "Optical Imaging",
+    "Visual Cortex",
+    "Visual Fields"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "14722699",
+  "title": "The use of decoding to analyze the contribution to the information of the correlations between the firing of simultaneously recorded neurons.",
+  "abstract": "A new decoding method is described that enables the information that is encoded by simultaneously recorded neurons to be measured. The algorithm measures the information that is contained not only in the number of spikes from each neuron, but also in the cross-correlations between the neuronal firing including stimulus-dependent synchronization effects. The approach enables the effects of interactions between the 'signal' and 'noise' correlations to be identified and measured, as well as those from stimulus-dependent cross-correlations. The approach provides an estimate of the statistical significance of the stimulus-dependent synchronization information, as well as enabling its magnitude to be compared with the magnitude of the spike-count related information, and also whether these two contributions are additive or redundant. The algorithm operates even with limited numbers of trials. The algorithm is validated by simulation. It was then used to analyze neuronal data from the primate inferior temporal visual cortex. The main conclusions from experiments with two to four simultaneously recorded neurons were that almost all of the information was available in the spike counts of the neurons; that this Rate information included on average very little redundancy arising from stimulus-independent correlation effects; and that stimulus-dependent cross-correlation effects (i.e. stimulus-dependent synchronization) contribute very little to the encoding of information in the inferior temporal visual cortex about which object or face has been presented.",
+  "authors": [
+    "Franco Leonardo",
+    "Rolls Edmund T",
+    "Aggelopoulos Nikolaos C",
+    "Treves Alessandro"
+  ],
+  "journal": "Experimental brain research",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Information Theory",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

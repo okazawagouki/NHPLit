@@ -1,0 +1,12 @@
+{
+  "pmid": "37312961",
+  "title": "MonDiaL-CAD: Monkeypox diagnosis via selected hybrid CNNs unified with feature selection and ensemble learning.",
+  "abstract": "OBJECTIVE: Recently, monkeypox virus is slowly evolving and there are fears it will spread as COVID-19. Computer-aided diagnosis (CAD) based on deep learning approaches especially convolutional neural network (CNN) can assist in the rapid determination of reported incidents. The current CADs were mostly based on an individual CNN. Few CADs employed multiple CNNs but did not investigate which combination of CNNs has a greater impact on the performance. Furthermore, they relied on only spatial information of deep features to train their models. This study aims to construct a CAD tool named \"Monkey-CAD\" that can address the previous limitations and automatically diagnose monkeypox rapidly and accurately. METHODS: Monkey-CAD extracts features from eight CNNs and then examines the best possible combination of deep features that influence classification. It employs discrete wavelet transform (DWT) to merge features which diminishes fused features' size and provides a time-frequency demonstration. These deep features' sizes are then further reduced via an entropy-based feature selection approach. These reduced fused features are finally used to deliver a better representation of the input features and feed three ensemble classifiers. RESULTS: Two freely accessible datasets called Monkeypox skin image (MSID) and Monkeypox skin lesion (MSLD) are employed in this study. Monkey-CAD could discriminate among cases with and without Monkeypox achieving an accuracy of 97.1% for MSID and 98.7% for MSLD datasets respectively. CONCLUSIONS: Such promising results demonstrate that the Monkey-CAD can be employed to assist health practitioners. They also verify that fusing deep features from selected CNNs can boost performance.",
+  "authors": [
+    "Attallah Omneya"
+  ],
+  "journal": "Digital health",
+  "year": "2023",
+  "doi": "10.1177/20552076231180054",
+  "mesh": []
+}

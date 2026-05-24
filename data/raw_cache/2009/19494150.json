@@ -1,0 +1,32 @@
+{
+  "pmid": "19494150",
+  "title": "Lateral intraparietal cortex and reinforcement learning during a mixed-strategy game.",
+  "abstract": "Activity of the neurons in the lateral intraparietal cortex (LIP) displays a mixture of sensory, motor, and memory signals. Moreover, they often encode signals reflecting the accumulation of sensory evidence that certain eye movements might lead to a desirable outcome. However, when the environment changes dynamically, animals are also required to combine the information about its previously chosen actions and their outcomes appropriately to update continually the desirabilities of alternative actions. Here, we investigated whether LIP neurons encoded signals necessary to update an animal's decision-making strategies adaptively during a computer-simulated matching-pennies game. Using a reinforcement learning algorithm, we estimated the value functions that best predicted the animal's choices on a trial-by-trial basis. We found that, immediately before the animal revealed its choice, approximately 18% of LIP neurons changed their activity according to the difference in the value functions for the two targets. In addition, a somewhat higher fraction of LIP neurons displayed signals related to the sum of the value functions, which might correspond to the state value function or an average rate of reward used as a reference point. Similar to the neurons in the prefrontal cortex, many LIP neurons also encoded the signals related to the animal's previous choices. Thus, the posterior parietal cortex might be a part of the network that provides the substrate for forming appropriate associations between actions and outcomes.",
+  "authors": [
+    "Seo Hyojung",
+    "Barraclough Dominic J",
+    "Lee Daeyeol"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2009",
+  "doi": "10.1523/JNEUROSCI.1479-09.2009",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Behavior, Animal",
+    "Choice Behavior",
+    "Female",
+    "Games, Experimental",
+    "Macaca mulatta",
+    "Male",
+    "Memory",
+    "Models, Neurological",
+    "Neurons",
+    "Parietal Lobe",
+    "Psychomotor Performance",
+    "Regression Analysis",
+    "Reinforcement, Psychology",
+    "Saccades"
+  ]
+}

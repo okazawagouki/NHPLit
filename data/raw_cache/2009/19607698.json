@@ -1,0 +1,29 @@
+{
+  "pmid": "19607698",
+  "title": "A toolbox for the fast information analysis of multiple-site LFP, EEG and spike train recordings.",
+  "abstract": "BACKGROUND: Information theory is an increasingly popular framework for studying how the brain encodes sensory information. Despite its widespread use for the analysis of spike trains of single neurons and of small neural populations, its application to the analysis of other types of neurophysiological signals (EEGs, LFPs, BOLD) has remained relatively limited so far. This is due to the limited-sampling bias which affects calculation of information, to the complexity of the techniques to eliminate the bias, and to the lack of publicly available fast routines for the information analysis of multi-dimensional responses. RESULTS: Here we introduce a new C- and Matlab-based information theoretic toolbox, specifically developed for neuroscience data. This toolbox implements a novel computationally-optimized algorithm for estimating many of the main information theoretic quantities and bias correction techniques used in neuroscience applications. We illustrate and test the toolbox in several ways. First, we verify that these algorithms provide accurate and unbiased estimates of the information carried by analog brain signals (i.e. LFPs, EEGs, or BOLD) even when using limited amounts of experimental data. This test is important since existing algorithms were so far tested primarily on spike trains. Second, we apply the toolbox to the analysis of EEGs recorded from a subject watching natural movies, and we characterize the electrodes locations, frequencies and signal features carrying the most visual information. Third, we explain how the toolbox can be used to break down the information carried by different features of the neural signal into distinct components reflecting different ways in which correlations between parts of the neural signal contribute to coding. We illustrate this breakdown by analyzing LFPs recorded from primary visual cortex during presentation of naturalistic movies. CONCLUSION: The new toolbox presented here implements fast and data-robust computations of the most relevant quantities used in information theoretic analysis of neural data. The toolbox can be easily used within Matlab, the environment used by most neuroscience laboratories for the acquisition, preprocessing and plotting of neural data. It can therefore significantly enlarge the domain of application of information theory to neuroscience, and lead to new discoveries about the neural code.",
+  "authors": [
+    "Magri Cesare",
+    "Whittingstall Kevin",
+    "Singh Vanessa",
+    "Logothetis Nikos K",
+    "Panzeri Stefano"
+  ],
+  "journal": "BMC neuroscience",
+  "year": "2009",
+  "doi": "10.1186/1471-2202-10-81",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Electroencephalography",
+    "Electronic Data Processing",
+    "Electrophysiology",
+    "Information Theory",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

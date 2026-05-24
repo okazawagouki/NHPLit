@@ -1,0 +1,26 @@
+{
+  "pmid": "11539144",
+  "title": "Computerized mappings of the cerebral cortex: a multiresolution flattening method and a surface-based coordinate system.",
+  "abstract": "We present a new method for generating two-dimensional maps of the cerebral cortex. Our computerized, two-stage flattening method takes as its input any well-defined representation of a surface within the three-dimensional cortex. The first stage rapidly converts this surface to a topologically correct two-dimensional map, without regard for the amount of distortion introduced. The second stage reduces distortions using a multiresolution strategy that makes gross shape changes on a coarsely sampled map and further shape refinements on progressively finer resolution maps. We demonstrate the utility of this approach by creating flat maps of the entire cerebral cortex in the macaque monkey and by displaying various types of experimental data on such maps. We also introduce a surface-based coordinate system that has advantages over conventional stereotaxic coordinates and is relevant to studies of cortical organization in humans as well as non-human primates. Together, these methods provide an improved basis for quantitative studies of individual variability in cortical organization.",
+  "authors": [
+    "Drury H A",
+    "Van Essen D C",
+    "Anderson C H",
+    "Lee C W",
+    "Coogan T A",
+    "Lewis J W"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "1996",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Computers",
+    "Image Processing, Computer-Assisted",
+    "Macaca",
+    "Models, Anatomic",
+    "Software"
+  ]
+}

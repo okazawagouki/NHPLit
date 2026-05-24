@@ -1,0 +1,23 @@
+{
+  "pmid": "40394380",
+  "title": "Unraveling the roles of spatial working memory sustained and selective neurons in prefrontal cortex.",
+  "abstract": "The heart of goal-directed behavior organization is working memory. Recent studies have emphasized the critical role of the prefrontal cortex (PFC) in working memory, highlighting elevated spiking levels in PFC neurons during working-memory delays. As a higher-order cortex, PFC contains various types of neurons with complex receptive fields, making it challenging to identify task-engaged neurons, particularly during the working memory periods when firing rates are lower compared to stimulus periods. While previous studies have primarily focused on neurons selective for sensory stimuli, there are also task-sustained neurons that are not selective for specific stimulus characteristics. In this study, we differentiate between working memory (WM)-sustained neurons, which show task-related activity without stimulus spatial selectivity, and working memory (WM)-selective neurons, which are selective for the location of the stimulus. To investigate their roles, we investigated the neural activities of the lateral PFC neurons in two macaque monkeys during a spatial working memory task. Fano factor analysis revealed that the neuronal variability of both WM-selective and WM-sustained neurons was similar and significantly higher than that of non-active neurons (neurons not modulated by the task). Moreover, the Fano factor of active neurons diminished during error trials compared to correct trials. The spike phase locking (SPL) value was measured to evaluate the coupling of local field potentials (LFPs) phases to spike times, considering neural network characteristics. SPL results indicated that both WM-selective neurons and WM-sustained neurons exhibited higher SPL in the alpha/beta-band compared to non-active neurons. Additionally, the alpha/beta-band SPL of working memory-active neurons decreased during error trials. In summary, despite the non-stimulus-specific activation of WM-sustained neurons, they may contribute to task performance alongside WM-selective neurons.",
+  "authors": [
+    "Aliramezani Mohammad",
+    "Constantinidis Christos",
+    "Daliri Mohammad Reza"
+  ],
+  "journal": "Communications biology",
+  "year": "2025",
+  "doi": "10.1038/s42003-025-08211-8",
+  "mesh": [
+    "Animals",
+    "Prefrontal Cortex",
+    "Memory, Short-Term",
+    "Neurons",
+    "Male",
+    "Macaca mulatta",
+    "Spatial Memory",
+    "Action Potentials"
+  ]
+}

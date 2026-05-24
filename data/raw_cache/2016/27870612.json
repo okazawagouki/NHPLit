@@ -1,0 +1,28 @@
+{
+  "pmid": "27870612",
+  "title": "The Population Tracking Model: A Simple, Scalable Statistical Model for Neural Population Data.",
+  "abstract": "Our understanding of neural population coding has been limited by a lack of analysis methods to characterize spiking data from large populations. The biggest challenge comes from the fact that the number of possible network activity patterns scales exponentially with the number of neurons recorded ([Formula: see text]). Here we introduce a new statistical method for characterizing neural population activity that requires semi-independent fitting of only as many parameters as the square of the number of neurons, requiring drastically smaller data sets and minimal computation time. The model works by matching the population rate (the number of neurons synchronously active) and the probability that each individual neuron fires given the population rate. We found that this model can accurately fit synthetic data from up to 1000 neurons. We also found that the model could rapidly decode visual stimuli from neural population data from macaque primary visual cortex about 65 ms after stimulus onset. Finally, we used the model to estimate the entropy of neural population activity in developing mouse somatosensory cortex and, surprisingly, found that it first increases, and then decreases during development. This statistical model opens new options for interrogating neural population data and can bolster the use of modern large-scale in vivo Ca[Formula: see text] and voltage imaging tools.",
+  "authors": [
+    "O'Donnell Cian",
+    "Gonçalves J Tiago",
+    "Whiteley Nick",
+    "Portera-Cailliau Carlos",
+    "Sejnowski Terrence J"
+  ],
+  "journal": "Neural computation",
+  "year": "2017",
+  "doi": "10.1162/NECO_a_00910",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Calcium",
+    "Entropy",
+    "Macaca",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Voltage-Sensitive Dye Imaging"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "pmid": "34892647",
+  "title": "Neural Encoding of Reaches in a Linear Cortical Model.",
+  "abstract": "To effectively control the arm, motor cortical neurons must produce complex patterns of activation that vary with the position and orientation of the arm and reach direction. In order to better understand how such a finely tuned dynamical system could arise and what its basic organizing principles are, we develop a model of the motor cortex as a linear dynamical system with feedback coupled to a two-joint model of the macaque arm. By optimizing the connections between neural populations with respect to an objective function that penalizes error between hand and target, as well as neural and muscular energy use, we show that certain properties of the motor cortex, such as muscle synergies, can naturally be obtained. We also demonstrate that the optimization process produces a stable neural system in which targets in the physical space are mapped to attracting fixed points in the neural state space. Finally, we show that this optimization process produces neural units with complex spatial and temporal activation patterns.",
+  "authors": [
+    "Greene Patrick",
+    "Schieber Marc H",
+    "Sarma Sridevi V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2021",
+  "doi": "10.1109/EMBC46164.2021.9630295",
+  "mesh": [
+    "Hand",
+    "Motor Cortex",
+    "Motor Neurons"
+  ]
+}

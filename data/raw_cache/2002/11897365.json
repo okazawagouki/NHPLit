@@ -1,0 +1,23 @@
+{
+  "pmid": "11897365",
+  "title": "Analysis of phase-locked oscillations in multi-channel single-unit spike activity with wavelet cross-spectrum.",
+  "abstract": "Electrophysiological measures of neural activity frequently display oscillatory patterns at various frequencies. Furthermore, these oscillatory patterns can become dynamically synchronized across a wide region of the brain in a task-dependent manner. In this study, phase-locked oscillations in simultaneously recorded spike trains were analyzed using the wavelet cross-spectrum. Adaptation of the existent methods of calculating wavelet cross-spectrum to spike train data was straightforward. In contrast, new methods were needed for evaluating the statistical significance of the cross-spectrum. Although a permutation test based on a large number of re-sampled cross-spectra can provide a reliable estimate of statistical significance, this was quite time-consuming. As an alternative, statistical significance was determined with a normal probability density function estimated from a small number of re-sampled cross-spectra. When applied to neuron pairs recorded in the primate supplementary motor area, the re-sampling procedure produced a reliable outcome even when it was based on as few as ten re-sampled cross-spectra. These results suggest that the wavelet analysis in combination with a re-sampling procedure provides a useful tool to examine the dynamic patterns of temporal correlation in cortical spike trains.",
+  "authors": [
+    "Lee Daeyeol"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Biological Clocks",
+    "Electrophysiology",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Nerve Net",
+    "Neurons",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

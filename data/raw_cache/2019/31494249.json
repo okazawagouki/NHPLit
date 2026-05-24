@@ -1,0 +1,42 @@
+{
+  "pmid": "31494249",
+  "title": "A population stereotaxic positron emission tomography brain template for the macaque and its application to ischemic model.",
+  "abstract": "PURPOSE: Positron emission tomography (PET) is a non-invasive imaging tool for the evaluation of brain function and neuronal activity in normal and diseased conditions with high sensitivity. The macaque monkey serves as a valuable model system in the field of translational medicine, for its phylogenetic proximity to man. To translation of non-human primate neuro-PET studies, an effective and objective data analysis platform for neuro-PET studies is needed. MATERIALS AND METHODS: A set of stereotaxic templates of macaque brain, namely the Institute of High Energy Physics & Jinan University Macaque Template (HJT), was constructed by iteratively registration and averaging, based on 30 healthy rhesus monkeys. A brain atlas image was created in HJT space by combining sub-anatomical regions and defining new 88 bilateral functional regions, in which a unique integer was assigned for each sub-anatomical region. RESULTS: The HJT comprised a structural MRI T1 weighted image (T1WI) template image, a functional FDG-PET template image, intracranial tissue segmentations accompanied with a digital macaque brain atlas image. It is compatible with various commercially available software tools, such as SPM and PMOD. Data analysis was performed on a stroke model compared with a group of healthy controls to demonstrate the usage of HJT. CONCLUSION: We have constructed a stereotaxic template set of macaque brain named HJT, which standardizes macaque neuroimaging data analysis, supports novel radiotracer development and facilitates translational neuro-disorders research.",
+  "authors": [
+    "Nie Binbin",
+    "Wang Lu",
+    "Hu Yichao",
+    "Liang Shengxiang",
+    "Tan Zhiqiang",
+    "Chai Pei",
+    "Tang Yongjin",
+    "Shang Jingjie",
+    "Pan Zhangsheng",
+    "Zhao Xudong",
+    "Zhang Xiaofei",
+    "Gong Jianxian",
+    "Zheng Chao",
+    "Xu Hao",
+    "Wey Hsiao-Ying",
+    "Liang Steven H",
+    "Shan Baoci"
+  ],
+  "journal": "NeuroImage",
+  "year": "2019",
+  "doi": "10.1016/j.neuroimage.2019.116163",
+  "mesh": [
+    "Animals",
+    "Atlases as Topic",
+    "Brain",
+    "Brain Ischemia",
+    "Brain Mapping",
+    "Female",
+    "Image Processing, Computer-Assisted",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Positron-Emission Tomography",
+    "Species Specificity"
+  ]
+}

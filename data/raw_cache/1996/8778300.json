@@ -1,0 +1,24 @@
+{
+  "pmid": "8778300",
+  "title": "A computational analysis of the relationship between neuronal and behavioral responses to visual motion.",
+  "abstract": "We have documented previously a close relationship between neuronal activity in the middle temporal visual area (MT or V5) and behavioral judgments of motion (Newsome et al., 1989; Salzman et al., 1990; Britten et al., 1992; Britten et al., 1996). We have now used numerical simulations to try to understand how neural signals in area MT support psychophysical decisions. We developed a model that pools neuronal responses drawn from our physiological data set and compares average responses in different pools to produce psychophysical decisions. The structure of the model allows us to assess the relationship between \"neuronal\" input signals and simulated psychophysical performance using the same methods we have applied to real experimental data. We sought to reconcile three experimental observations: psychophysical performance (threshold sensitivity to motion stimuli embedded in noise), a trial-by-trial covariation between the neural response and the monkey's choices, and a modest correlation between pairs of MT neurons in their variable responses to identical visual stimuli. Our results can be most accurately simulated if psychophysical decisions are based on pools of at least 100 weakly correlated sensory neurons. The neurons composing the pools must include a broader range of sensitivities than we encountered in our MT recordings, presumably because of the inclusion of neurons whose optimal stimulus is different from the one being discriminated. Central sources of noise degrade the signal-to-noise ratio of the pooled signal, but this degradation is relatively small compared with the noise typically carried by single cortical neurons. This suggests that our monkeys base near-threshold psychophysical judgments on signals carried by populations of weakly interacting neurons; these populations include many neurons that are not tuned optimally for the particular stimuli being discriminated.",
+  "authors": [
+    "Shadlen M N",
+    "Britten K H",
+    "Newsome W T",
+    "Movshon J A"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1996",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neuronal Plasticity",
+    "Statistics as Topic",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "36031184",
+  "title": "Resolving the mesoscopic missing link: Biophysical modeling of EEG from cortical columns in primates.",
+  "abstract": "Event-related potentials (ERP) are among the most widely measured indices for studying human cognition. While their timing and magnitude provide valuable insights, their usefulness is limited by our understanding of their neural generators at the circuit level. Inverse source localization offers insights into such generators, but their solutions are not unique. To address this problem, scientists have assumed the source space generating such signals comprises a set of discrete equivalent current dipoles, representing the activity of small cortical regions. Based on this notion, theoretical studies have employed forward modeling of scalp potentials to understand how changes in circuit-level dynamics translate into macroscopic ERPs. However, experimental validation is lacking because it requires in vivo measurements of intracranial brain sources. Laminar local field potentials (LFP) offer a mechanism for estimating intracranial current sources. Yet, a theoretical link between LFPs and intracranial brain sources is missing. Here, we present a forward modeling approach for estimating mesoscopic intracranial brain sources from LFPs and predict their contribution to macroscopic ERPs. We evaluate the accuracy of this LFP-based representation of brain sources utilizing synthetic laminar neurophysiological measurements and then demonstrate the power of the approach in vivo to clarify the source of a representative cognitive ERP component. To that end, LFP was measured across the cortical layers of visual area V4 in macaque monkeys performing an attention demanding task. We show that area V4 generates dipoles through layer-specific transsynaptic currents that biophysically recapitulate the ERP component through the detailed forward modeling. The constraints imposed on EEG production by this method also revealed an important dissociation between computational and biophysical contributors. As such, this approach represents an important bridge between laminar microcircuitry, through the mesoscopic activity of cortical columns to the patterns of EEG we measure at the scalp.",
+  "authors": [
+    "Herrera Beatriz",
+    "Westerberg Jacob A",
+    "Schall Michelle S",
+    "Maier Alexander",
+    "Woodman Geoffrey F",
+    "Schall Jeffrey D",
+    "Riera Jorge J"
+  ],
+  "journal": "NeuroImage",
+  "year": "2022",
+  "doi": "10.1016/j.neuroimage.2022.119593",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Evoked Potentials",
+    "Brain",
+    "Macaca",
+    "Brain Mapping",
+    "Electroencephalography"
+  ]
+}

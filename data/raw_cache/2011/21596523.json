@@ -1,0 +1,26 @@
+{
+  "pmid": "21596523",
+  "title": "How does the brain rapidly learn and reorganize view-invariant and position-invariant object representations in the inferotemporal cortex?",
+  "abstract": "All primates depend for their survival on being able to rapidly learn about and recognize objects. Objects may be visually detected at multiple positions, sizes, and viewpoints. How does the brain rapidly learn and recognize objects while scanning a scene with eye movements, without causing a combinatorial explosion in the number of cells that are needed? How does the brain avoid the problem of erroneously classifying parts of different objects together at the same or different positions in a visual scene? In monkeys and humans, a key area for such invariant object category learning and recognition is the inferotemporal cortex (IT). A neural model is proposed to explain how spatial and object attention coordinate the ability of IT to learn invariant category representations of objects that are seen at multiple positions, sizes, and viewpoints. The model clarifies how interactions within a hierarchy of processing stages in the visual brain accomplish this. These stages include the retina, lateral geniculate nucleus, and cortical areas V1, V2, V4, and IT in the brain's What cortical stream, as they interact with spatial attention processes within the parietal cortex of the Where cortical stream. The model builds upon the ARTSCAN model, which proposed how view-invariant object representations are generated. The positional ARTSCAN (pARTSCAN) model proposes how the following additional processes in the What cortical processing stream also enable position-invariant object representations to be learned: IT cells with persistent activity, and a combination of normalizing object category competition and a view-to-object learning law which together ensure that unambiguous views have a larger effect on object recognition than ambiguous views. The model explains how such invariant learning can be fooled when monkeys, or other primates, are presented with an object that is swapped with another object during eye movements to foveate the original object. The swapping procedure is predicted to prevent the reset of spatial attention, which would otherwise keep the representations of multiple objects from being combined by learning. Li and DiCarlo (2008) have presented neurophysiological data from monkeys showing how unsupervised natural experience in a target swapping experiment can rapidly alter object representations in IT. The model quantitatively simulates the swapping data by showing how the swapping procedure fools the spatial attention mechanism. More generally, the model provides a unifying framework, and testable predictions in both monkeys and humans, for understanding object learning data using neurophysiological methods in monkeys, and spatial attention, episodic learning, and memory retrieval data using functional imaging methods in humans.",
+  "authors": [
+    "Cao Yongqiang",
+    "Grossberg Stephen",
+    "Markowitz Jeffrey"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2011",
+  "doi": "10.1016/j.neunet.2011.04.004",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Humans",
+    "Learning",
+    "Models, Neurological",
+    "Pattern Recognition, Visual",
+    "Primates",
+    "Reaction Time",
+    "Temporal Lobe",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

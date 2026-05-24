@@ -1,0 +1,27 @@
+{
+  "pmid": "39963949",
+  "title": "Hierarchical emergence of opponent coding in auditory belt cortex.",
+  "abstract": "We recorded from neurons in primary auditory cortex (A1) and middle-lateral belt area (ML) while rhesus macaques either discriminated amplitude-modulated noise (AM) from unmodulated noise or passively heard the same stimuli. We used several post hoc pooling models to investigate the ability of auditory cortex to leverage population coding for AM detection. We find that pooled-response AM detection is better in the active condition than the passive condition, and better using rate-based coding than synchrony-based coding. Neurons can be segregated into two classes based on whether they increase (INC) or decrease (DEC) their firing rate in response to increasing modulation depth. In these samples, A1 had relatively fewer DEC neurons (26%) than ML (45%). When responses were pooled without segregating these classes, AM detection using rate-based coding was much better in A1 than in ML, but when pooling only INC neurons, AM detection in ML approached that found in A1. Pooling only DEC neurons resulted in impaired AM detection in both areas. To investigate the role of DEC neurons, we devised two pooling methods that opposed DEC and INC neurons-a direct subtractive method and a two-pool push-pull opponent method. Only the push-pull opponent method resulted in superior AM detection relative to indiscriminate pooling. In the active condition, the opponent method was superior to pooling only INC neurons during the late portion of the response in ML. These results suggest that the increasing prevalence of the DEC response type in ML can be leveraged by appropriate methods to improve AM detection.<b>NEW & NOTEWORTHY</b> We used several post hoc pooling models to investigate the ability of primate auditory cortex to leverage population coding in the detection of amplitude-modulated sounds. When cells are indiscriminately pooled, primary auditory cortex (A1) detects amplitude-modulated sounds better than middle-lateral belt (ML). When cells that decrease firing rate with increasing modulation depth are excluded, or used in a push-pull opponent fashion, detection is similar in the two areas, and macaque behavior can be approximated using reasonably sized pools.",
+  "authors": [
+    "Johnson Jeffrey S",
+    "Niwa Mamiko",
+    "O'Connor Kevin N",
+    "Malone Brian J",
+    "Sutter Mitchell L"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2025",
+  "doi": "10.1152/jn.00519.2024",
+  "mesh": [
+    "Animals",
+    "Auditory Cortex",
+    "Macaca mulatta",
+    "Neurons",
+    "Auditory Perception",
+    "Male",
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Models, Neurological",
+    "Female"
+  ]
+}

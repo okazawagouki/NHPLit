@@ -1,0 +1,22 @@
+{
+  "pmid": "22034235",
+  "title": "Finding fossils in new ways: an artificial neural network approach to predicting the location of productive fossil localities.",
+  "abstract": "Chance and serendipity have long played a role in the location of productive fossil localities by vertebrate paleontologists and paleoanthropologists. We offer an alternative approach, informed by methods borrowed from the geographic information sciences and using recent advances in computer science, to more efficiently predict where fossil localities might be found. Our model uses an artificial neural network (ANN) that is trained to recognize the spectral characteristics of known productive localities and other land cover classes, such as forest, wetlands, and scrubland, within a study area based on the analysis of remotely sensed (RS) imagery. Using these spectral signatures, the model then classifies other pixels throughout the study area. The results of the neural network classification can be examined and further manipulated within a geographic information systems (GIS) software package. While we have developed and tested this model on fossil mammal localities in deposits of Paleocene and Eocene age in the Great Divide Basin of southwestern Wyoming, a similar analytical approach can be easily applied to fossil-bearing sedimentary deposits of any age in any part of the world. We suggest that new analytical tools and methods of the geographic sciences, including remote sensing and geographic information systems, are poised to greatly enrich paleoanthropological investigations, and that these new methods should be embraced by field workers in the search for, and geospatial analysis of, fossil primates and hominins.",
+  "authors": [
+    "Anemone Robert",
+    "Emerson Charles",
+    "Conroy Glenn"
+  ],
+  "journal": "Evolutionary anthropology",
+  "year": "2011",
+  "doi": "10.1002/evan.20324",
+  "mesh": [
+    "Animals",
+    "Archaeology",
+    "Fossils",
+    "Geographic Information Systems",
+    "Neural Networks, Computer",
+    "Remote Sensing Technology",
+    "Wyoming"
+  ]
+}

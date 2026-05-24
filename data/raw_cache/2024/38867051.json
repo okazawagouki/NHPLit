@@ -1,0 +1,24 @@
+{
+  "pmid": "38867051",
+  "title": "Mental navigation in the primate entorhinal cortex.",
+  "abstract": "A cognitive map is a suitably structured representation that enables novel computations using previous experience; for example, planning a new route in a familiar space<sup>1</sup>. Work in mammals has found direct evidence for such representations in the presence of exogenous sensory inputs in both spatial<sup>2,3</sup> and non-spatial domains<sup>4-10</sup>. Here we tested a foundational postulate of the original cognitive map theory<sup>1,11</sup>: that cognitive maps support endogenous computations without external input. We recorded from the entorhinal cortex of monkeys in a mental navigation task that required the monkeys to use a joystick to produce one-dimensional vectors between pairs of visual landmarks without seeing the intermediate landmarks. The ability of the monkeys to perform the task and generalize to new pairs indicated that they relied on a structured representation of the landmarks. Task-modulated neurons exhibited periodicity and ramping that matched the temporal structure of the landmarks and showed signatures of continuous attractor networks<sup>12,13</sup>. A continuous attractor network model of path integration<sup>14</sup> augmented with a Hebbian-like learning mechanism provided an explanation of how the system could endogenously recall landmarks. The model also made an unexpected prediction that endogenous landmarks transiently slow path integration, reset the dynamics and thereby reduce variability. This prediction was borne out in a reanalysis of firing rate variability and behaviour. Our findings link the structured patterns of activity in the entorhinal cortex to the endogenous recruitment of a cognitive map during mental navigation.",
+  "authors": [
+    "Neupane Sujaya",
+    "Fiete Ila",
+    "Jazayeri Mehrdad"
+  ],
+  "journal": "Nature",
+  "year": "2024",
+  "doi": "10.1038/s41586-024-07557-z",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Cognition",
+    "Entorhinal Cortex",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Spatial Navigation",
+    "Learning"
+  ]
+}

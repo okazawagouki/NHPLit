@@ -1,0 +1,24 @@
+{
+  "pmid": "9744948",
+  "title": "Computer simulation of post-spike facilitation in spike-triggered averages of rectified EMG.",
+  "abstract": "When the spikes of a motor cortical cell are used to compile a spike-triggered average (STA) of rectified electromyographic (EMG) activity, a post-spike facilitation (PSF) is sometimes seen. This is generally thought to be indicative of direct corticomotoneuronal (CM) connections. However, it has been claimed that a PSF could be caused by synchronization between CM and non-CM cells. This study investigates the generation of PSF using a computer model. A population of cortical cells was simulated, some of which made CM connections to a pool of 103 motoneurons. Motoneurons were simulated using a biophysically realistic model. A subpopulation of the cortical cells was synchronized together. After a motoneuron discharge, a motor unit action potential was generated; these were summed to produce an EMG output. Realistic values were used for the corticospinal and peripheral nerve conduction velocity distribution, for slowing of impulse conduction in CM terminal axons, and for the amount of cortical synchrony. STA of the rectified EMG from all cortical neurons showed PSF; however, these were qualitatively different for CM versus non-CM cells. Using an epoch analysis to determine reliability in a quantitative manner, it was shown that the onset latency of PSF did not distinguish the two classes of cells after 10,000 spikes because of high noise in the averages. The time of the PSF peak and the peak width at half-maximum (PWHM) could separate CM from synchrony effects. However, only PWHM was robust against changes in motor unit action-potential shape and duration and against changes in the width of cortical synchrony. The amplitude of PSF from a CM cell could be doubled by the presence of synchrony. It is proposed that, if a PSF has PWHM < 7 ms, this reliably indicates that the trigger is a CM cell projecting to the muscle whose EMG is averaged. In an analysis of experimental data where macaque motor cortical cells facilitated hand and forearm muscle EMG, 74% of PSFs fulfilled this criterion. The PWHM criterion could be applied to other STA studies in which it is important to exclude the effects of synchrony.",
+  "authors": [
+    "Baker S N",
+    "Lemon R N"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Computer Simulation",
+    "Electromyography",
+    "Excitatory Postsynaptic Potentials",
+    "Humans",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Neural Conduction",
+    "Neural Networks, Computer",
+    "Periodicity"
+  ]
+}

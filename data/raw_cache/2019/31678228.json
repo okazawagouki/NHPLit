@@ -1,0 +1,35 @@
+{
+  "pmid": "31678228",
+  "title": "Neurophysiological basis of contrast dependent BOLD orientation tuning.",
+  "abstract": "Recent work in early visual cortex of humans has shown that the BOLD signal exhibits contrast dependent orientation tuning, with an inverse oblique effect (oblique > cardinal) at high contrast and a horizontal effect (vertical > horizontal) at low contrast. This finding is at odds with decades of neurophysiological research demonstrating contrast invariant orientation tuning in primate visual cortex, yet the source of this discrepancy is unclear. We hypothesized that contrast dependent BOLD orientation tuning may arise due to contrast dependent influences of feedforward (FF) and feedback (FB) synaptic activity, indexed through gamma and alpha rhythms, respectively. To quantify this, we acquired EEG and BOLD in healthy humans to generate and compare orientation tuning curves across all neural frequency bands with BOLD. As expected, BOLD orientation selectivity in V1 was contrast dependent, preferring oblique orientations at high contrast and vertical at low contrast. On the other hand, EEG orientation tuning was contrast invariant, though frequency-specific, with an inverse-oblique effect in the gamma band (FF) and a horizontal effect in the alpha band (FB). Therefore, high-contrast BOLD orientation tuning closely matched FF activity, while at low contrast, BOLD best resembled FB orientation tuning. These results suggest that contrast dependent BOLD orientation tuning arises due to the reduced contribution of FF input to overall neurophysiological activity at low contrast, shifting BOLD orientation tuning towards the orientation preferences of FB at low contrast.",
+  "authors": [
+    "Butler R",
+    "Mierzwinski G W",
+    "Bernier P M",
+    "Descoteaux M",
+    "Gilbert G",
+    "Whittingstall K"
+  ],
+  "journal": "NeuroImage",
+  "year": "2020",
+  "doi": "10.1016/j.neuroimage.2019.116323",
+  "mesh": [
+    "Adult",
+    "Alpha Rhythm",
+    "Contrast Sensitivity",
+    "Electroencephalography",
+    "Feedback",
+    "Female",
+    "Functional Neuroimaging",
+    "Gamma Rhythm",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Orientation, Spatial",
+    "Oxygen",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception",
+    "Young Adult"
+  ]
+}

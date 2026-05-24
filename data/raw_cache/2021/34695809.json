@@ -1,0 +1,24 @@
+{
+  "pmid": "34695809",
+  "title": "Non-human primate epidural ECoG analysis using explainable deep learning technology.",
+  "abstract": "<i>Objective.</i>With the development in the field of neural networks,<i>explainable AI</i>(XAI), is being studied to ensure that artificial intelligence models can be explained. There are some attempts to apply neural networks to neuroscientific studies to explain neurophysiological information with high machine learning performances. However, most of those studies have simply visualized features extracted from XAI and seem to lack an active neuroscientific interpretation of those features. In this study, we have tried to actively explain the high-dimensional learning features contained in the neurophysiological information extracted from XAI, compared with the previously reported neuroscientific results.<i>Approach</i>. We designed a deep neural network classifier using 3D information (3D DNN) and a 3D class activation map (3D CAM) to visualize high-dimensional classification features. We used those tools to classify monkey electrocorticogram (ECoG) data obtained from the unimanual and bimanual movement experiment.<i>Main results</i>. The 3D DNN showed better classification accuracy than other machine learning techniques, such as 2D DNN. Unexpectedly, the activation weight in the 3D CAM analysis was high in the ipsilateral motor and somatosensory cortex regions, whereas the gamma-band power was activated in the contralateral areas during unimanual movement, which suggests that the brain signal acquired from the motor cortex contains information about both contralateral movement and ipsilateral movement. Moreover, the hand-movement classification system used critical temporal information at movement onset and offset when classifying bimanual movements.<i>Significance.</i>As far as we know, this is the first study to use high-dimensional neurophysiological information (spatial, spectral, and temporal) with the deep learning method, reconstruct those features, and explain how the neural network works. We expect that our methods can be widely applied and used in neuroscience and electrophysiology research from the point of view of the explainability of XAI as well as its performance.",
+  "authors": [
+    "Choi Hoseok",
+    "Lim Seokbeen",
+    "Min Kyeongran",
+    "Ahn Kyoung-Ha",
+    "Lee Kyoung-Min",
+    "Jang Dong Pyo"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2021",
+  "doi": "10.1088/1741-2552/ac3314",
+  "mesh": [
+    "Animals",
+    "Artificial Intelligence",
+    "Deep Learning",
+    "Neural Networks, Computer",
+    "Primates",
+    "Technology"
+  ]
+}

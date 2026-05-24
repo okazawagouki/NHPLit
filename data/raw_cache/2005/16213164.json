@@ -1,0 +1,31 @@
+{
+  "pmid": "16213164",
+  "title": "Characterization of event-related designs using BOLD and IRON fMRI.",
+  "abstract": "Despite many desirable characteristics, event-related (ER) stimulus designs for BOLD and IRON suffer from low detection power relative to block designs because the hemodynamic impulse response function (IRF) acts as a low-pass filter on neural activation to attenuate the size of differential responses to alternate stimuli. While the use of exogenous contrast agent (IRON technique) provides an alternative fMRI method in animal models to improve sensitivity and spatial localization, the inherently slower hemodynamic IRF causes IRON detection efficiency to decrease faster than BOLD efficiency as the interstimulus interval (ISI) is shortened. Using simulations based upon assumptions of stimulus-response linearity and experimental data obtained in awake, non-human primates, this study compared detection efficiencies for fixed, random and semi-random ISI distributions for BOLD and IRON techniques. A larger relative gain in detection efficiency at short ISI was obtained by randomized designs using IRON contrast relative to BOLD contrast due to the slower IRF of the IRON method. To quantify tradeoffs between detection efficiency and the predictability of stimulus presentation, the Shannon entropy was introduced as an objective measure of predictability. Small amounts of entropy can be traded for large gains in efficiency, particularly for the IRON method.",
+  "authors": [
+    "Leite Francisca P",
+    "Mandeville Joseph B"
+  ],
+  "journal": "NeuroImage",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Cerebrovascular Circulation",
+    "Computer Simulation",
+    "Data Interpretation, Statistical",
+    "Entropy",
+    "Evoked Potentials",
+    "Fixation, Ocular",
+    "Haplorhini",
+    "Hemodynamics",
+    "Iron",
+    "Linear Models",
+    "Magnetic Resonance Imaging",
+    "Models, Statistical",
+    "Oxygen",
+    "Visual Acuity"
+  ]
+}

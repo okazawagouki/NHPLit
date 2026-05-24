@@ -1,0 +1,20 @@
+{
+  "pmid": "33089827",
+  "title": "Computational challenges and opportunities for a bi-directional artificial retina.",
+  "abstract": "A future artificial retina that can restore high acuity vision in blind people will rely on the capability to both read (observe) and write (control) the spiking activity of neurons using an adaptive, bi-directional and high-resolution device. Although current research is focused on overcoming the technical challenges of building and implanting such a device, exploiting its capabilities to achieve more acute visual perception will also require substantial computational advances. Using high-density large-scale recording and stimulation in the primate retina with an ex vivo multi-electrode array lab prototype, we frame several of the major computational problems, and describe current progress and future opportunities in solving them. First, we identify cell types and locations from spontaneous activity in the blind retina, and then efficiently estimate their visual response properties by using a low-dimensional manifold of inter-retina variability learned from a large experimental dataset. Second, we estimate retinal responses to a large collection of relevant electrical stimuli by passing current patterns through an electrode array, spike sorting the resulting recordings and using the results to develop a model of evoked responses. Third, we reproduce the desired responses for a given visual target by temporally dithering a diverse collection of electrical stimuli within the integration time of the visual system. Together, these novel approaches may substantially enhance artificial vision in a next-generation device.",
+  "authors": [
+    "Shah Nishal P",
+    "Chichilnisky E J"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2020",
+  "doi": "10.1088/1741-2552/aba8b1",
+  "mesh": [
+    "Animals",
+    "Artificial Organs",
+    "Blindness",
+    "Electric Stimulation",
+    "Retina",
+    "Visual Perception"
+  ]
+}

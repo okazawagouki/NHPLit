@@ -1,0 +1,26 @@
+{
+  "pmid": "31962295",
+  "title": "Cross-subject decoding of eye movement goals from local field potentials.",
+  "abstract": "OBJECTIVE: We consider the cross-subject decoding problem from local field potential (LFP) signals, where training data collected from the prefrontal cortex (PFC) of a source subject is used to decode intended motor actions in a destination subject. APPROACH: We propose a novel supervised transfer learning technique, referred to as data centering, which is used to adapt the feature space of the source to the feature space of the destination. The key ingredients of data centering are the transfer functions used to model the deterministic component of the relationship between the source and destination feature spaces. We propose an efficient data-driven estimation approach for linear transfer functions that uses the first and second order moments of the class-conditional distributions. MAIN RESULTS: We apply our data centering technique with linear transfer functions for cross-subject decoding of eye movement intentions in an experiment where two macaque monkeys perform memory-guided visual saccades to one of eight target locations. The results show peak cross-subject decoding performance of [Formula: see text], which marks a substantial improvement over random choice decoder. In addition to this, data centering also outperforms standard sampling-based methods in setups with imbalanced training data. SIGNIFICANCE: The analyses presented herein demonstrate that the proposed data centering is a viable novel technique for reliable LFP-based cross-subject brain-computer interfacing and neural prostheses.",
+  "authors": [
+    "Angjelichinoski Marko",
+    "Choi John",
+    "Banerjee Taposh",
+    "Pesaran Bijan",
+    "Tarokh Vahid"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2020",
+  "doi": "10.1088/1741-2552/ab6df3",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Eye Movements",
+    "Goals",
+    "Macaca mulatta",
+    "Male",
+    "Memory",
+    "Prefrontal Cortex",
+    "Psychomotor Performance"
+  ]
+}

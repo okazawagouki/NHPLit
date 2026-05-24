@@ -1,0 +1,23 @@
+{
+  "pmid": "35377737",
+  "title": "Face neurons encode nonsemantic features.",
+  "abstract": "The primate inferior temporal cortex contains neurons that respond more strongly to faces than to other objects. Termed “face neurons,” these neurons are thought to be selective for faces as a semantic category. However, face neurons also partly respond to clocks, fruits, and single eyes, raising the question of whether face neurons are better described as selective for visual features related to faces but dissociable from them. We used a recently described algorithm, XDream, to evolve stimuli that strongly activated face neurons. XDream leverages a generative neural network that is not limited to realistic objects. Human participants assessed images evolved for face neurons and for nonface neurons and natural images depicting faces, cars, fruits, etc. Evolved images were consistently judged to be distinct from real faces. Images evolved for face neurons were rated as slightly more similar to faces than images evolved for nonface neurons. There was a correlation among natural images between face neuron activity and subjective “faceness” ratings, but this relationship did not hold for face neuron–evolved images, which triggered high activity but were rated low in faceness. Our results suggest that so-called face neurons are better described as tuned to visual features rather than semantic categories.",
+  "authors": [
+    "Bardon Alexandra",
+    "Xiao Will",
+    "Ponce Carlos R",
+    "Livingstone Margaret S",
+    "Kreiman Gabriel"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2022",
+  "doi": "10.1073/pnas.2118705119",
+  "mesh": [
+    "Algorithms",
+    "Face",
+    "Humans",
+    "Neurons",
+    "Semantics",
+    "Visual Cortex"
+  ]
+}

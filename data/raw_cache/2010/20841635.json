@@ -1,0 +1,24 @@
+{
+  "pmid": "20841635",
+  "title": "Instantaneous estimation of motor cortical neural encoding for online brain-machine interfaces.",
+  "abstract": "Recently, the authors published a sequential decoding algorithm for motor brain-machine interfaces (BMIs) that infers movement directly from spike trains and produces a new kinematic output every time an observation of neural activity is present at its input. Such a methodology also needs a special instantaneous neuronal encoding model to relate instantaneous kinematics to every neural spike activity. This requirement is unlike the tuning methods commonly used in computational neuroscience, which are based on time windows of neural and kinematic data. This paper develops a novel, online, encoding model that uses the instantaneous kinematic variables (position, velocity and acceleration in 2D or 3D space) to estimate the mean value of an inhomogeneous Poisson model. During BMI decoding the mapping from neural spikes to kinematics is one to one and easy to implement by simply reading the spike times directly. Due to the high temporal resolution of the encoding, the delay between motor cortex neurons and kinematics needs to be estimated in the encoding stage. Mutual information is employed to select the optimal time index defined as the lag for which the spike event is maximally informative with respect to the kinematics. We extensively compare the windowed tuning models with the proposed method. The big difference between them resides in the high firing rate portion of the tuning curve, which is rather important for BMI-decoding performance. This paper shows that implementing such an instantaneous tuning model in sequential Monte Carlo point process estimation based on spike timing provides statistically better kinematic reconstructions than the linear and exponential spike-tuning models.",
+  "authors": [
+    "Wang Yiwen",
+    "Principe Jose C"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2010",
+  "doi": "10.1088/1741-2560/7/5/056010",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain",
+    "Female",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Nerve Net",
+    "Neurons",
+    "Time Factors",
+    "User-Computer Interface"
+  ]
+}

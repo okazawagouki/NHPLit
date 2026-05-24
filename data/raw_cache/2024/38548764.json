@@ -1,0 +1,22 @@
+{
+  "pmid": "38548764",
+  "title": "Recruitment of the premotor cortex during arithmetic operations by the monkey.",
+  "abstract": "Arithmetic operations are complex mental processes rooted in the abstract concept of numerosity. Despite the significance, the neural architecture responsible for these operations has remained largely uncharted. In this study, we explored the presence of specific neuronal activity in the dorsal premotor cortex of the monkey dedicated to numerical addition and subtraction. Our findings reveal that many of these neural activities undergo a transformation, shifting their coding from arithmetic to motor representations. These motor representations include information about which hand to use and the number of steps involved in the action. We consistently observed that cells related to the right-hand encoded addition, while those linked to the left-hand encoded subtraction, suggesting that arithmetic operations and motor commands are intertwining with each other. Furthermore, we used a multivariate decoding technique to predict the monkey's behaviour based on the activity of these arithmetic-related cells. The classifier trained to discern arithmetic operations, including addition and subtraction, not only predicted the arithmetic decisions but also the subsequent motor actions of the right and left-hand. These findings imply a cognitive extension of the motor cortex's function, where inherent neural systems are repurposed to facilitate arithmetic operations.",
+  "authors": [
+    "Okuyama Sumito",
+    "Kuki Toshinobu",
+    "Mushiake Hajime"
+  ],
+  "journal": "Scientific reports",
+  "year": "2024",
+  "doi": "10.1038/s41598-024-56755-2",
+  "mesh": [
+    "Animals",
+    "Motor Cortex",
+    "Haplorhini",
+    "Mental Processes",
+    "Concept Formation",
+    "Neurons",
+    "Brain Mapping"
+  ]
+}

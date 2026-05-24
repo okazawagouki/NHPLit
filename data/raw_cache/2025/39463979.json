@@ -1,0 +1,25 @@
+{
+  "pmid": "39463979",
+  "title": "AI Discovery of Mechanisms of Consciousness, Its Disorders, and Their Treatment.",
+  "abstract": "Understanding disorders of consciousness (DOC) remains one of the most challenging problems in neuroscience, hindered by the lack of experimental models for probing mechanisms or testing interventions [1]. To address this, we introduce a generative adversarial AI framework [2] that pits deep neural networks-trained to detect consciousness across over 680,000 neuroelectro-physiology samples and validated on 565 patients, healthy volunteers, and animals-against interpretable, machine learning-driven neural field models [3]. This adversarial architecture produces biologically realistic simulations of both conscious and comatose brains that recapitulate empirical neurophysiological features across humans, monkeys, rats, and bats. Without explicit programming, the AI model retrodicts known DOC responses to brain stimulation and generates testable predictions about unconsciousness mechanisms. Two such predictions are validated here: selective disruption of the basal ganglia indirect pathway, supported by diffusion MRI in 51 DOC patients; and increased cortical inhibitory-to-inhibitory synaptic coupling, supported by RNA sequencing from resected brain tissue in six human coma patients and a rat stroke model. The model also identifies high-frequency subthalamic nucleus stimulation as a promising DOC intervention, supported here using electrophysiology data from human patients. This work introduces an AI framework for causal inference and therapeutic discovery in consciousness research and complex systems more broadly.",
+  "authors": [
+    "Toker Daniel",
+    "Zheng Zhong Sheng",
+    "Thum Jasmine A",
+    "Guang Jing",
+    "Annen Jitka",
+    "Miyamoto Hiroyuki",
+    "Yamakawa Kazuhiro",
+    "Vespa Paul M",
+    "Laureys Steven",
+    "Schnakers Caroline",
+    "Bari Ausaf A",
+    "Hudson Andrew",
+    "Pouratian Nader",
+    "Monti Martin M"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2024.10.16.618720",
+  "mesh": []
+}

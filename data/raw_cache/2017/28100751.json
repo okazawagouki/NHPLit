@@ -1,0 +1,24 @@
+{
+  "pmid": "28100751",
+  "title": "Decision-Related Activity in Macaque V2 for Fine Disparity Discrimination Is Not Compatible with Optimal Linear Readout.",
+  "abstract": "UNLABELLED: Fine judgments of stereoscopic depth rely mainly on relative judgments of depth (relative binocular disparity) between objects, rather than judgments of the distance to where the eyes are fixating (absolute disparity). In macaques, visual area V2 is the earliest site in the visual processing hierarchy for which neurons selective for relative disparity have been observed (Thomas et al., 2002). Here, we found that, in macaques trained to perform a fine disparity discrimination task, disparity-selective neurons in V2 were highly selective for the task, and their activity correlated with the animals' perceptual decisions (unexplained by the stimulus). This may partially explain similar correlations reported in downstream areas. Although compatible with a perceptual role of these neurons for the task, the interpretation of such decision-related activity is complicated by the effects of interneuronal \"noise\" correlations between sensory neurons. Recent work has developed simple predictions to differentiate decoding schemes (Pitkow et al., 2015) without needing measures of noise correlations, and found that data from early sensory areas were compatible with optimal linear readout of populations with information-limiting correlations. In contrast, our data here deviated significantly from these predictions. We additionally tested this prediction for previously reported results of decision-related activity in V2 for a related task, coarse disparity discrimination (Nienborg and Cumming, 2006), thought to rely on absolute disparity. Although these data followed the predicted pattern, they violated the prediction quantitatively. This suggests that optimal linear decoding of sensory signals is not generally a good predictor of behavior in simple perceptual tasks. SIGNIFICANCE STATEMENT: Activity in sensory neurons that correlates with an animal's decision is widely believed to provide insights into how the brain uses information from sensory neurons. Recent theoretical work developed simple predictions to differentiate decoding schemes, and found support for optimal linear readout of early sensory populations with information-limiting correlations. Here, we observed decision-related activity for neurons in visual area V2 of macaques performing fine disparity discrimination, as yet the earliest site for this task. These findings, and previously reported results from V2 in a different task, deviated from the predictions for optimal linear readout of a population with information-limiting correlations. Our results suggest that optimal linear decoding of early sensory information is not a general decoding strategy used by the brain.",
+  "authors": [
+    "Clery Stephane",
+    "Cumming Bruce G",
+    "Nienborg Hendrikje"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2017",
+  "doi": "10.1523/JNEUROSCI.2445-16.2016",
+  "mesh": [
+    "Animals",
+    "Depth Perception",
+    "Discrimination Learning",
+    "Macaca mulatta",
+    "Male",
+    "Photic Stimulation",
+    "Random Allocation",
+    "Vision Disparity",
+    "Visual Cortex"
+  ]
+}

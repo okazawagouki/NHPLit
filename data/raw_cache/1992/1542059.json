@@ -1,0 +1,22 @@
+{
+  "pmid": "1542059",
+  "title": "Model for the computation of self-motion in biological systems.",
+  "abstract": "I present a method by which direction- and speed-tuned cells, such as those commonly found in the middle temporal area of the primate brain, can be used to analyze the patterns of retinal image motion that are generated during observer movement through the environment. For pure translation, the retinal image motion is radial in nature and expands out from a point that corresponds to the direction of heading. This heading direction can be found by the use of translation detectors that act as templates for the radial image motion. Each translation detector sums the outputs of direction- and speed-tuned motion sensors arranged such that their preferred direction of motion lies along the radial direction out from the detector center. The most active detector signifies the heading direction. Rotation detectors can be constructed in a similar fashion to detect areas of uniform image speed and direction in the motion field produced by observer rotation. A model consisting of both detector types can determine the heading direction independently of any rotational motion of the observer. The model can achieve this from the outputs of the two-dimensional motion sensors directly and does not assume the existence of accurate estimates of image speed and direction. It is robust to the aperture problem and is biologically realistic. The basic elements of the model have been shown to exist in the primate visual cortex.",
+  "authors": [
+    "Perrone J A"
+  ],
+  "journal": "Journal of the Optical Society of America. A, Optics and image science",
+  "year": "1992",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Models, Biological",
+    "Motion Perception",
+    "Primates",
+    "Psychophysics",
+    "Retina"
+  ]
+}

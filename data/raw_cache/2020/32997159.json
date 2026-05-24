@@ -1,0 +1,20 @@
+{
+  "pmid": "32997159",
+  "title": "Slow-fast control of eye movements: an instance of Zeeman's model for an action.",
+  "abstract": "The rapid eye movements (saccades) used to transfer gaze between targets are examples of an action. The behaviour of saccades matches that of the slow-fast model of actions originally proposed by Zeeman. Here, we extend Zeeman's model by incorporating an accumulator that represents the increase in certainty of the presence of a target, together with an integrator that converts a velocity command to a position command. The saccadic behaviour of several foveate species, including human, rhesus monkey and mouse, is replicated by the augmented model. Predictions of the linear stability of the saccadic system close to equilibrium are made, and it is shown that these could be tested by applying state-space reconstruction techniques to neurophysiological recordings. Moreover, each model equation describes behaviour that can be matched to specific classes of neurons found throughout the oculomotor system, and the implication of the model is that build-up, burst and omnipause neurons are found throughout the oculomotor pathway because they constitute the simplest circuit that can produce the motor commands required to specify the trajectories of motor actions.",
+  "authors": [
+    "Clement Richard A",
+    "Akman Ozgur E"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2020",
+  "doi": "10.1007/s00422-020-00845-7",
+  "mesh": [
+    "Animals",
+    "Eye Movements",
+    "Macaca mulatta",
+    "Mice",
+    "Neurons",
+    "Saccades"
+  ]
+}

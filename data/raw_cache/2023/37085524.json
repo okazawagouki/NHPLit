@@ -1,0 +1,19 @@
+{
+  "pmid": "37085524",
+  "title": "Unsupervised approach to decomposing neural tuning variability.",
+  "abstract": "Neural representation is often described by the tuning curves of individual neurons with respect to certain stimulus variables. Despite this tradition, it has become increasingly clear that neural tuning can vary substantially in accordance with a collection of internal and external factors. A challenge we are facing is the lack of appropriate methods to accurately capture the moment-to-moment tuning variability directly from the noisy neural responses. Here we introduce an unsupervised statistical approach, Poisson functional principal component analysis (Pf-PCA), which identifies different sources of systematic tuning fluctuations, moreover encompassing several current models (e.g.,multiplicative gain models) as special cases. Applying this method to neural data recorded from macaque primary visual cortex- a paradigmatic case for which the tuning curve approach has been scientifically essential- we discovered a simple relationship governing the variability of orientation tuning, which unifies different types of gain changes proposed previously. By decomposing the neural tuning variability into interpretable components, our method enables discovery of unexpected structure of the neural code, capturing the influence of the external stimulus drive and internal states simultaneously.",
+  "authors": [
+    "Zhu Rong J B",
+    "Wei Xue-Xin"
+  ],
+  "journal": "Nature communications",
+  "year": "2023",
+  "doi": "10.1038/s41467-023-37982-z",
+  "mesh": [
+    "Animals",
+    "Models, Neurological",
+    "Macaca",
+    "Neurons",
+    "Action Potentials"
+  ]
+}

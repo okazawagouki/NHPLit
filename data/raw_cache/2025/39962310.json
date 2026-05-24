@@ -1,0 +1,26 @@
+{
+  "pmid": "39962310",
+  "title": "MARBLE: interpretable representations of neural population dynamics using geometric deep learning.",
+  "abstract": "The dynamics of neuron populations commonly evolve on low-dimensional manifolds. Thus, we need methods that learn the dynamical processes over neural manifolds to infer interpretable and consistent latent representations. We introduce a representation learning method, MARBLE, which decomposes on-manifold dynamics into local flow fields and maps them into a common latent space using unsupervised geometric deep learning. In simulated nonlinear dynamical systems, recurrent neural networks and experimental single-neuron recordings from primates and rodents, we discover emergent low-dimensional latent representations that parametrize high-dimensional neural dynamics during gain modulation, decision-making and changes in the internal state. These representations are consistent across neural networks and animals, enabling the robust comparison of cognitive computations. Extensive benchmarking demonstrates state-of-the-art within- and across-animal decoding accuracy of MARBLE compared to current representation learning approaches, with minimal user input. Our results suggest that a manifold structure provides a powerful inductive bias to develop decoding algorithms and assimilate data across experiments.",
+  "authors": [
+    "Gosztolai Adam",
+    "Peach Robert L",
+    "Arnaudon Alexis",
+    "Barahona Mauricio",
+    "Vandergheynst Pierre"
+  ],
+  "journal": "Nature methods",
+  "year": "2025",
+  "doi": "10.1038/s41592-024-02582-2",
+  "mesh": [
+    "Deep Learning",
+    "Animals",
+    "Neurons",
+    "Neural Networks, Computer",
+    "Algorithms",
+    "Models, Neurological",
+    "Computer Simulation",
+    "Nonlinear Dynamics",
+    "Rats"
+  ]
+}

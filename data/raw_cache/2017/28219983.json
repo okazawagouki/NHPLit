@@ -1,0 +1,25 @@
+{
+  "pmid": "28219983",
+  "title": "Neural Representation and Causal Models in Motor Cortex.",
+  "abstract": "Dorsal premotor (PMd) and primary motor (M1) cortices play a central role in mapping sensation to movement. Many studies of these areas have focused on correlation-based tuning curves relating neural activity to task or movement parameters, but the link between tuning and movement generation is unclear. We recorded motor preparatory activity from populations of neurons in PMd/M1 as macaque monkeys performed a visually guided reaching task and show that tuning curves for sensory inputs (reach target direction) and motor outputs (initial movement direction) are not typically aligned. We then used a simple, causal model to determine the expected relationship between sensory and motor tuning. The model shows that movement variability is minimized when output neurons (those that directly drive movement) have target and movement tuning that are linearly related across targets and cells. In contrast, for neurons that only affect movement via projections to output neurons, the relationship between target and movement tuning is determined by the pattern of projections to output neurons and may even be uncorrelated, as was observed for the PMd/M1 population as a whole. We therefore determined the relationship between target and movement tuning for subpopulations of cells defined by the temporal duration of their spike waveforms, which may distinguish cell types. We found a strong correlation between target and movement tuning for only a subpopulation of neurons with intermediate spike durations (trough-to-peak ∼350 μs after high-pass filtering), suggesting that these cells have the most direct role in driving motor output.<b>SIGNIFICANCE STATEMENT</b> This study focuses on how macaque premotor and primary motor cortices transform sensory inputs into motor outputs. We develop empirical and theoretical links between causal models of this transformation and more traditional, correlation-based \"tuning curve\" analyses. Contrary to common assumptions, we show that sensory and motor tuning curves for premovement preparatory activity do not generally align. Using a simple causal model, we show that tuning-curve alignment is only expected for output neurons that drive movement. Finally, we identify a physiologically defined subpopulation of neurons with strong tuning-curve alignment, suggesting that it contains a high concentration of output cells. This study demonstrates how analysis of movement variability, combined with simple causal models, can uncover the circuit structure of sensorimotor transformations.",
+  "authors": [
+    "Chaisanguanthum Kris S",
+    "Shen Helen H",
+    "Sabes Philip N"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2017",
+  "doi": "10.1523/JNEUROSCI.1000-16.2017",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Feedback, Sensory",
+    "Macaca",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Nerve Net",
+    "Psychomotor Performance",
+    "Visual Perception"
+  ]
+}

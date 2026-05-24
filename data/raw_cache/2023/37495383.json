@@ -1,0 +1,21 @@
+{
+  "pmid": "37495383",
+  "title": "Abstraction of Reward Context Facilitates Relative Reward Coding in Neural Populations of the Macaque Anterior Cingulate Cortex.",
+  "abstract": "The anterior cingulate cortex (ACC) is believed to be involved in many cognitive processes, including linking goals to actions and tracking decision-relevant contextual information. ACC neurons robustly encode expected outcomes, but how this relates to putative functions of ACC remains unknown. Here, we approach this question from the perspective of population codes by analyzing neural spiking data in the ventral and dorsal banks of the ACC in two male monkeys trained to perform a stimulus-motor mapping task to earn rewards or avoid losses. We found that neural populations favor a low dimensional representational geometry that emphasizes the valence of potential outcomes while also facilitating the independent, abstract representation of multiple task-relevant variables. Valence encoding persisted throughout the trial, and realized outcomes were primarily encoded in a relative sense, such that cue valence acted as a context for outcome encoding. This suggests that the population coding we observe could be a mechanism that allows feedback to be interpreted in a context-dependent manner. Together, our results point to a prominent role for ACC in context setting and relative interpretation of outcomes, facilitated by abstract, or untangled, representations of task variables.<b>SIGNIFICANCE STATEMENT</b> The ability to interpret events in light of the current context is a critical facet of higher-order cognition. The ACC is suggested to be important for tracking contextual information, whereas alternate views hold that its function is more related to the motor system and linking goals to appropriate actions. We evaluated these possibilities by analyzing geometric properties of neural population activity in monkey ACC when contexts were determined by the valence of potential outcomes and found that this information was represented as a dominant, abstract concept. Ensuing outcomes were then coded relative to these contexts, suggesting an important role for these representations in context-dependent evaluation. Such mechanisms may be critical for the abstract reasoning and generalization characteristic of biological intelligence.",
+  "authors": [
+    "Chien Jonathan M",
+    "Wallis Joni D",
+    "Rich Erin L"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2023",
+  "doi": "10.1523/JNEUROSCI.0292-23.2023",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Gyrus Cinguli",
+    "Reward",
+    "Neurons",
+    "Macaca mulatta"
+  ]
+}

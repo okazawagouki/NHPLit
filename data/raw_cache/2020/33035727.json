@@ -1,0 +1,29 @@
+{
+  "pmid": "33035727",
+  "title": "Real-time suppression and amplification of frequency-specific neural activity using stimulation evoked oscillations.",
+  "abstract": "BACKGROUND: Approaches to predictably control neural oscillations are needed to understand their causal role in brain function in healthy or diseased states and to advance the development of neuromodulation therapies. OBJECTIVE: We present a closed-loop neural control and optimization framework to actively suppress or amplify low-frequency neural oscillations observed in local field potentials in real-time by using electrical stimulation. The rationale behind this control approach and our working hypothesis is that neural oscillatory activity evoked by electrical pulses can suppress or amplify spontaneous oscillations via destructive or constructive interference when the pulses are continuously delivered with appropriate amplitudes and at precise phases of the modulated oscillations in a closed-loop scheme. METHODS: We tested our hypothesis in two nonhuman primates that exhibited a robust increase in low-frequency (8-30 Hz) oscillatory power in the subthalamic nucleus (STN) following administration of the neurotoxin 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP). To test our neural control approach, we targeted 8-17 Hz oscillations and used electrode arrays and electrical stimulation waveforms similar to those used in humans chronically implanted with brain stimulation systems. Stimulation parameters that maximize the suppression or amplification of neural oscillations were predicted using mathematical models of the stimulation evoked oscillations. RESULTS: Our neural control and optimization approach was capable of actively and robustly suppressing or amplifying oscillations in the targeted frequency band (8-17 Hz) in real-time in the studied subjects. CONCLUSIONS: The results from this study support our hypothesis and suggest that the proposed neural control framework allows one to characterize in controlled experiments the functional role of frequency-specific neural oscillations by using electrodes and stimulation waveforms currently being employed in humans.",
+  "authors": [
+    "Escobar Sanabria David",
+    "Johnson Luke A",
+    "Yu Ying",
+    "Busby Zachary",
+    "Nebeck Shane",
+    "Zhang Jianyu",
+    "Harel Noam",
+    "Johnson Matthew D",
+    "Molnar Gregory F",
+    "Vitek Jerrold L"
+  ],
+  "journal": "Brain stimulation",
+  "year": "2020",
+  "doi": "10.1016/j.brs.2020.09.017",
+  "mesh": [
+    "Animals",
+    "Computer Systems",
+    "Deep Brain Stimulation",
+    "Evoked Potentials",
+    "Female",
+    "Macaca mulatta",
+    "Subthalamic Nucleus"
+  ]
+}

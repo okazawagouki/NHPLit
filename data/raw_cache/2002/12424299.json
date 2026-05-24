@@ -1,0 +1,28 @@
+{
+  "pmid": "12424299",
+  "title": "Pursuit speed compensation in cortical area MSTd.",
+  "abstract": "When we move forward the visual images on our retinas expand. Humans rely on the focus, or center, of this expansion to estimate their direction of self-motion or heading and, as long as the eyes are still, the retinal focus corresponds to the heading. However, smooth pursuit eye movements add visual motion to the expanding retinal image and displace the focus of expansion. In spite of this, humans accurately judge their heading during pursuit eye movements even though the retinal focus no longer corresponds to the heading. Recent studies in macaque suggest that correction for pursuit may occur in the dorsal aspect of the medial superior temporal area (MSTd); neurons in this area are tuned to the retinal position of the focus and they modify their tuning to partially compensate for the focus shift caused by pursuit. However, the question remains whether these neurons shift focus tuning more at faster pursuit speeds, to compensate for the larger focus shifts created by faster pursuit. To investigate this question, we recorded from 40 MSTd neurons while monkeys made pursuit eye movements at a range of speeds across simulated self- or object motion displays. We found that most MSTd neurons modify their focus tuning more at faster pursuit speeds, consistent with the idea that they encode heading and other motion parameters regardless of pursuit speed. Across the population, the median rate of compensation increase with pursuit speed was 51% as great as required for perfect compensation. We recorded from the same neurons in a simulated pursuit condition, in which gaze was fixed but the entire display counter-rotated to produce the same retinal image as during real pursuit. This condition yielded the result that retinal cues contribute to pursuit compensation; the rate of compensation increase was 30% of that required for accurate encoding of heading. The difference between these two conditions was significant (P < 0.05), indicating that extraretinal cues also contribute significantly. We found a systematic antialignment between preferred pursuit and preferred visual motion directions. Neurons may use this antialignment to combine retinal and extraretinal compensatory cues. These results indicate that many MSTd neurons compensate for pursuit velocity, pursuit direction as previously reported and pursuit speed, and further implicate MSTd as a critical stage in the computation of egomotion.",
+  "authors": [
+    "Shenoy Krishna V",
+    "Crowell James A",
+    "Andersen Richard A"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Electrophysiology",
+    "Eye Movements",
+    "Fixation, Ocular",
+    "Macaca mulatta",
+    "Male",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Pursuit, Smooth",
+    "Retina",
+    "Temporal Lobe"
+  ]
+}

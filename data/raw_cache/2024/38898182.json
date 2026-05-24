@@ -1,0 +1,24 @@
+{
+  "pmid": "38898182",
+  "title": "Reward prediction error neurons implement an efficient code for reward.",
+  "abstract": "We use efficient coding principles borrowed from sensory neuroscience to derive the optimal neural population to encode a reward distribution. We show that the responses of dopaminergic reward prediction error neurons in mouse and macaque are similar to those of the efficient code in the following ways: the neurons have a broad distribution of midpoints covering the reward distribution; neurons with higher thresholds have higher gains, more convex tuning functions and lower slopes; and their slope is higher when the reward distribution is narrower. Furthermore, we derive learning rules that converge to the efficient code. The learning rule for the position of the neuron on the reward axis closely resembles distributional reinforcement learning. Thus, reward prediction error neuron responses may be optimized to broadcast an efficient reward signal, forming a connection between efficient coding and reinforcement learning, two of the most successful theories in computational neuroscience.",
+  "authors": [
+    "Schütt Heiko H",
+    "Kim Dongjae",
+    "Ma Wei Ji"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2024",
+  "doi": "10.1038/s41593-024-01671-x",
+  "mesh": [
+    "Animals",
+    "Reward",
+    "Mice",
+    "Models, Neurological",
+    "Reinforcement, Psychology",
+    "Neurons",
+    "Dopaminergic Neurons",
+    "Macaca mulatta",
+    "Male"
+  ]
+}

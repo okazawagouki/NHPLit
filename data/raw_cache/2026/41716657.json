@@ -1,0 +1,15 @@
+{
+  "pmid": "41716657",
+  "title": "Bidirectional cross-day alignment of neural spikes and behavior using a hybrid SNN-ANN algorithm.",
+  "abstract": "Recent advances in deep learning have enabled effective interpretation of neural activity patterns from electroencephalogram signals; however, challenges persist in invasive brain signals for cross-day neural decoding and simulation tasks. The inherent non-stationarity of neural dynamics and representational drift across recording sessions fundamentally limit the generalization capabilities of existing approaches. We present AlignNet, a novel framework that establishes cross-modal alignment between spiking patterns and behavioral semantics through U-based representation learning. Our architecture employs hybrid SNN-ANN autoencoders to encode neural spikes and behavior into a shared latent space, where the neural spike autoencoder incorporates multiple neuron nodes following convolution layers, and the behavior autoencoder comprises standard convolution layers. These two representations are optimized through contrastive objectives to achieve session-invariant feature learning. To address cross-day adaptation challenges, we introduce a pretraining strategy leveraging multi-session single monkey experiment data, followed by task-specific fine-tuning for neural decoding and simulation. Comprehensive evaluations demonstrate that AlignNet achieves superior performance under both single-day and cross-day conditions; meanwhile, our pretrained model effectively executes decoding and simulation tasks after fine-tuning. The hybrid SNN-ANN representations exhibit temporal consistency across multi-day recording spikes while retaining behavioral semantics, thereby advancing cross-day neural interface applications.",
+  "authors": [
+    "Hong Binjie",
+    "Xu Zihang",
+    "Zhang Tengyu",
+    "Zhang Tielin"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2026",
+  "doi": "10.3389/fnins.2026.1772958",
+  "mesh": []
+}

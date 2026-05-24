@@ -1,0 +1,30 @@
+{
+  "pmid": "23367471",
+  "title": "Control of a biomimetic brain machine interface with local field potentials: performance and stability of a static decoder over 200 days.",
+  "abstract": "Brain-machine interfaces (BMIs) have the potential to restore lost function to individuals with severe motor impairments. An important design specification for BMIs to be clinically useful is the ability to achieve high performance over a period of months to years without requiring frequent recalibration. Here, we report the first successful implementation of a biomimetic BMI based on local field potentials (LFPs). A BMI decoder was built from a single recording session of a random-pursuit reaching task for each of two monkeys, and used to control cursor position in real time (online) over a span of 210 days. Performance using this BMI was similar to prior reports using BMIs based on single-unit spikes for 2D cursor control. During this ongoing study, target acquisition rates remained constant (in 1 monkey) or improved slightly (1 monkey) over a 7 month span, and performance metrics of cursor movement (path length and time-to-target) also remained constant or showed mild improvement as the monkeys gained practice. Based on these results, we expect that a stable, high-performance BMI based on LFP signals could serve as a viable alternative to single-unit based BMIs.",
+  "authors": [
+    "Flint Robert D",
+    "Wright Zachary A",
+    "Slutzky Marc W"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2012",
+  "doi": "10.1109/EMBC.2012.6347536",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Biomimetics",
+    "Brain-Computer Interfaces",
+    "Calibration",
+    "Computer Simulation",
+    "Electrodes",
+    "Equipment Design",
+    "Evoked Potentials, Motor",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Movement",
+    "Reproducibility of Results",
+    "Time Factors",
+    "Transducers"
+  ]
+}

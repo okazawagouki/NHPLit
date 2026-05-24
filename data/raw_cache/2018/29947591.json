@@ -1,0 +1,24 @@
+{
+  "pmid": "29947591",
+  "title": "Detecting multivariate cross-correlation between brain regions.",
+  "abstract": "The problem of identifying functional connectivity from multiple time series data recorded in each of two or more brain areas arises in many neuroscientific investigations. For a single stationary time series in each of two brain areas statistical tools such as cross-correlation and Granger causality may be applied. On the other hand, to examine multivariate interactions at a single time point, canonical correlation, which finds the linear combinations of signals that maximize the correlation, may be used. We report here a new method that produces interpretations much like these standard techniques and, in addition, 1) extends the idea of canonical correlation to 3-way arrays (with dimensionality number of signals by number of time points by number of trials), 2) allows for nonstationarity, 3) also allows for nonlinearity, 4) scales well as the number of signals increases, and 5) captures predictive relationships, as is done with Granger causality. We demonstrate the effectiveness of the method through simulation studies and illustrate by analyzing local field potentials recorded from a behaving primate. NEW & NOTEWORTHY Multiple signals recorded from each of multiple brain regions may contain information about cross-region interactions. This article provides a method for visualizing the complicated interdependencies contained in these signals and assessing them statistically. The method combines signals optimally but allows the resulting measure of dependence to change, both within and between regions, as the responses evolve dynamically across time. We demonstrate the effectiveness of the method through numerical simulations and by uncovering a novel connectivity pattern between hippocampus and prefrontal cortex during a declarative memory task.",
+  "authors": [
+    "Rodu Jordan",
+    "Klein Natalie",
+    "Brincat Scott L",
+    "Miller Earl K",
+    "Kass Robert E"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2018",
+  "doi": "10.1152/jn.00869.2017",
+  "mesh": [
+    "Animals",
+    "Connectome",
+    "Hippocampus",
+    "Memory",
+    "Models, Neurological",
+    "Prefrontal Cortex",
+    "Primates"
+  ]
+}

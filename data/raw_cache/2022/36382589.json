@@ -1,0 +1,24 @@
+{
+  "pmid": "36382589",
+  "title": "Geometry of spiking patterns in early visual cortex: a topological data analytic approach.",
+  "abstract": "In the brain, spiking patterns live in a high-dimensional space of neurons and time. Thus, determining the intrinsic structure of this space presents a theoretical and experimental challenge. To address this challenge, we introduce a new framework for applying topological data analysis (TDA) to spike train data and use it to determine the geometry of spiking patterns in the visual cortex. Key to our approach is a parametrized family of distances based on the timing of spikes that quantifies the dissimilarity between neuronal responses. We applied TDA to visually driven single-unit and multiple single-unit spiking activity in macaque V1 and V2. TDA across timescales reveals a common geometry for spiking patterns in V1 and V2 which, among simple models, is most similar to that of a low-dimensional space endowed with Euclidean or hyperbolic geometry with modest curvature. Remarkably, the inferred geometry depends on timescale and is clearest for the timescales that are important for encoding contrast, orientation and spatial correlations.",
+  "authors": [
+    "Guidolin Andrea",
+    "Desroches Mathieu",
+    "Victor Jonathan D",
+    "Purpura Keith P",
+    "Rodrigues Serafim"
+  ],
+  "journal": "Journal of the Royal Society, Interface",
+  "year": "2022",
+  "doi": "10.1098/rsif.2022.0677",
+  "mesh": [
+    "Animals",
+    "Action Potentials",
+    "Data Science",
+    "Visual Cortex",
+    "Neurons",
+    "Macaca",
+    "Photic Stimulation"
+  ]
+}

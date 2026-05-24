@@ -1,0 +1,15 @@
+{
+  "pmid": "41041575",
+  "title": "Conjunctive tuning and cortical geometry shape predictive visual remapping.",
+  "abstract": "Perceptual continuity across saccades depends on pre-saccadic remapping of receptive fields (RFs) of visual neurons, a process driven by corollary discharge (CD). Yet how accurate remapping is achieved within the brain's non-uniform representation of visual space remains unclear. We present a recurrent network model in which neurons conjunctively tuned to retinotopic location and planned saccade direction integrate CD signals to remap. Pre-saccadic suppression stabilizes this process by counteracting distortions from direction selectivity. The model preserves cell-cell RF relationships and constrains population dynamics to a low-dimensional manifold. Recordings in macaque V2 during cued saccades validate saccade direction selectivity and preserved RF relationships of visual neurons. The model reveals eccentricity-dependent remapping errors due to non-uniform cortical representation, a prediction corroborated by our data. Finally, countervailing distortions in cortical representation reduce remapping errors. By revealing novel properties of visual neurons, our study reconciles the demands of acuity and continuity in the visual cortex.",
+  "authors": [
+    "Xu Xize",
+    "Denagamage Sachira",
+    "Nandy Anirvan S",
+    "Jadi Monika P"
+  ],
+  "journal": "Research square",
+  "year": "2025",
+  "doi": "10.21203/rs.3.rs-7536239/v1",
+  "mesh": []
+}

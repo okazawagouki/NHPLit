@@ -1,0 +1,32 @@
+{
+  "pmid": "30485153",
+  "title": "Temporal resolution of single-photon responses in primate rod photoreceptors and limits imposed by cellular noise.",
+  "abstract": "Sensory receptor noise corrupts sensory signals, contributing to imperfect perception and dictating central processing strategies. For example, noise in rod phototransduction limits our ability to detect light, and minimizing the impact of this noise requires precisely tuned nonlinear processing by the retina. But detection sensitivity is only one aspect of night vision: prompt and accurate behavior also requires that rods reliably encode the timing of photon arrivals. We show here that the temporal resolution of responses of primate rods is much finer than the duration of the light response and identify the key limiting sources of transduction noise. We also find that the thermal activation rate of rhodopsin is lower than previous estimates, implying that other noise sources are more important than previously appreciated. A model of rod single-photon responses reveals that the limiting noise relevant for behavior depends critically on how rod signals are pooled by downstream neurons. NEW & NOTEWORTHY Many studies have focused on the visual system's ability to detect photons, but not on its ability to encode the relative timing of detected photons. Timing is essential for computations such as determining the velocity of moving objects. Here we examine the timing precision of primate rod photoreceptor responses and show that it is more precise than previously appreciated. This motivates an evaluation of whether scotopic vision approaches limits imposed by rod temporal resolution.",
+  "authors": [
+    "Field Greg D",
+    "Uzzell Valerie",
+    "Chichilnisky E J",
+    "Rieke Fred"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2019",
+  "doi": "10.1152/jn.00683.2018",
+  "mesh": [
+    "Animals",
+    "Compulsive Behavior",
+    "Linear Models",
+    "Macaca fascicularis",
+    "Neural Networks, Computer",
+    "Nonlinear Dynamics",
+    "Papio anubis",
+    "Photic Stimulation",
+    "Photons",
+    "Retinal Rod Photoreceptor Cells",
+    "Rhodopsin",
+    "Sensory Thresholds",
+    "Signal Processing, Computer-Assisted",
+    "Time Factors",
+    "Tissue Culture Techniques",
+    "Vision, Ocular"
+  ]
+}

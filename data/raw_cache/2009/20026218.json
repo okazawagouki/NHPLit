@@ -1,0 +1,25 @@
+{
+  "pmid": "20026218",
+  "title": "Understanding the relationships between spike rate and delta/gamma frequency bands of LFPs and EEGs using a local cortical network model.",
+  "abstract": "Despite the widespread use of EEGs to measure the large-scale dynamics of the human brain, little is known on how the dynamics of EEGs relates to that of the underlying spike rates of cortical neurons. However, progress was made by recent neurophysiological experiments reporting that EEG delta-band phase and gamma-band amplitude reliably predict some complementary aspects of the time course of spikes of visual cortical neurons. To elucidate the mechanisms behind these findings, here we hypothesize that the EEG delta phase reflects shifts of local cortical excitability arising from slow fluctuations in the network input due to entrainment to sensory stimuli or to fluctuations in ongoing activity, and that the resulting local excitability fluctuations modulate both the spike rate and the engagement of excitatory-inhibitory loops producing gamma-band oscillations. We quantitatively tested these hypotheses by simulating a recurrent network of excitatory and inhibitory neurons stimulated with dynamic inputs presenting temporal regularities similar to that of thalamic responses during naturalistic visual stimulation and during spontaneous activity. The network model reproduced in detail the experimental relationships between spike rate and EEGs, and suggested that the complementariness of the prediction of spike rates obtained from EEG delta phase or gamma amplitude arises from nonlinearities in the engagement of excitatory-inhibitory loops and from temporal modulations in the amplitude of the network input, which respectively limit the predictability of spike rates from gamma amplitude or delta phase alone. The model suggested also ways to improve and extend current algorithms for online prediction of spike rates from EEGs.",
+  "authors": [
+    "Mazzoni Alberto",
+    "Whittingstall Kevin",
+    "Brunel Nicolas",
+    "Logothetis Nikos K",
+    "Panzeri Stefano"
+  ],
+  "journal": "NeuroImage",
+  "year": "2010",
+  "doi": "10.1016/j.neuroimage.2009.12.040",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electroencephalography",
+    "Macaca",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

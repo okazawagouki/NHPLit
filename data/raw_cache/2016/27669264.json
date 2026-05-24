@@ -1,0 +1,24 @@
+{
+  "pmid": "27669264",
+  "title": "A Wireless 32-Channel Implantable Bidirectional Brain Machine Interface.",
+  "abstract": "All neural information systems (NIS) rely on sensing neural activity to supply commands and control signals for computers, machines and a variety of prosthetic devices. Invasive systems achieve a high signal-to-noise ratio (SNR) by eliminating the volume conduction problems caused by tissue and bone. An implantable brain machine interface (BMI) using intracortical electrodes provides excellent detection of a broad range of frequency oscillatory activities through the placement of a sensor in direct contact with cortex. This paper introduces a compact-sized implantable wireless 32-channel bidirectional brain machine interface (BBMI) to be used with freely-moving primates. The system is designed to monitor brain sensorimotor rhythms and present current stimuli with a configurable duration, frequency and amplitude in real time to the brain based on the brain activity report. The battery is charged via a novel ultrasonic wireless power delivery module developed for efficient delivery of power into a deeply-implanted system. The system was successfully tested through bench tests and in vivo tests on a behaving primate to record the local field potential (LFP) oscillation and stimulate the target area at the same time.",
+  "authors": [
+    "Su Yi",
+    "Routhu Sudhamayee",
+    "Moon Kee S",
+    "Lee Sung Q",
+    "Youm WooSub",
+    "Ozturk Yusuf"
+  ],
+  "journal": "Sensors (Basel, Switzerland)",
+  "year": "2016",
+  "doi": "10.3390/s16101582",
+  "mesh": [
+    "Biosensing Techniques",
+    "Brain-Computer Interfaces",
+    "Humans",
+    "Signal Processing, Computer-Assisted",
+    "Signal-To-Noise Ratio",
+    "Wireless Technology"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "1753288",
+  "title": "Lateral geniculate neurons in behaving primates. II. Encoding of visual information in the temporal shape of the response.",
+  "abstract": "1. We used the Karhunen-Loève (K-L) transform to quantify the temporal distribution of spikes in the responses of lateral geniculate (LGN) neurons. The basis functions of the K-L transform are a set of waveforms called principal components, which are extracted from the data set. The coefficients of the principal components are uncorrelated with each other and can be used to quantify individual responses. The shapes of each of the first three principal components were very similar across neurons. 2. The coefficient of the first principal component was highly correlated with the spike count, but the other coefficients were not. Thus the coefficient of the first principal component reflects the strength of the response, whereas the coefficients of the other principal components reflect aspects of the temporal distribution of spikes in the response that are uncorrelated with the strength of the response. Statistical analysis revealed that the coefficients of up to 10 principal components were driven by the stimuli. Therefore stimuli govern the temporal distribution as well as the number of spikes in the response. 3. Through the application of information theory, we were able to compare the amount of stimulus-related information carried by LGN neurons when two codes were assumed: first, a univariate code based on response strength alone; and second, a multivariate temporal code based on the coefficients of the first three principal components. We found that LGN neurons were able to transmit an average of 1.5 times as much information using the three-component temporal code as they could using the strength code. 4. The stimulus set we used allowed us to calculate the amount of information each neuron could transmit about stimulus luminance, pattern, and contrast. All neurons transmitted the greatest amount of information about stimulus luminance, but they also transmitted significant amounts of information about stimulus pattern. This pattern information was not a reflection of the luminance or contrast of the pixel centered on the receptive field. 5. In addition to measuring the average amount of information each neuron transmitted about all stimuli, we also measured the amount of information each neuron transmitted about the individual stimuli with both the univariate spike count code and the multivariate temporal code. We then compared the amount of information transmitted per stimulus with the magnitudes of the responses to the individual stimuli. We found that the magnitudes of both the univariate and the multivariate responses to individual stimuli were poorly correlated with the information transmitted about the individual stimuli.(ABSTRACT TRUNCATED AT 400 WORDS)",
+  "authors": [
+    "McClurkin J W",
+    "Gawne T J",
+    "Optican L M",
+    "Richmond B J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1991",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Electric Stimulation",
+    "Geniculate Bodies",
+    "Macaca mulatta",
+    "Male",
+    "Multivariate Analysis",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Statistics as Topic",
+    "Vision, Ocular",
+    "Visual Fields",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "34460372",
+  "title": "Transcranial Neuromodulation Array With Imaging Aperture for Simultaneous Multifocus Stimulation in Nonhuman Primates.",
+  "abstract": "Even simple behaviors arise from the simultaneous activation of multiple regions in the brain. Thus, the ability to simultaneously stimulate multiple regions within a brain circuit should allow for better modulation of function. However, performing simultaneous multifocus ultrasound neuromodulation introduces challenges to transducer design. Using 3-D Fullwave simulations, we have designed an ultrasound neuromodulation array for nonhuman primates that: 1) can simultaneously focus on multiple targets and 2) include an imaging aperture for additional functional imaging. This design is based on a spherical array, with 128 15-mm elements distributed in a spherical helix pattern. It is shown that clustering the elements tightly around the 65-mm imaging aperture located at the top of the array improves targeting at shallow depths, near the skull surface. Spherical arrays have good focusing capabilities through the skull at the center of the array, but focusing on off-center locations is more challenging due to the natural geometric configuration and the angle of incidence with the skull. In order to mitigate this, the 64 elements closest to the aperture were rotated toward and focusing on a shallow target, and the 64 elements farthest from the aperture were rotated toward and focusing on a deeper target. Data illustrated that this array produced focusing on the somatosensory cortex with a gain of 4.38 and to the thalamus with a gain of 3.82. To improve upon this, the array placement was optimized based on phase aberration simulations, allowing for the elements with the largest impact on the gain at each focal point to be found. This optimization resulted in an array design that can focus on the somatosensory cortex with a gain of 5.19 and the thalamus with a gain of 4.45. Simulations were also performed to evaluate the ability of the array to focus on 28 additional brain regions, showing that off-center target regions can be stimulated, but those closer to the skull will require corrective steps to deliver the same amount of energy to those locations. This simulation and design process can be adapted to an individual monkey or human skull morphologies and specific target locations within individuals by using orientable 3-D printing of the transducer case and by electronic phase aberration correction.",
+  "authors": [
+    "Jones Rebecca M",
+    "Caskey Charles F",
+    "Dayton Paul A",
+    "Oralkan Omer",
+    "Pinton Gianmarco F"
+  ],
+  "journal": "IEEE transactions on ultrasonics, ferroelectrics, and frequency control",
+  "year": "2022",
+  "doi": "10.1109/TUFFC.2021.3108448",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Primates",
+    "Skull",
+    "Transducers",
+    "Ultrasonic Therapy"
+  ]
+}

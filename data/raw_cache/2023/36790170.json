@@ -1,0 +1,27 @@
+{
+  "pmid": "36790170",
+  "title": "Mice and primates use distinct strategies for visual segmentation.",
+  "abstract": "The rodent visual system has attracted great interest in recent years due to its experimental tractability, but the fundamental mechanisms used by the mouse to represent the visual world remain unclear. In the primate, researchers have argued from both behavioral and neural evidence that a key step in visual representation is 'figure-ground segmentation', the delineation of figures as distinct from backgrounds. To determine if mice also show behavioral and neural signatures of figure-ground segmentation, we trained mice on a figure-ground segmentation task where figures were defined by gratings and naturalistic textures moving counterphase to the background. Unlike primates, mice were severely limited in their ability to segment figure from ground using the opponent motion cue, with segmentation behavior strongly dependent on the specific carrier pattern. Remarkably, when mice were forced to localize naturalistic patterns defined by opponent motion, they adopted a strategy of brute force memorization of texture patterns. In contrast, primates, including humans, macaques, and mouse lemurs, could readily segment figures independent of carrier pattern using the opponent motion cue. Consistent with mouse behavior, neural responses to the same stimuli recorded in mouse visual areas V1, RL, and LM also did not support texture-invariant segmentation of figures using opponent motion. Modeling revealed that the texture dependence of both the mouse's behavior and neural responses could be explained by a feedforward neural network lacking explicit segmentation capabilities. These findings reveal a fundamental limitation in the ability of mice to segment visual objects compared to primates.",
+  "authors": [
+    "Luongo Francisco J",
+    "Liu Lu",
+    "Ho Chun Lum Andy",
+    "Hesse Janis K",
+    "Wekselblatt Joseph B",
+    "Lanfranchi Frank F",
+    "Huber Daniel",
+    "Tsao Doris Y"
+  ],
+  "journal": "eLife",
+  "year": "2023",
+  "doi": "10.7554/eLife.74394",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Visual Cortex",
+    "Primates",
+    "Macaca",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "pmid": "29686476",
+  "title": "A Compact VLSI System for Bio-Inspired Visual Motion Estimation.",
+  "abstract": "This paper proposes a bio-inspired visual motion estimation algorithm based on motion energy, along with its compact very-large-scale integration (VLSI) architecture using low-cost embedded systems. The algorithm mimics motion perception functions of retina, V1, and MT neurons in a primate visual system. It involves operations of ternary edge extraction, spatiotemporal filtering, motion energy extraction, and velocity integration. Moreover, we propose the concept of confidence map to indicate the reliability of estimation results on each probing location. Our algorithm involves only additions and multiplications during runtime, which is suitable for low-cost hardware implementation. The proposed VLSI architecture employs multiple (frame, pixel, and operation) levels of pipeline and massively parallel processing arrays to boost the system performance. The array unit circuits are optimized to minimize hardware resource consumption. We have prototyped the proposed architecture on a low-cost field-programmable gate array platform (Zynq 7020) running at 53-MHz clock frequency. It achieved 30-frame/s real-time performance for velocity estimation on 160 × 120 probing locations. A comprehensive evaluation experiment showed that the estimated velocity by our prototype has relatively small errors (average endpoint error < 0.5 pixel and angular error < 10°) for most motion cases.",
+  "authors": [
+    "Shi Cong",
+    "Luo Gang"
+  ],
+  "journal": "IEEE transactions on circuits and systems for video technology : a publication of the Circuits and Systems Society",
+  "year": "2018",
+  "doi": "10.1109/TCSVT.2016.2630848",
+  "mesh": []
+}

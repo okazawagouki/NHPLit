@@ -1,0 +1,19 @@
+{
+  "pmid": "30416671",
+  "title": "CONSTRUCTION OF SPATIOTEMPORAL INFANT CORTICAL SURFACE ATLAS OF RHESUS MACAQUE.",
+  "abstract": "As a widely used animal model in MR imaging studies, rhesus macaque helps to better understand both normal and abnormal neural development in the human brain. However, the available adult macaque brain atlases are not well suitable for study of brain development at the early postnatal stage, since this stage undergoes dramatic changes in brain appearances and structures. Building age matched atlases for this critical period is thus highly desirable yet still lacking. In this paper, we construct the <i>first</i> spatiotemporal (4D) cortical surface atlases for rhesus macaques from 2 weeks to 24 months, using 138 longitudinal MRI scans from 32 healthy rhesus monkeys. Specifically, we first perform intra-subject cortical surface registration to obtain within-subject mean cortical surfaces. Then, we perform inter-subject registration of within-subject mean surfaces to obtain unbiased and longitudinally-consistent 4D cortical surface atlases. Based on our 4D rhesus monkey atlases, we further chart the first developmental-trajectories-based parcellation maps using the local surface area and spectral clustering algorithm. Our 4D macaque surface atlases and parcellation maps will greatly facilitate early brain development studies of macaques.",
+  "authors": [
+    "Wang Fan",
+    "Lian Chunfeng",
+    "Xia Jing",
+    "Wu Zhengwang",
+    "Duan Dingna",
+    "Wang Li",
+    "Shen Dinggang",
+    "Li Gang"
+  ],
+  "journal": "Proceedings. IEEE International Symposium on Biomedical Imaging",
+  "year": "2018",
+  "doi": "10.1109/ISBI.2018.8363671",
+  "mesh": []
+}

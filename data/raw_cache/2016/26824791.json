@@ -1,0 +1,26 @@
+{
+  "pmid": "26824791",
+  "title": "Comparing offline decoding performance in physiologically defined neuronal classes.",
+  "abstract": "OBJECTIVE: Recently, several studies have documented the presence of a bimodal distribution of spike waveform widths in primary motor cortex. Although narrow and wide spiking neurons, corresponding to the two modes of the distribution, exhibit different response properties, it remains unknown if these differences give rise to differential decoding performance between these two classes of cells. APPROACH: We used a Gaussian mixture model to classify neurons into narrow and wide physiological classes. Using similar-size, random samples of neurons from these two physiological classes, we trained offline decoding models to predict a variety of movement features. We compared offline decoding performance between these two physiologically defined populations of cells. MAIN RESULTS: We found that narrow spiking neural ensembles decode motor parameters better than wide spiking neural ensembles including kinematics, kinetics, and muscle activity. SIGNIFICANCE: These findings suggest that the utility of neural ensembles in brain machine interfaces may be predicted from their spike waveform widths.",
+  "authors": [
+    "Best Matthew D",
+    "Takahashi Kazutaka",
+    "Suminski Aaron J",
+    "Ethier Christian",
+    "Miller Lee E",
+    "Hatsopoulos Nicholas G"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2016",
+  "doi": "10.1088/1741-2560/13/2/026004",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Neurons",
+    "Normal Distribution",
+    "Psychomotor Performance"
+  ]
+}

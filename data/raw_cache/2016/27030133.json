@@ -1,0 +1,27 @@
+{
+  "pmid": "27030133",
+  "title": "An evolutionary roadmap to the microtubule-associated protein MAP Tau.",
+  "abstract": "BACKGROUND: The microtubule associated protein Tau (MAPT) promotes assembly and interaction of microtubules with the cytoskeleton, impinging on axonal transport and synaptic plasticity. Its neuronal expression and intrinsic disorder implicate it in some 30 tauopathies such as Alzheimer's disease and frontotemporal dementia. These pathophysiological studies have yet to be complemented by computational analyses of its molecular evolution and structural models of all its functional domains to explain the molecular basis for its conservation profile, its site-specific interactions and the propensity to conformational disorder and aggregate formation. RESULTS: We systematically annotated public sequence data to reconstruct unspliced MAPT, MAP2 and MAP4 transcripts spanning all represented genomes. Bayesian and maximum likelihood phylogenetic analyses, genetic linkage maps and domain architectures distinguished a nonvertebrate outgroup from the emergence of MAP4 and its subsequent ancestral duplication to MAP2 and MAPT. These events were coupled to other linked genes such as KANSL1L and KANSL and may thus be consequent to large-scale chromosomal duplications originating in the extant vertebrate genomes of hagfish and lamprey. Profile hidden Markov models (pHMMs), clustered subalignments and 3D structural predictions defined potential interaction motifs and specificity determining sites to reveal distinct signatures between the four homologous microtubule binding domains and independent divergence of the amino terminus. CONCLUSION: These analyses clarified ambiguities of MAPT nomenclature, defined the order, timing and pattern of its molecular evolution and identified key residues and motifs relevant to its protein interaction properties and pathogenic role. Additional unexpected findings included the expansion of cysteine-containing, microtubule binding domains of MAPT in cold adapted Antarctic icefish and the emergence of a novel multiexonic saitohin (STH) gene from repetitive elements in MAPT intron 11 of certain primate genomes.",
+  "authors": [
+    "Sündermann Frederik",
+    "Fernandez Maria-Pilar",
+    "Morgan Reginald O"
+  ],
+  "journal": "BMC genomics",
+  "year": "2016",
+  "doi": "10.1186/s12864-016-2590-9",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Binding Sites",
+    "Evolution, Molecular",
+    "Humans",
+    "Likelihood Functions",
+    "Markov Chains",
+    "Multigene Family",
+    "Phylogeny",
+    "Protein Structure, Tertiary",
+    "Sequence Alignment",
+    "tau Proteins"
+  ]
+}

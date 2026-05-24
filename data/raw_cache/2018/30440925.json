@@ -1,0 +1,25 @@
+{
+  "pmid": "30440925",
+  "title": "Neural Decoding Forelimb Trajectory Using Evolutionary Neural Networks with Feedback-Error-Learning Schemes.",
+  "abstract": "Changes in the functional mapping between neural activities and kinematic parameters over time poses a challenge to current neural decoder of brain machine interfaces (BMIs). Traditional decoders robust to changes in functional mappings required many day's training data. The decoder may not be robust when it was trained by data from only few days. Therefore, a decoder should be trained to handle a variety of neural-to-kinematic mappings using limited training data. We proposed an evolutionary neural network with error feedback, ECPNN-EF, as a neural decoder, that considered the previous error as an input to the decoder in order to improve the robustness. The decoder was validated to reconstruct rat's forelimb movement in a water-reward lever-pressing task. Two days of data were only used to train the decoder while ten days of data were used to test the decoder. The results showed that the performance of ECPNN-EF was significantly higher than that of standard recurrent neural network without error feedback, which was commonly used in BMI. This suggested that ECPNN-EF trained with few days of training data can be robust to changes in functional mappings.",
+  "authors": [
+    "Lin Yu-Chieh",
+    "Chou Chin",
+    "Yang Shin-Hung",
+    "Lai Hsin-Yi",
+    "Lo Yu-Chun",
+    "Chen You-Yin"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2018",
+  "doi": "10.1109/EMBC.2018.8512775",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Feedback",
+    "Forelimb",
+    "Macaca mulatta",
+    "Neural Networks, Computer",
+    "Rats"
+  ]
+}

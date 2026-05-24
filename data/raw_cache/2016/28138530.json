@@ -1,0 +1,22 @@
+{
+  "pmid": "28138530",
+  "title": "Feedforward and feedback frequency-dependent interactions in a large-scale laminar network of the primate cortex.",
+  "abstract": "Interactions between top-down and bottom-up processes in the cerebral cortex hold the key to understanding attentional processes, predictive coding, executive control, and a gamut of other brain functions. However, the underlying circuit mechanism remains poorly understood and represents a major challenge in neuroscience. We approached this problem using a large-scale computational model of the primate cortex constrained by new directed and weighted connectivity data. In our model, the interplay between feedforward and feedback signaling depends on the cortical laminar structure and involves complex dynamics across multiple (intralaminar, interlaminar, interareal, and whole cortex) scales. The model was tested by reproducing, as well as providing insights into, a wide range of neurophysiological findings about frequency-dependent interactions between visual cortical areas, including the observation that feedforward pathways are associated with enhanced gamma (30 to 70 Hz) oscillations, whereas feedback projections selectively modulate alpha/low-beta (8 to 15 Hz) oscillations. Furthermore, the model reproduces a functional hierarchy based on frequency-dependent Granger causality analysis of interareal signaling, as reported in recent monkey and human experiments, and suggests a mechanism for the observed context-dependent hierarchy dynamics. Together, this work highlights the necessity of multiscale approaches and provides a modeling platform for studies of large-scale brain circuit dynamics and functions.",
+  "authors": [
+    "Mejias Jorge F",
+    "Murray John D",
+    "Kennedy Henry",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Science advances",
+  "year": "2016",
+  "doi": "10.1126/sciadv.1601335",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Gamma Rhythm",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net"
+  ]
+}

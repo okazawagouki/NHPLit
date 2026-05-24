@@ -1,0 +1,30 @@
+{
+  "pmid": "40315420",
+  "title": "Filter-based models of suppression in retinal ganglion cells: Comparison and generalization across species and stimuli.",
+  "abstract": "The dichotomy of excitation and suppression is one of the canonical mechanisms explaining the complexity of neural activity. Computational models of the interplay of excitation and suppression in single neurons aim at investigating how this interaction affects a neuron's spiking responses and shapes the encoding of sensory stimuli. Here, we compare the performance of three filter-based stimulus-encoding models for predicting retinal ganglion cell responses recorded from axolotl, mouse, and marmoset retina to different types of temporally varying visual stimuli. Suppression in these models is implemented via subtractive or divisive interactions of stimulus filters or by a response-driven feedback module. For the majority of ganglion cells, the subtractive and divisive models perform similarly and outperform the feedback model as well as a linear-nonlinear (LN) model with no suppression. Comparison between the subtractive and the divisive model depends on cell type, species, and stimulus components, with the divisive model generalizing best across temporal stimulus frequencies and visual contrast and the subtractive model capturing in particular responses for slow temporal stimulus dynamics and for slow axolotl cells. Overall, we conclude that the divisive and subtractive models are well suited for capturing interactions of excitation and suppression in ganglion cells and perform best for different temporal regimes of these interactions.",
+  "authors": [
+    "Shahidi Neda",
+    "Rozenblit Fernando",
+    "Khani Mohammad H",
+    "Schreyer Helene M",
+    "Mietsch Matthias",
+    "Protti Dario A",
+    "Gollisch Tim"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2025",
+  "doi": "10.1371/journal.pcbi.1013031",
+  "mesh": [
+    "Retinal Ganglion Cells",
+    "Animals",
+    "Models, Neurological",
+    "Mice",
+    "Photic Stimulation",
+    "Callithrix",
+    "Ambystoma mexicanum",
+    "Species Specificity",
+    "Computer Simulation",
+    "Computational Biology",
+    "Action Potentials"
+  ]
+}

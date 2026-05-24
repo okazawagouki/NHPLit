@@ -1,0 +1,31 @@
+{
+  "pmid": "20398701",
+  "title": "Clustering of large cell populations: method and application to the basal forebrain cholinergic system.",
+  "abstract": "Functionally related groups of neurons spatially cluster together in the brain. To detect groups of functionally related neurons from 3D histological data, we developed an objective clustering method that provides a description of detected cell clusters that is quantitative and amenable to visual exploration. This method is based on bubble clustering (Gupta and Ghosh, 2008). Our implementation consists of three steps: (i) an initial data exploration for scanning the clustering parameter space; (ii) determination of the optimal clustering parameters; and (iii) final clustering. We designed this algorithm to flexibly detect clusters without assumptions about the underlying cell distribution within a cluster or the number and sizes of clusters. We implemented the clustering function as an integral part of the neuroanatomical data visualization software Virtual RatBrain (http://www.virtualratbrain.org). We applied this algorithm to the basal forebrain cholinergic system, which consists of a diffuse but inhomogeneous population of neurons (Zaborszky, 1992). With this clustering method, we confirmed the inhomogeneity in this system, defined cell clusters, quantified and localized them, and determined the cell density within clusters. Furthermore, by applying the clustering method to multiple specimens from both rat and monkey, we found that cholinergic clusters display remarkable cross-species preservation of cell density within clusters. This method is efficient not only for clustering cell body distributions but may also be used to study other distributed neuronal structural elements, including synapses, receptors, dendritic spines and molecular markers.",
+  "authors": [
+    "Nadasdy Zoltan",
+    "Varsanyi Peter",
+    "Zaborszky Laszlo"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2010",
+  "doi": "10.1016/j.jneumeth.2010.04.008",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cell Count",
+    "Cluster Analysis",
+    "Data Interpretation, Statistical",
+    "Data Mining",
+    "Image Processing, Computer-Assisted",
+    "Macaca mulatta",
+    "Male",
+    "Monte Carlo Method",
+    "Neurons",
+    "Parasympathetic Nervous System",
+    "Prosencephalon",
+    "Rats",
+    "Rats, Sprague-Dawley",
+    "Software"
+  ]
+}

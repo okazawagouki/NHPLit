@@ -1,0 +1,23 @@
+{
+  "pmid": "9405546",
+  "title": "Analysis of primate IBN spike trains using system identification techniques. III. Relationship To motor error during head-fixed saccades and head-free gaze shifts.",
+  "abstract": "The classic model of saccade generation assumes that the burst generator is driven by a motor-error signal, the difference between the actual eye position and the final \"desired\" eye position in the orbit. Here we evaluate objectively, using system identification techniques, the dynamic relationship between motor-error signals and primate inhibitory burst neuron (IBN) discharges (upstream analysis). The IBNs presented here are the same neurons whose downstream relationships were characterized during head-fixed saccades and head-free gaze shifts in our companion papers. In our analysis of head-fixed saccades we determined how well IBN discharges encode eye motor error (epsilone) compared with downstream saccadic eye movement dynamics and whether long-lead IBN (LLIBN) discharges encode epsilone better than short-lead IBNs (SLIBNs), given that it is commonly assumed that short-lead burst neurons (BNs) are closer than long-lead BNs to the motor output and thus further from the epsilone signal. In the epsilone-based models tested, IBN firing frequency B(t) was represented by one of the following: 1) model 1u, a nonlinear function of epsilone; 2) model 2u, a linear function of epsilone [B(t) = rk + a1epsilone(t)] where the bias term rk was estimated separately for each saccade; 3) model 3u, a version of model 2u wherein the bias term was a function of saccade amplitude; or 4) model 4u, a linear function of epsilone with an added pole term (the derivative of firing rate). Models based on epsilone consistently produced worse predictions of IBN activity than models of comparable complexity based on eye movement dynamics (e.g., eye velocity). Hence, the simple two parameter downstream model 2d [B(t) = r + b1(t)] was much better than any upstream (epsilone-based) model with a comparable number of parameters. The link between B(t) and epsilone is due primarily to the correlation between the declining phases of B(t) and epsilone; motor-error models did not predict well the rising phase of the discharge. We could improve substantially the performance of upstream models by adding an e term. Because e = -, this process was equivalent to incorporating terms into upstream models thereby erasing the distinction between upstream and downstream analyses. Adding an e term to the upstream models made them as good as downstream ones in predicting B(t). However, the epsilone term now became redundant because its removal did not affect model accuracy. Thus, when is available as a parameter, epsilone becomes irrelevant. In the head-free monkey the ability of upstream models to predict IBN firing during head-free gaze shifts when gaze, eye, or head motor-error signals were model inputs was poor and similar to the upstream analysis of the head-fixed condition. We conclude that during saccades (head-fixed) or gaze shifts (head-free) the activity of both SLIBNs and LLIBNs is more closely linked to downstream events (i.e., the dynamics of ongoing movements) than to the coincident upstream motor-error signal. Furthermore, SLIBNs and LLIBNs do not differ in their characteristics; the latter are not, as is usually hypothesized, closer to a motor-error signal than the former.",
+  "authors": [
+    "Cullen K E",
+    "Guitton D"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1997",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Fixation, Ocular",
+    "Head Movements",
+    "Macaca fascicularis",
+    "Neural Inhibition",
+    "Neurons",
+    "Reproducibility of Results",
+    "Respiratory Burst",
+    "Saccades"
+  ]
+}

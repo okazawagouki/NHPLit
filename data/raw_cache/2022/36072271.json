@@ -1,0 +1,15 @@
+{
+  "pmid": "36072271",
+  "title": "Unveiling Dynamic System Strategies for Multisensory Processing: From Neuronal Fixed-Criterion Integration to Population Bayesian Inference.",
+  "abstract": "Multisensory processing is of vital importance for survival in the external world. Brain circuits can both integrate and separate visual and vestibular senses to infer self-motion and the motion of other objects. However, it is largely debated how multisensory brain regions process such multisensory information and whether they follow the Bayesian strategy in this process. Here, we combined macaque physiological recordings in the dorsal medial superior temporal area (MST-d) with modeling of synaptically coupled multilayer continuous attractor neural networks (CANNs) to study the underlying neuronal circuit mechanisms. In contrast to previous theoretical studies that focused on unisensory direction preference, our analysis showed that synaptic coupling induced cooperation and competition in the multisensory circuit and caused single MST-d neurons to switch between sensory integration or separation modes based on the fixed-criterion causal strategy, which is determined by the synaptic coupling strength. Furthermore, the prior of sensory reliability was represented by pooling diversified criteria at the MST-d population level, and the Bayesian strategy was achieved in downstream neurons whose causal inference flexibly changed with the prior. The CANN model also showed that synaptic input balance is the dynamic origin of neuronal direction preference formation and further explained the misalignment between direction preference and inference observed in previous studies. This work provides a computational framework for a new brain-inspired algorithm underlying multisensory computation.",
+  "authors": [
+    "Zhang Jiawei",
+    "Gu Yong",
+    "Chen Aihua",
+    "Yu Yuguo"
+  ],
+  "journal": "Research (Washington, D.C.)",
+  "year": "2022",
+  "doi": "10.34133/2022/9787040",
+  "mesh": []
+}

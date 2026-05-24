@@ -1,0 +1,14 @@
+{
+  "pmid": "29467602",
+  "title": "Feature Selection Methods for Robust Decoding of Finger Movements in a Non-human Primate.",
+  "abstract": "<b>Objective:</b> The performance of machine learning algorithms used for neural decoding of dexterous tasks may be impeded due to problems arising when dealing with high-dimensional data. The objective of feature selection algorithms is to choose a near-optimal subset of features from the original feature space to improve the performance of the decoding algorithm. The aim of our study was to compare the effects of four feature selection techniques, Wilcoxon signed-rank test, Relative Importance, Principal Component Analysis (PCA), and Mutual Information Maximization on SVM classification performance for a dexterous decoding task. <b>Approach:</b> A nonhuman primate (NHP) was trained to perform small coordinated movements-similar to typing. An array of microelectrodes was implanted in the hand area of the motor cortex of the NHP and used to record action potentials (AP) during finger movements. A Support Vector Machine (SVM) was used to classify which finger movement the NHP was making based upon AP firing rates. We used the SVM classification to examine the functional parameters of (i) robustness to simulated failure and (ii) longevity of classification. We also compared the effect of using isolated-neuron and multi-unit firing rates as the feature vector supplied to the SVM. <b>Main results:</b> The average decoding accuracy for multi-unit features and single-unit features using Mutual Information Maximization (MIM) across 47 sessions was 96.74 ± 3.5% and 97.65 ± 3.36% respectively. The reduction in decoding accuracy between using 100% of the features and 10% of features based on MIM was 45.56% (from 93.7 to 51.09%) and 4.75% (from 95.32 to 90.79%) for multi-unit and single-unit features respectively. MIM had best performance compared to other feature selection methods. <b>Significance:</b> These results suggest improved decoding performance can be achieved by using optimally selected features. The results based on clinically relevant performance metrics also suggest that the decoding algorithm can be made robust by using optimal features and feature selection algorithms. We believe that even a few percent increase in performance is important and improves the decoding accuracy of the machine learning algorithm potentially increasing the ease of use of a brain machine interface.",
+  "authors": [
+    "Padmanaban Subash",
+    "Baker Justin",
+    "Greger Bradley"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2018",
+  "doi": "10.3389/fnins.2018.00022",
+  "mesh": []
+}

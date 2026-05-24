@@ -1,0 +1,29 @@
+{
+  "pmid": "23878209",
+  "title": "Stimulus-dependent variability and noise correlations in cortical MT neurons.",
+  "abstract": "Population codes assume that neural systems represent sensory inputs through the firing rates of populations of differently tuned neurons. However, trial-by-trial variability and noise correlations are known to affect the information capacity of neural codes. Although recent studies have shown that stimulus presentation reduces both variability and rate correlations with respect to their spontaneous level, possibly improving the encoding accuracy, whether these second order statistics are tuned is unknown. If so, second-order statistics could themselves carry information, rather than being invariably detrimental. Here we show that rate variability and noise correlation vary systematically with stimulus direction in directionally selective middle temporal (MT) neurons, leading to characteristic tuning curves. We show that such tuning emerges in a stochastic recurrent network, for a set of connectivity parameters that overlaps with a single-state scenario and multistability. Information theoretic analysis shows that second-order statistics carry information that can improve the accuracy of the population code.",
+  "authors": [
+    "Ponce-Alvarez Adrián",
+    "Thiele Alexander",
+    "Albright Thomas D",
+    "Stoner Gene R",
+    "Deco Gustavo"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2013",
+  "doi": "10.1073/pnas.1300098110",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Analysis of Variance",
+    "Animals",
+    "Computer Simulation",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Photic Stimulation",
+    "Temporal Lobe",
+    "Time Factors"
+  ]
+}

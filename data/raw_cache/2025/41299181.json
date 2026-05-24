@@ -1,0 +1,31 @@
+{
+  "pmid": "41299181",
+  "title": "Building compositional tasks with shared neural subspaces.",
+  "abstract": "Cognition is highly flexible-we perform many different tasks<sup>1</sup> and continually adapt our behaviour to changing demands<sup>2,3</sup>. Artificial neural networks trained to perform multiple tasks will reuse representations<sup>4</sup> and computational components<sup>5</sup> across tasks. By composing tasks from these subcomponents, an agent can flexibly switch between tasks and rapidly learn new tasks<sup>6,7</sup>. Yet, whether such compositionality is found in the brain is unclear. Here we show the same subspaces of neural activity represent task-relevant information across multiple tasks, with each task flexibly engaging these subspaces in a task-specific manner. We trained monkeys to switch between three compositionally related tasks. In neural recordings, we found that task-relevant information about stimulus features and motor actions were represented in subspaces of neural activity that were shared across tasks. When monkeys performed a task, neural representations in the relevant shared sensory subspace were transformed to the relevant shared motor subspace. Monkeys adapted to changes in the task by iteratively updating their internal belief about the current task and then, based on this belief, flexibly engaging the shared sensory and motor subspaces relevant to the task. In summary, our findings suggest that the brain can flexibly perform multiple tasks by compositionally combining task-relevant neural representations.",
+  "authors": [
+    "Tafazoli Sina",
+    "Bouchacourt Flora M",
+    "Ardalan Adel",
+    "Markov Nikola T",
+    "Uchimura Motoaki",
+    "Mattar Marcelo G",
+    "Daw Nathaniel D",
+    "Buschman Timothy J"
+  ],
+  "journal": "Nature",
+  "year": "2026",
+  "doi": "10.1038/s41586-025-09805-2",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Brain",
+    "Cognition",
+    "Learning",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Psychomotor Performance",
+    "Task Performance and Analysis"
+  ]
+}

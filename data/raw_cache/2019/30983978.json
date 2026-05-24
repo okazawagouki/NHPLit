@@ -1,0 +1,18 @@
+{
+  "pmid": "30983978",
+  "title": "Neural Networks for Modeling Neural Spiking in S1 Cortex.",
+  "abstract": "Somatosensation is composed of two distinct modalities: touch, arising from sensors in the skin, and proprioception, resulting primarily from sensors in the muscles, combined with these same cutaneous sensors. In contrast to the wealth of information about touch, we know quite less about the nature of the signals giving rise to proprioception at the cortical level. Likewise, while there is considerable interest in developing encoding models of touch-related neurons for application to brain machine interfaces, much less emphasis has been placed on an analogous proprioceptive interface. Here we investigate the use of Artificial Neural Networks (ANNs) to model the relationship between the firing rates of single neurons in area 2, a largely proprioceptive region of somatosensory cortex (S1) and several types of kinematic variables related to arm movement. To gain a better understanding of how these kinematic variables interact to create the proprioceptive responses recorded in our datasets, we train ANNs under different conditions, each involving a different set of input and output variables. We explore the kinematic variables that provide the best network performance, and find that the addition of information about joint angles and/or muscle lengths significantly improves the prediction of neural firing rates. Our results thus provide new insight regarding the complex representations of the limb motion in S1: that the firing rates of neurons in area 2 may be more closely related to the activity of peripheral sensors than it is to extrinsic hand position. In addition, we conduct numerical experiments to determine the sensitivity of ANN models to various choices of training design and hyper-parameters. Our results provide a baseline and new tools for future research that utilizes machine learning to better describe and understand the activity of neurons in S1.",
+  "authors": [
+    "Lucas Alice",
+    "Tomlinson Tucker",
+    "Rohani Neda",
+    "Chowdhury Raeed",
+    "Solla Sara A",
+    "Katsaggelos Aggelos K",
+    "Miller Lee E"
+  ],
+  "journal": "Frontiers in systems neuroscience",
+  "year": "2019",
+  "doi": "10.3389/fnsys.2019.00013",
+  "mesh": []
+}

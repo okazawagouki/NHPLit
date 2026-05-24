@@ -1,0 +1,24 @@
+{
+  "pmid": "34942362",
+  "title": "Coordinated multivoxel coding beyond univariate effects is not likely to be observable in fMRI data.",
+  "abstract": "Simultaneous recording of activity across brain regions can contain additional information compared to regional recordings done in isolation. In particular, multivariate pattern analysis (MVPA) across voxels has been interpreted as evidence for distributed coding of cognitive or sensorimotor processes beyond what can be gleaned from a collection of univariate effects (UVE) using functional magnetic resonance imaging (fMRI). Here, we argue that regardless of patterns revealed, conventional MVPA is merely a decoding tool with increased sensitivity arising from considering a large number of 'weak classifiers' (i.e., single voxels) in higher dimensions. We propose instead that 'real' multivoxel coding should result in changes in higher-order statistics across voxels between conditions such as second-order multivariate effects (sMVE). Surprisingly, analysis of conditions with robust multivariate effects (MVE) revealed by MVPA failed to show significant sMVE in two species (humans and macaques). Further analysis showed that while both MVE and sMVE can be readily observed in the spiking activity of neuronal populations, the slow and nonlinear hemodynamic coupling and low spatial resolution of fMRI activations make the observation of higher-order statistics between voxels highly unlikely. These results reveal inherent limitations of fMRI signals for studying coordinated coding across voxels. Together, these findings suggest that care should be taken in interpreting significant MVPA results as representing anything beyond a collection of univariate effects.",
+  "authors": [
+    "Pakravan Mansooreh",
+    "Abbaszadeh Mojtaba",
+    "Ghazizadeh Ali"
+  ],
+  "journal": "NeuroImage",
+  "year": "2022",
+  "doi": "10.1016/j.neuroimage.2021.118825",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Datasets as Topic",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Macaca",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Pattern Recognition, Automated"
+  ]
+}

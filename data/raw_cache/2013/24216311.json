@@ -1,0 +1,28 @@
+{
+  "pmid": "24216311",
+  "title": "Failure mode analysis of silicon-based intracortical microelectrode arrays in non-human primates.",
+  "abstract": "OBJECTIVE: Brain-computer interfaces (BCIs) using chronically implanted intracortical microelectrode arrays (MEAs) have the potential to restore lost function to people with disabilities if they work reliably for years. Current sensors fail to provide reliably useful signals over extended periods of time for reasons that are not clear. This study reports a comprehensive retrospective analysis from a large set of implants of a single type of intracortical MEA in a single species, with a common set of measures in order to evaluate failure modes. APPROACH: Since 1996, 78 silicon MEAs were implanted in 27 monkeys (Macaca mulatta). We used two approaches to find reasons for sensor failure. First, we classified the time course leading up to complete recording failure as acute (abrupt) or chronic (progressive). Second, we evaluated the quality of electrode recordings over time based on signal features and electrode impedance. Failure modes were divided into four categories: biological, material, mechanical, and unknown. MAIN RESULTS: Recording duration ranged from 0 to 2104 days (5.75 years), with a mean of 387 days and a median of 182 days (n = 78). Sixty-two arrays failed completely with a mean time to failure of 332 days (median = 133 days) while nine array experiments were electively terminated for experimental reasons (mean = 486 days). Seven remained active at the close of this study (mean = 753 days). Most failures (56%) occurred within a year of implantation, with acute mechanical failures the most common class (48%), largely because of connector issues (83%). Among grossly observable biological failures (24%), a progressive meningeal reaction that separated the array from the parenchyma was most prevalent (14.5%). In the absence of acute interruptions, electrode recordings showed a slow progressive decline in spike amplitude, noise amplitude, and number of viable channels that predicts complete signal loss by about eight years. Impedance measurements showed systematic early increases, which did not appear to affect recording quality, followed by a slow decline over years. The combination of slowly falling impedance and signal quality in these arrays indicates that insulating material failure is the most significant factor. SIGNIFICANCE: This is the first long-term failure mode analysis of an emerging BCI technology in a large series of non-human primates. The classification system introduced here may be used to standardize how neuroprosthetic failure modes are evaluated. The results demonstrate the potential for these arrays to record for many years, but achieving reliable sensors will require replacing connectors with implantable wireless systems, controlling the meningeal reaction, and improving insulation materials. These results will focus future research in order to create clinical neuroprosthetic sensors, as well as valuable research tools, that are able to safely provide reliable neural signals for over a decade.",
+  "authors": [
+    "Barrese James C",
+    "Rao Naveen",
+    "Paroo Kaivon",
+    "Triebwasser Corey",
+    "Vargas-Irwin Carlos",
+    "Franquemont Lachlan",
+    "Donoghue John P"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2013",
+  "doi": "10.1088/1741-2560/10/6/066014",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Electrodes, Implanted",
+    "Equipment Failure Analysis",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Silicon"
+  ]
+}

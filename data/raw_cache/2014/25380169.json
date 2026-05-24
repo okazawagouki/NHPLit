@@ -1,0 +1,32 @@
+{
+  "pmid": "25380169",
+  "title": "Distinct neural patterns enable grasp types decoding in monkey dorsal premotor cortex.",
+  "abstract": "OBJECTIVE: Recent studies have shown that dorsal premotor cortex (PMd), a cortical area in the dorsomedial grasp pathway, is involved in grasp movements. However, the neural ensemble firing property of PMd during grasp movements and the extent to which it can be used for grasp decoding are still unclear. APPROACH: To address these issues, we used multielectrode arrays to record both spike and local field potential (LFP) signals in PMd in macaque monkeys performing reaching and grasping of one of four differently shaped objects. MAIN RESULTS: Single and population neuronal activity showed distinct patterns during execution of different grip types. Cluster analysis of neural ensemble signals indicated that the grasp related patterns emerged soon (200-300 ms) after the go cue signal, and faded away during the hold period. The timing and duration of the patterns varied depending on the behaviors of individual monkey. Application of support vector machine model to stable activity patterns revealed classification accuracies of 94% and 89% for each of the two monkeys, indicating a robust, decodable grasp pattern encoded in the PMd. Grasp decoding using LFPs, especially the high-frequency bands, also produced high decoding accuracies. SIGNIFICANCE: This study is the first to specify the neuronal population encoding of grasp during the time course of grasp. We demonstrate high grasp decoding performance in PMd. These findings, combined with previous evidence for reach related modulation studies, suggest that PMd may play an important role in generation and maintenance of grasp action and may be a suitable locus for brain-machine interface applications.",
+  "authors": [
+    "Hao Yaoyao",
+    "Zhang Qiaosheng",
+    "Controzzi Marco",
+    "Cipriani Christian",
+    "Li Yue",
+    "Li Juncheng",
+    "Zhang Shaomin",
+    "Wang Yiwen",
+    "Chen Weidong",
+    "Chiara Carrozza Maria",
+    "Zheng Xiaoxiang"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2014",
+  "doi": "10.1088/1741-2560/11/6/066011",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Electrodes, Implanted",
+    "Hand Strength",
+    "Haplorhini",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement"
+  ]
+}

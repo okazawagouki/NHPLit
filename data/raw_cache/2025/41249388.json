@@ -1,0 +1,22 @@
+{
+  "pmid": "41249388",
+  "title": "Cholinergic modulation mediates attentional mechanism to enhance coherence between cortical layers in macaque V1 and V4.",
+  "abstract": "Attention is a critical component of cognition that greatly modulates sensory processing by selectively increases firing rates and synchronization and influencing communication between cortical areas in specific frequency bands. Cortical cholinergic inputs are believed to mediate attentional functions and improve information processing by influencing network characteristics and synaptic transmission. To elucidate the mechanisms by which cholinergic activation modulate neuronal communication, we designed a biophysically based recurrent V1 and V4 cortical network model. The physiological properties and architectures of our model were inspired by physiological data, constituted ring model cortical connectivity and feed-forward input from dorsal lateral geniculate nucleus. In our network, gamma frequency (30-50 Hz) synchrony and coherency was largely enhanced when including a cholinergic drive, whereas coherence at low frequencies, which included the alpha range, was reduced. Our results demonstrate that cholinergic modulation finely tunes neuronal communication at the synaptic level by altering feedback and feedforward projections, influencing intracortical interactions by increasing inhibitory drive. The behavior of our model precisely expresses the signatures of attention on neural activities in monkey visual cortex.",
+  "authors": [
+    "Sajedin Atena",
+    "FallahTaherpazir Mahdi",
+    "Menhaj Mohammad Bagher"
+  ],
+  "journal": "Scientific reports",
+  "year": "2025",
+  "doi": "10.1038/s41598-025-24109-1",
+  "mesh": [
+    "Animals",
+    "Visual Cortex",
+    "Attention",
+    "Models, Neurological",
+    "Macaca",
+    "Synaptic Transmission",
+    "Neurons"
+  ]
+}

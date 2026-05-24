@@ -1,0 +1,24 @@
+{
+  "pmid": "38884544",
+  "title": "How does V1 population activity inform perceptual certainty?",
+  "abstract": "Neural population activity in sensory cortex informs our perceptual interpretation of the environment. Oftentimes, this population activity will support multiple alternative interpretations. The larger the spread of probability over different alternatives, the more uncertain the selected perceptual interpretation. We test the hypothesis that the reliability of perceptual interpretations can be revealed through simple transformations of sensory population activity. We recorded V1 population activity in fixating macaques while presenting oriented stimuli under different levels of nuisance variability and signal strength. We developed a decoding procedure to infer from V1 activity the most likely stimulus orientation as well as the certainty of this estimate. Our analysis shows that response magnitude, response dispersion, and variability in response gain all offer useful proxies for orientation certainty. Of these three metrics, the last one has the strongest association with the decoder's uncertainty estimates. These results clarify that the nature of neural population activity in sensory cortex provides downstream circuits with multiple options to assess the reliability of perceptual interpretations.",
+  "authors": [
+    "Boundy-Singer Zoe M",
+    "Ziemba Corey M",
+    "Hénaff Olivier J",
+    "Goris Robbe L T"
+  ],
+  "journal": "Journal of vision",
+  "year": "2024",
+  "doi": "10.1167/jov.24.6.12",
+  "mesh": [
+    "Animals",
+    "Visual Cortex",
+    "Photic Stimulation",
+    "Macaca mulatta",
+    "Visual Perception",
+    "Male",
+    "Orientation",
+    "Neurons"
+  ]
+}

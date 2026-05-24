@@ -1,0 +1,25 @@
+{
+  "pmid": "17271551",
+  "title": "Recording advances for neural prosthetics.",
+  "abstract": "An important challenge for neural prosthetics research is to record from populations of neurons over long periods of time, ideally for the lifetime of the patient. Two new advances toward this goal are described, the use of local field potentials (LFPs) and autonomously positioned recording electrodes. LFPs are the composite extracellular potential field from several hundreds of neurons around the electrode tip. LFP recordings can be maintained for longer periods of time than single cell recordings. We find that similar information can be decoded from LFP and spike recordings, with better performance for state decodes with LFPs and, depending on the area, equivalent or slightly less than equivalent performance for signaling the direction of planned movements. Movable electrodes in microdrives can be adjusted in the tissue to optimize recordings, but their movements must be automated to be a practical benefit to patients. We have developed automation algorithms and a meso-scale autonomous electrode testbed, and demonstrated that this system can autonomously isolate and maintain the recorded signal quality of single cells in the cortex of awake, behaving monkeys. These two advances show promise for developing very long term recording for neural prosthetic applications.",
+  "authors": [
+    "Andersen R A",
+    "Burdick J W",
+    "Musallam S",
+    "Scherberger H",
+    "Pesaran B",
+    "Meeker D",
+    "Corneil B D",
+    "Fineman I",
+    "Nenadic Z",
+    "Branchaud E",
+    "Cham J G",
+    "Greger B",
+    "Tai Y C",
+    "Mojarradi M M"
+  ],
+  "journal": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+  "year": "2004",
+  "doi": "",
+  "mesh": []
+}

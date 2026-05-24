@@ -1,0 +1,32 @@
+{
+  "pmid": "19162731",
+  "title": "A real-time virtual integration environment for the design and development of neural prosthetic systems.",
+  "abstract": "We have developed a virtual integration environment (VIE) for the development of neural prosthetic systems. The VIE is a software environment that modularizes the core functions of a neural prosthetic system--receiving signals, decoding signals and controlling a real or simulated device. Complete prosthetic systems can be quickly assembled by linking pre-existing modules together through standard interfaces. Systems can be simulated in real-time, and simulated components can be swapped out for real hardware. This paper is the first of two companion papers that describe the VIE and its use. In this paper, we first describe the architecture of the VIE and review implemented modules. We then describe the use of the VIE for the real-time validation of neural decode algorithms from pre-recorded data, the use of the VIE in closed loop primate experiments and the use of the VIE in the clinic.",
+  "authors": [
+    "Bishop William",
+    "Armiger Robert",
+    "Burck James",
+    "Bridges Michael",
+    "Hauschild Markus",
+    "Englehart Kevin",
+    "Scheme Erik",
+    "Vogelstein R Jacob",
+    "Beaty James",
+    "Harshbarger Stuart"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2008",
+  "doi": "10.1109/IEMBS.2008.4649228",
+  "mesh": [
+    "Computer Systems",
+    "Equipment Design",
+    "Equipment Failure Analysis",
+    "Man-Machine Systems",
+    "Nervous System Diseases",
+    "Prostheses and Implants",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Therapy, Computer-Assisted",
+    "User-Computer Interface"
+  ]
+}

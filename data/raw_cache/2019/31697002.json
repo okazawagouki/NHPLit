@@ -1,0 +1,23 @@
+{
+  "pmid": "31697002",
+  "title": "Spatial coordinate transforms linking the allocentric hippocampal and egocentric parietal primate brain systems for memory, action in space, and navigation.",
+  "abstract": "A theory and model of spatial coordinate transforms in the dorsal visual system through the parietal cortex that enable an interface via posterior cingulate and related retrosplenial cortex to allocentric spatial representations in the primate hippocampus is described. First, a new approach to coordinate transform learning in the brain is proposed, in which the traditional gain modulation is complemented by temporal trace rule competitive network learning. It is shown in a computational model that the new approach works much more precisely than gain modulation alone, by enabling neurons to represent the different combinations of signal and gain modulator more accurately. This understanding may have application to many brain areas where coordinate transforms are learned. Second, a set of coordinate transforms is proposed for the dorsal visual system/parietal areas that enables a representation to be formed in allocentric spatial view coordinates. The input stimulus is merely a stimulus at a given position in retinal space, and the gain modulation signals needed are eye position, head direction, and place, all of which are present in the primate brain. Neurons that encode the bearing to a landmark are involved in the coordinate transforms. Part of the importance here is that the coordinates of the allocentric view produced in this model are the same as those of spatial view cells that respond to allocentric view recorded in the primate hippocampus and parahippocampal cortex. The result is that information from the dorsal visual system can be used to update the spatial input to the hippocampus in the appropriate allocentric coordinate frame, including providing for idiothetic update to allow for self-motion. It is further shown how hippocampal spatial view cells could be useful for the transform from hippocampal allocentric coordinates to egocentric coordinates useful for actions in space and for navigation.",
+  "authors": [
+    "Rolls Edmund T"
+  ],
+  "journal": "Hippocampus",
+  "year": "2020",
+  "doi": "10.1002/hipo.23171",
+  "mesh": [
+    "Animals",
+    "Egocentrism",
+    "Hippocampus",
+    "Humans",
+    "Memory",
+    "Neural Networks, Computer",
+    "Parietal Lobe",
+    "Primates",
+    "Space Perception",
+    "Spatial Navigation"
+  ]
+}

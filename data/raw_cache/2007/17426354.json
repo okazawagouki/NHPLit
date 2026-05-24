@@ -1,0 +1,27 @@
+{
+  "pmid": "17426354",
+  "title": "Web-based method for translating neurodevelopment from laboratory species to humans.",
+  "abstract": "Biomedical researchers and medical professionals are regularly required to compare a vast quantity of neurodevelopmental literature obtained from an assortment of mammals whose brains grow at diverse rates, including fast developing experimental rodent species and slower developing humans. In this article, we introduce a database-driven website, which was created to address this problem using statistical-based algorithms to integrate hundreds of empirically derived developing neural events in 10 mammalian species (http://translatingtime.net/). The site, based on a statistical model that has evolved over the past decade, currently incorporates 102 different neurodevelopmental events obtained from 10 species: hamsters, mice, rats, rabbits, spiny mice, guinea pigs, ferrets, cats, rhesus monkeys, and humans. Data are arranged in a Structured Query Language database, which allows comparative brain development measured in postconception days to be converted and accessed in real time, using Hypertext Preprocessor language. Algorithms applied to the database also allow predictions for dates of specific neurodevelopmental events where empirical data are not available, including for the human embryo and fetus. By designing a web-based portal, we seek to make these comparative data readily available to all those who need to efficiently estimate the timing of neurodevelopmental events in the human fetus, laboratory species, or across several different species. In an effort to further refine and expand the applicability of this database, we include a mechanism to submit additional data.",
+  "authors": [
+    "Clancy Barbara",
+    "Kersh Brandon",
+    "Hyde James",
+    "Darlington Richard B",
+    "Anand K J S",
+    "Finlay Barbara L"
+  ],
+  "journal": "Neuroinformatics",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biological Evolution",
+    "Brain",
+    "Computational Biology",
+    "Database Management Systems",
+    "Humans",
+    "Information Storage and Retrieval",
+    "Models, Animal"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "38480767",
+  "title": "Decomposing cortical activity through neuronal tracing connectome-eigenmodes in marmosets.",
+  "abstract": "Deciphering the complex relationship between neuroanatomical connections and functional activity in primate brains remains a daunting task, especially regarding the influence of monosynaptic connectivity on cortical activity. Here, we investigate the anatomical-functional relationship and decompose the neuronal-tracing connectome of marmoset brains into a series of eigenmodes using graph signal processing. These cellular connectome eigenmodes effectively constrain the cortical activity derived from resting-state functional MRI, and uncover a patterned cellular-functional decoupling. This pattern reveals a spatial gradient from coupled dorsal-posterior to decoupled ventral-anterior cortices, and recapitulates micro-structural profiles and macro-scale hierarchical cortical organization. Notably, these marmoset-derived eigenmodes may facilitate the inference of spontaneous cortical activity and functional connectivity of homologous areas in humans, highlighting the potential generalizing of the connectomic constraints across species. Collectively, our findings illuminate how neuronal-tracing connectome eigenmodes constrain cortical activity and improve our understanding of the brain's anatomical-functional relationship.",
+  "authors": [
+    "Xia Jie",
+    "Liu Cirong",
+    "Li Jiao",
+    "Meng Yao",
+    "Yang Siqi",
+    "Chen Huafu",
+    "Liao Wei"
+  ],
+  "journal": "Nature communications",
+  "year": "2024",
+  "doi": "10.1038/s41467-024-46651-8",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Callithrix",
+    "Connectome",
+    "Brain",
+    "Neurons",
+    "Neuroanatomy",
+    "Magnetic Resonance Imaging"
+  ]
+}

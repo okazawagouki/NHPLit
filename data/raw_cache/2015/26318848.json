@@ -1,0 +1,24 @@
+{
+  "pmid": "26318848",
+  "title": "Separating Fractal and Oscillatory Components in the Power Spectrum of Neurophysiological Signal.",
+  "abstract": "Neurophysiological field-potential signals consist of both arrhythmic and rhythmic patterns indicative of the fractal and oscillatory dynamics arising from likely distinct mechanisms. Here, we present a new method, namely the irregular-resampling auto-spectral analysis (IRASA), to separate fractal and oscillatory components in the power spectrum of neurophysiological signal according to their distinct temporal and spectral characteristics. In this method, we irregularly resampled the neural signal by a set of non-integer factors, and statistically summarized the auto-power spectra of the resampled signals to separate the fractal component from the oscillatory component in the frequency domain. We tested this method on simulated data and demonstrated that IRASA could robustly separate the fractal component from the oscillatory component. In addition, applications of IRASA to macaque electrocorticography and human magnetoencephalography data revealed a greater power-law exponent of fractal dynamics during sleep compared to wakefulness. The temporal fluctuation in the broadband power of the fractal component revealed characteristic dynamics within and across the eyes-closed, eyes-open and sleep states. These results demonstrate the efficacy and potential applications of this method in analyzing electrophysiological signatures of large-scale neural circuit activity. We expect that the proposed method or its future variations would potentially allow for more specific characterization of the differential contributions of oscillatory and fractal dynamics to distributed neural processes underlying various brain functions.",
+  "authors": [
+    "Wen Haiguang",
+    "Liu Zhongming"
+  ],
+  "journal": "Brain topography",
+  "year": "2016",
+  "doi": "10.1007/s10548-015-0448-0",
+  "mesh": [
+    "Algorithms",
+    "Biological Clocks",
+    "Brain",
+    "Brain Mapping",
+    "Brain Waves",
+    "Datasets as Topic",
+    "Fractals",
+    "Humans",
+    "Models, Neurological",
+    "Spectrum Analysis"
+  ]
+}

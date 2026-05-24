@@ -1,0 +1,26 @@
+{
+  "pmid": "9705450",
+  "title": "Spatial phase and the temporal structure of the response to gratings in V1.",
+  "abstract": "We recorded single-unit activity of 25 units in the parafoveal representation of macaque V1 to transient appearance of sinusoidal gratings. Gratings were systematically varied in spatial phase and in one or two of the following: contrast, spatial frequency, and orientation. Individual responses were compared based on spike counts, and also according to metrics sensitive to spike timing. For each metric, the extent of stimulus-dependent clustering of individual responses was assessed via the transmitted information, H. In nearly all data sets, stimulus-dependent clustering was maximal for metrics sensitive to the temporal pattern of spikes, typically with a precision of 25-50 ms. To focus on the interaction of spatial phase with other stimulus attributes, each data set was analyzed in two ways. In the \"pooled phases\" approach, the phase of the stimulus was ignored in the assessment of clustering, to yield an index Hpooled. In the \"individual phases\" approach, clustering was calculated separately for each spatial phase and then averaged across spatial phases to yield an index Hindiv. Hpooled expresses the extent to which a spike train represents contrast, spatial frequency, or orientation in a manner which is not confounded by spatial phase (phase-independent representation), whereas Hindiv expresses the extent to which a spike train represents one of these attributes, provided spatial phase is fixed (phase-dependent representation). Here, representation means that a stimulus attribute has a reproducible and systematic influence on individual responses, not a neural mechanism for decoding this influence. During the initial 100 ms of the response, contrast was represented in a phase-dependent manner by simple cells but primarily in a phase-independent manner by complex cells. As the response evolved, simple cell responses acquired phase-independent contrast information, whereas complex cells acquired phase-dependent contrast information. Simple cells represented orientation and spatial frequency in a primarily phase-dependent manner, but also they contained some phase-independent information in their initial response segment. Complex cells showed primarily phase-independent representation of orientation but primarily phase-dependent representation of spatial frequency. Joint representation of two attributes (contrast and spatial frequency, contrast and orientation, spatial frequency and orientation) was primarily phase dependent for simple cells, and primarily phase independent for complex cells. In simple and complex cells, the variability in the number of spikes elicited on each response was substantially greater than the expectations of a Poisson process. Although some of this variation could be attributed to the dependence of the response on the spatial phase of the grating, variability was still markedly greater than Poisson when the contribution of spatial phase to response variance was removed.",
+  "authors": [
+    "Victor J D",
+    "Purpura K P"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Anesthesia",
+    "Animals",
+    "Contrast Sensitivity",
+    "Evoked Potentials, Visual",
+    "Form Perception",
+    "Macaca",
+    "Neurons, Afferent",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Visual Cortex",
+    "Visual Fields"
+  ]
+}

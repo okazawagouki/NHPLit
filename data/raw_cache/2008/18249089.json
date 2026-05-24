@@ -1,0 +1,26 @@
+{
+  "pmid": "18249089",
+  "title": "Improved mapping of information distribution across the cortical surface with the support vector machine.",
+  "abstract": "The early visual cortices represent information of several stimulus attributes, such as orientation and color. To understand the coding mechanisms of these attributes in the brain, and the functional organization of the early visual cortices, it is necessary to determine whether different attributes are represented by different compartments within each cortex. Previous studies addressing this question have focused on the information encoded by the response amplitude of individual neurons or cortical columns, and have reached conflicting conclusions. Given the correlated variability in response amplitude across neighboring columns, it is likely that the spatial pattern of responses across these columns encodes the attribute information more reliably than does the response amplitude. Here we present a new method of mapping the spatial distribution of information that is encoded by both the response amplitude and the spatial pattern. This new method is based on a statistical learning approach, the Support Vector Machine (SVM). Application of this new method to our optical imaging data suggests that information about stimulus orientation and color are distributed differently in the striate cortex, and this observation is consistent with the hypothesis of segregated representations of orientation and color in this area. We also demonstrate that SVM can be used to extract \"single-condition\" activation maps from noisy images of intrinsic optical signals.",
+  "authors": [
+    "Xiao Youping",
+    "Rao Ravi",
+    "Cecchi Guillermo",
+    "Kaplan Ehud"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2008",
+  "doi": "10.1016/j.neunet.2007.12.022",
+  "mesh": [
+    "Animals",
+    "Artificial Intelligence",
+    "Brain Mapping",
+    "Information Dissemination",
+    "Macaca fascicularis",
+    "Models, Neurological",
+    "Orientation",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

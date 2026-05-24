@@ -1,0 +1,23 @@
+{
+  "pmid": "30979355",
+  "title": "Decoding Movements from Cortical Ensemble Activity Using a Long Short-Term Memory Recurrent Network.",
+  "abstract": "Although many real-time neural decoding algorithms have been proposed for brain-machine interface (BMI) applications over the years, an optimal, consensual approach remains elusive. Recent advances in deep learning algorithms provide new opportunities for improving the design of BMI decoders, including the use of recurrent artificial neural networks to decode neuronal ensemble activity in real time. Here, we developed a long-short term memory (LSTM) decoder for extracting movement kinematics from the activity of large (<i>N</i> = 134-402) populations of neurons, sampled simultaneously from multiple cortical areas, in rhesus monkeys performing motor tasks. Recorded regions included primary motor, dorsal premotor, supplementary motor, and primary somatosensory cortical areas. The LSTM's capacity to retain information for extended periods of time enabled accurate decoding for tasks that required both movements and periods of immobility. Our LSTM algorithm significantly outperformed the state-of-the-art unscented Kalman filter when applied to three tasks: center-out arm reaching, bimanual reaching, and bipedal walking on a treadmill. Notably, LSTM units exhibited a variety of well-known physiological features of cortical neuronal activity, such as directional tuning and neuronal dynamics across task epochs. LSTM modeled several key physiological attributes of cortical circuits involved in motor tasks. These findings suggest that LSTM-based approaches could yield a better algorithm strategy for neuroprostheses that employ BMIs to restore movement in severely disabled patients.",
+  "authors": [
+    "Tseng Po-He",
+    "Urpi Núria Armengol",
+    "Lebedev Mikhail",
+    "Nicolelis Miguel"
+  ],
+  "journal": "Neural computation",
+  "year": "2019",
+  "doi": "10.1162/neco_a_01189",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Movement",
+    "Neural Networks, Computer",
+    "Somatosensory Cortex"
+  ]
+}

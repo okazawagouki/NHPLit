@@ -1,0 +1,23 @@
+{
+  "pmid": "21584775",
+  "title": "An information-geometric framework for statistical inferences in the neural spike train space.",
+  "abstract": "Statistical inferences are essentially important in analyzing neural spike trains in computational neuroscience. Current approaches have followed a general inference paradigm where a parametric probability model is often used to characterize the temporal evolution of the underlying stochastic processes. To directly capture the overall variability and distribution in the space of the spike trains, we focus on a data-driven approach where statistics are defined and computed in the function space in which spike trains are viewed as individual points. To this end, we at first develop a parametrized family of metrics that takes into account different warpings in the time domain and generalizes several currently used spike train distances. These new metrics are essentially penalized L ( p ) norms, involving appropriate functions of spike trains, with penalties associated with time-warping. The notions of means and variances of spike trains are then defined based on the new metrics when p = 2 (corresponding to the \"Euclidean distance\"). Using some restrictive conditions, we present an efficient recursive algorithm, termed Matching-Minimization algorithm, to compute the sample mean of a set of spike trains with arbitrary numbers of spikes. The proposed metrics as well as the mean spike trains are demonstrated using simulations as well as an experimental recording from the motor cortex. It is found that all these methods achieve desirable performance and the results support the success of this novel framework.",
+  "authors": [
+    "Wu Wei",
+    "Srivastava Anuj"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2011",
+  "doi": "10.1007/s10827-011-0336-x",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Electrophysiology",
+    "Macaca mulatta",
+    "Male",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

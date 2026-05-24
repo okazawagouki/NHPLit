@@ -1,0 +1,39 @@
+{
+  "pmid": "34418496",
+  "title": "Co-expression of the SARS-CoV-2 entry molecules ACE2 and TMPRSS2 in human ovaries: Identification of cell types and trends with age.",
+  "abstract": "The high rate of SARS-CoV-2 infection poses a serious threat to public health. Previous studies have suggested that SARS-CoV-2 can infect human ovary, the core organ of the female reproductive system. However, it remains unclear which type of ovarian cells are easily infected by SARS-CoV-2 and whether ovarian infectivity differs from puberty to menopause. In this study, public datasets containing bulk and single-cell RNA-Seq data derived from ovarian tissues were analyzed to demonstrate the mRNA expression and protein distribution of the two key entry receptors for SARS-CoV-2-angiotensin-converting enzyme 2 (ACE2) and type II transmembrane serine protease (TMPRSS2). Furthermore, an immunohistochemical study of ACE2 and TMPRSS2 in human ovaries of different ages was conducted. Differentially expressed gene (DEG) analysis of ovaries of different ages and with varying ovarian reserves was conducted to explore the potential functions of ACE2 and TMPRSS2 in the ovary. The analysis of the public datasets indicated that the co-expression of ACE2 and TMPRSS2 was observed mostly in oocytes and partially in granulosa cells. However, no marked difference was observed in ACE2 or TMPRSS2 expression between young and old ovaries and ovaries with low and high reserves. Correspondingly, ACE2 and TMPRSS2 were detected in the human ovarian cortex and medulla, especially in oocytes of different stages, with no observed variations in their expression level in ovaries of different ages, which was consistent with the results of bioinformatic analyses. Remarkably, DEG analysis showed that a series of viral infection-related pathways were more enriched in ACE2-positive ovarian cells than in ACE2-negative ovarian cells, suggesting that SARS-CoV-2 may potentially target specific ovarian cells and affect ovarian function. However, further fundamental and clinical research is still needed to monitor the process of SARS-CoV-2 entry into ovarian cells and the long-term effects of SARS-CoV-2 infection on the ovarian function in recovered females.",
+  "authors": [
+    "Wu Meng",
+    "Ma Lingwei",
+    "Xue Liru",
+    "Zhu Qingqing",
+    "Zhou Su",
+    "Dai Jun",
+    "Yan Wei",
+    "Zhang Jinjin",
+    "Wang Shixuan"
+  ],
+  "journal": "Genomics",
+  "year": "2021",
+  "doi": "10.1016/j.ygeno.2021.08.012",
+  "mesh": [
+    "Adult",
+    "Age Factors",
+    "Aged",
+    "Angiotensin-Converting Enzyme 2",
+    "Animals",
+    "Female",
+    "Gene Expression Regulation",
+    "Humans",
+    "Macaca fascicularis",
+    "Menopause",
+    "Middle Aged",
+    "Ovary",
+    "Puberty",
+    "RNA, Messenger",
+    "SARS-CoV-2",
+    "Serine Endopeptidases",
+    "Virus Internalization",
+    "Young Adult"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pmid": "39104695",
+  "title": "Predicting the temporal-dynamic trajectories of cortical neuronal responses in non-human primates based on deep spiking neural network.",
+  "abstract": "Deep convolutional neural networks (CNNs) are commonly used as computational models for the primate ventral stream, while deep spiking neural networks (SNNs) incorporated with both the temporal and spatial spiking information still lack investigation. We compared performances of SNN and CNN in prediction of visual responses to the naturalistic stimuli in area V4, inferior temporal (IT), and orbitofrontal cortex (OFC). The accuracies based on SNN were significantly higher than that of CNN in prediction of temporal-dynamic trajectory and averaged firing rate of visual response in V4 and IT. The temporal dynamics were captured by SNN for neurons with diverse temporal profiles and category selectivities, and most sensitively captured around the time of peak responses for each brain region. Consistently, SNN activities showed significantly stronger correlations with IT, V4 and OFC responses. In SNN, correlations with neural activities were stronger for later time-step features than early time-step features. The temporal-dynamic prediction was also significantly improved by considering preceding neural activities during the prediction. Thus, our study demonstrated SNN as a powerful temporal-dynamic model for cortical responses to complex naturalistic stimuli.",
+  "authors": [
+    "Zhang Jie",
+    "Huang Liwei",
+    "Ma Zhengyu",
+    "Zhou Huihui"
+  ],
+  "journal": "Cognitive neurodynamics",
+  "year": "2024",
+  "doi": "10.1007/s11571-023-09989-1",
+  "mesh": []
+}

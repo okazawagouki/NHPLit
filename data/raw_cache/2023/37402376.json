@@ -1,0 +1,24 @@
+{
+  "pmid": "37402376",
+  "title": "Invariant neural dynamics drive commands to control different movements.",
+  "abstract": "It has been proposed that the nervous system has the capacity to generate a wide variety of movements because it reuses some invariant code. Previous work has identified that dynamics of neural population activity are similar during different movements, where dynamics refer to how the instantaneous spatial pattern of population activity changes in time. Here, we test whether invariant dynamics of neural populations are actually used to issue the commands that direct movement. Using a brain-machine interface (BMI) that transforms rhesus macaques' motor-cortex activity into commands for a neuroprosthetic cursor, we discovered that the same command is issued with different neural-activity patterns in different movements. However, these different patterns were predictable, as we found that the transitions between activity patterns are governed by the same dynamics across movements. These invariant dynamics are low dimensional, and critically, they align with the BMI, so that they predict the specific component of neural activity that actually issues the next command. We introduce a model of optimal feedback control (OFC) that shows that invariant dynamics can help transform movement feedback into commands, reducing the input that the neural population needs to control movement. Altogether our results demonstrate that invariant dynamics drive commands to control a variety of movements and show how feedback can be integrated with invariant dynamics to issue generalizable commands.",
+  "authors": [
+    "Athalye Vivek R",
+    "Khanna Preeya",
+    "Gowda Suraj",
+    "Orsborn Amy L",
+    "Costa Rui M",
+    "Carmena Jose M"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2023",
+  "doi": "10.1016/j.cub.2023.06.027",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Movement",
+    "Feedback",
+    "Brain-Computer Interfaces",
+    "Motor Cortex"
+  ]
+}

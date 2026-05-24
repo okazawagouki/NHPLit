@@ -1,0 +1,24 @@
+{
+  "pmid": "36444983",
+  "title": "Coordinated multiplexing of information about separate objects in visual cortex.",
+  "abstract": "Sensory receptive fields are large enough that they can contain more than one perceptible stimulus. How, then, can the brain encode information about <i>each</i> of the stimuli that may be present at a given moment? We recently showed that when more than one stimulus is present, single neurons can fluctuate between coding one vs. the other(s) across some time period, suggesting a form of neural multiplexing of different stimuli (Caruso et al., 2018). Here, we investigate (a) whether such coding fluctuations occur in early visual cortical areas; (b) how coding fluctuations are coordinated across the neural population; and (c) how coordinated coding fluctuations depend on the parsing of stimuli into separate vs. fused objects. We found coding fluctuations do occur in macaque V1 but only when the two stimuli form separate objects. Such separate objects evoked a novel pattern of V1 spike count ('noise') correlations involving distinct distributions of positive and negative values. This bimodal correlation pattern was most pronounced among pairs of neurons showing the strongest evidence for coding fluctuations or multiplexing. Whether a given pair of neurons exhibited positive or negative correlations depended on whether the two neurons both responded better to the same object or had different object preferences. Distinct distributions of spike count correlations based on stimulus preferences were also seen in V4 for separate objects but not when two stimuli fused to form one object. These findings suggest multiple objects evoke different response dynamics than those evoked by single stimuli, lending support to the multiplexing hypothesis and suggesting a means by which information about multiple objects can be preserved despite the apparent coarseness of sensory coding.",
+  "authors": [
+    "Jun Na Young",
+    "Ruff Douglas A",
+    "Kramer Lily E",
+    "Bowes Brittany",
+    "Tokdar Surya T",
+    "Cohen Marlene R",
+    "Groh Jennifer M"
+  ],
+  "journal": "eLife",
+  "year": "2022",
+  "doi": "10.7554/eLife.76452",
+  "mesh": [
+    "Animals",
+    "Visual Cortex",
+    "Neurons",
+    "Macaca",
+    "Brain"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "28504971",
+  "title": "Robust tactile sensory responses in finger area of primate motor cortex relevant to prosthetic control.",
+  "abstract": "OBJECTIVE: Challenges in improving the performance of dexterous upper-limb brain-machine interfaces (BMIs) have prompted renewed interest in quantifying the amount and type of sensory information naturally encoded in the primary motor cortex (M1). Previous single unit studies in monkeys showed M1 is responsive to tactile stimulation, as well as passive and active movement of the limbs. However, recent work in this area has focused primarily on proprioception. Here we examined instead how tactile somatosensation of the hand and fingers is represented in M1. APPROACH: We recorded multi- and single units and thresholded neural activity from macaque M1 while gently brushing individual finger pads at 2 Hz. We also recorded broadband neural activity from electrocorticogram (ECoG) grids placed on human motor cortex, while applying the same tactile stimulus. MAIN RESULTS: Units displaying significant differences in firing rates between individual fingers (p  <  0.05) represented up to 76.7% of sorted multiunits across four monkeys. After normalizing by the number of channels with significant motor finger responses, the percentage of electrodes with significant tactile responses was 74.9%  ±  24.7%. No somatotopic organization of finger preference was obvious across cortex, but many units exhibited cosine-like tuning across multiple digits. Sufficient sensory information was present in M1 to correctly decode stimulus position from multiunit activity above chance levels in all monkeys, and also from ECoG gamma power in two human subjects. SIGNIFICANCE: These results provide some explanation for difficulties experienced by motor decoders in clinical trials of cortically controlled prosthetic hands, as well as the general problem of disentangling motor and sensory signals in primate motor cortex during dextrous tasks. Additionally, examination of unit tuning during tactile and proprioceptive inputs indicates cells are often tuned differently in different contexts, reinforcing the need for continued refinement of BMI training and decoding approaches to closed-loop BMI systems for dexterous grasping.",
+  "authors": [
+    "Schroeder Karen E",
+    "Irwin Zachary T",
+    "Bullard Autumn J",
+    "Thompson David E",
+    "Bentley J Nicole",
+    "Stacey William C",
+    "Patil Parag G",
+    "Chestek Cynthia A"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2017",
+  "doi": "10.1088/1741-2552/aa7329",
+  "mesh": [
+    "Animals",
+    "Artificial Limbs",
+    "Brain-Computer Interfaces",
+    "Fingers",
+    "Hand Strength",
+    "Humans",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Touch"
+  ]
+}

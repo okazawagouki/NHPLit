@@ -1,0 +1,22 @@
+{
+  "pmid": "31792464",
+  "title": "Neural circuits for evidence accumulation and decision making in larval zebrafish.",
+  "abstract": "To make appropriate decisions, animals need to accumulate sensory evidence. Simple integrator models can explain many aspects of such behavior, but how the underlying computations are mechanistically implemented in the brain remains poorly understood. Here we approach this problem by adapting the random-dot motion discrimination paradigm, classically used in primate studies, to larval zebrafish. Using their innate optomotor response as a measure of decision making, we find that larval zebrafish accumulate and remember motion evidence over many seconds and that the behavior is in close agreement with a bounded leaky integrator model. Through the use of brain-wide functional imaging, we identify three neuronal clusters in the anterior hindbrain that are well suited to execute the underlying computations. By relating the dynamics within these structures to individual behavioral choices, we propose a biophysically plausible circuit arrangement in which an evidence integrator competes against a dynamic decision threshold to activate a downstream motor command.",
+  "authors": [
+    "Bahl Armin",
+    "Engert Florian"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2020",
+  "doi": "10.1038/s41593-019-0534-9",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Decision Making",
+    "Larva",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Neurons",
+    "Zebrafish"
+  ]
+}

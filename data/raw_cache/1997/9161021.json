@@ -1,0 +1,25 @@
+{
+  "pmid": "9161021",
+  "title": "Dynamic model of visual recognition predicts neural response properties in the visual cortex.",
+  "abstract": "The responses of visual cortical neurons during fixation tasks can be significantly modulated by stimuli from beyond the classical receptive field. Modulatory effects in neural responses have also been recently reported in a task where a monkey freely views a natural scene. In this article, we describe a hierarchical network model of visual recognition that explains these experimental observations by using a form of the extended Kalman filter as given by the minimum description length (MDL) principle. The model dynamically combines input-driven bottom-up signals with expectation-driven top-down signals to predict current recognition state. Synaptic weights in the model are adapted in a Hebbian manner according to a learning rule also derived from the MDL principle. The resulting prediction-learning scheme can be viewed as implementing a form of expectation-maximization (EM) algorithm. The architecture of the model posits an active computational role of the reciprocal connections between adjoining visual cortical areas in determining neural response properties. In particular, the model demonstrates the possible role of feedback from higher cortical areas in mediating neurophysiological effects due to stimuli from beyond the classical receptive field. Simulations of the model are provided that help explain the experimental observations regarding neural responses in both free viewing and fixation conditions.",
+  "authors": [
+    "Rao R P",
+    "Ballard D H"
+  ],
+  "journal": "Neural computation",
+  "year": "1997",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Artificial Intelligence",
+    "Fixation, Ocular",
+    "Haplorhini",
+    "Humans",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Synapses",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

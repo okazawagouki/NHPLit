@@ -1,0 +1,24 @@
+{
+  "pmid": "31607423",
+  "title": "Neural Correlates of Optimal Multisensory Decision Making under Time-Varying Reliabilities with an Invariant Linear Probabilistic Population Code.",
+  "abstract": "Perceptual decisions are often based on multiple sensory inputs whose reliabilities rapidly vary over time, yet little is known about how the brain integrates these inputs to optimize behavior. The optimal solution requires that neurons simply add their sensory inputs across time and modalities, as long as these inputs are encoded with an invariant linear probabilistic population code (ilPPC). While this theoretical possibility has been raised before, it has never been tested experimentally. Here, we report that neural activities in the lateral intraparietal area (LIP) of macaques performing a vestibular-visual multisensory decision-making task are indeed consistent with the ilPPC theory. More specifically, we found that LIP accumulates momentary evidence proportional to the visual speed and the absolute value of vestibular acceleration, two variables that are encoded with close approximations to ilPPCs in sensory areas. Together, these results provide a remarkably simple and biologically plausible solution to near-optimal multisensory decision making.",
+  "authors": [
+    "Hou Han",
+    "Zheng Qihao",
+    "Zhao Yuchen",
+    "Pouget Alexandre",
+    "Gu Yong"
+  ],
+  "journal": "Neuron",
+  "year": "2019",
+  "doi": "10.1016/j.neuron.2019.08.038",
+  "mesh": [
+    "Animals",
+    "Decision Making",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Parietal Lobe"
+  ]
+}

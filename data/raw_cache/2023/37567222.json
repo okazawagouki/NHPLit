@@ -1,0 +1,30 @@
+{
+  "pmid": "37567222",
+  "title": "Error detection and correction in intracortical brain-machine interfaces controlling two finger groups.",
+  "abstract": "<i>Objective.</i>While brain-machine interfaces (BMIs) are promising technologies that could provide direct pathways for controlling the external world and thus regaining motor capabilities, their effectiveness is hampered by decoding errors. Previous research has demonstrated the detection and correction of BMI outcome errors, which occur at the end of trials. Here we focus on continuous detection and correction of BMI execution errors, which occur during real-time movements.<i>Approach.</i>Two adult male rhesus macaques were implanted with Utah arrays in the motor cortex. The monkeys performed single or two-finger group BMI tasks where a Kalman filter decoded binned spiking-band power into intended finger kinematics. Neural activity was analyzed to determine how it depends not only on the kinematics of the fingers, but also on the distance of each finger-group to its target. We developed a method to detect erroneous movements, i.e. consistent movements away from the target, from the same neural activity used by the Kalman filter. Detected errors were corrected by a simple stopping strategy, and the effect on performance was evaluated.<i>Main</i><i>results.</i>First we show that including distance to target explains significantly more variance of the recorded neural activity. Then, for the first time, we demonstrate that neural activity in motor cortex can be used to detect execution errors during BMI controlled movements. Keeping false positive rate below5%, it was possible to achieve mean true positive rate of28.1%online. Despite requiring 200 ms to detect and react to suspected errors, we were able to achieve a significant improvement in task performance via reduced orbiting time of one finger group.<i>Significance.</i>Neural activity recorded in motor cortex for BMI control can be used to detect and correct BMI errors and thus to improve performance. Further improvements may be obtained by enhancing classification and correction strategies.",
+  "authors": [
+    "Wallace Dylan M",
+    "Benyamini Miri",
+    "Nason-Tomaszewski Samuel R",
+    "Costello Joseph T",
+    "Cubillos Luis H",
+    "Mender Matthew J",
+    "Temmar Hisham",
+    "Willsey Matthew S",
+    "Patil Parag G",
+    "Chestek Cynthia A",
+    "Zacksenhouse Miriam"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2023",
+  "doi": "10.1088/1741-2552/acef95",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Electrodes, Implanted",
+    "Fingers",
+    "Movement"
+  ]
+}

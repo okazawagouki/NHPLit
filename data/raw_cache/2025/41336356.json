@@ -1,0 +1,23 @@
+{
+  "pmid": "41336356",
+  "title": "Using Reinforcement Learning to Investigate Neural Dynamics During Motor Learning.",
+  "abstract": "Recent work characterized shifts in preparatory activity of the motor cortex during motor learning. The specific shift geometry during learning, washout, and relearning blocks was hypothesized to implement the acquisition, retention, and retrieval of motor memories. We sought to train recurrent neural network (RNN) models that could be used to study these motor learning phenomena. We built an environment for a curl field (CF) motor learning task and trained RNNs with reinforcement learning (RL) with novel regularization terms to perform behaviorally realistic reaching trajectories over the course of learning. Our choice of RL over supervised learning was motivated by the idea that motor adaptation, in the absence of demonstrations, is a process of reoptimization. We find these models, despite lack of supervision, reproduce many behavioral findings from monkey CF adaptation experiments. These models also captured key neurophysiological findings. We found that the model's preparatory activity existed in a force-predictive subspace that remained stable across learning, washout, and relearning. Additionally, preparatory activity shifted uniformly, independently of the distance to the CF trained target. Finally, we found that the washout shift became more orthogonal to the learning shift, and hence more brain-like, when the RNNs were pretrained to have prior experience with CF dynamics. We argue the increased fit to neurophysiological recordings is driven by more generalizable and structured dynamical motifs in the model with more prior experience. This suggests that prior experience could organize preparatory neural activity underlying motor memory to have more orthogonal characteristics, by forming structured dynamical motifs in the motor cortex circuitry.",
+  "authors": [
+    "Xiao Derek",
+    "Liang Ken-Fu",
+    "Ji Keyu",
+    "Kao Jonathan C"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2025",
+  "doi": "10.1109/EMBC58623.2025.11252999",
+  "mesh": [
+    "Learning",
+    "Reinforcement, Psychology",
+    "Animals",
+    "Motor Cortex",
+    "Neural Networks, Computer",
+    "Humans",
+    "Models, Neurological"
+  ]
+}

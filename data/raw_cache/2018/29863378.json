@@ -1,0 +1,21 @@
+{
+  "pmid": "29863378",
+  "title": "The emergence of polychronization and feature binding in a spiking neural network model of the primate ventral visual system.",
+  "abstract": "We present a hierarchical neural network model, in which subpopulations of neurons develop fixed and regularly repeating temporal chains of spikes (polychronization), which respond specifically to randomized Poisson spike trains representing the input training images. The performance is improved by including top-down and lateral synaptic connections, as well as introducing multiple synaptic contacts between each pair of pre- and postsynaptic neurons, with different synaptic contacts having different axonal delays. Spike-timing-dependent plasticity thus allows the model to select the most effective axonal transmission delay between neurons. Furthermore, neurons representing the binding relationship between low-level and high-level visual features emerge through visually guided learning. This begins to provide a way forward to solving the classic feature binding problem in visual neuroscience and leads to a new hypothesis concerning how information about visual features at every spatial scale may be projected upward through successive neuronal layers. We name this hypothetical upward projection of information the \"holographic principle.\" (PsycINFO Database Record",
+  "authors": [
+    "Eguchi Akihiro",
+    "Isbister James B",
+    "Ahmad Nasir",
+    "Stringer Simon"
+  ],
+  "journal": "Psychological review",
+  "year": "2018",
+  "doi": "10.1037/rev0000103",
+  "mesh": [
+    "Animals",
+    "Models, Theoretical",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Visual Perception"
+  ]
+}

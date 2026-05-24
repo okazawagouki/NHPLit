@@ -1,0 +1,22 @@
+{
+  "pmid": "39679273",
+  "title": "A mathematical language for linking fine-scale structure in spikes from hundreds to thousands of neurons with behaviour.",
+  "abstract": "Recent advances in neural recording technology allow simultaneously recording action potentials from hundreds to thousands of neurons in awake, behaving animals. However, characterizing spike patterns in the resulting data, and linking these patterns to behaviour, remains a challenging task. The lack of a rigorous mathematical language for variable numbers of events (spikes) emitted by multiple agents (neurons) is an important limiting factor. We introduce a new mathematical operation to decompose complex spike patterns into a set of simple, structured elements. This creates a mathematical language that allows comparing spike patterns across trials, detecting sub-patterns, and making links to behaviour via a clear distance measure. We first demonstrate the method using Neuropixel recordings from macaque motor cortex. We then apply the method to dual Utah array recordings from macaque prefrontal cortex, where this technique reveals previously unseen structure that can predict both memory-guided decisions and errors in a virtual-reality working memory task. These results demonstrate that this technique provides a powerful new approach to understand structure in the spike times of neural populations, at a scale that will continue to grow more and more rapidly in upcoming years.",
+  "authors": [
+    "Busch Alexandra N",
+    "Budzinski Roberto C",
+    "Pasini Federico W",
+    "Mináč Ján",
+    "Michaels Jonathan A",
+    "Roussy Megan",
+    "Gulli Roberto A",
+    "Corrigan Benjamin W",
+    "Pruszynski J Andrew",
+    "Martinez-Trujillo Julio",
+    "Muller Lyle E"
+  ],
+  "journal": "ArXiv",
+  "year": "2025",
+  "doi": "",
+  "mesh": []
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "19535480",
+  "title": "Single-unit stability using chronically implanted multielectrode arrays.",
+  "abstract": "The use of chronic intracortical multielectrode arrays has become increasingly prevalent in neurophysiological experiments. However, it is not obvious whether neuronal signals obtained over multiple recording sessions come from the same or different neurons. Here, we develop a criterion to assess single-unit stability by measuring the similarity of 1) average spike waveforms and 2) interspike interval histograms (ISIHs). Neuronal activity was recorded from four Utah arrays implanted in primary motor and premotor cortices in three rhesus macaque monkeys during 10 recording sessions over a 15- to 17-day period. A unit was defined as stable through a given day if the stability criterion was satisfied on all recordings leading up to that day. We found that 57% of the original units were stable through 7 days, 43% were stable through 10 days, and 39% were stable through 15 days. Moreover, stable units were more likely to remain stable in subsequent recording sessions (i.e., 89% of the neurons that were stable through four sessions remained stable on the fifth). Using both waveform and ISIH data instead of just waveforms improved performance by reducing the number of false positives. We also demonstrate that this method can be used to track neurons across days, even during adaptation to a visuomotor rotation. Identifying a stable subset of neurons should allow the study of long-term learning effects across days and has practical implications for pooling of behavioral data across days and for increasing the effectiveness of brain-machine interfaces.",
+  "authors": [
+    "Dickey Adam S",
+    "Suminski Aaron",
+    "Amit Yali",
+    "Hatsopoulos Nicholas G"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2009",
+  "doi": "10.1152/jn.90920.2008",
+  "mesh": [
+    "Action Potentials",
+    "Adaptation, Psychological",
+    "Algorithms",
+    "Animals",
+    "Electrodes, Implanted",
+    "Electrophysiology",
+    "Frontal Lobe",
+    "Macaca mulatta",
+    "Motor Activity",
+    "Motor Cortex",
+    "Neurons",
+    "Time Factors"
+  ]
+}

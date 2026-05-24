@@ -1,0 +1,31 @@
+{
+  "pmid": "25570539",
+  "title": "A study of predicting movement intentions in various spatial reaching tasks from M1 neural activities.",
+  "abstract": "Understanding how M1 neurons innervate flexible coordinated upper limb reaching and grasping is important for BMI systems that attempt to reproduce the same actions. In this paper, we presented a study for exploring M1 neuronal activities while a non-human primate subject was guided to finish different visual cued spatial reaching and grasping tasks. By applying various configurations of target objects in the experiment paradigm, we can make thorough investigations on how neural ensemble activities represented subjects' intentions in different task-related time stages when target objects' properties, including shape, position, orientation, varied. Extracted neuron units were categorized according to their event related attributes. The prediction of subjects' movement intentions was completed with a support vector machine (SVM) based method and a simulated on-line test was performed to illustrate the validation of the proposed method. The results showed that, by M1 neural ensemble spike train signals, correct prediction of subject's intentions can be generated in certain time intervals before the movements were actually executed.",
+  "authors": [
+    "Ma Xuan",
+    "Zhang Peng",
+    "Huang Hailong",
+    "He Jiping"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2014",
+  "doi": "10.1109/EMBC.2014.6944171",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Behavior, Animal",
+    "Electrodes, Implanted",
+    "Hand Strength",
+    "Intention",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Movement",
+    "Neurons",
+    "Reaction Time",
+    "Support Vector Machine",
+    "Task Performance and Analysis",
+    "Upper Extremity"
+  ]
+}

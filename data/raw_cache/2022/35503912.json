@@ -1,0 +1,21 @@
+{
+  "pmid": "35503912",
+  "title": "Complementary feedback control enables effective gaze stabilization in animals.",
+  "abstract": "Visually active animals coordinate vision and movement to achieve spectacular tasks. An essential prerequisite to guide agile locomotion is to keep gaze level and stable. Since the eyes, head and body can move independently to control gaze, how does the brain effectively coordinate these distinct motor outputs? Furthermore, since the eyes, head, and body have distinct mechanical constraints (e.g., inertia), how does the nervous system adapt its control to these constraints? To address these questions, we studied gaze control in flying fruit flies (Drosophila) using a paradigm which permitted direct measurement of head and body movements. By combining experiments with mathematical modeling, we show that body movements are sensitive to the speed of visual motion whereas head movements are sensitive to its acceleration. This complementary tuning of the head and body permitted flies to stabilize a broader range of visual motion frequencies. We discovered that flies implement proportional-derivative (PD) control, but unlike classical engineering control systems, relay the proportional and derivative signals in parallel to two distinct motor outputs. This scheme, although derived from flies, recapitulated classic primate vision responses thus suggesting convergent mechanisms across phyla. By applying scaling laws, we quantify that animals as diverse as flies, mice, and humans as well as bio-inspired robots can benefit energetically by having a high ratio between head, body, and eye inertias. Our results provide insights into the mechanical constraints that may have shaped the evolution of active vision and present testable neural control hypotheses for visually guided behavior across phyla.",
+  "authors": [
+    "Cellini Benjamin",
+    "Salem Wael",
+    "Mongeau Jean-Michel"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2022",
+  "doi": "10.1073/pnas.2121660119",
+  "mesh": [
+    "Animals",
+    "Eye Movements",
+    "Feedback",
+    "Head",
+    "Head Movements",
+    "Motion"
+  ]
+}

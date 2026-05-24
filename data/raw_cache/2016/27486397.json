@@ -1,0 +1,21 @@
+{
+  "pmid": "27486397",
+  "title": "Handling Metadata in a Neurophysiology Laboratory.",
+  "abstract": "To date, non-reproducibility of neurophysiological research is a matter of intense discussion in the scientific community. A crucial component to enhance reproducibility is to comprehensively collect and store metadata, that is, all information about the experiment, the data, and the applied preprocessing steps on the data, such that they can be accessed and shared in a consistent and simple manner. However, the complexity of experiments, the highly specialized analysis workflows and a lack of knowledge on how to make use of supporting software tools often overburden researchers to perform such a detailed documentation. For this reason, the collected metadata are often incomplete, incomprehensible for outsiders or ambiguous. Based on our research experience in dealing with diverse datasets, we here provide conceptual and technical guidance to overcome the challenges associated with the collection, organization, and storage of metadata in a neurophysiology laboratory. Through the concrete example of managing the metadata of a complex experiment that yields multi-channel recordings from monkeys performing a behavioral motor task, we practically demonstrate the implementation of these approaches and solutions with the intention that they may be generalized to other projects. Moreover, we detail five use cases that demonstrate the resulting benefits of constructing a well-organized metadata collection when processing or analyzing the recorded data, in particular when these are shared between laboratories in a modern scientific collaboration. Finally, we suggest an adaptable workflow to accumulate, structure and store metadata from different sources using, by way of example, the odML metadata framework.",
+  "authors": [
+    "Zehl Lyuba",
+    "Jaillet Florent",
+    "Stoewer Adrian",
+    "Grewe Jan",
+    "Sobolev Andrey",
+    "Wachtler Thomas",
+    "Brochier Thomas G",
+    "Riehle Alexa",
+    "Denker Michael",
+    "Grün Sonja"
+  ],
+  "journal": "Frontiers in neuroinformatics",
+  "year": "2016",
+  "doi": "10.3389/fninf.2016.00026",
+  "mesh": []
+}

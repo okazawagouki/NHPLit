@@ -1,0 +1,13 @@
+{
+  "pmid": "39345647",
+  "title": "Feature-specific divisive normalization improves natural image encoding for depth perception.",
+  "abstract": "Vision science and visual neuroscience seek to understand how stimulus and sensor properties limit the precision with which behaviorally-relevant latent variables are encoded and decoded. In the primate visual system, binocular disparity-the canonical cue for stereo-depth perception-is initially encoded by a set of binocular receptive fields with a range of spatial frequency preferences. Here, with a stereo-image database having ground-truth disparity information at each pixel, we examine how response normalization and receptive field properties determine the fidelity with which binocular disparity is encoded in natural scenes. We quantify encoding fidelity by computing the Fisher information carried by the normalized receptive field responses. Several findings emerge from an analysis of the response statistics. First, broadband (or feature-unspecific) normalization yields Laplace-distributed receptive field responses, and narrowband (or feature-specific) normalization yields Gaussian-distributed receptive field responses. Second, the Fisher information in narrowband-normalized responses is larger than in broadband-normalized responses by a scale factor that grows with population size. Third, the most useful spatial frequency decreases with stimulus size and the range of spatial frequencies that is useful for encoding a given disparity decreases with disparity magnitude, consistent with neurophysiological findings. Fourth, the predicted patterns of psychophysical performance, and absolute detection threshold, match human performance with natural and artificial stimuli. The current computational efforts establish a new functional role for response normalization, and bring us closer to understanding the principles that should govern the design of neural systems that support perception in natural scenes.",
+  "authors": [
+    "Ni Long",
+    "Burge Johannes"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.09.05.611536",
+  "mesh": []
+}

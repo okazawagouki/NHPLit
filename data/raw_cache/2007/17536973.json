@@ -1,0 +1,22 @@
+{
+  "pmid": "17536973",
+  "title": "Modeling orienting behavior and its disorders with \"ecological\" neural networks.",
+  "abstract": "Computational modeling is a useful tool for spelling out hypotheses in cognitive neuroscience and testing their predictions in artificial systems. Here we describe a series of simulations involving neural networks that learned to perform their task by self-organizing their internal connections. The networks controlled artificial agents with an orienting eye and an arm. Agents saw objects with various shapes and locations and learned to press a key appropriate to their shape. The results showed the following: (1) Despite being able to see the entire visual scene without moving their eye, agents learned to orient their eye toward a peripherally presented object. (2) Neural networks whose hidden layers were previously partitioned into units dedicated to eye orienting and units dedicated to arm movements learned the identification task faster and more accurately than did nonmodular networks. (3) Nonetheless, even nonmodular networks developed a similar functional segregation through self-organization of their hidden layer. (4) After partial disconnection of the hidden layer from the input layer, the lesioned agents continued to respond accurately to single stimuli, wherever they occurred, but on double simultaneous stimulation they oriented toward and responded only to the right-sided stimulus, thus simulating extinction/neglect. These results stress the generality of the advantages provided by orienting processes. Hard-wired modularity, reminiscent of the distinct cortical visual streams in the primate brain, provided further evolutionary advantages. Finally, disconnection is likely to be a mechanism of primary importance in the pathogenesis of neglect and extinction symptoms, consistent with recent evidence from animal studies and brain-damaged patients.",
+  "authors": [
+    "Di Ferdinando Andrea",
+    "Parisi Domenico",
+    "Bartolomeo Paolo"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Computer Simulation",
+    "Humans",
+    "Neural Networks, Computer",
+    "Orientation",
+    "Perceptual Disorders",
+    "Psychomotor Performance",
+    "Visual Pathways"
+  ]
+}

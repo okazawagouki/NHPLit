@@ -1,0 +1,30 @@
+{
+  "pmid": "20396940",
+  "title": "Causal relationships between frequency bands of extracellular signals in visual cortex revealed by an information theoretic analysis.",
+  "abstract": "Characterizing how different cortical rhythms interact and how their interaction changes with sensory stimulation is important to gather insights into how these rhythms are generated and what sensory function they may play. Concepts from information theory, such as Transfer Entropy (TE), offer principled ways to quantify the amount of causation between different frequency bands of the signal recorded from extracellular electrodes; yet these techniques are hard to apply to real data. To address the above issues, in this study we develop a method to compute fast and reliably the amount of TE from experimental time series of extracellular potentials. The method consisted in adapting efficiently the calculation of TE to analog signals and in providing appropriate sampling bias corrections. We then used this method to quantify the strength and significance of causal interaction between frequency bands of field potentials and spikes recorded from primary visual cortex of anaesthetized macaques, both during spontaneous activity and during binocular presentation of naturalistic color movies. Causal interactions between different frequency bands were prominent when considering the signals at a fine (ms) temporal resolution, and happened with a very short (ms-scale) delay. The interactions were much less prominent and significant at coarser temporal resolutions. At high temporal resolution, we found strong bidirectional causal interactions between gamma-band (40-100 Hz) and slower field potentials when considering signals recorded within a distance of 2 mm. The interactions involving gamma bands signals were stronger during movie presentation than in absence of stimuli, suggesting a strong role of the gamma cycle in processing naturalistic stimuli. Moreover, the phase of gamma oscillations was playing a stronger role than their amplitude in increasing causations with slower field potentials and spikes during stimulation. The dominant direction of causality was mainly found in the direction from MUA or gamma frequency band signals to lower frequency signals, suggesting that hierarchical correlations between lower and higher frequency cortical rhythms are originated by the faster rhythms.",
+  "authors": [
+    "Besserve Michel",
+    "Schölkopf Bernhard",
+    "Logothetis Nikos K",
+    "Panzeri Stefano"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2010",
+  "doi": "10.1007/s10827-010-0236-5",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Bias",
+    "Data Interpretation, Statistical",
+    "Electroencephalography",
+    "Entropy",
+    "Evoked Potentials",
+    "Extracellular Space",
+    "Information Theory",
+    "Linear Models",
+    "Macaca",
+    "Models, Neurological",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

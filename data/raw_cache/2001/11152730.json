@@ -1,0 +1,27 @@
+{
+  "pmid": "11152730",
+  "title": "Formal and attribute-specific information in primary visual cortex.",
+  "abstract": "We estimate the rates at which neurons in the primary visual cortex (V1) of anesthetized macaque monkeys transmit stimulus-related information in response to three types of visual stimulus. The stimuli-randomly modulated checkerboard patterns, stationary sinusoidal gratings, and drifting sinusoidal gratings-have very different spatiotemporal structures. We obtain the overall rate of information transmission, which we call formal information, by a direct method. We find the highest information rates in the responses of simple cells to drifting gratings (median: 10.3 bits/s, 0.92 bits/spike); responses to randomly modulated stimuli and stationary gratings transmit information at significantly lower rates. In general, simple cells transmit information at higher rates, and over a larger range, than do complex cells. Thus in the responses of V1 neurons, stimuli that are rapidly modulated do not necessarily evoke higher information rates, as might be the case with motion-sensitive neurons in area MT. By an extension of the direct method, we parse the formal information into attribute-specific components, which provide estimates of the information transmitted about contrast and spatiotemporal pattern. We find that contrast-specific information rates vary across neurons-about 0.3 to 2.1 bits/s or 0.05 to 0.22 bits/spike-but depend little on stimulus type. Spatiotemporal pattern-specific information rates, however, depend strongly on the type of stimulus and neuron (simple or complex). The remaining information rate, typically between 10 and 32% of the formal information rate for each neuron, cannot be unambiguously assigned to either contrast or spatiotemporal pattern. This indicates that some information concerning these two stimulus attributes is confounded in the responses of single neurons in V1. A model that considers a simple cell to consist of a linear spatiotemporal filter followed by a static rectifier predicts higher information rates than are found in real neurons and completely fails to replicate the performance of real cells in generating the confounded information.",
+  "authors": [
+    "Reich D S",
+    "Mechler F",
+    "Victor J D"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Contrast Sensitivity",
+    "Macaca",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Synaptic Transmission",
+    "Visual Cortex"
+  ]
+}

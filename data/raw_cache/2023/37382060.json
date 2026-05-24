@@ -1,0 +1,25 @@
+{
+  "pmid": "37382060",
+  "title": "Bayesian multilevel hidden Markov models identify stable state dynamics in longitudinal recordings from macaque primary motor cortex.",
+  "abstract": "Neural populations, rather than single neurons, may be the fundamental unit of cortical computation. Analysing chronically recorded neural population activity is challenging not only because of the high dimensionality of activity but also because of changes in the signal that may or may not be due to neural plasticity. Hidden Markov models (HMMs) are a promising technique for analysing such data in terms of discrete latent states, but previous approaches have not considered the statistical properties of neural spiking data, have not been adaptable to longitudinal data, or have not modelled condition-specific differences. We present a multilevel Bayesian HMM addresses these shortcomings by incorporating multivariate Poisson log-normal emission probability distributions, multilevel parameter estimation and trial-specific condition covariates. We applied this framework to multi-unit neural spiking data recorded using chronically implanted multi-electrode arrays from macaque primary motor cortex during a cued reaching, grasping and placing task. We show that, in line with previous work, the model identifies latent neural population states which are tightly linked to behavioural events, despite the model being trained without any information about event timing. The association between these states and corresponding behaviour is consistent across multiple days of recording. Notably, this consistency is not observed in the case of a single-level HMM, which fails to generalise across distinct recording sessions. The utility and stability of this approach is demonstrated using a previously learned task, but this multilevel Bayesian HMM framework would be especially suited for future studies of long-term plasticity in neural populations.",
+  "authors": [
+    "Kirchherr Sebastien",
+    "Mildiner Moraga Sebastian",
+    "Coudé Gino",
+    "Bimbi Marco",
+    "Ferrari Pier F",
+    "Aarts Emmeke",
+    "Bonaiuto James J"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "2023",
+  "doi": "10.1111/ejn.16065",
+  "mesh": [
+    "Animals",
+    "Markov Chains",
+    "Bayes Theorem",
+    "Motor Cortex",
+    "Electrodes, Implanted",
+    "Macaca mulatta"
+  ]
+}

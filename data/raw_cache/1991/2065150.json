@@ -1,0 +1,22 @@
+{
+  "pmid": "2065150",
+  "title": "Saccades simulated with rhesus monkey innervation data.",
+  "abstract": "Extracellular single-unit data from the vicinity of the abducens nucleus from rhesus monkeys recorded during horizontal saccades are used as input to an updated oculomotor plant to simulate saccades to test the robustness of the model. Cells recorded from include: Long Lead Burst neurons, Medium Lead Burst neurons, and Burst Tonic neurons. Eye movement position data was collected using the magnetic coil technique. The oculomotor plant used in this study consists of the lateral and medial rectus muscle, and the eyeball. The muscles are modeled as a viscoelastic parallel combination connected to a parallel combination of active state tension generator, viscosity element and length tension elastic element. The eyeball is modeled as a sphere, connected to two parallel viscoelastic elements, connected in series. Each of the elements is linear. All parameters and initial conditions are estimated or directly measured from physiological data. The active state tension generator waveforms are the low-passed filtered motoneural signals. The extracellular single-unit data is used to drive the agonist portion of a neural circuit, consisting of burst, tonic and pause cells. The antagonist portion of the neural activity is based on previously reported characteristics. Simulation results for eye position and higher derivatives are in good agreement with the eye position data and the data derived estimates of higher derivatives.",
+  "authors": [
+    "Enderle J D",
+    "Engelken E J",
+    "Nelson J"
+  ],
+  "journal": "Biomedical sciences instrumentation",
+  "year": "1991",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Nerve Net",
+    "Reference Values",
+    "Saccades"
+  ]
+}

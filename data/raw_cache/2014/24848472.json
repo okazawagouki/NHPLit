@@ -1,0 +1,22 @@
+{
+  "pmid": "24848472",
+  "title": "Tuning and spontaneous spike time synchrony share a common structure in macaque inferior temporal cortex.",
+  "abstract": "Investigating the relationship between tuning and spike timing is necessary to understand how neuronal populations in anterior visual cortex process complex stimuli. Are tuning and spontaneous spike time synchrony linked by a common spatial structure (do some cells covary more strongly, even in the absence of visual stimulation?), and what is the object coding capability of this structure? Here, we recorded from spiking populations in macaque inferior temporal (IT) cortex under neurolept anesthesia. We report that, although most nearby IT neurons are weakly correlated, neurons with more similar tuning are also more synchronized during spontaneous activity. This link between tuning and synchrony was not simply due to cell separation distance. Instead, it expands on previous reports that neurons along an IT penetration are tuned to similar but slightly different features. This constraint on possible population firing rate patterns was consistent across stimulus sets, including animate vs. inanimate object categories. A classifier trained on this structure was able to generalize category \"read-out\" to untrained objects using only a few dimensions (a few patterns of site weightings per electrode array). We suggest that tuning and spike synchrony are linked by a common spatial structure that is highly efficient for object representation.",
+  "authors": [
+    "Lin Chia-Pei",
+    "Chen Yueh-Peng",
+    "Hung Chou P"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2014",
+  "doi": "10.1152/jn.00485.2013",
+  "mesh": [
+    "Action Potentials",
+    "Anesthesia",
+    "Animals",
+    "Evoked Potentials, Visual",
+    "Macaca",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

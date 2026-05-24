@@ -1,0 +1,34 @@
+{
+  "pmid": "23014702",
+  "title": "Role of the hippocampus in memory formation: restorative encoding memory integration neural device as a cognitive neural prosthesis.",
+  "abstract": "Remind, which stands for \"restorative encoding memory integration neural device,\" is a Defense Advanced Research Projects Agency (DARPA)-sponsored program to construct the first-ever cognitive prosthesis to replace lost memory function and enhance the existing memory capacity in animals and, ultimately, in humans. Reaching this goal involves understanding something fundamental about the brain that has not been understood previously: how the brain internally codes memories. In developing a hippocampal prosthesis for the rat, we have been able to demonstrate a multiple-input, multiple- output (MIMO) nonlinear model that predicts in real time the spatiotemporal codes for specific memories required for correct performance on a standard learning/memory task, i.e., delayed-nonmatch-to-sample (DNMS) memory. The MIMO model has been tested successfully in a number of contexts; most notably, in animals with a pharmacologically disabled hippocampus, we were able to reinstate long-term memories necessary for correct DNMS behavior by substituting a MIMO model-predicted code, delivered by electrical stimulation to the hippocampus through an array of electrodes, resulting in spatiotemporal hippocampal activity that is normally generated endogenously. We also have shown that delivering the same model-predicted code to electrode-implanted control animals with a normally functioning hippocampus substantially enhances animals memory capacity above control levels. These results in rodents have formed the basis for extending the MIMO model to nonhuman primates; this is now underway as the last step of the REMIND program before developing a MIMO-based cognitive prosthesis for humans.",
+  "authors": [
+    "Berger Theodore",
+    "Song Dong",
+    "Chan Rosa",
+    "Shin Dae",
+    "Marmarelis Vasilis",
+    "Hampson Robert",
+    "Sweatt Andrew",
+    "Heck Christi",
+    "Liu Charles",
+    "Wills Jack",
+    "Lacoss Jeff",
+    "Granacki John",
+    "Gerhardt Greg",
+    "Deadwyler Sam"
+  ],
+  "journal": "IEEE pulse",
+  "year": "2012",
+  "doi": "10.1109/MPUL.2012.2205775",
+  "mesh": [
+    "Animals",
+    "Cognition",
+    "Deep Brain Stimulation",
+    "Hippocampus",
+    "Humans",
+    "Memory",
+    "Neural Prostheses",
+    "Rats"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "pmid": "31626824",
+  "title": "Reverse-filtering on extracellular action potential for waveform analysis.",
+  "abstract": "For further understanding the role of serotonergic neurons, unit recordings using behaving primates are increasingly needed. A widely used criterion to identify serotonergic neuron relies on the duration of extracellular action potential (EAP). However, the duration is inaccurate due to the passband limitation needed to carry out the spike sorting. To restore an original waveform, we conducted 1) averaging the EAPs collected from the unfiltered raw signal and 2) reverse-filtering the EAPs collected from the filtered raw signal. The reconstructed waveforms by these analyses well agreed with each other, suggesting that either analysis is applicable to restore the EAPs. Even using multivariate analyses, the reconstructed EAPs in dorsal raphe (DR) could not be divided into different clusters possibly related to neurochemicals, suggesting that the DR neurons in the previous studies that relied on waveform criterion might contain both serotonergic and non-serotonergic neurons. Between DR and orbitofrontal cortex (OFC), there were no differences in the duration of filtered EAPs. However, against the conventional criterion, the duration of the first crest in the unfiltered / restored EAPs in DR that might contain serotonergic neurons was shorter than that in OFC. This raises a possibility that the conventional waveform criterion needs further consideration.",
+  "authors": [
+    "Mizuhiki Takashi",
+    "Setogawa Tsuyoshi",
+    "Shidara Munetaka"
+  ],
+  "journal": "Neuroscience research",
+  "year": "2020",
+  "doi": "10.1016/j.neures.2019.10.009",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Neurons"
+  ]
+}

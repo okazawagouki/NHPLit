@@ -1,0 +1,24 @@
+{
+  "pmid": "30075650",
+  "title": "Classification of producer characteristics in primate long calls using neural networks.",
+  "abstract": "Primate long calls are high-amplitude vocalizations that can be critical in maintaining intragroup contact and intergroup spacing, and can encode abundant information about a call's producer, such as age, sex, and individual identity. Long calls of the wild emperor (Saguinus imperator) and saddleback (Leontocebus weddelli) tamarins were tested for these identity signals using artificial neural networks, machine-learning models that reduce subjectivity in vocalization classification. To assess whether modelling could be streamlined by using only factors which were responsible for the majority of variation within networks, each series of networks was re-trained after implementing two methods of feature selection. First, networks were trained and run using only the subset of variables whose weights accounted for ≥50% of each original network's variation, as identified by the networks themselves. In the second, only variables implemented by decision trees in predicting outcomes were used. Networks predicted dependent variables above chance (≥58.7% for sex, ≥69.2 for age class, and ≥38.8% for seven to eight individuals), but classification accuracy was not markedly improved by feature selection. Findings are discussed with regard to implications for future studies on identity signaling in vocalizations and streamlining of data analysis.",
+  "authors": [
+    "Robakis Efstathia",
+    "Watsa Mrinalini",
+    "Erkenswick Gideon"
+  ],
+  "journal": "The Journal of the Acoustical Society of America",
+  "year": "2018",
+  "doi": "10.1121/1.5046526",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Female",
+    "Humans",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Saguinus",
+    "Sound",
+    "Vocalization, Animal"
+  ]
+}

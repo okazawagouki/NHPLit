@@ -1,0 +1,23 @@
+{
+  "pmid": "21254209",
+  "title": "Modeling neuronal current MRI signal with human neuron.",
+  "abstract": "Up to date, no consensus has been achieved regarding the possibility of detecting neuronal currents by MRI (ncMRI) in human brain. To evaluate the detectability of ncMRI, an effective way is to simulate ncMRI signal with the realistic neuronal geometry and electrophysiological processes. Unfortunately, previous realistic ncMRI models are based on rat and monkey neurons. The species difference in neuronal morphology and physiology would prevent these models from simulating the ncMRI signal accurately in human subjects. The aim of this study is to bridge this gap by establishing a realistic ncMRI model specifically for human cerebral cortex. In this model, the ncMRI signal was simulated using anatomically reconstructed human pyramidal neurons and their biophysical properties. The modeling results showed that the amplitude of ncMRI signal significantly depends on the density of synchronously firing neurons and imaging conditions such as position of imaging voxel, direction of main magnetic field (B(0) ) relative to the cortical surface and echo time. The results indicated that physiologically-evoked ncMRI signal is too weak to be detected (magnitude/phase change ≤ -1.4 × 10(-6) /0.02°), but the phase signal induced by spontaneous activity may reach a detectable level (up to 0.2°) in favorable conditions.",
+  "authors": [
+    "Luo Qingfei",
+    "Jiang Xia",
+    "Chen Bin",
+    "Zhu Yi",
+    "Gao Jia-Hong"
+  ],
+  "journal": "Magnetic resonance in medicine",
+  "year": "2011",
+  "doi": "10.1002/mrm.22764",
+  "mesh": [
+    "Brain Mapping",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Models, Neurological",
+    "Neurons",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

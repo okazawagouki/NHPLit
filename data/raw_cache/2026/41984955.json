@@ -1,0 +1,25 @@
+{
+  "pmid": "41984955",
+  "title": "Intracortical brain-computer interface for navigation in virtual reality in macaque monkeys.",
+  "abstract": "We present an innovative intracortical brain-computer interface (BCI) to bridge the gap between laboratory settings and real-world applications. This BCI approach introduces three key advancements. First, we used neural signals from three macaque brain regions-primary motor, dorsal, and ventral premotor cortex-enabling precise and flexible decoding of real-time three-dimensional (3D) sphere/avatar velocities. Second, we developed a realistic, immersive 3D virtual reality setup with dynamic camera tracking, allowing continuous navigation and obstacle avoidance that closely mimic real-world scenarios. Last, our BCI approach is very well suited for use by paralyzed patients, featuring a brief passive fixation without overt movements and closed-loop operation without retraining of the decoder during online decoding, relying on the user's neural plasticity and the decoder's robust generalization across tasks. Our BCI adapted to different environments, targets, and obstacles, illustrating its potential to substantially enhance the quality of life for paralyzed patients by enabling natural, reliable, and flexible control in complex settings.",
+  "authors": [
+    "Saussus Ophelie",
+    "De Schrijver Sofie",
+    "Ramirez Jesus Garcia",
+    "Decramer Thomas",
+    "Janssen Peter"
+  ],
+  "journal": "Science advances",
+  "year": "2026",
+  "doi": "10.1126/sciadv.adw3876",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Virtual Reality",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Male",
+    "Macaca",
+    "Spatial Navigation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "11389936",
+  "title": "Failure in identification of overlapping spikes from multiple neuron activity causes artificial correlations.",
+  "abstract": "Recording of multiple neurons from a single electrode is common practice during extra-cellular recordings. Separation and sorting of spikes originating from the different neurons can be performed either on-line or off-line using multiple methods for pattern matching. However, all spike sorting techniques fail either fully or partially in identifying spikes from multiple neurons when they overlap due to occurrence within a short time interval. This failure, that we termed the 'shadowing effect', causes the well-known phenomenon of decreased cross-correlation at zero offset. However, the shadowing effect also causes other artifacts in the auto and cross-correlation of the recorded neurons. These artifacts are significant mainly in brain areas with high firing rate or increased firing synchrony leading to a high probability of spike overlap. Cross correlation of cells recorded from the same electrodes tends to reflect the autocorrelation functions of the two cells, even when there are no functional interactions between the cells. Therefore, the cross-correlation function tends to have a short-term (about the length of the refractory period) peak. A long-term (hundreds of milliseconds to a few seconds) trough in the cross-correlation can be seen in cells with bursting and pausing activities recorded from the same electrode. Even the autocorrelation functions of the recorded neurons feature firing properties of other neurons recorded from the same electrode. Examples of these effects are given from our recordings in the globus pallidus of behaving primates and from the literature. Results of simulations of independent simple model neurons exhibit the same properties as the recorded neurons. The effect is analyzed and can be estimated to enable better evaluation of the underlying firing patterns and the actual synchronization of neighboring neurons recorded by a single electrode.",
+  "authors": [
+    "Bar-Gad I",
+    "Ritov Y",
+    "Vaadia E",
+    "Bergman H"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Artifacts",
+    "Cell Communication",
+    "Central Nervous System",
+    "Electrophysiology",
+    "Globus Pallidus",
+    "Haplorhini",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Neurons",
+    "Neurophysiology",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

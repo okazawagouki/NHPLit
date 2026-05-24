@@ -1,0 +1,26 @@
+{
+  "pmid": "27821752",
+  "title": "Temporal coding of reward-guided choice in the posterior parietal cortex.",
+  "abstract": "Making a decision involves computations across distributed cortical and subcortical networks. How such distributed processing is performed remains unclear. We test how the encoding of choice in a key decision-making node, the posterior parietal cortex (PPC), depends on the temporal structure of the surrounding population activity. We recorded spiking and local field potential (LFP) activity in the PPC while two rhesus macaques performed a decision-making task. We quantified the mutual information that neurons carried about an upcoming choice and its dependence on LFP activity. The spiking of PPC neurons was correlated with LFP phases at three distinct time scales in the theta, beta, and gamma frequency bands. Importantly, activity at these time scales encoded upcoming decisions differently. Choice information contained in neural firing varied with the phase of beta and gamma activity. For gamma activity, maximum choice information occurred at the same phase as the maximum spike count. However, for beta activity, choice information and spike count were greatest at different phases. In contrast, theta activity did not modulate the encoding properties of PPC units directly but was correlated with beta and gamma activity through cross-frequency coupling. We propose that the relative timing of local spiking and choice information reveals temporal reference frames for computations in either local or large-scale decision networks. Differences between the timing of task information and activity patterns may be a general signature of distributed processing across large-scale networks.",
+  "authors": [
+    "Hawellek David J",
+    "Wong Yan T",
+    "Pesaran Bijan"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2016",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain Waves",
+    "Choice Behavior",
+    "Decision Making",
+    "Macaca mulatta",
+    "Movement",
+    "Neurons",
+    "Parietal Lobe",
+    "Reward",
+    "Time Factors"
+  ]
+}

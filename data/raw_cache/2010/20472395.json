@@ -1,0 +1,26 @@
+{
+  "pmid": "20472395",
+  "title": "Statistical analysis of large-scale neuronal recording data.",
+  "abstract": "Relating stimulus properties to the response properties of individual neurons and neuronal networks is a major goal of sensory research. Many investigators implant electrode arrays in multiple brain areas and record from chronically implanted electrodes over time to answer a variety of questions. Technical challenges related to analyzing large-scale neuronal recording data are not trivial. Several analysis methods traditionally used by neurophysiologists do not account for dependencies in the data that are inherent in multi-electrode recordings. In addition, when neurophysiological data are not best modeled by the normal distribution and when the variables of interest may not be linearly related, extensions of the linear modeling techniques are recommended. A variety of methods exist to analyze correlated data, even when the data are not normally distributed and the relationships are nonlinear. Here we review expansions of the Generalized Linear Model designed to address these data properties. Such methods are used in other research fields, and the application to large-scale neuronal recording data will enable investigators to determine the variable properties that convincingly contribute to the variances in the observed neuronal measures. Standard measures of neuron properties such as response magnitudes can be analyzed using these methods, and measures of neuronal network activity such as spike timing correlations can be analyzed as well. We have done just that in recordings from 100-electrode arrays implanted in the primary somatosensory cortex of owl monkeys. Here we illustrate how one example method, Generalized Estimating Equations analysis, is a useful method to apply to large-scale neuronal recordings.",
+  "authors": [
+    "Reed Jamie L",
+    "Kaas Jon H"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2010",
+  "doi": "10.1016/j.neunet.2010.04.005",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Aotus trivirgatus",
+    "Computer Simulation",
+    "Electrophysiology",
+    "Humans",
+    "Linear Models",
+    "Nerve Net",
+    "Neurons",
+    "Neurophysiology",
+    "Signal Processing, Computer-Assisted",
+    "Somatosensory Cortex"
+  ]
+}

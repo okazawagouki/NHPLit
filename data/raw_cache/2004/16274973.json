@@ -1,0 +1,33 @@
+{
+  "pmid": "16274973",
+  "title": "Inhibitory synchrony as a mechanism for attentional gain modulation.",
+  "abstract": "Recordings from area V4 of monkeys have revealed that when the focus of attention is on a visual stimulus within the receptive field of a cortical neuron, two distinct changes can occur: The firing rate of the neuron can change and there can be an increase in the coherence between spikes and the local field potential (LFP) in the gamma-frequency range (30-50 Hz). The hypothesis explored here is that these observed effects of attention could be a consequence of changes in the synchrony of local interneuron networks. We performed computer simulations of a Hodgkin-Huxley type neuron driven by a constant depolarizing current, I, representing visual stimulation and a modulatory inhibitory input representing the effects of attention via local interneuron networks. We observed that the neuron's firing rate and the coherence of its output spike train with the synaptic inputs was modulated by the degree of synchrony of the inhibitory inputs. When inhibitory synchrony increased, the coherence of spiking model neurons with the synaptic input increased, but the firing rate either increased or remained the same. The mean number of synchronous inhibitory inputs was a key determinant of the shape of the firing rate versus current (f-I) curves. For a large number of inhibitory inputs (approximately 50), the f-I curve saturated for large I and an increase in input synchrony resulted in a shift of sensitivity-the model neuron responded to weaker inputs I. For a small number (approximately 10), the f-I curves were non-saturating and an increase in input synchrony led to an increase in the gain of the response-the firing rate in response to the same input was multiplied by an approximately constant factor. The firing rate modulation with inhibitory synchrony was highest when the input network oscillated in the gamma frequency range. Thus, the observed changes in firing rate and coherence of neurons in the visual cortex could be controlled by top-down inputs that regulated the coherence in the activity of a local inhibitory network discharging at gamma frequencies.",
+  "authors": [
+    "Tiesinga Paul H",
+    "Fellous Jean-Marc",
+    "Salinas Emilio",
+    "José Jorge V",
+    "Sejnowski Terrence J"
+  ],
+  "journal": "Journal of physiology, Paris",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Cell Communication",
+    "Computer Simulation",
+    "Cortical Synchronization",
+    "Data Interpretation, Statistical",
+    "Evoked Potentials, Visual",
+    "Humans",
+    "Interneurons",
+    "Membrane Potentials",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Synapses",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

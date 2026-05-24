@@ -1,0 +1,13 @@
+{
+  "pmid": "25157228",
+  "title": "Hierarchical representation of shapes in visual cortex-from localized features to figural shape segregation.",
+  "abstract": "Visual structures in the environment are segmented into image regions and those combined to a representation of surfaces and prototypical objects. Such a perceptual organization is performed by complex neural mechanisms in the visual cortex of primates. Multiple mutually connected areas in the ventral cortical pathway receive visual input and extract local form features that are subsequently grouped into increasingly complex, more meaningful image elements. Such a distributed network of processing must be capable to make accessible highly articulated changes in shape boundary as well as very subtle curvature changes that contribute to the perception of an object. We propose a recurrent computational network architecture that utilizes hierarchical distributed representations of shape features to encode surface and object boundary over different scales of resolution. Our model makes use of neural mechanisms that model the processing capabilities of early and intermediate stages in visual cortex, namely areas V1-V4 and IT. We suggest that multiple specialized component representations interact by feedforward hierarchical processing that is combined with feedback signals driven by representations generated at higher stages. Based on this, global configurational as well as local information is made available to distinguish changes in the object's contour. Once the outline of a shape has been established, contextual contour configurations are used to assign border ownership directions and thus achieve segregation of figure and ground. The model, thus, proposes how separate mechanisms contribute to distributed hierarchical cortical shape representation and combine with processes of figure-ground segregation. Our model is probed with a selection of stimuli to illustrate processing results at different processing stages. We especially highlight how modulatory feedback connections contribute to the processing of visual input at various stages in the processing hierarchy.",
+  "authors": [
+    "Tschechne Stephan",
+    "Neumann Heiko"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2014",
+  "doi": "10.3389/fncom.2014.00093",
+  "mesh": []
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "25570511",
+  "title": "Motor cortical decoding performance depends on controlled system order.",
+  "abstract": "Recent advances in intracortical brain-machine interfaces (BMIs) for position control have leveraged state estimators to decode intended movements from cortical activity. We revisit the underlying assumptions behind the use of Kalman filters in this context, focusing on the fact that identified cortical coding models capture closed-loop task dynamics. We show that closed-loop models can be partitioned, exposing feedback policies of the brain which are separate from interface and task dynamics. Changing task dynamics may cause the brain to change its control policy, and consequently the closed-loop dynamics. This may degrade performance of decoders upon switching from manual tasks to velocity-controlled BMI-mediated tasks. We provide experimental results showing that for the same manual cursor task, changing system order affects neural coding of movement. In one experimental condition force determines position directly, and in the other force determines cursor velocity. From this we draw an analogy to subjects transitioning from manual reaching tasks to velocity-controlled BMI tasks. We conclude with suggested principles for improving BMI decoder performance, including matching the controlled system order between manual and brain control, and identifying the brain's controller dynamics rather than complete closed-loop dynamics.",
+  "authors": [
+    "Matlack Charlie",
+    "Haddock Andrew",
+    "Moritz Chet T",
+    "Chizeck Howard J"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2014",
+  "doi": "10.1109/EMBC.2014.6944143",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Macaca",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Proprioception"
+  ]
+}

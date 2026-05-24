@@ -1,0 +1,17 @@
+{
+  "pmid": "28223914",
+  "title": "Decoding Lower Limb Muscle Activity and Kinematics from Cortical Neural Spike Trains during Monkey Performing Stand and Squat Movements.",
+  "abstract": "Extensive literatures have shown approaches for decoding upper limb kinematics or muscle activity using multichannel cortical spike recordings toward brain machine interface (BMI) applications. However, similar topics regarding lower limb remain relatively scarce. We previously reported a system for training monkeys to perform visually guided stand and squat tasks. The current study, as a follow-up extension, investigates whether lower limb kinematics and muscle activity characterized by electromyography (EMG) signals during monkey performing stand/squat movements can be accurately decoded from neural spike trains in primary motor cortex (M1). Two monkeys were used in this study. Subdermal intramuscular EMG electrodes were implanted to 8 right leg/thigh muscles. With ample data collected from neurons from a large brain area, we performed a spike triggered average (SpTA) analysis and got a series of density contours which revealed the spatial distributions of different muscle-innervating neurons corresponding to each given muscle. Based on the guidance of these results, we identified the locations optimal for chronic electrode implantation and subsequently carried on chronic neural data recordings. A recursive Bayesian estimation framework was proposed for decoding EMG signals together with kinematics from M1 spike trains. Two specific algorithms were implemented: a standard Kalman filter and an unscented Kalman filter. For the latter one, an artificial neural network was incorporated to deal with the nonlinearity in neural tuning. High correlation coefficient and signal to noise ratio between the predicted and the actual data were achieved for both EMG signals and kinematics on both monkeys. Higher decoding accuracy and faster convergence rate could be achieved with the unscented Kalman filter. These results demonstrate that lower limb EMG signals and kinematics during monkey stand/squat can be accurately decoded from a group of M1 neurons with the proposed algorithms. Our findings provide new insights for extending current BMI design concepts and techniques on upper limbs to lower limb circumstances. Brain controlled exoskeleton, prostheses or neuromuscular electrical stimulators for lower limbs are expected to be developed, which enables the subject to manipulate complex biomechatronic devices with mind in more harmonized manner.",
+  "authors": [
+    "Ma Xuan",
+    "Ma Chaolin",
+    "Huang Jian",
+    "Zhang Peng",
+    "Xu Jiang",
+    "He Jiping"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2017",
+  "doi": "10.3389/fnins.2017.00044",
+  "mesh": []
+}

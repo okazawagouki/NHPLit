@@ -1,0 +1,23 @@
+{
+  "pmid": "21146359",
+  "title": "A neuromorphic model of spatial lookahead planning.",
+  "abstract": "In order to create spatial plans in a complex and changing world, organisms need to rapidly adapt to novel configurations of obstacles that impede simple routes to goal acquisition. Some animals can mentally create successful multistep spatial plans in new visuo-spatial layouts that preclude direct, one-segment routes to goal acquisition. Lookahead multistep plans can, moreover, be fully developed before an animal executes any step in the plan. What neural computations suffice to yield preparatory multistep lookahead plans during spatial cognition of an obstructed two-dimensional scene? To address this question, we introduce a novel neuromorphic system for spatial lookahead planning in which a feasible sequence of actions is prepared before movement begins. The proposed system combines neurobiologically plausible mechanisms of recurrent shunting competitive networks, visuo-spatial diffusion, and inhibition-of-return. These processes iteratively prepare a multistep trajectory to the desired goal state in the presence of obstacles. The planned trajectory can be stored using a primacy gradient in a sequential working memory and enacted by a competitive queuing process. The proposed planning system is compared with prior planning models. Simulation results demonstrate system robustness to environmental variations. Notably, the model copes with many configurations of obstacles that lead other visuo-spatial planning models into selecting undesirable or infeasible routes. Our proposal is inspired by mechanisms of spatial attention and planning in primates. Accordingly, our simulation results are compared with neurophysiological and behavioral findings from relevant studies of spatial lookahead behavior.",
+  "authors": [
+    "Ivey Richard",
+    "Bullock Daniel",
+    "Grossberg Stephen"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2011",
+  "doi": "10.1016/j.neunet.2010.11.002",
+  "mesh": [
+    "Animals",
+    "Cognition",
+    "Executive Function",
+    "Humans",
+    "Models, Neurological",
+    "Orientation",
+    "Psychomotor Performance",
+    "Space Perception"
+  ]
+}

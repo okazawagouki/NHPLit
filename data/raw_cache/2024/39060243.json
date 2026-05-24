@@ -1,0 +1,28 @@
+{
+  "pmid": "39060243",
+  "title": "Spiking attractor model of motor cortex explains modulation of neural and behavioral variability by prior target information.",
+  "abstract": "When preparing a movement, we often rely on partial or incomplete information, which can decrement task performance. In behaving monkeys we show that the degree of cued target information is reflected in both, neural variability in motor cortex and behavioral reaction times. We study the underlying mechanisms in a spiking motor-cortical attractor model. By introducing a biologically realistic network topology where excitatory neuron clusters are locally balanced with inhibitory neuron clusters we robustly achieve metastable network activity across a wide range of network parameters. In application to the monkey task, the model performs target-specific action selection and accurately reproduces the task-epoch dependent reduction of trial-to-trial variability in vivo where the degree of reduction directly reflects the amount of processed target information, while spiking irregularity remained constant throughout the task. In the context of incomplete cue information, the increased target selection time of the model can explain increased behavioral reaction times. We conclude that context-dependent neural and behavioral variability is a signum of attractor computation in the motor cortex.",
+  "authors": [
+    "Rostami Vahid",
+    "Rost Thomas",
+    "Schmitt Felix Johannes",
+    "van Albada Sacha Jennifer",
+    "Riehle Alexa",
+    "Nawrot Martin Paul"
+  ],
+  "journal": "Nature communications",
+  "year": "2024",
+  "doi": "10.1038/s41467-024-49889-4",
+  "mesh": [
+    "Motor Cortex",
+    "Animals",
+    "Models, Neurological",
+    "Reaction Time",
+    "Neurons",
+    "Macaca mulatta",
+    "Action Potentials",
+    "Male",
+    "Behavior, Animal",
+    "Cues"
+  ]
+}

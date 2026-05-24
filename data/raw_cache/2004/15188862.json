@@ -1,0 +1,37 @@
+{
+  "pmid": "15188862",
+  "title": "Ascertaining the importance of neurons to develop better brain-machine interfaces.",
+  "abstract": "In the design of brain-machine interface (BMI) algorithms, the activity of hundreds of chronically recorded neurons is used to reconstruct a variety of kinematic variables. A significant problem introduced with the use of neural ensemble inputs for model building is the explosion in the number of free parameters. Large models not only affect model generalization but also put a computational burden on computing an optimal solution especially when the goal is to implement the BMI in low-power, portable hardware. In this paper, three methods are presented to quantitatively rate the importance of neurons in neural to motor mapping, using single neuron correlation analysis, sensitivity analysis through a vector linear model, and a model-independent cellular directional tuning analysis for comparisons purpose. Although, the rankings are not identical, up to sixty percent of the top 10 ranking cells were in common. This set can then be used to determine a reduced-order model whose performance is similar to that of the ensemble. It is further shown that by pruning the initial ensemble neural input with the ranked importance of cells, a reduced sets of cells (between 40 and 80, depending upon the methods) can be found that exceed the BMI performance levels of the full ensemble.",
+  "authors": [
+    "Sanchez Justin C",
+    "Carmena Jose M",
+    "Lebedev Mikhail A",
+    "Nicolelis Miguel A L",
+    "Harris John G",
+    "Principe Jose C"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Electroencephalography",
+    "Female",
+    "Hand",
+    "Likelihood Functions",
+    "Macaca",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Movement",
+    "Nerve Net",
+    "Neurons",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Signal Processing, Computer-Assisted",
+    "User-Computer Interface"
+  ]
+}

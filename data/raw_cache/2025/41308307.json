@@ -1,0 +1,24 @@
+{
+  "pmid": "41308307",
+  "title": "Predicting spiking activity from scalp EEG.",
+  "abstract": "<i>Objective.</i>Despite decades of electroencephalography (EEG) research, the relationship between EEG and underlying spiking dynamics remains unclear. This limits our ability to infer neural dynamics reflected in intracranial signals from EEG, a critical step to bridge electrophysiological findings across species and to develop non-invasive brain-machine interfaces (BMIs). In this study, we aimed to estimate spiking activity in the visual cortex using non-invasive scalp EEG.<i>Approach</i>. We recorded spiking activity from a 32-channel floating microarray permanently implanted in parafoveal V1 and scalp-EEG in a male macaque monkey. While the animal fixated, the screen flickered at different temporal frequencies to induce steady-state visual evoked potentials. We analyzed the relationship between the V1 multi-unit spiking activity envelope (MUAe) and EEG frequency bands to predict MUAe at each time point from EEG. We extracted instantaneous spectrotemporal features of the EEG signal, including phase, amplitude, and phase-amplitude coupling of its frequency bands.<i>Main results</i>. Although the relationship between these spectrotemporal features and the V1 MUAe was complex and frequency-dependent, they were reliably predictive of the MUAe. Specifically, in a linear regression predicting MUAe from EEG, each EEG feature (phase, amplitude, coupling) contributed to model predictions. In addition, we found that MUAe predictions were better in shallow than deep cortical layers, and that the phase of stimulus frequency further improved MUAe predictions.<i>Significance.</i>Our study shows that a comprehensive account of spectrotemporal features of non-invasive EEG provides information on underlying spiking activity beyond what is available when only the amplitude or phase of the EEG signal is considered. This demonstrates the richness of the EEG signal and its complex relationship with neural spiking activity and suggests that using more comprehensive spectrotemporal signatures could improve BMI applications.",
+  "authors": [
+    "Sharma Dixit",
+    "Krekelberg Bart"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2025",
+  "doi": "10.1088/1741-2552/ae2541",
+  "mesh": [
+    "Electroencephalography",
+    "Male",
+    "Animals",
+    "Scalp",
+    "Evoked Potentials, Visual",
+    "Visual Cortex",
+    "Macaca mulatta",
+    "Action Potentials",
+    "Photic Stimulation",
+    "Brain-Computer Interfaces"
+  ]
+}

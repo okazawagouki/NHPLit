@@ -1,0 +1,32 @@
+{
+  "pmid": "16899720",
+  "title": "The structure of multi-neuron firing patterns in primate retina.",
+  "abstract": "Current understanding of many neural circuits is limited by our ability to explore the vast number of potential interactions between different cells. We present a new approach that dramatically reduces the complexity of this problem. Large-scale multi-electrode recordings were used to measure electrical activity in nearly complete, regularly spaced mosaics of several hundred ON and OFF parasol retinal ganglion cells in macaque monkey retina. Parasol cells exhibited substantial pairwise correlations, as has been observed in other species, indicating functional connectivity. However, pairwise measurements alone are insufficient to determine the prevalence of multi-neuron firing patterns, which would be predicted from widely diverging common inputs and have been hypothesized to convey distinct visual messages to the brain. The number of possible multi-neuron firing patterns is far too large to study exhaustively, but this problem may be circumvented if two simple rules of connectivity can be established: (1) multi-cell firing patterns arise from multiple pairwise interactions, and (2) interactions are limited to adjacent cells in the mosaic. Using maximum entropy methods from statistical mechanics, we show that pairwise and adjacent interactions accurately accounted for the structure and prevalence of multi-neuron firing patterns, explaining approximately 98% of the departures from statistical independence in parasol cells and approximately 99% of the departures that were reproducible in repeated measurements. This approach provides a way to define limits on the complexity of network interactions and thus may be relevant for probing the function of many neural circuits.",
+  "authors": [
+    "Shlens Jonathon",
+    "Field Greg D",
+    "Gauthier Jeffrey L",
+    "Grivich Matthew I",
+    "Petrusca Dumitru",
+    "Sher Alexander",
+    "Litke Alan M",
+    "Chichilnisky E J"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cells, Cultured",
+    "Computer Simulation",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Nerve Net",
+    "Photic Stimulation",
+    "Retinal Ganglion Cells",
+    "Synaptic Transmission",
+    "Visual Fields",
+    "Visual Perception"
+  ]
+}

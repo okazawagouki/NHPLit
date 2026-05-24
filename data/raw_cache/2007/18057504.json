@@ -1,0 +1,30 @@
+{
+  "pmid": "18057504",
+  "title": "Prediction of upper limb muscle activity from motor cortical discharge during reaching.",
+  "abstract": "Movement representation by the motor cortex (M1) has been a theoretical interest for many years, but in the past several years it has become a more practical question, with the advent of the brain-machine interface. An increasing number of groups have demonstrated the ability to predict a variety of kinematic signals on the basis of M1 recordings and to use these predictions to control the movement of a cursor or robotic limb. We, on the other hand, have undertaken the prediction of myoelectric (EMG) signals recorded from various muscles of the arm and hand during button pressing and prehension movements. We have shown that these signals can be predicted with accuracy that is similar to that of kinematic signals, despite their stochastic nature and greater bandwidth. The predictions were made using a subset of 12 or 16 neural signals selected in the order of each signal's unique, output-related information content. The accuracy of the resultant predictions remained stable through a typical experimental session. Accuracy remained above 80% of its initial level for most muscles even across periods as long as two weeks. We are exploring the use of these predictions as control signals for neuromuscular electrical stimulation in quadriplegic patients.",
+  "authors": [
+    "Pohlmeyer Eric A",
+    "Solla Sara A",
+    "Perreault Eric J",
+    "Miller Lee E"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Electroencephalography",
+    "Electromyography",
+    "Evoked Potentials, Motor",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Motor Activity",
+    "Motor Cortex",
+    "Movement",
+    "Muscle Contraction",
+    "Muscle, Skeletal",
+    "Upper Extremity"
+  ]
+}

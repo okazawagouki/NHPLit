@@ -1,0 +1,18 @@
+{
+  "pmid": "26702394",
+  "title": "Towards real-time communication between <i>in vivo</i> neurophysiological data sources and simulator-based brain biomimetic models.",
+  "abstract": "Development of more sophisticated implantable brain-machine interface (BMI) will require both interpretation of the neurophysiological data being measured and subsequent determination of signals to be delivered back to the brain. Computational models are the heart of the machine of BMI and therefore an essential tool in both of these processes. One approach is to utilize brain biomimetic models (BMMs) to develop and instantiate these algorithms. These then must be connected as hybrid systems in order to interface the BMM with <i>in vivo</i> data acquisition devices and prosthetic devices. The combined system then provides a test bed for neuroprosthetic rehabilitative solutions and medical devices for the repair and enhancement of damaged brain. We propose here a computer network-based design for this purpose, detailing its internal modules and data flows. We describe a prototype implementation of the design, enabling interaction between the Plexon Multichannel Acquisition Processor (MAP) server, a commercial tool to collect signals from microelectrodes implanted in a live subject and a BMM, a NEURON-based model of sensorimotor cortex capable of controlling a virtual arm. The prototype implementation supports an online mode for real-time simulations, as well as an offline mode for data analysis and simulations without real-time constraints, and provides binning operations to discretize continuous input to the BMM and filtering operations for dealing with noise. Evaluation demonstrated that the implementation successfully delivered monkey spiking activity to the BMM through LAN environments, respecting real-time constraints.",
+  "authors": [
+    "Lee Giljae",
+    "Matsunaga Andréa",
+    "Dura-Bernal Salvador",
+    "Zhang Wenjie",
+    "Lytton William W",
+    "Francis Joseph T",
+    "Fortes José Ab"
+  ],
+  "journal": "Journal of computational surgery",
+  "year": "2014",
+  "doi": "",
+  "mesh": []
+}

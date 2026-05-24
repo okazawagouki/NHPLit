@@ -1,0 +1,30 @@
+{
+  "pmid": "33431673",
+  "title": "Unsupervised neural network models of the ventral visual stream.",
+  "abstract": "Deep neural networks currently provide the best quantitative models of the response patterns of neurons throughout the primate ventral visual stream. However, such networks have remained implausible as a model of the development of the ventral stream, in part because they are trained with supervised methods requiring many more labels than are accessible to infants during development. Here, we report that recent rapid progress in unsupervised learning has largely closed this gap. We find that neural network models learned with deep unsupervised contrastive embedding methods achieve neural prediction accuracy in multiple ventral visual cortical areas that equals or exceeds that of models derived using today's best supervised methods and that the mapping of these neural network models' hidden layers is neuroanatomically consistent across the ventral stream. Strikingly, we find that these methods produce brain-like representations even when trained solely with real human child developmental data collected from head-mounted cameras, despite the fact that these datasets are noisy and limited. We also find that semisupervised deep contrastive embeddings can leverage small numbers of labeled examples to produce representations with substantially improved error-pattern consistency to human behavior. Taken together, these results illustrate a use of unsupervised learning to provide a quantitative model of a multiarea cortical brain system and present a strong candidate for a biologically plausible computational theory of primate sensory learning.",
+  "authors": [
+    "Zhuang Chengxu",
+    "Yan Siming",
+    "Nayebi Aran",
+    "Schrimpf Martin",
+    "Frank Michael C",
+    "DiCarlo James J",
+    "Yamins Daniel L K"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2021",
+  "doi": "10.1073/pnas.2014196118",
+  "mesh": [
+    "Animals",
+    "Child",
+    "Datasets as Topic",
+    "Humans",
+    "Macaca",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Unsupervised Machine Learning",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "pmid": "24744725",
+  "title": "Deformation-specific and deformation-invariant visual object recognition: pose vs. identity recognition of people and deforming objects.",
+  "abstract": "When we see a human sitting down, standing up, or walking, we can recognize one of these poses independently of the individual, or we can recognize the individual person, independently of the pose. The same issues arise for deforming objects. For example, if we see a flag deformed by the wind, either blowing out or hanging languidly, we can usually recognize the flag, independently of its deformation; or we can recognize the deformation independently of the identity of the flag. We hypothesize that these types of recognition can be implemented by the primate visual system using temporo-spatial continuity as objects transform as a learning principle. In particular, we hypothesize that pose or deformation can be learned under conditions in which large numbers of different people are successively seen in the same pose, or objects in the same deformation. We also hypothesize that person-specific representations that are independent of pose, and object-specific representations that are independent of deformation and view, could be built, when individual people or objects are observed successively transforming from one pose or deformation and view to another. These hypotheses were tested in a simulation of the ventral visual system, VisNet, that uses temporal continuity, implemented in a synaptic learning rule with a short-term memory trace of previous neuronal activity, to learn invariant representations. It was found that depending on the statistics of the visual input, either pose-specific or deformation-specific representations could be built that were invariant with respect to individual and view; or that identity-specific representations could be built that were invariant with respect to pose or deformation and view. We propose that this is how pose-specific and pose-invariant, and deformation-specific and deformation-invariant, perceptual representations are built in the brain.",
+  "authors": [
+    "Webb Tristan J",
+    "Rolls Edmund T"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2014",
+  "doi": "10.3389/fncom.2014.00037",
+  "mesh": []
+}

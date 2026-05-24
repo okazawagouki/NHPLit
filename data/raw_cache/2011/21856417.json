@@ -1,0 +1,22 @@
+{
+  "pmid": "21856417",
+  "title": "Partial amplitude synchronization detection in brain signals using Bayesian Gaussian mixture models.",
+  "abstract": "The present work investigates instantaneous synchronization in multivariate signals. It introduces a new method to detect subsets of synchronized time series that do not consider any baseline information. The method is based on a Bayesian Gaussian mixture model applied at each location of a time-frequency map. The work assesses the relevance of detected subsets by a stability measure. The application to Local Field Potentials measured during a visuo-motor experiment in monkeys reveals a subset of synchronized time series measured in the visual cortex.",
+  "authors": [
+    "Rio Maxime",
+    "Hutt Axel",
+    "Munk Matthias",
+    "Girau Bernard"
+  ],
+  "journal": "Journal of physiology, Paris",
+  "year": "2011",
+  "doi": "10.1016/j.jphysparis.2011.07.018",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Haplorhini",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons"
+  ]
+}

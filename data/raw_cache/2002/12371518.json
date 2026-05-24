@@ -1,0 +1,22 @@
+{
+  "pmid": "12371518",
+  "title": "Simplified dynamics in a model of noradrenergic modulation of cognitive performance.",
+  "abstract": "Neurophysiological work in monkeys has shown that changes in tonic and stimulus-induced activity in the noradrenergic brainstem nucleus locus coeruleus (LC) are tightly correlated with fluctuations in behavioral performance in a visual discrimination task. Simulation work suggests transitions between observed modes of LC activity may be mediated by changes in the level of coherent firing among individual LC neurons. We have simplified this simulation by abstracting the LC to a simple, excitable system in two variables modeled after the FitzHugh-Nagumo relaxation oscillator. This abstracted LC simulates population-level dynamics of the nucleus relevant to its influence on behavior. Coherence within the nucleus was simulated as a single parameter which amplified external input to the abstracted LC while attenuating tonic, uncorrelated activity. Simulated results captured LC dynamics and their relationship with behavior observed in monkeys. Behavior was further simulated over a range of potential LC states not, as yet, directly observed. These results suggest a reverse sigmoidal relationship between false alarm rate and coherence, and a more complex, non-monotonic relationship between response time and coherence.",
+  "authors": [
+    "Gilzenrat Mark S",
+    "Holmes Benjamin D",
+    "Rajkowski Janusz",
+    "Aston-Jones Gary",
+    "Cohen Jonathan D"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cognition",
+    "Haplorhini",
+    "Models, Biological",
+    "Nonlinear Dynamics"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "pmid": "28066170",
+  "title": "An Improved Unscented Kalman Filter Based Decoder for Cortical Brain-Machine Interfaces.",
+  "abstract": "Brain-machine interfaces (BMIs) seek to connect brains with machines or computers directly, for application in areas such as prosthesis control. For this application, the accuracy of the decoding of movement intentions is crucial. We aim to improve accuracy by designing a better encoding model of primary motor cortical activity during hand movements and combining this with decoder engineering refinements, resulting in a new unscented Kalman filter based decoder, UKF2, which improves upon our previous unscented Kalman filter decoder, UKF1. The new encoding model includes novel acceleration magnitude, position-velocity interaction, and target-cursor-distance features (the decoder does not require target position as input, it is decoded). We add a novel probabilistic velocity threshold to better determine the user's intent to move. We combine these improvements with several other refinements suggested by others in the field. Data from two Rhesus monkeys indicate that the UKF2 generates offline reconstructions of hand movements (mean CC 0.851) significantly more accurately than the UKF1 (0.833) and the popular position-velocity Kalman filter (0.812). The encoding model of the UKF2 could predict the instantaneous firing rate of neurons (mean CC 0.210), given kinematic variables and past spiking, better than the encoding models of these two decoders (UKF1: 0.138, p-v Kalman: 0.098). In closed-loop experiments where each monkey controlled a computer cursor with each decoder in turn, the UKF2 facilitated faster task completion (mean 1.56 s vs. 2.05 s) and higher Fitts's Law bit rate (mean 0.738 bit/s vs. 0.584 bit/s) than the UKF1. These results suggest that the modeling and decoder engineering refinements of the UKF2 improve decoding performance. We believe they can be used to enhance other decoders as well.",
+  "authors": [
+    "Li Simin",
+    "Li Jie",
+    "Li Zheng"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2016",
+  "doi": "10.3389/fnins.2016.00587",
+  "mesh": []
+}

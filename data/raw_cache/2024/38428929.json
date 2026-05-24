@@ -1,0 +1,28 @@
+{
+  "pmid": "38428929",
+  "title": "Deep Learning for Face Detection and Pain Assessment in Japanese macaques (<i>Macaca fuscata</i>).",
+  "abstract": "Facial expressions have increasingly been used to assess emotional states in mammals. The recognition of pain in research animals is essential for their well-being and leads to more reliable research outcomes. Automating this process could contribute to early pain diagnosis and treatment. Artificial neural networks have become a popular option for image classification tasks in recent years due to the development of deep learning. In this study, we investigated the ability of a deep learning model to detect pain in Japanese macaques based on their facial expression. Thirty to 60 min of video footage from Japanese macaques undergoing laparotomy was used in the study. Macaques were recorded undisturbed in their cages before surgery (No Pain) and one day after the surgery before scheduled analgesia (Pain). Videos were processed for facial detection and image extraction with the algorithms RetinaFace (adding a bounding box around the face for image extraction) or Mask R-CNN (contouring the face for extraction). ResNet50 used 75% of the images to train systems; the other 25% were used for testing. Test accuracy varied from 48 to 54% after box extraction. The low accuracy of classification after box extraction was likely due to the incorporation of features that were not relevant for pain (for example, background, illumination, skin color, or objects in the enclosure). However, using contour extraction, preprocessing the images, and fine-tuning, the network resulted in 64% appropriate generalization. These results suggest that Mask R-CNN can be used for facial feature extractions and that the performance of the classifying model is relatively accurate for nonannotated single-frame images.",
+  "authors": [
+    "Gris Vanessa N",
+    "Crespo Thomás R",
+    "Kaneko Akihisa",
+    "Okamoto Munehiro",
+    "Suzuki Juri",
+    "Teramae Jun-Nosuke",
+    "Miyabe-Nishiwaki Takako"
+  ],
+  "journal": "Journal of the American Association for Laboratory Animal Science : JAALAS",
+  "year": "2024",
+  "doi": "10.30802/AALAS-JAALAS-23-000056",
+  "mesh": [
+    "Animals",
+    "Deep Learning",
+    "Facial Expression",
+    "Macaca fuscata",
+    "Pain Measurement",
+    "Male",
+    "Female",
+    "Video Recording",
+    "Image Processing, Computer-Assisted"
+  ]
+}

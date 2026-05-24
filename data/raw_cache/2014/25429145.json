@@ -1,0 +1,25 @@
+{
+  "pmid": "25429145",
+  "title": "Dynamic divisive normalization predicts time-varying value coding in decision-related circuits.",
+  "abstract": "Normalization is a widespread neural computation, mediating divisive gain control in sensory processing and implementing a context-dependent value code in decision-related frontal and parietal cortices. Although decision-making is a dynamic process with complex temporal characteristics, most models of normalization are time-independent and little is known about the dynamic interaction of normalization and choice. Here, we show that a simple differential equation model of normalization explains the characteristic phasic-sustained pattern of cortical decision activity and predicts specific normalization dynamics: value coding during initial transients, time-varying value modulation, and delayed onset of contextual information. Empirically, we observe these predicted dynamics in saccade-related neurons in monkey lateral intraparietal cortex. Furthermore, such models naturally incorporate a time-weighted average of past activity, implementing an intrinsic reference-dependence in value coding. These results suggest that a single network mechanism can explain both transient and sustained decision activity, emphasizing the importance of a dynamic view of normalization in neural coding.",
+  "authors": [
+    "Louie Kenway",
+    "LoFaro Thomas",
+    "Webb Ryan",
+    "Glimcher Paul W"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2014",
+  "doi": "10.1523/JNEUROSCI.2851-14.2014",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Decision Making",
+    "Forecasting",
+    "Macaca mulatta",
+    "Nerve Net",
+    "Photic Stimulation",
+    "Random Allocation",
+    "Reaction Time"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pmid": "36820790",
+  "title": "Estimating Intrinsic Manifold Dimensionality to Classify Task-Related Information in Human and Non-Human Primate Data.",
+  "abstract": "Feature selection, or dimensionality reduction, has become a standard step in reducing large-scale neural datasets into usable signals for brain-machine interface and neurofeedback decoders. Current techniques in fMRI data reduce the number of voxels (features) by performing statistics on individual voxels or using traditional techniques that utilize linear combinations of features (e.g., principal component analysis (PCA)). However, these methods often do not account for the cross-correlations found across voxels and do not sufficiently reduce the feature space to support efficient real-time feedback. To overcome these limitations, we propose using factor analysis on fMRI data. This technique has become increasingly popular for extracting a minimal number of latent features to explain high-dimensional data in non-human primates (NHPs). Here, we demonstrate these methods in both NHP and human data. In NHP subjects (n=2), we reduced the number of features to an average of 26.86% and 14.86% of the total feature space to build our multinomial classifier. In one NHP subject, the average accuracy of classifying eight target locations over 64 sessions was 62.43% (+/-6.19%) compared to a PCA-based classifier with 60.26% (+/-6.02%). In healthy fMRI subjects, we reduced the feature space to an average of 0.33% of the initial space. Group average (n=5) accuracy of FA-based category classification was 74.33% (+/- 4.91%) compared to a PCA-based classifier with 68.42% (+/-4.79%). FA-based classifiers can maintain the performance fidelity observed with PCA-based decoders. Importantly, FA-based methods allow researchers to address specific hypotheses about how underlying neural activity relates to behavior.",
+  "authors": [
+    "Bretton-Granatoor Zachary",
+    "Stealey Hannah",
+    "Santacruz Samantha R",
+    "Lewis-Peacock Jarrod A"
+  ],
+  "journal": "IEEE Biomedical Circuits and Systems Conference : healthcare technology : [proceedings]. IEEE Biomedical Circuits and Systems Conference",
+  "year": "2022",
+  "doi": "10.1109/BioCAS54905.2022.9948604",
+  "mesh": []
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "41542478",
+  "title": "High performance sorting of motor unit action potentials with EMUsort.",
+  "abstract": "Understanding how neural signals control muscle activity during behavior is a key challenge in motor neuroscience. To this end, recent advances in intramuscular multielectrode arrays have enabled high-quality multichannel recordings of many motor unit action potentials (MUAPs) in freely moving subjects. However, identifying individual MUAP events within multichannel recordings is a significant challenge for existing spike sorting methods, which are typically optimized for identifying action potentials from neurons in the brain. To overcome this challenge, we developed the Enhanced Motor Unit sorter (EMUsort), an extension of Kilosort4 (KS4) that achieves high-performance MUAP spike sorting. We applied EMUsort to high-resolution intramuscular recordings from rat forelimb during locomotion and monkey forelimb during a reaching task. EMUsort improves upon prior methods by addressing key challenges encountered with MUAP datasets, including: 1) long time delays across electrodes due to propagation along muscle fibers, 2) more complex waveform shapes compared to neuronal action potentials, and 3) a high degree of MUAP overlap due to cumulative motor unit recruitment. We compared EMUsort to existing spike sorting methods quantitatively using simulated datasets that closely emulated the rat and monkey datasets we recorded. EMUsort provided median error rate reductions of 67.5% and 49.9% during periods of high motor unit activation for the rat and monkey datasets, respectively. In sum, EMUsort provides a substantial improvement to MUAP spike sorter accuracy, especially during regions of high MUAP overlap, in an easy-to-use software package.",
+  "authors": [
+    "O'Connell Sean",
+    "Michaels Jonathan A",
+    "Wang Runming",
+    "Mamidipaka Sahit",
+    "Venkatesh Manikandan",
+    "Aresh Nevin",
+    "Pachitariu Marius",
+    "Pruszynski J Andrew",
+    "Sober Samuel J",
+    "Pandarinath Chethan"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2026",
+  "doi": "10.64898/2026.01.06.697952",
+  "mesh": []
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "31792466",
+  "title": "Binocular viewing geometry shapes the neural representation of the dynamic three-dimensional environment.",
+  "abstract": "Sensory signals give rise to patterns of neural activity, which the brain uses to infer properties of the environment. For the visual system, considerable work has focused on the representation of frontoparallel stimulus features and binocular disparities. However, inferring the properties of the physical environment from retinal stimulation is a distinct and more challenging computational problem-this is what the brain must actually accomplish to support perception and action. Here we develop a computational model that incorporates projective geometry, mapping the three-dimensional (3D) environment onto the two retinae. We demonstrate that this mapping fundamentally shapes the tuning of cortical neurons and corresponding aspects of perception. For 3D motion, the model explains the strikingly non-canonical tuning present in existing electrophysiological data and distinctive patterns of perceptual errors evident in human behavior. Decoding the world from cortical activity is strongly affected by the geometry that links the environment to the sensory epithelium.",
+  "authors": [
+    "Bonnen Kathryn",
+    "Czuba Thaddeus B",
+    "Whritner Jake A",
+    "Kohn Adam",
+    "Huk Alexander C",
+    "Cormack Lawrence K"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2020",
+  "doi": "10.1038/s41593-019-0544-7",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Computer Simulation",
+    "Depth Perception",
+    "Humans",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motion Perception",
+    "Retina",
+    "Visual Perception"
+  ]
+}

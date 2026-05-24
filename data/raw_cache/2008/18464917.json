@@ -1,0 +1,25 @@
+{
+  "pmid": "18464917",
+  "title": "Short-term memory trace in rapidly adapting synapses of inferior temporal cortex.",
+  "abstract": "Visual short-term memory tasks depend upon both the inferior temporal cortex (ITC) and the prefrontal cortex (PFC). Activity in some neurons persists after the first (sample) stimulus is shown. This delay-period activity has been proposed as an important mechanism for working memory. In ITC neurons, intervening (nonmatching) stimuli wipe out the delay-period activity; hence, the role of ITC in memory must depend upon a different mechanism. Here, we look for a possible mechanism by contrasting memory effects in two architectonically different parts of ITC: area TE and the perirhinal cortex. We found that a large proportion (80%) of stimulus-selective neurons in area TE of macaque ITCs exhibit a memory effect during the stimulus interval. During a sequential delayed matching-to-sample task (DMS), the noise in the neuronal response to the test image was correlated with the noise in the neuronal response to the sample image. Neurons in perirhinal cortex did not show this correlation. These results led us to hypothesize that area TE contributes to short-term memory by acting as a matched filter. When the sample image appears, each TE neuron captures a static copy of its inputs by rapidly adjusting its synaptic weights to match the strength of their individual inputs. Input signals from subsequent images are multiplied by those synaptic weights, thereby computing a measure of the correlation between the past and present inputs. The total activity in area TE is sufficient to quantify the similarity between the two images. This matched filter theory provides an explanation of what is remembered, where the trace is stored, and how comparison is done across time, all without requiring delay period activity. Simulations of a matched filter model match the experimental results, suggesting that area TE neurons store a synaptic memory trace during short-term visual memory.",
+  "authors": [
+    "Sugase-Miyamoto Yasuko",
+    "Liu Zheng",
+    "Wiener Matthew C",
+    "Optican Lance M",
+    "Richmond Barry J"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2008",
+  "doi": "10.1371/journal.pcbi.1000073",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Memory, Short-Term",
+    "Neurons",
+    "Reaction Time",
+    "Synapses",
+    "Temporal Lobe",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "21068271",
+  "title": "Removal of spurious correlations between spikes and local field potentials.",
+  "abstract": "Single neurons carry out important sensory and motor functions related to the larger networks in which they are embedded. Understanding the relationships between single-neuron spiking and network activity is therefore of great importance and the latter can be readily estimated from low-frequency brain signals known as local field potentials (LFPs). In this work we examine a number of issues related to the estimation of spike and LFP signals. We show that spike trains and individual spikes contain power at the frequencies that are typically thought to be exclusively related to LFPs, such that simple frequency-domain filtering cannot be effectively used to separate the two signals. Ground-truth simulations indicate that the commonly used method of estimating the LFP signal by low-pass filtering the raw voltage signal leads to artifactual correlations between spikes and LFPs and that these correlations exert a powerful influence on popular metrics of spike-LFP synchronization. Similar artifactual results were seen in data obtained from electrophysiological recordings in macaque visual cortex, when low-pass filtering was used to estimate LFP signals. In contrast LFP tuning curves in response to sensory stimuli do not appear to be affected by spike contamination, either in simulations or in real data. To address the issue of spike contamination, we devised a novel Bayesian spike removal algorithm and confirmed its effectiveness in simulations and by applying it to the electrophysiological data. The algorithm, based on a rigorous mathematical framework, outperforms other methods of spike removal on most metrics of spike-LFP correlations. Following application of this spike removal algorithm, many of our electrophysiological recordings continued to exhibit spike-LFP correlations, confirming previous reports that such relationships are a genuine aspect of neuronal activity. Overall, these results show that careful preprocessing is necessary to remove spikes from LFP signals, but that when effective spike removal is used, spike-LFP correlations can potentially yield novel insights about brain function.",
+  "authors": [
+    "Zanos Theodoros P",
+    "Mineault Patrick J",
+    "Pack Christopher C"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2011",
+  "doi": "10.1152/jn.00642.2010",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Electrophysiological Phenomena",
+    "Evoked Potentials, Visual",
+    "Macaca mulatta",
+    "Models, Animal",
+    "Nerve Net",
+    "Visual Cortex"
+  ]
+}

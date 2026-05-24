@@ -1,0 +1,26 @@
+{
+  "pmid": "30655347",
+  "title": "Adaptive, locally linear models of complex dynamics.",
+  "abstract": "The dynamics of complex systems generally include high-dimensional, nonstationary, and nonlinear behavior, all of which pose fundamental challenges to quantitative understanding. To address these difficulties, we detail an approach based on local linear models within windows determined adaptively from data. While the dynamics within each window are simple, consisting of exponential decay, growth, and oscillations, the collection of local parameters across all windows provides a principled characterization of the full time series. To explore the resulting model space, we develop a likelihood-based hierarchical clustering, and we examine the eigenvalues of the linear dynamics. We demonstrate our analysis with the Lorenz system undergoing stable spiral dynamics and in the standard chaotic regime. Applied to the posture dynamics of the nematode <i>Caenorhabditis elegans</i>, our approach identifies fine-grained behavioral states and model dynamics which fluctuate about an instability boundary, and we detail a bifurcation in a transition from forward to backward crawling. We analyze whole-brain imaging in <i>C. elegans</i> and show that global brain dynamics is damped away from the instability boundary by a decrease in oxygen concentration. We provide additional evidence for such near-critical dynamics from the analysis of electrocorticography in monkey and the imaging of a neural population from mouse visual cortex at single-cell resolution.",
+  "authors": [
+    "Costa Antonio C",
+    "Ahamed Tosif",
+    "Stephens Greg J"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2019",
+  "doi": "10.1073/pnas.1813476116",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Brain",
+    "Caenorhabditis elegans",
+    "Cluster Analysis",
+    "Haplorhini",
+    "Likelihood Functions",
+    "Linear Models",
+    "Mice",
+    "Models, Neurological",
+    "Oxygen"
+  ]
+}

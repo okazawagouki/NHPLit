@@ -1,0 +1,29 @@
+{
+  "pmid": "17604650",
+  "title": "Comparison of fiber tracts derived from in-vivo DTI tractography with 3D histological neural tract tracer reconstruction on a macaque brain.",
+  "abstract": "Since the introduction of diffusion weighted imaging (DWI) as a method for examining neural connectivity, its accuracy has not been formally evaluated. In this study, we directly compared connections that were visualized using injected neural tract tracers (WGA-HRP) with those obtained using in-vivo diffusion tensor imaging (DTI) tractography. First, we injected the tracer at multiple sites in the brain of a macaque monkey; second, we reconstructed the histological sections of the labeled fiber tracts in 3D; third, we segmented and registered the fibers (somatosensory and motor tracts) with the anatomical in-vivo MRI from the same animal; and last, we conducted fiber tracing along the same pathways on the DTI data using a classical diffusion tracing technique with the injection sites as seeds. To evaluate the performance of DTI fiber tracing, we compared the fibers derived from the DTI tractography with those segmented from the histology. We also studied the influence of the parameters controlling the tractography by comparing Dice superimposition coefficients between histology and DTI segmentations. While there was generally good visual agreement between the two methods, our quantitative comparisons reveal certain limitations of DTI tractography, particularly for regions at remote locations from seeds. We have thus demonstrated the importance of appropriate settings for realistic tractography results.",
+  "authors": [
+    "Dauguet Julien",
+    "Peled Sharon",
+    "Berezovskii Vladimir",
+    "Delzescaux Thierry",
+    "Warfield Simon K",
+    "Born Richard",
+    "Westin Carl-Fredrik"
+  ],
+  "journal": "NeuroImage",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Anisotropy",
+    "Brain",
+    "Diffusion Magnetic Resonance Imaging",
+    "Image Processing, Computer-Assisted",
+    "Imaging, Three-Dimensional",
+    "Immunohistochemistry",
+    "Macaca",
+    "Nerve Fibers",
+    "Neural Pathways"
+  ]
+}

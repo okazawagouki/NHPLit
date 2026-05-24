@@ -1,0 +1,15 @@
+{
+  "pmid": "40336515",
+  "title": "Contrastive-Equivariant Self-Supervised Learning Improves Alignment with Primate Visual Area IT.",
+  "abstract": "Models trained with self-supervised learning objectives have recently matched or surpassed models trained with traditional supervised object recognition in their ability to predict neural responses of object-selective neurons in the primate visual system. A self-supervised learning objective is arguably a more biologically plausible organizing principle, as the optimization does not require a large number of labeled examples. However, typical self-supervised objectives may result in network representations that are overly invariant to changes in the input. Here, we show that a representation with structured variability to input transformations is better aligned with known features of visual perception and neural computation. We introduce a novel framework for converting standard invariant SSL losses into \"contrastive-equivariant\" versions that encourage preservation of input transformations without supervised access to the transformation parameters. We demonstrate that our proposed method systematically increases the ability of models to predict responses in macaque inferior temporal cortex. Our results demonstrate the promise of incorporating known features of neural computation into task-optimization for building better models of visual cortex.",
+  "authors": [
+    "Yerxa Thomas",
+    "Feather Jenelle",
+    "Simoncelli Eero P",
+    "Chung SueYeon"
+  ],
+  "journal": "Advances in neural information processing systems",
+  "year": "2024",
+  "doi": "",
+  "mesh": []
+}

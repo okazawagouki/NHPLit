@@ -1,0 +1,21 @@
+{
+  "pmid": "20107500",
+  "title": "Modeling the emergence of whisker direction maps in rat barrel cortex.",
+  "abstract": "Based on measuring responses to rat whiskers as they are mechanically stimulated, one recent study suggests that barrel-related areas in layer 2/3 rat primary somatosensory cortex (S1) contain a pinwheel map of whisker motion directions. Because this map is reminiscent of topographic organization for visual direction in primary visual cortex (V1) of higher mammals, we asked whether the S1 pinwheels could be explained by an input-driven developmental process as is often suggested for V1. We developed a computational model to capture how whisker stimuli are conveyed to supragranular S1, and simulate lateral cortical interactions using an established self-organizing algorithm. Inputs to the model each represent the deflection of a subset of 25 whiskers as they are contacted by a moving stimulus object. The subset of deflected whiskers corresponds with the shape of the stimulus, and the deflection direction corresponds with the movement direction of the stimulus. If these two features of the inputs are correlated during the training of the model, a somatotopically aligned map of direction emerges for each whisker in S1. Predictions of the model that are immediately testable include (1) that somatotopic pinwheel maps of whisker direction exist in adult layer 2/3 barrel cortex for every large whisker on the rat's face, even peripheral whiskers; and (2) in the adult, neurons with similar directional tuning are interconnected by a network of horizontal connections, spanning distances of many whisker representations. We also propose specific experiments for testing the predictions of the model by manipulating patterns of whisker inputs experienced during early development. The results suggest that similar intracortical mechanisms guide the development of primate V1 and rat S1.",
+  "authors": [
+    "Wilson Stuart P",
+    "Law Judith S",
+    "Mitchinson Ben",
+    "Prescott Tony J",
+    "Bednar James A"
+  ],
+  "journal": "PloS one",
+  "year": "2010",
+  "doi": "10.1371/journal.pone.0008778",
+  "mesh": [
+    "Animals",
+    "Rats",
+    "Somatosensory Cortex",
+    "Vibrissae"
+  ]
+}

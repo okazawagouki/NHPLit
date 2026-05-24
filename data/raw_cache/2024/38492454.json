@@ -1,0 +1,24 @@
+{
+  "pmid": "38492454",
+  "title": "Convolutional neural networks reveal properties of reach-to-grasp encoding in posterior parietal cortex.",
+  "abstract": "Deep neural networks (DNNs) are widely adopted to decode motor states from both non-invasively and invasively recorded neural signals, e.g., for realizing brain-computer interfaces. However, the neurophysiological interpretation of how DNNs make the decision based on the input neural activity is limitedly addressed, especially when applied to invasively recorded data. This reduces decoder reliability and transparency, and prevents the exploitation of decoders to better comprehend motor neural encoding. Here, we adopted an explainable artificial intelligence approach - based on a convolutional neural network and an explanation technique - to reveal spatial and temporal neural properties of reach-to-grasping from single-neuron recordings of the posterior parietal area V6A. The network was able to accurately decode 5 different grip types, and the explanation technique automatically identified the cells and temporal samples that most influenced the network prediction. Grip encoding in V6A neurons already started at movement preparation, peaking during movement execution. A difference was found within V6A: dorsal V6A neurons progressively encoded more for increasingly advanced grips, while ventral V6A neurons for increasingly rudimentary grips, with both subareas following a linear trend between the amount of grip encoding and the level of grip skills. By revealing the elements of the neural activity most relevant for each grip with no a priori assumptions, our approach supports and advances current knowledge about reach-to-grasp encoding in V6A, and it may represent a general tool able to investigate neural correlates of motor or cognitive tasks (e.g., attention and memory tasks) from single-neuron recordings.",
+  "authors": [
+    "Borra Davide",
+    "Filippini Matteo",
+    "Ursino Mauro",
+    "Fattori Patrizia",
+    "Magosso Elisa"
+  ],
+  "journal": "Computers in biology and medicine",
+  "year": "2024",
+  "doi": "10.1016/j.compbiomed.2024.108188",
+  "mesh": [
+    "Artificial Intelligence",
+    "Reproducibility of Results",
+    "Psychomotor Performance",
+    "Parietal Lobe",
+    "Neural Networks, Computer",
+    "Hand Strength",
+    "Movement"
+  ]
+}

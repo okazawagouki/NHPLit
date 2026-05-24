@@ -1,0 +1,20 @@
+{
+  "pmid": "9307139",
+  "title": "Model with distributed vectorial premotor bursters accounts for the component stretching of oblique saccades.",
+  "abstract": "During oblique saccades, the durations of the horizontal and vertical components are stretched until they are approximately equal. Models of the saccadic system have been proposed that provide a mechanism for that stretching. However, they fail to simulate the pattern of activity recorded from premotor medium lead burst neurons (MLBNs) in the brain stem. A new model of the saccadic system is proposed that accounts for both the component stretching of oblique movements and the pattern of activity recorded in MLBNs. MLBNs that project to horizontal (or vertical) motoneurons actually have a wide span of on-directions (the direction associated with the largest discharge) around the cardinal direction. We infer from the wide span of their on-directions that, at the level of individual MLBNs, the vectorial signal present in spatially organized structures (e.g., the superior colliculus) is not decomposed into the separate horizontal and vertical components represented by the motoneurons. Nonetheless, all prior models of the saccadic system have decomposed the vectorial premotor command into horizontal and vertical commands at the level of the MLBNs. That decomposition was explicit, because individual MLBNs, with a sine- or cosine-shaped directional tuning curve, were used. We propose here that the decomposition into horizontal and vertical commands is carried out only at the level of the motoneurons. This decomposition is implicit, because no single MLBN encodes the horizontal or vertical command; the command only exists implicitly in the activity of the population of MLBNs. The new vectorial burster model correctly simulates the pattern of activity recorded in primate MLBNs, and the components of its oblique saccades are stretched. Two mechanisms contribute to this stretching: the distribution of MLBN tuning curves and the inhibition exerted by the contralateral population of MLBNs. In contrast, feedback control of the saccade contributes negligibly to the stretching. Even though the vectorial burster model predicts a component stretching, it is not constrained to produce perfectly straight oblique saccades because no trajectory control is implemented. The amount of curvature depends on the similarity of the horizontal and vertical systems (both neural and mechanical). In this model, stretching is interpreted simply as a side effect of the properties of the MLBNs' tuning curves. The distributed MLBNs of the vectorial burster model forces the general organization of the saccadic system to be reconsidered. We propose that a distributed architecture in which several different neural systems cooperate is needed.",
+  "authors": [
+    "Quaia C",
+    "Optican L M"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1997",
+  "doi": "",
+  "mesh": [
+    "Computer Simulation",
+    "Models, Neurological",
+    "Motor Neurons",
+    "Respiratory Burst",
+    "Saccades",
+    "Superior Colliculi"
+  ]
+}

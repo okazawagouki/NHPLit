@@ -1,0 +1,34 @@
+{
+  "pmid": "33339834",
+  "title": "Optimization and validation of diffusion MRI-based fiber tracking with neural tracer data as a reference.",
+  "abstract": "Diffusion-weighted magnetic resonance imaging (dMRI) allows non-invasive investigation of whole-brain connectivity, which can reveal the brain's global network architecture and also abnormalities involved in neurological and mental disorders. However, the reliability of connection inferences from dMRI-based fiber tracking is still debated, due to low sensitivity, dominance of false positives, and inaccurate and incomplete reconstruction of long-range connections. Furthermore, parameters of tracking algorithms are typically tuned in a heuristic way, which leaves room for manipulation of an intended result. Here we propose a general data-driven framework to optimize and validate parameters of dMRI-based fiber tracking algorithms using neural tracer data as a reference. Japan's Brain/MINDS Project provides invaluable datasets containing both dMRI and neural tracer data from the same primates. A fundamental difference when comparing dMRI-based tractography and neural tracer data is that the former cannot specify the direction of connectivity; therefore, evaluating the fitting of dMRI-based tractography becomes challenging. The framework implements multi-objective optimization based on the non-dominated sorting genetic algorithm II. Its performance is examined in two experiments using data from ten subjects for optimization and six for testing generalization. The first uses a seed-based tracking algorithm, iFOD2, and objectives for sensitivity and specificity of region-level connectivity. The second uses a global tracking algorithm and a more refined set of objectives: distance-weighted coverage, true/false positive ratio, projection coincidence, and commissural passage. In both experiments, with optimized parameters compared to default parameters, fiber tracking performance was significantly improved in coverage and fiber length. Improvements were more prominent using global tracking with refined objectives, achieving an average fiber length from 10 to 17 mm, voxel-wise coverage of axonal tracts from 0.9 to 15%, and the correlation of target areas from 40 to 68%, while minimizing false positives and impossible cross-hemisphere connections. Optimized parameters showed good generalization capability for test brain samples in both experiments, demonstrating the flexible applicability of our framework to different tracking algorithms and objectives. These results indicate the importance of data-driven adjustment of fiber tracking algorithms and support the validity of dMRI-based tractography, if appropriate adjustments are employed.",
+  "authors": [
+    "Gutierrez Carlos Enrique",
+    "Skibbe Henrik",
+    "Nakae Ken",
+    "Tsukada Hiromichi",
+    "Lienard Jean",
+    "Watakabe Akiya",
+    "Hata Junichi",
+    "Reisert Marco",
+    "Woodward Alexander",
+    "Yamaguchi Yoko",
+    "Yamamori Tetsuo",
+    "Okano Hideyuki",
+    "Ishii Shin",
+    "Doya Kenji"
+  ],
+  "journal": "Scientific reports",
+  "year": "2020",
+  "doi": "10.1038/s41598-020-78284-4",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Connectome",
+    "Databases, Factual",
+    "Diffusion Tensor Imaging",
+    "Humans",
+    "Neural Pathways",
+    "White Matter"
+  ]
+}

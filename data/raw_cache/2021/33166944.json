@@ -1,0 +1,34 @@
+{
+  "pmid": "33166944",
+  "title": "SpikeDeep-classifier: a deep-learning based fully automatic offline spike sorting algorithm.",
+  "abstract": "<i>Objective.</i>Advancements in electrode design have resulted in micro-electrode arrays with hundreds of channels for single cell recordings. In the resulting electrophysiological recordings, each implanted electrode can record spike activity (SA) of one or more neurons along with background activity (BA). The aim of this study is to isolate SA of each neural source. This process is called spike sorting or spike classification. Advanced spike sorting algorithms are time consuming because of the human intervention at various stages of the pipeline. Current approaches lack generalization because the values of hyperparameters are not fixed, even for multiple recording sessions of the same subject. In this study, a fully automatic spike sorting algorithm called 'SpikeDeep-Classifier' is proposed. The values of hyperparameters remain fixed for all the evaluation data.<i>Approach.</i>The proposed approach is based on our previous study (SpikeDeeptector) and a novel background activity rejector (BAR), which are both supervised learning algorithms and an unsupervised learning algorithm (K-means). SpikeDeeptector and BAR are used to extract meaningful channels and remove BA from the extracted meaningful channels, respectively. The process of clustering becomes straight-forward once the BA is completely removed from the data. Then, K-means with a predefined maximum number of clusters is applied on the remaining data originating from neural sources only. Lastly, a similarity-based criterion and a threshold are used to keep distinct clusters and merge similar looking clusters. The proposed approach is called cluster accept or merge (CAOM) and it has only two hyperparameters (maximum number of clusters and similarity threshold) which are kept fixed for all the evaluation data after tuning.<i>Main results.</i>We compared the results of our algorithm with ground-truth labels. The algorithm is evaluated on data of human patients and publicly available labeled non-human primates (NHPs) datasets. The average accuracy of BAR on datasets of human patients is 92.3% which is further reduced to 88.03% after (K-means + CAOM). In addition, the average accuracy of BAR on a publicly available labeled dataset of NHPs is 95.40% which reduces to 86.95% after (K-mean + CAOM). Lastly, we compared the performance of the SpikeDeep-Classifier with two human experts, where SpikeDeep-Classifier has produced comparable results.<i>Significance.</i>The SpikeDeep-Classifier is evaluated on the datasets of multiple recording sessions of different species, different brain areas and different electrode types without further retraining. The results demonstrate that 'SpikeDeep-Classifier' possesses the ability to generalize well on a versatile dataset and henceforth provides a generalized and fully automated solution to offline spike sorting.<b>Clinical trial registration number</b>The clinical trial registration number for patients implanted with the Utah array is<b>NCT 01849822.</b>For the epilepsy patients, approval from the local ethics committee at the Ruhr-University Bochum, Germany, was obtained prior to implantation. The Clinical trial registration number for the epilepsy patients implanted with microwires is<b>16-5670</b>.",
+  "authors": [
+    "Saif-Ur-Rehman Muhammad",
+    "Ali Omair",
+    "Dyck Susanne",
+    "Lienkämper Robin",
+    "Metzler Marita",
+    "Parpaley Yaroslav",
+    "Wellmer Jörg",
+    "Liu Charles",
+    "Lee Brian",
+    "Kellis Spencer",
+    "Andersen Richard",
+    "Iossifidis Ioannis",
+    "Glasmachers Tobias",
+    "Klaes Christian"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2021",
+  "doi": "10.1088/1741-2552/abc8d4",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Deep Learning",
+    "Electrodes, Implanted",
+    "Humans",
+    "Neurons",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

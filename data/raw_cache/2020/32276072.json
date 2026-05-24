@@ -1,0 +1,42 @@
+{
+  "pmid": "32276072",
+  "title": "Towards HCP-Style macaque connectomes: 24-Channel 3T multi-array coil, MRI sequences and preprocessing.",
+  "abstract": "Macaque monkeys are an important animal model where invasive investigations can lead to a better understanding of the cortical organization of primates including humans. However, the tools and methods for noninvasive image acquisition (e.g. MRI RF coils and pulse sequence protocols) and image data preprocessing have lagged behind those developed for humans. To resolve the structural and functional characteristics of the smaller macaque brain, high spatial, temporal, and angular resolutions combined with high signal-to-noise ratio are required to ensure good image quality. To address these challenges, we developed a macaque 24-channel receive coil for 3-T MRI with parallel imaging capabilities. This coil enables adaptation of the Human Connectome Project (HCP) image acquisition protocols to the in-vivo macaque brain. In addition, we adapted HCP preprocessing methods to the macaque brain, including spatial minimal preprocessing of structural, functional MRI (fMRI), and diffusion MRI (dMRI). The coil provides the necessary high signal-to-noise ratio and high efficiency in data acquisition, allowing four- and five-fold accelerations for dMRI and fMRI. Automated FreeSurfer segmentation of cortex, reconstruction of cortical surface, removal of artefacts and nuisance signals in fMRI, and distortion correction of dMRI all performed well, and the overall quality of basic neurobiological measures was comparable with those for the HCP. Analyses of functional connectivity in fMRI revealed high sensitivity as compared with those from publicly shared datasets. Tractography-based connectivity estimates correlated with tracer connectivity similarly to that achieved using ex-vivo dMRI. The resulting HCP-style in vivo macaque MRI data show considerable promise for analyzing cortical architecture and functional and structural connectivity using advanced methods that have previously only been available in studies of the human brain.",
+  "authors": [
+    "Autio Joonas A",
+    "Glasser Matthew F",
+    "Ose Takayuki",
+    "Donahue Chad J",
+    "Bastiani Matteo",
+    "Ohno Masahiro",
+    "Kawabata Yoshihiko",
+    "Urushibata Yuta",
+    "Murata Katsutoshi",
+    "Nishigori Kantaro",
+    "Yamaguchi Masataka",
+    "Hori Yuki",
+    "Yoshida Atsushi",
+    "Go Yasuhiro",
+    "Coalson Timothy S",
+    "Jbabdi Saad",
+    "Sotiropoulos Stamatios N",
+    "Kennedy Henry",
+    "Smith Stephen",
+    "Van Essen David C",
+    "Hayashi Takuya"
+  ],
+  "journal": "NeuroImage",
+  "year": "2020",
+  "doi": "10.1016/j.neuroimage.2020.116800",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Connectome",
+    "Image Processing, Computer-Assisted",
+    "Macaca fascicularis",
+    "Macaca fuscata",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Neural Pathways"
+  ]
+}

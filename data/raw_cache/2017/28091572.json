@@ -1,0 +1,30 @@
+{
+  "pmid": "28091572",
+  "title": "A computational psychiatry approach identifies how alpha-2A noradrenergic agonist Guanfacine affects feature-based reinforcement learning in the macaque.",
+  "abstract": "Noradrenaline is believed to support cognitive flexibility through the alpha 2A noradrenergic receptor (a2A-NAR) acting in prefrontal cortex. Enhanced flexibility has been inferred from improved working memory with the a2A-NA agonist Guanfacine. But it has been unclear whether Guanfacine improves specific attention and learning mechanisms beyond working memory, and whether the drug effects can be formalized computationally to allow single subject predictions. We tested and confirmed these suggestions in a case study with a healthy nonhuman primate performing a feature-based reversal learning task evaluating performance using Bayesian and Reinforcement learning models. In an initial dose-testing phase we found a Guanfacine dose that increased performance accuracy, decreased distractibility and improved learning. In a second experimental phase using only that dose we examined the faster feature-based reversal learning with Guanfacine with single-subject computational modeling. Parameter estimation suggested that improved learning is not accounted for by varying a single reinforcement learning mechanism, but by changing the set of parameter values to higher learning rates and stronger suppression of non-chosen over chosen feature information. These findings provide an important starting point for developing nonhuman primate models to discern the synaptic mechanisms of attention and learning functions within the context of a computational neuropsychiatry framework.",
+  "authors": [
+    "Hassani S A",
+    "Oemisch M",
+    "Balcarras M",
+    "Westendorff S",
+    "Ardid S",
+    "van der Meer M A",
+    "Tiesinga P",
+    "Womelsdorf T"
+  ],
+  "journal": "Scientific reports",
+  "year": "2017",
+  "doi": "10.1038/srep40606",
+  "mesh": [
+    "Adrenergic alpha-2 Receptor Agonists",
+    "Animals",
+    "Cognition",
+    "Guanfacine",
+    "Learning",
+    "Macaca mulatta",
+    "Models, Psychological",
+    "Psychiatry",
+    "Reinforcement, Psychology",
+    "Task Performance and Analysis"
+  ]
+}

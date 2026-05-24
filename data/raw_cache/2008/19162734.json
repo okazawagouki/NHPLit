@@ -1,0 +1,32 @@
+{
+  "pmid": "19162734",
+  "title": "The use of a virtual integration environment for the real-time implementation of neural decode algorithms.",
+  "abstract": "We have developed a virtual integration environment (VIE) for the development of neural prosthetic systems. This paper, the second of two companion articles, describes the use of the VIE as a common platform for the implementation of neural decode algorithms. In this paper, a linear filter decode and a recursive Bayesian algorithm are implemented as separate signal analysis modules of the VIE for the real-time decode of end effector trajectory. The process of implementing each algorithm is described and the real-time behavior as well as computational cost for each algorithm is examined. This is the first report of the real-time implementation of the Mixture of Trajectory Models decode [10]. These real-time algorithms can be easily interfaced with pre-existing modules of the VIE to control simulated and real devices.",
+  "authors": [
+    "Bishop William",
+    "Yu Byron M",
+    "Santhanam Gopal",
+    "Afshar Afsheen",
+    "Ryu Stephen I",
+    "Shenoy Krishna V",
+    "Vogelstein R Jacob",
+    "Beaty James",
+    "Harshbarger Stuart"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2008",
+  "doi": "10.1109/IEMBS.2008.4649231",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Electroencephalography",
+    "Evoked Potentials, Motor",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Pattern Recognition, Automated",
+    "Signal Processing, Computer-Assisted",
+    "Systems Integration",
+    "User-Computer Interface"
+  ]
+}

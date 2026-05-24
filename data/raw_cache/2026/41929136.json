@@ -1,0 +1,16 @@
+{
+  "pmid": "41929136",
+  "title": "A Bidirectional Neural Interface With Direct On-Device Neuromorphic Decoding for Closed-Loop Optogenetics.",
+  "abstract": "Bidirectional interfaces combined with neural decoding algorithms are essential for closed-loop (CL) neuromodulation, enabling simultaneous neural monitoring and responsive optogenetic stimulation. However, implementing these capabilities in compact wireless headstages for freely moving animals remains challenging, as most existing platforms rely on tethered setups and external processors to execute computationally intensive decoders. This work presents the design and optimization of a neural decoder integrated into a bidirectional wireless system for CL optogenetic experiments in rodents. The proposed platform combines 32-channel electrophysiological recording with neuromorphic feature extraction, dimensionality reduction, and a nonlinear support vector machine (NL-SVM) decoder implemented on a resource-constrained Spartan-6 FPGA. Temporal dynamics are captured using spike-count features and leaky integrators, while principal component analysis (PCA) reduces the feature space to six components, enabling sub-millisecond inference with minimal memory and power requirements. Model size is further reduced using k-means clustering during training to limit the number of support vectors. Decoder performance was validated using datasets from non-human primate and rat motor cortex recordings. The proposed decoder achieved accuracy comparable to convolutional neural networks (<i>R</i> <sup>2</sup> = 0.85 vs. 0.87) and outperformed Wiener filters (<i>R</i> <sup>2</sup> = 0.81) while requiring significantly fewer computational resources. The full system was further demonstrated <i>in vivo</i> through wireless closed-loop optogenetic stimulation in rats, achieving a variance accounted for (VAF) of 0.9148. Overall, this work introduces a versatile, fully self-contained, and resource-efficient platform for real-time untethered closed-loop neuroscience experiments.",
+  "authors": [
+    "Bilodeau G",
+    "Miao A",
+    "Gagnon-Turcotte G",
+    "Ethier C",
+    "Gosselin B"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2026",
+  "doi": "10.64898/2026.03.25.714179",
+  "mesh": []
+}

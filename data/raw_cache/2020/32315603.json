@@ -1,0 +1,22 @@
+{
+  "pmid": "32315603",
+  "title": "Prefrontal Cortex Predicts State Switches during Reversal Learning.",
+  "abstract": "Reinforcement learning allows organisms to predict future outcomes and to update their beliefs about value in the world. The dorsal-lateral prefrontal cortex (dlPFC) integrates information carried by reward circuits, which can be used to infer the current state of the world under uncertainty. Here, we explored the dlPFC computations related to updating current beliefs during stochastic reversal learning. We recorded the activity of populations up to 1,000 neurons, simultaneously, in two male macaques while they executed a two-armed bandit reversal learning task. Behavioral analyses using a Bayesian framework showed that animals inferred reversals and switched their choice preference rapidly, rather than slowly updating choice values, consistent with state inference. Furthermore, dlPFC neural populations accurately encoded choice preference switches. These results suggest that prefrontal neurons dynamically encode decisions associated with Bayesian subjective values, highlighting the role of the PFC in representing a belief about the current state of the world.",
+  "authors": [
+    "Bartolo Ramon",
+    "Averbeck Bruno B"
+  ],
+  "journal": "Neuron",
+  "year": "2020",
+  "doi": "10.1016/j.neuron.2020.03.024",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Choice Behavior",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Reversal Learning"
+  ]
+}

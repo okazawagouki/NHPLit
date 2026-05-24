@@ -1,0 +1,25 @@
+{
+  "pmid": "31944290",
+  "title": "Fractal spike dynamics and neuronal coupling in the primate visual system.",
+  "abstract": "KEY POINTS: We measured fractal (self-similar) fluctuations in ongoing spiking activity in subcortical (lateral geniculate nucleus, LGN) and cortical (area MT) visual areas in anaesthetised marmosets. Cells in the evolutionary ancient koniocellular LGN pathway and in area MT show high-amplitude fractal fluctuations, whereas evolutionarily newer parvocellular and magnocellular LGN cells do not. Spiking activity in koniocellular cells and MT cells shows substantial correlation to the local population activity, whereas activity in parvocellular and magnocellular cells is less correlated with local activity. We develop a model consisting of a fractal process and a global rate modulation which can reproduce and explain the fundamental relationship between fractal fluctuations and population coupling in LGN and MT. The model provides a unified account of apparently disparate aspects of neural spiking activity and can improve our understanding of information processing in evolutionary ancient and modern visual pathways. ABSTRACT: The brain represents and processes information through patterns of spiking activity, which is influenced by local and widescale brain circuits as well as intrinsic neural dynamics. Whether these influences have independent or linked effects on spiking activity is, however, not known. Here we measured spiking activity in two visual centres, the lateral geniculate nucleus (LGN) and cortical area MT, in marmoset monkeys. By combining the Fano-factor time curve, power spectral analysis and rescaled range analysis, we reveal inherent fractal fluctuations of spiking activity in LGN and MT. We found that the evolutionary ancient koniocellular (K) pathway in LGN and area MT exhibits strong fractal fluctuations at short (<1 s) time scales. Parvocellular (P) and magnocellular (M) LGN cells show weaker fractal fluctuations at longer (multi-second) time scales. In both LGN and MT, the amplitude and time scale of fractal fluctuations can explain short and long time scale spiking dynamics. We further show differential neuronal coupling of LGN and MT cells to local population spiking activity. The population coupling is intrinsically linked to fractal fluctuations: neurons showing stronger fluctuations are more strongly correlated to the local population activity. To understand this relationship, we modelled spiking activity using a fractal inhomogeneous Poisson process with dynamic rate, which is the product of an intrinsic stochastic fractal rate and a global modulatory gain. Our model explains the intrinsic links between neuronal spike rate and population coupling in LGN and MT, and establishes a unified account of dynamic spiking properties in afferent visual pathways.",
+  "authors": [
+    "Munn Brandon",
+    "Zeater Natalie",
+    "Pietersen Alexander N",
+    "Solomon Samuel G",
+    "Cheong Soon Keen",
+    "Martin Paul R",
+    "Gong Pulin"
+  ],
+  "journal": "The Journal of physiology",
+  "year": "2020",
+  "doi": "10.1113/JP278935",
+  "mesh": [
+    "Animals",
+    "Fractals",
+    "Geniculate Bodies",
+    "Neurons",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "38588922",
+  "title": "An open-source MRI compatible frame for multimodal presurgical mapping in macaque and capuchin monkeys.",
+  "abstract": "BACKGROUND: High-precision neurosurgical targeting in nonhuman primates (NHPs) often requires presurgical anatomical mapping with noninvasive neuroimaging techniques (MRI, CT, PET), allowing for translation of individual anatomical coordinates to surgical stereotaxic apparatus. Given the varied tissue contrasts that these imaging techniques produce, precise alignment of imaging-based coordinates to surgical apparatus can be cumbersome. MRI-compatible stereotaxis with radiopaque fiducial markers offer a straight-forward and reliable solution, but existing commercial options do not fit in conformal head coils that maximize imaging quality. NEW METHOD: We developed a compact MRI-compatible stereotaxis suitable for a variety of NHP species (Macaca mulatta, Macaca fascicularis, and Cebus apella) that allows multimodal alignment through technique-specific fiducial markers. COMPARISON WITH EXISTING METHODS: With the express purpose of compatibility with clinically available MRI, CT, and PET systems, the frame is no larger than a human head, while allowing for imaging NHPs in the supinated position. This design requires no marker implantation, special software, or additional knowledge other than the operation of a common large animal stereotaxis. RESULTS: We demonstrated the applicability of this 3D-printable apparatus across a diverse set of experiments requiring presurgical planning: 1) We demonstrate the accuracy of the fiducial system through a within-MRI cannula insertion and subcortical injection of a viral vector. 2) We also demonstrated accuracy of multimodal (MRI and CT) alignment and coordinate transfer to guide a surgical robot electrode implantation for deep-brain electrophysiology. CONCLUSIONS: The computer-aided design files and engineering drawings are publicly available, with the modular design allowing for low cost and manageable manufacturing.",
+  "authors": [
+    "Liang Lucy",
+    "Zimmermann Rollin Isabela",
+    "Alikaya Aydin",
+    "Ho Jonathan C",
+    "Santini Tales",
+    "Bostan Andreea C",
+    "Schwerdt Helen N",
+    "Stauffer William R",
+    "Ibrahim Tamer S",
+    "Pirondini Elvira",
+    "Schaeffer David J"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2024",
+  "doi": "10.1016/j.jneumeth.2024.110133",
+  "mesh": [
+    "Animals",
+    "Magnetic Resonance Imaging",
+    "Brain Mapping",
+    "Cebus",
+    "Stereotaxic Techniques",
+    "Brain",
+    "Fiducial Markers",
+    "Multimodal Imaging",
+    "Macaca mulatta",
+    "Male"
+  ]
+}

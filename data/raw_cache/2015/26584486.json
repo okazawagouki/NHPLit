@@ -1,0 +1,32 @@
+{
+  "pmid": "26584486",
+  "title": "Tracking Neural Modulation Depth by Dual Sequential Monte Carlo Estimation on Point Processes for Brain-Machine Interfaces.",
+  "abstract": "Classic brain-machine interface (BMI) approaches decode neural signals from the brain responsible for achieving specific motor movements, which subsequently command prosthetic devices. Brain activities adaptively change during the control of the neuroprosthesis in BMIs, where the alteration of the preferred direction and the modulation of the gain depth are observed. The static neural tuning models have been limited by fixed codes, resulting in a decay of decoding performance over the course of the movement and subsequent instability in motor performance. To achieve stable performance, we propose a dual sequential Monte Carlo adaptive point process method, which models and decodes the gradually changing modulation depth of individual neuron over the course of a movement. We use multichannel neural spike trains from the primary motor cortex of a monkey trained to perform a target pursuit task using a joystick. Our results show that our computational approach successfully tracks the neural modulation depth over time with better goodness-of-fit than classic static neural tuning models, resulting in smaller errors between the true kinematics and the estimations in both simulated and real data. Our novel decoding approach suggests that the brain may employ such strategies to achieve stable motor output, i.e., plastic neural tuning is a feature of neural systems. BMI users may benefit from this adaptive algorithm to achieve more complex and controlled movement outcomes.",
+  "authors": [
+    "Wang Yiwen",
+    "She Xiwei",
+    "Liao Yuxi",
+    "Li Hongbao",
+    "Zhang Qiaosheng",
+    "Zhang Shaomin",
+    "Zheng Xiaoxiang",
+    "Principe Jose"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2016",
+  "doi": "10.1109/TBME.2015.2500585",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Monte Carlo Method",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

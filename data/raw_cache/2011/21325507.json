@@ -1,0 +1,31 @@
+{
+  "pmid": "21325507",
+  "title": "Reaction time correlations during eye-hand coordination: behavior and modeling.",
+  "abstract": "During coordinated eye-hand movements, saccade reaction times (SRTs) and reach reaction times (RRTs) are correlated in humans and monkeys. Reaction times (RTs) measure the degree of movement preparation and can correlate with movement speed and accuracy. However, RTs can also reflect effector nonspecific influences, such as motivation and arousal. We use a combination of behavioral psychophysics and computational modeling to identify plausible mechanisms for correlations in SRTs and RRTs. To disambiguate nonspecific mechanisms from mechanisms specific to movement coordination, we introduce a dual-task paradigm in which a reach and a saccade are cued with a stimulus onset asynchrony (SOA). We then develop several variants of integrate-to-threshold models of RT, which postulate that responses are initiated when the neural activity encoding effector-specific movement preparation reaches a threshold. The integrator models formalize hypotheses about RT correlations and make predictions for how each RT should vary with SOA. To test these hypotheses, we trained three monkeys to perform the eye-hand SOA task and analyzed their SRTs and RRTs. In all three subjects, RT correlations decreased with increasing SOA duration. Additionally, mean SRT decreased with decreasing SOA, revealing facilitation of saccades with simultaneous reaches, as predicted by the model. These results are not consistent with the predictions of the models with common modulation or common input but are compatible with the predictions of a model with mutual excitation between two effector-specific integrators. We propose that RT correlations are not simply attributable to motivation and arousal and are a signature of coordination.",
+  "authors": [
+    "Dean Heather L",
+    "Martí Daniel",
+    "Tsui Eva",
+    "Rinzel John",
+    "Pesaran Bijan"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2011",
+  "doi": "10.1523/JNEUROSCI.4591-10.2011",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Computer Simulation",
+    "Eye",
+    "Hand",
+    "Haplorhini",
+    "Models, Biological",
+    "Movement",
+    "Photic Stimulation",
+    "Predictive Value of Tests",
+    "Psychomotor Performance",
+    "Reaction Time",
+    "Saccades",
+    "Statistics as Topic"
+  ]
+}

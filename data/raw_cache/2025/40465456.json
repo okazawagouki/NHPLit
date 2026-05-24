@@ -1,0 +1,22 @@
+{
+  "pmid": "40465456",
+  "title": "Protocol for assisting frequency band definition and decoding neural dynamics using hierarchical clustering and multivariate pattern analysis.",
+  "abstract": "Traditional fixed frequency band divisions often limit neural data analysis accuracy. Here, we present a protocol for assisting frequency band definition for multichannel neural data using macaque electrocorticography (ECoG) data. We describe steps for performing time-frequency analysis on preprocessed signals and applying hierarchical clustering to frequency power profiles to identify data-informed groupings. We then detail procedures for defining frequency bands guided by these clusters and using multivariate pattern analysis (MVPA) on the derived bands for functional validation via time-series decoding. For complete details on the use and execution of this protocol, please refer to Tanigawa et al.<sup>1</sup>.",
+  "authors": [
+    "Li Chengpeng",
+    "Hasegawa Isao",
+    "Tanigawa Hisashi"
+  ],
+  "journal": "STAR protocols",
+  "year": "2025",
+  "doi": "10.1016/j.xpro.2025.103870",
+  "mesh": [
+    "Animals",
+    "Electrocorticography",
+    "Multivariate Analysis",
+    "Cluster Analysis",
+    "Signal Processing, Computer-Assisted",
+    "Macaca",
+    "Brain"
+  ]
+}

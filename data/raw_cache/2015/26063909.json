@@ -1,0 +1,35 @@
+{
+  "pmid": "26063909",
+  "title": "Copula regression analysis of simultaneously recorded frontal eye field and inferotemporal spiking activity during object-based working memory.",
+  "abstract": "Inferotemporal (IT) neurons are known to exhibit persistent, stimulus-selective activity during the delay period of object-based working memory tasks. Frontal eye field (FEF) neurons show robust, spatially selective delay period activity during memory-guided saccade tasks. We present a copula regression paradigm to examine neural interaction of these two types of signals between areas IT and FEF of the monkey during a working memory task. This paradigm is based on copula models that can account for both marginal distribution over spiking activity of individual neurons within each area and joint distribution over ensemble activity of neurons between areas. Considering the popular GLMs as marginal models, we developed a general and flexible likelihood framework that uses the copula to integrate separate GLMs into a joint regression analysis. Such joint analysis essentially leads to a multivariate analog of the marginal GLM theory and hence efficient model estimation. In addition, we show that Granger causality between spike trains can be readily assessed via the likelihood ratio statistic. The performance of this method is validated by extensive simulations, and compared favorably to the widely used GLMs. When applied to spiking activity of simultaneously recorded FEF and IT neurons during working memory task, we observed significant Granger causality influence from FEF to IT, but not in the opposite direction, suggesting the role of the FEF in the selection and retention of visual information during working memory. The copula model has the potential to provide unique neurophysiological insights about network properties of the brain.",
+  "authors": [
+    "Hu Meng",
+    "Clark Kelsey L",
+    "Gong Xiajing",
+    "Noudoost Behrad",
+    "Li Mingyao",
+    "Moore Tirin",
+    "Liang Hualou"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.5041-14.2015",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electric Stimulation",
+    "Eye Movements",
+    "Macaca mulatta",
+    "Male",
+    "Memory, Short-Term",
+    "Neurons",
+    "Photic Stimulation",
+    "Prefrontal Cortex",
+    "Probability Theory",
+    "Reaction Time",
+    "Regression Analysis",
+    "Temporal Lobe",
+    "Visual Fields",
+    "Wakefulness"
+  ]
+}

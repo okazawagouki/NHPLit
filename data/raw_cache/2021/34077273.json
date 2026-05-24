@@ -1,0 +1,26 @@
+{
+  "pmid": "34077273",
+  "title": "Temporally precise population coding of dynamic sounds by auditory cortex.",
+  "abstract": "Fluctuations in the amplitude envelope of complex sounds provide critical cues for hearing, particularly for speech and animal vocalizations. Responses to amplitude modulation (AM) in the ascending auditory pathway have chiefly been described for single neurons. How neural populations might collectively encode and represent information about AM remains poorly characterized, even in primary auditory cortex (A1). We modeled population responses to AM based on data recorded from A1 neurons in awake squirrel monkeys and evaluated how accurately single trial responses to modulation frequencies from 4 to 512 Hz could be decoded as functions of population size, composition, and correlation structure. We found that a population-based decoding model that simulated convergent, equally weighted inputs was highly accurate and remarkably robust to the inclusion of neurons that were individually poor decoders. By contrast, average rate codes based on convergence performed poorly; effective decoding using average rates was only possible when the responses of individual neurons were segregated, as in classical population decoding models using labeled lines. The relative effectiveness of dynamic rate coding in auditory cortex was explained by shared modulation phase preferences among cortical neurons, despite heterogeneity in rate-based modulation frequency tuning. Our results indicate significant population-based synchrony in primary auditory cortex and suggest that robust population coding of the sound envelope information present in animal vocalizations and speech can be reliably achieved even with indiscriminate pooling of cortical responses. These findings highlight the importance of firing rate dynamics in population-based sensory coding.<b>NEW & NOTEWORTHY</b> Fundamental questions remain about population coding in primary auditory cortex (A1). In particular, issues of spike timing in models of neural populations have been largely ignored. We find that spike-timing in response to sound envelope fluctuations is highly similar across neuron populations in A1. This property of shared envelope phase preference allows for a simple population model involving unweighted convergence of neuronal responses to classify amplitude modulation frequencies with high accuracy.",
+  "authors": [
+    "Downer Joshua D",
+    "Bigelow James",
+    "Runfeldt Melissa J",
+    "Malone Brian J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2021",
+  "doi": "10.1152/jn.00709.2020",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Auditory Cortex",
+    "Auditory Perception",
+    "Female",
+    "Neurons",
+    "Saimiri",
+    "Time Factors",
+    "Vocalization, Animal"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "25995354",
+  "title": "Speed-accuracy tradeoff by a control signal with balanced excitation and inhibition.",
+  "abstract": "A hallmark of flexible behavior is the brain's ability to dynamically adjust speed and accuracy in decision-making. Recent studies suggested that such adjustments modulate not only the decision threshold, but also the rate of evidence accumulation. However, the underlying neuronal-level mechanism of the rate change remains unclear. In this work, using a spiking neural network model of perceptual decision, we demonstrate that speed and accuracy of a decision process can be effectively adjusted by manipulating a top-down control signal with balanced excitation and inhibition [balanced synaptic input (BSI)]. Our model predicts that emphasizing accuracy over speed leads to reduced rate of ramping activity and reduced baseline activity of decision neurons, which have been observed recently at the level of single neurons recorded from behaving monkeys in speed-accuracy tradeoff tasks. Moreover, we found that an increased inhibitory component of BSI skews the decision time distribution and produces a pronounced exponential tail, which is commonly observed in human studies. Our findings suggest that BSI can serve as a top-down control mechanism to rapidly and parametrically trade between speed and accuracy, and such a cognitive control signal presents both when the subjects emphasize accuracy or speed in perceptual decisions.",
+  "authors": [
+    "Lo Chung-Chuan",
+    "Wang Cheng-Te",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2015",
+  "doi": "10.1152/jn.00845.2013",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Decision Making",
+    "Haplorhini",
+    "Neural Inhibition",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Parietal Lobe",
+    "Psychomotor Performance",
+    "Synapses",
+    "Time Factors"
+  ]
+}

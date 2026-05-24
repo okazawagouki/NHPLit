@@ -1,0 +1,29 @@
+{
+  "pmid": "31698600",
+  "title": "Detection and evaluation of bursts in terms of novelty and surprise.",
+  "abstract": "The detection of bursts and also of response onsets is often of relevance in understanding neurophysiological data, but the detection of these events is not a trivial task. We build on a method that was originally designed for burst detection using the so-called burst surprise as a measure. We extend this method and provide a proper significance measure. Our method consists of two stages. In the first stage we model the neuron's interspike interval (ISI) distribution and make an i.i.d. assumption to formulate our null hypothesis. In addition we define a set of 'surprising' events that signify deviations from the null hypothesis in the direction of 'burstiness'. Here the so-called (strict) burst novelty is used to measure the size of this deviation. In the second stage we determine the significance of this deviation. The (strict) burst surprise is used to measure the significance, since it is the negative logarithm of the significance probability. After showing the consequences of a non-proper null hypothesis on burst detection performance, we apply the method to experimental data. For this application the data are divided into a period for parameter estimation to express a proper null hypothesis (model of the ISI distribution), and the rest of the data is analyzed by using that null hypothesis. We find that assuming a Poisson process for experimental spike data from motor cortex is rarely a proper null hypothesis, because these data tend to fire more regularly and thus a gamma process is more appropriate. We show that our burst detection method can be used for rate change onset detection, because a deviation from the null hypothesis detected by (strict) burst novelty also covers an increase of firing rate.",
+  "authors": [
+    "Ito Junji",
+    "Lucrezia Emanuele",
+    "Palm Günther",
+    "Grün Sonja"
+  ],
+  "journal": "Mathematical biosciences and engineering : MBE",
+  "year": "2019",
+  "doi": "10.3934/mbe.2019351",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Behavior, Animal",
+    "Electrodes",
+    "Electrophysiology",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons",
+    "Poisson Distribution",
+    "Probability",
+    "Software"
+  ]
+}

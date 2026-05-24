@@ -1,0 +1,17 @@
+{
+  "pmid": "42049850",
+  "title": "Low-power differencing feature extracts spiking-band activities for high-performance intracortical brain-computer interfaces.",
+  "abstract": "Intracortical brain-computer interfaces (iBCIs) demand computationally efficient feature extraction methods to process high-bandwidth neural signals in resource-constrained implantable systems. We present the mean absolute of n-th difference (MAND), a feature extraction technique that utilizes optimized differencing operations to isolate spiking-band activity with minimal computational overhead. Through theoretical and empirical validation across multiple datasets encompassing human handwriting, primate reaching/grasping, and rodent cognitive tasks, MAND demonstrated superior performance compared to state-of-the-art features, significantly reducing velocity reconstruction error and improving classification accuracy. An extended MAND variant, incorporating a weighted sum of dual-differencing, achieved additional performance gains through enhanced spectral alignment with neural spiking activity. Hardware implementation on FPGA/MCU platforms confirmed MAND's exceptional efficiency - processing 10-second neural recordings in just 6 ms while consuming only 3 mW of power - representing orders-of-magnitude improvements in both speed and energy efficiency compared to conventional methods. These results establish MAND as a breakthrough solution that enables superior decoding performance with exceptional computational efficiency, paving the way for next-generation, fully implantable iBCI systems.",
+  "authors": [
+    "Xu Guangxiang",
+    "Yu Chenbin",
+    "Shao Gengrong",
+    "Pan Gang",
+    "Wang Yueming",
+    "Hao Yaoyao"
+  ],
+  "journal": "Communications biology",
+  "year": "2026",
+  "doi": "10.1038/s42003-026-10144-9",
+  "mesh": []
+}

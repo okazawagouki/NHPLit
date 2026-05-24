@@ -1,0 +1,29 @@
+{
+  "pmid": "33689506",
+  "title": "Voltage distributions in extracellular brain recordings.",
+  "abstract": "Extracellular recordings of brain voltage signals have many uses, including the identification of spikes and the characterization of brain states via analysis of local field potential (LFP) or EEG recordings. Though the factors underlying the generation of these signals are time varying and complex, their analysis may be facilitated by an understanding of their statistical properties. To this end, we analyzed the voltage distributions of high-pass extracellular recordings from a variety of structures, including cortex, thalamus, and hippocampus, in monkeys, cats, and rodents. We additionally investigated LFP signals in these recordings as well as human EEG signals obtained during different sleep stages. In all cases, the distributions were accurately described by a Gaussian within ±1.5 standard deviations from zero. Outside these limits, voltages tended to be distributed exponentially, that is, they fell off linearly on log-linear frequency plots, with variable heights and slopes. A possible explanation for this is that sporadically and independently occurring events with individual Gaussian size distributions can sum to produce approximately exponential distributions. For the high-pass recordings, a second explanation results from a model of the noisy behavior of ion channels that produce action potentials via Hodgkin-Huxley kinetics. The distributions produced by this model, relative to the averaged potential, were also Gaussian with approximately exponential flanks. The model also predicted time-varying noise distributions during action potentials, which were observed in the extracellular spike signals. These findings suggest a principled method for detecting spikes in high-pass recordings and transient events in LFP and EEG signals.<b>NEW & NOTEWORTHY</b> We show that the voltage distributions in brain recordings, including high-pass extracellular recordings, the LFP, and human EEG, are accurately described by a Gaussian within ±1.5 standard deviations from zero, with heavy, exponential tails outside these limits. This offers a principled way of setting event detection thresholds in high-pass recordings. It also offers a means for identifying event-like, transient signals in LFP and EEG recordings which may correlate with other neural phenomena.",
+  "authors": [
+    "Swindale Nicholas V",
+    "Rowat Peter",
+    "Krause Matthew",
+    "Spacek Martin A",
+    "Mitelut Catalin"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2021",
+  "doi": "10.1152/jn.00633.2020",
+  "mesh": [
+    "Adult",
+    "Animals",
+    "Cats",
+    "Cerebral Cortex",
+    "Electroencephalography",
+    "Electrophysiological Phenomena",
+    "Humans",
+    "Macaca",
+    "Mice",
+    "Models, Statistical",
+    "Normal Distribution",
+    "Rats"
+  ]
+}

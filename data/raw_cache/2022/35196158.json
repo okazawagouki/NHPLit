@@ -1,0 +1,21 @@
+{
+  "pmid": "35196158",
+  "title": "A separable neural code in monkey IT enables perfect CAPTCHA decoding.",
+  "abstract": "Reading distorted letters is easy for us but so challenging for the machine vision that it is used on websites as CAPTCHA (Completely Automated Public Turing Test to tell Computers and Humans Apart). How does our brain solve this problem? One solution is to have neurons selective for letter combinations but invariant to distortions. Another is for neurons to encode letter distortions and longer strings to enable separable decoding. Here, we provide evidence for the latter possibility using neural recordings in the monkey inferior temporal (IT) cortex. Neural responses to distorted strings were explained better as a product (but not sum) of shape and distortion tuning, whereas by contrast, responses to letter combinations were explained better as a sum (but not product) of letters. These two rules were sufficient for perfect CAPTCHA decoding and were also emergent in neural networks trained for word recognition. Thus, a separable neural code enables efficient letter recognition.<b>NEW & NOTEWORTHY</b> Many websites ask us to recognize distorted letters to deny access to malicious computer programs. Why is this task easy for our brains but hard for the computers? Here, we show that, in the monkey inferior temporal cortex, an area critical for recognition, single neurons encode distorted letter strings according to highly systematic rules that enable perfect distorted letter decoding. Remarkably, the same rules were present in neural networks trained for text recognition.",
+  "authors": [
+    "Katti Harish",
+    "Arun S P"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2022",
+  "doi": "10.1152/jn.00160.2021",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Neural Networks, Computer",
+    "Pattern Recognition, Visual",
+    "Reading",
+    "Software",
+    "Temporal Lobe"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "24586130",
+  "title": "A unified model of heading and path perception in primate MSTd.",
+  "abstract": "Self-motion, steering, and obstacle avoidance during navigation in the real world require humans to travel along curved paths. Many perceptual models have been proposed that focus on heading, which specifies the direction of travel along straight paths, but not on path curvature, which humans accurately perceive and is critical to everyday locomotion. In primates, including humans, dorsal medial superior temporal area (MSTd) has been implicated in heading perception. However, the majority of MSTd neurons respond optimally to spiral patterns, rather than to the radial expansion patterns associated with heading. No existing theory of curved path perception explains the neural mechanisms by which humans accurately assess path and no functional role for spiral-tuned cells has yet been proposed. Here we present a computational model that demonstrates how the continuum of observed cells (radial to circular) in MSTd can simultaneously code curvature and heading across the neural population. Curvature is encoded through the spirality of the most active cell, and heading is encoded through the visuotopic location of the center of the most active cell's receptive field. Model curvature and heading errors fit those made by humans. Our model challenges the view that the function of MSTd is heading estimation, based on our analysis we claim that it is primarily concerned with trajectory estimation and the simultaneous representation of both curvature and heading. In our model, temporal dynamics afford time-history in the neural representation of optic flow, which may modulate its structure. This has far-reaching implications for the interpretation of studies that assume that optic flow is, and should be, represented as an instantaneous vector field. Our results suggest that spiral motion patterns that emerge in spatio-temporal optic flow are essential for guiding self-motion along complex trajectories, and that cells in MSTd are specifically tuned to extract complex trajectory estimation from flow.",
+  "authors": [
+    "Layton Oliver W",
+    "Browning N Andrew"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2014",
+  "doi": "10.1371/journal.pcbi.1003476",
+  "mesh": [
+    "Animals",
+    "Computational Biology",
+    "Haplorhini",
+    "Humans",
+    "Models, Neurological",
+    "Motion Perception",
+    "Photic Stimulation",
+    "Primates",
+    "Temporal Lobe",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

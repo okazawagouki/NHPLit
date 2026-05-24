@@ -1,0 +1,31 @@
+{
+  "pmid": "30730290",
+  "title": "Real-time experimental control using network-based parallel processing.",
+  "abstract": "UNLABELLED: Modern neuroscience research often requires the coordination of multiple processes such as stimulus generation, real-time experimental control, as well as behavioral and neural measurements. The technical demands required to simultaneously manage these processes with high temporal fidelity is a barrier that limits the number of labs performing such work. Here we present an open-source, network-based parallel processing framework that lowers this barrier. The Real-Time Experimental Control with Graphical User Interface (REC-GUI) framework offers multiple advantages: (<i>i</i>) a modular design that is agnostic to coding language(s) and operating system(s) to maximize experimental flexibility and minimize researcher effort, (<i>ii</i>) simple interfacing to connect multiple measurement and recording devices, (<i>iii</i>) high temporal fidelity by dividing task demands across CPUs, and (<i>iv</i>) real-time control using a fully customizable and intuitive GUI. We present applications for human, non-human primate, and rodent studies which collectively demonstrate that the REC-GUI framework facilitates technically demanding, behavior-contingent neuroscience research. EDITORIAL NOTE: This article has been through an editorial process in which the authors decide how to respond to the issues raised during peer review. The Reviewing Editor's assessment is that all the issues have been addressed (see decision letter).",
+  "authors": [
+    "Kim Byounghoon",
+    "Kenchappa Shobha Channabasappa",
+    "Sunkara Adhira",
+    "Chang Ting-Yu",
+    "Thompson Lowell",
+    "Doudlah Raymond",
+    "Rosenberg Ari"
+  ],
+  "journal": "eLife",
+  "year": "2019",
+  "doi": "10.7554/eLife.40231",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Avoidance Learning",
+    "Behavior, Animal",
+    "Humans",
+    "Mice",
+    "Neurosciences",
+    "Primates",
+    "Reproducibility of Results",
+    "Software",
+    "Time Factors",
+    "Vision, Ocular"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "21106898",
+  "title": "Statistical comparison of spike responses to natural stimuli in monkey area V1 with simulated responses of a detailed laminar network model for a patch of V1.",
+  "abstract": "A major goal of computational neuroscience is the creation of computer models for cortical areas whose response to sensory stimuli resembles that of cortical areas in vivo in important aspects. It is seldom considered whether the simulated spiking activity is realistic (in a statistical sense) in response to natural stimuli. Because certain statistical properties of spike responses were suggested to facilitate computations in the cortex, acquiring a realistic firing regimen in cortical network models might be a prerequisite for analyzing their computational functions. We present a characterization and comparison of the statistical response properties of the primary visual cortex (V1) in vivo and in silico in response to natural stimuli. We recorded from multiple electrodes in area V1 of 4 macaque monkeys and developed a large state-of-the-art network model for a 5 × 5-mm patch of V1 composed of 35,000 neurons and 3.9 million synapses that integrates previously published anatomical and physiological details. By quantitative comparison of the model response to the \"statistical fingerprint\" of responses in vivo, we find that our model for a patch of V1 responds to the same movie in a way which matches the statistical structure of the recorded data surprisingly well. The deviation between the firing regimen of the model and the in vivo data are on the same level as deviations among monkeys and sessions. This suggests that, despite strong simplifications and abstractions of cortical network models, they are nevertheless capable of generating realistic spiking activity. To reach a realistic firing state, it was not only necessary to include both N-methyl-d-aspartate and GABA(B) synaptic conductances in our model, but also to markedly increase the strength of excitatory synapses onto inhibitory neurons (>2-fold) in comparison to literature values, hinting at the importance to carefully adjust the effect of inhibition for achieving realistic dynamics in current network models.",
+  "authors": [
+    "Rasch Malte J",
+    "Schuch Klaus",
+    "Logothetis Nikos K",
+    "Maass Wolfgang"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2011",
+  "doi": "10.1152/jn.00845.2009",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Data Interpretation, Statistical",
+    "Evoked Potentials, Visual",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Nerve Net",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

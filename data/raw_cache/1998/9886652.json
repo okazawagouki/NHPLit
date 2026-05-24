@@ -1,0 +1,24 @@
+{
+  "pmid": "9886652",
+  "title": "Face processing using one spike per neurone.",
+  "abstract": "The speed with which neurones in the monkey temporal lobe can respond selectively to the presence of a face implies that processing may be possible using only one spike per neurone, a finding that is problematic for conventional rate coding models that need at least two spikes to estimate interspike interval. One way of avoiding this problem uses the fact that integrate-and-fire neurones will tend to fire at different times, with the most strongly activated neurones firing first (Thorpe, 1990, Parallel Processing in Neural Systems). Under such conditions, processing can be performed by using the order in which cells in a particular layer fire as a code. To test this idea, we have explored a range of architectures using SpikeNET (Thorpe and Gautrais, 1997, Neural Information Processing Systems, 9), a simulator designed for modelling large populations of integrate-and-fire neurones. One such network used a simple four-layer feed-forward architecture to detect and localise the presence of human faces in natural images. Performance of the model was tested with a large range of grey-scale images of faces and other objects and was found to be remarkably good by comparison with more classic image processing techniques. The most remarkable feature of these results is that they were obtained using a purely feed-forward neural network in which none of the neurones fired more than one spike (thus ruling out conventional rate coding mechanisms). It thus appears that the combination of asynchronous spike propagation and rank order coding may provide an important key to understanding how the nervous system can achieve such a huge amount of processing in so little time.",
+  "authors": [
+    "Van Rullen R",
+    "Gautrais J",
+    "Delorme A",
+    "Thorpe S"
+  ],
+  "journal": "Bio Systems",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Face",
+    "Female",
+    "Humans",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Visual Perception"
+  ]
+}

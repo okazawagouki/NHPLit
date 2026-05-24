@@ -1,0 +1,28 @@
+{
+  "pmid": "33468673",
+  "title": "Environment-based object values learned by local network in the striatum tail.",
+  "abstract": "Basal ganglia contribute to object-value learning, which is critical for survival. The underlying neuronal mechanism is the association of each object with its rewarding outcome. However, object values may change in different environments and we then need to choose different objects accordingly. The mechanism of this environment-based value learning is unknown. To address this question, we created an environment-based value task in which the value of each object was reversed depending on the two scene-environments (X and Y). After experiencing this task repeatedly, the monkeys became able to switch the choice of object when the scene-environment changed unexpectedly. When we blocked the inhibitory input from fast-spiking interneurons (FSIs) to medium spiny projection neurons (MSNs) in the striatum tail by locally injecting IEM-1460, the monkeys became unable to learn scene-selective object values. We then studied the mechanism of the FSI-MSN connection. Before and during this learning, FSIs responded to the scenes selectively, but were insensitive to object values. In contrast, MSNs became able to discriminate the objects (i.e., stronger response to good objects), but this occurred clearly in one of the two scenes (X or Y). This was caused by the scene-selective inhibition by FSI. As a whole, MSNs were divided into two groups that were sensitive to object values in scene X or in scene Y. These data indicate that the local network of striatum tail controls the learning of object values that are selective to the scene-environment. This mechanism may support our flexible switching behavior in various environments.",
+  "authors": [
+    "Kunimatsu Jun",
+    "Yamamoto Shinya",
+    "Maeda Kazutaka",
+    "Hikosaka Okihide"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2021",
+  "doi": "10.1073/pnas.2013623118",
+  "mesh": [
+    "Adamantane",
+    "Animals",
+    "Basal Ganglia",
+    "Corpus Striatum",
+    "Environment",
+    "Humans",
+    "Interneurons",
+    "Learning",
+    "Macaca mulatta",
+    "Male",
+    "Primates",
+    "Saccades"
+  ]
+}

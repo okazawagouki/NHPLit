@@ -1,0 +1,30 @@
+{
+  "pmid": "41072125",
+  "title": "Rapid whole brain motion-robust mesoscale in-vivo MR imaging using multi-scale implicit neural representation.",
+  "abstract": "High-resolution whole-brain in vivo MR imaging at mesoscale resolutions remains challenging due to long scan durations, motion artifacts, and limited signal-to-noise ratio (SNR). While acquiring multiple anisotropic scans from rotated slice orientations offers a practical compromise, reconstructing accurate isotropic volumes from such inputs remains non-trivial due to the lack of high-resolution ground truth and the presence of inter-scan motion. To address these challenges, we proposes Rotating-view super-resolution (ROVER)-MRI, an unsupervised framework based on multi-scale implicit neural representations (INR), enabling accurate recovery of fine anatomical details from multi-view thick-slice acquisitions. ROVER-MRI employs coordinate-based neural networks to implicitly and continuously encode image structures at multiple spatial scales, simultaneously modeling anatomical continuity and correcting inter-view motion through an integrated registration mechanism. Validation on ex-vivo monkey brain data and multiple in-vivo human datasets demonstrates substantially improved reconstruction performance compared to bi-cubic interpolation and state-of-the-art regularized least-squares super-resolution reconstruction (LS-SRR) with 2-fold reduction in scan time. Notably, ROVER-MRI enables whole-brain in-vivo T2-weighted imaging at 180μm isotropic resolution in just 17 min on a 7T scanner, achieving a 22.4% reduction in relative error compared to LS-SRR. We also demonstrate improved SNR using ROVER-MRI compared to a time-matched 3D GRE acquisition. Quantitative results on several datasets demonstrate better sharpness of the reconstructed images with ROVER-MRI for different super-resolution factors (5 to 11). These findings highlight ROVER-MRI's potential as a rapid, accurate, and motion-resilient mesoscale imaging solution, promising substantial advantages for neuroimaging studies.",
+  "authors": [
+    "Lyu Jun",
+    "Ning Lipeng",
+    "Consagra William",
+    "Liu Qiang",
+    "Rushmore Richard J",
+    "Bilgic Berkin",
+    "Rathi Yogesh"
+  ],
+  "journal": "Medical image analysis",
+  "year": "2026",
+  "doi": "10.1016/j.media.2025.103830",
+  "mesh": [
+    "Magnetic Resonance Imaging",
+    "Humans",
+    "Brain",
+    "Animals",
+    "Artifacts",
+    "Signal-To-Noise Ratio",
+    "Algorithms",
+    "Motion",
+    "Image Processing, Computer-Assisted",
+    "Neural Networks, Computer",
+    "Image Enhancement"
+  ]
+}

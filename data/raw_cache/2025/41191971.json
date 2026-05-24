@@ -1,0 +1,30 @@
+{
+  "pmid": "41191971",
+  "title": "Charge density of multi-channel intra-cortical micro-stimulation modulates intensity and naturalness of evoked somatosensations.",
+  "abstract": "Human patients with somatosensory loss often experience severe motor deficits, causing profound challenges to independently accomplish typical tasks of daily life. Brain-machine Interfaces (BMIs) offer the potential to restore lost functionality through direct electrical stimulation of the somatosensory cortex via intra-cortical micro-stimulation (ICMS). By modulating temporal patterns of stimulation, our group has previously shown single-channel ICMS can evoke both naturalistic cutaneous and proprioceptive sensory feedback. However, accurate modulation of the sensory feedback's qualia (somatotopic location, intensity and description) will be critical for fluid, dexterous motor control. In nonhuman primate studies, multi-channel ICMS has shown promise in improving quantifiable metrics such as reaction time. In recent human work, multi-channel ICMS has improved discrimination performance; however, evoked qualia from multi-channel ICMS has not been well characterized. We hypothesized multi-channel ICMS could evoke unique qualia compared to single-channel. A human participant with tetraplegia and chronically implanted microelectrode arrays in primary somatosensory cortex, reported perceptual thresholds, sensation descriptions, intensity and somatotopic locations of single- and multi-channel ICMS patterns. We found multi-channel ICMS patterns evoked unique qualia compared to single-channel ICMS. To investigate the role of charge in producing these unique evoked sensory percepts, we delivered equal amounts of charge with differing spatial patterns across multiple electrodes. Multi-channel ICMS substantially reduced the minimum stimulation amplitude required to evoked somatosensations, lowering the charge per electrode detection threshold, while increasing the total charge injected. Delivered charge across multiple electrodes, positively modulated the sensation's perceived intensity; providing early evidence of spatial integration of ICMS in the target network. Multi-channel ICMS resulted in more frequent verbal reports of 'natural' sensation descriptors (100% vs 85% for single-channel ICMS,<i>p</i>-val < 0.05) and robustly evoked sensations with high repeatability in stable somatotopic locations. Multi-channel ICMS patterns demonstrated improvements in reliability, somatotopic coverage and 'natural-ness' of the evoked sensations, marking significant advances towards state-of-the-art somatosensory BMIs. By better understanding of the input/output relationship for somatosensory feedback BMIs, we can expect to improve movement accuracy and increase embodiment for human users.",
+  "authors": [
+    "Bjånes David A",
+    "Bashford Luke",
+    "Pejsa Kelsie",
+    "Lee Brian",
+    "Liu Charles Y",
+    "Andersen Richard A"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2025",
+  "doi": "10.1088/1741-2552/ae1bd8",
+  "mesh": [
+    "Humans",
+    "Somatosensory Cortex",
+    "Brain-Computer Interfaces",
+    "Male",
+    "Evoked Potentials, Somatosensory",
+    "Electrodes, Implanted",
+    "Microelectrodes",
+    "Electric Stimulation",
+    "Female",
+    "Quadriplegia",
+    "Adult",
+    "Feedback, Sensory"
+  ]
+}

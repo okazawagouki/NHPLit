@@ -1,0 +1,20 @@
+{
+  "pmid": "29060268",
+  "title": "Boosting performance in brain-machine interface by classifier-level fusion based on accumulative training models from multi-day data.",
+  "abstract": "The nonstationarity of neural signal is still an unresolved issue despite the rapid progress made in brain-machine interface (BMI). This paper investigates how to utilize the rich information and dynamics in multi-day data to address the variability in day-to-day signal quality and neural tuning properties. For this purpose, we propose a classifier-level fusion technique to build a robust decoding model by jointly considering the classifier outputs from multiple base-training models using multi-day data collected prior to test day. The data set used in this study consisted of recordings of 8 days from a non-human primate (NHP) during control of a mobile robot using a joystick. Offline analysis demonstrates the superior performance of the proposed method which results in 4.4% and 13.10% improvements in decoding (significant by one-way ANOVA and post hoc t-test) compared with the two baseline methods: 1) concatenating data from multiple days based on common effective channels, and 2) averaging accuracies across all base-training models. These results further validate the effectiveness of proposed method without recalibration of the model.",
+  "authors": [
+    "Huijuan Yang",
+    "Libedinsky Camilo",
+    "Cuntai Guan",
+    "Kai Keng Ang",
+    "So Rosa Q"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2017",
+  "doi": "10.1109/EMBC.2017.8037224",
+  "mesh": [
+    "Analysis of Variance",
+    "Animals",
+    "Brain-Computer Interfaces"
+  ]
+}

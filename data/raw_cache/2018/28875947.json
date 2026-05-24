@@ -1,0 +1,32 @@
+{
+  "pmid": "28875947",
+  "title": "Improved prediction of bimanual movements by a two-staged (effector-then-trajectory) decoder with epidural ECoG in nonhuman primates.",
+  "abstract": "OBJECTIVE: In arm movement BCIs (brain-computer interfaces), unimanual research has been much more extensively studied than its bimanual counterpart. However, it is well known that the bimanual brain state is different from the unimanual one. Conventional methodology used in unimanual studies does not take the brain stage into consideration, and therefore appears to be insufficient for decoding bimanual movements. In this paper, we propose the use of a two-staged (effector-then-trajectory) decoder, which combines the classification of movement conditions and uses a hand trajectory predicting algorithm for unimanual and bimanual movements, for application in real-world BCIs. APPROACH: Two micro-electrode patches (32 channels) were inserted over the dura mater of the left and right hemispheres of two rhesus monkeys, covering the motor related cortex for epidural electrocorticograph (ECoG). Six motion sensors (inertial measurement unit) were used to record the movement signals. The monkeys performed three types of arm movement tasks: left unimanual, right unimanual, bimanual. To decode these movements, we used a two-staged decoder, which combines the effector classifier for four states (left unimanual, right unimanual, bimanual movements, and stationary state) and movement predictor using regression. MAIN RESULTS: Using this approach, we successfully decoded both arm positions using the proposed decoder. The results showed that decoding performance for bimanual movements were improved compared to the conventional method, which does not consider the effector, and the decoding performance was significant and stable over a period of four months. In addition, we also demonstrated the feasibility of epidural ECoG signals, which provided an adequate level of decoding accuracy. SIGNIFICANCE: These results provide evidence that brain signals are different depending on the movement conditions or effectors. Thus, the two-staged method could be useful if BCIs are used to generalize for both unimanual and bimanual operations in human applications and in various neuro-prosthetics fields.",
+  "authors": [
+    "Choi Hoseok",
+    "Lee Jeyeon",
+    "Park Jinsick",
+    "Lee Seho",
+    "Ahn Kyoung-Ha",
+    "Kim In Young",
+    "Lee Kyoung-Min",
+    "Jang Dong Pyo"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2018",
+  "doi": "10.1088/1741-2552/aa8a83",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrocorticography",
+    "Forecasting",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Movement",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Random Allocation",
+    "Somatosensory Cortex",
+    "Upper Extremity"
+  ]
+}

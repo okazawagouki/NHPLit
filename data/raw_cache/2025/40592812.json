@@ -1,0 +1,25 @@
+{
+  "pmid": "40592812",
+  "title": "Unsupervised learning of temporal regularities in visual cortical populations.",
+  "abstract": "The brain's ability to extract temporal information from dynamic stimuli in the environment is essential for everyday behavior. To extract temporal statistical regularities, neural circuits must possess the ability to measure, produce, and anticipate sensory events. Here we report that when neural populations in macaque primary visual cortex are triggered to exhibit a periodic response to a repetitive sequence of optogenetic laser flashes, they learn to accurately reproduce the temporal sequence even when light stimulation is turned off. Despite the fact that individual cells had a poor capacity to extract temporal information, the population of neurons reproduced the periodic sequence in a temporally precise manner. The same neural population could learn different frequencies of external stimulation, and the ability to extract temporal information was found in all cortical layers. These results demonstrate a remarkable ability of sensory cortical populations to extract and reproduce complex temporal structure from unsupervised external stimulation even when stimuli are perceptually irrelevant.",
+  "authors": [
+    "Pojoga Sorin",
+    "Andrei Ariana",
+    "Dragoi Valentin"
+  ],
+  "journal": "Nature communications",
+  "year": "2025",
+  "doi": "10.1038/s41467-025-60731-3",
+  "mesh": [
+    "Animals",
+    "Neurons",
+    "Photic Stimulation",
+    "Macaca mulatta",
+    "Visual Cortex",
+    "Optogenetics",
+    "Primary Visual Cortex",
+    "Male",
+    "Learning",
+    "Visual Perception"
+  ]
+}

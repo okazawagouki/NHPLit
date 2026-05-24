@@ -1,0 +1,20 @@
+{
+  "pmid": "29342103",
+  "title": "Minimally-Invasive Neural Interface for Distributed Wireless Electrocorticogram Recording Systems.",
+  "abstract": "This paper presents a minimally-invasive neural interface for distributed wireless electrocorticogram (ECoG) recording systems. The proposed interface equips all necessary components for ECoG recording, such as the high performance front-end integrated circuits, a fabricated flexible microelectrode array, and wireless communication inside a miniaturized custom-made platform. The multiple units of the interface systems can be deployed to cover a broad range of the target brain region and transmit signals via a built-in intra-skin communication (ISCOM) module. The core integrated circuit (IC) consists of 16-channel, low-power push-pull double-gated preamplifiers, in-channel successive approximation register analog-to-digital converters (SAR ADC) with a single-clocked bootstrapping switch and a time-delayed control unit, an ISCOM module for wireless data transfer through the skin instead of a power-hungry RF wireless transmitter, and a monolithic voltage/current reference generator to support the aforementioned analog and mixed-signal circuit blocks. The IC was fabricated using 250 nm CMOS processes in an area of 3.2 × 0.9 mm² and achieved the low-power operation of 2.5 µW per channel. Input-referred noise was measured as 5.62 µV<sub>rms</sub> for 10 Hz to 10 kHz and ENOB of 7.21 at 31.25 kS/s. The implemented system successfully recorded multi-channel neural activities in vivo from a primate and demonstrated modular expandability using the ISCOM with power consumption of 160 µW.",
+  "authors": [
+    "Chang Sun-Il",
+    "Park Sung-Yun",
+    "Yoon Euisik"
+  ],
+  "journal": "Sensors (Basel, Switzerland)",
+  "year": "2018",
+  "doi": "10.3390/s18010263",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Equipment Design",
+    "Primates",
+    "Wireless Technology"
+  ]
+}

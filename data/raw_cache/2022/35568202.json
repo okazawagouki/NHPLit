@@ -1,0 +1,29 @@
+{
+  "pmid": "35568202",
+  "title": "Eye-specific 3D modeling of factors influencing oxygen concentration in the lamina cribrosa.",
+  "abstract": "Our goal was to identify the factors with the strongest influence on the minimum lamina cribrosa (LC) oxygen concentration as potentially indicative of conditions increasing hypoxia risk. Because direct measurement of LC hemodynamics and oxygenation is not yet possible, we developed 3D eye-specific LC vasculature models. The vasculature of a normal monkey eye was perfusion-labeled post-mortem. Serial cryosections through the optic nerve head were imaged using fluorescence and polarized light microscopy to visualize the vasculature and collagen, respectively. The vasculature within a 450 μm-thick region containing the LC - identified from the collagen, was segmented, skeletonized, and meshed for simulations. Using Monte Carlo sampling, 200 vascular network models were generated with varying vessel diameter, neural tissue oxygen consumption rate, inflow hematocrit, and blood pressures (arteriole, venule, anterior boundary, and posterior boundary). Factors were varied over ranges of baseline ±20% with uniform probability. For each model we first obtained the blood flow, and from this the neural tissue oxygen concentration. ANOVA was used to identify the factors with the strongest influence on the minimum (10th percentile) oxygen concentration in the LC. The three most influential factors were, in ranked order, vessel diameter, neural tissue oxygen consumption rate, and arteriole pressure. There was a strong interaction between vessel diameter and arteriole pressure whereby the impact of one factor was larger when the other factor was small. Our results show that, for the eye analyzed, conditions that reduce vessel diameter, such as vessel compression due to elevated intraocular pressure or gaze-induced tissue deformation, may particularly contribute to decreased LC oxygen concentration. More eyes must be analyzed before generalizing.",
+  "authors": [
+    "Hua Yi",
+    "Lu Yuankai",
+    "Walker Jason",
+    "Lee Po-Yi",
+    "Tian Qi",
+    "McDonald Haiden",
+    "Pallares Pedro",
+    "Ji Fengting",
+    "Brazile Bryn L",
+    "Yang Bin",
+    "Voorhees Andrew P",
+    "Sigal Ian A"
+  ],
+  "journal": "Experimental eye research",
+  "year": "2022",
+  "doi": "10.1016/j.exer.2022.109105",
+  "mesh": [
+    "Collagen",
+    "Intraocular Pressure",
+    "Optic Disk",
+    "Oxygen",
+    "Sclera"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pmid": "25386134",
+  "title": "Modeling the shape hierarchy for visually guided grasping.",
+  "abstract": "The monkey anterior intraparietal area (AIP) encodes visual information about three-dimensional object shape that is used to shape the hand for grasping. We modeled shape tuning in visual AIP neurons and its relationship with curvature and gradient information from the caudal intraparietal area (CIP). The main goal was to gain insight into the kinds of shape parameterizations that can account for AIP tuning and that are consistent with both the inputs to AIP and the role of AIP in grasping. We first experimented with superquadric shape parameters. We considered superquadrics because they occupy a role in robotics that is similar to AIP, in that superquadric fits are derived from visual input and used for grasp planning. We also experimented with an alternative shape parameterization that was based on an Isomap dimension reduction of spatial derivatives of depth (i.e., distance from the observer to the object surface). We considered an Isomap-based model because its parameters lacked discontinuities between similar shapes. When we matched the dimension of the Isomap to the number of superquadric parameters, the superquadric model fit the AIP data somewhat more closely. However, higher-dimensional Isomaps provided excellent fits. Also, we found that the Isomap parameters could be approximated much more accurately than superquadric parameters by feedforward neural networks with CIP-like inputs. We conclude that Isomaps, or perhaps alternative dimension reductions of visual inputs to AIP, provide a promising model of AIP electrophysiology data. Further work is needed to test whether such shape parameterizations actually provide an effective basis for grasp control.",
+  "authors": [
+    "Rezai Omid",
+    "Kleinhans Ashley",
+    "Matallanas Eduardo",
+    "Selby Ben",
+    "Tripp Bryan P"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2014",
+  "doi": "10.3389/fncom.2014.00132",
+  "mesh": []
+}

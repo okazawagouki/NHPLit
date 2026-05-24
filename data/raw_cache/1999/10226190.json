@@ -1,0 +1,21 @@
+{
+  "pmid": "10226190",
+  "title": "The Ornstein-Uhlenbeck process does not reproduce spiking statistics of neurons in prefrontal cortex.",
+  "abstract": "Cortical neurons of behaving animals generate irregular spike sequences. Recently, there has been a heated discussion about the origin of this irregularity. Softky and Koch (1993) pointed out the inability of standard single-neuron models to reproduce the irregularity of the observed spike sequences when the model parameters are chosen within a certain range that they consider to be plausible. Shadlen and Newsome (1994), on the other hand, demonstrated that a standard leaky integrate-and-fire model can reproduce the irregularity if the inhibition is balanced with the excitation. Motivated by this discussion, we attempted to determine whether the Ornstein-Uhlenbeck process, which is naturally derived from the leaky integration assumption, can in fact reproduce higher-order statistics of biological data. For this purpose, we consider actual neuronal spike sequences recorded from the monkey prefrontal cortex to calculate the higher-order statistics of the interspike intervals. Consistency of the data with the model is examined on the basis of the coefficient of variation and the skewness coefficient, which are, respectively, a measure of the spiking irregularity and a measure of the asymmetry of the interval distribution. It is found that the biological data are not consistent with the model if the model time constant assumes a value within a certain range believed to cover all reasonable values. This fact suggests that the leaky integrate-and-fire model with the assumption of uncorrelated inputs is not adequate to account for the spiking in at least some cortical neurons.",
+  "authors": [
+    "Shinomoto S",
+    "Sakai Y",
+    "Funahashi S"
+  ],
+  "journal": "Neural computation",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Models, Statistical",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Reproducibility of Results"
+  ]
+}

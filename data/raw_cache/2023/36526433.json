@@ -1,0 +1,26 @@
+{
+  "pmid": "36526433",
+  "title": "Cross-species cell-type assignment from single-cell RNA-seq data by a heterogeneous graph neural network.",
+  "abstract": "Cross-species comparative analyses of single-cell RNA sequencing (scRNA-seq) data allow us to explore, at single-cell resolution, the origins of the cellular diversity and evolutionary mechanisms that shape cellular form and function. Cell-type assignment is a crucial step to achieve that. However, the poorly annotated genome and limited known biomarkers hinder us from assigning cell identities for nonmodel species. Here, we design a heterogeneous graph neural network model, CAME, to learn aligned and interpretable cell and gene embeddings for cross-species cell-type assignment and gene module extraction from scRNA-seq data. CAME achieves significant improvements in cell-type characterization across distant species owing to the utilization of non-one-to-one homologous gene mapping ignored by early methods. Our large-scale benchmarking study shows that CAME significantly outperforms five classical methods in terms of cell-type assignment and model robustness to insufficiency and inconsistency of sequencing depths. CAME can transfer the major cell types and interneuron subtypes of human brains to mouse and discover shared cell-type-specific functions in homologous gene modules. CAME can align the trajectories of human and macaque spermatogenesis and reveal their conservative expression dynamics. In short, CAME can make accurate cross-species cell-type assignments even for nonmodel species and uncover shared and divergent characteristics between two species from scRNA-seq data.",
+  "authors": [
+    "Liu Xingyan",
+    "Shen Qunlun",
+    "Zhang Shihua"
+  ],
+  "journal": "Genome research",
+  "year": "2023",
+  "doi": "10.1101/gr.276868.122",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Mice",
+    "Single-Cell Gene Expression Analysis",
+    "Neural Networks, Computer",
+    "Gene Regulatory Networks",
+    "Biomarkers",
+    "Genome",
+    "Single-Cell Analysis",
+    "Sequence Analysis, RNA",
+    "Gene Expression Profiling"
+  ]
+}

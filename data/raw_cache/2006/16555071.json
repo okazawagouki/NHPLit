@@ -1,0 +1,27 @@
+{
+  "pmid": "16555071",
+  "title": "Learning to attend: modeling the shaping of selectivity in infero-temporal cortex in a categorization task.",
+  "abstract": "Recent experiments on behaving monkeys have shown that learning a visual categorization task makes the neurons in infero-temporal cortex (ITC) more selective to the task-relevant features of the stimuli (Sigala and Logothetis in Nature 415 318-320, 2002). We hypothesize that such a selectivity modulation emerges from the interaction between ITC and other cortical area, presumably the prefrontal cortex (PFC), where the previously learned stimulus categories are encoded. We propose a biologically inspired model of excitatory and inhibitory spiking neurons with plastic synapses, modified according to a reward based Hebbian learning rule, to explain the experimental results and test the validity of our hypothesis. We assume that the ITC neurons, receiving feature selective inputs, form stronger connections with the category specific neurons to which they are consistently associated in rewarded trials. After learning, the top-down influence of PFC neurons enhances the selectivity of the ITC neurons encoding the behaviorally relevant features of the stimuli, as observed in the experiments. We conclude that the perceptual representation in visual areas like ITC can be strongly affected by the interaction with other areas which are devoted to higher cognitive functions.",
+  "authors": [
+    "Szabo Miruna",
+    "Deco Gustavo",
+    "Fusi Stefano",
+    "Del Giudice Paolo",
+    "Mattia Maurizio",
+    "Stetter Martin"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Artificial Intelligence",
+    "Cerebral Cortex",
+    "Learning",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Pattern Recognition, Visual"
+  ]
+}

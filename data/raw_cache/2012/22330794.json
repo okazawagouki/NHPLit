@@ -1,0 +1,22 @@
+{
+  "pmid": "22330794",
+  "title": "On the convergence of time interval moments: caveat sciscitator.",
+  "abstract": "The frequency distributions of biological time-intervals (TIs) have been measured in innumerable behavioural and neurophysiological studies including, for example, reaction time experiments and studies of neuronal spike timing. Regardless of context, TI distributions tend to be significantly positively skewed, and many studies have attempted to characterise these distributions by their mean or higher moments (variance, skewness, and kurtosis). It is, however, not widely appreciated in the neural/behavioural literature that highly skewed distributions may not have moments: they may not converge to a finite value. For example, the reciprocal Normal distribution, frequently used as a model of saccade latency and manual reaction time, does not have a finite mean or higher moments. We explore this non-trivial phenomenon. We introduce 'cumulative' moments and show that moment convergence can be easily related to the distribution of the reciprocal of time-intervals (rate). The behaviour of the rate distribution near zero determines which moments in the time domain converge. Non-convergence may be very slow leading to the appearance of convergence, but after infinite time they become infinite (pseudo-convergence). Experiments take place in finite time and cannot reconcile pseudo-convergence. Nevertheless, cumulative sample moments can provide insight into the convergence of the parent moments, but this depends on sample size. We illustrate convergence issues with three empirical examples: manual reaction times, neural inter-spike intervals, and optokinetic inter-saccadic intervals. We conclude that estimating moments of skewed TI distributions is at best questionable and propose that rate (reciprocal TI) usually (but not always) provides more information.",
+  "authors": [
+    "Harris Christopher M",
+    "Waddington Jonathan"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2012",
+  "doi": "10.1016/j.jneumeth.2012.01.017",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Macaca fascicularis",
+    "Models, Neurological",
+    "Models, Theoretical",
+    "Neurons",
+    "Reaction Time"
+  ]
+}

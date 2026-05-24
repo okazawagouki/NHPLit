@@ -1,0 +1,26 @@
+{
+  "pmid": "26736200",
+  "title": "Causal network in a deafferented non-human primate brain.",
+  "abstract": "De-afferented/efferented neural ensembles can undergo causal changes when interfaced to neuroprosthetic devices. These changes occur via recruitment or isolation of neurons, alterations in functional connectivity within the ensemble and/or changes in the role of neurons, i.e., excitatory/inhibitory. In this work, emergence of a causal network and changes in the dynamics are demonstrated for a deafferented brain region exposed to BMI (brain-machine interface) learning. The BMI was controlling a robot for reach-and-grasp behavior. And, the motor cortical regions used for the BMI were deafferented due to chronic amputation, and ensembles of neurons were decoded for velocity control of the multi-DOF robot. A generalized linear model-framework based Granger causality (GLM-GC) technique was used in estimating the ensemble connectivity. Model selection was based on the AIC (Akaike Information Criterion).",
+  "authors": [
+    "Balasubramanian Karthikeyan",
+    "Takahashi Kazutaka",
+    "Hatsopoulos Nicholas G"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2015",
+  "doi": "10.1109/EMBC.2015.7318300",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Equipment Design",
+    "Hand Strength",
+    "Humans",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Nerve Net",
+    "Robotics"
+  ]
+}

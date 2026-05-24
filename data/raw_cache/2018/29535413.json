@@ -1,0 +1,29 @@
+{
+  "pmid": "29535413",
+  "title": "Tailoring light delivery for optogenetics by modal demultiplexing in tapered optical fibers.",
+  "abstract": "Optogenetic control of neural activity in deep brain regions ideally requires precise and flexible light delivery with non-invasive devices. To this end, Tapered Optical Fibers (TFs) represent a versatile tool that can deliver light over either large brain volumes or spatially confined sub-regions, while being sensibly smaller than flat-cleaved optical fibers. In this work, we report on the possibility of further extending light emission length along the taper in the range 0.4 mm-3.0 mm by increasing the numerical aperture of the TFs to NA = 0.66. We investigated the dependence between the input angle of light (θ<sub>in</sub>) and the output position along the taper, finding that for θ<sub>in</sub> > 10° this relationship is linear. This mode-division demultiplexing property of the taper was confirmed with a ray tracing model and characterized for 473 nm and 561 nm light in quasi-transparent solution and in brain slices, with the two wavelengths used to illuminate simultaneously two different regions of the brain using only one waveguide. The results presented in this manuscript can guide neuroscientists to design their optogenetic experiments on the base of this mode-division demultiplexing approach, providing a tool that potentially allow for dynamic targeting of regions with diverse extension, from the mouse VTA up to the macaque visual cortex.",
+  "authors": [
+    "Pisanello Marco",
+    "Pisano Filippo",
+    "Sileo Leonardo",
+    "Maglie Emanuela",
+    "Bellistri Elisa",
+    "Spagnolo Barbara",
+    "Mandelbaum Gil",
+    "Sabatini Bernardo L",
+    "De Vittorio Massimo",
+    "Pisanello Ferruccio"
+  ],
+  "journal": "Scientific reports",
+  "year": "2018",
+  "doi": "10.1038/s41598-018-22790-z",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Male",
+    "Optical Fibers",
+    "Optogenetics",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

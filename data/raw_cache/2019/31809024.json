@@ -1,0 +1,26 @@
+{
+  "pmid": "31809024",
+  "title": "Programmable Assembly of Adeno-Associated Virus-Antibody Composites for Receptor-Mediated Gene Delivery.",
+  "abstract": "Adeno-associated virus (AAV) has emerged as a viral gene delivery vector that is safe in humans, able to infect both dividing and arrested cells and drive long-term expression (>6 months). Unfortunately, the naturally evolved properties of many AAV serotypes-including low cell type specificity and largely overlapping tropism-are mismatched to applications that require cell type-specific infection, such as neural circuit mapping or precision gene therapy. A variety of approaches to redirect AAV tropism exist, but there is still the need for a universal solution for directing AAV tropism toward user-defined cellular receptors that does not require extensive case-by-case optimization and works with readily available components. Here, we report AAV engineering approaches that enable programmable receptor-mediated gene delivery. First, we genetically encode small targeting scaffolds into a variable region of an AAV capsid and show that this redirects tropism toward the receptor recognized by these targeting scaffolds and also renders this AAV variant resistant to neutralizing antibodies present in nonhuman primate serum. We then simplify retargeting of tropism by engineering the same variable loop to encode a HUH tag, which forms a covalent bond to single-stranded DNA oligos conjugated to store-bought antibodies. We demonstrate that retargeting this HUH-AAVs toward different receptors is as simple as \"arming\" a premade noninfective AAV template with a different antibody in a conjugation process that uses widely available reagents and requires no optimization or extensive purification. Composite antibody-AAV nanoparticles structurally separate tropism and payload encapsulation, allowing each to be engineered independently.",
+  "authors": [
+    "Zdechlik Alina C",
+    "He Yungui",
+    "Aird Eric J",
+    "Gordon Wendy R",
+    "Schmidt Daniel"
+  ],
+  "journal": "Bioconjugate chemistry",
+  "year": "2020",
+  "doi": "10.1021/acs.bioconjchem.9b00790",
+  "mesh": [
+    "Antibodies",
+    "Cell Line",
+    "DNA, Single-Stranded",
+    "Dependovirus",
+    "Engineering",
+    "Gene Transfer Techniques",
+    "Nanoparticles",
+    "Receptors, Cell Surface",
+    "Viral Tropism"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "27294198",
+  "title": "Neural Representation of Concurrent Vowels in Macaque Primary Auditory Cortex.",
+  "abstract": "Successful speech perception in real-world environments requires that the auditory system segregate competing voices that overlap in frequency and time into separate streams. Vowels are major constituents of speech and are comprised of frequencies (harmonics) that are integer multiples of a common fundamental frequency (F0). The pitch and identity of a vowel are determined by its F0 and spectral envelope (formant structure), respectively. When two spectrally overlapping vowels differing in F0 are presented concurrently, they can be readily perceived as two separate \"auditory objects\" with pitches at their respective F0s. A difference in pitch between two simultaneous vowels provides a powerful cue for their segregation, which in turn, facilitates their individual identification. The neural mechanisms underlying the segregation of concurrent vowels based on pitch differences are poorly understood. Here, we examine neural population responses in macaque primary auditory cortex (A1) to single and double concurrent vowels (/a/ and /i/) that differ in F0 such that they are heard as two separate auditory objects with distinct pitches. We find that neural population responses in A1 can resolve, via a rate-place code, lower harmonics of both single and double concurrent vowels. Furthermore, we show that the formant structures, and hence the identities, of single vowels can be reliably recovered from the neural representation of double concurrent vowels. We conclude that A1 contains sufficient spectral information to enable concurrent vowel segregation and identification by downstream cortical areas.",
+  "authors": [
+    "Fishman Yonatan I",
+    "Micheyl Christophe",
+    "Steinschneider Mitchell"
+  ],
+  "journal": "eNeuro",
+  "year": "2016",
+  "doi": "10.1523/ENEURO.0071-16.2016",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Animals",
+    "Auditory Cortex",
+    "Macaca fascicularis",
+    "Male",
+    "Microelectrodes",
+    "Neurons",
+    "Phonetics",
+    "Pitch Perception",
+    "Speech Perception"
+  ]
+}

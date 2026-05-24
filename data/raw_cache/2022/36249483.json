@@ -1,0 +1,14 @@
+{
+  "pmid": "36249483",
+  "title": "Analysis based on neural representation of natural object surfaces to elucidate the mechanisms of a trained AlexNet model.",
+  "abstract": "Analysis and understanding of trained deep neural networks (DNNs) can deepen our understanding of the visual mechanisms involved in primate visual perception. However, due to the limited availability of neural activity data recorded from various cortical areas, the correspondence between the characteristics of artificial and biological neural responses for visually recognizing objects remains unclear at the layer level of DNNs. In the current study, we investigated the relationships between the artificial representations in each layer of a trained AlexNet model (based on a DNN) for object classification and the neural representations in various levels of visual cortices such as the primary visual (V1), intermediate visual (V4), and inferior temporal cortices. Furthermore, we analyzed the profiles of the artificial representations at a single channel level for each layer of the AlexNet model. We found that the artificial representations in the lower-level layers of the trained AlexNet model were strongly correlated with the neural representation in V1, whereas the responses of model neurons in layers at the intermediate and higher-intermediate levels of the trained object classification model exhibited characteristics similar to those of neural activity in V4 neurons. These results suggest that the trained AlexNet model may gradually establish artificial representations for object classification through the hierarchy of its network, in a similar manner to the neural mechanisms by which afferent transmission beginning in the low-level features gradually establishes object recognition as signals progress through the hierarchy of the ventral visual pathway.",
+  "authors": [
+    "Wagatsuma Nobuhiko",
+    "Hidaka Akinori",
+    "Tamura Hiroshi"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2022",
+  "doi": "10.3389/fncom.2022.979258",
+  "mesh": []
+}

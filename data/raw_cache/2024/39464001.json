@@ -1,0 +1,14 @@
+{
+  "pmid": "39464001",
+  "title": "Perceptual Expertise and Attention: An Exploration using Deep Neural Networks.",
+  "abstract": "Perceptual expertise and attention are two important factors that enable superior object recognition and task performance. While expertise enhances knowledge and provides a holistic understanding of the environment, attention allows us to selectively focus on task-related information and suppress distraction. It has been suggested that attention operates differently in experts and in novices, but much remains unknown. This study investigates the relationship between perceptual expertise and attention using convolutional neural networks (CNNs), which are shown to be good models of primate visual pathways. Two CNN models were trained to become experts in either face or scene recognition, and the effect of attention on performance was evaluated in tasks involving complex stimuli, such as superimposed images containing superimposed faces and scenes. The goal was to explore how feature-based attention (FBA) influences recognition within and outside the domain of expertise of the models. We found that each model performed better in its area of expertise-and that FBA further enhanced task performance, but only within the domain of expertise, increasing performance by up to 35% in scene recognition, and 15% in face recognition. However, attention had reduced or negative effects when applied outside the models' expertise domain. Neural unit-level analysis revealed that expertise led to stronger tuning towards category-specific features and sharper tuning curves, as reflected in greater representational dissimilarity between targets and distractors, which, in line with the biased competition model of attention, leads to enhanced performance by reducing competition. These findings highlight the critical role of neural tuning at single as well as network level neural in distinguishing the effects of attention in experts and in novices and demonstrate that CNNs can be used fruitfully as computational models for addressing neuroscience questions not practical with the empirical methods.",
+  "authors": [
+    "Das Soukhin",
+    "Mangun G R",
+    "Ding Mingzhou"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.10.15.617743",
+  "mesh": []
+}

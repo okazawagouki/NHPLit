@@ -1,0 +1,32 @@
+{
+  "pmid": "27092335",
+  "title": "Transition from Target to Gaze Coding in Primate Frontal Eye Field during Memory Delay and Memory-Motor Transformation.",
+  "abstract": "The frontal eye fields (FEFs) participate in both working memory and sensorimotor transformations for saccades, but their role in integrating these functions through time remains unclear. Here, we tracked FEF spatial codes through time using a novel analytic method applied to the classic memory-delay saccade task. Three-dimensional recordings of head-unrestrained gaze shifts were made in two monkeys trained to make gaze shifts toward briefly flashed targets after a variable delay (450-1500 ms). A preliminary analysis of visual and motor response fields in 74 FEF neurons eliminated most potential models for spatial coding at the neuron population level, as in our previous study (Sajad et al., 2015). We then focused on the spatiotemporal transition from an eye-centered target code (T; preferred in the visual response) to an eye-centered intended gaze position code (G; preferred in the movement response) during the memory delay interval. We treated neural population codes as a continuous spatiotemporal variable by dividing the space spanning T and G into intermediate T-G models and dividing the task into discrete steps through time. We found that FEF delay activity, especially in visuomovement cells, progressively transitions from T through intermediate T-G codes that approach, but do not reach, G. This was followed by a final discrete transition from these intermediate T-G delay codes to a \"pure\" G code in movement cells without delay activity. These results demonstrate that FEF activity undergoes a series of sensory-memory-motor transformations, including a dynamically evolving spatial memory signal and an imperfect memory-to-motor transformation.",
+  "authors": [
+    "Sajad Amirsaman",
+    "Sadeh Morteza",
+    "Yan Xiaogang",
+    "Wang Hongying",
+    "Crawford John Douglas"
+  ],
+  "journal": "eNeuro",
+  "year": "2016",
+  "doi": "10.1523/ENEURO.0040-16.2016",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Female",
+    "Fixation, Ocular",
+    "Frontal Lobe",
+    "Macaca mulatta",
+    "Memory",
+    "Neurons",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Space Perception",
+    "Statistics, Nonparametric",
+    "Time Factors",
+    "Visual Fields"
+  ]
+}

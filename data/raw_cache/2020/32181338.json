@@ -1,0 +1,27 @@
+{
+  "pmid": "32181338",
+  "title": "Efficient inverse graphics in biological face processing.",
+  "abstract": "Vision not only detects and recognizes objects, but performs rich inferences about the underlying scene structure that causes the patterns of light we see. Inverting generative models, or \"analysis-by-synthesis\", presents a possible solution, but its mechanistic implementations have typically been too slow for online perception, and their mapping to neural circuits remains unclear. Here we present a neurally plausible efficient inverse graphics model and test it in the domain of face recognition. The model is based on a deep neural network that learns to invert a three-dimensional face graphics program in a single fast feedforward pass. It explains human behavior qualitatively and quantitatively, including the classic \"hollow face\" illusion, and it maps directly onto a specialized face-processing circuit in the primate brain. The model fits both behavioral and neural data better than state-of-the-art computer vision models, and suggests an interpretable reverse-engineering account of how the brain transforms images into percepts.",
+  "authors": [
+    "Yildirim Ilker",
+    "Belledonne Mario",
+    "Freiwald Winrich",
+    "Tenenbaum Josh"
+  ],
+  "journal": "Science advances",
+  "year": "2020",
+  "doi": "10.1126/sciadv.aax5979",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Face",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Pattern Recognition, Visual",
+    "Temporal Lobe",
+    "Vision, Ocular"
+  ]
+}

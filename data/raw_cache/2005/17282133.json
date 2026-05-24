@@ -1,0 +1,15 @@
+{
+  "pmid": "17282133",
+  "title": "Inferring attentional state and kinematics from motor cortical firing rates.",
+  "abstract": "Recent methods for motor cortical decoding have demonstrated relatively accurate reconstructions of hand trajectory from small populations of neurons in primary motor cortex. Decoding results are often reported only for periods when the subject is attending to the task. In a neural prosthetic interface, however, the subject must be able to switch between controlling a device or performing other mental functions. In this work we demonstrate a method for detecting whether or not a subject is attending to a motor control task. Using the firing activity of the same neural population used for decoding hand kinematics we demonstrate that a Fisher linear discriminant performs well in classifying the attentional state of a monkey. We use the output of this classifier to augment a hidden state in a first order Markov model and use particle filtering to recursively infer hand kinematics and attentional state conditioned on neural firing rates. We demonstrate high accuracy on test data where a monkey switches between attending to a task and not. By decoding a discrete \"state\" in addition to hand kinematics our proposed classification and estimation scheme may enable real-world neuroprosthetic functions such as \"hold\", \"click\", and \"turn off/on\".",
+  "authors": [
+    "Wood Frank",
+    "Prabhat",
+    "Donoghue John",
+    "Black Michael"
+  ],
+  "journal": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+  "year": "2005",
+  "doi": "",
+  "mesh": []
+}

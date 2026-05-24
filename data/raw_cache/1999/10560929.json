@@ -1,0 +1,23 @@
+{
+  "pmid": "10560929",
+  "title": "Analysis of information transmission in the Schaffer collaterals.",
+  "abstract": "Hippocampal region CA1 seems from comparative studies to be particularly important in the primate brain, in addition to being crucial to memory function. Thus, it is an extremely appropriate place to begin a quantitative investigation of the information representation and transmission capabilities of cerebral neural networks. In this study, a mathematical model of the Schaffer collateral projection from CA3 to CA1 is described. From the model, the amount of information that can be conveyed by the Schaffer collaterals is calculated, i.e., the information that a pattern of firing in CA1 conveys about a pattern of firing in CA3, because of the connections between them. The calculation is performed analytically for an arbitrary probability distribution describing the pattern of CA3 firing and then solved numerically for particular input distributions. The effect of a number of issues on the information conveyed is examined. Consideration of the effect of the amount of analog resolution of firing rates in the patterns of activity in CA3 confirmed information transmission to be most efficient for binary codes, to a degree that depends on the sparseness of activity. For very sparse codes, a binary code allows more information to be received even in absolute terms, but for more distributed codes, slightly more information can be received by CA1 by making use of analog resolution. The pattern of convergence of connections from CA3 to CA1 is examined, i.e., the spatial distribution of the number of connections each CA1 neuron receives. It is found that the effect of the difference between a uniform convergence model and a proposed real convergence pattern (Bernard and Wheal, Hippocampus 1994;4:497-529) is minimal. The effect of the ratio of expansion between CA3 and CA1 due to the relative numbers of neurons in these two areas is studied. The Schaffer collaterals in all mammalian species reported in the literature seem to operate in a regime in which there is at least the scope for efficient transfer of information. In addition, the effect of topography (with respect to the transverse hippocampal axis) in the Schaffer collateral connectivity is examined. In the absence of spatial correlations, topography is found to have essentially no effect on information transmission. If spatial correlations in firing were present in CA3 (which, however, would be less efficient for memory storage in the recurrent collaterals), information transmission would be maximized by matching the topographic spread to the spatial scale of correlation.",
+  "authors": [
+    "Schultz S R",
+    "Rolls E T"
+  ],
+  "journal": "Hippocampus",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Hippocampus",
+    "Humans",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Monte Carlo Method",
+    "Neural Pathways",
+    "Pyramidal Cells",
+    "Synapses"
+  ]
+}

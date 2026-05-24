@@ -1,0 +1,15 @@
+{
+  "pmid": "33519503",
+  "title": "Quantifying Dynamical High-Order Interdependencies From the O-Information: An Application to Neural Spiking Dynamics.",
+  "abstract": "We address the problem of efficiently and informatively quantifying how multiplets of variables carry information about the future of the dynamical system they belong to. In particular we want to identify groups of variables carrying redundant or synergistic information, and track how the size and the composition of these multiplets changes as the collective behavior of the system evolves. In order to afford a parsimonious expansion of shared information, and at the same time control for lagged interactions and common effect, we develop a dynamical, conditioned version of the O-information, a framework recently proposed to quantify high-order interdependencies via multivariate extension of the mutual information. The dynamic O-information, here introduced, allows to separate multiplets of variables which influence synergistically the future of the system from redundant multiplets. We apply this framework to a dataset of spiking neurons from a monkey performing a perceptual discrimination task. The method identifies synergistic multiplets that include neurons previously categorized as containing little relevant information individually.",
+  "authors": [
+    "Stramaglia Sebastiano",
+    "Scagliarini Tomas",
+    "Daniels Bryan C",
+    "Marinazzo Daniele"
+  ],
+  "journal": "Frontiers in physiology",
+  "year": "2020",
+  "doi": "10.3389/fphys.2020.595736",
+  "mesh": []
+}

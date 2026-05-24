@@ -1,0 +1,22 @@
+{
+  "pmid": "24920017",
+  "title": "Quantifying the signals contained in heterogeneous neural responses and determining their relationships with task performance.",
+  "abstract": "The responses of high-level neurons tend to be mixtures of many different types of signals. While this diversity is thought to allow for flexible neural processing, it presents a challenge for understanding how neural responses relate to task performance and to neural computation. To address these challenges, we have developed a new method to parse the responses of individual neurons into weighted sums of intuitive signal components. Our method computes the weights by projecting a neuron's responses onto a predefined orthonormal basis. Once determined, these weights can be combined into measures of signal modulation; however, in their raw form these signal modulation measures are biased by noise. Here we introduce and evaluate two methods for correcting this bias, and we report that an analytically derived approach produces performance that is robust and superior to a bootstrap procedure. Using neural data recorded from inferotemporal cortex and perirhinal cortex as monkeys performed a delayed-match-to-sample target search task, we demonstrate how the method can be used to quantify the amounts of task-relevant signals in heterogeneous neural populations. We also demonstrate how these intuitive quantifications of signal modulation can be related to single-neuron measures of task performance (d').",
+  "authors": [
+    "Pagan Marino",
+    "Rust Nicole C"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2014",
+  "doi": "10.1152/jn.00260.2014",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Data Interpretation, Statistical",
+    "Haplorhini",
+    "Models, Neurological",
+    "Neurons",
+    "Psychomotor Performance",
+    "Temporal Lobe"
+  ]
+}

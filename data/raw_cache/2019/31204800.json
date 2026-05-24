@@ -1,0 +1,23 @@
+{
+  "pmid": "31204800",
+  "title": "Social Trait Information in Deep Convolutional Neural Networks Trained for Face Identification.",
+  "abstract": "Faces provide information about a person's identity, as well as their sex, age, and ethnicity. People also infer social and personality traits from the face - judgments that can have important societal and personal consequences. In recent years, deep convolutional neural networks (DCNNs) have proven adept at representing the identity of a face from images that vary widely in viewpoint, illumination, expression, and appearance. These algorithms are modeled on the primate visual cortex and consist of multiple processing layers of simulated neurons. Here, we examined whether a DCNN trained for face identification also retains a representation of the information in faces that supports social-trait inferences. Participants rated male and female faces on a diverse set of 18 personality traits. Linear classifiers were trained with cross validation to predict human-assigned trait ratings from the 512 dimensional representations of faces that emerged at the top-layer of a DCNN trained for face identification. The network was trained with 494,414 images of 10,575 identities and consisted of seven layers and 19.8 million parameters. The top-level DCNN features produced by the network predicted the human-assigned social trait profiles with good accuracy. Human-assigned ratings for the individual traits were also predicted accurately. We conclude that the face representations that emerge from DCNNs retain facial information that goes beyond the strict limits of their training.",
+  "authors": [
+    "Parde Connor J",
+    "Hu Ying",
+    "Castillo Carlos",
+    "Sankaranarayanan Swami",
+    "O'Toole Alice J"
+  ],
+  "journal": "Cognitive science",
+  "year": "2019",
+  "doi": "10.1111/cogs.12729",
+  "mesh": [
+    "Algorithms",
+    "Deep Learning",
+    "Facial Recognition",
+    "Humans",
+    "Neural Networks, Computer",
+    "Sociological Factors"
+  ]
+}

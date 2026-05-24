@@ -1,0 +1,24 @@
+{
+  "pmid": "34941863",
+  "title": "A data-informed mean-field approach to mapping of cortical parameter landscapes.",
+  "abstract": "Constraining the many biological parameters that govern cortical dynamics is computationally and conceptually difficult because of the curse of dimensionality. This paper addresses these challenges by proposing (1) a novel data-informed mean-field (MF) approach to efficiently map the parameter space of network models; and (2) an organizing principle for studying parameter space that enables the extraction biologically meaningful relations from this high-dimensional data. We illustrate these ideas using a large-scale network model of the Macaque primary visual cortex. Of the 10-20 model parameters, we identify 7 that are especially poorly constrained, and use the MF algorithm in (1) to discover the firing rate contours in this 7D parameter cube. Defining a \"biologically plausible\" region to consist of parameters that exhibit spontaneous Excitatory and Inhibitory firing rates compatible with experimental values, we find that this region is a slightly thickened codimension-1 submanifold. An implication of this finding is that while plausible regimes depend sensitively on parameters, they are also robust and flexible provided one compensates appropriately when parameters are varied. Our organizing principle for conceptualizing parameter dependence is to focus on certain 2D parameter planes that govern lateral inhibition: Intersecting these planes with the biologically plausible region leads to very simple geometric structures which, when suitably scaled, have a universal character independent of where the intersections are taken. In addition to elucidating the geometry of the plausible region, this invariance suggests useful approximate scaling relations. Our study offers, for the first time, a complete characterization of the set of all biologically plausible parameters for a detailed cortical model, which has been out of reach due to the high dimensionality of parameter space.",
+  "authors": [
+    "Xiao Zhuo-Cheng",
+    "Lin Kevin K",
+    "Young Lai-Sang"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2021",
+  "doi": "10.1371/journal.pcbi.1009718",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Computational Biology",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons"
+  ]
+}

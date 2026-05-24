@@ -1,0 +1,26 @@
+{
+  "pmid": "36368324",
+  "title": "Calcium activity is a degraded estimate of spikes.",
+  "abstract": "Recording action potentials extracellularly during behavior has led to fundamental discoveries regarding neural function-hippocampal neurons respond to locations in space,<sup>1</sup> motor cortex neurons encode movement direction,<sup>2</sup> and dopamine neurons signal reward prediction errors<sup>3</sup>-observations undergirding current theories of cognition,<sup>4</sup> movement,<sup>5</sup> and learning.<sup>6</sup> Recently it has become possible to measure calcium flux, an internal cellular signal related to spiking. The ability to image calcium flux in anatomically<sup>7</sup><sup>,</sup><sup>8</sup> or genetically<sup>9</sup> identified neurons can extend our knowledge of neural circuit function by allowing activity to be monitored in specific cell types or projections, or in the same neurons across many days. However, while initial studies were grounded in prior unit recording work, it has become fashionable to assume that calcium is identical to spiking, even though the spike-to-fluorescence transformation is nonlinear, noisy, and unpredictable under real-world conditions.<sup>10</sup> It remains an open question whether calcium provides a high-fidelity representation of single-unit activity in awake, behaving subjects. Here, we have addressed this question by recording both signals in the lateral orbitofrontal cortex (OFC) of rats during olfactory discrimination learning. Activity in the OFC during olfactory learning has been well-studied in humans,<sup>11</sup><sup>,</sup><sup>12</sup><sup>,</sup><sup>13</sup><sup>,</sup><sup>14</sup> nonhuman primates,<sup>15</sup><sup>,</sup><sup>16</sup> and rats,<sup>17</sup><sup>,</sup><sup>18</sup><sup>,</sup><sup>19</sup><sup>,</sup><sup>20</sup><sup>,</sup><sup>21</sup> where it has been shown to signal information about both the sensory properties of odor cues and the rewards they predict. Our single-unit results replicated prior findings, whereas the calcium signal provided only a degraded estimate of the information available in the single-unit spiking, reflecting primarily reward value.",
+  "authors": [
+    "Hart Evan E",
+    "Gardner Matthew P H",
+    "Panayi Marios C",
+    "Kahnt Thorsten",
+    "Schoenbaum Geoffrey"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2022",
+  "doi": "10.1016/j.cub.2022.10.037",
+  "mesh": [
+    "Rats",
+    "Humans",
+    "Animals",
+    "Calcium",
+    "Rats, Long-Evans",
+    "Learning",
+    "Prefrontal Cortex",
+    "Dopaminergic Neurons",
+    "Reward"
+  ]
+}

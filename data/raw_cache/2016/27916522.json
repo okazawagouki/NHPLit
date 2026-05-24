@@ -1,0 +1,29 @@
+{
+  "pmid": "27916522",
+  "title": "View-Tolerant Face Recognition and Hebbian Learning Imply Mirror-Symmetric Neural Tuning to Head Orientation.",
+  "abstract": "The primate brain contains a hierarchy of visual areas, dubbed the ventral stream, which rapidly computes object representations that are both specific for object identity and robust against identity-preserving transformations, like depth rotations [1, 2]. Current computational models of object recognition, including recent deep-learning networks, generate these properties through a hierarchy of alternating selectivity-increasing filtering and tolerance-increasing pooling operations, similar to simple-complex cells operations [3-6]. Here, we prove that a class of hierarchical architectures and a broad set of biologically plausible learning rules generate approximate invariance to identity-preserving transformations at the top level of the processing hierarchy. However, all past models tested failed to reproduce the most salient property of an intermediate representation of a three-level face-processing hierarchy in the brain: mirror-symmetric tuning to head orientation [7]. Here, we demonstrate that one specific biologically plausible Hebb-type learning rule generates mirror-symmetric tuning to bilaterally symmetric stimuli, like faces, at intermediate levels of the architecture and show why it does so. Thus, the tuning properties of individual cells inside the visual stream appear to result from group properties of the stimuli they encode and to reflect the learning rules that sculpted the information-processing system within which they reside.",
+  "authors": [
+    "Leibo Joel Z",
+    "Liao Qianli",
+    "Anselmi Fabio",
+    "Freiwald Winrich A",
+    "Poggio Tomaso"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2017",
+  "doi": "10.1016/j.cub.2016.10.015",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Facial Recognition",
+    "Head Movements",
+    "Learning",
+    "Macaca",
+    "Models, Neurological",
+    "Orientation",
+    "Orientation, Spatial",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

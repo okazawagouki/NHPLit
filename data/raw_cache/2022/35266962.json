@@ -1,0 +1,24 @@
+{
+  "pmid": "35266962",
+  "title": "Mapping spatial frequency preferences across human primary visual cortex.",
+  "abstract": "Neurons in primate visual cortex (area V1) are tuned for spatial frequency, in a manner that depends on their position in the visual field. Several studies have examined this dependency using functional magnetic resonance imaging (fMRI), reporting preferred spatial frequencies (tuning curve peaks) of V1 voxels as a function of eccentricity, but their results differ by as much as two octaves, presumably owing to differences in stimuli, measurements, and analysis methodology. Here, we characterize spatial frequency tuning at a millimeter resolution within the human primary visual cortex, across stimulus orientation and visual field locations. We measured fMRI responses to a novel set of stimuli, constructed as sinusoidal gratings in log-polar coordinates, which include circular, radial, and spiral geometries. For each individual stimulus, the local spatial frequency varies inversely with eccentricity, and for any given location in the visual field, the full set of stimuli span a broad range of spatial frequencies and orientations. Over the measured range of eccentricities, the preferred spatial frequency is well-fit by a function that varies as the inverse of the eccentricity plus a small constant. We also find small but systematic effects of local stimulus orientation, defined in both absolute coordinates and relative to visual field location. Specifically, peak spatial frequency is higher for pinwheel than annular stimuli and for horizontal than vertical stimuli.",
+  "authors": [
+    "Broderick William F",
+    "Simoncelli Eero P",
+    "Winawer Jonathan"
+  ],
+  "journal": "Journal of vision",
+  "year": "2022",
+  "doi": "10.1167/jov.22.4.3",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Neurons",
+    "Photic Stimulation",
+    "Primary Visual Cortex",
+    "Visual Cortex",
+    "Visual Fields"
+  ]
+}

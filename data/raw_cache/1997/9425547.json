@@ -1,0 +1,20 @@
+{
+  "pmid": "9425547",
+  "title": "The \"independent components\" of natural scenes are edge filters.",
+  "abstract": "It has previously been suggested that neurons with line and edge selectivities found in primary visual cortex of cats and monkeys form a sparse, distributed representation of natural scenes, and it has been reasoned that such responses should emerge from an unsupervised learning algorithm that attempts to find a factorial code of independent visual features. We show here that a new unsupervised learning algorithm based on information maximization, a nonlinear \"infomax\" network, when applied to an ensemble of natural scenes produces sets of visual filters that are localized and oriented. Some of these filters are Gabor-like and resemble those produced by the sparseness-maximization network. In addition, the outputs of these filters are as independent as possible, since this infomax network performs Independent Components Analysis or ICA, for sparse (super-gaussian) component distributions. We compare the resulting ICA filters and their associated basis functions, with other decorrelating filters produced by Principal Components Analysis (PCA) and zero-phase whitening filters (ZCA). The ICA filters have more sparsely distributed (kurtotic) outputs on natural scenes. They also resemble the receptive fields of simple cells in visual cortex, which suggests that these neurons form a natural, information-theoretic coordinate system for natural images.",
+  "authors": [
+    "Bell A J",
+    "Sejnowski T J"
+  ],
+  "journal": "Vision research",
+  "year": "1997",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Contrast Sensitivity",
+    "Humans",
+    "Models, Psychological",
+    "Visual Perception"
+  ]
+}

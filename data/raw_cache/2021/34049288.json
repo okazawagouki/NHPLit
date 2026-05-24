@@ -1,0 +1,26 @@
+{
+  "pmid": "34049288",
+  "title": "Discrimination of simple objects decoded from the output of retinal ganglion cells upon sinusoidal electrical stimulation.",
+  "abstract": "<i>Objective</i>. Most neuroprosthetic implants employ pulsatile square-wave electrical stimuli, which are significantly different from physiological inter-neuronal communication. In case of retinal neuroprosthetics, which use a certain type of pulsatile stimuli, reliable object and contrast discrimination by implanted blind patients remained challenging. Here we investigated to what extent simple objects can be discriminated from the output of retinal ganglion cells (RGCs) upon sinusoidal stimulation.<i>Approach</i>. Spatially confined objects were formed by different combinations of 1024 stimulating microelectrodes. The RGC activity in the<i>ex vivo</i>retina of photoreceptor-degenerated mouse, of healthy mouse or of primate was recorded simultaneously using an interleaved recording microelectrode array implemented in a CMOS-based chip.<i>Main results</i>. We report that application of sinusoidal electrical stimuli (40 Hz) in epiretinal configuration instantaneously and reliably modulates the RGC activity in spatially confined areas at low stimulation threshold charge densities (40 nC mm<sup>-2</sup>). Classification of overlapping but spatially displaced objects (1° separation) was achieved by distinct spiking activity of selected RGCs. A classifier (regularized logistic regression) discriminated spatially displaced objects (size: 5.5° or 3.5°) with high accuracy (90% or 62%). Stimulation with low artificial contrast (10%) encoded by different stimulus amplitudes generated RGC activity, which was classified with an accuracy of 80% for large objects (5.5°).<i>Significance</i>. We conclude that time-continuous smooth-wave stimulation provides robust, localized neuronal activation in photoreceptor-degenerated retina, which may enable future artificial vision at high temporal, spatial and contrast resolution.",
+  "authors": [
+    "Corna Andrea",
+    "Ramesh Poornima",
+    "Jetter Florian",
+    "Lee Meng-Jung",
+    "Macke Jakob H",
+    "Zeck Günther"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2021",
+  "doi": "10.1088/1741-2552/ac0679",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electric Stimulation",
+    "Humans",
+    "Mice",
+    "Microelectrodes",
+    "Retina",
+    "Retinal Ganglion Cells"
+  ]
+}

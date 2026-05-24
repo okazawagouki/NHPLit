@@ -1,0 +1,13 @@
+{
+  "pmid": "38610544",
+  "title": "A Novel Spider Monkey Optimization for Reliable Data Dissemination in VANETs Based on Machine Learning.",
+  "abstract": "The growth in linked and autonomous vehicles has led to the emergence of vehicular ad hoc networks (VANETs) as a means to enhance road safety, traffic efficiency, and passenger comfort. However, VANETs face challenges in facilitating trustworthiness and high-quality services due to communication delays caused by traffic, dynamic topology changes, variable speeds, and other influencing factors. Hence, there is a need for a reliable data dissemination scheme capable of reducing communication delays among hops by identifying effective forwarder nodes. In this paper, we propose a novel, weighted, estimated, spider monkey-based, nature-inspired optimization (w-SMNO) method to generate a set of efficient relays. Additionally, we introduce a dynamic weight assignment and configuration model to enhance system accuracy using a neural network based on backpropagation with gradient descent optimization techniques to minimize errors in the machine learning model. The w-SMNO also incorporates a distinct algorithm for effective relay selection among multiple monkey spider groups. The simulation results demonstrate substantial improvements in w-SMNO, with a 35.7% increase in coverage, a 41.2% reduction in the end-to-end delay, a 36.4% improvement in the message delivery rate, and a 38.4% decrease in the collision rate compared to the state-of-the-art approaches.",
+  "authors": [
+    "Gupta Deepak",
+    "Rathi Rakesh"
+  ],
+  "journal": "Sensors (Basel, Switzerland)",
+  "year": "2024",
+  "doi": "10.3390/s24072334",
+  "mesh": []
+}

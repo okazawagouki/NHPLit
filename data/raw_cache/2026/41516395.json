@@ -1,0 +1,35 @@
+{
+  "pmid": "41516395",
+  "title": "CXCL9 and CXCL10 Induce Expression of Nociceptive Ion Channels in Primary Sensory Neurons in Models of HIV-Associated Distal Sensory Polyneuropathy.",
+  "abstract": "HIV-associated distal sensory polyneuropathy (HIV-DSP) remains prevalent even in the antiretroviral therapy (ART) era. Previously, we identified the upregulation of nociceptive ion channels transient receptor potential vanilloid 1 (TRPV1) and ankyrin 1 (TRPA1) in the dorsal root ganglia (DRG) of simian immunodeficiency virus (SIV)-infected ART-treated macaques. To investigate upstream mechanisms, we performed bulk RNA-seq and pathway analysis on DRGs from uninfected, SIV-infected, and SIV-infected/ART macaques. SIV infection drove strong activation of upstream regulators of interferon γ (IFNγ) and lipopolysaccharide (LPS). Although ART reduced overall IFNγ and LPS pathway activity, the IFNγ-inducible chemokines C-X-C motif chemokine ligand (CXCL)9 and CXCL10 remained significantly upregulated. To determine whether these chemokines influence TRPV1/TRPA1 expression, we treated induced pluripotent stem cell-derived peripheral sensory neurons (iPSC-PSNs) with CXCL9 and CXCL10, which induced a significant increase in TRPV1 but not TRPA1 expression. In parallel experiments, IFNγ but not LPS stimulated monocyte-derived macrophages (MDMs) to release CXCL9 and CXCL10. Conditioned media from IFNγ-treated MDMs modestly increased TRPV1 expression in iPSC-PSNs, and pharmacological inhibition of CXCR3, the receptor of CXCL9/10, did not reduce this effect. Together, these data indicate that persistent IFNγ-driven CXCL9/10 signaling may be one contributor to nociceptor sensitization underlying HIV-DSP, even in the presence of ART.",
+  "authors": [
+    "Warfield Rebecca",
+    "Robinson Jake A",
+    "Baak Stephen",
+    "Podgorski Rachel M",
+    "Gabor Tara A",
+    "Caocci Maurizio",
+    "Niu Meng",
+    "Miller Andrew D",
+    "Fox Howard S",
+    "Burdo Tricia H"
+  ],
+  "journal": "International journal of molecular sciences",
+  "year": "2026",
+  "doi": "10.3390/ijms27010523",
+  "mesh": [
+    "Humans",
+    "Animals",
+    "Macaca mulatta",
+    "Nociceptors",
+    "Chemokine CXCL9",
+    "Chemokine CXCL10",
+    "Polyneuropathies",
+    "Ganglia, Spinal",
+    "Simian Acquired Immunodeficiency Syndrome",
+    "Anti-Retroviral Agents",
+    "Transcriptome",
+    "TRPV Cation Channels",
+    "Ankyrins"
+  ]
+}

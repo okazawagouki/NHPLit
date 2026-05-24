@@ -1,0 +1,28 @@
+{
+  "pmid": "25937399",
+  "title": "Drift in centrality of different brain regions in an anatomical neural network with Parkinson's disease: A view from complex network analysis.",
+  "abstract": "Understanding the role of brain regions in anatomical neural networks with Parkinson's disease (PD) is essential for improving the clinical protocol or finding new targets for deep brain stimulation (DBS). Although numerous changes have been reported in local functional studies, few studies have reported on the anatomical network of the entire brain. Here, by developing a series of algorithms, this study provided a whole anatomical neural network of the macaque monkey. Then, the drifts in centrality from normal to PD networks were described in terms of complex network analysis and summarized with principal component analysis. Results revealed that the areas including the striatum, globus pallidus, amygdala, prefrontal lobe, thalamus, hippocampus, visual cortex, insula, etc., showed relatively notable drifts in their own patterns. The present study also demonstrated that the current targets of DBS shared a common feature: their centrality values being relatively low in the normal brain while intensely drifting with PD.",
+  "authors": [
+    "Lei X",
+    "Huang B",
+    "Li H",
+    "Jiang H",
+    "Hu X",
+    "Zhang B"
+  ],
+  "journal": "Neuroscience",
+  "year": "2015",
+  "doi": "10.1016/j.neuroscience.2015.04.056",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Macaca",
+    "Monte Carlo Method",
+    "Nerve Net",
+    "Neuroimaging",
+    "Parkinson Disease"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "23366236",
+  "title": "Applying best practices from digital control systems to BMI implementation.",
+  "abstract": "Many brain-machine interface (BMI) algorithms, such as the population vector decoder, must estimate neural spike rates before transforming this information into an external output signal. Often, rate estimation is performed via the selection of a bin width corresponding to the effective sampling rate of the decoding algorithm. Here, we implement real-time rate estimation by extending prior work on the optimization of Gaussian filters for offline rate estimation. We show that higher sampling rates result in improved spike rate estimation. We further show that the choice of sampling rate need not dictate the number of parameters which must be used in an autoregressive decoding algorithm. Multiple studies in other neural signal processing contexts suggest that BMI performance could be improved substantially via careful choice of smoothing filter, discrete-time decoder representation, and sampling rate. Together, these ensure minimal deviation from the behavior of the modeled continuous-time systems.",
+  "authors": [
+    "Matlack Charlie",
+    "Moritz Chet",
+    "Chizeck Howard"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2012",
+  "doi": "10.1109/EMBC.2012.6346275",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Extremities",
+    "Macaca",
+    "Models, Neurological",
+    "Movement",
+    "Normal Distribution",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

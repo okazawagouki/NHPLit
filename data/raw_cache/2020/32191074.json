@@ -1,0 +1,21 @@
+{
+  "pmid": "32191074",
+  "title": "Theory of neural coding predicts an upper bound on estimates of memory variability.",
+  "abstract": "Observers reproducing elementary visual features from memory after a short delay produce errors consistent with the encoding-decoding properties of neural populations. While inspired by electrophysiological observations of sensory neurons in cortex, the population coding account of these errors is based on a mathematical idealization of neural response functions that abstracts away most of the heterogeneity and complexity of real neuronal populations. Here we examine a more physiologically grounded model based on the tuning of a large set of neurons recorded in macaque V1 and show that key predictions of the idealized model are preserved. Both models predict long-tailed distributions of error when memory resources are taxed, as observed empirically in behavioral experiments and commonly approximated with a mixture of normal and uniform error components. Specifically, for an idealized homogeneous neural population, the width of the fitted normal distribution cannot exceed the average tuning width of the component neurons, and this also holds to a good approximation for more biologically realistic populations. Examining eight published studies of orientation recall, we find a consistent pattern of results suggestive of a median tuning width of approximately 20°, which compares well with neurophysiological observations. The finding that estimates of variability obtained by the normal-plus-uniform mixture method are bounded from above leads us to reevaluate previous studies that interpreted a saturation in width of the normal component as evidence for fundamental limits on the precision of perception, working memory, and long-term memory. (PsycInfo Database Record (c) 2020 APA, all rights reserved).",
+  "authors": [
+    "Taylor Robert",
+    "Bays Paul M"
+  ],
+  "journal": "Psychological review",
+  "year": "2020",
+  "doi": "10.1037/rev0000189",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Memory",
+    "Mental Recall",
+    "Models, Neurological",
+    "Neurons",
+    "Orientation"
+  ]
+}

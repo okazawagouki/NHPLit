@@ -1,0 +1,27 @@
+{
+  "pmid": "21451025",
+  "title": "A neurally efficient implementation of sensory population decoding.",
+  "abstract": "A sensory stimulus evokes activity in many neurons, creating a population response that must be \"decoded\" by the brain to estimate the parameters of that stimulus. Most decoding models have suggested complex neural circuits that compute optimal estimates of sensory parameters on the basis of responses in many sensory neurons. We propose a slightly suboptimal but practically simpler decoder. Decoding neurons integrate their inputs across 100 ms, incoming spikes are weighted by the preferred stimulus of the neuron of origin, and a local, cellular nonlinearity approximates divisive normalization without dividing explicitly. The suboptimal decoder includes two simplifying approximations. It uses estimates of firing rate across the population rather than computing the total population response, and it implements divisive normalization with local cellular mechanisms of single neurons rather than more complicated neural circuit mechanisms. When applied to the practical problem of estimating target speed from a realistic simulation of the population response in extrastriate visual area MT, the suboptimal decoder has almost the same accuracy and precision as traditional decoding models. It succeeds in predicting the precision and imprecision of motor behavior using a suboptimal decoding computation because it adds only a small amount of imprecision to the code for target speed in MT, which is itself imprecise.",
+  "authors": [
+    "Chaisanguanthum Kris S",
+    "Lisberger Stephen G"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2011",
+  "doi": "10.1523/JNEUROSCI.6776-10.2011",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cats",
+    "Cell Division",
+    "Cognition",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Conduction",
+    "Nonlinear Dynamics",
+    "Random Allocation",
+    "Reaction Time",
+    "Sensory Receptor Cells"
+  ]
+}

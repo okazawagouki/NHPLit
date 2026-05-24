@@ -1,0 +1,29 @@
+{
+  "pmid": "31412218",
+  "title": "Visual epidural field potentials possess high functional specificity in single trials.",
+  "abstract": "Recordings of epidural field potentials (EFPs) allow neuronal activity to be acquired over a large region of cortical tissue with minimal invasiveness. Because electrodes are placed on top of the dura and do not enter the neuronal tissue, EFPs offer intriguing options for both clinical and basic science research. On the other hand, EFPs represent the integrated activity of larger neuronal populations and possess a higher trial-by-trial variability and a reduced signal-to-noise ratio due the additional barrier of the dura. It is thus unclear whether and to what extent EFPs have sufficient spatial selectivity to allow for conclusions about the underlying functional cortical architecture, and whether single EFP trials provide enough information on the short timescales relevant for many clinical and basic neuroscience purposes. We used the high spatial resolution of primary visual cortex to address these issues and investigated the extent to which very short EFP traces allow reliable decoding of spatial information. We briefly presented different visual objects at one of nine closely adjacent locations and recorded neuronal activity with a high-density epidural multielectrode array in three macaque monkeys. With the use of receiver operating characteristics (ROC) to identify the most informative data, machine-learning algorithms provided close-to-perfect classification rates for all 27 stimulus conditions. A binary classifier applying a simple max function on ROC-selected data further showed that single trials might be classified with 100% performance even without advanced offline classifiers. Thus, although highly variable, EFPs constitute an extremely valuable source of information and offer new perspectives for minimally invasive recording of large-scale networks.<b>NEW & NOTEWORTHY</b> Epidural field potential (EFP) recordings provide a minimally invasive approach to investigate large-scale neural networks, but little is known about whether they possess the required specificity for basic and clinical neuroscience. By making use of the spatial selectivity of primary visual cortex, we show that single-trial information can be decoded with close-to-perfect performance, even without using advanced classifiers and based on very few data. This labels EFPs as a highly attractive and widely usable signal.",
+  "authors": [
+    "Fischer Benjamin",
+    "Schander Andreas",
+    "Kreiter Andreas K",
+    "Lang Walter",
+    "Wegener Detlef"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2019",
+  "doi": "10.1152/jn.00510.2019",
+  "mesh": [
+    "Animals",
+    "Dura Mater",
+    "Electrodes, Implanted",
+    "Evoked Potentials, Visual",
+    "Macaca mulatta",
+    "Machine Learning",
+    "Male",
+    "ROC Curve",
+    "Signal Processing, Computer-Assisted",
+    "Signal-To-Noise Ratio",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

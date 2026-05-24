@@ -1,0 +1,29 @@
+{
+  "pmid": "28285994",
+  "title": "Midbrain Dopamine Neurons Signal Belief in Choice Accuracy during a Perceptual Decision.",
+  "abstract": "Central to the organization of behavior is the ability to predict the values of outcomes to guide choices. The accuracy of such predictions is honed by a teaching signal that indicates how incorrect a prediction was (\"reward prediction error,\" RPE). In several reinforcement learning contexts, such as Pavlovian conditioning and decisions guided by reward history, this RPE signal is provided by midbrain dopamine neurons. In many situations, however, the stimuli predictive of outcomes are perceptually ambiguous. Perceptual uncertainty is known to influence choices, but it has been unclear whether or how dopamine neurons factor it into their teaching signal. To cope with uncertainty, we extended a reinforcement learning model with a belief state about the perceptually ambiguous stimulus; this model generates an estimate of the probability of choice correctness, termed decision confidence. We show that dopamine responses in monkeys performing a perceptually ambiguous decision task comply with the model's predictions. Consequently, dopamine responses did not simply reflect a stimulus' average expected reward value but were predictive of the trial-to-trial fluctuations in perceptual accuracy. These confidence-dependent dopamine responses emerged prior to monkeys' choice initiation, raising the possibility that dopamine impacts impending decisions, in addition to encoding a post-decision teaching signal. Finally, by manipulating reward size, we found that dopamine neurons reflect both the upcoming reward size and the confidence in achieving it. Together, our results show that dopamine responses convey teaching signals that are also appropriate for perceptual decisions.",
+  "authors": [
+    "Lak Armin",
+    "Nomoto Kensaku",
+    "Keramati Mehdi",
+    "Sakagami Masamichi",
+    "Kepecs Adam"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2017",
+  "doi": "10.1016/j.cub.2017.02.026",
+  "mesh": [
+    "Animals",
+    "Choice Behavior",
+    "Decision Making",
+    "Dopamine",
+    "Dopaminergic Neurons",
+    "Macaca",
+    "Male",
+    "Mesencephalon",
+    "Models, Animal",
+    "Perception",
+    "Reinforcement, Psychology",
+    "Reward"
+  ]
+}

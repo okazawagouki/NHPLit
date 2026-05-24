@@ -1,0 +1,30 @@
+{
+  "pmid": "41086829",
+  "title": "High-accuracy electrode implantation in deep brain structures using multi-camera neuronavigation in non-human primates.",
+  "abstract": "<i>Objective.</i>Precise electrophysiological recordings and stimulation of deep brain structures in large animal models such as non-human primates require highly accurate targeting methods that are currently lacking.<i>Approach.</i>To address this limitation, we have integrated advanced multi-camera neuronavigation, high-resolution multimodal neuroimaging (magnetic resonance imaging and computed tomography), and tailored surgical methods to chronically implant electrodes in deep structures of the macaque brain, with an accuracy below or at the millimeter scale.<i>Main results.</i>We first illustrate the advantage of multi-camera neuronavigation over traditional two-camera systems in 3D-printed head models, demonstrating that a submillimeter accuracy requires at least five cameras. We then introduce a detailed experimental protocol using skull-based registration for reaching submillimeter accuracies<i>in vivo</i>. This protocol was optimized and tested in three macaque monkeys across seven implantations targeting the hippocampus or entorhinal cortex, including five performed with skull-based registration. Next, we quantify our targeting accuracy for these two structures by<i>in vivo</i>neuroimaging and histological analyses. We show that our skull-based registration procedure enabled to target the entorhinal cortex with submillimetric accuracy (0.55 mm and 0.89 mm in two animals), while implantation errors for the hippocampus were slightly higher (1.11 mm and 1.68 mm in two animals). Finally, we validate our approach with electrophysiological recordings of these targeted structures during drowsiness and stimulation-induced epileptiform afterdischarges in two chronically implanted animals.<i>Significance.</i>This technological and surgical framework provides a means to record and stimulate deep brain structures in large animal models with submillimetric to millimetric accuracy.",
+  "authors": [
+    "Gupta Ankur",
+    "Boissenin Adrien",
+    "Vardalakis Nikolaos",
+    "Taillade Mathieu",
+    "Orignac Hugues",
+    "Biendon Nathalie",
+    "Dovero Sandra",
+    "Nguyen Tho Hai",
+    "Sadoun Amirouche",
+    "Wagner Fabien B"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2025",
+  "doi": "10.1088/1741-2552/ae135b",
+  "mesh": [
+    "Animals",
+    "Electrodes, Implanted",
+    "Neuronavigation",
+    "Macaca mulatta",
+    "Brain",
+    "Male",
+    "Deep Brain Stimulation",
+    "Magnetic Resonance Imaging"
+  ]
+}

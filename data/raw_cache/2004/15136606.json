@@ -1,0 +1,23 @@
+{
+  "pmid": "15136606",
+  "title": "Principal and independent components of macaque vocalizations: constructing stimuli to probe high-level sensory processing.",
+  "abstract": "Neurons in high-level sensory cortical areas respond to complex features in sensory stimuli. Feature elimination is a useful technique for studying these responses. In this approach, a complex stimulus, which evokes a neuronal response, is simplified, and if the cell responds to the reduced stimulus, it is considered selective for the remaining features. We have developed a feature-elimination technique that uses either the principal or the independent components of a stimulus to define a subset of features, to which a neuron might be sensitive. The original stimulus can be filtered using these components, resulting in a stimulus that retains only a fraction of the features present in the original. We demonstrate the use of this technique on macaque vocalizations, an important class of stimuli being used to study auditory function in awake, behaving primate experiments. We show that principal-component analysis extracts features that are closely related to the dominant Fourier components of the stimuli, often called formants in the study of speech perception. Conversely, independent-component analysis extracts features that preserve the relative phase across a set of harmonically related frequencies. We have used several statistical techniques to explore the original and filtered stimuli, as well as the components extracted by each technique. This novel approach provides a powerful method for determining the essential features within complex stimuli that activate higher-order sensory neurons.",
+  "authors": [
+    "Averbeck Bruno B",
+    "Romanski Lizabeth M"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Auditory Perception",
+    "Frontal Lobe",
+    "Humans",
+    "Macaca mulatta",
+    "Neurons, Afferent",
+    "Vocalization, Animal"
+  ]
+}

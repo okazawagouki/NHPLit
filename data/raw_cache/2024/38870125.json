@@ -1,0 +1,22 @@
+{
+  "pmid": "38870125",
+  "title": "The attentive reconstruction of objects facilitates robust object recognition.",
+  "abstract": "Humans are extremely robust in our ability to perceive and recognize objects-we see faces in tea stains and can recognize friends on dark streets. Yet, neurocomputational models of primate object recognition have focused on the initial feed-forward pass of processing through the ventral stream and less on the top-down feedback that likely underlies robust object perception and recognition. Aligned with the generative approach, we propose that the visual system actively facilitates recognition by reconstructing the object hypothesized to be in the image. Top-down attention then uses this reconstruction as a template to bias feedforward processing to align with the most plausible object hypothesis. Building on auto-encoder neural networks, our model makes detailed hypotheses about the appearance and location of the candidate objects in the image by reconstructing a complete object representation from potentially incomplete visual input due to noise and occlusion. The model then leverages the best object reconstruction, measured by reconstruction error, to direct the bottom-up process of selectively routing low-level features, a top-down biasing that captures a core function of attention. We evaluated our model using the MNIST-C (handwritten digits under corruptions) and ImageNet-C (real-world objects under corruptions) datasets. Not only did our model achieve superior performance on these challenging tasks designed to approximate real-world noise and occlusion viewing conditions, but also better accounted for human behavioral reaction times and error patterns than a standard feedforward Convolutional Neural Network. Our model suggests that a complete understanding of object perception and recognition requires integrating top-down and attention feedback, which we propose is an object reconstruction.",
+  "authors": [
+    "Ahn Seoyoung",
+    "Adeli Hossein",
+    "Zelinsky Gregory J"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2024",
+  "doi": "10.1371/journal.pcbi.1012159",
+  "mesh": [
+    "Humans",
+    "Attention",
+    "Neural Networks, Computer",
+    "Pattern Recognition, Visual",
+    "Computational Biology",
+    "Models, Neurological",
+    "Recognition, Psychology"
+  ]
+}

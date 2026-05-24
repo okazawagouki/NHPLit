@@ -1,0 +1,27 @@
+{
+  "pmid": "15802010",
+  "title": "Spikernels: predicting arm movements by embedding population spike rate patterns in inner-product spaces.",
+  "abstract": "Inner-product operators, often referred to as kernels in statistical learning, define a mapping from some input space into a feature space. The focus of this letter is the construction of biologically motivated kernels for cortical activities. The kernels we derive, termed Spikernels, map spike count sequences into an abstract vector space in which we can perform various prediction tasks. We discuss in detail the derivation of Spikernels and describe an efficient algorithm for computing their value on any two sequences of neural population spike counts. We demonstrate the merits of our modeling approach by comparing the Spikernel to various standard kernels in the task of predicting hand movement velocities from cortical recordings. All of the kernels that we tested in our experiments outperform the standard scalar product used in linear regression, with the Spikernel consistently achieving the best performance.",
+  "authors": [
+    "Shpigelman Lavi",
+    "Singer Yoram",
+    "Paz Rony",
+    "Vaadia Eilon"
+  ],
+  "journal": "Neural computation",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Psychomotor Performance",
+    "Regression, Psychology",
+    "Time Factors"
+  ]
+}

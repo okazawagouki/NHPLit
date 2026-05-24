@@ -1,0 +1,24 @@
+{
+  "pmid": "30403544",
+  "title": "Rethinking assumptions about how trial and nuisance variability impact neural task performance in a fast-processing regime.",
+  "abstract": "Task performance is determined not only by the amount of task-relevant signal present in our brains but also by the presence of noise, which can arise from multiple sources. Internal noise, or \"trial variability,\" manifests as trial-by-trial variations in neural responses under seemingly identical conditions. External factors can also translate into noise, particularly when a task requires extraction of a particular type of information from our environment amid changes in other task-irrelevant \"nuisance\" parameters. To better understand how signal, trial variability, and nuisance variability combine to determine neural task performance, we explored their interactions, both in simulation and when applied to recorded neural data. This exploration revealed that trial variability is typically larger than a neuron's task-relevant signal for tasks with fast reaction times, where spike count integration windows are short. In this low signal-to-trial variability regime, nuisance variability has the counterintuitive property of having a negligible impact on single-neuron task performance, even when it dominates the task-relevant signal. The inconsequential impact of nuisance variability on individual neurons also extends to descriptions of population performance, under the assumption that both trial and nuisance variability are uncorrelated between neurons. These results demonstrate that some basic intuitions about neural coding are misguided in the context of a fast-processing, low-spike-count regime. NEW & NOTEWORTHY Many everyday tasks require us to extract specific information from our environment while ignoring other things. When the neurons in our brains that carry task-relevant signals are also modulated by task-irrelevant \"nuisance\" information, nuisance modulation is expected to act as performance-limiting noise. Using both simulated and recorded neural data, we demonstrate that these intuitions are misguided when the brain operates in a fast-processing, low-spike-count regime, where nuisance variability is largely inconsequential for performance.",
+  "authors": [
+    "Roth Noam",
+    "Rust Nicole C"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2019",
+  "doi": "10.1152/jn.00503.2018",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motor Activity",
+    "Neurons",
+    "Pattern Recognition, Visual"
+  ]
+}

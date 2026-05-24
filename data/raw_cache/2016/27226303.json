@@ -1,0 +1,30 @@
+{
+  "pmid": "27226303",
+  "title": "New paradigm to assess brain cell morphology by diffusion-weighted MR spectroscopy in vivo.",
+  "abstract": "The brain is one of the most complex organs, and tools are lacking to assess its cellular morphology in vivo. Here we combine original diffusion-weighted magnetic resonance (MR) spectroscopy acquisition and novel modeling strategies to explore the possibility of quantifying brain cell morphology noninvasively. First, the diffusion of cell-specific metabolites is measured at ultra-long diffusion times in the rodent and primate brain in vivo to observe how cell long-range morphology constrains metabolite diffusion. Massive simulations of particles diffusing in synthetic cells parameterized by morphometric statistics are then iterated to fit experimental data. This method yields synthetic cells (tentatively neurons and astrocytes) that exhibit striking qualitative and quantitative similarities with histology (e.g., using Sholl analysis). With our approach, we measure major interspecies difference regarding astrocytes, whereas dendritic organization appears better conserved throughout species. This work suggests that the time dependence of metabolite diffusion coefficient allows distinguishing and quantitatively characterizing brain cell morphologies noninvasively.",
+  "authors": [
+    "Palombo Marco",
+    "Ligneul Clémence",
+    "Najac Chloé",
+    "Le Douce Juliette",
+    "Flament Julien",
+    "Escartin Carole",
+    "Hantraye Philippe",
+    "Brouillet Emmanuel",
+    "Bonvento Gilles",
+    "Valette Julien"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2016",
+  "doi": "10.1073/pnas.1504327113",
+  "mesh": [
+    "Animals",
+    "Astrocytes",
+    "Brain",
+    "Diffusion Magnetic Resonance Imaging",
+    "Macaca fascicularis",
+    "Male",
+    "Mice",
+    "Neurons"
+  ]
+}

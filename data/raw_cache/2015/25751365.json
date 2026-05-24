@@ -1,0 +1,31 @@
+{
+  "pmid": "25751365",
+  "title": "Viscoelastic characterization of the primate finger pad in vivo by microstep indentation and three-dimensional finite element models for tactile sensation studies.",
+  "abstract": "When we touch an object, surface loads imposed on the skin are transmitted to thousands of specialized nerve endings (mechanoreceptors) embedded within the skin. These mechanoreceptors transduce the mechanical signals imposed on them into a neural code of the incident stimuli, enabling us to feel the object. To understand the mechanisms of tactile sensation, it is critical to understand the relationship between the applied surface loads, mechanical state at the mechanoreceptor locations, and transduced neural codes. In this paper, we characterize the bulk viscoelastic properties of the primate finger pad and show its relationship to the dynamic firing rate of SA-1 mechanoreceptors. Two three-dimensional (3D) finite element viscoelastic models, a homogeneous and a multilayer model, of the primate fingertip are developed and calibrated with data from a series of force responses to micro-indentation experiments on primate finger pads. We test these models for validation by simulating indentation with a line load and comparing surface deflection with data in the literature (Srinivasan, 1989, \"Surface Deflection of Primate Fingertip Under Line Load,\" J. Biomech., 22(4), pp. 343-349). We show that a multilayer model with an elastic epidermis and viscoelastic core predicts both the spatial and temporal biomechanical response of the primate finger pad. Finally, to show the utility of the model, ramp and hold indentation with a flat plate is simulated. The multilayer model predicts the strain energy density at a mechanoreceptor location would decay at the same rate as the average dynamic firing rate of SA-1 mechanoreceptors in response to flat plate indentation (previously observed by Srinivasan and LaMotte, 1991 \"Encoding of Shape in the Responses of Cutaneous Mechanoreceptors,\" Information Processing in the Somatosensory System (Wenner-Gren International Symposium Series), O. Franzen and J. Westman, eds., Macmillan Press, London, UK), suggesting that the rate of adaptation of SA-1 mechanoreceptors is governed by the viscoelastic nature of its surrounding tissue.",
+  "authors": [
+    "Kumar Siddarth",
+    "Liu Gang",
+    "Schloerb David W",
+    "Srinivasan Mandayam A"
+  ],
+  "journal": "Journal of biomechanical engineering",
+  "year": "2015",
+  "doi": "10.1115/1.4029985",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Elastic Modulus",
+    "Fingers",
+    "Finite Element Analysis",
+    "Hardness",
+    "Hardness Tests",
+    "Imaging, Three-Dimensional",
+    "Macaca mulatta",
+    "Male",
+    "Mechanoreceptors",
+    "Models, Biological",
+    "Skin Physiological Phenomena",
+    "Touch",
+    "Viscosity"
+  ]
+}

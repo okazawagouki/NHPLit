@@ -1,0 +1,19 @@
+{
+  "pmid": "35383170",
+  "title": "Neural structure of a sensory decoder for motor control.",
+  "abstract": "The transformation of sensory input to motor output is often conceived as a decoder operating on neural representations. We seek a mechanistic understanding of sensory decoding by mimicking neural circuitry in the decoder's design. The results of a simple experiment shape our approach. Changing the size of a target for smooth pursuit eye movements changes the relationship between the variance and mean of the evoked behavior in a way that contradicts the regime of \"signal-dependent noise\" and defies traditional decoding approaches. A theoretical analysis leads us to propose a circuit for pursuit that includes multiple parallel pathways and multiple sources of variation. Behavioral and neural responses with biomimetic statistics emerge from a biologically-motivated circuit model with noise in the pathway that is dedicated to flexibly adjusting the strength of visual-motor transmission. Our results demonstrate the power of re-imagining decoding as processing through the parallel pathways of neural systems.",
+  "authors": [
+    "Egger Seth W",
+    "Lisberger Stephen G"
+  ],
+  "journal": "Nature communications",
+  "year": "2022",
+  "doi": "10.1038/s41467-022-29457-4",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Motion Perception",
+    "Photic Stimulation",
+    "Pursuit, Smooth"
+  ]
+}

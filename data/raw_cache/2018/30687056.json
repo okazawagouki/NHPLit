@@ -1,0 +1,19 @@
+{
+  "pmid": "30687056",
+  "title": "A Single-Cell Level and Connectome-Derived Computational Model of the <i>Drosophila</i> Brain.",
+  "abstract": "Computer simulations play an important role in testing hypotheses, integrating knowledge, and providing predictions of neural circuit functions. While considerable effort has been dedicated into simulating primate or rodent brains, the fruit fly (<i>Drosophila melanogaster</i>) is becoming a promising model animal in computational neuroscience for its small brain size, complex cognitive behavior, and abundancy of data available from genes to circuits. Moreover, several <i>Drosophila</i> connectome projects have generated a large number of neuronal images that account for a significant portion of the brain, making a systematic investigation of the whole brain circuit possible. Supported by FlyCircuit (http://www.flycircuit.tw), one of the largest <i>Drosophila</i> neuron image databases, we began a long-term project with the goal to construct a whole-brain spiking network model of the <i>Drosophila</i> brain. In this paper, we report the outcome of the first phase of the project. We developed the Flysim platform, which (1) identifies the polarity of each neuron arbor, (2) predicts connections between neurons, (3) translates morphology data from the database into physiology parameters for computational modeling, (4) reconstructs a brain-wide network model, which consists of 20,089 neurons and 1,044,020 synapses, and (5) performs computer simulations of the resting state. We compared the reconstructed brain network with a randomized brain network by shuffling the connections of each neuron. We found that the reconstructed brain can be easily stabilized by implementing synaptic short-term depression, while the randomized one exhibited seizure-like firing activity under the same treatment. Furthermore, the reconstructed <i>Drosophila</i> brain was structurally and dynamically more diverse than the randomized one and exhibited both Poisson-like and patterned firing activities. Despite being at its early stage of development, this single-cell level brain model allows us to study some of the fundamental properties of neural networks including network balance, critical behavior, long-term stability, and plasticity.",
+  "authors": [
+    "Huang Yu-Chi",
+    "Wang Cheng-Te",
+    "Su Ta-Shun",
+    "Kao Kuo-Wei",
+    "Lin Yen-Jen",
+    "Chuang Chao-Chun",
+    "Chiang Ann-Shyn",
+    "Lo Chung-Chuan"
+  ],
+  "journal": "Frontiers in neuroinformatics",
+  "year": "2018",
+  "doi": "10.3389/fninf.2018.00099",
+  "mesh": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "23852967",
+  "title": "Low-power circuits for brain-machine interfaces.",
+  "abstract": "This paper presents work on ultra-low-power circuits for brain-machine interfaces with applications for paralysis prosthetics, stroke, Parkinson's disease, epilepsy, prosthetics for the blind, and experimental neuroscience systems. The circuits include a micropower neural amplifier with adaptive power biasing for use in multi-electrode arrays; an analog linear decoding and learning architecture for data compression; low-power radio-frequency (RF) impedance-modulation circuits for data telemetry that minimize power consumption of implanted systems in the body; a wireless link for efficient power transfer; mixed-signal system integration for efficiency, robustness, and programmability; and circuits for wireless stimulation of neurons with power-conserving sleep modes and awake modes. Experimental results from chips that have stimulated and recorded from neurons in the zebra finch brain and results from RF power-link, RF data-link, electrode-recording and electrode-stimulating systems are presented. Simulations of analog learning circuits that have successfully decoded prerecorded neural signals from a monkey brain are also presented.",
+  "authors": [
+    "Sarpeshkar Rahul",
+    "Wattanapanitch Woradorn",
+    "Arfin Scott K",
+    "Rapoport Benjamin I",
+    "Mandal Soumyajit",
+    "Baker Michael W",
+    "Fee Michale S",
+    "Musallam Sam",
+    "Andersen Richard A"
+  ],
+  "journal": "IEEE transactions on biomedical circuits and systems",
+  "year": "2008",
+  "doi": "10.1109/TBCAS.2008.2003198",
+  "mesh": []
+}

@@ -1,0 +1,16 @@
+{
+  "pmid": "21344015",
+  "title": "Extraction of Network Topology From Multi-Electrode Recordings: Is there a Small-World Effect?",
+  "abstract": "The simultaneous recording of the activity of many neurons poses challenges for multivariate data analysis. Here, we propose a general scheme of reconstruction of the functional network from spike train recordings. Effective, causal interactions are estimated by fitting generalized linear models on the neural responses, incorporating effects of the neurons' self-history, of input from other neurons in the recorded network and of modulation by an external stimulus. The coupling terms arising from synaptic input can be transformed by thresholding into a binary connectivity matrix which is directed. Each link between two neurons represents a causal influence from one neuron to the other, given the observation of all other neurons from the population. The resulting graph is analyzed with respect to small-world and scale-free properties using quantitative measures for directed networks. Such graph-theoretic analyses have been performed on many complex dynamic networks, including the connectivity structure between different brain areas. Only few studies have attempted to look at the structure of cortical neural networks on the level of individual neurons. Here, using multi-electrode recordings from the visual system of the awake monkey, we find that cortical networks lack scale-free behavior, but show a small, but significant small-world structure. Assuming a simple distance-dependent probabilistic wiring between neurons, we find that this connectivity structure can account for all of the networks' observed small-world ness. Moreover, for multi-electrode recordings the sampling of neurons is not uniform across the population. We show that the small-world-ness obtained by such a localized sub-sampling overestimates the strength of the true small-world structure of the network. This bias is likely to be present in all previous experiments based on multi-electrode recordings.",
+  "authors": [
+    "Gerhard Felipe",
+    "Pipa Gordon",
+    "Lima Bruss",
+    "Neuenschwander Sergio",
+    "Gerstner Wulfram"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2011",
+  "doi": "10.3389/fncom.2011.00004",
+  "mesh": []
+}

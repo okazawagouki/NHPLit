@@ -1,0 +1,25 @@
+{
+  "pmid": "23366143",
+  "title": "Internal models engaged by brain-computer interface control.",
+  "abstract": "Internal models have been proposed to explain the brain's ability to compensate for sensory feedback delays by predicting the sensory consequences of movement commands. Single-neuron studies in the oculomotor and vestibulo-ocular systems have provided evidence of internal models, as have behavioral studies in the skeletomotor system. Here, we present evidence of internal models from simultaneously recorded population activity underlying closed-loop brain-computer interface (BCI) control. We studied cursor-based BCI control by a nonhuman primate implanted with a multi-electrode array in motor cortex. Using a novel BCI task, we measured the visual feedback processing delay to be about 130 milliseconds. By examining the task-based appropriateness of the population activity at different time lags, we found evidence that the subject compensates for the feedback delay by predicting upcoming cursor positions, suggesting the use of an internal forward model. Lastly, we examined the time course of internal model adaptation after altering the mapping between population activity and cursor movements. This study suggests that closed-loop BCI experiments combined with novel statistical analyses can provide insight into the neural substrates of feedback motor control and motor learning.",
+  "authors": [
+    "Golub Matthew D",
+    "Yu Byron M",
+    "Chase Steven M"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2012",
+  "doi": "10.1109/EMBC.2012.6346182",
+  "mesh": [
+    "Animals",
+    "Arm",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Feedback, Sensory",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Task Performance and Analysis"
+  ]
+}

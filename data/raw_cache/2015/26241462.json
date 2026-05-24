@@ -1,0 +1,23 @@
+{
+  "pmid": "26241462",
+  "title": "Spatially-global integration of closed, fragmented contours by finding the shortest-path in a log-polar representation.",
+  "abstract": "Finding the occluding contours of objects in real 2D retinal images of natural 3D scenes is done by determining, which contour fragments are relevant, and the order in which they should be connected. We developed a model that finds the closed contour represented in the image by solving a shortest path problem that uses a log-polar representation of the image; the kind of representation known to exist in area V1 of the primate cortex. The shortest path in a log-polar representation favors the smooth, convex and closed contours in the retinal image that have the smallest number of gaps. This approach is practical because finding a globally-optimal solution to a shortest path problem is computationally easy. Our model was tested in four psychophysical experiments. In the first two experiments, the subject was presented with a fragmented convex or concave polygon target among a large number of unrelated pieces of contour (distracters). The density of these pieces of contour was uniform all over the screen to minimize spatially-local cues. The orientation of each target contour fragment was randomly perturbed by varying the levels of jitter. Subjects drew a closed contour that represented the target's contour on a screen. The subjects' performance was nearly perfect when the jitter-level was low. Their performance deteriorated as jitter-levels were increased. The performance of our model was very similar to our subjects'. In two subsequent experiments, the subject was asked to discriminate a briefly-presented egg-shaped object while maintaining fixation at several different positions relative to the closed contour of the shape. The subject's discrimination performance was affected by the fixation position in much the same way as the model's.",
+  "authors": [
+    "Kwon TaeKyu",
+    "Agrawal Kunal",
+    "Li Yunfeng",
+    "Pizlo Zygmunt"
+  ],
+  "journal": "Vision research",
+  "year": "2016",
+  "doi": "10.1016/j.visres.2015.06.007",
+  "mesh": [
+    "Adult",
+    "Form Perception",
+    "Humans",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Psychophysics",
+    "Young Adult"
+  ]
+}

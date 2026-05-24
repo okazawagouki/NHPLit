@@ -1,0 +1,23 @@
+{
+  "pmid": "39316044",
+  "title": "When and why does motor preparation arise in recurrent neural network models of motor control?",
+  "abstract": "During delayed ballistic reaches, motor areas consistently display movement-specific activity patterns prior to movement onset. It is unclear why these patterns arise: while they have been proposed to seed an initial neural state from which the movement unfolds, recent experiments have uncovered the presence and necessity of ongoing inputs during movement, which may lessen the need for careful initialization. Here, we modeled the motor cortex as an input-driven dynamical system, and we asked what the optimal way to control this system to perform fast delayed reaches is. We find that delay-period inputs consistently arise in an optimally controlled model of M1. By studying a variety of network architectures, we could dissect and predict the situations in which it is beneficial for a network to prepare. Finally, we show that optimal input-driven control of neural dynamics gives rise to multiple phases of preparation during reach sequences, providing a novel explanation for experimentally observed features of monkey M1 activity in double reaching.",
+  "authors": [
+    "Schimel Marine",
+    "Kao Ta-Chu",
+    "Hennequin Guillaume"
+  ],
+  "journal": "eLife",
+  "year": "2024",
+  "doi": "10.7554/eLife.89131",
+  "mesh": [
+    "Motor Cortex",
+    "Animals",
+    "Models, Neurological",
+    "Movement",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Psychomotor Performance",
+    "Humans"
+  ]
+}

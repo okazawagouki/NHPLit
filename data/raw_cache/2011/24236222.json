@@ -1,0 +1,17 @@
+{
+  "pmid": "24236222",
+  "title": "Co-registration of high resolution MRI scans with partial brain coverage in non-human primates.",
+  "abstract": "Dynamic structural and functional remodeling of the Central Nervous System occurs throughout the lifespan of the organism from the molecular to the systems level. MRI offers several advantages to observe this phenomenon: it is non-invasive and non-destructive, the contrast can be tuned to interrogate different tissue properties and imaging resolution can range from cortical columns to whole brain networks in the same session. To measure these changes reliably, functional maps generated over time with high resolution fMRI need to be registered accurately. This article presents a new method for the automatic registration of thin cortical MR volumes that are aligned with the functional maps. These acquisitions focus on the primary somato-sensory cortex, a region in the anterior parietal part of the brain, responsible for fine touch and proprioception. Currently, these slabs are acquired in approximately the same orientation from acquisition to acquisition and then registered by hand. Because they only cover a small portion of the cortex, their direct automatic registration is difficult. To address this issue, we propose a method relying on an intermediate image, acquired with a surface coil that covers a larger portion of the head to which the slabs can be registered. Because images acquired with surface coils suffer from severe intensity attenuation artifact, we also propose a method to register these. The results from data sets obtained with 3 squirrel monkeys show a registration accuracy of 30 micrometers.).",
+  "authors": [
+    "Lecoeur Jérémy",
+    "Wang Feng",
+    "Chen Li Min",
+    "Li Rui",
+    "Avison Malcom J",
+    "Dawant Benoit M"
+  ],
+  "journal": "Proceedings of SPIE--the International Society for Optical Engineering",
+  "year": "2011",
+  "doi": "",
+  "mesh": []
+}

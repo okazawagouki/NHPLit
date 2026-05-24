@@ -1,0 +1,37 @@
+{
+  "pmid": "27067378",
+  "title": "Demixed principal component analysis of neural population data.",
+  "abstract": "Neurons in higher cortical areas, such as the prefrontal cortex, are often tuned to a variety of sensory and motor variables, and are therefore said to display mixed selectivity. This complexity of single neuron responses can obscure what information these areas represent and how it is represented. Here we demonstrate the advantages of a new dimensionality reduction technique, demixed principal component analysis (dPCA), that decomposes population activity into a few components. In addition to systematically capturing the majority of the variance of the data, dPCA also exposes the dependence of the neural representation on task parameters such as stimuli, decisions, or rewards. To illustrate our method we reanalyze population data from four datasets comprising different species, different cortical areas and different experimental tasks. In each case, dPCA provides a concise way of visualizing the data that summarizes the task-dependent features of the population response in a single figure.",
+  "authors": [
+    "Kobak Dmitry",
+    "Brendel Wieland",
+    "Constantinidis Christos",
+    "Feierstein Claudia E",
+    "Kepecs Adam",
+    "Mainen Zachary F",
+    "Qi Xue-Lian",
+    "Romo Ranulfo",
+    "Uchida Naoshige",
+    "Machens Christian K"
+  ],
+  "journal": "eLife",
+  "year": "2016",
+  "doi": "10.7554/eLife.10989",
+  "mesh": [
+    "Animals",
+    "Datasets as Topic",
+    "Decision Making",
+    "Macaca mulatta",
+    "Memory, Short-Term",
+    "Motor Neurons",
+    "Multifactor Dimensionality Reduction",
+    "Olfactory Perception",
+    "Prefrontal Cortex",
+    "Principal Component Analysis",
+    "Rats",
+    "Reward",
+    "Sensory Receptor Cells",
+    "Spatial Navigation",
+    "Task Performance and Analysis"
+  ]
+}

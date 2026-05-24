@@ -1,0 +1,28 @@
+{
+  "pmid": "39693678",
+  "title": "Temporal spiking generative adversarial networks for heading direction decoding.",
+  "abstract": "The spike-based neuronal responses within the ventral intraparietal area (VIP) exhibit intricate spatial and temporal dynamics in the posterior parietal cortex, presenting decoding challenges such as limited data availability at the biological population level. The practical difficulty in collecting VIP neuronal response data hinders the application of sophisticated decoding models. To address this challenge, we propose a unified spike-based decoding framework leveraging spiking neural networks (SNNs) for both generative and decoding purposes, for their energy efficiency and suitability for neural decoding tasks. We propose the Temporal Spiking Generative Adversarial Networks (T-SGAN), a model based on a spiking transformer, to generate synthetic time-series data reflecting the neuronal response of VIP neurons. T-SGAN incorporates temporal segmentation to reduce the temporal dimension length, while spatial self-attention facilitates the extraction of associated information among VIP neurons. This is followed by recurrent SNNs decoder equipped with an attention mechanism, designed to capture the intricate spatial and temporal dynamics for heading direction decoding. Experimental evaluations conducted on biological datasets from monkeys showcase the effectiveness of the proposed framework. Results indicate that T-SGAN successfully generates realistic synthetic data, leading to a significant improvement of up to 1.75% in decoding accuracy for recurrent SNNs. Furthermore, the SNN-based decoding framework capitalizes on the low power consumption advantages, offering substantial benefits for neuronal response decoding applications.",
+  "authors": [
+    "Shen Jiangrong",
+    "Wang Kejun",
+    "Gao Wei",
+    "Liu Jian K",
+    "Xu Qi",
+    "Pan Gang",
+    "Chen Xiaodong",
+    "Tang Huajin"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2025",
+  "doi": "10.1016/j.neunet.2024.106975",
+  "mesh": [
+    "Neural Networks, Computer",
+    "Animals",
+    "Neurons",
+    "Action Potentials",
+    "Parietal Lobe",
+    "Models, Neurological",
+    "Macaca mulatta",
+    "Generative Adversarial Networks"
+  ]
+}

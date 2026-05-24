@@ -1,0 +1,26 @@
+{
+  "pmid": "21613581",
+  "title": "Three-dimensional localization of neurons in cortical tetrode recordings.",
+  "abstract": "The recording radius and spatial selectivity of an extracellular probe are important for interpreting neurophysiological recordings but are rarely measured. Moreover, an analysis of the recording biophysics of multisite probes (e.g., tetrodes) can provide for source characterization and localization of spiking single units, but this capability has remained largely unexploited. Here we address both issues quantitatively. Advancing a tetrode (≈40-μm contact separation, tetrahedral geometry) in 5- to 10-μm steps, we repeatedly recorded extracellular action potentials (EAPs) of single neurons in the visual cortex. Using measured spatial variation of EAPs, the tetrodes' measured geometry, and a volume conductor model of the cortical tissue, we solved the inverse problem of estimating the location and the size of the equivalent dipole model of the spike generator associated with each neuron. Half of the 61 visual neurons were localized within a radius of ≈100 μm and 95% within ≈130 μm around the tetrode tip (i.e., a large fraction was much further than previously thought). Because of the combined angular sensitivity of the tetrode's leads, location uncertainty was less than one-half the cell's distance. We quantified the spatial dependence of the probability of cell isolation, the isolated fraction, and the dependence of the recording radius on probe size and equivalent dipole size. We also reconstructed the spatial configuration of sets of simultaneously recorded neurons to demonstrate the potential use of 3D dipole localization for functional anatomy. Finally, we found that the dipole moment vector, surprisingly, tended to point toward the probe, leading to the interpretation that the equivalent dipole represents a \"local lobe\" of the dendritic arbor.",
+  "authors": [
+    "Mechler Ferenc",
+    "Victor Jonathan D",
+    "Ohiorhenuan Ifije",
+    "Schmid Anita M",
+    "Hu Qin"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2011",
+  "doi": "10.1152/jn.00515.2010",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cats",
+    "Electrodes",
+    "Extracellular Fluid",
+    "Macaca",
+    "Male",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

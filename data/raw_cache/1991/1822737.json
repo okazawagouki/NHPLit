@@ -1,0 +1,24 @@
+{
+  "pmid": "1822737",
+  "title": "A more biologically plausible learning rule than backpropagation applied to a network model of cortical area 7a.",
+  "abstract": "Area 7a of the posterior parietal cortex of the primate brain is concerned with representing head-centered space by combining information about the retinal location of a visual stimulus and the position of the eyes in the orbits. An artificial neural network was previously trained to perform this coordinate transformation task using the backpropagation learning procedure, and units in its middle layer (the hidden units) developed properties very similar to those of area 7a neurons presumed to code for spatial location (Andersen and Zipser, 1988; Zipser and Andersen, 1988). We developed two neural networks with architecture similar to Zipser and Andersen's model and trained them to perform the same task using a more biologically plausible learning procedure than backpropagation. This procedure is a modification of the Associative Reward-Penalty (AR-P) algorithm (Barto and Anandan, 1985), which adjusts connection strengths using a global reinforcement signal and local synaptic information. Our networks learn to perform the task successfully to any degree of accuracy and almost as quickly as with backpropagation, and the hidden units develop response properties very similar to those of area 7a neurons. In particular, the probability of firing of the hidden units in our networks varies with eye position in a roughly planar fashion, and their visual receptive fields are large and have complex surfaces. The synaptic strengths computed by the AR-P algorithm are equivalent to and interchangeable with those computed by backpropagation. Our networks also perform the correct transformation on pairs of eye and retinal positions never encountered before. All of these findings are unaffected by the interposition of an extra layer of units between the hidden and output layers. These results show that the response properties of the hidden units of a layered network trained to perform coordinate transformations, and their similarity with those of area 7a neurons, are not a specific result of backpropagation training. The fact that they can be obtained by a more biologically plausible learning rule corroborates the validity of this neural network's computational algorithm as a plausible model of how area 7a may perform coordinate transformations.",
+  "authors": [
+    "Mazzoni P",
+    "Andersen R A",
+    "Jordan M I"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "1991",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Cerebral Cortex",
+    "Eye Movements",
+    "Generalization, Psychological",
+    "Learning",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Retina",
+    "Visual Fields"
+  ]
+}

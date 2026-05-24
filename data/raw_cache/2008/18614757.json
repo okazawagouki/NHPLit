@@ -1,0 +1,35 @@
+{
+  "pmid": "18614757",
+  "title": "Detecting neural-state transitions using hidden Markov models for motor cortical prostheses.",
+  "abstract": "Neural prosthetic interfaces use neural activity related to the planning and perimovement epochs of arm reaching to afford brain-directed control of external devices. Previous research has primarily centered on accurately decoding movement intention from either plan or perimovement activity, but has assumed that temporal boundaries between these epochs are known to the decoding system. In this work, we develop a technique to automatically differentiate between baseline, plan, and perimovement epochs of neural activity. Specifically, we use a generative model of neural activity to capture how neural activity varies between these three epochs. Our approach is based on a hidden Markov model (HMM), in which the latent variable (state) corresponds to the epoch of neural activity, coupled with a state-dependent Poisson firing model. Using an HMM, we demonstrate that the time of transition from baseline to plan epochs, a transition in neural activity that is not accompanied by any external behavior changes, can be detected using a threshold on the a posteriori HMM state probabilities. Following detection of the plan epoch, we show that the intended target of a center-out movement can be detected about as accurately as that by a maximum-likelihood estimator using a window of known plan activity. In addition, we demonstrate that our HMM can detect transitions in neural activity corresponding to targets not found in training data. Thus the HMM technique for automatically detecting transitions between epochs of neural activity enables prosthetic interfaces that can operate autonomously.",
+  "authors": [
+    "Kemere Caleb",
+    "Santhanam Gopal",
+    "Yu Byron M",
+    "Afshar Afsheen",
+    "Ryu Stephen I",
+    "Meng Teresa H",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2008",
+  "doi": "10.1152/jn.00924.2007",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cognition",
+    "Cues",
+    "Electrodes, Implanted",
+    "Forearm",
+    "Macaca mulatta",
+    "Male",
+    "Markov Chains",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Motor Cortex",
+    "Poisson Distribution",
+    "Prostheses and Implants",
+    "Space Perception",
+    "Stereotyped Behavior"
+  ]
+}

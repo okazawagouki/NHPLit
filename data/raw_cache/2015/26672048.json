@@ -1,0 +1,24 @@
+{
+  "pmid": "26672048",
+  "title": "A 128-Channel Extreme Learning Machine-Based Neural Decoder for Brain Machine Interfaces.",
+  "abstract": "Currently, state-of-the-art motor intention decoding algorithms in brain-machine interfaces are mostly implemented on a PC and consume significant amount of power. A machine learning coprocessor in 0.35- μm CMOS for the motor intention decoding in the brain-machine interfaces is presented in this paper. Using Extreme Learning Machine algorithm and low-power analog processing, it achieves an energy efficiency of 3.45 pJ/MAC at a classification rate of 50 Hz. The learning in second stage and corresponding digitally stored coefficients are used to increase robustness of the core analog processor. The chip is verified with neural data recorded in monkey finger movements experiment, achieving a decoding accuracy of 99.3% for movement type. The same coprocessor is also used to decode time of movement from asynchronous neural spikes. With time-delayed feature dimension enhancement, the classification accuracy can be increased by 5% with limited number of input channels. Further, a sparsity promoting training scheme enables reduction of number of programmable weights by ≈ 2X.",
+  "authors": [
+    "Chen Yi",
+    "Yao Enyi",
+    "Basu Arindam"
+  ],
+  "journal": "IEEE transactions on biomedical circuits and systems",
+  "year": "2016",
+  "doi": "10.1109/TBCAS.2015.2483618",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electronics, Medical",
+    "Fingers",
+    "Haplorhini",
+    "Humans",
+    "Machine Learning",
+    "Neurons"
+  ]
+}

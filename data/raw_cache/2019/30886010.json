@@ -1,0 +1,30 @@
+{
+  "pmid": "30886010",
+  "title": "Suppressive Traveling Waves Shape Representations of Illusory Motion in Primary Visual Cortex of Awake Primate.",
+  "abstract": "How does the brain link visual stimuli across space and time? Visual illusions provide an experimental paradigm to study these processes. When two stationary dots are flashed in close spatial and temporal succession, human observers experience a percept of apparent motion. Large spatiotemporal separation challenges the visual system to keep track of object identity along the apparent motion path, the so-called \"correspondence problem.\" Here, we use voltage-sensitive dye imaging in primary visual cortex (V1) of awake monkeys to show that intracortical connections within V1 can solve this issue by shaping cortical dynamics to represent the illusory motion. We find that the appearance of the second stimulus in V1 creates a systematic suppressive wave traveling toward the retinotopic representation of the first. Using a computational model, we show that the suppressive wave is the emergent property of a recurrent gain control fed by the intracortical network. This suppressive wave acts to explain away ambiguous correspondence problems and contributes to precisely encode the expected motion velocity at the surface of V1. Together, these results demonstrate that the nonlinear dynamics within retinotopic maps can shape cortical representations of illusory motion. Understanding these dynamics will shed light on how the brain links sensory stimuli across space and time, by preformatting population responses for a straightforward read-out by downstream areas.<b>SIGNIFICANCE STATEMENT</b> Traveling waves have recently been observed in different animal species, brain areas, and behavioral states. However, it is still unclear what are their functional roles. In the case of cortical visual processing, waves propagate across retinotopic maps and can hereby generate interactions between spatially and temporally separated instances of feedforward driven activity. Such interactions could participate in processing long-range apparent motion stimuli, an illusion for which no clear neuronal mechanisms have yet been proposed. Using this paradigm in awake monkeys, we show that suppressive traveling waves produce a spatiotemporal normalization of apparent motion stimuli. Our study suggests that cortical waves shape the representation of illusory moving stimulus within retinotopic maps for a straightforward read-out by downstream areas.",
+  "authors": [
+    "Chemla Sandrine",
+    "Reynaud Alexandre",
+    "di Volo Matteo",
+    "Zerlaut Yann",
+    "Perrinet Laurent",
+    "Destexhe Alain",
+    "Chavane Frédéric"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2019",
+  "doi": "10.1523/JNEUROSCI.2792-18.2019",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Illusions",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motion Perception",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Wakefulness"
+  ]
+}

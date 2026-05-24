@@ -1,0 +1,28 @@
+{
+  "pmid": "39285002",
+  "title": "Automated customization of large-scale spiking network models to neuronal population activity.",
+  "abstract": "Understanding brain function is facilitated by constructing computational models that accurately reproduce aspects of brain activity. Networks of spiking neurons capture the underlying biophysics of neuronal circuits, yet their activity's dependence on model parameters is notoriously complex. As a result, heuristic methods have been used to configure spiking network models, which can lead to an inability to discover activity regimes complex enough to match large-scale neuronal recordings. Here we propose an automatic procedure, Spiking Network Optimization using Population Statistics (SNOPS), to customize spiking network models that reproduce the population-wide covariability of large-scale neuronal recordings. We first confirmed that SNOPS accurately recovers simulated neural activity statistics. Then, we applied SNOPS to recordings in macaque visual and prefrontal cortices and discovered previously unknown limitations of spiking network models. Taken together, SNOPS can guide the development of network models, thereby enabling deeper insight into how networks of neurons give rise to brain function.",
+  "authors": [
+    "Wu Shenghao",
+    "Huang Chengcheng",
+    "Snyder Adam C",
+    "Smith Matthew A",
+    "Doiron Brent",
+    "Yu Byron M"
+  ],
+  "journal": "Nature computational science",
+  "year": "2024",
+  "doi": "10.1038/s43588-024-00688-3",
+  "mesh": [
+    "Animals",
+    "Models, Neurological",
+    "Neurons",
+    "Action Potentials",
+    "Nerve Net",
+    "Prefrontal Cortex",
+    "Computer Simulation",
+    "Macaca",
+    "Visual Cortex",
+    "Algorithms"
+  ]
+}

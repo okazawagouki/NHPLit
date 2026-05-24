@@ -1,0 +1,33 @@
+{
+  "pmid": "35613546",
+  "title": "A low-power communication scheme for wireless, 1000 channel brain-machine interfaces.",
+  "abstract": "<i>Objective</i>. Brain-machine interfaces (BMIs) have the potential to restore motor function but are currently limited by electrode count and long-term recording stability. These challenges may be solved through the use of free-floating 'motes' which wirelessly transmit recorded neural signals, if power consumption can be kept within safe levels when scaling to thousands of motes. Here, we evaluated a pulse-interval modulation (PIM) communication scheme for infrared (IR)-based motes that aims to reduce the wireless data rate and system power consumption.<i>Approach</i>. To test PIM's ability to efficiently communicate neural information, we simulated the communication scheme in a real-time closed-loop BMI with non-human primates. Additionally, we performed circuit simulations of an IR-based 1000-mote system to calculate communication accuracy and total power consumption.<i>Main results</i>. We found that PIM at 1 kb/s per channel maintained strong correlations with true firing rate and matched online BMI performance of a traditional wired system. Closed-loop BMI tests suggest that lags as small as 30 ms can have significant performance effects. Finally, unlike other IR communication schemes, PIM is feasible in terms of power, and neural data can accurately be recovered on a receiver using 3 mW for 1000 channels.<i>Significance.</i>These results suggest that PIM-based communication could significantly reduce power usage of wireless motes to enable higher channel-counts for high-performance BMIs.",
+  "authors": [
+    "Costello Joseph T",
+    "Nason-Tomaszewski Samuel R",
+    "An Hyochan",
+    "Lee Jungho",
+    "Mender Matthew J",
+    "Temmar Hisham",
+    "Wallace Dylan M",
+    "Lim Jongyup",
+    "Willsey Matthew S",
+    "Patil Parag G",
+    "Jang Taekwang",
+    "Phillips Jamie D",
+    "Kim Hun-Seok",
+    "Blaauw David",
+    "Chestek Cynthia A"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2022",
+  "doi": "10.1088/1741-2552/ac7352",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Communication",
+    "Electrodes",
+    "Primates",
+    "Wireless Technology"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "8815907",
+  "title": "Optic flow processing in monkey STS: a theoretical and experimental approach.",
+  "abstract": "How does the brain process visual information about self-motion? In monkey cortex, the analysis of visual motion is performed by successive areas specialized in different aspects of motion processing. Whereas neurons in the middle temporal (MT) area are direction-selective for local motion, neurons in the medial superior temporal (MST) area respond to motion patterns. A neural network model attempts to link these properties to the psychophysics of human heading detection from optic flow. It proposes that populations of neurons represent specific directions of heading. We quantitatively compared single-unit recordings in area MST with single-neuron simulations in this model. Predictions were derived from simulations and subsequently tested in recorded neurons. Neuronal activities depended on the position of the singular point in the optic flow. Best responses to opposing motions occurred for opposite locations of the singular point in the visual field. Excitation by one type of motion is paired with inhibition by the opposite motion. Activity maxima often occur for peripheral singular points. The averaged recorded shape of the response modulations is sigmoidal, which is in agreement with model predictions. We also tested whether the activity of the neuronal population in MST can represent the directions of heading in our stimuli. A simple least-mean-square minimization could retrieve the direction of heading from the neuronal activities with a precision of 4.3 degrees. Our results show good agreement between the proposed model and the neuronal responses in area MST and further support the hypothesis that area MST is involved in visual navigation.",
+  "authors": [
+    "Lappe M",
+    "Bremmer F",
+    "Pekel M",
+    "Thiele A",
+    "Hoffmann K P"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1996",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Head Movements",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Self Concept",
+    "Temporal Lobe",
+    "Visual Perception"
+  ]
+}

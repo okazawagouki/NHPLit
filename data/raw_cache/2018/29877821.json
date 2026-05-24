@@ -1,0 +1,33 @@
+{
+  "pmid": "29877821",
+  "title": "On-Probe Neural Interface ASIC for Combined Electrical Recording and Optogenetic Stimulation.",
+  "abstract": "Neuromodulation technologies are progressing from pacemaking and sensory operations to full closed-loop control. In particular, optogenetics-the genetic modification of light sensitivity into neural tissue allows for simultaneous optical stimulation and electronic recording. This paper presents a neural interface application-specified integrated circuit (ASIC) for intelligent optoelectronic probes. The architecture is designed to enable simultaneous optical neural stimulation and electronic recording. It provides four low noise (2.08  μV) recording channels optimized for recording local field potentials (LFPs) (0.1-300 Hz bandwidth, 5 mV range, sampled 10-bit@4 kHz), which are more stable for chronic applications. For stimulation, it provides six independently addressable optical driver circuits, which can provide both intensity (8-bit resolution across a 1.1 mA range) and pulse-width modulation for high-radiance light emitting diodes (LEDs). The system includes a fully digital interface using a serial peripheral interface (SPI) protocol to allow for use with embedded controllers. The SPI interface is embedded within a finite state machine (FSM), which implements a command interpreter that can send out LFP data whilst receiving instructions to control LED emission. The circuit has been implemented in a commercially available 0.35  μm CMOS technology occupying a 1.95 mm 1.10 mm footprint for mounting onto the head of a silicon probe. Measured results are given for a variety of bench-top, in vitro and in vivo experiments, quantifying system performance and also demonstrating concurrent recording and stimulation within relevant experimental models.",
+  "authors": [
+    "Ramezani Reza",
+    "Liu Yan",
+    "Dehkhoda Fahimeh",
+    "Soltan Ahmed",
+    "Haci Dorian",
+    "Zhao Hubin",
+    "Firfilionis Dimitrios",
+    "Hazra Anupam",
+    "Cunningham Mark O",
+    "Jackson Andrew",
+    "Constandinou Timothy G",
+    "Degenaar Patrick"
+  ],
+  "journal": "IEEE transactions on biomedical circuits and systems",
+  "year": "2018",
+  "doi": "10.1109/TBCAS.2018.2818818",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Optic Nerve",
+    "Optogenetics",
+    "Photic Stimulation",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

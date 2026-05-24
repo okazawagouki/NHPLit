@@ -1,0 +1,27 @@
+{
+  "pmid": "19862612",
+  "title": "LFP spectral peaks in V1 cortex: network resonance and cortico-cortical feedback.",
+  "abstract": "This paper is about how cortical recurrent interactions in primary visual cortex (V1) together with feedback from extrastriate cortex can account for spectral peaks in the V1 local field potential (LFP). Recent studies showed that visual stimulation enhances the γ-band (25-90 Hz) of the LFP power spectrum in macaque V1. The height and location of the γ-band peak in the LFP spectrum were correlated with visual stimulus size. Extensive spatial summation, possibly mediated by feedback connections from extrastriate cortex and long-range horizontal connections in V1, must play a crucial role in the size dependence of the LFP. To analyze stimulus-effects on the LFP of V1 cortex, we propose a network model for the visual cortex that includes two populations of V1 neurons, excitatory and inhibitory, and also includes feedback to V1 from extrastriate cortex. The neural network model for V1 was a resonant system. The model's resonance frequency (ResF) was in the γ-band and varied up or down in frequency depending on cortical feedback. The model's ResF shifted downward with stimulus size, as in the real cortex, because increased size recruited more activity in extrastriate cortex and V1 thereby causing stronger feedback. The model needed to have strong local recurrent inhibition within V1 to obtain ResFs that agree with cortical data. Network resonance as a consequence of recurrent excitation and inhibition appears to be a likely explanation for γ-band peaks in the LFP power spectrum of the primary visual cortex.",
+  "authors": [
+    "Kang Kukjin",
+    "Shelley Michael",
+    "Henrie James Andrew",
+    "Shapley Robert"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2010",
+  "doi": "10.1007/s10827-009-0190-2",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Evoked Potentials, Visual",
+    "Feedback, Physiological",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

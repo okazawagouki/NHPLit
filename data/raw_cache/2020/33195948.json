@@ -1,0 +1,13 @@
+{
+  "pmid": "33195948",
+  "title": "Creative destruction: Sparse activity emerges on the mammal connectome under a simulated communication strategy with collisions and redundancy.",
+  "abstract": "Signal interactions in brain network communication have been little studied. We describe how nonlinear collision rules on simulated mammal brain networks can result in sparse activity dynamics characteristic of mammalian neural systems. We tested the effects of collisions in \"information spreading\" (IS) routing models and in standard random walk (RW) routing models. Simulations employed synchronous agents on tracer-based mesoscale mammal connectomes at a range of signal loads. We find that RW models have high average activity that increases with load. Activity in RW models is also densely distributed over nodes: a substantial fraction is highly active in a given time window, and this fraction increases with load. Surprisingly, while IS models make many more attempts to pass signals, they show lower net activity due to collisions compared to RW, and activity in IS increases little as function of load. Activity in IS also shows greater sparseness than RW, and sparseness decreases slowly with load. Results hold on two networks of the monkey cortex and one of the mouse whole-brain. We also find evidence that activity is lower and more sparse for empirical networks compared to degree-matched randomized networks under IS, suggesting that brain network topology supports IS-like routing strategies.",
+  "authors": [
+    "Hao Yan",
+    "Graham Daniel"
+  ],
+  "journal": "Network neuroscience (Cambridge, Mass.)",
+  "year": "2020",
+  "doi": "10.1162/netn_a_00165",
+  "mesh": []
+}

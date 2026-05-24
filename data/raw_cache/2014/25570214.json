@@ -1,0 +1,25 @@
+{
+  "pmid": "25570214",
+  "title": "Differences in motor cortical representations of kinematic variables between action observation and action execution and implications for brain-machine interfaces.",
+  "abstract": "Observing an action being performed and executing the same action cause similar patterns of neural activity to emerge in the primary motor cortex (MI). Previous work has shown that the neural activity evoked during action observation (AO) is informative as to both the kinematics and muscle activation patterns of the action being performed, although the neural activity recorded during action observation contains less information than the activity recorded during action execution (AE). In this study, we extend these results by comparing the representation of different kinematic variables in MI single /multi unit activity between AO and AE conditions in three rhesus macaques. We show that the representation of acceleration decreases more significantly than that of position and velocity in AO (population decoding performance for acceleration decreases more steeply, and fewer neurons in AO encode acceleration significantly as compared to AE). We discuss the relevance of these results to brain-machine interfaces that make use of neural activity during AO to initialize a mapping function between neural activity and motor commands.",
+  "authors": [
+    "Willett Francis R",
+    "Suminski Aaron J",
+    "Fagg Andrew H",
+    "Hatsopoulos Nicholas G"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2014",
+  "doi": "10.1109/EMBC.2014.6943845",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Exoskeleton Device",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Movement",
+    "Neurons"
+  ]
+}

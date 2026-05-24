@@ -1,0 +1,26 @@
+{
+  "pmid": "33379976",
+  "title": "Place recognition with deep superpixel features for brain-inspired navigation.",
+  "abstract": "Navigation in primates is generally supported by cognitive maps. Such a map endows an animal with navigational planning capabilities. Numerous methods have been proposed to mimic these natural navigation capabilities in artificial systems. Based on self-navigation and learning strategies in animals, we propose in this work a place recognition strategy for brain-inspired navigation. First, a place recognition algorithm structure based on convolutional neural networks (CNNs) is introduced, which can be applied in the field of intelligent navigation. Second, sufficient images are captured at each landmark and then stored as a reference image library. Simple linear iterative clustering (SLIC) is used to segment each image into superpixels with multi-scale viewpoint-invariant landmarks. Third, highly representative appearance-independent features are extracted from these landmarks through CNNs. In addition, spatial pyramid pooling (SPP) layers are introduced to generate a fixed-length CNN representation, regardless of the image size. This representation boosts the quality of the extracted landmark features. The proposed SLIC-SPP-CNN place recognition algorithm is evaluated on one collected dataset and two public datasets with viewpoint and appearance variations.",
+  "authors": [
+    "Zhao Jing",
+    "Tang Jun",
+    "Zhao Donghua",
+    "Cao Huiliang",
+    "Liu Xiaochen",
+    "Shen Chong",
+    "Wang Chenguang",
+    "Liu Jun"
+  ],
+  "journal": "The Review of scientific instruments",
+  "year": "2020",
+  "doi": "10.1063/5.0027767",
+  "mesh": [
+    "Neural Networks, Computer",
+    "Brain",
+    "Animals",
+    "Algorithms",
+    "Spatial Navigation",
+    "Image Processing, Computer-Assisted"
+  ]
+}

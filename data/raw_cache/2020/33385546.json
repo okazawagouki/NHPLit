@@ -1,0 +1,40 @@
+{
+  "pmid": "33385546",
+  "title": "Comparison of diffusion MRI and CLARITY fiber orientation estimates in both gray and white matter regions of human and primate brain.",
+  "abstract": "Diffusion MRI (dMRI) represents one of the few methods for mapping brain fiber orientations non-invasively. Unfortunately, dMRI fiber mapping is an indirect method that relies on inference from measured diffusion patterns. Comparing dMRI results with other modalities is a way to improve the interpretation of dMRI data and help advance dMRI technologies. Here, we present methods for comparing dMRI fiber orientation estimates with optical imaging of fluorescently labeled neurofilaments and vasculature in 3D human and primate brain tissue cuboids cleared using CLARITY. The recent advancements in tissue clearing provide a new opportunity to histologically map fibers projecting in 3D, which represents a captivating complement to dMRI measurements. In this work, we demonstrate the capability to directly compare dMRI and CLARITY in the same human brain tissue and assess multiple approaches for extracting fiber orientation estimates from CLARITY data. We estimate the three-dimensional neuronal fiber and vasculature orientations from neurofilament and vasculature stained CLARITY images by calculating the tertiary eigenvector of structure tensors. We then extend CLARITY orientation estimates to an orientation distribution function (ODF) formalism by summing multiple sub-voxel structure tensor orientation estimates. In a sample containing part of the human thalamus, there is a mean angular difference of 19<sup>o</sup>±15<sup>o</sup> between the primary eigenvectors of the dMRI tensors and the tertiary eigenvectors from the CLARITY neurofilament stain. We also demonstrate evidence that vascular compartments do not affect the dMRI orientation estimates by showing an apparent lack of correspondence (mean angular difference = 49<sup>o</sup>±23<sup>o</sup>) between the orientation of the dMRI tensors and the structure tensors in the vasculature stained CLARITY images. In a macaque brain dataset, we examine how the CLARITY feature extraction depends on the chosen feature extraction parameters. By varying the volume of tissue over which the structure tensor estimates are derived, we show that orientation estimates are noisier with more spurious ODF peaks for sub-voxels below 30 µm<sup>3</sup> and that, for our data, the optimal gray matter sub-voxel size is between 62.5 µm<sup>3</sup> and 125 µm<sup>3</sup>. The example experiments presented here represent an important advancement towards robust multi-modal MRI-CLARITY comparisons.",
+  "authors": [
+    "Leuze C",
+    "Goubran M",
+    "Barakovic M",
+    "Aswendt M",
+    "Tian Q",
+    "Hsueh B",
+    "Crow A",
+    "Weber E M M",
+    "Steinberg G K",
+    "Zeineh M",
+    "Plowey E D",
+    "Daducci A",
+    "Innocenti G",
+    "Thiran J-P",
+    "Deisseroth K",
+    "McNab J A"
+  ],
+  "journal": "NeuroImage",
+  "year": "2021",
+  "doi": "10.1016/j.neuroimage.2020.117692",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Diffusion Magnetic Resonance Imaging",
+    "Gray Matter",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Imaging, Three-Dimensional",
+    "Macaca",
+    "Multimodal Imaging",
+    "Neuroimaging",
+    "Optical Imaging",
+    "White Matter"
+  ]
+}

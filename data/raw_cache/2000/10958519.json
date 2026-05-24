@@ -1,0 +1,20 @@
+{
+  "pmid": "10958519",
+  "title": "The simultaneous coding of orientation and contrast in the responses of V1 complex cells.",
+  "abstract": "The responses of 30 V1 complex cells were recorded using a complete set of transiently presented, oriented stimuli of different contrasts. A back-propagation neural network was used to predict the multivariate visual stimuli from the neuronal responses on a trial-by-trial basis. For single neurons, the strength of the response was much better at predicting the orientation of a visual stimulus than its contrast. Using the temporal modulation of the response improved the ability to predict the contrast of a stimulus without affecting the ability to predict the orientation. Removing stimulus latency from the responses, by time-shifting the individual responses an amount equal to the average latency, significantly reduced the ability to predict stimulus contrast, demonstrating that the response latency is reliable enough, even for a single neuron and a single trial, for it to be used to help determine stimulus contrast. Pooling the responses from a group of 11 neurons demonstrated that small groups of neurons can accurately represent multivariate stimuli in a single trial.",
+  "authors": [
+    "Gawne T J"
+  ],
+  "journal": "Experimental brain research",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Contrast Sensitivity",
+    "Macaca mulatta",
+    "Neurons",
+    "Orientation",
+    "Visual Cortex"
+  ]
+}

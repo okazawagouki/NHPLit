@@ -1,0 +1,22 @@
+{
+  "pmid": "39375394",
+  "title": "A new approach for neural decoding by inspiring of hyperdimensional computing for implantable intra-cortical BMIs.",
+  "abstract": "In the field of Brain Machine Interface (BMI), the process of translating motor intention into a machine command is denoted as decoding. However, despite recent advancements, decoding remains a formidable challenge within BMI. The utilization of current decoding algorithms in the field of BMI often involves computational complexity and requires the use of computers. This is primarily due to the reliance on mathematical models to address the decoding issue and perform subsequent output calculations. Unfortunately, computers are not feasible for implantable BMI systems due to their size and power consumption. To address this predicament, this study proposes a pioneering approach inspired by hyperdimensional computing. This approach first involves identifying the pattern of each stimulus by considering the normal firing rate distribution of each neuron. Subsequently, the newly observed firing pattern for each input is compared with the patterns detected at each moment for each neuron. The algorithm, which shares similarities with hyperdimensional computing, identifies the most similar pattern as the final output. This approach reduces the dependence on mathematical models. The efficacy of this method is assessed through the utilization of an authentic dataset acquired from the Frontal Eye Field (FEF) of two male rhesus monkeys. The output space encompasses eight possible angles. The results demonstrate an accuracy rate of 51.5% while exhibiting significantly low computational complexity, involving a mere 2050 adder operators. Furthermore, the proposed algorithm is implemented on a field-programmable gate array (FPGA) and as an ASIC designe in a standard CMOS 180 nm technology, underscoring its suitability for real-time implantable BMI applications. The implementation required only 2.3 Kbytes of RAM, occupied an area of 2.2 mm<sup>2</sup>, and consumed 9.32 µW at a 1.8 V power supply. Consequently, the proposed solution represents an accurate, low computational complexity, hardware-friendly, and real-time approach.",
+  "authors": [
+    "Katoozian Danial",
+    "Hosseini-Nejad Hossein",
+    "Dehaqani Mohammad-Reza A"
+  ],
+  "journal": "Scientific reports",
+  "year": "2024",
+  "doi": "10.1038/s41598-024-74681-1",
+  "mesh": [
+    "Brain-Computer Interfaces",
+    "Animals",
+    "Algorithms",
+    "Macaca mulatta",
+    "Neurons",
+    "Male",
+    "Humans"
+  ]
+}

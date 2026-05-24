@@ -1,0 +1,29 @@
+{
+  "pmid": "31335880",
+  "title": "A case study in the functional consequences of scaling the sizes of realistic cortical models.",
+  "abstract": "Neuroscience models come in a wide range of scales and specificity, from mean-field rate models to large-scale networks of spiking neurons. There are potential trade-offs between simplicity and realism, versatility and computational speed. This paper is about large-scale cortical network models, and the question we address is one of scalability: would scaling down cell density impact a network's ability to reproduce cortical dynamics and function? We investigated this problem using a previously constructed realistic model of the monkey visual cortex that is true to size. Reducing cell density gradually up to 50-fold, we studied changes in model behavior. Size reduction without parameter adjustment was catastrophic. Surprisingly, relatively minor compensation in synaptic weights guided by a theoretical algorithm restored mean firing rates and basic function such as orientation selectivity to models 10-20 times smaller than the real cortex. Not all was normal in the reduced model cortices: intracellular dynamics acquired a character different from that of real neurons, and while the ability to relay feedforward inputs remained intact, reduced models showed signs of deficiency in functions that required dynamical interaction among cortical neurons. These findings are not confined to models of the visual cortex, and modelers should be aware of potential issues that accompany size reduction. Broader implications of this study include the importance of homeostatic maintenance of firing rates, and the functional consequences of feedforward versus recurrent dynamics, ideas that may shed light on other species and on systems suffering cell loss.",
+  "authors": [
+    "Joglekar Madhura R",
+    "Chariker Logan",
+    "Shapley Robert",
+    "Young Lai-Sang"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2019",
+  "doi": "10.1371/journal.pcbi.1007198",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Cell Count",
+    "Computational Biology",
+    "Computer Simulation",
+    "Macaca",
+    "Models, Anatomic",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Organ Size",
+    "Visual Cortex"
+  ]
+}

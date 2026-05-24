@@ -1,0 +1,27 @@
+{
+  "pmid": "40984785",
+  "title": "Bio-Inspired Wide-Field Visual Neuron Implemented with Ultra-Low Information Loss Population Coding.",
+  "abstract": "Modern neuromorphic systems face critical bottlenecks in emulating biological vision, particularly in reconciling wide-spectrum perception, distortion-free encoding, and population-level signal processing. Drawing inspiration from the stochastic-resilient population coding of macaque visual neurons, an advanced visual neuron prototype is developed that incorporates photoelectric multi-stimulation field-effect transistor and innovative parallel threshold-switch architecture. The visual neuron integrates broadband photodetection (350-1000 nm) with biomimetic spike population encoding in a monolithic architecture. The photosensitive MoSe<sub>2</sub>/MoS<sub>2</sub> heterojunction region in field-effect transistor extends the visual perception field from UV to infrared wavelengths (350-700 nm to 350-1000 nm), doubling the original field. Meanwhile, under the same conditions, the photocurrent response achieves a 1.36-fold increase from 0.109 to 0.148 A (W cm<sup>-2</sup>)<sup>-1</sup>. The parallel threshold-switching design transforms single-unit encoding into cooperative population coding, achieving an 82.1% reduction rate in signal distortion. When deployed in a spiking neural network, this population-coding paradigm demonstrates high accuracy in pattern recognition, surpassing single neuron architectures by 12.1%, while maintaining the information processing time at the biological scale (<200 ms). By unifying van der Waals heterostructure photonics with macaque-derived neural population coding principles, this work establishes a transformative framework for bioinspired vision hardware, bridging the critical gap between neuromorphic materials and cortical processing efficiency.",
+  "authors": [
+    "Wang Xi",
+    "He Qian",
+    "Li Hanxi",
+    "Zhang Xinwei",
+    "Wang Hailiang",
+    "Zhu Zuqi",
+    "Chai Jian",
+    "Bai Yongqing",
+    "Zhang Yishu",
+    "Xu Yang",
+    "Yu Bin"
+  ],
+  "journal": "Advanced materials (Deerfield Beach, Fla.)",
+  "year": "2026",
+  "doi": "10.1002/adma.202508803",
+  "mesh": [
+    "Neurons",
+    "Animals",
+    "Transistors, Electronic",
+    "Neural Networks, Computer"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "20601940",
+  "title": "Sparse coding and high-order correlations in fine-scale cortical networks.",
+  "abstract": "Connectivity in the cortex is organized at multiple scales, suggesting that scale-dependent correlated activity is particularly important for understanding the behaviour of sensory cortices and their function in stimulus encoding. We analysed the scale-dependent structure of cortical interactions by using maximum entropy models to characterize multiple-tetrode recordings from primary visual cortex of anaesthetized macaque monkeys (Macaca mulatta). We compared the properties of firing patterns among local clusters of neurons (<300 microm apart) with those of neurons separated by larger distances (600-2,500 microm). Here we report that local firing patterns are distinctive: whereas multi-neuronal firing patterns at larger distances can be predicted by pairwise interactions, patterns within local clusters often show evidence of high-order correlations. Surprisingly, these local correlations are flexible and rapidly reorganized by visual input. Although they modestly reduce the amount of information that a cluster conveys, they also modify the format of this information, creating sparser codes by increasing the periods of total quiescence, and concentrating information into briefer periods of common activity. These results imply a hierarchical organization of neuronal correlations: simple pairwise correlations link neurons over scales of tens to hundreds of minicolumns, but on the scale of a few minicolumns, ensembles of neurons form complex subnetworks whose moment-to-moment effective connectivity is dynamically reorganized by the stimulus.",
+  "authors": [
+    "Ohiorhenuan Ifije E",
+    "Mechler Ferenc",
+    "Purpura Keith P",
+    "Schmid Anita M",
+    "Hu Qin",
+    "Victor Jonathan D"
+  ],
+  "journal": "Nature",
+  "year": "2010",
+  "doi": "10.1038/nature09178",
+  "mesh": [
+    "Animals",
+    "Entropy",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

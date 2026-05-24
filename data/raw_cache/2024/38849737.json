@@ -1,0 +1,30 @@
+{
+  "pmid": "38849737",
+  "title": "Single-cell RNA-seq reveals the role of YAP1 in prefrontal cortex microglia in depression.",
+  "abstract": "BACKGROUND: Depression is a complex mood disorder whose pathogenesis involves multiple cell types and molecular pathways. The prefrontal cortex, as a key brain region for emotional regulation, plays a crucial role in depression. Microglia, as immune cells of the central nervous system, have been closely linked to the development and progression of depression through their dysfunctional states. This study aims to utilize single-cell RNA-seq technology to reveal the pathogenic mechanism of YAP1 in prefrontal cortex microglia in depression. METHODS: Firstly, we performed cell type identification and differential analysis on normal and depressed prefrontal cortex tissues by mining single-cell RNA-seq datasets from public databases. Focusing on microglia, we conducted sub-clustering, differential gene KEGG enrichment analysis, intercellular interaction analysis, and pseudotime analysis. Additionally, a cross-species analysis was performed to explore the similarities and differences between human and rhesus monkey prefrontal cortex microglia. To validate our findings, we combined bulk RNA-Seq and WGCNA analysis to reveal key genes associated with depression and verified the relationship between YAP1 and depression using clinical samples. RESULTS: Our study found significant changes in the proportion and transcriptional profiles of microglia in depressed prefrontal cortex tissues. Further analysis revealed multiple subpopulations of microglia and their associated differential genes and signaling pathways related to depression. YAP1 was identified as a key molecule contributing to the development of depression and was significantly elevated in depression patients. Moreover, the expression level of YAP1 was positively correlated with HAMD scores, suggesting its potential as a biomarker for predicting the onset of depression. CONCLUSION: This study utilized single-cell RNA-seq technology to reveal the pathogenic mechanism of YAP1 in prefrontal cortex microglia in depression, providing a new perspective for a deeper understanding of the pathophysiology of depression and identifying potential targets for developing novel treatment strategies.",
+  "authors": [
+    "Ma Fenghui",
+    "Bian Hongjun",
+    "Jiao Wenyan",
+    "Zhang Ni"
+  ],
+  "journal": "BMC neurology",
+  "year": "2024",
+  "doi": "10.1186/s12883-024-03685-1",
+  "mesh": [
+    "Prefrontal Cortex",
+    "Microglia",
+    "YAP-Signaling Proteins",
+    "Humans",
+    "Animals",
+    "Single-Cell Analysis",
+    "Macaca mulatta",
+    "RNA-Seq",
+    "Depression",
+    "Transcription Factors",
+    "Adaptor Proteins, Signal Transducing",
+    "Male",
+    "Female",
+    "Single-Cell Gene Expression Analysis"
+  ]
+}

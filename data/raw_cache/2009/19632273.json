@@ -1,0 +1,28 @@
+{
+  "pmid": "19632273",
+  "title": "Three-dimensional neuron tracing by voxel scooping.",
+  "abstract": "Tracing the centerline of the dendritic arbor of neurons is a powerful technique for analyzing neuronal morphology. In the various neuron tracing algorithms in use nowadays, the competing goals of computational efficiency and robustness are generally traded off against each other. We present a novel method for tracing the centerline of a neuron from confocal image stacks, which provides an optimal balance between these objectives. Using only local information, thin cross-sectional layers of voxels ('scoops') are iteratively carved out of the structure, and clustered based on connectivity. Each cluster contributes a node along the centerline, which is created by connecting successive nodes until all object voxels are exhausted. While data segmentation is independent of this algorithm, we illustrate the use of the ISODATA method to achieve dynamic (local) segmentation. Diameter estimation at each node is calculated using the Rayburst Sampling algorithm, and spurious end nodes caused by surface irregularities are then removed. On standard computing hardware the algorithm can process hundreds of thousands of voxels per second, easily handling the multi-gigabyte datasets resulting from high-resolution confocal microscopy imaging of neurons. This method provides an accurate and efficient means for centerline extraction that is suitable for interactive neuron tracing applications.",
+  "authors": [
+    "Rodriguez Alfredo",
+    "Ehlenberger Douglas B",
+    "Hof Patrick R",
+    "Wearne Susan L"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2009",
+  "doi": "10.1016/j.jneumeth.2009.07.021",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Automation",
+    "Image Processing, Computer-Assisted",
+    "Imaging, Three-Dimensional",
+    "Macaca fascicularis",
+    "Male",
+    "Microscopy, Confocal",
+    "Models, Neurological",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Pyramidal Cells"
+  ]
+}

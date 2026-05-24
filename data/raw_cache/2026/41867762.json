@@ -1,0 +1,17 @@
+{
+  "pmid": "41867762",
+  "title": "Control of cortical population activity with patterned microstimulation.",
+  "abstract": "Closed-loop control of cortical activity is a central goal in systems neuroscience and clinical neuromodulation, but most approaches either rely on detailed circuit models that are unattainable in vivo or on open-loop stimulation tuned by trial and error. Here we introduce REACHable manifold Control (REACH-Ctrl), a data-driven brain-computer interface that achieves real-time control of population spiking activity using patterned microstimulation and multi-electrode recordings. REACH-Ctrl learns a finite-horizon controllability map directly from short training epochs in which random multi-electrode pulse sequences are delivered through a subset of electrodes while recording evoked responses. From these input-output data, it identifies the \"reachable manifold\" of population states and computes low-current microstimulation sequences that steer activity toward designated targets, without explicit knowledge of the underlying connectivity or dynamics. We test REACH-Ctrl in macaque prefrontal cortex, demonstrating high control accuracy, robust across sessions and stimulation parameters. Geometric analyses showed that multi-pulse sequences traverse a well-defined reachable manifold with substantial, but incomplete, overlap with the intrinsic neural activity manifold, revealing both on- and off-manifold components of control. Encoding models further revealed that, in our weak-stimulation regime, population responses to multi-electrode sequences are well approximated by the linear sum of localized \"stimulation fields\" with modest history dependence, explaining the success of our linear control approach. These results demonstrate precise, sample-efficient control of cortical population activity with clinically relevant microstimulation hardware, and provide a general blueprint for designing perturbations for sparsely observed neural circuits.",
+  "authors": [
+    "Barzon Giacomo",
+    "De Anandita",
+    "Moran Isaac",
+    "Carnahan Conner",
+    "Mazzucato Luca",
+    "Kiani Roozbeh"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2026",
+  "doi": "10.64898/2026.03.02.709018",
+  "mesh": []
+}

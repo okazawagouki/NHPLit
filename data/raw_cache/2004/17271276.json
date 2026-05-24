@@ -1,0 +1,15 @@
+{
+  "pmid": "17271276",
+  "title": "An extensible infrastructure for fully automated spike sorting during online experiments.",
+  "abstract": "When recording extracellular neural activity, it is often necessary to distinguish action potentials arising from distinct cells near the electrode tip, a process commonly referred to as \"spike sorting.\" In a number of experiments, notably those that involve direct neuroprosthetic control of an effector, this cell-by-cell classification of the incoming signal must be achieved in real time. Several commercial offerings are available for this task, but all of these require some manual supervision per electrode, making each scheme cumbersome with large electrode counts. We present a new infrastructure that leverages existing unsupervised algorithms to sort and subsequently implement the resulting signal classification rules for each electrode using a commercially available Cerebus neural signal processor. We demonstrate an implementation of this infrastructure to classify signals from a cortical electrode array, using a probabilistic clustering algorithm (described elsewhere). The data were collected from a rhesus monkey performing a delayed center-out reach task. We used both sorted and unsorted (thresholded) action potentials from an array implanted in pre-motor cortex to \"predict\" the reach target, a common decoding operation in neuroprosthetic research. The use of sorted spikes led to an improvement in decoding accuracy of between 3.6 and 6.4%.",
+  "authors": [
+    "Santhanam Gopal",
+    "Sahani Maneesh",
+    "Ryu Stephen",
+    "Shenoy Krishna"
+  ],
+  "journal": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+  "year": "2004",
+  "doi": "",
+  "mesh": []
+}

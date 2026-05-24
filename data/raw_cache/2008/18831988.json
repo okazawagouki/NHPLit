@@ -1,0 +1,26 @@
+{
+  "pmid": "18831988",
+  "title": "A method for localizing microelectrode trajectories in the macaque brain using MRI.",
+  "abstract": "Magnetic resonance imaging (MRI) is often used by electrophysiologists to target specific brain regions for placement of microelectrodes. However, the effectiveness of this technique has been limited by few methods to quantify in three dimensions the relative locations of brain structures, recording chambers and microelectrode trajectories. Here we present such a method. After surgical implantation, recording chambers are fitted with a plastic cylinder that is filled with a high-contrast agent to aid in the segmentation of the cylinder from brain matter in an MRI volume. The resulting images of the filled cylinder correspond to a virtual cylinder that is projected along its long axis - parallel to the trajectories of microelectrodes advanced through the recording chamber - through the three-dimensional image of the brain. This technique, which does not require a stereotaxic coordinate system, can be used to quantify the coverage of an implanted recording chamber relative to anatomical landmarks at any depth or orientation. We have used this technique in conjunction with Caret [Van Essen DC, Drury HA, Dickson J, Harwell J, Hanlon D, Anderson CH. An integrated software suite for surface-based analyses of cerebral cortex. J Am Med Inform Assoc 2001;8:443-59] and AFNI [Cox RW. AFNI: software for analysis and visualization of functional magnetic resonance neuroimages. Comput Biomed Res 1996;29:162-73] brain-mapping software to successfully localize several regions of macaque cortex, including the middle temporal area, the lateral intraparietal area and the frontal eye field, and one subcortical structure, the locus coeruleus, for electrophysiological recordings.",
+  "authors": [
+    "Kalwani Rishi M",
+    "Bloy Luke",
+    "Elliott Mark A",
+    "Gold Joshua I"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2009",
+  "doi": "10.1016/j.jneumeth.2008.08.034",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Electrophysiology",
+    "Female",
+    "Imaging, Three-Dimensional",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Microelectrodes"
+  ]
+}

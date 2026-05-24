@@ -1,0 +1,33 @@
+{
+  "pmid": "33846254",
+  "title": "Sensitivity to geometric shape regularity in humans and baboons: A putative signature of human singularity.",
+  "abstract": "Among primates, humans are special in their ability to create and manipulate highly elaborate structures of language, mathematics, and music. Here we show that this sensitivity to abstract structure is already present in a much simpler domain: the visual perception of regular geometric shapes such as squares, rectangles, and parallelograms. We asked human subjects to detect an intruder shape among six quadrilaterals. Although the intruder was always defined by an identical amount of displacement of a single vertex, the results revealed a geometric regularity effect: detection was considerably easier when either the base shape or the intruder was a regular figure comprising right angles, parallelism, or symmetry rather than a more irregular shape. This effect was replicated in several tasks and in all human populations tested, including uneducated Himba adults and French kindergartners. Baboons, however, showed no such geometric regularity effect, even after extensive training. Baboon behavior was captured by convolutional neural networks (CNNs), but neither CNNs nor a variational autoencoder captured the human geometric regularity effect. However, a symbolic model, based on exact properties of Euclidean geometry, closely fitted human behavior. Our results indicate that the human propensity for symbolic abstraction permeates even elementary shape perception. They suggest a putative signature of human singularity and provide a challenge for nonsymbolic models of human shape perception.",
+  "authors": [
+    "Sablé-Meyer Mathias",
+    "Fagot Joël",
+    "Caparos Serge",
+    "van Kerkoerle Timo",
+    "Amalric Marie",
+    "Dehaene Stanislas"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2021",
+  "doi": "10.1073/pnas.2023123118",
+  "mesh": [
+    "Adult",
+    "Animals",
+    "Child, Preschool",
+    "Female",
+    "Form Perception",
+    "Humans",
+    "Language",
+    "Male",
+    "Middle Aged",
+    "Neural Networks, Computer",
+    "Papio",
+    "Pattern Recognition, Visual",
+    "Species Specificity",
+    "Vision, Ocular",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "11316340",
+  "title": "Model of familiarity discrimination in the perirhinal cortex.",
+  "abstract": "Much evidence indicates that recognition memory involves two separable processes, recollection and familiarity discrimination, with familiarity discrimination being dependent on the perirhinal cortex of the temporal lobe. Here, we describe a new neural network model designed to mimic the response patterns of perirhinal neurons that signal information concerning the novelty or familiarity of stimuli. The model achieves very fast and accurate familiarity discrimination while employing biologically plausible parameters and Hebbian learning rules. The fact that the activity patterns of the model's simulated neurons are closely similar to those of neurons recorded from the primate perirhinal cortex indicates that this brain region could discriminate familiarity using principles akin to those of the model. If so, the capacity of the model establishes that the perirhinal cortex alone may discriminate the familiarity of many more stimuli than current neural network models indicate could be recalled (recollected) by all the remaining areas of the cerebral cortex. This efficiency and speed of detecting novelty provides an evolutionary advantage, thereby providing a reason for the existence of a familiarity discrimination network in addition to networks used for recollection.",
+  "authors": [
+    "Bogacz R",
+    "Brown M W",
+    "Giraud-Carrier C"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Discrimination, Psychological",
+    "Humans",
+    "Memory",
+    "Models, Neurological",
+    "Olfactory Pathways"
+  ]
+}

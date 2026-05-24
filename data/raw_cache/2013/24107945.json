@@ -1,0 +1,26 @@
+{
+  "pmid": "24107945",
+  "title": "Spatial representation and cognitive modulation of response variability in the lateral intraparietal area priority map.",
+  "abstract": "The lateral intraparietal area (LIP) in the macaque contains a priority-based representation of the visual scene. We previously showed that the mean spike rate of LIP neurons is strongly influenced by spatially wide-ranging surround suppression in a manner that effectively sharpens the priority map. Reducing response variability can also improve the precision of LIP's priority map. We show that when a monkey plans a visually guided delayed saccade with an intervening distractor, variability (measured by the Fano factor) decreases both for neurons representing the saccade goal and for neurons representing the broad spatial surround. The reduction in Fano factor is maximal for neurons representing the saccade goal and steadily decreases for neurons representing more distant locations. LIP Fano factor changes are behaviorally significant: increasing expected reward leads to lower variability for the LIP representation of both the target and distractor locations, and trials with shorter latency saccades are associated with lower Fano factors in neurons representing the surround. Thus, the LIP Fano factor reflects both stimulus and behavioral engagement. Quantitative modeling shows that the interaction between mean spike count and target-receptive field (RF) distance in the surround during the predistractor epoch is multiplicative: the Fano factor increases more steeply with mean spike count further away from the RF. A negative-binomial model for LIP spike counts captures these findings quantitatively, suggests underlying mechanisms based on trial-by-trial variations in mean spike rate or burst-firing patterns, and potentially provides a principled framework to account simultaneously for the previously observed unsystematic relationships between spike rate and variability in different brain areas.",
+  "authors": [
+    "Falkner Annegret L",
+    "Goldberg Michael E",
+    "Krishna B Suresh"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2013",
+  "doi": "10.1523/JNEUROSCI.5269-12.2013",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Brain",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Saccades",
+    "Visual Perception"
+  ]
+}

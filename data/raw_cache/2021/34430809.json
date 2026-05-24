@@ -1,0 +1,14 @@
+{
+  "pmid": "34430809",
+  "title": "A geometric framework for understanding dynamic information integration in context-dependent computation.",
+  "abstract": "The prefrontal cortex (PFC) plays a prominent role in performing flexible cognitive functions and working memory, yet the underlying computational principle remains poorly understood. Here, we trained a rate-based recurrent neural network (RNN) to explore how the context rules are encoded, maintained across seconds-long mnemonic delay, and subsequently used in a context-dependent decision-making task. The trained networks replicated key experimentally observed features in the PFC of rodent and monkey experiments, such as mixed selectivity, neuronal sequential activity, and rotation dynamics. To uncover the high-dimensional neural dynamical system, we further proposed a geometric framework to quantify and visualize population coding and sensory integration in a temporally defined manner. We employed dynamic epoch-wise principal component analysis (PCA) to define multiple task-specific subspaces and task-related axes, and computed the angles between task-related axes and these subspaces. In low-dimensional neural representations, the trained RNN first encoded the context cues in a cue-specific subspace, and then maintained the cue information with a stable low-activity state persisting during the delay epoch, and further formed line attractors for sensor integration through low-dimensional neural trajectories to guide decision-making. We demonstrated via intensive computer simulations that the geometric manifolds encoding the context information were robust to varying degrees of weight perturbation in both space and time. Overall, our analysis framework provides clear geometric interpretations and quantification of information coding, maintenance, and integration, yielding new insight into the computational mechanisms of context-dependent computation.",
+  "authors": [
+    "Zhang Xiaohan",
+    "Liu Shenquan",
+    "Chen Zhe Sage"
+  ],
+  "journal": "iScience",
+  "year": "2021",
+  "doi": "10.1016/j.isci.2021.102919",
+  "mesh": []
+}

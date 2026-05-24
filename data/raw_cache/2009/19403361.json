@@ -1,0 +1,26 @@
+{
+  "pmid": "19403361",
+  "title": "Neural decoding of finger movements using Skellam-based maximum-likelihood decoding.",
+  "abstract": "We present an optimal method for decoding the activity of primary motor cortex (M1) neurons in a nonhuman primate during single finger movements. The method is based on the maximum-likelihood (ML) inference, which assuming the probability of finger movements is uniform, is equivalent to the maximum a posteriori (MAP) inference. Each neuron's activation is first quantified by the change in firing rate before and after finger movement. We then estimate the probability density function of this activation given finger movement, i.e., Pr(neuronal activation (x) | finger movements (m)). Based on the ML criterion, we choose finger movements to maximize Pr(x |m). Experimentally, data were collected from 115 task-related neurons in M1 as the monkey performed flexion and extension of each finger and the wrist (12 movements). With as few as 20--25 randomly selected neurons, the proposed method decoded single-finger movements with 99% accuracy. Since the training and decoding procedures in the proposed method are simple and computationally efficient, the method can be extended for real-time neuroprosthetic control of a dexterous hand.",
+  "authors": [
+    "Shin Hyun-Chool",
+    "Aggarwal Vikram",
+    "Acharya Soumyadipta",
+    "Schieber Marc H",
+    "Thakor Nitish V"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2010",
+  "doi": "10.1109/TBME.2009.2020791",
+  "mesh": [
+    "Animals",
+    "Evoked Potentials, Visual",
+    "Fingers",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Movement"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "34499856",
+  "title": "Real-time linear prediction of simultaneous and independent movements of two finger groups using an intracortical brain-machine interface.",
+  "abstract": "Modern brain-machine interfaces can return function to people with paralysis, but current upper extremity brain-machine interfaces are unable to reproduce control of individuated finger movements. Here, for the first time, we present a real-time, high-speed, linear brain-machine interface in nonhuman primates that utilizes intracortical neural signals to bridge this gap. We created a non-prehensile task that systematically individuates two finger groups, the index finger and the middle-ring-small fingers combined. During online brain control, the ReFIT Kalman filter could predict individuated finger group movements with high performance. Next, training ridge regression decoders with individual movements was sufficient to predict untrained combined movements and vice versa. Finally, we compared the postural and movement tuning of finger-related cortical activity to find that individual cortical units simultaneously encode multiple behavioral dimensions. Our results suggest that linear decoders may be sufficient for brain-machine interfaces to execute high-dimensional tasks with the performance levels required for naturalistic neural prostheses.",
+  "authors": [
+    "Nason Samuel R",
+    "Mender Matthew J",
+    "Vaskov Alex K",
+    "Willsey Matthew S",
+    "Ganesh Kumar Nishant",
+    "Kung Theodore A",
+    "Patil Parag G",
+    "Chestek Cynthia A"
+  ],
+  "journal": "Neuron",
+  "year": "2021",
+  "doi": "10.1016/j.neuron.2021.08.009",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Fingers",
+    "Forecasting",
+    "Linear Models",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Motor Cortex",
+    "Movement",
+    "Neural Prostheses",
+    "Posture",
+    "Prosthesis Design",
+    "Psychomotor Performance"
+  ]
+}

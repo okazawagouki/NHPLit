@@ -1,0 +1,15 @@
+{
+  "pmid": "26834619",
+  "title": "Contextual Modulation is Related to Efficiency in a Spiking Network Model of Visual Cortex.",
+  "abstract": "In the visual cortex, stimuli outside the classical receptive field (CRF) modulate the neural firing rate, without driving the neuron by themselves. In the primary visual cortex (V1), such contextual modulation can be parametrized with an area summation function (ASF): increasing stimulus size causes first an increase and then a decrease of firing rate before reaching an asymptote. Earlier work has reported increase of sparseness when CRF stimulation is extended to its surroundings. However, there has been no clear connection between the ASF and network efficiency. Here we aimed to investigate possible link between ASF and network efficiency. In this study, we simulated the responses of a biomimetic spiking neural network model of the visual cortex to a set of natural images. We varied the network parameters, and compared the V1 excitatory neuron spike responses to the corresponding responses predicted from earlier single neuron data from primate visual cortex. The network efficiency was quantified with firing rate (which has direct association to neural energy consumption), entropy per spike and population sparseness. All three measures together provided a clear association between the network efficiency and the ASF. The association was clear when varying the horizontal connectivity within V1, which influenced both the efficiency and the distance to ASF, DAS. Given the limitations of our biophysical model, this association is qualitative, but nevertheless suggests that an ASF-like receptive field structure can cause efficient population response.",
+  "authors": [
+    "Sharifian Fariba",
+    "Heikkinen Hanna",
+    "Vigário Ricardo",
+    "Vanni Simo"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2015",
+  "doi": "10.3389/fncom.2015.00155",
+  "mesh": []
+}

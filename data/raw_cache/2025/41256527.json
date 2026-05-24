@@ -1,0 +1,20 @@
+{
+  "pmid": "41256527",
+  "title": "Improved interpretability in LFADS models using a learned, context-dependent per-trial bias.",
+  "abstract": "The computation-through-dynamics perspective argues that biological neural circuits process information via the continuous evolution of their internal states. Inspired by this perspective, Latent Factor Activity using Dynamical systems (LFADS, [1]) identifies a generative model consistent with the neural activity recordings. LFADS models neural dynamics with a recurrent neural network (RNN) generator, which results in excellent fit to the data. However, it has been difficult to understand the dynamics of the LFADS generator. In this work, we show that this poor interpretability arises in part because the generator implements complex, multi-stable dynamics. We introduce a simple modification to LFADS that ameliorates issues with interpretability by providing an inferred per-trial bias (modeled as a constant input) to the RNN generator, enabling it to contextually adapt a simpler dynamical system to individual trials. In both simulated neural recordings from pendulum oscillations and real recordings during arm movements in nonhuman primates, we observed that the standard LFADS learned complex, multi-stable dynamics, whereas the modified LFADS learned easier-to-understand contextual dynamics. This enabled direct analysis of the generator, which reproduced at a single-trial level previous results shown only through more complex analyses at the trial average. Finally, we applied the per-trial inferred bias LFADS model to human intracortical brain computer interface recordings during attempted finger movements and speech. We show that modifying neural dynamics using linear operations of the per-trial bias addresses non-stationarity and identifies the extent of behavioral variability, problems known to plague BCI. We call our modification to LFADS as \"contextual LFADS\".",
+  "authors": [
+    "Shah Nishal P",
+    "Krasa Benyamin Abramovich",
+    "Kunz Erin",
+    "Hahn Nick",
+    "Kamdar Foram",
+    "Avansino Donald",
+    "Hochberg Leigh R",
+    "Henderson Jaimie M",
+    "Sussillo David"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.10.03.680303",
+  "mesh": []
+}

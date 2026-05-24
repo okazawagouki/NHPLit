@@ -1,0 +1,14 @@
+{
+  "pmid": "35283668",
+  "title": "Splice Junction Identification using Long Short-Term Memory Neural Networks.",
+  "abstract": "BACKGROUND: Splice junctions are the key to move from pre-messenger RNA to mature messenger RNA in many multi-exon genes due to alternative splicing. Since the percentage of multi-exon genes that undergo alternative splicing is very high, identifying splice junctions is an attractive research topic with important implications. OBJECTIVE: The aim of this paper is to develop a deep learning model capable of identifying splice junctions in RNA sequences using 13,666 unique sequences of primate RNA. METHODS: A Long Short-Term Memory (LSTM) Neural Network model is developed that classifies a given sequence as EI (Exon-Intron splice), IE (Intron-Exon splice), or N (No splice). The model is trained with groups of trinucleotides and its performance is tested using validation and test data to prevent bias. RESULTS: Model performance was measured using accuracy and f-score in test data. The finalized model achieved an average accuracy of 91.34% with an average f-score of 91.36% over 50 runs. CONCLUSION: Comparisons show a highly competitive model to recent Convolutional Neural Network structures. The proposed LSTM model achieves the highest accuracy and f-score among published alternative LSTM structures.",
+  "authors": [
+    "Regan Kevin",
+    "Saghafi Abolfazl",
+    "Li Zhijun"
+  ],
+  "journal": "Current genomics",
+  "year": "2021",
+  "doi": "10.2174/1389202922666211011143008",
+  "mesh": []
+}

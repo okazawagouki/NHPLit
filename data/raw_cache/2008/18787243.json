@@ -1,0 +1,24 @@
+{
+  "pmid": "18787243",
+  "title": "Handwritten-word spotting using biologically inspired features.",
+  "abstract": "For quick access to new handwritten collections, current handwriting recognition methods are too cumbersome. They cannot deal with the lack of labeled data and would require extensive laboratory training for each individual script, style, language and collection. We propose a biologically inspired whole-word recognition method which is used to incrementally elicit word labels in a live, web-based annotation system, named Monk. Since human labor should be minimized given the massive amount of image data, it becomes important to rely on robust perceptual mechanisms in the machine. Recent computational models of the neuro-physiology of vision are applied to isolated word classification. A primate cortex-like mechanism allows to classify text-images that have a low frequency of occurrence. Typically these images are the most difficult to retrieve and often contain named entities and are regarded as the most important to people. Usually standard pattern-recognition technology cannot deal with these text-images if there are not enough labeled instances. The results of this retrieval system are compared to normalized word-image matching and appear to be very promising.",
+  "authors": [
+    "van der Zant Tijn",
+    "Schomaker Lambert",
+    "Haak Koen"
+  ],
+  "journal": "IEEE transactions on pattern analysis and machine intelligence",
+  "year": "2008",
+  "doi": "10.1109/TPAMI.2008.144",
+  "mesh": [
+    "Artificial Intelligence",
+    "Biomimetics",
+    "Handwriting",
+    "Humans",
+    "Image Enhancement",
+    "Image Interpretation, Computer-Assisted",
+    "Information Storage and Retrieval",
+    "Pattern Recognition, Automated",
+    "Pattern Recognition, Visual"
+  ]
+}

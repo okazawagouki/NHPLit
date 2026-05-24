@@ -1,0 +1,27 @@
+{
+  "pmid": "12906941",
+  "title": "Robust, automatic spike sorting using mixtures of multivariate t-distributions.",
+  "abstract": "A number of recent methods developed for automatic classification of multiunit neural activity rely on a Gaussian model of the variability of individual waveforms and the statistical methods of Gaussian mixture decomposition. Recent evidence has shown that the Gaussian model does not accurately capture the multivariate statistics of the waveform samples' distribution. We present further data demonstrating non-Gaussian statistics, and show that the multivariate t-distribution, a wide-tailed family of distributions, provides a significantly better fit to the true statistics. We introduce an adaptation of a new expectation-maximization based competitive mixture decomposition algorithm and show that it efficiently and reliably performs mixture decomposition of t-distributions. Our algorithm determines the number of units in multiunit neural recordings, even in the presence of significant noise contamination resulting from random threshold crossings and overlapping spikes.",
+  "authors": [
+    "Shoham Shy",
+    "Fellows Matthew R",
+    "Normann Richard A"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cluster Analysis",
+    "Computer Simulation",
+    "Electrophysiology",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Motor Cortex",
+    "Multivariate Analysis",
+    "Neurons",
+    "Normal Distribution"
+  ]
+}

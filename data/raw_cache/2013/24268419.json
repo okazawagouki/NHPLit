@@ -1,0 +1,26 @@
+{
+  "pmid": "24268419",
+  "title": "An optimal decision population code that accounts for correlated variability unambiguously predicts a subject's choice.",
+  "abstract": "Decisions emerge from the concerted activity of neuronal populations distributed across brain circuits. However, the analytical tools best suited to decode decision signals from neuronal populations remain unknown. Here we show that knowledge of correlated variability between pairs of cortical neurons allows perfect decoding of decisions from population firing rates. We recorded pairs of neurons from secondary somatosensory (S2) and premotor (PM) cortices while monkeys reported the presence or absence of a tactile stimulus. We found that while populations of S2 and sensory-like PM neurons are only partially correlated with behavior, those PM neurons active during a delay period preceding the motor report predict unequivocally the animal's decision report. Thus, a population rate code that optimally reveals a subject's perceptual decisions can be implemented just by knowing the correlations of PM neurons representing decision variables.",
+  "authors": [
+    "Carnevale Federico",
+    "de Lafuente Victor",
+    "Romo Ranulfo",
+    "Parga Néstor"
+  ],
+  "journal": "Neuron",
+  "year": "2013",
+  "doi": "10.1016/j.neuron.2013.09.023",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Decision Making",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neurons",
+    "Psychomotor Performance",
+    "Somatosensory Cortex",
+    "Touch Perception"
+  ]
+}

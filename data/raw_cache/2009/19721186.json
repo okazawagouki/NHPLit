@@ -1,0 +1,27 @@
+{
+  "pmid": "19721186",
+  "title": "Control of a brain-computer interface without spike sorting.",
+  "abstract": "Two rhesus monkeys were trained to move a cursor using neural activity recorded with silicon arrays of 96 microelectrodes implanted in the primary motor cortex. We have developed a method to extract movement information from the recorded single and multi-unit activity in the absence of spike sorting. By setting a single threshold across all channels and fitting the resultant events with a spline tuning function, a control signal was extracted from this population using a Bayesian particle-filter extraction algorithm. The animals achieved high-quality control comparable to the performance of decoding schemes based on sorted spikes. Our results suggest that even the simplest signal processing is sufficient for high-quality neuroprosthetic control.",
+  "authors": [
+    "Fraser George W",
+    "Chase Steven M",
+    "Whitford Andrew",
+    "Schwartz Andrew B"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2009",
+  "doi": "10.1088/1741-2560/6/5/055004",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Electroencephalography",
+    "Evoked Potentials, Motor",
+    "Feedback",
+    "Macaca mulatta",
+    "Male",
+    "Movement",
+    "User-Computer Interface"
+  ]
+}

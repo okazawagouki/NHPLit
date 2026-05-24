@@ -1,0 +1,35 @@
+{
+  "pmid": "18672345",
+  "title": "Variational Bayesian least squares: an application to brain-machine interface data.",
+  "abstract": "An increasing number of projects in neuroscience require statistical analysis of high-dimensional data, as, for instance, in the prediction of behavior from neural firing or in the operation of artificial devices from brain recordings in brain-machine interfaces. Although prevalent, classical linear analysis techniques are often numerically fragile in high dimensions due to irrelevant, redundant, and noisy information. We developed a robust Bayesian linear regression algorithm that automatically detects relevant features and excludes irrelevant ones, all in a computationally efficient manner. In comparison with standard linear methods, the new Bayesian method regularizes against overfitting, is computationally efficient (unlike previously proposed variational linear regression methods, is suitable for data sets with large numbers of samples and a very high number of input dimensions) and is easy to use, thus demonstrating its potential as a drop-in replacement for other linear regression techniques. We evaluate our technique on synthetic data sets and on several neurophysiological data sets. For these neurophysiological data sets we address the question of whether EMG data collected from arm movements of monkeys can be faithfully reconstructed from neural activity in motor cortices. Results demonstrate the success of our newly developed method, in comparison with other approaches in the literature, and, from the neurophysiological point of view, confirms recent findings on the organization of the motor cortex. Finally, an incremental, real-time version of our algorithm demonstrates the suitability of our approach for real-time interfaces between brains and machines.",
+  "authors": [
+    "Ting Jo-Anne",
+    "D'Souza Aaron",
+    "Yamamoto Kenji",
+    "Yoshioka Toshinori",
+    "Hoffman Donna",
+    "Kakei Shinji",
+    "Sergio Lauren",
+    "Kalaska John",
+    "Kawato Mitsuo",
+    "Strick Peter",
+    "Schaal Stefan"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2008",
+  "doi": "10.1016/j.neunet.2008.06.012",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Brain",
+    "Electromyography",
+    "Haplorhini",
+    "Least-Squares Analysis",
+    "Linear Models",
+    "Models, Biological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

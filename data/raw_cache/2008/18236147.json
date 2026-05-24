@@ -1,0 +1,25 @@
+{
+  "pmid": "18236147",
+  "title": "Neural coding of categories: information efficiency and optimal population codes.",
+  "abstract": "This paper deals with the analytical study of coding a discrete set of categories by a large assembly of neurons. We consider population coding schemes, which can also be seen as instances of exemplar models proposed in the literature to account for phenomena in the psychophysics of categorization. We quantify the coding efficiency by the mutual information between the set of categories and the neural code, and we characterize the properties of the most efficient codes, considering different regimes corresponding essentially to different signal-to-noise ratio. One main outcome is to find that, in a high signal-to-noise ratio limit, the Fisher information at the population level should be the greatest between categories, which is achieved by having many cells with the stimulus-discriminating parts (steepest slope) of their tuning curves placed in the transition regions between categories in stimulus space. We show that these properties are in good agreement with both psychophysical data and with the neurophysiology of the inferotemporal cortex in the monkey, a cortex area known to be specifically involved in classification tasks.",
+  "authors": [
+    "Bonnasse-Gahot Laurent",
+    "Nadal Jean-Pierre"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2008",
+  "doi": "10.1007/s10827-007-0071-5",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Classification",
+    "Haplorhini",
+    "Likelihood Functions",
+    "Mental Processes",
+    "Models, Neurological",
+    "Models, Psychological",
+    "Perception",
+    "Temporal Lobe"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pmid": "37244320",
+  "title": "Design and application of a multimodality-compatible 1Tx/6Rx RF coil for monkey brain MRI at 7T.",
+  "abstract": "OBJECTIVE: Blood-oxygen-level-dependent functional MRI allows to investigte neural activities and connectivity. While the non-human primate plays an essential role in neuroscience research, multimodal methods combining functional MRI with other neuroimaging and neuromodulation enable us to understand the brain network at multiple scales. APPROACH: In this study, a tight-fitting helmet-shape receive array with a single transmit loop for anesthetized macaque brain MRI at 7T was fabricated with four openings constructed in the coil housing to accommodate multimodal devices, and the coil performance was quantitatively evaluated and compared to a commercial knee coil. In addition, experiments over three macaques with infrared neural stimulation (INS), focused ultrasound stimulation (FUS), and transcranial direct current stimulation (tDCS) were conducted. MAIN RESULTS: The RF coil showed higher transmit efficiency, comparable homogeneity, improved SNR and enlarged signal coverage over the macaque brain. Infrared neural stimulation was applied to the amygdala in deep brain region, and activations in stimulation sites and connected sites were detected, with the connectivity consistent with anatomical information. Focused ultrasound stimulation was applied to the left visual cortex, and activations were acquired along the ultrasound traveling path, with all time course curves consistent with pre-designed paradigms. The existence of transcranial direct current stimulation electrodes brought no interference to the RF system, as evidenced through high-resolution MPRAGE structure images. SIGNIFICANCE: This pilot study reveals the feasibility for brain investigation at multiple spatiotemporal scales, which may advance our understanding in dynamic brain networks.",
+  "authors": [
+    "Qu Shuxian",
+    "Shi Sunhang",
+    "Quan Zhiyan",
+    "Gao Yang",
+    "Wang Minmin",
+    "Wang Yueming",
+    "Pan Gang",
+    "Lai Hsin-Yi",
+    "Roe Anna Wang",
+    "Zhang Xiaotong"
+  ],
+  "journal": "NeuroImage",
+  "year": "2023",
+  "doi": "10.1016/j.neuroimage.2023.120185",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Pilot Projects",
+    "Transcranial Direct Current Stimulation",
+    "Magnetic Resonance Imaging",
+    "Neuroimaging",
+    "Brain",
+    "Macaca",
+    "Equipment Design",
+    "Phantoms, Imaging",
+    "Radio Waves",
+    "Signal-To-Noise Ratio"
+  ]
+}

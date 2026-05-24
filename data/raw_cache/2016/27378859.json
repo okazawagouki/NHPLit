@@ -1,0 +1,24 @@
+{
+  "pmid": "27378859",
+  "title": "Mathematical Model of Evolution of Brain Parcellation.",
+  "abstract": "We study the distribution of brain and cortical area sizes [parcellation units (PUs)] obtained for three species: mouse, macaque, and human. We find that the distribution of PU sizes is close to lognormal. We propose the mathematical model of evolution of brain parcellation based on iterative fragmentation and specialization. In this model, each existing PU has a probability to be split that depends on PU size only. This model suggests that the same evolutionary process may have led to brain parcellation in these three species. Within our model, region-to-region (macro) connectivity is given by the outer product form. We show that most experimental data on non-zero macaque cortex macroscopic-level connections can be explained by the outer product power-law form suggested by our model (62% for area V1). We propose a multiplicative Hebbian learning rule for the macroconnectome that could yield the correct scaling of connection strengths between areas. We thus propose an evolutionary model that may have contributed to both brain parcellation and mesoscopic level connectivity in mammals.",
+  "authors": [
+    "Ferrante Daniel D",
+    "Wei Yi",
+    "Koulakov Alexei A"
+  ],
+  "journal": "Frontiers in neural circuits",
+  "year": "2016",
+  "doi": "10.3389/fncir.2016.00043",
+  "mesh": [
+    "Animals",
+    "Biological Evolution",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Connectome",
+    "Humans",
+    "Macaca",
+    "Mice",
+    "Models, Theoretical"
+  ]
+}

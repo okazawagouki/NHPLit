@@ -1,0 +1,25 @@
+{
+  "pmid": "35732492",
+  "title": "Cortical Motion Perception Emerges from Dimensionality Reduction with Evolved Spike-Timing-Dependent Plasticity Rules.",
+  "abstract": "The nervous system is under tight energy constraints and must represent information efficiently. This is particularly relevant in the dorsal part of the medial superior temporal area (MSTd) in primates where neurons encode complex motion patterns to support a variety of behaviors. A sparse decomposition model based on a dimensionality reduction principle known as non-negative matrix factorization (NMF) was previously shown to account for a wide range of monkey MSTd visual response properties. This model resulted in sparse, parts-based representations that could be regarded as basis flow fields, a linear superposition of which accurately reconstructed the input stimuli. This model provided evidence that the seemingly complex response properties of MSTd may be a by-product of MSTd neurons performing dimensionality reduction on their input. However, an open question is how a neural circuit could carry out this function. In the current study, we propose a spiking neural network (SNN) model of MSTd based on evolved spike-timing-dependent plasticity and homeostatic synaptic scaling (STDP-H) learning rules. We demonstrate that the SNN model learns compressed and efficient representations of the input patterns similar to the patterns that emerge from NMF, resulting in MSTd-like receptive fields observed in monkeys. This SNN model suggests that STDP-H observed in the nervous system may be performing a similar function as NMF with sparsity constraints, which provides a test bed for mechanistic theories of how MSTd may efficiently encode complex patterns of visual motion to support robust self-motion perception.<b>SIGNIFICANCE STATEMENT</b> The brain may use dimensionality reduction and sparse coding to efficiently represent stimuli under metabolic constraints. Neurons in monkey area MSTd respond to complex optic flow patterns resulting from self-motion. We developed a spiking neural network model that showed MSTd-like response properties can emerge from evolving spike-timing-dependent plasticity with STDP-H parameters of the connections between then middle temporal area and MSTd. Simulated MSTd neurons formed a sparse, reduced population code capable of encoding perceptual variables important for self-motion perception. This model demonstrates that complex neuronal responses observed in MSTd may emerge from efficient coding and suggests that neurobiological plasticity, like STDP-H, may contribute to reducing the dimensions of input stimuli and allowing spiking neurons to learn sparse representations.",
+  "authors": [
+    "Chen Kexin",
+    "Beyeler Michael",
+    "Krichmar Jeffrey L"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2022",
+  "doi": "10.1523/JNEUROSCI.0384-22.2022",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neural Networks, Computer",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Photic Stimulation",
+    "Primates",
+    "Temporal Lobe"
+  ]
+}

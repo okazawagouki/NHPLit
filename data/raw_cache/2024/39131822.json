@@ -1,0 +1,15 @@
+{
+  "pmid": "39131822",
+  "title": "junctionCounts: comprehensive alternative splicing analysis and prediction of isoform-level impacts to the coding sequence.",
+  "abstract": "Alternative splicing (AS) is emerging as an important regulatory process for complex biological processes. Transcriptomic studies therefore commonly involve the identification and quantification of alternative processing events, but the need for predicting the functional consequences of changes to the relative inclusion of alternative events remains largely unaddressed. Many tools exist for the former task, albeit each constrained to its own event type definitions. Few tools exist for the latter task; each with significant limitations. To address these issues we developed junctionCounts, which captures both simple and complex pairwise AS events and quantifies them with straightforward exon-exon and exon-intron junction reads in RNA-seq data, performing competitively among similar tools in terms of sensitivity, false discovery rate and quantification accuracy. Its partner utility, cdsInsertion, identifies transcript coding sequence (CDS) information via <i>in silico</i> translation from annotated start codons, including the presence of premature termination codons. Finally, findSwitchEvents connects AS events with CDS information to predict the impact of individual events to the isoform-level CDS. We used junctionCounts to characterize splicing dynamics and NMD regulation during neuronal differentiation across four primates, demonstrating junctionCounts' capacity to robustly characterize AS in a variety of organisms and to predict its effect on mRNA isoform fate.",
+  "authors": [
+    "Ritter Alexander J",
+    "Wallace Andrew",
+    "Ronaghi Neda",
+    "Sanford Jeremy R"
+  ],
+  "journal": "NAR genomics and bioinformatics",
+  "year": "2024",
+  "doi": "10.1093/nargab/lqae093",
+  "mesh": []
+}

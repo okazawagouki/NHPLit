@@ -1,0 +1,19 @@
+{
+  "pmid": "30072887",
+  "title": "Modern Machine Learning as a Benchmark for Fitting Neural Responses.",
+  "abstract": "Neuroscience has long focused on finding encoding models that effectively ask \"what predicts neural spiking?\" and generalized linear models (GLMs) are a typical approach. It is often unknown how much of explainable neural activity is captured, or missed, when fitting a model. Here we compared the predictive performance of simple models to three leading machine learning methods: feedforward neural networks, gradient boosted trees (using XGBoost), and stacked ensembles that combine the predictions of several methods. We predicted spike counts in macaque motor (M1) and somatosensory (S1) cortices from standard representations of reaching kinematics, and in rat hippocampal cells from open field location and orientation. Of these methods, XGBoost and the ensemble consistently produced more accurate spike rate predictions and were less sensitive to the preprocessing of features. These methods can thus be applied quickly to detect if feature sets relate to neural activity in a manner not captured by simpler methods. Encoding models built with a machine learning approach accurately predict spike rates and can offer meaningful benchmarks for simpler models.",
+  "authors": [
+    "Benjamin Ari S",
+    "Fernandes Hugo L",
+    "Tomlinson Tucker",
+    "Ramkumar Pavan",
+    "VerSteeg Chris",
+    "Chowdhury Raeed H",
+    "Miller Lee E",
+    "Kording Konrad P"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2018",
+  "doi": "10.3389/fncom.2018.00056",
+  "mesh": []
+}

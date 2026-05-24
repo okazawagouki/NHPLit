@@ -1,0 +1,26 @@
+{
+  "pmid": "25571483",
+  "title": "High-performance brain-machine interface enabled by an adaptive optimal feedback-controlled point process decoder.",
+  "abstract": "Brain-machine interface (BMI) performance has been improved using Kalman filters (KF) combined with closed-loop decoder adaptation (CLDA). CLDA fits the decoder parameters during closed-loop BMI operation based on the neural activity and inferred user velocity intention. These advances have resulted in the recent ReFIT-KF and SmoothBatch-KF decoders. Here we demonstrate high-performance and robust BMI control using a novel closed-loop BMI architecture termed adaptive optimal feedback-controlled (OFC) point process filter (PPF). Adaptive OFC-PPF allows subjects to issue neural commands and receive feedback with every spike event and hence at a faster rate than the KF. Moreover, it adapts the decoder parameters with every spike event in contrast to current CLDA techniques that do so on the time-scale of minutes. Finally, unlike current methods that rotate the decoded velocity vector, adaptive OFC-PPF constructs an infinite-horizon OFC model of the brain to infer velocity intention during adaptation. Preliminary data collected in a monkey suggests that adaptive OFC-PPF improves BMI control. OFC-PPF outperformed SmoothBatch-KF in a self-paced center-out movement task with 8 targets. This improvement was due to both the PPF's increased rate of control and feedback compared with the KF, and to the OFC model suggesting that the OFC better approximates the user's strategy. Also, the spike-by-spike adaptation resulted in faster performance convergence compared to current techniques. Thus adaptive OFC-PPF enabled proficient BMI control in this monkey.",
+  "authors": [
+    "Shanechi Maryam M",
+    "Orsborn Amy",
+    "Moorman Helene",
+    "Gowda Suraj",
+    "Carmena Jose M"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2014",
+  "doi": "10.1109/EMBC.2014.6945115",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Feedback",
+    "Humans",
+    "Macaca mulatta",
+    "Movement",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

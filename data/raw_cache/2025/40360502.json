@@ -1,0 +1,23 @@
+{
+  "pmid": "40360502",
+  "title": "A large annotated dataset of vocalizations by common marmosets.",
+  "abstract": "Non-human primates, our closest relatives, use a wide range of complex vocal signals for communication within their species. Previous research on marmoset (Callithrix jacchus) vocalizations has been limited by sampling rates not covering the whole hearing range and insufficient labeling for advanced analyses using Deep Neural Networks (DNNs). Here, we provide a database of common marmoset vocalizations, which were continuously recorded with a sampling rate of 96 kHz from an animal holding facility housing simultaneously ~20 marmosets in three cages. The dataset comprises more than 800,000 files, amounting to 253 hours of data collected over 40 months. Each recording lasts a few seconds and captures the marmosets' social vocalizations, encompassing their entire known vocal repertoire during the experimental period. Around 215,000 calls are annotated with the vocalization type. We offer a trained classifier to assist future investigations. Finally, we validated our dataset by sampling 700 representative recordings and cross-examining them with four experts.",
+  "authors": [
+    "Lamothe Charly",
+    "Obliger-Debouche Manon",
+    "Best Paul",
+    "Trapeau Régis",
+    "Ravel Sabrina",
+    "Artières Thierry",
+    "Marxer Ricard",
+    "Belin Pascal"
+  ],
+  "journal": "Scientific data",
+  "year": "2025",
+  "doi": "10.1038/s41597-025-04951-8",
+  "mesh": [
+    "Animals",
+    "Vocalization, Animal",
+    "Callithrix"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "8792228",
+  "title": "Decoding cortical neuronal signals: network models, information estimation and spatial tuning.",
+  "abstract": "We have studied the encoding of spatial pattern information by complex cells in the primary visual cortex of awake monkeys. Three models for the conditional probabilities of different stimuli, given the neuronal response, were fit and compared using cross-validation. For our data, a feed-forward neural network proved to be the best of these models. The information carried by a cell about a stimulus set can be calculated from the estimated conditional probabilities. We performed a spatial spectroscopy of the encoding, examining how the transmitted information varies with both the average coarseness of the stimulus set and the coarseness differences within it. We find that each neuron encodes information about many features at multiple scales. Our data do not appear to allow a characterization of these variations in terms of the detection of simple single features such as oriented bars.",
+  "authors": [
+    "Kjaer T W",
+    "Hertz J A",
+    "Richmond B J"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "1994",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cell Count",
+    "Macaca mulatta",
+    "Neural Networks, Computer",
+    "Neural Pathways",
+    "Visual Cortex"
+  ]
+}

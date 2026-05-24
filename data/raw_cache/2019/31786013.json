@@ -1,0 +1,43 @@
+{
+  "pmid": "31786013",
+  "title": "Discovering Precise Temporal Patterns in Large-Scale Neural Recordings through Robust and Interpretable Time Warping.",
+  "abstract": "Though the temporal precision of neural computation has been studied intensively, a data-driven determination of this precision remains a fundamental challenge. Reproducible spike patterns may be obscured on single trials by uncontrolled temporal variability in behavior and cognition and may not be time locked to measurable signatures in behavior or local field potentials (LFP). To overcome these challenges, we describe a general-purpose time warping framework that reveals precise spike-time patterns in an unsupervised manner, even when these patterns are decoupled from behavior or are temporally stretched across single trials. We demonstrate this method across diverse systems: cued reaching in nonhuman primates, motor sequence production in rats, and olfaction in mice. This approach flexibly uncovers diverse dynamical firing patterns, including pulsatile responses to behavioral events, LFP-aligned oscillatory spiking, and even unanticipated patterns, such as 7 Hz oscillations in rat motor cortex that are not time locked to measured behaviors or LFP.",
+  "authors": [
+    "Williams Alex H",
+    "Poole Ben",
+    "Maheswaranathan Niru",
+    "Dhawale Ashesh K",
+    "Fisher Tucker",
+    "Wilson Christopher D",
+    "Brann David H",
+    "Trautmann Eric M",
+    "Ryu Stephen",
+    "Shusterman Roman",
+    "Rinberg Dmitry",
+    "Ölveczky Bence P",
+    "Shenoy Krishna V",
+    "Ganguli Surya"
+  ],
+  "journal": "Neuron",
+  "year": "2020",
+  "doi": "10.1016/j.neuron.2019.10.020",
+  "mesh": [
+    "Action Potentials",
+    "Amyloid beta-Protein Precursor",
+    "Animals",
+    "Gene Knock-In Techniques",
+    "Macaca mulatta",
+    "Male",
+    "Mice",
+    "Mice, Transgenic",
+    "Microinjections",
+    "Motor Cortex",
+    "Neurons",
+    "Pattern Recognition, Automated",
+    "Peptide Fragments",
+    "Primary Cell Culture",
+    "Proteins",
+    "Rats",
+    "Time Factors"
+  ]
+}

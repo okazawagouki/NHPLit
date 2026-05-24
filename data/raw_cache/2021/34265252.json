@@ -1,0 +1,22 @@
+{
+  "pmid": "34265252",
+  "title": "When the ventral visual stream is not enough: A deep learning account of medial temporal lobe involvement in perception.",
+  "abstract": "The medial temporal lobe (MTL) supports a constellation of memory-related behaviors. Its involvement in perceptual processing, however, has been subject to enduring debate. This debate centers on perirhinal cortex (PRC), an MTL structure at the apex of the ventral visual stream (VVS). Here we leverage a deep learning framework that approximates visual behaviors supported by the VVS (i.e., lacking PRC). We first apply this approach retroactively, modeling 30 published visual discrimination experiments: excluding non-diagnostic stimulus sets, there is a striking correspondence between VVS-modeled and PRC-lesioned behavior, while each is outperformed by PRC-intact participants. We corroborate and extend these results with a novel experiment, directly comparing PRC-intact human performance to electrophysiological recordings from the macaque VVS: PRC-intact participants outperform a linear readout of high-level visual cortex. By situating lesion, electrophysiological, and behavioral results within a shared computational framework, this work resolves decades of seemingly inconsistent findings surrounding PRC involvement in perception.",
+  "authors": [
+    "Bonnen Tyler",
+    "Yamins Daniel L K",
+    "Wagner Anthony D"
+  ],
+  "journal": "Neuron",
+  "year": "2021",
+  "doi": "10.1016/j.neuron.2021.06.018",
+  "mesh": [
+    "Animals",
+    "Deep Learning",
+    "Humans",
+    "Macaca",
+    "Models, Neurological",
+    "Perirhinal Cortex",
+    "Visual Perception"
+  ]
+}

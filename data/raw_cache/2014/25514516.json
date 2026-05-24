@@ -1,0 +1,28 @@
+{
+  "pmid": "25514516",
+  "title": "How to detect the Granger-causal flow direction in the presence of additive noise?",
+  "abstract": "Granger-causality metrics have become increasingly popular tools to identify directed interactions between brain areas. However, it is known that additive noise can strongly affect Granger-causality metrics, which can lead to spurious conclusions about neuronal interactions. To solve this problem, previous studies have proposed the detection of Granger-causal directionality, i.e. the dominant Granger-causal flow, using either the slope of the coherency (Phase Slope Index; PSI), or by comparing Granger-causality values between original and time-reversed signals (reversed Granger testing). We show that for ensembles of vector autoregressive (VAR) models encompassing bidirectionally coupled sources, these alternative methods do not correctly measure Granger-causal directionality for a substantial fraction of VAR models, even in the absence of noise. We then demonstrate that uncorrelated noise has fundamentally different effects on directed connectivity metrics than linearly mixed noise, where the latter may result as a consequence of electric volume conduction. Uncorrelated noise only weakly affects the detection of Granger-causal directionality, whereas linearly mixed noise causes a large fraction of false positives for standard Granger-causality metrics and PSI, but not for reversed Granger testing. We further show that we can reliably identify cases where linearly mixed noise causes a large fraction of false positives by examining the magnitude of the instantaneous influence coefficient in a structural VAR model. By rejecting cases with strong instantaneous influence, we obtain an improved detection of Granger-causal flow between neuronal sources in the presence of additive noise. These techniques are applicable to real data, which we demonstrate using actual area V1 and area V4 LFP data, recorded from the awake monkey performing a visual attention task.",
+  "authors": [
+    "Vinck Martin",
+    "Huurdeman Lisanne",
+    "Bosman Conrado A",
+    "Fries Pascal",
+    "Battaglia Francesco P",
+    "Pennartz Cyriel M A",
+    "Tiesinga Paul H"
+  ],
+  "journal": "NeuroImage",
+  "year": "2015",
+  "doi": "10.1016/j.neuroimage.2014.12.017",
+  "mesh": [
+    "Animals",
+    "Artifacts",
+    "Brain",
+    "Connectome",
+    "Haplorhini",
+    "Humans",
+    "Models, Neurological",
+    "Models, Theoretical",
+    "Neuroimaging"
+  ]
+}

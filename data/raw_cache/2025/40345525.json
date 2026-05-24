@@ -1,0 +1,24 @@
+{
+  "pmid": "40345525",
+  "title": "Unveiling cell-type-specific mode of evolution in comparative single-cell expression data.",
+  "abstract": "While methodology for determining the mode of evolution in coding sequences has been well established, evaluation of adaptation events in emerging types of phenotype data needs further development. Here, we propose an analysis framework (expression variance decomposition, EVaDe) for comparative single-cell expression data based on phenotypic evolution theory. After decomposing the gene expression variance into separate components, we use two strategies to identify genes exhibiting large between-taxon expression divergence and small within-cell-type expression noise in certain cell types, attributing this pattern to putative adaptive evolution. In a dataset of primate prefrontal cortex, we find that such human-specific key genes enrich with neurodevelopment-related functions, while most other genes exhibit neutral evolution patterns. Specific neuron types are found to harbor more of these key genes than other cell types, thus likely to have experienced more extensive adaptation. Reassuringly, at the molecular sequence level, the key genes are significantly associated with the rapidly evolving conserved non-coding elements. An additional case analysis comparing the naked mole-rat (NMR) with the mouse suggests that innate-immunity-related genes and cell types have undergone putative expression adaptation in NMR. Overall, the EVaDe framework may effectively probe adaptive evolution mode in single-cell expression data.",
+  "authors": [
+    "Qin Tian",
+    "Zhang Hongjiu",
+    "Zou Zhengting"
+  ],
+  "journal": "Journal of genetics and genomics = Yi chuan xue bao",
+  "year": "2026",
+  "doi": "10.1016/j.jgg.2025.04.022",
+  "mesh": [
+    "Animals",
+    "Single-Cell Analysis",
+    "Evolution, Molecular",
+    "Humans",
+    "Mice",
+    "Mole Rats",
+    "Prefrontal Cortex",
+    "Gene Expression Profiling",
+    "Neurons"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "38729937",
+  "title": "Distributed representations of prediction error signals across the cortical hierarchy are synergistic.",
+  "abstract": "A relevant question concerning inter-areal communication in the cortex is whether these interactions are synergistic. Synergy refers to the complementary effect of multiple brain signals conveying more information than the sum of each isolated signal. Redundancy, on the other hand, refers to the common information shared between brain signals. Here, we dissociated cortical interactions encoding complementary information (synergy) from those sharing common information (redundancy) during prediction error (PE) processing. We analyzed auditory and frontal electrocorticography (ECoG) signals in five common awake marmosets performing two distinct auditory oddball tasks and investigated to what extent event-related potentials (ERP) and broadband (BB) dynamics encoded synergistic and redundant information about PE processing. The information conveyed by ERPs and BB signals was synergistic even at lower stages of the hierarchy in the auditory cortex and between auditory and frontal regions. Using a brain-constrained neural network, we simulated the synergy and redundancy observed in the experimental results and demonstrated that the emergence of synergy between auditory and frontal regions requires the presence of strong, long-distance, feedback, and feedforward connections. These results indicate that distributed representations of PE signals across the cortical hierarchy can be highly synergistic.",
+  "authors": [
+    "Gelens Frank",
+    "Äijälä Juho",
+    "Roberts Louis",
+    "Komatsu Misako",
+    "Uran Cem",
+    "Jensen Michael A",
+    "Miller Kai J",
+    "Ince Robin A A",
+    "Garagnani Max",
+    "Vinck Martin",
+    "Canales-Johnson Andres"
+  ],
+  "journal": "Nature communications",
+  "year": "2024",
+  "doi": "10.1038/s41467-024-48329-7",
+  "mesh": [
+    "Animals",
+    "Auditory Cortex",
+    "Callithrix",
+    "Electrocorticography",
+    "Acoustic Stimulation",
+    "Male",
+    "Female",
+    "Evoked Potentials",
+    "Frontal Lobe",
+    "Evoked Potentials, Auditory",
+    "Auditory Perception",
+    "Brain Mapping"
+  ]
+}

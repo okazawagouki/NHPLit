@@ -1,0 +1,23 @@
+{
+  "pmid": "28750775",
+  "title": "Breakdown of long-range temporal correlations in brain oscillations during general anesthesia.",
+  "abstract": "Consciousness has been hypothesized to emerge from complex neuronal dynamics, which prevails when brain operates in a critical state. Evidence supporting this hypothesis comes mainly from studies investigating neuronal activity on a short time-scale of seconds. However, a key aspect of criticality is presence of scale-free temporal dependencies occurring across a wide range of time-scales. Indeed, robust long-range temporal correlations (LRTCs) are found in neuronal oscillations during conscious states, but it is not known how LRTCs are affected by loss of consciousness. To further test a relation between critical dynamics and consciousness, we investigated LRTCs in electrocorticography signals recorded from four macaque monkeys during resting wakefulness and general anesthesia induced by various anesthetics (ketamine, medetomidine, or propofol). Detrended Fluctuation Analysis was used to estimate LRTCs in amplitude fluctuations (envelopes) of band-pass filtered signals. We demonstrate two main findings. First, during conscious states all lateral cortical regions are characterized by significant LRTCs of alpha-band activity (7-14 Hz). LRTCs are stronger in the eyes-open than eyes-closed state, but in both states they form a spatial gradient, with anterior brain regions exhibiting stronger LRTCs than posterior regions. Second, we observed a substantial decrease of LRTCs during loss of consciousness, the magnitude of which was associated with the baseline (i.e. pre-anesthesia) state of the brain. Specifically, brain regions characterized by strongest LRTCs during a wakeful baseline exhibited greatest decreases during anesthesia (i.e. \"the rich got poorer\"), which consequently disturbed the posterior-anterior gradient. Therefore, our results suggest that general anesthesia affects mainly brain areas characterized by strongest LRTCs during wakefulness, which might account for lack of capacities for extensive temporal integration during loss of consciousness.",
+  "authors": [
+    "Krzemiński Dominik",
+    "Kamiński Maciej",
+    "Marchewka Artur",
+    "Bola Michał"
+  ],
+  "journal": "NeuroImage",
+  "year": "2017",
+  "doi": "10.1016/j.neuroimage.2017.07.047",
+  "mesh": [
+    "Anesthesia, General",
+    "Animals",
+    "Brain",
+    "Consciousness",
+    "Electrocorticography",
+    "Macaca",
+    "Wakefulness"
+  ]
+}

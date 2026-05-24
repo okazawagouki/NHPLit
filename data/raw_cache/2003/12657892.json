@@ -1,0 +1,36 @@
+{
+  "pmid": "12657892",
+  "title": "Neural prosthetic control signals from plan activity.",
+  "abstract": "The prospect of assisting disabled patients by translating neural activity from the brain into control signals for prosthetic devices, has flourished in recent years. Current systems rely on neural activity present during natural arm movements. We propose here that neural activity present before or even without natural arm movements can provide an important, and potentially advantageous, source of control signals. To demonstrate how control signals can be derived from such plan activity we performed a computational study with neural activity previously recorded from the posterior parietal cortex of rhesus monkeys planning arm movements. We employed maximum likelihood decoders to estimate movement direction and to drive finite state machines governing when to move. Performance exceeded 90% with as few as 40 neurons.",
+  "authors": [
+    "Shenoy Krishna V",
+    "Meeker Daniella",
+    "Cao Shiyan",
+    "Kureshi Sohaib A",
+    "Pesaran Bijan",
+    "Buneo Christopher A",
+    "Batista Aaron P",
+    "Mitra Partha P",
+    "Burdick Joel W",
+    "Andersen Richard A"
+  ],
+  "journal": "Neuroreport",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Arm",
+    "Artificial Limbs",
+    "Bayes Theorem",
+    "Databases, Factual",
+    "Macaca mulatta",
+    "Motor Activity",
+    "Motor Neurons",
+    "Numerical Analysis, Computer-Assisted",
+    "Parietal Lobe",
+    "Psychomotor Performance",
+    "Signal Transduction",
+    "Time Factors"
+  ]
+}

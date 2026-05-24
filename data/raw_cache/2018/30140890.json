@@ -1,0 +1,28 @@
+{
+  "pmid": "30140890",
+  "title": "Slow gain fluctuations limit benefits of temporal integration in visual cortex.",
+  "abstract": "Sensory neurons represent stimulus information with sequences of action potentials that differ across repeated measurements. This variability limits the information that can be extracted from momentary observations of a neuron's response. It is often assumed that integrating responses over time mitigates this limitation. However, temporal response correlations can reduce the benefits of temporal integration. We examined responses of individual orientation-selective neurons in the primary visual cortex of two macaque monkeys performing an orientation-discrimination task. The signal-to-noise ratio of temporally integrated responses increased for durations up to a few hundred milliseconds but saturated for longer durations. This was true even when cells exhibited little or no adaptation in their response levels. These observations are well explained by a statistical response model in which spikes arise from a Poisson process whose stimulus-dependent rate is modulated by slow, stimulus-independent fluctuations in gain. The response variability arising from the Poisson process is reduced by temporal integration, but the slow modulatory nature of variability due to gain fluctuations is not. Slow gain fluctuations therefore impose a fundamental limit on the benefits of temporal integration.",
+  "authors": [
+    "Goris Robbe L T",
+    "Ziemba Corey M",
+    "Movshon J Anthony",
+    "Simoncelli Eero P"
+  ],
+  "journal": "Journal of vision",
+  "year": "2018",
+  "doi": "10.1167/18.8.8",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Form Perception",
+    "Macaca mulatta",
+    "Macaca nemestrina",
+    "Male",
+    "Neurons",
+    "Orientation",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Temporal Lobe",
+    "Visual Cortex"
+  ]
+}

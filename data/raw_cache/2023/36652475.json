@@ -1,0 +1,23 @@
+{
+  "pmid": "36652475",
+  "title": "Propagating spatiotemporal activity patterns across macaque motor cortex carry kinematic information.",
+  "abstract": "Propagating spatiotemporal neural patterns are widely evident across sensory, motor, and association cortical areas. However, it remains unclear whether any characteristics of neural propagation carry information about specific behavioral details. Here, we provide the first evidence for a link between the direction of cortical propagation and specific behavioral features of an upcoming movement on a trial-by-trial basis. We recorded local field potentials (LFPs) from multielectrode arrays implanted in the primary motor cortex of two rhesus macaque monkeys while they performed a 2D reach task. Propagating patterns were extracted from the information-rich high-gamma band (200 to 400 Hz) envelopes in the LFP amplitude. We found that the exact direction of propagating patterns varied systematically according to initial movement direction, enabling kinematic predictions. Furthermore, characteristics of these propagation patterns provided additional predictive capability beyond the LFP amplitude themselves, which suggests the value of including mesoscopic spatiotemporal characteristics in refining brain-machine interfaces.",
+  "authors": [
+    "Liang Wei",
+    "Balasubramanian Karthikeyan",
+    "Papadourakis Vasileios",
+    "Hatsopoulos Nicholas G"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2023",
+  "doi": "10.1073/pnas.2212227120",
+  "mesh": [
+    "Animals",
+    "Motor Cortex",
+    "Macaca mulatta",
+    "Biomechanical Phenomena",
+    "Movement",
+    "Brain-Computer Interfaces",
+    "Action Potentials"
+  ]
+}

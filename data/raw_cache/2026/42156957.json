@@ -1,0 +1,13 @@
+{
+  "pmid": "42156957",
+  "title": "Monkey jumping optimization: a tree-branch-inspired metaheuristic for global search.",
+  "abstract": "This paper presents Monkey Jumping Optimization (MJO), a novel nature-inspired metaheuristic algorithm that emulates the arboreal locomotion behavior of monkeys to address complex global optimization problems. The MJO algorithm integrates three biologically inspired mechanisms: energy-aware leap dynamics, probabilistic branch selection, and canopy memory preservation to balance exploration and exploitation within multimodal search spaces. By representing candidate solutions as monkeys navigating a virtual tree structure, MJO employs a population-based framework that combines stochastic and deterministic strategies for efficient traversal of the solution landscape. Extensive benchmarking against eight state-of-the-art algorithms, including Particle Swarm Optimization (PSO), Genetic Algorithm (GA), and Grey Wolf Optimizer (GWO), demonstrates competitive performance under standard benchmarking assumptions. Specifically, MJO achieves up to 28.7% faster convergence under standard experimental settings compared to PSO on challenging deceptive functions and attains 15-22% higher success rates in identifying global optima across the Congress on Evolutionary Computation (CEC 2024) benchmark suite. Beyond empirical evaluation, theoretical convergence properties are analyzed using a Markov chain framework. The algorithm's biologically inspired design, combined with computational efficiency, makes it suitable for engineering applications such as unmanned aerial vehicle (UAV) path planning and neural architecture search. Despite its strengths, MJO may exhibit relatively slower convergence on well-conditioned unimodal problems and shows sensitivity to parameter settings, highlighting opportunities for further refinement. The proposed MJO algorithm, accompanied by an open-source implementation, provides a flexible and extensible framework for solving complex optimization problems across diverse domains.",
+  "authors": [
+    "Dagal Idriss",
+    "Dari Yaya Dagal"
+  ],
+  "journal": "Scientific reports",
+  "year": "2026",
+  "doi": "10.1038/s41598-026-52280-6",
+  "mesh": []
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "26736448",
+  "title": "Leveraging historical knowledge of neural dynamics to rescue decoder performance as neural channels are lost: \"Decoder hysteresis\".",
+  "abstract": "An intracortical brain-machine interface (BMI) decodes spiking activity recorded from motor cortical neurons to drive a prosthetic device (e.g., a computer cursor or robotic arm). As the number of recorded neurons decreases over time due to decay in recording quality, the performance of a BMI decreases. We asked: can degrading BMI performance be rescued by using prior information from when more neurons were observed? This would entail augmenting a decoder by using previously learned knowledge about motor cortex (at an earlier point in the array lifetime). We implemented this idea by modeling low-dimensional dynamics of the neural population, which describe how the population evolves through time. We posit that if the neural dynamics accurately reflect properties of motor cortex, then having a better estimate of these dynamics should result in a better decoder. Using previously collected (offline) experimental data, we found that a decoder using dynamics inferred in the past (when more neural channels were available) outperformed the same decoder using dynamics inferred from the (fewer) remaining neural channels. These results suggest that neural dynamics capture important features of the neural population responses in motor cortex, and that knowledge of these dynamics may rescue BMI performance even as array signal quality degrades.",
+  "authors": [
+    "Kao Jonathan C",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2015",
+  "doi": "10.1109/EMBC.2015.7318548",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Neurons"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "25422426",
+  "title": "Modeling local and cross-species neuron number variations in the cerebral cortex as arising from a common mechanism.",
+  "abstract": "A massive increase in the number of neurons in the cerebral cortex, driving its size to increase by five orders of magnitude, is a key feature of mammalian evolution. Not only are there systematic variations in cerebral cortical architecture across species, but also across spatial axes within a given cortex. In this article we present a computational model that accounts for both types of variation as arising from the same developmental mechanism. The model employs empirically measured parameters from over a dozen species to demonstrate that changes to the kinetics of neurogenesis (the cell-cycle rate, the progenitor death rate, and the \"quit rate,\" i.e., the ratio of terminal cell divisions) are sufficient to explain the great diversity in the number of cortical neurons across mammals. Moreover, spatiotemporal gradients in those same parameters in the embryonic cortex can account for cortex-wide, graded variations in the mature neural architecture. Consistent with emerging anatomical data in several species, the model predicts (i) a greater complement of neurons per cortical column in the later-developing, posterior regions of intermediate and large cortices, (ii) that the extent of variation across a cortex increases with cortex size, reaching fivefold or greater in primates, and (iii) that when the number of neurons per cortical column increases, whether across species or within a given cortex, it is the later-developing superficial layers of the cortex which accommodate those additional neurons. We posit that these graded features of the cortex have computational and functional significance, and so must be subject to evolutionary selection.",
+  "authors": [
+    "Cahalane Diarmuid J",
+    "Charvet Christine J",
+    "Finlay Barbara L"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2014",
+  "doi": "10.1073/pnas.1409271111",
+  "mesh": [
+    "Animals",
+    "Biological Evolution",
+    "Brain",
+    "Cerebral Cortex",
+    "Cognition",
+    "Computer Simulation",
+    "Ferrets",
+    "Humans",
+    "Macaca",
+    "Mice",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurogenesis",
+    "Neurons",
+    "Regression Analysis",
+    "Species Specificity"
+  ]
+}

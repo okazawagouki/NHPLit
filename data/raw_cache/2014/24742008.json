@@ -1,0 +1,15 @@
+{
+  "pmid": "24742008",
+  "title": "Goodness-of-Fit Tests and Nonparametric Adaptive Estimation for Spike Train Analysis.",
+  "abstract": "When dealing with classical spike train analysis, the practitioner often performs goodness-of-fit tests to test whether the observed process is a Poisson process, for instance, or if it obeys another type of probabilistic model (Yana et al. in Biophys. J. 46(3):323-330, 1984; Brown et al. in Neural Comput. 14(2):325-346, 2002; Pouzat and Chaffiol in Technical report, http://arxiv.org/abs/arXiv:0909.2785, 2009). In doing so, there is a fundamental plug-in step, where the parameters of the supposed underlying model are estimated. The aim of this article is to show that plug-in has sometimes very undesirable effects. We propose a new method based on subsampling to deal with those plug-in issues in the case of the Kolmogorov-Smirnov test of uniformity. The method relies on the plug-in of good estimates of the underlying model that have to be consistent with a controlled rate of convergence. Some nonparametric estimates satisfying those constraints in the Poisson or in the Hawkes framework are highlighted. Moreover, they share adaptive properties that are useful from a practical point of view. We show the performance of those methods on simulated data. We also provide a complete analysis with these tools on single unit activity recorded on a monkey during a sensory-motor task.Electronic Supplementary MaterialThe online version of this article (doi:10.1186/2190-8567-4-3) contains supplementary material.",
+  "authors": [
+    "Reynaud-Bouret Patricia",
+    "Rivoirard Vincent",
+    "Grammont Franck",
+    "Tuleau-Malot Christine"
+  ],
+  "journal": "Journal of mathematical neuroscience",
+  "year": "2014",
+  "doi": "10.1186/2190-8567-4-3",
+  "mesh": []
+}

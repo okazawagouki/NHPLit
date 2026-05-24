@@ -1,0 +1,21 @@
+{
+  "pmid": "31946284",
+  "title": "Sparse, Predictive, and Interpretable Functional Connectomics with UoI<sub>Lasso</sub>.",
+  "abstract": "Network formation from neural activity is a foundational problem in systems neuroscience. Functional networks, after downstream analysis, can provide key insights into the nature of neurobiological structure and computation. The validity of such insights hinges on accurate selection and estimation of the edges connecting nodes. However, commonly used statistical inference procedures generally fail to identify the correct features, and further introduce consequential bias in the estimates. To address these issues, we developed Union of Intersections (UoI), a flexible, modular, and scalable framework for enhanced statistical feature selection and estimation. Methods based on UoI perform feature selection and feature estimation through intersection and union operations, respectively. In the context of linear regression (specifically UoI<sub>Lasso</sub>), we summarize extensive numerical investigation on synthetic data to demonstrate tight control of false-positives and false-negatives in feature selection with low-bias and low-variance estimates of selected parameters, while maintaining high-quality prediction accuracy. We demonstrate, with UoI<sub>Lasso</sub>, the extraction of sparse, predictive, and interpretable functional networks from human electrocorticography recordings during speech production and the inference of parsimonious coupling models from nonhuman primate single-unit recordings during reaching tasks. Our results establish that UoI<sub>Lasso</sub> generates interpretable and predictive functional connectivity networks.",
+  "authors": [
+    "Sachdeva Pratik S",
+    "Bhattacharyya Sharmodeep",
+    "Bouchard Kristofer E"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2019",
+  "doi": "10.1109/EMBC.2019.8856316",
+  "mesh": [
+    "Animals",
+    "Connectome",
+    "Data Interpretation, Statistical",
+    "Electrocorticography",
+    "Humans",
+    "Speech"
+  ]
+}

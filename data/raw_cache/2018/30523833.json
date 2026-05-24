@@ -1,0 +1,22 @@
+{
+  "pmid": "30523833",
+  "title": "Multiscale modeling and decoding algorithms for spike-field activity.",
+  "abstract": "OBJECTIVE: Behavior is encoded across multiple spatiotemporal scales of brain activity. Modern technology can simultaneously record various scales, from spiking of individual neurons to large neural populations measured with field activity. This capability necessitates developing multiscale modeling and decoding algorithms for spike-field activity, which is challenging because of the fundamental differences in statistical characteristics and time-scales of these signals. Spikes are binary-valued with a millisecond time-scale while fields are continuous-valued with slower time-scales. APPROACH: We develop a multiscale encoding model, adaptive learning algorithm, and decoder that explicitly incorporate the different statistical profiles and time-scales of spikes and fields. The multiscale model consists of combined point process and Gaussian process likelihood functions. The multiscale filter (MSF) for decoding runs at the millisecond time-scale of spikes while adding information from fields at their slower time-scales. The adaptive algorithm learns all spike-field multiscale model parameters simultaneously, in real time, and at their different time-scales. MAIN RESULTS: We validated the multiscale framework within motor tasks using both closed-loop brain-machine interface (BMI) simulations and non-human primate (NHP) spike and local field potential (LFP) motor cortical activity during a naturalistic 3D reach task. Our closed-loop simulations show that the MSF can add information across scales and that the adaptive MSF can accurately learn all parameters in real time. We also decoded the seven joint angular trajectories of the NHP arm using spike-LFP activity. These data showed that the MSF outperformed single-scale decoding, this improvement was due to the addition of information across scales rather than the dominance of one scale and was largest in the low-information regime, and the improvement was similar regardless of the degree of overlap between spike and LFP channels. SIGNIFICANCE: This multiscale framework provides a tool to study encoding across scales and may help enhance future neurotechnologies such as motor BMIs.",
+  "authors": [
+    "Hsieh Han-Lin",
+    "Wong Yan T",
+    "Pesaran Bijan",
+    "Shanechi Maryam M"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2019",
+  "doi": "10.1088/1741-2552/aaeb1a",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Brain-Computer Interfaces",
+    "Linear Models",
+    "Models, Neurological",
+    "Normal Distribution"
+  ]
+}

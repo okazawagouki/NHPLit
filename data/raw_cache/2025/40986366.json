@@ -1,0 +1,26 @@
+{
+  "pmid": "40986366",
+  "title": "Neural dynamics of reversal learning in the prefrontal cortex and recurrent neural networks.",
+  "abstract": "In probabilistic reversal learning, the choice option yielding reward with higher probability switches at a random trial. To perform optimally in this task, one has to accumulate evidence across trials to infer the probability that a reversal has occurred. We investigated how this reversal probability is represented in cortical neurons by analyzing the neural activity in the prefrontal cortex of monkeys and recurrent neural networks trained on the task. We found that in a neural subspace encoding reversal probability, its activity represented integration of reward outcomes as in a line attractor model. The reversal probability activity at the start of a trial was stationary, stable, and consistent with the attractor dynamics. However, during the trial, the activity was associated with task-related behavior and became non-stationary, thus deviating from the line attractor. Fitting a predictive model to neural data showed that the stationary state at the trial start serves as an initial condition for launching the non-stationary activity. This suggested an extension of the line attractor model with behavior-induced non-stationary dynamics. The non-stationary trajectories were separable indicating that they can represent distinct probabilistic values. Perturbing the reversal probability activity in the recurrent neural networks biased choice outcomes demonstrating its functional significance. In sum, our results show that cortical networks encode reversal probability in stable stationary state at the start of a trial and utilize it to initiate non-stationary dynamics that accommodates task-related behavior while maintaining the reversal information.",
+  "authors": [
+    "Kim Christopher M",
+    "Chow Carson C",
+    "Averbeck Bruno B"
+  ],
+  "journal": "eLife",
+  "year": "2025",
+  "doi": "10.7554/eLife.103660",
+  "mesh": [
+    "Prefrontal Cortex",
+    "Animals",
+    "Reversal Learning",
+    "Macaca mulatta",
+    "Nerve Net",
+    "Reward",
+    "Neurons",
+    "Models, Neurological",
+    "Male",
+    "Choice Behavior",
+    "Recurrent Neural Networks"
+  ]
+}

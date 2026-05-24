@@ -1,0 +1,30 @@
+{
+  "pmid": "22875261",
+  "title": "Decoding dexterous finger movements in a neural prosthesis model approaching real-world conditions.",
+  "abstract": "Dexterous finger movements can be decoded from neuronal action potentials acquired from a nonhuman primate using a chronically implanted Utah Electrode Array. We have developed an algorithm that can, after training, detect and classify individual and combined finger movements without any a priori knowledge of the data, task, or behavior. The algorithm is based on changes in the firing rates of individual neurons that are tuned for one or more finger movement types. Nine different movement types, which consisted of individual flexions, individual extensions, and combined flexions of the thumb, index finger, and middle finger, were decoded. The algorithm performed reliably on data recorded continuously during movement tasks, including a no-movement state, with an overall average sensitivity and specificity that were both > 92%. These results demonstrate a viable algorithm for decoding dexterous finger movements under conditions similar to those required for a real-world neural prosthetic application.",
+  "authors": [
+    "Egan Joshua",
+    "Baker Justin",
+    "House Paul A",
+    "Greger Bradley"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2012",
+  "doi": "10.1109/TNSRE.2012.2210910",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Conditioning, Operant",
+    "Electric Stimulation",
+    "Electrodes, Implanted",
+    "False Positive Reactions",
+    "Fingers",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Movement",
+    "Neural Prostheses",
+    "Psychomotor Performance",
+    "ROC Curve"
+  ]
+}

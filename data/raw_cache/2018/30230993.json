@@ -1,0 +1,24 @@
+{
+  "pmid": "30230993",
+  "title": "Single-cell responses to three-dimensional structure in a functionally defined patch in macaque area TEO.",
+  "abstract": "Both dorsal and ventral visual pathways harbor several areas sensitive to gradients of binocular disparity (i.e., higher-order disparity). Although a wealth of information exists about disparity processing in early visual (V1, V2, and V3) and end-stage areas, TE in the ventral stream, and the anterior intraparietal area (AIP) in the dorsal stream, little is known about midlevel area TEO in the ventral pathway. We recorded single-unit responses to disparity-defined curved stimuli in a functional magnetic resonance imaging (fMRI) activation elicited by curved surfaces compared with flat surfaces in the macaque area TEO. This fMRI activation contained a small proportion of disparity-selective neurons, with very few of them second-order disparity selective. Overall, this population of TEO neurons did not preserve its three-dimensional structure selectivity across positions in depth, indicating a lack of higher-order disparity selectivity, but showed stronger responses to flat surfaces than to curved surfaces, as predicted by the fMRI experiment. The receptive fields of the responsive TEO cells were relatively small and generally foveal. A linear support vector machine classifier showed that this population of disparity-selective TEO neurons contains reliable information about the sign of curvature and the position in depth of the stimulus. NEW & NOTEWORTHY We recorded in a part of the macaque area TEO that is activated more by curved surfaces than by flat surfaces at different disparities using the same stimuli. In contrast to previous studies, this functional magnetic resonance imaging-defined patch did not contain a large number of higher-order disparity-selective neurons. However, a linear support vector machine could reliably classify both the sign of the disparity gradient and the position in depth of the stimuli.",
+  "authors": [
+    "Alizadeh Amir-Mohammad",
+    "Van Dromme Ilse C",
+    "Janssen Peter"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2018",
+  "doi": "10.1152/jn.00198.2018",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Imaging, Three-Dimensional",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Parietal Lobe",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

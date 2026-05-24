@@ -1,0 +1,25 @@
+{
+  "pmid": "38206969",
+  "title": "Transformations of sensory information in the brain suggest changing criteria for optimality.",
+  "abstract": "Neurons throughout the brain modulate their firing rate lawfully in response to sensory input. Theories of neural computation posit that these modulations reflect the outcome of a constrained optimization in which neurons aim to robustly and efficiently represent sensory information. Our understanding of how this optimization varies across different areas in the brain, however, is still in its infancy. Here, we show that neural sensory responses transform along the dorsal stream of the visual system in a manner consistent with a transition from optimizing for information preservation towards optimizing for perceptual discrimination. Focusing on the representation of binocular disparities-the slight differences in the retinal images of the two eyes-we re-analyze measurements characterizing neuronal tuning curves in brain areas V1, V2, and MT (middle temporal) in the macaque monkey. We compare these to measurements of the statistics of binocular disparity typically encountered during natural behaviors using a Fisher Information framework. The differences in tuning curve characteristics across areas are consistent with a shift in optimization goals: V1 and V2 population-level responses are more consistent with maximizing the information encoded about naturally occurring binocular disparities, while MT responses shift towards maximizing the ability to support disparity discrimination. We find that a change towards tuning curves preferring larger disparities is a key driver of this shift. These results provide new insight into previously-identified differences between disparity-selective areas of cortex and suggest these differences play an important role in supporting visually-guided behavior. Our findings emphasize the need to consider not just information preservation and neural resources, but also relevance to behavior, when assessing the optimality of neural codes.",
+  "authors": [
+    "Manning Tyler S",
+    "Alexander Emma",
+    "Cumming Bruce G",
+    "DeAngelis Gregory C",
+    "Huang Xin",
+    "Cooper Emily A"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2024",
+  "doi": "10.1371/journal.pcbi.1011783",
+  "mesh": [
+    "Animals",
+    "Visual Cortex",
+    "Macaca",
+    "Vision Disparity",
+    "Brain",
+    "Neurons",
+    "Photic Stimulation"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "38829629",
+  "title": "Convolutional neural network models applied to neuronal responses in macaque V1 reveal limited nonlinear processing.",
+  "abstract": "Computational models of the primary visual cortex (V1) have suggested that V1 neurons behave like Gabor filters followed by simple nonlinearities. However, recent work employing convolutional neural network (CNN) models has suggested that V1 relies on far more nonlinear computations than previously thought. Specifically, unit responses in an intermediate layer of VGG-19 were found to best predict macaque V1 responses to thousands of natural and synthetic images. Here, we evaluated the hypothesis that the poor performance of lower layer units in VGG-19 might be attributable to their small receptive field size rather than to their lack of complexity per se. We compared VGG-19 with AlexNet, which has much larger receptive fields in its lower layers. Whereas the best-performing layer of VGG-19 occurred after seven nonlinear steps, the first convolutional layer of AlexNet best predicted V1 responses. Although the predictive accuracy of VGG-19 was somewhat better than that of standard AlexNet, we found that a modified version of AlexNet could match the performance of VGG-19 after only a few nonlinear computations. Control analyses revealed that decreasing the size of the input images caused the best-performing layer of VGG-19 to shift to a lower layer, consistent with the hypothesis that the relationship between image size and receptive field size can strongly affect model performance. We conducted additional analyses using a Gabor pyramid model to test for nonlinear contributions of normalization and contrast saturation. Overall, our findings suggest that the feedforward responses of V1 neurons can be well explained by assuming only a few nonlinear processing stages.",
+  "authors": [
+    "Miao Hui-Yuan",
+    "Tong Frank"
+  ],
+  "journal": "Journal of vision",
+  "year": "2024",
+  "doi": "10.1167/jov.24.6.1",
+  "mesh": [
+    "Animals",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Primary Visual Cortex",
+    "Photic Stimulation",
+    "Models, Neurological",
+    "Macaca",
+    "Visual Cortex",
+    "Nonlinear Dynamics"
+  ]
+}

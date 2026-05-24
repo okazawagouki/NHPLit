@@ -1,0 +1,33 @@
+{
+  "pmid": "22194249",
+  "title": "Functional connectivity dynamics among cortical neurons: a dependence analysis.",
+  "abstract": "This paper quantifies and comparatively validates functional connectivity between neurons by measuring the statistical dependence between their firing rates. Based on statistical analysis of the pairwise functional connectivity, we estimate, exclusively from neural data, the neural assembly functional connectivity given a behavior task, which provides a quantifiable representation of the dynamic nature during the behavioral task. Because of the time scale of behavior (100-1000 ms), a statistical method that yields robust estimators for this small sample size is desirable. In this work, the temporal resolutions of four estimators of functional connectivity are compared on both simulated data and real neural ensemble recordings. The comparison highlights how the properties and assumptions of statistical-based and phase-based metrics affect the interpretation of connectivity. Simulation results show that mean square contingency (MSC) and mutual information (MI) create more robust quantification of functional connectivity under identical conditions than cross correlation (CC) and phase synchronization (PhS) when the sample size is 1 s. The results of the simulated analysis are extended to real neuronal recordings to assess the functional connectivity in monkey's cortex corresponding to three movement states in a food reaching task and construct the assembly graph given a movement state and the activation degree of a state-related assembly over time using the statistical test exclusively from neural data dependencies. The activation degree of a given state-related assembly reaches the peak repeatedly when the specific movement states occur, which also reveals the network of interactions among the neurons are key for the operation of a specific behavior.",
+  "authors": [
+    "Li Lin",
+    "Park Il Memming",
+    "Seth Sohan",
+    "Sanchez Justin C",
+    "Principe José C"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2012",
+  "doi": "10.1109/TNSRE.2011.2176749",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Biomechanical Phenomena",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Elbow Joint",
+    "Haplorhini",
+    "Markov Chains",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neural Pathways",
+    "Neurons",
+    "Psychomotor Performance",
+    "Sample Size",
+    "Synapses"
+  ]
+}

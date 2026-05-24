@@ -1,0 +1,31 @@
+{
+  "pmid": "22992489",
+  "title": "Data-driven analysis of analogous brain networks in monkeys and humans during natural vision.",
+  "abstract": "Inferences about functional correspondences between functional networks of human and non-human primates largely rely on proximity and anatomical expansion models. However, it has been demonstrated that topologically correspondent areas in two species can have different functional properties, suggesting that anatomy-based approaches should be complemented with alternative methods to perform functional comparisons. We have recently shown that comparative analyses based on temporal correlations of sensory-driven fMRI responses can reveal functional correspondent areas in monkeys and humans without relying on spatial assumptions. Inter-species activity correlation (ISAC) analyses require the definition of seed areas in one species to reveal functional correspondences across the cortex of the same and other species. Here we propose an extension of the ISAC method that does not rely on any seed definition, hence a method void of any spatial assumption. Specifically, we apply independent component analysis (ICA) separately to monkey and human data to define species-specific networks of areas with coherent stimulus-related activity. Then, we use a hierarchical cluster analysis to identify ICA-based ISAC clusters of monkey and human networks with similar timecourses. We implemented this approach on fMRI data collected in monkeys and humans during movie watching, a condition that evokes widespread sensory-driven activity throughout large portions of the cortex. Using ICA-based ISAC, we detected seven monkey-human clusters. The timecourses of several clusters showed significant correspondences either with the motion energy in the movie or with eye-movement parameters. Five of the clusters spanned putative homologous functional networks in either primary or extrastriate visual regions, whereas two clusters included higher-level visual areas at topological locations that are not predicted by cortical surface expansion models. Overall, our ICA-based ISAC analysis complemented the findings of our previous seed-based investigations, and suggested that functional processes can be executed by brain networks in different species that are functionally but not necessarily anatomically correspondent. Overall, our method provides a novel approach to reveal evolution-driven functional changes in the primate brain with no spatial assumptions.",
+  "authors": [
+    "Mantini Dante",
+    "Corbetta Maurizio",
+    "Romani Gian Luca",
+    "Orban Guy A",
+    "Vanduffel Wim"
+  ],
+  "journal": "NeuroImage",
+  "year": "2012",
+  "doi": "10.1016/j.neuroimage.2012.08.042",
+  "mesh": [
+    "Adult",
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Cluster Analysis",
+    "Female",
+    "Humans",
+    "Image Interpretation, Computer-Assisted",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Visual Pathways",
+    "Visual Perception",
+    "Young Adult"
+  ]
+}

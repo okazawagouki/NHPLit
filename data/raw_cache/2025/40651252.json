@@ -1,0 +1,25 @@
+{
+  "pmid": "40651252",
+  "title": "Energy efficiency and sensitivity benefits in a motion processing adaptive recurrent neural network.",
+  "abstract": "Motion processing is a key function for the survival of many organisms and is initially implemented in the primary visual cortex (V1) and the middle temporal area (V5/MT) of the primate visual cortex. Advances in machine learning approaches have led to the development of motion processing neural networks that have elucidated several aspects of this process. However, it remains unclear how adaptation, a canonical function of sensory processing, influences motion processing. In this study, we developed two recurrent neural networks to study motion processing: MotionNet-R, a baseline model, and AdaptNet, a model that employs adaptive mechanisms inspired by biological systems. Both networks were trained on natural image sequences to estimate motion vectors. We found that both networks developed response properties that resembled those of neurons found in areas V1 and MT, e.g., speed tuning, and AdaptNet recapitulated the motion aftereffect phenomenon (i.e., the waterfall illusion). We show that the emergent computational properties that implement the phenomenon in AdaptNet confirm previous theoretical hypotheses. Further, we compared the performance of the two networks and found that AdaptNet processed motion more efficiently, operationalized as reduced activation. While AdaptNet incurred reduced accuracy in response to prolonged constant input, it was both more accurate and sensitive in response to changes in motion input. These results are consistent with theoretical explanations of adaptation as a neural property that supports metabolic efficiency and increased sensitivity to change in the environment. Our findings provide novel insights into the neural mechanisms underlying motion adaptation and highlight the potential advantages of adaptive neural networks in modelling biological processes.",
+  "authors": [
+    "Mohan Vishnu",
+    "Rideaux Reuben"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2025",
+  "doi": "10.1016/j.neunet.2025.107834",
+  "mesh": [
+    "Neural Networks, Computer",
+    "Motion Perception",
+    "Animals",
+    "Adaptation, Physiological",
+    "Visual Cortex",
+    "Humans",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Primary Visual Cortex",
+    "Recurrent Neural Networks"
+  ]
+}

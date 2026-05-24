@@ -1,0 +1,26 @@
+{
+  "pmid": "21555594",
+  "title": "Object decoding with attention in inferior temporal cortex.",
+  "abstract": "Recognizing objects in cluttered scenes requires attentional mechanisms to filter out distracting information. Previous studies have found several physiological correlates of attention in visual cortex, including larger responses for attended objects. However, it has been unclear whether these attention-related changes have a large impact on information about objects at the neural population level. To address this question, we trained monkeys to covertly deploy their visual attention from a central fixation point to one of three objects displayed in the periphery, and we decoded information about the identity and position of the objects from populations of ∼ 200 neurons from the inferior temporal cortex using a pattern classifier. The results show that before attention was deployed, information about the identity and position of each object was greatly reduced relative to when these objects were shown in isolation. However, when a monkey attended to an object, the pattern of neural activity, represented as a vector with dimensionality equal to the size of the neural population, was restored toward the vector representing the isolated object. Despite this nearly exclusive representation of the attended object, an increase in the salience of nonattended objects caused \"bottom-up\" mechanisms to override these \"top-down\" attentional enhancements. The method described here can be used to assess which attention-related physiological changes are directly related to object recognition, and should be helpful in assessing the role of additional physiological changes in the future.",
+  "authors": [
+    "Zhang Ying",
+    "Meyers Ethan M",
+    "Bichot Narcisse P",
+    "Serre Thomas",
+    "Poggio Tomaso A",
+    "Desimone Robert"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2011",
+  "doi": "10.1073/pnas.1100999108",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Haplorhini",
+    "Neurons",
+    "Recognition, Psychology",
+    "Temporal Lobe",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

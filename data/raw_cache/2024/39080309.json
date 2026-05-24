@@ -1,0 +1,30 @@
+{
+  "pmid": "39080309",
+  "title": "Large-scale calcium imaging reveals a systematic V4 map for encoding natural scenes.",
+  "abstract": "Biological visual systems have evolved to process natural scenes. A full understanding of visual cortical functions requires a comprehensive characterization of how neuronal populations in each visual area encode natural scenes. Here, we utilized widefield calcium imaging to record V4 cortical response to tens of thousands of natural images in male macaques. Using this large dataset, we developed a deep-learning digital twin of V4 that allowed us to map the natural image preferences of the neural population at 100-µm scale. This detailed map revealed a diverse set of functional domains in V4, each encoding distinct natural image features. We validated these model predictions using additional widefield imaging and single-cell resolution two-photon imaging. Feature attribution analysis revealed that these domains lie along a continuum from preferring spatially localized shape features to preferring spatially dispersed surface features. These results provide insights into the organizing principles that govern natural scene encoding in V4.",
+  "authors": [
+    "Wang Tianye",
+    "Lee Tai Sing",
+    "Yao Haoxuan",
+    "Hong Jiayi",
+    "Li Yang",
+    "Jiang Hongfei",
+    "Andolina Ian Max",
+    "Tang Shiming"
+  ],
+  "journal": "Nature communications",
+  "year": "2024",
+  "doi": "10.1038/s41467-024-50821-z",
+  "mesh": [
+    "Animals",
+    "Visual Cortex",
+    "Male",
+    "Calcium",
+    "Neurons",
+    "Brain Mapping",
+    "Macaca mulatta",
+    "Photic Stimulation",
+    "Visual Perception",
+    "Deep Learning"
+  ]
+}

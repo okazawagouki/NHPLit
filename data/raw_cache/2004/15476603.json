@@ -1,0 +1,26 @@
+{
+  "pmid": "15476603",
+  "title": "Testing for and estimating latency effects for poisson and non-poisson spike trains.",
+  "abstract": "Determining the variations in response latency of one or several neurons to a stimulus is of interest in different contexts. Two common problems concern correlating latency with a particular behavior, for example, the reaction time to a stimulus, and adjusting tools for detecting synchronization between two neurons. We use two such problems to illustrate the latency testing and estimation methods developed in this article. Our test for latencies is a formal statistical test that produces a p-value. It is applicable for Poisson and non-Poisson spike trains via use of the bootstrap. Our estimation method is model free, it is fast and easy to implement, and its performance compares favorably to other methods currently available.",
+  "authors": [
+    "Ventura Valérie"
+  ],
+  "journal": "Neural computation",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Behavior, Animal",
+    "Electrophysiology",
+    "Kinetics",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurons",
+    "Poisson Distribution",
+    "Psychomotor Performance",
+    "Saccades",
+    "Visual Fields"
+  ]
+}

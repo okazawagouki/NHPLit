@@ -1,0 +1,15 @@
+{
+  "pmid": "35909884",
+  "title": "A Spiking Neural Network Builder for Systematic Data-to-Model Workflow.",
+  "abstract": "In building biological neural network models, it is crucial to efficiently convert diverse anatomical and physiological data into parameters of neurons and synapses and to systematically estimate unknown parameters in reference to experimental observations. Web-based tools for systematic model building can improve the transparency and reproducibility of computational models and can facilitate collaborative model building, validation, and evolution. Here, we present a framework to support collaborative data-driven development of spiking neural network (SNN) models based on the Entity-Relationship (ER) data description commonly used in large-scale business software development. We organize all data attributes, including species, brain regions, neuron types, projections, neuron models, and references as tables and relations within a database management system (DBMS) and provide GUI interfaces for data registration and visualization. This allows a robust \"business-oriented\" data representation that supports collaborative model building and traceability of source information for every detail of a model. We tested this data-to-model framework in cortical and striatal network models by successfully combining data from papers with existing neuron and synapse models and by generating NEST simulation codes for various network sizes. Our framework also helps to check data integrity and consistency and data comparisons across species. The framework enables the modeling of any region of the brain and is being deployed to support the integration of anatomical and physiological datasets from the brain/MINDS project for systematic SNN modeling of the marmoset brain.",
+  "authors": [
+    "Gutierrez Carlos Enrique",
+    "Skibbe Henrik",
+    "Musset Hugo",
+    "Doya Kenji"
+  ],
+  "journal": "Frontiers in neuroinformatics",
+  "year": "2022",
+  "doi": "10.3389/fninf.2022.855765",
+  "mesh": []
+}

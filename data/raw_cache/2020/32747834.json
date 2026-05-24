@@ -1,0 +1,30 @@
+{
+  "pmid": "32747834",
+  "title": "Power-saving design opportunities for wireless intracortical brain-computer interfaces.",
+  "abstract": "The efficacy of wireless intracortical brain-computer interfaces (iBCIs) is limited in part by the number of recording channels, which is constrained by the power budget of the implantable system. Designing wireless iBCIs that provide the high-quality recordings of today's wired neural interfaces may lead to inadvertent over-design at the expense of power consumption and scalability. Here, we report analyses of neural signals collected from experimental iBCI measurements in rhesus macaques and from a clinical-trial participant with implanted 96-channel Utah multielectrode arrays to understand the trade-offs between signal quality and decoder performance. Moreover, we propose an efficient hardware design for clinically viable iBCIs, and suggest that the circuit design parameters of current recording iBCIs can be relaxed considerably without loss of performance. The proposed design may allow for an order-of-magnitude power savings and lead to clinically viable iBCIs with a higher channel count.",
+  "authors": [
+    "Even-Chen Nir",
+    "Muratore Dante G",
+    "Stavisky Sergey D",
+    "Hochberg Leigh R",
+    "Henderson Jaimie M",
+    "Murmann Boris",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Nature biomedical engineering",
+  "year": "2020",
+  "doi": "10.1038/s41551-020-0595-9",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electric Power Supplies",
+    "Electrodes, Implanted",
+    "Equipment Design",
+    "Hand",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Middle Aged",
+    "Wireless Technology"
+  ]
+}

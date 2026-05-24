@@ -1,0 +1,19 @@
+{
+  "pmid": "9886658",
+  "title": "Using response models to study coding strategies in monkey visual cortex.",
+  "abstract": "Usually the conditional probabilities needed to calculate transmitted information are estimated directly from empirically measured distributions. Here we show that an explicit model of the relation between response strength (here, spike count) and its variability allows accurate estimates of transmitted information. This method of estimating information is reliable for data sets with nine or more trials per stimulus. We assume that the model characterizes all response distributions, whether observed in a given experiment or not. All stimuli eliciting the same response are considered equivalent. This allows us to calculate the channel capacity, the maximum information that a neuron can transmit given the variability with which it sends signals. Channel capacity is uniquely defined, thus avoiding the difficulty of knowing whether the 'right' stimulus set has been chosen in a particular experiment. Channel capacity increases with increasing dynamic range and decreases as the variance of the signal (noise) increases. Neurons in V1 send more variable signals in a wide dynamic range of spike counts, while neurons in IT send less variable signals in a narrower dynamic range. Nonetheless, neurons in the two areas have similar channel capacities. This suggests that variance is being traded off against dynamic range in coding.",
+  "authors": [
+    "Wiener M C",
+    "Richmond B J"
+  ],
+  "journal": "Bio Systems",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Haplorhini",
+    "Models, Neurological",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "19643700",
+  "title": "A Bayesian clustering method for tracking neural signals over successive intervals.",
+  "abstract": "This paper introduces a new, unsupervised method for sorting and tracking the action potentials of individual neurons in multiunit extracellular recordings. Presuming the data are divided into short, sequential recording intervals, the core of our strategy relies upon an extension of a traditional mixture model approach that incorporates clustering results from the preceding interval in a Bayesian manner, while still allowing for signal nonstationarity and changing numbers of recorded neurons. As a natural byproduct of the sorting method, current and prior signal clusters can be matched over time in order to track persisting neurons. We also develop techniques to use prior data to appropriately seed the clustering algorithm and select the model class. We present results in a principal components space; however, the algorithm may be applied in any feature space where the distribution of a neuron's spikes may be modeled as Gaussian. Applications of this signal classification method to recordings from macaque parietal cortex show that it provides significantly more consistent clustering and tracking results than traditional methods based on expectation-maximization optimization of mixture models. This consistent tracking ability is crucial for intended applications of the method.",
+  "authors": [
+    "Wolf Michael T",
+    "Burdick Joel W"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2009",
+  "doi": "10.1109/TBME.2009.2027604",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Bayes Theorem",
+    "Cluster Analysis",
+    "Electrophysiology",
+    "Models, Neurological",
+    "Neurons",
+    "Normal Distribution",
+    "Principal Component Analysis",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pmid": "39896602",
+  "title": "The geometry of the neural state space of decisions.",
+  "abstract": "How do populations of neurons collectively encode and process information during cognitive tasks? We analyze high-yield population recordings from the macaque lateral intraparietal area (LIP) during a reaction-time random-dot-motion direction-discrimination task. We find that the trajectories of neural population activity patterns during single decisions lie within a curved two-dimensional manifold. The reaction time of trajectories systematically varies along one dimension, such that slow and fast decisions trace distinct activity patterns. Trajectories transition from a deliberation stage, in which they are noisy and remain similar between the choices, to a commitment stage, in which they are far less noisy and diverge sharply for the different choices. The deliberation phase is pronounced for slower decisions and gradually diminishes as reaction time decreases. A mechanistic circuit model provides an explanation for the observed properties, and suggests the transition between stages represents a transition from more sensory-driven to more circuit-driven dynamics. It yields two striking predictions we verify in the data. First, whether neurons are more choice selective for slow or fast trials varies systematically with the retinotopic location of their response fields. Second, the slower the trial, the more saccades undershoot the choice target. The results highlight the roles of distributed and dynamic activity patterns and intrinsic circuit dynamics in the population implementation of a cognitive task.",
+  "authors": [
+    "Monsalve-Mercado Mauro M",
+    "Stine Gabriel M",
+    "Shadlen Michael N",
+    "Miller Kenneth D"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.01.24.634806",
+  "mesh": []
+}

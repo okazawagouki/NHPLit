@@ -1,0 +1,27 @@
+{
+  "pmid": "29339482",
+  "title": "Global spectral clustering in dynamic networks.",
+  "abstract": "Community detection is challenging when the network structure is estimated with uncertainty. Dynamic networks present additional challenges but also add information across time periods. We propose a global community detection method, persistent communities by eigenvector smoothing (PisCES), that combines information across a series of networks, longitudinally, to strengthen the inference for each period. Our method is derived from evolutionary spectral clustering and degree correction methods. Data-driven solutions to the problem of tuning parameter selection are provided. In simulations we find that PisCES performs better than competing methods designed for a low signal-to-noise ratio. Recently obtained gene expression data from rhesus monkey brains provide samples from finely partitioned brain regions over a broad time span including pre- and postnatal periods. Of interest is how gene communities develop over space and time; however, once the data are divided into homogeneous spatial and temporal periods, sample sizes are very small, making inference quite challenging. Applying PisCES to medial prefrontal cortex in monkey rhesus brains from near conception to adulthood reveals dense communities that persist, merge, and diverge over time and others that are loosely organized and short lived, illustrating how dynamic community detection can yield interesting insights into processes such as brain development.",
+  "authors": [
+    "Liu Fuchen",
+    "Choi David",
+    "Xie Lu",
+    "Roeder Kathryn"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2018",
+  "doi": "10.1073/pnas.1718449115",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cluster Analysis",
+    "Computer Simulation",
+    "Gene Expression Regulation, Developmental",
+    "Gene Regulatory Networks",
+    "Macaca mulatta",
+    "Models, Genetic",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Prefrontal Cortex"
+  ]
+}

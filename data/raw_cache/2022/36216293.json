@@ -1,0 +1,23 @@
+{
+  "pmid": "36216293",
+  "title": "Keep the head in the right place: Face-body interactions in inferior temporal cortex.",
+  "abstract": "In primates, faces and bodies activate distinct regions in the inferior temporal (IT) cortex and are typically studied separately. Yet, primates interact with whole agents and not with random concatenations of faces and bodies. Despite its social importance, it is still poorly understood how faces and bodies interact in IT. Here, we addressed this gap by measuring fMRI activations to whole agents and to unnatural face-body configurations in which the head was mislocated with respect to the body, and examined how these relate to the sum of the activations to their corresponding faces and bodies. First, we mapped patches in the IT of awake macaques that were activated more by images of whole monkeys compared to objects and found that these mostly overlapped with body and face patches. In a second fMRI experiment, we obtained no evidence for superadditive responses in these \"monkey patches\", with the activation to the monkeys being less or equal to the summed face-body activations. However, monkey patches in the anterior IT were activated more by natural compared to unnatural configurations. The stronger activations to natural configurations could not be explained by the summed face-body activations. These univariate results were supported by regression analyses in which we modeled the activations to both configurations as a weighted linear combination of the activations to the faces and bodies, showing higher regression coefficients for the natural compared to the unnatural configurations. Deeper layers of trained convolutional neural networks also contained units that responded more to natural compared to unnatural monkey configurations. Unlike the monkey fMRI patches, these units showed substantial superadditive responses to the natural configurations. Our monkey fMRI data suggest configuration-sensitive face-body interactions in anterior IT, adding to the evidence for an integrated face-body processing in the primate ventral visual stream, and open the way for mechanistic studies using single unit recordings in these patches.",
+  "authors": [
+    "Zafirova Yordanka",
+    "Cui Ding",
+    "Raman Rajani",
+    "Vogels Rufin"
+  ],
+  "journal": "NeuroImage",
+  "year": "2022",
+  "doi": "10.1016/j.neuroimage.2022.119676",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Temporal Lobe",
+    "Magnetic Resonance Imaging",
+    "Macaca"
+  ]
+}

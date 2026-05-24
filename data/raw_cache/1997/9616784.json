@@ -1,0 +1,25 @@
+{
+  "pmid": "9616784",
+  "title": "Sensory coding in cortical neurons. Recent results and speculations.",
+  "abstract": "We described a novel approach to the study of how spike trains encode sensory information. This approach emphasizes the idea that spike trains are sequences of discrete events, rather than approximations to continuous signals. Aided by some simple heuristics, such as a caricature of neurons as coincidence detectors, we constructed candidate notions of \"distances\" between spike trains, considered as points in an abstract space. Each candidate distance was evaluated for relevance to biological encoding by determining whether it led to systematic, stimulus-dependent, clustering of the neural responses. We showed here that these distance can also be used to construct a \"response space\" for the neuron. The response space, which is typically not Euclidean, can represent two or three stimulus attributes. We also introduced the notion of a \"consensus spike train,\" defined as the spike train with minimum average distance from a set of observed responses. For the distances we considered, the consensus spike train (for a particular stimulus) contained only those spikes that were present at consistent times across the observed responses to that stimulus, and thus contained fewer spikes than the typical observed responses. Nevertheless, these consensus spike trains provided an equivalent (or even superior) representation of the stimulus array.",
+  "authors": [
+    "Victor J D",
+    "Purpura K P"
+  ],
+  "journal": "Annals of the New York Academy of Sciences",
+  "year": "1997",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Anesthesia",
+    "Animals",
+    "Higher Nervous Activity",
+    "Humans",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons, Afferent",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

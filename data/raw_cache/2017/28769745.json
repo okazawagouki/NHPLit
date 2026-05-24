@@ -1,0 +1,13 @@
+{
+  "pmid": "28769745",
+  "title": "Sums of Spike Waveform Features for Motor Decoding.",
+  "abstract": "Traditionally, the key step before decoding motor intentions from cortical recordings is spike sorting, the process of identifying which neuron was responsible for an action potential. Recently, researchers have started investigating approaches to decoding which omit the spike sorting step, by directly using information about action potentials' waveform shapes in the decoder, though this approach is not yet widespread. Particularly, one recent approach involves computing the moments of waveform features and using these moment values as inputs to decoders. This computationally inexpensive approach was shown to be comparable in accuracy to traditional spike sorting. In this study, we use offline data recorded from two Rhesus monkeys to further validate this approach. We also modify this approach by using sums of exponentiated features of spikes, rather than moments. Our results show that using waveform feature sums facilitates significantly higher hand movement reconstruction accuracy than using waveform feature moments, though the magnitudes of differences are small. We find that using the sums of one simple feature, the spike amplitude, allows better offline decoding accuracy than traditional spike sorting by expert (correlation of 0.767, 0.785 vs. 0.744, 0.738, respectively, for two monkeys, average 16% reduction in mean-squared-error), as well as unsorted threshold crossings (0.746, 0.776; average 9% reduction in mean-squared-error). Our results suggest that the sums-of-features framework has potential as an alternative to both spike sorting and using unsorted threshold crossings, if developed further. Also, we present data comparing sorted vs. unsorted spike counts in terms of offline decoding accuracy. Traditional sorted spike counts do not include waveforms that do not match any template (\"hash\"), but threshold crossing counts do include this hash. On our data and in previous work, hash contributes to decoding accuracy. Thus, using the comparison between sorted spike counts and threshold crossing counts to evaluate the benefit of sorting is confounded by the presence of hash. We find that when the comparison is controlled for hash, performing sorting is better than not. These results offer a new perspective on the question of to sort or not to sort.",
+  "authors": [
+    "Li Jie",
+    "Li Zheng"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2017",
+  "doi": "10.3389/fnins.2017.00406",
+  "mesh": []
+}

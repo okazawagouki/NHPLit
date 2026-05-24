@@ -1,0 +1,19 @@
+{
+  "pmid": "32420401",
+  "title": "Deep learning-based analysis of macaque corneal sub-basal nerve fibers in confocal microscopy images.",
+  "abstract": "BACKGROUND: To develop and validate a deep learning-based approach to the fully-automated analysis of macaque corneal sub-basal nerves using in vivo confocal microscopy (IVCM). METHODS: IVCM was used to collect 108 images from 35 macaques. 58 of the images from 22 macaques were used to evaluate different deep convolutional neural network (CNN) architectures for the automatic analysis of sub-basal nerves relative to manual tracings. The remaining images were used to independently assess correlations and inter-observer performance relative to three readers. RESULTS: Correlation scores using the coefficient of determination between readers and the best CNN averaged 0.80. For inter-observer comparison, inter-correlation coefficients (ICCs) between the three expert readers and the automated approach were 0.75, 0.85 and 0.92. The ICC between all four observers was 0.84, the same as the average between the CNN and individual readers. CONCLUSIONS: Deep learning-based segmentation of sub-basal nerves in IVCM images shows high to very high correlation to manual segmentations in macaque data and is indistinguishable across readers. As quantitative measurements of corneal sub-basal nerves are important biomarkers for disease screening and management, the reported work offers utility to a variety of research and clinical studies using IVCM.",
+  "authors": [
+    "Oakley Jonathan D",
+    "Russakoff Daniel B",
+    "McCarron Megan E",
+    "Weinberg Rachel L",
+    "Izzi Jessica M",
+    "Misra Stuti L",
+    "McGhee Charles N",
+    "Mankowski Joseph L"
+  ],
+  "journal": "Eye and vision (London, England)",
+  "year": "2020",
+  "doi": "10.1186/s40662-020-00192-5",
+  "mesh": []
+}

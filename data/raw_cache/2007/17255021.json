@@ -1,0 +1,19 @@
+{
+  "pmid": "17255021",
+  "title": "Spatial constancy and the brain: insights from neural networks.",
+  "abstract": "To form an accurate internal representation of visual space, the brain must accurately account for movements of the eyes, head or body. Updating of internal representations in response to these movements is especially important when remembering spatial information, such as the location of an object, since the brain must rely on non-visual extra-retinal signals to compensate for self-generated movements. We investigated the computations underlying spatial updating by constructing a recurrent neural network model to store and update a spatial location based on a gaze shift signal, and to do so flexibly based on a contextual cue. We observed a striking similarity between the patterns of behaviour produced by the model and monkeys trained to perform the same task, as well as between the hidden units of the model and neurons in the lateral intraparietal area (LIP). In this report, we describe the similarities between the model and single unit physiology to illustrate the usefulness of neural networks as a tool for understanding specific computations performed by the brain.",
+  "authors": [
+    "White Robert L",
+    "Snyder Lawrence H"
+  ],
+  "journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Brain",
+    "Computer Simulation",
+    "Models, Biological",
+    "Neural Networks, Computer",
+    "Retina"
+  ]
+}

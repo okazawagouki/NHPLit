@@ -1,0 +1,21 @@
+{
+  "pmid": "21939762",
+  "title": "Synthesizing complex movement fragment representations from motor cortical ensembles.",
+  "abstract": "We have previously shown that the responses of primary motor cortical neurons are more accurately predicted if one assumes that individual neurons encode temporally-extensive movement fragments or preferred trajectories instead of static movement parameters (Hatsopoulos et al., 2007). Building on these findings, we examine here how these preferred trajectories can be combined to generate a rich variety of preferred movement trajectories when neurons fire simultaneously. Specifically, we used a generalized linear model to fit each neuron's spike rate to an exponential function of the inner product between the actual movement trajectory and the preferred trajectory; then, assuming conditional independence, when two neurons fire simultaneously their spiking probabilities multiply implying that their preferred trajectories add. We used a similar exponential model to fit the probability of simultaneous firing and found that the majority of neuron pairs did combine their preferred trajectories using a simple additive rule. Moreover, a minority of neuron pairs that engaged in significant synchronization combined their preferred trajectories through a small scaling adjustment to the additive rule in the exponent, while preserving the shape of the predicted trajectory representation from the additive rule. These results suggest that complex movement representations can be synthesized in simultaneously firing neuronal ensembles by adding the trajectory representations of the constituents in the ensemble.",
+  "authors": [
+    "Hatsopoulos Nicholas G",
+    "Amit Yali"
+  ],
+  "journal": "Journal of physiology, Paris",
+  "year": "2012",
+  "doi": "10.1016/j.jphysparis.2011.09.003",
+  "mesh": [
+    "Animals",
+    "Linear Models",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Neurons"
+  ]
+}

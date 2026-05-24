@@ -1,0 +1,23 @@
+{
+  "pmid": "22772648",
+  "title": "Neuronal variability of MSTd neurons changes differentially with eye movement and visually related variables.",
+  "abstract": "Neurons in macaque cortical area MSTd are driven by visual motion and eye movement related signals. This multimodal characteristic makes MSTd an ideal system for studying the dependence of neuronal activity on different variables. Here, we analyzed the temporal structure of spiking patterns during visual motion stimulation using 2 distinct behavioral paradigms: fixation (FIX) and optokinetic response. For the FIX condition, inter- and intra-trial variability of spiking activity decreased with increasing stimulus strength, complying with a recent neurophysiological study reporting stimulus-related decline of neuronal variability. In contrast, for the optokinetic condition variability increased together with increasing eye velocity while retinal image velocity remained low. Analysis of stimulus signal variability revealed a correlation between the normalized variance of image velocity and neuronal variability, but no correlation with normalized eye velocity variance. We further show that the observed difference in neuronal variability allows classifying spike trains according to the paradigm used, even when mean firing rates (FRs) were similar. The stimulus-dependence of neuronal variability may result from the local network structure and/or the variability characteristics of the input signals, but may also reflect additional timing-based mechanisms independent of the neuron's mean FR and related to the modality driving the neuron.",
+  "authors": [
+    "Brostek Lukas",
+    "Büttner Ulrich",
+    "Mustari Michael J",
+    "Glasauer Stefan"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2013",
+  "doi": "10.1093/cercor/bhs146",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Eye Movements",
+    "Macaca mulatta",
+    "Motion Perception",
+    "Neurons",
+    "Temporal Lobe"
+  ]
+}

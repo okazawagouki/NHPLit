@@ -1,0 +1,28 @@
+{
+  "pmid": "17548818",
+  "title": "Network structure of cerebral cortex shapes functional connectivity on multiple time scales.",
+  "abstract": "Neuronal dynamics unfolding within the cerebral cortex exhibit complex spatial and temporal patterns even in the absence of external input. Here we use a computational approach in an attempt to relate these features of spontaneous cortical dynamics to the underlying anatomical connectivity. Simulating nonlinear neuronal dynamics on a network that captures the large-scale interregional connections of macaque neocortex, and applying information theoretic measures to identify functional networks, we find structure-function relations at multiple temporal scales. Functional networks recovered from long windows of neural activity (minutes) largely overlap with the underlying structural network. As a result, hubs in these long-run functional networks correspond to structural hubs. In contrast, significant fluctuations in functional topology are observed across the sequence of networks recovered from consecutive shorter (seconds) time windows. The functional centrality of individual nodes varies across time as interregional couplings shift. Furthermore, the transient couplings between brain regions are coordinated in a manner that reveals the existence of two anticorrelated clusters. These clusters are linked by prefrontal and parietal regions that are hub nodes in the underlying structural network. At an even faster time scale (hundreds of milliseconds) we detect individual episodes of interregional phase-locking and find that slow variations in the statistics of these transient episodes, contingent on the underlying anatomical structure, produce the transfer entropy functional connectivity and simulated blood oxygenation level-dependent correlation patterns observed on slower time scales.",
+  "authors": [
+    "Honey Christopher J",
+    "Kötter Rolf",
+    "Breakspear Michael",
+    "Sporns Olaf"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Computational Biology",
+    "Macaca",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neocortex",
+    "Nerve Net",
+    "Neural Pathways",
+    "Somatosensory Cortex",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

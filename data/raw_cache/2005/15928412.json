@@ -1,0 +1,33 @@
+{
+  "pmid": "15928412",
+  "title": "Naive coadaptive cortical control.",
+  "abstract": "The ability to control a prosthetic device directly from the neocortex has been demonstrated in rats, monkeys and humans. Here we investigate whether neural control can be accomplished in situations where (1) subjects have not received prior motor training to control the device (naive user) and (2) the neural encoding of movement parameters in the cortex is unknown to the prosthetic device (naive controller). By adopting a decoding strategy that identifies and focuses on units whose firing rate properties are best suited for control, we show that naive subjects mutually adapt to learn control of a neural prosthetic system. Six untrained Long-Evans rats, implanted with silicon micro-electrodes in the motor cortex, learned cortical control of an auditory device without prior motor characterization of the recorded neural ensemble. Single- and multi-unit activities were decoded using a Kalman filter to represent an audio \"cursor\" (90 ms tone pips ranging from 250 Hz to 16 kHz) which subjects controlled to match a given target frequency. After each trial, a novel adaptive algorithm trained the decoding filter based on correlations of the firing patterns with expected cursor movement. Each behavioral session consisted of 100 trials and began with randomized decoding weights. Within 7 +/- 1.4 (mean +/- SD) sessions, all subjects were able to significantly score above chance (P < 0.05, randomization method) in a fixed target paradigm. Training lasted 24 sessions in which both the behavioral performance and signal to noise ratio of the peri-event histograms increased significantly (P < 0.01, ANOVA). Two rats continued training on a more complex task using a bilateral, two-target control paradigm. Both subjects were able to significantly discriminate the target tones (P < 0.05, Z-test), while one subject demonstrated control above chance (P < 0.05, Z-test) after 12 sessions and continued improvement with many sessions achieving over 90% correct targets. Dynamic analysis of binary trial responses indicated that early learning for this subject occurred during session 6. This study demonstrates that subjects can learn to generate neural control signals that are well suited for use with external devices without prior experience or training.",
+  "authors": [
+    "Gage Gregory J",
+    "Ludwig Kip A",
+    "Otto Kevin J",
+    "Ionides Edward L",
+    "Kipke Daryl R"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Adaptation, Physiological",
+    "Algorithms",
+    "Animals",
+    "Auditory Cortex",
+    "Computer Peripherals",
+    "Discrimination Learning",
+    "Electroencephalography",
+    "Evoked Potentials, Auditory",
+    "Feedback",
+    "Neuronal Plasticity",
+    "Pitch Perception",
+    "Prosthesis Design",
+    "Rats",
+    "Rats, Long-Evans",
+    "User-Computer Interface"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "36413523",
+  "title": "Look twice: A generalist computational model predicts return fixations across tasks and species.",
+  "abstract": "Primates constantly explore their surroundings via saccadic eye movements that bring different parts of an image into high resolution. In addition to exploring new regions in the visual field, primates also make frequent return fixations, revisiting previously foveated locations. We systematically studied a total of 44,328 return fixations out of 217,440 fixations. Return fixations were ubiquitous across different behavioral tasks, in monkeys and humans, both when subjects viewed static images and when subjects performed natural behaviors. Return fixations locations were consistent across subjects, tended to occur within short temporal offsets, and typically followed a 180-degree turn in saccadic direction. To understand the origin of return fixations, we propose a proof-of-principle, biologically-inspired and image-computable neural network model. The model combines five key modules: an image feature extractor, bottom-up saliency cues, task-relevant visual features, finite inhibition-of-return, and saccade size constraints. Even though there are no free parameters that are fine-tuned for each specific task, species, or condition, the model produces fixation sequences resembling the universal properties of return fixations. These results provide initial steps towards a mechanistic understanding of the trade-off between rapid foveal recognition and the need to scrutinize previous fixation locations.",
+  "authors": [
+    "Zhang Mengmi",
+    "Armendariz Marcelo",
+    "Xiao Will",
+    "Rose Olivia",
+    "Bendtz Katarina",
+    "Livingstone Margaret",
+    "Ponce Carlos",
+    "Kreiman Gabriel"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2022",
+  "doi": "10.1371/journal.pcbi.1010654",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Fixation, Ocular",
+    "Saccades",
+    "Visual Fields",
+    "Primates",
+    "Cues"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pmid": "36329691",
+  "title": "Learning bio-inspired head-centric representations of 3D shapes in an active fixation setting.",
+  "abstract": "When exploring the surrounding environment with the eyes, humans and primates need to interpret three-dimensional (3D) shapes in a fast and invariant way, exploiting a highly variant and gaze-dependent visual information. Since they have front-facing eyes, binocular disparity is a prominent cue for depth perception. Specifically, it serves as computational substrate for two ground mechanisms of binocular active vision: stereopsis and binocular coordination. To this aim, disparity information, which is expressed in a retinotopic reference frame, is combined along the visual cortical pathways with gaze information and transformed in a head-centric reference frame. Despite the importance of this mechanism, the underlying neural substrates still remain widely unknown. In this work, we investigate the capabilities of the human visual system to interpret the 3D scene exploiting disparity and gaze information. In a psychophysical experiment, human subjects were asked to judge the depth orientation of a planar surface either while fixating a target point or while freely exploring the surface. Moreover, we used the same stimuli to train a recurrent neural network to exploit the responses of a modelled population of cortical (V1) cells to interpret the 3D scene layout. The results for both human performance and from the model network show that integrating disparity information across gaze directions is crucial for a reliable and invariant interpretation of the 3D geometry of the scene.",
+  "authors": [
+    "Kalou Katerina",
+    "Sedda Giulia",
+    "Gibaldi Agostino",
+    "Sabatini Silvio P"
+  ],
+  "journal": "Frontiers in robotics and AI",
+  "year": "2022",
+  "doi": "10.3389/frobt.2022.994284",
+  "mesh": []
+}

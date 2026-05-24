@@ -1,0 +1,14 @@
+{
+  "pmid": "22028690",
+  "title": "Short-Term Facilitation may Stabilize Parametric Working Memory Trace.",
+  "abstract": "Networks with continuous set of attractors are considered to be a paradigmatic model for parametric working memory (WM), but require fine tuning of connections and are thus structurally unstable. Here we analyzed the network with ring attractor, where connections are not perfectly tuned and the activity state therefore drifts in the absence of the stabilizing stimulus. We derive an analytical expression for the drift dynamics and conclude that the network cannot function as WM for a period of several seconds, a typical delay time in monkey memory experiments. We propose that short-term synaptic facilitation in recurrent connections significantly improves the robustness of the model by slowing down the drift of activity bump. Extending the calculation of the drift velocity to network with synaptic facilitation, we conclude that facilitation can slow down the drift by a large factor, rendering the network suitable as a model of WM.",
+  "authors": [
+    "Itskov Vladimir",
+    "Hansel David",
+    "Tsodyks Misha"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2011",
+  "doi": "10.3389/fncom.2011.00040",
+  "mesh": []
+}

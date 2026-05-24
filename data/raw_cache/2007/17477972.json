@@ -1,0 +1,32 @@
+{
+  "pmid": "17477972",
+  "title": "Quantifying the isolation quality of extracellularly recorded action potentials.",
+  "abstract": "There have been many approaches to the problem of detection and sorting of extra-cellularly recorded action potentials, but only a few methods actually quantify the quality of this fundamental process. In most cases, the quality assessment is based on the subjective judgment of human observers and the recorded units are divided into \"well isolated\" or \"multi-unit\" groups. This subjective evaluation precludes comprehensive assessment of single-unit studies since the most basic parameter, i.e. their data quality, is not explicitly defined. Here we propose objective measures to evaluate the quality of spike data, based on the time-stamps of the detected spikes and the high-frequency sampling of the analog signal of cortical and basal-ganglia data. We show that quantification of recording quality by the signal-to-noise ratio (SNR) may be misleading. The recording quality is better assessed by an isolation score that measures the overlap between the noise (non-spike) and the spike clusters. Furthermore, we use a nearest-neighbors algorithm to estimate the proportion of false positive and false negative classification errors. To validate these quality measures, we simulate spike detection and sorting errors and show that the scores are good predictors of the frequency of errors. The reliability of the isolation score is further verified by errors implanted in real basal ganglia data and by using different sorting algorithms. We conclude that quantitative measures of spike isolation can be obtained independently of the method used for spike detection and sorting, and recommend their reports in any study based on the activity of single neurons.",
+  "authors": [
+    "Joshua Mati",
+    "Elias Shlomo",
+    "Levine Odeya",
+    "Bergman Hagai"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Basal Ganglia",
+    "Brain",
+    "Cerebral Cortex",
+    "Chlorocebus aethiops",
+    "Electrodes",
+    "Electrophysiology",
+    "Extracellular Space",
+    "Female",
+    "Macaca fascicularis",
+    "Male",
+    "Neurons",
+    "Neurophysiology",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

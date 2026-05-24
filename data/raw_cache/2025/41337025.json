@@ -1,0 +1,27 @@
+{
+  "pmid": "41337025",
+  "title": "A Neuromorphic Approach for Brain-Machine Interface Using Spiking Neural Networks.",
+  "abstract": "Brain-machine interfaces (BMIs) have emerged as a promising technology for restoring motor function in paralyzed individuals through direct neural control of prosthetic devices. While conventional decoding algorithms have achieved considerable success, they often overlook the fundamental biological properties of neural information processing. This paper presents a novel approach using Spiking Neural Networks (SNNs), a neuromorphic computing paradigm that closely mimics biological neural dynamics through event-driven processing and spike-timing-dependent plasticity. A SNN-based decoder was implemented for offline decoding of intracortical neural recordings from the primary motor cortex (M1) and dorsal premotor cortex (PMd) to continuous 2D cursor movements in a macaque monkey. This approach leverages the temporal processing capabilities of SNNs to capture the complex, time-varying nature of neural representations, potentially enabling more naturalistic and adaptive BMI control.",
+  "authors": [
+    "Liu Guanting",
+    "Yan Ying",
+    "He Sizhen",
+    "Cai Jun",
+    "Cheok Adrian David",
+    "Qi Wu Edmond",
+    "Song Aiguo"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2025",
+  "doi": "10.1109/EMBC58623.2025.11254255",
+  "mesh": [
+    "Brain-Computer Interfaces",
+    "Animals",
+    "Neural Networks, Computer",
+    "Algorithms",
+    "Action Potentials",
+    "Motor Cortex",
+    "Macaca mulatta",
+    "Humans"
+  ]
+}

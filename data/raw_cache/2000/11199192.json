@@ -1,0 +1,37 @@
+{
+  "pmid": "11199192",
+  "title": "Three-dimensional modeling of the effects of parathyroid hormone on bone distribution in lumbar vertebrae of ovariectomized cynomolgus macaques.",
+  "abstract": "Biomechanical and quantitative computed tomography (QCT) analyses showed beneficial effects of parathyroid hormone (PTH (1-34)) on lumbar vertebrae from ovariectomized monkeys, even after withdrawal of treatment for 6 months. Adult cynomolgus monkeys were randomized, ovariectomized (except for sham ovariectomy controls), and treated subcutaneously with vehicle (OVX) or 5 micrograms/kg per day PTH (1-34) (PTH5) for 18 months. An additional group was treated subcutaneously with 5 micrograms/kg per day PTH (1-34) (PTH5W) for 12 months and then switched to vehicle for the remaining 6 months. Lumbar vertebrae were excised at necropsy, and L5 were serially scanned by QCT, using 70 x 70 x 500 microns voxels. PTH increased volumetric bone mineral density (BMD, mg/cm3) and bone mineral content (BMC, mg) for both PTH5 and PTH5W compared with OVX and Sham without inducing hypermineralization, without stimulating periosteal expansion, and without significant constriction of the neural canal. BMD values for the voxels were then averaged to create nearly isotropic voxels of 490 x 490 x 500 microns. Serial scans were stacked and a triangular surface mesh generated for each bone, using a 'marching cubes' algorithm. A smoothed version of each surface mesh was used to generate a tetrahedral element for three-dimensional finite element modeling. An isotropic Young's modulus for each tetrahedral element was calculated as a function of the original voxel BMDs. Linear elastic stress analysis was then performed for each finite element model in which a distributed load of 100 newtons (N) was applied to the top surface of the centrum, perpendicular to the bottom surface with the bottom surface constrained in the direction of loading. Analysis of the effective strain showed considerable reduction in vertebral strain for both PTH5 and PTH5W, compared with OVX. Compression testing of the adjacent L3 and L4 confirmed that vertebral strength and stiffness for PTH5 and PTH5W were significantly greater than for OVX. Histogram and QCT analyses showed PTH conversion of low-density bone (trabecular bone) into medium-density bone (more and thicker trabeculae) by stimulating bone apposition. PTH withdrawal induced conversion of medium-density into low-density and high-density bone with the latter higher than in OVX. These data show that even transient PTH treatment improves vertebral architecture and bone quality to reduce the likelihood of fracture, and that transient treatment is better than no PTH treatment at all.",
+  "authors": [
+    "Sato M",
+    "Westmore M",
+    "Clendenon J",
+    "Smith S",
+    "Hannum B",
+    "Zeng G Q",
+    "Brommage R",
+    "Turner C H"
+  ],
+  "journal": "Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Bone Density",
+    "Disease Models, Animal",
+    "Female",
+    "Finite Element Analysis",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Lumbar Vertebrae",
+    "Macaca fascicularis",
+    "Models, Biological",
+    "Osteoporosis, Postmenopausal",
+    "Ovariectomy",
+    "Parathyroid Hormone-Related Protein",
+    "Peptide Fragments",
+    "Proteins",
+    "Stress, Mechanical",
+    "Tomography, X-Ray Computed"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "16287203",
+  "title": "Bootstrap-based methods for testing factor-by-curve interactions in generalized additive models: assessing prefrontal cortex neural activity related to decision-making.",
+  "abstract": "In many situations the effect of a continuous covariate on response varies across groups defined by levels of a categorical variable. This paper addresses generalized additive models incorporating the so-called factor-by-curve interaction. A local scoring algorithm based on local linear kernel smoothers was used to estimate the model. Two different types of bootstrap-based procedures are proposed for testing interaction terms, namely, the likelihood ratio test, and a procedure based on an estimate of the interaction terms. Given the high computational cost involved, binning techniques were used to speed up computation in the estimation and testing processes. A simulation study was conducted to assess the validity of these bootstrap-based tests. This methodology was applied to studying prefrontal cortex neural activity associated with decision-making in monkeys. The proposed statistical procedure proved very useful in revealing the neural activity correlates of decision-making strategies adopted by monkeys in accordance with different behavioural tasks.",
+  "authors": [
+    "Roca-Pardiñas Javier",
+    "Cadarso-Suárez Carmen",
+    "Nácher Verónica",
+    "Acuña Carlos"
+  ],
+  "journal": "Statistics in medicine",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Decision Making",
+    "Haplorhini",
+    "Logistic Models",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Prefrontal Cortex",
+    "Statistics, Nonparametric",
+    "Time Factors"
+  ]
+}

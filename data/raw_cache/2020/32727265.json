@@ -1,0 +1,20 @@
+{
+  "pmid": "32727265",
+  "title": "Frequency-separated principal component analysis of cortical population activity.",
+  "abstract": "A hallmark of neocortical activity is the presence of low-dimensional fluctuations in firing rate that are coordinated across neurons. However, the impact of these fluctuations on sensory processing remains unclear. Here, we examined fluctuations in populations of orientation-selective neurons from anesthetized macaque primary visual cortex (V1) during stimulus viewing as well as spontaneous activity. We introduce a novel approach termed frequency-separated principal component analysis (FS-PCA) to characterize these fluctuations. This method unveiled a distribution of components with a broad range of frequencies whose eigenvalues and variance followed an approximate power law. During stimulus viewing, subpopulations of V1 neurons correlated either positively or negatively with low-dimensional fluctuations. These two subpopulations displayed distinct activation properties and noise correlations in response to sensory input. Together, results suggest that slow, low-dimensional fluctuations in V1 population activity shape the response of individual neurons to oriented stimuli and may impact the transmission of sensory information to downstream regions of the primary visual system.<b>NEW & NOTEWORTHY</b> A method termed frequency-separated principal component analysis (FS-PCA) is introduced for analyzing populations of simultaneously recorded neurons. This framework extends standard principal component analysis by extracting components of activity delimited to specific frequency bands. FS-PCA revealed that circuits of the primary visual cortex generate a broad range of components dominated by low-frequency activity. Furthermore, low-dimensional fluctuations in population activity modulated the response of individual neurons to sensory input.",
+  "authors": [
+    "Thivierge Jean-Philippe"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2020",
+  "doi": "10.1152/jn.00167.2020",
+  "mesh": [
+    "Animals",
+    "Electrophysiological Phenomena",
+    "Macaca fascicularis",
+    "Neurons",
+    "Principal Component Analysis",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

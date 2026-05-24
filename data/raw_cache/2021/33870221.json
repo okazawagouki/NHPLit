@@ -1,0 +1,25 @@
+{
+  "pmid": "33870221",
+  "title": "A Poisson generalized linear model application to disentangle the effects of various parameters on neurophysiological discharges.",
+  "abstract": "The protocol provides an extensive guide to apply the generalized linear model framework to neurophysiological recordings. This flexible technique can be adapted to test and quantify the contributions of many different parameters (e.g., kinematics, target position, choice, reward) on neural activity. To weight the influence of each parameter, we developed an intuitive metric (\"w-value\") that can be used to build a \"functional fingerprint\" characteristic for each neuron. We also provide suggestions to extract complementary useful information from the method. For complete details on the use and execution of this protocol, please refer to Diomedi et al. (2020).",
+  "authors": [
+    "Vaccari Francesco Edoardo",
+    "Diomedi Stefano",
+    "Filippini Matteo",
+    "Galletti Claudio",
+    "Fattori Patrizia"
+  ],
+  "journal": "STAR protocols",
+  "year": "2021",
+  "doi": "10.1016/j.xpro.2021.100413",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain",
+    "Linear Models",
+    "Macaca",
+    "Neurophysiology",
+    "Poisson Distribution",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

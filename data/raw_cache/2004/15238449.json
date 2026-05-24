@@ -1,0 +1,26 @@
+{
+  "pmid": "15238449",
+  "title": "Synaptic and spiking dynamics underlying reward reversal in the orbitofrontal cortex.",
+  "abstract": "Cognitive and emotional flexibility involve a coordinated interaction between working memory, attention, reward expectations, and the evaluation of rewards and punishers so that behaviour can be changed if necessary. We describe a model at the integrate-and-fire neuronal level of the synaptic and spiking mechanisms which can hold an expectation of a reward rule in working memory, and can reverse the reward rule if expected rewards are not obtained. An example of a reward rule is that stimulus 1 is currently associated with reward, and stimulus 2 with punishment. The attractor-based reward rule working memory incorporates a spike-frequency synaptic adaptation mechanism which supports the neural switching between rules by being shut down by a general inhibitory input produced by punishment, so that when the attractor starts up again is in the opposite state. The mechanism can implement one-trial reward reversal, which is a property of orbitofrontal cortex neurons. We show how this reward rule input can operate in a biased competition way to influence which one of two stimuli is currently associated with reward and which with punishment, and to map the stimuli correctly to the reward or punishment representations, providing a basis for action selection required to obtain the reinforcer.",
+  "authors": [
+    "Deco Gustavo",
+    "Rolls Edmund T"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Conditioning, Psychological",
+    "Discrimination Learning",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Prefrontal Cortex",
+    "Reward",
+    "Synapses",
+    "Taste"
+  ]
+}

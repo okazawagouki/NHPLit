@@ -1,0 +1,34 @@
+{
+  "pmid": "23407952",
+  "title": "Recurrent connectivity can account for the dynamics of disparity processing in V1.",
+  "abstract": "Disparity tuning measured in the primary visual cortex (V1) is described well by the disparity energy model, but not all aspects of disparity tuning are fully explained by the model. Such deviations from the disparity energy model provide us with insight into how network interactions may play a role in disparity processing and help to solve the stereo correspondence problem. Here, we propose a neuronal circuit model with recurrent connections that provides a simple account of the observed deviations. The model is based on recurrent connections inferred from neurophysiological observations on spike timing correlations, and is in good accord with existing data on disparity tuning dynamics. We further performed two additional experiments to test predictions of the model. First, we increased the size of stimuli to drive more neurons and provide a stronger recurrent input. Our model predicted sharper disparity tuning for larger stimuli. Second, we displayed anticorrelated stereograms, where dots of opposite luminance polarity are matched between the left- and right-eye images and result in inverted disparity tuning in the disparity energy model. In this case, our model predicted reduced sharpening and strength of inverted disparity tuning. For both experiments, the dynamics of disparity tuning observed from the neurophysiological recordings in macaque V1 matched model simulation predictions. Overall, the results of this study support the notion that, while the disparity energy model provides a primary account of disparity tuning in V1 neurons, neural disparity processing in V1 neurons is refined by recurrent interactions among elements in the neural circuit.",
+  "authors": [
+    "Samonds Jason M",
+    "Potetz Brian R",
+    "Tyler Christopher W",
+    "Lee Tai Sing"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2013",
+  "doi": "10.1523/JNEUROSCI.2952-12.2013",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Electrophysiological Phenomena",
+    "Female",
+    "Fourier Analysis",
+    "In Vitro Techniques",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Neurons",
+    "Normal Distribution",
+    "Synapses",
+    "Vision Disparity",
+    "Vision, Binocular",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

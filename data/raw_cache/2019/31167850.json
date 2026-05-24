@@ -1,0 +1,23 @@
+{
+  "pmid": "31167850",
+  "title": "Figure-Ground Organization in Natural Scenes: Performance of a Recurrent Neural Model Compared with Neurons of Area V2.",
+  "abstract": "A crucial step in understanding visual input is its organization into meaningful components, in particular object contours and partially occluded background structures. This requires that all contours are assigned to either the foreground or the background (border ownership assignment). While earlier studies showed that neurons in primate extrastriate cortex signal border ownership for simple geometric shapes, recent studies show consistent border ownership coding also for complex natural scenes. In order to understand how the brain performs this task, we developed a biologically plausible recurrent neural network that is fully image computable. Our model uses local edge detector ( B ) cells and grouping ( G ) cells whose activity represents proto-objects based on the integration of local feature information. G cells send modulatory feedback connections to those B cells that caused their activation, making the B cells border ownership selective. We found close agreement between our model and neurophysiological results in terms of the timing of border ownership signals (BOSs) as well as the consistency of BOSs across scenes. We also benchmarked our model on the Berkeley Segmentation Dataset and achieved performance comparable to recent state-of-the-art computer vision approaches. Our proposed model provides insight into the cortical mechanisms of figure-ground organization.",
+  "authors": [
+    "Hu Brian",
+    "von der Heydt Rüdiger",
+    "Niebur Ernst"
+  ],
+  "journal": "eNeuro",
+  "year": "2019",
+  "doi": "10.1523/ENEURO.0479-18.2019",
+  "mesh": [
+    "Form Perception",
+    "Humans",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

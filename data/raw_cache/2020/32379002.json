@@ -1,0 +1,21 @@
+{
+  "pmid": "32379002",
+  "title": "A Geometric Characterization of Population Coding in the Prefrontal Cortex and Hippocampus during a Paired-Associate Learning Task.",
+  "abstract": "Large-scale neuronal recording techniques have enabled discoveries of population-level mechanisms for neural computation. However, it is not clear how these mechanisms form by trial-and-error learning. In this article, we present an initial effort to characterize the population activity in monkey prefrontal cortex (PFC) and hippocampus (HPC) during the learning phase of a paired-associate task. To analyze the population data, we introduce the normalized distance, a dimensionless metric that describes the encoding of cognitive variables from the geometrical relationship among neural trajectories in state space. It is found that PFC exhibits a more sustained encoding of the visual stimuli, whereas HPC only transiently encodes the identity of the associate stimuli. Surprisingly, after learning, the neural activity is not reorganized to reflect the task structure, raising the possibility that learning is accompanied by some \"silent\" mechanism that does not explicitly change the neural representations. We did find partial evidence on the learning-dependent changes for some of the task variables. This study shows the feasibility of using normalized distance as a metric to characterize and compare population-level encoding of task variables and suggests further directions to explore learning-dependent changes in the neural circuits.",
+  "authors": [
+    "Liu Yue",
+    "Brincat Scott L",
+    "Miller Earl K",
+    "Hasselmo Michael E"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "2020",
+  "doi": "10.1162/jocn_a_01569",
+  "mesh": [
+    "Hippocampus",
+    "Learning",
+    "Neurons",
+    "Paired-Associate Learning",
+    "Prefrontal Cortex"
+  ]
+}

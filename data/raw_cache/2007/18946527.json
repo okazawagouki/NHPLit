@@ -1,0 +1,13 @@
+{
+  "pmid": "18946527",
+  "title": "Irregular persistent activity induced by synaptic excitatory feedback.",
+  "abstract": "Neurophysiological experiments on monkeys have reported highly irregular persistent activity during the performance of an oculomotor delayed-response task. These experiments show that during the delay period the coefficient of variation (CV) of interspike intervals (ISI) of prefrontal neurons is above 1, on average, and larger than during the fixation period. In the present paper, we show that this feature can be reproduced in a network in which persistent activity is induced by excitatory feedback, provided that (i) the post-spike reset is close enough to threshold , (ii) synaptic efficacies are a non-linear function of the pre-synaptic firing rate. Non-linearity between pre-synaptic rate and effective synaptic strength is implemented by a standard short-term depression mechanism (STD). First, we consider the simplest possible network with excitatory feedback: a fully connected homogeneous network of excitatory leaky integrate-and-fire neurons, using both numerical simulations and analytical techniques. The results are then confirmed in a network with selective excitatory neurons and inhibition. In both the cases there is a large range of values of the synaptic efficacies for which the statistics of firing of single cells is similar to experimental data.",
+  "authors": [
+    "Barbieri Francesca",
+    "Brunel Nicolas"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2007",
+  "doi": "10.3389/neuro.10.005.2007",
+  "mesh": []
+}

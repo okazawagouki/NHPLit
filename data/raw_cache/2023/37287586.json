@@ -1,0 +1,17 @@
+{
+  "pmid": "37287586",
+  "title": "Quantifying evoked responses through information-theoretical measures.",
+  "abstract": "Information theory is a viable candidate to advance our understanding of how the brain processes information generated in the internal or external environment. With its universal applicability, information theory enables the analysis of complex data sets, is free of requirements about the data structure, and can help infer the underlying brain mechanisms. Information-theoretical metrics such as Entropy or Mutual Information have been highly beneficial for analyzing neurophysiological recordings. However, a direct comparison of the performance of these methods with well-established metrics, such as the <i>t-</i>test, is rare. Here, such a comparison is carried out by evaluating the novel method of Encoded Information with Mutual Information, Gaussian Copula Mutual Information, Neural Frequency Tagging, and <i>t</i>-test. We do so by applying each method to event-related potentials and event-related activity in different frequency bands originating from intracranial electroencephalography recordings of humans and marmoset monkeys. Encoded Information is a novel procedure that assesses the similarity of brain responses across experimental conditions by compressing the respective signals. Such an information-based encoding is attractive whenever one is interested in detecting where in the brain condition effects are present.",
+  "authors": [
+    "Fuhrer Julian",
+    "Glette Kyrre",
+    "Llorens Anaïs",
+    "Endestad Tor",
+    "Solbakk Anne-Kristin",
+    "Blenkmann Alejandro Omar"
+  ],
+  "journal": "Frontiers in neuroinformatics",
+  "year": "2023",
+  "doi": "10.3389/fninf.2023.1128866",
+  "mesh": []
+}

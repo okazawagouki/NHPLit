@@ -1,0 +1,34 @@
+{
+  "pmid": "26523737",
+  "title": "Chromatic detection from cone photoreceptors to V1 neurons to behavior in rhesus monkeys.",
+  "abstract": "Chromatic sensitivity cannot exceed limits set by noise in the cone photoreceptors. To determine how close neurophysiological and psychophysical chromatic sensitivity come to these limits, we developed a parameter-free model of stimulus encoding in the cone outer segments, and we compared the sensitivity of the model to the psychophysical sensitivity of monkeys performing a detection task and to the sensitivity of individual V1 neurons. Modeled cones had a temporal impulse response and a noise power spectrum that were derived from in vitro recordings of macaque cones, and V1 recordings were made during performance of the detection task. The sensitivity of the simulated cone mosaic, the V1 neurons, and the monkeys were tightly yoked for low-spatiotemporal-frequency isoluminant modulations, indicating high-fidelity signal transmission for this class of stimuli. Under the conditions of our experiments and the assumptions for our model, the signal-to-noise ratio for these stimuli dropped by a factor of ∼3 between the cones and perception. Populations of weakly correlated V1 neurons narrowly exceeded the monkeys' chromatic sensitivity but fell well short of the cones' chromatic sensitivity, suggesting that most of the behavior-limiting noise lies between the cone outer segments and the output of V1. The sensitivity gap between the cones and behavior for achromatic stimuli was larger than for chromatic stimuli, indicating greater postreceptoral noise. The cone mosaic model provides a means to compare visual sensitivity across disparate stimuli and to identify sources of noise that limit visual sensitivity.",
+  "authors": [
+    "Hass Charles A",
+    "Angueyra Juan M",
+    "Lindbloom-Brown Zachary",
+    "Rieke Fred",
+    "Horwitz Gregory D"
+  ],
+  "journal": "Journal of vision",
+  "year": "2015",
+  "doi": "10.1167/15.15.1",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Color Perception",
+    "Contrast Sensitivity",
+    "Female",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Macaca nemestrina",
+    "Male",
+    "Neurons",
+    "Patch-Clamp Techniques",
+    "Psychophysics",
+    "Retinal Cone Photoreceptor Cells",
+    "Signal-To-Noise Ratio",
+    "Vision, Binocular",
+    "Vision, Ocular",
+    "Visual Cortex"
+  ]
+}

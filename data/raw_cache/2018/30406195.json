@@ -1,0 +1,25 @@
+{
+  "pmid": "30406195",
+  "title": "Functional Categories of Visuomotor Neurons in Macaque Frontal Eye Field.",
+  "abstract": "Frontal eye field (FEF) in macaque monkeys contributes to visual attention, visual-motor transformations and production of eye movements. Traditionally, neurons in FEF have been classified by the magnitude of increased discharge rates following visual stimulus presentation, during a waiting period, and associated with eye movement production. However, considerable heterogeneity remains within the traditional visual, visuomovement, and movement categories. Cluster analysis is a data-driven method of identifying self-segregating groups within a dataset. Because many cluster analysis techniques exist and outcomes vary with analysis assumptions, consensus clustering aggregates over multiple analyses, identifying robust groups. To describe more comprehensively the neuronal composition of FEF, we applied a consensus clustering technique for unsupervised categorization of patterns of spike rate modulation measured during a memory-guided saccade task. We report 10 functional categories, expanding on the traditional 3 categories. Categories were distinguished by latency, magnitude, and sign of visual response; the presence of sustained activity; and the dynamics, magnitude and sign of saccade-related modulation. Consensus clustering can include other metrics and can be applied to datasets from other brain regions to provide better information guiding microcircuit models of cortical function.",
+  "authors": [
+    "Lowe Kaleb A",
+    "Schall Jeffrey D"
+  ],
+  "journal": "eNeuro",
+  "year": "2018",
+  "doi": "10.1523/ENEURO.0131-18.2018",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Eye Movements",
+    "Frontal Lobe",
+    "Macaca radiata",
+    "Male",
+    "Neurons",
+    "Reaction Time",
+    "Visual Fields",
+    "Visual Pathways"
+  ]
+}

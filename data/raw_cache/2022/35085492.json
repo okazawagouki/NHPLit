@@ -1,0 +1,22 @@
+{
+  "pmid": "35085492",
+  "title": "Orthogonal representations for robust context-dependent task performance in brains and neural networks.",
+  "abstract": "How do neural populations code for multiple, potentially conflicting tasks? Here we used computational simulations involving neural networks to define \"lazy\" and \"rich\" coding solutions to this context-dependent decision-making problem, which trade off learning speed for robustness. During lazy learning the input dimensionality is expanded by random projections to the network hidden layer, whereas in rich learning hidden units acquire structured representations that privilege relevant over irrelevant features. For context-dependent decision-making, one rich solution is to project task representations onto low-dimensional and orthogonal manifolds. Using behavioral testing and neuroimaging in humans and analysis of neural signals from macaque prefrontal cortex, we report evidence for neural coding patterns in biological brains whose dimensionality and neural geometry are consistent with the rich learning regime.",
+  "authors": [
+    "Flesch Timo",
+    "Juechems Keno",
+    "Dumbalska Tsvetomira",
+    "Saxe Andrew",
+    "Summerfield Christopher"
+  ],
+  "journal": "Neuron",
+  "year": "2022",
+  "doi": "10.1016/j.neuron.2022.01.005",
+  "mesh": [
+    "Brain",
+    "Learning",
+    "Neural Networks, Computer",
+    "Prefrontal Cortex",
+    "Task Performance and Analysis"
+  ]
+}

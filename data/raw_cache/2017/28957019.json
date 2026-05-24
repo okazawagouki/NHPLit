@@ -1,0 +1,21 @@
+{
+  "pmid": "28957019",
+  "title": "Neural Decoding: A Predictive Viewpoint.",
+  "abstract": "Decoding in the context of brain-machine interface is a prediction problem, with the aim of retrieving the most accurate kinematic predictions attainable from the available neural signals. While selecting models that reduce the prediction error is done to various degrees, decoding has not received the attention that the fields of statistics and machine learning have lavished on the prediction problem in the past two decades. Here, we take a more systematic approach to the decoding prediction problem and search for risk-optimized reverse regression, optimal linear estimation (OLE), and Kalman filter models within a large model space composed of several nonlinear transformations of neural spike counts at multiple temporal lags. The reverse regression decoding framework is a standard prediction problem, where penalized methods such as ridge regression or Lasso are routinely used to find minimum risk models. We argue that minimum risk reverse regression is always more efficient than OLE and also happens to be 44% more efficient than a standard Kalman filter in a particular application of offline reconstruction of arm reaches of a rhesus macaque monkey. Yet model selection for tuning curves-based decoding models such as OLE and Kalman filtering is not a standard statistical prediction problem, and no efficient method exists to identify minimum risk models. We apply several methods to build low-risk models and show that in our application, a Kalman filter that includes multiple carefully chosen observation equations per neural unit is 67% more efficient than a standard Kalman filter, but with the drawback that finding such a model is computationally very costly.",
+  "authors": [
+    "Todorova Sonia",
+    "Ventura Valérie"
+  ],
+  "journal": "Neural computation",
+  "year": "2017",
+  "doi": "10.1162/neco_a_01020",
+  "mesh": [
+    "Algorithms",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Humans",
+    "Linear Models",
+    "Models, Neurological",
+    "Neurons"
+  ]
+}

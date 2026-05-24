@@ -1,0 +1,26 @@
+{
+  "pmid": "18215241",
+  "title": "Coding of images of materials by macaque inferior temporal cortical neurons.",
+  "abstract": "Objects vary not only in their shape but also in the material from which they are made. Knowledge of the material properties can contribute to object recognition as well as indicate properties of the object (e.g. ripeness of a fruit). We examined the coding of images of materials by single neurons of the macaque inferior temporal (IT) cortex, an area known to support object recognition and categorization. Stimuli were images of 12 real materials that were illuminated from three different directions. The material textures appeared within five different outline shapes. The majority of responsive IT neurons responded selectively to the material textures, and this selectivity was largely independent of their shape selectivity. The responses of the large majority of neurons were strongly affected by illumination direction. Despite the generally weak illumination-direction invariance of the responses, Support Vector Machines that used the neural responses as input were able to classify the materials across illumination direction better than by chance. A comparison between the responses to the original images and those to images with a random spectral phase, but matched power spectrum, indicated that the material texture selectivity did not depend merely on differences in the power spectrum but required phase information.",
+  "authors": [
+    "Köteles Károly",
+    "De Mazière Patrick A",
+    "Van Hulle Marc",
+    "Orban Guy A",
+    "Vogels Rufin"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "2008",
+  "doi": "10.1111/j.1460-9568.2007.06008.x",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Humans",
+    "Macaca mulatta",
+    "Neurons",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Temporal Lobe"
+  ]
+}

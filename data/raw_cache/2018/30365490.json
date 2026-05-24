@@ -1,0 +1,26 @@
+{
+  "pmid": "30365490",
+  "title": "Inferring neural circuit properties from optogenetic stimulation.",
+  "abstract": "Optogenetics has become an important tool for perturbing neural circuitry with unparalleled temporal precision and cell-type specificity. However, direct activation of a specific subpopulation of neurons can rapidly modulate the activity of other neurons within the network and may lead to unexpected and complex downstream effects. Here, we have developed a biologically-constrained computational model that exploits these non-intuitive network responses in order to gain insight into underlying properties of the network. We apply this model to data recorded during optogenetic stimulation in the primary visual cortex of the alert macaque. In these experiments, we found that optogenetic depolarization of excitatory neurons often suppressed neuronal responses, consistent with engagement of normalization circuitry. Our model suggests that the suppression seen in these responses may be mediated by slow excitatory and inhibitory conductance channels. Furthermore, the model predicted that the response of the network to optogenetic perturbation depends critically on the relationship between inherent temporal properties of the network and the temporal properties of the opsin. Consistent with model predictions, stimulation of the C1V1TT opsin, an opsin with a fast time constant (tau = 45 ms), caused faster and stronger suppressive effects after laser offset, as compared to stimulation of the slower C1V1T opsin (tau = 60ms). This work illustrates how the non-intuitive network responses that result from optogenetic stimulation can be exploited to gain insight regarding network properties that underlie fundamental neuronal computations, such as normalization. This novel hybrid opto-theoretical approach can thus enhance the power of optogenetics to dissect complex neural circuits.",
+  "authors": [
+    "Avery Michael",
+    "Nassi Jonathan",
+    "Reynolds John"
+  ],
+  "journal": "PloS one",
+  "year": "2018",
+  "doi": "10.1371/journal.pone.0205386",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Feedback, Physiological",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons",
+    "Opsins",
+    "Optogenetics",
+    "Photic Stimulation",
+    "Synapses",
+    "Visual Cortex"
+  ]
+}

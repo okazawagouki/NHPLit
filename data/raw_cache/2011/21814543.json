@@ -1,0 +1,23 @@
+{
+  "pmid": "21814543",
+  "title": "Combining feature selection and integration--a neural model for MT motion selectivity.",
+  "abstract": "BACKGROUND: The computation of pattern motion in visual area MT based on motion input from area V1 has been investigated in many experiments and models attempting to replicate the main mechanisms. Two different core conceptual approaches were developed to explain the findings. In integrationist models the key mechanism to achieve pattern selectivity is the nonlinear integration of V1 motion activity. In contrast, selectionist models focus on the motion computation at positions with 2D features. METHODOLOGY/PRINCIPAL FINDINGS: Recent experiments revealed that neither of the two concepts alone is sufficient to explain all experimental data and that most of the existing models cannot account for the complex behaviour found. MT pattern selectivity changes over time for stimuli like type II plaids from vector average to the direction computed with an intersection of constraint rule or by feature tracking. Also, the spatial arrangement of the stimulus within the receptive field of a MT cell plays a crucial role. We propose a recurrent neural model showing how feature integration and selection can be combined into one common architecture to explain these findings. The key features of the model are the computation of 1D and 2D motion in model area V1 subpopulations that are integrated in model MT cells using feedforward and feedback processing. Our results are also in line with findings concerning the solution of the aperture problem. CONCLUSIONS/SIGNIFICANCE: We propose a new neural model for MT pattern computation and motion disambiguation that is based on a combination of feature selection and integration. The model can explain a range of recent neurophysiological findings including temporally dynamic behaviour.",
+  "authors": [
+    "Beck Cornelia",
+    "Neumann Heiko"
+  ],
+  "journal": "PloS one",
+  "year": "2011",
+  "doi": "10.1371/journal.pone.0021254",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neural Pathways",
+    "Neurons",
+    "Pattern Recognition, Physiological",
+    "Visual Cortex"
+  ]
+}

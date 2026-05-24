@@ -1,0 +1,28 @@
+{
+  "pmid": "21919788",
+  "title": "Adaptive decoding for brain-machine interfaces through Bayesian parameter updates.",
+  "abstract": "Brain-machine interfaces (BMIs) transform the activity of neurons recorded in motor areas of the brain into movements of external actuators. Representation of movements by neuronal populations varies over time, during both voluntary limb movements and movements controlled through BMIs, due to motor learning, neuronal plasticity, and instability in recordings. To ensure accurate BMI performance over long time spans, BMI decoders must adapt to these changes. We propose the Bayesian regression self-training method for updating the parameters of an unscented Kalman filter decoder. This novel paradigm uses the decoder's output to periodically update its neuronal tuning model in a Bayesian linear regression. We use two previously known statistical formulations of Bayesian linear regression: a joint formulation, which allows fast and exact inference, and a factorized formulation, which allows the addition and temporary omission of neurons from updates but requires approximate variational inference. To evaluate these methods, we performed offline reconstructions and closed-loop experiments with rhesus monkeys implanted cortically with microwire electrodes. Offline reconstructions used data recorded in areas M1, S1, PMd, SMA, and PP of three monkeys while they controlled a cursor using a handheld joystick. The Bayesian regression self-training updates significantly improved the accuracy of offline reconstructions compared to the same decoder without updates. We performed 11 sessions of real-time, closed-loop experiments with a monkey implanted in areas M1 and S1. These sessions spanned 29 days. The monkey controlled the cursor using the decoder with and without updates. The updates maintained control accuracy and did not require information about monkey hand movements, assumptions about desired movements, or knowledge of the intended movement goals as training signals. These results indicate that Bayesian regression self-training can maintain BMI control accuracy over long periods, making clinical neuroprosthetics more viable.",
+  "authors": [
+    "Li Zheng",
+    "O'Doherty Joseph E",
+    "Lebedev Mikhail A",
+    "Nicolelis Miguel A L"
+  ],
+  "journal": "Neural computation",
+  "year": "2011",
+  "doi": "10.1162/NECO_a_00207",
+  "mesh": [
+    "Action Potentials",
+    "Adaptation, Physiological",
+    "Animals",
+    "Artificial Intelligence",
+    "Bayes Theorem",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Neural Prostheses",
+    "Neurons",
+    "Signal Processing, Computer-Assisted",
+    "Somatosensory Cortex",
+    "User-Computer Interface"
+  ]
+}

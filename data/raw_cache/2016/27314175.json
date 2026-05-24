@@ -1,0 +1,26 @@
+{
+  "pmid": "27314175",
+  "title": "Identifying thematic roles from neural representations measured by functional magnetic resonance imaging.",
+  "abstract": "The generativity and complexity of human thought stem in large part from the ability to represent relations among concepts and form propositions. The current study reveals how a given object such as rabbit is neurally encoded differently and identifiably depending on whether it is an agent (\"the rabbit punches the monkey\") or a patient (\"the monkey punches the rabbit\"). Machine-learning classifiers were trained on functional magnetic resonance imaging (fMRI) data evoked by a set of short videos that conveyed agent-verb-patient propositions. When tested on a held-out video, the classifiers were able to reliably identify the thematic role of an object from its associated fMRI activation pattern. Moreover, when trained on one subset of the study participants, classifiers reliably identified the thematic roles in the data of a left-out participant (mean accuracy = .66), indicating that the neural representations of thematic roles were common across individuals.",
+  "authors": [
+    "Wang Jing",
+    "Cherkassky Vladimir L",
+    "Yang Ying",
+    "Chang Kai-Min Kevin",
+    "Vargas Robert",
+    "Diana Nicholas",
+    "Just Marcel Adam"
+  ],
+  "journal": "Cognitive neuropsychology",
+  "year": "2016",
+  "doi": "10.1080/02643294.2016.1182480",
+  "mesh": [
+    "Brain Mapping",
+    "Concept Formation",
+    "Humans",
+    "Language",
+    "Machine Learning",
+    "Magnetic Resonance Imaging",
+    "Thinking"
+  ]
+}

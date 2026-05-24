@@ -1,0 +1,31 @@
+{
+  "pmid": "11353039",
+  "title": "Single-unit activity in cortical area MST associated with disparity-vergence eye movements: evidence for population coding.",
+  "abstract": "Single-unit discharges were recorded in the medial superior temporal area (MST) of five behaving monkeys. Brief (230-ms) horizontal disparity steps were applied to large correlated or anticorrelated random-dot patterns (in which the dots had the same or opposite contrast, respectively, at the two eyes), eliciting vergence eye movements at short latencies [65.8 +/- 4.5 (SD) ms]. Disparity tuning curves, describing the dependence of the initial vergence responses (measured over the period 50-110 ms after the step) on the magnitude of the steps, resembled the derivative of a Gaussian, the curves obtained with correlated and anticorrelated patterns having opposite sign. Cells with disparity-related activity were isolated using correlated stimuli, and disparity tuning curves describing the dependence of these initial neuronal responses (measured over the period of 40-100 ms) on the magnitude of the disparity step were constructed (n = 102 cells). Using objective criteria and the fuzzy c-means clustering algorithm, disparity tuning curves were sorted into four groups based on their shapes. A post hoc comparison indicated that these four groups had features in common with four of the classes of disparity-selective neurons in striate cortex, but three of the four groups appeared to be part of a continuum. Most of the data were obtained from two monkeys, and when the disparity tuning curves of all the individual neurons recorded from either monkey were summed together, they fitted the disparity tuning curve for that same animal's vergence responses remarkably well (r(2): 0.93, 0.98). Fifty-six of the neurons recorded from these two monkeys were also tested with anticorrelated patterns, and all showed significant modulation of their activity (P < 0.005, 1-way ANOVA). Further, when all of the disparity tuning curves obtained with these patterns from either monkey were summed together, they too fitted the disparity tuning curve for that same animal's vergence responses very well (r(2): 0.95, 0.96). Indeed, the summed activity even reproduced idiosyncratic differences in the vergence responses of the two monkeys. Based on these and other observations on the temporal coding of events, we hypothesize that the magnitude, direction, and time course of the initial vergence velocity responses associated with disparity steps applied to large patterns are all encoded in the summed activity of the disparity-sensitive cells in MST. Latency data suggest that this activity in MST occurs early enough to play an active role in the generation of vergence eye movements at short latencies.",
+  "authors": [
+    "Takemura A",
+    "Inoue Y",
+    "Kawano K",
+    "Quaia C",
+    "Miles F A"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cluster Analysis",
+    "Eye Movements",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons",
+    "Patch-Clamp Techniques",
+    "Reaction Time",
+    "Temporal Lobe",
+    "Time Factors",
+    "Vision Disparity",
+    "Vision, Binocular",
+    "Visual Cortex"
+  ]
+}

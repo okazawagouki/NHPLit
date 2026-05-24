@@ -1,0 +1,34 @@
+{
+  "pmid": "16003902",
+  "title": "Interpreting spatial and temporal neural activity through a recurrent neural network brain-machine interface.",
+  "abstract": "We propose the use of optimized brain-machine interface (BMI) models for interpreting the spatial and temporal neural activity generated in motor tasks. In this study, a nonlinear dynamical neural network is trained to predict the hand position of primates from neural recordings in a reaching task paradigm. We first develop a method to reveal the role attributed by the model to the sampled motor, premotor, and parietal cortices in generating hand movements. Next, using the trained model weights, we derive a temporal sensitivity measure to asses how the model utilized the sampled cortices and neurons in real-time during BMI testing.",
+  "authors": [
+    "Sanchez Justin C",
+    "Erdogmus Deniz",
+    "Nicolelis Miguel A L",
+    "Wessberg Johan",
+    "Principe Jose C"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Aotidae",
+    "Artificial Intelligence",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Diagnosis, Computer-Assisted",
+    "Electroencephalography",
+    "Evoked Potentials, Motor",
+    "Feedback",
+    "Hand",
+    "Movement",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Pattern Recognition, Automated",
+    "Time Factors",
+    "User-Computer Interface"
+  ]
+}

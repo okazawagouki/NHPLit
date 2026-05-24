@@ -1,0 +1,25 @@
+{
+  "pmid": "29077710",
+  "title": "The influence of astrocytes on the width of orientation hypercolumns in visual cortex: A computational perspective.",
+  "abstract": "Orientation preference maps (OPMs) are present in carnivores (such as cats and ferrets) and primates but are absent in rodents. In this study we investigate the possible link between astrocyte arbors and presence of OPMs. We simulate the development of orientation maps with varying hypercolumn widths using a variant of the Laterally Interconnected Synergetically Self-Organizing Map (LISSOM) model, the Gain Control Adaptive Laterally connected (GCAL) model, with an additional layer simulating astrocytic activation. The synaptic activity of V1 neurons is given as input to the astrocyte layer. The activity of this astrocyte layer is now used to modulate bidirectional plasticity of lateral excitatory connections in the V1 layer. By simply varying the radius of the astrocytes, the extent of lateral excitatory neuronal connections can be manipulated. An increase in the radius of lateral excitatory connections subsequently increases the size of a single hypercolumn in the OPM. When these lateral excitatory connections become small enough the OPM disappears and a salt-and-pepper organization emerges.",
+  "authors": [
+    "Philips Ryan T",
+    "Sur Mriganka",
+    "Chakravarthy V Srinivasa"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2017",
+  "doi": "10.1371/journal.pcbi.1005785",
+  "mesh": [
+    "Animals",
+    "Astrocytes",
+    "Computer Simulation",
+    "Humans",
+    "Models, Neurological",
+    "Nerve Net",
+    "Orientation, Spatial",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "38259351",
+  "title": "How does the primate brain combine generative and discriminative computations in vision?",
+  "abstract": "Vision is widely understood as an inference problem. However, two contrasting conceptions of the inference process have each been influential in research on biological vision as well as the engineering of machine vision. The first emphasizes bottom-up signal flow, describing vision as a largely feedforward, discriminative inference process that filters and transforms the visual information to remove irrelevant variation and represent behaviorally relevant information in a format suitable for downstream functions of cognition and behavioral control. In this conception, vision is driven by the sensory data, and perception is direct because the processing proceeds from the data to the latent variables of interest. The notion of \"inference\" in this conception is that of the engineering literature on neural networks, where feedforward convolutional neural networks processing images are said to perform inference. The alternative conception is that of vision as an inference process in Helmholtz's sense, where the sensory evidence is evaluated in the context of a generative model of the causal processes that give rise to it. In this conception, vision inverts a generative model through an interrogation of the sensory evidence in a process often thought to involve top-down predictions of sensory data to evaluate the likelihood of alternative hypotheses. The authors include scientists rooted in roughly equal numbers in each of the conceptions and motivated to overcome what might be a false dichotomy between them and engage the other perspective in the realm of theory and experiment. The primate brain employs an unknown algorithm that may combine the advantages of both conceptions. We explain and clarify the terminology, review the key empirical evidence, and propose an empirical research program that transcends the dichotomy and sets the stage for revealing the mysterious hybrid algorithm of primate vision.",
+  "authors": [
+    "Peters Benjamin",
+    "DiCarlo James J",
+    "Gureckis Todd",
+    "Haefner Ralf",
+    "Isik Leyla",
+    "Tenenbaum Joshua",
+    "Konkle Talia",
+    "Naselaris Thomas",
+    "Stachenfeld Kimberly",
+    "Tavares Zenna",
+    "Tsao Doris",
+    "Yildirim Ilker",
+    "Kriegeskorte Nikolaus"
+  ],
+  "journal": "ArXiv",
+  "year": "2024",
+  "doi": "",
+  "mesh": []
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "27580091",
+  "title": "A space-variant model for motion interpretation across the visual field.",
+  "abstract": "We implement a neural model for the estimation of the focus of radial motion (FRM) at different retinal locations and assess the model by comparing its results with respect to the precision with which human observers can estimate the FRM in naturalistic motion stimuli. The model describes the deep hierarchy of the first stages of the dorsal visual pathway and is space variant, since it takes into account the retino-cortical transformation of the primate visual system through log-polar mapping. The log-polar transform of the retinal image is the input to the cortical motion-estimation stage, where optic flow is computed by a three-layer neural population. The sensitivity to complex motion patterns that has been found in area MST is modeled through a population of adaptive templates. The first-order description of cortical optic flow is derived from the responses of the adaptive templates. Information about self-motion (e.g., direction of heading) is estimated by combining the first-order descriptors computed in the cortical domain. The model's performance at FRM estimation as a function of retinal eccentricity neatly maps onto data from human observers. By employing equivalent-noise analysis we observe that loss in FRM accuracy for both model and human observers is attributable to a decrease in the efficiency with which motion information is pooled with increasing retinal eccentricity in the visual field. The decrease in sampling efficiency is thus attributable to receptive-field size increases with increasing retinal eccentricity, which are in turn driven by the lossy log-polar mapping that projects the retinal image onto primary visual areas. We further show that the model is able to estimate direction of heading in real-world scenes, thus validating the model's potential application to neuromimetic robotic architectures. More broadly, we provide a framework in which to model complex motion integration across the visual field in real-world scenes.",
+  "authors": [
+    "Chessa Manuela",
+    "Maiello Guido",
+    "Bex Peter J",
+    "Solari Fabio"
+  ],
+  "journal": "Journal of vision",
+  "year": "2016",
+  "doi": "10.1167/16.2.12",
+  "mesh": [
+    "Adult",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Models, Neurological",
+    "Motion Perception",
+    "Optic Flow",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Pathways"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "28663068",
+  "title": "Interpreting the dimensions of neural feature representations revealed by dimensionality reduction.",
+  "abstract": "Recent progress in understanding the structure of neural representations in the cerebral cortex has centred around the application of multivariate classification analyses to measurements of brain activity. These analyses have proved a sensitive test of whether given brain regions provide information about specific perceptual or cognitive processes. An exciting extension of this approach is to infer the structure of this information, thereby drawing conclusions about the underlying neural representational space. These approaches rely on exploratory data-driven dimensionality reduction to extract the natural dimensions of neural spaces, including natural visual object and scene representations, semantic and conceptual knowledge, and working memory. However, the efficacy of these exploratory methods is unknown, because they have only been applied to representations in brain areas for which we have little or no secondary knowledge. One of the best-understood areas of the cerebral cortex is area MT of primate visual cortex, which is known to be important in motion analysis. To assess the effectiveness of dimensionality reduction for recovering neural representational space we applied several dimensionality reduction methods to multielectrode measurements of spiking activity obtained from area MT of marmoset monkeys, made while systematically varying the motion direction and speed of moving stimuli. Despite robust tuning at individual electrodes, and high classifier performance, dimensionality reduction rarely revealed dimensions for direction and speed. We use this example to illustrate important limitations of these analyses, and suggest a framework for how to best apply such methods to data where the structure of the neural representation is unknown.",
+  "authors": [
+    "Goddard Erin",
+    "Klein Colin",
+    "Solomon Samuel G",
+    "Hogendoorn Hinze",
+    "Carlson Thomas A"
+  ],
+  "journal": "NeuroImage",
+  "year": "2018",
+  "doi": "10.1016/j.neuroimage.2017.06.068",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Callithrix",
+    "Electrophysiology",
+    "Female",
+    "Male",
+    "Multivariate Analysis",
+    "Pattern Recognition, Visual",
+    "Principal Component Analysis",
+    "Visual Cortex"
+  ]
+}

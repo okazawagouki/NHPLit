@@ -1,0 +1,15 @@
+{
+  "pmid": "37818157",
+  "title": "Local minimization of prediction errors drives learning of invariant object representations in a generative network model of visual perception.",
+  "abstract": "The ventral visual processing hierarchy of the cortex needs to fulfill at least two key functions: perceived objects must be mapped to high-level representations invariantly of the precise viewing conditions, and a generative model must be learned that allows, for instance, to fill in occluded information guided by visual experience. Here, we show how a multilayered predictive coding network can learn to recognize objects from the bottom up and to generate specific representations via a top-down pathway through a single learning rule: the local minimization of prediction errors. Trained on sequences of continuously transformed objects, neurons in the highest network area become tuned to object identity invariant of precise position, comparable to inferotemporal neurons in macaques. Drawing on this, the dynamic properties of invariant object representations reproduce experimentally observed hierarchies of timescales from low to high levels of the ventral processing stream. The predicted faster decorrelation of error-neuron activity compared to representation neurons is of relevance for the experimental search for neural correlates of prediction errors. Lastly, the generative capacity of the network is confirmed by reconstructing specific object images, robust to partial occlusion of the inputs. By learning invariance from temporal continuity within a generative model, the approach generalizes the predictive coding framework to dynamic inputs in a more biologically plausible way than self-supervised networks with non-local error-backpropagation. This was achieved simply by shifting the training paradigm to dynamic inputs, with little change in architecture and learning rule from static input-reconstructing Hebbian predictive coding networks.",
+  "authors": [
+    "Brucklacher Matthias",
+    "Bohté Sander M",
+    "Mejias Jorge F",
+    "Pennartz Cyriel M A"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2023",
+  "doi": "10.3389/fncom.2023.1207361",
+  "mesh": []
+}

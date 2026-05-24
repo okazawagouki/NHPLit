@@ -1,0 +1,13 @@
+{
+  "pmid": "24944832",
+  "title": "A physiological neural controller of a muscle fiber oculomotor plant in horizontal monkey saccades.",
+  "abstract": "A neural network model of biophysical neurons in the midbrain is presented to drive a muscle fiber oculomotor plant during horizontal monkey saccades. Neural circuitry, including omnipause neuron, premotor excitatory and inhibitory burst neurons, long lead burst neuron, tonic neuron, interneuron, abducens nucleus, and oculomotor nucleus, is developed to examine saccade dynamics. The time-optimal control strategy by realization of agonist and antagonist controller models is investigated. In consequence, each agonist muscle fiber is stimulated by an agonist neuron, while an antagonist muscle fiber is unstimulated by a pause and step from the antagonist neuron. It is concluded that the neural network is constrained by a minimum duration of the agonist pulse and that the most dominant factor in determining the saccade magnitude is the number of active neurons for the small saccades. For the large saccades, however, the duration of agonist burst firing significantly affects the control of saccades. The proposed saccadic circuitry establishes a complete model of saccade generation since it not only includes the neural circuits at both the premotor and motor stages of the saccade generator, but also uses a time-optimal controller to yield the desired saccade magnitude.",
+  "authors": [
+    "Ghahari Alireza",
+    "Enderle John D"
+  ],
+  "journal": "ISRN ophthalmology",
+  "year": "2014",
+  "doi": "10.1155/2014/406210",
+  "mesh": []
+}

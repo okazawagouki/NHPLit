@@ -1,0 +1,29 @@
+{
+  "pmid": "19389678",
+  "title": "From neuromuscular activation to end-point locomotion: An artificial neural network-based technique for neural prostheses.",
+  "abstract": "Neuroprostheses, implantable or non-invasive ones, are promising techniques to enable paralyzed individuals with conditions, such as spinal cord injury or spina bifida (SB), to control their limbs voluntarily. Direct cortical control of invasive neuroprosthetic devices and robotic arms have recently become feasible for primates. However, little is known about designing non-invasive, closed-loop neuromuscular control strategies for neural prostheses. Our goal was to investigate if an artificial neural network-based (ANN-based) model for closed-loop-controlled neural prostheses could use neuromuscular activation recorded from individuals with impaired spinal cord to predict their end-point gait parameters (such as stride length and step width). We recruited 12 persons with SB (5 females and 7 males) and collected their neuromuscular activation and end-point gait parameters during overground walking. Our results show that the proposed ANN-based technique can achieve a highly accurate prediction (e.g., R-values of 0.92-0.97, ANN (tansig+tansig) for single composition of data sets) for altered end-point locomotion. Compared to traditional robust regression, this technique can provide up to 80% more accurate prediction. Our results suggest that more precise control of complex neural prostheses during locomotion can be achieved by engaging neuromuscular activity as intrinsic feedback to generate end-point leg movement. This ANN-based model allows a seamless incorporation of neuromuscular activity, detected from paralyzed individuals, to adaptively predict their altered gait patterns, which can be employed to provide closed-loop feedback information for neural prostheses.",
+  "authors": [
+    "Chang Chia-Lin",
+    "Jin Zhanpeng",
+    "Chang Hou-Cheng",
+    "Cheng Allen C"
+  ],
+  "journal": "Journal of biomechanics",
+  "year": "2009",
+  "doi": "10.1016/j.jbiomech.2009.03.030",
+  "mesh": [
+    "Adolescent",
+    "Electromyography",
+    "Female",
+    "Gait",
+    "Humans",
+    "Locomotion",
+    "Male",
+    "Muscle Contraction",
+    "Neural Networks, Computer",
+    "Prostheses and Implants",
+    "Regression Analysis",
+    "Spinal Dysraphism",
+    "Young Adult"
+  ]
+}

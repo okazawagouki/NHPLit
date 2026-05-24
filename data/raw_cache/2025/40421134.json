@@ -1,0 +1,15 @@
+{
+  "pmid": "40421134",
+  "title": "Exploring the suitability of piecewise-linear dynamical system models for cognitive neural dynamics.",
+  "abstract": "Dynamical system models have proven useful for decoding the current brain state from neural activity. So far, neuroscience has largely relied on either linear models or non-linear models based on artificial neural networks (ANNs). Piecewise linear approximations of non-linear dynamics have proven useful in other technical applications. Moreover, such explicit models provide a clear advantage over ANN-based models when the dynamical system is not only supposed to be observed, but also controlled, in particular when a controller with guarantees is needed. Here we explore whether piecewise-linear dynamical system models (recurrent Switching Linear Dynamical System or rSLDS models) could be useful for modeling brain dynamics, in particular in the context of cognitive tasks. These models have the advantage that they can be estimated not only from continuous observations like field potentials or smoothed firing rates, but also from sparser single-unit spiking data. We first generate artificial neural data based on a non-linear computational model of perceptual decision-making and demonstrate that piecewise-linear dynamics can be successfully recovered from these observations. We then demonstrate that the piecewise-linear model outperforms a linear model in terms of predicting future states of the system and associated neural activity. Finally, we apply our approach to a publicly available dataset recorded from monkeys performing perceptual decisions. Much to our surprise, the piecewise-linear model did not provide a significant advantage over a linear model for these particular data, although linear models that were estimated from different trial epochs showed qualitatively different dynamics. In summary, we present a dynamical system modeling approach that could prove useful in situations, where the brain state needs to be controlled in a closed-loop fashion, for example, in new neuromodulation applications for treating cognitive deficits. Future work will have to show under what conditions the brain dynamics are sufficiently non-linear to warrant the use of a piecewise-linear model over a linear one.",
+  "authors": [
+    "Wu Jiemin",
+    "Asamoah Boateng",
+    "Kong Zhaodan",
+    "Ditterich Jochen"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2025",
+  "doi": "10.3389/fnins.2025.1582080",
+  "mesh": []
+}

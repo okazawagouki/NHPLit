@@ -1,0 +1,32 @@
+{
+  "pmid": "34516749",
+  "title": "A markerless platform for ambulatory systems neuroscience.",
+  "abstract": "Motor systems neuroscience seeks to understand how the brain controls movement. To minimize confounding variables, large-animal studies typically constrain body movement from areas not under observation, ensuring consistent, repeatable behaviors. Such studies have fueled decades of research, but they may be artificially limiting the richness of neural data observed, preventing generalization to more natural movements and settings. Neuroscience studies of unconstrained movement would capture a greater range of behavior and a more complete view of neuronal activity, but instrumenting an experimental rig suitable for large animals presents substantial engineering challenges. Here, we present a markerless, full-body motion tracking and synchronized wireless neural electrophysiology platform for large, ambulatory animals. Composed of four depth (RGB-D) cameras that provide a 360° view of a 4.5-square-meters enclosed area, this system is designed to record a diverse range of neuroethologically relevant behaviors. This platform also allows for the simultaneous acquisition of hundreds of wireless neural recording channels in multiple brain regions. As behavioral and neuronal data are generated at rates below 200 megabytes per second, a single desktop can facilitate hours of continuous recording. This setup is designed for systems neuroscience and neuroengineering research, where synchronized kinematic behavior and neural data are the foundation for investigation. By enabling the study of previously unexplored movement tasks, this system can generate insights into the functioning of the mammalian motor system and provide a platform to develop brain-machine interfaces for unconstrained applications.",
+  "authors": [
+    "Silvernagel Michael P",
+    "Ling Alissa S",
+    "Nuyujukian Paul",
+    ""
+  ],
+  "journal": "Science robotics",
+  "year": "2021",
+  "doi": "10.1126/scirobotics.abj7045",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Behavior",
+    "Behavior, Animal",
+    "Biomechanical Phenomena",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Equipment Design",
+    "Macaca mulatta",
+    "Man-Machine Systems",
+    "Motion",
+    "Movement",
+    "Neurons",
+    "Neurosciences",
+    "User-Computer Interface",
+    "Walking"
+  ]
+}

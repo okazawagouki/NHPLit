@@ -1,0 +1,27 @@
+{
+  "pmid": "16623848",
+  "title": "Prediction of the main cortical areas and connections involved in the tactile function of the visual cortex by network analysis.",
+  "abstract": "We explored the cortical pathways from the primary somatosensory cortex to the primary visual cortex (V1) by analysing connectional data in the macaque monkey using graph-theoretical tools. Cluster analysis revealed the close relationship of the dorsal visual stream and the sensorimotor cortex. It was shown that prefrontal area 46 and parietal areas VIP and 7a occupy a central position between the different clusters in the visuo-tactile network. Among these structures all the shortest paths from primary somatosensory cortex (3a, 1 and 2) to V1 pass through VIP and then reach V1 via MT, V3 and PO. Comparison of the input and output fields suggested a larger specificity for the 3a/1-VIP-MT/V3-V1 pathways among the alternative routes. A reinforcement learning algorithm was used to evaluate the importance of the aforementioned pathways. The results suggest a higher role for V3 in relaying more direct sensorimotor information to V1. Analysing cliques, which identify areas with the strongest coupling in the network, supported the role of VIP, MT and V3 in visuo-tactile integration. These findings indicate that areas 3a, 1, VIP, MT and V3 play a major role in shaping the tactile information reaching V1 in both sighted and blind subjects. Our observations greatly support the findings of the experimental studies and provide a deeper insight into the network architecture underlying visuo-tactile integration in the primate cerebral cortex.",
+  "authors": [
+    "Négyessy László",
+    "Nepusz Tamás",
+    "Kocsis László",
+    "Bazsó Fülöp"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cluster Analysis",
+    "Learning",
+    "Macaca",
+    "Neural Networks, Computer",
+    "Neuronal Plasticity",
+    "Reinforcement, Psychology",
+    "Somatosensory Cortex",
+    "Touch",
+    "Visual Cortex"
+  ]
+}

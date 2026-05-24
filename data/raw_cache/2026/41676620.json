@@ -1,0 +1,22 @@
+{
+  "pmid": "41676620",
+  "title": "Live Spike Sorting of Large-scale Neural Recordings.",
+  "abstract": "Online monitoring of neuronal activity has tremendous value for closed-loop control in both experimental and clinical settings, yet established methods rely primarily on thresholded neural activity, rather than sorted single-neuron spikes. The recent introduction of large-scale electrophysiological tools has greatly expanded single-neuron recording capacity in animals and humans highlighting the need to sort spikes during data collection. Here, we describe a system for live spike sorting (LSS) populations of hundreds of neurons with millisecond-scale latency. Using neurophysiological recordings from macaque visual cortex with Neuropixels probes, we show that LSS closely replicates the temporal responses and tuning of single neurons obtained using offline sorting. We further show that decoding neural signals with LSS achieves the same performance as that obtained from offline sorting. Lastly, we demonstrate the capacity of LSS to enable closed-loop interventions based on the activity of specific neuronal subclasses.",
+  "authors": [
+    "Muralidharan Shreyas",
+    "Leng Calvin",
+    "Orts Lucas",
+    "Trepka Ethan",
+    "Zhu Shude",
+    "Panichello Matthew",
+    "Jonikaitis Donatas",
+    "Lanfranchi Frank",
+    "Pennington Jacob",
+    "Pachitariu Marius",
+    "Moore Tirin"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2026",
+  "doi": "10.64898/2025.12.29.696938",
+  "mesh": []
+}

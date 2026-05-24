@@ -1,0 +1,32 @@
+{
+  "pmid": "30002452",
+  "title": "Decoding unconstrained arm movements in primates using high-density electrocorticography signals for brain-machine interface use.",
+  "abstract": "Motor deficit is among the most debilitating aspects of injury to the central nervous system. Despite ongoing progress in brain-machine interface (BMI) development and in the functional electrical stimulation of muscles and nerves, little is understood about how neural signals in the brain may be used to potentially control movement in one's own unconstrained paralyzed limb. We recorded from high-density electrocorticography (ECoG) electrode arrays in the ventral premotor cortex (PMv) of a rhesus macaque and used real-time motion tracking techniques to correlate spatial-temporal changes in neural activity with arm movements made towards objects in three-dimensional space at millisecond precision. We found that neural activity from a small number of electrodes within the PMv can be used to accurately predict reach-return movement onset and directionality. Also, whereas higher gamma frequency field activity was more predictive about movement direction during performance, mid-band (beta and low gamma) activity was more predictive of movement prior to onset. We speculate these dual spatiotemporal signals may be used to optimize both planning and execution of movement during natural reaching, with prospective relevance to the future development of neural prosthetics aimed at restoring motor control over one's own paralyzed limb.",
+  "authors": [
+    "Hu Kejia",
+    "Jamali Mohsen",
+    "Moses Ziev B",
+    "Ortega Carlos A",
+    "Friedman Gabriel N",
+    "Xu Wendong",
+    "Williams Ziv M"
+  ],
+  "journal": "Scientific reports",
+  "year": "2018",
+  "doi": "10.1038/s41598-018-28940-7",
+  "mesh": [
+    "Animals",
+    "Arm",
+    "Behavior, Animal",
+    "Brain-Computer Interfaces",
+    "Electric Stimulation Therapy",
+    "Electrocorticography",
+    "Electrodes, Implanted",
+    "Macaca mulatta",
+    "Male",
+    "Models, Animal",
+    "Motor Cortex",
+    "Movement",
+    "Paralysis"
+  ]
+}

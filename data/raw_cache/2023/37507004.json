@@ -1,0 +1,19 @@
+{
+  "pmid": "37507004",
+  "title": "A laminar model for the joint development of ocular dominance columns and CO blobs in the primary visual cortex.",
+  "abstract": "In this paper, we present a multi-layer, activity-dependent model for the joint development of ocular dominance (OD) columns and cytochrome oxidase (CO) blobs in primate V1. For simplicity, we focus on layers 4C and 2/3 with both layers receiving direct thalamic inputs and layer 4C sending vertical projections to layer 2/3. Both the thalamic and the vertical connections are taken to be modifiable by activity. Using a correlation-based Hebbian learning rule with subtractive normalization, we show how the formation of an OD map in layer 4C is inherited by layer 2/3 via the vertical projections. Competition between these feedforward projections and the direct thalamic input to layer 2/3 then results in the formation of CO blobs superimposed upon the ocular dominance map. The spacing of the OD columns is determined by the spatial profile of the intralaminar connections within layer 4, while the spacing of CO blobs depends both on the width of the OD columns inherited from layer 4 and the spatial distribution of intralaminar connections within the superficial layer. The resulting CO blob distribution is shown to be consistent with experimental data. In addition, we numerically simulate monocular deprivation and find that while the CO blob distribution is unaltered, the OD pattern undergoes modification. The OD stripes of the deprived eye narrow, whereas the OD stripes for the remaining open eye widen.",
+  "authors": [
+    "Oster Andrew M"
+  ],
+  "journal": "Journal of theoretical biology",
+  "year": "2023",
+  "doi": "10.1016/j.jtbi.2023.111588",
+  "mesh": [
+    "Animals",
+    "Dominance, Ocular",
+    "Visual Cortex",
+    "Electron Transport Complex IV",
+    "Primary Visual Cortex",
+    "Thalamus"
+  ]
+}

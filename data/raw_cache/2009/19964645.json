@@ -1,0 +1,28 @@
+{
+  "pmid": "19964645",
+  "title": "Cortical decoding of individual finger and wrist kinematics for an upper-limb neuroprosthesis.",
+  "abstract": "Previous research has shown that neuronal activity can be used to continuously decode the kinematics of gross movements involving arm and hand trajectory. However, decoding the kinematics of fine motor movements, such as the manipulation of individual fingers, has not been demonstrated. In this study, single unit activities were recorded from task-related neurons in M1 of two trained rhesus monkey as they performed individuated movements of the fingers and wrist. The primates' hand was placed in a manipulandum, and strain gauges at the tips of each finger were used to track the digit's position. Both linear and non-linear filters were designed to simultaneously predict kinematics of each digit and the wrist, and their performance compared using mean squared error and correlation coefficients. All models had high decoding accuracy, but the feedforward ANN (R = 0.76-0.86, MSE = 0.04-0.05) and Kalman filter (R = 0.68-0.86, MSE = 0.04-0.07) performed better than a simple linear regression filter (0.58-0.81, 0.05-0.07). These results suggest that individual finger and wrist kinematics can be decoded with high accuracy, and be used to control a multi-fingered prosthetic hand in real-time.",
+  "authors": [
+    "Aggarwal Vikram",
+    "Tenore Francesco",
+    "Acharya Soumyadipta",
+    "Schieber Marc H",
+    "Thakor Nitish V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2009",
+  "doi": "10.1109/IEMBS.2009.5334129",
+  "mesh": [
+    "Algorithms",
+    "Analysis of Variance",
+    "Animals",
+    "Artificial Limbs",
+    "Biomechanical Phenomena",
+    "Fingers",
+    "Linear Models",
+    "Macaca mulatta",
+    "Male",
+    "Motor Skills",
+    "Wrist"
+  ]
+}

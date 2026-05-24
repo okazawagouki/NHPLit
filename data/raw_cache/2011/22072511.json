@@ -1,0 +1,23 @@
+{
+  "pmid": "22072511",
+  "title": "Spiking and LFP activity in PRR during symbolically instructed reaches.",
+  "abstract": "The spiking activity in the parietal reach region (PRR) represents the spatial goal of an impending reach when the reach is directed toward or away from a visual object. The local field potentials (LFPs) in this region also represent the reach goal when the reach is directed to a visual object. Thus PRR is a candidate area for reading out a patient's intended reach goals for neural prosthetic applications. For natural behaviors, reach goals are not always based on the location of a visual object, e.g., playing the piano following sheet music or moving following verbal directions. So far it has not been directly tested whether and how PRR represents reach goals in such cognitive, nonlocational conditions, and knowing the encoding properties in various task conditions would help in designing a reach goal decoder for prosthetic applications. To address this issue, we examined the macaque PRR under two reach conditions: reach goal determined by the stimulus location (direct) or shape (symbolic). For the same goal, the spiking activity near reach onset was indistinguishable between the two tasks, and thus a reach goal decoder trained with spiking activity in one task performed perfectly in the other. In contrast, the LFP activity at 20-40 Hz showed small but significantly enhanced reach goal tuning in the symbolic task, but its spatial preference remained the same. Consequently, a decoder trained with LFP activity performed worse in the other task than in the same task. These results suggest that LFP decoders in PRR should take into account the task context (e.g., locational vs. nonlocational) to be accurate, while spike decoders can robustly provide reach goal information regardless of the task context in various prosthetic applications.",
+  "authors": [
+    "Hwang Eun Jung",
+    "Andersen Richard A"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2012",
+  "doi": "10.1152/jn.00063.2011",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cues",
+    "Macaca mulatta",
+    "Male",
+    "Motor Activity",
+    "Parietal Lobe",
+    "Psychomotor Performance",
+    "Visual Perception"
+  ]
+}

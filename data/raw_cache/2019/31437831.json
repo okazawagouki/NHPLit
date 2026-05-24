@@ -1,0 +1,24 @@
+{
+  "pmid": "31437831",
+  "title": "A point-process matched filter for event detection and decoding from population spike trains.",
+  "abstract": "OBJECTIVE: Information encoding in neurons can be described through their response fields. The spatial response field of a neuron is the region of space in which a sensory stimulus or a behavioral event causes that neuron to fire. Neurons can also exhibit temporal response fields (TRFs), which characterize a transient response to stimulus or behavioral event onsets. These neurons can thus be described by a spatio-temporal response field (STRF). The activity of neurons with STRFs can be well-described with point process models that characterize binary spike trains with an instantaneous firing rate that is a function of both time and space. However, developing decoders for point process models of neurons that exhibit TRFs is challenging because it requires prior knowledge of event onset times, which are unknown. Indeed, point process filters (PPF) to date have largely focused on decoding neuronal activity without considering TRFs. Also, neural classifiers have required data to be behavior- or stimulus-aligned, i.e. event times to be known, which is often not possible in real-world applications. Our objective in this work is to develop a viable decoder for neurons with STRFs when event times are unknown. APPROACH: To enable decoding of neurons with STRFs, we develop a novel point-process matched filter (PPMF) that can detect events and estimate their onset times from population spike trains. We also devise a PPF for neurons with transient responses as characterized by STRFs. When neurons exhibit STRFs and event times are unknown, the PPMF can be combined with the PPF or with discrete classifiers for continuous and discrete brain state decoding, respectively. MAIN RESULTS: We validate our algorithm on two datasets: simulated spikes from neurons that encode visual saliency in response to stimuli, and prefrontal spikes recorded in a monkey performing a delayed-saccade task. We show that the PPMF can estimate the stimulus times and saccade times accurately. Further, the PPMF combined with the PPF can decode visual saliency maps without knowing the stimulus times. Similarly, the PPMF combined with a point process classifier can decode the saccade direction without knowing the saccade times. SIGNIFICANCE: These event detection and decoding algorithms can help develop neurotechnologies to decode cognitive states from neural responses that exhibit STRFs.",
+  "authors": [
+    "Sadras Nitin",
+    "Pesaran Bijan",
+    "Shanechi Maryam M"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2019",
+  "doi": "10.1088/1741-2552/ab3dbc",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Macaca",
+    "Neurons",
+    "Photic Stimulation",
+    "Prefrontal Cortex",
+    "Saccades",
+    "Time Factors"
+  ]
+}

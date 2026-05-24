@@ -1,0 +1,21 @@
+{
+  "pmid": "15831064",
+  "title": "Economy of scale: a motion sensor with variable speed tuning.",
+  "abstract": "We have previously presented a model of how neurons in the primate middle temporal (MT/V5) area can develop selectivity for image speed by using common properties of the V1 neurons that precede them in the visual motion pathway (J. A. Perrone & A. Thiele, 2002). The motion sensor developed in this model is based on two broad classes of V1 complex neurons (sustained and transient). The S-type neuron has low-pass temporal frequency tuning, p(omega), and the T-type has band-pass temporal frequency tuning, m(omega). The outputs from the S and T neurons are combined in a special way (weighted intersection mechanism [WIM]) to generate a sensor tuned to a particular speed, v. Here I go on to show that if the S and T temporal frequency tuning functions have a particular form (i.e., p(omega)/(m(omega) = k/omega), then a motion sensor with variable speed tuning can be generated from just two V1 neurons. A simple scaling of the S- or T-type neuron output before it is incorporated into the WIM model produces a motion sensor that can be tuned to a wide continuous range of optimal speeds.",
+  "authors": [
+    "Perrone John A"
+  ],
+  "journal": "Journal of vision",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Mathematics",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

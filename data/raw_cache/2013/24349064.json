@@ -1,0 +1,20 @@
+{
+  "pmid": "24349064",
+  "title": "A model of self-organizing head-centered visual responses in primate parietal areas.",
+  "abstract": "We present a hypothesis for how head-centered visual representations in primate parietal areas could self-organize through visually-guided learning, and test this hypothesis using a neural network model. The model consists of a competitive output layer of neurons that receives afferent synaptic connections from a population of input neurons with eye position gain modulated retinal receptive fields. The synaptic connections in the model are trained with an associative trace learning rule which has the effect of encouraging output neurons to learn to respond to subsets of input patterns that tend to occur close together in time. This network architecture and synaptic learning rule is hypothesized to promote the development of head-centered output neurons during periods of time when the head remains fixed while the eyes move. This hypothesis is demonstrated to be feasible, and each of the core model components described is tested and found to be individually necessary for successful self-organization.",
+  "authors": [
+    "Mender Bedeho M W",
+    "Stringer Simon M"
+  ],
+  "journal": "PloS one",
+  "year": "2013",
+  "doi": "10.1371/journal.pone.0081406",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Head",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Primates"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "17634362",
+  "title": "The operating point of the cortex: neurons as large deviation detectors.",
+  "abstract": "Spiking neurons translate analog intracellular variables into a sequence of action potentials. A simplified model of this transformation is one in which an underlying \"generator potential,\" representing a measure of overall neuronal drive, is passed through a static nonlinearity to produce an instantaneous firing rate. An important question is how adaptive mechanisms adjust the mean and SD of the generator potential to define an \"operating point\" that controls spike generation. In early sensory pathways adaptation has been shown to rescale the generator potential to maximize the amount of transmitted information. In contrast, we demonstrate that the operating point in the cortex is tuned so that cells respond only when the generator potential executes a large excursion above its mean value. The distance from the mean of the generator potential to spike threshold is, on average, 1 SD of the ongoing activity. Signals above threshold are amplified linearly and do not reach saturation. The operating point is adjusted dynamically so that it remains relatively invariant despite changes in stimulus contrast. We conclude that the operating regimen of the cortex is suitable for the detection of signals in background noise and for enhancing the selectivity of spike responses relative to those of the generator potential (the so-called \"iceberg effect\"), but not to maximize the transmission of total information.",
+  "authors": [
+    "Ringach Dario L",
+    "Malone Brian J"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Adaptation, Physiological",
+    "Animals",
+    "Macaca fascicularis",
+    "Models, Neurological",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Photic Stimulation",
+    "Sensory Thresholds",
+    "Signal Detection, Psychological",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "19598180",
+  "title": "BOLD-specific cerebral blood volume and blood flow changes during neuronal activation in humans.",
+  "abstract": "To understand and predict the blood-oxygenation level-dependent (BOLD) fMRI signal, an accurate knowledge of the relationship between cerebral blood flow (DeltaCBF) and volume (DeltaCBV) changes is critical. Currently, this relationship is widely assumed to be characterized by Grubb's power-law, derived from primate data, where the power coefficient (alpha) was found to be 0.38. The validity of this general formulation has been examined previously, and an alpha of 0.38 has been frequently cited when calculating the cerebral oxygen metabolism change (DeltaCMRo(2)) using calibrated BOLD. However, the direct use of this relationship has been the subject of some debate, since it is well established that the BOLD signal is primarily modulated by changes in 'venous' CBV (DeltaCBV(v), comprising deoxygenated blood in the capillary, venular, and to a lesser extent, in the arteriolar compartments) instead of total CBV, and yet DeltaCBV(v) measurements in humans have been extremely scarce. In this work, we demonstrate reproducible DeltaCBV(v) measurements at 3 T using venous refocusing for the volume estimation (VERVE) technique, and report on steady-state DeltaCBV(v) and DeltaCBF measurements in human subjects undergoing graded visual and sensorimotor stimulation. We found that: (1) a BOLD-specific flow-volume power-law relationship is described by alpha = 0.23 +/- 0.05, significantly lower than Grubb's constant of 0.38 for total CBV; (2) this power-law constant was not found to vary significantly between the visual and sensorimotor areas; and (3) the use of Grubb's value of 0.38 in gradient-echo BOLD modeling results in an underestimation of DeltaCMRo(2).",
+  "authors": [
+    "Chen J Jean",
+    "Pike G Bruce"
+  ],
+  "journal": "NMR in biomedicine",
+  "year": "2009",
+  "doi": "10.1002/nbm.1411",
+  "mesh": [
+    "Adult",
+    "Blood Volume",
+    "Brain",
+    "Cerebrovascular Circulation",
+    "Female",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Neurons",
+    "Oxygen",
+    "Regional Blood Flow",
+    "Young Adult"
+  ]
+}

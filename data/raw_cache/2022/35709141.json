@@ -1,0 +1,21 @@
+{
+  "pmid": "35709141",
+  "title": "Figure-ground responsive fields of monkey V4 neurons estimated from natural image patches.",
+  "abstract": "Neurons in visual area V4 modulate their responses depending on the figure-ground (FG) organization in natural images containing a variety of shapes and textures. To clarify whether the responses depend on the extents of the figure and ground regions in and around the classical receptive fields (CRFs) of the neurons, we estimated the spatial extent of local figure and ground regions that evoked FG-dependent responses (RF-FGs) in natural images and their variants. Specifically, we applied the framework of spike triggered averaging (STA) to the combinations of neural responses and human-marked segmentation images (FG labels) that represent the extents of the figure and ground regions in the corresponding natural image stimuli. FG labels were weighted by the spike counts in response to the corresponding stimuli and averaged over. The bias due to the nonuniformity of FG labels was compensated by subtracting the ensemble average of FG labels from the weighted average. Approximately 50% of the neurons showed effective RF-FGs, and a large number exhibited structures that were similar to those observed in virtual neurons with ideal FG-dependent responses. The structures of the RF-FGs exhibited a subregion responsive to a preferred side (figure or ground) around the CRF center and a subregion responsive to a non-preferred side in the surroundings. The extents of the subregions responsive to figure were smaller than those responsive to ground in agreement with the Gestalt rule. We also estimated RF-FG by an adaptive filtering (AF) method, which does not require spherical symmetry (whiteness) in stimuli. RF-FGs estimated by AF and STA exhibited similar structures, supporting the veridicality of the proposed STA. To estimate the contribution of nonlinear processing in addition to linear processing, we estimated nonlinear RF-FGs based on the framework of spike triggered covariance (STC). The analyses of the models based on STA and STC did not show inconsiderable contribution of nonlinearity, suggesting spatial variance of FG regions. The results lead to an understanding of the neural responses that underlie the segregation of figures and the construction of surfaces in intermediate-level visual areas.",
+  "authors": [
+    "Kimura Kouji",
+    "Kodama Atsushi",
+    "Yamane Yukako",
+    "Sakai Ko"
+  ],
+  "journal": "PloS one",
+  "year": "2022",
+  "doi": "10.1371/journal.pone.0268650",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

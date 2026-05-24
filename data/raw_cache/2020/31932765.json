@@ -1,0 +1,29 @@
+{
+  "pmid": "31932765",
+  "title": "A resource for the detailed 3D mapping of white matter pathways in the marmoset brain.",
+  "abstract": "While the fundamental importance of the white matter in supporting neuronal communication is well known, existing publications of primate brains do not feature a detailed description of its complex anatomy. The main barrier to achieving this is that existing primate neuroimaging data have insufficient spatial resolution to resolve white matter pathways fully. Here we present a resource that allows detailed descriptions of white matter structures and trajectories of fiber pathways in the marmoset brain. The resource includes: (1) the highest-resolution diffusion-weighted MRI data available to date, which reveal white matter features not previously described; (2) a comprehensive three-dimensional white matter atlas depicting fiber pathways that were either omitted or misidentified in previous atlases; and (3) comprehensive fiber pathway maps of cortical connections combining diffusion-weighted MRI tractography and neuronal tracing data. The resource, which can be downloaded from marmosetbrainmapping.org, will facilitate studies of brain connectivity and the development of tractography algorithms in the primate brain.",
+  "authors": [
+    "Liu Cirong",
+    "Ye Frank Q",
+    "Newman John D",
+    "Szczupak Diego",
+    "Tian Xiaoguang",
+    "Yen Cecil Chern-Chyi",
+    "Majka Piotr",
+    "Glen Daniel",
+    "Rosa Marcello G P",
+    "Leopold David A",
+    "Silva Afonso C"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2020",
+  "doi": "10.1038/s41593-019-0575-0",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Callithrix",
+    "Imaging, Three-Dimensional",
+    "White Matter"
+  ]
+}

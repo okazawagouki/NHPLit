@@ -1,0 +1,23 @@
+{
+  "pmid": "28589233",
+  "title": "Altered tuning in primary motor cortex does not account for behavioral adaptation during force field learning.",
+  "abstract": "Although primary motor cortex (M1) is intimately involved in the dynamics of limb movement, its inputs may be more closely related to higher-order aspects of movement and multi-modal sensory feedback. Motor learning is thought to result from the adaption of internal models that compute transformations between these representations. While the psychophysics of motor learning has been studied in many experiments, the particular role of M1 in the process remains the subject of debate. Studies of learning-related changes in the spatial tuning of M1 neurons have yielded conflicting results. To resolve the discrepancies, we recorded from M1 during curl field adaptation in a reaching task. Our results suggest that aside from the addition of the load itself, the relation of M1 to movement dynamics remains unchanged as monkeys adapt behaviorally. Accordingly, we implemented a musculoskeletal model to generate synthetic neural activity having a fixed dynamical relation to movement and showed that these simulated neurons reproduced the observed behavior of the recorded M1 neurons. The stable representation of movement dynamics in M1 suggests that behavioral changes are mediated through progressively altered recruitment of M1 neurons, while the output effect of those neurons remained largely unchanged.",
+  "authors": [
+    "Perich Matthew G",
+    "Miller Lee E"
+  ],
+  "journal": "Experimental brain research",
+  "year": "2017",
+  "doi": "10.1007/s00221-017-4997-1",
+  "mesh": [
+    "Adaptation, Physiological",
+    "Animals",
+    "Behavior, Animal",
+    "Electroencephalography",
+    "Macaca mulatta",
+    "Male",
+    "Motor Activity",
+    "Motor Cortex",
+    "Neurons"
+  ]
+}

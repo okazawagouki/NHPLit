@@ -1,0 +1,16 @@
+{
+  "pmid": "35204023",
+  "title": "A Macaque Brain Extraction Model Based on U-Net Combined with Residual Structure.",
+  "abstract": "Accurately extracting brain tissue is a critical and primary step in brain neuroimaging research. Due to the differences in brain size and structure between humans and nonhuman primates, the performance of the existing tools for brain tissue extraction, working on macaque brain MRI, is constrained. A new transfer learning training strategy was utilized to address the limitations, such as insufficient training data and unsatisfactory model generalization ability, when deep neural networks processing the limited samples of macaque magnetic resonance imaging(MRI). First, the project combines two human brain MRI data modes to pre-train the neural network, in order to achieve faster training and more accurate brain extraction. Then, a residual network structure in the U-Net model was added, in order to propose a ResTLU-Net model that aims to improve the generalization ability of multiple research sites data. The results demonstrated that the ResTLU-Net, combined with the proposed transfer learning strategy, achieved comparable accuracy for the macaque brain MRI extraction tasks on different macaque brain MRI volumes that were produced by various medical centers. The mean Dice of the ResTLU-Net was 95.81% (no need for denoise and recorrect), and the method required only approximately 30-60 s for one extraction task on an NVIDIA 1660S GPU.",
+  "authors": [
+    "Wang Qianshan",
+    "Fei Hong",
+    "Abdu Nasher Saddam Naji",
+    "Xia Xiaoluan",
+    "Li Haifang"
+  ],
+  "journal": "Brain sciences",
+  "year": "2022",
+  "doi": "10.3390/brainsci12020260",
+  "mesh": []
+}

@@ -1,0 +1,14 @@
+{
+  "pmid": "39554020",
+  "title": "Cognitive network interactions through communication subspaces in large-scale models of the neocortex.",
+  "abstract": "Neocortex-wide neural activity is organized into distinct networks of areas engaged in different cognitive processes. To elucidate the underlying mechanism of flexible network reconfiguration, we developed connectivity-constrained macaque and human whole-cortex models. In our model, within-area connectivity consists of a mixture of symmetric, asymmetric, and random motifs that give rise to stable (attractor) or transient (sequential) heterogeneous dynamics. Assuming sparse low-rank plus random inter-areal connectivity constrained by cognitive networks' activation maps, we show that our model captures key aspects of the cognitive networks' dynamics and interactions observed experimentally. In particular, the anti-correlation between the default mode network and the dorsal attention network. Communication between networks is shaped by the alignment of long-range communication subspaces with local connectivity motifs and is switchable in a bottom-up salience-dependent routing mechanism. Furthermore, the frontoparietal multiple-demand network displays a coexistence of stable and dynamic coding, suitable for top-down cognitive control. Our work provides a theoretical framework for understanding the dynamic routing in the cortical networks during cognition.",
+  "authors": [
+    "Pereira-Obilinovic Ulises",
+    "Froudist-Walsh Sean",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.11.01.621513",
+  "mesh": []
+}

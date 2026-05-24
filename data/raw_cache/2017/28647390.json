@@ -1,0 +1,28 @@
+{
+  "pmid": "28647390",
+  "title": "Neural synergies for controlling reach and grasp movement in macaques.",
+  "abstract": "It has been suggested that the brain adopts a simplified strategy to coordinate a large number of degrees of freedom in motor control. Synergies have been proposed as a strategy to produce movements by recruitment of a small number of fixed modular patterns. However, there is no direct support for a synergistic organization of the brain itself. In this study, we recorded neural activities from the dorsal premotor cortex (PMd) of monkeys trained to reach and grasp differently shaped objects (grasping task) or the same object in different positions (reaching task). Non-negative matrix factorization (NNMF) was applied to the neural data to extract neural synergies, whose functional roles were verified in several ways. We found that motor cortex used similar neural synergies for grasping different objects; combining only a few of the synergies accounted for most of the variance in the original data. When used for single-trial task decoding, the synergy coefficients performed as well and robustly as the original data in both tasks. The synergy amplitudes for each unit were significantly correlated with the corresponding neuron's firing rate. In addition, we also observed synergies shared between tasks and task-specific synergies, as shown before for muscle synergies. Altogether, we demonstrated that neural synergies are effective in describing neural population activity during reach to grasp movements and provide a new tool for interpreting neural data for movement control.",
+  "authors": [
+    "Hao Yaoyao",
+    "Zhang Shaomin",
+    "Zhang Qiaosheng",
+    "Li Guanglin",
+    "Chen Weidong",
+    "Zheng Xiaoxiang"
+  ],
+  "journal": "Neuroscience",
+  "year": "2017",
+  "doi": "10.1016/j.neuroscience.2017.06.022",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electrodes, Implanted",
+    "Hand",
+    "Macaca mulatta",
+    "Male",
+    "Motor Activity",
+    "Motor Cortex",
+    "Neurons",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

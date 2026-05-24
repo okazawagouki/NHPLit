@@ -1,0 +1,32 @@
+{
+  "pmid": "30213755",
+  "title": "Anatomical accuracy of standard-practice tractography algorithms in the motor system - A histological validation in the squirrel monkey brain.",
+  "abstract": "For two decades diffusion fiber tractography has been used to probe both the spatial extent of white matter pathways and the region to region connectivity of the brain. In both cases, anatomical accuracy of tractography is critical for sound scientific conclusions. Here we assess and validate the algorithms and tractography implementations that have been most widely used - often because of ease of use, algorithm simplicity, or availability offered in open source software. Comparing forty tractography results to a ground truth defined by histological tracers in the primary motor cortex on the same squirrel monkey brains, we assess tract fidelity on the scale of voxels as well as over larger spatial domains or regional connectivity. No algorithms are successful in all metrics, and, in fact, some implementations fail to reconstruct large portions of pathways or identify major points of connectivity. The accuracy is most dependent on reconstruction method and tracking algorithm, as well as the seed region and how this region is utilized. We also note a tremendous variability in the results, even though the same MR images act as inputs to all algorithms. In addition, anatomical accuracy is significantly decreased at increased distances from the seed. An analysis of the spatial errors in tractography reveals that many techniques have trouble properly leaving the gray matter, and many only reveal connectivity to adjacent regions of interest. These results show that the most commonly implemented algorithms have several shortcomings and limitations, and choices in implementations lead to very different results. This study should provide guidance for algorithm choices based on study requirements for sensitivity, specificity, or the need to identify particular connections, and should serve as a heuristic for future developments in tractography.",
+  "authors": [
+    "Schilling Kurt G",
+    "Gao Yurui",
+    "Stepniewska Iwona",
+    "Janve Vaibhav",
+    "Landman Bennett A",
+    "Anderson Adam W"
+  ],
+  "journal": "Magnetic resonance imaging",
+  "year": "2019",
+  "doi": "10.1016/j.mri.2018.09.004",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Diffusion Tensor Imaging",
+    "Image Processing, Computer-Assisted",
+    "Models, Anatomic",
+    "Motor Cortex",
+    "Probability",
+    "Reproducibility of Results",
+    "Saimiri",
+    "Sensitivity and Specificity",
+    "Software",
+    "White Matter"
+  ]
+}

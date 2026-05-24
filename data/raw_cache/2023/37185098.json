@@ -1,0 +1,22 @@
+{
+  "pmid": "37185098",
+  "title": "Learning a Model of Shape Selectivity in V4 Cells Reveals Shape Encoding Mechanisms in the Brain.",
+  "abstract": "The mechanisms involved in transforming early visual signals to curvature representations in V4 are unknown. We propose a hierarchical model that reveals V1/V2 encodings that are essential components for this transformation to the reported curvature representations in V4. Then, by relaxing the often-imposed prior of a single Gaussian, V4 shape selectivity is learned in the last layer of the hierarchy from Macaque V4 responses. We found that V4 cells integrate multiple shape parts from the full spatial extent of their receptive fields with similar excitatory and inhibitory contributions. Our results uncover new details in existing data about shape selectivity in V4 neurons that with additional experiments can enhance our understanding of processing in this area. Accordingly, we propose designs for a stimulus set that allow removing shape parts without disturbing the curvature signal to isolate part contributions to V4 responses.<b>SIGNIFICANCE STATEMENT</b> Selectivity to convex and concave shape parts in V4 neurons has been repeatedly reported. Nonetheless, the mechanisms that yield such selectivities in the ventral stream remain unknown. We propose a hierarchical computational model that incorporates findings of the various visual areas involved in shape processing and suggest mechanisms that transform the shape signal from low-level features to convex/concave part representations. Learning shape selectivity from Macaque V4 responses in the final processing stage in our model, we found that V4 neurons integrate shape parts from the full spatial extent of their receptive field with both facilitatory and inhibitory contributions. These results reveal hidden information in existing V4 data that with additional experiments can enhance our understanding of processing in V4.",
+  "authors": [
+    "Mehrani Paria",
+    "Tsotsos John K"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2023",
+  "doi": "10.1523/JNEUROSCI.1467-22.2023",
+  "mesh": [
+    "Animals",
+    "Visual Cortex",
+    "Form Perception",
+    "Macaca",
+    "Neurons",
+    "Brain",
+    "Visual Pathways",
+    "Photic Stimulation"
+  ]
+}

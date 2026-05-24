@@ -1,0 +1,24 @@
+{
+  "pmid": "17329431",
+  "title": "The role of correlations in direction and contrast coding in the primary visual cortex.",
+  "abstract": "The spiking activity of nearby cortical neurons is not independent. Numerous studies have explored the importance of this correlated responsivity for visual coding and perception, often by comparing the information conveyed by pairs of simultaneously recorded neurons with the sum of information provided by the respective individual cells. Pairwise responses typically provide slightly more information so that encoding is weakly synergistic. The simple comparison between pairwise and summed individual responses conflates several forms of correlation, however, making it impossible to judge the relative importance of synchronous spiking, basic tuning properties, and stimulus-independent and stimulus-dependent correlation. We have applied an information theoretic approach to this question, using the responses of pairs of neurons to drifting sinusoidal gratings of different directions and contrasts that have been recorded in the primary visual cortex of anesthetized macaque monkeys. Our approach allows us to break down the information provided by pairs of neurons into a number of components. This analysis reveals that, although synchrony is prevalent and informative, the additional information it provides frequently is offset by the redundancy arising from the similar tuning properties of the two cells. Thus coding is approximately independent with weak synergy or redundancy arising, depending on the similarity in tuning and the temporal precision of the analysis. We suggest that this would allow cortical circuits to enjoy the stability provided by having similarly tuned neurons without suffering the penalty of redundancy, because the associated information transmission deficit is compensated for by stimulus-dependent synchrony.",
+  "authors": [
+    "Montani Fernando",
+    "Kohn Adam",
+    "Smith Matthew A",
+    "Schultz Simon R"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cortical Synchronization",
+    "Macaca fascicularis",
+    "Macaca radiata",
+    "Male",
+    "Neurons",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

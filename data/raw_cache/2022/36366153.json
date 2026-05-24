@@ -1,0 +1,28 @@
+{
+  "pmid": "36366153",
+  "title": "A Novel Application of Deep Learning (Convolutional Neural Network) for Traumatic Spinal Cord Injury Classification Using Automatically Learned Features of EMG Signal.",
+  "abstract": "In this study, a traumatic spinal cord injury (TSCI) classification system is proposed using a convolutional neural network (CNN) technique with automatically learned features from electromyography (EMG) signals for a non-human primate (NHP) model. A comparison between the proposed classification system and a classical classification method (<i>k</i>-nearest neighbors, <i>k</i>NN) is also presented. Developing such an NHP model with a suitable assessment tool (i.e., classifier) is a crucial step in detecting the effect of TSCI using EMG, which is expected to be essential in the evaluation of the efficacy of new TSCI treatments. Intramuscular EMG data were collected from an agonist/antagonist tail muscle pair for the pre- and post-spinal cord lesion from five <i>Macaca fasicularis</i> monkeys. The proposed classifier is based on a CNN using filtered segmented EMG signals from the pre- and post-lesion periods as inputs, while the <i>k</i>NN is designed using four hand-crafted EMG features. The results suggest that the CNN provides a promising classification technique for TSCI, compared to conventional machine learning classification. The <i>k</i>NN with hand-crafted EMG features classified the pre- and post-lesion EMG data with an F-measure of 89.7% and 92.7% for the left- and right-side muscles, respectively, while the CNN with the EMG segments classified the data with an F-measure of 89.8% and 96.9% for the left- and right-side muscles, respectively. Finally, the proposed deep learning classification model (CNN), with its learning ability of high-level features using EMG segments as inputs, shows high potential and promising results for use as a TSCI classification system. Future studies can confirm this finding by considering more subjects.",
+  "authors": [
+    "Masood Farah",
+    "Sharma Milan",
+    "Mand Davleen",
+    "Nesathurai Shanker",
+    "Simmons Heather A",
+    "Brunner Kevin",
+    "Schalk Dane R",
+    "Sledge John B",
+    "Abdullah Hussein A"
+  ],
+  "journal": "Sensors (Basel, Switzerland)",
+  "year": "2022",
+  "doi": "10.3390/s22218455",
+  "mesh": [
+    "Animals",
+    "Electromyography",
+    "Deep Learning",
+    "Neural Networks, Computer",
+    "Machine Learning",
+    "Spinal Cord Injuries",
+    "Macaca fascicularis"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "35440540",
+  "title": "Spontaneous variability in gamma dynamics described by a damped harmonic oscillator driven by noise.",
+  "abstract": "Circuits of excitatory and inhibitory neurons generate gamma-rhythmic activity (30-80 Hz). Gamma-cycles show spontaneous variability in amplitude and duration. To investigate the mechanisms underlying this variability, we recorded local-field-potentials (LFPs) and spikes from awake macaque V1. We developed a noise-robust method to detect gamma-cycle amplitudes and durations, which showed a weak but positive correlation. This correlation, and the joint amplitude-duration distribution, is well reproduced by a noise-driven damped harmonic oscillator. This model accurately fits LFP power-spectra, is equivalent to a linear, noise-driven E-I circuit, and recapitulates two additional features of gamma: (1) Amplitude-duration correlations decrease with oscillation strength; (2) amplitudes and durations exhibit strong and weak autocorrelations, respectively, depending on oscillation strength. Finally, longer gamma-cycles are associated with stronger spike-synchrony, but lower spike-rates in both (putative) excitatory and inhibitory neurons. In sum, V1 gamma-dynamics are well described by the simplest possible model of gamma: A damped harmonic oscillator driven by noise.",
+  "authors": [
+    "Spyropoulos Georgios",
+    "Saponati Matteo",
+    "Dowdall Jarrod Robert",
+    "Schölvinck Marieke Louise",
+    "Bosman Conrado Arturo",
+    "Lima Bruss",
+    "Peter Alina",
+    "Onorato Irene",
+    "Klon-Lipok Johanna",
+    "Roese Rasmus",
+    "Neuenschwander Sergio",
+    "Fries Pascal",
+    "Vinck Martin"
+  ],
+  "journal": "Nature communications",
+  "year": "2022",
+  "doi": "10.1038/s41467-022-29674-x",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Gamma Rhythm",
+    "Macaca",
+    "Neurons",
+    "Wakefulness"
+  ]
+}

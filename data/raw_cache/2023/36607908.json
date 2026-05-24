@@ -1,0 +1,28 @@
+{
+  "pmid": "36607908",
+  "title": "A quantitative model for human neurovascular coupling with translated mechanisms from animals.",
+  "abstract": "Neurons regulate the activity of blood vessels through the neurovascular coupling (NVC). A detailed understanding of the NVC is critical for understanding data from functional imaging techniques of the brain. Many aspects of the NVC have been studied both experimentally and using mathematical models; various combinations of blood volume and flow, local field potential (LFP), hemoglobin level, blood oxygenation level-dependent response (BOLD), and optogenetics have been measured and modeled in rodents, primates, or humans. However, these data have not been brought together into a unified quantitative model. We now present a mathematical model that describes all such data types and that preserves mechanistic behaviors between experiments. For instance, from modeling of optogenetics and microscopy data in mice, we learn cell-specific contributions; the first rapid dilation in the vascular response is caused by NO-interneurons, the main part of the dilation during longer stimuli is caused by pyramidal neurons, and the post-peak undershoot is caused by NPY-interneurons. These insights are translated and preserved in all subsequent analyses, together with other insights regarding hemoglobin dynamics and the LFP/BOLD-interplay, obtained from other experiments on rodents and primates. The model can predict independent validation-data not used for training. By bringing together data with complementary information from different species, we both understand each dataset better, and have a basis for a new type of integrative analysis of human data.",
+  "authors": [
+    "Sten Sebastian",
+    "Podéus Henrik",
+    "Sundqvist Nicolas",
+    "Elinder Fredrik",
+    "Engström Maria",
+    "Cedersund Gunnar"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2023",
+  "doi": "10.1371/journal.pcbi.1010818",
+  "mesh": [
+    "Humans",
+    "Mice",
+    "Animals",
+    "Neurovascular Coupling",
+    "Neurons",
+    "Brain",
+    "Pyramidal Cells",
+    "Hemoglobins",
+    "Cerebrovascular Circulation",
+    "Magnetic Resonance Imaging"
+  ]
+}

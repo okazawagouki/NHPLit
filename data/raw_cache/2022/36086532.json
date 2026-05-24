@@ -1,0 +1,19 @@
+{
+  "pmid": "36086532",
+  "title": "Recurrent neural networks controlling musculoskeletal models predict motor cortex activity during novel limb movements.",
+  "abstract": "Goal-driven networks trained to perform a task analogous to that performed by biological neural populations are being increasingly utilized as insightful computational models of motor control. The resulting dynamics of the trained networks are then analyzed to uncover the neural strategies employed by the motor cortex to produce movements. However, these networks do not take into account the role of sensory feedback in producing movement, nor do they consider the complex biophysical underpinnings of the underlying musculoskeletal system. Moreover, these models can not be used in context of predictive neuromechanical simulations for hypothesis generation and prediction of neural strategies during novel movements. In this research, we adapt state-of-the-art deep reinforcement learning (DRL) algorithms to train a controller to drive a developed anatomically accurate monkey arm model to track experimentally recorded kinematics. We validate that the trained controller mimics biologically observed neural strategies to produce movement. The trained controller generalizes well to unobserved conditions as well as to perturbation analyses. The recorded firing rates of motor cortex neurons can be predicted from the controller activity with high accuracy even on unseen conditions. Finally, we validate that the trained controller outperforms existing goal-driven and representational models of motor cortex in single neuron decoding accuracy, thus showing the utility of the complex underpinnings of anatomically accurate models in shaping motor cortex neural activity during limb movements. The learned controller can be used for hypothesis generation and prediction of neural strategies during novel movements and unobserved conditions.",
+  "authors": [
+    "Almani Muhammad Noman",
+    "Saxena Shreya"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2022",
+  "doi": "10.1109/EMBC48229.2022.9871085",
+  "mesh": [
+    "Motor Cortex",
+    "Motor Neurons",
+    "Movement",
+    "Musculoskeletal System",
+    "Neural Networks, Computer"
+  ]
+}

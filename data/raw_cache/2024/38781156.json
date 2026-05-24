@@ -1,0 +1,30 @@
+{
+  "pmid": "38781156",
+  "title": "Diverse task-driven modeling of macaque V4 reveals functional specialization towards semantic tasks.",
+  "abstract": "Responses to natural stimuli in area V4-a mid-level area of the visual ventral stream-are well predicted by features from convolutional neural networks (CNNs) trained on image classification. This result has been taken as evidence for the functional role of V4 in object classification. However, we currently do not know if and to what extent V4 plays a role in solving other computational objectives. Here, we investigated normative accounts of V4 (and V1 for comparison) by predicting macaque single-neuron responses to natural images from the representations extracted by 23 CNNs trained on different computer vision tasks including semantic, geometric, 2D, and 3D types of tasks. We found that V4 was best predicted by semantic classification features and exhibited high task selectivity, while the choice of task was less consequential to V1 performance. Consistent with traditional characterizations of V4 function that show its high-dimensional tuning to various 2D and 3D stimulus directions, we found that diverse non-semantic tasks explained aspects of V4 function that are not captured by individual semantic tasks. Nevertheless, jointly considering the features of a pair of semantic classification tasks was sufficient to yield one of our top V4 models, solidifying V4's main functional role in semantic processing and suggesting that V4's selectivity to 2D or 3D stimulus properties found by electrophysiologists can result from semantic functional goals.",
+  "authors": [
+    "Cadena Santiago A",
+    "Willeke Konstantin F",
+    "Restivo Kelli",
+    "Denfield George",
+    "Sinz Fabian H",
+    "Bethge Matthias",
+    "Tolias Andreas S",
+    "Ecker Alexander S"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2024",
+  "doi": "10.1371/journal.pcbi.1012056",
+  "mesh": [
+    "Animals",
+    "Semantics",
+    "Neural Networks, Computer",
+    "Visual Cortex",
+    "Models, Neurological",
+    "Computational Biology",
+    "Photic Stimulation",
+    "Neurons",
+    "Macaca mulatta",
+    "Macaca"
+  ]
+}

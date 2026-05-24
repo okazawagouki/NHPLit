@@ -1,0 +1,29 @@
+{
+  "pmid": "17477974",
+  "title": "Comparing effects in spike-triggered averages of rectified EMG across different behaviors.",
+  "abstract": "Effects in spike-triggered averages (SpikeTAs) of rectified electromyographic activity (EMG) compiled for the same neuron-muscle pair during various behaviors often appear different. Do these differences represent significant changes in the effect of the neuron on the muscle activity? Quantitative comparison of such differences has been limited by two methodological problems, which we address here. First, although the linear baseline trend of many SpikeTAs can be adjusted with ramp subtraction, the curvilinear baseline trend of other SpikeTAs can not. To address this problem, we estimated baseline trends using a form of moving average. Artificial triggers were created in 1 ms increments from 40 ms before to 40 ms after each spike used to compile the SpikeTA. These 81 triggers were used to compile another average of rectified EMG, which we call a single-spike increment-shifted average (single-spike ISA). Single-spike ISAs were averaged to produce an overall ISA, which captured slow trends in the baseline EMG while distributing any spike-locked features evenly throughout the 80 ms analysis window. The overall ISA then was subtracted from the initial SpikeTA, removing any slow baseline trends for more accurate measurement of SpikeTA effects. Second, the measured amplitude and temporal characteristics of SpikeTA effects produced by the same neuron-muscle pair may vary during different behaviors. But whether or not such variation is significant has been difficult to ascertain. We therefore applied a multiple fragment approach to permit statistical comparison of the measured features of SpikeTA effects for the same neuron-muscle pair during different behavioral epochs. Spike trains recorded in each task were divided into non-overlapping fragments of 100 spikes each, and a separate, ISA-corrected, SpikeTA was compiled for each fragment. Measurements made on these fragment SpikeTAs then were used as test statistics for comparison of peak percent increase, mean percent increase, peak width at half maximum, onset latency, and offset latency. The average of each test statistic measured from the fragment SpikeTAs was well correlated with the single measurement made on the overall SpikeTA. The multiple fragment approach provides a sensitive means of identifying significant changes in SpikeTA effects.",
+  "authors": [
+    "Davidson Adam G",
+    "O'Dell Ryan",
+    "Chan Vanessa",
+    "Schieber Marc H"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Behavior, Animal",
+    "Electromyography",
+    "Electrophysiology",
+    "Macaca mulatta",
+    "Male",
+    "Motor Neurons",
+    "Muscle, Skeletal",
+    "Neuromuscular Junction",
+    "Reaction Time",
+    "Signal Processing, Computer-Assisted",
+    "Synaptic Transmission"
+  ]
+}

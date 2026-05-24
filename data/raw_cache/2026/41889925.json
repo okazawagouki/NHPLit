@@ -1,0 +1,20 @@
+{
+  "pmid": "41889925",
+  "title": "A flexible quality metric for electrophysiological recordings across brain regions and species.",
+  "abstract": "The increasing size of electrophysiological datasets has heightened the need for quality metrics that automatically reject neurons whose activity was recorded with low sensitivity or specificity. One key approach estimates artifactual contamination by assuming that each neuron has a refractory period (RP), a brief time interval following each action potential when further activity cannot occur. However, existing methods cannot be applied without prior knowledge of the neurons' RP durations, limiting their usefulness in datasets that include neurons from brain regions or species in which RP durations have not been systematically characterized. Here, we find that neurons in some brain regions (thalamus) and species (macaque) have shorter RP durations than commonly assumed, and we introduce a new metric, the <i>Sliding Refractory Period</i> metric, which is robust to variation in a neuron's RP duration without tuning. We validate the method using simulations, demonstrating that it improves acceptance of uncontaminated spike trains with short or long RP durations while still rejecting contaminated ones. Moreover, by incorporating Poisson statistics into the calculation, the method also improves on prior work by allowing the user to approximately control the false acceptance rate. Our new metric improves quantification of contamination in electrophysiological recordings and enables application of a single tuning-free quality metric to data recorded from diverse brain regions and species.",
+  "authors": [
+    "Roth Noam",
+    "Chapuis Gaelle",
+    "Winter Olivier",
+    "",
+    "Ressmeyer Ryan A",
+    "Bun Luke M",
+    "Canfield Ryan A",
+    "Horwitz Gregory D",
+    "Steinmetz Nicholas A"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2026",
+  "doi": "10.64898/2026.03.06.710130",
+  "mesh": []
+}

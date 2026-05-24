@@ -1,0 +1,36 @@
+{
+  "pmid": "24524199",
+  "title": "Array-based assay detects genome-wide 5-mC and 5-hmC in the brains of humans, non-human primates, and mice.",
+  "abstract": "BACKGROUND: Methylation on the fifth position of cytosine (5-mC) is an essential epigenetic mark that is linked to both normal neurodevelopment and neurological diseases. The recent identification of another modified form of cytosine, 5-hydroxymethylcytosine (5-hmC), in both stem cells and post-mitotic neurons, raises new questions as to the role of this base in mediating epigenetic effects. Genomic studies of these marks using model systems are limited, particularly with array-based tools, because the standard method of detecting DNA methylation cannot distinguish between 5-mC and 5-hmC and most methods have been developed to only survey the human genome. RESULTS: We show that non-human data generated using the optimization of a widely used human DNA methylation array, designed only to detect 5-mC, reproducibly distinguishes tissue types within and between chimpanzee, rhesus, and mouse, with correlations near the human DNA level (R(2) > 0.99). Genome-wide methylation analysis, using this approach, reveals 6,102 differentially methylated loci between rhesus placental and fetal tissues with pathways analysis significantly overrepresented for developmental processes. Restricting the analysis to oncogenes and tumor suppressor genes finds 76 differentially methylated loci, suggesting that rhesus placental tissue carries a cancer epigenetic signature. Similarly, adapting the assay to detect 5-hmC finds highly reproducible 5-hmC levels within human, rhesus, and mouse brain tissue that is species-specific with a hierarchical abundance among the three species (human > rhesus >> mouse). Annotation of 5-hmC with respect to gene structure reveals a significant prevalence in the 3'UTR and an association with chromatin-related ontological terms, suggesting an epigenetic feedback loop mechanism for 5-hmC. CONCLUSIONS: Together, these data show that this array-based methylation assay is generalizable to all mammals for the detection of both 5-mC and 5-hmC, greatly improving the utility of mammalian model systems to study the role of epigenetics in human health, disease, and evolution.",
+  "authors": [
+    "Chopra Pankaj",
+    "Papale Ligia A",
+    "White Andrew T J",
+    "Hatch Andrea",
+    "Brown Ryan M",
+    "Garthwaite Mark A",
+    "Roseboom Patrick H",
+    "Golos Thaddeus G",
+    "Warren Stephen T",
+    "Alisch Reid S"
+  ],
+  "journal": "BMC genomics",
+  "year": "2014",
+  "doi": "10.1186/1471-2164-15-131",
+  "mesh": [
+    "5-Methylcytosine",
+    "Animals",
+    "Brain",
+    "CpG Islands",
+    "Cytosine",
+    "DNA Methylation",
+    "Epigenesis, Genetic",
+    "Genetic Loci",
+    "Genome",
+    "Genome, Human",
+    "Humans",
+    "Macaca mulatta",
+    "Mice",
+    "Oligonucleotide Array Sequence Analysis"
+  ]
+}

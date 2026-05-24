@@ -1,0 +1,23 @@
+{
+  "pmid": "30440945",
+  "title": "Estimation of Neural Inputs and Detection of Saccades and Smooth Pursuit Eye Movements by Sparse Bayesian Learning.",
+  "abstract": "Eye movements reveal a great wealth of information about the visual system and the brain. Therefore, eye movements can serve as diagnostic markers for various neurological disorders. For an objective analysis, it is crucial to have an automatic and robust procedure to extract relevant eye movement parameters. An essential step towards this goal is to detect and separate different types of eye movements such as fixations, saccades and smooth pursuit. We have developed a model-based approach to perform signal detection and separation on eye movement recordings, using source separation techniques from sparse Bayesian learning. The key idea is to model the oculomotor system with a state space model and to perform signal separation in the neural domain by estimating sparse inputs which trigger saccades. The algorithm was evaluated on synthetic data, neural recordings from rhesus monkeys and on manually annotated human eye movement recordings with different smooth pursuit paradigms. The developed approach shows a high noise-robustness, provides saccade and smooth pursuit parameters, as well as estimates of the position, velocity and acceleration profiles. In addition, by estimating the input to the oculomotor system, we obtain an estimate of the neural inputs to the oculomotor muscles.",
+  "authors": [
+    "Wadehn Federico",
+    "Mack David J",
+    "Weber Thilo",
+    "Loeliger Hans-Andrea"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2018",
+  "doi": "10.1109/EMBC.2018.8512758",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Eye Movements",
+    "Humans",
+    "Learning",
+    "Pursuit, Smooth",
+    "Saccades"
+  ]
+}

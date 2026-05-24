@@ -1,0 +1,21 @@
+{
+  "pmid": "37148052",
+  "title": "Insights into the Glutamatergic and GABAergic Connections in the Conductance-Based Model of Subthalamic Nucleus in Hyperdirect Pathway.",
+  "abstract": "INTRODUCTION: This study aimed to analyze the spiking patterns of subthalamic nucleus and globus pallidus coupling in hyperdirect pathway in healthy primates and in Parkinson's disease using a conductance-based model. The effect of calcium membrane potential has also been investigated. MATERIALS AND METHODS: System of coupled differential equation arising from the conductance-based model has been simulated using ODE45 in MATLAB 7.14 to analyze the spiking patterns. RESULTS: Analysis of spiking patterns suggests that subthalamic nucleus with synaptic input from globus pallidus in hyperdirect pathways is capable of showing two types of spiking pattern - irregular and rhythmic. Characterization of spiking patterns in healthy and Parkinson condition has been done based on their frequency, trend, and spiking rate. Results indicate that rhythmic patterns does not account for Parkinson's disease. Further, calcium membrane potential is an important parameter to target for identifying the cause of this disease. CONCLUSION: This work demonstrates that subthalamic nucleus and globus pallidus coupling in hyperdirect pathway can account for Parkinson's symptoms. However, the entire process of excitations and inhibition caused by glutamate and GABA receptors is limited by the timing of depolarization of the model. There is improvement in the correlation between healthy and Parkinson's patterns by increase in calcium membrane potential, however, for a limited time.",
+  "authors": [
+    "Singh Jyotsna",
+    "Singh Phool",
+    "Malik Vikas"
+  ],
+  "journal": "Neurology India",
+  "year": "2023",
+  "doi": "10.4103/0028-3886.375435",
+  "mesh": [
+    "Animals",
+    "Subthalamic Nucleus",
+    "Parkinson Disease",
+    "Calcium",
+    "Neural Pathways",
+    "Globus Pallidus"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "21526335",
+  "title": "Neural mechanisms and models underlying joint action.",
+  "abstract": "Humans, in particular, and to a lesser extent also other species of animals, possess the impressive capability of smoothly coordinating their actions with those of others. The great amount of work done in recent years in neuroscience has provided new insights into the processes involved in joint action, intention understanding, and task sharing. In particular, the discovery of mirror neurons, which fire both when animals execute actions and when they observe the same actions done by other individuals, has shed light on the intimate relationship between perception and action elucidating the direct contribution of motor knowledge to action understanding. Up to date, however, a detailed description of the neural processes involved in these phenomena is still mostly lacking. Building upon data from single neuron recordings in monkeys observing the actions of a demonstrator and then executing the same or a complementary action, this paper describes the functioning of a biologically constraint neural network model of the motor and mirror systems during joint action. In this model, motor sequences are encoded as independent neuronal chains that represent concatenations of elementary motor acts leading to a specific goal. Action execution and recognition are achieved through the propagation of activity within specific chains. Due to the dual property of mirror neurons, the same architecture is capable of smoothly integrating and switching between observed and self-generated action sequences, thus allowing to evaluate multiple hypotheses simultaneously, understand actions done by others, and to respond in an appropriate way.",
+  "authors": [
+    "Chersi Fabian"
+  ],
+  "journal": "Experimental brain research",
+  "year": "2011",
+  "doi": "10.1007/s00221-011-2690-3",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Cooperative Behavior",
+    "Electrophysiology",
+    "Intention",
+    "Interpersonal Relations",
+    "Macaca nemestrina",
+    "Motor Activity",
+    "Neurons",
+    "Psychomotor Performance"
+  ]
+}

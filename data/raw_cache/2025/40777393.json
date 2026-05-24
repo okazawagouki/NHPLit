@@ -1,0 +1,30 @@
+{
+  "pmid": "40777393",
+  "title": "Dual-feature selectivity enables bidirectional coding in visual cortical neurons.",
+  "abstract": "Sensory neurons are traditionally viewed as feature detectors that respond with an increase in firing rate to preferred stimuli while remaining unresponsive to others. Here, we identify a dual-feature encoding strategy in macaque visual cortex, wherein many neurons in areas V1 and V4 are selectively tuned to two distinct visual features-one that enhances and one that suppresses activity-around an elevated baseline firing rate. By combining neuronal recordings with functional digital twin models-deep learning-based predictive models of biological neurons-we were able to systematically identify each neuron's preferred and non-preferred features. These feature pairs served as anchors for a continuous, low-dimensional axis in natural image similarity space, along which neuronal activity varied approximately linearly. Within a single visual area, visual features that strongly or weakly activated individual neurons also had a high probability of modulating the activity of other neurons, suggesting a shared feature selectivity across the population that structures stimulus encoding. We show that this encoding strategy is conserved across species, present in both primary and lateral visual areas of mouse cortex. Dual-feature selectivity is consistent with recent anatomical evidence for feature-specific inhibitory connectivity, complementing the feature-detector principle through circuit mechanisms in which selective excitation and inhibition may together enhance the representational capacity of the neuronal population.",
+  "authors": [
+    "Franke Katrin",
+    "Karantzas Nikos",
+    "Willeke Konstantin",
+    "Diamantaki Maria",
+    "Ramakrishnan Kandan",
+    "Bedel Hasan Atakan",
+    "Elumalai Pavithra",
+    "Restivo Kelli",
+    "Fahey Paul",
+    "Nealley Cate",
+    "Shinn Tori",
+    "Garcia Gabrielle",
+    "Patel Saumil",
+    "Ecker Alexander",
+    "Walker Edgar Y",
+    "Froudarakis Emmanouil",
+    "Sanborn Sophia",
+    "Sinz Fabian H",
+    "Tolias Andreas"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.07.16.665209",
+  "mesh": []
+}

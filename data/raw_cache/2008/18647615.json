@@ -1,0 +1,28 @@
+{
+  "pmid": "18647615",
+  "title": "Dopaminergic neuromodulation of semantic priming in a cortical network model.",
+  "abstract": "Semantic priming between items stored and associated in memory underlies contextual recall. Response times to process a given target item are shorter when following presentation of a related prime item than when it is unrelated. The study of priming effects allows investigating the structure of semantic networks as a function of association strength and number of links relating the prime and target. Behavioral data from divided visual field experiments in healthy subjects show a variability in the magnitude of priming effects when the left or right hemisphere is primary involved. Data from schizophrenic patients also exhibit variability in priming magnitude compared to data from healthy subjects. Mathematical models of cortical networks allow theorists to understand the link between the physiology of single neurons and synapses and network behavior. Computational modelling can replicate electrophysiological recordings of cortical neurons in monkeys, that exhibit two types of task-related activity, 'retrospective' (related to a previously shown stimulus) and 'prospective' (related to a stimulus expected to appear, due to learned association between both stimuli). Experimental studies of associative priming report priming effects on behavioral data in both human and monkeys. Cortical network models can account for a large variety of priming effects observed in human, and for the dependence of retrospective activity on dopamine neuromodulation. Here, we investigate how variable levels of dopamine in a model of a cortical network can modulate prospective activity to vary the magnitude of semantic priming. We simulate a biologically realistic network of integrate and fire neurons to study the effects of dopaminergic neuromodulation of NMDA receptors of glutamatergic and gabaergic neurons on semantic priming dynamics. Results support the possibility that different levels of dopaminergic neuromodulation can subtend hemispheric differences in semantic priming, corresponding to focused priming in the left hemisphere and to extended priming in the right hemisphere. Furthermore, results can account for priming perturbations in schizophrenia depending on the level of dopamine.",
+  "authors": [
+    "Lavigne Frédéric",
+    "Darmon Nelly"
+  ],
+  "journal": "Neuropsychologia",
+  "year": "2008",
+  "doi": "10.1016/j.neuropsychologia.2008.06.019",
+  "mesh": [
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Dopamine",
+    "Humans",
+    "Membrane Potentials",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Inhibition",
+    "Neurons",
+    "Neurotransmitter Agents",
+    "Receptors, AMPA",
+    "Receptors, Glutamate",
+    "Receptors, N-Methyl-D-Aspartate",
+    "Semantics"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "11244545",
+  "title": "Encoding of categories by noncategory-specific neurons in the inferior temporal cortex.",
+  "abstract": "In order to understand how the brain codes natural categories, e.g., trees and fish, recordings were made in the anterior part of the macaque inferior temporal (IT) cortex while the animal was performing a tree/nontree categorization task. Most single cells responded to exemplars of more than one category while other neurons responded only to a restricted set of exemplars of a given category. Since it is still not known which type of cells contribute and what is the nature of the code used for categorization in IT, we have performed an analysis on single-cell data. A Kohonen self-organizing map (SOM), which uses an unsupervised (competitive) learning algorithm, was used to study the single cell responses to tree and nontree images. Results from the Kohonen SOM indicated that the collected neuronal data consisting of spike counts was sufficient to account for a good level of categorization success (approximately 83%) when categorizing a group of 200 trees and nontrees. Contrary to intuition, the results of the investigation suggest that the population of category-specific neurons (neurons that respond only to trees or only to nontrees) was unimportant to the categorization. Instead, a large majority of the neurons that were most important to the categorization was found to belong to a class of more broadly tuned cells, namely, cells that responded to both categories but that favored one category over the other by seven or more images. A simple algebraic operation (without the Kohonen SOM) between the above-mentioned noncategory-specific neurons confirmed the contribution of these neurons to categorization. Thus, the modeling results suggest (1) that broadly tuned neurons are critical for categorization, and (2) that only one additional layer of processing is required to extract the categories from a population of IT neurons.",
+  "authors": [
+    "Thomas E",
+    "Van Hulle M M",
+    "Vogels R"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Discrimination Learning",
+    "Form Perception",
+    "Haplorhini",
+    "Models, Neurological",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Temporal Lobe",
+    "Visual Pathways"
+  ]
+}

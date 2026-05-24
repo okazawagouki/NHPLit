@@ -1,0 +1,32 @@
+{
+  "pmid": "24216292",
+  "title": "Facilitation of memory encoding in primate hippocampus by a neuroprosthesis that promotes task-specific neural firing.",
+  "abstract": "OBJECTIVE: Memory accuracy is a major problem in human disease and is the primary factor that defines Alzheimer's, ageing and dementia resulting from impaired hippocampal function in the medial temporal lobe. Development of a hippocampal memory neuroprosthesis that facilitates normal memory encoding in nonhuman primates (NHPs) could provide the basis for improving memory in human disease states. APPROACH: NHPs trained to perform a short-term delayed match-to-sample (DMS) memory task were examined with multi-neuron recordings from synaptically connected hippocampal cell fields, CA1 and CA3. Recordings were analyzed utilizing a previously developed nonlinear multi-input multi-output (MIMO) neuroprosthetic model, capable of extracting CA3-to-CA1 spatiotemporal firing patterns during DMS performance. MAIN RESULTS: The MIMO model verified that specific CA3-to-CA1 firing patterns were critical for the successful encoding of sample phase information on more difficult DMS trials. This was validated by the delivery of successful MIMO-derived encoding patterns via electrical stimulation to the same CA1 recording locations during the sample phase which facilitated task performance in the subsequent, delayed match phase, on difficult trials that required more precise encoding of sample information. SIGNIFICANCE: These findings provide the first successful application of a neuroprosthesis designed to enhance and/or repair memory encoding in primate brain.",
+  "authors": [
+    "Hampson Robert E",
+    "Song Dong",
+    "Opris Ioan",
+    "Santos Lucas M",
+    "Shin Dae C",
+    "Gerhardt Greg A",
+    "Marmarelis Vasilis Z",
+    "Berger Theodore W",
+    "Deadwyler Sam A"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2013",
+  "doi": "10.1088/1741-2560/10/6/066013",
+  "mesh": [
+    "Animals",
+    "Electric Stimulation",
+    "Hippocampus",
+    "Macaca mulatta",
+    "Male",
+    "Memory",
+    "Neural Prostheses",
+    "Neurons",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Random Allocation"
+  ]
+}

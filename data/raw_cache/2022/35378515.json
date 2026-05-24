@@ -1,0 +1,26 @@
+{
+  "pmid": "35378515",
+  "title": "Characterizing the short-latency evoked response to intracortical microstimulation across a multi-electrode array.",
+  "abstract": "<i>Objective.</i>Persons with tetraplegia can use brain-machine interfaces to make visually guided reaches with robotic arms. Without somatosensory feedback, these movements will likely be slow and imprecise, like those of persons who retain movement but have lost proprioception. Intracortical microstimulation (ICMS) has promise for providing artificial somatosensory feedback. ICMS that mimics naturally occurring neural activity, may allow afferent interfaces that are more informative and easier to learn than stimulation evoking unnaturalistic activity. To develop such biomimetic stimulation patterns, it is important to characterize the responses of neurons to ICMS.<i>Approach.</i>Using a Utah multi-electrode array, we recorded activity evoked by both single pulses and trains of ICMS at a wide range of amplitudes and frequencies in two rhesus macaques. As the electrical artifact caused by ICMS typically prevents recording for many milliseconds, we deployed a custom rapid-recovery amplifier with nonlinear gain to limit signal saturation on the stimulated electrode. Across all electrodes after stimulation, we removed the remaining slow return to baseline with acausal high-pass filtering of time-reversed recordings.<i>Main results.</i>After single pulses of stimulation, we recorded what was likely transsynaptically-evoked activity even on the stimulated electrode as early as ∼0.7 ms. This was immediately followed by suppressed neural activity lasting 10-150 ms. After trains, this long-lasting inhibition was replaced by increased firing rates for ∼100 ms. During long trains, the evoked response on the stimulated electrode decayed rapidly while the response was maintained on non-stimulated channels.<i>Significance.</i>The detailed description of the spatial and temporal response to ICMS can be used to better interpret results from experiments that probe circuit connectivity or function of cortical areas. These results can also contribute to the design of stimulation patterns to improve afferent interfaces for artificial sensory feedback.",
+  "authors": [
+    "Sombeck Joseph T",
+    "Heye Juliet",
+    "Kumaravelu Karthik",
+    "Goetz Stefan M",
+    "Peterchev Angel V",
+    "Grill Warren M",
+    "Bensmaia Sliman",
+    "Miller Lee E"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2022",
+  "doi": "10.1088/1741-2552/ac63e8",
+  "mesh": [
+    "Animals",
+    "Electric Stimulation",
+    "Electrodes, Implanted",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Somatosensory Cortex"
+  ]
+}

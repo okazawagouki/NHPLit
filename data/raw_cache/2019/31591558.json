@@ -1,0 +1,24 @@
+{
+  "pmid": "31591558",
+  "title": "Internal models of sensorimotor integration regulate cortical dynamics.",
+  "abstract": "Sensorimotor control during overt movements is characterized in terms of three building blocks: a controller, a simulator and a state estimator. We asked whether the same framework could explain the control of internal states in the absence of movements. Recently, it was shown that the brain controls the timing of future movements by adjusting an internal speed command. We trained monkeys in a novel task in which the speed command had to be dynamically controlled based on the timing of a sequence of flashes. Recordings from the frontal cortex provided evidence that the brain updates the internal speed command after each flash based on the error between the timing of the flash and the anticipated timing of the flash derived from a simulated motor plan. These findings suggest that cognitive control of internal states may be understood in terms of the same computational principles as motor control.",
+  "authors": [
+    "Egger Seth W",
+    "Remington Evan D",
+    "Chang Chia-Jung",
+    "Jazayeri Mehrdad"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2019",
+  "doi": "10.1038/s41593-019-0500-6",
+  "mesh": [
+    "Animals",
+    "Frontal Lobe",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Movement",
+    "Psychomotor Performance",
+    "Time Perception"
+  ]
+}

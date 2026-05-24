@@ -1,0 +1,25 @@
+{
+  "pmid": "3614643",
+  "title": "Collicular ensemble coding of saccades based on vector summation.",
+  "abstract": "The superior colliculus in the monkey contains a topographically organized representation of the target in its upper layers and saccade-related activity in its deeper layers. Since collicular movement fields are quite large, a considerable region of the colliculus is active whenever a saccade is made. We have modelled the collicular role in saccade generation based on the idea, proposed earlier in the literature, that each movement cell causes a movement tendency in the direction of the external world point which it represents in the collicular map. The model is organized as follows: An anisotropic logarithmic mapping transforms retinal coordinates into collicular coordinates. A two-dimensional Gaussian function describes the spatial extent of the movement-related activity in the deeper layers. An efferent mapping function specifies how the direction and the size of the movement contribution of each colliculus neuron depends on its location and its firing rate. The total saccade is the vector sum of the individual cell contributions. This very simple model (seven fixed parameters) has been used to simulate metrical properties of saccades: in response to visual targets; in response to electrical stimulation in one colliculus, and after a colliculus lesion. Model performance appears to be remarkably realistic but cannot account for some border effects and responses to double stimulation. Suggestions on how the model can be improved and extended will be presented.",
+  "authors": [
+    "Van Gisbergen J A",
+    "Van Opstal A J",
+    "Tax A A"
+  ],
+  "journal": "Neuroscience",
+  "year": "1987",
+  "doi": "",
+  "mesh": [
+    "Brain Mapping",
+    "Computer Simulation",
+    "Eye Movements",
+    "Feedback",
+    "Models, Neurological",
+    "Motor Neurons",
+    "Neurons, Afferent",
+    "Recruitment, Neurophysiological",
+    "Saccades",
+    "Superior Colliculi"
+  ]
+}

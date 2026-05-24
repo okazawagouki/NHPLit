@@ -1,0 +1,25 @@
+{
+  "pmid": "30794541",
+  "title": "Structure and variability of delay activity in premotor cortex.",
+  "abstract": "Voluntary movements are widely considered to be planned before they are executed. Recent studies have hypothesized that neural activity in motor cortex during preparation acts as an 'initial condition' which seeds the proceeding neural dynamics. Here, we studied these initial conditions in detail by investigating 1) the organization of neural states for different reaches and 2) the variance of these neural states from trial to trial. We examined population-level responses in macaque premotor cortex (PMd) during the preparatory stage of an instructed-delay center-out reaching task with dense target configurations. We found that after target onset the neural activity on single trials converges to neural states that have a clear low-dimensional structure which is organized by both the reach endpoint and maximum speed of the following reach. Further, we found that variability of the neural states during preparation resembles the spatial variability of reaches made in the absence of visual feedback: there is less variability in direction than distance in neural state space. We also used offline decoding to understand the implications of this neural population structure for brain-machine interfaces (BMIs). We found that decoding of angle between reaches is dependent on reach distance, while decoding of arc-length is independent. Thus, it might be more appropriate to quantify decoding performance for discrete BMIs by using arc-length between reach end-points rather than the angle between them. Lastly, we show that in contrast to the common notion that direction can better be decoded than distance, their decoding capabilities are comparable. These results provide new insights into the dynamical neural processes that underline motor control and can inform the design of BMIs.",
+  "authors": [
+    "Even-Chen Nir",
+    "Sheffer Blue",
+    "Vyas Saurabh",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2019",
+  "doi": "10.1371/journal.pcbi.1006808",
+  "mesh": [
+    "Animals",
+    "Electrodes, Implanted",
+    "Electromyography",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Movement",
+    "Psychomotor Performance",
+    "Reaction Time"
+  ]
+}

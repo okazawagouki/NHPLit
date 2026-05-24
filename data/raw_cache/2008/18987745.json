@@ -1,0 +1,26 @@
+{
+  "pmid": "18987745",
+  "title": "Decomposing neural synchrony: toward an explanation for near-zero phase-lag in cortical oscillatory networks.",
+  "abstract": "BACKGROUND: Synchronized oscillation in cortical networks has been suggested as a mechanism for diverse functions ranging from perceptual binding to memory formation to sensorimotor integration. Concomitant with synchronization is the occurrence of near-zero phase-lag often observed between network components. Recent theories have considered the importance of this phenomenon in establishing an effective communication framework among neuronal ensembles. METHODOLOGY/PRINCIPAL FINDINGS: Two factors, among possibly others, can be hypothesized to contribute to the near-zero phase-lag relationship: (1) positively correlated common input with no significant relative time delay and (2) bidirectional interaction. Thus far, no empirical test of these hypotheses has been possible for lack of means to tease apart the specific causes underlying the observed synchrony. In this work simulation examples were first used to illustrate the ideas. A quantitative method that decomposes the statistical interdependence between two cortical areas into a feed-forward, a feed-back and a common-input component was then introduced and applied to test the hypotheses on multichannel local field potential recordings from two behaving monkeys. CONCLUSION/SIGNIFICANCE: The near-zero phase-lag phenomenon is important in the study of large-scale oscillatory networks. A rigorous mathematical theorem is used for the first time to empirically examine the factors that contribute to this phenomenon. Given the critical role that oscillatory activity is likely to play in the regulation of biological processes at all levels, the significance of the proposed method may extend beyond systems neuroscience, the level at which the present analysis is conceived and performed.",
+  "authors": [
+    "Rajagovindan Rajasimhan",
+    "Ding Mingzhou"
+  ],
+  "journal": "PloS one",
+  "year": "2008",
+  "doi": "10.1371/journal.pone.0003649",
+  "mesh": [
+    "Animals",
+    "Biological Clocks",
+    "Causality",
+    "Computer Simulation",
+    "Cortical Synchronization",
+    "Haplorhini",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Parietal Lobe",
+    "Pattern Recognition, Visual",
+    "Psychomotor Performance",
+    "Somatosensory Cortex"
+  ]
+}

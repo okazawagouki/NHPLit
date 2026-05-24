@@ -1,0 +1,16 @@
+{
+  "pmid": "34920363",
+  "title": "White matter tract transcranial ultrasound stimulation, a computational study.",
+  "abstract": "Low-intensity transcranial ultrasound stimulation (TUS) is poised to become one of the most promising treatments for neurological disorders. However, while recent animal model experiments have successfully quantified the alterations of the functional activity coupling between a sonicated target cortical region and other cortical regions of interest (ROIs), the varying degree of alteration between these different connections remains unexplained. We hypothesise here that the incidental sonication of the tracts leaving the target region towards the different ROIs could participate in explaining these differences. To this end, we propose a tissue level phenomenological numerical model of the coupling between the ultrasound waves and the white matter electrical activity. The model is then used to reproduce in silico the sonication of the anterior cingulate cortex (ACC) of a macaque monkey and measure the neuromodulation power within the white matter tracts leaving the ACC for five cortical ROIs. The results show that the more induced power a white matter tract proximal to the ACC and connected to a secondary ROI receives, the more altered the connectivity fingerprint of the ACC to this region will be after sonication. These results point towards the need to isolate the sonication to the cortical region and minimise the spillage on the neighbouring tracts when aiming at modulating the target region without losing the functional connectivity with other ROIs. Those results further emphasise the potential role of the white matter in TUS and the need to account for white matter topology when designing TUS protocols.",
+  "authors": [
+    "Felix Ciara",
+    "Folloni Davide",
+    "Chen Haoyu",
+    "Sallet Jerome",
+    "Jerusalem Antoine"
+  ],
+  "journal": "Computers in biology and medicine",
+  "year": "2022",
+  "doi": "10.1016/j.compbiomed.2021.105094",
+  "mesh": []
+}

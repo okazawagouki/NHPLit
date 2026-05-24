@@ -1,0 +1,30 @@
+{
+  "pmid": "23428966",
+  "title": "Improving brain-machine interface performance by decoding intended future movements.",
+  "abstract": "OBJECTIVE: A brain-machine interface (BMI) records neural signals in real time from a subject's brain, interprets them as motor commands, and reroutes them to a device such as a robotic arm, so as to restore lost motor function. Our objective here is to improve BMI performance by minimizing the deleterious effects of delay in the BMI control loop. We mitigate the effects of delay by decoding the subject's intended movements a short time lead in the future. APPROACH: We use the decoded, intended future movements of the subject as the control signal that drives the movement of our BMI. This should allow the user's intended trajectory to be implemented more quickly by the BMI, reducing the amount of delay in the system. In our experiment, a monkey (Macaca mulatta) uses a future prediction BMI to control a simulated arm to hit targets on a screen. MAIN RESULTS: Results from experiments with BMIs possessing different system delays (100, 200 and 300 ms) show that the monkey can make significantly straighter, faster and smoother movements when the decoder predicts the user's future intent. We also characterize how BMI performance changes as a function of delay, and explore offline how the accuracy of future prediction decoders varies at different time leads. SIGNIFICANCE: This study is the first to characterize the effects of control delays in a BMI and to show that decoding the user's future intent can compensate for the negative effect of control delay on BMI performance.",
+  "authors": [
+    "Willett Francis R",
+    "Suminski Aaron J",
+    "Fagg Andrew H",
+    "Hatsopoulos Nicholas G"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2013",
+  "doi": "10.1088/1741-2560/10/2/026011",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Electrophysiology",
+    "Forecasting",
+    "Intention",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Motor Cortex",
+    "Movement",
+    "Online Systems",
+    "Psychomotor Performance"
+  ]
+}

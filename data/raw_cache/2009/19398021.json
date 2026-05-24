@@ -1,0 +1,24 @@
+{
+  "pmid": "19398021",
+  "title": "Optimization of cortical hierarchies with continuous scales and ranges.",
+  "abstract": "Although information flow in the neocortex has an apparent hierarchical organization, there is much ambiguity with respect to the definition of such a hierarchy, particularly in higher cortical regions. This ambiguity has been addressed by utilizing observable anatomical criteria, based upon tract tracing experiments, to constrain the definition of hierarchy [Felleman D.J. and van Essen D.C., 1991. Distributed hierarchical processing in the primate. Cereb. Cortex. 1(1), 1-47.]. There are, however, a high number of equally optimal hierarchies that fit these constraints [Hilgetag C.C., O'Neill M.A., Young M.P., 1996. Indeterminate organization of the visual system. Science. 271(5250), 776-777.]. Here, we propose a refined constraint set for optimization which utilizes continuous, rather than discrete, hierarchical levels, and permits a range of acceptable values rather than attempting to fit fixed hierarchical distances. Using linear programming to obtain hierarchies across a number of range sizes, we find a clear hierarchical pattern for both the original and refined versions of the Felleman and Van Essen [Felleman D.J. and van Essen D.C., 1991. Distributed hierarchical processing in the primate. Cereb. Cortex. 1(1), 1-47.] visual network. We also obtain an optimal hierarchy from a refined set of anatomical criteria which allows for the direct specification of hierarchical distance from the laminar distribution of labelled cells (Barone P., Batardiere A., Knoblauch K., Kennedy H., 2000. Laminar distribution of neurons in extrastriate areas projecting to visual areas V1 and V4 correlates with the hierarchical rank and indicates the operation of a distance rule. J. Neurosci. 20(9), 3263-3281.), and discuss the limitations and further possible refinements of such an approach.",
+  "authors": [
+    "Reid Andrew T",
+    "Krumnack Antje",
+    "Wanke Egon",
+    "Kötter Rolf"
+  ],
+  "journal": "NeuroImage",
+  "year": "2009",
+  "doi": "10.1016/j.neuroimage.2009.04.061",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Humans",
+    "Models, Neurological",
+    "Nerve Net",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

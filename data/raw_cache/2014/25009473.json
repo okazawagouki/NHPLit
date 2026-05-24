@@ -1,0 +1,20 @@
+{
+  "pmid": "25009473",
+  "title": "Spike avalanches in vivo suggest a driven, slightly subcritical brain state.",
+  "abstract": "In self-organized critical (SOC) systems avalanche size distributions follow power-laws. Power-laws have also been observed for neural activity, and so it has been proposed that SOC underlies brain organization as well. Surprisingly, for spiking activity in vivo, evidence for SOC is still lacking. Therefore, we analyzed highly parallel spike recordings from awake rats and monkeys, anesthetized cats, and also local field potentials from humans. We compared these to spiking activity from two established critical models: the Bak-Tang-Wiesenfeld model, and a stochastic branching model. We found fundamental differences between the neural and the model activity. These differences could be overcome for both models through a combination of three modifications: (1) subsampling, (2) increasing the input to the model (this way eliminating the separation of time scales, which is fundamental to SOC and its avalanche definition), and (3) making the model slightly sub-critical. The match between the neural activity and the modified models held not only for the classical avalanche size distributions and estimated branching parameters, but also for two novel measures (mean avalanche size, and frequency of single spikes), and for the dependence of all these measures on the temporal bin size. Our results suggest that neural activity in vivo shows a mélange of avalanches, and not temporally separated ones, and that their global activity propagation can be approximated by the principle that one spike on average triggers a little less than one spike in the next step. This implies that neural activity does not reflect a SOC state but a slightly sub-critical regime without a separation of time scales. Potential advantages of this regime may be faster information processing, and a safety margin from super-criticality, which has been linked to epilepsy.",
+  "authors": [
+    "Priesemann Viola",
+    "Wibral Michael",
+    "Valderrama Mario",
+    "Pröpper Robert",
+    "Le Van Quyen Michel",
+    "Geisel Theo",
+    "Triesch Jochen",
+    "Nikolić Danko",
+    "Munk Matthias H J"
+  ],
+  "journal": "Frontiers in systems neuroscience",
+  "year": "2014",
+  "doi": "10.3389/fnsys.2014.00108",
+  "mesh": []
+}

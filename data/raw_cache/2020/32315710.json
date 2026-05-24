@@ -1,0 +1,29 @@
+{
+  "pmid": "32315710",
+  "title": "Examining fMRI time-series entropy as a marker for brain E/I balance with pharmacological neuromodulation in a non-human primate translational model.",
+  "abstract": "Recently, there has been a lot of interest in the neuroimaging community in exploring fMRI time-series measures of local neuronal activity and excitation/inhibition (E/I) balance in the brain. In this preliminary study we probed the sensitivity of widely used sample entropy (SE) measure at multiple scales to controlled alteration of the brain's E/I balance in non-human primates (NHPs) with a well-characterized sub-anesthetic ketamine infusion fMRI model. We found that SE failed to detect the expected changes in E/I balance induced by ketamine. Subsequently, noticing that the complexity in the time series contributing SE could be dominated by non-neuronal noise in this experimental setting, we developed a new time-series measure called restricted sample entropy (RSE) by restricting SE estimations to regular portions of the fMRI time-series. RSE was able to adequately reflect the increased excitatory activity engendered by disinhibition of glutamergic neurons, through sub-anesthetic ketamine infusion. These results show that RSE is potentially a powerful tool for examining local neural activity, E/I balance, and alterations in brain state.",
+  "authors": [
+    "Maltbie Eric A",
+    "Howell Leonard H",
+    "Sun Phillip Z",
+    "Miller Robyn",
+    "Gopinath Kaundinya S"
+  ],
+  "journal": "Neuroscience letters",
+  "year": "2020",
+  "doi": "10.1016/j.neulet.2020.134984",
+  "mesh": [
+    "Animals",
+    "Biomarkers",
+    "Brain",
+    "Entropy",
+    "Female",
+    "Inhibition, Psychological",
+    "Ketamine",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Neurons",
+    "Primates",
+    "Time Factors"
+  ]
+}

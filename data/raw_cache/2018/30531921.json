@@ -1,0 +1,29 @@
+{
+  "pmid": "30531921",
+  "title": "Decoding arm speed during reaching.",
+  "abstract": "Neural prostheses decode intention from cortical activity to restore upper extremity movement. Typical decoding algorithms extract velocity-a vector quantity with direction and magnitude (speed) -from neuronal firing rates. Standard decoding algorithms accurately recover arm direction, but the extraction of speed has proven more difficult. We show that this difficulty is due to the way speed is encoded by individual neurons and demonstrate how standard encoding-decoding procedures produce characteristic errors. These problems are addressed using alternative brain-computer interface (BCI) algorithms that accommodate nonlinear encoding of speed and direction. Our BCI approach leads to skillful control of both direction and speed as demonstrated by stereotypic bell-shaped speed profiles, straight trajectories, and steady cursor positions before and after the movement.",
+  "authors": [
+    "Inoue Yoh",
+    "Mao Hongwei",
+    "Suway Steven B",
+    "Orellana Josue",
+    "Schwartz Andrew B"
+  ],
+  "journal": "Nature communications",
+  "year": "2018",
+  "doi": "10.1038/s41467-018-07647-3",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Electroencephalography",
+    "Intention",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Psychomotor Performance"
+  ]
+}

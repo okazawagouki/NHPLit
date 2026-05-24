@@ -1,0 +1,20 @@
+{
+  "pmid": "35110401",
+  "title": "Hierarchical timescales in the neocortex: Mathematical mechanism and biological insights.",
+  "abstract": "A cardinal feature of the neocortex is the progressive increase of the spatial receptive fields along the cortical hierarchy. Recently, theoretical and experimental findings have shown that the temporal response windows also gradually enlarge, so that early sensory neural circuits operate on short timescales whereas higher-association areas are capable of integrating information over a long period of time. While an increased receptive field is accounted for by spatial summation of inputs from neurons in an upstream area, the emergence of timescale hierarchy cannot be readily explained, especially given the dense interareal cortical connectivity known in the modern connectome. To uncover the required neurobiological properties, we carried out a rigorous analysis of an anatomically based large-scale cortex model of macaque monkeys. Using a perturbation method, we show that the segregation of disparate timescales is defined in terms of the localization of eigenvectors of the connectivity matrix, which depends on three circuit properties: 1) a macroscopic gradient of synaptic excitation, 2) distinct electrophysiological properties between excitatory and inhibitory neuronal populations, and 3) a detailed balance between long-range excitatory inputs and local inhibitory inputs for each area-to-area pathway. Our work thus provides a quantitative understanding of the mechanism underlying the emergence of timescale hierarchy in large-scale primate cortical networks.",
+  "authors": [
+    "Li Songting",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2022",
+  "doi": "10.1073/pnas.2110274119",
+  "mesh": [
+    "Animals",
+    "Connectome",
+    "Macaca",
+    "Models, Neurological",
+    "Neocortex",
+    "Nerve Net"
+  ]
+}

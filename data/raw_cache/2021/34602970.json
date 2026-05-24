@@ -1,0 +1,14 @@
+{
+  "pmid": "34602970",
+  "title": "Sub-Optimality of the Early Visual System Explained Through Biologically Plausible Plasticity.",
+  "abstract": "The early visual cortex is the site of crucial pre-processing for more complex, biologically relevant computations that drive perception and, ultimately, behaviour. This pre-processing is often studied under the assumption that neural populations are optimised for the most efficient (in terms of energy, information, spikes, etc.) representation of natural statistics. Normative models such as Independent Component Analysis (ICA) and Sparse Coding (SC) consider the phenomenon as a generative, minimisation problem which they assume the early cortical populations have evolved to solve. However, measurements in monkey and cat suggest that receptive fields (RFs) in the primary visual cortex are often noisy, blobby, and symmetrical, making them sub-optimal for operations such as edge-detection. We propose that this suboptimality occurs because the RFs do not emerge through a global minimisation of generative error, but through locally operating biological mechanisms such as spike-timing dependent plasticity (STDP). Using a network endowed with an abstract, rank-based STDP rule, we show that the shape and orientation tuning of the converged units are remarkably close to single-cell measurements in the macaque primary visual cortex. We quantify this similarity using physiological parameters (frequency-normalised spread vectors), information theoretic measures [Kullback-Leibler (KL) divergence and Gini index], as well as simulations of a typical electrophysiology experiment designed to estimate orientation tuning curves. Taken together, our results suggest that compared to purely generative schemes, process-based biophysical models may offer a better description of the suboptimality observed in the early visual cortex.",
+  "authors": [
+    "Chauhan Tushar",
+    "Masquelier Timothée",
+    "Cottereau Benoit R"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2021",
+  "doi": "10.3389/fnins.2021.727448",
+  "mesh": []
+}

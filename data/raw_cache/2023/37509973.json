@@ -1,0 +1,13 @@
+{
+  "pmid": "37509973",
+  "title": "Discovering Low-Dimensional Descriptions of Multineuronal Dependencies.",
+  "abstract": "Coordinated activity in neural populations is crucial for information processing. Shedding light on the multivariate dependencies that shape multineuronal responses is important to understand neural codes. However, existing approaches based on pairwise linear correlations are inadequate at capturing complicated interaction patterns and miss features that shape aspects of the population function. Copula-based approaches address these shortcomings by extracting the dependence structures in the joint probability distribution of population responses. In this study, we aimed to dissect neural dependencies with a C-Vine copula approach coupled with normalizing flows for estimating copula densities. While this approach allows for more flexibility compared to fitting parametric copulas, drawing insights on the significance of these dependencies from large sets of copula densities is challenging. To alleviate this challenge, we used a weighted non-negative matrix factorization procedure to leverage shared latent features in neural population dependencies. We validated the method on simulated data and applied it on copulas we extracted from recordings of neurons in the mouse visual cortex as well as in the macaque motor cortex. Our findings reveal that neural dependencies occupy low-dimensional subspaces, but distinct modules are synergistically combined to give rise to diverse interaction patterns that may serve the population function.",
+  "authors": [
+    "Mitskopoulos Lazaros",
+    "Onken Arno"
+  ],
+  "journal": "Entropy (Basel, Switzerland)",
+  "year": "2023",
+  "doi": "10.3390/e25071026",
+  "mesh": []
+}

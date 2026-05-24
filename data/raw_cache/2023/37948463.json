@@ -1,0 +1,21 @@
+{
+  "pmid": "37948463",
+  "title": "Architecture of the brain's visual system enhances network stability and performance through layers, delays, and feedback.",
+  "abstract": "In the visual system of primates, image information propagates across successive cortical areas, and there is also local feedback within an area and long-range feedback across areas. Recent findings suggest that the resulting temporal dynamics of neural activity are crucial in several vision tasks. In contrast, artificial neural network models of vision are typically feedforward and do not capitalize on the benefits of temporal dynamics, partly due to concerns about stability and computational costs. In this study, we focus on recurrent networks with feedback connections for visual tasks with static input corresponding to a single fixation. We demonstrate mathematically that a network's dynamics can be stabilized by four key features of biological networks: layer-ordered structure, temporal delays between layers, longer distance feedback across layers, and nonlinear neuronal responses. Conversely, when feedback has a fixed distance, one can omit delays in feedforward connections to achieve more efficient artificial implementations. We also evaluated the effect of feedback connections on object detection and classification performance using standard benchmarks, specifically the COCO and CIFAR10 datasets. Our findings indicate that feedback connections improved the detection of small objects, and classification performance became more robust to noise. We found that performance increased with the temporal dynamics, not unlike what is observed in core vision of primates. These results suggest that delays and layered organization are crucial features for stability and performance in both biological and artificial recurrent neural networks.",
+  "authors": [
+    "Velarde Osvaldo Matias",
+    "Makse Hernán A",
+    "Parra Lucas C"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2023",
+  "doi": "10.1371/journal.pcbi.1011078",
+  "mesh": [
+    "Animals",
+    "Feedback",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Primates",
+    "Brain"
+  ]
+}

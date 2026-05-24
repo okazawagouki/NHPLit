@@ -1,0 +1,24 @@
+{
+  "pmid": "34665999",
+  "title": "High-order interactions explain the collective behavior of cortical populations in executive but not sensory areas.",
+  "abstract": "One influential view in neuroscience is that pairwise cell interactions explain the firing patterns of large populations. Despite its prevalence, this view originates from studies in the retina and visual cortex of anesthetized animals. Whether pairwise interactions predict the firing patterns of neurons across multiple brain areas in behaving animals remains unknown. Here, we performed multi-area electrical recordings to find that 2nd-order interactions explain a high fraction of entropy of the population response in macaque cortical areas V1 and V4. Surprisingly, despite the brain-state modulation of neuronal responses, the model based on pairwise interactions captured ∼90% of the spiking activity structure during wakefulness and sleep. However, regardless of brain state, pairwise interactions fail to explain experimentally observed entropy in neural populations from the prefrontal cortex. Thus, while simple pairwise interactions explain the collective behavior of visual cortical networks across brain states, explaining the population dynamics in downstream areas involves higher-order interactions.",
+  "authors": [
+    "Chelaru Mircea I",
+    "Eagleman Sarah",
+    "Andrei Ariana R",
+    "Milton Russell",
+    "Kharas Natasha",
+    "Dragoi Valentin"
+  ],
+  "journal": "Neuron",
+  "year": "2021",
+  "doi": "10.1016/j.neuron.2021.09.042",
+  "mesh": [
+    "Animals",
+    "Mass Gatherings",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Visual Cortex",
+    "Wakefulness"
+  ]
+}

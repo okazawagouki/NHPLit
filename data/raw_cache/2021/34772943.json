@@ -1,0 +1,32 @@
+{
+  "pmid": "34772943",
+  "title": "Entropy-based metrics for predicting choice behavior based on local response to reward.",
+  "abstract": "For decades, behavioral scientists have used the matching law to quantify how animals distribute their choices between multiple options in response to reinforcement they receive. More recently, many reinforcement learning (RL) models have been developed to explain choice by integrating reward feedback over time. Despite reasonable success of RL models in capturing choice on a trial-by-trial basis, these models cannot capture variability in matching behavior. To address this, we developed metrics based on information theory and applied them to choice data from dynamic learning tasks in mice and monkeys. We found that a single entropy-based metric can explain 50% and 41% of variance in matching in mice and monkeys, respectively. We then used limitations of existing RL models in capturing entropy-based metrics to construct more accurate models of choice. Together, our entropy-based metrics provide a model-free tool to predict adaptive choice behavior and reveal underlying neural mechanisms.",
+  "authors": [
+    "Trepka Ethan",
+    "Spitmaan Mehran",
+    "Bari Bilal A",
+    "Costa Vincent D",
+    "Cohen Jeremiah Y",
+    "Soltani Alireza"
+  ],
+  "journal": "Nature communications",
+  "year": "2021",
+  "doi": "10.1038/s41467-021-26784-w",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Choice Behavior",
+    "Decision Making",
+    "Entropy",
+    "Haplorhini",
+    "Learning",
+    "Macaca mulatta",
+    "Male",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Models, Neurological",
+    "Reinforcement, Psychology",
+    "Reward"
+  ]
+}

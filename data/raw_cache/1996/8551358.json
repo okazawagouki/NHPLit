@@ -1,0 +1,25 @@
+{
+  "pmid": "8551358",
+  "title": "Simultaneously recorded single units in the frontal cortex go through sequences of discrete and stable states in monkeys performing a delayed localization task.",
+  "abstract": "To test whether spiking activity of six to eight simultaneously recorded neurons in the frontal cortex of a monkey can be characterized by a sequence of discrete and stable states, neuronal activity is analyzed by a hidden Markov model (HMM). Using the HMM method, we are able to detect distinct states of neuronal activity within which firing rates are approximately stationary. Transitions between states, as expressed by concomitant changes in the firing rates of several units, occur quite abruptly. The significance and consistency of the states are confirmed by comparison with simulated data. The detected states are specific to a monkey's response in a delayed localization task, allowing correct prediction of the response in approximately 90% of the trials. Similar predictive power is achieved by a model based simply on the response histograms (PSTH) of the units. The two models reach this predictive ability with different time courses: the PSTH model gains predictive power with a higher rate in the first second of the delay, and the HMM gains predictive power with higher rate in the next 3 sec. In this later period, conventional methods such as the PSTH cannot detect any firing rate modulations, but the HMM successfully captures transitions between distinct states that are specific to the monkey's behavioral response and occur at highly variable times from trial to trial. Our results suggest that neuronal activity in this later period is described best as transitions among distinct states that may reflect discrete steps in the monkey's mental processes.",
+  "authors": [
+    "Seidemann E",
+    "Meilijson I",
+    "Abeles M",
+    "Bergman H",
+    "Vaadia E"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1996",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Female",
+    "Frontal Lobe",
+    "Macaca mulatta",
+    "Neurons",
+    "Task Performance and Analysis",
+    "Time Factors"
+  ]
+}

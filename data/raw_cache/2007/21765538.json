@@ -1,0 +1,14 @@
+{
+  "pmid": "21765538",
+  "title": "Statistical Signal Processing and the Motor Cortex.",
+  "abstract": "Over the past few decades, developments in technology have significantly improved the ability to measure activity in the brain. This has spurred a great deal of research into brain function and its relation to external stimuli, and has important implications in medicine and other fields. As a result of improved understanding of brain function, it is now possible to build devices that provide direct interfaces between the brain and the external world. We describe some of the current understanding of function of the motor cortex region. We then discuss a typical likelihood-based state-space model and filtering based approach to address the problems associated with building a motor cortical-controlled cursor or robotic prosthetic device. As a variation on previous work using this approach, we introduce the idea of using Markov chain Monte Carlo methods for parameter estimation in this context. By doing this instead of performing maximum likelihood estimation, it is possible to expand the range of possible models that can be explored, at a cost in terms of computational load. We demonstrate results obtained applying this methodology to experimental data gathered from a monkey.",
+  "authors": [
+    "Brockwell A E",
+    "Kass R E",
+    "Schwartz A B"
+  ],
+  "journal": "Proceedings of the IEEE. Institute of Electrical and Electronics Engineers",
+  "year": "2007",
+  "doi": "",
+  "mesh": []
+}

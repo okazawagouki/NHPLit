@@ -1,0 +1,28 @@
+{
+  "pmid": "28432139",
+  "title": "Feature-Selective Attention Adaptively Shifts Noise Correlations in Primary Auditory Cortex.",
+  "abstract": "Sensory environments often contain an overwhelming amount of information, with both relevant and irrelevant information competing for neural resources. Feature attention mediates this competition by selecting the sensory features needed to form a coherent percept. How attention affects the activity of populations of neurons to support this process is poorly understood because population coding is typically studied through simulations in which one sensory feature is encoded without competition. Therefore, to study the effects of feature attention on population-based neural coding, investigations must be extended to include stimuli with both relevant and irrelevant features. We measured noise correlations (<i>r</i><sub>noise</sub>) within small neural populations in primary auditory cortex while rhesus macaques performed a novel feature-selective attention task. We found that the effect of feature-selective attention on <i>r</i><sub>noise</sub> depended not only on the population tuning to the attended feature, but also on the tuning to the distractor feature. To attempt to explain how these observed effects might support enhanced perceptual performance, we propose an extension of a simple and influential model in which shifts in <i>r</i><sub>noise</sub> can simultaneously enhance the representation of the attended feature while suppressing the distractor. These findings present a novel mechanism by which attention modulates neural populations to support sensory processing in cluttered environments.<b>SIGNIFICANCE STATEMENT</b> Although feature-selective attention constitutes one of the building blocks of listening in natural environments, its neural bases remain obscure. To address this, we developed a novel auditory feature-selective attention task and measured noise correlations (<i>r</i><sub>noise</sub>) in rhesus macaque A1 during task performance. Unlike previous studies showing that the effect of attention on <i>r</i><sub>noise</sub> depends on population tuning to the attended feature, we show that the effect of attention depends on the tuning to the distractor feature as well. We suggest that these effects represent an efficient process by which sensory cortex simultaneously enhances relevant information and suppresses irrelevant information.",
+  "authors": [
+    "Downer Joshua D",
+    "Rapone Brittany",
+    "Verhein Jessica",
+    "O'Connor Kevin N",
+    "Sutter Mitchell L"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2017",
+  "doi": "10.1523/JNEUROSCI.3169-16.2017",
+  "mesh": [
+    "Adaptation, Physiological",
+    "Animals",
+    "Attention",
+    "Auditory Cortex",
+    "Auditory Perception",
+    "Evoked Potentials, Auditory",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Noise"
+  ]
+}

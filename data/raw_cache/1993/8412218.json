@@ -1,0 +1,22 @@
+{
+  "pmid": "8412218",
+  "title": "Calculation of movement direction from firing activities of neurons in intrinsic co-ordinate systems defined by their preferred directions.",
+  "abstract": "In this work we carried out computer simulations to compare different coding algorithms (the tensor network theoretical approach of Pellionisz & Llinas, 1979; and the weighted average population coding model of Georgopoulos et al., 1986) that were originally devised to recompute vectors of the external world from firing rate responses of neurons of the central nervous system. Georgopoulos and his colleagues (1986, 1988) observed, in electrophysiological experiments, that certain neurons of the primate motor cortex are selective to the direction of arm movement in a three-dimensional space (directional neurons). The discharge rate of a cell is highest with movement in a certain direction (the cell's \"preferred direction\") and decreases as a linear function of the cosine of the angle between the direction of movement and the cell's preferred direction. They calculated a population vector to predict the direction of arm movement from neuronal responses as a weighted linear combination of the preferred direction vectors using several sets of weighting coefficients. It was implicitly assumed in this approach that if the brain uses such coding, the calculations are carried out by a further layer of neurons. The tensor network theory also gives an algorithm to calculate an external vector in an intrinsic co-ordinate system whose basis vectors are distinguished vectors assigned to the individual neurons based on results of physiological observations. However, it goes beyond providing a simple mathematical formula to recompute an external vector (Pellionisz & Llinas, 1979). It is a promising theoretical solution for the problem faced by sensorimotor systems; how to transform information about the environment, measured by a diverse set of sensors, into appropriate responses executed by multiple muscles acting in concert. As the weighting coefficients used by Georgopoulos et al. in their calculations differed from those used by Pellionisz & Llinas, we show here how they are related. We compared the exactness and robustness of the two approaches in computer simulations assuming that the firing rate responses of individual neurons would change from trial to trial even when the movement direction is the same. We also allowed that different sets of preferred directions were used in different trials mimicking the case when different movement-related directional neurons would be active from trial to trial. In our computer simulations the outcome of the different algorithms were fairly similar. No experimental protocol can be devised in which the activity of all the possible active motor cortex neurons taking part in coding the direction of movement could be simultaneously monitored.(ABSTRACT TRUNCATED AT 400 WORDS)",
+  "authors": [
+    "Gaál G"
+  ],
+  "journal": "Journal of theoretical biology",
+  "year": "1993",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cell Movement",
+    "Computer Simulation",
+    "Humans",
+    "Mathematics",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Motor Neurons"
+  ]
+}

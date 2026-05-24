@@ -1,0 +1,32 @@
+{
+  "pmid": "24654266",
+  "title": "Intention estimation in brain-machine interfaces.",
+  "abstract": "OBJECTIVE: The objective of this work was to quantitatively investigate the mechanisms underlying the performance gains of the recently reported 'recalibrated feedback intention-trained Kalman Filter' (ReFIT-KF). APPROACH: This was accomplished by designing variants of the ReFIT-KF algorithm and evaluating training and online data to understand the neural basis of this improvement. We focused on assessing the contribution of two training set innovations of the ReFIT-KF algorithm: intention estimation and the two-stage training paradigm. MAIN RESULTS: Within the two-stage training paradigm, we found that intention estimation independently increased target acquisition rates by 37% and 59%, respectively, across two monkeys implanted with multiunit intracortical arrays. Intention estimation improved performance by enhancing the tuning properties and the mutual information between the kinematic and neural training data. Furthermore, intention estimation led to fewer shifts in channel tuning between the training set and online control, suggesting that less adaptation was required during online control. Retraining the decoder with online BMI training data also reduced shifts in tuning, suggesting a benefit of training a decoder in the same behavioral context; however, retraining also led to slower online decode velocities. Finally, we demonstrated that one- and two-stage training paradigms performed comparably when intention estimation is applied. SIGNIFICANCE: These findings highlight the utility of intention estimation in reducing the need for adaptive strategies and improving the online performance of BMIs, helping to guide future BMI design decisions.",
+  "authors": [
+    "Fan Joline M",
+    "Nuyujukian Paul",
+    "Kao Jonathan C",
+    "Chestek Cynthia A",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2014",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Artificial Intelligence",
+    "Biomechanical Phenomena",
+    "Brain-Computer Interfaces",
+    "Electronic Data Processing",
+    "Feedback, Physiological",
+    "Hand",
+    "Humans",
+    "Macaca mulatta",
+    "Neural Prostheses",
+    "Online Systems",
+    "Psychomotor Performance"
+  ]
+}

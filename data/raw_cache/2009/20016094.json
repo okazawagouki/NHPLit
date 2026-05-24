@@ -1,0 +1,23 @@
+{
+  "pmid": "20016094",
+  "title": "Cooperative and competitive interactions facilitate stereo computations in macaque primary visual cortex.",
+  "abstract": "Inferring depth from binocular disparities is a difficult problem for the visual system because local features in the left- and right-eye images must be matched correctly to solve this \"stereo correspondence problem.\" Cortical architecture and computational studies suggest that lateral interactions among neurons could help resolve local uncertainty about disparity encoded in individual neurons by incorporating contextual constraints. We found that correlated activity among pairs of neurons in primary visual cortex depended both on disparity-tuning relationships and the stimuli displayed within the receptive fields of the neurons. Nearby pairs of neurons with distinct disparity tuning exhibited a decrease in spike correlation at competing disparities soon after response onset. Distant neuronal pairs of similar disparity tuning exhibited an increase in spike correlation at mutually preferred disparities. The observed correlated activity and response dynamics suggests that local competitive and distant cooperative interactions improve disparity tuning of individual neurons over time. Such interactions could represent a neural substrate for the principal constraints underlying cooperative stereo algorithms.",
+  "authors": [
+    "Samonds Jason M",
+    "Potetz Brian R",
+    "Lee Tai Sing"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2009",
+  "doi": "10.1523/JNEUROSCI.2305-09.2009",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Macaca mulatta",
+    "Motion Perception",
+    "Photic Stimulation",
+    "Vision Disparity",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

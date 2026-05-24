@@ -1,0 +1,26 @@
+{
+  "pmid": "26856637",
+  "title": "Testing the assumptions underlying fMRI adaptation using intracortical recordings in area MT.",
+  "abstract": "We investigated how neural activity in the middle temporal area of the macaque monkey changes after 3 sec of exposure to a visual stimulus and used this to gain insight into the assumptions underlying the fMRI adaptation method (fMRIa). We studied both changes in tuning curves following weak and strong motion stimuli (adaptation) and the differences between a first and second exposure to the same stimulus (repetition suppression). Typically, tuning curves had smaller amplitudes and narrower tuning widths after strong adaptation; this was true for single neurons, multi-unit activity (MUA), the evoked local field potential (LFP), as well as gamma band activity. Repetition typically led to reduced responses. This reduction was correlated with direction selectivity and not explained by neural fatigue. Our data, however, warn against a simplistic view of the consequences of adaptation. First, a considerable fraction of neurons and sites showed response enhancements after adaptation, especially when probed with a stimulus that moved opposite to the direction of the adapting stimulus. Second, adaptation was stimulus selective only on a time scale of ∼100 msec. Third, aggregate measures of neural activity (MUA, LFPs) had substantially different adaptation effects. Fourth, there were qualitative differences between our findings in MT and earlier findings in IT cortex. We conclude that selective adaptation effects in fMRIa are relatively easy to miss even when they exist (for instance by presenting stimuli for too long, or because neurons that enhance after adaptation cancel out the effect of neurons that suppress). Moreover, we argue that adaptation should be understood in the context of the computations that a neural circuit perform. Using fMRIa as a tool to uncover neural selectivity requires a better understanding of this circuitry and its consequences for adaptation.",
+  "authors": [
+    "Kar Kohitij",
+    "Krekelberg Bart"
+  ],
+  "journal": "Cortex; a journal devoted to the study of the nervous system and behavior",
+  "year": "2016",
+  "doi": "10.1016/j.cortex.2015.12.011",
+  "mesh": [
+    "Action Potentials",
+    "Adaptation, Physiological",
+    "Animals",
+    "Evoked Potentials, Visual",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

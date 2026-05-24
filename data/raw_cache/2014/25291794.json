@@ -1,0 +1,23 @@
+{
+  "pmid": "25291794",
+  "title": "Multifeature-based surround inhibition improves contour detection in natural images.",
+  "abstract": "To effectively perform visual tasks like detecting contours, the visual system normally needs to integrate multiple visual features. Sufficient physiological studies have revealed that for a large number of neurons in the primary visual cortex (V1) of monkeys and cats, neuronal responses elicited by the stimuli placed within the classical receptive field (CRF) are substantially modulated, normally inhibited, when difference exists between the CRF and its surround, namely, non-CRF, for various local features. The exquisite sensitivity of V1 neurons to the center-surround stimulus configuration is thought to serve important perceptual functions, including contour detection. In this paper, we propose a biologically motivated model to improve the performance of perceptually salient contour detection. The main contribution is the multifeature-based center-surround framework, in which the surround inhibition weights of individual features, including orientation, luminance, and luminance contrast, are combined according to a scale-guided strategy, and the combined weights are then used to modulate the final surround inhibition of the neurons. The performance was compared with that of single-cue-based models and other existing methods (especially other biologically motivated ones). The results show that combining multiple cues can substantially improve the performance of contour detection compared with the models using single cue. In general, luminance and luminance contrast contribute much more than orientation to the specific task of contour extraction, at least in gray-scale natural images.",
+  "authors": [
+    "Yang Kai-Fu",
+    "Li Chao-Yi",
+    "Li Yong-Jie"
+  ],
+  "journal": "IEEE transactions on image processing : a publication of the IEEE Signal Processing Society",
+  "year": "2014",
+  "doi": "10.1109/TIP.2014.2361210",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Animals, Wild",
+    "Databases, Factual",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Models, Neurological",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "42161936",
+  "title": "A robotic patch-clamp system with real-time localization and phase-synchronized capture of dynamic in vivo cells using micropipette resistance modelling.",
+  "abstract": "In vivo patch clamp is the gold standard for probing neuronal function in the intact brain of living animals through recordings of membrane potentials and picoampere-level ionic currents. To achieve this, the recording micropipette must first capture a target neuron and form a gigaohm-scale seal (gigaseal) at the cell membrane. This requires real-time localization of in vivo neurons whose positions fluctuate with physiological activity (e.g., respiration and vascular pulsation). Although two-photon microscopy enables cellular visualization, real-time motion tracking is constrained by the trade-off between imaging depth and temporal resolution, compromising capture success for moving cells. Here, we present a real-time localization method that enables vision-independent tracking of single-cell motion using micropipette resistance modeling. To denoise resistance signals, we develop a Multiple-Dominant-Frequency Weighted-Frequency Fourier Linear Combiner-Kalman Filter, enabling the tracking of neuronal motion with an average estimation error below 0.5 μm. We further introduce a phase-synchronized capture strategy that advances the micropipette to capture the in vivo cell at the farthest position in its motion cycle, thereby facilitating gigaseal formation. Based on the above work, we establish a robotic in vivo patch-clamp system that achieves an 81.8% gigaseal success rate in anesthetized mice, exceeding previously reported rates (~51% and ~24%) for robotic blind patch-clamp systems. We additionally obtain in vivo patch-clamp recordings in anesthetized rats and in both anesthetized and awake marmosets, representing the first demonstration of robotic in vivo patch-clamp recordings in awake marmosets and highlighting the robustness of our system across species and brain states.",
+  "authors": [
+    "Li Ruimin",
+    "Chen Hao",
+    "Hu Bo",
+    "Qiu Jinyu",
+    "Liu Yuzhu",
+    "Guo Zijian",
+    "Wu Shouguo",
+    "Liu Mengya",
+    "Ding Ran",
+    "Ding Shengkai",
+    "Li Yuanyuan",
+    "Pang Xiaogang",
+    "Shen Hui",
+    "Zhao Qili",
+    "Zhao Xin"
+  ],
+  "journal": "Microsystems & nanoengineering",
+  "year": "2026",
+  "doi": "10.1038/s41378-026-01325-x",
+  "mesh": []
+}

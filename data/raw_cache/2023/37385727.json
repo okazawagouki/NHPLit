@@ -1,0 +1,27 @@
+{
+  "pmid": "37385727",
+  "title": "Stable Neural Population Dynamics in the Regression Subspace for Continuous and Categorical Task Parameters in Monkeys.",
+  "abstract": "Neural population dynamics provide a key computational framework for understanding information processing in the sensory, cognitive, and motor functions of the brain. They systematically depict complex neural population activity, dominated by strong temporal dynamics as trajectory geometry in a low-dimensional neural space. However, neural population dynamics are poorly related to the conventional analytical framework of single-neuron activity, the rate-coding regime that analyzes firing rate modulations using task parameters. To link the rate-coding and dynamic models, we developed a variant of state-space analysis in the regression subspace, which describes the temporal structures of neural modulations using continuous and categorical task parameters. In macaque monkeys, using two neural population datasets containing either of two standard task parameters, continuous and categorical, we revealed that neural modulation structures are reliably captured by these task parameters in the regression subspace as trajectory geometry in a lower dimension. Furthermore, we combined the classical optimal-stimulus response analysis (usually used in rate-coding analysis) with the dynamic model and found that the most prominent modulation dynamics in the lower dimension were derived from these optimal responses. Using those analyses, we successfully extracted geometries for both task parameters that formed a straight geometry, suggesting that their functional relevance is characterized as a unidimensional feature in their neural modulation dynamics. Collectively, our approach bridges neural modulation in the rate-coding model and the dynamic system, and provides researchers with a significant advantage in exploring the temporal structure of neural modulations for pre-existing datasets.",
+  "authors": [
+    "Chen He",
+    "Kunimatsu Jun",
+    "Oya Tomomichi",
+    "Imaizumi Yuri",
+    "Hori Yukiko",
+    "Matsumoto Masayuki",
+    "Minamimoto Takafumi",
+    "Naya Yuji",
+    "Yamada Hiroshi"
+  ],
+  "journal": "eNeuro",
+  "year": "2023",
+  "doi": "10.1523/ENEURO.0016-23.2023",
+  "mesh": [
+    "Animals",
+    "Neurons",
+    "Brain",
+    "Macaca",
+    "Cognition",
+    "Population Dynamics"
+  ]
+}

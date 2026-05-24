@@ -1,0 +1,28 @@
+{
+  "pmid": "28648720",
+  "title": "An engineered home environment for untethered data telemetry from nonhuman primates.",
+  "abstract": "BACKGROUND: Wireless neural recording technologies now provide untethered access to large populations of neurons in the nonhuman primate brain. Such technologies enable long-term, continuous interrogation of neural circuits and importantly open the door for chronic neurorehabilitation platforms. For example, by providing continuous consistent closed loop feedback from a brain machine interface, the nervous system can leverage plasticity to integrate more effectively into the system than would be possible in short experimental sessions. However, to fully realize this opportunity necessitates the development of experimental environments that do not hinder wireless data transmission. Traditional nonhuman primate metal cage construction, while durable and standardized around the world, prevents data transmission at the frequencies necessary for high-bandwidth data transfer. NEW METHOD: To overcome this limitation, we have engineered and constructed a radio-frequency transparent home environment for nonhuman primates using primarily non-conductive materials. RESULTS: Computational modeling and empirical testing were performed to demonstrate the behavior of transmitted signals passing through the enclosure. In addition, neural data were successfully recorded from a freely behaving nonhuman primate inside the housing system. COMPARISON WITH EXISTING METHODS: Our design outperforms standard metallic home cages by allowing radiation to transmit beyond its boundaries, without significant interference, while simultaneously maintaining the mechanical and operational integrity of existing commercial home cages. CONCLUSIONS: Continuous access to neural signals in combination with other bio-potential and kinematic sensors will empower new insights into unrestrained behavior, aid the development of advanced neural prostheses, and enable neurorehabilitation strategies to be employed outside traditional environments.",
+  "authors": [
+    "Powell Marc P",
+    "Britz William R",
+    "Harper James S",
+    "Borton David A"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2017",
+  "doi": "10.1016/j.jneumeth.2017.06.013",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Computer Simulation",
+    "Electrodes, Implanted",
+    "Environment Design",
+    "Equipment Design",
+    "Neural Prostheses",
+    "Neurons",
+    "Primates",
+    "Signal Processing, Computer-Assisted",
+    "Telemetry",
+    "Wireless Technology"
+  ]
+}

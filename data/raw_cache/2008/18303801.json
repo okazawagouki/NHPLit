@@ -1,0 +1,35 @@
+{
+  "pmid": "18303801",
+  "title": "Decoding individuated finger movements using volume-constrained neuronal ensembles in the M1 hand area.",
+  "abstract": "Individuated finger and wrist movements can be decoded using random subpopulations of neurons that are widely distributed in the primary motor (M1) hand area. This work investigates 1) whether it is possible to decode dexterous finger movements using spatially-constrained volumes of neurons as typically recorded from a microelectrode array; and 2) whether decoding accuracy differs due to the configuration or location of the array within the M1 hand area. Single-unit activities were sequentially recorded from task-related neurons in two rhesus monkeys as they performed individuated movements of the fingers and the wrist. Simultaneous neuronal ensembles were simulated by constraining these activities to the recording field dimensions of conventional microelectrode array architectures. Artificial neural network (ANN) based filters were able to decode individuated finger movements with greater than 90% accuracy for the majority of movement types, using as few as 20 neurons from these ensemble activities. Furthermore, for the large majority of cases there were no significant differences (p < 0.01) in decoding accuracy as a function of the location of the recording volume. The results suggest that a brain-machine interface (BMI) for dexterous control of individuated fingers and the wrist can be implemented using microelectrode arrays placed broadly in the M1 hand area.",
+  "authors": [
+    "Acharya Soumyadipta",
+    "Tenore Francesco",
+    "Aggarwal Vikram",
+    "Etienne-Cummings Ralph",
+    "Schieber Marc H",
+    "Thakor Nitish V"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2008",
+  "doi": "10.1109/TNSRE.2007.916269",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Conditioning, Operant",
+    "Efferent Pathways",
+    "Fingers",
+    "Hand",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Models, Statistical",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Movement",
+    "Nonlinear Dynamics",
+    "Prosthesis Design",
+    "Wrist"
+  ]
+}

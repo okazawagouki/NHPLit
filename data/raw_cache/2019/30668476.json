@@ -1,0 +1,22 @@
+{
+  "pmid": "30668476",
+  "title": "Neural Decoding for Macaque's Finger Position: Convolutional Space Model.",
+  "abstract": "In this paper, we study how to use the number of spike signals in a macaque's motor cortex to estimate the position of its finger movement. First, we analyze the time correlation of a traditional state space model (SSM) and derive a convolutional space model (CSM) to decode the movement position of the macaque finger. Compared with the traditional model, the model can correlate the current moment state with the previous moment. In addition, we have improved the original SSM model using the CSM model. In its observation equation, the number of spike signals at one is expanded to the number of spike signals at multiple previous moments. In this way, the current time state in the improved model can be related to the number of spike signals at a plurality of previous times. In the experiment, a group of public data are used to validate the decoding performance of the model, and a least squares, a batch recursive least squares, and a gradient descent algorithms are used to train the model. The experimental results show that the decoding error of the CSM model and the improved SSM model is smaller than that of the traditional model, and thus, they have a better decoding accuracy. The results show that the CSM model has improved about 11.7% in x -axis decoding error performance than the traditional models.",
+  "authors": [
+    "Wu Haifeng",
+    "Feng Jingyi",
+    "Zeng Yu"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2019",
+  "doi": "10.1109/TNSRE.2019.2893406",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Fingers",
+    "Least-Squares Analysis",
+    "Macaca",
+    "Models, Neurological",
+    "Motor Cortex"
+  ]
+}

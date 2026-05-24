@@ -1,0 +1,25 @@
+{
+  "pmid": "36126660",
+  "title": "A deep neural network model of the primate superior colliculus for emotion recognition.",
+  "abstract": "Although sensory processing is pivotal to nearly every theory of emotion, the evaluation of the visual input as 'emotional' (e.g. a smile as signalling happiness) has been traditionally assumed to take place in supramodal 'limbic' brain regions. Accordingly, subcortical structures of ancient evolutionary origin that receive direct input from the retina, such as the superior colliculus (SC), are traditionally conceptualized as passive relay centres. However, mounting evidence suggests that the SC is endowed with the necessary infrastructure and computational capabilities for the innate recognition and initial categorization of emotionally salient features from retinal information. Here, we built a neurobiologically inspired convolutional deep neural network (DNN) model that approximates physiological, anatomical and connectional properties of the retino-collicular circuit. This enabled us to characterize and isolate the initial computations and discriminations that the DNN model of the SC can perform on facial expressions, based uniquely on the information it directly receives from the virtual retina. Trained to discriminate facial expressions of basic emotions, our model matches human error patterns and above chance, yet suboptimal, classification accuracy analogous to that reported in patients with V1 damage, who rely on retino-collicular pathways for non-conscious vision of emotional attributes. When presented with gratings of different spatial frequencies and orientations never 'seen' before, the SC model exhibits spontaneous tuning to low spatial frequencies and reduced orientation discrimination, as can be expected from the prevalence of the magnocellular (M) over parvocellular (P) projections. Likewise, face manipulation that biases processing towards the M or P pathway affects expression recognition in the SC model accordingly, an effect that dovetails with variations of activity in the human SC purposely measured with ultra-high field functional magnetic resonance imaging. Lastly, the DNN generates saliency maps and extracts visual features, demonstrating that certain face parts, like the mouth or the eyes, provide higher discriminative information than other parts as a function of emotional expressions like happiness and sadness. The present findings support the contention that the SC possesses the necessary infrastructure to analyse the visual features that define facial emotional stimuli also without additional processing stages in the visual cortex or in 'limbic' areas. This article is part of the theme issue 'Cracking the laugh code: laughter through the lens of biology, psychology and neuroscience'.",
+  "authors": [
+    "Méndez Carlos Andrés",
+    "Celeghin Alessia",
+    "Diano Matteo",
+    "Orsenigo Davide",
+    "Ocak Brian",
+    "Tamietto Marco"
+  ],
+  "journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+  "year": "2022",
+  "doi": "10.1098/rstb.2021.0512",
+  "mesh": [
+    "Animals",
+    "Emotions",
+    "Humans",
+    "Neural Networks, Computer",
+    "Primates",
+    "Retina",
+    "Superior Colliculi"
+  ]
+}

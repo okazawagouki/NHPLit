@@ -1,0 +1,36 @@
+{
+  "pmid": "41615801",
+  "title": "Leveraging current steering and the biophysics of spike generation for cellular-resolution electrical stimulation of neurons.",
+  "abstract": "Electrical stimulation at cellular resolution to restore the function of neural circuits is limited by the density of available electrode arrays. Although current steering with multi-electrode stimulation can be used to target cells between electrodes, it has not been proven for systematically targeting individual cells. We develop a framework for cellular-resolution current steering, leveraging the biophysics of electrically evoked spike generation, and test its efficacy in isolated macaque and human retina. Currents were passed through three electrodes simultaneously using large-scale high-density microelectrode arrays, directly evoking single spikes in retinal ganglion cells. The currents combined either linearly or nonlinearly to drive spiking, depending on the geometry of the electrodes relative to the cell. These findings were captured by a biophysical model and by a simpler parametric model in which spikes can initiate at several sites on the cell membrane and were leveraged to efficiently identify multi-electrode stimulation patterns that optimized cellular selectivity.",
+  "authors": [
+    "Vasireddy Praful K",
+    "Vilkhu Ramandeep S",
+    "Lotlikar Amrith",
+    "Brown Jeff B",
+    "Phillips A J",
+    "Gogliettino Alex R",
+    "Hays Madeline R",
+    "Baum Claire",
+    "Kato Ethan J",
+    "Sharon Aviv",
+    "Hottowy Pawel",
+    "Sher Alexander",
+    "Litke Alan M",
+    "Mitra Subhasish",
+    "Shah Nishal P",
+    "Chichilnisky E J"
+  ],
+  "journal": "Cell reports",
+  "year": "2026",
+  "doi": "10.1016/j.celrep.2025.116917",
+  "mesh": [
+    "Animals",
+    "Electric Stimulation",
+    "Humans",
+    "Retinal Ganglion Cells",
+    "Action Potentials",
+    "Neurons",
+    "Microelectrodes",
+    "Biophysics"
+  ]
+}

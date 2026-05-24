@@ -1,0 +1,21 @@
+{
+  "pmid": "38101329",
+  "title": "Efficient Decoding of Large-Scale Neural Population Responses With Gaussian-Process Multiclass Regression.",
+  "abstract": "Neural decoding methods provide a powerful tool for quantifying the information content of neural population codes and the limits imposed by correlations in neural activity. However, standard decoding methods are prone to overfitting and scale poorly to high-dimensional settings. Here, we introduce a novel decoding method to overcome these limitations. Our approach, the gaussian process multiclass decoder (GPMD), is well suited to decoding a continuous low-dimensional variable from high-dimensional population activity and provides a platform for assessing the importance of correlations in neural population codes. The GPMD is a multinomial logistic regression model with a gaussian process prior over the decoding weights. The prior includes hyperparameters that govern the smoothness of each neuron's decoding weights, allowing automatic pruning of uninformative neurons during inference. We provide a variational inference method for fitting the GPMD to data, which scales to hundreds or thousands of neurons and performs well even in data sets with more neurons than trials. We apply the GPMD to recordings from primary visual cortex in three species: monkey, ferret, and mouse. Our decoder achieves state-of-the-art accuracy on all three data sets and substantially outperforms independent Bayesian decoding, showing that knowledge of the correlation structure is essential for optimal decoding in all three species.",
+  "authors": [
+    "Greenidge C Daniel",
+    "Scholl Benjamin",
+    "Yates Jacob L",
+    "Pillow Jonathan W"
+  ],
+  "journal": "Neural computation",
+  "year": "2024",
+  "doi": "10.1162/neco_a_01630",
+  "mesh": [
+    "Animals",
+    "Mice",
+    "Bayes Theorem",
+    "Ferrets",
+    "Neurons"
+  ]
+}

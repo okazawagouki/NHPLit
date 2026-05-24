@@ -1,0 +1,24 @@
+{
+  "pmid": "16306413",
+  "title": "Prediction and decoding of retinal ganglion cell responses with a probabilistic spiking model.",
+  "abstract": "Sensory encoding in spiking neurons depends on both the integration of sensory inputs and the intrinsic dynamics and variability of spike generation. We show that the stimulus selectivity, reliability, and timing precision of primate retinal ganglion cell (RGC) light responses can be reproduced accurately with a simple model consisting of a leaky integrate-and-fire spike generator driven by a linearly filtered stimulus, a postspike current, and a Gaussian noise current. We fit model parameters for individual RGCs by maximizing the likelihood of observed spike responses to a stochastic visual stimulus. Although compact, the fitted model predicts the detailed time structure of responses to novel stimuli, accurately capturing the interaction between the spiking history and sensory stimulus selectivity. The model also accounts for the variability in responses to repeated stimuli, even when fit to data from a single (nonrepeating) stimulus sequence. Finally, the model can be used to derive an explicit, maximum-likelihood decoding rule for neural spike trains, thus providing a tool for assessing the limitations that spiking variability imposes on sensory performance.",
+  "authors": [
+    "Pillow Jonathan W",
+    "Paninski Liam",
+    "Uzzell Valerie J",
+    "Simoncelli Eero P",
+    "Chichilnisky E J"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Macaca",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Photic Stimulation",
+    "Retinal Ganglion Cells"
+  ]
+}

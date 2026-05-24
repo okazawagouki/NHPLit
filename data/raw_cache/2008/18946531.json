@@ -1,0 +1,14 @@
+{
+  "pmid": "18946531",
+  "title": "Modulating the granularity of category formation by global cortical States.",
+  "abstract": "The unsupervised categorization of sensory stimuli is typically attributed to feedforward processing in a hierarchy of cortical areas. This purely sensory-driven view of cortical processing, however, ignores any internal modulation, e.g., by top-down attentional signals or neuromodulator release. To isolate the role of internal signaling on category formation, we consider an unbroken continuum of stimuli without intrinsic category boundaries. We show that a competitive network, shaped by recurrent inhibition and endowed with Hebbian and homeostatic synaptic plasticity, can enforce stimulus categorization. The degree of competition is internally controlled by the neuronal gain and the strength of inhibition. Strong competition leads to the formation of many attracting network states, each being evoked by a distinct subset of stimuli and representing a category. Weak competition allows more neurons to be co-active, resulting in fewer but larger categories. We conclude that the granularity of cortical category formation, i.e., the number and size of emerging categories, is not simply determined by the richness of the stimulus environment, but rather by some global internal signal modulating the network dynamics. The model also explains the salient non-additivity of visual object representation observed in the monkey inferotemporal (IT) cortex. Furthermore, it offers an explanation of a previously observed, demand-dependent modulation of IT activity on a stimulus categorization task and of categorization-related cognitive deficits in schizophrenic patients.",
+  "authors": [
+    "Kim Yihwa",
+    "Vladimirskiy Boris B",
+    "Senn Walter"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2008",
+  "doi": "10.3389/neuro.10.001.2008",
+  "mesh": []
+}

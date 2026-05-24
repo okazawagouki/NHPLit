@@ -1,0 +1,27 @@
+{
+  "pmid": "36971419",
+  "title": "Mechanisms regulating the properties of inhibition-based gamma oscillations in primate prefrontal and parietal cortices.",
+  "abstract": "In primates, the dorsolateral prefrontal (DLPFC) and posterior parietal (PPC) cortices are key nodes in the working memory network. The working memory-related gamma oscillations induced in these areas, predominantly in layer 3, exhibit higher frequency in DLPFC. Although these regional differences in oscillation frequency are likely essential for information transfer between DLPFC and PPC, the mechanisms underlying these differences remain poorly understood. We investigated, in rhesus monkey, the DLPFC and PPC layer 3 pyramidal neuron (L3PN) properties that might regulate oscillation frequency and assessed the effects of these properties simulating oscillations in computational models. We found that GABAAR-mediated synaptic inhibition synchronizes L3PNs in both areas, but analysis of GABAAR mRNA levels and inhibitory synaptic currents suggested similar mechanisms of inhibition-mediated synchrony in DLPFC and PPC. Basal dendrite spine density and AMPAR/NMDAR mRNA levels were higher in DLPFC L3PNs, whereas excitatory synaptic currents were similar between areas. Therefore, synaptically evoked excitation might be stronger in DLPFC L3PNs due to a greater quantity of synapses in basal dendrites, a main target of recurrent excitation. Simulations in computational networks showed that oscillation frequency and power increased with increasing recurrent excitation, suggesting a mechanism by which the DLPFC-PPC differences in oscillation properties are generated.",
+  "authors": [
+    "Gonzalez-Burgos Guillermo",
+    "Miyamae Takeaki",
+    "Reddy Nita",
+    "Dawkins Sidney",
+    "Chen Chloe",
+    "Hill Avyi",
+    "Enwright John",
+    "Ermentrout Bard",
+    "Lewis David A"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2023",
+  "doi": "10.1093/cercor/bhad077",
+  "mesh": [
+    "Animals",
+    "Receptors, GABA-A",
+    "Prefrontal Cortex",
+    "Pyramidal Cells",
+    "Parietal Lobe",
+    "Primates"
+  ]
+}

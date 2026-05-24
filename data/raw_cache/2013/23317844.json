@@ -1,0 +1,24 @@
+{
+  "pmid": "23317844",
+  "title": "Medial prefrontal cortex and the adaptive regulation of reinforcement learning parameters.",
+  "abstract": "Converging evidence suggest that the medial prefrontal cortex (MPFC) is involved in feedback categorization, performance monitoring, and task monitoring, and may contribute to the online regulation of reinforcement learning (RL) parameters that would affect decision-making processes in the lateral prefrontal cortex (LPFC). Previous neurophysiological experiments have shown MPFC activities encoding error likelihood, uncertainty, reward volatility, as well as neural responses categorizing different types of feedback, for instance, distinguishing between choice errors and execution errors. Rushworth and colleagues have proposed that the involvement of MPFC in tracking the volatility of the task could contribute to the regulation of one of RL parameters called the learning rate. We extend this hypothesis by proposing that MPFC could contribute to the regulation of other RL parameters such as the exploration rate and default action values in case of task shifts. Here, we analyze the sensitivity to RL parameters of behavioral performance in two monkey decision-making tasks, one with a deterministic reward schedule and the other with a stochastic one. We show that there exist optimal parameter values specific to each of these tasks, that need to be found for optimal performance and that are usually hand-tuned in computational models. In contrast, automatic online regulation of these parameters using some heuristics can help producing a good, although non-optimal, behavioral performance in each task. We finally describe our computational model of MPFC-LPFC interaction used for online regulation of the exploration rate and its application to a human-robot interaction scenario. There, unexpected uncertainties are produced by the human introducing cued task changes or by cheating. The model enables the robot to autonomously learn to reset exploration in response to such uncertain cues and events. The combined results provide concrete evidence specifying how prefrontal cortical subregions may cooperate to regulate RL parameters. It also shows how such neurophysiologically inspired mechanisms can control advanced robots in the real world. Finally, the model's learning mechanisms that were challenged in the last robotic scenario provide testable predictions on the way monkeys may learn the structure of the task during the pretraining phase of the previous laboratory experiments.",
+  "authors": [
+    "Khamassi Mehdi",
+    "Enel Pierre",
+    "Dominey Peter Ford",
+    "Procyk Emmanuel"
+  ],
+  "journal": "Progress in brain research",
+  "year": "2013",
+  "doi": "10.1016/B978-0-444-62604-2.00022-8",
+  "mesh": [
+    "Adaptation, Physiological",
+    "Computer Simulation",
+    "Humans",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Prefrontal Cortex",
+    "Probability",
+    "Reinforcement, Psychology"
+  ]
+}

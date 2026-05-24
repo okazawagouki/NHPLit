@@ -1,0 +1,24 @@
+{
+  "pmid": "20635129",
+  "title": "Information-geometric measure of 3-neuron firing patterns characterizes scale-dependence in cortical networks.",
+  "abstract": "To understand the functional connectivity of neural networks, it is important to develop simple and incisive descriptors of multineuronal firing patterns. Analysis at the pairwise level has proven to be a powerful approach in the retina, but it may not suffice to understand complex cortical networks. Here we address the problem of describing interactions among triplets of neurons. We consider two approaches: an information-geometric measure (Amari 2001), which we call the \"strain,\" and the Kullback-Leibler divergence. While both approaches can be used to assess whether firing patterns differ from those predicted by a pairwise maximum-entropy model, the strain provides additional information. Specifically, when the observed firing patterns differ from those predicted by a pairwise model, the strain indicates the nature of this difference--whether there is an excess or a deficit of synchrony--while the Kullback-Leibler divergence only indicates the magnitude of the difference. We show that the strain has technical advantages, including ease of calculation of confidence bounds and bias, and robustness to the kinds of spike-sorting errors associated with tetrode recordings. We demonstrate the biological importance of these points via an analysis of multineuronal firing patterns in primary visual cortex. There is a striking scale-dependent behavior of triplet firing patterns: deviations from the pairwise model are substantial when the neurons are within 300 microns of each other, and negligible when they are at a distance of >600 microns. The strain identifies a consistent pattern to these interactions: when triplet interactions are present, the strain is nearly always negative, indicating that there is less synchrony than would be expected from the pairwise interactions alone.",
+  "authors": [
+    "Ohiorhenuan Ifije E",
+    "Victor Jonathan D"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2011",
+  "doi": "10.1007/s10827-010-0257-0",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cerebral Cortex",
+    "Information Theory",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Orientation",
+    "Photic Stimulation"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmid": "2092059",
+  "title": "On the dynamics of triadic synaptic arrangements: computer experiments with formal neural nets of chaotic units.",
+  "abstract": "Computer simulations were carried out in an attempt to understand the possible operating modes of synaptic triadic arrangements as described in the dorsal lateral geniculate nucleus of the monkey. Small networks of \"chaotic\" units (piecewise linear internal maps) were used to investigate their performance as ON-gates for the transmission of spikes. \"Chaotic\" units have advantages over \"logic\" units because the former are asynchronous, it is possible to simulate temporal summation, and also to adjust subthreshold time-constants. It was demonstrated that ensembles with single delay lines, representing \"closely-packed\" triads, were hardly capable of realizing reliable and efficient ON-gate operations. Networks with multiple delayed lines, patterned after triads \"at a distance\" coupled with \"closely-packed\" triads, were capable of secure ON-gate functions. Such gates were input dependent, becoming reliable only when high frequency bursts were used as the source of activity. Moreover, the ON-gate could be temporarily interrupted by square wave bursts applied to the inhibitory units, a situation resembling electron microscopic observations of interneuron to interneuron synapses in the LGNd.",
+  "authors": [
+    "Lábos E",
+    "Pasik P",
+    "Hámori J",
+    "Nogradi E"
+  ],
+  "journal": "Journal fur Hirnforschung",
+  "year": "1990",
+  "doi": "",
+  "mesh": [
+    "Computer Simulation",
+    "Dendrites",
+    "Microscopy, Electron",
+    "Models, Biological",
+    "Neurons",
+    "Synapses"
+  ]
+}

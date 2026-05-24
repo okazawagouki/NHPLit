@@ -1,0 +1,21 @@
+{
+  "pmid": "33651793",
+  "title": "Using deep neural networks to evaluate object vision tasks in rats.",
+  "abstract": "In the last two decades rodents have been on the rise as a dominant model for visual neuroscience. This is particularly true for earlier levels of information processing, but a number of studies have suggested that also higher levels of processing such as invariant object recognition occur in rodents. Here we provide a quantitative and comprehensive assessment of this claim by comparing a wide range of rodent behavioral and neural data with convolutional deep neural networks. These networks have been shown to capture hallmark properties of information processing in primates through a succession of convolutional and fully connected layers. We find that performance on rodent object vision tasks can be captured using low to mid-level convolutional layers only, without any convincing evidence for the need of higher layers known to simulate complex object recognition in primates. Our approach also reveals surprising insights on assumptions made before, for example, that the best performing animals would be the ones using the most abstract representations-which we show to likely be incorrect. Our findings suggest a road ahead for further studies aiming at quantifying and establishing the richness of representations underlying information processing in animal models at large.",
+  "authors": [
+    "Vinken Kasper",
+    "Op de Beeck Hans"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2021",
+  "doi": "10.1371/journal.pcbi.1008714",
+  "mesh": [
+    "Animals",
+    "Computational Biology",
+    "Deep Learning",
+    "Models, Neurological",
+    "Photic Stimulation",
+    "Rats",
+    "Visual Perception"
+  ]
+}

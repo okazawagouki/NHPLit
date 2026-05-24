@@ -1,0 +1,25 @@
+{
+  "pmid": "11856626",
+  "title": "Trial-to-trial variability of cortical evoked responses: implications for the analysis of functional connectivity.",
+  "abstract": "OBJECTIVES: The time series of single trial cortical evoked potentials typically have a random appearance, and their trial-to-trial variability is commonly explained by a model in which random ongoing background noise activity is linearly combined with a stereotyped evoked response. In this paper, we demonstrate that more realistic models, incorporating amplitude and latency variability of the evoked response itself, can explain statistical properties of cortical potentials that have often been attributed to stimulus-related changes in functional connectivity or other intrinsic neural parameters. METHODS: Implications of trial-to-trial evoked potential variability for variance, power spectrum, and interdependence measures like cross-correlation and spectral coherence, are first derived analytically. These implications are then illustrated using model simulations and verified experimentally by the analysis of intracortical local field potentials recorded from monkeys performing a visual pattern discrimination task. To further investigate the effects of trial-to-trial variability on the aforementioned statistical measures, a Bayesian inference technique is used to separate single-trial evoked responses from the ongoing background activity. RESULTS: We show that, when the average event-related potential (AERP) is subtracted from single-trial local field potential time series, a stimulus phase-locked component remains in the residual time series, in stark contrast to the assumption of the common model that no such phase-locked component should exist. Two main consequences of this observation are demonstrated for statistical measures that are computed on the residual time series. First, even though the AERP has been subtracted, the power spectral density, computed as a function of time with a short sliding window, can nonetheless show signs of modulation by the AERP waveform. Second, if the residual time series of two channels co-vary, then their cross-correlation and spectral coherence time functions can also be modulated according to the shape of the AERP waveform. Bayesian estimation of single-trial evoked responses provides further proof that these time-dependent statistical changes are due to remnants of the evoked phase-locked component in the residual time series. CONCLUSIONS: Because trial-to-trial variability of the evoked response is commonly ignored as a contributing factor in evoked potential studies, stimulus-related modulations of power spectral density, cross-correlation, and spectral coherence measures is often attributed to dynamic changes of the connectivity within and among neural populations. This work demonstrates that trial-to-trial variability of the evoked response must be considered as a possible explanation of such modulation.",
+  "authors": [
+    "Truccolo Wilson A",
+    "Ding Mingzhou",
+    "Knuth Kevin H",
+    "Nakamura Richard",
+    "Bressler Steven L"
+  ],
+  "journal": "Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Cerebral Cortex",
+    "Evoked Potentials",
+    "Macaca",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Reaction Time"
+  ]
+}

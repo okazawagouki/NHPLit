@@ -1,0 +1,17 @@
+{
+  "pmid": "38187624",
+  "title": "Synchronous Measurements of Extracellular Action Potentials and Neurochemical Activity with Carbon Fiber Electrodes in Nonhuman Primates.",
+  "abstract": "Measuring the dynamic relationship between neuromodulators, such as dopamine, and neuronal action potentials is imperative to understand how these fundamental modes of neural signaling interact to mediate behavior. Here, we developed methods to measure concurrently dopamine and extracellular action potentials (i.e., spikes) and applied these in a monkey performing a behavioral task. Standard fast-scan cyclic voltammetric (FSCV) electrochemical (EChem) and electrophysiological (EPhys) recording systems are combined and used to collect spike and dopamine signals, respectively, from an array of carbon fiber (CF) sensors implanted in the monkey striatum. FSCV requires the application of small voltages at the implanted sensors to measure redox currents generated from target molecules, such as dopamine. These applied voltages create artifacts at neighboring EPhys-measurement sensors, producing signals that may falsely be classified as physiological spikes. Therefore, simple automated temporal interpolation algorithms were designed to remove these artifacts and enable accurate spike extraction. We validated these methods using simulated artifacts and demonstrated an average spike recovery rate of 84.5%. This spike extraction was performed on data collected from concurrent EChem and EPhys recordings made in a task-performing monkey to discriminate cell-type specific striatal units. These identified units were shown to correlate to specific behavioral task parameters related to reward size and eye-movement direction. Synchronous measures of spike and dopamine signals displayed contrasting relations to the behavioral task parameters, as taken from our small set of representative data, suggesting a complex relationship between these two modes of neural signaling. Future application of our methods will help advance our understanding of the interactions between neuromodulator signaling and neuronal activity, to elucidate more detailed mechanisms of neural circuitry and plasticity mediating behaviors in health and in disease.",
+  "authors": [
+    "Amjad Usamma",
+    "Choi Jiwon",
+    "Gibson Daniel J",
+    "Murray Raymond",
+    "Graybiel Ann M",
+    "Schwerdt Helen N"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2023",
+  "doi": "10.1101/2023.12.23.573130",
+  "mesh": []
+}

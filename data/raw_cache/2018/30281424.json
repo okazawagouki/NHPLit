@@ -1,0 +1,36 @@
+{
+  "pmid": "30281424",
+  "title": "Deep Learning Models Unveiled Functional Difference Between Cortical Gyri and Sulci.",
+  "abstract": "It is largely unknown whether there is functional role difference between cortical gyral and sulcal regions. Recent advancements in neuroimaging studies demonstrate clear difference of structural connection profiles in gyral and sulcal areas, suggesting possible functional role difference in these convex and concave cortical regions. To explore and confirm such possible functional difference, we design and apply a powerful deep learning model of convolutional neural networks (CNN) that has been proven to be superior in learning discriminative and meaningful patterns on fMRI. By using the CNN model, gyral and sulcal fMRI signals are learned and predicted, and the prediction performance is adopted to demonstrate the functional difference between gyri and sulci. By using the Human Connectome Project (HCP) fMRI data and macaque brain fMRI data, an average of 83% and 90% classification accuracy has been achieved to separate gyral/sulcal HCP task fMRI signals at the population and individual subject level, respectively; 81% and 86% classification accuracy for resting state fMRI signals at the group and individual subject level, respectively. In addition, 78% classification accuracy has been achieved to separate gyral/sulcal resting state fMRI signals in macaque brains. Importantly, further analysis reveals that the discriminative features that are learned by CNNs to differentiate gyral/sulcal fMRI signals can be meaningfully interpreted, thus unveiling the fundamental functional difference between cortical gyri and sulci. That is, gyri are more global functional integration centers with simpler lower frequency signal components, while sulci are more local processing units with more complex higher frequency signal components.",
+  "authors": [
+    "Zhang Shu",
+    "Liu Huan",
+    "Huang Heng",
+    "Zhao Yu",
+    "Jiang Xi",
+    "Bowers Brook",
+    "Guo Lei",
+    "Hu Xiaoping",
+    "Sanchez Mar",
+    "Liu Tianming"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2019",
+  "doi": "10.1109/TBME.2018.2872726",
+  "mesh": [
+    "Adult",
+    "Algorithms",
+    "Animals",
+    "Cerebral Cortex",
+    "Connectome",
+    "Deep Learning",
+    "Female",
+    "Humans",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Middle Aged",
+    "Signal Processing, Computer-Assisted",
+    "Young Adult"
+  ]
+}

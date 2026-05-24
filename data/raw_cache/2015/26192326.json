@@ -1,0 +1,31 @@
+{
+  "pmid": "26192326",
+  "title": "An assumption-free quantification of neural responses to electrical stimulations.",
+  "abstract": "BACKGROUND: Connectivity between brain regions provides the fundamental infrastructure for information processing. The standard way to characterize these interactions is to stimulate one site while recording the evoked response from a second site. The average stimulus-triggered response is usually compared to the pre-stimulus activity. This requires a set of prior assumptions regarding the amplitude and duration of the evoked response. NEW METHOD: We introduce an assumption-free method for detecting and clustering evoked responses. We used Independent Component Analysis to reduce the dimensions of the response vectors, and then clustered them according to a Gaussian mixture model. This enables both the detection and categorization of responsive sites into different subtypes. RESULTS: Our method is demonstrated on recordings obtained from the sensory-motor cortex of behaving primates in response to stimulation of the cerebello-thalamo-cortical tract. We detected and classified the evoked responses of local field potential (LFP) and local spiking activity (multiunit activity-MUA). We found a strong association between specific input (LFP) and output (MUA) patterns across cortical sites, further supporting the physiological relevance of the proposed method. COMPARISON WITH EXISTING METHODS: Our method detected the vast majority of sites found in the conventional, significant threshold-crossing method. However, we found a subgroup of sites with a robust response that were missed when using the conventional method. CONCLUSION: Our method provides a useful, assumption-free tool for detecting and classifying neural evoked responses in a physiologically-relevant manner.",
+  "authors": [
+    "Ruach Rotem",
+    "Mitelman Rea",
+    "Sherman Efrat",
+    "Cohen Oren",
+    "Prut Yifat"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2015",
+  "doi": "10.1016/j.jneumeth.2015.07.005",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cerebellum",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Data Interpretation, Statistical",
+    "Electric Stimulation",
+    "Electrodes, Implanted",
+    "Evoked Potentials",
+    "Macaca fascicularis",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Signal Processing, Computer-Assisted",
+    "Thalamus"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "42149759",
+  "title": "High-density, Identified Cell Recordings from Motor Cortex of Awake Behaving Macaques using Multiple 1024-channel CMOS Probes.",
+  "abstract": "OBJECTIVE/BACKGROUND: Recording bioelectric signals from large populations of single neurons in the primate brain remains challenging. Chronic implants offer limited coverage (∼100 channels) and sample fixed cortical regions, while acutely inserted electrodes allow broader access via multiple daily penetrations. We aimed to develop a CMOS-based probe with high electrode-channel density, and optimized procedures for acute large-scale single-unit recordings in behaving monkeys. METHODS: We designed a novel single-shank SiNAPS CMOS probe for acute recordings in monkeys with additional integrated multiplexing circuits to reduce output lines. A multi-probe system enables synchronous sampling at 20 kHz/channel from two SINAPS-NHP probes during repeated insertions into the motor cortex of behaving macaques. We developed methods to identify neurons via antidromic activation. RESULTS: The probe (10.7 mm × 158 μm × 50 μm) samples neural activity from 1,024 electrodes (14 × 14 μm², 30 μm pitch) arranged in four columns and reaches an electrode-channel density of 304.4 channels/mm2. A pilot hole facilitates dural penetration, and optimized insertion procedures allow recordings from diverse cortical sites. Some neurons were identified as pyramidal tract cells projecting to the spinal cord. CONCLUSION: Each probe enables monitoring of intracortical areas of 7.75 × 0.1 mm², detecting hundreds of single neurons per session, and reaches deep regions such as the anterior bank of the central sulcus, rich in corticospinal cells. SIGNIFICANCE: This technology and methods unlock routine acute recordings from 2,048 channels with single-neuron resolution and cell-type identification, advancing the neurophysiological toolkit for primate research.",
+  "authors": [
+    "Angotzi G N",
+    "Baker A M E",
+    "Vincenzi M",
+    "Orban G",
+    "Ribeiro J F",
+    "Tenorio V",
+    "Berdondini L",
+    "Baker S N"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2026",
+  "doi": "10.1109/TBME.2026.3694160",
+  "mesh": []
+}

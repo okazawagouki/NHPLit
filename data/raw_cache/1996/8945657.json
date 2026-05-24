@@ -1,0 +1,35 @@
+{
+  "pmid": "8945657",
+  "title": "Distributed moment histogram: a neurophysiology based method of agonist and antagonist trunk muscle activity prediction.",
+  "abstract": "A neurocortical-based technique of muscle recruitment is presented to solve the muscle indeterminacy problem for lumbar torso modeling. Cortical recordings from behaving primates have established motor cortex cells that respond to a wide range of task directions, but are tuned to a preferred direction. A characteristic activity pattern of these neurons seems to be associated with effort direction. It was hypothesized that a model which recruits muscles based on a similar distribution would predict antagonistic muscle activity with greater realism than a widely referenced optimization formulation. The predictions of the Distributed Moment Histogram (DMH) method were evaluated under common speed (< 30 degrees s-1) sagittal plane lifting conditions using five subjects. The predicted forces showed high correspondence with agonist and antagonist myoelectric patterns. The mean coefficient of determination for the erector spinae was r2 = 0.91, and 0.41 for the latissimus. For the antagonistic muscles, the rectus abdominus was found to be electrically silent (< 3% MVC) and no activity was predicted by the method. The external oblique muscle was observed to be minimally active (< 16% MVC), and the DMH method predicted its mostly constant activity with a mean standard error of 1.6% MVC. The realistic antagonistic predictions supported the hypothesis and justify this cortical based technique as an alternative for muscle tension estimation in biomechanical torso modeling. A primary advantage of this method is its computational simplicity and direct physiologic analog.",
+  "authors": [
+    "Raschke U",
+    "Martin B J",
+    "Chaffin D B"
+  ],
+  "journal": "Journal of biomechanics",
+  "year": "1996",
+  "doi": "",
+  "mesh": [
+    "Abdominal Muscles",
+    "Adult",
+    "Back",
+    "Biomechanical Phenomena",
+    "Electromyography",
+    "Forecasting",
+    "Humans",
+    "Lifting",
+    "Lumbar Vertebrae",
+    "Male",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Movement",
+    "Muscle Contraction",
+    "Muscle Spindles",
+    "Muscle, Skeletal",
+    "Neurophysiology",
+    "Physical Exertion",
+    "Rectus Abdominis",
+    "Sensitivity and Specificity"
+  ]
+}

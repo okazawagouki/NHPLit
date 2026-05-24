@@ -1,0 +1,19 @@
+{
+  "pmid": "40149743",
+  "title": "Effects of Packet Loss on Neural Decoding Effectiveness in Wireless Transmission.",
+  "abstract": "BACKGROUND: In brain-computer interfaces, neural decoding plays a central role in translating neural signals into meaningful physical actions. These signals are transmitted to processors for decoding via wired or wireless channels; however, they are often subject to data loss, commonly referred to as \"packet loss\". Despite their importance, the effects of different types and degrees of packet loss on neural decoding have not yet been comprehensively studied. Understanding these effects is critical for advancing neural signal processing. METHODS: This study addresses this gap by constructing four distinct packet loss models that simulate the congestion, distribution, and burst loss scenarios. Using macaque superior arm movement decoding experiments, we analyzed the effects of the aforementioned packet loss types on decoding performance across six parameters (position, velocity, and acceleration in the x and y dimensions). The performance was assessed using the R2 metric and statistical comparisons across different loss scenarios. RESULTS: Our results indicate that sudden, consecutive packet loss significantly degraded decoding performance. For the same packet loss probability, burst loss led to the largest decrease in the R2 value. Notably, when the packet loss rate reached 10%, the decoding performance for acceleration dropped to 73% of the original R2 value. On the other hand, when the packet loss rate was within 2%, the neural signal decoding results across all packet loss models remained largely unaffected. However, as the packet loss rate increased, the impact became more pronounced. These findings highlight the varying degrees to which different packet loss models affect decoding outcomes. CONCLUSIONS: This study quantitatively evaluated the relationship between packet loss and neural decoding outcomes, highlighting the differential effects of loss patterns on decoding parameters, and it proposed some methods and devices to solve the problem of packet loss. These findings offer valuable insights for the development of resilient neural signal acquisition and processing systems capable of mitigating the impact of packet loss.",
+  "authors": [
+    "Zheng Jiaqi",
+    "Li Yuan",
+    "Chen Liangliang",
+    "Wang Fei",
+    "Gu Boxuan",
+    "Sun Qixiang",
+    "Gao Xiang",
+    "Zhou Fan"
+  ],
+  "journal": "Brain sciences",
+  "year": "2025",
+  "doi": "10.3390/brainsci15030221",
+  "mesh": []
+}

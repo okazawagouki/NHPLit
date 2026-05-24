@@ -1,0 +1,31 @@
+{
+  "pmid": "19548799",
+  "title": "A model for learning topographically organized parts-based representations of objects in visual cortex: topographic nonnegative matrix factorization.",
+  "abstract": "Object representation in the inferior temporal cortex (IT), an area of visual cortex critical for object recognition in the primate, exhibits two prominent properties: (1) objects are represented by the combined activity of columnar clusters of neurons, with each cluster representing component features or parts of objects, and (2) closely related features are continuously represented along the tangential direction of individual columnar clusters. Here we propose a learning model that reflects these properties of parts-based representation and topographic organization in a unified framework. This model is based on a nonnegative matrix factorization (NMF) basis decomposition method. NMF alone provides a parts-based representation where nonnegative inputs are approximated by additive combinations of nonnegative basis functions. Our proposed model of topographic NMF (TNMF) incorporates neighborhood connections between NMF basis functions arranged on a topographic map and attains the topographic property without losing the parts-based property of the NMF. The TNMF represents an input by multiple activity peaks to describe diverse information, whereas conventional topographic models, such as the self-organizing map (SOM), represent an input by a single activity peak in a topographic map. We demonstrate the parts-based and topographic properties of the TNMF by constructing a hierarchical model for object recognition where the TNMF is at the top tier for learning high-level object features. The TNMF showed better generalization performance over NMF for a data set of continuous view change of an image and more robustly preserving the continuity of the view change in its object representation. Comparison of the outputs of our model with actual neural responses recorded in the IT indicates that the TNMF reconstructs the neuronal responses better than the SOM, giving plausibility to the parts-based learning of the model.",
+  "authors": [
+    "Hosoda Kenji",
+    "Watanabe Masataka",
+    "Wersing Heiko",
+    "Körner Edgar",
+    "Tsujino Hiroshi",
+    "Tamura Hiroshi",
+    "Fujita Ichiro"
+  ],
+  "journal": "Neural computation",
+  "year": "2009",
+  "doi": "10.1162/neco.2009.03-08-722",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain Mapping",
+    "Humans",
+    "Learning",
+    "Models, Psychological",
+    "Neurons",
+    "Orientation",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

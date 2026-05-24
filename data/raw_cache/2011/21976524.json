@@ -1,0 +1,25 @@
+{
+  "pmid": "21976524",
+  "title": "Grasp movement decoding from premotor and parietal cortex.",
+  "abstract": "Despite recent advances in harnessing cortical motor-related activity to control computer cursors and robotic devices, the ability to decode and execute different grasping patterns remains a major obstacle. Here we demonstrate a simple Bayesian decoder for real-time classification of grip type and wrist orientation in macaque monkeys that uses higher-order planning signals from anterior intraparietal cortex (AIP) and ventral premotor cortex (area F5). Real-time decoding was based on multiunit signals, which had similar tuning properties to cells in previous single-unit recording studies. Maximum decoding accuracy for two grasp types (power and precision grip) and five wrist orientations was 63% (chance level, 10%). Analysis of decoder performance showed that grip type decoding was highly accurate (90.6%), with most errors occurring during orientation classification. In a subsequent off-line analysis, we found small but significant performance improvements (mean, 6.25 percentage points) when using an optimized spike-sorting method (superparamagnetic clustering). Furthermore, we observed significant differences in the contributions of F5 and AIP for grasp decoding, with F5 being better suited for classification of the grip type and AIP contributing more toward decoding of object orientation. However, optimum decoding performance was maximal when using neural activity simultaneously from both areas. Overall, these results highlight quantitative differences in the functional representation of grasp movements in AIP and F5 and represent a first step toward using these signals for developing functional neural interfaces for hand grasping.",
+  "authors": [
+    "Townsend Benjamin R",
+    "Subasi Erk",
+    "Scherberger Hansjörg"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2011",
+  "doi": "10.1523/JNEUROSCI.2451-11.2011",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain Mapping",
+    "Female",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Movement",
+    "Parietal Lobe",
+    "Psychomotor Performance"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "12686573",
+  "title": "Synchronization in monkey motor cortex during a precision grip task. II. effect of oscillatory activity on corticospinal output.",
+  "abstract": "Recordings from primary motor cortex (M1) during periods of steady contraction show oscillatory activity; these oscillations are coherent with the activity of contralateral muscles. We investigated synchronization of corticospinal output neurons with the oscillations, which could provide the pathway for their transmission to the spinal motoneurons. One hundred seventy-six antidromically identified pyramidal tract neurons (PTNs) were recorded from M1 in three macaque monkeys trained to perform a precision grip task. Local field potentials (LFP) were simultaneously recorded. All analysis was confined to the hold period of the task, where our previous work has shown that there is the strongest oscillatory activity. Coherence was calculated between LFP and PTN discharge. Significant coherence was seen in three bands, with frequencies of 10-14, 17-31, and 34-44 Hz. Coherence values were low, with the majority of PTN-LFP coherences having a peak lower than 0.05. The phase of coherence was approximately -pi/2 radians for each band (with LFP polarity defined as negative upward), although there was some dispersion of phase across the population of PTNs. Coherence was also calculated between pairs of PTNs that had been simultaneously recorded. Where there was significant coherence, it was also generally smaller than 0.05. The phase of PTN-PTN coherence clustered around zero radians. A computer model was constructed to assist the interpretation of the experimental results. It simulated an integrate-and-fire neuron responding to synaptic inputs. A fraction of the synaptic inputs was synchronized with a simulated LFP; the remainder were uncorrelated with it. The model showed that coherence between the LFP and the output spike train considerably underestimated the fraction of synchronized inputs. Additionally, for a given fraction of synchronized inputs, coherence was smaller for high- compared with low-frequency bins. Cell discharge rate also influenced the spike-LFP coherence: coherence was higher for simulations in which the cell discharged at a faster rate. Thus although levels of PTN-LFP coherence seen experimentally were low, a considerable proportion of the input to the PTN must be synchronized with the global oscillatory activity recorded by the LFP. The low LFP-PTN coherences do however indicate that cortical oscillations are transmitted with only low fidelity in the discharge of a single PTN. Using further computer simulations, it was demonstrated that a small population of PTNs could encode the cortical oscillatory signal effectively, since the action of averaging across the population improves the signal:noise ratio. The oscillations will therefore be effectively transmitted to spinal motoneurons, and this has important consequences for the possible role of oscillations in motor control of the hand.",
+  "authors": [
+    "Baker Stuart N",
+    "Pinches Elizabeth M",
+    "Lemon Roger N"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Cortical Synchronization",
+    "Female",
+    "Hand Strength",
+    "Macaca",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Periodicity",
+    "Pyramidal Tracts"
+  ]
+}

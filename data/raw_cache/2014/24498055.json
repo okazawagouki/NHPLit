@@ -1,0 +1,29 @@
+{
+  "pmid": "24498055",
+  "title": "Using reinforcement learning to provide stable brain-machine interface control despite neural input reorganization.",
+  "abstract": "Brain-machine interface (BMI) systems give users direct neural control of robotic, communication, or functional electrical stimulation systems. As BMI systems begin transitioning from laboratory settings into activities of daily living, an important goal is to develop neural decoding algorithms that can be calibrated with a minimal burden on the user, provide stable control for long periods of time, and can be responsive to fluctuations in the decoder's neural input space (e.g. neurons appearing or being lost amongst electrode recordings). These are significant challenges for static neural decoding algorithms that assume stationary input/output relationships. Here we use an actor-critic reinforcement learning architecture to provide an adaptive BMI controller that can successfully adapt to dramatic neural reorganizations, can maintain its performance over long time periods, and which does not require the user to produce specific kinetic or kinematic activities to calibrate the BMI. Two marmoset monkeys used the Reinforcement Learning BMI (RLBMI) to successfully control a robotic arm during a two-target reaching task. The RLBMI was initialized using random initial conditions, and it quickly learned to control the robot from brain states using only a binary evaluative feedback regarding whether previously chosen robot actions were good or bad. The RLBMI was able to maintain control over the system throughout sessions spanning multiple weeks. Furthermore, the RLBMI was able to quickly adapt and maintain control of the robot despite dramatic perturbations to the neural inputs, including a series of tests in which the neuron input space was deliberately halved or doubled.",
+  "authors": [
+    "Pohlmeyer Eric A",
+    "Mahmoudi Babak",
+    "Geng Shijia",
+    "Prins Noeline W",
+    "Sanchez Justin C"
+  ],
+  "journal": "PloS one",
+  "year": "2014",
+  "doi": "10.1371/journal.pone.0087253",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Feedback",
+    "Haplorhini",
+    "Learning",
+    "Man-Machine Systems",
+    "Neurons",
+    "Reinforcement, Psychology",
+    "Robotics",
+    "User-Computer Interface"
+  ]
+}

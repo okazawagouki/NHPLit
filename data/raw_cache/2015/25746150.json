@@ -1,0 +1,38 @@
+{
+  "pmid": "25746150",
+  "title": "A systematic approach to selecting task relevant neurons.",
+  "abstract": "BACKGROUND: Since task related neurons cannot be specifically targeted during surgery, a critical decision to make is to select which neurons are task-related when performing data analysis. Including neurons unrelated to the task degrade decoding accuracy and confound neurophysiological results. Traditionally, task-related neurons are selected as those with significant changes in firing rate when a stimulus is applied. However, this assumes that neurons' encoding of stimuli are dominated by their firing rate with little regard to temporal dynamics. NEW METHOD: This paper proposes a systematic approach for neuron selection, which uses a likelihood ratio test to capture the contribution of stimulus to spiking activity while taking into account task-irrelevant intrinsic dynamics that affect firing rates. This approach is denoted as the model deterioration excluding stimulus (MDES) test. RESULTS: MDES is compared to firing rate selection in four case studies: a simulation, a decoding example, and two neurophysiology examples. COMPARISON WITH EXISTING METHODS: The MDES rankings in the simulation match closely with ideal rankings, while firing rate rankings are skewed by task-irrelevant parameters. For decoding, 95% accuracy is achieved using the top 8 MDES-ranked neurons, while the top 12 firing-rate ranked neurons are needed. In the neurophysiological examples, MDES matches published results when firing rates do encode salient stimulus information, and uncovers oscillatory modulations in task-related neurons that are not captured when neurons are selected using firing rates. CONCLUSIONS: These case studies illustrate the importance of accounting for intrinsic dynamics when selecting task-related neurons and following the MDES approach accomplishes that. MDES selects neurons that encode task-related information irrespective of these intrinsic dynamics which can bias firing rate based selection.",
+  "authors": [
+    "Kahn Kevin",
+    "Saxena Shreya",
+    "Eskandar Emad",
+    "Thakor Nitish",
+    "Schieber Marc",
+    "Gale John T",
+    "Averbeck Bruno",
+    "Eden Uri",
+    "Sarma Sridevi V"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2015",
+  "doi": "10.1016/j.jneumeth.2015.02.020",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Analysis of Variance",
+    "Animals",
+    "Computer Simulation",
+    "Fingers",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Movement",
+    "Neurons",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Saccades",
+    "Time Factors",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "25879843",
+  "title": "The role of inhibition in a computational model of an auditory cortical neuron during the encoding of temporal information.",
+  "abstract": "In auditory cortex, temporal information within a sound is represented by two complementary neural codes: a temporal representation based on stimulus-locked firing and a rate representation, where discharge rate co-varies with the timing between acoustic events but lacks a stimulus-synchronized response. Using a computational neuronal model, we find that stimulus-locked responses are generated when sound-evoked excitation is combined with strong, delayed inhibition. In contrast to this, a non-synchronized rate representation is generated when the net excitation evoked by the sound is weak, which occurs when excitation is coincident and balanced with inhibition. Using single-unit recordings from awake marmosets (Callithrix jacchus), we validate several model predictions, including differences in the temporal fidelity, discharge rates and temporal dynamics of stimulus-evoked responses between neurons with rate and temporal representations. Together these data suggest that feedforward inhibition provides a parsimonious explanation of the neural coding dichotomy observed in auditory cortex.",
+  "authors": [
+    "Bendor Daniel"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2015",
+  "doi": "10.1371/journal.pcbi.1004197",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Animals",
+    "Auditory Cortex",
+    "Callithrix",
+    "Computational Biology",
+    "Computer Simulation",
+    "Neurons",
+    "Time Factors"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "7983549",
+  "title": "Neural basis for motor learning in the vestibuloocular reflex of primates. III. Computational and behavioral analysis of the sites of learning.",
+  "abstract": "1. We have used a combination of eye movement recordings and computer modeling to study long-term adaptive modification (motor learning) in the vestibuloocular reflex (VOR). The eye movement recordings place constraints on possible sites for motor learning. The computer model abides by these constraints, as well as constraints provided by data in previous papers, to formalize a new hypothesis about the sites of motor learning. The model was designed to reproduce as much of the existing neural and behavioral data as possible. 2. Motor learning was induced in monkeys by fitting them with spectacles that caused the gain of the VOR (eye speed divided by head speed) to increase to values > 1.6 or to decrease to values < 0.4. We elicited pursuit by providing ramp motion of a small target at 30 degrees/s along the horizontal axis. Changes in the gain of the VOR caused only small and inconsistent changes in the eye acceleration in the first 100 ms after the onset of pursuit and had no effect on the eye velocity during tracking of steady target motion. Electrical stimulation in the flocculus and ventral paraflocculus with single pulses or trains of pulses caused smooth eye movement toward the side of stimulation after latencies of 9-11 ms. Neither the latency, the peak eye velocity, nor the initial eye acceleration varied as a consistent function of the gain of the VOR. 3. The computer model contained nodes that represented position-vestibular-pause cells (PVP-cells) and flocculus target neurons (FTNs) in the vestibular nucleus, and horizontal gaze-velocity Purkinje cells (HGVP-cells) in the cerebellar flocculus and ventral paraflocculus. Node FTN represented only the \"E-c FTNs,\" which show increased firing for eye motion away from the side of recording. The transfer functions in the model included dynamic elements (filters) as well as static elements (summing junctions, gain elements, and time delays). Except for the transfer functions that converted visual motion inputs into commands for smooth eye movement, the model was linear. 4. The performance of the model was determined both by computer simulation and, for the VOR in the dark, by analytic solution of linear equations. For simulation, we adjusted the parameters by hand to match the output of the model to the eye velocity of monkeys and to match the activity of the relevant nodes in the model to the firing of HGVP-cells, FTNs, and PVP-cells when the gain of the VOR was 0.4, 1.0, and 1.6.(ABSTRACT TRUNCATED AT 400 WORDS)",
+  "authors": [
+    "Lisberger S G"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1994",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Brain Stem",
+    "Cerebellum",
+    "Computer Simulation",
+    "Fixation, Ocular",
+    "Long-Term Potentiation",
+    "Macaca mulatta",
+    "Male",
+    "Mental Recall",
+    "Models, Neurological",
+    "Neck Muscles",
+    "Neural Pathways",
+    "Orientation",
+    "Purkinje Cells",
+    "Pursuit, Smooth",
+    "Reflex, Vestibulo-Ocular",
+    "Vestibular Nuclei"
+  ]
+}

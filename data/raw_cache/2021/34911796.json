@@ -1,0 +1,21 @@
+{
+  "pmid": "34911796",
+  "title": "Neural Mechanism for Coding Depth from Motion Parallax in Area MT: Gain Modulation or Tuning Shifts?",
+  "abstract": "There are two distinct sources of retinal image motion: objects moving in the world and observer movement. When the eyes move to track a target of interest, the retinal velocity of some object in the scene will depend on both eye velocity and that object's motion in the world. Thus, to compute the object's velocity relative to the head, a coordinate transformation must be performed by vectorially adding eye velocity and retinal velocity. In contrast, a very different interaction between retinal and eye velocity signals has been proposed to underlie estimation of depth from motion parallax, which involves computing the ratio of retinal and eye velocities. We examined how neurons in the middle temporal (MT) area of male macaques combine eye velocity and retinal velocity, to test whether this interaction is more consistent with a partial coordinate transformation (for computing head-centered object motion) or a multiplicative gain interaction (for computing depth from motion parallax). We find that some MT neurons show clear signatures of a partial coordinate transformation for computing head-centered velocity. Even a small shift toward head-centered velocity tuning can account for the observed depth-sign selectivity of MT neurons, including a strong dependence on speed preference that was previously unexplained. A formal model comparison reveals that the data from many MT neurons are equally well explained by a multiplicative gain interaction or a partial transformation toward head-centered tuning, although some responses can only be well fit by the coordinate transform model. Our findings shed new light on the neural computations performed in area MT, and raise the possibility that depth-sign selectivity emerges from a partial coordinate transformation toward representing head-centered velocity.<b>SIGNIFICANCE STATEMENT</b> Eye velocity signals modulate the responses of neurons in the middle temporal (MT) area to retinal image motion. Two different types of interactions between retinal and eye velocities have previously been considered: a vector addition computation for computing head-centered velocity, and a multiplicative gain interaction for computing depth from motion parallax. Whereas previous work favored a multiplicative gain interaction in MT, we demonstrate that some MT neurons show clear evidence of a partial shift toward coding head-centered velocity. Moreover, we demonstrate that even a small shift toward head coordinates is sufficient to account for the depth-sign selectivity observed previously in area MT, thus raising the possibility that a partial coordinate transformation may also provide a mechanism for computing depth from motion parallax.",
+  "authors": [
+    "Xu Zhe-Xin",
+    "DeAngelis Gregory C"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2022",
+  "doi": "10.1523/JNEUROSCI.1240-21.2021",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Temporal Lobe"
+  ]
+}

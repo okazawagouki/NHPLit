@@ -1,0 +1,33 @@
+{
+  "pmid": "25649611",
+  "title": "Sensory integration dynamics in a hierarchical network explains choice probabilities in cortical area MT.",
+  "abstract": "Neuronal variability in sensory cortex predicts perceptual decisions. This relationship, termed choice probability (CP), can arise from sensory variability biasing behaviour and from top-down signals reflecting behaviour. To investigate the interaction of these mechanisms during the decision-making process, we use a hierarchical network model composed of reciprocally connected sensory and integration circuits. Consistent with monkey behaviour in a fixed-duration motion discrimination task, the model integrates sensory evidence transiently, giving rise to a decaying bottom-up CP component. However, the dynamics of the hierarchical loop recruits a concurrently rising top-down component, resulting in sustained CP. We compute the CP time-course of neurons in the medial temporal area (MT) and find an early transient component and a separate late contribution reflecting decision build-up. The stability of individual CPs and the dynamics of noise correlations further support this decomposition. Our model provides a unified understanding of the circuit dynamics linking neural and behavioural variability.",
+  "authors": [
+    "Wimmer Klaus",
+    "Compte Albert",
+    "Roxin Alex",
+    "Peixoto Diogo",
+    "Renart Alfonso",
+    "de la Rocha Jaime"
+  ],
+  "journal": "Nature communications",
+  "year": "2015",
+  "doi": "10.1038/ncomms7177",
+  "mesh": [
+    "Animals",
+    "Choice Behavior",
+    "Decision Making",
+    "Macaca mulatta",
+    "Male",
+    "Models, Psychological",
+    "Motion Perception",
+    "Nerve Net",
+    "Neurons",
+    "Parietal Lobe",
+    "Photic Stimulation",
+    "Probability",
+    "Temporal Lobe",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

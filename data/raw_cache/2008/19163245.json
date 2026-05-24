@@ -1,0 +1,29 @@
+{
+  "pmid": "19163245",
+  "title": "A cluster analysis of neuronal activity in the dorsal premotor cortical area for neuroprosthetic control.",
+  "abstract": "With the use of the neuronal data acquisition technology, millisecond-level multi-electrode data from several regions of the premotor area were obtained from two rhesus monkeys trained to perform arm-reach tasks with visual cues in virtual reality. In each trial, animals were required to select and perform one of the four possible arm reaching movements to the target on the top-left or top-right of the virtual reality space. They were also required to decide whether they would move their arms straight to the target or curve them in order to avoid the obstacle that was presented. After the acquired neuronal signals were processed, unsupervised Hierarchical clustering and K-means clustering were performed to uncover the similarity and difference in the average firing rate of spike train data between neurons and phases for each experiment condition. The clustering results indicate the similarity of neuronal data in the movement planning and actual movement phases, and the difference of such data from the data in information processing phases. Furthermore, the clustering results show that when the target location is on the right, the move planning started earlier. The analysis of variance (ANOVA) on the neuronal data confirms the results from the hierarchical clustering.",
+  "authors": [
+    "Ye N",
+    "Roontiva A",
+    "He J"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2008",
+  "doi": "10.1109/IEMBS.2008.4649742",
+  "mesh": [
+    "Animals",
+    "Cluster Analysis",
+    "Computer Simulation",
+    "Data Interpretation, Statistical",
+    "Electronic Data Processing",
+    "Equipment Design",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Models, Neurological",
+    "Models, Theoretical",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Software"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "32054676",
+  "title": "But Still It Moves: Static Image Statistics Underlie How We See Motion.",
+  "abstract": "Seeing movement promotes survival. It results from an uncertain interplay between evolution and experience, making it hard to isolate the drivers of computational architectures found in brains. Here we seek insight into motion perception using a neural network (MotionNet) trained on moving images to classify velocity. The network recapitulates key properties of motion direction and speed processing in biological brains, and we use it to derive, and test, understanding of motion (mis)perception at the computational, neural, and perceptual levels. We show that diverse motion characteristics are largely explained by the statistical structure of natural images, rather than motion per se. First, we show how neural and perceptual biases for particular motion directions can result from the orientation structure of natural images. Second, we demonstrate an interrelation between speed and direction preferences in (macaque) MT neurons that can be explained by image autocorrelation. Third, we show that natural image statistics mean that speed and image contrast are related quantities. Finally, using behavioral tests (humans, both sexes), we show that it is knowledge of the speed-contrast association that accounts for motion illusions, rather than the distribution of movements in the environment (the \"slow world\" prior) as premised by Bayesian accounts. Together, this provides an exposition of motion speed and direction estimation, and produces concrete predictions for future neurophysiological experiments. More broadly, we demonstrate the conceptual value of marrying artificial systems with biological characterization, moving beyond \"black box\" reproduction of an architecture to advance understanding of complex systems, such as the brain.<b>SIGNIFICANCE STATEMENT</b> Using an artificial systems approach, we show that physiological properties of motion can result from natural image structure. In particular, we show that the anisotropic distribution of orientations in natural statistics is sufficient to explain the cardinal bias for motion direction. We show that inherent autocorrelation in natural images means that speed and direction are related quantities, which could shape the relationship between speed and direction tuning of MT neurons. Finally, we show that movement speed and image contrast are related in moving natural images, and that motion misperception can be explained by this speed-contrast association not a \"slow world\" prior.",
+  "authors": [
+    "Rideaux Reuben",
+    "Welchman Andrew E"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2020",
+  "doi": "10.1523/JNEUROSCI.2760-19.2020",
+  "mesh": [
+    "Algorithms",
+    "Bayes Theorem",
+    "Computer Simulation",
+    "Female",
+    "Humans",
+    "Illusions",
+    "Male",
+    "Motion Perception",
+    "Nerve Net",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

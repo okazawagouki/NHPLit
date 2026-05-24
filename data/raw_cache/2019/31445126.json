@@ -1,0 +1,27 @@
+{
+  "pmid": "31445126",
+  "title": "Sensory processing and categorization in cortical and deep neural networks.",
+  "abstract": "Many recent advances in artificial intelligence (AI) are rooted in visual neuroscience. However, ideas from more complicated paradigms like decision-making are less used. Although automated decision-making systems are ubiquitous (driverless cars, pilot support systems, medical diagnosis algorithms etc.), achieving human-level performance in decision making tasks is still a challenge. At the same time, these tasks that are hard for AI are easy for humans. Thus, understanding human brain dynamics during these decision-making tasks and modeling them using deep neural networks could improve AI performance. Here we modelled some of the complex neural interactions during a sensorimotor decision making task. We investigated how brain dynamics flexibly represented and distinguished between sensory processing and categorization in two sensory domains: motion direction and color. We used two different approaches for understanding neural representations. We compared brain responses to 1) the geometry of a sensory or category domain (domain selectivity) and 2) predictions from deep neural networks (computation selectivity). Both approaches gave us similar results. This confirmed the validity of our analyses. Using the first approach, we found that neural representations changed depending on context. We then trained deep recurrent neural networks to perform the same tasks as the animals. Using the second approach, we found that computations in different brain areas also changed flexibly depending on context. Color computations appeared to rely more on sensory processing, while motion computations more on abstract categories. Overall, our results shed light to the biological basis of categorization and differences in selectivity and computations in different brain areas. They also suggest a way for studying sensory and categorical representations in the brain: compare brain responses to both a behavioral model and a deep neural network and test if they give similar results.",
+  "authors": [
+    "Pinotsis Dimitris A",
+    "Siegel Markus",
+    "Miller Earl K"
+  ],
+  "journal": "NeuroImage",
+  "year": "2019",
+  "doi": "10.1016/j.neuroimage.2019.116118",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Cerebral Cortex",
+    "Color Perception",
+    "Decision Making",
+    "Deep Learning",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Motion Perception",
+    "Nerve Net",
+    "Psychomotor Performance"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "19666343",
+  "title": "Kinetic trajectory decoding using motor cortical ensembles.",
+  "abstract": "Although most brain-machine interface (BMI) studies have focused on decoding kinematic parameters of motion such as hand position and velocity, it is known that motor cortical activity also correlates with kinetic signals, including active hand force and joint torque. Here, we attempted to reconstruct torque trajectories of the shoulder and elbow joints from the activity of simultaneously recorded units in primary motor cortex (MI) as monkeys (Macaca Mulatta) made reaching movements in the horizontal plane. Using a linear filter decoding approach that considers the history of neuronal activity up to one second in the past, we found torque reconstruction performance nearly equal to that of Cartesian hand position and velocity, despite the considerably greater bandwidth of the torque signals. Moreover, the addition of delayed position and velocity feedback to the torque decoder substantially improved the torque reconstructions, suggesting that simple limb-state feedback may be useful to optimize BMI performance. These results may be relevant for BMI applications that require controlling devices with inherent, physical dynamics or applying forces to the environment.",
+  "authors": [
+    "Fagg Andrew H",
+    "Ojakangas Gregory W",
+    "Miller Lee E",
+    "Hatsopoulos Nicholas G"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2009",
+  "doi": "10.1109/TNSRE.2009.2029313",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Electroencephalography",
+    "Evoked Potentials, Motor",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Movement",
+    "Muscle Contraction",
+    "Muscle, Skeletal",
+    "Pattern Recognition, Automated"
+  ]
+}

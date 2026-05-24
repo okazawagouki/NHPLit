@@ -1,0 +1,27 @@
+{
+  "pmid": "38261402",
+  "title": "Amygdalar Excitation of Hippocampal Interneurons Can Lead to Emotion-driven Overgeneralization of Context.",
+  "abstract": "Context is central to cognition: Detailed contextual representations enable flexible adjustment of behavior via comparison of the current situation with prior experience. Emotional experiences can greatly enhance contextual memory. However, sufficiently intense emotional signals can have the opposite effect, leading to weaker or less specific memories. How can emotional signals have such intensity-dependent effects? A plausible mechanistic account has emerged from recent anatomical data on the impact of the amygdala on the hippocampus in primates. In hippocampal CA3, the amygdala formed potent synapses on pyramidal neurons, calretinin (CR) interneurons, as well as parvalbumin (PV) interneurons. CR interneurons are known to disinhibit pyramidal neuron dendrites, whereas PV neurons provide strong perisomatic inhibition. This potentially counterintuitive connectivity, enabling amygdala to both enhance and inhibit CA3 activity, may provide a mechanism that can boost or suppress memory in an intensity-dependent way. To investigate this possibility, we simulated this connectivity pattern in a spiking network model. Our simulations revealed that moderate amygdala input can enrich CA3 representations of context through disinhibition via CR interneurons, but strong amygdalar input can impoverish CA3 activity through simultaneous excitation and feedforward inhibition via PV interneurons. Our model revealed an elegant circuit mechanism that mediates an affective \"inverted U\" phenomenon: There is an optimal level of amygdalar input that enriches hippocampal context representations, but on either side of this zone, representations are impoverished. This circuit mechanism helps explain why excessive emotional arousal can disrupt contextual memory and lead to overgeneralization, as seen in severe anxiety and posttraumatic stress disorder.",
+  "authors": [
+    "John Yohan J",
+    "Wang Jingyi",
+    "Bullock Daniel",
+    "Barbas Helen"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "2024",
+  "doi": "10.1162/jocn_a_02109",
+  "mesh": [
+    "Interneurons",
+    "Amygdala",
+    "Emotions",
+    "Animals",
+    "Hippocampus",
+    "Models, Neurological",
+    "Humans",
+    "Parvalbumins",
+    "Neural Pathways",
+    "CA3 Region, Hippocampal",
+    "Computer Simulation"
+  ]
+}

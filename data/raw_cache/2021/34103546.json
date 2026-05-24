@@ -1,0 +1,38 @@
+{
+  "pmid": "34103546",
+  "title": "A convolutional neural network for estimating synaptic connectivity from spike trains.",
+  "abstract": "The recent increase in reliable, simultaneous high channel count extracellular recordings is exciting for physiologists and theoreticians because it offers the possibility of reconstructing the underlying neuronal circuits. We recently presented a method of inferring this circuit connectivity from neuronal spike trains by applying the generalized linear model to cross-correlograms. Although the algorithm can do a good job of circuit reconstruction, the parameters need to be carefully tuned for each individual dataset. Here we present another method using a Convolutional Neural Network for Estimating synaptic Connectivity from spike trains. After adaptation to huge amounts of simulated data, this method robustly captures the specific feature of monosynaptic impact in a noisy cross-correlogram. There are no user-adjustable parameters. With this new method, we have constructed diagrams of neuronal circuits recorded in several cortical areas of monkeys.",
+  "authors": [
+    "Endo Daisuke",
+    "Kobayashi Ryota",
+    "Bartolo Ramon",
+    "Averbeck Bruno B",
+    "Sugase-Miyamoto Yasuko",
+    "Hayashi Kazuko",
+    "Kawano Kenji",
+    "Richmond Barry J",
+    "Shinomoto Shigeru"
+  ],
+  "journal": "Scientific reports",
+  "year": "2021",
+  "doi": "10.1038/s41598-021-91244-w",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Linear Models",
+    "Macaca fuscata",
+    "Male",
+    "Models, Neurological",
+    "Models, Theoretical",
+    "Neural Networks, Computer",
+    "Neural Pathways",
+    "Neurons",
+    "Neurosciences",
+    "Signal Processing, Computer-Assisted",
+    "Synapses",
+    "Temporal Lobe",
+    "Visual Cortex"
+  ]
+}

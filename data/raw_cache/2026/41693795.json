@@ -1,0 +1,16 @@
+{
+  "pmid": "41693795",
+  "title": "A computational architecture incorporating shallow brain networks: integrating parallel cortical and subcortical processing.",
+  "abstract": "Artificial neural networks commonly have deep hierarchical structures that were originally inspired by the neuroanatomical evidence of cortico-cortical connectivity pattern found in the mammalian brain. Largely under-represented in those models are non-hierarchical aspects of brain architecture, namely the subcortical pathways and the interactions between cortical and subcortical areas regardless of their hierarchical locations. Inspired by this principle, we present a computational model combining cortical hierarchical processing with subcortical pathways based on neuroanatomical evidence. We show the versatility of our model by implementing the cortical hierarchy in two alternative ways-a convolutional feedforward network and a predictive coding network. Both model variants can replicate behavioral observations in humans and monkeys on a perceptual context-dependent decision-making task. The model also reveals that subcortical structures lead decisions for easy trials while the more complex hierarchical network is necessary for the harder trials. Our results suggest that the parallel cortico-subcortical processing explored in the model represents a fundamental property that cannot be neglected in understanding the computational principles used by the brain.",
+  "authors": [
+    "Lee Kwangjun",
+    "Baracco Lorenzo",
+    "Pennartz Cyriel M A",
+    "Suzuki Mototaka",
+    "Mejias Jorge F"
+  ],
+  "journal": "Current research in neurobiology",
+  "year": "2026",
+  "doi": "10.1016/j.crneur.2026.100155",
+  "mesh": []
+}

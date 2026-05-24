@@ -1,0 +1,40 @@
+{
+  "pmid": "23152609",
+  "title": "Efficient coding of spatial information in the primate retina.",
+  "abstract": "Sensory neurons have been hypothesized to efficiently encode signals from the natural environment subject to resource constraints. The predictions of this efficient coding hypothesis regarding the spatial filtering properties of the visual system have been found consistent with human perception, but they have not been compared directly with neural responses. Here, we analyze the information that retinal ganglion cells transmit to the brain about the spatial information in natural images subject to three resource constraints: the number of retinal ganglion cells, their total response variances, and their total synaptic strengths. We derive a model that optimizes the transmitted information and compare it directly with measurements of complete functional connectivity between cone photoreceptors and the four major types of ganglion cells in the primate retina, obtained at single-cell resolution. We find that the ganglion cell population exhibited 80% efficiency in transmitting spatial information relative to the model. Both the retina and the model exhibited high redundancy (~30%) among ganglion cells of the same cell type. A novel and unique prediction of efficient coding, the relationships between projection patterns of individual cones to all ganglion cells, was consistent with the observed projection patterns in the retina. These results indicate a high level of efficiency with near-optimal redundancy in visual signaling by the retina.",
+  "authors": [
+    "Doi Eizaburo",
+    "Gauthier Jeffrey L",
+    "Field Greg D",
+    "Shlens Jonathon",
+    "Sher Alexander",
+    "Greschner Martin",
+    "Machado Timothy A",
+    "Jepson Lauren H",
+    "Mathieson Keith",
+    "Gunning Deborah E",
+    "Litke Alan M",
+    "Paninski Liam",
+    "Chichilnisky E J",
+    "Simoncelli Eero P"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2012",
+  "doi": "10.1523/JNEUROSCI.4036-12.2012",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Linear Models",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Normal Distribution",
+    "Photic Stimulation",
+    "Retina",
+    "Retinal Cone Photoreceptor Cells",
+    "Retinal Ganglion Cells",
+    "Space Perception",
+    "Visual Fields",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "15800187",
+  "title": "Adaptivity of tuning functions in a generic recurrent network model of a cortical hypercolumn.",
+  "abstract": "The representation of orientation information in the adult visual cortex is plastic as exemplified by phenomena such as perceptual learning or attention. Although these phenomena operate on different time scales and give rise to different changes in the response properties of neurons, both lead to an improvement in visual discrimination or detection tasks. If, however, optimal performance is indeed the goal, the question arises as to why the changes in neuronal response properties are so different. Here, we hypothesize that these differences arise naturally if optimal performance is achieved by means of different mechanisms. To evaluate this hypothesis, we set up a recurrent network model of a visual cortical hypercolumn and asked how each of four different parameter sets (strength of afferent and recurrent synapses, neuronal gains, and additive background inputs) must be changed to optimally improve the encoding accuracy of a particular set of visual stimuli. We find that the predicted changes in the population responses and the tuning functions were different for each set of parameters, hence were strongly dependent on the plasticity mechanism that was operative. An optimal change in the strength of the recurrent connections, for example, led to changes in the response properties that are similar to the changes observed in perceptual learning experiments. An optimal change in the neuronal gains led to changes mimicking neural effects of attention. Assuming the validity of the optimal encoding hypothesis, these model predictions can be used to disentangle the mechanisms of perceptual learning, attention, and other adaptation phenomena.",
+  "authors": [
+    "Schwabe Lars",
+    "Obermayer Klaus"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Feedback",
+    "Learning",
+    "Macaca mulatta",
+    "Neural Inhibition",
+    "Neural Networks, Computer",
+    "Neuronal Plasticity",
+    "Orientation",
+    "Synapses",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

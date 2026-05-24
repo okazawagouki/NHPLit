@@ -1,0 +1,27 @@
+{
+  "pmid": "22578507",
+  "title": "What makes a cell face selective? The importance of contrast.",
+  "abstract": "Faces are robustly detected by computer vision algorithms that search for characteristic coarse contrast features. Here, we investigated whether face-selective cells in the primate brain exploit contrast features as well. We recorded from face-selective neurons in macaque inferotemporal cortex, while presenting a face-like collage of regions whose luminances were changed randomly. Modulating contrast combinations between regions induced activity changes ranging from no response to a response greater than that to a real face in 50% of cells. The critical stimulus factor determining response magnitude was contrast polarity, for example, nose region brighter than left eye. Contrast polarity preferences were consistent across cells, suggesting a common computational strategy across the population, and matched features used by computer vision algorithms for face detection. Furthermore, most cells were tuned both for contrast polarity and for the geometry of facial features, suggesting cells encode information useful both for detection and recognition.",
+  "authors": [
+    "Ohayon Shay",
+    "Freiwald Winrich A",
+    "Tsao Doris Y"
+  ],
+  "journal": "Neuron",
+  "year": "2012",
+  "doi": "10.1016/j.neuron.2012.03.024",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Contrast Sensitivity",
+    "Face",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

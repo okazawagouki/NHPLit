@@ -1,0 +1,27 @@
+{
+  "pmid": "18272400",
+  "title": "Studying the human brain anatomical network via diffusion-weighted MRI and Graph Theory.",
+  "abstract": "Our goal is to study the human brain anatomical network. For this, the anatomical connection probabilities (ACP) between 90 cortical and subcortical brain gray matter areas are estimated from diffusion-weighted Magnetic Resonance Imaging (DW-MRI) techniques. The ACP between any two areas gives the probability that those areas are connected at least by a single nervous fiber. Then, the brain is modeled as a non-directed weighted graph with continuous arc weights given by the ACP matrix. Based on this approach, complex networks properties such as small-world attributes, efficiency, degree distribution, vulnerability, betweenness centrality and motifs composition are studied. The analysis was carried out for 20 right-handed healthy subjects (mean age: 31.10, S.D.: 7.43). According to the results, all networks have small-world and broad-scale characteristics. Additionally, human brain anatomical networks present bigger local efficiency and smaller global efficiency than the corresponding random networks. In a vulnerability and betweenness centrality analysis, the most indispensable and critical anatomical areas were identified: putamens, precuneus, insulas, superior parietals and superior frontals. Interestingly, some areas have a negative vulnerability (e.g. superior temporal poles, pallidums, supramarginals and hechls), which suggest that even at the cost of losing in global anatomical efficiency, these structures were maintained through the evolutionary processes due to their important functions. Finally, symmetrical characteristic building blocks (motifs) of size 3 and 4 were calculated, obtaining that motifs of size 4 are the expanded version of motif of size 3. These results are in agreement with previous anatomical studies in the cat and macaque cerebral cortex.",
+  "authors": [
+    "Iturria-Medina Yasser",
+    "Sotero Roberto C",
+    "Canales-Rodríguez Erick J",
+    "Alemán-Gómez Yasser",
+    "Melie-García Lester"
+  ],
+  "journal": "NeuroImage",
+  "year": "2008",
+  "doi": "10.1016/j.neuroimage.2007.10.060",
+  "mesh": [
+    "Adult",
+    "Algorithms",
+    "Brain",
+    "Diffusion Magnetic Resonance Imaging",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Male",
+    "Nerve Fibers",
+    "Nerve Net",
+    "Neural Pathways"
+  ]
+}

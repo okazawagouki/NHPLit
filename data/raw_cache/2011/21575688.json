@@ -1,0 +1,28 @@
+{
+  "pmid": "21575688",
+  "title": "Decoding the activity of grasping neurons recorded from the ventral premotor area F5 of the macaque monkey.",
+  "abstract": "Many neurons in the monkey ventral premotor area F5 discharge selectively when the monkey grasps an object with a specific grip. Of these, the motor neurons are active only during grasping execution, whereas the visuomotor neurons also respond to object presentation. Here we assessed whether the activity of 90 task-related F5 neurons recorded from two macaque monkeys during the performance of a visually-guided grasping task can be used as input to pattern recognition algorithms aiming to decode different grips. The features exploited for the decoding were the mean firing rate and the mean interspike interval calculated over different time spans of the movement period (all neurons) or of the object presentation period (visuomotor neurons). A support vector machine (SVM) algorithm was applied to the neural activity recorded while the monkey grasped two sets of objects. The original set contained three objects that were grasped with different hand shapes, plus three others that were grasped with the same grip, whereas the six objects of the special set were grasped with six distinctive hand configurations. The algorithm predicted with accuracy greater than 95% all the distinct grips used to grasp the objects. The classification rate obtained using the first 25% of the movement period was 90%, whereas it was nearly perfect using the entire period. At least 16 neurons were needed for accurate performance, with a progressive increase in accuracy as more neurons were included. Classification errors revealed by confusion matrices were found to reflect similarities of hand grips used to grasp the objects. The use of visuomotor neurons' responses to object presentation yielded grip classification accuracy similar to that obtained from actual grasping execution. We suggest that F5 grasping-related activity might be used by neural prostheses to tailor hand shape to the specific object to be grasped even before movement onset.",
+  "authors": [
+    "Carpaneto J",
+    "Umiltà M A",
+    "Fogassi L",
+    "Murata A",
+    "Gallese V",
+    "Micera S",
+    "Raos V"
+  ],
+  "journal": "Neuroscience",
+  "year": "2011",
+  "doi": "10.1016/j.neuroscience.2011.04.062",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Electroencephalography",
+    "Hand Strength",
+    "Macaca",
+    "Motor Cortex",
+    "Neurons",
+    "Psychomotor Performance",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

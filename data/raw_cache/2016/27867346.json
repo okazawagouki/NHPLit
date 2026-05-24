@@ -1,0 +1,17 @@
+{
+  "pmid": "27867346",
+  "title": "An Event-Based Neurobiological Recognition System with Orientation Detector for Objects in Multiple Orientations.",
+  "abstract": "A new multiple orientation event-based neurobiological recognition system is proposed by integrating recognition and tracking function in this paper, which is used for asynchronous address-event representation (AER) image sensors. The characteristic of this system has been enriched to recognize the objects in multiple orientations with only training samples moving in a single orientation. The system extracts multi-scale and multi-orientation line features inspired by models of the primate visual cortex. An orientation detector based on modified Gaussian blob tracking algorithm is introduced for object tracking and orientation detection. The orientation detector and feature extraction block work in simultaneous mode, without any increase in categorization time. An addresses lookup table (addresses LUT) is also presented to adjust the feature maps by addresses mapping and reordering, and they are categorized in the trained spiking neural network. This recognition system is evaluated with the MNIST dataset which have played important roles in the development of computer vision, and the accuracy is increased owing to the use of both ON and OFF events. AER data acquired by a dynamic vision senses (DVS) are also tested on the system, such as moving digits, pokers, and vehicles. The experimental results show that the proposed system can realize event-based multi-orientation recognition. The work presented in this paper makes a number of contributions to the event-based vision processing system for multi-orientation object recognition. It develops a new tracking-recognition architecture to feedforward categorization system and an address reorder approach to classify multi-orientation objects using event-based data. It provides a new way to recognize multiple orientation objects with only samples in single orientation.",
+  "authors": [
+    "Wang Hanyu",
+    "Xu Jiangtao",
+    "Gao Zhiyuan",
+    "Lu Chengye",
+    "Yao Suying",
+    "Ma Jianguo"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2016",
+  "doi": "",
+  "mesh": []
+}

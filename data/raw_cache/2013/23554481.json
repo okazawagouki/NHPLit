@@ -1,0 +1,31 @@
+{
+  "pmid": "23554481",
+  "title": "Toward high performance, weakly invasive brain computer interfaces using selective visual attention.",
+  "abstract": "Brain-computer interfaces have been proposed as a solution for paralyzed persons to communicate and interact with their environment. However, the neural signals used for controlling such prostheses are often noisy and unreliable, resulting in a low performance of real-world applications. Here we propose neural signatures of selective visual attention in epidural recordings as a fast, reliable, and high-performance control signal for brain prostheses. We recorded epidural field potentials with chronically implanted electrode arrays from two macaque monkeys engaged in a shape-tracking task. For single trials, we classified the direction of attention to one of two visual stimuli based on spectral amplitude, coherence, and phase difference in time windows fixed relative to stimulus onset. Classification performances reached up to 99.9%, and the information about attentional states could be transferred at rates exceeding 580 bits/min. Good classification can already be achieved in time windows as short as 200 ms. The classification performance changed dynamically over the trial and modulated with the task's varying demands for attention. For all three signal features, the information about the direction of attention was contained in the γ-band. The most informative feature was spectral amplitude. Together, these findings establish a novel paradigm for constructing brain prostheses as, for example, virtual spelling boards, promising a major gain in performance and robustness for human brain-computer interfaces.",
+  "authors": [
+    "Rotermund David",
+    "Ernst Udo A",
+    "Mandon Sunita",
+    "Taylor Katja",
+    "Smiyukha Yulia",
+    "Kreiter Andreas K",
+    "Pawelzik Klaus R"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2013",
+  "doi": "10.1523/JNEUROSCI.4225-12.2013",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Discrimination, Psychological",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Evoked Potentials",
+    "Macaca mulatta",
+    "Male",
+    "Photic Stimulation",
+    "Reaction Time"
+  ]
+}

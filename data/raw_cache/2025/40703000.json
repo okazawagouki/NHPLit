@@ -1,0 +1,31 @@
+{
+  "pmid": "40703000",
+  "title": "Ultrahigh-Field MR-Compatible Mechanical Tactile Stimulator for Investigating Somatosensory Processing in Small-Bodied Animals.",
+  "abstract": "Common marmosets (Callithrix jacchus), small-bodied New World primates that share similar sensory processing pathways with human beings, have gained great interests. Their small body size allows imaging of brain activity with high spatial resolution and on a whole-brain scale using ultrahigh-field (UHF) magnetic resonance imaging (MRI) scanners. However, the strong magnetic field and the small size of the hand and forearm pose challenges in delivering tactile stimulation during fMRI experiments. In the present study, we developed an MR-compatible tactile dual-point stimulator to provide high-precision mechanical stimulation for exploring somatosensory processing in small-bodied animals. The study population consisted of a water phantom and three male common marmosets. Cerebral blood volume (CBV) weighted fMRI data were obtained with a gradient echo (GE), echo-planar imaging (EPI) sequence at 7T scanner. The output performance of the device was tested by a pressure sensor. The MR compatibility of the device was verified by measuring the temporal signal-to-noise ratio (tSNR) of a water phantom. To test the effectiveness of tactile stimulation, we conducted block designed tactile stimulation experiments on marmosets. A one-way repeated measures ANOVA was conducted for comparing the tSNR results. We performed one-sample t-tests to investigate the negative response of the forearm and hand stimulation with a threshold of t > 1.96 (p < 0.05). Performance tests revealed that mechanical stimulation (averaged force: 31.69 g) was applied with a delay of 12 ms. Phantom experiments confirmed that there was no significant difference in the tSNR among three (10 Hz, 1 Hz, and no-stimulus) conditions (F (2, 798) = 0.71, p = 0.49). The CBV activity results showed that the stimulator successfully elicited hand and forearm somatosensory activations in primary somatosensory areas. These results indicated that the device is well suited for small-bodied animal somatosensory studies.",
+  "authors": [
+    "Wang Chenyu",
+    "Imai Hirohiko",
+    "Fukunaga Masaki",
+    "Yamamoto Hiroki",
+    "Yu Yinghua",
+    "Seki Kazuhiko",
+    "Hanakawa Takashi",
+    "Umeda Tatsuya",
+    "Yang Jiajia"
+  ],
+  "journal": "NMR in biomedicine",
+  "year": "2025",
+  "doi": "10.1002/nbm.70105",
+  "mesh": [
+    "Animals",
+    "Callithrix",
+    "Male",
+    "Magnetic Resonance Imaging",
+    "Physical Stimulation",
+    "Phantoms, Imaging",
+    "Touch",
+    "Somatosensory Cortex",
+    "Equipment Design",
+    "Signal-To-Noise Ratio"
+  ]
+}

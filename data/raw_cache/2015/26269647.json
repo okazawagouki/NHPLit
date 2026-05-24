@@ -1,0 +1,30 @@
+{
+  "pmid": "26269647",
+  "title": "Predicting Reaction Time from the Neural State Space of the Premotor and Parietal Grasping Network.",
+  "abstract": "UNLABELLED: Neural networks of the brain involved in the planning and execution of grasping movements are not fully understood. The network formed by macaque anterior intraparietal area (AIP) and hand area (F5) of the ventral premotor cortex is implicated strongly in the generation of grasping movements. However, the differential role of each area in this frontoparietal network is unclear. We recorded spiking activity from many electrodes in parallel in AIP and F5 while three macaque monkeys (Macaca mulatta) performed a delayed grasping task. By analyzing neural population activity during action preparation, we found that state space analysis of simultaneously recorded units is significantly more predictive of subsequent reaction times (RTs) than traditional methods. Furthermore, because we observed a wide variety of individual unit characteristics, we developed the sign-corrected average rate (SCAR) method of neural population averaging. The SCAR method was able to explain at least as much variance in RT overall as state space methods. Overall, F5 activity predicted RT (18% variance explained) significantly better than AIP (6%). The SCAR methods provides a straightforward interpretation of population activity, although other state space methods could provide richer descriptions of population dynamics. Together, these results lend support to the differential role of the parietal and frontal cortices in preparation for grasping, suggesting that variability in preparatory activity in F5 has a more potent effect on trial-to-trial RT variability than AIP. SIGNIFICANCE STATEMENT: Grasping movements are planned before they are executed, but how is the preparatory activity in a population of neurons related to the subsequent reaction time (RT)? A population analysis of the activity of many neurons recorded in parallel in macaque premotor (F5) and parietal (AIP) cortices during a delayed grasping task revealed that preparatory activity in F5 could explain a threefold larger fraction of variability in trial-to-trial RT than AIP. These striking differences lend additional support to a differential role of the parietal and premotor cortices in grasp movement preparation, suggesting that F5 has a more direct influence on trial-to-trial variability and movement timing, whereas AIP might be more closely linked to overall movement intentions.",
+  "authors": [
+    "Michaels Jonathan A",
+    "Dann Benjamin",
+    "Intveld Rijk W",
+    "Scherberger Hansjörg"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.1714-15.2015",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain Mapping",
+    "Eye Movements",
+    "Female",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Parietal Lobe",
+    "Psychomotor Performance",
+    "Reaction Time"
+  ]
+}

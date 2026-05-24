@@ -1,0 +1,27 @@
+{
+  "pmid": "19524614",
+  "title": "Cell image area as a tool for neuronal classification.",
+  "abstract": "The measurement of the area of a shapeless plane region is one of the basic problems in traditional calculus. In order to calculate the 'true' area of such a region, we have superimposed a net of identical squares on this region, counted the squares containing at least one point of the region, and calculated the sum of the areas of said squares. This sum represents an approximation of the region's area. By mathematical modelling and computational techniques we have investigated the law governing the decrease of these areas with the decrease of the length of the square's side. In theory, the prediction of the 'true' area could then be performed if the side of the net's squares tend to zero. Of course, the accuracy of the calculated area strongly depends on the computational potential and the statistical possibilities. Several morphometric parameters are currently in use for the quantitative analysis of the morphology of neuronal cell images. The cell image area has not yet been used and evaluated as a classification parameter - but it has the potential to be chosen over some other alternatives due to the high mathematical accuracy at which it is defined. By adopting mathematical modelling and computational techniques we show that this parameter can lead to successful distinction between 2 types of morphologically very similar cells (large boundary neuron and large asymmetrical neuron) in the dentate nucleus of the rhesus monkey (Macaca mulatta), while some other parameters failed to achieve positive results.",
+  "authors": [
+    "Ristanović Dusan",
+    "Milosević Nebojsa T",
+    "Stefanović Ivan B",
+    "Marić Dusan",
+    "Popov Ivan"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2009",
+  "doi": "10.1016/j.jneumeth.2009.06.004",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cerebellar Nuclei",
+    "Data Interpretation, Statistical",
+    "Dendrites",
+    "Image Processing, Computer-Assisted",
+    "Imaging, Three-Dimensional",
+    "Macaca mulatta",
+    "Models, Statistical",
+    "Neurons"
+  ]
+}

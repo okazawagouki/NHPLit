@@ -1,0 +1,24 @@
+{
+  "pmid": "12044667",
+  "title": "Classification of neural signals by a generalized correlation classifier based on radial basis functions.",
+  "abstract": "A common problem in neuroscience is to identify the features by which a set of measurements can be segregated into different classes, for example into different responses to sensory stimuli. A main difficulty is that the derived distributions are often high-dimensional and complex. Many multivariate analysis techniques, therefore, aim to find a simpler low-dimensional representation. Most of them either involve huge efforts in implementation and data handling or ignore important structures and relationships within the original data. We developed a dimension reduction method by means of radial basis functions (RBF), where only a system of linear equations has to be solved. We show that this approach can be regarded as an extension of a linear correlation-based classifier. The validity and reliability of this technique is demonstrated on artificial data sets. Its practical relevance is further confirmed by discriminating recordings from monkey visual cortex evoked by different stimuli.",
+  "authors": [
+    "Kremper Alexander",
+    "Schanze Thomas",
+    "Eckhorn Reinhard"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Discriminant Analysis",
+    "Electrodes",
+    "Haplorhini",
+    "Models, Neurological",
+    "Photic Stimulation",
+    "Reproducibility of Results",
+    "Synaptic Transmission",
+    "Visual Cortex"
+  ]
+}

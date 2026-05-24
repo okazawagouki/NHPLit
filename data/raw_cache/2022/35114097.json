@@ -1,0 +1,17 @@
+{
+  "pmid": "35114097",
+  "title": "Population temporal structure supplements the rate code during sensorimotor transformations.",
+  "abstract": "Sensorimotor transformations are mediated by premotor brain networks where individual neurons represent sensory, cognitive, and movement-related information. Such multiplexing poses a conundrum-how does a decoder know precisely when to initiate a movement if its inputs are active at times when a movement is not desired (e.g., in response to sensory stimulation)? Here, we propose a novel hypothesis: movement is triggered not only by an increase in firing rate but, critically, also by a reliable temporal pattern in the population response. Laminar recordings in the macaque superior colliculus (SC), a midbrain hub of orienting control, and pseudo-population analyses in SC and cortical frontal eye fields (FEFs) corroborated this hypothesis. Specifically, using a measure that captures the fidelity of the population code-here called temporal stability-we show that the temporal structure fluctuates during the visual response but becomes increasingly stable during the movement command. Importantly, we used spatiotemporally patterned microstimulation to causally test the contribution of population temporal stability in gating movement initiation and found that stable stimulation patterns were more likely to evoke a movement. Finally, a spiking neuron model was able to discriminate between stable and unstable input patterns, providing a putative biophysical mechanism for decoding temporal structure. These findings offer new insights into the long-standing debate on motor preparation and generation by situating the movement gating signal in temporal features of activity in shared neural substrates, and they highlight the importance of short-term population history in neuronal communication and behavior.",
+  "authors": [
+    "Jagadisan Uday K",
+    "Gandhi Neeraj J"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2022",
+  "doi": "10.1016/j.cub.2022.01.015",
+  "mesh": [
+    "Neurons",
+    "Saccades",
+    "Superior Colliculi"
+  ]
+}

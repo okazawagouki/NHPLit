@@ -1,0 +1,29 @@
+{
+  "pmid": "10896185",
+  "title": "Work toward real-time control of a cortical neural prothesis.",
+  "abstract": "Implantable devices that interact directly with the human nervous system have been gaining acceptance in the field of medicine since the 1960's. More recently, as is noted by the FDA approval of a deep brain stimulator for movement disorders, interest has shifted toward direct communication with the central nervous system (CNS). Deep brain stimulation (DBS) can have a remarkable effect on the lives of those with certain types of disabilities such as Parkinson's disease, Essential Tremor, and dystonia. To correct for many of the motor impairments not treatable by DBS (e.g. quadriplegia), it would be desirable to extract from the CNS a control signal for movement. A direct interface with motor cortical neurons could provide an optimal signal for restoring movement. In order to accomplish this, a real-time conversion of simultaneously recorded neural activity to an online command for movement is required. A system has been established to isolate the cellular activity of a group of motor neurons and interpret their movement-related information with a minimal delay. The real-time interpretation of cortical activity on a millisecond time scale provides an integral first step in the development of a direct brain-computer interface (BCI).",
+  "authors": [
+    "Isaacs R E",
+    "Weber D J",
+    "Schwartz A B"
+  ],
+  "journal": "IEEE transactions on rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Computer Systems",
+    "Electrodes, Implanted",
+    "Evoked Potentials, Motor",
+    "Humans",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Parkinsonian Disorders",
+    "Prosthesis Design",
+    "Psychomotor Performance",
+    "Signal Processing, Computer-Assisted",
+    "User-Computer Interface"
+  ]
+}

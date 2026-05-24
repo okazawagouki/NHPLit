@@ -1,0 +1,28 @@
+{
+  "pmid": "18971518",
+  "title": "Decoding a bistable percept with integrated time-frequency representation of single-trial local field potential.",
+  "abstract": "Bistable perception emerges when a stimulus under continuous view is perceived as the alternation of two mutually exclusive states. Such a stimulus provides a unique opportunity for understanding the neural basis of visual perception because it dissociates the perception from the visual input. In this paper we analyze the dynamic activity of local field potential (LFP), simultaneously collected from multiple channels in the middle temporal (MT) visual cortex of a macaque monkey, for decoding its bistable structure-from-motion (SFM) perception. Based on the observation that the discriminative information of neuronal population activity evolves and accumulates over time, we propose to select features from the integrated time-frequency representation of LFP using a relaxation (RELAX) algorithm and a sequential forward selection (SFS) algorithm with maximizing the Mahalanobis distance as the criterion function. The integrated-spectrogram based feature selection is much more robust and can achieve significantly better features than the instantaneous-spectrogram based feature selection. We exploit the support vector machines (SVM) classifier and the linear discriminant analysis (LDA) classifier based on the selected features to decode the reported perception on a single trial basis. Our results demonstrate the excellent performance of the integrated-spectrogram based feature selection and suggest that the features in the gamma frequency band (30-100 Hz) of LFP within specific temporal windows carry the most discriminative information for decoding bistable perception. The proposed integrated-spectrogram based feature selection approach may have potential for a myriad of applications involving multivariable time series such as brain-computer interfaces (BCI).",
+  "authors": [
+    "Wang Zhisong",
+    "Logothetis Nikos K",
+    "Liang Hualou"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2008",
+  "doi": "10.1088/1741-2560/5/4/008",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artificial Intelligence",
+    "Data Interpretation, Statistical",
+    "Electrophysiology",
+    "Evoked Potentials, Visual",
+    "Fixation, Ocular",
+    "Linear Models",
+    "Macaca mulatta",
+    "Male",
+    "Models, Statistical",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

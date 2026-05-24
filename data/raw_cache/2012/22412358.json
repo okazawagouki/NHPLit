@@ -1,0 +1,29 @@
+{
+  "pmid": "22412358",
+  "title": "State-space analysis of time-varying higher-order spike correlation for multiple neural spike train data.",
+  "abstract": "Precise spike coordination between the spiking activities of multiple neurons is suggested as an indication of coordinated network activity in active cell assemblies. Spike correlation analysis aims to identify such cooperative network activity by detecting excess spike synchrony in simultaneously recorded multiple neural spike sequences. Cooperative activity is expected to organize dynamically during behavior and cognition; therefore currently available analysis techniques must be extended to enable the estimation of multiple time-varying spike interactions between neurons simultaneously. In particular, new methods must take advantage of the simultaneous observations of multiple neurons by addressing their higher-order dependencies, which cannot be revealed by pairwise analyses alone. In this paper, we develop a method for estimating time-varying spike interactions by means of a state-space analysis. Discretized parallel spike sequences are modeled as multi-variate binary processes using a log-linear model that provides a well-defined measure of higher-order spike correlation in an information geometry framework. We construct a recursive Bayesian filter/smoother for the extraction of spike interaction parameters. This method can simultaneously estimate the dynamic pairwise spike interactions of multiple single neurons, thereby extending the Ising/spin-glass model analysis of multiple neural spike train data to a nonstationary analysis. Furthermore, the method can estimate dynamic higher-order spike interactions. To validate the inclusion of the higher-order terms in the model, we construct an approximation method to assess the goodness-of-fit to spike data. In addition, we formulate a test method for the presence of higher-order spike correlation even in nonstationary spike data, e.g., data from awake behaving animals. The utility of the proposed methods is tested using simulated spike data with known underlying correlation dynamics. Finally, we apply the methods to neural spike data simultaneously recorded from the motor cortex of an awake monkey and demonstrate that the higher-order spike correlation organizes dynamically in relation to a behavioral demand.",
+  "authors": [
+    "Shimazaki Hideaki",
+    "Amari Shun-Ichi",
+    "Brown Emery N",
+    "Grün Sonja"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2012",
+  "doi": "10.1371/journal.pcbi.1002385",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Electroencephalography",
+    "Haplorhini",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Nerve Net",
+    "Neurons",
+    "Statistics as Topic",
+    "Task Performance and Analysis"
+  ]
+}

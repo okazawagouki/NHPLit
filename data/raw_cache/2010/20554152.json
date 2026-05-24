@@ -1,0 +1,29 @@
+{
+  "pmid": "20554152",
+  "title": "Visualization of multi-neuron activity by simultaneous optimization of clustering and dimension reduction.",
+  "abstract": "The recent development of arrays of microelectrodes have enabled simultaneous recordings of the activities of more than 100 neurons. However, it is difficult to visualize activity patterns across many neurons and gain some intuition about issues such as whether the patterns are related to some functions, e.g. perceptual categories. To explore the issues, we used a variational Bayes algorithm to perform clustering and dimension reduction simultaneously. We employed both artificial data and real neuron data to examine the performance of our algorithm. We obtained better clustering results than in a subspace that were obtained by principal component analysis.",
+  "authors": [
+    "Matsumoto Narihisa",
+    "Akaho Shotaro",
+    "Sugase-Miyamoto Yasuko",
+    "Okada Masato"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2010",
+  "doi": "10.1016/j.neunet.2010.05.003",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cluster Analysis",
+    "Computer Simulation",
+    "Electrophysiology",
+    "Humans",
+    "Macaca",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Neurophysiology",
+    "Reaction Time",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

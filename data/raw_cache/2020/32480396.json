@@ -1,0 +1,23 @@
+{
+  "pmid": "32480396",
+  "title": "Characterizing the orientation selectivity in V1 and V4 of macaques by quadratic phase coupling.",
+  "abstract": "OBJECTIVE: Orientation selectivity is one of the significant characteristics of neurons in the primary visual cortex (V1). Some neurons in extrastriate visual cortical areas also exhibit certain orientation selectivity. But it is still not well understood that how the orientation selectivity generates. Most previous studies about the orientation selectivity are based on the spike firing rate. However, the spikes are prone to be biased by the detection and sorting algorithms. Then, in this paper, the local field potential (LFP) is adopted to investigate the mechanism of orientation selectivity. APPROACH: We used the quadratic phase coupling (QPC), which was calculated by wavelet bicoherence, to describe the characteristics of orientation selectivity available in V1 and V4. The raw wideband neural signals were recorded by two chronically implanted multi-electrode arrays, which were placed in V1 and V4 respectively in two macaques performing a selective visual attention task. MAIN RESULTS: There is a strong correlation between the total bicoherence (TotalBic), which is a quantization for the overall QPC of frequency pairs in gamma band, and the grating orientation. Furthermore, the QPC distribution at the non-preferred orientation is mainly concentrated in the low frequencies (30-40 Hz) of gamma; while the QPC distribution at the preferred orientation concentrates in both the low frequencies and high frequencies (60-80 Hz) of gamma. In addition, the TotalBic of the gamma-band LFP between V1 and V4 varies with the grating orientations, indicating that the QPC is available in the feedforward link and the gamma-band LFP in V1 modulates the QPC in V4. SIGNIFICANCE: The QPC reflects the orientations of the sinusoidal grating and describes the interaction of gamma-band LFP between different brain regions. Our results suggest that the QPC is an alternative avenue to explore the mechanism for generating orientation selectivity of visual neurons effectively.",
+  "authors": [
+    "Li Zhaohui",
+    "Dong Zengxin",
+    "Bai Xiaochen",
+    "Liu Mingxin"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2020",
+  "doi": "10.1088/1741-2552/ab9843",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Neurons",
+    "Orientation",
+    "Orientation, Spatial",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

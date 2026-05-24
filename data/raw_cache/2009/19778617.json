@@ -1,0 +1,29 @@
+{
+  "pmid": "19778617",
+  "title": "Relating BOLD fMRI and neural oscillations through convolution and optimal linear weighting.",
+  "abstract": "The exact relationship between neural activity and BOLD fMRI is unknown. However, several recent findings, recorded invasively in both humans and monkeys, show a positive correlation of BOLD to high-frequency (30-150 Hz) oscillatory power changes and a negative correlation to low-frequency (8-30 Hz) power changes arising from cortical areas. In this study, we computed the time series correlation between BOLD GE-EPI fMRI at 7 T and neural activity measures from noninvasive MEG, using a time-frequency beam former for source localisation. A sinusoidal drifting grating was presented visually for 4 s followed by a 20 s rest period in both recording modalities. The MEG time series were convolved with either a measured or canonical haemodynamic response function (HRF) for comparison with the measured BOLD data, and the BOLD data were deconvolved with either a measured or a canonical HRF for comparison with the measured MEG. In the visual cortex, the higher frequencies (mid-gamma=52-75 Hz and high-gamma=75-98 Hz) were positively correlated with BOLD whilst the lower frequencies (alpha=8-12 Hz and beta=12-25 Hz) were negatively correlated with BOLD. Furthermore, regression including all frequency bands predicted BOLD better than stimulus timing alone, although no individual frequency band predicted BOLD as well as stimulus timing. For this paradigm, there was, in general, no difference between using the SPM canonical HRF compared to the subject-specific measured HRF. In conclusion, MEG replicates findings from invasive recordings with regard to time series correlations with BOLD data. Conversely, deconvolution of BOLD data provides a neural estimate which correlates well with measured neural effects as a function of neural oscillation frequency.",
+  "authors": [
+    "Zumer Johanna M",
+    "Brookes Matthew J",
+    "Stevenson Claire M",
+    "Francis Susan T",
+    "Morris Peter G"
+  ],
+  "journal": "NeuroImage",
+  "year": "2010",
+  "doi": "10.1016/j.neuroimage.2009.09.020",
+  "mesh": [
+    "Humans",
+    "Linear Models",
+    "Magnetic Resonance Imaging",
+    "Magnetoencephalography",
+    "Oxygen",
+    "Periodicity",
+    "Photic Stimulation",
+    "Regression Analysis",
+    "Signal Processing, Computer-Assisted",
+    "Time Factors",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

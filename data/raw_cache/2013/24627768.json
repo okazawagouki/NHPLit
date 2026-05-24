@@ -1,0 +1,15 @@
+{
+  "pmid": "24627768",
+  "title": "A flexible user-interface for audiovisual presentation and interactive control in neurobehavioral experiments.",
+  "abstract": "A major problem facing behavioral neuroscientists is a lack of unified, vendor-distributed data acquisition systems that allow stimulus presentation and behavioral monitoring while recording neural activity. Numerous systems perform one of these tasks well independently, but to our knowledge, a useful package with a straightforward user interface does not exist. Here we describe the development of a flexible, script-based user interface that enables customization for real-time stimulus presentation, behavioral monitoring and data acquisition. The experimental design can also incorporate neural microstimulation paradigms. We used this interface to deliver multimodal, auditory and visual (images or video) stimuli to a nonhuman primate and acquire single-unit data. Our design is cost-effective and works well with commercially available hardware and software. Our design incorporates a script, providing high-level control of data acquisition via a sequencer running on a digital signal processor to enable behaviorally triggered control of the presentation of visual and auditory stimuli. Our experiments were conducted in combination with eye-tracking hardware. The script, however, is designed to be broadly useful to neuroscientists who may want to deliver stimuli of different modalities using any animal model.",
+  "authors": [
+    "Noto Christopher T",
+    "Mahzar Suleman",
+    "Gnadt James",
+    "Kanwal Jagmeet S"
+  ],
+  "journal": "F1000Research",
+  "year": "2013",
+  "doi": "10.12688/f1000research.2-20.v2",
+  "mesh": []
+}

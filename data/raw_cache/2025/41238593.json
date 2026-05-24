@@ -1,0 +1,25 @@
+{
+  "pmid": "41238593",
+  "title": "Top-down perceptual inference shaping the activity of early visual cortex.",
+  "abstract": "Deep discriminative models provide remarkable insights into hierarchical processing in the brain by predicting neural activity along the visual pathway. However, these models differ from biological systems in their computational and architectural properties. Unlike biological systems, they require teaching signals for supervised learning. Moreover, they rely on feed-forward processing of stimuli, which contrasts with the extensive top-down connections in the ventral pathway. Here, we address both issues by developing a hierarchical deep generative model and show that it predicts an extensive set of experimental results in the primary and secondary visual cortices (V1 and V2). We show that the widely documented sensitivity of V2 neurons to textures is a consequence of learning a hierarchical representation of natural images. Further, we show that top-down influences are inherent to hierarchical inference. Hierarchical inference explains neural signatures of top-down interactions and reveals how higher-level representation shapes low-level representations through modulation of response mean and noise correlations in V1.",
+  "authors": [
+    "Csikor Ferenc",
+    "Meszéna Balázs",
+    "Ócsai Katalin",
+    "Orbán Gergő"
+  ],
+  "journal": "Nature communications",
+  "year": "2025",
+  "doi": "10.1038/s41467-025-64967-x",
+  "mesh": [
+    "Visual Cortex",
+    "Neurons",
+    "Visual Perception",
+    "Visual Pathways",
+    "Models, Neurological",
+    "Macaca",
+    "Animals",
+    "Photic Stimulation",
+    "Autoencoder"
+  ]
+}

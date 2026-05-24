@@ -1,0 +1,35 @@
+{
+  "pmid": "28076681",
+  "title": "Computational Modeling of Neurotransmitter Release Evoked by Electrical Stimulation: Nonlinear Approaches to Predicting Stimulation-Evoked Dopamine Release.",
+  "abstract": "Neurochemical changes evoked by electrical stimulation of the nervous system have been linked to both therapeutic and undesired effects of neuromodulation therapies used to treat obsessive-compulsive disorder, depression, epilepsy, Parkinson's disease, stroke, hypertension, tinnitus, and many other indications. In fact, interest in better understanding the role of neurochemical signaling in neuromodulation therapies has been a focus of recent government- and industry-sponsored programs whose ultimate goal is to usher in an era of personalized medicine by creating neuromodulation therapies that respond to real-time changes in patient status. A key element to achieving these precision therapeutic interventions is the development of mathematical modeling approaches capable of describing the nonlinear transfer function between neuromodulation parameters and evoked neurochemical changes. Here, we propose two computational modeling frameworks, based on artificial neural networks (ANNs) and Volterra kernels, that can characterize the input/output transfer functions of stimulation-evoked neurochemical release. We evaluate the ability of these modeling frameworks to characterize subject-specific neurochemical kinetics by accurately describing stimulation-evoked dopamine release across rodent (R<sup>2</sup> = 0.83 Volterra kernel, R<sup>2</sup> = 0.86 ANN), swine (R<sup>2</sup> = 0.90 Volterra kernel, R<sup>2</sup> = 0.93 ANN), and non-human primate (R<sup>2</sup> = 0.98 Volterra kernel, R<sup>2</sup> = 0.96 ANN) models of brain stimulation. Ultimately, these models will not only improve understanding of neurochemical signaling in healthy and diseased brains but also facilitate the development of neuromodulation strategies capable of controlling neurochemical release via closed-loop strategies.",
+  "authors": [
+    "Trevathan James K",
+    "Yousefi Ali",
+    "Park Hyung Ook",
+    "Bartoletta John J",
+    "Ludwig Kip A",
+    "Lee Kendall H",
+    "Lujan J Luis"
+  ],
+  "journal": "ACS chemical neuroscience",
+  "year": "2017",
+  "doi": "10.1021/acschemneuro.6b00319",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Deep Brain Stimulation",
+    "Electrochemical Techniques",
+    "Female",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Neurotransmitter Agents",
+    "Nonlinear Dynamics",
+    "Predictive Value of Tests",
+    "Principal Component Analysis",
+    "Rats",
+    "Rats, Sprague-Dawley",
+    "Swine",
+    "Time Factors"
+  ]
+}

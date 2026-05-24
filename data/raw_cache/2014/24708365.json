@@ -1,0 +1,32 @@
+{
+  "pmid": "24708365",
+  "title": "Multiple tests based on a gaussian approximation of the unitary events method with delayed coincidence count.",
+  "abstract": "The unitary events (UE) method is one of the most popular and efficient methods used over the past decade to detect patterns of coincident joint spike activity among simultaneously recorded neurons. The detection of coincidences is usually based on binned coincidence count (Grün, 1996 ), which is known to be subject to loss in synchrony detection (Grün, Diesmann, Grammont, Riehle, & Aertsen, 1999 ). This defect has been corrected by the multiple shift coincidence count (Grün et al., 1999 ). The statistical properties of this count have not been further investigated until this work, the formula being more difficult to deal with than the original binned count. First, we propose a new notion of coincidence count, the delayed coincidence count, which is equal to the multiple shift coincidence count when discretized point processes are involved as models for the spike trains. Moreover, it generalizes this notion to nondiscretized point processes, allowing us to propose a new gaussian approximation of the count. Since unknown parameters are involved in the approximation, we perform a plug-in step, where unknown parameters are replaced by estimated ones, leading to a modification of the approximating distribution. Finally the method takes the multiplicity of the tests into account via a Benjamini and Hochberg approach (Benjamini & Hochberg, 1995 ), to guarantee a prescribed control of the false discovery rate. We compare our new method, MTGAUE (multiple tests based on a gaussian approximation of the unitary events) and the UE method proposed in Grün et al. ( 1999 ) over various simulations, showing that MTGAUE extends the validity of the previous method. In particular, MTGAUE is able to detect both profusion and lack of coincidences with respect to the independence case and is robust to changes in the underlying model. Furthermore MTGAUE is applied on real data.",
+  "authors": [
+    "Tuleau-Malot Christine",
+    "Rouis Amel",
+    "Grammont Franck",
+    "Reynaud-Bouret Patricia"
+  ],
+  "journal": "Neural computation",
+  "year": "2014",
+  "doi": "10.1162/NECO_a_00604",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Motor Activity",
+    "Neurons",
+    "Normal Distribution",
+    "Poisson Distribution",
+    "Probability",
+    "Signal Processing, Computer-Assisted",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "8340815",
+  "title": "A spiking network model of short-term active memory.",
+  "abstract": "Studies of cortical neurons in monkeys performing short-term memory tasks have shown that information about a stimulus can be maintained by persistent neuron firing for periods of many seconds after removal of the stimulus. The mechanism by which this sustained activity is initiated and maintained is unknown. In this article we present a spiking neural network model of short-term memory and use it to investigate the hypothesis that recurrent, or \"re-entrant,\" networks with constant connection strengths are sufficient to store graded information temporarily. The synaptic weights that enable the network to mimic the input-output characteristics of an active memory module are computed using an optimization procedure for recurrent networks with non-spiking neurons. This network is then transformed into one with spiking neurons by interpreting the continuous output values of the nonspiking model neurons as spiking probabilities. The behavior of the model neurons in this spiking network is compared with that of 179 single units previously recorded in monkey inferotemporal (IT) cortex during the performance of a short-term memory task. The spiking patterns of almost every model neuron are found to resemble closely those of IT neurons. About 40% of the IT neuron firing patterns are also found to be of the same types as those of model neurons. A property of the spiking model is that the neurons cannot maintain precise graded activity levels indefinitely, but eventually relax to one of a few constant activities called fixed-point attractors. The noise introduced into the model by the randomness of spiking causes the network to jump between these attractors. This switching between attractor states generates spike trains with a characteristic statistical temporal structure. We found evidence for the same kind of structure in the spike trains from about half of the IT neurons in our test set. These results show that the behavior of many real cortical memory neurons is consistent with an active storage mechanism based on recurrent activity in networks with fixed synaptic strengths.",
+  "authors": [
+    "Zipser D",
+    "Kehoe B",
+    "Littlewort G",
+    "Fuster J"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1993",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Haplorhini",
+    "Memory, Short-Term",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Temporal Lobe"
+  ]
+}

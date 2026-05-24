@@ -1,0 +1,36 @@
+{
+  "pmid": "11784806",
+  "title": "Redundancy reduction and sustained firing with stochastic depressing synapses.",
+  "abstract": "Many synapses in the CNS transmit only a fraction of the action potentials that reach them. Although unreliable, such synapses do not transmit completely randomly, because the probability of transmission depends on the recent history of synaptic activity. We examine how a variety of spike trains, including examples recorded from area V1 of monkeys freely viewing natural scenes, are transmitted through a realistic model synapse with activity-dependent depression arising from vesicle depletion or postrelease refractoriness. The resulting sequences of transmitted spikes are significantly less correlated, and hence less redundant, than the presynaptic spike trains that generate them. The spike trains we analyze, which are typical of those recorded in a variety of brain regions, have positive autocorrelations because of the occurrence of variable length periods of sustained firing at approximately constant rates. Sustained firing may, at first, seem inconsistent with input from depressing synapses. We show, however, that such a pattern of activity can arise if the postsynaptic neuron is driven by a fixed population of direct, \"feedforward\" inputs accompanied by a variable number of delayed, \"reverberatory\" inputs. This leads to a prediction for the number and latency distribution of the inputs that typically drive a cortical neuron.",
+  "authors": [
+    "Goldman Mark S",
+    "Maldonado Pedro",
+    "Abbott L F"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Behavior, Animal",
+    "Female",
+    "Fixation, Ocular",
+    "Information Theory",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neural Inhibition",
+    "Neurons",
+    "Photic Stimulation",
+    "Poisson Distribution",
+    "Predictive Value of Tests",
+    "Reaction Time",
+    "Reproducibility of Results",
+    "Saccades",
+    "Signal Processing, Computer-Assisted",
+    "Stochastic Processes",
+    "Synapses",
+    "Synaptic Transmission",
+    "Visual Cortex"
+  ]
+}

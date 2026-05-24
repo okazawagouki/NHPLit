@@ -1,0 +1,27 @@
+{
+  "pmid": "24760860",
+  "title": "Motor cortical correlates of arm resting in the context of a reaching task and implications for prosthetic control.",
+  "abstract": "Prosthetic devices are being developed to restore movement for motor-impaired individuals. A robotic arm can be controlled based on models that relate motor-cortical ensemble activity to kinematic parameters. The models are typically built and validated on data from structured trial periods during which a subject actively performs specific movements, but real-world prosthetic devices will need to operate correctly during rest periods as well. To develop a model of motor cortical modulation during rest, we trained monkeys (Macaca mulatta) to perform a reaching task with their own arm while recording motor-cortical single-unit activity. When a monkey spontaneously put its arm down to rest between trials, our traditional movement decoder produced a nonzero velocity prediction, which would cause undesired motion when applied to a prosthetic arm. During these rest periods, a marked shift was found in individual units' tuning functions. The activity pattern of the whole population during rest (Idle state) was highly distinct from that during reaching movements (Active state), allowing us to predict arm resting from instantaneous firing rates with 98% accuracy using a simple classifier. By cascading this state classifier and the movement decoder, we were able to predict zero velocity correctly, which would avoid undesired motion in a prosthetic application. Interestingly, firing rates during hold periods followed the Active pattern even though hold kinematics were similar to those during rest with near-zero velocity. These findings expand our concept of motor-cortical function by showing that population activity reflects behavioral context in addition to the direct parameters of the movement itself.",
+  "authors": [
+    "Velliste Meel",
+    "Kennedy Scott D",
+    "Schwartz Andrew B",
+    "Whitford Andrew S",
+    "Sohn Jeong-Woo",
+    "McMorland Angus J C"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2014",
+  "doi": "10.1523/JNEUROSCI.3520-13.2014",
+  "mesh": [
+    "Animals",
+    "Artificial Limbs",
+    "Biomechanical Phenomena",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Psychomotor Performance"
+  ]
+}

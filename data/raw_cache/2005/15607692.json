@@ -1,0 +1,26 @@
+{
+  "pmid": "15607692",
+  "title": "Self-organizing continuous attractor network models of hippocampal spatial view cells.",
+  "abstract": "Single neuron recording studies have demonstrated the existence of hippocampal spatial view neurons which encode information about the spatial location at which a primate is looking in the environment. These neurons are able to maintain their firing even in the absence of visual input. The standard neuronal network approach to model networks with memory that represent continuous spaces is that of continuous attractor networks. It has recently been shown how idiothetic (self-motion) inputs could update the activity packet of neuronal firing for a one-dimensional case (head direction cells), and for a two-dimensional case (place cells which represent the place where a rat is located). In this paper, we describe three models of primate hippocampal spatial view cells, which not only maintain their spatial firing in the absence of visual input, but can also be updated in the dark by idiothetic input. The three models presented in this paper represent different ways in which a continuous attractor network could integrate a number of different kinds of velocity signal (e.g., head rotation and eye movement) simultaneously. The first two models use velocity information from head angular velocity and from eye velocity cells, and make use of a continuous attractor network to integrate this information. A fundamental feature of the first two models is their use of a 'memory trace' learning rule which incorporates a form of temporal average of recent cell activity. Rules of this type are able to build associations between different patterns of neural activities that tend to occur in temporal proximity, and are incorporated in the model to enable the recent change in the continuous attractor to be associated with the contemporaneous idiothetic input. The third model uses positional information from head direction cells and eye position cells to update the representation of where the agent is looking in the dark. In this case the integration of idiothetic velocity signals is performed in the earlier layer of head direction cells.",
+  "authors": [
+    "Stringer S M",
+    "Rolls E T",
+    "Trappenberg T P"
+  ],
+  "journal": "Neurobiology of learning and memory",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Conditioning, Classical",
+    "Hippocampus",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Primates",
+    "Space Perception",
+    "Spatial Behavior"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "28298305",
+  "title": "Population activity statistics dissect subthreshold and spiking variability in V1.",
+  "abstract": "Response variability, as measured by fluctuating responses upon repeated performance of trials, is a major component of neural responses, and its characterization is key to interpret high dimensional population recordings. Response variability and covariability display predictable changes upon changes in stimulus and cognitive or behavioral state, providing an opportunity to test the predictive power of models of neural variability. Still, there is little agreement on which model to use as a building block for population-level analyses, and models of variability are often treated as a subject of choice. We investigate two competing models, the doubly stochastic Poisson (DSP) model assuming stochasticity at spike generation, and the rectified Gaussian (RG) model tracing variability back to membrane potential variance, to analyze stimulus-dependent modulation of both single-neuron and pairwise response statistics. Using a pair of model neurons, we demonstrate that the two models predict similar single-cell statistics. However, DSP and RG models have contradicting predictions on the joint statistics of spiking responses. To test the models against data, we build a population model to simulate stimulus change-related modulations in pairwise response statistics. We use single-unit data from the primary visual cortex (V1) of monkeys to show that while model predictions for variance are qualitatively similar to experimental data, only the RG model's predictions are compatible with joint statistics. These results suggest that models using Poisson-like variability might fail to capture important properties of response statistics. We argue that membrane potential-level modeling of stochasticity provides an efficient strategy to model correlations.<b>NEW & NOTEWORTHY</b> Neural variability and covariability are puzzling aspects of cortical computations. For efficient decoding and prediction, models of information encoding in neural populations hinge on an appropriate model of variability. Our work shows that stimulus-dependent changes in pairwise but not in single-cell statistics can differentiate between two widely used models of neuronal variability. Contrasting model predictions with neuronal data provides hints on the noise sources in spiking and provides constraints on statistical models of population activity.",
+  "authors": [
+    "Bányai Mihály",
+    "Koman Zsombor",
+    "Orbán Gergő"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2017",
+  "doi": "10.1152/jn.00931.2016",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Membrane Potentials",
+    "Models, Neurological",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

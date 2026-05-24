@@ -1,0 +1,26 @@
+{
+  "pmid": "9405545",
+  "title": "Analysis of primate IBN spike trains using system identification techniques. II. Relationship to gaze, eye, and head movement dynamics during head-free gaze shifts.",
+  "abstract": "We have investigated the relationships among the firing frequency B(t) of inhibitory burst neurons (IBNs) and the metrics and dynamics of the eye, head, and gaze (eye + head) movements generated during voluntary combined eye-head gaze shifts in monkey. The same IBNs were characterized during head-fixed saccades in our first of three companion papers. In head-free gaze shifts, the number of spikes (NOS) in a burst was, for 82% of the neurons, better correlated with gaze amplitude than with the amplitude of either the eye or head components of the gaze shift. A multiple regression analysis confirmed that NOS was well correlated to the sum of head and eye amplitudes during head-free gaze shifts. Furthermore, the mean slope of the relationship between NOS and gaze amplitude was significantly less for head-free gaze shifts than for head-fixed saccades. NOS is a global parameter. To refine we used system identification techniques to evaluate a series of dynamic models in which IBN spike trains were related to gaze or eye movements. We found that gaze- and eye-based models predicted the discharges of IBNs equally well. However, the bias values required by gaze-based models were comparable to those required in our head-fixed models whereas those required by eye-based models were significantly larger. The difference in biases between gaze- and eye-based models was very strongly correlated to the mean head velocity () during gaze shifts [R = -0.93 +/- 0.15 (SD)]. This result suggested that the increased bias required by the eye-based models reflected an unmodeled input onto these cells. To pursue this argument further we investigated a series of dynamic models that included both eye velocity () and terms and this confirmed the importance of these two terms. As in our head-fixed analysis of companion paper I, the most valuable model formulation also included an eye saccade amplitude term (DeltaE) and was given by B(t) = r0 + r1DeltaE + b1 + g1 where r0, r1, b1, and g1 are constants. The amplitude of the head velocity coefficient was significantly less than that of the eye velocity coefficient. Furthermore, in our population long-lead IBNs tended to have a smaller head velocity coefficients than short-lead IBNs. We conclude that during head-free gaze shifts, the head velocity signal carried to the abducens nucleus by primate excitatory burst neurons (EBNs; if EBNs and IBNs carry similar signals) must be offset by other premotor cells.",
+  "authors": [
+    "Cullen K E",
+    "Guitton D"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1997",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Eye Movements",
+    "Feedback",
+    "Fixation, Ocular",
+    "Head Movements",
+    "Macaca fascicularis",
+    "Models, Neurological",
+    "Nonlinear Dynamics",
+    "Regression Analysis",
+    "Respiratory Burst",
+    "Saccades"
+  ]
+}

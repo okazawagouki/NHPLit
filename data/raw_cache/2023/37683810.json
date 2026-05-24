@@ -1,0 +1,25 @@
+{
+  "pmid": "37683810",
+  "title": "Laminar neural dynamics of auditory evoked responses: Computational modeling of local field potentials in auditory cortex of non-human primates.",
+  "abstract": "Evoked neural responses to sensory stimuli have been extensively investigated in humans and animal models both to enhance our understanding of brain function and to aid in clinical diagnosis of neurological and neuropsychiatric conditions. Recording and imaging techniques such as electroencephalography (EEG), magnetoencephalography (MEG), local field potentials (LFPs), and calcium imaging provide complementary information about different aspects of brain activity at different spatial and temporal scales. Modeling and simulations provide a way to integrate these different types of information to clarify underlying neural mechanisms. In this study, we aimed to shed light on the neural dynamics underlying auditory evoked responses by fitting a rate-based model to LFPs recorded via multi-contact electrodes which simultaneously sampled neural activity across cortical laminae. Recordings included neural population responses to best-frequency (BF) and non-BF tones at four representative sites in primary auditory cortex (A1) of awake monkeys. The model considered major neural populations of excitatory, parvalbumin-expressing (PV), and somatostatin-expressing (SOM) neurons across layers 2/3, 4, and 5/6. Unknown parameters, including the connection strength between the populations, were fitted to the data. Our results revealed similar population dynamics, fitted model parameters, predicted equivalent current dipoles (ECD), tuning curves, and lateral inhibition profiles across recording sites and animals, in spite of quite different extracellular current distributions. We found that PV firing rates were higher in BF than in non-BF responses, mainly due to different strengths of tonotopic thalamic input, whereas SOM firing rates were higher in non-BF than in BF responses due to lateral inhibition. In conclusion, we demonstrate the feasibility of the model-fitting approach in identifying the contributions of cell-type specific population activity to stimulus-evoked LFPs across cortical laminae, providing a foundation for further investigations into the dynamics of neural circuits underlying cortical sensory processing.",
+  "authors": [
+    "Chien Vincent S C",
+    "Wang Peng",
+    "Maess Burkhard",
+    "Fishman Yonatan",
+    "Knösche Thomas R"
+  ],
+  "journal": "NeuroImage",
+  "year": "2023",
+  "doi": "10.1016/j.neuroimage.2023.120364",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Auditory Cortex",
+    "Evoked Potentials, Auditory",
+    "Electroencephalography",
+    "Haplorhini",
+    "Computer Simulation",
+    "Acoustic Stimulation"
+  ]
+}

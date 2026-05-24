@@ -1,0 +1,21 @@
+{
+  "pmid": "38451856",
+  "title": "Interactions between circuit architecture and plasticity in a closed-loop cerebellar system.",
+  "abstract": "Determining the sites and directions of plasticity underlying changes in neural activity and behavior is critical for understanding mechanisms of learning. Identifying such plasticity from neural recording data can be challenging due to feedback pathways that impede reasoning about cause and effect. We studied interactions between feedback, neural activity, and plasticity in the context of a closed-loop motor learning task for which there is disagreement about the loci and directions of plasticity: vestibulo-ocular reflex learning. We constructed a set of circuit models that differed in the strength of their recurrent feedback, from no feedback to very strong feedback. Despite these differences, each model successfully fit a large set of neural and behavioral data. However, the patterns of plasticity predicted by the models fundamentally differed, with the direction of plasticity at a key site changing from depression to potentiation as feedback strength increased. Guided by our analysis, we suggest how such models can be experimentally disambiguated. Our results address a long-standing debate regarding cerebellum-dependent motor learning, suggesting a reconciliation in which learning-related changes in the strength of synaptic inputs to Purkinje cells are compatible with seemingly oppositely directed changes in Purkinje cell spiking activity. More broadly, these results demonstrate how changes in neural activity over learning can appear to contradict the sign of the underlying plasticity when either internal feedback or feedback through the environment is present.",
+  "authors": [
+    "Payne Hannah L",
+    "Raymond Jennifer L",
+    "Goldman Mark S"
+  ],
+  "journal": "eLife",
+  "year": "2024",
+  "doi": "10.7554/eLife.84770",
+  "mesh": [
+    "Cerebellum",
+    "Purkinje Cells",
+    "Learning",
+    "Reflex, Vestibulo-Ocular",
+    "Feedback",
+    "Neuronal Plasticity"
+  ]
+}

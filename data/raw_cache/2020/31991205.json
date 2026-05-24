@@ -1,0 +1,25 @@
+{
+  "pmid": "31991205",
+  "title": "Local field potential dynamics in the primate cortex in relation to parkinsonism reveled by machine learning: A comparison between the primary motor cortex and the supplementary area.",
+  "abstract": "The present study compares the cortical local field potentials (LFPs) in the primary motor cortex (M1) and the supplementary motor area (SMA) of non-human primates rendered Parkinsonian with administration of dopaminergic neurotoxin, 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine. The dynamic of the LFPs was investigated under several mathematical frameworks and machine learning was used to discriminate the recordings based on these features between healthy, parkinsonian with off-medication and parkinsonian with on-medication states. The importance of each feature in the discrimination process was further investigated. The dynamic of the LFPs in M1 and SMA was affected regarding its variability (time domain analysis), oscillatory activities (frequency domain analysis) and complex patterns (non-linear domain analysis). Machine learning algorithms achieved accuracy near 0.90 for comparisons between conditions. The TreeBagger algorithm provided best accuracy. The relative importance of these features differed with the cortical location, condition and treatment. Overall, the most important features included beta oscillation, fractal dimension, gamma oscillation, entropy and asymmetry of amplitude fluctuation. The importance of features in discriminating between normal and pathological states, and on- or off-medication states depends on the pair-comparison and it is region-specific. These findings are discussed regarding the refinement of current models for movement disorders and the development of on-demand therapies.",
+  "authors": [
+    "Darbin Olivier",
+    "Hatanaka Nobuhiko",
+    "Takara Sayuki",
+    "Kaneko Masaya",
+    "Chiken Satomi",
+    "Naritoku Dean",
+    "Martino Anthony",
+    "Nambu Atsushi"
+  ],
+  "journal": "Neuroscience research",
+  "year": "2020",
+  "doi": "10.1016/j.neures.2020.01.012",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Machine Learning",
+    "Motor Cortex",
+    "Parkinsonian Disorders"
+  ]
+}

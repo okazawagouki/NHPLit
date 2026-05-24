@@ -1,0 +1,28 @@
+{
+  "pmid": "40031495",
+  "title": "MSDAC: A multi-source domain adversarial framework for motion prediction in intracortical brain-computer interfaces.",
+  "abstract": "Intracortical brain-computer interfaces (iBCIs) restore motor function in patients with paralysis by converting neural activity into control signals for external devices. However, the frequent recalibration required by current decoding methods due to turnover and loss of recording neurons poses a challenge for achieving stable online decoding. To address these issues, we propose a multi-source domain adversarial classification (MSDAC) framework for cross-day decoding that utilizes an out-of-distribution (OOD) generalization approach. This framework divides the historical data into source domains by date and employs adversarial networks to minimize the distribution discrepancies among multiple source domains, thereby achieving robust domain-invariant characteristics and superior performance on unseen test data. The MSDAC framework was evaluated using five months of monkey center-out neural activity data and demonstrated exceptional performance. Without relying on test day data for model calibration or parameter updating, the MSDAC achieved an average decoding accuracy of 84.38% (day-5 to day-150, 27968 trials). These results underscore that the MSDAC-based decoding framework can be an ideal choice for establishing stable iBCI systems.",
+  "authors": [
+    "Liu Haozhou",
+    "Yang Banghua",
+    "Guan Shouliang",
+    "Rong Fenqi",
+    "Guo Mengao",
+    "Fang Ying",
+    "Liu Bingyu",
+    "Gao Yan",
+    "Gu Yong"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2024",
+  "doi": "10.1109/EMBC53108.2024.10782649",
+  "mesh": [
+    "Brain-Computer Interfaces",
+    "Animals",
+    "Algorithms",
+    "Humans",
+    "Motion",
+    "Signal Processing, Computer-Assisted",
+    "Macaca mulatta"
+  ]
+}

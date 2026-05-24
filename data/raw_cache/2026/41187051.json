@@ -1,0 +1,29 @@
+{
+  "pmid": "41187051",
+  "title": "Neuron Counting for Macaque Mesoscopic Brain Connectivity Research.",
+  "abstract": "Precise quantification and localization of tracer-labeled neurons are essential for unraveling brain connectivity patterns and constructing a mesoscopic brain connectome atlas in macaques. However, methodological challenges and limitations in dataset development have impeded this scientific progress. This work introduced the Macaque Fluorescently Labeled Neurons (MFN) dataset, derived from retrograde tracing on three rhesus macaques. The dataset, meticulously annotated by six specialists, includes 1,600 images and 33,411 high-quality neuron annotations. Leveraging this dataset, we developed a Dense Convolutional Attention U-Net (DAUNet) cell counting model. By integrating Dense Convolutional blocks and a multi-scale attention module, the model exhibits robust feature extraction and representation capabilities while maintaining low complexity. On the MFN dataset, DAUNet achieved a Mean Absolute Error of 0.97 for cell counting and an F1-score of 96.29% for cell localization, outperforming several benchmark models. Extensive validation across four additional public datasets demonstrated the robust generalization ability of the model. Furthermore, the trained model was applied to quantify labeled neurons of a macaque brain, mapping the input connectivity patterns of two adjacent subregions in the lateral prefrontal cortex. This work provides a training dataset and algorithmic resource that advances mesoscopic brain connectivity research in macaques. The MFN dataset and source code are available at https://github.com/Gendwar/DAUnet.",
+  "authors": [
+    "Dong Zhenwei",
+    "Liu Xinyi",
+    "Shi Weiyang",
+    "Lu Yuheng",
+    "Liu Yanyan",
+    "Hou Xiaoxiao",
+    "Sun Hongji",
+    "Song Ming",
+    "Yang Zhengyi",
+    "Jiang Tianzi"
+  ],
+  "journal": "IEEE transactions on medical imaging",
+  "year": "2026",
+  "doi": "10.1109/TMI.2025.3628678",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Brain",
+    "Neurons",
+    "Connectome",
+    "Cell Count",
+    "Image Processing, Computer-Assisted"
+  ]
+}

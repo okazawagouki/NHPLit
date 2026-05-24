@@ -1,0 +1,24 @@
+{
+  "pmid": "37195295",
+  "title": "Comparing performance between a deep neural network and monkeys with bilateral removals of visual area TE in categorizing feature-ambiguous stimuli.",
+  "abstract": "In the canonical view of visual processing the neural representation of complex objects emerges as visual information is integrated through a set of convergent, hierarchically organized processing stages, ending in the primate inferior temporal lobe. It seems reasonable to infer that visual perceptual categorization requires the integrity of anterior inferior temporal cortex (area TE). Many deep neural networks (DNNs) are structured to simulate the canonical view of hierarchical processing within the visual system. However, there are some discrepancies between DNNs and the primate brain. Here we evaluated the performance of a simulated hierarchical model of vision in discriminating the same categorization problems presented to monkeys with TE removals. The model was able to simulate the performance of monkeys with TE removals in the categorization task but performed poorly when challenged with visually degraded stimuli. We conclude that further development of the model is required to match the level of visual flexibility present in the monkey visual system.",
+  "authors": [
+    "Matsumoto Narihisa",
+    "Eldridge Mark A G",
+    "Fredericks J Megan",
+    "Lowe Kaleb A",
+    "Richmond Barry J"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2022",
+  "doi": "10.1007/s10827-023-00854-y",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Models, Neurological",
+    "Temporal Lobe",
+    "Visual Perception",
+    "Neural Networks, Computer",
+    "Photic Stimulation"
+  ]
+}

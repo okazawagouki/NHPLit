@@ -1,0 +1,33 @@
+{
+  "pmid": "31171448",
+  "title": "Accurate Estimation of Neural Population Dynamics without Spike Sorting.",
+  "abstract": "A central goal of systems neuroscience is to relate an organism's neural activity to behavior. Neural population analyses often reduce the data dimensionality to focus on relevant activity patterns. A major hurdle to data analysis is spike sorting, and this problem is growing as the number of recorded neurons increases. Here, we investigate whether spike sorting is necessary to estimate neural population dynamics. The theory of random projections suggests that we can accurately estimate the geometry of low-dimensional manifolds from a small number of linear projections of the data. We recorded data using Neuropixels probes in motor cortex of nonhuman primates and reanalyzed data from three previous studies and found that neural dynamics and scientific conclusions are quite similar using multiunit threshold crossings rather than sorted neurons. This finding unlocks existing data for new analyses and informs the design and use of new electrode arrays for laboratory and clinical use.",
+  "authors": [
+    "Trautmann Eric M",
+    "Stavisky Sergey D",
+    "Lahiri Subhaneil",
+    "Ames Katherine C",
+    "Kaufman Matthew T",
+    "O'Shea Daniel J",
+    "Vyas Saurabh",
+    "Sun Xulu",
+    "Ryu Stephen I",
+    "Ganguli Surya",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Neuron",
+  "year": "2019",
+  "doi": "10.1016/j.neuron.2019.05.003",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neurons",
+    "Nonlinear Dynamics"
+  ]
+}

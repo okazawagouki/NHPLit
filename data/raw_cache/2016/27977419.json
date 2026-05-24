@@ -1,0 +1,27 @@
+{
+  "pmid": "27977419",
+  "title": "A computational model that predicts behavioral sensitivity to intracortical microstimulation.",
+  "abstract": "OBJECTIVE: Intracortical microstimulation (ICMS) is a powerful tool to investigate the neural mechanisms of perception and can be used to restore sensation for patients who have lost it. While sensitivity to ICMS has previously been characterized, no systematic framework has been developed to summarize the detectability of individual ICMS pulse trains or the discriminability of pairs of pulse trains. APPROACH: We develop a simple simulation that describes the responses of a population of neurons to a train of electrical pulses delivered through a microelectrode. We then perform an ideal observer analysis on the simulated population responses to predict the behavioral performance of non-human primates in ICMS detection and discrimination tasks. MAIN RESULTS: Our computational model can predict behavioral performance across a wide range of stimulation conditions with high accuracy (R <sup>2</sup> = 0.97) and generalizes to novel ICMS pulse trains that were not used to fit its parameters. Furthermore, the model provides a theoretical basis for the finding that amplitude discrimination based on ICMS violates Weber's law. SIGNIFICANCE: The model can be used to characterize the sensitivity to ICMS across the range of perceptible and safe stimulation regimes. As such, it will be a useful tool for both neuroscience and neuroprosthetics.",
+  "authors": [
+    "Kim Sungshin",
+    "Callier Thierri",
+    "Bensmaia Sliman J"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2017",
+  "doi": "10.1088/1741-2552/14/1/016012",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Deep Brain Stimulation",
+    "Evoked Potentials",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons"
+  ]
+}

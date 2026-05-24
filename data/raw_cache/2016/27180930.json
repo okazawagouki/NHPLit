@@ -1,0 +1,29 @@
+{
+  "pmid": "27180930",
+  "title": "Unbiased and robust quantification of synchronization between spikes and local field potential.",
+  "abstract": "BACKGROUND: In neuroscience, relating the spiking activity of individual neurons to the local field potential (LFP) of neural ensembles is an increasingly useful approach for studying rhythmic neuronal synchronization. Many methods have been proposed to measure the strength of the association between spikes and rhythms in the LFP recordings, and most existing measures are dependent upon the total number of spikes. NEW METHOD: In the present work, we introduce a robust approach for quantifying spike-LFP synchronization which performs reliably for limited samples of data. The measure is termed as spike-triggered correlation matrix synchronization (SCMS), which takes LFP segments centered on each spike as multi-channel signals and calculates the index of spike-LFP synchronization by constructing a correlation matrix. RESULTS: The simulation based on artificial data shows that the SCMS output almost does not change with the sample size. This property is of crucial importance when making comparisons between different experimental conditions. When applied to actual neuronal data recorded from the monkey primary visual cortex, it is found that the spike-LFP synchronization strength shows orientation selectivity to drifting gratings. COMPARISON WITH EXISTING METHODS: In comparison to another unbiased method, pairwise phase consistency (PPC), the proposed SCMS behaves better for noisy spike trains by means of numerical simulations. CONCLUSIONS: This study demonstrates the basic idea and calculating process of the SCMS method. Considering its unbiasedness and robustness, the measure is of great advantage to characterize the synchronization between spike trains and rhythms present in LFP.",
+  "authors": [
+    "Li Zhaohui",
+    "Cui Dong",
+    "Li Xiaoli"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2016",
+  "doi": "10.1016/j.jneumeth.2016.05.004",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Cortical Synchronization",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Neurons",
+    "Periodicity",
+    "Signal Processing, Computer-Assisted",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

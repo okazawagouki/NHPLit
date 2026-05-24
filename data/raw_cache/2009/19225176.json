@@ -1,0 +1,31 @@
+{
+  "pmid": "19225176",
+  "title": "Quantification of optical images of cortical responses for inferring functional maps.",
+  "abstract": "Optical imaging of cortical signals enables the mapping of functional organization across large patches of cortex with good spatial resolution. But techniques for the quantitative analysis and interpretation of these images are limited. Frequently the functional architecture of the cortex is inferred from the visible topography of cortical reflectance images averaged or differenced across stimulus conditions and scaled or color-coded for presentation. Such qualitative assessments have sometimes led to divergent conclusions particularly about the organization of spatial and temporal frequency preferences in the primary visual cortex. We applied quantitative methods derived from signal detection theory to objectively interpret optical images. The differential response to any two arbitrary stimuli was represented at each pixel as the probability of discriminating between the two stimuli given the reflectance values at that pixel. These probability maps reduced false alarms and provided better signal-to-noise ratio in fewer trials than difference maps. We applied these methods to optical images of primate primary visual area (V1) obtained in response to sinusoidal gratings of different orientations and spatiotemporal frequencies. Clustering by orientation preference was stronger than that for spatial frequency, whereas clustering by temporal frequency preference was the weakest, largely in agreement with a previous electrophysiological study that quantified the degree of clustering of neurons for various response properties using uniform, quantitative criterion. We suggest that probability maps can extend the applicability of optical imaging to investigations of finer aspects of cortical functional organization through better signal-to-noise ratio and uniform, quantitative criteria for interpretation.",
+  "authors": [
+    "Purushothaman Gopathy",
+    "Khaytin Ilya",
+    "Casagrande Vivien A"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2009",
+  "doi": "10.1152/jn.90696.2008",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Electrodes",
+    "Female",
+    "Galago",
+    "Image Cytometry",
+    "Male",
+    "Models, Neurological",
+    "Orientation",
+    "Photic Stimulation",
+    "Probability",
+    "ROC Curve",
+    "Signal Detection, Psychological",
+    "Space Perception",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

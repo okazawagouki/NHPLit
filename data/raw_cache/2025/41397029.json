@@ -1,0 +1,26 @@
+{
+  "pmid": "41397029",
+  "title": "Axon collateralization and focal myelin dystrophy alter action potential propagation in multicompartment pyramidal neuron models.",
+  "abstract": "Action potentials (APs) propagate along axons to enable precise and rapid neuronal communication. Axon collaterals extend a given neuron's range by distributing signals to multiple targets, but also increase its electrical demands. Myelination facilitates saltatory conduction, dramatically enhancing transmission speed and ensuring conduction fidelity over long distances. The interplay between myelin dystrophy and axonal arborization remains largely unexplored, despite their role in the impairment of AP conduction in brain circuits. Here we used cohorts of biophysically detailed, multicompartmental models of rhesus monkey dorsolateral prefrontal cortex (dlPFC) layer 3 pyramidal neurons to investigate how axon collateralization, myelin dystrophy, and other structural and biophysical perturbations affect AP conduction velocity (CV). We identified core diameter and branch point location, particularly its distance from the soma, as key structural determinants of CV. Under pathological conditions, branch points emerged as sites of heightened vulnerability, where even focal myelin damage markedly impaired conduction. The efficacy of remyelination to restore CV depended on the number of segments that replaced each demyelinated region. Effective length constant and focal input resistance largely predicted CV reductions caused by structural changes. In addition to demyelination, CV was highly sensitive to variations in axoplasmic and membrane resistivities, the formation of myelin balloons, and ion channel redistribution. These findings offer a mechanistic framework for understanding AP conduction in myelinated axons with complex topologies, while also pointing to potential factors underlying individual differences in vulnerability to cognitive impairments. This work thus provides an important building block for multiscale modeling of network and behavioral effects of aging, as well as axonopathies such as multiple sclerosis, Alzheimer's disease, and traumatic brain injury.",
+  "authors": [
+    "Sengupta Nilapratim",
+    "Luebke Jennifer I",
+    "Weaver Christina M"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2025",
+  "doi": "10.1371/journal.pcbi.1013733",
+  "mesh": [
+    "Axons",
+    "Animals",
+    "Myelin Sheath",
+    "Macaca mulatta",
+    "Action Potentials",
+    "Models, Neurological",
+    "Pyramidal Cells",
+    "Neural Conduction",
+    "Prefrontal Cortex",
+    "Demyelinating Diseases",
+    "Computational Biology"
+  ]
+}

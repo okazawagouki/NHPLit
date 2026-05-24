@@ -1,0 +1,21 @@
+{
+  "pmid": "8792227",
+  "title": "Vector reconstruction from firing rates.",
+  "abstract": "In a number of systems including wind detection in the cricket, visual motion perception and coding of arm movement direction in the monkey and place cell response to position in the rat hippocampus, firing rates in a population of tuned neurons are correlated with a vector quantity. We examine and compare several methods that allow the coded vector to be reconstructed from measured firing rates. In cases where the neuronal tuning curves resemble cosines, linear reconstruction methods work as well as more complex statistical methods requiring more detailed information about the responses of the coding neurons. We present a new linear method, the optimal linear estimator (OLE), that on average provides the best possible linear reconstruction. This method is compared with the more familiar vector method and shown to produce more accurate reconstructions using far fewer recorded neurons.",
+  "authors": [
+    "Salinas E",
+    "Abbott L F"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "1994",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cell Count",
+    "Genetic Vectors",
+    "Gryllidae",
+    "Membrane Potentials",
+    "Neural Networks, Computer",
+    "Rats"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "pmid": "25202259",
+  "title": "The importance of visual features in generic vs. specialized object recognition: a computational study.",
+  "abstract": "It is debated whether the representation of objects in inferior temporal (IT) cortex is distributed over activities of many neurons or there are restricted islands of neurons responsive to a specific set of objects. There are lines of evidence demonstrating that fusiform face area (FFA-in human) processes information related to specialized object recognition (here we say within category object recognition such as face identification). Physiological studies have also discovered several patches in monkey ventral temporal lobe that are responsible for facial processing. Neuronal recording from these patches shows that neurons are highly selective for face images whereas for other objects we do not see such selectivity in IT. However, it is also well-supported that objects are encoded through distributed patterns of neural activities that are distinctive for each object category. It seems that visual cortex utilize different mechanisms for between category object recognition (e.g., face vs. non-face objects) vs. within category object recognition (e.g., two different faces). In this study, we address this question with computational simulations. We use two biologically inspired object recognition models and define two experiments which address these issues. The models have a hierarchical structure of several processing layers that simply simulate visual processing from V1 to aIT. We show, through computational modeling, that the difference between these two mechanisms of recognition can underlie the visual feature and extraction mechanism. It is argued that in order to perform generic and specialized object recognition, visual cortex must separate the mechanisms involved in within category from between categories object recognition. High recognition performance in within category object recognition can be guaranteed when class-specific features with intermediate size and complexity are extracted. However, generic object recognition requires a distributed universal dictionary of visual features in which the size of features does not have significant difference.",
+  "authors": [
+    "Ghodrati Masoud",
+    "Rajaei Karim",
+    "Ebrahimpour Reza"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2014",
+  "doi": "10.3389/fncom.2014.00078",
+  "mesh": []
+}

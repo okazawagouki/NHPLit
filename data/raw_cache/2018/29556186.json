@@ -1,0 +1,13 @@
+{
+  "pmid": "29556186",
+  "title": "Relating the Structure of Noise Correlations in Macaque Primary Visual Cortex to Decoder Performance.",
+  "abstract": "Noise correlations in neuronal responses can have a strong influence on the information available in large populations. In addition, the structure of noise correlations may have a great impact on the utility of different algorithms to extract this information that may depend on the specific algorithm, and hence may affect our understanding of population codes in the brain. Thus, a better understanding of the structure of noise correlations and their interplay with different readout algorithms is required. Here we use eigendecomposition to investigate the structure of noise correlations in populations of about 50-100 simultaneously recorded neurons in the primary visual cortex of anesthetized monkeys, and we relate this structure to the performance of two common decoders: the population vector and the optimal linear estimator. Our analysis reveals a non-trivial correlation structure, in which the eigenvalue spectrum is composed of several distinct large eigenvalues that represent different shared modes of fluctuation extending over most of the population, and a semi-continuous tail. The largest eigenvalue represents a uniform collective mode of fluctuation. The second and third eigenvalues typically show either a clear functional (i.e., dependent on the preferred orientation of the neurons) or spatial structure (i.e., dependent on the physical position of the neurons). We find that the number of shared modes increases with the population size, being roughly 10% of that size. Furthermore, we find that the noise in each of these collective modes grows linearly with the population. This linear growth of correlated noise power can have limiting effects on the utility of averaging neuronal responses across large populations, depending on the readout. Specifically, the collective modes of fluctuation limit the accuracy of the population vector but not of the optimal linear estimator.",
+  "authors": [
+    "Mendels Or P",
+    "Shamir Maoz"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2018",
+  "doi": "10.3389/fncom.2018.00012",
+  "mesh": []
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "9543480",
+  "title": "Multiple fragment statistical analysis of post-spike effects in spike-triggered averages of rectified EMG.",
+  "abstract": "Spike-triggered averaging of EMG is a useful experimental technique for revealing functional connectivity from central neurons to motoneurons. Because EMG waveforms constitute time series, statistical analysis of spike-triggered averages is complicated. Empirical methods generally have been employed to detect the presence of post-spike effects (PSEs), since, as we argue in this report, it is not feasible to develop a rigorous yet sensitive statistical test that detects PSEs in a single grand average of rectified EMG. We have developed a method of multiple fragment statistical analysis (MFSA) of PSEs, based on dividing an experimental record into a large numbers of non-overlapping fragments. The calculations necessary to obtain accurate P-values using the multiple fragment method are simple and efficient, and therefore preliminary results can be obtained while recording. In this report, we present the rationale for MFSA, and give examples of its application. We found MFSA to have considerable utility in accurately testing the significance of small PSEs, and in detecting PSEs in shorter recordings. Statistical corrections that should be used when recording multiple channels simultaneously are discussed. MFSA could be implemented for statistical analysis of other waveforms averaged, such as evoked potentials, movement-related cortical potentials, or event-related desychronizations.",
+  "authors": [
+    "Poliakov A V",
+    "Schieber M H"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Data Interpretation, Statistical",
+    "Electric Stimulation",
+    "Electromyography",
+    "Fingers",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Movement"
+  ]
+}

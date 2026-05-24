@@ -1,0 +1,22 @@
+{
+  "pmid": "11053234",
+  "title": "Differential short-term synaptic plasticity and transmission of complex spike trains: to depress or to facilitate?",
+  "abstract": "Experimental studies have revealed conspicuous short-term facilitation and depression that are expressed differentially at distinct classes of cortical synapses. To explore computational implications of synaptic dynamics, we investigated transmission of complex spike trains through a stochastic model of cortical synapse endowed with short-term facilitation and vesicle depletion. Inputs to the synapse model were either real spike train data recorded from the visual and prefrontal cortices of behaving monkeys, or were generated numerically with prescribed temporal statistics. We tested the hypothesis that short-term facilitation could enable synapses to filter out single spikes and favor bursts of action potentials. We found that the ratio between release probabilities for a burst spike and an isolated spike grows monotonically with increasing number of spikes per burst, and with increasing interval between isolated spikes. Burst detection is optimal when the facilitation time constant matches the average burst duration. Using fractal-like spike patterns characterized by long-term power-law temporal correlations and similar to those seen in sensory neurons, we found that facilitation increases correlation at short time scales. In contrast, depression leads to a dramatic reduction in temporal correlations at all time scales, and to a flat ('whitened') power spectrum, thereby decorrelating natural input signals.",
+  "authors": [
+    "Matveev V",
+    "Wang X J"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cortical Spreading Depression",
+    "Haplorhini",
+    "Models, Neurological",
+    "Neuronal Plasticity",
+    "Synapses",
+    "Synaptic Vesicles"
+  ]
+}

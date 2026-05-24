@@ -1,0 +1,22 @@
+{
+  "pmid": "22845825",
+  "title": "A neural circuit for robust time-to-contact estimation based on primate MST.",
+  "abstract": "Time-to-contact (TTC) estimation is beneficial for visual navigation. It can be estimated from an image projection, either in a camera or on the retina, by looking at the rate of expansion of an object. When expansion rate (E) is properly defined, TTC = 1/E. Primate dorsal MST cells have receptive field structures suited to the estimation of expansion and TTC. However, the role of MST cells in TTC estimation has been discounted because of large receptive fields, the fact that neither they nor preceding brain areas appear to decompose the motion field to estimate divergence, and a lack of experimental data. This letter demonstrates mathematically that template models of dorsal MST cells can be constructed such that the output of the template match provides an accurate and robust estimate of TTC. The template match extracts the relevant components of the motion field and scales them such that the output of each component of the template match is an estimate of expansion. It then combines these component estimates to provide a mean estimate of expansion across the object. The output of model MST provides a direct measure of TTC. The ViSTARS model of primate visual navigation was updated to incorporate the modified templates. In ViSTARS and in primates, speed is represented as a population code in V1 and MT. A population code for speed complicates TTC estimation from a template match. Results presented in this letter demonstrate that the updated template model of MST accurately codes TTC across a population of model MST cells. We conclude that the updated template model of dorsal MST simultaneously and accurately codes TTC and heading regardless of receptive field size, object size, or motion representation. It is possible that a subpopulation of MST cells in primates represents expansion in this way.",
+  "authors": [
+    "Browning N Andrew"
+  ],
+  "journal": "Neural computation",
+  "year": "2012",
+  "doi": "10.1162/NECO_a_00347",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Models, Neurological",
+    "Neurons",
+    "Primates",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

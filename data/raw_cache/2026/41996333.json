@@ -1,0 +1,31 @@
+{
+  "pmid": "41996333",
+  "title": "'Backpropagation and the brain' realized in cortical error neuron microcircuits.",
+  "abstract": "Neural responses to mismatches between expected and actual stimuli have been widely reported across different species. How does the brain use such error signals for learning? While global error signals can be useful, their ability to learn complex computation at the scale observed in the brain is lacking. In comparison, more local, neuron-specific error signals enable superior performance, but their computation and propagation remain unclear. Motivated by the breakthrough of deep learning, this has inspired the 'backpropagation and the brain' hypothesis, i.e., that the brain implements a form of the error backpropagation algorithm. In this work, we introduce a biologically motivated, multi-area cortical microcircuit model, implementing error backpropagation under consideration of recent physiological evidence. We model populations of cortical pyramidal cells acting as representation and error neurons, with bio-plausible local and inter-area connectivity, guided by experimental observations of connectivity of the primate visual cortex. In our model, all information transfer is biologically motivated, inference and learning occur without phases, and network dynamics demonstrably approximate those of error backpropagation. We show the capabilities of our model on a wide range of benchmarks, and compare to other models, such as dendritic hierarchical predictive coding. In particular, our model addresses shortcomings of other theories in terms of scalability to many cortical areas. Finally, we make concrete predictions, which differentiate it from other theories, and which can be tested experimentally.",
+  "authors": [
+    "Max Kevin",
+    "Jaras Ismael",
+    "Granier Arno",
+    "Wilmes Katharina A",
+    "Petrovici Mihai A"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2026",
+  "doi": "10.1371/journal.pcbi.1014164",
+  "mesh": [
+    "Models, Neurological",
+    "Animals",
+    "Computational Biology",
+    "Pyramidal Cells",
+    "Neurons",
+    "Humans",
+    "Visual Cortex",
+    "Algorithms",
+    "Nerve Net",
+    "Learning",
+    "Brain",
+    "Cerebral Cortex",
+    "Deep Learning",
+    "Computer Simulation"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "29139050",
+  "title": "Modeling mesoscopic cortical dynamics using a mean-field model of conductance-based networks of adaptive exponential integrate-and-fire neurons.",
+  "abstract": "Voltage-sensitive dye imaging (VSDi) has revealed fundamental properties of neocortical processing at macroscopic scales. Since for each pixel VSDi signals report the average membrane potential over hundreds of neurons, it seems natural to use a mean-field formalism to model such signals. Here, we present a mean-field model of networks of Adaptive Exponential (AdEx) integrate-and-fire neurons, with conductance-based synaptic interactions. We study a network of regular-spiking (RS) excitatory neurons and fast-spiking (FS) inhibitory neurons. We use a Master Equation formalism, together with a semi-analytic approach to the transfer function of AdEx neurons to describe the average dynamics of the coupled populations. We compare the predictions of this mean-field model to simulated networks of RS-FS cells, first at the level of the spontaneous activity of the network, which is well predicted by the analytical description. Second, we investigate the response of the network to time-varying external input, and show that the mean-field model predicts the response time course of the population. Finally, to model VSDi signals, we consider a one-dimensional ring model made of interconnected RS-FS mean-field units. We found that this model can reproduce the spatio-temporal patterns seen in VSDi of awake monkey visual cortex as a response to local and transient visual stimuli. Conversely, we show that the model allows one to infer physiological parameters from the experimentally-recorded spatio-temporal patterns.",
+  "authors": [
+    "Zerlaut Yann",
+    "Chemla Sandrine",
+    "Chavane Frederic",
+    "Destexhe Alain"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2018",
+  "doi": "10.1007/s10827-017-0668-2",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Macaca mulatta",
+    "Male",
+    "Membrane Potentials",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Photic Stimulation",
+    "Synapses",
+    "Voltage-Sensitive Dye Imaging"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "40280466",
+  "title": "Population-based computational simulations elucidate mechanisms of focal arrhythmia following stem cell injection.",
+  "abstract": "Following a myocardial infarction (MI), a large portion of ventricular cells are replaced by scar, leading to adverse structural remodeling and heart failure. The use of stem cell-derived cardiomyocytes has shown promise in restoring cardiac function in animal models following an MI but leads to rapid focal ventricular tachycardia (VT). The VT in these animals can be variable, and its underlying mechanisms remain unknown. In this study, we used three distinct computational models derived from histological images of post-MI non-human primate ventricles to understand how human pluripotent stem cell-derived cardiomyocytes (hPSC-CMs) grafts can affect focal VT individually and synergistically. Specifically, we explored whether grafts could work cooperatively to create new arrhythmia and if geometric features such as graft tortuosity, area, host isolation, and amount of surrounding scar inhibited or enhanced the effect. We observed at least one instance of graft-host excitation (GHE) for eleven of the twenty-five individual grafts examined. Since we used a stochastic population-of-models-based approach to generate graft boundaries, we found that the number of configurations with GHE varied from graft to graft. We also examined grafts in aggregate and found that the high prevalence of GHE when all grafts were included arose from combinations of individually arrhythmogenic grafts (i.e., the overall increase in arrhythmogenicity resulted from graft complementarity rather than graft cooperativity). Further analysis of graft spatial features showed that arrhythmogenic grafts tend to be in areas with high host isolation (i.e., spatially confined regions of surviving myocardium interdigitated with engrafted cells) and when graft area and tortuosity were also high. These insights can aid in the design of novel injection schemes that could result in safer therapy for patients.",
+  "authors": [
+    "Gibbs Chelsea E",
+    "Boyle Patrick M"
+  ],
+  "journal": "Journal of molecular and cellular cardiology",
+  "year": "2025",
+  "doi": "10.1016/j.yjmcc.2025.04.010",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Myocytes, Cardiac",
+    "Arrhythmias, Cardiac",
+    "Computer Simulation",
+    "Myocardial Infarction",
+    "Stem Cell Transplantation",
+    "Tachycardia, Ventricular",
+    "Pluripotent Stem Cells"
+  ]
+}

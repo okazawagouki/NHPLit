@@ -1,0 +1,29 @@
+{
+  "pmid": "18846203",
+  "title": "A learning theory for reward-modulated spike-timing-dependent plasticity with application to biofeedback.",
+  "abstract": "Reward-modulated spike-timing-dependent plasticity (STDP) has recently emerged as a candidate for a learning rule that could explain how behaviorally relevant adaptive changes in complex networks of spiking neurons could be achieved in a self-organizing manner through local synaptic plasticity. However, the capabilities and limitations of this learning rule could so far only be tested through computer simulations. This article provides tools for an analytic treatment of reward-modulated STDP, which allows us to predict under which conditions reward-modulated STDP will achieve a desired learning effect. These analytical results imply that neurons can learn through reward-modulated STDP to classify not only spatial but also temporal firing patterns of presynaptic neurons. They also can learn to respond to specific presynaptic firing patterns with particular spike patterns. Finally, the resulting learning theory predicts that even difficult credit-assignment problems, where it is very hard to tell which synaptic weights should be modified in order to increase the global reward for the system, can be solved in a self-organizing manner through reward-modulated STDP. This yields an explanation for a fundamental experimental result on biofeedback in monkeys by Fetz and Baker. In this experiment monkeys were rewarded for increasing the firing rate of a particular neuron in the cortex and were able to solve this extremely difficult credit assignment problem. Our model for this experiment relies on a combination of reward-modulated STDP with variable spontaneous firing activity. Hence it also provides a possible functional explanation for trial-to-trial variability, which is characteristic for cortical networks of neurons but has no analogue in currently existing artificial computing systems. In addition our model demonstrates that reward-modulated STDP can be applied to all synapses in a large recurrent neural network without endangering the stability of the network dynamics.",
+  "authors": [
+    "Legenstein Robert",
+    "Pecevski Dejan",
+    "Maass Wolfgang"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2008",
+  "doi": "10.1371/journal.pcbi.1000180",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Biofeedback, Psychology",
+    "Computational Biology",
+    "Computer Simulation",
+    "Haplorhini",
+    "Learning",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neuronal Plasticity",
+    "Neurosciences",
+    "Pattern Recognition, Physiological",
+    "Reward"
+  ]
+}

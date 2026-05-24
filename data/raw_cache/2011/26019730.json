@@ -1,0 +1,17 @@
+{
+  "pmid": "26019730",
+  "title": "Combining Wireless Neural Recording and Video Capture for the Analysis of Natural Gait.",
+  "abstract": "Neural control of movement is typically studied in constrained environments where there is a reduced set of possible behaviors. This constraint may unintentionally limit the applicability of findings to the generalized case of unconstrained behavior. We hypothesize that examining the unconstrained state across multiple behavioral contexts will lead to new insights into the neural control of movement and help advance the design of neural prosthetic decode algorithms. However, to pursue electrophysiological studies in such a manner requires a more flexible framework for experimentation. We propose that head-mounted neural recording systems with wireless data transmission, combined with markerless computer-vision based motion tracking, will enable new, less constrained experiments. As a proof-of-concept, we recorded and wirelessly transmitted broadband neural data from 32 electrodes in premotor cortex while acquiring single-camera video of a rhesus macaque walking on a treadmill. We demonstrate the ability to extract behavioral kinematics using an automated computer vision algorithm without use of markers and to predict kinematics from the neural data. Together these advances suggest that a new class of \"freely moving monkey\" experiments should be possible and should help broaden our understanding of the neural control of movement.",
+  "authors": [
+    "Foster Justin D",
+    "Freifeld Oren",
+    "Nuyujukian Paul",
+    "Ryu Stephen I",
+    "Black Michael J",
+    "Shenoy Krishna V"
+  ],
+  "journal": "International IEEE/EMBS Conference on Neural Engineering : [proceedings]. International IEEE EMBS Conference on Neural Engineering",
+  "year": "2011",
+  "doi": "",
+  "mesh": []
+}

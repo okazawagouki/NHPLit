@@ -1,0 +1,25 @@
+{
+  "pmid": "23611833",
+  "title": "Decoding continuous limb movements from high-density epidural electrode arrays using custom spatial filters.",
+  "abstract": "OBJECTIVE: Our goal was to identify spatial filtering methods that would improve decoding of continuous arm movements from epidural field potentials as well as demonstrate the use of the epidural signals in a closed-loop brain-machine interface (BMI) system in monkeys. APPROACH: Eleven spatial filtering options were compared offline using field potentials collected from 64-channel high-density epidural arrays in monkeys. Arrays were placed over arm/hand motor cortex in which intracortical microelectrodes had previously been implanted and removed leaving focal cortical damage but no lasting motor deficits. Spatial filters tested included: no filtering, common average referencing (CAR), principle component analysis, and eight novel modifications of the common spatial pattern (CSP) algorithm. The spatial filtering method and decoder combination that performed the best offline was then used online where monkeys controlled cursor velocity using continuous wrist position decoded from epidural field potentials in real time. MAIN RESULTS: Optimized CSP methods improved continuous wrist position decoding accuracy by 69% over CAR and by 80% compared to no filtering. Kalman decoders performed better than linear regression decoders and benefitted from including more spatially-filtered signals but not from pre-smoothing the calculated power spectra. Conversely, linear regression decoders required fewer spatially-filtered signals and were improved by pre-smoothing the power values. The 'position-to-velocity' transformation used during online control enabled the animals to generate smooth closed-loop movement trajectories using the somewhat limited position information available in the epidural signals. The monkeys' online performance significantly improved across days of closed-loop training. SIGNIFICANCE: Most published BMI studies that use electrocorticographic signals to decode continuous limb movements either use no spatial filtering or CAR. This study suggests a substantial improvement in decoding accuracy could be attained by using our new version of the CSP algorithm that extends the traditional CSP method for use with continuous limb movement data.",
+  "authors": [
+    "Marathe A R",
+    "Taylor D M"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2013",
+  "doi": "10.1088/1741-2560/10/3/036015",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Evoked Potentials, Motor",
+    "Haplorhini",
+    "Motor Cortex",
+    "Movement",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

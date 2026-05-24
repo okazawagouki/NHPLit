@@ -1,0 +1,25 @@
+{
+  "pmid": "22142889",
+  "title": "A novel test to determine the significance of neural selectivity to single and multiple potentially correlated stimulus features.",
+  "abstract": "Mutual information is a principled non-linear measure of dependence between stochastic variables, which is widely used to study the selectivity of neural responses to external stimuli. Here we define and develop a set of novel statistical independence tests based on mutual information, which quantify the significance of neural selectivity to either single features or to multiple, potentially correlated stimulus features like those often present in naturalistic stimuli. If the values of different features are correlated during stimulus presentation, it is difficult to establish if one feature is genuinely encoded by the response, or if it instead appears to be encoded only as a side effect of its correlation with another genuinely represented feature. Our tests provide a way to disambiguate between these two possibilities. We use realistic simulations of neural responses tuned to one or more correlated stimulus features to investigate how limited sampling bias correction procedures affect the statistical power of such independence tests, and we characterize the regimes in which the distribution of information values under the null hypothesis can be approximated by simple distributions (Chi-square or Gaussian). Finally, we apply these tests to experimental data to determine the significance of tuning of the band limited power (BLP) of the gamma [30-100 Hz] frequency range of the primary visual cortical local field potential to multiple correlated features during presentation of naturalistic movies. We show that gamma BLP carries significant, genuine information about orientation, space contrast and time contrast, despite the strong correlations between these features.",
+  "authors": [
+    "Ince Robin A A",
+    "Mazzoni Alberto",
+    "Bartels Andreas",
+    "Logothetis Nikos K",
+    "Panzeri Stefano"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2012",
+  "doi": "10.1016/j.jneumeth.2011.11.013",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Macaca",
+    "Models, Neurological",
+    "Photic Stimulation",
+    "Sensory Receptor Cells",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

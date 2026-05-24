@@ -1,0 +1,36 @@
+{
+  "pmid": "24995476",
+  "title": "A freely-moving monkey treadmill model.",
+  "abstract": "OBJECTIVE: Motor neuroscience and brain-machine interface (BMI) design is based on examining how the brain controls voluntary movement, typically by recording neural activity and behavior from animal models. Recording technologies used with these animal models have traditionally limited the range of behaviors that can be studied, and thus the generality of science and engineering research. We aim to design a freely-moving animal model using neural and behavioral recording technologies that do not constrain movement. APPROACH: We have established a freely-moving rhesus monkey model employing technology that transmits neural activity from an intracortical array using a head-mounted device and records behavior through computer vision using markerless motion capture. We demonstrate the flexibility and utility of this new monkey model, including the first recordings from motor cortex while rhesus monkeys walk quadrupedally on a treadmill. MAIN RESULTS: Using this monkey model, we show that multi-unit threshold-crossing neural activity encodes the phase of walking and that the average firing rate of the threshold crossings covaries with the speed of individual steps. On a population level, we find that neural state-space trajectories of walking at different speeds have similar rotational dynamics in some dimensions that evolve at the step rate of walking, yet robustly separate by speed in other state-space dimensions. SIGNIFICANCE: Freely-moving animal models may allow neuroscientists to examine a wider range of behaviors and can provide a flexible experimental paradigm for examining the neural mechanisms that underlie movement generation across behaviors and environments. For BMIs, freely-moving animal models have the potential to aid prosthetic design by examining how neural encoding changes with posture, environment and other real-world context changes. Understanding this new realm of behavior in more naturalistic settings is essential for overall progress of basic motor neuroscience and for the successful translation of BMIs to people with paralysis.",
+  "authors": [
+    "Foster Justin D",
+    "Nuyujukian Paul",
+    "Freifeld Oren",
+    "Gao Hua",
+    "Walker Ross",
+    "I Ryu Stephen",
+    "H Meng Teresa",
+    "Murmann Boris",
+    "J Black Michael",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2014",
+  "doi": "10.1088/1741-2560/11/4/046020",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Biomechanical Phenomena",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Electrophysiological Phenomena",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Rotation",
+    "Visual Prosthesis",
+    "Walking"
+  ]
+}

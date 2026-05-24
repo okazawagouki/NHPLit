@@ -1,0 +1,27 @@
+{
+  "pmid": "30726163",
+  "title": "Neurally constrained modeling of speed-accuracy tradeoff during visual search: gated accumulation of modulated evidence.",
+  "abstract": "Stochastic accumulator models account for response times and errors in perceptual decision making by assuming a noisy accumulation of perceptual evidence to a threshold. Previously, we explained saccade visual search decision making by macaque monkeys with a stochastic multiaccumulator model in which accumulation was driven by a gated feed-forward integration to threshold of spike trains from visually responsive neurons in frontal eye field that signal stimulus salience. This neurally constrained model quantitatively accounted for response times and errors in visual search for a target among varying numbers of distractors and replicated the dynamics of presaccadic movement neurons hypothesized to instantiate evidence accumulation. This modeling framework suggested strategic control over gate or over threshold as two potential mechanisms to accomplish speed-accuracy tradeoff (SAT). Here, we show that our gated accumulator model framework can account for visual search performance under SAT instructions observed in a milestone neurophysiological study of frontal eye field. This framework captured key elements of saccade search performance, through observed modulations of neural input, as well as flexible combinations of gate and threshold parameters necessary to explain differences in SAT strategy across monkeys. However, the trajectories of the model accumulators deviated from the dynamics of most presaccadic movement neurons. These findings demonstrate that traditional theoretical accounts of SAT are incomplete descriptions of the underlying neural adjustments that accomplish SAT, offer a novel mechanistic account of decision-making mechanisms during speed-accuracy tradeoff, and highlight questions regarding the identity of model and neural accumulators. NEW & NOTEWORTHY A gated accumulator model is used to elucidate neurocomputational mechanisms of speed-accuracy tradeoff. Whereas canonical stochastic accumulators adjust strategy only through variation of an accumulation threshold, we demonstrate that strategic adjustments are accomplished by flexible combinations of both modulation of the evidence representation and adaptation of accumulator gate and threshold. The results indicate how model-based cognitive neuroscience can translate between abstract cognitive models of performance and neural mechanisms of speed-accuracy tradeoff.",
+  "authors": [
+    "Servant Mathieu",
+    "Tillman Gabriel",
+    "Schall Jeffrey D",
+    "Logan Gordon D",
+    "Palmeri Thomas J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2019",
+  "doi": "10.1152/jn.00507.2018",
+  "mesh": [
+    "Animals",
+    "Decision Making",
+    "Macaca",
+    "Models, Neurological",
+    "Saccades",
+    "Sensorimotor Cortex",
+    "Sensory Gating",
+    "Stochastic Processes",
+    "Visual Fields",
+    "Visual Perception"
+  ]
+}

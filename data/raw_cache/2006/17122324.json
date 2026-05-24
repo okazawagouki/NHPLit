@@ -1,0 +1,30 @@
+{
+  "pmid": "17122324",
+  "title": "Dual diffusion model for single-cell recording data from the superior colliculus in a brightness-discrimination task.",
+  "abstract": "Monkeys made saccades to one of two peripheral targets based on the brightness of a central stimulus. Task difficulty was manipulated by varying the ratio of stimulus black-and-white pixels. Correct response probability for two monkeys varied directly with difficulty. Deep layer SC neurons exhibited robust presaccadic activity the magnitude of which was unaffected by task difficulty when the stimulus specified a saccade toward a target within the neuron's response field. Activity after stimuli specifying saccades to targets outside the response field was affected by task difficulty, increasing as the task became more difficult. A quantitative model derived from studies of human decision-making was fit to the behavioral data. The model assumes that information from the stimulus drives two independent diffusion processes. Simulated paths from the model were compared with neuron activity, assuming that firing rate is linearly related to position in the accumulation process. The firing rate data show delayed availability of discriminative information for fast, intermediate, and slow decisions when activity is aligned on the stimulus and very small differences in discriminative information when aligned on the saccade. The model produces exactly these patterns of results. The accumulation process is highly variable, allowing the process both to make errors, as is the case for the behavioral performance, and also to account for the firing rate results. Thus the dual diffusion model provides a quantitative account for both the behavior in a simple decision-making task as well as the patterns of activity in competing populations of neurons.",
+  "authors": [
+    "Ratcliff Roger",
+    "Hasegawa Yukako T",
+    "Hasegawa Ryohei P",
+    "Smith Philip L",
+    "Segraves Mark A"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Discrimination, Psychological",
+    "Electrophysiology",
+    "Female",
+    "Fixation, Ocular",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Saccades",
+    "Stereotaxic Techniques",
+    "Superior Colliculi"
+  ]
+}

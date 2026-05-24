@@ -1,0 +1,37 @@
+{
+  "pmid": "26053631",
+  "title": "Unsupervised lineage-based characterization of primate precursors reveals high proliferative and morphological diversity in the OSVZ.",
+  "abstract": "Generation of the primate cortex is characterized by the diversity of cortical precursors and the complexity of their lineage relationships. Recent studies have reported miscellaneous precursor types based on observer classification of cell biology features including morphology, stemness, and proliferative behavior. Here we use an unsupervised machine learning method for Hidden Markov Trees (HMTs), which can be applied to large datasets to classify precursors on the basis of morphology, cell-cycle length, and behavior during mitosis. The unbiased lineage analysis automatically identifies cell types by applying a lineage-based clustering and model-learning algorithm to a macaque corticogenesis dataset. The algorithmic results validate previously reported observer classification of precursor types and show numerous advantages: It predicts a higher diversity of progenitors and numerous potential transitions between precursor types. The HMT model can be initialized to learn a user-defined number of distinct classes of precursors. This makes it possible to 1) reveal as yet undetected precursor types in view of exploring the significant features of precursors with respect to specific cellular processes; and 2) explore specific lineage features. For example, most precursors in the experimental dataset exhibit bidirectional transitions. Constraining the directionality in the HMT model leads to a reduction in precursor diversity following multiple divisions, thereby suggesting that one impact of bidirectionality in corticogenesis is to maintain precursor diversity. In this way we show that unsupervised lineage analysis provides a valuable methodology for investigating fundamental features of corticogenesis.",
+  "authors": [
+    "Pfeiffer Michael",
+    "Betizeau Marion",
+    "Waltispurger Julie",
+    "Pfister Sabina Sara",
+    "Douglas Rodney J",
+    "Kennedy Henry",
+    "Dehay Colette"
+  ],
+  "journal": "The Journal of comparative neurology",
+  "year": "2016",
+  "doi": "10.1002/cne.23820",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Cell Lineage",
+    "Cluster Analysis",
+    "Genetic Vectors",
+    "Green Fluorescent Proteins",
+    "Hydrozoa",
+    "Image Processing, Computer-Assisted",
+    "Immunohistochemistry",
+    "Macaca fascicularis",
+    "Markov Chains",
+    "Microscopy, Confocal",
+    "Pattern Recognition, Automated",
+    "Stem Cell Niche",
+    "Stem Cells",
+    "Tissue Culture Techniques",
+    "Unsupervised Machine Learning",
+    "Video Recording"
+  ]
+}

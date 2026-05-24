@@ -1,0 +1,19 @@
+{
+  "pmid": "3385469",
+  "title": "A new local feedback model of the saccadic burst generator.",
+  "abstract": "1. To accommodate the finding that the superior colliculus is an important input to the brain stem pathways that generate saccades (the saccadic burst generator), a new model of the burst generator is proposed. Unlike the model of Robinson (61) from which it was derived, the model attempts to match a neural replica of change in eye position, which is the output of the burst generator, to a neural replica of change in target position, which is the output of the colliculus and the input to the model. 2. The elements of the model correspond to neurons known or thought to be associated with the actual primate saccadic burst generator and are mostly connected together in accord with the results of anatomical and physiological experiments. 3. The model was simulated on a digital computer to compare its behavior with that of the actual burst generator under normal and experimental conditions. Simulated peak burst frequency and saccade duration matched that obtained from monkey excitatory burst neurons and inhibitory burst neurons for saccades up to 15 degrees but did not match at larger sizes; stimulation of the omnipause neurons caused an interruption of the saccade, and the saccade resumed at the end of stimulation as in actual data; the model can generate the abnormally long-duration saccades seen under decreased alertness or various pathologies by changing the burst generator inputs and without having to change any properties of the neurons themselves or their connections; a simulated horizontal and vertical burst generator pair connected only through the omnipause neurons can generate realistic oblique saccades. 4. The implications of the model for higher-order control of the saccadic burst generator are discussed.",
+  "authors": [
+    "Scudder C A"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1988",
+  "doi": "",
+  "mesh": [
+    "Efferent Pathways",
+    "Eye Movements",
+    "Models, Neurological",
+    "Motor Neurons",
+    "Saccades",
+    "Time Factors"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "23359212",
+  "title": "Towards a naturalistic brain-machine interface: hybrid torque and position control allows generalization to novel dynamics.",
+  "abstract": "Realization of reaching and grasping movements by a paralytic person or an amputee would greatly facilitate her/his activities of daily living. Towards this goal, control of a computer cursor or robotic arm using neural signals has been demonstrated in rodents, non-human primates and humans. This technology is commonly referred to as a Brain-Machine Interface (BMI) and is achieved by predictions of kinematic parameters, e.g. position or velocity. However, execution of natural movements, such as swinging baseball bats of different weights at the same speed, requires advanced planning for necessary context-specific forces in addition to kinematic control. Here we show, for the first time, the control of a virtual arm with representative inertial parameters using real-time neural control of torques in non-human primates (M. radiata). We found that neural control of torques leads to ballistic, possibly more naturalistic movements than position control alone, and that adding the influence of position in a hybrid torque-position control changes the feedforward behavior of these BMI movements. In addition, this level of control was achievable utilizing the neural recordings from either contralateral or ipsilateral M1. We also observed changed behavior of hybrid torque-position control under novel external dynamic environments that was comparable to natural movements. Our results demonstrate that inclusion of torque control to drive a neuroprosthetic device gives the user a more direct handle on the movement execution, especially when dealing with novel or changing dynamic environments. We anticipate our results to be a starting point of more sophisticated algorithms for sensorimotor neuroprostheses, eliminating the need of fully automatic kinematic-to-dynamic transformations as currently used by traditional kinematic-based decoders. Thus, we propose that direct control of torques, or other force related variables, should allow for more natural neuroprosthetic movements by the user.",
+  "authors": [
+    "Chhatbar Pratik Y",
+    "Francis Joseph T"
+  ],
+  "journal": "PloS one",
+  "year": "2013",
+  "doi": "10.1371/journal.pone.0052286",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Brain-Computer Interfaces",
+    "Humans"
+  ]
+}

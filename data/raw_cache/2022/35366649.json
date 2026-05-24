@@ -1,0 +1,28 @@
+{
+  "pmid": "35366649",
+  "title": "Estimating muscle activation from EMG using deep learning-based dynamical systems models.",
+  "abstract": "<i>Objective</i>. To study the neural control of movement, it is often necessary to estimate how muscles are activated across a variety of behavioral conditions. One approach is to try extracting the underlying neural command signal to muscles by applying latent variable modeling methods to electromyographic (EMG) recordings. However, estimating the latent command signal that underlies muscle activation is challenging due to its complex relation with recorded EMG signals. Common approaches estimate each muscle's activation independently or require manual tuning of model hyperparameters to preserve behaviorally-relevant features.<i>Approach</i>. Here, we adapted AutoLFADS, a large-scale, unsupervised deep learning approach originally designed to de-noise cortical spiking data, to estimate muscle activation from multi-muscle EMG signals. AutoLFADS uses recurrent neural networks to model the spatial and temporal regularities that underlie multi-muscle activation.<i>Main results</i>. We first tested AutoLFADS on muscle activity from the rat hindlimb during locomotion and found that it dynamically adjusts its frequency response characteristics across different phases of behavior. The model produced single-trial estimates of muscle activation that improved prediction of joint kinematics as compared to low-pass or Bayesian filtering. We also applied AutoLFADS to monkey forearm muscle activity recorded during an isometric wrist force task. AutoLFADS uncovered previously uncharacterized high-frequency oscillations in the EMG that enhanced the correlation with measured force. The AutoLFADS-inferred estimates of muscle activation were also more closely correlated with simultaneously-recorded motor cortical activity than were other tested approaches.<i>Significance.</i>This method leverages dynamical systems modeling and artificial neural networks to provide estimates of muscle activation for multiple muscles. Ultimately, the approach can be used for further studies of multi-muscle coordination and its control by upstream brain areas, and for improving brain-machine interfaces that rely on myoelectric control signals.",
+  "authors": [
+    "Wimalasena Lahiru N",
+    "Braun Jonas F",
+    "Keshtkaran Mohammad Reza",
+    "Hofmann David",
+    "Gallego Juan Álvaro",
+    "Alessandro Cristiano",
+    "Tresch Matthew C",
+    "Miller Lee E",
+    "Pandarinath Chethan"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2022",
+  "doi": "10.1088/1741-2552/ac6369",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Deep Learning",
+    "Electromyography",
+    "Locomotion",
+    "Muscle, Skeletal",
+    "Rats"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "38142770",
+  "title": "Phase of neural oscillations as a reference frame for attention-based routing in visual cortex.",
+  "abstract": "Selective attention allows the brain to efficiently process the image projected onto the retina, selectively focusing neural processing resources on behaviorally relevant visual information. While previous studies have documented the crucial role of the action potential rate of single neurons in relaying such information, little is known about how the activity of single neurons relative to their neighboring network contributes to the efficient representation of attended stimuli and transmission of this information to downstream areas. Here, we show in the dorsal visual pathway of monkeys (medial superior temporal area) that neurons fire spikes preferentially at a specific phase of the ongoing population beta (∼20 Hz) oscillations of the surrounding local network. This preferred spiking phase shifts towards a later phase when monkeys selectively attend towards (rather than away from) the receptive field of the neuron. This shift of the locking phase is positively correlated with the speed at which animals report a visual change. Furthermore, our computational modeling suggests that neural networks can manipulate the preferred phase of coupling by imposing differential synaptic delays on postsynaptic potentials. This distinction between the locking phase of neurons activated by the spatially attended stimulus vs. that of neurons activated by the unattended stimulus, may enable the neural system to discriminate relevant from irrelevant sensory inputs and consequently filter out distracting stimuli information by aligning the spikes which convey relevant/irrelevant information to distinct phases linked to periods of better/worse perceptual sensitivity for higher cortices. This strategy may be used to reserve the narrow windows of highest perceptual efficacy to the processing of the most behaviorally relevant information, ensuring highly efficient responses to attended sensory events.",
+  "authors": [
+    "Aboutorabi Ehsan",
+    "Baloni Ray Sonia",
+    "Kaping Daniel",
+    "Shahbazi Farhad",
+    "Treue Stefan",
+    "Esghaei Moein"
+  ],
+  "journal": "Progress in neurobiology",
+  "year": "2024",
+  "doi": "10.1016/j.pneurobio.2023.102563",
+  "mesh": [
+    "Animals",
+    "Neurons",
+    "Brain",
+    "Cerebral Cortex",
+    "Visual Cortex",
+    "Action Potentials"
+  ]
+}

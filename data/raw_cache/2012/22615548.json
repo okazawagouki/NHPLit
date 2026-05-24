@@ -1,0 +1,26 @@
+{
+  "pmid": "22615548",
+  "title": "Optimal control of saccades by spatial-temporal activity patterns in the monkey superior colliculus.",
+  "abstract": "A major challenge in computational neurobiology is to understand how populations of noisy, broadly-tuned neurons produce accurate goal-directed actions such as saccades. Saccades are high-velocity eye movements that have stereotyped, nonlinear kinematics; their duration increases with amplitude, while peak eye-velocity saturates for large saccades. Recent theories suggest that these characteristics reflect a deliberate strategy that optimizes a speed-accuracy tradeoff in the presence of signal-dependent noise in the neural control signals. Here we argue that the midbrain superior colliculus (SC), a key sensorimotor interface that contains a topographically-organized map of saccade vectors, is in an ideal position to implement such an optimization principle. Most models attribute the nonlinear saccade kinematics to saturation in the brainstem pulse generator downstream from the SC. However, there is little data to support this assumption. We now present new neurophysiological evidence for an alternative scheme, which proposes that these properties reside in the spatial-temporal dynamics of SC activity. As predicted by this scheme, we found a remarkably systematic organization in the burst properties of saccade-related neurons along the rostral-to-caudal (i.e., amplitude-coding) dimension of the SC motor map: peak firing-rates systematically decrease for cells encoding larger saccades, while burst durations and skewness increase, suggesting that this spatial gradient underlies the increase in duration and skewness of the eye velocity profiles with amplitude. We also show that all neurons in the recruited population synchronize their burst profiles, indicating that the burst-timing of each cell is determined by the planned saccade vector in which it participates, rather than by its anatomical location. Together with the observation that saccade-related SC cells indeed show signal-dependent noise, this precisely tuned organization of SC burst activity strongly supports the notion of an optimal motor-control principle embedded in the SC motor map as it fully accounts for the straight trajectories and kinematic nonlinearity of saccades.",
+  "authors": [
+    "Goossens H H L M",
+    "van Opstal A J"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2012",
+  "doi": "10.1371/journal.pcbi.1002508",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Feedback, Physiological",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Oculomotor Muscles",
+    "Recruitment, Neurophysiological",
+    "Saccades",
+    "Superior Colliculi"
+  ]
+}

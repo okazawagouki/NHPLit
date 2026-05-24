@@ -1,0 +1,28 @@
+{
+  "pmid": "39383679",
+  "title": "Learning to segment self-generated from externally caused optic flow through sensorimotor mismatch circuits.",
+  "abstract": "Efficient sensory detection requires the capacity to ignore task-irrelevant information, for example when optic flow patterns created by egomotion need to be disentangled from object perception. To investigate how this is achieved in the visual system, predictive coding with sensorimotor mismatch detection is an attractive starting point. Indeed, experimental evidence for sensorimotor mismatch signals in early visual areas exists, but it is not understood how they are integrated into cortical networks that perform input segmentation and categorization. Our model advances a biologically plausible solution by extending predictive coding models with the ability to distinguish self-generated from externally caused optic flow. We first show that a simple three neuron circuit produces experience-dependent sensorimotor mismatch responses, in agreement with calcium imaging data from mice. This microcircuit is then integrated into a neural network with two generative streams. The motor-to-visual stream consists of parallel microcircuits between motor and visual areas and learns to spatially predict optic flow resulting from self-motion. The second stream bidirectionally connects a motion-selective higher visual area (mHVA) to V1, assigning a crucial role to the abundant feedback connections to V1: the maintenance of a generative model of externally caused optic flow. In the model, area mHVA learns to segment moving objects from the background, and facilitates object categorization. Based on shared neurocomputational principles across species, the model also maps onto primate visual cortex. Our work extends Hebbian predictive coding to sensorimotor settings, in which the agent actively moves - and learns to predict the consequences of its own movements.",
+  "authors": [
+    "Brucklacher Matthias",
+    "Pezzulo Giovanni",
+    "Mannella Francesco",
+    "Galati Gaspare",
+    "Pennartz Cyriel M A"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2025",
+  "doi": "10.1016/j.neunet.2024.106716",
+  "mesh": [
+    "Animals",
+    "Optic Flow",
+    "Neural Networks, Computer",
+    "Mice",
+    "Models, Neurological",
+    "Visual Cortex",
+    "Learning",
+    "Motion Perception",
+    "Visual Pathways",
+    "Neurons",
+    "Visual Perception"
+  ]
+}

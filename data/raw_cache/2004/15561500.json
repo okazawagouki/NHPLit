@@ -1,0 +1,30 @@
+{
+  "pmid": "15561500",
+  "title": "Reinforcement learning and decision making in monkeys during a competitive game.",
+  "abstract": "Animals living in a dynamic environment must adjust their decision-making strategies through experience. To gain insights into the neural basis of such adaptive decision-making processes, we trained monkeys to play a competitive game against a computer in an oculomotor free-choice task. The animal selected one of two visual targets in each trial and was rewarded only when it selected the same target as the computer opponent. To determine how the animal's decision-making strategy can be affected by the opponent's strategy, the computer opponent was programmed with three different algorithms that exploited different aspects of the animal's choice and reward history. When the computer selected its targets randomly with equal probabilities, animals selected one of the targets more often, violating the prediction of probability matching, and their choices were systematically influenced by the choice history of the two players. When the computer exploited only the animal's choice history but not its reward history, animal's choice became more independent of its own choice history but was still related to the choice history of the opponent. This bias was substantially reduced, but not completely eliminated, when the computer used the choice history of both players in making its predictions. These biases were consistent with the predictions of reinforcement learning, suggesting that the animals sought optimal decision-making strategies using reinforcement learning algorithms.",
+  "authors": [
+    "Lee Daeyeol",
+    "Conroy Michelle L",
+    "McGreevy Benjamin P",
+    "Barraclough Dominic J"
+  ],
+  "journal": "Brain research. Cognitive brain research",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Behavior, Animal",
+    "Competitive Behavior",
+    "Decision Making",
+    "Feedback",
+    "Learning",
+    "Logistic Models",
+    "Macaca mulatta",
+    "Male",
+    "Models, Psychological",
+    "Probability",
+    "Reinforcement, Psychology",
+    "Time Factors"
+  ]
+}

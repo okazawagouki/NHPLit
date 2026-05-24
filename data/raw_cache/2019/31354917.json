@@ -1,0 +1,20 @@
+{
+  "pmid": "31354917",
+  "title": "CHARTING DEVELOPMENT-BASED JOINT PARCELLATION MAPS OF HUMAN AND MACAQUE BRAINS DURING INFANCY.",
+  "abstract": "Comparative characterization of early brain development between human and macaque using neuroimaging data is crucial to understand the mechanisms of brain development and evolution. To this end, joint cortical parcellation maps of human and macaque infant brains with corresponding regions are highly desirable, since they provide basic cortical parcels for both region-based and network-based studies of two closely-related species. To address this issue, we propose to leverage developmental patterns of cortical properties of both human and macaque infants for creating joint parcellation maps with inter-species comparability. The motivation is that the developmental patterns of cortical properties indicate underlying rapid changes of microstructures, which determine the molecular and functional principles of the cortex. Thus, developmental patterns are well suitable for defining distinct cortical regions in both structures and functions. To comprehensively capture the similarities of developmental patterns of vertices on cortical surfaces, for each species, we first construct two complementary similarity matrices: a <i>low-order</i> matrix and a <i>high-order</i> matrix. Then, we <i>non-linearly</i> fuse these four matrices together as a single matrix in a <i>hierarchical</i> manner, thus capturing the common and complementary information of both human and macaque infants. Finally, based on the fused similarity matrix, we apply the spectral clustering to derive the joint parcellation maps. By applying our method to 210 longitudinal human infant MRI scans and 140 longitudinal macaque infant MRI scans, we generate the first biologically-meaningful joint parcellation maps of human and macaque infants.",
+  "authors": [
+    "Xia Jing",
+    "Wang Fan",
+    "Wu Zhengwang",
+    "Wang Li",
+    "Wang Yaping",
+    "Zhang Caiming",
+    "Lin Weili",
+    "Shen Dinggang",
+    "Li Gang"
+  ],
+  "journal": "Proceedings. IEEE International Symposium on Biomedical Imaging",
+  "year": "2019",
+  "doi": "10.1109/ISBI.2019.8759379",
+  "mesh": []
+}

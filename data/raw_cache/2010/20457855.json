@@ -1,0 +1,27 @@
+{
+  "pmid": "20457855",
+  "title": "Receptive field dynamics underlying MST neuronal optic flow selectivity.",
+  "abstract": "Optic flow informs moving observers about their heading direction. Neurons in monkey medial superior temporal (MST) cortex show heading selective responses to optic flow and planar direction selective responses to patches of local motion. We recorded MST neuronal responses to a 90 x 90 degrees optic flow display and to a 3 x 3 array of local motion patches covering the same area. Our goal was to test the hypothesis that the optic flow responses reflect the sum of the local motion responses. The local motion responses of each neuron were modeled as mixtures of Gaussians, combining the effects of two Gaussian response functions derived using a genetic algorithm, and then used to predict that neuron's optic flow responses. Some neurons showed good correspondence between local motion models and optic flow responses, others showed substantial differences. We used the genetic algorithm to modulate the relative strength of each local motion segment's responses to accommodate interactions between segments that might modulate their relative efficacy during co-activation by global patterns of optic flow. These gain modulated models showed uniformly better fits to the optic flow responses, suggesting that coactivation of receptive field segments alters neuronal response properties. We tested this hypothesis by simultaneously presenting local motion stimuli at two different sites. These two-segment stimuli revealed that interactions between response segments have direction and location specific effects that can account for aspects of optic flow selectivity. We conclude that MST's optic flow selectivity reflects dynamic interactions between spatially distributed local planar motion response mechanisms.",
+  "authors": [
+    "Yu Chen Ping",
+    "Page William K",
+    "Gaborski Roger",
+    "Duffy Charles J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2010",
+  "doi": "10.1152/jn.01085.2009",
+  "mesh": [
+    "Animals",
+    "Capsaicin",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Motion",
+    "Motion Perception",
+    "Neurons",
+    "Normal Distribution",
+    "Photic Stimulation",
+    "Temporal Lobe"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "41196346",
+  "title": "Neuronal normalization in monkey MT is an intensity-weighted average.",
+  "abstract": "Normalization is a fundamental and ubiquitous neuronal computation that stabilizes activity across populations of neurons and preserves stimulus selectivity. While it is observed throughout the visual system, normalization may be particularly important in higher visual areas, where neurons have large receptive fields (RFs) that are frequently presented with multiple stimuli under natural viewing conditions. Yet it remains unclear how a population of neurons, with diverse selectivities and offset RFs, responds to complex scenes in which given stimuli engage different RFs more effectively than others. Here, we investigated how normalization varies with the spatial offset of stimuli from the centers of neurons' RFs in the macaque monkey middle temporal area. We found that existing models of normalization perform poorly when stimuli appear in arbitrary RF locations. Instead, an intensity-weighted normalization model, in which intensity is defined as the product of stimulus contrast and a location-specific RF weight, is required to closely account for normalization. Intensity-weighted normalization furthermore explains a systematic increase in contrast sensitivity at sites closer to the field center. Finally, intensity-weighted normalization reveals that spontaneous activity contributes to normalization in a manner indistinguishable from experimental stimuli.",
+  "authors": [
+    "Cherian Chery",
+    "Maunsell John H R"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2025",
+  "doi": "10.1073/pnas.2522104122",
+  "mesh": [
+    "Animals",
+    "Neurons",
+    "Photic Stimulation",
+    "Models, Neurological",
+    "Macaca mulatta",
+    "Visual Cortex",
+    "Temporal Lobe"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "33301940",
+  "title": "Histology-Based Average Template of the Marmoset Cortex With Probabilistic Localization of Cytoarchitectural Areas.",
+  "abstract": "The rapid adoption of marmosets in neuroscience has created a demand for three dimensional (3D) atlases of the brain of this species to facilitate data integration in a common reference space. We report on a new open access template of the marmoset cortex (the Nencki-Monash, or NM template), representing a morphological average of 20 brains of young adult individuals, obtained by 3D reconstructions generated from Nissl-stained serial sections. The method used to generate the template takes into account morphological features of the individual brains, as well as the borders of clearly defined cytoarchitectural areas. This has resulted in a resource which allows direct estimates of the most likely coordinates of each cortical area, as well as quantification of the margins of error involved in assigning voxels to areas, and preserves quantitative information about the laminar structure of the cortex. We provide spatial transformations between the NM and other available marmoset brain templates, thus enabling integration with magnetic resonance imaging (MRI) and tracer-based connectivity data. The NM template combines some of the main advantages of histology-based atlases (e.g. information about the cytoarchitectural structure) with features more commonly associated with MRI-based templates (isotropic nature of the dataset, and probabilistic analyses). The underlying workflow may be found useful in the future development of 3D brain atlases that incorporate information about the variability of areas in species for which it may be impractical to ensure homogeneity of the sample in terms of age, sex and genetic background.",
+  "authors": [
+    "Majka Piotr",
+    "Bednarek Sylwia",
+    "Chan Jonathan M",
+    "Jermakow Natalia",
+    "Liu Cirong",
+    "Saworska Gabriela",
+    "Worthy Katrina H",
+    "Silva Afonso C",
+    "Wójcik Daniel K",
+    "Rosa Marcello G P"
+  ],
+  "journal": "NeuroImage",
+  "year": "2021",
+  "doi": "10.1016/j.neuroimage.2020.117625",
+  "mesh": [
+    "Animals",
+    "Atlases as Topic",
+    "Callithrix",
+    "Cerebral Cortex",
+    "Female",
+    "Imaging, Three-Dimensional",
+    "Magnetic Resonance Imaging",
+    "Male"
+  ]
+}

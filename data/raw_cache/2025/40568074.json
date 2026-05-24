@@ -1,0 +1,14 @@
+{
+  "pmid": "40568074",
+  "title": "Shared computational principles for mouse superior colliculus and primate population orientation selectivity.",
+  "abstract": "While the mouse visual system is known to differ substantially from the primate, if the two systems share computational principles, then generalization of results across species may still be possible. One prominent difference is that orientation selectivity is found in mouse superficial superior colliculus (SC), but is not commonly observed in primate SC. Nevertheless, there may be conservation of computational principles if orientation selectivity in mouse superficial SC displays similar properties to primate primary visual cortex (V1), such as invariance to differences in other stimulus dimensions. However, a recent calcium (Ca<sup>2+</sup>) imaging study revealed a population map for stimulus orientation in mouse superficial SC that changed with stimulus properties such as size, shape and spatial frequency, in apparent contradistinction to computational principles for orientation selectivity in primates. To reconcile mouse and primate mechanisms for orientation selectivity, we constructed computational models of mouse superficial SC populations with fixed, stimulus-invariant receptive fields (RFs) classically used to describe neural RFs in monkey lateral geniculate nucleus (LGN) and V1. At preferred spatial frequencies, model RFs exhibited stronger responses where the aperture and gratings were differently oriented, while at non-preferred frequencies, orientation selectivity reversed, matching the imaging data. We provide an intuitive explanation by visualizing stimulus-RF interactions in the spatial frequency domain. Intrinsically oriented RFs were unnecessary to explain much of the imaging data, but modeling of single units suggests a possible subpopulation of intrinsically orientation-selective cells. In summary, our population modeling approach provides a parsimonious explanation for stimulus-dependent orientation selectivity consistent with well-established results from sensory neurophysiology. More broadly, we provide a population modeling framework for establishing shared computations across species.",
+  "authors": [
+    "Kuo Austin",
+    "Gardner Justin L",
+    "Merriam Elisha P"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.02.22.639626",
+  "mesh": []
+}

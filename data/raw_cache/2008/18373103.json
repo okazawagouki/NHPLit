@@ -1,0 +1,25 @@
+{
+  "pmid": "18373103",
+  "title": "Predicting human perceptual decisions by decoding neuronal information profiles.",
+  "abstract": "Perception relies on the response of populations of neurons in sensory cortex. How the response profile of a neuronal population gives rise to perception and perceptual discrimination has been conceptualized in various ways. Here we suggest that neuronal population responses represent information about our environment explicitly as Fisher information (FI), which is a local measure of the variance estimate of the sensory input. We show how this sensory information can be read out and combined to infer from the available information profile which stimulus value is perceived during a fine discrimination task. In particular, we propose that the perceived stimulus corresponds to the stimulus value that leads to the same information for each of the alternative directions, and compare the model prediction to standard models considered in the literature (population vector, maximum likelihood, maximum-a-posteriori Bayesian inference). The models are applied to human performance in a motion discrimination task that induces perceptual misjudgements of a target direction of motion by task irrelevant motion in the spatial surround of the target stimulus (motion repulsion). By using the neurophysiological insight that surround motion suppresses neuronal responses to the target motion in the center, all models predicted the pattern of perceptual misjudgements. The variation of discrimination thresholds (error on the perceived value) was also explained through the changes of the total FI content with varying surround motion directions. The proposed FI decoding scheme incorporates recent neurophysiological evidence from macaque visual cortex showing that perceptual decisions do not rely on the most active neurons, but rather on the most informative neuronal responses. We statistically compare the prediction capability of the FI decoding approach and the standard decoding models. Notably, all models reproduced the variation of the perceived stimulus values for different surrounds, but with different neuronal tuning characteristics underlying perception. Compared to the FI approach the prediction power of the standard models was based on neurons with far wider tuning width and stronger surround suppression. Our study demonstrates that perceptual misjudgements can be based on neuronal populations encoding explicitly the available sensory information, and provides testable neurophysiological predictions on neuronal tuning characteristics underlying human perceptual decisions.",
+  "authors": [
+    "Tzvetanov Tzvetomir",
+    "Womelsdorf Thilo"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2008",
+  "doi": "10.1007/s00422-008-0226-0",
+  "mesh": [
+    "Adult",
+    "Bayes Theorem",
+    "Decision Making",
+    "Discrimination, Psychological",
+    "Humans",
+    "Models, Neurological",
+    "Photic Stimulation",
+    "Predictive Value of Tests",
+    "Psychophysics",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

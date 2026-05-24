@@ -1,0 +1,22 @@
+{
+  "pmid": "35157699",
+  "title": "Shape analysis of gamma rhythm supports a superlinear inhibitory regime in an inhibition-stabilized network.",
+  "abstract": "Visual inspection of stimulus-induced gamma oscillations (30-70 Hz) often reveals a non-sinusoidal shape. Such distortions are a hallmark of non-linear systems and are also observed in mean-field models of gamma oscillations. A thorough characterization of the shape of the gamma cycle can therefore provide additional constraints on the operating regime of such models. However, the gamma waveform has not been quantitatively characterized, partially because the first harmonic of gamma, which arises because of the non-sinusoidal nature of the signal, is typically weak and gets masked due to a broadband increase in power related to spiking. To address this, we recorded local field potential (LFP) from the primary visual cortex (V1) of two awake female macaques while presenting full-field gratings or iso-luminant chromatic hues that produced huge gamma oscillations with prominent peaks at harmonic frequencies in the power spectra. We found that gamma and its first harmonic always maintained a specific phase relationship, resulting in a distinctive shape with a sharp trough and a shallow peak. Interestingly, a Wilson-Cowan (WC) model operating in an inhibition stabilized mode could replicate this shape, but only when the inhibitory population operated in the super-linear regime, as predicted recently. However, another recently developed model of gamma that operates in a linear regime driven by stochastic noise failed to produce salient harmonics or the observed shape. Our results impose additional constraints on models that generate gamma oscillations and their operating regimes.",
+  "authors": [
+    "Krishnakumaran R",
+    "Raees Mohammed",
+    "Ray Supratim"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2022",
+  "doi": "10.1371/journal.pcbi.1009886",
+  "mesh": [
+    "Animals",
+    "Female",
+    "Gamma Rhythm",
+    "Macaca",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

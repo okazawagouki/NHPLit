@@ -1,0 +1,31 @@
+{
+  "pmid": "23285287",
+  "title": "Responses of retinal ganglion cells to extracellular electrical stimulation, from single cell to population: model-based analysis.",
+  "abstract": "Retinal ganglion cells (RGCs), which survive in large numbers following neurodegenerative diseases, could be stimulated with extracellular electric pulses to elicit artificial percepts. How do the RGCs respond to electrical stimulation at the sub-cellular level under different stimulus configurations, and how does this influence the whole-cell response? At the population level, why have experiments yielded conflicting evidence regarding the extent of passing axon activation? We addressed these questions through simulations of morphologically and biophysically detailed computational RGC models on high performance computing clusters. We conducted the analyses on both large-field RGCs and small-field midget RGCs. The latter neurons are unique to primates. We found that at the single cell level the electric potential gradient in conjunction with neuronal element excitability, rather than the electrode center location per se, determined the response threshold and latency. In addition, stimulus positioning strongly influenced the location of RGC response initiation and subsequent activity propagation through the cellular structure. These findings were robust with respect to inhomogeneous tissue resistivity perpendicular to the electrode plane. At the population level, RGC cellular structures gave rise to low threshold hotspots, which limited axonal and multi-cell activation with threshold stimuli. Finally, due to variations in neuronal element excitability over space, following supra-threshold stimulation some locations favored localized activation of multiple cells, while others favored axonal activation of cells over extended space.",
+  "authors": [
+    "Tsai David",
+    "Chen Spencer",
+    "Protti Dario A",
+    "Morley John W",
+    "Suaning Gregg J",
+    "Lovell Nigel H"
+  ],
+  "journal": "PloS one",
+  "year": "2012",
+  "doi": "10.1371/journal.pone.0053357",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Callithrix",
+    "Cell Communication",
+    "Cell Compartmentation",
+    "Cells, Cultured",
+    "Cluster Analysis",
+    "Computer Simulation",
+    "Electric Stimulation",
+    "Extracellular Space",
+    "Microelectrodes",
+    "Retinal Ganglion Cells",
+    "Single-Cell Analysis"
+  ]
+}

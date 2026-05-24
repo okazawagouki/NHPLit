@@ -1,0 +1,19 @@
+{
+  "pmid": "37463578",
+  "title": "Routing states transition during oscillatory bursts and attentional selection.",
+  "abstract": "Brain-wide information routing relies on the spatio-temporal dynamics of neural activity, but it remains unclear how routing states emerge at fast spiking timescales and relate to slower activity dynamics during cognitive processes. Here, we show that localized spiking events participate in directional routing states with spiking activity in distant brain areas that dynamically switch or amplify states during oscillatory bursts, attentional selection, and decision-making. Modeling and neural recordings from lateral prefrontal cortex (LPFC), anterior cingulate cortex (ACC), and striatum of nonhuman primates revealed that cross-regional routing states arise within 20 ms following individual neuron spikes, with LPFC spikes leading the activity in ACC and striatum. The baseline routing state amplified during LPFC beta bursts between LPFC and striatum and switched direction during ACC theta/alpha bursts between ACC and LPFC. Selective attention amplified theta-/alpha-band-specific lead ensembles in ACC, while decision-making increased the lead of ACC and LPFC spikes to the striatum.",
+  "authors": [
+    "Banaie Boroujeni Kianoush",
+    "Womelsdorf Thilo"
+  ],
+  "journal": "Neuron",
+  "year": "2023",
+  "doi": "10.1016/j.neuron.2023.06.012",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Brain",
+    "Prefrontal Cortex",
+    "Neurons"
+  ]
+}

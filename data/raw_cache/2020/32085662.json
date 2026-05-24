@@ -1,0 +1,39 @@
+{
+  "pmid": "32085662",
+  "title": "Using Transcriptomic Analysis to Assess Double-Strand Break Repair Activity: Towards Precise in vivo Genome Editing.",
+  "abstract": "Mutations in more than 200 retina-specific genes have been associated with inherited retinal diseases. Genome editing represents a promising emerging field in the treatment of monogenic disorders, as it aims to correct disease-causing mutations within the genome. Genome editing relies on highly specific endonucleases and the capacity of the cells to repair double-strand breaks (DSBs). As DSB pathways are cell-cycle dependent, their activity in postmitotic retinal neurons, with a focus on photoreceptors, needs to be assessed in order to develop therapeutic in vivo genome editing. Three DSB-repair pathways are found in mammalian cells: Non-homologous end joining (NHEJ); microhomology-mediated end joining (MMEJ); and homology-directed repair (HDR). While NHEJ can be used to knock out mutant alleles in dominant disorders, HDR and MMEJ are better suited for precise genome editing, or for replacing entire mutation hotspots in genomic regions. Here, we analyzed transcriptomic in vivo and in vitro data and revealed that HDR is indeed downregulated in postmitotic neurons, whereas MMEJ and NHEJ are active. Using single-cell RNA sequencing analysis, we characterized the dynamics of DSB repair pathways in the transition from dividing cells to postmitotic retinal cells. Time-course bulk RNA-seq data confirmed DSB repair gene expression in both in vivo and in vitro samples. Transcriptomic DSB repair pathway profiles are very similar in adult human, macaque, and mouse retinas, but not in ground squirrel retinas. Moreover, human-induced pluripotent stem-cell-derived neurons and retinal organoids can serve as well suited in vitro testbeds for developing genomic engineering approaches in photoreceptors. Our study provides additional support for designing precise in vivo genome-editing approaches via MMEJ, which is active in mature photoreceptors.",
+  "authors": [
+    "Pasquini Giovanni",
+    "Cora Virginia",
+    "Swiersy Anka",
+    "Achberger Kevin",
+    "Antkowiak Lena",
+    "Müller Brigitte",
+    "Wimmer Tobias",
+    "Fraschka Sabine Anne-Kristin",
+    "Casadei Nicolas",
+    "Ueffing Marius",
+    "Liebau Stefan",
+    "Stieger Knut",
+    "Busskamp Volker"
+  ],
+  "journal": "International journal of molecular sciences",
+  "year": "2020",
+  "doi": "10.3390/ijms21041380",
+  "mesh": [
+    "Adult",
+    "Animals",
+    "Cell Cycle",
+    "DNA Breaks, Double-Stranded",
+    "DNA Repair",
+    "Gene Editing",
+    "Gene Expression Profiling",
+    "Gene Expression Regulation",
+    "Genome",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Mammals",
+    "Mice",
+    "Photoreceptor Cells, Vertebrate"
+  ]
+}

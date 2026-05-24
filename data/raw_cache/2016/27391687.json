@@ -1,0 +1,13 @@
+{
+  "pmid": "27391687",
+  "title": "Dynamic Signal Tracking in a Simple V1 Spiking Model.",
+  "abstract": "This work is part of an effort to understand the neural basis for our visual system's ability, or failure, to accurately track moving visual signals. We consider here a ring model of spiking neurons, intended as a simplified computational model of a single hypercolumn of the primary visual cortex of primates. Signals that consist of edges with time-varying orientations localized in space are considered. Our model is calibrated to produce spontaneous and driven firing rates roughly consistent with experiments, and our two main findings, for which we offer dynamical explanation on the level of neuronal interactions, are the following. First, we have documented consistent transient overshoots in signal perception following signal switches due to emergent interactions of the E- and I-populations. Second, for continuously moving signals, we have found that accuracy is considerably lower at reversals of orientation than when continuing in the same direction (as when the signal is a rotating bar). To measure performance, we use two metrics, called fidelity and reliability, to compare signals reconstructed by the system to the ones presented and assess trial-to-trial variability. We propose that the same population mechanisms responsible for orientation selectivity also impose constraints on dynamic signal tracking that manifest in perception failures consistent with psychophysical observations.",
+  "authors": [
+    "Lajoie Guillaume",
+    "Young Lai-Sang"
+  ],
+  "journal": "Neural computation",
+  "year": "2016",
+  "doi": "10.1162/NECO_a_00868",
+  "mesh": []
+}

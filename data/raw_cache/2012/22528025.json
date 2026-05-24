@@ -1,0 +1,25 @@
+{
+  "pmid": "22528025",
+  "title": "Representation of motion onset and offset in an augmented Barlow-Levick model of motion detection.",
+  "abstract": "Kinetic occlusion produces discontinuities in the optic flow field, whose perception requires the detection of an unexpected onset or offset of otherwise predictably moving or stationary contrast patches. Many cells in primate visual cortex are directionally selective for moving contrasts, and recent reports suggest that this selectivity arises through the inhibition of contrast signals moving in the cells' null direction, as in the rabbit retina. This nulling inhibition circuit (Barlow-Levick) is here extended to also detect motion onsets and offsets. The selectivity of extended circuit units, measured as a peak evidence accumulation response to motion onset/offset compared to the peak response to constant motion, is analyzed as a function of stimulus speed. Model onset cells are quiet during constant motion, but model offset cells activate during constant motion at slow speeds. Consequently, model offset cell speed tuning is biased towards higher speeds than onset cell tuning, similarly to the speed tuning of cells in the middle temporal area when exposed to speed ramps. Given a population of neurons with different preferred speeds, this asymmetry addresses a behavioral paradox-why human subjects in a simple reaction time task respond more slowly to motion offsets than onsets for low speeds, even though monkey neuron firing rates react more quickly to the offset of a preferred stimulus than to its onset.",
+  "authors": [
+    "Barnes Timothy",
+    "Mingolla Ennio"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2012",
+  "doi": "10.1007/s10827-012-0393-9",
+  "mesh": [
+    "Algorithms",
+    "Computer Simulation",
+    "Functional Laterality",
+    "Humans",
+    "Interneurons",
+    "Kinetics",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Reaction Time",
+    "Visual Perception"
+  ]
+}

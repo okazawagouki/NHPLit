@@ -1,0 +1,33 @@
+{
+  "pmid": "41504621",
+  "title": "Reconstructing voice identity from noninvasive auditory cortex recordings.",
+  "abstract": "The cerebral processing of voice information is known to engage, in human as well as non-human primates, 'temporal voice areas' (TVAs) that respond preferentially to conspecific vocalizations. However, how voice information is represented by neuronal populations in these areas, particularly speaker identity information, remains poorly understood. Here, we used a deep neural network (DNN) to generate a high-level, small-dimension representational space for voice identity-the 'voice latent space' (VLS)-and examined its linear relation with cerebral activity via encoding, representational similarity, and decoding analyses. We find that the VLS maps onto fMRI measures of cerebral activity in response to tens of thousands of voice stimuli from hundreds of different speaker identities and better accounts for the representational geometry for speaker identity in the TVAs than in A1. Moreover, the VLS allowed TVA-based reconstructions of voice stimuli that preserved essential aspects of speaker identity as assessed by both machine classifiers and human listeners. These results indicate that the DNN-derived VLS provides high-level representations of voice identity information in the TVAs.",
+  "authors": [
+    "Lamothe Charly",
+    "Thoret Etienne",
+    "Trapeau Régis",
+    "Giordano Bruno L",
+    "Sein Julien",
+    "Takerkart Sylvain",
+    "Ayache Stephane",
+    "Artieres Thierry",
+    "Belin Pascal"
+  ],
+  "journal": "eLife",
+  "year": "2026",
+  "doi": "10.7554/eLife.98047",
+  "mesh": [
+    "Auditory Cortex",
+    "Humans",
+    "Voice",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Female",
+    "Adult",
+    "Auditory Perception",
+    "Young Adult",
+    "Acoustic Stimulation",
+    "Brain Mapping",
+    "Neural Networks, Computer"
+  ]
+}

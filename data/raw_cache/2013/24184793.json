@@ -1,0 +1,26 @@
+{
+  "pmid": "24184793",
+  "title": "Introducing memory and association mechanism into a biologically inspired visual model.",
+  "abstract": "A famous biologically inspired hierarchical model (HMAX model), which was proposed recently and corresponds to V1 to V4 of the ventral pathway in primate visual cortex, has been successfully applied to multiple visual recognition tasks. The model is able to achieve a set of position- and scale-tolerant recognition, which is a central problem in pattern recognition. In this paper, based on some other biological experimental evidence, we introduce the memory and association mechanism into the HMAX model. The main contributions of the work are: 1) mimicking the active memory and association mechanism and adding the top down adjustment to the HMAX model, which is the first try to add the active adjustment to this famous model and 2) from the perspective of information, algorithms based on the new model can reduce the computation storage and have a good recognition performance. The new model is also applied to object recognition processes. The primary experimental results show that our method is efficient with a much lower memory requirement.",
+  "authors": [
+    "Qiao Hong",
+    "Li Yinlin",
+    "Tang Tang",
+    "Wang Peng"
+  ],
+  "journal": "IEEE transactions on cybernetics",
+  "year": "2014",
+  "doi": "10.1109/TCYB.2013.2287014",
+  "mesh": [
+    "Algorithms",
+    "Biometric Identification",
+    "Cybernetics",
+    "Humans",
+    "Memory",
+    "Models, Biological",
+    "Pattern Recognition, Automated",
+    "Pattern Recognition, Visual",
+    "Semantics",
+    "Visual Cortex"
+  ]
+}

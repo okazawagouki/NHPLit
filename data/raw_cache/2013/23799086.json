@@ -1,0 +1,31 @@
+{
+  "pmid": "23799086",
+  "title": "A self-organizing model of the visual development of hand-centred representations.",
+  "abstract": "We show how hand-centred visual representations could develop in the primate posterior parietal and premotor cortices during visually guided learning in a self-organizing neural network model. The model incorporates trace learning in the feed-forward synaptic connections between successive neuronal layers. Trace learning encourages neurons to learn to respond to input images that tend to occur close together in time. We assume that sequences of eye movements are performed around individual scenes containing a fixed hand-object configuration. Trace learning will then encourage individual cells to learn to respond to particular hand-object configurations across different retinal locations. The plausibility of this hypothesis is demonstrated in computer simulations.",
+  "authors": [
+    "Galeazzi Juan M",
+    "Mender Bedeho M W",
+    "Paredes Mariana",
+    "Tromans James M",
+    "Evans Benjamin D",
+    "Minini Loredana",
+    "Stringer Simon M"
+  ],
+  "journal": "PloS one",
+  "year": "2013",
+  "doi": "10.1371/journal.pone.0066272",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Hand",
+    "Learning",
+    "Models, Biological",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Primates",
+    "Software",
+    "Visual Perception"
+  ]
+}

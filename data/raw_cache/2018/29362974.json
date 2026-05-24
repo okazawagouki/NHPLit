@@ -1,0 +1,24 @@
+{
+  "pmid": "29362974",
+  "title": "Mapping Brain Activity with Electrocorticography: Resolution Properties and Robustness of Inverse Solutions.",
+  "abstract": "Electrocorticography (ECoG) is an electrophysiological technique that records brain activity directly from the cortical surface with high temporal (ms) and spatial (mm) resolution. Its major limitations are in the high invasiveness and in the restricted field-of-view of the electrode grid, which partially covers the cortex. To infer brain activity at locations different from just below the electrodes, it is necessary to solve the electromagnetic inverse problem. Limitations in the performance of source reconstruction algorithms from ECoG have been, to date, only partially addressed in the literature, and a systematic evaluation is still lacking. The main goal of this study is to provide a quantitative evaluation of resolution properties of widely used inverse methods (eLORETA and MNE) for various ECoG grid sizes, in terms of localization error, spatial dispersion, and overall amplitude. Additionally, this study aims at evaluating how the use of simultaneous electroencephalography (EEG) affects the above properties. For these purposes, we take advantage of a unique dataset in which a monkey underwent a simultaneous recording with a 128 channel ECoG grid and an 18 channel EEG grid. Our results show that, in general conditions, the reconstruction of cortical activity located more than 1 cm away from the ECoG grid is not accurate, since the localization error increases linearly with the distance from the electrodes. This problem can be partially overcome by recording simultaneously ECoG and EEG. However, this analysis enlightens the necessity to design inverse algorithms specifically targeted at taking into account the limited field-of-view of the ECoG grid.",
+  "authors": [
+    "Todaro Chiara",
+    "Marzetti Laura",
+    "Valdés Sosa Pedro A",
+    "Valdés-Hernandez Pedro A",
+    "Pizzella Vittorio"
+  ],
+  "journal": "Brain topography",
+  "year": "2019",
+  "doi": "10.1007/s10548-018-0623-1",
+  "mesh": [
+    "Algorithms",
+    "Brain",
+    "Brain Mapping",
+    "Electrocorticography",
+    "Electrodes",
+    "Electroencephalography",
+    "Humans"
+  ]
+}

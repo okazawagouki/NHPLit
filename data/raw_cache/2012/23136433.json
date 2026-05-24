@@ -1,0 +1,29 @@
+{
+  "pmid": "23136433",
+  "title": "Dynamic and static facial expressions decoded from motion-sensitive areas in the macaque monkey.",
+  "abstract": "Humans adeptly use visual motion to recognize socially relevant facial information. The macaque provides a model visual system for studying neural coding of expression movements, as its superior temporal sulcus (STS) possesses brain areas selective for faces and areas sensitive to visual motion. We used functional magnetic resonance imaging and facial stimuli to localize motion-sensitive areas [motion in faces (Mf) areas], which responded more to dynamic faces compared with static faces, and face-selective areas, which responded selectively to faces compared with objects and places. Using multivariate analysis, we found that information about both dynamic and static facial expressions could be robustly decoded from Mf areas. By contrast, face-selective areas exhibited relatively less facial expression information. Classifiers trained with expressions from one motion type (dynamic or static) showed poor generalization to the other motion type, suggesting that Mf areas employ separate and nonconfusable neural codes for dynamic and static presentations of the same expressions. We also show that some of the motion sensitivity elicited by facial stimuli was not specific to faces but could also be elicited by moving dots, particularly in fundus of the superior temporal and middle superior temporal polysensory/lower superior temporal areas, confirming their already well established low-level motion sensitivity. A different pattern was found in anterior STS, which responded more to dynamic than to static faces but was not sensitive to dot motion. Overall, we show that emotional expressions are mostly represented outside of face-selective cortex, in areas sensitive to motion. These regions may play a fundamental role in enhancing recognition of facial expression despite the complex stimulus changes associated with motion.",
+  "authors": [
+    "Furl Nicholas",
+    "Hadj-Bouziane Fadila",
+    "Liu Ning",
+    "Averbeck Bruno B",
+    "Ungerleider Leslie G"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2012",
+  "doi": "10.1523/JNEUROSCI.1992-12.2012",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Emotions",
+    "Facial Expression",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Motion Perception",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "25082652",
+  "title": "Useful properties of spinal circuits for learning and performing planar reaches.",
+  "abstract": "OBJECTIVE: We developed a detailed model of the spinal circuitry plus musculoskeletal system (SC + MS) for the primate arm and investigated its role in sensorimotor control, learning and storing of movement repertoires. APPROACH: Recently developed models of spinal circuit connectivity, neurons and muscle force/energetics were integrated and in some cases refined to construct the most comprehensive model of the SC + MS to date. The SC + MS's potential contributions to center-out reaching movement were assessed by employing an extremely simple model of the brain that issued only step commands. MAIN RESULTS: The SC + MS was able to generate physiological muscle dynamics underlying reaching across different directions, distances, speeds, and even in the midst of strong dynamic perturbations (i.e. viscous curl field). For each task, there were many different combinations of brain inputs that generated physiological performance. Natural patterns of recruitment and low metabolic cost emerged for about half of the learning trials when a purely kinematic cost function was used and for all of the trials when an estimate of metabolic energy consumption was added to the cost function. Solutions for different tasks could be interpolated to generate intermediate movement and the range over which interpolation was successful was consistent with experimental reports. SIGNIFICANCE: This is the first demonstration that a realistic model of the SC + MS is capable of generating the required dynamics of center-out reaching. The interpolability observed is important for the feasibility of storing motor programs in memory rather than computing them from internal models of the musculoskeletal plant. Successful interpolation of command programs required them to have similar muscle recruitment patterns, which are thought by many to arise from hard-wired muscle synergies rather than learned as in our model system. These properties of the SC + MS along with its tendency to generate energetically efficient solutions might usefully be employed by motor cortex to generate voluntary behaviors such as reaching to targets.",
+  "authors": [
+    "Tsianos George A",
+    "Goodner Jared",
+    "Loeb Gerald E"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2014",
+  "doi": "10.1088/1741-2560/11/5/056006",
+  "mesh": [
+    "Action Potentials",
+    "Arm",
+    "Computer Simulation",
+    "Humans",
+    "Learning",
+    "Models, Neurological",
+    "Movement",
+    "Muscle, Skeletal",
+    "Nerve Net",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Spinal Cord"
+  ]
+}

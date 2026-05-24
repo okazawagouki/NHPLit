@@ -1,0 +1,29 @@
+{
+  "pmid": "25926461",
+  "title": "Spike synchrony reveals emergence of proto-objects in visual cortex.",
+  "abstract": "Neurons at early stages of the visual cortex signal elemental features, such as pieces of contour, but how these signals are organized into perceptual objects is unclear. Theories have proposed that spiking synchrony between these neurons encodes how features are grouped (binding-by-synchrony), but recent studies did not find the predicted increase in synchrony with binding. Here we propose that features are grouped to \"proto-objects\" by intrinsic feedback circuits that enhance the responses of the participating feature neurons. This hypothesis predicts synchrony exclusively between feature neurons that receive feedback from the same grouping circuit. We recorded from neurons in macaque visual cortex and used border-ownership selectivity, an intrinsic property of the neurons, to infer whether or not two neurons are part of the same grouping circuit. We found that binding produced synchrony between same-circuit neurons, but not between other pairs of neurons, as predicted by the grouping hypothesis. In a selective attention task, synchrony emerged with ignored as well as attended objects, and higher synchrony was associated with faster behavioral responses, as would be expected from early grouping mechanisms that provide the structure for object-based processing. Thus, synchrony could be produced by automatic activation of intrinsic grouping circuits. However, the binding-related elevation of synchrony was weak compared with its random fluctuations, arguing against synchrony as a code for binding. In contrast, feedback grouping circuits encode binding by modulating the response strength of related feature neurons. Thus, our results suggest a novel coding mechanism that might underlie the proto-objects of perception.",
+  "authors": [
+    "Martin Anne B",
+    "von der Heydt Rüdiger"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.3590-14.2015",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Evoked Potentials, Visual",
+    "Eye Movements",
+    "Feedback, Sensory",
+    "Form Perception",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Statistics as Topic",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

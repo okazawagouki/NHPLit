@@ -1,0 +1,24 @@
+{
+  "pmid": "26252871",
+  "title": "The Importance of Lateral Connections in the Parietal Cortex for Generating Motor Plans.",
+  "abstract": "Substantial evidence has highlighted the significant role of associative brain areas, such as the posterior parietal cortex (PPC) in transforming multimodal sensory information into motor plans. However, little is known about how different sensory information, which can have different delays or be absent, combines to produce a motor plan, such as executing a reaching movement. To address these issues, we constructed four biologically plausible network architectures to simulate PPC: 1) feedforward from sensory input to the PPC to a motor output area, 2) feedforward with the addition of an efference copy from the motor area, 3) feedforward with the addition of lateral or recurrent connectivity across PPC neurons, and 4) feedforward plus efference copy, and lateral connections. Using an evolutionary strategy, the connectivity of these network architectures was evolved to execute visually guided movements, where the target stimulus provided visual input for the entirety of each trial. The models were then tested on a memory guided motor task, where the visual target disappeared after a short duration. Sensory input to the neural networks had sensory delays consistent with results from monkey studies. We found that lateral connections within the PPC resulted in smoother movements and were necessary for accurate movements in the absence of visual input. The addition of lateral connections resulted in velocity profiles consistent with those observed in human and non-human primate visually guided studies of reaching, and allowed for smooth, rapid, and accurate movements under all conditions. In contrast, Feedforward or Feedback architectures were insufficient to overcome these challenges. Our results suggest that intrinsic lateral connections are critical for executing accurate, smooth motor plans.",
+  "authors": [
+    "Asher Derrik E",
+    "Oros Nicolas",
+    "Krichmar Jeffrey L"
+  ],
+  "journal": "PloS one",
+  "year": "2015",
+  "doi": "10.1371/journal.pone.0134669",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Humans",
+    "Models, Neurological",
+    "Motor Activity",
+    "Movement",
+    "Nerve Net",
+    "Parietal Lobe",
+    "Task Performance and Analysis"
+  ]
+}

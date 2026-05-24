@@ -1,0 +1,23 @@
+{
+  "pmid": "38986461",
+  "title": "Detecting rhythmic spiking through the power spectra of point process model residuals.",
+  "abstract": "<i>Objective</i>. Oscillations figure prominently as neurological disease hallmarks and neuromodulation targets. To detect oscillations in a neuron's spiking, one might attempt to seek peaks in the spike train's power spectral density (PSD) which exceed a flat baseline. Yet for a non-oscillating neuron, the PSD is not flat: The recovery period ('RP', the post-spike drop in spike probability, starting with the refractory period) introduces global spectral distortion. An established 'shuffling' procedure corrects for RP distortion by removing the spectral component explained by the inter-spike interval (ISI) distribution. However, this procedure sacrifices oscillation-related information present in the ISIs, and therefore in the PSD. We asked whether point process models (PPMs) might achieve more selective RP distortion removal, thereby enabling improved oscillation detection.<i>Approach</i>. In a novel 'residuals' method, we first estimate the RP duration (<i>n<sub>r</sub></i>) from the ISI distribution. We then fit the spike train with a PPM that predicts spike likelihood based on the time elapsed since the most recent of any spikes falling within the preceding<i>n<sub>r</sub></i>milliseconds. Finally, we compute the PSD of the model's residuals.<i>Main results</i>. We compared the residuals and shuffling methods' ability to enable accurate oscillation detection with flat baseline-assuming tests. Over synthetic data, the residuals method generally outperformed the shuffling method in classification of true- versus false-positive oscillatory power, principally due to enhanced sensitivity in sparse spike trains. In single-unit data from the internal globus pallidus (GPi) and ventrolateral anterior thalamus (VLa) of a parkinsonian monkey-in which alpha-beta oscillations (8-30 Hz) were anticipated-the residuals method reported the greatest incidence of significant alpha-beta power, with low firing rates predicting residuals-selective oscillation detection.<i>Significance</i>. These results encourage continued development of the residuals approach, to support more accurate oscillation detection. Improved identification of oscillations could promote improved disease models and therapeutic technologies.",
+  "authors": [
+    "Cox Karin M",
+    "Kase Daisuke",
+    "Znati Taieb",
+    "Turner Robert S"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2024",
+  "doi": "10.1088/1741-2552/ad6188",
+  "mesh": [
+    "Animals",
+    "Models, Neurological",
+    "Action Potentials",
+    "Macaca mulatta",
+    "Neurons",
+    "Periodicity",
+    "Male"
+  ]
+}

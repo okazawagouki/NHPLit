@@ -1,0 +1,29 @@
+{
+  "pmid": "27441501",
+  "title": "Calcium imaging with genetically encoded indicators in behaving primates.",
+  "abstract": "Understanding the neural basis of behaviour requires studying brain activity in behaving subjects using complementary techniques that measure neural responses at multiple spatial scales, and developing computational tools for understanding the mapping between these measurements. Here we report the first results of widefield imaging of genetically encoded calcium indicator (GCaMP6f) signals from V1 of behaving macaques. This technique provides a robust readout of visual population responses at the columnar scale over multiple mm(2) and over several months. To determine the quantitative relation between the widefield GCaMP signals and the locally pooled spiking activity, we developed a computational model that sums the responses of V1 neurons characterized by prior single unit measurements. The measured tuning properties of the GCaMP signals to stimulus contrast, orientation and spatial position closely match the predictions of the model, suggesting that widefield GCaMP signals are linearly related to the summed local spiking activity.",
+  "authors": [
+    "Seidemann Eyal",
+    "Chen Yuzhi",
+    "Bai Yoon",
+    "Chen Spencer C",
+    "Mehta Preeti",
+    "Kajs Bridget L",
+    "Geisler Wilson S",
+    "Zemelman Boris V"
+  ],
+  "journal": "eLife",
+  "year": "2016",
+  "doi": "10.7554/eLife.16178",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Brain",
+    "Brain Mapping",
+    "Calcium",
+    "Computer Simulation",
+    "Genes, Reporter",
+    "Macaca",
+    "Optical Imaging"
+  ]
+}

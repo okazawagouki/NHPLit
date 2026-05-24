@@ -1,0 +1,31 @@
+{
+  "pmid": "24386223",
+  "title": "Prediction of hand trajectory from electrocorticography signals in primary motor cortex.",
+  "abstract": "Due to their potential as a control modality in brain-machine interfaces, electrocorticography (ECoG) has received much focus in recent years. Studies using ECoG have come out with success in such endeavors as classification of arm movements and natural grasp types, regression of arm trajectories in two and three dimensions, estimation of muscle activity time series and so on. However, there still remains considerable work to be done before a high performance ECoG-based neural prosthetic can be realized. In this study, we proposed an algorithm to decode hand trajectory from 15 and 32 channel ECoG signals recorded from primary motor cortex (M1) in two primates. To determine the most effective areas for prediction, we applied two electrode selection methods, one based on position relative to the central sulcus (CS) and another based on the electrodes' individual prediction performance. The best coefficients of determination for decoding hand trajectory in the two monkeys were 0.4815 ± 0.0167 and 0.7780 ± 0.0164. Performance results from individual ECoG electrodes showed that those with higher performance were concentrated at the lateral areas and areas close to the CS. The results of prediction according with different numbers of electrodes based on proposed methods were also shown and discussed. These results also suggest that superior decoding performance can be achieved from a group of effective ECoG signals rather than an entire ECoG array.",
+  "authors": [
+    "Chen Chao",
+    "Shin Duk",
+    "Watanabe Hidenori",
+    "Nakanishi Yasuhiko",
+    "Kambara Hiroyuki",
+    "Yoshimura Natsue",
+    "Nambu Atsushi",
+    "Isa Tadashi",
+    "Nishimura Yukio",
+    "Koike Yasuharu"
+  ],
+  "journal": "PloS one",
+  "year": "2013",
+  "doi": "10.1371/journal.pone.0083534",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electroencephalography",
+    "Female",
+    "Hand",
+    "Macaca",
+    "Male",
+    "Motor Cortex",
+    "Psychomotor Performance"
+  ]
+}

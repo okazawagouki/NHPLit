@@ -1,0 +1,38 @@
+{
+  "pmid": "16705271",
+  "title": "A comparison of optimal MIMO linear and nonlinear models for brain-machine interfaces.",
+  "abstract": "The field of brain-machine interfaces requires the estimation of a mapping from spike trains collected in motor cortex areas to the hand kinematics of the behaving animal. This paper presents a systematic investigation of several linear (Wiener filter, LMS adaptive filters, gamma filter, subspace Wiener filters) and nonlinear models (time-delay neural network and local linear switching models) applied to datasets from two experiments in monkeys performing motor tasks (reaching for food and target hitting). Ensembles of 100-200 cortical neurons were simultaneously recorded in these experiments, and even larger neuronal samples are anticipated in the future. Due to the large size of the models (thousands of parameters), the major issue studied was the generalization performance. Every parameter of the models (not only the weights) was selected optimally using signal processing and machine learning techniques. The models were also compared statistically with respect to the Wiener filter as the baseline. Each of the optimization procedures produced improvements over that baseline for either one of the two datasets or both.",
+  "authors": [
+    "Kim S-P",
+    "Sanchez J C",
+    "Rao Y N",
+    "Erdogmus D",
+    "Carmena J M",
+    "Lebedev M A",
+    "Nicolelis M A L",
+    "Principe J C"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Artificial Intelligence",
+    "Brain",
+    "Communication Devices for People with Disabilities",
+    "Diagnosis, Computer-Assisted",
+    "Electroencephalography",
+    "Evoked Potentials, Motor",
+    "Haplorhini",
+    "Humans",
+    "Linear Models",
+    "Models, Neurological",
+    "Nonlinear Dynamics",
+    "Pattern Recognition, Automated",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "User-Computer Interface"
+  ]
+}

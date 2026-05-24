@@ -1,0 +1,36 @@
+{
+  "pmid": "27097901",
+  "title": "Extracellular voltage threshold settings can be tuned for optimal encoding of movement and stimulus parameters.",
+  "abstract": "OBJECTIVE: A traditional goal of neural recording with extracellular electrodes is to isolate action potential waveforms of an individual neuron. Recently, in brain-computer interfaces (BCIs), it has been recognized that threshold crossing events of the voltage waveform also convey rich information. To date, the threshold for detecting threshold crossings has been selected to preserve single-neuron isolation. However, the optimal threshold for single-neuron identification is not necessarily the optimal threshold for information extraction. Here we introduce a procedure to determine the best threshold for extracting information from extracellular recordings. We apply this procedure in two distinct contexts: the encoding of kinematic parameters from neural activity in primary motor cortex (M1), and visual stimulus parameters from neural activity in primary visual cortex (V1). APPROACH: We record extracellularly from multi-electrode arrays implanted in M1 or V1 in monkeys. Then, we systematically sweep the voltage detection threshold and quantify the information conveyed by the corresponding threshold crossings. MAIN RESULTS: The optimal threshold depends on the desired information. In M1, velocity is optimally encoded at higher thresholds than speed; in both cases the optimal thresholds are lower than are typically used in BCI applications. In V1, information about the orientation of a visual stimulus is optimally encoded at higher thresholds than is visual contrast. A conceptual model explains these results as a consequence of cortical topography. SIGNIFICANCE: How neural signals are processed impacts the information that can be extracted from them. Both the type and quality of information contained in threshold crossings depend on the threshold setting. There is more information available in these signals than is typically extracted. Adjusting the detection threshold to the parameter of interest in a BCI context should improve our ability to decode motor intent, and thus enhance BCI control. Further, by sweeping the detection threshold, one can gain insights into the topographic organization of the nearby neural tissue.",
+  "authors": [
+    "Oby Emily R",
+    "Perel Sagi",
+    "Sadtler Patrick T",
+    "Ruff Douglas A",
+    "Mischel Jessica L",
+    "Montez David F",
+    "Cohen Marlene R",
+    "Batista Aaron P",
+    "Chase Steven M"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2016",
+  "doi": "10.1088/1741-2560/13/3/036009",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Extracellular Space",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Neural Prostheses",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Signal-To-Noise Ratio",
+    "Visual Cortex"
+  ]
+}

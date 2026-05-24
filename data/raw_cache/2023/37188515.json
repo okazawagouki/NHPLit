@@ -1,0 +1,25 @@
+{
+  "pmid": "37188515",
+  "title": "Representational Geometries Reveal Differential Effects of Response Correlations on Population Codes in Neurophysiology and Functional Magnetic Resonance Imaging.",
+  "abstract": "Two sensory neurons usually display trial-by-trial spike-count correlations given the repeated representations of a stimulus. The effects of such response correlations on population-level sensory coding have been the focal contention in computational neuroscience over the past few years. In the meantime, multivariate pattern analysis (MVPA) has become the leading analysis approach in functional magnetic resonance imaging (fMRI), but the effects of response correlations among voxel populations remain underexplored. Here, instead of conventional MVPA analysis, we calculate linear Fisher information of population responses in human visual cortex (five males, one female) and hypothetically remove response correlations between voxels. We found that voxelwise response correlations generally enhance stimulus information, a result standing in stark contrast to the detrimental effects of response correlations reported in empirical neurophysiological studies. By voxel-encoding modeling, we further show that these two seemingly opposite effects actually can coexist within the primate visual system. Furthermore, we use principal component analysis to decompose stimulus information in population responses onto different principal dimensions in a high-dimensional representational space. Interestingly, response correlations simultaneously reduce and enhance information on higher- and lower-variance principal dimensions, respectively. The relative strength of the two antagonistic effects within the same computational framework produces the apparent discrepancy in the effects of response correlations in neuronal and voxel populations. Our results suggest that multivariate fMRI data contain rich statistical structures that are directly related to sensory information representation, and the general computational framework to analyze neuronal and voxel population responses can be applied in many types of neural measurements.<b>SIGNIFICANCE STATEMENT</b> Despite the vast research interest in the effect of spike-count noise correlations on population codes in neurophysiology, it remains unclear how the response correlations between voxels influence MVPA in human imaging. We used an information-theoretic approach and showed that unlike the detrimental effects of response correlations reported in neurophysiology, voxelwise response correlations generally improve sensory coding. We conducted a series of in-depth analyses and demonstrated that neuronal and voxel response correlations can coexist within the visual system and share some common computational mechanisms. These results shed new light on how the population codes of sensory information can be evaluated via different neural measurements.",
+  "authors": [
+    "Cheng Zi-Jian",
+    "Yang Lingxiao",
+    "Zhang Wen-Hao",
+    "Zhang Ru-Yuan"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2023",
+  "doi": "10.1523/JNEUROSCI.2228-22.2023",
+  "mesh": [
+    "Male",
+    "Animals",
+    "Humans",
+    "Female",
+    "Neurophysiology",
+    "Magnetic Resonance Imaging",
+    "Neurons",
+    "Neurons, Afferent",
+    "Neurosciences"
+  ]
+}

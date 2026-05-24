@@ -1,0 +1,29 @@
+{
+  "pmid": "29662087",
+  "title": "Accurate identification of RNA editing sites from primitive sequence with deep neural networks.",
+  "abstract": "RNA editing is a post-transcriptional RNA sequence alteration. Current methods have identified editing sites and facilitated research but require sufficient genomic annotations and prior-knowledge-based filtering steps, resulting in a cumbersome, time-consuming identification process. Moreover, these methods have limited generalizability and applicability in species with insufficient genomic annotations or in conditions of limited prior knowledge. We developed DeepRed, a deep learning-based method that identifies RNA editing from primitive RNA sequences without prior-knowledge-based filtering steps or genomic annotations. DeepRed achieved 98.1% and 97.9% area under the curve (AUC) in training and test sets, respectively. We further validated DeepRed using experimentally verified U87 cell RNA-seq data, achieving 97.9% positive predictive value (PPV). We demonstrated that DeepRed offers better prediction accuracy and computational efficiency than current methods with large-scale, mass RNA-seq data. We used DeepRed to assess the impact of multiple factors on editing identification with RNA-seq data from the Association of Biomolecular Resource Facilities and Sequencing Quality Control projects. We explored developmental RNA editing pattern changes during human early embryogenesis and evolutionary patterns in Drosophila species and the primate lineage using DeepRed. Our work illustrates DeepRed's state-of-the-art performance; it may decipher the hidden principles behind RNA editing, making editing detection convenient and effective.",
+  "authors": [
+    "Ouyang Zhangyi",
+    "Liu Feng",
+    "Zhao Chenghui",
+    "Ren Chao",
+    "An Gaole",
+    "Mei Chuan",
+    "Bo Xiaochen",
+    "Shu Wenjie"
+  ],
+  "journal": "Scientific reports",
+  "year": "2018",
+  "doi": "10.1038/s41598-018-24298-y",
+  "mesh": [
+    "Animals",
+    "Deep Learning",
+    "Drosophila",
+    "Gene Expression Regulation, Developmental",
+    "Genomics",
+    "Humans",
+    "RNA",
+    "RNA Editing",
+    "Sequence Analysis, RNA"
+  ]
+}

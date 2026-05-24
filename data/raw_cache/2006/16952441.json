@@ -1,0 +1,29 @@
+{
+  "pmid": "16952441",
+  "title": "Stochastic models of decisions about motion direction: behavior and physiology.",
+  "abstract": "Roitman and Shadlen [Roitman J. D., & Shadlen M. N. (2002). Response of neurons in the lateral intraparietal area during a combined visual discrimination reaction time task. Journal of Neuroscience, 22, 9475-9489] have published a non-human primate study on visual decision making. They collected both behavioral and neurophysiological data and provided evidence that the data are qualitatively consistent with a mechanism based on accumulating sensory evidence up to a decision threshold. I have previously demonstrated that a time-variant diffusion model can account quite well quantitatively for both the behavioral and the neural data. In this manuscript I discuss how well the data constrains different components and parameters of the computational process. I also discuss the biological plausibility of the model parameters. I will demonstrate that a relatively large class of models, both with and without temporal integration and both stationary and time-variant could account for the behavioral data. Both the single cell recordings from the parietal cortex and previously published data from the extrastriate visual cortex provide additional constraints. Overall, the data favor a diffusion model with time-variant gain and leaky integrators. The integration time constant, however, turns out not to be well-constrained by the data.",
+  "authors": [
+    "Ditterich Jochen"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Behavior",
+    "Behavior, Animal",
+    "Decision Making",
+    "Discrimination, Psychological",
+    "Humans",
+    "Models, Biological",
+    "Models, Neurological",
+    "Motion",
+    "Motion Perception",
+    "Neurons",
+    "Reaction Time",
+    "Stochastic Processes",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

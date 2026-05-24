@@ -1,0 +1,25 @@
+{
+  "pmid": "29559530",
+  "title": "Multiplicative mixing of object identity and image attributes in single inferior temporal neurons.",
+  "abstract": "Object recognition is challenging because the same object can produce vastly different images, mixing signals related to its identity with signals due to its image attributes, such as size, position, rotation, etc. Previous studies have shown that both signals are present in high-level visual areas, but precisely how they are combined has remained unclear. One possibility is that neurons might encode identity and attribute signals multiplicatively so that each can be efficiently decoded without interference from the other. Here, we show that, in high-level visual cortex, responses of single neurons can be explained better as a product rather than a sum of tuning for object identity and tuning for image attributes. This subtle effect in single neurons produced substantially better population decoding of object identity and image attributes in the neural population as a whole. This property was absent both in low-level vision models and in deep neural networks. It was also unique to invariances: when tested with two-part objects, neural responses were explained better as a sum than as a product of part tuning. Taken together, our results indicate that signals requiring separate decoding, such as object identity and image attributes, are combined multiplicatively in IT neurons, whereas signals that require integration (such as parts in an object) are combined additively.",
+  "authors": [
+    "Ratan Murty N Apurva",
+    "Arun S P"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2018",
+  "doi": "10.1073/pnas.1714287115",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Computer Simulation",
+    "Form Perception",
+    "Macaca radiata",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Temporal Lobe",
+    "Visual Perception"
+  ]
+}

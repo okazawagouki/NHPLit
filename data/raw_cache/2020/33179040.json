@@ -1,0 +1,21 @@
+{
+  "pmid": "33179040",
+  "title": "Efficient DNA sequence compression with neural networks.",
+  "abstract": "BACKGROUND: The increasing production of genomic data has led to an intensified need for models that can cope efficiently with the lossless compression of DNA sequences. Important applications include long-term storage and compression-based data analysis. In the literature, only a few recent articles propose the use of neural networks for DNA sequence compression. However, they fall short when compared with specific DNA compression tools, such as GeCo2. This limitation is due to the absence of models specifically designed for DNA sequences. In this work, we combine the power of neural networks with specific DNA models. For this purpose, we created GeCo3, a new genomic sequence compressor that uses neural networks for mixing multiple context and substitution-tolerant context models. FINDINGS: We benchmark GeCo3 as a reference-free DNA compressor in 5 datasets, including a balanced and comprehensive dataset of DNA sequences, the Y-chromosome and human mitogenome, 2 compilations of archaeal and virus genomes, 4 whole genomes, and 2 collections of FASTQ data of a human virome and ancient DNA. GeCo3 achieves a solid improvement in compression over the previous version (GeCo2) of $2.4\\%$, $7.1\\%$, $6.1\\%$, $5.8\\%$, and $6.0\\%$, respectively. To test its performance as a reference-based DNA compressor, we benchmark GeCo3 in 4 datasets constituted by the pairwise compression of the chromosomes of the genomes of several primates. GeCo3 improves the compression in $12.4\\%$, $11.7\\%$, $10.8\\%$, and $10.1\\%$ over the state of the art. The cost of this compression improvement is some additional computational time (1.7-3 times slower than GeCo2). The RAM use is constant, and the tool scales efficiently, independently of the sequence size. Overall, these values outperform the state of the art. CONCLUSIONS: GeCo3 is a genomic sequence compressor with a neural network mixing approach that provides additional gains over top specific genomic compressors. The proposed mixing method is portable, requiring only the probabilities of the models as inputs, providing easy adaptation to other data compressors or compression-based data analysis tools. GeCo3 is released under GPLv3 and is available for free download at https://github.com/cobilab/geco3.",
+  "authors": [
+    "Silva Milton",
+    "Pratas Diogo",
+    "Pinho Armando J"
+  ],
+  "journal": "GigaScience",
+  "year": "2020",
+  "doi": "10.1093/gigascience/giaa119",
+  "mesh": [
+    "Algorithms",
+    "Base Sequence",
+    "High-Throughput Nucleotide Sequencing",
+    "Neural Networks, Computer",
+    "Sequence Analysis, DNA",
+    "Software"
+  ]
+}

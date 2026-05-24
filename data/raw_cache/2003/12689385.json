@@ -1,0 +1,27 @@
+{
+  "pmid": "12689385",
+  "title": "Modeling reverse-phi motion-selective neurons in cortex: double synaptic-veto mechanism.",
+  "abstract": "Reverse-phi motion is the illusory reversal of perceived direction of movement when the stimulus contrast is reversed in successive frames. Livingstone, Tsao, and Conway (2000) showed that direction-selective cells in striate cortex of the alert macaque monkey showed reversed excitatory and inhibitory regions when two different contrast bars were flashed sequentially during a two-bar interaction analysis. While correlation or motion energy models predict the reverse-phi response, it is unclear how neurons can accomplish this. We carried out detailed biophysical simulations of a direction-selective cell model implementing a synaptic shunting scheme. Our results suggest that a simple synaptic-veto mechanism with strong direction selectivity for normal motion cannot account for the observed reverse-phi motion effect. Given the nature of reverse-phi motion, a direct interaction between the ON and OFF pathway, missing in the original shunting-inhibition model, it is essential to account for the reversal of response. We here propose a double synaptic-veto mechanism in which ON excitatory synapses are gated by both delayed ON inhibition at their null side and delayed OFF inhibition at their preferred side. The converse applies to OFF excitatory synapses. Mapping this scheme onto the dendrites of a direction-selective neuron permits the model to respond best to normal motion in its preferred direction and to reverse-phi motion in its null direction. Two-bar interaction maps showed reversed excitation and inhibition regions when two different contrast bars are presented.",
+  "authors": [
+    "Mo Chun-Hui",
+    "Koch Christof"
+  ],
+  "journal": "Neural computation",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Biophysical Phenomena",
+    "Biophysics",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Geniculate Bodies",
+    "Macaca",
+    "Models, Neurological",
+    "Neural Inhibition",
+    "Neurons",
+    "Synapses",
+    "Visual Fields",
+    "Visual Pathways"
+  ]
+}

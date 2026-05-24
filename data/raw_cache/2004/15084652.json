@@ -1,0 +1,27 @@
+{
+  "pmid": "15084652",
+  "title": "Information tuning of populations of neurons in primary visual cortex.",
+  "abstract": "Neurons in macaque primary visual cortex (V1) show a diversity of orientation tuning properties, exhibiting a broad distribution of tuning width, baseline activity, peak response, and circular variance (CV). Here, we studied how the different tuning features affect the performance of these cells in discriminating between stimuli with different orientations. Previous studies of the orientation discrimination power of neurons in V1 focused on resolving two nearby orientations close to the psychophysical threshold of orientation discrimination. Here, we developed a theoretical framework, the information tuning curve, that measures the discrimination power of cells as a function of the orientation difference, deltatheta, of the two stimuli. This tuning curve also represents the mutual information between the neuronal responses and the stimulus orientation. We studied theoretically the dependence of the information tuning curve on the orientation tuning width, baseline, and peak responses. Of main interest is the finding that narrow orientation tuning is not necessarily optimal for all angular discrimination tasks. Instead, the optimal tuning width depends linearly on deltatheta. We applied our theory to study the discrimination performance of a population of 490 neurons in macaque V1. We found that a significant fraction of the neuronal population exhibits favorable tuning properties for large deltatheta. We also studied how the discrimination capability of neurons is distributed and compared several other measures of the orientation tuning such as CV with Chernoff distances for normalized tuning curves.",
+  "authors": [
+    "Kang Kukjin",
+    "Shapley Robert M",
+    "Sompolinsky Haim"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Discrimination, Psychological",
+    "Information Theory",
+    "Macaca fascicularis",
+    "Models, Neurological",
+    "Neurons",
+    "Normal Distribution",
+    "Orientation",
+    "Sensory Thresholds",
+    "Synaptic Transmission",
+    "Visual Cortex"
+  ]
+}

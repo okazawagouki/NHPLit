@@ -1,0 +1,24 @@
+{
+  "pmid": "15022842",
+  "title": "Detection of syntonies between multiple spike trains using a coarse-grain binarization of spike count distributions.",
+  "abstract": "At very short timescales neuronal spike trains may be compared to binary streams where each neuron gives at most one spike per bin and therefore its state can be described by a binary variable. Time-averaged activity like the mean firing rate can be generally used on longer timescales to describe the dynamics; nevertheless, enlarging the space of the possible states up to the continuum may seriously bias the true statistics if the sampling is not accurate. We propose a simple transformation on binary variables which allows us to fix the dimensionality of the space to sample and to vary the temporal resolution of the analysis. For each time length interactions among simultaneously recorded neurons are evaluated using log-linear models. We illustrate how to use this method by analysing two different sets of data, recorded respectively in the temporal cortex of freely moving rats and in the inferotemporal cortex of behaving monkeys engaged in a visual fixation task. A detailed study of the interactions is provided for both samples. In both datasets we find that some assemblies share robust interactions, invariant at different time lengths, while others cooperate only at delimited time resolutions, yet the size of the samples is too small to allow an unbiased estimate of all possible interactions. We conclude that an extensive application of our method to larger samples of data, together with the development of techniques to correct the bias in the estimate of the coefficients, would provide significant information about the structure of the interactions in populations of neurons.",
+  "authors": [
+    "Del Prete Valeria",
+    "Martignon Laura",
+    "Villa Alessandro E P"
+  ],
+  "journal": "Network (Bristol, England)",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Haplorhini",
+    "Linear Models",
+    "Models, Neurological",
+    "Neurons",
+    "Rats",
+    "Reaction Time",
+    "Temporal Lobe"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "18586600",
+  "title": "Real-time decoding of nonstationary neural activity in motor cortex.",
+  "abstract": "Neural decoding has played a key role in recent advances in brain-machine interfaces (BMIs) by converting brain signals into control commands to drive external devices such as robotic limbs or computer cursors. A number of practical algorithms including the well-known linear regression and Kalman filter models have been used to predict continuous movement in a real-time online context using recordings from a chronically implanted multielectrode microarray in the motor cortex. Though effective, those models were often based on a strong assumption that the neural signal sequence is a stationary process. Recent work, however, indicates that the motor system significantly varies over time. To characterize the dynamic relationship between neural signals and hand kinematics, here we develop an adaptive approach for each of the linear regression and Kalman filter methods. Experimental results show that the new adaptive algorithms generate more accurate decoding than the nonadaptive algorithms. To make the new algorithms feasible in an online situation, we further develop a recursive update approach and theoretically demonstrate its superior efficiency. In particular, the adaptive Kalman filter is shown to be more accurate and efficient. We also test the new methods in a simulated BMI experiment where the true hand motion is not known. The successful performance suggests these methods could be useful decoding algorithms for practical applications.",
+  "authors": [
+    "Wu Wei",
+    "Hatsopoulos Nicholas G"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2008",
+  "doi": "10.1109/TNSRE.2008.922679",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Computer Systems",
+    "Electroencephalography",
+    "Evoked Potentials, Motor",
+    "Macaca mulatta",
+    "Male",
+    "Man-Machine Systems",
+    "Motor Cortex",
+    "Signal Processing, Computer-Assisted",
+    "User-Computer Interface"
+  ]
+}

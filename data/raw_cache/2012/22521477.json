@@ -1,0 +1,29 @@
+{
+  "pmid": "22521477",
+  "title": "Hundreds of brain maps in one atlas: registering coordinate-independent primate neuro-anatomical data to a standard brain.",
+  "abstract": "Non-invasive measuring methods such as EEG/MEG, fMRI and DTI are increasingly utilised to extract quantitative information on functional and anatomical connectivity in the human brain. These methods typically register their data in Euclidean space, so that one can refer to a particular activity pattern by specifying its spatial coordinates. Since each of these methods has limited resolution in either the time or spatial domain, incorporating additional data, such as those obtained from invasive animal studies, would be highly beneficial to link structure and function. Here we describe an approach to spatially register all cortical brain regions from the macaque structural connectivity database CoCoMac, which contains the combined tracing study results from 459 publications (http://cocomac.g-node.org). Brain regions from 9 different brain maps were directly mapped to a standard macaque cortex using the tool Caret (Van Essen and Dierker, 2007). The remaining regions in the CoCoMac database were semantically linked to these 9 maps using previously developed algebraic and machine-learning techniques (Bezgin et al., 2008; Stephan et al., 2000). We analysed neural connectivity using several graph-theoretical measures to capture global properties of the derived network, and found that Markov Centrality provides the most direct link between structure and function. With this registration approach, users can query the CoCoMac database by specifying spatial coordinates. Availability of deformation tools and homology evidence then allow one to directly attribute detailed anatomical animal data to human experimental results.",
+  "authors": [
+    "Bezgin Gleb",
+    "Vakorin Vasily A",
+    "van Opstal A John",
+    "McIntosh Anthony R",
+    "Bakker Rembrandt"
+  ],
+  "journal": "NeuroImage",
+  "year": "2012",
+  "doi": "10.1016/j.neuroimage.2012.04.013",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Databases, Factual",
+    "Image Interpretation, Computer-Assisted",
+    "Macaca",
+    "Models, Anatomic",
+    "Models, Neurological",
+    "Nerve Net",
+    "Reference Values",
+    "Software",
+    "Subtraction Technique"
+  ]
+}

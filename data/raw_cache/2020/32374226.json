@@ -1,0 +1,25 @@
+{
+  "pmid": "32374226",
+  "title": "Using deep neural networks to detect complex spikes of cerebellar Purkinje cells.",
+  "abstract": "One of the most powerful excitatory synapses in the brain is formed by cerebellar climbing fibers, originating from neurons in the inferior olive, that wrap around the proximal dendrites of cerebellar Purkinje cells. The activation of a single olivary neuron is capable of generating a large electrical event, called \"complex spike,\" at the level of the postsynaptic Purkinje cell, comprising of an initial large-amplitude spike followed by a long polyphasic tail of small-amplitude spikelets. Several ideas discussing the role of the cerebellum in motor control are centered on these complex spike events. However, these events, only occurring one to two times per second, are extremely rare relative to Purkinje cell \"simple spikes\" (standard sodium-potassium action potentials). As a result, drawing conclusions about their functional role has been very challenging. In fact, because standard spike sorting approaches cannot fully handle the polyphasic shape of complex spike waveforms, the only safe way to avoid omissions and false detections has been to rely on visual inspection by experts, which is both tedious and, because of attentional fluctuations, error prone. Here we present a deep learning algorithm for rapidly and reliably detecting complex spikes. Our algorithm, utilizing both action potential and local field potential signals, not only detects complex spikes much faster than human experts, but it also reliably provides complex spike duration measures similar to those of the experts. A quantitative comparison of our algorithm's performance to both classic and novel published approaches addressing the same problem reveals that it clearly outperforms these approaches.<b>NEW & NOTEWORTHY</b> Purkinje cell \"complex spikes\", fired at perplexingly low rates, play a crucial role in cerebellum-based motor learning. Careful interpretations of these spikes require manually detecting them, since conventional online or offline spike sorting algorithms are optimized for classifying much simpler waveform morphologies. We present a novel deep learning approach for identifying complex spikes, which also measures additional relevant neurophysiological features, with an accuracy level matching that of human experts yet with very little time expenditure.",
+  "authors": [
+    "Markanday Akshay",
+    "Bellet Joachim",
+    "Bellet Marie E",
+    "Inoue Junya",
+    "Hafed Ziad M",
+    "Thier Peter"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2020",
+  "doi": "10.1152/jn.00754.2019",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Deep Learning",
+    "Electrophysiological Phenomena",
+    "Macaca mulatta",
+    "Male",
+    "Purkinje Cells"
+  ]
+}

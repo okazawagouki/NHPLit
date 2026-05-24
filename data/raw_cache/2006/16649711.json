@@ -1,0 +1,25 @@
+{
+  "pmid": "16649711",
+  "title": "Computational approaches to visual decision making.",
+  "abstract": "Computational models based on diffusion processes have been proposed to account for human decision making behaviour in a variety of tasks. This study explores whether such models account for the speed and accuracy of perceptual decisions in a reaction-time random dot motion direction-discrimination task and whether they explain the decision-related activity of neurons recorded from the parietal cortex (area LIP) of monkeys performing the task. While a relatively simple diffusion model can explain the psychometric function and the mean response times, it fails to account for the response time distributions. By adding an 'urgency mechanism' to the diffusion model the psychometric function, the mean response times, and the shape of the response time distributions can be explained. Such an urgency mechanism could be implemented in different ways, but the best match between the physiological data and model predictions is provided by a diffusion process with a time-variant gain of the sensory signals. It can be shown that such a time-variant decision process allows the monkey to perform optimally (in the sense of maximizing reward rate) given the risk of aborting a trial by breaking fixation before a choice can be reported.",
+  "authors": [
+    "Ditterich Jochen"
+  ],
+  "journal": "Novartis Foundation symposium",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Decision Making",
+    "Discrimination, Psychological",
+    "Haplorhini",
+    "Humans",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Parietal Lobe",
+    "Psychomotor Performance",
+    "Random Allocation",
+    "Reaction Time"
+  ]
+}

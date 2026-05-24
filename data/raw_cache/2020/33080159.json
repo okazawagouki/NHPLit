@@ -1,0 +1,25 @@
+{
+  "pmid": "33080159",
+  "title": "Flexible Working Memory Through Selective Gating and Attentional Tagging.",
+  "abstract": "Working memory is essential: it serves to guide intelligent behavior of humans and nonhuman primates when task-relevant stimuli are no longer present to the senses. Moreover, complex tasks often require that multiple working memory representations can be flexibly and independently maintained, prioritized, and updated according to changing task demands. Thus far, neural network models of working memory have been unable to offer an integrative account of how such control mechanisms can be acquired in a biologically plausible manner. Here, we present WorkMATe, a neural network architecture that models cognitive control over working memory content and learns the appropriate control operations needed to solve complex working memory tasks. Key components of the model include a gated memory circuit that is controlled by internal actions, encoding sensory information through untrained connections, and a neural circuit that matches sensory inputs to memory content. The network is trained by means of a biologically plausible reinforcement learning rule that relies on attentional feedback and reward prediction errors to guide synaptic updates. We demonstrate that the model successfully acquires policies to solve classical working memory tasks, such as delayed recognition and delayed pro-saccade/anti-saccade tasks. In addition, the model solves much more complex tasks, including the hierarchical 12-AX task or the ABAB ordered recognition task, both of which demand an agent to independently store and updated multiple items separately in memory. Furthermore, the control strategies that the model acquires for these tasks subsequently generalize to new task contexts with novel stimuli, thus bringing symbolic production rule qualities to a neural network architecture. As such, WorkMATe provides a new solution for the neural implementation of flexible memory control.",
+  "authors": [
+    "Kruijne Wouter",
+    "Bohte Sander M",
+    "Roelfsema Pieter R",
+    "Olivers Christian N L"
+  ],
+  "journal": "Neural computation",
+  "year": "2021",
+  "doi": "10.1162/neco_a_01339",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Humans",
+    "Learning",
+    "Memory, Short-Term",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Reinforcement, Psychology",
+    "Sensory Gating"
+  ]
+}

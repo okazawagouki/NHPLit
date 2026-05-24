@@ -1,0 +1,12 @@
+{
+  "pmid": "28113323",
+  "title": "Brain-Machine Interface Control Algorithms.",
+  "abstract": "Motor brain-machine interfaces (BMI) allow subjects to control external devices by modulating their neural activity. BMIs record the neural activity, use a mathematical algorithm to estimate the subject's intended movement, actuate an external device, and provide visual feedback of the generated movement to the subject. A critical component of a BMI system is the control algorithm, termed decoder. Significant progress has been made in the design of BMI decoders in recent years resulting in proficient control in non-human primates and humans. In this review article, we discuss the decoding algorithms developed in the BMI field, with particular focus on recent designs that are informed by closed-loop control ideas. A motor BMI can be modeled as a closed-loop control system, where the controller is the brain, the plant is the prosthetic, the feedback is the biofeedback, and the control command is the neural activity. Additionally, compared to other closed-loop systems, BMIs have various unique properties. Neural activity is noisy and stochastic, and often consists of a sequence of spike trains. Neural representations of movement could be non-stationary and change over time, for example as a result of learning. We review recent decoder designs that take these unique properties into account. We also discuss the opportunities that exist at the interface of control theory, statistical inference, and neuroscience to devise a control-theoretic framework for BMI design and help develop the next-generation BMI control algorithms.",
+  "authors": [
+    "Shanechi Maryam M"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2017",
+  "doi": "10.1109/TNSRE.2016.2639501",
+  "mesh": []
+}

@@ -1,0 +1,17 @@
+{
+  "pmid": "38464147",
+  "title": "Inferring Neural Communication Dynamics from Field Potentials Using Graph Diffusion Autoregression.",
+  "abstract": "Estimating dynamic network communication is attracting increased attention, spurred by rapid advancements in multi-site neural recording technologies and efforts to better understand cognitive processes. Yet, traditional methods, which infer communication from statistical dependencies among distributed neural recordings, face core limitations: they do not incorporate possible mechanisms of neural communication, neglect spatial information from the recording setup, and yield predominantly static estimates that cannot capture rapid changes in the brain. To address these issues, we introduce the graph diffusion autoregressive model. Designed for distributed field potential recordings, our model combines vector autoregression with a network communication process to produce a high-resolution communication signal. We successfully validated the model on simulated neural activity and recordings from subdural and intracortical micro-electrode arrays placed in macaque sensorimotor cortex demonstrating its ability to describe rapid communication dynamics induced by optogenetic stimulation, changes in resting state communication, and neural correlates of behavior during a reach task.",
+  "authors": [
+    "Schwock Felix",
+    "Bloch Julien",
+    "Khateeb Karam",
+    "Zhou Jasmine",
+    "Atlas Les",
+    "Yazdan-Shahmorad Azadeh"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2024.02.26.582177",
+  "mesh": []
+}

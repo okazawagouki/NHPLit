@@ -1,0 +1,19 @@
+{
+  "pmid": "42115229",
+  "title": "A multi-center cross-platform single-cell multimodal atlas of the mouse cerebral cortex.",
+  "abstract": "As the central functional hub of the central nervous system, the cerebral cortex has long been a major frontier in neuroscience research. With the increasing maturity and widespread application of single-cell RNA sequencing technologies, numerous studies have been conducted to systematically decipher the complexity and diversity of cortical cellular composition. However, substantial variations in sequencing platforms, cohort sizes, and sequencing depth have impeded deeper investigation into the functions of cortical cells and their underlying molecular mechanisms. Here, we present a multicenter, multi-platform atlas of cortical cells based on nine mouse datasets, with platform-specific integration and analysis performed independently for 10x Genomics and Drop-seq single-cell and single-nucleus RNA-seq data. Following rigorous quality control, we systematically analyzed 173,081 high-quality cells, providing a comprehensive characterization of cellular composition, intercellular communication networks, chromatin accessibility, and functional properties. To further validate the reliability and generalizability of the integrated atlas, we performed integrative analyses with cross-species datasets and systematically characterized conserved and adaptive divergence patterns of distinct cortical cell types across primates. Our study provides a benchmark multimodal dataset of the mouse cerebral cortex and establishes a standardized framework for integrative analyses across technologies and species.",
+  "authors": [
+    "Shi Xuefeng",
+    "Qi Zhihui",
+    "Huang Hong",
+    "Ye Zhiming",
+    "Wu Yumin",
+    "Chan Kahei",
+    "Yao Maojin",
+    "Wang Zhongxing"
+  ],
+  "journal": "Scientific data",
+  "year": "2026",
+  "doi": "10.1038/s41597-026-07185-4",
+  "mesh": []
+}

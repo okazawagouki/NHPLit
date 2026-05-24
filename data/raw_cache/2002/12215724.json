@@ -1,0 +1,28 @@
+{
+  "pmid": "12215724",
+  "title": "States of high conductance in a large-scale model of the visual cortex.",
+  "abstract": "This paper reports on the consequences of large, activity dependent, synaptic conductances for neurons in a large-scale neuronal network model of the input layer 4Calpha of the Macaque primary visual cortex (Area V1). This high conductance state accounts for experimental observations about orientation selectivity, dynamics, and response magnitude (D. McLaughlin et al. (2000) Proc. Natl. Acad. Sci. USA 97: 8087-8092), and the linear dependence of Simple cells on visual stimuli (J. Wielaard et al. (2001) J. Neuroscience 21: 5203-5211). The source of large conductances in the model can be traced to inhibitory corticocortical synapses, and the model's predictions of large conductance changes are consistent with recent intracellular measurements (L. Borg-Graham et al. (1998) Nature 393: 369-373; J. Hirsch et al. (1998) J. Neuroscience 15: 9517-9528; J.S. Anderson et al. (2000) J. Neurophysiol. 84: 909-926). During visual stimulation, these conductances are large enough that their associated time-scales become the shortest in the model cortex, even below that of synaptic interactions. One consequence of this activity driven separation of time-scales is that a neuron responds very quickly to temporal changes in its synaptic drive, with its intracellular membrane potential tracking closely an effective reversal potential composed of the instantaneous synaptic inputs. From the effective potential and large synaptic conductance, the spiking activity of a cell can be expressed in an interesting and simplified manner, with the result suggesting how accurate and smoothly graded responses are achieved in the model network. Further, since neurons in this high-conductance state respond quickly, they are also good candidates as coincidence detectors and burst transmitters.",
+  "authors": [
+    "Shelley Michael",
+    "McLaughlin David",
+    "Shapley Robert",
+    "Wielaard Jacob"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Macaca",
+    "Membrane Potentials",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Conduction",
+    "Neural Inhibition",
+    "Neurons",
+    "Photic Stimulation",
+    "Stochastic Processes",
+    "Visual Cortex"
+  ]
+}

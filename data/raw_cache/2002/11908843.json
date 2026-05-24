@@ -1,0 +1,23 @@
+{
+  "pmid": "11908843",
+  "title": "Neural network simulations of the primate oculomotor system IV. A distributed bilateral stochastic model of the neural integrator of the vertical saccadic system.",
+  "abstract": "The present report examines the performance of a distributed bi-directional neural network that simulates the vertical velocity to position integrator of the primate brain. Consistent with anatomy and physiology, its units receive stochastically weighted input from vertical medium-lead burst neurons. Also consistent with anatomy, units belonging to integrators with opposite on-directions (up or down) are interconnected via the posterior commissure (again in a stochastically weighted manner) and they can be excitatory or inhibitory. To demonstrate that integration can be a one-step process, the output of model units was routed directly to vertical motoneurons. Model units replicate the wide range of saccade-related discharge patterns encountered in the portion of the primate brain that is thought to house the vertical neural integrator (the interstitial nucleus of Cajal) while \"lesions\" of model units and/or their interconnections replicate the symptoms which follow insults to this brain area.",
+  "authors": [
+    "Sklavos S G",
+    "Moschovakis A K"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Cranial Nerves",
+    "Neural Networks, Computer",
+    "Neurons, Efferent",
+    "Oculomotor Muscles",
+    "Primates",
+    "Saccades",
+    "Stochastic Processes"
+  ]
+}

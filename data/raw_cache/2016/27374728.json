@@ -1,0 +1,23 @@
+{
+  "pmid": "27374728",
+  "title": "Systematic variation of population receptive field properties across cortical depth in human visual cortex.",
+  "abstract": "Receptive fields (RFs) in visual cortex are organized in antagonistic, center-surround, configurations. RF properties change systematically across eccentricity and between visual field maps. However, it is unknown how center-surround configurations are organized in human visual cortex across lamina. We use sub-millimeter resolution functional MRI at 7Tesla and population receptive field (pRF) modeling to investigate the pRF properties in primary visual cortex (V1) across cortical depth. pRF size varies according to a U-shaped function, indicating smaller pRF center size in the middle compared to superficial and deeper intra-cortical portions of V1, consistent with non-human primate neurophysiological measurements. Moreover, a similar U-shaped function is also observed for pRF surround size. However, pRF center-surround ratio remains constant across cortical depth. Simulations suggest that this pattern of results can be directly linked to the flow of signals across cortical depth, with the visual input reaching the middle of cortical depth and then spreading towards superficial and deeper layers of V1. Conversely, blood-oxygenation-level-dependent (BOLD) signal amplitude increases monotonically towards the pial surface, in line with the known vascular organization across cortical depth. Independent estimates of the haemodynamic response function (HRF) across cortical depth show that the center-surround pRF size estimates across cortical depth cannot be explained by variations in the full-width half maximum (FWHM) of the HRF.",
+  "authors": [
+    "Fracasso Alessio",
+    "Petridou Natalia",
+    "Dumoulin Serge O"
+  ],
+  "journal": "NeuroImage",
+  "year": "2016",
+  "doi": "10.1016/j.neuroimage.2016.06.048",
+  "mesh": [
+    "Adult",
+    "Brain Mapping",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Fields"
+  ]
+}

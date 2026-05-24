@@ -1,0 +1,20 @@
+{
+  "pmid": "35862321",
+  "title": "A Two-Stream Graph Convolutional Network Based on Brain Connectivity for Anesthetized States Analysis.",
+  "abstract": "Investigating neural mechanisms of anesthesia process and developing efficient anesthetized state detection methods are especially on high demand for clinical consciousness monitoring. Traditional anesthesia monitoring methods are not involved with the topological changes between electrodes covering the prefrontal-parietal cortices, by investigating electrocorticography (ECoG). To fill this gap, a framework based on the two-stream graph convolutional network (GCN) was proposed, i.e., one stream for extracting topological structure features, and the other one for extracting node features. The two-stream graph convolutional network includes GCN Model 1 and GCN Model 2. For GCN Model 1, brain connectivity networks were constructed by using phase lag index (PLI), representing different structure features. A common adjacency matrix was founded through the dual-graph method, the structure features were expressed on nodes. Therefore, the traditional spectral graph convolutional network can be directly applied on the graphs with changing topological structures. On the other hand, the average of the absolute signal amplitudes was calculated as node features, then a fully connected matrix was constructed as the adjacency matrix of these node features, as the input of GCN Model 2. This method learns features of both topological structure and nodes of the graph, and uses a dual-graph approach to enhance the focus on topological structure features. Based on the ECoG signals of monkeys, results show that this method which can distinguish awake state, moderate sedation and deep sedation achieved an accuracy of 92.75% in group-level experiments and mean accuracy of 93.50% in subject-level experiments. Our work verifies the excellence of the graph convolutional network in anesthesia monitoring, the high recognition accuracy also shows that the brain network may carry neurological markers associated with anesthesia.",
+  "authors": [
+    "Chen Kun",
+    "Xie Tianli",
+    "Ma Li",
+    "Hudson Andrew E",
+    "Ai Qingsong",
+    "Liu Quan"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2022",
+  "doi": "10.1109/TNSRE.2022.3193103",
+  "mesh": [
+    "Brain",
+    "Neural Networks, Computer"
+  ]
+}

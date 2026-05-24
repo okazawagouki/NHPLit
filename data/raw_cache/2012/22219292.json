@@ -1,0 +1,29 @@
+{
+  "pmid": "22219292",
+  "title": "Strong recurrent networks compute the orientation tuning of surround modulation in the primate primary visual cortex.",
+  "abstract": "In macaque primary visual cortex (V1), neuronal responses to stimuli inside the receptive field (RF) are modulated by stimuli in the RF surround. This modulation is orientation specific. Previous studies suggested that, for some cells, this specificity may not be fixed but changes with the stimulus orientation presented to the RF. We demonstrate, in recording studies, that this tuning behavior is instead highly prevalent in V1 and, in theoretical work, that it arises only if V1 operates in a regime of strong local recurrence. Strongest surround suppression occurs when the stimuli in the RF and the surround are iso-oriented, and strongest facilitation when the stimuli are cross-oriented. This is the case even when the RF is suboptimally activated by a stimulus of nonpreferred orientation but only if this stimulus can activate the cell when presented alone. This tuning behavior emerges from the interaction of lateral inhibition (via the surround pathways), which is tuned to the preferred orientation of the RF, with weakly tuned, but strong, local recurrent connections, causing maximal withdrawal of recurrent excitation at the feedforward input orientation. Thus, horizontal and feedback modulation of strong recurrent circuits allows the tuning of contextual effects to change with changing feedforward inputs.",
+  "authors": [
+    "Shushruth S",
+    "Mangapathy Pradeep",
+    "Ichida Jennifer M",
+    "Bressloff Paul C",
+    "Schwabe Lars",
+    "Angelucci Alessandra"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2012",
+  "doi": "10.1523/JNEUROSCI.3789-11.2012",
+  "mesh": [
+    "Animals",
+    "Contrast Sensitivity",
+    "Female",
+    "Macaca fascicularis",
+    "Male",
+    "Nerve Net",
+    "Neural Pathways",
+    "Neurons",
+    "Orientation",
+    "Pattern Recognition, Visual",
+    "Visual Cortex"
+  ]
+}

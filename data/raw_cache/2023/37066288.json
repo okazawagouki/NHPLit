@@ -1,0 +1,19 @@
+{
+  "pmid": "37066288",
+  "title": "Experimental validation of computational models for the prediction of phase distribution during multi-channel transcranial alternating current stimulation.",
+  "abstract": "Transcranial alternating current stimulation (tACS) is a widely used noninvasive brain stimulation (NIBS) technique to affect neural activity. Neural oscillations exhibit phase-dependent associations with cognitive functions, and tools to manipulate local oscillatory phases can affect communication across remote brain regions. A recent study demonstrated that multi-channel tACS can generate electric fields with a phase gradient or traveling waves in the brain. Computational simulations using phasor algebra can predict the phase distribution inside the brain and aid in informing parameters in tACS experiments. However, experimental validation of computational models for multi-phase tACS is still lacking. Here, we develop such a framework for phasor simulation and evaluate its accuracy using <i>in vivo</i> recordings in nonhuman primates. We extract the phase and amplitude of electric fields from intracranial recordings in two monkeys during multi-channel tACS and compare them to those calculated by phasor analysis using finite element models. Our findings demonstrate that simulated phases correspond well to measured phases (r = 0.9). Further, we systematically evaluated the impact of accurate electrode placement on modeling and data agreement. Finally, our framework can predict the amplitude distribution in measurements given calibrated tissuesâ€™ conductivity. Our validated general framework for simulating multi-phase, multi-electrode tACS provides a streamlined tool for principled planning of multi-channel tACS experiments.",
+  "authors": [
+    "Lee Sangjun",
+    "Shirinpour Sina",
+    "Alekseichuk Ivan",
+    "Perera Nipun",
+    "Linn Gary",
+    "Schroeder Charles E",
+    "Falchier Arnaud Y",
+    "Opitz Alexander"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2023",
+  "doi": "10.1101/2023.04.07.536090",
+  "mesh": []
+}

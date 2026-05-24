@@ -1,0 +1,32 @@
+{
+  "pmid": "37188516",
+  "title": "High-Fidelity Reproduction of Visual Signals by Electrical Stimulation in the Central Primate Retina.",
+  "abstract": "Electrical stimulation of retinal ganglion cells (RGCs) with electronic implants provides rudimentary artificial vision to people blinded by retinal degeneration. However, current devices stimulate indiscriminately and therefore cannot reproduce the intricate neural code of the retina. Recent work has demonstrated more precise activation of RGCs using focal electrical stimulation with multielectrode arrays in the peripheral macaque retina, but it is unclear how effective this can be in the central retina, which is required for high-resolution vision. This work probes the neural code and effectiveness of focal epiretinal stimulation in the central macaque retina, using large-scale electrical recording and stimulation <i>ex vivo</i> The functional organization, light response properties, and electrical properties of the major RGC types in the central retina were mostly similar to the peripheral retina, with some notable differences in density, kinetics, linearity, spiking statistics, and correlations. The major RGC types could be distinguished by their intrinsic electrical properties. Electrical stimulation targeting parasol cells revealed similar activation thresholds and reduced axon bundle activation in the central retina, but lower stimulation selectivity. Quantitative evaluation of the potential for image reconstruction from electrically evoked parasol cell signals revealed higher overall expected image quality in the central retina. An exploration of inadvertent midget cell activation suggested that it could contribute high spatial frequency noise to the visual signal carried by parasol cells. These results support the possibility of reproducing high-acuity visual signals in the central retina with an epiretinal implant.<b>SIGNIFICANCE STATEMENT</b> Artificial restoration of vision with retinal implants is a major treatment for blindness. However, present-day implants do not provide high-resolution visual perception, in part because they do not reproduce the natural neural code of the retina. Here, we demonstrate the level of visual signal reproduction that is possible with a future implant by examining how accurately responses to electrical stimulation of parasol retinal ganglion cells can convey visual signals. Although the precision of electrical stimulation in the central retina was diminished relative to the peripheral retina, the quality of expected visual signal reconstruction in parasol cells was greater. These findings suggest that visual signals could be restored with high fidelity in the central retina using a future retinal implant.",
+  "authors": [
+    "Gogliettino Alex R",
+    "Madugula Sasidhar S",
+    "Grosberg Lauren E",
+    "Vilkhu Ramandeep S",
+    "Brown Jeff",
+    "Nguyen Huy",
+    "Kling Alexandra",
+    "Hottowy Paweł",
+    "Dąbrowski Władysław",
+    "Sher Alexander",
+    "Litke Alan M",
+    "Chichilnisky E J"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2023",
+  "doi": "10.1523/JNEUROSCI.1091-22.2023",
+  "mesh": [
+    "Animals",
+    "Retina",
+    "Retinal Ganglion Cells",
+    "Macaca",
+    "Prostheses and Implants",
+    "Electric Stimulation",
+    "Photic Stimulation",
+    "Visual Prosthesis"
+  ]
+}

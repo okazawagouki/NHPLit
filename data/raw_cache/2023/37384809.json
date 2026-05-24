@@ -1,0 +1,35 @@
+{
+  "pmid": "37384809",
+  "title": "The Brain/MINDS Marmoset Connectivity Resource: An open-access platform for cellular-level tracing and tractography in the primate brain.",
+  "abstract": "The primate brain has unique anatomical characteristics, which translate into advanced cognitive, sensory, and motor abilities. Thus, it is important that we gain insight on its structure to provide a solid basis for models that will clarify function. Here, we report on the implementation and features of the Brain/MINDS Marmoset Connectivity Resource (BMCR), a new open-access platform that provides access to high-resolution anterograde neuronal tracer data in the marmoset brain, integrated to retrograde tracer and tractography data. Unlike other existing image explorers, the BMCR allows visualization of data from different individuals and modalities in a common reference space. This feature, allied to an unprecedented high resolution, enables analyses of features such as reciprocity, directionality, and spatial segregation of connections. The present release of the BMCR focuses on the prefrontal cortex (PFC), a uniquely developed region of the primate brain that is linked to advanced cognition, including the results of 52 anterograde and 164 retrograde tracer injections in the cortex of the marmoset. Moreover, the inclusion of tractography data from diffusion MRI allows systematic analyses of this noninvasive modality against gold-standard cellular connectivity data, enabling detection of false positives and negatives, which provide a basis for future development of tractography. This paper introduces the BMCR image preprocessing pipeline and resources, which include new tools for exploring and reviewing the data.",
+  "authors": [
+    "Skibbe Henrik",
+    "Rachmadi Muhammad Febrian",
+    "Nakae Ken",
+    "Gutierrez Carlos Enrique",
+    "Hata Junichi",
+    "Tsukada Hiromichi",
+    "Poon Charissa",
+    "Schlachter Matthias",
+    "Doya Kenji",
+    "Majka Piotr",
+    "Rosa Marcello G P",
+    "Okano Hideyuki",
+    "Yamamori Tetsuo",
+    "Ishii Shin",
+    "Reisert Marco",
+    "Watakabe Akiya"
+  ],
+  "journal": "PLoS biology",
+  "year": "2023",
+  "doi": "10.1371/journal.pbio.3002158",
+  "mesh": [
+    "Animals",
+    "Callithrix",
+    "Brain",
+    "Brain Mapping",
+    "Prefrontal Cortex",
+    "Diffusion Magnetic Resonance Imaging",
+    "Neural Pathways"
+  ]
+}

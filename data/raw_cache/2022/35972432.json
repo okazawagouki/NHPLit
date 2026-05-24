@@ -1,0 +1,21 @@
+{
+  "pmid": "35972432",
+  "title": "Widefield OCT Imaging for Quantifying Inner Retinal Thickness in the Nonhuman Primate.",
+  "abstract": "PURPOSE: To determine the agreement and repeatability of inner retinal thickness measures from widefield imaging compared to standard scans in healthy nonhuman primates. METHODS: Optical coherence tomography (OCT) scans were acquired from 30 healthy rhesus monkeys, with 11 animals scanned at multiple visits. The scan protocol included 20° × 20° raster scans centered on the macula and optic nerve head (ONH), a 12° diameter circular scan centered on the ONH, and a 55 × 45° widefield raster scan. Each scan was segmented using custom neural network-based algorithms. Bland-Altman analysis were used for comparing average circumpapillary retinal nerve fiber layer (RNFL) thickness and ganglion cell inner plexiform layer (GCIPL) thickness for a 16° diameter region. Comparisons were also made for similar 1° × 1° superpixels from the raster scans. RESULTS: Average circumpapillary RNFL thickness from the circular scan was 114.2 ± 5.8 µm, and 113.2 ± 7.3 µm for an interpolated scan path from widefield imaging (bias = -1.03 µm, 95% limits of agreement [LOA] -8.6 to 6.5 µm). GCIPL thickness from standard raster scans was 72.7 ± 4.3 µm, and 73.7 ± 3.7 µm from widefield images (bias = 1.0 µm, 95% LOA -2.4 to 4.4 µm). Repeatability for both RNFL and GCIPL standard analysis was less than 5.2 µm. For 1° × 1° superpixels, the 95% limits of agreement were between -13.9 µm and 13.7 µm for RNFL thickness and -2.5 µm and 2.5 µm for GCIPL thickness. CONCLUSIONS: Inner retinal thickness measures from widefield imaging have good repeatability and are comparable to those measured using standard scans. TRANSLATIONAL RELEVANCE: Monitoring retinal ganglion cell loss in the non-human primate experimental glaucoma model could be enhanced using widefield imaging.",
+  "authors": [
+    "Srinivasan Varsha Venkata",
+    "Das Siddarth",
+    "Patel Nimesh"
+  ],
+  "journal": "Translational vision science & technology",
+  "year": "2022",
+  "doi": "10.1167/tvst.11.8.12",
+  "mesh": [
+    "Animals",
+    "Macula Lutea",
+    "Nerve Fibers",
+    "Optic Disk",
+    "Retinal Ganglion Cells",
+    "Tomography, Optical Coherence"
+  ]
+}

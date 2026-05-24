@@ -1,0 +1,32 @@
+{
+  "pmid": "32667921",
+  "title": "Towards optogenetic vision restoration with high resolution.",
+  "abstract": "In many cases of inherited retinal degenerations, ganglion cells are spared despite photoreceptor cell death, making it possible to stimulate them to restore visual function. Several studies have shown that it is possible to express an optogenetic protein in ganglion cells and make them light sensitive, a promising strategy to restore vision. However the spatial resolution of optogenetically-reactivated retinas has rarely been measured, especially in the primate. Since the optogenetic protein is also expressed in axons, it is unclear if these neurons will only be sensitive to the stimulation of a small region covering their somas and dendrites, or if they will also respond to any stimulation overlapping with their axon, dramatically impairing spatial resolution. Here we recorded responses of mouse and macaque retinas to random checkerboard patterns following an in vivo optogenetic therapy. We show that optogenetically activated ganglion cells are each sensitive to a small region of visual space. A simple model based on this small receptive field predicted accurately their responses to complex stimuli. From this model, we simulated how the entire population of light sensitive ganglion cells would respond to letters of different sizes. We then estimated the maximal acuity expected by a patient, assuming it could make an optimal use of the information delivered by this reactivated retina. The obtained acuity is above the limit of legal blindness. Our model also makes interesting predictions on how acuity might vary upon changing the therapeutic strategy, assuming an optimal use of the information present in the retinal activity. Optogenetic therapy could thus potentially lead to high resolution vision, under conditions that our model helps to determinine.",
+  "authors": [
+    "Ferrari Ulisse",
+    "Deny Stéphane",
+    "Sengupta Abhishek",
+    "Caplette Romain",
+    "Trapani Francesco",
+    "Sahel José-Alain",
+    "Dalkara Deniz",
+    "Picaud Serge",
+    "Duebel Jens",
+    "Marre Olivier"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2020",
+  "doi": "10.1371/journal.pcbi.1007857",
+  "mesh": [
+    "Animals",
+    "Blindness",
+    "Genetic Therapy",
+    "Macaca",
+    "Mice",
+    "Models, Biological",
+    "Optogenetics",
+    "Retina",
+    "Retinal Ganglion Cells",
+    "Visual Acuity"
+  ]
+}

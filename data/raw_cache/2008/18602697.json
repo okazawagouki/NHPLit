@@ -1,0 +1,28 @@
+{
+  "pmid": "18602697",
+  "title": "A nonparametric Bayesian alternative to spike sorting.",
+  "abstract": "The analysis of extra-cellular neural recordings typically begins with careful spike sorting and all analysis of the data then rests on the correctness of the resulting spike trains. In many situations this is unproblematic as experimental and spike sorting procedures often focus on well isolated units. There is evidence in the literature, however, that errors in spike sorting can occur even with carefully collected and selected data. Additionally, chronically implanted electrodes and arrays with fixed electrodes cannot be easily adjusted to provide well isolated units. In these situations, multiple units may be recorded and the assignment of waveforms to units may be ambiguous. At the same time, analysis of such data may be both scientifically important and clinically relevant. In this paper we address this issue using a novel probabilistic model that accounts for several important sources of uncertainty and error in spike sorting. In lieu of sorting neural data to produce a single best spike train, we estimate a probabilistic model of spike trains given the observed data. We show how such a distribution over spike sortings can support standard neuroscientific questions while providing a representation of uncertainty in the analysis. As a representative illustration of the approach, we analyzed primary motor cortical tuning with respect to hand movement in data recorded with a chronic multi-electrode array in non-human primates. We found that the probabilistic analysis generally agrees with human sorters but suggests the presence of tuned units not detected by humans.",
+  "authors": [
+    "Wood Frank",
+    "Black Michael J"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2008",
+  "doi": "10.1016/j.jneumeth.2008.04.030",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Bayes Theorem",
+    "Brain Mapping",
+    "Haplorhini",
+    "Humans",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Saccades",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

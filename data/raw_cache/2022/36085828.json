@@ -1,0 +1,23 @@
+{
+  "pmid": "36085828",
+  "title": "Meta-Bayesian Optimization for Deep Brain Stimulation.",
+  "abstract": "Deep brain stimulation (DBS) is becoming a fundamental tool for the treatment and study of neurological and psychiatric diseases and disorders. Recently developed DBS devices and electrodes have allowed for more flexible and precise stimulation. Densely packed stimulation contacts can be independently stimulated to shape the electric field, targeting pathways of interest, and avoiding those that may cause side-effects. However, this flexibility comes at a cost. Each additional stimulation setting causes an exponential increase in the number of potential stimulation settings. Recent works have addressed this problem using Bayesian optimization. However, this approach has a limited ability to learn from multiple subjects to improve performance. In this study we extend a recently developed meta-Bayesian optimization algorithm to the DBS domain. We evaluated this approach compared to classical Bayesian optimization and a random search using data collected from a nonhuman primate during stimulation of the subthalamic nucleus while recording evoked potentials in the motor cortex and locally within the subthalamic nucleus. On the task of finding the stimulation setting that maximized the evoked potential across a distribution of generated objective functions, meta-Bayesian optimization significantly outperformed the other approaches with a cumulative reward of 8.93±0.70, compared to 7.17±1.64 for Bayesian optimization (p < 10<sup>-9</sup>) and 6.89±1.56 for the random search (p < 10<sup>-9</sup>). Moreover, the algorithm outperformed Bayesian optimization when tested on an objective function not used during training. These results demonstrate that meta-Bayesian optimization can take advantage of the structure underlying a distribution of objective function and learn an optimal search strategy that can generalize beyond the objective functions that were not part of the training data. Clinical Relevance - This extends a meta-Bayesian optimization approach for optimizing DBS stimulation settings that outperforms state-of-art algorithms by 24.6%.",
+  "authors": [
+    "Connolly Mark J",
+    "Opri Enrico",
+    "Miocinovic Svjetlana",
+    "Devergnas Annaelle D"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2022",
+  "doi": "10.1109/EMBC48229.2022.9871279",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Deep Brain Stimulation",
+    "Evoked Potentials",
+    "Humans",
+    "Subthalamic Nucleus"
+  ]
+}

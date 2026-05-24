@@ -1,0 +1,14 @@
+{
+  "pmid": "34291193",
+  "title": "A neural network trained for prediction mimics diverse features of biological neurons and perception.",
+  "abstract": "Recent work has shown that convolutional neural networks (CNNs) trained on image recognition tasks can serve as valuable models for predicting neural responses in primate visual cortex. However, these models typically require biologically-infeasible levels of labeled training data, so this similarity must at least arise via different paths. In addition, most popular CNNs are solely feedforward, lacking a notion of time and recurrence, whereas neurons in visual cortex produce complex time-varying responses, even to static inputs. Towards addressing these inconsistencies with biology, here we study the emergent properties of a recurrent generative network that is trained to predict future video frames in a self-supervised manner. Remarkably, the resulting model is able to capture a wide variety of seemingly disparate phenomena observed in visual cortex, ranging from single-unit response dynamics to complex perceptual motion illusions, even when subjected to highly impoverished stimuli. These results suggest potentially deep connections between recurrent predictive neural network models and computations in the brain, providing new leads that can enrich both fields.",
+  "authors": [
+    "Lotter William",
+    "Kreiman Gabriel",
+    "Cox David"
+  ],
+  "journal": "Nature machine intelligence",
+  "year": "2020",
+  "doi": "10.1038/s42256-020-0170-9",
+  "mesh": []
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "40039125",
+  "title": "Investigating Internal Dynamics in Monkey's Primary Motor Cortex during Reaching.",
+  "abstract": "Neural dynamics are processes that describe how neurons in the brain change their activities through time in a coordinated manner. In motor control, neural dynamics, governed by both local dynamics of the motor cortex as well as inputs from other brain regions, drive the population neural state to evolve from an initial value. A notable feature is the emergence of rotation-like dynamics in neural state space. However, the causes of rotational dynamics in motor neural systems remain elusive. In this study, our objective is to investigate the impact of kinematics, specifically, the velocity and acceleration of the monkey's hand reaching movement, on rotational dynamics. We propose to employ a linear model to decompose the overall neural dynamics into one driven by the common input and the internal dynamics using single-trial data. Then, we assess the rotational features by comparing the power of internal dynamics with that of the overall dynamics, and quantifying the rotational strength of internal dynamics vs. the overall dynamics. We implement the proposed method on real M1 neural activities from the monkey's center-out reaching task. Our preliminary results demonstrate that the internal dynamics have much weaker rotational features than the overall dynamics. Given recent evidence from animal experiments showing the necessity of continuous common inputs to motor cortex during arm reaching, it indicates that the rotational dynamics in motor cortex may be mainly input driven when the subject is engaged in the movement task.",
+  "authors": [
+    "Qiu Shicheng",
+    "Mao Hongwei",
+    "Wu Shenghui",
+    "Wang Yiwen"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2024",
+  "doi": "10.1109/EMBC53108.2024.10782466",
+  "mesh": [
+    "Animals",
+    "Motor Cortex",
+    "Macaca mulatta",
+    "Movement",
+    "Biomechanical Phenomena"
+  ]
+}

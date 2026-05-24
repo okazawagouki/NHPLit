@@ -1,0 +1,17 @@
+{
+  "pmid": "40661623",
+  "title": "Resolving a paradox about how vision is transformed into familiarity.",
+  "abstract": "While humans and other primates are generally quite good at remembering the images they have seen, they systematically remember some images better than others. Here, we leverage the behavioral signature of \"image memorability\" to resolve a puzzle around how the brain transforms seeing into familiarity. Namely, the neural signal driving familiarity reports is thought to be repetition suppression, a reduction in the vigor of the population response in brain regions including inferotemporal cortex (ITC). However, within ITC, more memorable images evoke higher firing rate responses than less memorable ones, even when they are repeated. These two observations appear to conflict: if <i>reduced</i> firing leads to stronger memory signaling, then why are the images that induce <i>greater</i> firing more memorable? To resolve this paradox, we compared neural activity in ITC and the hippocampus (HC) as two rhesus monkeys performed a single-exposure image familiarity task. We found evidence that the paradox is resolved in HC where neural representations reflected an isolated memory signal that was larger for more memorable images, but HC responses were otherwise uncorrupted by memorability. Memorability behavior could not be accounted for by trivial computations applied to ITC (like thresholding). However, it could be decoded from ITC with a linear decoder that corrects for memorability modulation, consistent with the hypothesis that ITC reflects familiarity signals that are selectively extracted through medial temporal lobe (MTL) computation. These results suggest a novel role for the MTL in familiarity behavior and shed new light on how the brain supports familiarity more generally.",
+  "authors": [
+    "Bohn Simon",
+    "Hacker Catrina M",
+    "Jannuzi Barnes G L",
+    "Meyer Travis",
+    "Hay Madison L",
+    "Rust Nicole C"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.06.13.659490",
+  "mesh": []
+}

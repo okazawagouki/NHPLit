@@ -1,0 +1,26 @@
+{
+  "pmid": "36947884",
+  "title": "Weak evidence for neural correlates of task-switching in macaque V1.",
+  "abstract": "A central goal of systems neuroscience is to understand how populations of sensory neurons encode and relay information to the rest of the brain. Three key quantities of interest are <i>1</i>) how mean neural activity depends on the stimulus (sensitivity), <i>2</i>) how neural activity (co)varies around the mean (noise correlations), and <i>3</i>) how predictive these variations are of the subject's behavior (choice probability). Previous empirical work suggests that both choice probability and noise correlations are affected by task training, with decision-related information fed back to sensory areas and aligned to neural sensitivity on a task-by-task basis. We used Utah arrays to record activity from populations of primary visual cortex (V1) neurons from two macaque monkeys that were trained to switch between two coarse orientation-discrimination tasks. Surprisingly, we find no evidence for significant trial-by-trial changes in noise covariance between tasks, nor do we find a consistent relationship between neural sensitivity and choice probability, despite recording from well-tuned task-sensitive neurons, many of which were histologically confirmed to be in supragranular V1, and despite behavioral evidence that the monkeys switched their strategy between tasks. Thus our data at best provide weak support for the hypothesis that trial-by-trial task-switching induces changes to noise correlations and choice probabilities in V1. However, our data agree with a recent finding of a single \"choice axis\" across tasks. They also raise the intriguing possibility that choice-related signals in early sensory areas are less indicative of task learning per se and instead reflect perceptual learning that occurs in highly overtrained subjects.<b>NEW & NOTEWORTHY</b> Converging evidence suggests that decision processes affect sensory neural activity, and this has informed numerous theories of neural processing. We set out to replicate and extend previous results on decision-related information and noise correlations in V1 of macaque monkeys. However, in our data, we find little evidence for a number of expected effects. Our null results therefore call attention to differences in task training, stimulus design, recording, and analysis techniques between our and prior studies.",
+  "authors": [
+    "Lange Richard D",
+    "Gómez-Laberge Camille",
+    "Berezovskii Vladimir K",
+    "Pletenev Anton",
+    "Sherdil Ariana",
+    "Hartmann Till",
+    "Haefner Ralf M",
+    "Born Richard T"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2023",
+  "doi": "10.1152/jn.00085.2022",
+  "mesh": [
+    "Animals",
+    "Visual Cortex",
+    "Macaca mulatta",
+    "Learning",
+    "Neurons",
+    "Neurons, Afferent"
+  ]
+}

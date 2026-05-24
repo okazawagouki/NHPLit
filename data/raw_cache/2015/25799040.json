@@ -1,0 +1,32 @@
+{
+  "pmid": "25799040",
+  "title": "Global network influences on local functional connectivity.",
+  "abstract": "A central neuroscientific pursuit is understanding neuronal interactions that support computations underlying cognition and behavior. Although neurons interact across disparate scales, from cortical columns to whole-brain networks, research has been restricted to one scale at a time. We measured local interactions through multi-neuronal recordings while accessing global networks using scalp electroencephalography (EEG) in rhesus macaques. We measured spike count correlation, an index of functional connectivity with computational relevance, and EEG oscillations, which have been linked to various cognitive functions. We found a non-monotonic relationship between EEG oscillation amplitude and spike count correlation, contrary to the intuitive expectation of a direct relationship. With a widely used network model, we replicated these findings by incorporating a private signal targeting inhibitory neurons, a common mechanism proposed for gain modulation. Finally, we found that spike count correlation explained nonlinearities in the relationship between EEG oscillations and response time in a spatial selective attention task.",
+  "authors": [
+    "Snyder Adam C",
+    "Morais Michael J",
+    "Willis Cory M",
+    "Smith Matthew A"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2015",
+  "doi": "10.1038/nn.3979",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Brain Mapping",
+    "Brain Waves",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Fourier Analysis",
+    "Functional Neuroimaging",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motion Perception",
+    "Nerve Net",
+    "Neurons",
+    "Space Perception"
+  ]
+}

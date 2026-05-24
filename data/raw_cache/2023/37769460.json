@@ -1,0 +1,28 @@
+{
+  "pmid": "37769460",
+  "title": "Predicting the phase distribution during multi-channel transcranial alternating current stimulation in silico and in vivo.",
+  "abstract": "BACKGROUND: Transcranial alternating current stimulation (tACS) is a widely used noninvasive brain stimulation (NIBS) technique to affect neural activity. TACS experiments have been coupled with computational simulations to predict the electromagnetic fields within the brain. However, existing simulations are focused on the magnitude of the field. As the possibility of inducing the phase gradient in the brain using multiple tACS electrodes arises, a simulation framework is necessary to investigate and predict the phase gradient of electric fields during multi-channel tACS. OBJECTIVE: Here, we develop such a framework for phasor simulation using phasor algebra and evaluate its accuracy using in vivo recordings in monkeys. METHODS: We extract the phase and amplitude of electric fields from intracranial recordings in two monkeys during multi-channel tACS and compare them to those calculated by phasor analysis using finite element models. RESULTS: Our findings demonstrate that simulated phases correspond well to measured phases (r = 0.9). Further, we systematically evaluated the impact of accurate electrode placement on modeling and data agreement. Finally, our framework can predict the amplitude distribution in measurements given calibrated tissues' conductivity. CONCLUSIONS: Our validated general framework for simulating multi-phase, multi-electrode tACS provides a streamlined tool for principled planning of multi-channel tACS experiments.",
+  "authors": [
+    "Lee Sangjun",
+    "Shirinpour Sina",
+    "Alekseichuk Ivan",
+    "Perera Nipun",
+    "Linn Gary",
+    "Schroeder Charles E",
+    "Falchier Arnaud Y",
+    "Opitz Alexander"
+  ],
+  "journal": "Computers in biology and medicine",
+  "year": "2023",
+  "doi": "10.1016/j.compbiomed.2023.107516",
+  "mesh": [
+    "Transcranial Direct Current Stimulation",
+    "Animals",
+    "Computer Simulation",
+    "Brain",
+    "Models, Neurological",
+    "Macaca mulatta",
+    "Finite Element Analysis",
+    "Male"
+  ]
+}

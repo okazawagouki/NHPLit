@@ -1,0 +1,33 @@
+{
+  "pmid": "34131696",
+  "title": "Predicting MHC class I binder: existing approaches and a novel recurrent neural network solution.",
+  "abstract": "Major histocompatibility complex (MHC) possesses important research value in the treatment of complex human diseases. A plethora of computational tools has been developed to predict MHC class I binders. Here, we comprehensively reviewed 27 up-to-date MHC I binding prediction tools developed over the last decade, thoroughly evaluating feature representation methods, prediction algorithms and model training strategies on a benchmark dataset from Immune Epitope Database. A common limitation was identified during the review that all existing tools can only handle a fixed peptide sequence length. To overcome this limitation, we developed a bilateral and variable long short-term memory (BVLSTM)-based approach, named BVLSTM-MHC. It is the first variable-length MHC class I binding predictor. In comparison to the 10 mainstream prediction tools on an independent validation dataset, BVLSTM-MHC achieved the best performance in six out of eight evaluated metrics. A web server based on the BVLSTM-MHC model was developed to enable accurate and efficient MHC class I binder prediction in human, mouse, macaque and chimpanzee.",
+  "authors": [
+    "Jiang Limin",
+    "Yu Hui",
+    "Li Jiawei",
+    "Tang Jijun",
+    "Guo Yan",
+    "Guo Fei"
+  ],
+  "journal": "Briefings in bioinformatics",
+  "year": "2021",
+  "doi": "10.1093/bib/bbab216",
+  "mesh": [
+    "Amino Acid Sequence",
+    "Binding Sites",
+    "Carrier Proteins",
+    "Computational Biology",
+    "Databases, Factual",
+    "Deep Learning",
+    "Epitopes",
+    "Histocompatibility Antigens Class I",
+    "Machine Learning",
+    "Neural Networks, Computer",
+    "Protein Binding",
+    "ROC Curve",
+    "Reproducibility of Results",
+    "Software",
+    "Web Browser"
+  ]
+}

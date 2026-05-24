@@ -1,0 +1,22 @@
+{
+  "pmid": "7965087",
+  "title": "The oculomotor neural integrator uses a behavior-related coordinate system.",
+  "abstract": "Coordinate systems are a central issue in computational neuroscience: are they explicitly represented at some reductive level of brain function, and if so, are they only trivial products of associated anatomic geometries? This investigation examined these questions in the neural network that holds eye position, the so-called oculomotor integrator. Since neural activity in the integrator is behaviorally constrained by Listing's law to encode horizontal and vertical eye positions within Listing's plane and zero rotation about the orthogonal torsional axis, it was hypothesized that any integrator coordinate system would be developmentally predisposed to align with Listing's plane. A test for this hypothesis was developed with the use of a kinematically correct model of the three-dimensional saccade generator. Three mathematical integrators were used to represent the neuron populations that control torsional, vertical, and horizontal eye position. Simulated failure of the torsional and vertical integrators produced eye position drift that was parallel to the horizontal plane containing the intrinsic coordinate axes for these components. Furthermore, this drift settled toward a resting range parallel to the intrinsic vertical coordinate axis (for horizontal rotation). To experimentally identify these intrinsic population coordinates, three-dimensional eye positions were measured in four Macaca fascicularis after injection of muscimol into the mesencephalic interstitial nucleus of Cajal (INC), a technique that disrupts the torsional and vertical integrators (Crawford et al., 1991). INC inactivation produced exponential, position-dependent decay in vertical and torsional eye position. There was no position-dependent horizontal drift, but in the original coordinate system (defined arbitrarily by the measurement apparatus) there was a constant-direction horizontal drift. However, this extraneous horizontal drift was eliminated when the data were transformed into a coordinate system that aligned with Listing's plane. The direction of torsional drift correlated well (r = 0.85), across all experiments, with the normal to Listing's plane. On average, these two directions were only 0.06 degrees from perfect alignment. In contrast, drift direction did not correlate with stereotaxic coordinates (r = 0.10). Furthermore, the drift settled toward a range parallel to and correlated with Listing's plane (r = 0.94), whereas this range did not correlate well with stereotaxic coordinates (r = 0.02). On average, the resting range was aligned within 0.98 degrees of Listing's plane. Finally, this resting range was near orthogonal (average 91.9 degrees across all experiments) to the direction of torsional drift. These results show that integrator cell populations use an orthogonal, craniotopic coordinate system that aligns with Listing's plane.(ABSTRACT TRUNCATED AT 250 WORDS)",
+  "authors": [
+    "Crawford J D"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1994",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Eye Movements",
+    "Macaca fascicularis",
+    "Models, Neurological",
+    "Nerve Net",
+    "Oculomotor Muscles",
+    "Oculomotor Nerve",
+    "Reflex, Vestibulo-Ocular",
+    "Saccades"
+  ]
+}

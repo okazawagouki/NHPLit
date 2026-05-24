@@ -1,0 +1,24 @@
+{
+  "pmid": "36708015",
+  "title": "Spontaneous activity in cortical neurons is stereotyped and non-Poisson.",
+  "abstract": "Neurons fire even in the absence of sensory stimulation or task demands. Numerous theoretical studies have modeled this spontaneous activity as a Poisson process with uncorrelated intervals between successive spikes and a variance in firing rate equal to the mean. Experimental tests of this hypothesis have yielded variable results, though most have concluded that firing is not Poisson. However, these tests say little about the ways firing might deviate from randomness. Nor are they definitive because many different distributions can have equal means and variances. Here, we characterized spontaneous spiking patterns in extracellular recordings from monkey, cat, and mouse cerebral cortex neurons using rate-normalized spike train autocorrelation functions (ACFs) and a logarithmic timescale. If activity was Poisson, this function should be flat. This was almost never the case. Instead, ACFs had diverse shapes, often with characteristic peaks in the 1-700 ms range. Shapes were stable over time, up to the longest recording periods used (51 min). They did not fall into obvious clusters. ACFs were often unaffected by visual stimulation, though some abruptly changed during brain state shifts. These behaviors may have their origin in the intrinsic biophysics and dendritic anatomy of the cells or in the inputs they receive.",
+  "authors": [
+    "Swindale Nicholas V",
+    "Spacek Martin A",
+    "Krause Matthew",
+    "Mitelut Catalin"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2023",
+  "doi": "10.1093/cercor/bhac521",
+  "mesh": [
+    "Mice",
+    "Animals",
+    "Neurons",
+    "Cerebral Cortex",
+    "Brain",
+    "Biophysics",
+    "Photic Stimulation",
+    "Action Potentials"
+  ]
+}

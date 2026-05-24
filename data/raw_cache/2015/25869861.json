@@ -1,0 +1,25 @@
+{
+  "pmid": "25869861",
+  "title": "Local field potentials in primate motor cortex encode grasp kinetic parameters.",
+  "abstract": "Reach and grasp kinematics are known to be encoded in the spiking activity of neuronal ensembles and in local field potentials (LFPs) recorded from primate motor cortex during movement planning and execution. However, little is known, especially in LFPs, about the encoding of kinetic parameters, such as forces exerted on the object during the same actions. We implanted two monkeys with microelectrode arrays in the motor cortical areas MI and PMd to investigate encoding of grasp-related parameters in motor cortical LFPs during planning and execution of reach-and-grasp movements. We identified three components of the LFP that modulated during grasps corresponding to low (0.3-7Hz), intermediate (~10-~40Hz) and high (~80-250Hz) frequency bands. We show that all three components can be used to classify not only grip types but also object loads during planning and execution of a grasping movement. In addition, we demonstrate that all three components recorded during planning or execution can be used to continuously decode finger pressure forces and hand position related to the grasping movement. Low and high frequency components provide similar classification and decoding accuracies, which were substantially higher than those obtained from the intermediate frequency component. Our results demonstrate that intended reach and grasp kinetic parameters are encoded in multiple LFP bands during both movement planning and execution. These findings also suggest that the LFP is a reliable signal for the control of parameters related to object load and applied pressure forces in brain-machine interfaces.",
+  "authors": [
+    "Milekovic Tomislav",
+    "Truccolo Wilson",
+    "Grün Sonja",
+    "Riehle Alexa",
+    "Brochier Thomas"
+  ],
+  "journal": "NeuroImage",
+  "year": "2015",
+  "doi": "10.1016/j.neuroimage.2015.04.008",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Brain Waves",
+    "Female",
+    "Hand Strength",
+    "Macaca",
+    "Motor Cortex",
+    "Movement"
+  ]
+}

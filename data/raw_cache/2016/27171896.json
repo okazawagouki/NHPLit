@@ -1,0 +1,27 @@
+{
+  "pmid": "27171896",
+  "title": "A four-dimensional virtual hand brain-machine interface using active dimension selection.",
+  "abstract": "OBJECTIVE: Brain-machine interfaces (BMI) traditionally rely on a fixed, linear transformation from neural signals to an output state-space. In this study, the assumption that a BMI must control a fixed, orthogonal basis set was challenged and a novel active dimension selection (ADS) decoder was explored. APPROACH: ADS utilizes a two stage decoder by using neural signals to both (i) select an active dimension being controlled and (ii) control the velocity along the selected dimension. ADS decoding was tested in a monkey using 16 single units from premotor and primary motor cortex to successfully control a virtual hand avatar to move to eight different postures. MAIN RESULTS: Following training with the ADS decoder to control 2, 3, and then 4 dimensions, each emulating a grasp shape of the hand, performance reached 93% correct with a bit rate of 2.4 bits s(-1) for eight targets. Selection of eight targets using ADS control was more efficient, as measured by bit rate, than either full four-dimensional control or computer assisted one-dimensional control. SIGNIFICANCE: ADS decoding allows a user to quickly and efficiently select different hand postures. This novel decoding scheme represents a potential method to reduce the complexity of high-dimension BMI control of the hand.",
+  "authors": [
+    "Rouse Adam G"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2016",
+  "doi": "10.1088/1741-2560/13/3/036021",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Color Perception",
+    "Computer Simulation",
+    "Conditioning, Operant",
+    "Form Perception",
+    "Hand",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Neural Prostheses",
+    "Posture"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "38244194",
+  "title": "An integrated passive acoustic monitoring and deep learning pipeline for black-and-white ruffed lemurs (Varecia variegata) in Ranomafana National Park, Madagascar.",
+  "abstract": "The urgent need for effective wildlife monitoring solutions in the face of global biodiversity loss has resulted in the emergence of conservation technologies such as passive acoustic monitoring (PAM). While PAM has been extensively used for marine mammals, birds, and bats, its application to primates is limited. Black-and-white ruffed lemurs (Varecia variegata) are a promising species to test PAM with due to their distinctive and loud roar-shrieks. Furthermore, these lemurs are challenging to monitor via traditional methods due to their fragmented and often unpredictable distribution in Madagascar's dense eastern rainforests. Our goal in this study was to develop a machine learning pipeline for automated call detection from PAM data, compare the effectiveness of PAM versus in-person observations, and investigate diel patterns in lemur vocal behavior. We did this study at Mangevo, Ranomafana National Park by concurrently conducting focal follows and deploying autonomous recorders in May-July 2019. We used transfer learning to build a convolutional neural network (optimized for recall) that automated the detection of lemur calls (57-h runtime; recall = 0.94, F1 = 0.70). We found that PAM outperformed in-person observations, saving time, money, and labor while also providing re-analyzable data. Using PAM yielded novel insights into V. variegata diel vocal patterns; we present the first published evidence of nocturnal calling. We developed a graphic user interface and open-sourced data and code, to serve as a resource for primatologists interested in implementing PAM and machine learning. By leveraging the potential of this pipeline, we can address the urgent need for effective primate population surveys to inform conservation strategies.",
+  "authors": [
+    "Batist Carly H",
+    "Dufourq Emmanuel",
+    "Jeantet Lorène",
+    "Razafindraibe Mendrika N",
+    "Randriamanantena Francois",
+    "Baden Andrea L"
+  ],
+  "journal": "American journal of primatology",
+  "year": "2024",
+  "doi": "10.1002/ajp.23599",
+  "mesh": [
+    "Humans",
+    "Animals",
+    "Lemur",
+    "Madagascar",
+    "Deep Learning",
+    "Parks, Recreational",
+    "Lemuridae",
+    "Strepsirhini",
+    "Acoustics",
+    "Mammals"
+  ]
+}

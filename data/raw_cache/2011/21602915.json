@@ -1,0 +1,16 @@
+{
+  "pmid": "21602915",
+  "title": "Basal Ganglia preferentially encode context dependent choice in a two-armed bandit task.",
+  "abstract": "Decision is a self-generated phenomenon, which is hard to track with standard time averaging methods, such as peri-event time histograms (PETHs), used in behaving animals. Reasons include variability in duration of events within a task and uneven reaction time of animals. We have developed a temporal normalization method where PETHs were juxtaposed all along task events and compared between neurons. We applied this method to neurons recorded in striatum and GPi of behaving monkeys involved in a choice task. We observed a significantly higher homogeneity of neuron activity profile distributions in GPi than in striatum. Focusing on the period of the task during which the decision was taken, we showed that approximately one quarter of all recorded neurons exhibited tuning functions. These so-called coding neurons had average firing rates that varied as a function of the value of both presented cues, a combination here referred to as context, and/or value of the chosen cue. The tuning functions were used to build a simple maximum likelihood estimation model, which revealed that (i) GPi neurons are more efficient at encoding both choice and context than striatal neurons and (ii) context prediction rates were higher than those for choice. Furthermore, the mutual information between choice or context values and decision period average firing rate was higher in GPi than in striatum. Considered together, these results suggest a convergence process of the global information flow between striatum and GPi, preferentially involving context encoding, which could be used by the network to perform decision-making.",
+  "authors": [
+    "Garenne André",
+    "Pasquereau Benjamin",
+    "Guthrie Martin",
+    "Bioulac Bernard",
+    "Boraud Thomas"
+  ],
+  "journal": "Frontiers in systems neuroscience",
+  "year": "2011",
+  "doi": "10.3389/fnsys.2011.00023",
+  "mesh": []
+}

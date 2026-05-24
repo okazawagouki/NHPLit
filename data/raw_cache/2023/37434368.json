@@ -1,0 +1,24 @@
+{
+  "pmid": "37434368",
+  "title": "Temporal fingerprints of cortical gyrification in marmosets and humans.",
+  "abstract": "Recent neuroimaging studies in humans have reported distinct temporal dynamics of gyri and sulci, which may be associated with putative functions of cortical gyrification. However, the complex folding patterns of the human cortex make it difficult to explain temporal patterns of gyrification. In this study, we used the common marmoset as a simplified model to examine the temporal characteristics and compare them with the complex gyrification of humans. Using a brain-inspired deep neural network, we obtained reliable temporal-frequency fingerprints of gyri and sulci from the awake rs-fMRI data of marmosets and humans. Notably, the temporal fingerprints of one region successfully classified the gyrus/sulcus of another region in both marmosets and humans. Additionally, the temporal-frequency fingerprints were remarkably similar in both species. We then analyzed the resulting fingerprints in several domains and adopted the Wavelet Transform Coherence approach to characterize the gyro-sulcal coupling patterns. In both humans and marmosets, sulci exhibited higher frequency bands than gyri, and the two were temporally coupled within the same range of phase angles. This study supports the notion that gyri and sulci possess unique and evolutionarily conserved features that are consistent across functional areas, and advances our understanding of the functional role of cortical gyrification.",
+  "authors": [
+    "Wang Qiyu",
+    "Zhao Shijie",
+    "Liu Tianming",
+    "Han Junwei",
+    "Liu Cirong"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2023",
+  "doi": "10.1093/cercor/bhad245",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Callithrix",
+    "Cerebral Cortex",
+    "Magnetic Resonance Imaging",
+    "Neuroimaging",
+    "Neural Networks, Computer"
+  ]
+}

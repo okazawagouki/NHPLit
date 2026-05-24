@@ -1,0 +1,26 @@
+{
+  "pmid": "11443285",
+  "title": "A laterally interconnected neural architecture in MST accounts for psychophysical discrimination of complex motion patterns.",
+  "abstract": "The complex patterns of visual motion formed across the retina during self-motion, often referred to as optic flow, provide a rich source of information describing our dynamic relationship within the environment. Psychophysical studies indicate the existence of specialized detectors for component motion patterns (radial, circular, planar) that are consistent with the visual motion properties of cells in the medial superior temporal area (MST) of nonhuman primates. Here we use computational modeling and psychophysics to investigate the structural and functional role of these specialized detectors in performing a graded motion pattern (GMP) discrimination task. In the psychophysical task perceptual discrimination varied significantly with the type of motion pattern presented, suggesting perceptual correlates to the preferred motion bias reported in MST. Simulated perceptual discrimination in a population of independent MST-like neural responses showed inconsistent psychophysical performance that varied as a function of the visual motion properties within the population code. Robust psychophysical performance was achieved by fully interconnecting neural populations such that they inhibited nonpreferred units. Taken together, these results suggest that robust processing of the complex motion patterns associated with self-motion and optic flow may be mediated by an inhibitory structure of neural interactions in MST.",
+  "authors": [
+    "Beardsley S A",
+    "Vaina L M"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Discrimination, Psychological",
+    "Dominance, Cerebral",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neural Inhibition",
+    "Neural Networks, Computer",
+    "Neural Pathways",
+    "Primates",
+    "Psychophysics",
+    "Sensory Thresholds",
+    "Temporal Lobe"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pmid": "30325970",
+  "title": "Emergent mechanisms of evidence integration in recurrent neural networks.",
+  "abstract": "Recent advances in machine learning have enabled neural networks to solve tasks humans typically perform. These networks offer an exciting new tool for neuroscience that can give us insight in the emergence of neural and behavioral mechanisms. A big gap remains though between the very deep neural networks that have risen in popularity and outperformed many existing shallow networks in the field of computer vision and the highly recurrently connected human brain. This trend towards ever-deeper architectures raises the question why the brain has not developed such an architecture. Besides wiring constraints we argue that the brain operates under different circumstances when performing object recognition, being confronted with noisy and ambiguous sensory input. The role of time in the process of object recognition is investigated, showing that a recurrent network trained through reinforcement learning is able to learn the amount of time needed to arrive at an accurate estimate of the stimulus and develops behavioral and neural mechanisms similar to those found in the human and non-human primate literature.",
+  "authors": [
+    "Quax Silvan",
+    "van Gerven Marcel"
+  ],
+  "journal": "PloS one",
+  "year": "2018",
+  "doi": "10.1371/journal.pone.0205676",
+  "mesh": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Neural Networks, Computer"
+  ]
+}

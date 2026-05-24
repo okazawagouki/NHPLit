@@ -1,0 +1,13 @@
+{
+  "pmid": "22013414",
+  "title": "A computational study of how orientation bias in the lateral geniculate nucleus can give rise to orientation selectivity in primary visual cortex.",
+  "abstract": "Controversy remains about how orientation selectivity emerges in simple cells of the mammalian primary visual cortex. In this paper, we present a computational model of how the orientation-biased responses of cells in lateral geniculate nucleus (LGN) can contribute to the orientation selectivity in simple cells in cats. We propose that simple cells are excited by lateral geniculate fields with an orientation-bias and disynaptically inhibited by unoriented lateral geniculate fields (or biased fields pooled across orientations), both at approximately the same retinotopic co-ordinates. This interaction, combined with recurrent cortical excitation and inhibition, helps to create the sharp orientation tuning seen in simple cell responses. Along with describing orientation selectivity, the model also accounts for the spatial frequency and length-response functions in simple cells, in normal conditions as well as under the influence of the GABA(A) antagonist, bicuculline. In addition, the model captures the response properties of LGN and simple cells to simultaneous visual stimulation and electrical stimulation of the LGN. We show that the sharp selectivity for stimulus orientation seen in primary visual cortical cells can be achieved without the excitatory convergence of the LGN input cells with receptive fields along a line in visual space, which has been a core assumption in classical models of visual cortex. We have also simulated how the full range of orientations seen in the cortex can emerge from the activity among broadly tuned channels tuned to a limited number of optimum orientations, just as in the classical case of coding for color in trichromatic primates.",
+  "authors": [
+    "Kuhlmann Levin",
+    "Vidyasagar Trichur R"
+  ],
+  "journal": "Frontiers in systems neuroscience",
+  "year": "2011",
+  "doi": "10.3389/fnsys.2011.00081",
+  "mesh": []
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "33192335",
+  "title": "Adaptive Surround Modulation of MT Neurons: A Computational Model.",
+  "abstract": "The classical receptive field (CRF) of a spiking visual neuron is defined as the region in the visual field that can generate spikes when stimulated by a visual stimulus. Many visual neurons also have an extra-classical receptive field (ECRF) that surrounds the CRF. The presence of a stimulus in the ECRF does not generate spikes but rather modulates the response to a stimulus in the neuron's CRF. Neurons in the primate Middle Temporal (MT) area, which is a motion specialist region, can have directionally antagonistic or facilitatory surrounds. The surround's effect switches between directionally antagonistic or facilitatory based on the characteristics of the stimulus, with antagonistic effects when there are directional discontinuities but facilitatory effects when there is directional coherence. Here, we present a computational model of neurons in area MT that replicates this observation and uses computational building blocks that correlate with observed cell types in the visual pathways to explain the mechanism of this modulatory effect. The model shows that the categorization of MT neurons based on the effect of their surround depends on the input stimulus rather than being a property of the neurons. Also, in agreement with neurophysiological findings, the ECRFs of the modeled MT neurons alter their center-surround interactions depending on image contrast.",
+  "authors": [
+    "Zarei Eskikand Parvin",
+    "Kameneva Tatiana",
+    "Burkitt Anthony N",
+    "Grayden David B",
+    "Ibbotson Michael R"
+  ],
+  "journal": "Frontiers in neural circuits",
+  "year": "2020",
+  "doi": "10.3389/fncir.2020.529345",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Models, Theoretical",
+    "Motion Perception",
+    "Neurons",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Pathways"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "28077725",
+  "title": "Encoding of Both Reaching and Grasping Kinematics in Dorsal and Ventral Premotor Cortices.",
+  "abstract": "Classically, it has been hypothesized that reach-to-grasp movements arise from two discrete parietofrontal cortical networks. As part of these networks, the dorsal premotor cortex (PMd) has been implicated in the control of reaching movements of the arm, whereas the ventral premotor cortex (PMv) has been associated with the control of grasping movements of the hand. Recent studies have shown that such a strict delineation of function along anatomical boundaries is unlikely, partly because reaching to different locations can alter distal hand kinematics and grasping different objects can affect kinematics of the proximal arm. Here, we used chronically implanted multielectrode arrays to record unit-spiking activity in both PMd and PMv simultaneously while rhesus macaques engaged in a reach-to-grasp task. Generalized linear models were used to predict the spiking activity of cells in both areas as a function of different kinematic parameters, as well as spike history. To account for the influence of reaching on hand kinematics and vice versa, we applied demixed principal components analysis to define kinematics synergies that maximized variance across either different object locations or grip types. We found that single cells in both PMd and PMv encode the kinematics of both reaching and grasping synergies, suggesting that this classical division of reach and grasp in PMd and PMv, respectively, does not accurately reflect the encoding preferences of cells in those areas.<b>SIGNIFICANCE STATEMENT</b> For reach-to-grasp movements, the dorsal premotor cortex (PMd) has been implicated in the control of reaching movements of the arm, whereas the ventral premotor cortex (PMv) has been associated with the control of grasping movements of the hand. We recorded unit-spiking activity in PMd and PMv simultaneously while macaques performed a reach-to-grasp task. We modeled the spiking activity of neurons as a function of kinematic parameters and spike history. We applied demixed principal components analysis to define kinematics synergies. We found that single units in both PMd and PMv encode the kinematics of both reaching and grasping synergies, suggesting that the division of reach and grasp in PMd and PMv, respectively, cannot be made based on their encoding properties.",
+  "authors": [
+    "Takahashi Kazutaka",
+    "Best Matthew D",
+    "Huh Noah",
+    "Brown Kevin A",
+    "Tobaa Adil A",
+    "Hatsopoulos Nicholas G"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2017",
+  "doi": "10.1523/JNEUROSCI.1537-16.2016",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Hand Strength",
+    "Logistic Models",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Neurons",
+    "Principal Component Analysis",
+    "Psychomotor Performance",
+    "Range of Motion, Articular"
+  ]
+}

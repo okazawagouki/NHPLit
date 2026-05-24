@@ -1,0 +1,24 @@
+{
+  "pmid": "8359238",
+  "title": "Interpretation of high-resolution current source density profiles: a simulation of sublaminar contributions to the visual evoked potential.",
+  "abstract": "Current source density (CSD) analysis provides an index of the location, direction, and density of transmembrane currents that arise with synchronous activation of neural tissue and that generate an evoked potential profile in the extracellular medium. In neocortex and other laminated structures, a simplified, one-dimensional CSD analysis can be computed by differentiation of voltages sampled at discrete points in a linear array. One-dimensional CSD analysis is a practical and accurate method for defining both regional activity patterns and neural generators of surface-recorded evoked and event-related potentials. In computing the CSD, common practices of differentiating across spatial grids of 200 microns or more and use of spatial smoothing routines help to reduce noise, but severely limit the spatial resolution available to the analysis. High-resolution CSD procedures (i.e., 3 point differentiation using a spatial grid of 100 microns or less) are more suited to identification of processes within individual cortical laminae or sublaminae, but can magnify the contributions of computational artifacts. Despite the inclusion of independent indices of cellular activity (e.g., multiunit activity), both high- and low-resolution analyses may indicate current source and sink configurations for which there is more than one plausible physiological interpretation. In the present study we examined the resolving capacity and pitfalls of common CSD procedures using simulated ensembles of current dipoles. These were positioned and oriented to model the depolarization of lamina 4C stellate cells and thalamocortical afferents in macaque striate cortex. Empirically, the surface N40 appears in association with a CSD configuration which includes current sinks within the thalamorecipient (stellate) subdivisions of lamina 4C and a large current source extending considerably below 4C. Dipole ensemble contributions to the CSD profile were computed and compared to physiological data from this region. Small asymmetries in activation of model stellate laminae were sufficient to produce substantial open field contributions. However, the best fit with empirical CSD profile was found when the simulation included contributions from thalamocortical axons, along with both open and closed field contributions from dual stellate cell sublaminae. High-resolution CSD profiles were shown to be interpretable when computational artifacts characteristic of closed and open fields were identified using a series of differentiation grids.",
+  "authors": [
+    "Tenke C E",
+    "Schroeder C E",
+    "Arezzo J C",
+    "Vaughan H G"
+  ],
+  "journal": "Experimental brain research",
+  "year": "1993",
+  "doi": "",
+  "mesh": [
+    "Afferent Pathways",
+    "Animals",
+    "Electric Stimulation",
+    "Evoked Potentials, Visual",
+    "Macaca",
+    "Models, Neurological",
+    "Thalamus",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "30853432",
+  "title": "The Segmentation of Proto-Objects in the Monkey Primary Visual Cortex.",
+  "abstract": "During visual perception, the brain enhances the representations of image regions that belong to figures and suppresses those that belong to the background. Natural images contain many regions that initially appear to be part of a figure when analyzed locally (proto-objects) but are actually part of the background if the whole image is considered. These proto-grounds must be correctly assigned to the background to allow correct shape identification and guide behavior. To understand how the brain resolves this conflict between local and global processing, we recorded neuronal activity from the primary visual cortex (V1) of macaque monkeys while they discriminated between n/u shapes that have a central proto-ground region. We studied the fine-grained spatiotemporal profile of neural activity evoked by the n/u shape and found that neural representation of the object proceeded from a coarse-to-fine resolution. Approximately 100 ms after the stimulus onset, the representation of the proto-ground region was enhanced together with the rest of the n/u surface, but after ∼115 ms, the proto-ground was suppressed back to the level of the background. Suppression of the proto-ground was only present in animals that had been trained to perform the shape-discrimination task, and it predicted the choice of the animal on a trial-by-trial basis. Attention enhanced figure-ground modulation, but it had no effect on the strength of proto-ground suppression. The results indicate that the accuracy of scene segmentation is sharpened by a suppressive process that resolves local ambiguities by assigning proto-grounds to the background.",
+  "authors": [
+    "Self Matthew W",
+    "Jeurissen Danique",
+    "van Ham Anne F",
+    "van Vugt Bram",
+    "Poort Jasper",
+    "Roelfsema Pieter R"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2019",
+  "doi": "10.1016/j.cub.2019.02.016",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

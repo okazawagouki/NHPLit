@@ -1,0 +1,28 @@
+{
+  "pmid": "42093008",
+  "title": "Developing and internally validating AI-based aging resilience biomarkers in non-human primates.",
+  "abstract": "Quantifying biological aging is crucial for understanding functional decline before the onset of morbidity. While many accelerated aging and frailty measures based on clinical data exist for humans and several for rodent models of aging, there are few options for non-human primates (NHPs). NHP clinical data has several unique features including a lack of clinically delineated normative values for features and variability in data collection over long lifespans. There are also wide discrepancies in the number of available clinical measures and the number of animals across data sets. To address these challenges, we developed and validated \"aging resilience\" (AR) metrics using longitudinal, routine clinical data from two distinct non-human primate cohorts: 4328 baboons and 281 rhesus macaques. We trained five computational models-including Linear Mixed-Effects Models, Random Forest, and Recurrent Neural Networks (RNN)-to predict chronological age, subsequently deriving AR metrics that represent the velocity (rate of aging) and cumulative burden (normalized cumulative aging) of physiological deviation. While linear models achieved high precision in predicting chronological age (test R2 up to 0.99), they correlated poorly with actual lifespan. In contrast, AR metrics derived from non-linear models (RNN and Random Forest) displayed strong predictive validity for mortality (Pearson's r > 0.8). These findings highlight a critical paradox: models that best predict chronological age do not necessarily capture the biological resilience determining healthspan. This study establishes a scalable framework for monitoring biological aging in translational models using standard veterinary records.",
+  "authors": [
+    "Bennett Robert F",
+    "Speiser Jaime L",
+    "Olson John D",
+    "Schaaf George W",
+    "Register Thomas C",
+    "Cox Laura A",
+    "Cline J Mark",
+    "Quillen Ellen E"
+  ],
+  "journal": "The journals of gerontology. Series A, Biological sciences and medical sciences",
+  "year": "2026",
+  "doi": "10.1093/gerona/glag112",
+  "mesh": [
+    "Animals",
+    "Aging",
+    "Macaca mulatta",
+    "Biomarkers",
+    "Papio",
+    "Neural Networks, Computer",
+    "Male",
+    "Female"
+  ]
+}

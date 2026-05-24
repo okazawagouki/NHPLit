@@ -1,0 +1,28 @@
+{
+  "pmid": "39136727",
+  "title": "Evaluation of registration-based vs. manual segmentation of rhesus macaque brain MRIs.",
+  "abstract": "With increasing numbers of magnetic resonance imaging (MRI) datasets becoming publicly available, researchers and clinicians alike have turned to automated methods of segmentation to enable population-level analyses of these data. Although prior research has evaluated the extent to which automated methods recapitulate \"gold standard\" manual segmentation methods in the human brain, such an evaluation has not yet been carried out for segmentation of MRIs of the macaque brain. Macaques offer the important opportunity to bridge gaps between microanatomical studies using invasive methods like tract tracing, neural recordings, and high-resolution histology and non-invasive macroanatomical studies using methods like MRI. As such, it is important to evaluate whether automated tools derive data of sufficient quality from macaque MRIs to bridge these gaps. We tested the relationship between automated registration-based segmentation using an open source and actively maintained NHP imaging analysis pipeline (AFNI) and gold standard manual segmentation of 4 structures (2 cortical: anterior cingulate cortex and insula; 2 subcortical: amygdala and caudate) across 37 rhesus macaques (Macaca mulatta). We identified some variability in the strength of correlation between automated and manual segmentations across neural regions and differences in relationships with demographic variables like age and sex between the two techniques.",
+  "authors": [
+    "Charbonneau Joey A",
+    "Davis Brittany",
+    "Raven Erika P",
+    "Patwardhan Bhakti",
+    "Grebosky Carson",
+    "Halteh Lucas",
+    "Bennett Jeffrey L",
+    "Bliss-Moreau Eliza"
+  ],
+  "journal": "Brain structure & function",
+  "year": "2024",
+  "doi": "10.1007/s00429-024-02848-7",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Brain",
+    "Female",
+    "Image Processing, Computer-Assisted",
+    "Brain Mapping"
+  ]
+}

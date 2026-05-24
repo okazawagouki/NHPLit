@@ -1,0 +1,14 @@
+{
+  "pmid": "28539789",
+  "title": "Mutual information of local field potentials distinguishes area-V2 stripe compartments.",
+  "abstract": "PURPOSE: Determining how information is represented by populations of neurons in different cortical areas is critical to our understanding of the brain mechanisms of visual perception. Recently, information-theoretical approaches have been applied to the analysis of spike trains of multiple neurons. However, other neurophysiological signals, such as local field potentials (LFPs), offer a different source of information worthy of investigating in this way. In this study, we investigate how the modular organization of area V2 of macaque monkeys impacts the information represented in LFPs. MATERIALS AND METHODS: LFPs were recorded from a 32-channel microelectrode array implanted in area V2 of an anesthetized macaque monkey. The electrode positions were recovered in histological tissue stained for cytochrome oxidase (CO) to reveal the modular organization of V2. Visual stimuli consisted of a variety of moving gratings that differed in orientation, direction, spatial frequency, and chromatic content. RESULTS: LFPs were separated into different frequency bands for analysis of mutual information as a function of stimulus type and CO-stripe location. High-γ-band LFPs revealed the highest information content across the electrode array. The distributions of total mutual information as well as mutual information due to correlations varied greatly by CO stripe. This analysis indicates that local correlations within each CO stripe generally reduce mutual information, whereas correlations between stripes greatly increase mutual information. CONCLUSION: The decomposition mutual information based on the power of different frequency bands of LFPs provides new insight into the impact of modular architecture on population coding in area V2. Unlike other cortical areas, such as V1, where mutual information based on LFP correlations is largely determined by cortical separation, mutual information in V2 is also fundamentally determined by the CO-stripe architecture.",
+  "authors": [
+    "Parajuli Arun",
+    "Eriksson Anastasia",
+    "Felleman Daniel J"
+  ],
+  "journal": "Eye and brain",
+  "year": "2014",
+  "doi": "10.2147/EB.S51820",
+  "mesh": []
+}

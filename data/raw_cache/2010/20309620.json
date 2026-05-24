@@ -1,0 +1,28 @@
+{
+  "pmid": "20309620",
+  "title": "Modeling shifts in the rate and pattern of subthalamopallidal network activity during deep brain stimulation.",
+  "abstract": "Deep brain stimulation (DBS) of the subthlamic nucleus (STN) represents an effective treatment for medically refractory Parkinson's disease; however, understanding of its effects on basal ganglia network activity remains limited. We constructed a computational model of the subthalamopallidal network, trained it to fit in vivo recordings from parkinsonian monkeys, and evaluated its response to STN DBS. The network model was created with synaptically connected single compartment biophysical models of STN and pallidal neurons, and stochastically defined inputs driven by cortical beta rhythms. A least mean square error training algorithm was developed to parameterize network connections and minimize error when compared to experimental spike and burst rates in the parkinsonian condition. The output of the trained network was then compared to experimental data not used in the training process. We found that reducing the influence of the cortical beta input on the model generated activity that agreed well with recordings from normal monkeys. Further, during STN DBS in the parkinsonian condition the simulations reproduced the reduction in GPi bursting found in existing experimental data. The model also provided the opportunity to greatly expand analysis of GPi bursting activity, generating three major predictions. First, its reduction was proportional to the volume of STN activated by DBS. Second, GPi bursting decreased in a stimulation frequency dependent manner, saturating at values consistent with clinically therapeutic DBS. And third, ablating STN neurons, reported to generate similar therapeutic outcomes as STN DBS, also reduced GPi bursting. Our theoretical analysis of stimulation induced network activity suggests that regularization of GPi firing is dependent on the volume of STN tissue activated and a threshold level of burst reduction may be necessary for therapeutic effect.",
+  "authors": [
+    "Hahn Philip J",
+    "McIntyre Cameron C"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2010",
+  "doi": "10.1007/s10827-010-0225-8",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Deep Brain Stimulation",
+    "Disease Models, Animal",
+    "Globus Pallidus",
+    "Haplorhini",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Parkinson Disease",
+    "Stochastic Processes",
+    "Subthalamic Nucleus",
+    "Synaptic Transmission"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "35020351",
+  "title": "Development of <sup>11</sup>C-Labeled ASEM Analogues for the Detection of Neuronal Nicotinic Acetylcholine Receptors (α7-nAChR).",
+  "abstract": "The homo-pentameric alpha 7 receptor is one of the major types of neuronal nicotinic acetylcholine receptors (α7-nAChRs) related to cognition, memory formation, and attention processing. The mapping of α7-nAChRs by PET pulls a lot of attention to realize the mechanism and development of CNS diseases such as AD, PD, and schizophrenia. Several PET radioligands have been explored for the detection of the α7-nAChR. <sup>18</sup>F-ASEM is the most functional for <i>in vivo</i> quantification of α7-nAChRs in the human brain. The first aim of this study was to initially use results from in silico and machine learning techniques to prescreen and predict the binding energy and other properties of ASEM analogues and to interpret these properties in terms of atomic structures using <sup>18</sup>F-ASEM as a lead structure, and second, to label some selected candidates with carbon-11/hydrogen-3 (<sup>11</sup>C/<sup>3</sup>H) and to evaluate the binding properties <i>in vitro</i> and <i>in vivo</i> using the labeled candidates. In silico predictions are obtained from perturbation free-energy calculations preceded by molecular docking, molecular dynamics, and metadynamics simulations. Machine learning techniques have been applied for the BBB and P-gp-binding properties. Six analogues of ASEM were labeled with <sup>11</sup>C, and three of them were additionally labeled with <sup>3</sup>H. Binding properties were further evaluated using autoradiography (ARG) and PET measurements in non-human primates (NHPs). Radiometabolites were measured in NHP plasma. All six compounds were successfully synthesized. Evaluation with ARG showed that <sup>11</sup>C-Kln83 was preferably binding to the α7-nAChR. Competition studies showed that 80% of the total binding was displaced. Further ARG studies using <sup>3</sup>H-KIn-83 replicated the preliminary results. In the NHP PET study, the distribution pattern of <sup>11</sup>C-KIn-83 was similar to other α7 nAChR PET tracers. The brain uptake was relatively low and increased by the administration of tariquidar, indicating a substrate of P-gp. The ASEM blocking study showed that <sup>11</sup>C-KIn-83 specifically binds to α7 nAChRs. Preliminary <i>in vitro</i> evaluation of KIn-83 by ARG with both <sup>11</sup>C and <sup>3</sup>H and <i>in vivo</i> evaluation in NHP showed favorable properties for selectively imaging α7-nAChRs, despite a relatively low brain uptake.",
+  "authors": [
+    "Nag Sangram",
+    "Miranda-Azpiazu Patricia",
+    "Jia Zhisheng",
+    "Datta Prodip",
+    "Arakawa Ryosuke",
+    "Moein Mohammad Mahdi",
+    "Yang Zhou",
+    "Tu Yaoquan",
+    "Lemoine Laetitia",
+    "Ågren Hans",
+    "Nordberg Agneta",
+    "Långström Bengt",
+    "Halldin Christer"
+  ],
+  "journal": "ACS chemical neuroscience",
+  "year": "2022",
+  "doi": "10.1021/acschemneuro.1c00730",
+  "mesh": [
+    "Animals",
+    "Azabicyclo Compounds",
+    "Cyclic S-Oxides",
+    "Molecular Docking Simulation",
+    "Positron-Emission Tomography",
+    "Receptors, Nicotinic",
+    "alpha7 Nicotinic Acetylcholine Receptor"
+  ]
+}

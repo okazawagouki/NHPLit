@@ -1,0 +1,27 @@
+{
+  "pmid": "20861375",
+  "title": "Separable codes for attention and luminance contrast in the primary visual cortex.",
+  "abstract": "The visual system encodes the features of visual stimuli as well as their behavioral relevance. Stimuli with a high luminance contrast evoke more activity in the visual cortex than stimuli with a low contrast. At the same time, attended stimuli evoke more activity than nonattended stimuli. There is a debate about how visual features and attention jointly determine neuronal activity in the visual cortex. Some studies suggested that attention increases apparent contrast (Reynolds et al., 2000), others that attention amplifies responses by a constant factor (Williford and Maunsell, 2006), and yet others that attention and contrast have largely additive effects (Buracas and Boynton, 2007; Thiele et al., 2009). The influence of attention on contrast sensitivity differs between neurons, raising the possibility that attention and contrast could be coded conjointly in a population of neurons. Here we investigate this possibility by recording neuronal activity at multiple sites in the primary visual cortex of macaque monkeys using multielectrode recording techniques and support vector machines to decode attended stimuli as well as stimulus contrast. We find that many, but not all, V1 neurons are influenced by attention and that the effects of attention and contrast are additive on average. Stimulus contrast can be decoded from neuronal responses not strongly modulated by attention, whereas the attended stimulus can be decoded as the difference in activity of cells that are influenced by attention and cells that are not. The success of the approach suggests that visual attention and stimulus contrast are represented by largely separable codes.",
+  "authors": [
+    "Pooresmaeili Arezoo",
+    "Poort Jasper",
+    "Thiele Alexander",
+    "Roelfsema Pieter R"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2010",
+  "doi": "10.1523/JNEUROSCI.1388-10.2010",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Contrast Sensitivity",
+    "Electrodes, Implanted",
+    "Electrophysiology",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

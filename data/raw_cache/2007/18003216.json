@@ -1,0 +1,31 @@
+{
+  "pmid": "18003216",
+  "title": "Including planning activity in feature space distributes activation over a broader neuron population.",
+  "abstract": "In neuroprosthetic systems, decoding based on a sparse population of task-related neurons is impractical because micro-electrode arrays often drift gradually in the cortex. Since the neuronal population being recorded from is dynamic, it is favorable to have a larger number of neurons containing information relevant to movement decoding and to decrease the relative importance of individual neurons. We have shown that a feature space comprised of neural firing rates from planning as well as movement periods exists in a broader distribution of neurons, as compared to a feature space that is derived from the movement period alone. For this study, spike train data from 297 neurons located in M1 and PM areas was analyzed to validate the hypothesis. The data was from a rhesus monkey performing reach to grasp task with measured wrist supination/pronation. Artificial neural networks were used to model encoding of wrist angle, and a sensitivity analysis was performed to attribute the relative importance of the input neurons. A classifier trained on only the least important neurons, as determined by their relative contribution to the decoded variable, had an average 20% better decoding accuracy when the new method of feature selection was used. This indicates that there is valuable information content within the distributed neuronal population.",
+  "authors": [
+    "Singhal Girish",
+    "Acharya Soumyadipta",
+    "Davidovics Natan",
+    "He Jiping",
+    "Thakor Nitish"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Computer Simulation",
+    "Electroencephalography",
+    "Evoked Potentials, Motor",
+    "Intention",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Motor Skills",
+    "Nerve Net",
+    "Pattern Recognition, Automated",
+    "Task Performance and Analysis",
+    "User-Computer Interface"
+  ]
+}

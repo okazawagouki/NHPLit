@@ -1,0 +1,25 @@
+{
+  "pmid": "24954050",
+  "title": "Dynamics of neural population responses in prefrontal cortex indicate changes of mind on single trials.",
+  "abstract": "Decision making is a complex process in which different sources of information are combined into a decision variable (DV) that guides action [1, 2]. Neurophysiological studies have typically sought insight into the dynamics of the decision-making process and its neural mechanisms through statistical analysis of large numbers of trials from sequentially recorded single neurons or small groups of neurons [3-6]. However, detecting and analyzing the DV on individual trials has been challenging [7]. Here we show that by recording simultaneously from hundreds of units in prearcuate gyrus of macaque monkeys performing a direction discrimination task, we can predict the monkey's choices with high accuracy and decode DV dynamically as the decision unfolds on individual trials. This advance enabled us to study changes of mind (CoMs) that occasionally happen before the final commitment to a decision [8-10]. On individual trials, the decoded DV varied significantly over time and occasionally changed its sign, identifying a potential CoM. Interrogating the system by random stopping of the decision-making process during the delay period after stimulus presentation confirmed the validity of identified CoMs. Importantly, the properties of the candidate CoMs also conformed to expectations based on prior theoretical and behavioral studies [8]: they were more likely to go from an incorrect to a correct choice, they were more likely for weak and intermediate stimuli than for strong stimuli, and they were more likely earlier in the trial. We suggest that simultaneous recording of large neural populations provides a good estimate of DV and explains idiosyncratic aspects of the decision-making process that were inaccessible before.",
+  "authors": [
+    "Kiani Roozbeh",
+    "Cueva Christopher J",
+    "Reppas John B",
+    "Newsome William T"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2014",
+  "doi": "10.1016/j.cub.2014.05.049",
+  "mesh": [
+    "Animals",
+    "Choice Behavior",
+    "Decision Making",
+    "Humans",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Prefrontal Cortex"
+  ]
+}

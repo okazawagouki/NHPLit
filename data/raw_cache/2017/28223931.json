@@ -1,0 +1,14 @@
+{
+  "pmid": "28223931",
+  "title": "A Computational Model for Spatial Navigation Based on Reference Frames in the Hippocampus, Retrosplenial Cortex, and Posterior Parietal Cortex.",
+  "abstract": "Behavioral studies for humans, monkeys, and rats have shown that, while traversing an environment, these mammals tend to use different frames of reference and frequently switch between them. These frames represent allocentric, egocentric, or route-centric views of the environment. However, combinations of either of them are often deployed. Neurophysiological studies on rats have indicated that the hippocampus, the retrosplenial cortex, and the posterior parietal cortex contribute to the formation of these frames and mediate the transformation between those. In this paper, we construct a computational model of the posterior parietal cortex and the retrosplenial cortex for spatial navigation. We demonstrate how the transformation of reference frames could be realized in the brain and suggest how different brain areas might use these reference frames to form navigational strategies and predict under what conditions an animal might use a specific type of reference frame. Our simulated navigation experiments demonstrate that the model's results closely resemble behavioral findings in humans and rats. These results suggest that navigation strategies may depend on the animal's reliance in a particular reference frame and shows how low confidence in a reference frame can lead to fluid adaptation and deployment of alternative navigation strategies. Because of its flexibility, our biologically inspired navigation system may be applied to autonomous robots.",
+  "authors": [
+    "Oess Timo",
+    "Krichmar Jeffrey L",
+    "Röhrbein Florian"
+  ],
+  "journal": "Frontiers in neurorobotics",
+  "year": "2017",
+  "doi": "10.3389/fnbot.2017.00004",
+  "mesh": []
+}

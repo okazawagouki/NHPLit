@@ -1,0 +1,26 @@
+{
+  "pmid": "28235566",
+  "title": "Tests of cortical parcellation based on white matter connectivity using diffusion tensor imaging.",
+  "abstract": "The cerebral cortex is conventionally divided into a number of domains based on cytoarchitectural features. Diffusion tensor imaging (DTI) enables noninvasive parcellation of the cortex based on white matter connectivity patterns. However, the correspondence between DTI-connectivity-based and cytoarchitectural parcellation has not been systematically established. In this study, we compared histological parcellation of New World monkey neocortex to DTI- connectivity-based classification and clustering in the same brains. First, we used supervised classification to parcellate parieto-frontal cortex based on DTI tractograms and the cytoarchitectural prior (obtained using Nissl staining). We performed both within and across sample classification, showing reasonable classification performance in both conditions. Second, we used unsupervised clustering to parcellate the cortex and compared the clusters to the cytoarchitectonic standard. We then explored the similarities and differences with several post-hoc analyses, highlighting underlying principles that drive the DTI-connectivity-based parcellation. The differences in parcellation between DTI-connectivity and Nissl histology probably represent both DTI's bias toward easily-tracked bundles and true differences between cytoarchitectural and connectivity defined domains. DTI tractograms appear to cluster more according to functional networks, rather than mapping directly onto cytoarchitectonic domains. Our results show that caution should be used when DTI-tractography classification, based on data from another brain, is used as a surrogate for cytoarchitectural parcellation.",
+  "authors": [
+    "Gao Yurui",
+    "Schilling Kurt G",
+    "Stepniewska Iwona",
+    "Plassard Andrew J",
+    "Choe Ann S",
+    "Li Xia",
+    "Landman Bennett A",
+    "Anderson Adam W"
+  ],
+  "journal": "NeuroImage",
+  "year": "2018",
+  "doi": "10.1016/j.neuroimage.2017.02.048",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Diffusion Tensor Imaging",
+    "Neuroimaging",
+    "Saimiri",
+    "White Matter"
+  ]
+}

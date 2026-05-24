@@ -1,0 +1,23 @@
+{
+  "pmid": "19896541",
+  "title": "Identifying true cortical interactions in MEG using the nulling beamformer.",
+  "abstract": "Modeling functional brain interaction networks using non-invasive EEG and MEG data is more challenging than using intracranial recording data. This is because most interaction measures are not robust to the cross-talk (interference) between cortical regions, which may arise due to the limited spatial resolution of EEG/MEG inverse procedures. In this article, we describe a modified beamforming approach to accurately measure cortical interactions from EEG/MEG data, designed to suppress cross-talk between cortical regions. We estimate interaction measures from the output of the modified beamformer and test for statistical significance using permutation tests. Since the underlying neuronal sources and their interactions are unknown in real MEG data, we demonstrate the performance of the proposed beamforming method in a novel simulation scheme, where intracranial recordings from a macaque monkey are used as neural sources to simulate realistic MEG signals. The advantage of this approach is that local field potentials are more realistic representations of true neuronal sources than simulation models and therefore are more suitable to indicate the performance of our nulling beamforming method.",
+  "authors": [
+    "Hui Hua Brian",
+    "Pantazis Dimitrios",
+    "Bressler Steven L",
+    "Leahy Richard M"
+  ],
+  "journal": "NeuroImage",
+  "year": "2010",
+  "doi": "10.1016/j.neuroimage.2009.10.078",
+  "mesh": [
+    "Algorithms",
+    "Brain Mapping",
+    "Computer Simulation",
+    "Humans",
+    "Magnetoencephalography",
+    "Models, Neurological",
+    "Nerve Net"
+  ]
+}

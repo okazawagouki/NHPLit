@@ -1,0 +1,31 @@
+{
+  "pmid": "20824057",
+  "title": "A pipeline to determine RT-QPCR control genes for evolutionary studies: application to primate gene expression across multiple tissues.",
+  "abstract": "Because many species-specific phenotypic differences are assumed to be caused by differential regulation of gene expression, many recent investigations have focused on measuring transcript abundance. Despite the availability of high-throughput platforms, quantitative real-time polymerase chain reaction (RT-QPCR) is often the method of choice because of its low cost and wider dynamic range. However, the accuracy of this technique heavily relies on the use of multiple valid control genes for normalization. We created a pipeline for choosing genes potentially useful as RT-QPCR control genes for measuring expression between human and chimpanzee samples across multiple tissues, using published microarrays and a measure of tissue-specificity. We identified 13 genes from the pipeline and from commonly used control genes: ACTB, USP49, ARGHGEF2, GSK3A, TBP, SDHA, EIF2B2, GPDH, YWHAZ, HPTR1, RPL13A, HMBS, and EEF2. We then tested these candidate genes and validated their expression stability across species. We established the rank order of the most preferable set of genes for single and combined tissues. Our results suggest that for at least three tissues (cerebral cortex, liver, and skeletal muscle), EIF2B2, EEF2, HMBS, and SDHA are useful genes for normalizing human and chimpanzee expression using RT-QPCR. Interestingly, other commonly used control genes, including TBP, GAPDH, and, especially ACTB do not perform as well. This pipeline could be easily adapted to other species for which expression data exist, providing taxonomically appropriate control genes for comparisons of gene expression among species.",
+  "authors": [
+    "Fedrigo Olivier",
+    "Warner Lisa R",
+    "Pfefferle Adam D",
+    "Babbitt Courtney C",
+    "Cruz-Gordillo Peter",
+    "Wray Gregory A"
+  ],
+  "journal": "PloS one",
+  "year": "2010",
+  "doi": "10.1371/journal.pone.0012545",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Evolution, Molecular",
+    "Gene Expression",
+    "Humans",
+    "Liver",
+    "Muscle, Skeletal",
+    "Organ Specificity",
+    "Pan troglodytes",
+    "Polymerase Chain Reaction",
+    "Primates",
+    "Reference Standards",
+    "Species Specificity"
+  ]
+}

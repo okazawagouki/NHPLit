@@ -1,0 +1,23 @@
+{
+  "pmid": "12612022",
+  "title": "Prediction of muscle activity by populations of sequentially recorded primary motor cortex neurons.",
+  "abstract": "We have adopted an analysis that produces a post hoc prediction of the time course of electromyogram (EMG) activity from the discharge of ensembles of neurons recorded sequentially from the primary motor cortex (M1) of a monkey. Over several recording sessions, we collected data from 50 M1 neurons and several distal forelimb muscles during a stereotyped precision grip task. Ensemble averages were constructed from 5 to 10 trials for each neuron and EMG signal. We used multiple linear regression on randomly chosen subsets of these neurons to find the best fit between the neuronal and EMG data. The fixed delay between neuronal and EMG signals that yielded the largest coefficient of determination (R(2)) between predicted and actual EMG was 50 ms. R(2) averaged 0.83 for ensembles composed of 15 neurons. If, instead, each neuronal signal was delayed by the time of its peak cross-correlation with the EMG signal, R(2) increased to 0.88. Using all 50 neurons, R(2) under these conditions averaged nearly 0.97. A similar analysis was conducted with signals recorded during both a power grip and a precision grip task. Quality of the fit dropped dramatically when parameters from the precision grip for a given set of neurons were used to fit data recorded during the power grip. However, when a single set of regression parameters was used to fit a combination of the two tasks, the quality of the fits decreased by <10% from that of a single task.",
+  "authors": [
+    "Morrow M M",
+    "Miller L E"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Electromyography",
+    "Macaca nemestrina",
+    "Motor Cortex",
+    "Muscle, Skeletal",
+    "Neurons",
+    "Predictive Value of Tests",
+    "Reaction Time"
+  ]
+}

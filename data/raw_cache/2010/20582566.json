@@ -1,0 +1,23 @@
+{
+  "pmid": "20582566",
+  "title": "Estimating the directed information to infer causal relationships in ensemble neural spike train recordings.",
+  "abstract": "Advances in recording technologies have given neuroscience researchers access to large amounts of data, in particular, simultaneous, individual recordings of large groups of neurons in different parts of the brain. A variety of quantitative techniques have been utilized to analyze the spiking activities of the neurons to elucidate the functional connectivity of the recorded neurons. In the past, researchers have used correlative measures. More recently, to better capture the dynamic, complex relationships present in the data, neuroscientists have employed causal measures-most of which are variants of Granger causality-with limited success. This paper motivates the directed information, an information and control theoretic concept, as a modality-independent embodiment of Granger's original notion of causality. Key properties include: (a) it is nonzero if and only if one process causally influences another, and (b) its specific value can be interpreted as the strength of a causal relationship. We next describe how the causally conditioned directed information between two processes given knowledge of others provides a network version of causality: it is nonzero if and only if, in the presence of the present and past of other processes, one process causally influences another. This notion is shown to be able to differentiate between true direct causal influences, common inputs, and cascade effects in more two processes. We next describe a procedure to estimate the directed information on neural spike trains using point process generalized linear models, maximum likelihood estimation and information-theoretic model order selection. We demonstrate that on a simulated network of neurons, it (a) correctly identifies all pairwise causal relationships and (b) correctly identifies network causal relationships. This procedure is then used to analyze ensemble spike train recordings in primary motor cortex of an awake monkey while performing target reaching tasks, uncovering causal relationships whose directionality are consistent with predictions made from the wave propagation of simultaneously recorded local field potentials.",
+  "authors": [
+    "Quinn Christopher J",
+    "Coleman Todd P",
+    "Kiyavash Negar",
+    "Hatsopoulos Nicholas G"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2011",
+  "doi": "10.1007/s10827-010-0247-2",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Causality",
+    "Information Theory",
+    "Models, Neurological",
+    "Neurons",
+    "Nonlinear Dynamics"
+  ]
+}

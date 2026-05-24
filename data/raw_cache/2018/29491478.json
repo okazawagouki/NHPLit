@@ -1,0 +1,27 @@
+{
+  "pmid": "29491478",
+  "title": "AxonDeepSeg: automatic axon and myelin segmentation from microscopy data using convolutional neural networks.",
+  "abstract": "Segmentation of axon and myelin from microscopy images of the nervous system provides useful quantitative information about the tissue microstructure, such as axon density and myelin thickness. This could be used for instance to document cell morphometry across species, or to validate novel non-invasive quantitative magnetic resonance imaging techniques. Most currently-available segmentation algorithms are based on standard image processing and usually require multiple processing steps and/or parameter tuning by the user to adapt to different modalities. Moreover, only a few methods are publicly available. We introduce AxonDeepSeg, an open-source software that performs axon and myelin segmentation of microscopic images using deep learning. AxonDeepSeg features: (i) a convolutional neural network architecture; (ii) an easy training procedure to generate new models based on manually-labelled data and (iii) two ready-to-use models trained from scanning electron microscopy (SEM) and transmission electron microscopy (TEM). Results show high pixel-wise accuracy across various species: 85% on rat SEM, 81% on human SEM, 95% on mice TEM and 84% on macaque TEM. Segmentation of a full rat spinal cord slice is computed and morphological metrics are extracted and compared against the literature. AxonDeepSeg is freely available at https://github.com/neuropoly/axondeepseg .",
+  "authors": [
+    "Zaimi Aldo",
+    "Wabartha Maxime",
+    "Herman Victor",
+    "Antonsanti Pierre-Louis",
+    "Perone Christian S",
+    "Cohen-Adad Julien"
+  ],
+  "journal": "Scientific reports",
+  "year": "2018",
+  "doi": "10.1038/s41598-018-22181-4",
+  "mesh": [
+    "Animals",
+    "Automation",
+    "Axons",
+    "Image Processing, Computer-Assisted",
+    "Mice",
+    "Microscopy",
+    "Myelin Sheath",
+    "Neural Networks, Computer",
+    "Software"
+  ]
+}

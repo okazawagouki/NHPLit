@@ -1,0 +1,26 @@
+{
+  "pmid": "21670481",
+  "title": "Efficient feedforward categorization of objects and human postures with address-event image sensors.",
+  "abstract": "This paper proposes an algorithm for feedforward categorization of objects and, in particular, human postures in real-time video sequences from address-event temporal-difference image sensors. The system employs an innovative combination of event based hardware and bio-inspired software architecture. An event-based temporal difference image sensor is used to provide input video sequences, while a software module extracts size and position invariant line features inspired by models of the primate visual cortex. The detected line features are organized into vectorial segments. After feature extraction, a modified line segment Hausdorff distance classifier combined with on-the-fly cluster-based size and position invariant categorization. The system can achieve about 90 percent average success rate in the categorization of human postures, while using only a small number of training samples. Compared to state-of-the-art bio-inspired categorization methods, the proposed algorithm requires less hardware resource, reduces the computation complexity by at least five times, and is an ideal candidate for hardware implementation with event-based circuits.",
+  "authors": [
+    "Chen Shoushun",
+    "Akselrod Polina",
+    "Zhao Bo",
+    "Carrasco Jose Antonio Perez",
+    "Linares-Barranco Bernabe",
+    "Culurciello Eugenio"
+  ],
+  "journal": "IEEE transactions on pattern analysis and machine intelligence",
+  "year": "2012",
+  "doi": "10.1109/TPAMI.2011.120",
+  "mesh": [
+    "Algorithms",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Models, Biological",
+    "Pattern Recognition, Automated",
+    "Posture",
+    "Video Recording",
+    "Visual Cortex"
+  ]
+}

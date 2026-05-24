@@ -1,0 +1,26 @@
+{
+  "pmid": "27098699",
+  "title": "Rapid Adaptation Induces Persistent Biases in Population Codes for Visual Motion.",
+  "abstract": "UNLABELLED: Each visual experience changes the neural response to subsequent stimuli. If the brain is unable to incorporate these encoding changes, the decoding, or perception, of subsequent stimuli is biased. Although the phenomenon of adaptation pervades the nervous system, its effects have been studied mainly in isolation, based on neuronal encoding changes induced by an isolated, prolonged stimulus. To understand how adaptation-induced biases arise and persist under continuous, naturalistic stimulation, we simultaneously recorded the responses of up to 61 neurons in the marmoset (Callithrix jacchus) middle temporal area to a sequence of directions that changed every 500 ms. We found that direction-specific adaptation following only 0.5 s of stimulation strongly affected encoding for up to 2 s by reducing both the gain and the spike count correlations between pairs of neurons with preferred directions close to the adapting direction. In addition, smaller changes in bandwidth and preferred direction were observed in some animals. Decoding individual trials of adaptation-affected activity in simultaneously recorded neurons predicted repulsive biases that are consistent with the direction aftereffect. Surprisingly, removing spike count correlations by trial shuffling did not impact decoding performance or bias. When adaptation had the largest effect on encoding, the decoder made the most errors. This suggests that neural and perceptual repulsion is not a mechanism to enhance perceptual performance but is instead a necessary consequence of optimizing neural encoding for the identification of a wide range of stimulus properties in diverse temporal contexts. SIGNIFICANCE STATEMENT: Although perception depends upon decoding the pattern of activity across a neuronal population, the encoding properties of individual neurons are unreliable: a single neuron's response to repetitions of the same stimulus is variable, and depends on both its spatial and temporal context. In this manuscript, we describe the complete cascade of adaptation-induced effects in sensory encoding and show how they predict population decoding errors consistent with perceptual biases. We measure the time course of adaptation-induced changes to the response properties of neurons in isolation, and to the correlation structure across pairs of simultaneously recorded neurons. These results provide novel insight into how and for how long adaptation affects the neural code, particularly during continuous, naturalistic vision.",
+  "authors": [
+    "Zavitz Elizabeth",
+    "Yu Hsin-Hao",
+    "Rowe Elise G",
+    "Rosa Marcello G P",
+    "Price Nicholas S C"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2016",
+  "doi": "10.1523/JNEUROSCI.4563-15.2016",
+  "mesh": [
+    "Action Potentials",
+    "Adaptation, Physiological",
+    "Animals",
+    "Callithrix",
+    "Female",
+    "Male",
+    "Motion Perception",
+    "Photic Stimulation",
+    "Reaction Time"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "16200750",
+  "title": "Wireless multichannel biopotential recording using an integrated FM telemetry circuit.",
+  "abstract": "This paper presents a four-channel telemetric microsystem featuring on-chip alternating current amplification, direct current baseline stabilization, clock generation, time-division multiplexing, and wireless frequency-modulation transmission of microvolt- and millivolt-range input biopotentials in the very high frequency band of 94-98 MHz over a distance of approximately 0.5 m. It consists of a 4.84-mm2 integrated circuit, fabricated using a 1.5-microm double-poly double-metal n-well standard complementary metal-oxide semiconductor process, interfaced with only three off-chip components on a custom-designed printed-circuit board that measures 1.7 x 1.2 x 0.16 cm3, and weighs 1.1 g including two miniature 1.5-V batteries. We characterize the microsystem performance, operating in a truly wireless fashion in single-channel and multichannel operation modes, via extensive benchtop and in vitro tests in saline utilizing two different micromachined neural recording microelectrodes, while dissipating approximately 2.2 mW from a 3-V power supply. Moreover, we demonstrate successful wireless in vivo recording of spontaneous neural activity at 96.2 MHz from the auditory cortex of an awake marmoset monkey at several transmission distances ranging from 10 to 50 cm with signal-to-noise ratios in the range of 8.4-9.5 dB.",
+  "authors": [
+    "Mohseni Pedram",
+    "Najafi Khalil",
+    "Eliades Steven J",
+    "Wang Xiaoqin"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Auditory Cortex",
+    "Callithrix",
+    "Diagnosis, Computer-Assisted",
+    "Electroencephalography",
+    "Equipment Design",
+    "Equipment Failure Analysis",
+    "Evoked Potentials, Auditory",
+    "Miniaturization",
+    "Radio Waves",
+    "Signal Processing, Computer-Assisted",
+    "Systems Integration",
+    "Telemetry"
+  ]
+}

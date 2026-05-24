@@ -1,0 +1,21 @@
+{
+  "pmid": "41720182",
+  "title": "Layer-specific electric fields and effective conductivity in nonhuman primates during transcranial electrical stimulation.",
+  "abstract": "BACKGROUND: Transcranial electrical stimulation (tES) is widely used to modulate brain activity in a safe and non-invasive manner. tES generates weak electric fields in cortical tissues, which can modulate membrane potential and alter the timing of neural spikes. These electric fields interact with cortical circuits in a layer-specific manner; however, the distribution of tES-generated electric fields across cortical layers remains poorly understood. Because cortical layers differ in cytoarchitecture, electric fields are likely not uniform and may differ across layers. However, direct in vivo evidence of layer-specific TES electric fields is still lacking. METHODS: We conducted laminar recordings in the visual cortex of two nonhuman primates (NHPs) during low-frequency transcranial alternating current stimulation to capture layer-specific electric fields. To estimate layer-specific effective electrical conductivity, we compared these in vivo measurements with electric fields from finite element method (FEM) simulations. We first constructed a simplified sandwich model matching the dimensions of the laminar setup. Building on this, we then created a realistic multi-layer FEM head model of the NHP and optimized the effective conductivity of individual cortical layers by minimizing the error between measured and simulated electric fields. RESULTS: Repeated laminar recordings showed inhomogeneous electric fields across cortical layers, with a peak in electric field strength in layers 2/3 followed by a gradual decrease toward the white matter in both NHPs. Accordingly, optimization produced non-uniform conductivity values across layers, with the lowest conductivity in layers 2/3 and relatively higher values in white matter compared to commonly used reference values. CONCLUSION: Our findings provide direct in vivo evidence for layer-specific electric fields and effective electrical conductivity at the mesoscale in the primate cortex, emphasizing the importance of considering laminar cortical organization. This work advances the fundamental understanding of how externally applied currents interact with the brain and provides a basis for more accurate computational models and clinically relevant neuromodulation strategies.",
+  "authors": [
+    "Lee Sangjun",
+    "Falchier Arnaud",
+    "Opitz Alexander"
+  ],
+  "journal": "Brain stimulation",
+  "year": "2026",
+  "doi": "10.1016/j.brs.2026.103060",
+  "mesh": [
+    "Animals",
+    "Transcranial Direct Current Stimulation",
+    "Electric Conductivity",
+    "Visual Cortex",
+    "Male",
+    "Macaca mulatta"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "33108775",
+  "title": "Multi-source domain adaptation for decoder calibration of intracortical brain-machine interface.",
+  "abstract": "<i>Objective.</i>For nonstationarity of neural recordings, daily retraining is required in the decoder calibration of intracortical brain-machine interfaces (iBMIs). Domain adaptation (DA) has started to be applied in iBMIs to solve the problem of daily retraining by taking advantage of historical data. However, previous DA studies used only a single source domain, which might lead to performance instability. In this study, we proposed a multi-source DA algorithm, by fully utilizing the historical data, to achieve a better and more robust decoding performance while reducing the decoder calibration time.<i>Approach.</i>The neural signals were recorded from two rhesus macaques using intracortical electrodes to decode the reaching and grasping movements. A principal component analysis (PCA)-based multi-source domain adaptation (PMDA) algorithm was proposed to apply the feature transfer to diminish the disparities between the target domain and each source domain. Moreover, the multiple weighted sub-classifiers based on multi-source domain data and small current sample set were constructed to accomplish the decoding.<i>Main results.</i>Our algorithm was able to make use of the multi-source domain data and achieve better and more robust decoding performance compared with other methods. Only a small current sample set was needed by our algorithm in order for the decoder calibration time to be effectively reduced.<i>Significance.</i>(1) The idea of the multi-source DA was introduced into the iBMIs to solve the problem of time consumption in the daily decoder retraining. (2) Instead of using only single-source domain data in the previous study, our algorithm made use of multi-day historical data, resulting in better and more robust decoding performance. (3) Our algorithm could be accomplished with only a small current sample set, and it can effectively reduce the decoder calibration time, which is important for further clinical applications.",
+  "authors": [
+    "Li Wei",
+    "Ji Shaohua",
+    "Chen Xi",
+    "Kuai Bo",
+    "He Jiping",
+    "Zhang Peng",
+    "Li Qiang"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2020",
+  "doi": "10.1088/1741-2552/abc528",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Calibration",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Movement"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "17329627",
+  "title": "Mixture of trajectory models for neural decoding of goal-directed movements.",
+  "abstract": "Probabilistic decoding techniques have been used successfully to infer time-evolving physical state, such as arm trajectory or the path of a foraging rat, from neural data. A vital element of such decoders is the trajectory model, expressing knowledge about the statistical regularities of the movements. Unfortunately, trajectory models that both 1) accurately describe the movement statistics and 2) admit decoders with relatively low computational demands can be hard to construct. Simple models are computationally inexpensive, but often inaccurate. More complex models may gain accuracy, but at the expense of higher computational cost, hindering their use for real-time decoding. Here, we present a new general approach to defining trajectory models that simultaneously meets both requirements. The core idea is to combine simple trajectory models, each accurate within a limited regime of movement, in a probabilistic mixture of trajectory models (MTM). We demonstrate the utility of the approach by using an MTM decoder to infer goal-directed reaching movements to multiple discrete goals from multi-electrode neural data recorded in monkey motor and premotor cortex. Compared with decoders using simpler trajectory models, the MTM decoder reduced the decoding error by 38 (48) percent in two monkeys using 98 (99) units, without a necessary increase in running time. When available, prior information about the identity of the upcoming reach goal can be incorporated in a principled way, further reducing the decoding error by 20 (11) percent. Taken together, these advances should allow prosthetic cursors or limbs to be moved more accurately toward intended reach goals.",
+  "authors": [
+    "Yu Byron M",
+    "Kemere Caleb",
+    "Santhanam Gopal",
+    "Afshar Afsheen",
+    "Ryu Stephen I",
+    "Meng Teresa H",
+    "Sahani Maneesh",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Computer Simulation",
+    "Goals",
+    "Haplorhini",
+    "Humans",
+    "Models, Neurological",
+    "Movement",
+    "Neurons",
+    "Reaction Time"
+  ]
+}

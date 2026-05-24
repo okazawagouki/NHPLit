@@ -1,0 +1,23 @@
+{
+  "pmid": "8590824",
+  "title": "Computational methods for reconstructing and unfolding the cerebral cortex.",
+  "abstract": "We describe computational methods for constructing three-dimensional models and unfolded, two-dimensional maps of the cerebral cortex. These methods consist of four procedures, including (1) sampling of a surface within the cortex, (2) reconstruction of a three-dimensional model of that surface, (3) unfolding of the surface to generate a two-dimensional cortical map, and (4) visualization of data on the model and the map. These methods produce structurally accurate representations of the cortex and have practical advantages over previous manual and automated approaches for flattening the cortex. We illustrate the application of these methods to neuroanatomical data obtained from histological sections of cerebral cortex in the macaque monkey. The approach should be equally useful for structural and functional studies in other species, including humans.",
+  "authors": [
+    "Carman G J",
+    "Drury H A",
+    "Van Essen D C"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "1995",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Image Processing, Computer-Assisted",
+    "Macaca",
+    "Models, Anatomic",
+    "Statistics as Topic"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "25422454",
+  "title": "Brain-machine interface for eye movements.",
+  "abstract": "A number of studies in tetraplegic humans and healthy nonhuman primates (NHPs) have shown that neuronal activity from reach-related cortical areas can be used to predict reach intentions using brain-machine interfaces (BMIs) and therefore assist tetraplegic patients by controlling external devices (e.g., robotic limbs and computer cursors). However, to our knowledge, there have been no studies that have applied BMIs to eye movement areas to decode intended eye movements. In this study, we recorded the activity from populations of neurons from the lateral intraparietal area (LIP), a cortical node in the NHP saccade system. Eye movement plans were predicted in real time using Bayesian inference from small ensembles of LIP neurons without the animal making an eye movement. Learning, defined as an increase in the prediction accuracy, occurred at the level of neuronal ensembles, particularly for difficult predictions. Population learning had two components: an update of the parameters of the BMI based on its history and a change in the responses of individual neurons. These results provide strong evidence that the responses of neuronal ensembles can be shaped with respect to a cost function, here the prediction accuracy of the BMI. Furthermore, eye movement plans could be decoded without the animals emitting any actual eye movements and could be used to control the position of a cursor on a computer screen. These findings show that BMIs for eye movements are promising aids for assisting paralyzed patients.",
+  "authors": [
+    "Graf Arnulf B A",
+    "Andersen Richard A"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2014",
+  "doi": "10.1073/pnas.1419977111",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Behavior",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Electrodes",
+    "Eye Movements",
+    "Haplorhini",
+    "Humans",
+    "Learning",
+    "Male",
+    "Neurodegenerative Diseases",
+    "Neurons",
+    "Paralysis",
+    "Parietal Lobe",
+    "Reproducibility of Results",
+    "Saccades",
+    "Time Factors"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "30637327",
+  "title": "Neuronal Correlations in MT and MST Impair Population Decoding of Opposite Directions of Random Dot Motion.",
+  "abstract": "The study of neuronal responses to random-dot motion patterns has provided some of the most valuable insights into how the activity of neurons is related to perception. In the opposite directions of motion paradigm, the motion signal strength is decreased by manipulating the coherence of random dot patterns to examine how well the activity of single neurons represents the direction of motion. To extend this paradigm to populations of neurons, studies have used modelling based on data from pairs of neurons, but several important questions require further investigation with larger neuronal datasets. We recorded neuronal populations in the middle temporal (MT) and medial superior temporal (MST) areas of anaesthetized marmosets with electrode arrays, while varying the coherence of random dot patterns in two opposite directions of motion (left and right). Using the spike rates of simultaneously recorded neurons, we decoded the direction of motion at each level of coherence with linear classifiers. We found that the presence of correlations had a detrimental effect to decoding performance, but that learning the correlation structure produced better decoding performance compared to decoders that ignored the correlation structure. We also found that reducing motion coherence increased neuronal correlations, but decoders did not need to be optimized for each coherence level. Finally, we showed that decoder weights depend of left-right selectivity at 100% coherence, rather than the preferred direction. These results have implications for understanding how the information encoded by populations of neurons is affected by correlations in spiking activity.",
+  "authors": [
+    "Chaplin Tristan A",
+    "Hagan Maureen A",
+    "Allitt Benjamin J",
+    "Lui Leo L"
+  ],
+  "journal": "eNeuro",
+  "year": "2018",
+  "doi": "10.1523/ENEURO.0336-18.2018",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Callithrix",
+    "Correlation of Data",
+    "Female",
+    "Functional Laterality",
+    "Male",
+    "Motion Perception",
+    "Nerve Net",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Temporal Lobe",
+    "Visual Fields",
+    "Visual Pathways"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "40627471",
+  "title": "Intracortical Brain-Machine Interfaces With High-Performance Neural Decoding Through Efficient Transfer Meta-Learning.",
+  "abstract": "Implantable brain-machine interfaces (iBMIs) have emerged as a groundbreaking neural technology for restoring motor function and enabling direct neural communication pathways. Despite their therapeutic potential in neurological rehabilitation, the critical challenge of neural decoder calibration persists, particularly in the context of transfer learning. Traditional calibration approaches assume the availability of extensive neural recordings, which is often impractical in clinical settings due to patient fatigue and neural signal variability. Furthermore, the inherent constraints of implanted neural processors-including limited computational capacity and power consumption requirements-demand streamlined processing algorithms. To address these clinical and technical challenges, we developed DMM-WcycleGAN (Dimensionality Reduction Model-Agnostic Meta-Learning based Wasserstein Cycle Generative Adversarial Networks), a novel neural decoding framework that integrates meta-learning principles with optimal transfer learning strategies. This innovative approach enables efficient decoder calibration using minimal neural data while implementing dimensionality reduction techniques to optimize computational efficiency in implanted devices. In vivo experiments with non-human primates demonstrated DMM-WcycleGAN's superior performance in mitigating neural signal distribution shifts between historical and current recordings, achieving a 3% enhancement in neural decoding accuracy using only ten calibration trials while reducing the calibration duration by over 70%, thus significantly improving the clinical viability of iBMI systems.",
+  "authors": [
+    "Chen Xingjian",
+    "Fu Zhongzheng",
+    "Zhang Peng",
+    "Chen Xinxing",
+    "Huang Jian"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2026",
+  "doi": "10.1109/TBME.2025.3586870",
+  "mesh": [
+    "Brain-Computer Interfaces",
+    "Animals",
+    "Signal Processing, Computer-Assisted",
+    "Algorithms",
+    "Machine Learning",
+    "Macaca mulatta",
+    "Humans",
+    "Electroencephalography"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "26938468",
+  "title": "Wireless Cortical Brain-Machine Interface for Whole-Body Navigation in Primates.",
+  "abstract": "Several groups have developed brain-machine-interfaces (BMIs) that allow primates to use cortical activity to control artificial limbs. Yet, it remains unknown whether cortical ensembles could represent the kinematics of whole-body navigation and be used to operate a BMI that moves a wheelchair continuously in space. Here we show that rhesus monkeys can learn to navigate a robotic wheelchair, using their cortical activity as the main control signal. Two monkeys were chronically implanted with multichannel microelectrode arrays that allowed wireless recordings from ensembles of premotor and sensorimotor cortical neurons. Initially, while monkeys remained seated in the robotic wheelchair, passive navigation was employed to train a linear decoder to extract 2D wheelchair kinematics from cortical activity. Next, monkeys employed the wireless BMI to translate their cortical activity into the robotic wheelchair's translational and rotational velocities. Over time, monkeys improved their ability to navigate the wheelchair toward the location of a grape reward. The navigation was enacted by populations of cortical neurons tuned to whole-body displacement. During practice with the apparatus, we also noticed the presence of a cortical representation of the distance to reward location. These results demonstrate that intracranial BMIs could restore whole-body mobility to severely paralyzed patients in the future.",
+  "authors": [
+    "Rajangam Sankaranarayani",
+    "Tseng Po-He",
+    "Yin Allen",
+    "Lehew Gary",
+    "Schwarz David",
+    "Lebedev Mikhail A",
+    "Nicolelis Miguel A L"
+  ],
+  "journal": "Scientific reports",
+  "year": "2016",
+  "doi": "10.1038/srep22170",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Brain-Computer Interfaces",
+    "Humans",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Paralysis",
+    "Robotics",
+    "Wheelchairs",
+    "Wireless Technology"
+  ]
+}

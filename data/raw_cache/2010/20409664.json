@@ -1,0 +1,29 @@
+{
+  "pmid": "20409664",
+  "title": "Testing methodologies for the nonlinear analysis of causal relationships in neurovascular coupling.",
+  "abstract": "We investigated the use and implementation of a nonlinear methodology for establishing which changes in neurophysiological signals cause changes in the blood oxygenation level-dependent (BOLD) contrast measured in functional magnetic resonance imaging. Unlike previous analytical approaches, which used linear correlation to establish covariations between neural activity and BOLD, we propose a directed information-theoretic measure, the transfer entropy, which can elucidate even highly nonlinear causal relationships between neural activity and BOLD signal. In this study we investigated the practicality of such an analysis given the limited data samples that can be collected experimentally due to the low temporal resolution of BOLD signals. We implemented several algorithms for the estimation of transfer entropy and we tested their effectiveness using simulated local field potentials (LFPs) and BOLD data constructed to match the main statistical properties of real LFP and BOLD signals measured simultaneously in monkey primary visual cortex. We found that using the advanced methods of entropy estimation implemented and described here, a transfer entropy analysis of neurovascular coupling based on experimentally attainable data sets is feasible.",
+  "authors": [
+    "Lüdtke Niklas",
+    "Logothetis Nikos K",
+    "Panzeri Stefano"
+  ],
+  "journal": "Magnetic resonance imaging",
+  "year": "2010",
+  "doi": "10.1016/j.mri.2010.03.028",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Electrophysiology",
+    "False Positive Reactions",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Models, Statistical",
+    "Neurons",
+    "Oxygen",
+    "Probability",
+    "Reproducibility of Results",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

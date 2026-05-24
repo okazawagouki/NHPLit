@@ -1,0 +1,21 @@
+{
+  "pmid": "17275172",
+  "title": "Coding the presence of visual objects in a recurrent neural network of visual cortex.",
+  "abstract": "Before we can recognize a visual object, our visual system has to segregate it from its background. This requires a fast mechanism for establishing the presence and location of objects independently of their identity. Recently, border-ownership neurons were recorded in monkey visual cortex which might be involved in this task [Zhou, H., Friedmann, H., von der Heydt, R., 2000. Coding of border ownership in monkey visual cortex. J. Neurosci. 20 (17), 6594-6611]. In order to explain the basic mechanisms required for fast coding of object presence, we have developed a neural network model of visual cortex consisting of three stages. Feed-forward and lateral connections support coding of Gestalt properties, including similarity, good continuation, and convexity. Neurons of the highest area respond to the presence of an object and encode its position, invariant of its form. Feedback connections to the lowest area facilitate orientation detectors activated by contours belonging to potential objects, and thus generate the experimentally observed border-ownership property. This feedback control acts fast and significantly improves the figure-ground segregation required for the consecutive task of object recognition.",
+  "authors": [
+    "Zwickel Timm",
+    "Wachtler Thomas",
+    "Eckhorn Reinhard"
+  ],
+  "journal": "Bio Systems",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "1903542",
+  "title": "A more biologically plausible learning rule for neural networks.",
+  "abstract": "Many recent studies have used artificial neural network algorithms to model how the brain might process information. However, back-propagation learning, the method that is generally used to train these networks, is distinctly \"unbiological.\" We describe here a more biologically plausible learning rule, using reinforcement learning, which we have applied to the problem of how area 7a in the posterior parietal cortex of monkeys might represent visual space in head-centered coordinates. The network behaves similarly to networks trained by using back-propagation and to neurons recorded in area 7a. These results show that a neural network does not require back propagation to acquire biologically interesting properties.",
+  "authors": [
+    "Mazzoni P",
+    "Andersen R A",
+    "Jordan M I"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "1991",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Artificial Intelligence",
+    "Brain",
+    "Haplorhini",
+    "Learning",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Ocular Physiological Phenomena",
+    "Parietal Lobe",
+    "Posture",
+    "Reinforcement, Psychology",
+    "Retina",
+    "Vision, Ocular"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "23455722",
+  "title": "Neurons in the cingulate motor area signal context-based and outcome-based volitional selection of action.",
+  "abstract": "Volitional selection of action is subject to continuous adjustment under the influence of information obtained by monitoring behavioral consequences and by exploiting behavioral context based on prior knowledge about the environment. The rostral cingulate motor area (CMAr) is thought to be responsible for adjusting behavior by monitoring its consequences. To investigate whether the CMAr also plays a role in exploitation of behavioral context in action selection, we recorded neuronal activities from the CMAr while monkeys performed a reward-based motor selection task that required them to switch from one action to the other based on the amount of reward. We examined both the behavior of monkeys and the activity of CMA neurons quantitatively by constructing a hybrid reinforcement learning model incorporating context-based and outcome-based action values into a new action value. We found that CMAr neurons encoded the context-based action value by increasing or decreasing their firing rates gradually with the number of repetitions of the same movement (i.e., behavioral context). We also found that CMAr neurons encoded the context-based and outcome-based action values in two distinct time windows at single neuron and population levels. Our findings indicate that the CMAr is involved in behavioral adjustment of action selection by exploiting the behavioral context and not merely by monitoring reward outcome.",
+  "authors": [
+    "Iwata Jun-ichi",
+    "Shima Keisetsu",
+    "Tanji Jun",
+    "Mushiake Hajime"
+  ],
+  "journal": "Experimental brain research",
+  "year": "2013",
+  "doi": "10.1007/s00221-013-3442-3",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Brain Mapping",
+    "Haplorhini",
+    "Male",
+    "Motor Activity",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Psychomotor Performance",
+    "Reaction Time",
+    "Task Performance and Analysis",
+    "Volition"
+  ]
+}

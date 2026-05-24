@@ -1,0 +1,20 @@
+{
+  "pmid": "16677944",
+  "title": "Laminar specificity in monkey V1 using high-resolution SE-fMRI.",
+  "abstract": "The lamination of mammalian neocortex is widely used as reference for describing a wide range of anatomical and physiological data. Its value lies in the observation that in all examined species, cortical afferents, intrinsic cells and projection neurons organize themselves with respect to the laminae. The comprehension of the computations, carried out by the neocortical microcircuits, critically relies on the study of the interlaminar connectivity patterns and the intralaminar physiological processes in vivo. High-resolution functional neuroimaging, enabling the visualization of activity in individual cortical laminae or columns, may greatly contribute in such studies. Yet, the BOLD effect, as measured with the commonly used GE-EPI, contains contributions from both macroscopic venous blood vessels and capillaries. The low density of the cortical veins limits the effective spatial specificity of the fMRI signal and yields maps that are weighted toward the macrovasculature, which thus can be significantly different from the actual site of increased neuronal activity. Spin-echo (SE) sequences yielding apparent T2-weighted BOLD images have been shown to improve spatial specificity by increasing the sensitivity of the signal to spins of the parenchyma, particularly at high magnetic fields. Here we used SE-fMRI at 4.7 T to examine the specificity and resolution of functional maps obtained by stimulating the primary visual cortex of monkeys. Cortical layers could be clearly visualized, and functional activity was predominantly localized in cortical layer IV/Duvernoy layer 3. The choice of sequence parameters influences the fMRI signal, as the SE-EPI is by nature sensitive to T2* in addition to its T2 dependency. Using parameters that limit T2* effects yielded higher specificity and better visualization of the cortical laminae. Because the demands of high-spatial resolution using SE severely decreases temporal resolution, we used a stimulus protocol that allows sampling at higher effective temporal resolution. This way, it was possible to acquire high-spatial and high-temporal resolution SE-fMRI data.",
+  "authors": [
+    "Goense Jozien B M",
+    "Logothetis Nikos K"
+  ],
+  "journal": "Magnetic resonance imaging",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Magnetic Resonance Imaging",
+    "Oxygen",
+    "Sensitivity and Specificity",
+    "Visual Cortex"
+  ]
+}

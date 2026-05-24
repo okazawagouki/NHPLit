@@ -1,0 +1,35 @@
+{
+  "pmid": "41475513",
+  "title": "Large-scale mapping of artificial perceptions for neuroprostheses using spontaneous neuronal activity in macaque and human visual cortex.",
+  "abstract": "BACKGROUND: High-channel-count neuroprostheses could one day restore functional vision in blind individuals by delivering electrical pulses to electrodes in the visual cortex that elicit perceptions known as 'phosphenes'. However, if a high number of electrodes are used, it becomes challenging and time-consuming to map the visual field locations of all phosphenes. Furthermore, many blind users are not able to maintain stable fixation, impeding the localization of phosphenes, or may perceive spontaneous visual phenomena that interfere with detection of electrically induced phosphenes. OBJECTIVE: To introduce and evaluate NEural Unsupervised electrode mapping (NEUmap), a rapid, largely automated method for phosphene mapping that extracts spatial patterns from spontaneous activity across the visual cortex. METHODS: As correlations between neuronal activity on nearby electrodes are stronger than those between distant electrodes, we first use dimensionality-reduction algorithms to generate maps of relative positions of electrodes. We then determine visual field coordinates of phosphenes. To this aim, the subject manually reports phosphene locations for a small subset of electrodes, which we call 'anchor points', e.g. by pointing or drawing phosphene locations on a tablet. NEUmap then aligns the anchor points to the map of relative distances to obtain an estimate of the visual field coordinates of all phosphenes. RESULTS: NEUmap was applied to data recorded from 896 V1 electrodes in each of two sighted monkeys, and 96 V1/V2 electrodes in each of 3 blind human volunteers. NEUmap generated high quality maps across ∼300-700 electrodes in each of the monkeys and across 73-91 electrodes in each of the human volunteers. CONCLUSION: Existing clinical methods of phosphene mapping on many electrodes are tedious. NEUmap can alleviate some of this burden for future prosthesis users by permitting the mapping of hundreds of electrodes using less than a second of resting-state data.",
+  "authors": [
+    "Lozano Antonio",
+    "Chen Xing",
+    "La Grouw Mike",
+    "Li Bingshuo",
+    "Wang Feng",
+    "van der Grinten Maureen",
+    "Soto-Sánchez Cristina",
+    "Morales-Gregorio Aitor",
+    "Fernández Eduardo",
+    "Roelfsema Pieter R"
+  ],
+  "journal": "Brain stimulation",
+  "year": "2026",
+  "doi": "10.1016/j.brs.2025.103019",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Visual Cortex",
+    "Phosphenes",
+    "Brain Mapping",
+    "Visual Prosthesis",
+    "Male",
+    "Electrodes, Implanted",
+    "Visual Perception",
+    "Neurons",
+    "Macaca mulatta",
+    "Female",
+    "Blindness"
+  ]
+}

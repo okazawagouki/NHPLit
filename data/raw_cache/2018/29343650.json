@@ -1,0 +1,27 @@
+{
+  "pmid": "29343650",
+  "title": "Decoder calibration with ultra small current sample set for intracortical brain-machine interface.",
+  "abstract": "OBJECTIVE: Intracortical brain-machine interfaces (iBMIs) aim to restore efficient communication and movement ability for paralyzed patients. However, frequent recalibration is required for consistency and reliability, and every recalibration will require relatively large most current sample set. The aim in this study is to develop an effective decoder calibration method that can achieve good performance while minimizing recalibration time. APPROACH: Two rhesus macaques implanted with intracortical microelectrode arrays were trained separately on movement and sensory paradigm. Neural signals were recorded to decode reaching positions or grasping postures. A novel principal component analysis-based domain adaptation (PDA) method was proposed to recalibrate the decoder with only ultra small current sample set by taking advantage of large historical data, and the decoding performance was compared with other three calibration methods for evaluation. MAIN RESULTS: The PDA method closed the gap between historical and current data effectively, and made it possible to take advantage of large historical data for decoder recalibration in current data decoding. Using only ultra small current sample set (five trials of each category), the decoder calibrated using the PDA method could achieve much better and more robust performance in all sessions than using other three calibration methods in both monkeys. SIGNIFICANCE: (1) By this study, transfer learning theory was brought into iBMIs decoder calibration for the first time. (2) Different from most transfer learning studies, the target data in this study were ultra small sample set and were transferred to the source data. (3) By taking advantage of historical data, the PDA method was demonstrated to be effective in reducing recalibration time for both movement paradigm and sensory paradigm, indicating a viable generalization. By reducing the demand for large current training data, this new method may facilitate the application of intracortical brain-machine interfaces in clinical practice.",
+  "authors": [
+    "Zhang Peng",
+    "Ma Xuan",
+    "Chen Luyao",
+    "Zhou Jin",
+    "Wang Changyong",
+    "Li Wei",
+    "He Jiping"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2018",
+  "doi": "10.1088/1741-2552/aaa8a4",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Calibration",
+    "Cerebral Cortex",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Male",
+    "Movement"
+  ]
+}

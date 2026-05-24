@@ -1,0 +1,26 @@
+{
+  "pmid": "26415043",
+  "title": "Partial Correlation-Based Retinotopically Organized Resting-State Functional Connectivity Within and Between Areas of the Visual Cortex Reflects More Than Cortical Distance.",
+  "abstract": "Numerous studies have demonstrated functional magnetic resonance imaging (fMRI)-based resting-state functional connectivity (RSFC) between cortical areas. Recent evidence suggests that synchronous fluctuations in blood oxygenation level-dependent fMRI reflect functional organization at a scale finer than that of visual areas. In this study, we investigated whether RSFCs within and between lower visual areas are retinotopically organized and whether retinotopically organized RSFC merely reflects cortical distance. Subjects underwent retinotopic mapping and separately resting-state fMRI. Visual areas V1, V2, and V3, were subdivided into regions of interest (ROIs) according to quadrants and visual field eccentricity. Functional connectivity (FC) was computed based on Pearson's linear correlation (correlation), and Pearson's linear partial correlation (correlation between two time courses after the time courses from all other regions in the network are regressed out). Within a quadrant, within visual areas, all correlation and nearly all partial correlation FC measures showed statistical significance. Consistently in V1, V2, and to a lesser extent in V3, correlation decreased with increasing eccentricity separation. Consistent with previously reported monkey anatomical connectivity, correlation/partial correlation values between regions from adjacent areas (V1-V2 and V2-V3) were higher than those between nonadjacent areas (V1-V3). Within a quadrant, partial correlation showed consistent significance between regions from two different areas with the same or adjacent eccentricities. Pairs of ROIs with similar eccentricity showed higher correlation/partial correlation than pairs distant in eccentricity. Between dorsal and ventral quadrants, partial correlation between common and adjacent eccentricity regions within a visual area showed statistical significance; this extended to more distant eccentricity regions in V1. Within and between quadrants, correlation decreased approximately linearly with increasing distances separating the tested ROIs. Partial correlation showed a more complex dependence on cortical distance: it decreased exponentially with increasing distance within a quadrant, but was best fit by a quadratic function between quadrants. We conclude that RSFCs within and between lower visual areas are retinotopically organized. Correlation-based FC is nonselectively high across lower visual areas, even between regions that do not share direct anatomical connections. The mechanisms likely involve network effects caused by the dense anatomical connectivity within this network and projections from higher visual areas. FC based on partial correlation, which minimizes network effects, follows expectations based on direct anatomical connections in the monkey visual cortex better than correlation. Last, partial correlation-based retinotopically organized RSFC reflects more than cortical distance effects.",
+  "authors": [
+    "Dawson Debra Ann",
+    "Lam Jack",
+    "Lewis Lindsay B",
+    "Carbonell Felix",
+    "Mendola Janine D",
+    "Shmuel Amir"
+  ],
+  "journal": "Brain connectivity",
+  "year": "2016",
+  "doi": "10.1089/brain.2014.0331",
+  "mesh": [
+    "Brain Mapping",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Pathways"
+  ]
+}

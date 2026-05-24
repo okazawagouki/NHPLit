@@ -1,0 +1,26 @@
+{
+  "pmid": "31464687",
+  "title": "Population response magnitude variation in inferotemporal cortex predicts image memorability.",
+  "abstract": "Most accounts of image and object encoding in inferotemporal cortex (IT) focus on the distinct patterns of spikes that different images evoke across the IT population. By analyzing data collected from IT as monkeys performed a visual memory task, we demonstrate that variation in a complementary coding scheme, the magnitude of the population response, can largely account for how well images will be remembered. To investigate the origin of IT image memorability modulation, we probed convolutional neural network models trained to categorize objects. We found that, like the brain, different natural images evoked different magnitude responses from these networks, and in higher layers, larger magnitude responses were correlated with the images that humans and monkeys find most memorable. Together, these results suggest that variation in IT population response magnitude is a natural consequence of the optimizations required for visual processing, and that this variation has consequences for visual memory.",
+  "authors": [
+    "Jaegle Andrew",
+    "Mehrpour Vahid",
+    "Mohsenzadeh Yalda",
+    "Meyer Travis",
+    "Oliva Aude",
+    "Rust Nicole"
+  ],
+  "journal": "eLife",
+  "year": "2019",
+  "doi": "10.7554/eLife.47596",
+  "mesh": [
+    "Animals",
+    "Eidetic Imagery",
+    "Haplorhini",
+    "Humans",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Temporal Lobe",
+    "Visual Perception"
+  ]
+}

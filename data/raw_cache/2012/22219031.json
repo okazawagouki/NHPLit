@@ -1,0 +1,26 @@
+{
+  "pmid": "22219031",
+  "title": "Representation of 3-D surface orientation by velocity and disparity gradient cues in area MT.",
+  "abstract": "Neural coding of the three-dimensional (3-D) orientation of planar surface patches may be an important intermediate step in constructing representations of complex 3-D surface structure. Spatial gradients of binocular disparity, image velocity, and texture provide potent cues to the 3-D orientation (tilt and slant) of planar surfaces. Previous studies have described neurons in both dorsal and ventral stream areas that are selective for surface tilt based on one or more of these gradient cues. However, relatively little is known about whether single neurons provide consistent information about surface orientation from multiple gradient cues. Moreover, it is unclear how neural responses to combinations of surface orientation cues are related to responses to the individual cues. We measured responses of middle temporal (MT) neurons to random dot stimuli that simulated planar surfaces at a variety of tilts and slants. Four cue conditions were tested: disparity, velocity, and texture gradients alone, as well as all three gradient cues combined. Many neurons showed robust tuning for surface tilt based on disparity and velocity gradients, with relatively little selectivity for texture gradients. Some neurons showed consistent tilt preferences for disparity and velocity cues, whereas others showed large discrepancies. Responses to the combined stimulus were generally well described as a weighted linear sum of responses to the individual cues, even when disparity and velocity preferences were discrepant. These findings suggest that area MT contains a rudimentary representation of 3-D surface orientation based on multiple cues, with single neurons implementing a simple cue integration rule.",
+  "authors": [
+    "Sanada Takahisa M",
+    "Nguyenkim Jerry D",
+    "Deangelis Gregory C"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2012",
+  "doi": "10.1152/jn.00578.2011",
+  "mesh": [
+    "Animals",
+    "Imaging, Three-Dimensional",
+    "Macaca mulatta",
+    "Male",
+    "Motion Perception",
+    "Orientation",
+    "Photic Stimulation",
+    "Space Perception",
+    "Surface Properties",
+    "Temporal Lobe",
+    "Vision Disparity"
+  ]
+}

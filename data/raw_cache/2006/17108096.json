@@ -1,0 +1,30 @@
+{
+  "pmid": "17108096",
+  "title": "Template-based spike pattern identification with linear convolution and dynamic time warping.",
+  "abstract": "Pattern identification for spiking activity, which is central to neurophysiological analysis, is complicated by variability in spiking at multiple timescales. Incorporating likelihood tests on the variability at two timescales, we developed an approach to identifying segments from continuous neurophysiological recordings that match preselected spike \"templates.\" At smaller timescales, each component of the preselected pattern is represented by a linear filter. Local scores to measure the similarities between short data segments and the pattern components are computed as filter responses. At larger timescales, overall scores to measure the similarities between relatively long data segments and the entire pattern are computed by dynamic time warping, which combines the local similarity scores associated with the pattern components, optimizing over a range of intercomponent time intervals. Occurrences of the pattern are identified by local peaks in the overall similarity scores. This approach is developed for point process representations and binary representations of spiking activity, both deriving from a single underlying statistical model. Point process representations are suitable for highly reliable single-unit responses, whereas binary representations are preferred for more variable single-unit responses and multiunit responses. Testing with single units recorded from individual electrodes within the robust nucleus of the arcopallium of zebra finches and with recordings from an array placed within the motor cortex of macaque monkeys demonstrates that the approach can identify occurrences of specified patterns with good time precision in a broad range of neurophysiological data.",
+  "authors": [
+    "Chi Zhiyi",
+    "Wu Wei",
+    "Haga Zach",
+    "Hatsopoulos Nicholas G",
+    "Margoliash Daniel"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Electrophysiology",
+    "Finches",
+    "In Vitro Techniques",
+    "Macaca mulatta",
+    "Male",
+    "Membrane Potentials",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurons",
+    "Software"
+  ]
+}

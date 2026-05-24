@@ -1,0 +1,26 @@
+{
+  "pmid": "20094729",
+  "title": "Neural network simulations of the primate oculomotor system. V. Eye-head gaze shifts.",
+  "abstract": "We examined the performance of a dynamic neural network that replicates much of the psychophysics and neurophysiology of eye-head gaze shifts without relying on gaze feedback control. For example, our model generates gaze shifts with ocular components that do not exceed 35 degrees in amplitude, whatever the size of the gaze shifts (up to 75 degrees in our simulations), without relying on a saturating nonlinearity to accomplish this. It reproduces the natural patterns of eye-head coordination in that head contributions increase and ocular contributions decrease together with the size of gaze shifts and this without compromising the accuracy of gaze realignment. It also accounts for the dependence of the relative contributions of the eyes and the head on the initial positions of the eyes, as well as for the position sensitivity of saccades evoked by electrical stimulation of the superior colliculus. Finally, it shows why units of the saccadic system could appear to carry gaze-related signals even if they do not operate within a gaze control loop and do not receive head-related information.",
+  "authors": [
+    "Kardamakis A A",
+    "Grantyn A",
+    "Moschovakis A K"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2010",
+  "doi": "10.1007/s00422-010-0363-0",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Computer Simulation",
+    "Eye Movements",
+    "Head Movements",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neural Pathways",
+    "Primates",
+    "Superior Colliculi"
+  ]
+}

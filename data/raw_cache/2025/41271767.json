@@ -1,0 +1,31 @@
+{
+  "pmid": "41271767",
+  "title": "Adaptive stretching of representations across brain regions and deep learning model layers.",
+  "abstract": "Prefrontal cortex (PFC) is known to modulate the visual system to favor goal-relevant information by accentuating task-relevant stimulus dimensions. Does the brain broadly re-configures itself to optimize performance by stretching visual representations along task-relevant dimensions? We considered a task that required monkeys to selectively attend on a trial-by-trial basis to one of two dimensions (color or motion direction) to make a decision. Although effects were most prominent in frontal areas, representations stretched along task-relevant dimensions in all sites considered: V4, MT, lateral PFC, frontal eye fields (FEF), lateral intraparietal cortex (LIP), and inferotemporal cortex (IT). Spike timing was crucial to this code. A deep learning model was trained on the same visual input and rewards as the monkeys. Despite lacking an explicit selective attention or other control mechanism, by minimizing error during learning, the model's representations stretched along task-relevant dimensions, indicating that stretching is an adaptive strategy.",
+  "authors": [
+    "Zhang Xin-Ya",
+    "Bobadilla-Suarez Sebastian",
+    "Luo Xiaoliang",
+    "Lemonari Marilena",
+    "Brincat Scott L",
+    "Siegel Markus",
+    "Miller Earl K",
+    "Love Bradley C"
+  ],
+  "journal": "Nature communications",
+  "year": "2025",
+  "doi": "10.1038/s41467-025-65231-y",
+  "mesh": [
+    "Animals",
+    "Deep Learning",
+    "Macaca mulatta",
+    "Prefrontal Cortex",
+    "Male",
+    "Brain",
+    "Attention",
+    "Models, Neurological",
+    "Photic Stimulation",
+    "Visual Perception",
+    "Neurons"
+  ]
+}

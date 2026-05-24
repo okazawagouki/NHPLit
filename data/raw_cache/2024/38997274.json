@@ -1,0 +1,25 @@
+{
+  "pmid": "38997274",
+  "title": "Pulsatile electrical stimulation creates predictable, correctable disruptions in neural firing.",
+  "abstract": "Electrical stimulation is a key tool in neuroscience, both in brain mapping studies and in many therapeutic applications such as cochlear, vestibular, and retinal neural implants. Due to safety considerations, stimulation is restricted to short biphasic pulses. Despite decades of research and development, neural implants lead to varying restoration of function in patients. In this study, we use computational modeling to provide an explanation for how pulsatile stimulation affects axonal channels and therefore leads to variability in restoration of neural responses. The phenomenological explanation is transformed into equations that predict induced firing rate as a function of pulse rate, pulse amplitude, and spontaneous firing rate. We show that these equations predict simulated responses to pulsatile stimulation with a variety of parameters as well as several features of experimentally recorded primate vestibular afferent responses to pulsatile stimulation. We then discuss the implications of these effects for improving clinical stimulation paradigms and electrical stimulation-based experiments.",
+  "authors": [
+    "Steinhardt Cynthia R",
+    "Mitchell Diana E",
+    "Cullen Kathleen E",
+    "Fridman Gene Y"
+  ],
+  "journal": "Nature communications",
+  "year": "2024",
+  "doi": "10.1038/s41467-024-49900-y",
+  "mesh": [
+    "Animals",
+    "Electric Stimulation",
+    "Models, Neurological",
+    "Macaca mulatta",
+    "Action Potentials",
+    "Neurons",
+    "Computer Simulation",
+    "Humans",
+    "Vestibule, Labyrinth"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "23431402",
+  "title": "The mechanism of saccade motor pattern generation investigated by a large-scale spiking neuron model of the superior colliculus.",
+  "abstract": "The subcortical saccade-generating system consists of the retina, superior colliculus, cerebellum and brainstem motoneuron areas. The superior colliculus is the site of sensory-motor convergence within this basic visuomotor loop preserved throughout the vertebrates. While the system has been extensively studied, there are still several outstanding questions regarding how and where the saccade eye movement profile is generated and the contribution of respective parts within this system. Here we construct a spiking neuron model of the whole intermediate layer of the superior colliculus based on the latest anatomy and physiology data. The model consists of conductance-based spiking neurons with quasi-visual, burst, buildup, local inhibitory, and deep layer inhibitory neurons. The visual input is given from the superficial superior colliculus and the burst neurons send the output to the brainstem oculomotor nuclei. Gating input from the basal ganglia and an integral feedback from the reticular formation are also included.We implement the model in the NEST simulator and show that the activity profile of bursting neurons can be reproduced by a combination of NMDA-type and cholinergic excitatory synaptic inputs and integrative inhibitory feedback. The model shows that the spreading neural activity observed in vivo can keep track of the collicular output over time and reset the system at the end of a saccade through activation of deep layer inhibitory neurons. We identify the model parameters according to neural recording data and show that the resulting model recreates the saccade size-velocity curves known as the saccadic main sequence in behavioral studies. The present model is consistent with theories that the superior colliculus takes a principal role in generating the temporal profiles of saccadic eye movements, rather than just specifying the end points of eye movements.",
+  "authors": [
+    "Morén Jan",
+    "Shibata Tomohiro",
+    "Doya Kenji"
+  ],
+  "journal": "PloS one",
+  "year": "2013",
+  "doi": "10.1371/journal.pone.0057134",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Feedback, Sensory",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Saccades",
+    "Superior Colliculi",
+    "Synapses",
+    "Synaptic Transmission"
+  ]
+}

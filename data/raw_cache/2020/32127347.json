@@ -1,0 +1,21 @@
+{
+  "pmid": "32127347",
+  "title": "An Indexing Theory for Working Memory Based on Fast Hebbian Plasticity.",
+  "abstract": "Working memory (WM) is a key component of human memory and cognition. Computational models have been used to study the underlying neural mechanisms, but neglected the important role of short-term memory (STM) and long-term memory (LTM) interactions for WM. Here, we investigate these using a novel multiarea spiking neural network model of prefrontal cortex (PFC) and two parietotemporal cortical areas based on macaque data. We propose a WM indexing theory that explains how PFC could associate, maintain, and update multimodal LTM representations. Our simulations demonstrate how simultaneous, brief multimodal memory cues could build a temporary joint memory representation as an \"index\" in PFC by means of fast Hebbian synaptic plasticity. This index can then reactivate spontaneously and thereby also the associated LTM representations. Cueing one LTM item rapidly pattern completes the associated uncued item via PFC. The PFC-STM network updates flexibly as new stimuli arrive, thereby gradually overwriting older representations.",
+  "authors": [
+    "Fiebig Florian",
+    "Herman Pawel",
+    "Lansner Anders"
+  ],
+  "journal": "eNeuro",
+  "year": "2020",
+  "doi": "10.1523/ENEURO.0374-19.2020",
+  "mesh": [
+    "Cognition",
+    "Humans",
+    "Memory, Short-Term",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Prefrontal Cortex"
+  ]
+}

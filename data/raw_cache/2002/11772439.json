@@ -1,0 +1,23 @@
+{
+  "pmid": "11772439",
+  "title": "A template subtraction method for stimulus artifact removal in high-frequency deep brain stimulation.",
+  "abstract": "Deep brain stimulation (DBS) is a neurosurgical technique that has been widely applied for the treatment of tremor or motor symptoms associated with advanced Parkinson's disease. Large stimulus artifacts, however, have hampered investigations of physiological mechanisms underlying DBS effects using extracellular recording techniques. We have developed an off-line procedure for removing stimulus artifacts from recorded neuronal signals (monopolar) and applied this method of artifact subtraction to DBS studies using extracellular recording techniques in a nonhuman primate. The procedure consists of developing a template of the artifact by averaging the artifact signals triggered by its onset. The template is then subtracted from the individual triggered signals. The experimental results indicate that this method is highly effective in removing the majority of the stimulus artifact, while leaving recorded neuronal activity intact. In fact, removal of stimulation artifact using this technique has revealed a short-latency neuronal response to stimulation that was previously obscured by the stimulus artifact. Thus, this technique may not only improve the quality of electrophysiological studies employing DBS techniques, but may also help to elucidate neuronal mechanisms underlying the effect of DBS.",
+  "authors": [
+    "Hashimoto Takao",
+    "Elder Christopher M",
+    "Vitek Jerrold L"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Artifacts",
+    "Electric Stimulation",
+    "Globus Pallidus",
+    "Macaca mulatta",
+    "Neurons",
+    "Reproducibility of Results"
+  ]
+}

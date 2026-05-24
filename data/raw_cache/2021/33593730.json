@@ -1,0 +1,28 @@
+{
+  "pmid": "33593730",
+  "title": "MRI Compatible, Customizable, and 3D-Printable Microdrive for Neuroscience Research.",
+  "abstract": "The effective connectivity of brain networks can be assessed using functional magnetic resonance imaging (fMRI) to quantify the effects of local electrical microstimulation (EM) on distributed neuronal activity. The delivery of EM to specific brain regions, particularly with layer specificity, requires MRI compatible equipment that provides fine control of a stimulating electrode's position within the brain while minimizing imaging artifacts. To this end, we developed a microdrive made entirely of MRI compatible materials. The microdrive uses an integrated penetration grid to guide electrodes and relies on a microdrilling technique to eliminate the need for large craniotomies, further reducing implant maintenance and image distortions. The penetration grid additionally serves as a built-in MRI marker, providing a visible fiducial reference for estimating probe trajectories. Following the initial implant procedure, these features allow for multiple electrodes to be inserted, removed, and repositioned with minimal effort, using a screw-type actuator. To validate the design of the microdrive, we conducted an EM-coupled fMRI study with a male macaque monkey. The results verified that the microdrive can be used to deliver EM during MRI procedures with minimal imaging artifacts, even within a 7 Tesla (7T) environment. Future applications of the microdrive include neuronal recordings and targeted drug delivery. We provide computer aided design (CAD) templates and a parts list for modifying and fabricating the microdrive for specific research needs. These designs provide a convenient, cost-effective approach to fabricating MRI compatible microdrives for neuroscience research.",
+  "authors": [
+    "Baeg Eunha",
+    "Doudlah Raymond",
+    "Swader Robert",
+    "Lee Hyowon",
+    "Han Minjun",
+    "Kim Seong-Gi",
+    "Rosenberg Ari",
+    "Kim Byounghoon"
+  ],
+  "journal": "eNeuro",
+  "year": "2021",
+  "doi": "10.1523/ENEURO.0495-20.2021",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Electrophysiology",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Neurons",
+    "Neurosciences"
+  ]
+}

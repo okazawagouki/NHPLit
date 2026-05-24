@@ -1,0 +1,21 @@
+{
+  "pmid": "37319266",
+  "title": "A model of colour appearance based on efficient coding of natural images.",
+  "abstract": "An object's colour, brightness and pattern are all influenced by its surroundings, and a number of visual phenomena and \"illusions\" have been discovered that highlight these often dramatic effects. Explanations for these phenomena range from low-level neural mechanisms to high-level processes that incorporate contextual information or prior knowledge. Importantly, few of these phenomena can currently be accounted for in quantitative models of colour appearance. Here we ask to what extent colour appearance is predicted by a model based on the principle of coding efficiency. The model assumes that the image is encoded by noisy spatio-chromatic filters at one octave separations, which are either circularly symmetrical or oriented. Each spatial band's lower threshold is set by the contrast sensitivity function, and the dynamic range of the band is a fixed multiple of this threshold, above which the response saturates. Filter outputs are then reweighted to give equal power in each channel for natural images. We demonstrate that the model fits human behavioural performance in psychophysics experiments, and also primate retinal ganglion responses. Next, we systematically test the model's ability to qualitatively predict over 50 brightness and colour phenomena, with almost complete success. This implies that much of colour appearance is potentially attributable to simple mechanisms evolved for efficient coding of natural images, and is a well-founded basis for modelling the vision of humans and other animals.",
+  "authors": [
+    "Troscianko Jolyon",
+    "Osorio Daniel"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2023",
+  "doi": "10.1371/journal.pcbi.1011117",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Color",
+    "Color Perception",
+    "Retinal Ganglion Cells",
+    "Contrast Sensitivity",
+    "Psychophysics"
+  ]
+}

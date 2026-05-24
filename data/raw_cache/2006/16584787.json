@@ -1,0 +1,28 @@
+{
+  "pmid": "16584787",
+  "title": "Measuring spike pattern reliability with the Lempel-Ziv-distance.",
+  "abstract": "Spike train distance measures serve two purposes: to measure neuronal firing reliability, and to provide a metric with which spike trains can be classified. We introduce a novel spike train distance based on the Lempel-Ziv complexity that does not require the choice of arbitrary analysis parameters, is easy to implement, and computationally cheap. We determine firing reliability in vivo by calculating the deviation of the mean distance of spike trains obtained from multiple presentations of an identical stimulus from a Poisson reference. Using both the Lempel-Ziv-distance (LZ-distance) and a distance focussing on coincident firing, the pattern and timing reliability of neuronal firing is determined for spike data obtained along the visual information processing pathway of macaque monkey (LGN, simple and complex cells of V1, and area MT). In combination with the sequential superparamagnetic clustering algorithm, we show that the LZ-distance groups together spike trains with similar but not necessarily synchronized firing patterns. For both applications, we show how the LZ-distance gives additional insights, as it adds a new perspective on the problem of firing reliability determination and allows neuron classifications in cases, where other distance measures fail.",
+  "authors": [
+    "Christen Markus",
+    "Kohn Adam",
+    "Ott Thomas",
+    "Stoop Ruedi"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cerebral Cortex",
+    "Cluster Analysis",
+    "Electroencephalography",
+    "Electrophysiology",
+    "Macaca",
+    "Membrane Potentials",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurons",
+    "Reproducibility of Results"
+  ]
+}

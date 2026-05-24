@@ -1,0 +1,30 @@
+{
+  "pmid": "40925399",
+  "title": "Amorphous silicon resistors enable smaller pixels in photovoltaic retinal prosthesis.",
+  "abstract": "<i>Objective.</i>Clinical trials of the photovoltaic subretinal prosthesis PRIMA demonstrated feasibility of prosthetic central vision with resolution matching its 100<i>µ</i>m pixel width. To improve prosthetic acuity further, pixel size should be decreased. However, there are multiple challenges, one of which is related to accommodating a compact shunt resistor within each pixel that discharges the electrodes between stimulation pulses and helps increase the contrast of the electric field pattern. Unfortunately, standard materials used in integrated circuit resistors do not match the resistivity required for small photovoltaic pixels. Therefore, we used a novel material-doped amorphous silicon (a-Si) and integrated it into photovoltaic arrays with pixel sizes down to 20<i>µ</i>m.<i>Approach.</i>To fit within a few<i>µ</i>m<sup>2</sup>area of the pixels and provide resistance in the MΩ range, the material should have sheet resistance of a few 100 kΩ sq<sup>-1</sup>, which translates to resistivity of a few Ω * cm. The a-Si layer was deposited by low-pressure chemical vapor deposition and its resistivity was adjusted by PH<sub>3</sub>doping before encapsulating the resistors between SiO<sub>2</sub>and SiC for stability<i>in-vivo. Main results.</i>High-resolution retinal implants with integrated shunt resistors were fabricated with values ranging from 0.75 to 4 MΩ on top of the photovoltaic pixels of 55, 40, 30 and 20<i>µ</i>m in size. Photoresponsivity with all pixel sizes was approximately 0.53 A W<sup>-1</sup>, as high as in the arrays with no shunt resistor. The shunts shortened electrodes discharge time, with the average electric potential in electrolyte decreasing by only 21%-31 % when repetition rate increased from 2 to 30 Hz, as opposed to a 54%-55 % decrease without a shunt. Similarly, contrast of a Landolt C pattern increased from 16%-22 % with no shunt to 22%-34 % with a shunt. Further improvement in contrast is expected with pillar electrodes and local returns within each pixel.<i>Significance.</i>Miniature shunt resistors in a MΩ range can be fabricated from doped a-Si in a process compatible with manufacturing of photovoltaic arrays. The shunt resistors improved current injection and spatial contrast at video frame rates, without compromising the photoresponsivity. These advances are critical for scaling pixel sizes below 100 <i>µ</i>m to improve visual acuity of prosthetic vision.",
+  "authors": [
+    "Shin Andrew",
+    "Jensen Nathan",
+    "Butt Emma",
+    "An Jeonghyun",
+    "Pham-Howard Davis",
+    "Galambos Ludwig",
+    "Mathieson Keith",
+    "Kamins Theodore",
+    "Palanker Daniel"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2025",
+  "doi": "10.1088/1741-2552/ae0522",
+  "mesh": [
+    "Visual Prosthesis",
+    "Silicon",
+    "Electric Impedance",
+    "Animals",
+    "Prosthesis Design",
+    "Electrodes, Implanted",
+    "Retina",
+    "Macaca mulatta",
+    "Photic Stimulation"
+  ]
+}

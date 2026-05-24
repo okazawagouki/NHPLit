@@ -1,0 +1,14 @@
+{
+  "pmid": "22837745",
+  "title": "Parametric models to relate spike train and LFP dynamics with neural information processing.",
+  "abstract": "Spike trains and local field potentials (LFPs) resulting from extracellular current flows provide a substrate for neural information processing. Understanding the neural code from simultaneous spike-field recordings and subsequent decoding of information processing events will have widespread applications. One way to demonstrate an understanding of the neural code, with particular advantages for the development of applications, is to formulate a parametric statistical model of neural activity and its covariates. Here, we propose a set of parametric spike-field models (unified models) that can be used with existing decoding algorithms to reveal the timing of task or stimulus specific processing. Our proposed unified modeling framework captures the effects of two important features of information processing: time-varying stimulus-driven inputs and ongoing background activity that occurs even in the absence of environmental inputs. We have applied this framework for decoding neural latencies in simulated and experimentally recorded spike-field sessions obtained from the lateral intraparietal area (LIP) of awake, behaving monkeys performing cued look-and-reach movements to spatial targets. Using both simulated and experimental data, we find that estimates of trial-by-trial parameters are not significantly affected by the presence of ongoing background activity. However, including background activity in the unified model improves goodness of fit for predicting individual spiking events. Uncovering the relationship between the model parameters and the timing of movements offers new ways to test hypotheses about the relationship between neural activity and behavior. We obtained significant spike-field onset time correlations from single trials using a previously published data set where significantly strong correlation was only obtained through trial averaging. We also found that unified models extracted a stronger relationship between neural response latency and trial-by-trial behavioral performance than existing models of neural information processing. Our results highlight the utility of the unified modeling framework for characterizing spike-LFP recordings obtained during behavioral performance.",
+  "authors": [
+    "Banerjee Arpan",
+    "Dean Heather L",
+    "Pesaran Bijan"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2012",
+  "doi": "10.3389/fncom.2012.00051",
+  "mesh": []
+}

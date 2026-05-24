@@ -1,0 +1,30 @@
+{
+  "pmid": "20164399",
+  "title": "Sensorimotor locus of the buildup activity in monkey lateral intraparietal area neurons.",
+  "abstract": "A study in 2002 using a random-dot motion-discrimination paradigm showed that an information accumulation model with a threshold-crossing mechanism can account for activity of the lateral intraparietal area (LIP) neurons. Here, mathematical techniques were applied to the same dataset to quantitatively address the sensory versus motor representation of the neuronal activity during the time course of a trial. A technique based on Signal Detection Theory was applied to provide indices to quantify how neuronal firing activity is responsible for encoding the stimulus or selecting the response at the behavioral level. Additionally, a statistical model based on Poisson regression was used to provide an orthogonal decomposition of the neural activity into stimulus, response, and stimulus-response mapping components. The temporal dynamics of the sensorimotor locus of the LIP activity indicated that there is no stimulus-response mapping-specific neuronal firing activity throughout a trial; the neural activity toward the saccadic onset reflects the development of the motor representation, and the neural activity in the beginning of a trial contains little, if any, information about the sensory representation. Sensorimotor analysis on individual neurons also showed that the neuronal activation, as a population, represent pending saccadic direction and carry little information about the direction of the motion stimulus.",
+  "authors": [
+    "Park Joonkoo",
+    "Zhang Jun"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2010",
+  "doi": "10.1152/jn.00733.2009",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Female",
+    "Fixation, Ocular",
+    "Macaca mulatta",
+    "Motion Perception",
+    "Motor Activity",
+    "Neurons",
+    "Parietal Lobe",
+    "Poisson Distribution",
+    "ROC Curve",
+    "Regression Analysis",
+    "Saccades",
+    "Signal Processing, Computer-Assisted",
+    "Time Factors"
+  ]
+}

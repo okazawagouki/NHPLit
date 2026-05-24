@@ -1,0 +1,21 @@
+{
+  "pmid": "35114495",
+  "title": "Biological convolutions improve DNN robustness to noise and generalisation.",
+  "abstract": "Deep Convolutional Neural Networks (DNNs) have achieved superhuman accuracy on standard image classification benchmarks. Their success has reignited significant interest in their use as models of the primate visual system, bolstered by claims of their architectural and representational similarities. However, closer scrutiny of these models suggests that they rely on various forms of shortcut learning to achieve their impressive performance, such as using texture rather than shape information. Such superficial solutions to image recognition have been shown to make DNNs brittle in the face of more challenging tests such as noise-perturbed or out-of-distribution images, casting doubt on their similarity to their biological counterparts. In the present work, we demonstrate that adding fixed biological filter banks, in particular banks of Gabor filters, helps to constrain the networks to avoid reliance on shortcuts, making them develop more structured internal representations and more tolerance to noise. Importantly, they also gained around 20-35% improved accuracy when generalising to our novel out-of-distribution test image sets over standard end-to-end trained architectures. We take these findings to suggest that these properties of the primate visual system should be incorporated into DNNs to make them more able to cope with real-world vision and better capture some of the more impressive aspects of human visual perception such as generalisation.",
+  "authors": [
+    "Evans Benjamin D",
+    "Malhotra Gaurav",
+    "Bowers Jeffrey S"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2022",
+  "doi": "10.1016/j.neunet.2021.12.005",
+  "mesh": [
+    "Animals",
+    "Generalization, Psychological",
+    "Neural Networks, Computer",
+    "Recognition, Psychology",
+    "Vision, Ocular",
+    "Visual Perception"
+  ]
+}

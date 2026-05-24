@@ -1,0 +1,27 @@
+{
+  "pmid": "23112841",
+  "title": "Population coding of forelimb joint kinematics by peripheral afferents in monkeys.",
+  "abstract": "Various peripheral receptors provide information concerning position and movement to the central nervous system to achieve complex and dexterous movements of forelimbs in primates. The response properties of single afferent receptors to movements at a single joint have been examined in detail, but the population coding of peripheral afferents remains poorly defined. In this study, we obtained multichannel recordings from dorsal root ganglion (DRG) neurons in cervical segments of monkeys. We applied the sparse linear regression (SLiR) algorithm to the recordings, which selects useful input signals to reconstruct movement kinematics. Multichannel recordings of peripheral afferents were performed by inserting multi-electrode arrays into the DRGs of lower cervical segments in two anesthetized monkeys. A total of 112 and 92 units were responsive to the passive joint movements or the skin stimulation with a painting brush in Monkey 1 and Monkey 2, respectively. Using the SLiR algorithm, we reconstructed the temporal changes of joint angle, angular velocity, and acceleration at the elbow, wrist, and finger joints from temporal firing patterns of the DRG neurons. By automatically selecting a subset of recorded units, the SLiR achieved superior generalization performance compared with a regularized linear regression algorithm. The SLiR selected not only putative muscle units that were responsive to only the passive movements, but also a number of putative cutaneous units responsive to the skin stimulation. These results suggested that an ensemble of peripheral primary afferents that contains both putative muscle and cutaneous units encode forelimb joint kinematics of non-human primates.",
+  "authors": [
+    "Umeda Tatsuya",
+    "Seki Kazuhiko",
+    "Sato Masa-Aki",
+    "Nishimura Yukio",
+    "Kawato Mitsuo",
+    "Isa Tadashi"
+  ],
+  "journal": "PloS one",
+  "year": "2012",
+  "doi": "10.1371/journal.pone.0047749",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Forelimb",
+    "Ganglia, Spinal",
+    "Joints",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Movement"
+  ]
+}

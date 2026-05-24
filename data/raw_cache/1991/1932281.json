@@ -1,0 +1,22 @@
+{
+  "pmid": "1932281",
+  "title": "A recurrent system incorporating characteristics of the visual system: a model for the function of backward neural connections in the visual system.",
+  "abstract": "A recurrent system is constructed in order to investigate the role of the backward neural connections found in the primate visual system. The system incorporates a layer to perform localized spatial frequency analysis of input images, a function which has been assumed to take place in the primary visual cortex. The function of the system is examined by simulation. The results show that the system can separate an object pattern from its background, irrespective of its precise position. The acceptable displacement range for input images is determined from the width of the window function used to calculate the local Fourier transform. A multilayer version of the above recurrent system is also constructed.",
+  "authors": [
+    "Okajima K"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "1991",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Feedback",
+    "Fourier Analysis",
+    "Mathematics",
+    "Models, Neurological",
+    "Space Perception",
+    "Vision, Ocular",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

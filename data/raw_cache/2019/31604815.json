@@ -1,0 +1,30 @@
+{
+  "pmid": "31604815",
+  "title": "Compound Stimuli Reveal the Structure of Visual Motion Selectivity in Macaque MT Neurons.",
+  "abstract": "Motion selectivity in primary visual cortex (V1) is approximately separable in orientation, spatial frequency, and temporal frequency (\"frequency-separable\"). Models for area MT neurons posit that their selectivity arises by combining direction-selective V1 afferents whose tuning is organized around a tilted plane in the frequency domain, specifying a particular direction and speed (\"velocity-separable\"). This construction explains \"pattern direction-selective\" MT neurons, which are velocity-selective but relatively invariant to spatial structure, including spatial frequency, texture and shape. We designed a set of experiments to distinguish frequency-separable and velocity-separable models and executed them with single-unit recordings in macaque V1 and MT. Surprisingly, when tested with single drifting gratings, most MT neurons' responses are fit equally well by models with either form of separability. However, responses to plaids (sums of two moving gratings) tend to be better described as velocity-separable, especially for pattern neurons. We conclude that direction selectivity in MT is primarily computed by summing V1 afferents, but pattern-invariant velocity tuning for complex stimuli may arise from local, recurrent interactions.",
+  "authors": [
+    "Zaharia Andrew D",
+    "Goris Robbe L T",
+    "Movshon J Anthony",
+    "Simoncelli Eero P"
+  ],
+  "journal": "eNeuro",
+  "year": "2019",
+  "doi": "10.1523/ENEURO.0258-19.2019",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Female",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Orientation",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pmid": "38260448",
+  "title": "Horizontal cortical connections shape intrinsic traveling waves into feature-selective motifs that regulate perceptual sensitivity.",
+  "abstract": "Intrinsic, ongoing fluctuations of cortical activity form traveling waves that modulate the gain of sensory-evoked responses and perceptual sensitivity. Several lines of evidence suggest that intrinsic traveling waves (iTWs) may arise, in part, from the coordination of synaptic activity through the recurrent horizontal connectivity within cortical areas, which include long range patchy connections that link neurons with shared feature preferences. In a spiking network model with anatomical topology that incorporates feature-selective patchy connections, which we call the Balanced Patchy Network (BPN), we observe repeated iTWs, which we refer to as <i>motifs</i>. In the model, motifs stem from fluctuations in the excitability of like-tuned neurons that result from shifts in E/I balance as action potentials traverse these patchy connections. To test if feature-selective motifs occur <i>in vivo</i>, we examined data previously recorded using multielectrode arrays in Area MT of marmosets trained to perform a threshold visual detection task. Using a newly developed method for comparing the similarity of wave patterns we found that some iTWs can be grouped into motifs. As predicted by the BPN, many of these motifs are feature selective, exhibiting direction-selective modulations in ongoing spiking activity. Further, motifs modulate the gain of the response evoked by a target and perceptual sensitivity to the target if the target matches the preference of the motif. These results provide evidence that iTWs are shaped by the patterns of horizontal fiber projections in the cortex and that patchy connections enable iTWs to regulate neural and perceptual sensitivity in a feature selective manner.",
+  "authors": [
+    "Davis Zachary W",
+    "Busch Alexandria",
+    "Stewerd Christopher",
+    "Muller Lyle",
+    "Reynolds John"
+  ],
+  "journal": "Research square",
+  "year": "2024",
+  "doi": "10.21203/rs.3.rs-3830199/v1",
+  "mesh": []
+}

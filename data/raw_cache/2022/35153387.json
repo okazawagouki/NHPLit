@@ -1,0 +1,14 @@
+{
+  "pmid": "35153387",
+  "title": "A new design of multimedia big data retrieval enabled by deep feature learning and Adaptive Semantic Similarity Function.",
+  "abstract": "Nowadays, multimedia big data have grown exponentially in diverse applications like social networks, transportation, health, and e-commerce, etc. Accessing preferred data in large-scale datasets needs efficient and sophisticated retrieval approaches. Multimedia big data consists of the most significant features with different types of data. Even though the multimedia supports various data formats with corresponding storage frameworks, similar semantic information is expressed by the multimedia. The overlap of semantic features is most efficient for theory and research related to semantic memory. Correspondingly, in recent years, deep multimodal hashing gets more attention owing to the efficient performance of huge-scale multimedia retrieval applications. On the other hand, the deep multimodal hashing has limited efforts for exploring the complex multilevel semantic structure. The main intention of this proposal is to develop enhanced deep multimedia big data retrieval with the Adaptive Semantic Similarity Function (A-SSF). The proposed model of this research covers several phases \"(a) Data collection, (b) deep feature extraction, (c) semantic feature selection and (d) adaptive similarity function for retrieval. The two main processes of multimedia big data retrieval are training and testing. Once after collecting the dataset involved with video, text, images, and audio, the training phase starts. Here, the deep semantic feature extraction is performed by the Convolutional Neural Network (CNN), which is again subjected to the semantic feature selection process by the new hybrid algorithm termed Spider Monkey-Deer Hunting Optimization Algorithm (SM-DHOA). The final optimal semantic features are stored in the feature library. During testing, selected semantic features are added to the map-reduce framework in the Hadoop environment for handling the big data, thus ensuring the proper big data distribution. Here, the main contribution termed A-SSF is introduced to compute the correlation between the multimedia semantics of the testing data and training data, thus retrieving the data with minimum similarity. Extensive experiments on benchmark multimodal datasets demonstrate that the proposed method can outperform the state-of-the-art performance for all types of data.",
+  "authors": [
+    "Sujatha D",
+    "Subramaniam M",
+    "Rene Robin Chinnanadar Ramachandran"
+  ],
+  "journal": "Multimedia systems",
+  "year": "2022",
+  "doi": "10.1007/s00530-022-00897-8",
+  "mesh": []
+}

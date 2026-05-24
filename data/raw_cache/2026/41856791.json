@@ -1,0 +1,31 @@
+{
+  "pmid": "41856791",
+  "title": "Spatial Adaptation of Primate Retinal Ganglion Cells Between Artificial and Natural Stimuli.",
+  "abstract": "The retina encodes a broad range of stimuli, adapting its computations to features like brightness, contrast, and motion. However, it is unclear whether it also adapts when switching between natural scenes and white noise (WN). To address this, we analyzed the neural activity of male marmoset retinal ganglion cells (RGCs) in response to WN and naturalistic movies. We trained linear-nonlinear models on both stimuli, evaluated their performance, and compared their receptive fields across stimulus domains. We found that models with spatial filters trained on one stimulus ensemble were less accurate when predicting neural activity on the other compared to models trained directly on the target stimulus. This suggests that spatial processing adapts to stimulus statistics. Different RGC types exhibited distinct changes: The OFF midget cells' receptive fields became enlarged under natural movies (NMs), resulting in a lower cutoff frequency. Parasol cells and large OFF cells did not significantly change their receptive field sizes. All cell types exhibited stronger surrounds under NMs, resembling the whitening filters predicted by efficient coding for stimulus decorrelation, prompting us to test whether these changes were related to the different spectral content of the two stimulus types. Quantifying the effects of the filters' enhanced surrounds on the stimulus power spectrum showed a significant contribution toward whitening only in ON parasol cells, where a whitening effect emerged regardless of the training stimulus. These results suggest that while RGCs adapt to the differences between WN and NM stimuli, efficient coding can only partially account for this adaptation.",
+  "authors": [
+    "Vystrčilová Michaela",
+    "Sridhar Shashwat",
+    "Burg Max F",
+    "Khani Mohammad H",
+    "Karamanlis Dimokratis",
+    "Schreyer Helene M",
+    "Ramakrishna Varsha",
+    "Krüppel Steffen",
+    "Zapp Sören J",
+    "Mietsch Matthias",
+    "Gollisch Tim",
+    "Ecker Alexander S"
+  ],
+  "journal": "eNeuro",
+  "year": "2026",
+  "doi": "10.1523/ENEURO.0060-26.2026",
+  "mesh": [
+    "Animals",
+    "Retinal Ganglion Cells",
+    "Male",
+    "Callithrix",
+    "Photic Stimulation",
+    "Adaptation, Physiological",
+    "Models, Neurological"
+  ]
+}

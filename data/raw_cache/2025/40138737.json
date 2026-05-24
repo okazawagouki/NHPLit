@@ -1,0 +1,27 @@
+{
+  "pmid": "40138737",
+  "title": "NeuroNella: Automatic identification of neural activity from multielectrode arrays with blind source separation.",
+  "abstract": "<i>Objective</i>. The identification of individual neuronal activity from multielectrode arrays poses significant challenges, including handling data from numerous electrodes, resolving overlapping action potentials and tracking activity across long recordings. This study introduces NeuroNella, an automated algorithm developed to address these challenges.<i>Approach.</i>NeuroNella employs blind source separation to leverage the sparsity of action potentials in multichannel recordings. It was validated using three datasets, including two publicly available ones: (1)<i>in vitro</i>recordings (252 channels) of retinal ganglion cells from mice with simultaneous ground-truth loose patch data to assess accuracy; (2) a Neuropixel recording from an awake mouse, comprising 374 channels spanning different brain areas, to demonstrate scalability with dense multielectrode configurations in<i>in vivo</i>recordings; and (3) data (32 channels) recorded from the medullary reticular formation in a terminally anaesthetised macaque, to showcase decomposition over long periods of time.<i>Main results.</i>The algorithm exhibited an error rate of less than 1% compared to ground-truth data. It reliably identified individual neurons, detected neuronal activity across a wide amplitude range, and tolerated minor probe shifts, maintaining robustness in prolonged experimental sessions.<i>Significance.</i>NeuroNella provides an automated and efficient method for neuronal activity identification. Its adaptability to diverse dataset, species, and recording configurations underscores its potential to advance studies of neuronal dynamics and facilitate real-time neuronal decoding systems.",
+  "authors": [
+    "Germer C",
+    "Farina D",
+    "Baker S N",
+    "Vecchio A Del"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2025",
+  "doi": "10.1088/1741-2552/adc5a4",
+  "mesh": [
+    "Animals",
+    "Mice",
+    "Action Potentials",
+    "Algorithms",
+    "Neurons",
+    "Microelectrodes",
+    "Electrodes, Implanted",
+    "Retinal Ganglion Cells",
+    "Pattern Recognition, Automated",
+    "Mice, Inbred C57BL",
+    "Male"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmid": "37983250",
+  "title": "Exploring strategy differences between humans and monkeys with recurrent neural networks.",
+  "abstract": "Animal models are used to understand principles of human biology. Within cognitive neuroscience, non-human primates are considered the premier model for studying decision-making behaviors in which direct manipulation experiments are still possible. Some prominent studies have brought to light major discrepancies between monkey and human cognition, highlighting problems with unverified extrapolation from monkey to human. Here, we use a parallel model system-artificial neural networks (ANNs)-to investigate a well-established discrepancy identified between monkeys and humans with a working memory task, in which monkeys appear to use a recency-based strategy while humans use a target-selective strategy. We find that ANNs trained on the same task exhibit a progression of behavior from random behavior (untrained) to recency-like behavior (partially trained) and finally to selective behavior (further trained), suggesting monkeys and humans may occupy different points in the same overall learning progression. Surprisingly, what appears to be recency-like behavior in the ANN, is in fact an emergent non-recency-based property of the organization of the neural network's state space during its development through training. We find that explicit encouragement of recency behavior during training has a dual effect, not only causing an accentuated recency-like behavior, but also speeding up the learning process altogether, resulting in an efficient shaping mechanism to achieve the optimal strategy. Our results suggest a new explanation for the discrepency observed between monkeys and humans and reveal that what can appear to be a recency-based strategy in some cases may not be recency at all.",
+  "authors": [
+    "Tsuda Ben",
+    "Richmond Barry J",
+    "Sejnowski Terrence J"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2023",
+  "doi": "10.1371/journal.pcbi.1011618",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Haplorhini",
+    "Learning",
+    "Memory, Short-Term",
+    "Cognition",
+    "Neural Networks, Computer"
+  ]
+}

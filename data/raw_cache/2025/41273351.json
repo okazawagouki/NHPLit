@@ -1,0 +1,13 @@
+{
+  "pmid": "41273351",
+  "title": "PhyloCNN: Improving tree representation and neural network architecture for deep learning from trees in phylodynamics and diversification studies.",
+  "abstract": "Phylodynamics and diversification studies using complex evolutionary models can be challenging, especially with traditional likelihood-based approaches. As an alternative, likelihood-free simulation-based approaches have been proposed due to their ability to incorporate complex models and scenarios. Here, we propose a new simulation-based deep learning (DL) method capable of selecting birth-death models and accurately estimating their parameters in both phylodynamics and diversification studies. We use a convolutional approach, where trees are encoded using the neighborhood of all nodes and leaves of the input phylogeny. We also developed a dedicated neural network architecture called PhyloCNN. Using simulations, we compared the accuracy of PhyloCNN when using a variable number of neighbors to describe the local context of nodes and leaves. The number of neighbors had a greater impact when considering smaller training sets, with a broader context showing higher accuracy, especially for complex evolutionary models. Compared to other recently developed DL approaches, PhyloCNN showed higher or similar accuracies for all parameters when used with training sets one or two orders of magnitude smaller (10,000 to 100,000 simulated training trees, instead of millions). PhyloCNN also compared favorably with state-of-the-art likelihood-based methods. We applied PhyloCNN with compelling results to two real-world phylodynamics and diversification datasets, related to HIV superspreaders in Zurich and to primates and their ecological role as seed dispersers. The high accuracy and computational efficiency of PhyloCNN opens new possibilities for phylodynamics and diversification studies that need to account for idiosyncratic phylogenetic histories with specific parameter spaces and sampling scenarios.",
+  "authors": [
+    "Perez Manolo Fernandez",
+    "Gascuel Olivier"
+  ],
+  "journal": "Systematic biology",
+  "year": "2025",
+  "doi": "10.1093/sysbio/syaf082",
+  "mesh": []
+}

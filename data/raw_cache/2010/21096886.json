@@ -1,0 +1,21 @@
+{
+  "pmid": "21096886",
+  "title": "In search of more robust decoding algorithms for neural prostheses, a data driven approach.",
+  "abstract": "In the past decade the field of neural interface systems has enjoyed an increase in attention from the scientific community and the general public, in part due to the enormous potential that such systems have to increase the quality of life for paralyzed patients. While significant progress has been made, serious challenges remain to be addressed from both biological and engineering perspectives. A key issue is how to optimize the decoding of neural information, such that neural signals are correctly mapped to effectors that interact with the outside world - like robotic hands and limbs or the patient's own muscles. Here we present some recent progress on tackling this problem by applying the latest developments in machine learning. Neural data was collected from macaque monkeys performing a real-time hand grasp decoding task. Signals were recorded via chronically implanted electrodes in the anterior intraparietal cortex (AIP) and ventral premotor cortex (F5), brain areas that are known to be involved in the transformation of visual signals into hand grasping instructions. We present a comparative study of different classical machine learning methods with an application of decoding of hand postures, as well as a new approach for more robust decoding. Results suggests that combining data-driven algorithmic approaches with well-known parametric methods could lead to better performing and more robust learners, which may have direct implications for future clinical devices.",
+  "authors": [
+    "Subasi Erk",
+    "Townsend Benjamin",
+    "Scherberger Hansjorg"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2010",
+  "doi": "10.1109/IEMBS.2010.5627386",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Macaca mulatta",
+    "Prostheses and Implants",
+    "Robotics"
+  ]
+}

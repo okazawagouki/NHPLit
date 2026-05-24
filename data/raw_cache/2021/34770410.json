@@ -1,0 +1,23 @@
+{
+  "pmid": "34770410",
+  "title": "Automated Mouse Pupil Size Measurement System to Assess Locus Coeruleus Activity with a Deep Learning-Based Approach.",
+  "abstract": "Strong evidence from studies on primates and rodents shows that changes in pupil diameter may reflect neural activity in the locus coeruleus (LC). Pupillometry is the only available non-invasive technique that could be used as a reliable and easily accessible real-time biomarker of changes in the in vivo activity of the LC. However, the application of pupillometry to preclinical research in rodents is not yet fully standardized. A lack of consensus on the technical specifications of some of the components used for image recording or positioning of the animal and cameras have been recorded in recent scientific literature. In this study, a novel pupillometry system to indirectly assess, in real-time, the function of the LC in anesthetized rodents is presented. The system comprises a deep learning SOLOv2 instance-based fast segmentation framework and a platform designed to place the experimental subject, the video cameras for data acquisition, and the light source. The performance of the proposed setup was assessed and compared to other baseline methods using a validation and an external test set. In the latter, the calculated intersection over the union was 0.93 and the mean absolute percentage error was 1.89% for the selected method. The Bland-Altman analysis depicted an excellent agreement. The results confirmed a high accuracy that makes the system suitable for real-time pupil size tracking, regardless of the pupil's size, light intensity, or any features typical of the recording process in sedated mice. The framework could be used in any neurophysiological study with sedated or fixed-head animals.",
+  "authors": [
+    "Lara-Doña Alejandro",
+    "Torres-Sanchez Sonia",
+    "Priego-Torres Blanca",
+    "Berrocoso Esther",
+    "Sanchez-Morillo Daniel"
+  ],
+  "journal": "Sensors (Basel, Switzerland)",
+  "year": "2021",
+  "doi": "10.3390/s21217106",
+  "mesh": [
+    "Animals",
+    "Deep Learning",
+    "Light",
+    "Locus Coeruleus",
+    "Mice",
+    "Pupil"
+  ]
+}

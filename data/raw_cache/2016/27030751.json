@@ -1,0 +1,25 @@
+{
+  "pmid": "27030751",
+  "title": "Multiplexed Population Coding of Stimulus Properties by Leech Mechanosensory Cells.",
+  "abstract": "UNLABELLED: Sensory coding has long been discussed in terms of a dichotomy between spike timing and rate coding. However, recent studies found that in primate mechanoperception and other sensory systems, spike rates and timing of cell populations complement each other. They simultaneously carry information about different stimulus properties in a multiplexed way. Here, we present evidence for multiplexed encoding of tactile skin stimulation in the tiny population of leech mechanoreceptors, consisting of only 10 cells of two types with overlapping receptive fields. Each mechanoreceptor neuron of the leech varies spike count and response latency to both touch intensity and location, leading to ambiguous responses to different stimuli. Nevertheless, three different stimulus estimation techniques consistently reveal that the neuronal population allows reliable decoding of both stimulus properties. For the two mechanoreceptor types, the transient responses of T (touch) cells and the sustained responses of P (pressure) cells, the relative timing of the first spikes of two mechanoreceptors encodes stimulus location, whereas summed spike counts represent touch intensity. Differences between the cell types become evident in responses to combined stimulus properties. The best estimation performance for stimulus location is obtained from the relative first spike timing of the faster and temporally more precise T cells. Simultaneously, the sustained responses of P cells indicate touch intensity by summed spike counts and stimulus duration by the duration of spike responses. The striking similarities of these results with previous findings on primate mechanosensory afferents suggest multiplexed population coding as a general principle of somatosensation. SIGNIFICANCE STATEMENT: Multiplexing, the simultaneous encoding of different stimulus properties by distinct neuronal response features, has recently been suggested as a mechanism used in several sensory systems, including primate somatosensation. While a rigorous experimental verification of the multiplexing hypothesis is difficult to accomplish in a complex vertebrate system, it is feasible for a small population of individually characterized leech neurons. Monitoring the responses of all four mechanoreceptors innervating a patch of skin revealed striking similarities between touch encoding in the primate and the leech: summed spike counts represent stimulus intensity, whereas relative timing of first spikes encodes stimulus location. These findings suggest that multiplexed population coding is a general mechanism of touch encoding common to species as different as man and worm.",
+  "authors": [
+    "Pirschel Friederice",
+    "Kretzberg Jutta"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2016",
+  "doi": "10.1523/JNEUROSCI.1753-15.2016",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Biophysics",
+    "Leeches",
+    "Mechanoreceptors",
+    "Neurons, Afferent",
+    "Physical Stimulation",
+    "Reaction Time",
+    "Skin",
+    "Time Factors",
+    "Touch"
+  ]
+}

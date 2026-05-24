@@ -1,0 +1,32 @@
+{
+  "pmid": "40527337",
+  "title": "Investigating the benefits of artificial neural networks over linear approaches to BMI decoding.",
+  "abstract": "<i>Objective.</i>Brain-machine interfaces (BMI) aim to restore function to persons living with spinal cord injuries by 'decoding' neural signals into behavior. Recently, nonlinear BMI decoders have outperformed previous state-of-the-art linear decoders, but few studies have investigated what specific improvements these nonlinear approaches provide. In this study, we compare how nonlinear and linear approaches predict individuated finger movements in open and closed-loop settings.<i>Approach.</i>Two adult male rhesus macaques were implanted with Utah arrays in the motor cortex and performed a 2D dexterous finger movement task for a juice reward. Multiple linear and nonlinear 'decoders' were used to map from recorded spiking band power into movement kinematics. Performance of these decoders was compared and analyzed to determine how nonlinear decoders perform in both open and closed-loop scenarios.<i>Main Results.</i>We show that nonlinear decoders enable control which more closely resembles true hand movements, producing distributions of velocities 80.7% closer to true hand control than linear decoders. Addressing concerns that neural networks may come to inconsistent solutions, we find that regularization techniques improve the consistency of temporally-convolved feedforward neural network convergence by up to 188.9%, along with improving average performance and training speed. Finally, we show that TCNs and long short-term memory can effectively leverage training data from multiple task variations to improve generalization.<i>Significance.</i>The results of this study support artificial neural networks of all kinds as the future of BMI decoding and show potential for generalizing over less constrained tasks.",
+  "authors": [
+    "Temmar Hisham",
+    "Willsey Matthew S",
+    "Costello Joseph T",
+    "Mender Matthew J",
+    "Cubillos Luis Hernan",
+    "DeMatteo Jesse C",
+    "Lam Jordan Lw",
+    "Wallace Dylan M",
+    "Kelberman Madison M",
+    "Patil Parag G",
+    "Chestek Cynthia A"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2025",
+  "doi": "10.1088/1741-2552/ade568",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Macaca mulatta",
+    "Neural Networks, Computer",
+    "Brain-Computer Interfaces",
+    "Motor Cortex",
+    "Linear Models",
+    "Fingers",
+    "Movement"
+  ]
+}

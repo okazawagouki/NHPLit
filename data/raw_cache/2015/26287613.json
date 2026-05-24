@@ -1,0 +1,28 @@
+{
+  "pmid": "26287613",
+  "title": "A Multi-Area Stochastic Model for a Covert Visual Search Task.",
+  "abstract": "Decisions typically comprise several elements. For example, attention must be directed towards specific objects, their identities recognized, and a choice made among alternatives. Pairs of competing accumulators and drift-diffusion processes provide good models of evidence integration in two-alternative perceptual choices, but more complex tasks requiring the coordination of attention and decision making involve multistage processing and multiple brain areas. Here we consider a task in which a target is located among distractors and its identity reported by lever release. The data comprise reaction times, accuracies, and single unit recordings from two monkeys' lateral interparietal area (LIP) neurons. LIP firing rates distinguish between targets and distractors, exhibit stimulus set size effects, and show response-hemifield congruence effects. These data motivate our model, which uses coupled sets of leaky competing accumulators to represent processes hypothesized to occur in feature-selective areas and limb motor and pre-motor areas, together with the visual selection process occurring in LIP. Model simulations capture the electrophysiological and behavioral data, and fitted parameters suggest that different connection weights between LIP and the other cortical areas may account for the observed behavioral differences between the animals.",
+  "authors": [
+    "Schwemmer Michael A",
+    "Feng Samuel F",
+    "Holmes Philip J",
+    "Gottlieb Jacqueline",
+    "Cohen Jonathan D"
+  ],
+  "journal": "PloS one",
+  "year": "2015",
+  "doi": "10.1371/journal.pone.0136097",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Behavior, Animal",
+    "Decision Making",
+    "Macaca",
+    "Models, Neurological",
+    "Parietal Lobe",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Stochastic Processes",
+    "Visual Perception"
+  ]
+}

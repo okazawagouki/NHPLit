@@ -1,0 +1,25 @@
+{
+  "pmid": "17959253",
+  "title": "Optical filtering removes non-homogenous illumination artifacts in optical imaging.",
+  "abstract": "Under constant light illumination, cortical neuronal activity slightly modulates intensity of the light reflected from cortical surface. Optical imaging of the reflected light from the cortex has now become a popular method to obtain cortical functional maps. Since the modulation signal is small, this method is very sensitive to other sources of the light intensity changes. A well-known artifact in this signal is the bias in the reflected light intensity due to the curvature of the cortex. The curvature of the cortex creates inhomogeneity in reflected light intensity with characteristic concentric-ring pattern in the functional maps (known as ring-shape artifact). It is particularly visible in single-condition maps if the number of trials is small. We demonstrate a method that can remove this and similar artifacts using an optical filter to equalize the reflected light intensity. Functional images recorded with the application of our filter - inserted into the optics between the cortex and the camera - became more uniform and distortion-free. Our approach consisting of the equalization optical filter is appropriate for experiments where inhomogeneous light reflection, single-condition maps, and a small number of trials exist, e.g. imaging studies of higher cortices in behaving monkeys.",
+  "authors": [
+    "Przybyszewski Andrzej W",
+    "Sato Takayuki",
+    "Fukuda Mitsuhiro"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2008",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Artifacts",
+    "Brain Mapping",
+    "Diagnostic Imaging",
+    "Dominance, Ocular",
+    "Filtration",
+    "Macaca mulatta",
+    "Optics and Photonics",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

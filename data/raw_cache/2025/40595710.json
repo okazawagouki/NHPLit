@@ -1,0 +1,29 @@
+{
+  "pmid": "40595710",
+  "title": "Keypoint-based modeling reveals fine-grained body pose tuning in superior temporal sulcus neurons.",
+  "abstract": "Body pose and orientation serve as vital visual signals in primate non-verbal social communication. Leveraging deep learning algorithms that extract body poses from videos of behaving monkeys, applied to a monkey avatar, we investigated neural tuning for pose and viewpoint, targeting fMRI-defined mid and anterior Superior Temporal Sulcus (STS) body patches. We modeled the pose and viewpoint selectivity of the units with keypoint-based principal component regression with cross-validation and applied model inversion as a key approach to identify effective body parts and views. Mid STS units were effectively modeled using view-dependent 2D keypoint representations, revealing that their responses were driven by specific body parts that differed among neurons. Some anterior STS units exhibited better predictive performances with a view-dependent 3D model. On average, anterior STS units were better fitted by a keypoint-based model incorporating mirror-symmetric viewpoint tuning than by view-dependent 2D and 3D keypoint models. However, in both regions, a view-independent keypoint model resulted in worse predictive performance. This keypoint-based approach provides insights into how the primate visual system encodes socially relevant body cues, deepening our understanding of body pose representation in the STS.",
+  "authors": [
+    "Raman Rajani",
+    "Bognár Anna",
+    "Ghamkhari Nejad Ghazaleh",
+    "Mukovskiy Albert",
+    "Martini Lucas",
+    "Giese Martin",
+    "Vogels Rufin"
+  ],
+  "journal": "Nature communications",
+  "year": "2025",
+  "doi": "10.1038/s41467-025-60945-5",
+  "mesh": [
+    "Animals",
+    "Temporal Lobe",
+    "Neurons",
+    "Magnetic Resonance Imaging",
+    "Macaca mulatta",
+    "Male",
+    "Posture",
+    "Visual Perception",
+    "Models, Neurological",
+    "Deep Learning"
+  ]
+}

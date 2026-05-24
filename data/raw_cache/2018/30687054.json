@@ -1,0 +1,14 @@
+{
+  "pmid": "30687054",
+  "title": "Saccade Velocity Driven Oscillatory Network Model of Grid Cells.",
+  "abstract": "Grid cells and place cells are believed to be cellular substrates for the spatial navigation functions of hippocampus as experimental animals physically navigated in 2D and 3D spaces. However, a recent saccade study on head fixated monkey has also reported grid-like representations on saccadic trajectory while the animal scanned the images on a computer screen. We present two computational models that explain the formation of grid patterns on saccadic trajectory formed on the novel Images. The first model named Saccade Velocity Driven Oscillatory Network -Direct PCA (SVDON-DPCA) explains how grid patterns can be generated on saccadic space using Principal Component Analysis (PCA) like learning rule. The model adopts a hierarchical architecture. We extend this to a network model viz. Saccade Velocity Driven Oscillatory Network-Network PCA (SVDON-NPCA) where the direct PCA stage is replaced by a neural network that can implement PCA using a neurally plausible algorithm. This gives the leverage to study the formation of grid cells at a network level. Saccade trajectory for both models is generated based on an attention model which attends to the salient location by computing the saliency maps of the images. Both models capture the spatial characteristics of grid cells such as grid scale variation on the dorso-ventral axis of Medial Entorhinal cortex. Adding one more layer of LAHN over the SVDON-NPCA model predicts the Place cells in saccadic space, which are yet to be discovered experimentally. To the best of our knowledge, this is the first attempt to model grid cells and place cells from saccade trajectory.",
+  "authors": [
+    "Chauhan Ankur",
+    "Soman Karthik",
+    "Chakravarthy V Srinivasa"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2018",
+  "doi": "10.3389/fncom.2018.00107",
+  "mesh": []
+}

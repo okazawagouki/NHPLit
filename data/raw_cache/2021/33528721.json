@@ -1,0 +1,19 @@
+{
+  "pmid": "33528721",
+  "title": "Energetics of stochastic BCM type synaptic plasticity and storing of accurate information.",
+  "abstract": "Excitatory synaptic signaling in cortical circuits is thought to be metabolically expensive. Two fundamental brain functions, learning and memory, are associated with long-term synaptic plasticity, but we know very little about energetics of these slow biophysical processes. This study investigates the energy requirement of information storing in plastic synapses for an extended version of BCM plasticity with a decay term, stochastic noise, and nonlinear dependence of neuron's firing rate on synaptic current (adaptation). It is shown that synaptic weights in this model exhibit bistability. In order to analyze the system analytically, it is reduced to a simple dynamic mean-field for a population averaged plastic synaptic current. Next, using the concepts of nonequilibrium thermodynamics, we derive the energy rate (entropy production rate) for plastic synapses and a corresponding Fisher information for coding presynaptic input. That energy, which is of chemical origin, is primarily used for battling fluctuations in the synaptic weights and presynaptic firing rates, and it increases steeply with synaptic weights, and more uniformly though nonlinearly with presynaptic firing. At the onset of synaptic bistability, Fisher information and memory lifetime both increase sharply, by a few orders of magnitude, but the plasticity energy rate changes only mildly. This implies that a huge gain in the precision of stored information does not have to cost large amounts of metabolic energy, which suggests that synaptic information is not directly limited by energy consumption. Interestingly, for very weak synaptic noise, such a limit on synaptic coding accuracy is imposed instead by a derivative of the plasticity energy rate with respect to the mean presynaptic firing, and this relationship has a general character that is independent of the plasticity type. An estimate for primate neocortex reveals that a relative metabolic cost of BCM type synaptic plasticity, as a fraction of neuronal cost related to fast synaptic transmission and spiking, can vary from negligible to substantial, depending on the synaptic noise level and presynaptic firing.",
+  "authors": [
+    "Karbowski Jan"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2021",
+  "doi": "10.1007/s10827-020-00775-0",
+  "mesh": [
+    "Animals",
+    "Models, Neurological",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Synapses",
+    "Synaptic Transmission"
+  ]
+}

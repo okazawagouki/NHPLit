@@ -1,0 +1,39 @@
+{
+  "pmid": "34664552",
+  "title": "scAAVengr, a transcriptome-based pipeline for quantitative ranking of engineered AAVs with single-cell resolution.",
+  "abstract": "BACKGROUND: Adeno-associated virus (AAV)-mediated gene therapies are rapidly advancing to the clinic, and AAV engineering has resulted in vectors with increased ability to deliver therapeutic genes. Although the choice of vector is critical, quantitative comparison of AAVs, especially in large animals, remains challenging. METHODS: Here, we developed an efficient single-cell AAV engineering pipeline (scAAVengr) to simultaneously quantify and rank efficiency of competing AAV vectors across all cell types in the same animal. RESULTS: To demonstrate proof-of-concept for the scAAVengr workflow, we quantified - with cell-type resolution - the abilities of naturally occurring and newly engineered AAVs to mediate gene expression in primate retina following intravitreal injection. A top performing variant identified using this pipeline, K912, was used to deliver SaCas9 and edit the rhodopsin gene in macaque retina, resulting in editing efficiency similar to infection rates detected by the scAAVengr workflow. scAAVengr was then used to identify top-performing AAV variants in mouse brain, heart, and liver following systemic injection. CONCLUSIONS: These results validate scAAVengr as a powerful method for development of AAV vectors. FUNDING: This work was supported by funding from the Ford Foundation, NEI/NIH, Research to Prevent Blindness, Foundation Fighting Blindness, UPMC Immune Transplant and Therapy Center, and the Van Sloun fund for canine genetic research.",
+  "authors": [
+    "Öztürk Bilge E",
+    "Johnson Molly E",
+    "Kleyman Michael",
+    "Turunç Serhan",
+    "He Jing",
+    "Jabalameli Sara",
+    "Xi Zhouhuan",
+    "Visel Meike",
+    "Dufour Valérie L",
+    "Iwabe Simone",
+    "Pompeo Marinho Luis Felipe L",
+    "Aguirre Gustavo D",
+    "Sahel José-Alain",
+    "Schaffer David V",
+    "Pfenning Andreas R",
+    "Flannery John G",
+    "Beltran William A",
+    "Stauffer William R",
+    "Byrne Leah C"
+  ],
+  "journal": "eLife",
+  "year": "2021",
+  "doi": "10.7554/eLife.64175",
+  "mesh": [
+    "Animals",
+    "Dependovirus",
+    "Gene Expression Profiling",
+    "Genetic Vectors",
+    "Macaca fascicularis",
+    "Retina",
+    "Transcriptome",
+    "Transduction, Genetic"
+  ]
+}

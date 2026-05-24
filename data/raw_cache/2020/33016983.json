@@ -1,0 +1,23 @@
+{
+  "pmid": "33016983",
+  "title": "Optic flow parsing in the macaque monkey.",
+  "abstract": "During self-motion, an independently moving object generates retinal motion that is the vector sum of its world-relative motion and the optic flow caused by the observer's self-motion. A hypothesized mechanism for the computation of an object's world-relative motion is flow parsing, in which the optic flow field due to self-motion is globally subtracted from the retinal flow field. This subtraction generates a bias in perceived object direction (in retinal coordinates) away from the optic flow vector at the object's location. Despite psychophysical evidence for flow parsing in humans, the neural mechanisms underlying the process are unknown. To build the framework for investigation of the neural basis of flow parsing, we trained macaque monkeys to discriminate the direction of a moving object in the presence of optic flow simulating self-motion. Like humans, monkeys showed biases in object direction perception consistent with subtraction of background optic flow attributable to self-motion. The size of perceptual biases generally depended on the magnitude of the expected optic flow vector at the location of the object, which was contingent on object position and self-motion velocity. There was a modest effect of an object's depth on flow-parsing biases, which reached significance in only one of two subjects. Adding vestibular self-motion signals to optic flow facilitated flow parsing, increasing biases in direction perception. Our findings indicate that monkeys exhibit perceptual hallmarks of flow parsing, setting the stage for the examination of the neural mechanisms underlying this phenomenon.",
+  "authors": [
+    "Peltier Nicole E",
+    "Angelaki Dora E",
+    "DeAngelis Gregory C"
+  ],
+  "journal": "Journal of vision",
+  "year": "2020",
+  "doi": "10.1167/jov.20.10.8",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Motion Perception",
+    "Optic Flow",
+    "Retina"
+  ]
+}

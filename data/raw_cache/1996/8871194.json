@@ -1,0 +1,24 @@
+{
+  "pmid": "8871194",
+  "title": "Motor unit recruitment in a distributed model of extraocular muscle.",
+  "abstract": "1. Eye position commands frequently are treated as a lumped, single-valued variable that is related linearly to eye position. As a step toward investigating how system-level linearity might be achieved despite nonlinear components, a distributed model of motor units in the abducens nucleus and lateral rectus muscle was constructed. 2. Parameters in the model were estimated using data from three main sources: measurement of length-tension curves for eye muscle in people, electrophysiological recording of ocular motoneuron properties in monkeys, and investigations of oculomotor unit properties in cat. Units (n = 100) in the distributed model were assigned equal strengths and for a given fixation command, the force developed by each unit was calculated, and the sum of unit forces compared with the active force in the entire muscle as measured experimentally. 3. The properties of the active units then were adjusted to reduce the size of any resultant error in a manner related to gradient descent methods for neural-net training. Distributed models were \"trained\" in this fashion for a series of eye positions drawn at random from the oculomotor range until performance stabilized. The goal of the training procedure was to obtain a good match between the output of the model and the experimental data on muscle force as a function of eye position. 4. Plots of trained motor-unit strength against ocular motoneuron threshold revealed a U-shaped pattern with the strongest units being recruited at both extremes of the oculomotor range and the weakest units recruited in the middle. The pattern remained unaltered qualitatively over a range of assumptions about the distribution of ocular motoneuron parameters and the relation between motoneuron firing rate and unit force. 5. The right-hand limb of the U-shaped pattern is similar to that observed in spinal motoneurons, where stronger units tend to have higher recruitment thresholds. The left-hand limb may reflect the two specializations of eye muscle: the functional need for very precise control of eye position in the middle of the oculomotor range and the use of multiply innervated muscle fibers to provide ripple-free control of eye position at low firing frequencies.",
+  "authors": [
+    "Dean P"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1996",
+  "doi": "",
+  "mesh": [
+    "Abducens Nerve",
+    "Animals",
+    "Cats",
+    "Eye Movements",
+    "Haplorhini",
+    "Humans",
+    "Models, Neurological",
+    "Motor Neurons",
+    "Neural Networks, Computer",
+    "Oculomotor Muscles",
+    "Recruitment, Neurophysiological"
+  ]
+}

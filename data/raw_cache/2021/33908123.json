@@ -1,0 +1,29 @@
+{
+  "pmid": "33908123",
+  "title": "Evaluation of automated segmentation algorithms for neurons in macaque cerebral microscopic images.",
+  "abstract": "Accurate cerebral neuron segmentation is required before neuron counting and neuron morphological analysis. Numerous algorithms for neuron segmentation have been published, but they are mainly evaluated using limited subsets from a specific anatomical region, targeting neurons of clear contrast and/or neurons with similar staining intensity. It is thus unclear how these algorithms perform on cerebral neurons in diverse anatomical regions. In this article, we introduce and reliably evaluate existing machine learning algorithms using a data set of microscopy images of macaque brain. This data set highlights various anatomical regions (e.g., cortex, caudate, thalamus, claustrum, putamen, hippocampus, subiculum, lateral geniculate, globus pallidus, etc.), poor contrast, and staining intensity differences of neurons. The evaluation was performed using 10 architectures of six classic machine learning algorithms in terms of typical Recall, Precision, F-score, aggregated Jaccard index (AJI), as well as a performance ranking of algorithms. F-score of most of the algorithms is superior to 0.7. Deep learning algorithms facilitate generally higher F-scores. U-net with suitable layer depth has been evaluated to be excellent classifiers with F-score of 0.846 and 0.837 when performing cross validation. The evaluation and analysis indicate the performance gap among algorithms in various anatomical regions and the strengths and limitations of each algorithm. The comparative result highlights at the same time the importance and difficulty of neuron segmentation and provides clues for future improvement. To the best of our knowledge, this work is the first comprehensive study for neuron segmentation in such large-scale anatomical regions. Neuron segmentation plays a critical role in extracting cerebral information, such as neuron counting and neuron morphological analysis. Accurate automated cerebral neuron segmentation is a challenging task due to different kinds, poor contrast, staining intensity differences, and fuzzy boundaries of neurons. The comprehensive evaluation and analysis of performance among existing machine learning algorithms in diverse anatomical regions allows to make clear of the strengths and limitations of state-of-the-art algorithm. The comprehensive study provides clues for future improvement and creation of automated methods.",
+  "authors": [
+    "You Zhenzhen",
+    "Jiang Ming",
+    "Shi Zhenghao",
+    "Ning Xiaojuan",
+    "Shi Cheng",
+    "Du Shuangli",
+    "Hérard Anne-Sophie",
+    "Jan Caroline",
+    "Souedet Nicolas",
+    "Delzescaux Thierry"
+  ],
+  "journal": "Microscopy research and technique",
+  "year": "2021",
+  "doi": "10.1002/jemt.23786",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Image Processing, Computer-Assisted",
+    "Macaca",
+    "Machine Learning",
+    "Neurons"
+  ]
+}

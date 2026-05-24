@@ -1,0 +1,26 @@
+{
+  "pmid": "27253452",
+  "title": "The visual development of hand-centered receptive fields in a neural network model of the primate visual system trained with experimentally recorded human gaze changes.",
+  "abstract": "Neurons have been found in the primate brain that respond to objects in specific locations in hand-centered coordinates. A key theoretical challenge is to explain how such hand-centered neuronal responses may develop through visual experience. In this paper we show how hand-centered visual receptive fields can develop using an artificial neural network model, VisNet, of the primate visual system when driven by gaze changes recorded from human test subjects as they completed a jigsaw. A camera mounted on the head captured images of the hand and jigsaw, while eye movements were recorded using an eye-tracking device. This combination of data allowed us to reconstruct the retinal images seen as humans undertook the jigsaw task. These retinal images were then fed into the neural network model during self-organization of its synaptic connectivity using a biologically plausible trace learning rule. A trace learning mechanism encourages neurons in the model to learn to respond to input images that tend to occur in close temporal proximity. In the data recorded from human subjects, we found that the participant's gaze often shifted through a sequence of locations around a fixed spatial configuration of the hand and one of the jigsaw pieces. In this case, trace learning should bind these retinal images together onto the same subset of output neurons. The simulation results consequently confirmed that some cells learned to respond selectively to the hand and a jigsaw piece in a fixed spatial configuration across different retinal views.",
+  "authors": [
+    "Galeazzi Juan M",
+    "Navajas Joaquín",
+    "Mender Bedeho M W",
+    "Quian Quiroga Rodrigo",
+    "Minini Loredana",
+    "Stringer Simon M"
+  ],
+  "journal": "Network (Bristol, England)",
+  "year": "2016",
+  "doi": "10.1080/0954898X.2016.1187311",
+  "mesh": [
+    "Animals",
+    "Hand",
+    "Humans",
+    "Learning",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Ocular Physiological Phenomena",
+    "Primates"
+  ]
+}

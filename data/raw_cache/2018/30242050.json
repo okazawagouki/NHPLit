@@ -1,0 +1,23 @@
+{
+  "pmid": "30242050",
+  "title": "Emergence of Binocular Disparity Selectivity through Hebbian Learning.",
+  "abstract": "Neural selectivity in the early visual cortex strongly reflects the statistics of our environment (Barlow, 2001; Geisler, 2008). Although this has been described extensively in literature through various encoding hypotheses (Barlow and Földiák, 1989; Atick and Redlich, 1992; Olshausen and Field, 1996), an explanation as to how the cortex might develop the computational architecture to support these encoding schemes remains elusive. Here, using the more realistic example of binocular vision as opposed to monocular luminance-field images, we show how a simple Hebbian coincidence-detector is capable of accounting for the emergence of binocular, disparity selective, receptive fields. We propose a model based on spike timing-dependent plasticity, which not only converges to realistic single-cell and population characteristics, but also demonstrates how known biases in natural statistics may influence population encoding and downstream correlates of behavior. Furthermore, we show that the receptive fields we obtain are closer in structure to electrophysiological data reported in macaques than those predicted by normative encoding schemes (Ringach, 2002). We also demonstrate the robustness of our model to the input dataset, noise at various processing stages, and internal parameter variation. Together, our modeling results suggest that Hebbian coincidence detection is an important computational principle and could provide a biologically plausible mechanism for the emergence of selectivity to natural statistics in the early sensory cortex.<b>SIGNIFICANCE STATEMENT</b> Neural selectivity in the early visual cortex is often explained through encoding schemes that postulate that the computational aim of early sensory processing is to use the least possible resources (neurons, energy) to code the most informative features of the stimulus (information efficiency). In this article, using stereo images of natural scenes, we demonstrate how a simple Hebbian rule can lead to the emergence of a disparity-selective neural population that not only shows realistic single-cell and population tunings, but also demonstrates how known biases in natural statistics may influence population encoding and downstream correlates of behavior. Our approach allows us to view early neural selectivity, not as an optimization problem, but as an emergent property driven by biological rules of plasticity.",
+  "authors": [
+    "Chauhan Tushar",
+    "Masquelier Timothée",
+    "Montlibert Alexandre",
+    "Cottereau Benoit R"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2018",
+  "doi": "10.1523/JNEUROSCI.1259-18.2018",
+  "mesh": [
+    "Databases, Factual",
+    "Humans",
+    "Neural Networks, Computer",
+    "Neuronal Plasticity",
+    "Vision Disparity",
+    "Vision, Binocular",
+    "Visual Cortex"
+  ]
+}

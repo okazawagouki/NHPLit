@@ -1,0 +1,22 @@
+{
+  "pmid": "34139192",
+  "title": "Neurally driven synthesis of learned, complex vocalizations.",
+  "abstract": "Brain machine interfaces (BMIs) hold promise to restore impaired motor function and serve as powerful tools to study learned motor skill. While limb-based motor prosthetic systems have leveraged nonhuman primates as an important animal model,<sup>1-4</sup> speech prostheses lack a similar animal model and are more limited in terms of neural interface technology, brain coverage, and behavioral study design.<sup>5-7</sup> Songbirds are an attractive model for learned complex vocal behavior. Birdsong shares a number of unique similarities with human speech,<sup>8-10</sup> and its study has yielded general insight into multiple mechanisms and circuits behind learning, execution, and maintenance of vocal motor skill.<sup>11-18</sup> In addition, the biomechanics of song production bear similarity to those of humans and some nonhuman primates.<sup>19-23</sup> Here, we demonstrate a vocal synthesizer for birdsong, realized by mapping neural population activity recorded from electrode arrays implanted in the premotor nucleus HVC onto low-dimensional compressed representations of song, using simple computational methods that are implementable in real time. Using a generative biomechanical model of the vocal organ (syrinx) as the low-dimensional target for these mappings allows for the synthesis of vocalizations that match the bird's own song. These results provide proof of concept that high-dimensional, complex natural behaviors can be directly synthesized from ongoing neural activity. This may inspire similar approaches to prosthetics in other species by exploiting knowledge of the peripheral systems and the temporal structure of their output.",
+  "authors": [
+    "Arneodo Ezequiel M",
+    "Chen Shukai",
+    "Brown Daril E",
+    "Gilja Vikash",
+    "Gentner Timothy Q"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2021",
+  "doi": "10.1016/j.cub.2021.05.035",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Learning",
+    "Songbirds",
+    "Vocalization, Animal"
+  ]
+}

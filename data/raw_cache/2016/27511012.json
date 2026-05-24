@@ -1,0 +1,24 @@
+{
+  "pmid": "27511012",
+  "title": "3D Visual Response Properties of MSTd Emerge from an Efficient, Sparse Population Code.",
+  "abstract": "UNLABELLED: Neurons in the dorsal subregion of the medial superior temporal (MSTd) area of the macaque respond to large, complex patterns of retinal flow, implying a role in the analysis of self-motion. Some neurons are selective for the expanding radial motion that occurs as an observer moves through the environment (\"heading\"), and computational models can account for this finding. However, ample evidence suggests that MSTd neurons exhibit a continuum of visual response selectivity to large-field motion stimuli. Furthermore, the underlying computational principles by which these response properties are derived remain poorly understood. Here we describe a computational model of macaque MSTd based on the hypothesis that neurons in MSTd efficiently encode the continuum of large-field retinal flow patterns on the basis of inputs received from neurons in MT with receptive fields that resemble basis vectors recovered with non-negative matrix factorization. These assumptions are sufficient to quantitatively simulate neurophysiological response properties of MSTd cells, such as 3D translation and rotation selectivity, suggesting that these properties might simply be a byproduct of MSTd neurons performing dimensionality reduction on their inputs. At the population level, model MSTd accurately predicts eye velocity and heading using a sparse distributed code, consistent with the idea that biological MSTd might be well equipped to efficiently encode various self-motion variables. The present work aims to add some structure to the often contradictory findings about macaque MSTd, and offers a biologically plausible account of a wide range of visual response properties ranging from single-unit selectivity to population statistics. SIGNIFICANCE STATEMENT: Using a dimensionality reduction technique known as non-negative matrix factorization, we found that a variety of medial superior temporal (MSTd) neural response properties could be derived from MT-like input features. The responses that emerge from this technique, such as 3D translation and rotation selectivity, spiral tuning, and heading selectivity, can account for a number of empirical results. These findings (1) provide a further step toward a scientific understanding of the often nonintuitive response properties of MSTd neurons; (2) suggest that response properties, such as complex motion tuning and heading selectivity, might simply be a byproduct of MSTd neurons performing dimensionality reduction on their inputs; and (3) imply that motion perception in the cortex is consistent with ideas from the efficient-coding and free-energy principles.",
+  "authors": [
+    "Beyeler Michael",
+    "Dutt Nikil",
+    "Krichmar Jeffrey L"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2016",
+  "doi": "10.1523/JNEUROSCI.0396-16.2016",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Temporal Lobe",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

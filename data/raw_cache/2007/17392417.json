@@ -1,0 +1,25 @@
+{
+  "pmid": "17392417",
+  "title": "Temporal integration by stochastic recurrent network dynamics with bimodal neurons.",
+  "abstract": "Temporal integration of externally or internally driven information is required for a variety of cognitive processes. This computation is generally linked with graded rate changes in cortical neurons, which typically appear during a delay period of cognitive task in the prefrontal and other cortical areas. Here, we present a neural network model to produce graded (climbing or descending) neuronal activity. Model neurons are interconnected randomly by AMPA-receptor-mediated fast excitatory synapses and are subject to noisy background excitatory and inhibitory synaptic inputs. In each neuron, a prolonged afterdepolarizing potential follows every spike generation. Then, driven by an external input, the individual neurons display bimodal rate changes between a baseline state and an elevated firing state, with the latter being sustained by regenerated afterdepolarizing potentials. When the variance of background input and the uniform weight of recurrent synapses are adequately tuned, we show that stochastic noise and reverberating synaptic input organize these bimodal changes into a sequence that exhibits graded population activity with a nearly constant slope. To test the validity of the proposed mechanism, we analyzed the graded activity of anterior cingulate cortex neurons in monkeys performing delayed conditional Go/No-go discrimination tasks. The delay-period activities of cingulate neurons exhibited bimodal activity patterns and trial-to-trial variability that are similar to those predicted by the proposed model.",
+  "authors": [
+    "Okamoto Hiroshi",
+    "Isomura Yoshikazu",
+    "Takada Masahiko",
+    "Fukai Tomoki"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Inhibition",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Stochastic Processes"
+  ]
+}

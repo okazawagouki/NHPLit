@@ -1,0 +1,24 @@
+{
+  "pmid": "40777231",
+  "title": "Smart Dura: a functional artificial dura for multimodal neural recording and modulation.",
+  "abstract": "A multi-modal neural interface capable of long-term recording and stimulation is essential for advancing brain monitoring and developing targeted therapeutics. Among the traditional electrophysiological methods, micro-electrocorticography (μECoG) is appealing for chronic applications because it provides a good compromise between invasiveness and high-resolution neural recording. When combining μECoG with optical technologies, such as calcium imaging and optogenetics, this multi-modal approach enables the simultaneous collection of neural activity from individual neurons and the ability to perform cell-specific manipulation. While previous efforts have focused on multi-modal interfaces for small animal models, scaling these technologies to larger brains, of primates, remains challenging. In this paper, we present a multi-modal neural interface, named Smart Dura, a functional version of the commonly used artificial dura with integrated electrophysiological electrodes for large cortical area coverage for the NHP brain. The Smart Dura is fabricated using a thin-film microfabrication process to monolithically integrate a micron-scale electrode array into a soft, flexible, and transparent substrate with high-density electrodes (up to 256 electrodes) while providing matched mechanical compliance with the native tissue and achieving high optical transparency (exceeding 97%). Our <i>in vivo</i> experiments demonstrate electrophysiological recording capabilities combined with neuromodulation, as well as optical transparency via multiphoton imaging. This work paves the way toward a chronic neural interface that can provide large-scale, bidirectional interfacing for multimodal and closed-loop neuromodulation capabilities to study cortical brain activity in non-human primates, with the potential for translation to humans.",
+  "authors": [
+    "Vargo Sergio Montalvo",
+    "Hong Nari",
+    "Belloir Tiphaine",
+    "Stanis Noah",
+    "Zhou Jasmine",
+    "Khateeb Karam",
+    "Hatanaka Gaku",
+    "Ahmed Zabir",
+    "Kimukin Ibrahim",
+    "Griggs Devon J",
+    "Bair Wyeth",
+    "Yazdan-Shahmorad Azadeh",
+    "Chamanzar Maysamreza"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.02.26.640369",
+  "mesh": []
+}

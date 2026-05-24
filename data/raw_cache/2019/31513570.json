@@ -1,0 +1,27 @@
+{
+  "pmid": "31513570",
+  "title": "Characterizing and dissociating multiple time-varying modulatory computations influencing neuronal activity.",
+  "abstract": "In many brain areas, sensory responses are heavily modulated by factors including attentional state, context, reward history, motor preparation, learned associations, and other cognitive variables. Modelling the effect of these modulatory factors on sensory responses has proven challenging, mostly due to the time-varying and nonlinear nature of the underlying computations. Here we present a computational model capable of capturing and dissociating multiple time-varying modulatory effects on neuronal responses on the order of milliseconds. The model's performance is tested on extrastriate perisaccadic visual responses in nonhuman primates. Visual neurons respond to stimuli presented around the time of saccades differently than during fixation. These perisaccadic changes include sensitivity to the stimuli presented at locations outside the neuron's receptive field, which suggests a contribution of multiple sources to perisaccadic response generation. Current computational approaches cannot quantitatively characterize the contribution of each modulatory source in response generation, mainly due to the very short timescale on which the saccade takes place. In this study, we use a high spatiotemporal resolution experimental paradigm along with a novel extension of the generalized linear model framework (GLM), termed the sparse-variable GLM, to allow for time-varying model parameters representing the temporal evolution of the system with a resolution on the order of milliseconds. We used this model framework to precisely map the temporal evolution of the spatiotemporal receptive field of visual neurons in the middle temporal area during the execution of a saccade. Moreover, an extended model based on a factorization of the sparse-variable GLM allowed us to disassociate and quantify the contribution of individual sources to the perisaccadic response. Our results show that our novel framework can precisely capture the changes in sensitivity of neurons around the time of saccades, and provide a general framework to quantitatively track the role of multiple modulatory sources over time.",
+  "authors": [
+    "Niknam Kaiser",
+    "Akbarian Amir",
+    "Clark Kelsey",
+    "Zamani Yasin",
+    "Noudoost Behrad",
+    "Nategh Neda"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2019",
+  "doi": "10.1371/journal.pcbi.1007275",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computational Biology",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Saccades"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pmid": "36157324",
+  "title": "The cortical spectrum: A robust structural continuum in primate cerebral cortex revealed by histological staining and magnetic resonance imaging.",
+  "abstract": "High-level characterizations of the primate cerebral cortex sit between two extremes: on one end the cortical mantle is seen as a mosaic of structurally and functionally unique areas, and on the other it is seen as a uniform six-layered structure in which functional differences are defined solely by extrinsic connections. Neither of these extremes captures the crucial neuroanatomical finding: that the cortex exhibits systematic gradations in architectonic structure. These gradations have been shown to predict cortico-cortical connectivity, which in turn suggests powerful ways to ground connectomics in anatomical structure, and by extension cortical function. A challenge to widespread use of this concept is the labor-intensive and invasive nature of histological staining, which is the primary means of recognizing anatomical gradations. Here we show that a novel computational analysis technique can provide a coarse-grained picture of cortical variation. For each of 78 cortical areas spanning the entire cortical mantle of the rhesus macaque, we created a high dimensional set of anatomical features derived from captured images of cortical tissue stained for myelin and SMI-32. The method involved semi-automated de-noising of images, and enabled comparison of brain areas without hand-labeling of features such as layer boundaries. We applied multidimensional scaling (MDS) to the dataset to visualize similarity among cortical areas. This analysis shows a systematic variation between weakly laminated (limbic) cortices and sharply laminated (eulaminate) cortices. We call this smooth continuum the \"cortical spectrum\". We also show that this spectrum is visible within subsystems of the cortex: the occipital, parietal, temporal, motor, prefrontal, and insular cortices. We compared the MDS-derived spectrum with a spectrum produced using T1- and T2-weighted magnetic resonance imaging (MRI) data derived from macaque, and found close agreement of the two coarse-graining methods. This suggests that T1w/T2w data, routinely obtained in human MRI studies, can serve as an effective proxy for data derived from high-resolution histological methods. More generally, this approach shows that the cortical spectrum is robust to the specific method used to compare cortical areas, and is therefore a powerful tool to understand the principles of organization of the primate cortex.",
+  "authors": [
+    "John Yohan J",
+    "Zikopoulos Basilis",
+    "García-Cabezas Miguel Ángel",
+    "Barbas Helen"
+  ],
+  "journal": "Frontiers in neuroanatomy",
+  "year": "2022",
+  "doi": "10.3389/fnana.2022.897237",
+  "mesh": []
+}

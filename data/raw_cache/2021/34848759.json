@@ -1,0 +1,27 @@
+{
+  "pmid": "34848759",
+  "title": "The significance of neural inter-frequency power correlations.",
+  "abstract": "It is of great interest in neuroscience to determine what frequency bands in the brain have covarying power. This would help us robustly identify the frequency signatures of neural processes. However to date, to the best of the author's knowledge, a comprehensive statistical approach to this question that accounts for intra-frequency autocorrelation, frequency-domain oversampling, and multiple testing under dependency has not been undertaken. As such, this work presents a novel statistical significance test for correlated power across frequency bands for a broad class of non-stationary time series. It is validated on synthetic data. It is then used to test all of the inter-frequency power correlations between 0.2 and 8500 Hz in continuous intracortical extracellular neural recordings in Macaque M1, using a very large, publicly available dataset. The recordings were Current Source Density referenced and were recorded with a Utah array. The results support previous results in the literature that show that neural processes in M1 have power signatures across a very broad range of frequency bands. In particular, the power in LFP frequency bands as low as 20 Hz was found to almost always be statistically significantly correlated to the power in kHz frequency ranges. It is proposed that this test can also be used to discover the superimposed frequency domain signatures of all the neural processes in a neural signal, allowing us to identify every interesting neural frequency band.",
+  "authors": [
+    "Savolainen Oscar W"
+  ],
+  "journal": "Scientific reports",
+  "year": "2021",
+  "doi": "10.1038/s41598-021-02277-0",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Computational Biology",
+    "Electroencephalography",
+    "Humans",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Monte Carlo Method",
+    "Neurons",
+    "Neurosciences",
+    "Normal Distribution",
+    "Reproducibility of Results",
+    "Signal Processing, Computer-Assisted",
+    "Wavelet Analysis"
+  ]
+}

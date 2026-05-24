@@ -1,0 +1,20 @@
+{
+  "pmid": "9604103",
+  "title": "A model of neuronal responses in visual area MT.",
+  "abstract": "Electrophysiological studies indicate that neurons in the middle temporal (MT) area of the primate brain are selective for the velocity of visual stimuli. This paper describes a computational model of MT physiology, in which local image velocities are represented via the distribution of MT neuronal responses. The computation is performed in two stages, corresponding to neurons in cortical areas V1 and MT. Each stage computes a weighted linear sum of inputs, followed by rectification and divisive normalization. V1 receptive field weights are designed for orientation and direction selectivity. MT receptive field weights are designed for velocity (both speed and direction) selectivity. The paper includes computational simulations accounting for a wide range of physiological data, and describes experiments that could be used to further test and refine the model.",
+  "authors": [
+    "Simoncelli E P",
+    "Heeger D J"
+  ],
+  "journal": "Vision research",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Brain Mapping",
+    "Humans",
+    "Mathematics",
+    "Models, Neurological",
+    "Motion Perception",
+    "Time Factors"
+  ]
+}

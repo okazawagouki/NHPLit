@@ -1,0 +1,19 @@
+{
+  "pmid": "10962735",
+  "title": "Neural mechanisms of visual feature grouping.",
+  "abstract": "The present work relates compositions of visual scenes to signals in visual cortex and to cortical circuit models in order to understand neural mechanisms of perceptual feature grouping. It starts from the hypothesis that synchronization and decoupling of cortical gamma-activities (35-90 Hz) define the relations among visual objects. Here we concentrate on synchronization related to two basic visual situations, (1.) static retinal stimulation during ocular fixation, and (2.) transient stimulation during sudden luminance modulations or shifts in object position. For testing the synchronization hypothesis we investigated signal correlations of multiple micro-electrode recordings in visual cortex areas V1 and V2 of behaving monkeys. Static retinal stimuli induce gamma-activities that are loosely phase-coupled among neighboring neural populations of an object's cortical representation. This can explain why synchronization, measured by spectral coherence, is restricted to few millimeters cortex. Such patches of gamma-synchronization become de-coupled across the representation of an object's contour, and thereby can code figure-ground segregation. Transient stimuli evoke synchronized volleys of stimulus-locked activities that are typically non-rhythmic and include low frequency components in addition to those in the gamma-range. It is argued why stimulus-induced and stimulus-locked phase-coupled activations are both appropriate for supporting perceptual feature grouping. Clues for basic neural mechanisms participating in feature grouping are provided by our biologically motivated simulations of synchronization in cortical structures. (1.) Local populations generate gamma-oscillations via feedback inhibition during states of static retinal stimulation. (2.) Bidirectional facilitatory connections serve for phase-coupling among neighboring neural populations. (3.) Spike transmission delays, increasing with cortical distance, can explain the restriction of gamma-coherence to patches of few millimeters cortex. (4.) The size of synchronization patches in one visual area (e.g., V1) can define the size of classical receptive fields at the consecutive level of visual processing (V2) if Hebbian learning is operative. This may explain the increase in receptive field size at consecutive levels of visual processing. In conclusion, our results and those of others are supportive for the hypothesis that phase-coupled gamma-signals can code feature grouping and object continuity. However, convincing experimental proofs showing directly the dependence of perceptual grouping on cortical phase-coupling are still lacking.",
+  "authors": [
+    "Eckhorn R"
+  ],
+  "journal": "Neurologia i neurochirurgia polska",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Fixation, Ocular",
+    "Haplorhini",
+    "Nerve Net",
+    "Synaptic Transmission",
+    "Visual Cortex"
+  ]
+}

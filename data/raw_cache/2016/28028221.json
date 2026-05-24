@@ -1,0 +1,26 @@
+{
+  "pmid": "28028221",
+  "title": "Stable population coding for working memory coexists with heterogeneous neural dynamics in prefrontal cortex.",
+  "abstract": "Working memory (WM) is a cognitive function for temporary maintenance and manipulation of information, which requires conversion of stimulus-driven signals into internal representations that are maintained across seconds-long mnemonic delays. Within primate prefrontal cortex (PFC), a critical node of the brain's WM network, neurons show stimulus-selective persistent activity during WM, but many of them exhibit strong temporal dynamics and heterogeneity, raising the questions of whether, and how, neuronal populations in PFC maintain stable mnemonic representations of stimuli during WM. Here we show that despite complex and heterogeneous temporal dynamics in single-neuron activity, PFC activity is endowed with a population-level coding of the mnemonic stimulus that is stable and robust throughout WM maintenance. We applied population-level analyses to hundreds of recorded single neurons from lateral PFC of monkeys performing two seminal tasks that demand parametric WM: oculomotor delayed response and vibrotactile delayed discrimination. We found that the high-dimensional state space of PFC population activity contains a low-dimensional subspace in which stimulus representations are stable across time during the cue and delay epochs, enabling robust and generalizable decoding compared with time-optimized subspaces. To explore potential mechanisms, we applied these same population-level analyses to theoretical neural circuit models of WM activity. Three previously proposed models failed to capture the key population-level features observed empirically. We propose network connectivity properties, implemented in a linear network model, which can underlie these features. This work uncovers stable population-level WM representations in PFC, despite strong temporal neural dynamics, thereby providing insights into neural circuit mechanisms supporting WM.",
+  "authors": [
+    "Murray John D",
+    "Bernacchia Alberto",
+    "Roy Nicholas A",
+    "Constantinidis Christos",
+    "Romo Ranulfo",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2017",
+  "doi": "10.1073/pnas.1619449114",
+  "mesh": [
+    "Animals",
+    "Cognition",
+    "Macaca mulatta",
+    "Memory, Short-Term",
+    "Models, Neurological",
+    "Neurons",
+    "Population Dynamics",
+    "Prefrontal Cortex"
+  ]
+}

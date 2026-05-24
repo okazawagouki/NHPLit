@@ -1,0 +1,40 @@
+{
+  "pmid": "21925275",
+  "title": "A processing work-flow for measuring erythrocytes velocity in extended vascular networks from wide field high-resolution optical imaging data.",
+  "abstract": "Comprehensive information on the spatio-temporal dynamics of the vascular response is needed to underpin the signals used in hemodynamics-based functional imaging. It has recently been shown that red blood cells (RBCs) velocity and its changes can be extracted from wide-field optical imaging recordings of intrinsic absorption changes in cortex. Here, we describe a complete processing work-flow for reliable RBC velocity estimation in cortical networks. Several pre-processing steps are implemented: image co-registration, necessary to correct for small movements of the vasculature, semi-automatic image segmentation for fast and reproducible vessel selection, reconstruction of RBC trajectories patterns for each micro-vessel, and spatio-temporal filtering to enhance the desired data characteristics. The main analysis step is composed of two robust algorithms for estimating the RBCs' velocity field. Vessel diameter and its changes are also estimated, as well as local changes in backscattered light intensity. This full processing chain is implemented with a software suite that is freely distributed. The software uses efficient data management for handling the very large data sets obtained with in vivo optical imaging. It offers a complete and user-friendly graphical user interface with visualization tools for displaying and exploring data and results. A full data simulation framework is also provided in order to optimize the performances of the algorithm with respect to several characteristics of the data. We illustrate the performance of our method in three different cases of in vivo data. We first document the massive RBC speed response evoked by a spreading depression in anesthetized rat somato-sensory cortex. Second, we show the velocity response elicited by a visual stimulation in anesthetized cat visual cortex. Finally, we report, for the first time, visually-evoked RBC speed responses in an extended vascular network in awake monkey extrastriate cortex.",
+  "authors": [
+    "Deneux Thomas",
+    "Takerkart Sylvain",
+    "Grinvald Amiram",
+    "Masson Guillaume S",
+    "Vanzetta Ivo"
+  ],
+  "journal": "NeuroImage",
+  "year": "2012",
+  "doi": "10.1016/j.neuroimage.2011.08.081",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Blood Flow Velocity",
+    "Blood Vessels",
+    "Blood Volume",
+    "Cats",
+    "Cerebrovascular Circulation",
+    "Computer Simulation",
+    "Cortical Spreading Depression",
+    "Diagnostic Imaging",
+    "Erythrocytes",
+    "Hematocrit",
+    "Image Processing, Computer-Assisted",
+    "Light",
+    "Macaca mulatta",
+    "Microscopy, Video",
+    "Oximetry",
+    "Oxygen",
+    "Rats",
+    "Scattering, Radiation",
+    "Software",
+    "Somatosensory Cortex",
+    "Visual Cortex"
+  ]
+}

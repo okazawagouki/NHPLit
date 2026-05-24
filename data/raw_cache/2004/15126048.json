@@ -1,0 +1,23 @@
+{
+  "pmid": "15126048",
+  "title": "Multivariate receptive field mapping in marmoset auditory cortex.",
+  "abstract": "We describe a novel method for estimation of multivariate neuronal receptive fields that is based on least-squares (LS) regression. The method is shown to account for the relationship between the spike train of a given neuron, the activity of other neurons that are recorded simultaneously, and a variety of time-varying features of acoustic stimuli, e.g. spectral content, amplitude, and sound source direction. Vocalization-evoked neuronal responses from the marmoset auditory cortex are used to illustrate the method. Optimal predictions of single-unit activity were obtained by using the recent-time history of the target neuron and the concurrent activity of other simultaneously recorded neurons (R: 0.82 +/- 0.01, approximately 67% of variance). Predictions based on ensemble activity alone (R: 0.63 +/- 0.18) were equivalent to those based on the combination of ensemble activity and spectral features of the vocal calls (R: 0.61 +/- 0.24). This result suggests that all information derived from the spectrogram is embodied in ensemble activity and that there is a high level of redundancy in the marmoset auditory cortex. We also illustrate that the method allows for quantification of relative and shared contributions of each variable (spike train, spectral feature) to predictions of neuronal activity and describe a novel \"neurolet\" transform that arises from the method and that may serve as a tool for computationally efficient processing of natural sounds.",
+  "authors": [
+    "Luczak Artur",
+    "Hackett Troy A",
+    "Kajikawa Yoshinao",
+    "Laubach Mark"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Auditory Cortex",
+    "Brain Mapping",
+    "Callithrix",
+    "Multivariate Analysis"
+  ]
+}

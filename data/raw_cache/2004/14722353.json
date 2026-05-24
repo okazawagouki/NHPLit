@@ -1,0 +1,21 @@
+{
+  "pmid": "14722353",
+  "title": "Global optimization of cerebral cortex layout.",
+  "abstract": "Functional areas of mammalian cerebral cortex seem positioned to minimize costs of their interconnections, down to a best-in-a-billion optimality level. The optimization problem here, originating in microcircuit design, is: Given connections among components, what is the physical placement of the components on a surface that minimizes total length of connections? Because of unfeasibility of measuring long-range \"wire length\" in the cortex, a simpler adjacency cost was validated. To deal with incomplete information on brain networks, a size law was developed that predicts optimization patterns in subnetworks. Macaque and cat cortex rank better in this connection optimization than the wiring of comparably structured computer chips, but somewhat worse than the macroeconomic commodity-flow network among U.S. states. However, cortex wiring conforms to the size law better than the macroeconomic patterns, which may indicate cortex optimizing mechanisms involve more global processes.",
+  "authors": [
+    "Cherniak Christopher",
+    "Mokhtarzada Zekeria",
+    "Rodriguez-Esteban Raul",
+    "Changizi Kelly"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cats",
+    "Cerebral Cortex",
+    "Macaca",
+    "Nerve Net"
+  ]
+}

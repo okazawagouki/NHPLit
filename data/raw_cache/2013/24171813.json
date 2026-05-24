@@ -1,0 +1,25 @@
+{
+  "pmid": "24171813",
+  "title": "Linking sensory neurons to visually guided behavior: relating MST activity to steering in a virtual environment.",
+  "abstract": "Many complex behaviors rely on guidance from sensations. To perform these behaviors, the motor system must decode information relevant to the task from the sensory system. However, identifying the neurons responsible for encoding the appropriate sensory information remains a difficult problem for neurophysiologists. A key step toward identifying candidate systems is finding neurons or groups of neurons capable of representing the stimuli adequately to support behavior. A traditional approach involves quantitatively measuring the performance of single neurons and comparing this to the performance of the animal. One of the strongest pieces of evidence in support of a neuronal population being involved in a behavioral task comes from the signals being sufficient to support behavior. Numerous experiments using perceptual decision tasks show that visual cortical neurons in many areas have this property. However, most visually guided behaviors are not categorical but continuous and dynamic. In this article, we review the concept of sufficiency and the tools used to measure neural and behavioral performance. We show how concepts from information theory can be used to measure the ongoing performance of both neurons and animal behavior. Finally, we apply these tools to dorsal medial superior temporal (MSTd) neurons and demonstrate that these neurons can represent stimuli important to navigation to a distant goal. We find that MSTd neurons represent ongoing steering error in a virtual-reality steering task. Although most individual neurons were insufficient to support the behavior, some very nearly matched the animal's estimation performance. These results are consistent with many results from perceptual experiments and in line with the predictions of Mountcastle's \"lower envelope principle.\"",
+  "authors": [
+    "Egger Seth W",
+    "Britten Kenneth H"
+  ],
+  "journal": "Visual neuroscience",
+  "year": "2013",
+  "doi": "10.1017/S0952523813000412",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Behavior, Animal",
+    "Electrodes, Implanted",
+    "Female",
+    "Information Theory",
+    "Macaca mulatta",
+    "Psychomotor Performance",
+    "Sensory Receptor Cells",
+    "User-Computer Interface",
+    "Visual Cortex"
+  ]
+}

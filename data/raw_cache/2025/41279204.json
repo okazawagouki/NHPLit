@@ -1,0 +1,13 @@
+{
+  "pmid": "41279204",
+  "title": "Area MT carries acceleration information in a quickly and directly decodable representation.",
+  "abstract": "We sought to better understand the neural representation of visual motion acceleration. A straightforward estimation of acceleration would involve calculating the rate of change of velocity, which itself would be calculated from change in position over time. As it is well-established that neurons in area MT encode velocity, the brain could thus indirectly estimate acceleration by calculating the change in MT's velocity representations. An alternate mechanism, however, could operate more rapidly and directly. In this case, the brain could exploit interactions between MT's standard motion encoding and idiosyncratic temporal dynamics of neural responses. Such direct decoding would thus exploit nonlinearities usually ignored in studies of MT coding. We tested between these two theories by measuring from ensembles of MT neurons while two male awake fixating macaques viewed linearly accelerating motion stimuli. Direct decoding of acceleration from MT was possible on faster time scales, and could be done with higher fidelity, than indirect decoding. Distinct motion acceleration information could thus be efficiently read out from rich and heterogeneous MT ensemble responses, regardless of the mechanisms that give rise to various forms of motion tuning that it exhibits. A similar analysis of activity in the medial superior temporal area (MST) did not suggest this later stage of motion processing has a more refined acceleration representation. Together, these results suggest that the brain may opportunistically exploit nonlinear idiosyncrasies of neural responses to efficiently extract behaviorally relevant information on fast time scales, instead of performing explicit calculation of some variables.",
+  "authors": [
+    "Chen 陈舒意 Penny Shuyi",
+    "Huk Alexander C"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.10.14.682245",
+  "mesh": []
+}

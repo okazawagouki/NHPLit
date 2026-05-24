@@ -1,0 +1,31 @@
+{
+  "pmid": "11438595",
+  "title": "How simple cells are made in a nonlinear network model of the visual cortex.",
+  "abstract": "Simple cells in the striate cortex respond to visual stimuli in an approximately linear manner, although the LGN input to the striate cortex, and the cortical network itself, are highly nonlinear. Although simple cells are vital for visual perception, there has been no satisfactory explanation of how they are produced in the cortex. To examine this question, we have developed a large-scale neuronal network model of layer 4Calpha in V1 of the macaque cortex that is based on, and constrained by, realistic cortical anatomy and physiology. This paper has two aims: (1) to show that neurons in the model respond like simple cells. (2) To identify how the model generates this linearized response in a nonlinear network. Each neuron in the model receives nonlinear excitation from the lateral geniculate nucleus (LGN). The cells of the model receive strong (nonlinear) lateral inhibition from other neurons in the model cortex. Mathematical analysis of the dependence of membrane potential on synaptic conductances, and computer simulations, reveal that the nonlinearity of corticocortical inhibition cancels the nonlinear excitatory input from the LGN. This interaction produces linearized responses that agree with both extracellular and intracellular measurements. The model correctly accounts for experimental results about the time course of simple cell responses and also generates testable predictions about variation in linearity with position in the cortex, and the effect on the linearity of signal summation, caused by unbalancing the relative strengths of excitation and inhibition pharmacologically or with extrinsic current.",
+  "authors": [
+    "Wielaard D J",
+    "Shelley M",
+    "McLaughlin D",
+    "Shapley R"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Contrast Sensitivity",
+    "Geniculate Bodies",
+    "Macaca",
+    "Models, Neurological",
+    "Neural Inhibition",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Photic Stimulation",
+    "Predictive Value of Tests",
+    "Sensory Thresholds",
+    "Stochastic Processes",
+    "Visual Cortex"
+  ]
+}

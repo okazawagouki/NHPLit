@@ -1,0 +1,21 @@
+{
+  "pmid": "33242850",
+  "title": "Impact of referencing scheme on decoding performance of LFP-based brain-machine interface.",
+  "abstract": "<i>Objective</i>. There has recently been an increasing interest in local field potential (LFP) for brain-machine interface (BMI) applications due to its desirable properties (signal stability and low bandwidth). LFP is typically recorded with respect to a single unipolar reference which is susceptible to common noise. Several referencing schemes have been proposed to eliminate the common noise, such as bipolar reference, current source density (CSD), and common average reference (CAR). However, to date, there have not been any studies to investigate the impact of these referencing schemes on decoding performance of LFP-based BMIs.<i>Approach</i>. To address this issue, we comprehensively examined the impact of different referencing schemes and LFP features on the performance of hand kinematic decoding using a deep learning method. We used LFPs chronically recorded from the motor cortex area of a monkey while performing reaching tasks.<i>Main results</i>. Experimental results revealed that local motor potential (LMP) emerged as the most informative feature regardless of the referencing schemes. Using LMP as the feature, CAR was found to yield consistently better decoding performance than other referencing schemes over long-term recording sessions.<i>Significance</i>. Overall, our results suggest the potential use of LMP coupled with CAR for enhancing the decoding performance of LFP-based BMIs.",
+  "authors": [
+    "Ahmadi Nur",
+    "Constandinou Timothy G",
+    "Bouganis Christos-Savvas"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2021",
+  "doi": "10.1088/1741-2552/abce3c",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Brain-Computer Interfaces",
+    "Evoked Potentials",
+    "Haplorhini",
+    "Motor Cortex"
+  ]
+}

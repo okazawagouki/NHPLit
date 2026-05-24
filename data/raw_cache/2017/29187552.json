@@ -1,0 +1,24 @@
+{
+  "pmid": "29187552",
+  "title": "Implantable computer-controlled adaptive multielectrode positioning system.",
+  "abstract": "Acute neuronal recordings performed with metal microelectrodes in nonhuman primates allow investigating the neural substrate of complex cognitive behaviors. Yet the daily reinsertion and positioning of the electrodes prevents recording from many neurons simultaneously, limiting the suitability of these types of recordings for brain-computer interface applications or for large-scale population statistical methods on a trial-by-trial basis. In contrast, chronically implanted multielectrode arrays offer the opportunity to record from many neurons simultaneously, but immovable electrodes prevent optimization of the signal during and after implantation and cause the tissue response to progressively impair the transduced signal quality, thereby limiting the number of different neurons that can be recorded over the lifetime of the implant. Semichronically implanted matrices of electrodes, instead, allow individually movable electrodes in depth and achieve higher channel count compared with acute methods, hence partially overcoming these limitations. Existing semichronic systems with higher channel count lack computerized control of electrode movements, leading to limited user-friendliness and uncertainty in depth positioning. Here we demonstrate a chronically implantable adaptive multielectrode positioning system with detachable drive for computerized depth adjustment of individual electrodes over several millimeters. This semichronic 16-channel system is designed to optimize the simultaneous yield of units in an extended period following implantation since the electrodes can be independently depth adjusted with minimal effort and their signal quality continuously assessed. Importantly, the electrode array is designed to remain within a chronic recording chamber for a prolonged time or can be used for acute recordings with high signal-to-noise ratio in the cerebral cortex of nonhuman primates. NEW & NOTEWORTHY We present a 16-channel motorized, semichronic multielectrode array with individually depth-adjustable electrodes to record in the cerebral cortex of nonhuman primates. Compared with fixed-geometry arrays, this system allows repeated reestablishing of single neuron isolation. Compared with manually adjustable arrays it benefits from computer-controlled positioning. Compared with motorized semichronic systems it allows higher channel counts due to a robotic single actuator approach. Overall the system is designed to optimize the simultaneous yield of units over the course of implantation.",
+  "authors": [
+    "Ferrea E",
+    "Suriya-Arunroj L",
+    "Hoehl D",
+    "Thomas U",
+    "Gail A"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2018",
+  "doi": "10.1152/jn.00504.2017",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Equipment Design",
+    "Macaca mulatta",
+    "Microelectrodes"
+  ]
+}

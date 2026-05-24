@@ -1,0 +1,27 @@
+{
+  "pmid": "23283406",
+  "title": "Decoding stimulus identity from multi-unit activity and local field potentials along the ventral auditory stream in the awake primate: implications for cortical neural prostheses.",
+  "abstract": "OBJECTIVE: Hierarchical processing of auditory sensory information is believed to occur in two streams: a ventral stream responsible for stimulus identity and a dorsal stream responsible for processing spatial elements of a stimulus. The objective of the current study is to examine neural coding in this processing stream in the context of understanding the possibility for an auditory cortical neural prosthesis. APPROACH: We examined the selectivity for species-specific primate vocalizations in the ventral auditory processing stream by applying a statistical classifier to neural data recorded from microelectrode arrays. Multi-unit activity (MUA) and local field potential (LFP) data recorded simultaneously from primary auditory complex (AI) and rostral parabelt (PBr) were decoded on a trial-by-trial basis. MAIN RESULTS: While decode performance in AI was well above chance, mean performance in PBr did not deviate >15% from chance level. Mean performance levels were similar for MUA and LFP decodes. Increasing the spectral and temporal resolution improved decode performance; while inter-electrode spacing could be as large as 1.14 mm without degrading decode performance. SIGNIFICANCE: These results serve as preliminary guidance for a human auditory cortical neural prosthesis; instructing interface implementation, microstimulation patterns and anatomical placement.",
+  "authors": [
+    "Smith Elliot",
+    "Kellis Spencer",
+    "House Paul",
+    "Greger Bradley"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2013",
+  "doi": "10.1088/1741-2560/10/1/016010",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Auditory Cortex",
+    "Auditory Pathways",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Neural Prostheses",
+    "Random Allocation",
+    "Wakefulness"
+  ]
+}

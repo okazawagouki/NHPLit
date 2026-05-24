@@ -1,0 +1,26 @@
+{
+  "pmid": "15906081",
+  "title": "Empirical mode decomposition of field potentials from macaque V4 in visual spatial attention.",
+  "abstract": "Empirical mode decomposition (EMD) has recently been introduced as a local and fully data-driven technique for the analysis of non-stationary time-series. It allows the frequency and amplitude of a time-series to be evaluated with excellent time resolution. In this article we consider the application of EMD to the analysis of neuronal activity in visual cortical area V4 of a macaque monkey performing a visual spatial attention task. We show that, by virtue of EMD, field potentials can be resolved into a sum of intrinsic components with different degrees of oscillatory content. Low-frequency components in single-trial recordings contribute to the average visual evoked potential (AVEP), whereas high-frequency components do not, but are identified as gamma-band (30-90 Hz) oscillations. The magnitude of time-varying gamma activity is shown to be enhanced when the monkey attends to a visual stimulus as compared to when it is not attending to the same stimulus. Comparison with Fourier analysis shows that EMD may offer better temporal and frequency resolution. These results support the idea that the magnitude of gamma activity reflects the modulation of V4 neurons by visual spatial attention. EMD, coupled with instantaneous frequency analysis, is demonstrated to be a useful technique for the analysis of neurobiological time-series.",
+  "authors": [
+    "Liang Hualou",
+    "Bressler Steven L",
+    "Buffalo Elizabeth A",
+    "Desimone Robert",
+    "Fries Pascal"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Attention",
+    "Evoked Potentials, Visual",
+    "Fourier Analysis",
+    "Macaca",
+    "Models, Neurological",
+    "Spatial Behavior",
+    "Visual Cortex"
+  ]
+}

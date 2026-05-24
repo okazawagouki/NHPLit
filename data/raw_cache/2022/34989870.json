@@ -1,0 +1,25 @@
+{
+  "pmid": "34989870",
+  "title": "Cortical development coupling between surface area and sulcal depth on macaque brains.",
+  "abstract": "Postnatal development of cerebral cortex is associated with a variety of neuronal processes and is thus critical to development of brain function and cognition. Longitudinal changes of cortical morphology and topology, such as postnatal cortical thinning and flattening have been widely studied. However, thorough and systematic investigation of such cortical change, including how to quantify it from multiple spatial directions and how to relate it to surface topology, is rarely found. In this work, based on a longitudinal macaque neuroimaging dataset, we quantified local changes in gyral white matter's surface area and sulcal depth during early development. We also investigated how these two metrics are coupled and how this coupling is linked to cortical surface topology, underlying white matter, and positions of functional areas. Semi-parametric generalized additive models were adopted to quantify the longitudinal changes of surface area (A) and sulcal depth (D), and the coupling patterns between them. This resulted in four classes of regions, according to how they change compared with global change throughout early development: slower surface area change and slower sulcal depth change (slowA_slowD), slower surface area change and faster sulcal depth change (slowA_fastD), faster surface area change and slower sulcal depth change (fastA_slowD), and faster surface area change and faster sulcal depth change (fastA_fastD). We found that cortex-related metrics, including folding pattern and cortical thickness, vary along slowA_fastD-fastA_slowD axis, and structural connection-related metrics vary along fastA_fastD-slowA_slowD axis, with which brain functional sites align better. It is also found that cortical landmarks, including sulcal pits and gyral hinges, spatially reside on the borders of the four patterns. These findings shed new lights on the relationship between cortex development, surface topology, axonal wiring pattern and brain functions.",
+  "authors": [
+    "Li Xiao",
+    "Zhang Songyao",
+    "Jiang Xi",
+    "Zhang Shu",
+    "Han Junwei",
+    "Guo Lei",
+    "Zhang Tuo"
+  ],
+  "journal": "Brain structure & function",
+  "year": "2022",
+  "doi": "10.1007/s00429-021-02444-z",
+  "mesh": [
+    "Animals",
+    "Axons",
+    "Cerebral Cortex",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "White Matter"
+  ]
+}

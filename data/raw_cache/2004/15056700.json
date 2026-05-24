@@ -1,0 +1,24 @@
+{
+  "pmid": "15056700",
+  "title": "Time course of information about motion direction in visual area MT of macaque monkeys.",
+  "abstract": "We used the responses of neurons in extrastriate visual area MT to determine how well neural noise can be reduced by averaging the responses of neurons across time. For individual MT neurons, we calculated the time course of Shannon information about motion direction from sustained motion at constant velocities. Stimuli were random dot patterns moving at the preferred speed of the cell for 256 msec, in a direction chosen randomly with 15 degrees increments. Information about motion direction calculated from cumulative spike count rose rapidly from the onset of the neural response and then saturated, reaching 80% of maximum information in the first 100 msec. Most of the early saturation of information could be attributed to correlated fluctuations in the spike counts of individual neurons on time scales in excess of 100 msec. Thus, temporal correlations limit the benefits of averaging across time, much as correlations among the responses of different neurons limit the benefits of averaging across large populations. Although information about direction was available quickly from MT neurons, the direction discrimination by individual MT neurons was poor, with mean thresholds above 30 degrees in most neurons. We conclude that almost all available directional information could be extracted from the first few spikes of the response of the neuron, on a time scale comparable with the initiation of smooth pursuit eye movements. However, neural responses still must be pooled across the population in MT to account for the direction discrimination of the pursuit behavior.",
+  "authors": [
+    "Osborne Leslie C",
+    "Bialek William",
+    "Lisberger Stephen G"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Eye Movements",
+    "Macaca",
+    "Motion Perception",
+    "Neurons",
+    "Synaptic Transmission",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

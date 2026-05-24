@@ -1,0 +1,25 @@
+{
+  "pmid": "22226855",
+  "title": "The influence of passband limitation on the waveform of extracellular action potential.",
+  "abstract": "The duration of the extracellular action potential (EAP) in single neuronal recording has often been used as a clue to infer biochemical, physiological or functional substrate of the recorded neurons, e.g. neurochemical type. However, when recording a neuronal activity, the high-pass filter is routinely used to achieve higher signal-to-noise ratio. Signal processing theory predicts that passband limitation stretches the waveform of discrete brief impulse. To examine whether the duration of filtered EAP could be the reliable measure, we investigated the influence of high-pass filter both by simulation and unfiltered unit recording data from monkey dorsal raphe. Consistent with the findings in recent theoretical study, the unfiltered EAPs displayed the sharp wave without following bumps. The duration of unfiltered EAP was not correlated with that of filtered EAP. Thus the duration of original EAP cannot be estimated from filtered EAP. It is needed to reexamine the EAP duration measured for classifying the neurons whose activities were recorded under the passband limitation in the related studies.",
+  "authors": [
+    "Mizuhiki Takashi",
+    "Inaba Kiyonori",
+    "Setogawa Tsuyoshi",
+    "Toda Koji",
+    "Ozaki Shigeru",
+    "Shidara Muneteka"
+  ],
+  "journal": "Neuroscience research",
+  "year": "2012",
+  "doi": "10.1016/j.neures.2011.12.004",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Fourier Analysis",
+    "Macaca mulatta",
+    "Neurons",
+    "Raphe Nuclei",
+    "Signal-To-Noise Ratio"
+  ]
+}

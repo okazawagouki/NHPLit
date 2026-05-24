@@ -1,0 +1,18 @@
+{
+  "pmid": "37333347",
+  "title": "Bifurcation in space: Emergence of functional modularity in the neocortex.",
+  "abstract": "Recent studies have shown that neural representation and processing are widely distributed in the brains of behaving animals [1, 2, 3, 4]. These observations challenge functional specialization as a central tenet of Neuroscience, which refers to the notion that distinct brain regions are dedicated to specific aspects of cognition such as working memory or subjective decision-making. Here we develop the concept of <i>bifurcation in space</i> to mechanistically account for the emergence of functional specialization that is compatible with distributed neural coding in a large-scale neocortex. Our theory starts with a departure from the canonical local circuit principle [5] by highlighting differences between cortical areas in the form of experimentally quantified heterogeneities of synaptic excitation and inhibition. We investigated connectome-based modelling of a multiregional cortex for both macaque monkeys and mice, as well as a generative model of a spatially embedded neocortex. During working memory in a simulated delayed response task, surprisingly, we found an inverted-V-shaped pattern of neuronal timescales across the cortical hierarchy as a signature of functional modularity, in sharp contrast to an increasing pattern of timescales during the resting state, as reported previously [6]. Furthermore, our model cortex simultaneously and robustly displays a plethora of bifurcations in space and their associated rich repertoire of timescale profiles across a large-scale cortex; the corresponding functionally defined modules (spatial attractors) could potentially subserve various internal mental processes. This work yields several specific experimentally testable predictions, including an inverted-V pattern of timescales, a measure of comparison between functional modules and structural modules defined by the graph theory, and a new plot for revealing bifurcation in space in neural activity recorded from animals performing different tasks that engage various functional modules. We propose that bifurcation in space, resulting from the connectome and macroscopic gradients of neurobiological properties across the cortex, represents a fundamental principle for understanding the brain's functional specialization and modular organization.",
+  "authors": [
+    "Wang Xiao-Jing",
+    "Jiang Junjie",
+    "Zeraati Roxana",
+    "Battista Aldo",
+    "Vezoli Julien",
+    "Kennedy Henry",
+    "Pereira-Obilinovic Ulises"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2023.06.04.543639",
+  "mesh": []
+}

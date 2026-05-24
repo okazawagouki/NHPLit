@@ -1,0 +1,25 @@
+{
+  "pmid": "31923605",
+  "title": "Neuronal population correlates of target selection and distractor filtering.",
+  "abstract": "Frontal Eye Field (FEF) neurons discriminate between relevant and irrelevant visual stimuli and their response magnitude predicts conscious perception. How this is reflected in the spatial representation of a visual stimulus at the neuronal population level is unknown. We recorded neuronal population activity in the FEF while monkeys were performing a forced choice cued detection task with identical target and distractor stimuli. We quantified, using machine learning techniques, estimates of target and distractor location from FEF population multiunit activities. We found that the FEF population activity provides a precise single trial estimate of reported stimuli locations. Importantly, the closer this prefrontal population single trial estimate is to the veridical stimulus location, the higher the probability that the target or the distractor is reported as perceived. We show that stimulus perception is rescued by the estimate of attention allocation specifically when the latter is close enough to the actual stimulus location, thus indicating a partial independence between attention and perception. Overall, we thus show that how and what we perceive of our environment depends on the spatial precision with which this environment is coded by prefrontal neuronal populations.",
+  "authors": [
+    "Astrand Elaine",
+    "Wardak Claire",
+    "Ben Hamed Suliann"
+  ],
+  "journal": "NeuroImage",
+  "year": "2020",
+  "doi": "10.1016/j.neuroimage.2020.116517",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Electroencephalography",
+    "Macaca mulatta",
+    "Machine Learning",
+    "Male",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Space Perception",
+    "Visual Perception"
+  ]
+}

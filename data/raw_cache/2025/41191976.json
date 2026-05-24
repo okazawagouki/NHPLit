@@ -1,0 +1,28 @@
+{
+  "pmid": "41191976",
+  "title": "Finite element model predicts micromotion-induced strain profiles that correlate with the functional performance of Utah arrays in humans and non-human primates.",
+  "abstract": "<i>Objective.</i>Utah arrays are widely used in both humans and non-human primates (NHPs) for intracortical brain-computer interfaces, primarily for detecting electrical signals from cortical tissue to decode motor commands. Recently, these arrays have also been applied to deliver electrical stimulation aimed at restoring sensory functions. A key challenge limiting their longevity is the micromotion between the array and cortical tissue, which may induce mechanical strain in surrounding tissue and contribute to performance decline. This strain, due to mechanical mismatch, can exacerbate glial scarring around the implant, reducing the efficacy of Utah arrays in recording neuronal activity and delivering electrical stimulation.<i>Approach.</i>To investigate this, we employed a finite element model to predict tissue strains resulting from micromotion.<i>Main results.</i>Our findings indicated that strain profiles around edge and corner electrodes were greater than those around interior shanks, affecting both maximum and average strains within 50<i>µ</i>m of the electrode tip. We then correlated these predicted tissue strains with<i>in-vivo</i>electrode performance metrics. We found negative correlations between 1 kHz impedance and tissue strains in human motor arrays and NHP area V4 arrays at 1 month, 1 year, and 2 years post-implantation. In human motor arrays, the peak-to-peak waveform voltage and signal-to-noise ratio (SNR) of spontaneous activity were also negatively correlated with strain. Conversely, we observed a positive correlation between the evoked SNR of multi-unit activity and strain in NHP area V4 arrays.<i>Significance.</i>This study establishes a spatial dependence of electrode performance in Utah arrays that correlates with tissue strain.",
+  "authors": [
+    "Forrest Adam M",
+    "Kunigk Nicolas G",
+    "Collinger Jennifer L",
+    "Gaunt Robert A",
+    "Chen Xing",
+    "Vande Geest Jonathan P",
+    "Kozai Takashi D Y"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2025",
+  "doi": "10.1088/1741-2552/ae1bda",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Finite Element Analysis",
+    "Electrodes, Implanted",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Brain-Computer Interfaces",
+    "Stress, Mechanical",
+    "Male"
+  ]
+}

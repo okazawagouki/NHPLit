@@ -1,0 +1,24 @@
+{
+  "pmid": "24009489",
+  "title": "Sparse coding models can exhibit decreasing sparseness while learning sparse codes for natural images.",
+  "abstract": "The sparse coding hypothesis has enjoyed much success in predicting response properties of simple cells in primary visual cortex (V1) based solely on the statistics of natural scenes. In typical sparse coding models, model neuron activities and receptive fields are optimized to accurately represent input stimuli using the least amount of neural activity. As these networks develop to represent a given class of stimulus, the receptive fields are refined so that they capture the most important stimulus features. Intuitively, this is expected to result in sparser network activity over time. Recent experiments, however, show that stimulus-evoked activity in ferret V1 becomes less sparse during development, presenting an apparent challenge to the sparse coding hypothesis. Here we demonstrate that some sparse coding models, such as those employing homeostatic mechanisms on neural firing rates, can exhibit decreasing sparseness during learning, while still achieving good agreement with mature V1 receptive field shapes and a reasonably sparse mature network state. We conclude that observed developmental trends do not rule out sparseness as a principle of neural coding per se: a mature network can perform sparse coding even if sparseness decreases somewhat during development. To make comparisons between model and physiological receptive fields, we introduce a new nonparametric method for comparing receptive field shapes using image registration techniques.",
+  "authors": [
+    "Zylberberg Joel",
+    "DeWeese Michael Robert"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2013",
+  "doi": "10.1371/journal.pcbi.1003182",
+  "mesh": [
+    "Animals",
+    "Computational Biology",
+    "Computer Simulation",
+    "Ferrets",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons",
+    "Statistics, Nonparametric",
+    "Visual Cortex",
+    "Visual Fields"
+  ]
+}

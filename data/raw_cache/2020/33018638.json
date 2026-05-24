@@ -1,0 +1,26 @@
+{
+  "pmid": "33018638",
+  "title": "Decoding movement direction from cortical microelectrode recordings using an LSTM-based neural network.",
+  "abstract": "Brain-machine interfaces (BMIs) allow individuals to communicate with computers using neural signals, and Kalman Filter (KF) are prevailingly used to decode movement directions from these neural signals. In this paper, we implemented a multi-layer long short-term memory (LSTM)based artificial neural network (ANN) for decoding BMI neural signals. We collected motor cortical neural signals from a nonhuman primate (NHP), implanted with microelectrode array (MEA) while performing a directional joystick task. Next, we compared the LSTM model in decoding the joystick trajectories from the neural signals against the prevailing KF model. The results showed that the LSTM model yielded significantly improved decoding accuracy measured by mean correlation coefficient (0.84, p < 10<sup>-7</sup>) than the KF model (0.72). In addition, using a principal component analysis (PCA)-based dimensionality reduction technique yielded slightly deteriorated accuracies for both the LSTM (0.80) and KF (0.70) models, but greatly reduced the computational complexity. The results showed that the LSTM decoding model holds promise to improve decoding in BMIs for paralyzed humans.",
+  "authors": [
+    "Premchand Brian",
+    "Toe Kyaw Kyar",
+    "Wang Chuanchu",
+    "Shaikh Shoeb",
+    "Libedinsky Camilo",
+    "Ang Kai Keng",
+    "So Rosa Q"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2020",
+  "doi": "10.1109/EMBC44109.2020.9175593",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Humans",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Movement",
+    "Neural Networks, Computer"
+  ]
+}

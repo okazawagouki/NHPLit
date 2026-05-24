@@ -1,0 +1,32 @@
+{
+  "pmid": "21095944",
+  "title": "Modeling the motor striatum under Deep Brain Stimulation in normal and MPTP conditions.",
+  "abstract": "Striatum (STR) is the major input stage of the basal ganglia (BG). It combines information from cortex, subthalamic nucleus (STN) and external globus pallidus (GPe), and projects to the output stages of the BG, where selection between concurrent motor programs is performed. Parkinson's disease (PD) reduces the concentration of dopamine (DA, a neurotransmitter) in STR and changes in the level of DA correlate with the onset of PD motor disorders. Though STR plays a pivotal role in BG, its behavior under PD and Deep Brain Stimulation (DBS) is still unclear. We develop point-process models of the STR neurons as a function of the activity in GPe, cortex, and DBS. We use single unit recordings from a monkey under STN DBS at different frequencies before and after treatment with 1-methyl-4-phenyl-1,2,3,6-tetrahydro-pyridine (MPTP) to develop PD motor symptoms. The models suggest that STR neurons have prominent bursting activity in normal conditions, positive correlation with cortex (3-10 ms delay), and mild negative correlation with GPe (1-5 ms lag). DA depletion evokes 30-60 Hz oscillations, and increases the propensity of each neuron to be inhibited by surrounding neurons. DBS elicits antidromical activation, masks existent dynamics, reinforces dependencies between nuclei, and entrains at the stimulation frequency in both conditions.",
+  "authors": [
+    "Santaniello S",
+    "Gale J T",
+    "Montgomery E B",
+    "Sarma S V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2010",
+  "doi": "10.1109/IEMBS.2010.5626354",
+  "mesh": [
+    "1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+    "Algorithms",
+    "Animals",
+    "Basal Ganglia",
+    "Corpus Striatum",
+    "Deep Brain Stimulation",
+    "Disease Models, Animal",
+    "Dopamine",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Models, Theoretical",
+    "Motor Cortex",
+    "Neurons",
+    "Neurotransmitter Agents",
+    "Parkinson Disease",
+    "Subthalamic Nucleus"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "30294750",
+  "title": "Linear-nonlinear-time-warp-poisson models of neural activity.",
+  "abstract": "Prominent models of spike trains assume only one source of variability - stochastic (Poisson) spiking - when stimuli and behavior are fixed. However, spike trains may also reflect variability due to internal processes such as planning. For example, we can plan a movement at one point in time and execute it at some arbitrary later time. Neurons involved in planning may thus share an underlying time course that is not precisely locked to the actual movement. Here we combine the standard Linear-Nonlinear-Poisson (LNP) model with Dynamic Time Warping (DTW) to account for shared temporal variability. When applied to recordings from macaque premotor cortex, we find that time warping considerably improves predictions of neural activity. We suggest that such temporal variability is a widespread phenomenon in the brain which should be modeled.",
+  "authors": [
+    "Lawlor Patrick N",
+    "Perich Matthew G",
+    "Miller Lee E",
+    "Kording Konrad P"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2018",
+  "doi": "10.1007/s10827-018-0696-6",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Humans",
+    "Models, Neurological",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Poisson Distribution",
+    "Time Factors"
+  ]
+}

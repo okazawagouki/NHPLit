@@ -1,0 +1,34 @@
+{
+  "pmid": "19706205",
+  "title": "The response dynamics of primate visual cortical neurons to simulated optical blur.",
+  "abstract": "Neurons in visual cortical area V1 typically respond well to lines or edges of specific orientations. There have been many studies investigating how the responses of these neurons to an oriented edge are affected by changes in luminance contrast. However, in natural images, edges vary not only in contrast but also in the degree of blur, both because of changes in focus and also because shadows are not sharp. The effect of blur on the response dynamics of visual cortical neurons has not been explored. We presented luminance-defined single edges in the receptive fields of parafoveal (1-6 deg eccentric) V1 neurons of two macaque monkeys trained to fixate a spot of light. We varied the width of the blurred region of the edge stimuli up to 0.36 deg of visual angle. Even though the neurons responded robustly to stimuli that only contained high spatial frequencies and 0.36 deg is much larger than the limits of acuity at this eccentricity, changing the degree of blur had minimal effect on the responses of these neurons to the edge. Primates need to measure blur at the fovea to evaluate image quality and control accommodation, but this might only involve a specialist subpopulation of neurons. If visual cortical neurons in general responded differently to sharp and blurred stimuli, then this could provide a cue for form perception, for example, by helping to disambiguate the luminance edges created by real objects from those created by shadows. On the other hand, it might be important to avoid the distraction of changing blur as objects move in and out of the plane of fixation. Our results support the latter hypothesis: the responses of parafoveal V1 neurons are largely unaffected by changes in blur over a wide range.",
+  "authors": [
+    "Risner Michael L",
+    "Gawne Timothy J"
+  ],
+  "journal": "Visual neuroscience",
+  "year": "2009",
+  "doi": "10.1017/S0952523809990174",
+  "mesh": [
+    "Action Potentials",
+    "Analysis of Variance",
+    "Animals",
+    "Brain Mapping",
+    "Computer Simulation",
+    "Contrast Sensitivity",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Patch-Clamp Techniques",
+    "Photic Stimulation",
+    "Primates",
+    "Psychophysics",
+    "Reaction Time",
+    "Statistics as Topic",
+    "Vision, Ocular",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

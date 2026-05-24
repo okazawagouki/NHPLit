@@ -1,0 +1,24 @@
+{
+  "pmid": "22046122",
+  "title": "Second order dimensionality reduction using minimum and maximum mutual information models.",
+  "abstract": "Conventional methods used to characterize multidimensional neural feature selectivity, such as spike-triggered covariance (STC) or maximally informative dimensions (MID), are limited to Gaussian stimuli or are only able to identify a small number of features due to the curse of dimensionality. To overcome these issues, we propose two new dimensionality reduction methods that use minimum and maximum information models. These methods are information theoretic extensions of STC that can be used with non-Gaussian stimulus distributions to find relevant linear subspaces of arbitrary dimensionality. We compare these new methods to the conventional methods in two ways: with biologically-inspired simulated neurons responding to natural images and with recordings from macaque retinal and thalamic cells responding to naturalistic time-varying stimuli. With non-Gaussian stimuli, the minimum and maximum information methods significantly outperform STC in all cases, whereas MID performs best in the regime of low dimensional feature spaces.",
+  "authors": [
+    "Fitzgerald Jeffrey D",
+    "Rowekamp Ryan J",
+    "Sincich Lawrence C",
+    "Sharpee Tatyana O"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2011",
+  "doi": "10.1371/journal.pcbi.1002249",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Geniculate Bodies",
+    "Macaca",
+    "Models, Neurological",
+    "Retinal Ganglion Cells"
+  ]
+}

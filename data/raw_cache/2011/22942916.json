@@ -1,0 +1,13 @@
+{
+  "pmid": "22942916",
+  "title": "Intrinsic mode entropy based on multivariate empirical mode decomposition and its application to neural data analysis.",
+  "abstract": "Entropy, a measure of the regularity of a time series, has long been used to quantify the complexity of brain dynamics. Given the multiple spatiotemporal scales inherent in the brain, traditional entropy analysis based on a single scale is not adequate to accurately describe the underlying nonlinear dynamics. Intrinsic mode entropy (IMEn) is a recent development with appealing properties to estimate entropy over multiple time scales. It is a multiscale entropy measure that computes sample entropy (SampEn) over different scales of intrinsic mode functions extracted by empirical mode decomposition (EMD) method. However, it suffers from both mode-misalignment and mode-mixing problems when applied to multivariate time series data. In this paper, we address these two problems by employing the recently introduced multivariate empirical mode decomposition (MEMD). First, we extend the MEMD to multi-channel multi-trial neural data to ensure the IMEn matched at different scales. Second, for the discriminant analysis of IMEn, we propose to improve the discriminative ability by including variance that has not been used before in entropy analysis. Finally, we apply the proposed approach to the multi-electrode local field potentials (LFPs) simultaneously collected from visual cortical areas of macaque monkeys while performing a generalized flash suppression task. The results have shown that the entropy of LFP is indeed scale-dependent and is closely related to the perceptual conditions. The discriminative results of the perceptual conditions, revealed by support vector machine, show that the accuracy based on IMEn and variance reaches 83.05%, higher than that only by IMEn (76.27%). These results suggest that our approach is sensitive to capture the complex dynamics of neural data.",
+  "authors": [
+    "Hu Meng",
+    "Liang Hualou"
+  ],
+  "journal": "Cognitive neurodynamics",
+  "year": "2011",
+  "doi": "10.1007/s11571-011-9159-8",
+  "mesh": []
+}

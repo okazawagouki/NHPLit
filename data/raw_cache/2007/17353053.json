@@ -1,0 +1,27 @@
+{
+  "pmid": "17353053",
+  "title": "Automated optimal detection and classification of neural action potentials in extra-cellular recordings.",
+  "abstract": "Determination of single unit spikes from multiunit spike trains plays a critical role in neurophysiological coding studies which require information about the precise timing of events underlying the neural codes that are the basis of behavior. Searching for optimal spike detection strategies has therefore been the focus of many studies over the past two decades. In this study we describe and implement an algorithm for the optimal real time detection and classification of neural spikes. The algorithm consists of three steps: noise analysis, template generation and real time detection and classification. The first step involves estimating the background noise statistics. In this step, a \"cap-fitting\" algorithm is used to automatically detect a spike free segment and then the mean, standard deviation and autocorrelation function of the noise are computed. The second step involves generating optimal templates of the spikes from a segment containing both noise and multiunit activity. In this step, a generalized matched filter is used to isolate a set of preliminary spikes from the noise. The first principal component of previously recorded templates is used as the deterministic signal. The preliminary spikes are then clustered in a sub-space spanned by the first three principal components to form new templates. The third step uses these templates for the real time spike detection and classification. In this step the incoming data are projected into a lower dimensional space that is designed to maximally separate the signal from the noise energy. This algorithm provides an accurate estimate of the signal to noise ratio and provides an accurate estimate of spike times and spike shapes.",
+  "authors": [
+    "Thakur Pramodsingh H",
+    "Lu Hanzhang",
+    "Hsiao Steven S",
+    "Johnson Kenneth O"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Automation",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Neurophysiology",
+    "Noise",
+    "Reproducibility of Results",
+    "Wakefulness"
+  ]
+}

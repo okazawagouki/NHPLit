@@ -1,0 +1,25 @@
+{
+  "pmid": "14653500",
+  "title": "Input-output statistical independence in divisive normalization models of V1 neurons.",
+  "abstract": "Simoncelli and co-workers have proposed statistically-derived nonlinear divisive normalization models of the primary visual cortex (V1) that are consistent with the hypothesis that sensory systems are adapted to the signals to which they are exposed. In this paper, we present a more rigorous mathematical formulation and analysis of these statistically-derived models in terms of mutual information as a metric for statistical independence. We prove that the ad hoc choice of divisive normalization parameters proposed by Simoncelli and co-workers does not guarantee statistical independence between the output responses, but interestingly such choice does guarantee that each output response is statistically independent of almost all the linear inputs. This holds for the two different models of natural image statistics analysed theoretically, and is consistent with empirical results obtained on a set of natural images.",
+  "authors": [
+    "Valerio Roberto",
+    "Navarro Rafael"
+  ],
+  "journal": "Network (Bristol, England)",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Information Theory",
+    "Macaca fascicularis",
+    "Mathematics",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

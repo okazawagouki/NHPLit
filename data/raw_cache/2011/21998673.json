@@ -1,0 +1,29 @@
+{
+  "pmid": "21998673",
+  "title": "A computational model of the development of separate representations of facial identity and expression in the primate visual system.",
+  "abstract": "Experimental studies have provided evidence that the visual processing areas of the primate brain represent facial identity and facial expression within different subpopulations of neurons. For example, in non-human primates there is evidence that cells within the inferior temporal gyrus (TE) respond primarily to facial identity, while cells within the superior temporal sulcus (STS) respond to facial expression. More recently, it has been found that the orbitofrontal cortex (OFC) of non-human primates contains some cells that respond exclusively to changes in facial identity, while other cells respond exclusively to facial expression. How might the primate visual system develop physically separate representations of facial identity and expression given that the visual system is always exposed to simultaneous combinations of facial identity and expression during learning? In this paper, a biologically plausible neural network model, VisNet, of the ventral visual pathway is trained on a set of carefully-designed cartoon faces with different identities and expressions. The VisNet model architecture is composed of a hierarchical series of four Self-Organising Maps (SOMs), with associative learning in the feedforward synaptic connections between successive layers. During learning, the network develops separate clusters of cells that respond exclusively to either facial identity or facial expression. We interpret the performance of the network in terms of the learning properties of SOMs, which are able to exploit the statistical indendependence between facial identity and expression.",
+  "authors": [
+    "Tromans James Matthew",
+    "Harris Mitchell",
+    "Stringer Simon Maitland"
+  ],
+  "journal": "PloS one",
+  "year": "2011",
+  "doi": "10.1371/journal.pone.0025616",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Face",
+    "Facial Expression",
+    "Learning",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Photic Stimulation",
+    "Primates",
+    "Synapses",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "23266482",
+  "title": "A spiking neuron model of the cortico-basal ganglia circuits for goal-directed and habitual action learning.",
+  "abstract": "Dual-system theories postulate that actions are supported either by a goal-directed or by a habit-driven response system. Neuroimaging and anatomo-functional studies have provided evidence that the prefrontal cortex plays a fundamental role in the first type of action control, while internal brain areas such as the basal ganglia are more active during habitual and overtrained responses. Additionally, it has been shown that areas of the cortex and the basal ganglia are connected through multiple parallel \"channels\", which are thought to function as an action selection mechanism resolving competitions between alternative options available in a given context. In this paper we propose a multi-layer network of spiking neurons that implements in detail the thalamo-cortical circuits that are believed to be involved in action learning and execution. A key feature of this model is that neurons are organized in small pools in the motor cortex and form independent loops with specific pools of the basal ganglia where inhibitory circuits implement a multistep selection mechanism. The described model has been validated utilizing it to control the actions of a virtual monkey that has to learn to turn on briefly flashing lights by pressing corresponding buttons on a board. When the animal is able to fluently execute the task the button-light associations are remapped so that it has to suppress its habitual behavior in order to execute goal-directed actions. The model nicely shows how sensory-motor associations for action sequences are formed at the cortico-basal ganglia level and how goal-directed decisions may override automatic motor responses.",
+  "authors": [
+    "Chersi Fabian",
+    "Mirolli Marco",
+    "Pezzulo Giovanni",
+    "Baldassarre Gianluca"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2013",
+  "doi": "10.1016/j.neunet.2012.11.009",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Basal Ganglia",
+    "Cerebral Cortex",
+    "Goals",
+    "Habits",
+    "Haplorhini",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neural Inhibition",
+    "Neural Pathways",
+    "Neurons",
+    "Neurotransmitter Agents",
+    "Problem Solving",
+    "Psychomotor Performance",
+    "Receptors, AMPA",
+    "Receptors, N-Methyl-D-Aspartate",
+    "Somatosensory Cortex",
+    "Thalamus",
+    "Visual Cortex"
+  ]
+}

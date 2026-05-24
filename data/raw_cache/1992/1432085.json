@@ -1,0 +1,29 @@
+{
+  "pmid": "1432085",
+  "title": "Role of inferior temporal neurons in visual memory. II. Multiplying temporal waveforms related to vision and memory.",
+  "abstract": "1. In the companion paper we reported on the activity of neurons in the inferior temporal (IT) cortex during a sequential pattern matching task. In this task a sample stimulus was followed by a test stimulus that was either a match or a nonmatch. Many of the neurons encoded information about the patterns of both current and previous stimuli in the temporal modulation of their responses. 2. A simple information processing model of visual memory can be formed with just four steps: 1) encode the current stimulus; 2) recall the code of a remembered stimulus; 3) compare the two codes; 4) and decide whether they are similar or different. The analysis presented in the first paper suggested that some IT neurons were performing the comparison step of visual memory. 3. We propose that IT neurons participate in the comparison of temporal waveforms related to vision and memory by multiplying them together. This product could form the basis of a crosscorrelation-based comparison. 4. We tested our hypothesis by fitting a simple multiplicative model to data from IT neurons. The model generated waveforms in separate memory and visual channels. The waveforms arising from the two channels were then multiplied on a point by point basis to yield the output waveform. The model was fitted to the actual neuronal data by a gradient descent method to find the best fit waveforms that also had the lowest total energy. 5. The multiplicative model fit the neuronal responses quite well. The multiplicative model made consistently better predictions of the actual response waveforms than did an additive model. Furthermore, the fit was better when the actual relationship between the responses and the sample and test stimuli were preserved than when that relationship was randomized. 6. We infer from the superior fit of the multiplicative model that IT neurons are multiplying temporally modulated waveforms arising from separate visual and memory systems in the comparison step of visual memory.",
+  "authors": [
+    "Eskandar E N",
+    "Optican L M",
+    "Richmond B J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1992",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cognition",
+    "Decision Making",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Mathematics",
+    "Memory",
+    "Models, Neurological",
+    "Models, Psychological",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Temporal Lobe",
+    "Vision, Ocular"
+  ]
+}

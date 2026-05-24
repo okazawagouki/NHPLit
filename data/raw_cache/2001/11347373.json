@@ -1,0 +1,23 @@
+{
+  "pmid": "11347373",
+  "title": "Development of a wireless system for auditory neuroscience.",
+  "abstract": "In order to study how the auditory cortex extracts communication sounds in a realistic acoustic environment, a wireless system is being developed that will transmit acoustic as well as neural signals. The miniature transmitter will be capable of transmitting two acoustic signals with 37.5 KHz bandwidths (75 KHz sample rate) and 56 neural signals with bandwidths of 9.375 KHz (18.75 KHz sample rate). These signals will be time-division multiplexed into one high bandwidth signal with a 1.2 MHz sample rate. This high bandwidth signal will then be frequency modulated onto a 2.4 GHz carrier, which resides in the industrial, scientic, and medical (ISM) band that is designed for low-power short-range wireless applications. On the receiver side, the signal will be demodulated from the 2.4 GHz carrier and then digitized by an analog-to-digital (A/D) converter. The acoustic and neural signals will be digitally demultiplexed from the multiplexed signal into their respective channels. Oversampling (20 MHz) will allow the reconstruction of the multiplexing clock by a digital signal processor (DSP) that will perform frame and bit synchronization. A frame is a subset of the signal that contains all the channels and several channels tied high and low will signal the start of a frame. This technological development will bring two benefits to auditory neuroscience. It will allow simultaneous recording of many neurons that will permit studies of population codes. It will also allow neural functions to be determined in higher auditory areas by correlating neural and acoustic signals without apriori knowledge of the necessary stimuli.",
+  "authors": [
+    "Lukes A J",
+    "Lear A T",
+    "Snider R K"
+  ],
+  "journal": "Biomedical sciences instrumentation",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Auditory Cortex",
+    "Callithrix",
+    "Signal Processing, Computer-Assisted",
+    "Sound",
+    "Synaptic Transmission",
+    "Telemetry",
+    "Vocalization, Animal"
+  ]
+}

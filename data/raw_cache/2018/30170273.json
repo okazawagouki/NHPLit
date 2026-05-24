@@ -1,0 +1,32 @@
+{
+  "pmid": "30170273",
+  "title": "Optimization of macaque brain DMRI connectome by neuron tracing and myelin stain data.",
+  "abstract": "Accurate assessment of connectional anatomy of primate brains can be an important avenue to better understand the structural and functional organization of brains. To this end, numerous connectome projects have been initiated to create a comprehensive map of the connectional anatomy over a large spatial expanse. Tractography based on diffusion MRI (dMRI) data has been used as a tool by many connectome projects in that it is widely used to visualize axonal pathways and reveal microstructural features on living brains. However, the measures obtained from dMRI are indirect inference of microstructures. This intrinsic limitation reduces the reliability of dMRI in constructing connectomes for brains. In this work, we proposed a framework to increase the accuracy of constructing a dMRI-based connectome on macaque brains by integrating meso-scale connective information from tract-tracing data and micro-scale axonal orientation information from myelin stain data. Our results suggest that this integrative framework could advance the mapping accuracy of dMRI based connections and axonal pathways, and demonstrate the prospect of the proposed framework in constructing a large-scale connectome on living primate brains.",
+  "authors": [
+    "Zhang Tuo",
+    "Kong Jun",
+    "Jing Ke",
+    "Chen Hanbo",
+    "Jiang Xi",
+    "Li Longchuan",
+    "Guo Lei",
+    "Lu Jianfeng",
+    "Hu Xiaoping",
+    "Liu Tianming"
+  ],
+  "journal": "Computerized medical imaging and graphics : the official journal of the Computerized Medical Imaging Society",
+  "year": "2018",
+  "doi": "10.1016/j.compmedimag.2018.06.001",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Coloring Agents",
+    "Connectome",
+    "Databases, Factual",
+    "Diffusion Magnetic Resonance Imaging",
+    "Macaca",
+    "Myelin Sheath",
+    "Neurons"
+  ]
+}

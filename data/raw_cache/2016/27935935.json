@@ -1,0 +1,25 @@
+{
+  "pmid": "27935935",
+  "title": "Stimulus-Driven Population Activity Patterns in Macaque Primary Visual Cortex.",
+  "abstract": "Dimensionality reduction has been applied in various brain areas to study the activity of populations of neurons. To interpret the outputs of dimensionality reduction, it is important to first understand its outputs for brain areas for which the relationship between the stimulus and neural response is well characterized. Here, we applied principal component analysis (PCA) to trial-averaged neural responses in macaque primary visual cortex (V1) to study two fundamental, population-level questions. First, we characterized how neural complexity relates to stimulus complexity, where complexity is measured using relative comparisons of dimensionality. Second, we assessed the extent to which responses to different stimuli occupy similar dimensions of the population activity space using a novel statistical method. For comparison, we performed the same dimensionality reduction analyses on the activity of a recently-proposed V1 receptive field model and a deep convolutional neural network. Our results show that the dimensionality of the population response changes systematically with alterations in the properties and complexity of the visual stimulus.",
+  "authors": [
+    "Cowley Benjamin R",
+    "Smith Matthew A",
+    "Kohn Adam",
+    "Yu Byron M"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2016",
+  "doi": "10.1371/journal.pcbi.1005185",
+  "mesh": [
+    "Animals",
+    "Computational Biology",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Principal Component Analysis",
+    "Visual Cortex"
+  ]
+}

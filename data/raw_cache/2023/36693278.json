@@ -1,0 +1,26 @@
+{
+  "pmid": "36693278",
+  "title": "Decoding spatial locations from primate lateral prefrontal cortex neural activity during virtual navigation.",
+  "abstract": "<i>Objective</i>. Decoding the intended trajectories from brain signals using a brain-computer interface system could be used to improve the mobility of patients with disabilities.<i>Approach</i>. Neuronal activity associated with spatial locations was examined while macaques performed a navigation task within a virtual environment.<i>Main results.</i>Here, we provide proof of principle that multi-unit spiking activity recorded from the lateral prefrontal cortex (LPFC) of non-human primates can be used to predict the location of a subject in a virtual maze during a navigation task. The spatial positions within the maze that require a choice or are associated with relevant task events can be better predicted than the locations where no relevant events occur. Importantly, within a task epoch of a single trial, multiple locations along the maze can be independently identified using a support vector machine model.<i>Significance</i>. Considering that the LPFC of macaques and humans share similar properties, our results suggest that this area could be a valuable implant location for an intracortical brain-computer interface system used for spatial navigation in patients with disabilities.",
+  "authors": [
+    "Johnston Renée",
+    "Abbass Mohamad",
+    "Corrigan Benjamin",
+    "Gulli Roberto",
+    "Martinez-Trujillo Julio",
+    "Sachs Adam"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2023",
+  "doi": "10.1088/1741-2552/acb5c2",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Prefrontal Cortex",
+    "Primates",
+    "Brain",
+    "Neurons",
+    "Spatial Navigation",
+    "Macaca"
+  ]
+}

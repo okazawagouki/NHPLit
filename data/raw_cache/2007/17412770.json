@@ -1,0 +1,34 @@
+{
+  "pmid": "17412770",
+  "title": "Linking lateral interactions in flicker perception to lateral geniculate nucleus cell responses.",
+  "abstract": "The perception of flicker strength in a circular stimulus can be changed by altering the relative temporal phase of a simultaneously flickering surrounding annulus: perceived flicker is weak when the two stimuli are modulated in-phase and strong when the two are modulated in counter-phase. Previously, we found that responses of single neurons in the monkey lateral geniculate nucleus (LGN) to such stimuli resemble the psychophysical data. On the basis of the resemblance in data, it was proposed that the physiological basis for the flicker perception may be present as proximal as the LGN. To strengthen this hypothesis, we simulated the response of an array of LGN neurons, the receptive fields (RFs) of which are covered by the stimulus. The simulations were based upon single-cell recordings in the LGN of anaesthetized marmosets (Callithrix jacchus) using the same stimuli as previously. The measurements were repeated for different spatial displacement between the stimulus and the RF. The responses depended upon the spatial displacement and the relative phase between centre and surround stimuli. The neuronal responses can be adequately described by a difference-of-Gaussians (DOG) model with a time delay in the RF surround. The model responses at different displacements can be considered to be identical to the output of an array of ideal and identical LGN cells with different RF locations. To be able to describe physiological and psychophysical data, obtained at different stimulus contrasts, it was necessary to consider previously described non-linear interactions between the RF centres and surrounds. We applied a spatial peak-to-trough detector with a subsequent saturation and threshold to simulate a simple cortical decision mechanism. The output of this peak-to-trough detector could adequately describe the psychophysical data.",
+  "authors": [
+    "Kozyrev Vladislav",
+    "Silveira Luiz Carlos L",
+    "Kremers Jan"
+  ],
+  "journal": "The Journal of physiology",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Callithrix",
+    "Computer Simulation",
+    "Contrast Sensitivity",
+    "Electrophysiology",
+    "Fourier Analysis",
+    "Geniculate Bodies",
+    "Models, Neurological",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Psychophysics",
+    "Retina",
+    "Signal Detection, Psychological",
+    "Space Perception",
+    "Time Factors",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

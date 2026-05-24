@@ -1,0 +1,26 @@
+{
+  "pmid": "25910001",
+  "title": "Electric Field Model of Transcranial Electric Stimulation in Nonhuman Primates: Correspondence to Individual Motor Threshold.",
+  "abstract": "OBJECTIVE: To develop a pipeline for realistic head models of nonhuman primates (NHPs) for simulations of noninvasive brain stimulation, and use these models together with empirical threshold measurements to demonstrate that the models capture individual anatomical variability. METHODS: Based on structural MRI data, we created models of the electric field (E-field) induced by right unilateral (RUL) electroconvulsive therapy (ECT) in four rhesus macaques. Individual motor threshold (MT) was measured with transcranial electric stimulation (TES) administered through the RUL electrodes in the same subjects. RESULTS: The interindividual anatomical differences resulted in 57% variation in median E-field strength in the brain at fixed stimulus current amplitude. Individualization of the stimulus current by MT reduced the E-field variation in the target motor area by 27%. There was significant correlation between the measured MT and the ratio of simulated electrode current and E-field strength (r(2) = 0.95, p = 0.026). Exploratory analysis revealed significant correlations of this ratio with anatomical parameters including of the superior electrode-to-cortex distance, vertex-to-cortex distance, and brain volume (r(2) > 0.96, p < 0.02). The neural activation threshold was estimated to be 0.45 ±0.07 V/cm for 0.2-ms stimulus pulse width. CONCLUSION: These results suggest that our individual-specific NHP E-field models appropriately capture individual anatomical variability relevant to the dosing of TES/ECT. These findings are exploratory due to the small number of subjects. SIGNIFICANCE: This study can contribute insight in NHP studies of ECT and other brain stimulation interventions, help link the results to clinical studies, and ultimately lead to more rational brain stimulation dosing paradigms.",
+  "authors": [
+    "Lee Won Hee",
+    "Lisanby Sarah H",
+    "Laine Andrew F",
+    "Peterchev Angel V"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2015",
+  "doi": "10.1109/TBME.2015.2425406",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Electricity",
+    "Finite Element Analysis",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Models, Neurological",
+    "Transcranial Direct Current Stimulation"
+  ]
+}

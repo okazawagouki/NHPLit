@@ -1,0 +1,23 @@
+{
+  "pmid": "22028634",
+  "title": "A neurodynamic account of spontaneous behaviour.",
+  "abstract": "The current article suggests that deterministic chaos self-organized in cortical dynamics could be responsible for the generation of spontaneous action sequences. Recently, various psychological observations have suggested that humans and primates can learn to extract statistical structures hidden in perceptual sequences experienced during active environmental interactions. Although it has been suggested that such statistical structures involve chunking or compositional primitives, their neuronal implementations in brains have not yet been clarified. Therefore, to reconstruct the phenomena, synthetic neuro-robotics experiments were conducted by using a neural network model, which is characterized by a generative model with intentional states and its multiple timescales dynamics. The experimental results showed that the robot successfully learned to imitate tutored behavioral sequence patterns by extracting the underlying transition probability among primitive actions. An analysis revealed that a set of primitive action patterns was embedded in the fast dynamics part, and the chaotic dynamics of spontaneously sequencing these action primitive patterns was structured in the slow dynamics part, provided that the timescale was adequately set for each part. It was also shown that self-organization of this type of functional hierarchy ensured robust action generation by the robot in its interactions with a noisy environment. This article discusses the correspondence of the synthetic experiments with the known hierarchy of the prefrontal cortex, the supplementary motor area, and the primary motor cortex for action generation. We speculate that deterministic dynamical structures organized in the prefrontal cortex could be essential because they can account for the generation of both intentional behaviors of fixed action sequences and spontaneous behaviors of pseudo-stochastic action sequences by the same mechanism.",
+  "authors": [
+    "Namikawa Jun",
+    "Nishimoto Ryunosuke",
+    "Tani Jun"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2011",
+  "doi": "10.1371/journal.pcbi.1002221",
+  "mesh": [
+    "Behavior",
+    "Humans",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neural Networks, Computer",
+    "Prefrontal Cortex",
+    "Psychomotor Performance",
+    "Robotics"
+  ]
+}

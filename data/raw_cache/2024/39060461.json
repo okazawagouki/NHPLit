@@ -1,0 +1,21 @@
+{
+  "pmid": "39060461",
+  "title": "Optimizing neural networks using spider monkey optimization algorithm for intrusion detection system.",
+  "abstract": "The constantly changing nature of cyber threats presents unprecedented difficulties for people, institutions, and governments across the globe. Cyber threats are a major concern in today's digital world like hacking, phishing, malware, and data breaches. These can compromise anyone's personal information and harm the organizations. An intrusion detection system plays a vital responsibility to identifying abnormal network traffic and alerts the system in real time if any malicious activity is detected. In our present research work Artificial Neural Networks (ANN) layers are optimized with the execution of Spider Monkey Optimization (SMO) to detect attacks or intrusions in the system. The developed model SMO-ANN is examined using publicly available dataset Luflow, CIC-IDS 2017, UNR-IDD and NSL -KDD to classify the network traffic as benign or attack type. In the binary Luflow dataset and the multiclass NSL-KDD dataset, the proposed model SMO-ANN has the maximum accuracy, at 100% and 99%, respectively.",
+  "authors": [
+    "Kumari Deepshikha",
+    "Sinha Abhinav",
+    "Dutta Sandip",
+    "Pranav Prashant"
+  ],
+  "journal": "Scientific reports",
+  "year": "2024",
+  "doi": "10.1038/s41598-024-68342-6",
+  "mesh": [
+    "Neural Networks, Computer",
+    "Algorithms",
+    "Animals",
+    "Computer Security",
+    "Atelinae"
+  ]
+}

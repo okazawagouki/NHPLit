@@ -1,0 +1,35 @@
+{
+  "pmid": "18303800",
+  "title": "Asynchronous decoding of dexterous finger movements using M1 neurons.",
+  "abstract": "Previous efforts in brain-machine interfaces (BMI) have looked at decoding movement intent or hand and arm trajectory, but current cortical control strategies have not focused on the decoding of dexterous [corrected] actions such as finger movements. The present work demonstrates the asynchronous decoding (i.e., where cues indicating the onset of movement are not known) of individual and combined finger movements. Single-unit activities were recorded sequentially from a population of neurons in the M1 hand area of trained rhesus monkeys during flexion and extension movements of each finger and the wrist. Nonlinear filters were designed to detect the onset of movement and decode the movement type from randomly selected neuronal ensembles (assembled from individually recorded single-unit activities). Average asynchronous decoding accuracies as high as 99.8%, 96.2%, and 90.5%, were achieved for individuated finger and wrist movements with three monkeys. Average decoding accuracy was still 92.5% when combined movements of two fingers were included. These results demonstrate that it is possible to asynchronously decode dexterous finger movements from a neuronal ensemble with high accuracy. This work takes an important step towards the development of a BMI for direct neural control of a state-of-the-art, multifingered hand prosthesis.",
+  "authors": [
+    "Aggarwal Vikram",
+    "Acharya Soumyadipta",
+    "Tenore Francesco",
+    "Shin Hyun-Chool",
+    "Etienne-Cummings Ralph",
+    "Schieber Marc H",
+    "Thakor Nitish V"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2008",
+  "doi": "10.1109/TNSRE.2007.916289",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artificial Limbs",
+    "Electrophysiology",
+    "Fingers",
+    "Hand",
+    "Macaca mulatta",
+    "Male",
+    "Models, Statistical",
+    "Motor Neurons",
+    "Motor Skills",
+    "Movement",
+    "Neural Networks, Computer",
+    "Prosthesis Design",
+    "Robotics",
+    "Wrist"
+  ]
+}

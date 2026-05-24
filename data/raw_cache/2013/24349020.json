@@ -1,0 +1,25 @@
+{
+  "pmid": "24349020",
+  "title": "Increased firing irregularity as an emergent property of neural-state transition in monkey prefrontal cortex.",
+  "abstract": "Flexible behaviors are organized by complex neural networks in the prefrontal cortex. Recent studies have suggested that such networks exhibit multiple dynamical states, and can switch rapidly from one state to another. In many complex systems such as the brain, the early-warning signals that may predict whether a critical threshold for state transitions is approaching are extremely difficult to detect. We hypothesized that increases in firing irregularity are a crucial measure for predicting state transitions in the underlying neuronal circuits of the prefrontal cortex. We used both experimental and theoretical approaches to test this hypothesis. Experimentally, we analyzed activities of neurons in the prefrontal cortex while monkeys performed a maze task that required them to perform actions to reach a goal. We observed increased firing irregularity before the activity changed to encode goal-to-action information. Theoretically, we constructed theoretical generic neural networks and demonstrated that changes in neuronal gain on functional connectivity resulted in a loss of stability and an altered state of the networks, accompanied by increased firing irregularity. These results suggest that assessing the temporal pattern of neuronal fluctuations provides important clues regarding the state stability of the prefrontal network. We also introduce a novel scheme that the prefrontal cortex functions in a metastable state near the critical point of bifurcation. According to this scheme, firing irregularity in the prefrontal cortex indicates that the system is about to change its state and the flow of information in a flexible manner, which is essential for executive functions. This metastable and/or critical dynamical state of the prefrontal cortex may account for distractibility and loss of flexibility in the prefrontal cortex in major mental illnesses such as schizophrenia.",
+  "authors": [
+    "Sakamoto Kazuhiro",
+    "Katori Yuichi",
+    "Saito Naohiro",
+    "Yoshida Shun",
+    "Aihara Kazuyuki",
+    "Mushiake Hajime"
+  ],
+  "journal": "PloS one",
+  "year": "2013",
+  "doi": "10.1371/journal.pone.0080906",
+  "mesh": [
+    "Animals",
+    "Executive Function",
+    "Haplorhini",
+    "Models, Theoretical",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Schizophrenia"
+  ]
+}

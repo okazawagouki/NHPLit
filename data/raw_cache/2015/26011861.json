@@ -1,0 +1,28 @@
+{
+  "pmid": "26011861",
+  "title": "Accelerating Submovement Decomposition With Search-Space Reduction Heuristics.",
+  "abstract": "OBJECTIVE: Movements made by healthy individuals can be characterized as superpositions of smooth bell-shaped velocity curves. Decomposing complex movements into these simpler \"submovement\" building blocks is useful for studying the neural control of movement as well as measuring motor impairment due to neurological injury. APPROACH: One prevalent strategy to submovement decomposition is to formulate it as an optimization problem. This optimization problem is nonconvex and finding an exact solution is computationally burdensome. We build on previous literature that generated approximate solutions to the submovement optimization problem. RESULTS: First, we demonstrate broad conditions on the submovement building block functions that enable the optimization variables to be partitioned into disjoint subsets, allowing for a faster alternating minimization solution. Specifically, the amplitude parameters of a submovement can typically be fit independently of its shape parameters. Second, we develop a method to concentrate the search in regions of high error to make more efficient use of optimization routine iterations. CONCLUSION: Both innovations result in substantial reductions in computation time across multiple nonhuman primate subjects and diverse task conditions. SIGNIFICANCE: These innovations may accelerate analysis of submovements for basic neuroscience and enable real-time applications of submovement decomposition.",
+  "authors": [
+    "Gowda Suraj",
+    "Overduin Simon A",
+    "Chen Mo",
+    "Chang Young-Hwan",
+    "Tomlin Claire J",
+    "Carmena Jose M"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2015",
+  "doi": "10.1109/TBME.2015.2434595",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Databases, Factual",
+    "Hand",
+    "Macaca",
+    "Male",
+    "Movement",
+    "Signal Processing, Computer-Assisted",
+    "Task Performance and Analysis"
+  ]
+}

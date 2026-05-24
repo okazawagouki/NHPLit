@@ -1,0 +1,28 @@
+{
+  "pmid": "25946198",
+  "title": "A high performing brain-machine interface driven by low-frequency local field potentials alone and together with spikes.",
+  "abstract": "OBJECTIVE: Brain-machine interfaces (BMIs) seek to enable people with movement disabilities to directly control prosthetic systems with their neural activity. Current high performance BMIs are driven by action potentials (spikes), but access to this signal often diminishes as sensors degrade over time. Decoding local field potentials (LFPs) as an alternative or complementary BMI control signal may improve performance when there is a paucity of spike signals. To date only a small handful of LFP decoding methods have been tested online; there remains a need to test different LFP decoding approaches and improve LFP-driven performance. There has also not been a reported demonstration of a hybrid BMI that decodes kinematics from both LFP and spikes. Here we first evaluate a BMI driven by the local motor potential (LMP), a low-pass filtered time-domain LFP amplitude feature. We then combine decoding of both LMP and spikes to implement a hybrid BMI. APPROACH: Spikes and LFP were recorded from two macaques implanted with multielectrode arrays in primary and premotor cortex while they performed a reaching task. We then evaluated closed-loop BMI control using biomimetic decoders driven by LMP, spikes, or both signals together. MAIN RESULTS: LMP decoding enabled quick and accurate cursor control which surpassed previously reported LFP BMI performance. Hybrid decoding of both spikes and LMP improved performance when spikes signal quality was mediocre to poor. SIGNIFICANCE: These findings show that LMP is an effective BMI control signal which requires minimal power to extract and can substitute for or augment impoverished spikes signals. Use of this signal may lengthen the useful lifespan of BMIs and is therefore an important step towards clinically viable BMIs.",
+  "authors": [
+    "Stavisky Sergey D",
+    "Kao Jonathan C",
+    "Nuyujukian Paul",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2015",
+  "doi": "10.1088/1741-2560/12/3/036009",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Evoked Potentials, Motor",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity"
+  ]
+}

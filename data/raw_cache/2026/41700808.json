@@ -1,0 +1,26 @@
+{
+  "pmid": "41700808",
+  "title": "Behavioral differences between humans and machines arise early in visual processing.",
+  "abstract": "It remains an open question to what extent current deep neural networks (DNNs) are suitable computational models of the human visual system. While DNNs have proven to be capable of predicting neural activations in primate visual cortex with great success, psychophysical experiments have shown behavioral differences between DNNs and human observers. One of these behavioral differences is which individual images DNNs and human observers find easy or difficult to recognize, as quantified by error consistency (EC). Hypothetically, the reported differences in EC could arise late in visual processing, even though the representations extracted by DNNs and human observers may have been more similar in the initial forward sweep: At the presentation and response times investigated in earlier work, observer-internal idiosyncrasies (e.g., in feedback-mediated memory) might have influenced the final behavioral responses, lowering EC between DNNs and human observers. To test this hypothesis, we systematically vary presentation times of backward-masked stimuli from 8.3 to 267 ms and measure human performance on a speeded eightfold identification task with natural images. Contrary to the hypothesis that error consistency peaks early in time, we find that it never exceeds the value of 0.4 known from previous work with longer presentation times, suggesting that the differences between DNNs and humans cannot be explained by late high-level reasoning but point to systematic processing differences between DNNs and the early human visual system.",
+  "authors": [
+    "Klein Thomas",
+    "Brendel Wieland",
+    "Wichmann Felix A"
+  ],
+  "journal": "Journal of vision",
+  "year": "2026",
+  "doi": "10.1167/jov.26.2.9",
+  "mesh": [
+    "Humans",
+    "Visual Cortex",
+    "Visual Perception",
+    "Adult",
+    "Photic Stimulation",
+    "Neural Networks, Computer",
+    "Male",
+    "Female",
+    "Reaction Time",
+    "Young Adult",
+    "Psychophysics"
+  ]
+}

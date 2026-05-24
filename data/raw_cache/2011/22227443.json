@@ -1,0 +1,31 @@
+{
+  "pmid": "22227443",
+  "title": "Expert-like performance of an autonomous spike tracking algorithm in isolating and maintaining single units in the macaque cortex.",
+  "abstract": "Isolating action potentials of a single neuron (unit) is essential for intra-cortical neurophysiological recordings. Yet, during extracellular recordings in semi-chronic awake preparations, the relationship between neuronal soma and the recording electrode is typically not stationary. Neuronal waveforms often change in shape, and in the absence of counter-measures, merge with the background noise. To avoid this, experimenters can repeatedly re-adjust electrode positions to maintain the shapes of isolated spikes. In recordings with a larger number of electrodes, this process becomes extremely difficult. We report the performance of an automated algorithm that tracks neurons to obtain well isolated spiking, and autonomously adjusts electrode position to maintain good isolation. We tested the performance of this algorithm in isolating units with multiple individually adjustable micro-electrodes in a cortical surface area of macaque monkeys. We compared the performance in terms of signal quality and signal stability against passive placement of microelectrodes and against the performance of three human experts. The results show that our SpikeTrack2 algorithm achieves significantly better signal quality compared to passive placement. It is as least as good as humans in initially finding and isolating units, and better as the average and at least as good as the most proficient of three human experimenters in maintaining signal quality and signal stability. The autonomous tracking performance, the scalability of the system to large numbers of individual channels, and the possibility to objectify single unit recording criteria makes SpikeTrack2 a highly valuable tool for all multi-channel recording systems with individually adjustable electrodes.",
+  "authors": [
+    "Chakrabarti Shubhodeep",
+    "Hebert Paul",
+    "Wolf Michael T",
+    "Campos Michael",
+    "Burdick Joel W",
+    "Gail Alexander"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2012",
+  "doi": "10.1016/j.jneumeth.2011.12.018",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Cerebral Cortex",
+    "Electrophysiological Phenomena",
+    "Expert Systems",
+    "Kaplan-Meier Estimate",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Neurons",
+    "Signal Processing, Computer-Assisted",
+    "Signal-To-Noise Ratio"
+  ]
+}

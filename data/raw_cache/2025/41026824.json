@@ -1,0 +1,28 @@
+{
+  "pmid": "41026824",
+  "title": "Mapping macaque to human cortex with natural scene responses.",
+  "abstract": "Neuroscience has long relied on macaque studies to infer human brain function, yet identifying functionally corresponding brain regions across species and measurement modalities remains a fundamental challenge. This is especially true for the higher-order cortex, where functional interpretations are constrained by narrow hypotheses and anatomical landmarks are often nonhomologous. We present a data-driven approach for mapping functional correspondence across species using rich, naturalistic stimuli. By directly comparing macaque electrophysiology with human fMRI responses to 700 natural scenes, we identify fine-grained alignment based on response pattern similarity, without relying on predefined tuning concepts or hand-picked stimuli. As a test case, we examine the ventral face patch system, a well-studied but contested domain in cross-species alignment. Our approach resolves a long-standing ambiguity by supporting a correspondence between macaque ML and human FFA and between AL and more anterior temporal cortex in humans. This result is consistent with full-brain anatomical warping but inconsistent with prior studies limited by narrow functional hypotheses. These findings show that natural image-evoked response patterns provide a robust foundation for cross-species functional alignment, supporting scalable comparisons as large-scale primate recordings become more widespread.",
+  "authors": [
+    "Vinken Kasper",
+    "Sharma Saloni",
+    "Livingstone Margaret S"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2025",
+  "doi": "10.1073/pnas.2512619122",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Brain Mapping",
+    "Male",
+    "Photic Stimulation",
+    "Female",
+    "Adult",
+    "Macaca mulatta",
+    "Temporal Lobe",
+    "Cerebral Cortex",
+    "Macaca",
+    "Pattern Recognition, Visual"
+  ]
+}

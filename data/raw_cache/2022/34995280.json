@@ -1,0 +1,26 @@
+{
+  "pmid": "34995280",
+  "title": "Increasing neural network robustness improves match to macaque V1 eigenspectrum, spatial frequency preference and predictivity.",
+  "abstract": "Task-optimized convolutional neural networks (CNNs) show striking similarities to the ventral visual stream. However, human-imperceptible image perturbations can cause a CNN to make incorrect predictions. Here we provide insight into this brittleness by investigating the representations of models that are either robust or not robust to image perturbations. Theory suggests that the robustness of a system to these perturbations could be related to the power law exponent of the eigenspectrum of its set of neural responses, where power law exponents closer to and larger than one would indicate a system that is less susceptible to input perturbations. We show that neural responses in mouse and macaque primary visual cortex (V1) obey the predictions of this theory, where their eigenspectra have power law exponents of at least one. We also find that the eigenspectra of model representations decay slowly relative to those observed in neurophysiology and that robust models have eigenspectra that decay slightly faster and have higher power law exponents than those of non-robust models. The slow decay of the eigenspectra suggests that substantial variance in the model responses is related to the encoding of fine stimulus features. We therefore investigated the spatial frequency tuning of artificial neurons and found that a large proportion of them preferred high spatial frequencies and that robust models had preferred spatial frequency distributions more aligned with the measured spatial frequency distribution of macaque V1 cells. Furthermore, robust models were quantitatively better models of V1 than non-robust models. Our results are consistent with other findings that there is a misalignment between human and machine perception. They also suggest that it may be useful to penalize slow-decaying eigenspectra or to bias models to extract features of lower spatial frequencies during task-optimization in order to improve robustness and V1 neural response predictivity.",
+  "authors": [
+    "Kong Nathan C L",
+    "Margalit Eshed",
+    "Gardner Justin L",
+    "Norcia Anthony M"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2022",
+  "doi": "10.1371/journal.pcbi.1009739",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computational Biology",
+    "Humans",
+    "Macaca fascicularis",
+    "Mice",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Primary Visual Cortex"
+  ]
+}

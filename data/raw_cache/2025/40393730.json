@@ -1,0 +1,26 @@
+{
+  "pmid": "40393730",
+  "title": "Dissociating Frontal Lobe Lesion Induced Deficits in Rule Value Learning Using Reinforcement Learning Models and a WCST Analog.",
+  "abstract": "Distinct frontal regions make dissociable contributions to rule-guided decision-making, including the ability to learn and exploit associations between abstract rules and reward value, maintain those rules in memory, and evaluate choice outcomes. Value-based learning can be quantified using reinforcement learning (RL) models predicting optimal trial-wise choices and estimating learning rates, which can then be related to the intact functioning of specific brain areas by combining a modeling approach with lesion-behavioral data. We applied a three-parameter feedback-dependent RL model to behavioral data obtained from macaques with circumscribed lesions to the principal sulcus (PS), anterior cingulate cortex (ACC), orbitofrontal cortex (OFC), superior dorsolateral prefrontal cortex (sdlPFC), and frontopolar cortex (FPC) performing a Wisconsin card sorting task (WCST) analog. Our modeling-based approach identified distinct lesion effects on component cognitive mechanisms contributing to WCST performance. OFC lesions decreased the rate of rule value updating following both positive and negative feedback. In contrast, we found no deficit in rule value updating following PS lesions, which instead made monkeys less likely to repeat correct choices when rule values were well established, suggesting a crucial role of the PS in the working memory maintenance of rule representations. Finally, ACC lesions produced a specific deficit in learning from negative feedback, as well as impaired the ability to repeat choices following highly surprising reward, supporting a proposed role for ACC in flexibly switching between a trial-and-error mode and a working memory mode in response to increased error likelihood.",
+  "authors": [
+    "Capkova Lucie",
+    "Ainsworth Matthew",
+    "Mansouri Farshad A",
+    "Buckley Mark J"
+  ],
+  "journal": "eNeuro",
+  "year": "2025",
+  "doi": "10.1523/ENEURO.0117-25.2025",
+  "mesh": [
+    "Animals",
+    "Reinforcement, Psychology",
+    "Frontal Lobe",
+    "Male",
+    "Macaca mulatta",
+    "Choice Behavior",
+    "Neuropsychological Tests",
+    "Reward",
+    "Decision Making",
+    "Models, Neurological"
+  ]
+}

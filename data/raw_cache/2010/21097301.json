@@ -1,0 +1,24 @@
+{
+  "pmid": "21097301",
+  "title": "The minimum interval for confident spike sorting: A sequential decision method.",
+  "abstract": "This paper develops a method to determine the minimum duration interval which ensures that the process of \"sorting\" the extracellular action potentials recorded during that interval achieves a desired confidence level of accuracy. During the recording process, a sequential decision theory approach continually evaluates a variant of the likelihood ratio test using the model evidence of the sorting/clustering hypotheses. The test is compared against a threshold which encodes a desired confidence level on the accuracy of the subsequent clustering procedure. When the threshold is exceeded, the clustering model with the highest model evidence is accepted. We first develop a testing procedure for a single recording interval, and then extend the method to multi-interval recording by using both Bayesian priors from previous recording intervals and recently developed cluster tracking procedure. Lastly, a more advanced tracker is implemented and initials results are presented. This later procedure is useful for real time applications such as brain machine interfaces and autonomous recording electrodes. We test our theory on recordings from Macaque parietal cortex, showing that the method does reach the desired confidence level.",
+  "authors": [
+    "Hebert Paul",
+    "Burdick Joel"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2010",
+  "doi": "10.1109/IEMBS.2010.5628016",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Confidence Intervals",
+    "Data Interpretation, Statistical",
+    "Decision Support Techniques",
+    "Electroencephalography",
+    "Haplorhini",
+    "Neurons",
+    "Parietal Lobe"
+  ]
+}

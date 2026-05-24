@@ -1,0 +1,26 @@
+{
+  "pmid": "41027908",
+  "title": "A doubly stochastic renewal framework for partitioning spiking variability.",
+  "abstract": "The firing rate is a prevalent concept used to describe neural computations, but estimating dynamically changing firing rates from irregular spikes is challenging. An inhomogeneous Poisson process, the standard model for partitioning firing rate and spiking irregularity, cannot account for diverse spike statistics observed across neurons. We introduce a doubly stochastic renewal point process, a flexible mathematical framework for partitioning spiking variability, which captures the broad spectrum of spiking irregularity from periodic to super-Poisson. We validate our partitioning framework using intracellular voltage recordings and develop a method for estimating spiking irregularity from data. We find that the spiking irregularity of cortical neurons decreases from sensory to association areas and is nearly constant for each neuron under many conditions but can also change across task epochs. Spiking network models show that spiking irregularity depends on connectivity and can change with external input. These results help improve the precision of estimating firing rates on single trials and constrain mechanistic models of neural circuits.",
+  "authors": [
+    "Aghamohammadi Cina",
+    "Chandrasekaran Chandramouli",
+    "Engel Tatiana A"
+  ],
+  "journal": "Nature communications",
+  "year": "2025",
+  "doi": "10.1038/s41467-025-63821-4",
+  "mesh": [
+    "Stochastic Processes",
+    "Action Potentials",
+    "Models, Neurological",
+    "Neurons",
+    "Animals",
+    "Poisson Distribution",
+    "Nerve Net",
+    "Male",
+    "Macaca mulatta",
+    "Female",
+    "Mice"
+  ]
+}

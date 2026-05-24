@@ -1,0 +1,23 @@
+{
+  "pmid": "22255363",
+  "title": "Neuron selection for decoding dexterous finger movements.",
+  "abstract": "Many brain machine interfaces (BMI) seek to use the activity from hundreds of simultaneously recorded neurons to reconstruct an individual's kinematics. However, many of these neurons are not task related since there is no way to surgically target those neurons. This causes model based decoding to suffer easily from over-fitting on noisy unrelated neurons. Previous methods, such as correlation analysis and sensitivity analysis, seek to select neurons based on which reduced order model best matches the ensemble model and thus does not worry about over fitting. To address this issue, this paper presents a new method, cross model validation, that ranks neuron importance on the neuron model's ability to generalize well to data from correct movements and poorly to data from incorrect movements. This method attempts to highlight the neurons that are able to distinguish between movements the best and decode accurately. Selecting neurons using cross model validation scores as opposed to randomly selecting them can increase decoding accuracy up to 2.5 times or by 44%. These results showcase the importance of neuron selection in decoding and the ability of cross model validation in discerning each neuron's utility in decoding.",
+  "authors": [
+    "Kahn Kevin",
+    "Sheiber Marc",
+    "Thakor Nitish",
+    "Sarma Sridevi V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2011",
+  "doi": "10.1109/IEMBS.2011.6091140",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Fingers",
+    "Macaca mulatta",
+    "Male",
+    "Movement",
+    "Neurons"
+  ]
+}

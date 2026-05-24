@@ -1,0 +1,23 @@
+{
+  "pmid": "23284276",
+  "title": "Task-dependent changes in cross-level coupling between single neurons and oscillatory activity in multiscale networks.",
+  "abstract": "Understanding the principles governing the dynamic coordination of functional brain networks remains an important unmet goal within neuroscience. How do distributed ensembles of neurons transiently coordinate their activity across a variety of spatial and temporal scales? While a complete mechanistic account of this process remains elusive, evidence suggests that neuronal oscillations may play a key role in this process, with different rhythms influencing both local computation and long-range communication. To investigate this question, we recorded multiple single unit and local field potential (LFP) activity from microelectrode arrays implanted bilaterally in macaque motor areas. Monkeys performed a delayed center-out reach task either manually using their natural arm (Manual Control, MC) or under direct neural control through a brain-machine interface (Brain Control, BC). In accord with prior work, we found that the spiking activity of individual neurons is coupled to multiple aspects of the ongoing motor beta rhythm (10-45 Hz) during both MC and BC, with neurons exhibiting a diversity of coupling preferences. However, here we show that for identified single neurons, this beta-to-rate mapping can change in a reversible and task-dependent way. For example, as beta power increases, a given neuron may increase spiking during MC but decrease spiking during BC, or exhibit a reversible shift in the preferred phase of firing. The within-task stability of coupling, combined with the reversible cross-task changes in coupling, suggest that task-dependent changes in the beta-to-rate mapping play a role in the transient functional reorganization of neural ensembles. We characterize the range of task-dependent changes in the mapping from beta amplitude, phase, and inter-hemispheric phase differences to the spike rates of an ensemble of simultaneously-recorded neurons, and discuss the potential implications that dynamic remapping from oscillatory activity to spike rate and timing may hold for models of computation and communication in distributed functional brain networks.",
+  "authors": [
+    "Canolty Ryan T",
+    "Ganguly Karunesh",
+    "Carmena Jose M"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2012",
+  "doi": "10.1371/journal.pcbi.1002809",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Multivariate Analysis",
+    "Neurons"
+  ]
+}

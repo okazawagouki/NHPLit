@@ -1,0 +1,22 @@
+{
+  "pmid": "23981719",
+  "title": "Influence of spiking activity on cortical local field potentials.",
+  "abstract": "The intra-cortical local field potential (LFP) reflects a variety of electrophysiological processes including synaptic inputs to neurons and their spiking activity. It is still a common assumption that removing high frequencies, often above 300 Hz, is sufficient to exclude spiking activity from LFP activity prior to analysis. Conclusions based on such supposedly spike-free LFPs can result in false interpretations of neurophysiological processes and erroneous correlations between LFPs and behaviour or spiking activity. Such findings might simply arise from spike contamination rather than from genuine changes in synaptic input activity. Although the subject of recent studies, the extent of LFP contamination by spikes is unclear, and the fundamental problem remains. Using spikes recorded in the motor cortex of the awake monkey, we investigated how different factors, including spike amplitude, duration and firing rate, together with the noise statistic, can determine the extent to which spikes contaminate intra-cortical LFPs. We demonstrate that such contamination is realistic for LFPs with a frequency down to ∼10 Hz. For LFP activity below ∼10 Hz, such as movement-related potential, contamination is theoretically possible but unlikely in real situations. Importantly, LFP frequencies up to the (high-) gamma band can remain unaffected. This study shows that spike-LFP crosstalk in intra-cortical recordings should be assessed for each individual dataset to ensure that conclusions based on LFP analysis are valid. To this end, we introduce a method to detect and to visualise spike contamination, and provide a systematic guide to assess spike contamination of intra-cortical LFPs.",
+  "authors": [
+    "Waldert Stephan",
+    "Lemon Roger N",
+    "Kraskov Alexander"
+  ],
+  "journal": "The Journal of physiology",
+  "year": "2013",
+  "doi": "10.1113/jphysiol.2013.258228",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electroencephalography",
+    "Macaca",
+    "Motor Cortex",
+    "Signal-To-Noise Ratio",
+    "Wakefulness"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "41478519",
+  "title": "Orthogonal neural geometry of orientation, spatial frequency, and ocular dominance in macaque V1.",
+  "abstract": "The classical ice-cube model of Hubel and Wiesel proposes that V1 neurons are spatially organized into orthogonal maps of orientation and ocular dominance to optimize wiring efficiency. However, extending this framework to include additional features such as spatial frequency imposes constraints on how these features can be spatially arranged on the cortical surface. A recent two-photon imaging study of ours found that cellular-resolution maps of orientation, spatial frequency, and ocular dominance in macaque V1 lack consistent orthogonal or parallel spatial arrangements. To investigate whether these features are instead represented in population activity space, we applied principal component analysis (PCA) to these and additional datasets. We found that population responses formed near-orthogonal geometries in representational space, supporting the idea that feature encoding relies more on population-level activity than spatial layout. This orthogonal structure remained robust to dimensionality changes and was absent in response-shuffled control data, in which feature axes collapsed to chance-level alignment. Furthermore, artificially disrupting orthogonality, either by aligning feature axes or randomizing trial positions in PCA space, severely impaired the decodability of stimulus features, demonstrating that orthogonal representations are critical for maintaining feature separability. These findings suggest that V1 population responses follow an orthogonal encoding geometry, and that population codes, rather than spatial maps, better capture feature representation. This principle may also serve as an important benchmark for V1-inspired deep neural networks.",
+  "authors": [
+    "Wang Xin",
+    "Zhang Sheng-Hui",
+    "Tang Shi-Ming",
+    "Yu Cong"
+  ],
+  "journal": "Progress in neurobiology",
+  "year": "2026",
+  "doi": "10.1016/j.pneurobio.2025.102874",
+  "mesh": [
+    "Animals",
+    "Visual Cortex",
+    "Dominance, Ocular",
+    "Space Perception",
+    "Neurons",
+    "Orientation",
+    "Macaca mulatta",
+    "Macaca"
+  ]
+}

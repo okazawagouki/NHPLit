@@ -1,0 +1,24 @@
+{
+  "pmid": "22537598",
+  "title": "Improved decoding of neural activity from fMRI signals using non-separable spatiotemporal deconvolutions.",
+  "abstract": "The goal of most functional Magnetic Resonance Imaging (fMRI) analyses is to investigate neural activity. Many fMRI analysis methods assume that the temporal dynamics of the hemodynamic response function (HRF) to neural activation is separable from its spatial dynamics. Although there is empirical evidence that the HRF is more complex than suggested by space-time separable canonical HRF models, it is difficult to assess how much information about neural activity is lost when assuming space-time separability. In this study we directly test whether spatiotemporal variability in the HRF that is not captured by separable models contains information about neural signals. We predict intracranially measured neural activity from simultaneously recorded fMRI data using separable and non-separable spatiotemporal deconvolutions of voxel time series around the recording electrode. Our results show that abandoning the spatiotemporal separability assumption consistently improves the decoding accuracy of neural signals from fMRI data. We compare our findings with results from optical imaging and fMRI studies and discuss potential implications for classical fMRI analyses without invasive electrophysiological recordings.",
+  "authors": [
+    "Biessmann Felix",
+    "Murayama Yusuke",
+    "Logothetis Nikos K",
+    "Müller Klaus-Robert",
+    "Meinecke Frank C"
+  ],
+  "journal": "NeuroImage",
+  "year": "2012",
+  "doi": "10.1016/j.neuroimage.2012.04.015",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Image Processing, Computer-Assisted",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Models, Neurological"
+  ]
+}

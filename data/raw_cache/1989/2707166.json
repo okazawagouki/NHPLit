@@ -1,0 +1,25 @@
+{
+  "pmid": "2707166",
+  "title": "In vivo biological validation and biophysical modeling of the sensitivity and positive accuracy of endocrine peak detection. I. The LH pulse signal.",
+  "abstract": "The false positive (type I) and false negative (type II) errors inherent in computerized peak detection algorithms can have a major impact on the valid interpretation of physiological experiments. To objectively define the nature and extent of statistical errors associated with the identification of episodic gonadotropin (LH) peaks, we have employed two complementary approaches. First, using a general biophysical model for simulating episodic LH secretion, we have estimated optimal pulse analysis parameters that yield maximal sensitivity (probability of finding any given peak) and positive accuracy (probability that any identified peak is a true pulse) in synthetic LH series approximating those observed spontaneously in vivo. Secondly, we have estimated optimal peak detection parameters in an in vivo primate animal model, in which electrophysiological correlates of spontaneous LH pulses were documented independently by continuous electrophysiological monitoring of medial basal hypothalamus multiunit activity. These combined approaches indicate that LH time series can be analyzed for episodic LH pulsatility by an appropriately constrained, objective computerized algorithm with minimal false negative and false positive errors, i.e. with resultant high sensitivity and positive accuracy. Moreover, optimal pulse analysis parameters exhibited similar sensitivity and positive accuracy rates in both the biophysical simulations and the animal model. Thus, we suggest that the combined use of an algebraically explicit biophysical simulation model and an in vivo animal paradigm may serve to clarify the nature and extent of false negative and false positive errors in the detection of other hormone peaks as well as the gonadotropin LH.",
+  "authors": [
+    "Urban R J",
+    "Johnson M L",
+    "Veldhuis J D"
+  ],
+  "journal": "Endocrinology",
+  "year": "1989",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Biophysics",
+    "Castration",
+    "Computer Simulation",
+    "Electrophysiology",
+    "Evaluation Studies as Topic",
+    "Luteinizing Hormone",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Pulsatile Flow"
+  ]
+}

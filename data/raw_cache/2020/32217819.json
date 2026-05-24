@@ -1,0 +1,30 @@
+{
+  "pmid": "32217819",
+  "title": "High-density electrophysiological recordings in macaque using a chronically implanted 128-channel passive silicon probe.",
+  "abstract": "OBJECTIVE: The analysis of interactions among local populations of neurons in the cerebral cortex (e.g. within cortical microcolumns) requires high resolution and high channel count recordings from chronically implanted laminar microelectrode arrays. The request for high-density recordings of a large number of recording sites can presently only be accomplished by probes realized using complementary metal-oxide-semiconductor (CMOS) technology. In preparation for their use in non-human primates, we aimed for neural probe validation in a head-fixed approach analyzing the long-term recording capability. APPROACH: We examined chronically implanted silicon-based laminar probes, realized using a CMOS technology in combination with micromachining, to record from the primary visual cortex (V1) of a monkey. We used a passive CMOS probe that had 128 electrodes arranged at a pitch of 22.5 µm in four columns and 32 rows on a slender shank. In order to validate the performance of a dedicated microdrive, the overall dimensions of probe and interface boards were chosen to be compatible with the final active CMOS probe comprising integrated circuitry. MAIN RESULTS: Using the passive probe, we recorded simultaneously local field potentials (LFP) and spiking multiunit activity (MUA) in V1 of an awake behaving macaque monkey. We found that an insertion through the dura and subsequent readjustments of the chronically implanted neural probe was possible and allowed us to record stable LFPs for more than five months. The quality of MUA degraded within the first month but remained sufficiently high to permit mapping of receptive fields during the full recording period. SIGNIFICANCE: We conclude that the passive silicon probe enables semi-chronic recordings of high quality of LFP and MUA for a time span exceeding five months. The new microdrive compatible with a commercial recording chamber successfully demonstrated the readjustment of the probe position while the implemented plug structure effectively reduced brain tissue movement relative to the probe.",
+  "authors": [
+    "Klein Liane",
+    "Pothof Frederick",
+    "Raducanu Bogdan C",
+    "Klon-Lipok Johanna",
+    "Shapcott Katharine A",
+    "Musa Silke",
+    "Andrei Alexandru",
+    "Aarts Arno Aa",
+    "Paul Oliver",
+    "Singer Wolf",
+    "Ruther Patrick"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2020",
+  "doi": "10.1088/1741-2552/ab8436",
+  "mesh": [
+    "Animals",
+    "Electrodes, Implanted",
+    "Electrophysiological Phenomena",
+    "Macaca",
+    "Microelectrodes",
+    "Neurons",
+    "Silicon"
+  ]
+}

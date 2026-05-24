@@ -1,0 +1,25 @@
+{
+  "pmid": "32698164",
+  "title": "Decoding of standard and non-standard visuomotor associations from parietal cortex.",
+  "abstract": "OBJECTIVE: Neural signals can be decoded and used to move neural prostheses with the purpose of restoring motor function in patients with mobility impairments. Such patients typically have intact eye movement control and visual function, suggesting that cortical visuospatial signals could be used to guide external devices. Neurons in parietal cortex mediate sensory-motor transformations, encode the spatial coordinates for reaching goals, hand position and movements, and other spatial variables. We studied how spatial information is represented at the population level, and the possibility to decode not only the position of visual targets and the plans to reach them, but also conditional, non-spatial motor responses. APPROACH: The animals first fixated one of nine targets in 3D space and then, after the target changed color, either reached toward it, or performed a non-spatial motor response (lift hand from a button). Spiking activity of parietal neurons was recorded in monkeys during two tasks. We then decoded different task related parameters. MAIN RESULTS: We first show that a maximum-likelihood estimation (MLE) algorithm trained separately in each task transformed neural activity into accurate metric predictions of target location. Furthermore, by combining MLE with a Naïve Bayes classifier, we decoded the monkey's motor intention (reach or hand lift) and the different phases of the tasks. These results show that, although V6A encodes the spatial location of a target during a delay period, the signals they carry are updated around the movement execution in an intention/motor specific way. SIGNIFICANCE: These findings show the presence of multiple levels of information in parietal cortex that could be decoded and used in brain machine interfaces to control both goal-directed movements and more cognitive visuomotor associations.",
+  "authors": [
+    "Filippini M",
+    "Morris A P",
+    "Breveglieri R",
+    "Hadjidimitrakis K",
+    "Fattori P"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2020",
+  "doi": "10.1088/1741-2552/aba87e",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Bayes Theorem",
+    "Humans",
+    "Macaca fascicularis",
+    "Movement",
+    "Parietal Lobe",
+    "Psychomotor Performance"
+  ]
+}

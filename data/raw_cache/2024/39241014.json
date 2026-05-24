@@ -1,0 +1,26 @@
+{
+  "pmid": "39241014",
+  "title": "Metadynamics simulations reveal mechanisms of Na+ and Ca2+ transport in two open states of the channelrhodopsin chimera, C1C2.",
+  "abstract": "Cation conducting channelrhodopsins (ChRs) are a popular tool used in optogenetics to control the activity of excitable cells and tissues using light. ChRs with altered ion selectivity are in high demand for use in different cell types and for other specialized applications. However, a detailed mechanism of ion permeation in ChRs is not fully resolved. Here, we use complementary experimental and computational methods to uncover the mechanisms of cation transport and valence selectivity through the channelrhodopsin chimera, C1C2, in the high- and low-conducting open states. Electrophysiology measurements identified a single-residue substitution within the central gate, N297D, that increased Ca2+ permeability vs. Na+ by nearly two-fold at peak current, but less so at stationary current. We then developed molecular models of dimeric wild-type C1C2 and N297D mutant channels in both open states and calculated the PMF profiles for Na+ and Ca2+ permeation through each protein using well-tempered/multiple-walker metadynamics. Results of these studies agree well with experimental measurements and demonstrate that the pore entrance on the extracellular side differs from original predictions and is actually located in a gap between helices I and II. Cation transport occurs via a relay mechanism where cations are passed between flexible carboxylate sidechains lining the full length of the pore by sidechain swinging, like a monkey swinging on vines. In the mutant channel, residue D297 enhances Ca2+ permeability by mediating the handoff between the central and cytosolic binding sites via direct coordination and sidechain swinging. We also found that altered cation binding affinities at both the extracellular entrance and central binding sites underly the distinct transport properties of the low-conducting open state. This work significantly advances our understanding of ion selectivity and permeation in cation channelrhodopsins and provides the insights needed for successful development of new ion-selective optogenetic tools.",
+  "authors": [
+    "Prignano Lindsey A",
+    "Stevens Mark J",
+    "Vanegas Juan M",
+    "Rempe Susan B",
+    "Dempski Robert E"
+  ],
+  "journal": "PloS one",
+  "year": "2024",
+  "doi": "10.1371/journal.pone.0309553",
+  "mesh": [
+    "Sodium",
+    "Calcium",
+    "Channelrhodopsins",
+    "Molecular Dynamics Simulation",
+    "Animals",
+    "Ion Transport",
+    "Humans",
+    "HEK293 Cells",
+    "Ion Channel Gating"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "28102825",
+  "title": "Versatile, modular 3D microelectrode arrays for neuronal ensemble recordings: from design to fabrication, assembly, and functional validation in non-human primates.",
+  "abstract": "OBJECTIVE: Application-specific designs of electrode arrays offer an improved effectiveness for providing access to targeted brain regions in neuroscientific research and brain machine interfaces. The simultaneous and stable recording of neuronal ensembles is the main goal in the design of advanced neural interfaces. Here, we describe the development and assembly of highly customizable 3D microelectrode arrays and demonstrate their recording performance in chronic applications in non-human primates. APPROACH: System assembly relies on a microfabricated stacking component that is combined with Michigan-style silicon-based electrode arrays interfacing highly flexible polyimide cables. Based on the novel stacking component, the lead time for implementing prototypes with altered electrode pitches is minimal. Once the fabrication and assembly accuracy of the stacked probes have been characterized, their recording performance is assessed during in vivo chronic experiments in awake rhesus macaques (Macaca mulatta) trained to execute reaching-grasping motor tasks. MAIN RESULTS: Using a single set of fabrication tools, we implemented three variants of the stacking component for electrode distances of 250, 300 and 350 µm in the stacking direction. We assembled neural probes with up to 96 channels and an electrode density of 98 electrodes mm<sup>-2</sup>. Furthermore, we demonstrate that the shank alignment is accurate to a few µm at an angular alignment better than 1°. Three 64-channel probes were chronically implanted in two monkeys providing single-unit activity on more than 60% of all channels and excellent recording stability. Histological tissue sections, obtained 52 d after implantation from one of the monkeys, showed minimal tissue damage, in accordance with the high quality and stability of the recorded neural activity. SIGNIFICANCE: The versatility of our fabrication and assembly approach should significantly support the development of ideal interface geometries for a broad spectrum of applications. With the demonstrated performance, these probes are suitable for both semi-chronic and chronic applications.",
+  "authors": [
+    "Barz F",
+    "Livi A",
+    "Lanzilotto M",
+    "Maranesi M",
+    "Bonini L",
+    "Paul O",
+    "Ruther P"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2017",
+  "doi": "10.1088/1741-2552/aa5a90",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electric Impedance",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Equipment Design",
+    "Equipment Failure Analysis",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Motor Cortex",
+    "Printing, Three-Dimensional",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Tissue Array Analysis"
+  ]
+}

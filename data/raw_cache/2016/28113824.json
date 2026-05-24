@@ -1,0 +1,15 @@
+{
+  "pmid": "28113824",
+  "title": "Efficient Training of Supervised Spiking Neural Network via Accurate Synaptic-Efficiency Adjustment Method.",
+  "abstract": "The spiking neural network (SNN) is the third generation of neural networks and performs remarkably well in cognitive tasks, such as pattern recognition. The temporal neural encode mechanism found in biological hippocampus enables SNN to possess more powerful computation capability than networks with other encoding schemes. However, this temporal encoding approach requires neurons to process information serially on time, which reduces learning efficiency significantly. To keep the powerful computation capability of the temporal encoding mechanism and to overcome its low efficiency in the training of SNNs, a new training algorithm, the accurate synaptic-efficiency adjustment method is proposed in this paper. Inspired by the selective attention mechanism of the primate visual system, our algorithm selects only the target spike time as attention areas, and ignores voltage states of the untarget ones, resulting in a significant reduction of training time. Besides, our algorithm employs a cost function based on the voltage difference between the potential of the output neuron and the firing threshold of the SNN, instead of the traditional precise firing time distance. A normalized spike-timing-dependent-plasticity learning window is applied to assigning this error to different synapses for instructing their training. Comprehensive simulations are conducted to investigate the learning properties of our algorithm, with input neurons emitting both single spike and multiple spikes. Simulation results indicate that our algorithm possesses higher learning performance than the existing other methods and achieves the state-of-the-art efficiency in the training of SNN.",
+  "authors": [
+    "Xie Xiurui",
+    "Qu Hong",
+    "Yi Zhang",
+    "Kurths Jurgen"
+  ],
+  "journal": "IEEE transactions on neural networks and learning systems",
+  "year": "2017",
+  "doi": "10.1109/TNNLS.2016.2541339",
+  "mesh": []
+}

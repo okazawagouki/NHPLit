@@ -1,0 +1,22 @@
+{
+  "pmid": "41915631",
+  "title": "BirdNET: Automated Detection for Monitoring Critically Endangered Lemurs from the Maromizaha Forest.",
+  "abstract": "Passive acoustic monitoring (PAM) is a widely used technique in wildlife research, enabling the collection of extensive data on species presence, distribution, and behavior over large spatial and temporal scales in a non-invasive and cost-effective manner. However, the resulting data volumes pose significant computational challenges, potentially creating processing bottlenecks. In this study, we evaluated the effectiveness of integrating PAM with BirdNET, a convolutional neural network originally developed for avian vocalization detection, to monitor two critically endangered lemurs, Indri indri and Varecia variegata, in Madagascar's Maromizaha rainforest. We collected 55,091 recordings over 4 years (2020-2023) and retrained BirdNET for lemur vocalization detection using labeled recordings. We then tested models with different training datasets and confidence thresholds achieving one with a high performance (precision, recall, and accuracy ∼90% for both species). Using this best-performing model, we analyzed the recordings to investigate temporal patterns in vocal behavior. Indri indri exhibited a clear diurnal calling pattern with peak activity between 08:00 and 09:00, supporting its use of morning songs for territorial advertisement. Vocal activity also peaked during the warm season (October-March). In contrast, Varecia variegata showed an irregular calling pattern throughout the day, including at night, and lacked clear seasonal vocal peaks, consistent with previous descriptions of its more flexible activity. Spatial analysis further revealed detection variability across sites, likely influenced by habitat structure and population distribution. This work demonstrates the feasibility and value of combining PAM with machine learning for long-term primate monitoring, providing a potentially replicable and scalable method for studying species' ecology and informing conservation strategies.",
+  "authors": [
+    "Ferrario Valeria",
+    "Versaci Giacomo",
+    "Dall'Ava Giulia",
+    "De Gregorio Chiara",
+    "Carugati Filippo",
+    "Cristiano Walter",
+    "Torti Valeria",
+    "Ratsimbazafy Jonah",
+    "Giacoma Cristina",
+    "Gamba Marco",
+    "Valente Daria"
+  ],
+  "journal": "Integrative zoology",
+  "year": "2026",
+  "doi": "10.1111/1749-4877.70094",
+  "mesh": []
+}

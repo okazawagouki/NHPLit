@@ -1,0 +1,35 @@
+{
+  "pmid": "20172804",
+  "title": "Using point process models to compare neural spiking activity in the subthalamic nucleus of Parkinson's patients and a healthy primate.",
+  "abstract": "Placement of deep brain stimulating electrodes in the subthalamic nucleus (STN) to treat Parkinson's disease (PD) also allows the recording of single neuron spiking activity. Analyses of these unique data offer an important opportunity to better understand the pathophysiology of PD. Despite the point process nature of PD neural spiking activity, point process methods are rarely used to analyze these recordings. We develop a point process representation of PD neural spiking activity using a generalized linear model to describe long- and short-term temporal dependencies in the spiking activity of 28 STN neurons from seven PD patients and 35 neurons from one healthy primate (surrogate control) recorded, while the subjects executed a directed-hand movement task. We used the point process model to characterize each neuron's bursting, oscillatory, and directional tuning properties during key periods in the task trial. Relative to the control neurons, the PD neurons showed increased bursting, increased 10-30 Hz oscillations, and increased fluctuations in directional tuning. These features, which traditional methods failed to capture accurately, were efficiently summarized in a single model in the point process analysis of each neuron. The point process framework suggests a useful approach for developing quantitative neural correlates that may be related directly to the movement and behavioral disorders characteristic of PD.",
+  "authors": [
+    "Sarma Sridevi V",
+    "Eden Uri T",
+    "Cheng Ming L",
+    "Williams Ziv M",
+    "Hu Rollin",
+    "Eskandar Emad",
+    "Brown Emery N"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2010",
+  "doi": "10.1109/TBME.2009.2039213",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Biological Clocks",
+    "Computer Simulation",
+    "Evoked Potentials, Motor",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurons",
+    "Parkinson Disease",
+    "Reference Values",
+    "Signal Processing, Computer-Assisted",
+    "Species Specificity",
+    "Subthalamic Nucleus"
+  ]
+}

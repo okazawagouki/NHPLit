@@ -1,0 +1,25 @@
+{
+  "pmid": "17615123",
+  "title": "Dynamic amplitude coding in the auditory cortex of awake rhesus macaques.",
+  "abstract": "In many animals, the information most important for processing communication sounds, including speech, consists of temporal envelope cues below approximately 20 Hz. Physiological studies, however, have typically emphasized the upper limits of modulation encoding. Responses to sinusoidal AM (SAM) are generally summarized by modulation transfer functions (MTFs), which emphasize tuning to modulation frequency rather than the representation of the instantaneous stimulus amplitude. Unfortunately, MTFs fail to capture important but nonlinear aspects of amplitude coding in the central auditory system. We focus on an alternative data representation, the modulation period histogram (MPH), which depicts the spike train folded on the modulation period of the SAM stimulus. At low modulation frequencies, the fluctuations of stimulus amplitude in decibels are robustly encoded by the cycle-by-cycle response dynamics evident in the MPH. We show that all of the parameters that define a SAM stimulus--carrier frequency, carrier level, modulation frequency, and modulation depth--are reflected in the shape of cortical MPHs. In many neurons that are nonmonotonically tuned for sound amplitude, the representation of modulation frequency is typically sacrificed to preserve the mapping between the instantaneous discharge rate and the instantaneous stimulus amplitude, resulting in two response modes per modulation cycle. This behavior, as well as the relatively poor tuning of cortical MTFs, suggests that auditory cortical neurons are not well suited for operating as a \"modulation filterbank.\" Instead, our results suggest that <20 Hz, the processing of modulated signals is better described as envelope shape discrimination rather than modulation frequency extraction.",
+  "authors": [
+    "Malone Brian J",
+    "Scott Brian H",
+    "Semple Malcolm N"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Animal Communication",
+    "Animals",
+    "Auditory Cortex",
+    "Auditory Perception",
+    "Electric Stimulation",
+    "Macaca mulatta",
+    "Male",
+    "Reaction Time",
+    "Wakefulness"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "34489634",
+  "title": "Neurochip3: An Autonomous Multichannel Bidirectional Brain-Computer Interface for Closed-Loop Activity-Dependent Stimulation.",
+  "abstract": "Toward addressing many neuroprosthetic applications, the Neurochip3 (NC3) is a multichannel bidirectional brain-computer interface that operates autonomously and can support closed-loop activity-dependent stimulation. It consists of four circuit boards populated with off-the-shelf components and is sufficiently compact to be carried on the head of a non-human primate (NHP). NC3 has six main components: (1) an analog front-end with an Intan biophysical signal amplifier (16 differential or 32 single-ended channels) and a 3-axis accelerometer, (2) a digital control system comprised of a Cyclone V FPGA and Atmel SAM4 MCU, (3) a micro SD Card for 128 GB or more storage, (4) a 6-channel differential stimulator with ±60 V compliance, (5) a rechargeable battery pack supporting autonomous operation for up to 24 h and, (6) infrared transceiver and serial ports for communication. The NC3 and earlier versions have been successfully deployed in many closed-loop operations to induce synaptic plasticity and bridge lost biological connections, as well as deliver activity-dependent intracranial reinforcement. These paradigms to strengthen or replace impaired connections have many applications in neuroprosthetics and neurorehabilitation.",
+  "authors": [
+    "Shupe Larry E",
+    "Miles Frank P",
+    "Jones Geoff",
+    "Yun Richy",
+    "Mishler Jonathan",
+    "Rembado Irene",
+    "Murphy R Logan",
+    "Perlmutter Steve I",
+    "Fetz Eberhard E"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2021",
+  "doi": "10.3389/fnins.2021.718465",
+  "mesh": []
+}

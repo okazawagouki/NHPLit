@@ -1,0 +1,32 @@
+{
+  "pmid": "40223247",
+  "title": "Toward an Automatic Classification of the Different Stages of Sleep: Exploring Patterns of Neural Activity in the Subthalamic Nucleus.",
+  "abstract": "Sleep disorders substantially impact quality of life, especially in patients with neurodegenerative diseases like Parkinson's disease. Recent advances in deep brain stimulation highlight the potential of closed-loop adaptive stimulation that utilizes neural feedback signals recorded directly from the stimulation electrodes. The subthalamic nucleus, a distinct structure located deep in the brain, plays a major role in processing cortical information and could be used to classify sleep stages. We recorded local field potentials in the subthalamic nucleus of two freely moving nonhuman primates across three nights. Our study examined subthalamic neuronal activity across different vigilance stages using spectral activity, multiscale entropy analysis, and an automatic classification. Results revealed distinct spectral patterns in subthalamic activity corresponding to sleep stages, with a high synchronization between subthalamic nucleus and EEG signals during deeper sleep stages. These deeper stages were associated also with reduced entropy, suggesting decreased neural activity complexity. An automated machine learning classifier based on subthalamic nucleus spectral activity distinguished wakefulness from sleep with high accuracy (94% for both animals). While the classifier performed well for deeper sleep stages, its accuracy was lower for lighter sleep stages. Our findings suggest that subthalamic nucleus activity can mirror cortical dynamics during sleep, supporting its potential use in developing closed-loop stimulation therapies for sleep disorders. This work provides a foundation for further studies in Parkinson's disease models to evaluate the translational relevance of subthalamic nucleus activity in clinical applications.",
+  "authors": [
+    "Barbe Nathan",
+    "Connolly Mark",
+    "Devergnas Annaelle",
+    "Torrès Napoleon",
+    "Hervault Marrio",
+    "Bonis Mathieu",
+    "Billères Malvina",
+    "Chabardes Stephan",
+    "Piallat Brigitte"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "2025",
+  "doi": "10.1111/ejn.70107",
+  "mesh": [
+    "Subthalamic Nucleus",
+    "Animals",
+    "Electroencephalography",
+    "Sleep Stages",
+    "Male",
+    "Machine Learning",
+    "Neurons",
+    "Macaca mulatta",
+    "Wakefulness",
+    "Deep Brain Stimulation",
+    "Female"
+  ]
+}

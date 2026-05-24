@@ -1,0 +1,28 @@
+{
+  "pmid": "23924519",
+  "title": "Estimation of neural firing rate: the wavelet density estimation approach.",
+  "abstract": "The computation of neural firing rates based on spike sequences has been introduced as a useful tool for extraction of an animal's behavior. Different estimating methods of such neural firing rates have been developed by neuroscientists, and among these methods, time histogram and kernel estimators have been used more than other approaches. In this paper, the problem in the estimation of firing rates using wavelet density estimators has been considered. The results of simulation study in estimation of underlying rates based on spike sequences sampled from two different variable firing rates show that the proposed wavelet density method provides better and more accurate estimation of firing rates with smooth results compared to two other classical approaches. Furthermore, the performance of a different family of wavelet density estimators in the estimation of the underlying firing rate of biological data have been compared with results of both time histogram and kernel estimators. All in all, the results show that the proposed method can be useful in the estimation of firing rate of neural spike trains.",
+  "authors": [
+    "Khorasani Abed",
+    "Daliri Mohammad Reza"
+  ],
+  "journal": "Biomedizinische Technik. Biomedical engineering",
+  "year": "2013",
+  "doi": "10.1515/bmt-2013-0060",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Data Interpretation, Statistical",
+    "Evoked Potentials, Visual",
+    "Geniculate Bodies",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Visual Perception",
+    "Wavelet Analysis"
+  ]
+}

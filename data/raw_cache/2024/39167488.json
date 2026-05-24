@@ -1,0 +1,37 @@
+{
+  "pmid": "39167488",
+  "title": "Heterogeneous orientation tuning in the primary visual cortex of mice diverges from Gabor-like receptive fields in primates.",
+  "abstract": "A key feature of neurons in the primary visual cortex (V1) of primates is their orientation selectivity. Recent studies using deep neural network models showed that the most exciting input (MEI) for mouse V1 neurons exhibit complex spatial structures that predict non-uniform orientation selectivity across the receptive field (RF), in contrast to the classical Gabor filter model. Using local patches of drifting gratings, we identified heterogeneous orientation tuning in mouse V1 that varied up to 90° across sub-regions of the RF. This heterogeneity correlated with deviations from optimal Gabor filters and was consistent across cortical layers and recording modalities (calcium vs. spikes). In contrast, model-synthesized MEIs for macaque V1 neurons were predominantly Gabor like, consistent with previous studies. These findings suggest that complex spatial feature selectivity emerges earlier in the visual pathway in mice than in primates. This may provide a faster, though less general, method of extracting task-relevant information.",
+  "authors": [
+    "Fu Jiakun",
+    "Pierzchlewicz Paweł A",
+    "Willeke Konstantin F",
+    "Bashiri Mohammad",
+    "Muhammad Taliah",
+    "Diamantaki Maria",
+    "Froudarakis Emmanouil",
+    "Restivo Kelli",
+    "Ponder Kayla",
+    "Denfield George H",
+    "Sinz Fabian",
+    "Tolias Andreas S",
+    "Franke Katrin"
+  ],
+  "journal": "Cell reports",
+  "year": "2024",
+  "doi": "10.1016/j.celrep.2024.114639",
+  "mesh": [
+    "Animals",
+    "Mice",
+    "Primary Visual Cortex",
+    "Orientation",
+    "Mice, Inbred C57BL",
+    "Neurons",
+    "Photic Stimulation",
+    "Male",
+    "Visual Fields",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Primates"
+  ]
+}

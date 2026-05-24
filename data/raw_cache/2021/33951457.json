@@ -1,0 +1,22 @@
+{
+  "pmid": "33951457",
+  "title": "Explaining face representation in the primate brain using different computational models.",
+  "abstract": "Understanding how the brain represents the identity of complex objects is a central challenge of visual neuroscience. The principles governing object processing have been extensively studied in the macaque face patch system, a sub-network of inferotemporal (IT) cortex specialized for face processing. A previous study reported that single face patch neurons encode axes of a generative model called the \"active appearance\" model, which transforms 50D feature vectors separately representing facial shape and facial texture into facial images. However, a systematic investigation comparing this model to other computational models, especially convolutional neural network models that have shown success in explaining neural responses in the ventral visual stream, has been lacking. Here, we recorded responses of cells in the most anterior face patch anterior medial (AM) to a large set of real face images and compared a large number of models for explaining neural responses. We found that the active appearance model better explained responses than any other model except CORnet-Z, a feedforward deep neural network trained on general object classification to classify non-face images, whose performance it tied on some face image sets and exceeded on others. Surprisingly, deep neural networks trained specifically on facial identification did not explain neural responses well. A major reason is that units in the network, unlike neurons, are less modulated by face-related factors unrelated to facial identification, such as illumination.",
+  "authors": [
+    "Chang Le",
+    "Egger Bernhard",
+    "Vetter Thomas",
+    "Tsao Doris Y"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2021",
+  "doi": "10.1016/j.cub.2021.04.014",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Facial Recognition",
+    "Neural Networks, Computer",
+    "Primates"
+  ]
+}

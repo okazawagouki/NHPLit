@@ -1,0 +1,26 @@
+{
+  "pmid": "30050415",
+  "title": "Behavioral Context Determines Network State and Variability Dynamics in Monkey Motor Cortex.",
+  "abstract": "Variability of spiking activity is ubiquitous throughout the brain but little is known about its contextual dependance. Trial-to-trial spike count variability, estimated by the Fano Factor (FF), and within-trial spike time irregularity, quantified by the coefficient of variation (CV), reflect variability on long and short time scales, respectively. We co-analyzed FF and the local coefficient of variation (CV2) in monkey motor cortex comparing two behavioral contexts, movement preparation (<i>wait</i>) and execution (<i>movement</i>). We find that the FF significantly decreases from <i>wait</i> to <i>movement</i>, while the CV2 increases. The more regular firing (expressed by a low CV2) during <i>wait</i> is related to an increased power of local field potential (LFP) beta oscillations and phase locking of spikes to these oscillations. In renewal processes, a widely used model for spiking activity under stationary input conditions, both measures are related as FF ≈ CV<sup>2</sup>. This expectation was met during <i>movement</i>, but not during <i>wait</i> where FF ≫ CV2<sup>2</sup>. Our interpretation is that during movement preparation, ongoing brain processes result in changing network states and thus in high trial-to-trial variability (expressed by a high FF). During movement execution, the network is recruited for performing the stereotyped motor task, resulting in reliable single neuron output. Our interpretation is in the light of recent computational models that generate non-stationary network conditions.",
+  "authors": [
+    "Riehle Alexa",
+    "Brochier Thomas",
+    "Nawrot Martin",
+    "Grün Sonja"
+  ],
+  "journal": "Frontiers in neural circuits",
+  "year": "2018",
+  "doi": "10.3389/fncir.2018.00052",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Behavior, Animal",
+    "Electrocorticography",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Motor Activity",
+    "Motor Cortex",
+    "Neurons"
+  ]
+}

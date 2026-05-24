@@ -1,0 +1,29 @@
+{
+  "pmid": "19273038",
+  "title": "Bayesian inference of functional connectivity and network structure from spikes.",
+  "abstract": "Current multielectrode techniques enable the simultaneous recording of spikes from hundreds of neurons. To study neural plasticity and network structure it is desirable to infer the underlying functional connectivity between the recorded neurons. Functional connectivity is defined by a large number of parameters, which characterize how each neuron influences the other neurons. A Bayesian approach that combines information from the recorded spikes (likelihood) with prior beliefs about functional connectivity (prior) can improve inference of these parameters and reduce overfitting. Recent studies have used likelihood functions based on the statistics of point-processes and a prior that captures the sparseness of neural connections. Here we include a prior that captures the empirical finding that interactions tend to vary smoothly in time. We show that this method can successfully infer connectivity patterns in simulated data and apply the algorithm to spike data recorded from primary motor (M1) and premotor (PMd) cortices of a monkey. Finally, we present a new approach to studying structure in inferred connections based on a Bayesian clustering algorithm. Groups of neurons in M1 and PMd show common patterns of input and output that may correspond to functional assemblies.",
+  "authors": [
+    "Stevenson Ian H",
+    "Rebesco James M",
+    "Hatsopoulos Nicholas G",
+    "Haga Zach",
+    "Miller Lee E",
+    "Körding Konrad P"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2009",
+  "doi": "10.1109/TNSRE.2008.2010471",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Brain",
+    "Brain Mapping",
+    "Computer Simulation",
+    "Humans",
+    "Models, Neurological",
+    "Nerve Net",
+    "Synaptic Transmission"
+  ]
+}

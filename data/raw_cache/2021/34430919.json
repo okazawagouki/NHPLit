@@ -1,0 +1,22 @@
+{
+  "pmid": "34430919",
+  "title": "Uncovering structured responses of neural populations recorded from macaque monkeys with linear support vector machines.",
+  "abstract": "When a mammal, such as a macaque monkey, sees a complex natural image, many neurons in its visual cortex respond simultaneously. Here, we provide a protocol for studying the structure of population responses in laminar recordings with a machine learning model, the linear support vector machine. To unravel the role of single neurons in population responses and the structure of noise correlations, we use a multivariate decoding technique on time-averaged responses. For complete details on the use and execution of this protocol, please refer to Koren et al. (2020a).",
+  "authors": [
+    "Koren Veronika"
+  ],
+  "journal": "STAR protocols",
+  "year": "2021",
+  "doi": "10.1016/j.xpro.2021.100746",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Neurons",
+    "Signal Processing, Computer-Assisted",
+    "Support Vector Machine",
+    "Vision, Ocular",
+    "Visual Cortex"
+  ]
+}

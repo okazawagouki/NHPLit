@@ -1,0 +1,23 @@
+{
+  "pmid": "27238280",
+  "title": "Direct Two-Dimensional Access to the Spatial Location of Covert Attention in Macaque Prefrontal Cortex.",
+  "abstract": "Direct access to motor cortical information now enables tetraplegic patients to precisely control neuroprostheses and recover some autonomy. In contrast, explicit access to higher cortical cognitive functions, such as covert attention, has been missing. Indeed, this cognitive information, known only to the subject, can solely be inferred by an observer from the subject's overt behavior. Here, we present direct two-dimensional real-time access to where monkeys are covertly paying attention, using machine-learning decoding methods applied to their ongoing prefrontal cortical activity. Decoded attention was highly predictive of overt behavior in a cued target-detection task. Indeed, monkeys had a higher probability of detecting a visual stimulus as the distance between decoded attention and stimulus location decreased. This was true whether the visual stimulus was presented at the cued target location or at another distractor location. In error trials, in which the animals failed to detect the cued target stimulus, both the locations of attention and visual cue were misencoded. This misencoding coincided with a specific state of the prefrontal cortical population in which the shared variability between its different neurons (or noise correlations) was high, even before trial onset. This observation strongly suggests a functional link between high noise-correlation states and attentional failure. Overall, this real-time access to the attentional spotlight, as well as the identification of a neural signature of attentional lapses, open new perspectives both to the study of the neural bases of attention and to the remediation or enhancement of the attentional function using neurofeedback.",
+  "authors": [
+    "Astrand Elaine",
+    "Wardak Claire",
+    "Baraduc Pierre",
+    "Ben Hamed Suliann"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2016",
+  "doi": "10.1016/j.cub.2016.04.054",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Cues",
+    "Macaca mulatta",
+    "Male",
+    "Prefrontal Cortex",
+    "Space Perception"
+  ]
+}

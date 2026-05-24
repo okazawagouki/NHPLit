@@ -1,0 +1,26 @@
+{
+  "pmid": "12695107",
+  "title": "Automated reconstruction of three-dimensional neuronal morphology from laser scanning microscopy images.",
+  "abstract": "Experimental and theoretical studies demonstrate that both global dendritic branching topology and fine spine geometry are crucial determinants of neuronal function, its plasticity and pathology. Importantly, simulation studies indicate that the interaction between local and global morphologic properties is pivotal in determining dendritic information processing and the induction of synapse-specific plasticity. The ability to reconstruct and quantify dendritic processes at high resolution is therefore an essential prerequisite to understanding the structural determinants of neuronal function. Existing methods of digitizing 3D neuronal structure use interactive manual computer tracing from 2D microscopy images. This method is time-consuming, subjective and lacks precision. In particular, fine details of dendritic varicosities, continuous dendritic taper, and spine morphology cannot be captured by these systems. We describe a technique for automated reconstruction of 3D neuronal morphology from multiple stacks of tiled confocal and multiphoton laser scanning microscopy (CLSM and MPLSM) images. The system is capable of representing both global and local structural variations, including gross dendritic branching topology, dendritic varicosities, and fine spine morphology with sufficient resolution for accurate 3D morphometric analyses and realistic biophysical compartment modeling. Our system provides a much needed tool for automated digitization and reconstruction of 3D neuronal morphology that reliably captures detail on spatial scales spanning several orders of magnitude, that avoids the subjective errors that arise during manual tracing with existing digitization systems, and that runs on a standard desktop workstation.",
+  "authors": [
+    "Rodriguez Alfredo",
+    "Ehlenberger Douglas",
+    "Kelliher Kevin",
+    "Einstein Michael",
+    "Henderson Scott C",
+    "Morrison John H",
+    "Hof Patrick R",
+    "Wearne Susan L"
+  ],
+  "journal": "Methods (San Diego, Calif.)",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Imaging, Three-Dimensional",
+    "Macaca",
+    "Mice",
+    "Microscopy, Confocal",
+    "Neurons"
+  ]
+}

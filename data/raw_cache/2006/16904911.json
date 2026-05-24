@@ -1,0 +1,32 @@
+{
+  "pmid": "16904911",
+  "title": "A spatially unbiased atlas template of the human cerebellum.",
+  "abstract": "This article presents a new high-resolution atlas template of the human, cerebellum and brainstem, based on the anatomy of 20 young healthy individuals. The atlas is spatially unbiased, i.e., the location of each structure is equal to the expected location of that structure across individuals in MNI space, a result that is cross-validated with an independent sample of 16 individuals. At the same time, the new template preserves the anatomical detail of cerebellar structures through a nonlinear atlas generation algorithm. In comparison to current whole-brain templates, it allows for an improved voxel-by-voxel normalization for functional MRI and lesion analysis. Alignment to the template requires that the cerebellum and brainstem are isolated from the surrounding tissue, a process for which an automated algorithm has been developed. Compared to normalization to the MNI whole-brain template, the new method strongly improves the alignment of individual fissures, reducing their spatial spread by 60%, and improves the overlap of the deep cerebellar nuclei. Applied to functional MRI data, the new normalization technique leads to a 5-15% increase in peak t values and in the activated volume in the cerebellar cortex for movement vs. rest contrasts. This indicates that the new template significantly improves the overlap of functionally equivalent cerebellar regions across individuals. The template and software are freely available as an SPM-toolbox, which also allows users to relate the new template to the annotated volumetric (Schmahmann, J.D., Doyon, J., Toga, A., Petrides, M., Evans, A. (2000). MRI atlas of the human cerebellum. San Diego: Academic Press) and surface-based (Van Essen, D.C. (2002a) Surface-based atlases of cerebellar cortex in the human, macaque, and mouse. Ann. N. Y. Acad. Sci. 978:468-479.) atlas of one individual, the \"colin27\"-brain.",
+  "authors": [
+    "Diedrichsen Jörn"
+  ],
+  "journal": "NeuroImage",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Adult",
+    "Algorithms",
+    "Arm",
+    "Bayes Theorem",
+    "Bias",
+    "Brain Stem",
+    "Cerebellar Nuclei",
+    "Cerebellum",
+    "Female",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Middle Aged",
+    "Movement",
+    "Nonlinear Dynamics",
+    "Reference Values",
+    "Reproducibility of Results",
+    "Software"
+  ]
+}

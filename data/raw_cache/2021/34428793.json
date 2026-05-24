@@ -1,0 +1,21 @@
+{
+  "pmid": "34428793",
+  "title": "Deep Predictive Learning in Neocortex and Pulvinar.",
+  "abstract": "How do humans learn from raw sensory experience? Throughout life, but most obviously in infancy, we learn without explicit instruction. We propose a detailed biological mechanism for the widely embraced idea that learning is driven by the differences between predictions and actual outcomes (i.e., predictive error-driven learning). Specifically, numerous weak projections into the pulvinar nucleus of the thalamus generate top-down predictions, and sparse driver inputs from lower areas supply the actual outcome, originating in Layer 5 intrinsic bursting neurons. Thus, the outcome representation is only briefly activated, roughly every 100 msec (i.e., 10 Hz, alpha), resulting in a temporal difference error signal, which drives local synaptic changes throughout the neocortex. This results in a biologically plausible form of error backpropagation learning. We implemented these mechanisms in a large-scale model of the visual system and found that the simulated inferotemporal pathway learns to systematically categorize 3-D objects according to invariant shape properties, based solely on predictive learning from raw visual inputs. These categories match human judgments on the same stimuli and are consistent with neural representations in inferotemporal cortex in primates.",
+  "authors": [
+    "O'Reilly Randall C",
+    "Russin Jacob L",
+    "Zolfaghar Maryam",
+    "Rohrlich John"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "2021",
+  "doi": "10.1162/jocn_a_01708",
+  "mesh": [
+    "Animals",
+    "Neocortex",
+    "Neurons",
+    "Pulvinar",
+    "Visual Cortex"
+  ]
+}

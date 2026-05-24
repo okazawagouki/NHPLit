@@ -1,0 +1,23 @@
+{
+  "pmid": "38820563",
+  "title": "How well do models of visual cortex generalize to out of distribution samples?",
+  "abstract": "Unit activity in particular deep neural networks (DNNs) are remarkably similar to the neuronal population responses to static images along the primate ventral visual cortex. Linear combinations of DNN unit activities are widely used to build predictive models of neuronal activity in the visual cortex. Nevertheless, prediction performance in these models is often investigated on stimulus sets consisting of everyday objects under naturalistic settings. Recent work has revealed a generalization gap in how predicting neuronal responses to synthetically generated out-of-distribution (OOD) stimuli. Here, we investigated how the recent progress in improving DNNs' object recognition generalization, as well as various DNN design choices such as architecture, learning algorithm, and datasets have impacted the generalization gap in neural predictivity. We came to a surprising conclusion that the performance on none of the common computer vision OOD object recognition benchmarks is predictive of OOD neural predictivity performance. Furthermore, we found that adversarially robust models often yield substantially higher generalization in neural predictivity, although the degree of robustness itself was not predictive of neural predictivity score. These results suggest that improving object recognition behavior on current benchmarks alone may not lead to more general models of neurons in the primate ventral visual cortex.",
+  "authors": [
+    "Ren Yifei",
+    "Bashivan Pouya"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2024",
+  "doi": "10.1371/journal.pcbi.1011145",
+  "mesh": [
+    "Visual Cortex",
+    "Models, Neurological",
+    "Animals",
+    "Neural Networks, Computer",
+    "Computational Biology",
+    "Algorithms",
+    "Neurons",
+    "Humans",
+    "Photic Stimulation"
+  ]
+}

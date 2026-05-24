@@ -1,0 +1,25 @@
+{
+  "pmid": "20831862",
+  "title": "A metric-based analysis of the contribution of spike timing to contrast and motion direction coding by single neurons in macaque area MT.",
+  "abstract": "Spike timing is thought to contribute to the coding of motion direction information by neurons in macaque area MT. Here, we examined whether spike timing also contributes to the coding of stimulus contrast. We applied a metric-based approach to spike trains fired by MT neurons in response to stimuli that varied in contrast, or direction. We assessed the performance of three metrics, D(spike) and D(product) (containing spike count and timing information), and the spike count metric D(count). We analyzed responses elicited during the first 200 msec of stimulus presentation from 205 neurons. For both contrast and direction, the large majority of neurons showed the highest mutual information using D(spike), followed by D(product), and D(count). This was corroborated by the performance of a theoretical observer model at discriminating contrast and direction using the three metrics. Our results demonstrate that spike timing can contribute to contrast coding in MT neurons, and support previous reports of its potential contribution to direction coding. Furthermore, they suggest that a combination of spike count with periodic and non-periodic spike timing information (contained in D(spike), but not in D(product) and D(count) which are insensitive to spike counts and timing respectively) provides the largest coding advantage in spike trains fired by MT neurons during contrast and direction discrimination.",
+  "authors": [
+    "Sachs Adam J",
+    "Khayat Paul S",
+    "Niebergall Robert",
+    "Martinez-Trujillo Julio C"
+  ],
+  "journal": "Brain research",
+  "year": "2011",
+  "doi": "10.1016/j.brainres.2010.09.001",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electrophysiology",
+    "Macaca",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Temporal Lobe"
+  ]
+}

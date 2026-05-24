@@ -1,0 +1,37 @@
+{
+  "pmid": "26655972",
+  "title": "Data-driven model comparing the effects of glial scarring and interface interactions on chronic neural recordings in non-human primates.",
+  "abstract": "OBJECTIVE: We characterized electrode stability over twelve weeks of impedance and neural recording data from four chronically-implanted Utah arrays in two rhesus macaques, and investigated the effects of glial scarring and interface interactions at the electrode recording site on signal quality using a computational model. APPROACH: A finite-element model of a Utah array microelectrode in neural tissue was coupled with a multi-compartmental model of a neuron to quantify the effects of encapsulation thickness, encapsulation resistivity, and interface resistivity on electrode impedance and waveform amplitude. The coupled model was then reconciled with the in vivo data. Histology was obtained seventeen weeks post-implantation to measure gliosis. MAIN RESULTS: From week 1-3, mean impedance and amplitude increased at rates of 115.8 kΩ/week and 23.1 μV/week, respectively. This initial ramp up in impedance and amplitude was observed across all arrays, and is consistent with biofouling (increasing interface resistivity) and edema clearing (increasing tissue resistivity), respectively, in the model. Beyond week 3, the trends leveled out. Histology showed that thin scars formed around the electrodes. In the model, scarring could not match the in vivo data. However, a thin interface layer at the electrode tip could. Despite having a large effect on impedance, interface resistivity did not have a noticeable effect on amplitude. SIGNIFICANCE: This study suggests that scarring does not cause an electrical problem with regard to signal quality since it does not appear to be the main contributor to increasing impedance or significantly affect amplitude unless it displaces neurons. This, in turn, suggests that neural signals can be obtained reliably despite scarring as long as the recording site has sufficiently low impedance after accumulating a thin layer of biofouling. Therefore, advancements in microelectrode technology may be expedited by focusing on improvements to the recording site-tissue interface rather than elimination of the glial scar.",
+  "authors": [
+    "Malaga Karlo A",
+    "Schroeder Karen E",
+    "Patel Paras R",
+    "Irwin Zachary T",
+    "Thompson David E",
+    "Nicole Bentley J",
+    "Lempka Scott F",
+    "Chestek Cynthia A",
+    "Patil Parag G"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2016",
+  "doi": "10.1088/1741-2560/13/1/016010",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Diagnostic Techniques, Neurological",
+    "Electric Impedance",
+    "Electrodes, Implanted",
+    "Equipment Design",
+    "Equipment Failure Analysis",
+    "Gliosis",
+    "Humans",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Surface Properties"
+  ]
+}

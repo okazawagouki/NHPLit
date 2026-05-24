@@ -1,0 +1,26 @@
+{
+  "pmid": "17596412",
+  "title": "A model of V4 shape selectivity and invariance.",
+  "abstract": "Object recognition in primates is mediated by the ventral visual pathway and is classically described as a feedforward hierarchy of increasingly sophisticated representations. Neurons in macaque monkey area V4, an intermediate stage along the ventral pathway, have been shown to exhibit selectivity to complex boundary conformation and invariance to spatial translation. How could such a representation be derived from the signals in lower visual areas such as V1? We show that a quantitative model of hierarchical processing, which is part of a larger model of object recognition in the ventral pathway, provides a plausible mechanism for the translation-invariant shape representation observed in area V4. Simulated model neurons successfully reproduce V4 selectivity and invariance through a nonlinear, translation-invariant combination of locally selective subunits, suggesting that a similar transformation may occur or culminate in area V4. Specifically, this mechanism models the selectivity of individual V4 neurons to boundary conformation stimuli, exhibits the same degree of translation invariance observed in V4, and produces observed V4 population responses to bars and non-Cartesian gratings. This work provides a quantitative model of the widely described shape selectivity and invariance properties of area V4 and points toward a possible canonical mechanism operating throughout the ventral pathway.",
+  "authors": [
+    "Cadieu Charles",
+    "Kouh Minjoon",
+    "Pasupathy Anitha",
+    "Connor Charles E",
+    "Riesenhuber Maximilian",
+    "Poggio Tomaso"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Electrophysiology",
+    "Form Perception",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Pattern Recognition, Visual",
+    "Reproducibility of Results",
+    "Visual Perception"
+  ]
+}

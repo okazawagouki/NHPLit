@@ -1,0 +1,28 @@
+{
+  "pmid": "28626011",
+  "title": "Effects of Ventral Striatum Lesions on Stimulus-Based versus Action-Based Reinforcement Learning.",
+  "abstract": "Learning the values of actions versus stimuli may depend on separable neural circuits. In the current study, we evaluated the performance of rhesus macaques with ventral striatum (VS) lesions on a two-arm bandit task that had randomly interleaved blocks of stimulus-based and action-based reinforcement learning (RL). Compared with controls, monkeys with VS lesions had deficits in learning to select rewarding images but not rewarding actions. We used a RL model to quantify learning and choice consistency and found that, in stimulus-based RL, the VS lesion monkeys were more influenced by negative feedback and had lower choice consistency than controls. Using a Bayesian model to parse the groups' learning strategies, we also found that VS lesion monkeys defaulted to an action-based choice strategy. Therefore, the VS is involved specifically in learning the value of stimuli, not actions.<b>SIGNIFICANCE STATEMENT</b> Reinforcement learning models of the ventral striatum (VS) often assume that it maintains an estimate of state value. This suggests that it plays a general role in learning whether rewards are assigned based on a chosen action or stimulus. In the present experiment, we examined the effects of VS lesions on monkeys' ability to learn that choosing a particular action or stimulus was more likely to lead to reward. We found that VS lesions caused a specific deficit in the monkeys' ability to discriminate between images with different values, whereas their ability to discriminate between actions with different values remained intact. Our results therefore suggest that the VS plays a specific role in learning to select rewarded stimuli.",
+  "authors": [
+    "Rothenhoefer Kathryn M",
+    "Costa Vincent D",
+    "Bartolo Ramón",
+    "Vicario-Feliciano Raquel",
+    "Murray Elisabeth A",
+    "Averbeck Bruno B"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2017",
+  "doi": "10.1523/JNEUROSCI.0631-17.2017",
+  "mesh": [
+    "Animals",
+    "Choice Behavior",
+    "Conditioning, Classical",
+    "Macaca mulatta",
+    "Motivation",
+    "Nerve Net",
+    "Psychomotor Performance",
+    "Reinforcement, Psychology",
+    "Reward",
+    "Ventral Striatum"
+  ]
+}

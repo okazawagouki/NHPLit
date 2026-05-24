@@ -1,0 +1,21 @@
+{
+  "pmid": "24790174",
+  "title": "Effect of amplitude correlations on coherence in the local field potential.",
+  "abstract": "Neural activity across the brain shows both spatial and temporal correlations at multiple scales, and understanding these correlations is a key step toward understanding cortical processing. Correlation in the local field potential (LFP) recorded from two brain areas is often characterized by computing the coherence, which is generally taken to reflect the degree of phase consistency across trials between two sites. Coherence, however, depends on two factors-phase consistency as well as amplitude covariation across trials-but the spatial structure of amplitude correlations across sites and its contribution to coherence are not well characterized. We recorded LFP from an array of microelectrodes chronically implanted in the primary visual cortex of monkeys and studied correlations in amplitude across electrodes as a function of interelectrode distance. We found that amplitude correlations showed a similar trend as coherence as a function of frequency and interelectrode distance. Importantly, even when phases were completely randomized between two electrodes, amplitude correlations introduced significant coherence. To quantify the contributions of phase consistency and amplitude correlations to coherence, we simulated pairs of sinusoids with varying phase consistency and amplitude correlations. These simulations confirmed that amplitude correlations can significantly bias coherence measurements, resulting in either over- or underestimation of true phase coherence. Our results highlight the importance of accounting for the correlations in amplitude while using coherence to study phase relationships across sites and frequencies.",
+  "authors": [
+    "Srinath Ramanujan",
+    "Ray Supratim"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2014",
+  "doi": "10.1152/jn.00851.2013",
+  "mesh": [
+    "Animals",
+    "Brain Waves",
+    "Data Interpretation, Statistical",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Visual Cortex"
+  ]
+}

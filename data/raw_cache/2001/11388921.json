@@ -1,0 +1,26 @@
+{
+  "pmid": "11388921",
+  "title": "From knowing what to knowing where: modeling object-based attention with feedback disinhibition of activation.",
+  "abstract": "We propose a neural model of visual object-based attention in which the identity of an object is used to select its location in an array of objects. The model is based on neural activity observed in visual search tasks performed by monkeys. In the model, the identity of the object (target) is selected in the higher areas of the ventral stream by means of a cue. Feedback activation from these higher areas carries information about the identity of the target to the (lower) retinotopic areas of the ventral stream. In these areas, the feedback activation interacts with feedforward activation produced by the object array. The interaction occurs in local microcircuits, and results in a selective activation on locations in the retinotopic areas of the visual stream that correspond to the location of the target in the object array. The selective activation consists of a form of gain control, produced by disinhibition. Transmitted to the dorsal stream, this activation directs spatial attention to the location of the target. In this way, an action directed at the target can be generated.",
+  "authors": [
+    "van Der Velde F",
+    "de Kamps M"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Computer Simulation",
+    "Cues",
+    "Feedback",
+    "Haplorhini",
+    "Models, Neurological",
+    "Neural Inhibition",
+    "Pursuit, Smooth",
+    "Retina",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

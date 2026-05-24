@@ -1,0 +1,20 @@
+{
+  "pmid": "12948562",
+  "title": "Reliable real-time spike discrimination during microstimulation.",
+  "abstract": "A fundamental technical hurdle in systems neurophysiology has been to record the activity of individual neurons in situ while using microstimulation to activate inputs or outputs. Stimulation artifact at the recording electrode has largely limited the usefulness of combined stimulating and recording to using single stimulation pulses or to presenting brief trains of pulses to look for transient responses. We have developed an adaptive filter that in real time allows continuous extracellular isolation of individual neural spikes during sustained experimental microstimulation. Using signal detection analysis we now quantifiably demonstrate the reliability of spike recovery from stimulus-corrupted records. Recordings were made from the regular firing of action potentials from the oculomotor or trochlear nuclei of two macaque monkeys while stimulating at a variety of locations. We found that the adaptive filter technique gave a projected error rate of <1 in 10(4) and the detection index, d', was significantly better than two other methods tested: a 4-parameter 'window discriminator' technique and the sample-and-hold technique. This adaptive technique should generalize to any recording situation where a stereotyped, triggered transient might obscure a neural event and will significantly advance our knowledge in areas of electrophysiology where the experimental design requires prolonged microstimulation.",
+  "authors": [
+    "Paul Kush",
+    "Gnadt James W"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cell Count",
+    "Electric Stimulation",
+    "Macaca mulatta",
+    "Macaca radiata"
+  ]
+}

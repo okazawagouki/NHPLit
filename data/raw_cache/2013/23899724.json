@@ -1,0 +1,31 @@
+{
+  "pmid": "23899724",
+  "title": "The amplitude of the resting-state fMRI global signal is related to EEG vigilance measures.",
+  "abstract": "In resting-state functional magnetic resonance imaging (fMRI), functional connectivity measures can be influenced by the presence of a strong global component. A widely used pre-processing method for reducing the contribution of this component is global signal regression, in which a global mean time series signal is projected out of the fMRI time series data prior to the computation of connectivity measures. However, the use of global signal regression is controversial because the method can bias the correlation values to have an approximately zero mean and may in some instances create artifactual negative correlations. In addition, while many studies treat the global signal as a non-neural confound that needs to be removed, evidence from electrophysiological and fMRI measures in primates suggests that the global signal may contain significant neural correlates. In this study, we used simultaneously acquired fMRI and electroencephalographic (EEG) measures of resting-state activity to assess the relation between the fMRI global signal and EEG measures of vigilance in humans. We found that the amplitude of the global signal (defined as the standard deviation of the global signal) exhibited a significant negative correlation with EEG vigilance across subjects studied in the eyes-closed condition. In addition, increases in EEG vigilance due to the ingestion of caffeine were significantly associated with both a decrease in global signal amplitude and an increase in the average level of anti-correlation between the default mode network and the task-positive network.",
+  "authors": [
+    "Wong Chi Wah",
+    "Olafsson Valur",
+    "Tal Omer",
+    "Liu Thomas T"
+  ],
+  "journal": "NeuroImage",
+  "year": "2013",
+  "doi": "10.1016/j.neuroimage.2013.07.057",
+  "mesh": [
+    "Adult",
+    "Arousal",
+    "Brain",
+    "Brain Mapping",
+    "Caffeine",
+    "Central Nervous System Stimulants",
+    "Electroencephalography",
+    "Female",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Rest",
+    "Signal Processing, Computer-Assisted",
+    "Young Adult"
+  ]
+}

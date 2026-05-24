@@ -1,0 +1,32 @@
+{
+  "pmid": "17451900",
+  "title": "Functional MR imaging in the awake monkey: effects of motion on dynamic off-resonance and processing strategies.",
+  "abstract": "Functional MR imaging of the alert, behaving monkey is being used more and more often to detect activation patterns and guide electrophysiological research investigating the neural basis of behavior. Several labs have reported fMRI data from the awake monkey, but none of them has studied and systematically corrected the effects of monkeys' motion on fMRI time series. In this study, a significant refinement of acquisition and correction strategies is reported that can be used to minimize magnetic susceptibility artifacts induced by respiration and by jaw and body movement. Real-time acquisition of sensor signals (e.g., signals induced by jaw and body movement) and MR navigator data were combined to optimize fMRI signal-correction strategies. Within trials, the artifact-induced off-resonance changes were small and mainly reflected the effects of respiration; between trials, movements caused major changes of global frequency and shim (>20 Hz/cm). Several methods were used to assess the stability of the fMRI series: k-space analysis ('dynamic intensity and off-resonance changes in k-space', dubbed DICK and DORK) and image analysis using a Laplace operator and a center-of-mass metric. The variability between trials made it essential to correct for inter-trial variations. On the other hand, images were sufficiently stable with our approach to perform fMRI evaluations on single trials before averaging of trials. Different motion correction strategies were compared: DORK, McFLIRT (rigid body model with three translations and three rotations) and 2D image alignment based on a center-of-mass detection (in-plane translation). The latter yielded the best results and proved to be fast and robust for intra- and inter-trial alignment. Finally, fMRI in the behaving monkey was tested for spatial and temporal reproducibility on a trial-to-trial basis. Highly activated voxels also displayed good reproducibility between trials. On average, the BOLD amplitude response to a short 3-s visual stimulus was close to 2%.",
+  "authors": [
+    "Pfeuffer Josef",
+    "Shmuel Amir",
+    "Keliris Georgios A",
+    "Steudel Thomas",
+    "Merkle Hellmut",
+    "Logothetis Nikos K"
+  ],
+  "journal": "Magnetic resonance imaging",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artifacts",
+    "Data Interpretation, Statistical",
+    "Echo-Planar Imaging",
+    "Image Processing, Computer-Assisted",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Motion",
+    "Movement",
+    "Phantoms, Imaging",
+    "Reproducibility of Results",
+    "Time Factors",
+    "Wakefulness"
+  ]
+}

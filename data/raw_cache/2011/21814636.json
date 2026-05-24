@@ -1,0 +1,13 @@
+{
+  "pmid": "21814636",
+  "title": "A multi-timescale adaptive threshold model for the SAI tactile afferent to predict response to mechanical vibration.",
+  "abstract": "The Leaky Integrate and Fire (LIF) model of a neuron is one of the best known models for a spiking neuron. A current limitation of the LIF model is that it may not accurately reproduce the dynamics of an action potential. There have recently been some studies suggesting that a LIF coupled with a multi-timescale adaptive threshold (MAT) may increase LIF's accuracy in predicting spikes in cortical neurons. We propose a mechanotransduction process coupled with a LIF model with multi-timescale adaptive threshold to model slowly adapting type I (SAI) mechanoreceptor in monkey's glabrous skin. In order to test the performance of the model, the spike timings predicted by this MAT model are compared with neural data. We also test a fixed threshold variant of the model by comparing its outcome with the neural data. Initial results indicate that the MAT model predicts spike timings better than a fixed threshold LIF model only.",
+  "authors": [
+    "Jahangiri Anila F",
+    "Gerling Gregory J"
+  ],
+  "journal": "International IEEE/EMBS Conference on Neural Engineering : [proceedings]. International IEEE EMBS Conference on Neural Engineering",
+  "year": "2011",
+  "doi": "",
+  "mesh": []
+}

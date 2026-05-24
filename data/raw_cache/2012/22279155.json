@@ -1,0 +1,26 @@
+{
+  "pmid": "22279155",
+  "title": "Optimal decision-making in mammals: insights from a robot study of rodent texture discrimination.",
+  "abstract": "Texture perception is studied here in a physical model of the rat whisker system consisting of a robot equipped with a biomimetic vibrissal sensor. Investigations of whisker motion in rodents have led to several explanations for texture discrimination, such as resonance or stick-slips. Meanwhile, electrophysiological studies of decision-making in monkeys have suggested a neural mechanism of evidence accumulation to threshold for competing percepts, described by a probabilistic model of Bayesian sequential analysis. For our robot whisker data, we find that variable reaction-time decision-making with sequential analysis performs better than the fixed response-time maximum-likelihood estimation. These probabilistic classifiers also use whatever available features of the whisker signals aid the discrimination, giving improved performance over a single-feature strategy, such as matching the peak power spectra of whisker vibrations. These results cast new light on how the various proposals for texture discrimination in rodents depend on the whisker contact mechanics and suggest the possibility of a common account of decision-making across mammalian species.",
+  "authors": [
+    "Lepora Nathan F",
+    "Fox Charles W",
+    "Evans Mathew H",
+    "Diamond Mathew E",
+    "Gurney Kevin",
+    "Prescott Tony J"
+  ],
+  "journal": "Journal of the Royal Society, Interface",
+  "year": "2012",
+  "doi": "10.1098/rsif.2011.0750",
+  "mesh": [
+    "Animals",
+    "Decision Making",
+    "Models, Biological",
+    "Pattern Recognition, Physiological",
+    "Rats",
+    "Robotics",
+    "Surface Properties",
+    "Vibrissae"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pmid": "38370121",
+  "title": "A critical period for developing face recognition.",
+  "abstract": "Face learning has important critical periods during development. However, the computational mechanisms of critical periods remain unknown. Here, we conducted a series of <i>in silico</i> experiments and showed that, similar to humans, deep artificial neural networks exhibited critical periods during which a stimulus deficit could impair the development of face learning. Face learning could only be restored when providing information <i>within</i> the critical period, whereas, <i>outside of</i> the critical period, the model could not incorporate new information anymore. We further provided a full computational account by learning rate and demonstrated an alternative approach by knowledge distillation and attention transfer to partially recover the model outside of the critical period. We finally showed that model performance and recovery were associated with identity-selective units and the correspondence with the primate visual systems. Our present study not only reveals computational mechanisms underlying face learning but also points to strategies to restore impaired face learning.",
+  "authors": [
+    "Wang Jinge",
+    "Cao Runnan",
+    "Chakravarthula Puneeth N",
+    "Li Xin",
+    "Wang Shuo"
+  ],
+  "journal": "Patterns (New York, N.Y.)",
+  "year": "2024",
+  "doi": "10.1016/j.patter.2023.100895",
+  "mesh": []
+}

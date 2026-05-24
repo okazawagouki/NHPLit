@@ -1,0 +1,13 @@
+{
+  "pmid": "39484570",
+  "title": "The representational geometry for naturalistic textures in macaque V1 and V2.",
+  "abstract": "Our understanding of visual cortical processing has relied primarily on studying the selectivity of individual neurons in different areas. A complementary approach is to study how the representational geometry of neuronal populations differs across areas. Though the geometry is derived from individual neuronal selectivity, it can reveal encoding strategies difficult to infer from single neuron responses. In addition, recent theoretical work has begun to relate distinct functional objectives to different representational geometries. To understand how the representational geometry changes across stages of processing, we measured neuronal population responses in primary visual cortex (V1) and area V2 of macaque monkeys to an ensemble of synthetic, naturalistic textures. Responses were lower dimensional in V2 than V1, and there was a better alignment of V2 population responses to different textures. The representational geometry in V2 afforded better discriminability between out-of-sample textures. We performed complementary analyses of standard convolutional network models, which did not replicate the representational geometry of cortex. We conclude that there is a shift in the representational geometry between V1 and V2, with the V2 representation exhibiting features of a low-dimensional, systematic encoding of different textures and of different instantiations of each texture. Our results suggest that comparisons of representational geometry can reveal important transformations that occur across successive stages of visual processing.",
+  "authors": [
+    "Pavuluri Abhimanyu",
+    "Kohn Adam"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.10.18.619102",
+  "mesh": []
+}

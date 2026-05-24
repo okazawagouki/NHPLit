@@ -1,0 +1,39 @@
+{
+  "pmid": "32539526",
+  "title": "Diagnostic Classification for Human Autism and Obsessive-Compulsive Disorder Based on Machine Learning From a Primate Genetic Model.",
+  "abstract": "OBJECTIVE: Psychiatric disorders commonly comprise comorbid symptoms, such as autism spectrum disorder (ASD), obsessive-compulsive disorder (OCD), and attention deficit hyperactivity disorder (ADHD), raising controversies over accurate diagnosis and overlap of their neural underpinnings. The authors used noninvasive neuroimaging in humans and nonhuman primates to identify neural markers associated with DSM-5 diagnoses and quantitative measures of symptom severity. METHODS: Resting-state functional connectivity data obtained from both wild-type and methyl-CpG binding protein 2 (<i>MECP2</i>) transgenic monkeys were used to construct monkey-derived classifiers for diagnostic classification in four human data sets (ASD: Autism Brain Imaging Data Exchange [ABIDE-I], N=1,112; ABIDE-II, N=1,114; ADHD-200 sample: N=776; OCD local institutional database: N=186). Stepwise linear regression models were applied to examine associations between functional connections of monkey-derived classifiers and dimensional symptom severity of psychiatric disorders. RESULTS: Nine core regions prominently distributed in frontal and temporal cortices were identified in monkeys and used as seeds to construct the monkey-derived classifier that informed diagnostic classification in human autism. This same set of core regions was useful for diagnostic classification in the OCD cohort but not the ADHD cohort. Models based on functional connections of the right ventrolateral prefrontal cortex with the left thalamus and right prefrontal polar cortex predicted communication scores of ASD patients and compulsivity scores of OCD patients, respectively. CONCLUSIONS: The identified core regions may serve as a basis for building markers for ASD and OCD diagnoses, as well as measures of symptom severity. These findings may inform future development of machine-learning models for psychiatric disorders and may improve the accuracy and speed of clinical assessments.",
+  "authors": [
+    "Zhan Yafeng",
+    "Wei Jianze",
+    "Liang Jian",
+    "Xu Xiu",
+    "He Ran",
+    "Robbins Trevor W",
+    "Wang Zheng"
+  ],
+  "journal": "The American journal of psychiatry",
+  "year": "2021",
+  "doi": "10.1176/appi.ajp.2020.19101091",
+  "mesh": [
+    "Adolescent",
+    "Animals",
+    "Animals, Genetically Modified",
+    "Autistic Disorder",
+    "Biomarkers",
+    "Brain",
+    "Case-Control Studies",
+    "Child",
+    "Female",
+    "Frontal Lobe",
+    "Humans",
+    "Macaca fascicularis",
+    "Machine Learning",
+    "Male",
+    "Methyl-CpG-Binding Protein 2",
+    "Models, Genetic",
+    "Neuroimaging",
+    "Obsessive-Compulsive Disorder",
+    "Severity of Illness Index",
+    "Temporal Lobe"
+  ]
+}

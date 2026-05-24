@@ -1,0 +1,31 @@
+{
+  "pmid": "27106692",
+  "title": "Automated evolutionary optimization of ion channel conductances and kinetics in models of young and aged rhesus monkey pyramidal neurons.",
+  "abstract": "Conductance-based compartment modeling requires tuning of many parameters to fit the neuron model to target electrophysiological data. Automated parameter optimization via evolutionary algorithms (EAs) is a common approach to accomplish this task, using error functions to quantify differences between model and target. We present a three-stage EA optimization protocol for tuning ion channel conductances and kinetics in a generic neuron model with minimal manual intervention. We use the technique of Latin hypercube sampling in a new way, to choose weights for error functions automatically so that each function influences the parameter search to a similar degree. This protocol requires no specialized physiological data collection and is applicable to commonly-collected current clamp data and either single- or multi-objective optimization. We applied the protocol to two representative pyramidal neurons from layer 3 of the prefrontal cortex of rhesus monkeys, in which action potential firing rates are significantly higher in aged compared to young animals. Using an idealized dendritic topology and models with either 4 or 8 ion channels (10 or 23 free parameters respectively), we produced populations of parameter combinations fitting the target datasets in less than 80 hours of optimization each. Passive parameter differences between young and aged models were consistent with our prior results using simpler models and hand tuning. We analyzed parameter values among fits to a single neuron to facilitate refinement of the underlying model, and across fits to multiple neurons to show how our protocol will lead to predictions of parameter differences with aging in these neurons.",
+  "authors": [
+    "Rumbell Timothy H",
+    "Draguljić Danel",
+    "Yadav Aniruddha",
+    "Hof Patrick R",
+    "Luebke Jennifer I",
+    "Weaver Christina M"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2016",
+  "doi": "10.1007/s10827-016-0605-9",
+  "mesh": [
+    "Action Potentials",
+    "Aging",
+    "Algorithms",
+    "Animals",
+    "Biological Evolution",
+    "Computer Simulation",
+    "Dendrites",
+    "In Vitro Techniques",
+    "Ion Channels",
+    "Kinetics",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Pyramidal Cells"
+  ]
+}

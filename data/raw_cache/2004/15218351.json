@@ -1,0 +1,28 @@
+{
+  "pmid": "15218351",
+  "title": "The influence of spike rate and stimulus duration on noradrenergic neurons.",
+  "abstract": "We model spiking neurons in locus coeruleus (LC), a brain nucleus involved in modulating cognitive performance, and compare with recent experimental data. Extracellular recordings from LC of monkeys performing target detection and selective attention tasks show varying responses dependent on stimuli and performance accuracy. From membrane voltage and ion channel equations, we derive a phase oscillator model for LC neurons. Average spiking probabilities of a pool of cells over many trials are then computed via a probability density formulation. These show that: (1) Post-stimulus response is elevated in populations with lower spike rates; (2) Responses decay exponentially due to noise and variable pre-stimulus spike rates; and (3) Shorter stimuli preferentially cause depressed post-activation spiking. These results allow us to propose mechanisms for the different LC responses observed across behavioral and task conditions, and to make explicit the role of baseline firing rates and the duration of task-related inputs in determining LC response.",
+  "authors": [
+    "Brown Eric",
+    "Moehlis Jeff",
+    "Holmes Philip",
+    "Clayton Ed",
+    "Rajkowski Janusz",
+    "Aston-Jones Gary"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Haplorhini",
+    "Locus Coeruleus",
+    "Models, Neurological",
+    "Neurons",
+    "Norepinephrine",
+    "Physical Stimulation",
+    "Probability",
+    "Reaction Time"
+  ]
+}

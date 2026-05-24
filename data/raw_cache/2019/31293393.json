@@ -1,0 +1,26 @@
+{
+  "pmid": "31293393",
+  "title": "Pattern Motion Processing by MT Neurons.",
+  "abstract": "Based on stimulation with plaid patterns, neurons in the Middle Temporal (MT) area of primate visual cortex are divided into two types: pattern and component cells. The prevailing theory suggests that pattern selectivity results from the summation of the outputs of component cells as part of a hierarchical visual pathway. We present a computational model of the visual pathway from primary visual cortex (V1) to MT that suggests an alternate model where the progression from component to pattern selectivity is not required. Using standard orientation-selective V1 cells, end-stopped V1 cells, and V1 cells with extra-classical receptive fields (RFs) as inputs to MT, the model shows that the degree of pattern or component selectivity in MT could arise from the relative strengths of the three V1 input types. Dominance of end-stopped V1 neurons in the model leads to pattern selectivity in MT, while dominance of V1 cells with extra-classical RFs result in component selectivity. This model may assist in designing experiments to further understand motion processing mechanisms in primate MT.",
+  "authors": [
+    "Zarei Eskikand Parvin",
+    "Kameneva Tatiana",
+    "Burkitt Anthony N",
+    "Grayden David B",
+    "Ibbotson Michael R"
+  ],
+  "journal": "Frontiers in neural circuits",
+  "year": "2019",
+  "doi": "10.3389/fncir.2019.00043",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Humans",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

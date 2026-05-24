@@ -1,0 +1,22 @@
+{
+  "pmid": "37536094",
+  "title": "Application of deep reinforcement learning for spike sorting under multi-class imbalance.",
+  "abstract": "Spike sorting is the basis for analyzing spike firing patterns encoded in high-dimensional information spaces. With the fact that high-density microelectrode arrays record multiple neurons simultaneously, the data collected often suffers from two problems: a few overlapping spikes and different neuronal firing rates, which both belong to the multi-class imbalance problem. Since deep reinforcement learning (DRL) assign targeted attention to categories through reward functions, we propose ImbSorter to implement spike sorting under multi-class imbalance. We describe spike sorting as a Markov sequence decision and construct a dynamic reward function (DRF) to improve the sensitivity of the agent to minor classes based on the inter-class imbalance ratios. The agent is eventually guided by the optimal strategy to classify spikes. We consider the Wave_Clus dataset, which contains overlapping spikes and diverse noise levels, and the macaque dataset, which has a multi-scale imbalance. ImbSorter is compared with classical DRL architectures, traditional machine learning algorithms, and advanced overlapping spike sorting techniques on these two above datasets. ImbSorter obtained improved results on the Macro_F1. The results show ImbSorter has a promising ability to resist overlapping and noise interference. It has high stability and promising performance in processing spikes with different degrees of skewed distribution.",
+  "authors": [
+    "Li Suchen",
+    "Tang Zhuo",
+    "Yang Lifang",
+    "Li Mengmeng",
+    "Shang Zhigang"
+  ],
+  "journal": "Computers in biology and medicine",
+  "year": "2023",
+  "doi": "10.1016/j.compbiomed.2023.107253",
+  "mesh": [
+    "Action Potentials",
+    "Signal Processing, Computer-Assisted",
+    "Neurons",
+    "Microelectrodes",
+    "Algorithms"
+  ]
+}

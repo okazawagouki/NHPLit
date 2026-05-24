@@ -1,0 +1,26 @@
+{
+  "pmid": "32498058",
+  "title": "A modular high-density μECoG system on macaque vlPFC for auditory cognitive decoding.",
+  "abstract": "OBJECTIVE: A fundamental goal of the auditory system is to parse the auditory environment into distinct perceptual representations. Auditory perception is mediated by the ventral auditory pathway, which includes the ventrolateral prefrontal cortex (vlPFC). Because large-scale recordings of auditory signals are quite rare, the spatiotemporal resolution of the neuronal code that underlies vlPFC's contribution to auditory perception has not been fully elucidated. Therefore, we developed a modular, chronic, high-resolution, multi-electrode array system with long-term viability in order to identify the information that could be decoded from μECoG vlPFC signals. APPROACH: We molded three separate μECoG arrays into one and implanted this system in a non-human primate. A custom 3D-printed titanium chamber was mounted on the left hemisphere. The molded 294-contact μECoG array was implanted subdurally over the vlPFC. μECoG activity was recorded while the monkey participated in a 'hearing-in-noise' task in which they reported hearing a 'target' vocalization from a background 'chorus' of vocalizations. We titrated task difficulty by varying the sound level of the target vocalization, relative to the chorus (target-to-chorus ratio, TCr). MAIN RESULTS: We decoded the TCr and the monkey's behavioral choices from the μECoG signal. We analyzed decoding accuracy as a function of number of electrodes, spatial resolution, and time from implantation. Over a one-year period, we found significant decoding with individual electrodes that increased significantly as we decoded simultaneously more electrodes. Further, we found that the decoding for behavioral choice was better than the decoding of TCr. Finally, because the decoding accuracy of individual electrodes varied on a day-by-day basis, electrode arrays with high channel counts ensure robust decoding in the long term. SIGNIFICANCE: Our results demonstrate the utility of high-resolution and high-channel-count, chronic µECoG recording. We developed a surface electrode array that can be scaled to cover larger cortical areas without increasing the chamber footprint.",
+  "authors": [
+    "Chiang Chia-Han",
+    "Lee Jaejin",
+    "Wang Charles",
+    "Williams Ashley J",
+    "Lucas Timothy H",
+    "Cohen Yale E",
+    "Viventi Jonathan"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2020",
+  "doi": "10.1088/1741-2552/ab9986",
+  "mesh": [
+    "Animals",
+    "Auditory Cortex",
+    "Auditory Perception",
+    "Cerebral Cortex",
+    "Cognition",
+    "Electrodes",
+    "Macaca"
+  ]
+}

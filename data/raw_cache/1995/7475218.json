@@ -1,0 +1,27 @@
+{
+  "pmid": "7475218",
+  "title": "A method for detecting the time course of correlation between single-unit activity and EMG during a behavioral task.",
+  "abstract": "The chance that a change in excitability of one neuron leads to a change in excitability of another is likely to vary within a single volitional act. This temporal variability in functional connectivity is impossible to assess with standard analytical procedures to accurately that measure the correlation between such elements. This reports describes a technique designed to overcome this limitation by expressing a correlation measure calculated repeatedly in short epochs throughout a behavioral trial. The activity of two elements, a motor cortical neuron and a shoulder muscle, that might take place during a drawing task was first simulated so that the correlation could be manipulated. Various correlation algorithms (standard cross-correlation, spike-triggered average, impulse-response function, impulse-response surface) were tested with these data. Spike trains from a monkey's motor cortex and rectified EMG from its posterior deltoid muscle were compared using the same techniques and shown to have a correlation that changed in a characteristic manner throughout a task that required the monkey to draw a sinusoid.",
+  "authors": [
+    "Schwartz A B",
+    "Adams J L"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "1995",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Behavior, Animal",
+    "Computer Simulation",
+    "Conditioning, Operant",
+    "Electromyography",
+    "Fourier Analysis",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Motor Cortex",
+    "Muscles",
+    "Neurons",
+    "Time Factors"
+  ]
+}

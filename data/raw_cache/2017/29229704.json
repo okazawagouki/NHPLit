@@ -1,0 +1,22 @@
+{
+  "pmid": "29229704",
+  "title": "A Unifying Motif for Spatial and Directional Surround Suppression.",
+  "abstract": "In the visual system, the response to a stimulus in a neuron's receptive field can be modulated by stimulus context, and the strength of these contextual influences vary with stimulus intensity. Recent work has shown how a theoretical model, the stabilized supralinear network (SSN), can account for such modulatory influences, using a small set of computational mechanisms. Although the predictions of the SSN have been confirmed in primary visual cortex (V1), its computational principles apply with equal validity to any cortical structure. We have therefore tested the generality of the SSN by examining modulatory influences in the middle temporal area (MT) of the macaque visual cortex, using electrophysiological recordings and pharmacological manipulations. We developed a novel stimulus that can be adjusted parametrically to be larger or smaller in the space of all possible motion directions. We found, as predicted by the SSN, that MT neurons integrate across motion directions for low-contrast stimuli, but that they exhibit suppression by the same stimuli when they are high in contrast. These results are analogous to those found in visual cortex when stimulus size is varied in the space domain. We further tested the mechanisms of inhibition using pharmacological manipulations of inhibitory efficacy. As predicted by the SSN, local manipulation of inhibitory strength altered firing rates, but did not change the strength of surround suppression. These results are consistent with the idea that the SSN can account for modulatory influences along different stimulus dimensions and in different cortical areas.<b>SIGNIFICANCE STATEMENT</b> Visual neurons are selective for specific stimulus features in a region of visual space known as the receptive field, but can be modulated by stimuli outside of the receptive field. The SSN model has been proposed to account for these and other modulatory influences, and tested in V1. As this model is not specific to any particular stimulus feature or brain region, we wondered whether similar modulatory influences might be observed for other stimulus dimensions and other regions. We tested for specific patterns of modulatory influences in the domain of motion direction, using electrophysiological recordings from MT. Our data confirm the predictions of the SSN in MT, suggesting that the SSN computations might be a generic feature of sensory cortex.",
+  "authors": [
+    "Liu Liu D",
+    "Miller Kenneth D",
+    "Pack Christopher C"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2018",
+  "doi": "10.1523/JNEUROSCI.2386-17.2017",
+  "mesh": [
+    "Animals",
+    "Female",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motion Perception",
+    "Photic Stimulation",
+    "Temporal Lobe"
+  ]
+}

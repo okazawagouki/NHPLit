@@ -1,0 +1,23 @@
+{
+  "pmid": "33405995",
+  "title": "Spatial receptive field structure of double-opponent cells in macaque V1.",
+  "abstract": "The spatial processing of color is important for visual perception. Double-opponent (DO) cells likely contribute to this processing by virtue of their spatially opponent and cone-opponent receptive fields (RFs). However, the representation of visual features by DO cells in the primary visual cortex of primates is unclear because the spatial structure of their RFs has not been fully characterized. To fill this gap, we mapped the RFs of DO cells in awake macaques with colorful, dynamic white noise patterns. The spatial RF of each neuron was fitted with a Gabor function and three versions of the difference of Gaussians (DoG) function. The Gabor function provided the more accurate description for most DO cells, a result that is incompatible with a center-surround RF organization. A nonconcentric version of the DoG function, in which the RFs have a circular center and a crescent-shaped surround, performed nearly as well as the Gabor model thus reconciling results from previous reports. For comparison, we also measured the RFs of simple cells. We found that the superiority of the Gabor fits over DoG fits was slightly more decisive for simple cells than for DO cells. The implications of these results on biological image processing and visual perception are discussed.<b>NEW & NOTEWORTHY</b> Double-opponent cells in macaque area V1 respond to spatial chromatic contrast in visual scenes. What information they carry is debated because their receptive field organization has not been characterized thoroughly. Using white noise analysis and statistical model comparisons, De and Horwitz show that many double-opponent receptive fields can be captured by either a Gabor model or a center-with-an-asymmetric-surround model but not by a difference of Gaussians model.",
+  "authors": [
+    "De Abhishek",
+    "Horwitz Gregory D"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2021",
+  "doi": "10.1152/jn.00547.2020",
+  "mesh": [
+    "Animals",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Photic Stimulation",
+    "Space Perception",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Pathways"
+  ]
+}

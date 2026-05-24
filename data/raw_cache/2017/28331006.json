@@ -1,0 +1,22 @@
+{
+  "pmid": "28331006",
+  "title": "Monkey prefrontal neurons during Sternberg task performance: full contents of working memory or most recent item?",
+  "abstract": "To explore the brain mechanisms underlying multi-item working memory, we monitored the activity of neurons in the dorsolateral prefrontal cortex while macaque monkeys performed spatial and chromatic versions of a Sternberg working-memory task. Each trial required holding three sequentially presented samples in working memory so as to identify a subsequent probe matching one of them. The monkeys were able to recall all three samples at levels well above chance, exhibiting modest load and recency effects. Prefrontal neurons signaled the identity of each sample during the delay period immediately following its presentation. However, as each new sample was presented, the representation of antecedent samples became weak and shifted to an anomalous code. A linear classifier operating on the basis of population activity during the final delay period was able to perform at approximately the level of the monkeys on trials requiring recall of the third sample but showed a falloff in performance on trials requiring recall of the first or second sample much steeper than observed in the monkeys. We conclude that delay-period activity in the prefrontal cortex robustly represented only the most recent item. The monkeys apparently based performance of this classic working-memory task on some storage mechanism in addition to the prefrontal delay-period firing rate. Possibilities include delay-period activity in areas outside the prefrontal cortex and changes within the prefrontal cortex not manifest at the level of the firing rate.<b>NEW & NOTEWORTHY</b> It has long been thought that items held in working memory are encoded by delay-period activity in the dorsolateral prefrontal cortex. Here we describe evidence contrary to that view. In monkeys performing a serial multi-item working memory task, dorsolateral prefrontal neurons encode almost exclusively the identity of the sample presented most recently. Information about earlier samples must be encoded outside the prefrontal cortex or represented within the prefrontal cortex in a cryptic code.",
+  "authors": [
+    "Konecky R O",
+    "Smith M A",
+    "Olson C R"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2017",
+  "doi": "10.1152/jn.00541.2016",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Memory, Short-Term",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Reaction Time"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "38193916",
+  "title": "Clustering the cortical laminae: in vivo parcellation.",
+  "abstract": "The laminar microstructure of the cerebral cortex has distinct anatomical characteristics of the development, function, connectivity, and even various pathologies of the brain. In recent years, multiple neuroimaging studies have utilized magnetic resonance imaging (MRI) relaxometry to visualize and explore this intricate microstructure, successfully delineating the cortical laminar components. Despite this progress, T1 is still primarily considered a direct measure of myeloarchitecture (myelin content), rather than a probe of tissue cytoarchitecture (cellular composition). This study aims to offer a robust, whole-brain validation of T1 imaging as a practical and effective tool for exploring the laminar composition of the cortex. To do so, we cluster complex microstructural cortical datasets of both human (N = 30) and macaque (N = 1) brains using an adaptation of an algorithm for clustering cell omics profiles. The resulting cluster patterns are then compared to established atlases of cytoarchitectonic features, exhibiting significant correspondence in both species. Lastly, we demonstrate the expanded applicability of T1 imaging by exploring some of the cytoarchitectonic features behind various unique skillsets, such as musicality and athleticism.",
+  "authors": [
+    "Shamir Ittai",
+    "Assaf Yaniv",
+    "Shamir Ron"
+  ],
+  "journal": "Brain structure & function",
+  "year": "2024",
+  "doi": "10.1007/s00429-023-02748-2",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Cerebral Cortex",
+    "Magnetic Resonance Imaging",
+    "Neuroimaging",
+    "Macaca",
+    "Cluster Analysis",
+    "Image Processing, Computer-Assisted",
+    "Brain Mapping"
+  ]
+}

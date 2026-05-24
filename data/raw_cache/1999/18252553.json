@@ -1,0 +1,15 @@
+{
+  "pmid": "18252553",
+  "title": "Physiologically motivated image fusion for object detection using a pulse coupled neural network.",
+  "abstract": "This paper presents the first physiologically motivated pulse coupled neural network (PCNN)-based image fusion network for object detection. Primate vision processing principles, such as expectation driven filtering, state dependent modulation, temporal synchronization, and multiple processing paths are applied to create a physiologically motivated image fusion network. PCNN's are used to fuse the results of several object detection techniques to improve object detection accuracy. Image processing techniques (wavelets, morphological, etc.) are used to extract target features and PCNN's are used to focus attention by segmenting and fusing the information. The object detection property of the resulting image fusion network is demonstrated on mammograms and Forward Looking Infrared Radar (FLIR) images. The network removed 94% of the false detections without removing any true detections in the FLIR images and removed 46% of the false detections while removing only 7% of the true detections in the mammograms. The model exceeded the accuracy obtained by any individual filtering methods or by logical ANDing the individual object detection technique results.",
+  "authors": [
+    "Broussard R P",
+    "Rogers S K",
+    "Oxley M E",
+    "Tarr G L"
+  ],
+  "journal": "IEEE transactions on neural networks",
+  "year": "1999",
+  "doi": "10.1109/72.761712",
+  "mesh": []
+}

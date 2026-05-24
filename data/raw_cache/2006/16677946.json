@@ -1,0 +1,22 @@
+{
+  "pmid": "16677946",
+  "title": "The effect of artifacts on dependence measurement in fMRI.",
+  "abstract": "The study of effective connectivity by means of neuroimaging depends on the measurement of similarity between activity patterns at different locations in the brain, without necessarily presupposing a particular model for this dependence. When these interactions are measured using functional magnetic resonance imaging (fMRI) techniques, however, imaging and physiological artifacts create patterns of dependence that may be unrelated to cortical activity. We demonstrate some of these effects through the measurement of short-range dependencies present in fMRI scans of the primary visual cortex (V1) in the anaesthetized macaque monkey. High-field (4.7 T) fMRI scans were conducted to measure responses based on the blood oxygen level-dependent contrast mechanism, during periods of no sensory stimulation and of visual stimulation with rotating polar-transformed checkerboard gratings. Dependence between the haemodynamic activity at different spatial locations (i.e., different voxels) was measured using correlation, mutual information and functional covariance. Particular attention was paid to understanding the sources of spurious dependence that may be observed during such investigations. Two main effects were detected: (a) short-range correlations introduced by the process of image reconstruction and (b) perturbations in the haemodynamic response caused by breathing. The image reconstruction artifacts were shown to create an artificially high short-range dependence in the readout direction of the scan, and the breathing artifacts caused enhanced short-range dependence in both the readout and phase-encode directions. Additional dependence in the phase-encode direction due to image-ghosting is also possible but will not be discussed in this report, as it can be alleviated by fine adjustment of preemphasis (elimination of eddy currents). A technique is described for removing breathing artifacts, and the effect of breathing on the apparent dependence between voxels is illustrated. The correlation of haemodynamic activity with the stimulus was found to be affected by breathing, although this effect can be neutralised by averaging the haemodynamic responses over many repetitions of the stimulus. Nonetheless, patterns of dependent activity between voxels may be lost in this averaging process, which makes the removal of breathing artifacts necessary if statistical dependence and the study of effective connectivity is the primary aim of an investigation.",
+  "authors": [
+    "Gretton Arthur",
+    "Belitski Andrei",
+    "Murayama Yusuke",
+    "Schölkopf Bernhard",
+    "Logothetis Nikos"
+  ],
+  "journal": "Magnetic resonance imaging",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Artifacts",
+    "Haplorhini",
+    "Magnetic Resonance Imaging",
+    "Models, Biological"
+  ]
+}

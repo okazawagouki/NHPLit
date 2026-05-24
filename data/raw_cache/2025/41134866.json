@@ -1,0 +1,25 @@
+{
+  "pmid": "41134866",
+  "title": "Manifold transform by recurrent cortical circuit enhances robust encoding of familiar stimuli.",
+  "abstract": "A ubiquitous phenomenon observed along the ventral stream of the primate hierarchical visual system is the suppression of neural responses to familiar stimuli at the population level. The observation of the suppression of the neural response in the early visual cortex (V1 and V2) to familiar stimuli that are multiple times larger in size than the receptive fields of individual neurons implicates the plausible development of recurrent circuits for encoding these global stimuli. In this work, we investigated the neural mechanisms of familiarity suppression and showed that a recurrent neural circuit based on Hebbian learning, consisting of neurons with small and local receptive fields, can develop to encode specific global familiar stimuli robustly as a result of familiarity training. We proposed that the learned recurrent circuit implements a manifold transform. The recurrent circuit compresses the dimensions of nuisance variations of a familiar image in the neural response manifold relative to the dimensions for discriminating different familiar stimuli, resulting in increased robustness of the global stimulus representation against noise and other irrelevant perturbations. We demonstrate that a recurrent circuit implements the manifold transform using a mixed strategy of locally linear and globally nonlinear computations, where the local linear computation selectively redistributes recurrent gain to enhance concept discrimination. These results provide testable predictions for neurophysiological experiments.",
+  "authors": [
+    "Wang Weifan",
+    "Niu Xueyan",
+    "Liang Liyuan",
+    "Lee Tai-Sing"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2025",
+  "doi": "10.1371/journal.pcbi.1013587",
+  "mesh": [
+    "Visual Cortex",
+    "Animals",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Computational Biology",
+    "Recognition, Psychology",
+    "Humans",
+    "Nerve Net"
+  ]
+}

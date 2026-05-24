@@ -1,0 +1,18 @@
+{
+  "pmid": "1731247",
+  "title": "Spatial filtering precedes motion detection.",
+  "abstract": "When we perceive motion on a television or cinema screen, there must be some process that allows us to track moving objects over time: if not, the result would be a conflicting mass of motion signals in all directions. A possible mechanism, suggested by studies of motion displacement in spatially random patterns, is that low-level motion detectors have a limited spatial range, which ensures that they tend to be stimulated over time by the same object. This model predicts that the direction of displacement of random patterns cannot be detected reliably above a critical absolute displacement value (Dmax) that is independent of the size or density of elements in the display. It has been inferred that Dmax is a measure of the size of motion detectors in the visual pathway. Other studies, however, have shown that Dmax increases with element size, in which case the most likely interpretation is that Dmax depends on the probability of false matches between pattern elements following a displacement. These conflicting accounts are reconciled here by showing that Dmax is indeed determined by the spacing between the elements in the pattern, but only after fine detail has been removed by a physiological prefiltering stage: the filter required to explain the data has a similar size to the receptive field of neurons in the primate magnocellular pathway. The model explains why Dmax can be increased by removing high spatial frequencies from random patterns, and simplifies our view of early motion detection.",
+  "authors": [
+    "Morgan M J"
+  ],
+  "journal": "Nature",
+  "year": "1992",
+  "doi": "",
+  "mesh": [
+    "Humans",
+    "Motion Perception",
+    "Motion Pictures",
+    "Pattern Recognition, Visual",
+    "Television"
+  ]
+}

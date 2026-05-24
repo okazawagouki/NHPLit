@@ -1,0 +1,35 @@
+{
+  "pmid": "23574919",
+  "title": "Design and validation of a real-time spiking-neural-network decoder for brain-machine interfaces.",
+  "abstract": "OBJECTIVE: Cortically-controlled motor prostheses aim to restore functions lost to neurological disease and injury. Several proof of concept demonstrations have shown encouraging results, but barriers to clinical translation still remain. In particular, intracortical prostheses must satisfy stringent power dissipation constraints so as not to damage cortex. APPROACH: One possible solution is to use ultra-low power neuromorphic chips to decode neural signals for these intracortical implants. The first step is to explore in simulation the feasibility of translating decoding algorithms for brain-machine interface (BMI) applications into spiking neural networks (SNNs). MAIN RESULTS: Here we demonstrate the validity of the approach by implementing an existing Kalman-filter-based decoder in a simulated SNN using the Neural Engineering Framework (NEF), a general method for mapping control algorithms onto SNNs. To measure this system's robustness and generalization, we tested it online in closed-loop BMI experiments with two rhesus monkeys. Across both monkeys, a Kalman filter implemented using a 2000-neuron SNN has comparable performance to that of a Kalman filter implemented using standard floating point techniques. SIGNIFICANCE: These results demonstrate the tractability of SNN implementations of statistical signal processing algorithms on different monkeys and for several tasks, suggesting that a SNN decoder, implemented on a neuromorphic chip, may be a feasible computational platform for low-power fully-implanted prostheses. The validation of this closed-loop decoder system and the demonstration of its robustness and generalization hold promise for SNN implementations on an ultra-low power neuromorphic chip using the NEF.",
+  "authors": [
+    "Dethier Julie",
+    "Nuyujukian Paul",
+    "Ryu Stephen I",
+    "Shenoy Krishna V",
+    "Boahen Kwabena"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2013",
+  "doi": "10.1088/1741-2560/10/3/036008",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Brain-Computer Interfaces",
+    "Computer Systems",
+    "Computer-Aided Design",
+    "Data Interpretation, Statistical",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Equipment Design",
+    "Equipment Failure Analysis",
+    "Haplorhini",
+    "Nerve Net",
+    "Neurons",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

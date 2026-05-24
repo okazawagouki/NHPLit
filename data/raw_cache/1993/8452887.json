@@ -1,0 +1,25 @@
+{
+  "pmid": "8452887",
+  "title": "'Vector white noise': a technique for mapping the motion receptive fields of direction-selective visual neurons.",
+  "abstract": "A technique is described and tested for mapping the sensitivities and preferred directions of motion at different locations within the receptive fields of direction-selective motion-detecting visual neurons. The procedure is to record the responses to a number of visual stimuli, each stimulus presentation consisting of a set of short, randomly-oriented, moving bars arranged in a square grid. Each bar moves perpendicularly to its long axis. The vector describing the sensitivity and preferred direction of motion at each grid location is obtained as a sum of the unit vectors defining the directions of motion of the bars in each of the stimuli at that location, weighted by the strengths of the corresponding responses. The resulting vector field specifies the optimum flow field for the neuron. The advantage of this technique over the conventional approach of probing the receptive field sequentially at each grid location is that the parallel nature of the stimulus is sensitive to nonlinear interactions (such as shunting inhibition for mutual facilitation) between different regions of the visual field. The technique is used to determine accurately the motion receptive fields of direction-selective motion detecting neurons in the optic lobes of insects. It is potentially applicable to motion-sensitive neurons with highly structured receptive fields, such as those in the optic tectum of the pigeon or in area MST of the monkey.",
+  "authors": [
+    "Srinivasan M V",
+    "Jin Z F",
+    "Stange G",
+    "Ibbotson M R"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "1993",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cybernetics",
+    "Diptera",
+    "Lepidoptera",
+    "Mathematics",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation"
+  ]
+}

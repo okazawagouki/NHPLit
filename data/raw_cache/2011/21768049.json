@@ -1,0 +1,16 @@
+{
+  "pmid": "21768049",
+  "title": "Enhanced Biologically Inspired Model for Object Recognition.",
+  "abstract": "The biologically inspired model (BIM) proposed by Serre presents a promising solution to object categorization. It emulates the process of object recognition in primates' visual cortex by constructing a set of scale- and position-tolerant features whose properties are similar to those of the cells along the ventral stream of visual cortex. However, BIM has potential to be further improved in two aspects: mismatch by dense input and randomly feature selection due to the feedforward framework. To solve or alleviate these limitations, we develop an enhanced BIM (EBIM) in terms of the following two aspects: 1) removing uninformative inputs by imposing sparsity constraints, 2) apply a feedback loop to middle level feature selection. Each aspect is motivated by relevant psychophysical research findings. To show the effectiveness of the EBIM, we apply it to object categorization and conduct empirical studies on four computer vision data sets. Experimental results demonstrate that the EBIM outperforms the BIM and is comparable to state-of-the-art approaches in terms of accuracy. Moreover, the new system is about 20 times faster than the BIM.",
+  "authors": [
+    "Yongzhen Huang",
+    "Kaiqi Huang",
+    "Dacheng Tao",
+    "Tieniu Tan",
+    "Xuelong Li"
+  ],
+  "journal": "IEEE transactions on systems, man, and cybernetics. Part B, Cybernetics : a publication of the IEEE Systems, Man, and Cybernetics Society",
+  "year": "2011",
+  "doi": "10.1109/TSMCB.2011.2158418",
+  "mesh": []
+}

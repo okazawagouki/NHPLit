@@ -1,0 +1,25 @@
+{
+  "pmid": "23366116",
+  "title": "Reinforcement mechanisms in putamen during high frequency STN DBS: A point process study.",
+  "abstract": "Despite a pivotal role in the motor loop, dorsolateral striatum (putamen) has been poorly studied thus far under Parkinsonian conditions and Deep Brain Stimulation (DBS). We analyze the activity of the putamen in a monkey by combining single unit recordings and point process models. The animal received DBS (30-130 Hz) in the subthalamic nucleus (STN) while at rest and recordings were acquired both before and after treatment with 1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP), which induced Parkinsonian-like motor disorders. 141 neurons were collected and, for each neuron, a point process model captured DBS-evoked discharge patterns. In the normal animal, spike trains at rest had Poisson like distribution with non-stationary recurrent patterns (RPs) of period 3-7 ms and were mildly changed by low frequency (LF, i.e., < 100 Hz) DBS (i.e., < 20% of neurons affected). With high frequency (HF, i.e., 100-130 Hz) DBS, instead, up to 59% of neurons were affected, the DBS history significantly impacted the neuronal spiking propensity, and the RPs and the post-stimulus activation latency decreased. MPTP evoked inter-neuronal dependencies (INDs) at rest and, compared to normal, LF DBS of the MPTP animal increased RPs and INDs, while HF DBS elicited a faster and wider post-stimulus activation. Overall, HF DBS reduced ongoing non-stationary dynamics by regularizing the discharge patterns both in MPTP and normal putamen, while the combination of MPTP and LF DBS enhanced such dynamics.",
+  "authors": [
+    "Santaniello Sabato",
+    "Gale John T",
+    "Montgomery Erwin B",
+    "Sarma Sridevi V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2012",
+  "doi": "10.1109/EMBC.2012.6346155",
+  "mesh": [
+    "Animals",
+    "Deep Brain Stimulation",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Poisson Distribution",
+    "Putamen",
+    "Signal Processing, Computer-Assisted",
+    "Subthalamic Nucleus"
+  ]
+}

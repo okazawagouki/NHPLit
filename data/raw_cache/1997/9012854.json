@@ -1,0 +1,27 @@
+{
+  "pmid": "9012854",
+  "title": "On the relationship between synaptic input and spike output jitter in individual neurons.",
+  "abstract": "What is the relationship between the temporal jitter in the arrival times of individual synaptic inputs to a neuron and the resultant jitter in its output spike? We report that the rise time of firing rates of cells in striate and extrastriate visual cortex in the macaque monkey remain equally sharp at different stages of processing. Furthermore, as observed by others, multiunit recordings from single units in the primate frontal lobe reveal a strong peak in their cross-correlation in the 10-150 msec range with very small temporal jitter (on the order of 1 msec). We explain these results using numerical models to study the relationship between the temporal jitter in excitatory and inhibitory synaptic input and the variability in the spike output timing in integrate-and-fire units and in a biophysically and anatomically detailed model of a cortical pyramidal cell. We conclude that under physiological circumstances, the standard deviation in the output jitter is linearly related to the standard deviation in the input jitter, with a constant of less than one. Thus, the timing jitter in successive layers of such neurons will converge to a small value dictated by the jitter in axonal propagation times.",
+  "authors": [
+    "Marsálek P",
+    "Koch C",
+    "Maunsell J"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "1997",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cats",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Nerve Net",
+    "Neurons",
+    "Synapses",
+    "Synaptic Transmission",
+    "Vision, Ocular",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

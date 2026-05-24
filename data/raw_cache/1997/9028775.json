@@ -1,0 +1,24 @@
+{
+  "pmid": "9028775",
+  "title": "The oculomotor integrator: testing of a neural network model.",
+  "abstract": "An important part of the vestibulo-ocular reflex is a group of cells in the caudal pons, known as the neural integrator, that converts eye-velocity commands, from the semicircular canals for example, to eye-position commands for the motoneurons of the extraocular muscles. Previously, a recurrently connected neural network model was developed by us that learns to simulate the signal processing done by the neural integrator, but it uses an unphysiological learning algorithm. We describe here a new network model that can learn the same task by using a local, Hebbian-like learning algorithm that is physiologically plausible. Through the minimization of a retinal slip error signal the model learns, given randomly selected initial synaptic weights, to both integrate simulated push-pull semicircular canal afferent signals and compensate for orbital mechanics as well. Approximately half of the model's 14 neurons are inhibitory, half excitatory. After learning, inhibitory cells tend to project contralaterally, thus forming an inhibitory commissure. The network can, of course, recover from lesions. The mature network is also able to change its gain by simulating abnormal visual-vestibular interactions. When trained with a sine wave at a single frequency, the network changed its gain at and near the training frequency but not at significantly higher or lower frequencies, in agreement with previous experimental observations. Commissural connections are essential to the functioning of this model, as was the case with our previous model. In order to determine whether a commissure plays a similar role in the real neural integrator, a series of electrical perturbations were performed on the midlines of awake, behaving juvenile rhesus monkeys and the effects on the monkeys' eye movements were examined. Eye movements were recorded using the coil system before, during, and after electrical stimulation in the midline of the pons just caudal to the abducens nuclei, which reversibly made the integrator leaky. Eye movements were also recorded from two of the monkeys before and after a midline electrolytic lesion was made at the location where stimulation produced a leaky integrator. This lesion disabled the integrator irreversibly. The eye movements that were produced by the monkeys as a result of these perturbations were then compared with eye movements produced by the model after analogous perturbations. The results are compatible with the hypothesis that integration comes about by positive feedback through lateral inhibition effected by an inhibitory commissure.",
+  "authors": [
+    "Arnold D B",
+    "Robinson D A"
+  ],
+  "journal": "Experimental brain research",
+  "year": "1997",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Behavior, Animal",
+    "Electric Stimulation",
+    "Eye Movements",
+    "Macaca mulatta",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Oculomotor Nerve",
+    "Reflex, Vestibulo-Ocular"
+  ]
+}

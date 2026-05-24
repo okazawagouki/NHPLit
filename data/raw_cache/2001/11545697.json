@@ -1,0 +1,25 @@
+{
+  "pmid": "11545697",
+  "title": "Advanced database methodology for the Collation of Connectivity data on the Macaque brain (CoCoMac).",
+  "abstract": "The need to integrate massively increasing amounts of data on the mammalian brain has driven several ambitious neuroscientific database projects that were started during the last decade. Databasing the brain's anatomical connectivity as delivered by tracing studies is of particular importance as these data characterize fundamental structural constraints of the complex and poorly understood functional interactions between the components of real neural systems. Previous connectivity databases have been crucial for analysing anatomical brain circuitry in various species and have opened exciting new ways to interpret functional data, both from electrophysiological and from functional imaging studies. The eventual impact and success of connectivity databases, however, will require the resolution of several methodological problems that currently limit their use. These problems comprise four main points: (i) objective representation of coordinate-free, parcellation-based data, (ii) assessment of the reliability and precision of individual data, especially in the presence of contradictory reports, (iii) data mining and integration of large sets of partially redundant and contradictory data, and (iv) automatic and reproducible transformation of data between incongruent brain maps. Here, we present the specific implementation of the 'collation of connectivity data on the macaque brain' (CoCoMac) database (http://www.cocomac.org). The design of this database addresses the methodological challenges listed above, and focuses on experimental and computational neuroscientists' needs to flexibly analyse and process the large amount of published experimental data from tracing studies. In this article, we explain step-by-step the conceptual rationale and methodology of CoCoMac and demonstrate its practical use by an analysis of connectivity in the prefrontal cortex.",
+  "authors": [
+    "Stephan K E",
+    "Kamper L",
+    "Bozkurt A",
+    "Burns G A",
+    "Young M P",
+    "Kötter R"
+  ],
+  "journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Databases, Factual",
+    "Macaca",
+    "Neural Pathways",
+    "Neuroanatomy",
+    "Prefrontal Cortex",
+    "Software"
+  ]
+}

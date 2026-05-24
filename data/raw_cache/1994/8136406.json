@@ -1,0 +1,26 @@
+{
+  "pmid": "8136406",
+  "title": "Mathematical model for self-organization of direction columns in the primate middle temporal area.",
+  "abstract": "We attempted to reproduce modular structures for direction selectivity characteristic of the primate middle temporal area (MT) based on our thermodynamic model for the activity-dependent self-organization of neural networks. We assumed that excitatory afferent input to MT neurons arises from V1 and/or V2 neurons which are selective to both orientation of a visual stimulus and direction of its motion, and that such input is modifiable and becomes selectively connected through the process of self-organization. By contrast, local circuit connections within MT are unmodifiable and remain nonselectively connected (isotropic). The present simulations reproduced characteristic patterns of organization in the cortex of MT in that: (1) preferred directions of the afferent input gradually shifted, except for singularity lines where direction abruptly changed by 180 degrees; (2) model MT neurons located between the singularity lines responded to unidirectionally moving stimuli, closely reflecting preferred direction of the afferent input; (3) neurons responding to stimuli moving in two opposite directions were located along the singularity lines; and (4) neurons responding to stimuli moving in any direction were clustered at the ends of the singularity lines. When the strength of the lateral inhibition was decreased, direction selectivity of MT neurons was reduced. Therefore, the lateral inhibition, even if isotropic, strengthens the direction selectivity of MT neurons. Expression of singularities changed depending on a parameter that represents the relative dominance of the direction selectivity to the orientation selectivity of the afferent input.(ABSTRACT TRUNCATED AT 250 WORDS)",
+  "authors": [
+    "Tanaka S",
+    "Shinbata H"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "1994",
+  "doi": "",
+  "mesh": [
+    "Afferent Pathways",
+    "Aging",
+    "Animals",
+    "Learning",
+    "Mathematics",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Primates",
+    "Synapses",
+    "Temporal Lobe",
+    "Visual Perception"
+  ]
+}

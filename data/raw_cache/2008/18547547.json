@@ -1,0 +1,28 @@
+{
+  "pmid": "18547547",
+  "title": "Effectiveness of systematic spike dithering depends on the precision of cortical synchronization.",
+  "abstract": "Spike synchronization is a candidate mechanism of cortical information processing. The widely used method of dithering randomly perturbs the spike times of experimental data to construct a distribution of coincidence counts enabling an assessment of the significance of the original data set. The precision of any existing synchrony, however, is limited by the biophysics of the neural system and detection methods are designed to tolerate an adjustable temporal spread. Previous works have independently studied the detectability of jittered spike coincidences and the destruction of precise coincidences by dithering. Here we derive for the first time how dithering interacts with temporally jittered coincidences. We demonstrate that the probability of detecting a spike coincidence characteristically decays with the applied dither interval. This unique relationship enables us to determine the precision of synchronization in cortical spike data of a freely viewing monkey based on the analysis for a single setting of tolerated temporal spread.",
+  "authors": [
+    "Pazienti Antonio",
+    "Maldonado Pedro E",
+    "Diesmann Markus",
+    "Grün Sonja"
+  ],
+  "journal": "Brain research",
+  "year": "2008",
+  "doi": "10.1016/j.brainres.2008.04.073",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Cebus",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Cortical Synchronization",
+    "Electrophysiology",
+    "Nerve Net",
+    "Neurons",
+    "Signal Processing, Computer-Assisted",
+    "Synaptic Transmission"
+  ]
+}

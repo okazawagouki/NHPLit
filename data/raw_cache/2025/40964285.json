@@ -1,0 +1,16 @@
+{
+  "pmid": "40964285",
+  "title": "Directed connectomes across species reveal conserved and divergent pathways of neural signaling.",
+  "abstract": "Understanding how brain networks support cognition requires knowing not only which regions are connected but the direction in which neuronal signals propagate. However, directed connectivity cannot be measured non-invasively in primates or humans, limiting systems-level inference. Here we integrate projection polarity from ~1,200 mouse viral tracing experiments with species-specific diffusion MRI tractography to construct directed connectomes across mouse, marmoset, macaque, and human. Using a common cross-species atlas, we developed a path efficiency metric that balances projection strength against axonal length and applied shortest-path algorithms to quantify directional influence. This framework revealed conserved and divergent organization: the entorhinal-hippocampal projection was the most efficient in all species; humans showed strengthened anterior insula-superior temporal pathways; macaques exhibited peak inferior temporal outflows; and marmosets maintained disproportionately strong olfactory influence. These results provide a scalable and ethically feasible approach for modeling directed neuronal signaling across species.",
+  "authors": [
+    "Venkadesh Siva",
+    "Linn Wen-Jieh",
+    "Tian Yuhe",
+    "Allan Johnson G",
+    "Yeh Fang-Cheng"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.09.07.674762",
+  "mesh": []
+}

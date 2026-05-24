@@ -1,0 +1,22 @@
+{
+  "pmid": "22022370",
+  "title": "A reaction-diffusion model to capture disparity selectivity in primary visual cortex.",
+  "abstract": "Decades of experimental studies are available on disparity selective cells in visual cortex of macaque and cat. Recently, local disparity map for iso-orientation sites for near-vertical edge preference is reported in area 18 of cat visual cortex. No experiment is yet reported on complete disparity map in V1. Disparity map for layer IV in V1 can provide insight into how disparity selective complex cell receptive field is organized from simple cell subunits. Though substantial amounts of experimental data on disparity selective cells is available, no model on receptive field development of such cells or disparity map development exists in literature. We model disparity selectivity in layer IV of cat V1 using a reaction-diffusion two-eye paradigm. In this model, the wiring between LGN and cortical layer IV is determined by resource an LGN cell has for supporting connections to cortical cells and competition for target space in layer IV. While competing for target space, the same type of LGN cells, irrespective of whether it belongs to left-eye-specific or right-eye-specific LGN layer, cooperate with each other while trying to push off the other type. Our model captures realistic 2D disparity selective simple cell receptive fields, their response properties and disparity map along with orientation and ocular dominance maps. There is lack of correlation between ocular dominance and disparity selectivity at the cell population level. At the map level, disparity selectivity topography is not random but weakly clustered for similar preferred disparities. This is similar to the experimental result reported for macaque. The details of weakly clustered disparity selectivity map in V1 indicate two types of complex cell receptive field organization.",
+  "authors": [
+    "Siddiqui Mohammed Sultan Mohiuddin",
+    "Bhaumik Basabi"
+  ],
+  "journal": "PloS one",
+  "year": "2011",
+  "doi": "10.1371/journal.pone.0024997",
+  "mesh": [
+    "Animals",
+    "Cats",
+    "Diffusion",
+    "Models, Biological",
+    "Orientation",
+    "Vision, Binocular",
+    "Visual Cortex",
+    "Visual Fields"
+  ]
+}

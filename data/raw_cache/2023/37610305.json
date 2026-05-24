@@ -1,0 +1,24 @@
+{
+  "pmid": "37610305",
+  "title": "Using adversarial networks to extend brain computer interface decoding accuracy over time.",
+  "abstract": "Existing intracortical brain computer interfaces (iBCIs) transform neural activity into control signals capable of restoring movement to persons with paralysis. However, the accuracy of the 'decoder' at the heart of the iBCI typically degrades over time due to turnover of recorded neurons. To compensate, decoders can be recalibrated, but this requires the user to spend extra time and effort to provide the necessary data, then learn the new dynamics. As the recorded neurons change, one can think of the underlying movement intent signal being expressed in changing coordinates. If a mapping can be computed between the different coordinate systems, it may be possible to stabilize the original decoder's mapping from brain to behavior without recalibration. We previously proposed a method based on Generalized Adversarial Networks (GANs), called 'Adversarial Domain Adaptation Network' (ADAN), which aligns the distributions of latent signals within underlying low-dimensional neural manifolds. However, we tested ADAN on only a very limited dataset. Here we propose a method based on Cycle-Consistent Adversarial Networks (Cycle-GAN), which aligns the distributions of the full-dimensional neural recordings. We tested both Cycle-GAN and ADAN on data from multiple monkeys and behaviors and compared them to a third, quite different method based on Procrustes alignment of axes provided by Factor Analysis. All three methods are unsupervised and require little data, making them practical in real life. Overall, Cycle-GAN had the best performance and was easier to train and more robust than ADAN, making it ideal for stabilizing iBCI systems over time.",
+  "authors": [
+    "Ma Xuan",
+    "Rizzoglio Fabio",
+    "Bodkin Kevin L",
+    "Perreault Eric",
+    "Miller Lee E",
+    "Kennedy Ann"
+  ],
+  "journal": "eLife",
+  "year": "2023",
+  "doi": "10.7554/eLife.84296",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Acclimatization",
+    "Brain",
+    "Coleoptera",
+    "Heart"
+  ]
+}

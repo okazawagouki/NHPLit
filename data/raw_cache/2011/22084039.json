@@ -1,0 +1,30 @@
+{
+  "pmid": "22084039",
+  "title": "Setting adaptive spike detection threshold for smoothed TEO based on robust statistics theory.",
+  "abstract": "We propose a novel approach aimed at adaptively setting the threshold of the smoothed Teager energy operator (STEO) detector to be used in extracellular recording of neural signals. In this proposed approach, to set the adaptive threshold of the STEO detector, we derive the relationship between the low-order statistics of its input signal and the ones of its output signal. This relationship is determined with only the background noise component assumed to be present at the input. Robust statistics theory techniques were used to achieve an unbiased estimation of these low-order statistics of the background noise component directly from the neural input signal. In this paper, the emphasis is made on extracellular neural recordings. However, the proposed method can be used in the analysis of different biomedical signals where spikes are important for diagnostic (e.g., ECG, EEG, etc.). We validated the efficacy of the proposed method using synthetic neural signals constructed from real neural recordings signals. Four different sets of extracellular recordings from four distinct neural sources have been exploited to that purpose. The first dataset is recorded from an adult male monkey using the Utath 10×10 microelectrode array implemented in the prefrontal cortex, the second one was obtained from the visual cortex of a rat using a stainless-steel-tipped microelectrode, the third dataset came from recording in a human medial lobe using intracranial electrode, and finally, the fourth one was extracted from recordings in a macaque parietal cortex using a single tetrode. Simulation results show that our approach is effective and robust, and outperforms state-of-the-art adaptive detection methods in its category (i.e., efficient and simple, and do not require a priori knowledge about neural spike waveforms shapes).",
+  "authors": [
+    "Semmaoui Hicham",
+    "Drolet Jonathan",
+    "Lakhssassi Ahmed",
+    "Sawan Mohamad"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2012",
+  "doi": "10.1109/TBME.2011.2174992",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Humans",
+    "Macaca",
+    "Male",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Normal Distribution",
+    "Rats",
+    "Signal Processing, Computer-Assisted",
+    "Signal-To-Noise Ratio"
+  ]
+}

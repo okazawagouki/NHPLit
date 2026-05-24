@@ -1,0 +1,24 @@
+{
+  "pmid": "28416597",
+  "title": "Posterior Inferotemporal Cortex Cells Use Multiple Input Pathways for Shape Encoding.",
+  "abstract": "In the macaque monkey brain, posterior inferior temporal (PIT) cortex cells contribute to visual object recognition. They receive concurrent inputs from visual areas V4, V3, and V2. We asked how these different anatomical pathways shape PIT response properties by deactivating them while monitoring PIT activity in two male macaques. We found that cooling of V4 or V2|3 did not lead to consistent changes in population excitatory drive; however, population pattern analyses showed that V4-based pathways were more important than V2|3-based pathways. We did not find any image features that predicted decoding accuracy differences between both interventions. Using the HMAX hierarchical model of visual recognition, we found that different groups of simulated \"PIT\" units with different input histories (lacking \"V2|3\" or \"V4\" input) allowed for comparable levels of object-decoding performance and that removing a large fraction of \"PIT\" activity resulted in similar drops in performance as in the cooling experiments. We conclude that distinct input pathways to PIT relay similar types of shape information, with V1-dependent V4 cells providing more quantitatively useful information for overall encoding than cells in V2 projecting directly to PIT.<b>SIGNIFICANCE STATEMENT</b> Convolutional neural networks are the best models of the visual system, but most emphasize input transformations across a serial hierarchy akin to the primary \"ventral stream\" (V1 → V2 → V4 → IT). However, the ventral stream also comprises parallel \"bypass\" pathways: V1 also connects to V4, and V2 to IT. To explore the advantages of mixing long and short pathways in the macaque brain, we used cortical cooling to silence inputs to posterior IT and compared the findings with an HMAX model with parallel pathways.",
+  "authors": [
+    "Ponce Carlos R",
+    "Lomber Stephen G",
+    "Livingstone Margaret S"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2017",
+  "doi": "10.1523/JNEUROSCI.2674-16.2017",
+  "mesh": [
+    "Animals",
+    "Form Perception",
+    "Macaca",
+    "Male",
+    "Nerve Net",
+    "Pattern Recognition, Visual",
+    "Temporal Lobe",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

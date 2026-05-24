@@ -1,0 +1,23 @@
+{
+  "pmid": "8258452",
+  "title": "Optimal detection, classification, and superposition resolution in neural waveform recordings.",
+  "abstract": "The effects of noise autocorrelation on neural waveform recognition (detection, classification, and superposition resolution) are investigated in this study using microelectrode recordings from the cortex of a monkey. Optimal waveform recognition is accomplished by passing the data through a whitening filter before matched filtering for detection or template matching for classification and superposition resolution. Template matching without whitening requires about 40% higher signal-to-noise ratio than template matching with whitening for comparable classification and superposition resolution. The comparable difference for detection is 15%.",
+  "authors": [
+    "Bankman I N",
+    "Johnson K O",
+    "Schneider W"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "1993",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Artifacts",
+    "Bayes Theorem",
+    "Electrophysiology",
+    "Haplorhini",
+    "Neurons",
+    "Somatosensory Cortex"
+  ]
+}

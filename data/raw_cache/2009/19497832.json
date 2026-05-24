@@ -1,0 +1,26 @@
+{
+  "pmid": "19497832",
+  "title": "Offline decoding of end-point forces using neural ensembles: application to a brain-machine interface.",
+  "abstract": "Brain-machine interfaces (BMIs) hold a lot of promise for restoring some level of motor function to patients with neuronal disease or injury. Current BMI approaches fall into two broad categories--those that decode discrete properties of limb movement (such as movement direction and movement intent) and those that decode continuous variables (such as position and velocity). However, to enable the prosthetic devices to be useful for common everyday tasks, precise control of the forces applied by the end-point of the prosthesis (e.g., the hand) is also essential. Here, we used linear regression and Kalman filter methods to show that neural activity recorded from the motor cortex of the monkey during movements in a force field can be used to decode the end-point forces applied by the subject successfully and with high fidelity. Furthermore, the models exhibit some generalization to novel task conditions. We also demonstrate how the simultaneous prediction of kinematics and kinetics can be easily achieved using the same framework, without any degradation in decoding quality. Our results represent a useful extension of the current BMI technology, making dynamic control of a prosthetic device a distinct possibility in the near future.",
+  "authors": [
+    "Gupta Rahul",
+    "Ashe James"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2009",
+  "doi": "10.1109/TNSRE.2009.2023290",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Evoked Potentials, Motor",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Muscle Contraction",
+    "Muscle Strength",
+    "Muscle, Skeletal",
+    "Stress, Mechanical",
+    "User-Computer Interface"
+  ]
+}

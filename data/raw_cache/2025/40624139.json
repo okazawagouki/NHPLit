@@ -1,0 +1,29 @@
+{
+  "pmid": "40624139",
+  "title": "Brainbuilder: a software pipeline for 3D reconstruction of cortical maps from multi-modal 2D data sets.",
+  "abstract": "Mesoscale maps of brain architecture are important tools for characterizing the chemo- and cytoarchitectonic organization of the brain. These maps are essential for advancing our understanding of normal and pathologic brain function because they provide a bridge between neuron-level micro-scale imagining and macro-level population brain imaging. Here we introduce a method and software package called BrainBuilder for reconstructing 3-dimensional cortical maps from data sets of 2-dimensional post-mortem serial brain sections processed for the visualization of multiple different biological features. This pipeline can be applied to the brains from different species, without the strict need for a corresponding reference volume from the brain donor. As a proof of principle, we reconstruct data showing the distribution of multiple neurotransmitter receptor binding sites, and cell and myelin stained sections in the human and macaque brain. We show that BrainBuilder can serve as the basis for the development of future mesoscale 3D atlases.",
+  "authors": [
+    "Funck Thomas",
+    "Wagstyl Konrad",
+    "Lepage Claude",
+    "Omidyeganeh Mona",
+    "Toussaint Paule-Joanne",
+    "Xu Ting",
+    "Amunts Katrin",
+    "Thiel Alexander",
+    "Palomero-Gallagher Nicola",
+    "Evans Alan C"
+  ],
+  "journal": "Communications biology",
+  "year": "2025",
+  "doi": "10.1038/s42003-025-08267-6",
+  "mesh": [
+    "Humans",
+    "Software",
+    "Animals",
+    "Imaging, Three-Dimensional",
+    "Brain Mapping",
+    "Brain",
+    "Cerebral Cortex"
+  ]
+}

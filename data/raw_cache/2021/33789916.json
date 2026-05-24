@@ -1,0 +1,30 @@
+{
+  "pmid": "33789916",
+  "title": "Examining the Coding Strength of Object Identity and Nonidentity Features in Human Occipito-Temporal Cortex and Convolutional Neural Networks.",
+  "abstract": "A visual object is characterized by multiple visual features, including its identity, position and size. Despite the usefulness of identity and nonidentity features in vision and their joint coding throughout the primate ventral visual processing pathway, they have so far been studied relatively independently. Here in both female and male human participants, the coding of identity and nonidentity features was examined together across the human ventral visual pathway. The nonidentity features tested included two Euclidean features (position and size) and two non-Euclidean features (image statistics and spatial frequency (SF) content of an image). Overall, identity representation increased and nonidentity feature representation decreased along the ventral visual pathway, with identity outweighing the non-Euclidean but not the Euclidean features at higher levels of visual processing. In 14 convolutional neural networks (CNNs) pretrained for object categorization with varying architecture, depth, and with/without recurrent processing, nonidentity feature representation showed an initial large increase from early to mid-stage of processing, followed by a decrease at later stages of processing, different from brain responses. Additionally, from lower to higher levels of visual processing, position became more underrepresented and image statistics and SF became more overrepresented compared with identity in CNNs than in the human brain. Similar results were obtained in a CNN trained with stylized images that emphasized shape representations. Overall, by measuring the coding strength of object identity and nonidentity features together, our approach provides a new tool for characterizing feature coding in the human brain and the correspondence between the brain and CNNs.<b>SIGNIFICANCE STATEMENT</b> This study examined the coding strength of object identity and four types of nonidentity features along the human ventral visual processing pathway and compared brain responses with those of 14 convolutional neural networks (CNNs) pretrained to perform object categorization. Overall, identity representation increased and nonidentity feature representation decreased along the ventral visual pathway, with some notable differences among the different nonidentity features. CNNs differed from the brain in a number of aspects in their representations of identity and nonidentity features over the course of visual processing. Our approach provides a new tool for characterizing feature coding in the human brain and the correspondence between the brain and CNNs.",
+  "authors": [
+    "Xu Yaoda",
+    "Vaziri-Pashkam Maryam"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2021",
+  "doi": "10.1523/JNEUROSCI.1993-20.2021",
+  "mesh": [
+    "Adolescent",
+    "Adult",
+    "Female",
+    "Humans",
+    "Machine Learning",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Occipital Lobe",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Temporal Lobe",
+    "Visual Pathways",
+    "Visual Perception",
+    "Young Adult"
+  ]
+}

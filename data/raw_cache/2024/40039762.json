@@ -1,0 +1,21 @@
+{
+  "pmid": "40039762",
+  "title": "An Adaptive Superposition Point Process Model with Neuronal Encoding Engagement Identification.",
+  "abstract": "Neuronal encoding is realized by modulating firing rates in response to various encoding factors, including external stimuli, behaviors, and complex neural interactions. The neuronal encoding engagement of various factors are dynamic, which reflects how neurons aggregate different information. The process of uncovering the extent to which these factors contribute to neuronal encoding over time is neuronal encoding engagement identification. Brain-machine interface (BMI) establishes a closed-loop framework to investigate how neurons response to different encoding factors. Since neurons don't fully participate in encoding one specific factor, accurate encoding engagement identification contributes to leveraging encoding and decoding in more naturalistic BMI application scenarios. However, previous works focus on modeling and estimating tuning properties instead of analyzing the neuronal information aggregation. We develop a dual adaptive superposition point process filter (DASPPF), which explicitly incorporates various encoding factors. DASPPF not only enables decoding kinematics but also identifies the engagement of individual kinematics encoding and functional neural connectivity encoding. DASPPF is validated on numerical simulations of monkey circle-tracking tasks. The proposed method can effectively promote decoding performance and uncover how neurons engage themselves in different effects with point process observation, which may help enhance the development of neurotechnologies.",
+  "authors": [
+    "Li Mingdong",
+    "Wang Mingyi",
+    "Wang Yiwen"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2024",
+  "doi": "10.1109/EMBC53108.2024.10781885",
+  "mesh": [
+    "Neurons",
+    "Brain-Computer Interfaces",
+    "Animals",
+    "Models, Neurological",
+    "Humans",
+    "Algorithms"
+  ]
+}

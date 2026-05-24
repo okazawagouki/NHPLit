@@ -1,0 +1,26 @@
+{
+  "pmid": "37130514",
+  "title": "Motor decoding from the posterior parietal cortex using deep neural networks.",
+  "abstract": "<i>Objective.</i>Motor decoding is crucial to translate the neural activity for brain-computer interfaces (BCIs) and provides information on how motor states are encoded in the brain. Deep neural networks (DNNs) are emerging as promising neural decoders. Nevertheless, it is still unclear how different DNNs perform in different motor decoding problems and scenarios, and which network could be a good candidate for invasive BCIs.<i>Approach.</i>Fully-connected, convolutional, and recurrent neural networks (FCNNs, CNNs, RNNs) were designed and applied to decode motor states from neurons recorded from V6A area in the posterior parietal cortex (PPC) of macaques. Three motor tasks were considered, involving reaching and reach-to-grasping (the latter under two illumination conditions). DNNs decoded nine reaching endpoints in 3D space or five grip types using a sliding window approach within the trial course. To evaluate decoders simulating a broad variety of scenarios, the performance was also analyzed while artificially reducing the number of recorded neurons and trials, and while performing transfer learning from one task to another. Finally, the accuracy time course was used to analyze V6A motor encoding.<i>Main results.</i>DNNs outperformed a classic Naïve Bayes classifier, and CNNs additionally outperformed XGBoost and Support Vector Machine classifiers across the motor decoding problems. CNNs resulted the top-performing DNNs when using less neurons and trials, and task-to-task transfer learning improved performance especially in the low data regime. Lastly, V6A neurons encoded reaching and reach-to-grasping properties even from action planning, with the encoding of grip properties occurring later, closer to movement execution, and appearing weaker in darkness.<i>Significance.</i>Results suggest that CNNs are effective candidates to realize neural decoders for invasive BCIs in humans from PPC recordings also reducing BCI calibration times (transfer learning), and that a CNN-based data-driven analysis may provide insights about the encoding properties and the functional roles of brain regions.",
+  "authors": [
+    "Borra Davide",
+    "Filippini Matteo",
+    "Ursino Mauro",
+    "Fattori Patrizia",
+    "Magosso Elisa"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2023",
+  "doi": "10.1088/1741-2552/acd1b6",
+  "mesh": [
+    "Humans",
+    "Animals",
+    "Bayes Theorem",
+    "Neural Networks, Computer",
+    "Parietal Lobe",
+    "Neurons",
+    "Macaca fascicularis",
+    "Movement",
+    "Brain-Computer Interfaces"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "25307561",
+  "title": "Performance sustaining intracortical neural prostheses.",
+  "abstract": "OBJECTIVE: Neural prostheses, or brain-machine interfaces, aim to restore efficient communication and movement ability to those suffering from paralysis. A major challenge these systems face is robust performance, particularly with aging signal sources. The aim in this study was to develop a neural prosthesis that could sustain high performance in spite of signal instability while still minimizing retraining time. APPROACH: We trained two rhesus macaques implanted with intracortical microelectrode arrays 1-4 years prior to this study to acquire targets with a neurally-controlled cursor. We measured their performance via achieved bitrate (bits per second, bps). This task was repeated over contiguous days to evaluate the sustained performance across time. MAIN RESULTS: We found that in the monkey with a younger (i.e., two year old) implant and better signal quality, a fixed decoder could sustain performance for a month at a rate of 4 bps, the highest achieved communication rate reported to date. This fixed decoder was evaluated across 22 months and experienced a performance decline at a rate of 0.24 bps yr(-1). In the monkey with the older (i.e., 3.5 year old) implant and poorer signal quality, a fixed decoder could not sustain performance for more than a few days. Nevertheless, performance in this monkey was maintained for two weeks without requiring additional online retraining time by utilizing prior days' experimental data. Upon analysis of the changes in channel tuning, we found that this stability appeared partially attributable to the cancelling-out of neural tuning fluctuations when projected to two-dimensional cursor movements. SIGNIFICANCE: The findings in this study (1) document the highest-performing communication neural prosthesis in monkeys, (2) confirm and extend prior reports of the stability of fixed decoders, and (3) demonstrate a protocol for system stability under conditions where fixed decoders would otherwise fail. These improvements to decoder stability are important for minimizing training time and should make neural prostheses more practical to use.",
+  "authors": [
+    "Nuyujukian Paul",
+    "Kao Jonathan C",
+    "Fan Joline M",
+    "Stavisky Sergey D",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2014",
+  "doi": "10.1088/1741-2560/11/6/066003",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Neural Prostheses",
+    "Photic Stimulation",
+    "Psychomotor Performance"
+  ]
+}

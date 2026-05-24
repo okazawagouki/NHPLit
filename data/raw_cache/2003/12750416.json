@@ -1,0 +1,27 @@
+{
+  "pmid": "12750416",
+  "title": "MSTd neuronal basis functions for the population encoding of heading direction.",
+  "abstract": "Basis functions have been extensively used in models of neural computation because they can be combined linearly to approximate any nonlinear functions of the encoded variables. We investigated whether dorsal medial superior temporal (MSTd) area neurons use basis functions to simultaneously encode heading direction, eye position, and the velocity of ocular pursuit. Using optimal linear estimators, we first show that the head-centered and eye-centered position of a focus of expansion (FOE) in optic flow, pursuit direction, and eye position can all be estimated from the single-trial responses of 144 MSTd neurons with an average accuracy of 2-3 degrees, a value consistent with the discrimination thresholds measured in humans and monkeys. We then examined the format of the neural code for the head-centered position of the FOE, eye position, and pursuit direction. The basis function hypothesis predicts that a large majority of cells in MSTd should encode two or more signals simultaneously and combine these signals nonlinearly. Our analysis shows that 95% of the neurons encode two or more signals, whereas 76% code all three signals. Of the 95% of cells encoding two or more signals, 90% show nonlinear interactions between the encoded variables. These findings support the notion that MSTd may use basis functions to represent the FOE in optic flow, eye position, and pursuit.",
+  "authors": [
+    "Ben Hamed S",
+    "Page W",
+    "Duffy C",
+    "Pouget A"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electrophysiology",
+    "Eye Movements",
+    "Head",
+    "Macaca mulatta",
+    "Motor Activity",
+    "Neurons",
+    "Orientation",
+    "Pursuit, Smooth",
+    "Temporal Lobe"
+  ]
+}

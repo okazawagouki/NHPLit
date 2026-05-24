@@ -1,0 +1,27 @@
+{
+  "pmid": "11796939",
+  "title": "Relationship between time- and frequency-domain analyses of angular head movements in the squirrel monkey.",
+  "abstract": "We used the three-dimensional magnetic search-coil recording technique to study the range of active angular head movements made by squirrel monkeys. There were two goals in this study: (1) to determine the range of angular velocities and accelerations as well as the bandwidth and other frequency characteristics of active head movements and (2) to compare analyses of transients of velocity and acceleration that are studied by residual analysis, Fourier transform, and wavelet transform of the head velocity signal. The residual analysis showed that the shape and duration of the transients affected the bandwidth. During the time after the head had begun to accelerate, the frequency content of the head movement extended into the range of 6 to 12 Hz. When considering all three planes of rotation, approximately 75% of the transients had peak acceleration between 2,000 and 10,000 deg/s(2) and a peak velocity of 50 to 400 deg/s. A peak acceleration of >10,000 deg/s(2) was recorded in 10% of the transients. These findings indicate that active head movements in squirrel monkeys cover a higher range of frequencies, accelerations, and velocities than have typically been used in previous eye-movement and neuronal studies of the reflexes that control gaze. We further conclude that the choice of a method for analyzing transient, time-varying biological signals is dependent on the desired information. Residual analysis provides detailed resolution in the time domain, but estimation of the frequency content of the signal is dependent on the portions selected for analysis and the choice of filters. Fourier transform provides a representation of the power spectrum in the frequency domain but without any inherent temporal resolution. We show that the wavelet transform, a novel method as applied to the signal analysis goals of this study, is the most useful technique for relating time- and frequency-domain information during a continuous signal.",
+  "authors": [
+    "Armand M",
+    "Minor L B"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Acceleration",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Brain",
+    "Eye Movements",
+    "Fourier Analysis",
+    "Head Movements",
+    "Models, Neurological",
+    "Reflex, Vestibulo-Ocular",
+    "Rotation",
+    "Saimiri",
+    "Signal Processing, Computer-Assisted",
+    "Time Factors"
+  ]
+}

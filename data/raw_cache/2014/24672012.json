@@ -1,0 +1,30 @@
+{
+  "pmid": "24672012",
+  "title": "Differential coding of conspecific vocalizations in the ventral auditory cortical stream.",
+  "abstract": "The mammalian auditory cortex integrates spectral and temporal acoustic features to support the perception of complex sounds, including conspecific vocalizations. Here we investigate coding of vocal stimuli in different subfields in macaque auditory cortex. We simultaneously measured auditory evoked potentials over a large swath of primary and higher order auditory cortex along the supratemporal plane in three animals chronically using high-density microelectrocorticographic arrays. To evaluate the capacity of neural activity to discriminate individual stimuli in these high-dimensional datasets, we applied a regularized multivariate classifier to evoked potentials to conspecific vocalizations. We found a gradual decrease in the level of overall classification performance along the caudal to rostral axis. Furthermore, the performance in the caudal sectors was similar across individual stimuli, whereas the performance in the rostral sectors significantly differed for different stimuli. Moreover, the information about vocalizations in the caudal sectors was similar to the information about synthetic stimuli that contained only the spectral or temporal features of the original vocalizations. In the rostral sectors, however, the classification for vocalizations was significantly better than that for the synthetic stimuli, suggesting that conjoined spectral and temporal features were necessary to explain differential coding of vocalizations in the rostral areas. We also found that this coding in the rostral sector was carried primarily in the theta frequency band of the response. These findings illustrate a progression in neural coding of conspecific vocalizations along the ventral auditory pathway.",
+  "authors": [
+    "Fukushima Makoto",
+    "Saunders Richard C",
+    "Leopold David A",
+    "Mishkin Mortimer",
+    "Averbeck Bruno B"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2014",
+  "doi": "10.1523/JNEUROSCI.3969-13.2014",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Analysis of Variance",
+    "Animals",
+    "Auditory Cortex",
+    "Auditory Pathways",
+    "Brain Mapping",
+    "Discrimination, Psychological",
+    "Electrodes, Implanted",
+    "Evoked Potentials, Auditory",
+    "Macaca mulatta",
+    "Male",
+    "Psychoacoustics",
+    "Vocalization, Animal"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "36520685",
+  "title": "Integrated neural dynamics of sensorimotor decisions and actions.",
+  "abstract": "Recent theoretical models suggest that deciding about actions and executing them are not implemented by completely distinct neural mechanisms but are instead two modes of an integrated dynamical system. Here, we investigate this proposal by examining how neural activity unfolds during a dynamic decision-making task within the high-dimensional space defined by the activity of cells in monkey dorsal premotor (PMd), primary motor (M1), and dorsolateral prefrontal cortex (dlPFC) as well as the external and internal segments of the globus pallidus (GPe, GPi). Dimensionality reduction shows that the four strongest components of neural activity are functionally interpretable, reflecting a state transition between deliberation and commitment, the transformation of sensory evidence into a choice, and the baseline and slope of the rising urgency to decide. Analysis of the contribution of each population to these components shows meaningful differences between regions but no distinct clusters within each region, consistent with an integrated dynamical system. During deliberation, cortical activity unfolds on a two-dimensional \"decision manifold\" defined by sensory evidence and urgency and falls off this manifold at the moment of commitment into a choice-dependent trajectory leading to movement initiation. The structure of the manifold varies between regions: In PMd, it is curved; in M1, it is nearly perfectly flat; and in dlPFC, it is almost entirely confined to the sensory evidence dimension. In contrast, pallidal activity during deliberation is primarily defined by urgency. We suggest that these findings reveal the distinct functional contributions of different brain regions to an integrated dynamical system governing action selection and execution.",
+  "authors": [
+    "Thura David",
+    "Cabana Jean-François",
+    "Feghaly Albert",
+    "Cisek Paul"
+  ],
+  "journal": "PLoS biology",
+  "year": "2022",
+  "doi": "10.1371/journal.pbio.3001861",
+  "mesh": [
+    "Motor Cortex",
+    "Movement",
+    "Globus Pallidus",
+    "Cognition"
+  ]
+}

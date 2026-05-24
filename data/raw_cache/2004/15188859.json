@@ -1,0 +1,29 @@
+{
+  "pmid": "15188859",
+  "title": "Transmission latencies in a telemetry-linked brain-machine interface.",
+  "abstract": "To be clinically viable, a brain-machine interface (BMI) requires transcutaneous telemetry. Spike-based compression algorithms can be used to reduce the amount of telemetered data, but this type of system is subject to queuing-based transmission delays. This paper examines the relationships between the ratio of output to average input bandwidth of an implanted device and transmission latency and required queue depth. The examination was performed with a computer model designed to simulate the telemetry link. The input to the model was presorted spike data taken from a macaque monkey performing a motor task. The model shows that when the output bandwidth/average input bandwidth is in unity, significant transmission latencies occur. For a 32-neuron system, transmitting 50 bytes of data per spike and with an average neuron firing rate of 8.93 spikes/s, the average maximum delay was approximately 3.2 s. It is not until the output bandwidth is four times the average input bandwidth that average maximum delays are reduced to less than 10 ms. A comparison of neuron firing rate and resulting latencies shows that high latencies result from neuron bursting. These results will impact the design of transcutaneous telemetry in a BMI.",
+  "authors": [
+    "Bossetti Chad A",
+    "Carmena Jose M",
+    "Nicolelis Miguel A L",
+    "Wolf Patrick D"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cerebral Cortex",
+    "Data Compression",
+    "Electroencephalography",
+    "Macaca mulatta",
+    "Nerve Net",
+    "Neurons",
+    "Radio Waves",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Telemetry",
+    "User-Computer Interface"
+  ]
+}

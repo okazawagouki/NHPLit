@@ -1,0 +1,29 @@
+{
+  "pmid": "37284744",
+  "title": "The impact of task context on predicting finger movements in a brain-machine interface.",
+  "abstract": "A key factor in the clinical translation of brain-machine interfaces (BMIs) for restoring hand motor function will be their robustness to changes in a task. With functional electrical stimulation (FES) for example, the patient's own hand will be used to produce a wide range of forces in otherwise similar movements. To investigate the impact of task changes on BMI performance, we trained two rhesus macaques to control a virtual hand with their physical hand while we added springs to each finger group (index or middle-ring-small) or altered their wrist posture. Using simultaneously recorded intracortical neural activity, finger positions, and electromyography, we found that decoders trained in one context did not generalize well to other contexts, leading to significant increases in prediction error, especially for muscle activations. However, with respect to online BMI control of the virtual hand, changing either the decoder training task context or the hand's physical context during online control had little effect on online performance. We explain this dichotomy by showing that the structure of neural population activity remained similar in new contexts, which could allow for fast adjustment online. Additionally, we found that neural activity shifted trajectories proportional to the required muscle activation in new contexts. This shift in neural activity possibly explains biases to off-context kinematic predictions and suggests a feature that could help predict different magnitude muscle activations while producing similar kinematics.",
+  "authors": [
+    "Mender Matthew J",
+    "Nason-Tomaszewski Samuel R",
+    "Temmar Hisham",
+    "Costello Joseph T",
+    "Wallace Dylan M",
+    "Willsey Matthew S",
+    "Ganesh Kumar Nishant",
+    "Kung Theodore A",
+    "Patil Parag",
+    "Chestek Cynthia A"
+  ],
+  "journal": "eLife",
+  "year": "2023",
+  "doi": "10.7554/eLife.82598",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Fingers",
+    "Movement",
+    "Hand",
+    "Electromyography"
+  ]
+}

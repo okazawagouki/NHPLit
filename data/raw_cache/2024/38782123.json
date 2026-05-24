@@ -1,0 +1,23 @@
+{
+  "pmid": "38782123",
+  "title": "Comparison of electrical microstimulation artifact removal methods for high-channel-count prostheses.",
+  "abstract": "BACKGROUND: Neuroprostheses are used to electrically stimulate the brain, modulate neural activity and restore sensory and motor function following injury or disease, such as blindness, paralysis, and other movement and psychiatric disorders. Recordings are often made simultaneously with stimulation, allowing the monitoring of neural signals and closed-loop control of devices. However, stimulation-evoked artifacts may obscure neural activity, particularly when stimulation and recording sites are nearby. Several methods have been developed to remove stimulation artifacts, but it remains challenging to validate and compare these methods because the 'ground-truth' of the neuronal signals may be contaminated by artifacts. NEW METHOD: Here, we delivered stimulation to the visual cortex via a high-channel-count prosthesis while recording neuronal activity and stimulation artifacts. We quantified the waveforms and temporal properties of stimulation artifacts from the cortical visual prosthesis (CVP) and used them to build a dataset, in which we simulated the neuronal activity and the stimulation artifacts. We illustrate how to use the simulated data to evaluate the performance of six software-based artifact removal methods (Template subtraction, Linear interpolation, Polynomial fitting, Exponential fitting, SALPA and ERAASR) in a CVP application scenario. RESULTS: We here focused on stimulation artifacts caused by electrical stimulation through a high-channel-count cortical prosthesis device. We find that the Polynomial fitting and Exponential fitting methods outperform the other methods in recovering spikes and multi-unit activity. Linear interpolation and Template subtraction recovered the local-field potentials. CONCLUSION: Polynomial fitting and Exponential fitting provided a good trade-off between the quality of the recovery of spikes and multi-unit activity (MUA) and the computational complexity for a cortical prosthesis.",
+  "authors": [
+    "Wang Feng",
+    "Chen Xing",
+    "Roelfsema Pieter R"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2024",
+  "doi": "10.1016/j.jneumeth.2024.110169",
+  "mesh": [
+    "Neural Prostheses",
+    "Deep Brain Stimulation",
+    "Action Potentials",
+    "Artifacts",
+    "Visual Cortex",
+    "Animals",
+    "Datasets as Topic",
+    "Macaca mulatta"
+  ]
+}

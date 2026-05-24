@@ -1,0 +1,30 @@
+{
+  "pmid": "20962225",
+  "title": "Timescales of sensory- and decision-related activity in the middle temporal and medial superior temporal areas.",
+  "abstract": "The contribution of sensory neurons to perceptual decisions about external stimulus events has received much attention, but it is less clear how sensory responses are integrated over time to produce decisions that are both rapid and reliable. To address this issue, we recorded from middle temporal area and medial superior temporal area neurons in rhesus macaques performing a task requiring the detection and discrimination of unpredictable speed changes. We examined how neuronal activity encoded the sign of the speed change and predicted the animals' behavioral judgments and reaction times, with a focus on the timescales over which neuronal activity is informative. False detection trials, on which animals reported a speed change even though none had occurred, were grouped according to the animals' discrimination judgment. By comparing the neuronal responses between the two groups of false detection trials, we were able to predict the animals' choices from the sensory activity of single neurons at levels significantly better than chance. These choice probability measurements were strongest using spike counts in an 80 ms window ending 150 ms before a choice saccade began, but significant choice probabilities were observed in windows as short as 10 ms. While the maximum deviation in spiking rate following a speed change is evident in the transient response, averaging neuronal activity in longer time windows can be more informative about both the stimulus and the animals' behavioral judgments. Thus the timescales found in this study represent a trade-off between producing rapid reactions and overcoming the noise inherent in short time windows.",
+  "authors": [
+    "Price Nicholas S C",
+    "Born Richard T"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2010",
+  "doi": "10.1523/JNEUROSCI.2336-10.2010",
+  "mesh": [
+    "Animals",
+    "Data Interpretation, Statistical",
+    "Decision Making",
+    "Discrimination Learning",
+    "Discrimination, Psychological",
+    "Electrodes, Implanted",
+    "Macaca mulatta",
+    "Male",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Reaction Time",
+    "Reward",
+    "Saccades",
+    "Sensation",
+    "Sensory Receptor Cells",
+    "Temporal Lobe"
+  ]
+}

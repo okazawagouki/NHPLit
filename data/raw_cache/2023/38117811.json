@@ -1,0 +1,20 @@
+{
+  "pmid": "38117811",
+  "title": "Using mixture density networks to emulate a stochastic within-host model of Francisella tularensis infection.",
+  "abstract": "For stochastic models with large numbers of states, analytical techniques are often impractical, and simulations time-consuming and computationally demanding. This limitation can hinder the practical implementation of such models. In this study, we demonstrate how neural networks can be used to develop emulators for two outputs of a stochastic within-host model of Francisella tularensis infection: the dose-dependent probability of illness and the incubation period. Once the emulators are constructed, we employ Markov Chain Monte Carlo sampling methods to parameterize the within-host model using records of human infection. This inference is only possible through the use of a mixture density network to emulate the incubation period, providing accurate approximations of the corresponding probability distribution. Notably, these estimates improve upon previous approaches that relied on bacterial counts from the lungs of macaques. Our findings reveal a 50% infectious dose of approximately 10 colony-forming units and we estimate that the incubation period can last for up to 11 days following low dose exposure.",
+  "authors": [
+    "Carruthers Jonathan",
+    "Finnie Thomas"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2023",
+  "doi": "10.1371/journal.pcbi.1011266",
+  "mesh": [
+    "Humans",
+    "Tularemia",
+    "Francisella tularensis",
+    "Lung",
+    "Probability",
+    "Bacterial Load"
+  ]
+}

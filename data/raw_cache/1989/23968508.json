@@ -1,0 +1,13 @@
+{
+  "pmid": "23968508",
+  "title": "A simple model of prefrontal cortex function in delayed-response tasks.",
+  "abstract": "Both psychologists and neurobiologists have used delayed response (DR), AB, and delayed matching-to-sample (DMS) tasks as tools to study the functions of prefrontal cortex in primates and humans. We describe a simulation model that relates behavioral and electrophysiological-data relevant to these tasks into a minimal neural network. The inputs to the network are two visual objects and a positive or negative reinforcement signal. As the output, the network orients toward one of the two objects. We subdivide the architecture of the network into two levels, both of which embody constraints from neuroanatomy in a simplified form. Level 1 consists of a sensory-motor loop with modifiable synaptic weights and provides a capacity for grasping. Level 2 contains memory and rule-coding units and modulates the lower level 1. When level 1 only is simulated, the network fails to learn the tasks. The errors made by the network resemble those of young monkeys, infants, or adults with prefrontal lesions. In particular, the systematic AB error can be reproduced. With level 2 on top of level 1, the network acquires systematic rules of behavior by mere reinforcement and rapidly adapts to changes in the reinforcement schedule. Learning takes place by selection among a repertoire of possible rules. The properties of the model are discussed in terms of actual behavioral and physiological data, and several critical experimental predictions are presented. In particular, we address the issues of prefrontal functions, \"systematicity\" in neural networks, and \"mental Darwinism.\"",
+  "authors": [
+    "Dehaene S",
+    "Changeux J P"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "1989",
+  "doi": "10.1162/jocn.1989.1.3.244",
+  "mesh": []
+}

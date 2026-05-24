@@ -1,0 +1,26 @@
+{
+  "pmid": "39658256",
+  "title": "Delayed Accumulation of Inhibitory Input Explains Gamma Frequency Variation with Changing Contrast in an Inhibition Stabilized Network.",
+  "abstract": "Gamma rhythm (30-70 Hz), thought to represent the interactions between excitatory and inhibitory populations, can be induced by presenting achromatic gratings in the primary visual cortex (V1) and is sensitive to stimulus properties such as size and contrast. In addition, gamma occurs in short bursts and shows a \"frequency falloff\" effect where its peak frequency is high after stimulus onset and slowly decreases to a steady state. Recently, these size-contrast properties and temporal characteristics were replicated in a self-oscillating Wilson-Cowan (WC) model operating as an inhibition stabilized network (ISN), stimulated by Ornstein-Uhlenbeck (OU) type inputs. In particular, frequency falloff was explained by delayed and slowly accumulated inputs arriving at local inhibitory populations. We hypothesized that if the stimulus is preceded by another higher contrast stimulus, frequency falloff could be abolished or reversed, since the excessive inhibition will now take more time to dissipate. We presented gratings at different contrasts consecutively to two female monkeys while recording gamma using microelectrode arrays in V1 and confirmed this prediction. Further, this model also replicated a characteristic pattern of gamma frequency modulation to counter-phasing stimuli as reported previously. These phenomena were also replicated by an ISN model subject to slow adaptation in feedforward excitatory input. Thus, ISN model with delayed surround input or adapted feedforward input replicates gamma frequency responses to time-varying contrasts.",
+  "authors": [
+    "Krishnakumaran R",
+    "Pavuluri Abhimanyu",
+    "Ray Supratim"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2025",
+  "doi": "10.1523/JNEUROSCI.1279-24.2024",
+  "mesh": [
+    "Animals",
+    "Female",
+    "Gamma Rhythm",
+    "Contrast Sensitivity",
+    "Neural Inhibition",
+    "Photic Stimulation",
+    "Models, Neurological",
+    "Nerve Net",
+    "Macaca mulatta",
+    "Primary Visual Cortex",
+    "Visual Cortex"
+  ]
+}

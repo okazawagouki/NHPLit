@@ -1,0 +1,23 @@
+{
+  "pmid": "25414644",
+  "title": "A bi-hemispheric neuronal network model of the cerebellum with spontaneous climbing fiber firing produces asymmetrical motor learning during robot control.",
+  "abstract": "To acquire and maintain precise movement controls over a lifespan, changes in the physical and physiological characteristics of muscles must be compensated for adaptively. The cerebellum plays a crucial role in such adaptation. Changes in muscle characteristics are not always symmetrical. For example, it is unlikely that muscles that bend and straighten a joint will change to the same degree. Thus, different (i.e., asymmetrical) adaptation is required for bending and straightening motions. To date, little is known about the role of the cerebellum in asymmetrical adaptation. Here, we investigate the cerebellar mechanisms required for asymmetrical adaptation using a bi-hemispheric cerebellar neuronal network model (biCNN). The bi-hemispheric structure is inspired by the observation that lesioning one hemisphere reduces motor performance asymmetrically. The biCNN model was constructed to run in real-time and used to control an unstable two-wheeled balancing robot. The load of the robot and its environment were modified to create asymmetrical perturbations. Plasticity at parallel fiber-Purkinje cell synapses in the biCNN model was driven by error signal in the climbing fiber (cf) input. This cf input was configured to increase and decrease its firing rate from its spontaneous firing rate (approximately 1 Hz) with sensory errors in the preferred and non-preferred direction of each hemisphere, as demonstrated in the monkey cerebellum. Our results showed that asymmetrical conditions were successfully handled by the biCNN model, in contrast to a single hemisphere model or a classical non-adaptive proportional and derivative controller. Further, the spontaneous activity of the cf, while relatively small, was critical for balancing the contribution of each cerebellar hemisphere to the overall motor command sent to the robot. Eliminating the spontaneous activity compromised the asymmetrical learning capabilities of the biCNN model. Thus, we conclude that a bi-hemispheric structure and adequate spontaneous activity of cf inputs are critical for cerebellar asymmetrical motor learning.",
+  "authors": [
+    "Pinzon-Morales Ruben-Dario",
+    "Hirata Yutaka"
+  ],
+  "journal": "Frontiers in neural circuits",
+  "year": "2014",
+  "doi": "10.3389/fncir.2014.00131",
+  "mesh": [
+    "Action Potentials",
+    "Adaptation, Psychological",
+    "Cerebellum",
+    "Learning",
+    "Neural Networks, Computer",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Psychomotor Performance",
+    "Robotics"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "37265658",
+  "title": "Primate brain pattern-based automated Alzheimer's disease detection model using EEG signals.",
+  "abstract": "Electroencephalography (EEG) may detect early changes in Alzheimer's disease (AD), a debilitating progressive neurodegenerative disease. We have developed an automated AD detection model using a novel directed graph for local texture feature extraction with EEG signals. The proposed graph was created from a topological map of the macroscopic connectome, i.e., neuronal pathways linking anatomo-functional brain segments involved in visual object recognition and motor response in the primate brain. This primate brain pattern (PBP)-based model was tested on a public AD EEG signal dataset. The dataset comprised 16-channel EEG signal recordings of 12 AD patients and 11 healthy controls. While PBP could generate 448 low-level features per one-dimensional EEG signal, combining it with tunable q-factor wavelet transform created a multilevel feature extractor (which mimicked deep models) to generate 8,512 (= 448 × 19) features per signal input. Iterative neighborhood component analysis was used to choose the most discriminative features (the number of optimal features varied among the individual EEG channels) to feed to a weighted k-nearest neighbor (KNN) classifier for binary classification into AD vs. healthy using both leave-one subject-out (LOSO) and tenfold cross-validations. Iterative majority voting was used to compute subject-level general performance results from the individual channel classification outputs. Channel-wise, as well as subject-level general results demonstrated exemplary performance. In addition, the model attained 100% and 92.01% accuracy for AD vs. healthy classification using the KNN classifier with tenfold and LOSO cross-validations, respectively. Our developed multilevel PBP-based model extracted discriminative features from EEG signals and paved the way for further development of models inspired by the brain connectome.",
+  "authors": [
+    "Dogan Sengul",
+    "Baygin Mehmet",
+    "Tasci Burak",
+    "Loh Hui Wen",
+    "Barua Prabal D",
+    "Tuncer Turker",
+    "Tan Ru-San",
+    "Acharya U Rajendra"
+  ],
+  "journal": "Cognitive neurodynamics",
+  "year": "2023",
+  "doi": "10.1007/s11571-022-09859-2",
+  "mesh": []
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "30312959",
+  "title": "A video-driven model of response statistics in the primate middle temporal area.",
+  "abstract": "Neurons in the primate middle temporal area (MT) encode information about visual motion and binocular disparity. MT has been studied intensively for decades, so there is a great deal of information in the literature about MT neuron tuning. In this study, our goal is to consolidate some of this information into a statistical model of the MT population response. The model accepts arbitrary stereo video as input. It uses computer-vision methods to calculate known correlates of the responses (such as motion velocity), and then predicts activity using a combination of tuning functions that have previously been used to describe data in various experiments. To construct the population response, we also estimate the distributions of many model parameters from data in the electrophysiology literature. We show that the model accounts well for a separate dataset of MT speed tuning that was not used in developing the model. The model may be useful for studying relationships between MT activity and behavior in ethologically relevant tasks. As an example, we show that the model can provide regression targets for internal activity in a deep convolutional network that performs a visual odometry task, so that its representations become more physiologically realistic.",
+  "authors": [
+    "Rezai Omid",
+    "Boyraz Jentsch Pinar",
+    "Tripp Bryan"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2018",
+  "doi": "10.1016/j.neunet.2018.09.004",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Models, Biological",
+    "Motion Perception",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Primates",
+    "Video Recording",
+    "Vision Disparity",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

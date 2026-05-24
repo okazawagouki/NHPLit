@@ -1,0 +1,41 @@
+{
+  "pmid": "37620363",
+  "title": "Cross-species comparative analysis of single presynapses.",
+  "abstract": "Comparing brain structure across species and regions enables key functional insights. Leveraging publicly available data from a novel mass cytometry-based method, synaptometry by time of flight (SynTOF), we applied an unsupervised machine learning approach to conduct a comparative study of presynapse molecular abundance across three species and three brain regions. We used neural networks and their attractive properties to model complex relationships among high dimensional data to develop a unified, unsupervised framework for comparing the profile of more than 4.5 million single presynapses among normal human, macaque, and mouse samples. An extensive validation showed the feasibility of performing cross-species comparison using SynTOF profiling. Integrative analysis of the abundance of 20 presynaptic proteins revealed near-complete separation between primates and mice involving synaptic pruning, cellular energy, lipid metabolism, and neurotransmission. In addition, our analysis revealed a strong overlap between the presynaptic composition of human and macaque in the cerebral cortex and neostriatum. Our unique approach illuminates species- and region-specific variation in presynapse molecular composition.",
+  "authors": [
+    "Berson Eloïse",
+    "Gajera Chandresh R",
+    "Phongpreecha Thanaphong",
+    "Perna Amalia",
+    "Bukhari Syed A",
+    "Becker Martin",
+    "Chang Alan L",
+    "De Francesco Davide",
+    "Espinosa Camilo",
+    "Ravindra Neal G",
+    "Postupna Nadia",
+    "Latimer Caitlin S",
+    "Shively Carol A",
+    "Register Thomas C",
+    "Craft Suzanne",
+    "Montine Kathleen S",
+    "Fox Edward J",
+    "Keene C Dirk",
+    "Bendall Sean C",
+    "Aghaeepour Nima",
+    "Montine Thomas J"
+  ],
+  "journal": "Scientific reports",
+  "year": "2023",
+  "doi": "10.1038/s41598-023-40683-8",
+  "mesh": [
+    "Humans",
+    "Animals",
+    "Mice",
+    "Synaptic Transmission",
+    "Brain",
+    "Cerebral Cortex",
+    "Lipid Metabolism",
+    "Macaca"
+  ]
+}

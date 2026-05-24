@@ -1,0 +1,22 @@
+{
+  "pmid": "30699004",
+  "title": "Modeling diverse responses to filled and outline shapes in macaque V4.",
+  "abstract": "Visual area V4 is an important midlevel cortical processing stage that subserves object recognition in primates. Studies investigating shape coding in V4 have largely probed neuronal responses with filled shapes, i.e., shapes defined by both a boundary and an interior fill. As a result, we do not know whether form-selective V4 responses are dictated by boundary features alone or if interior fill is also important. We studied 43 V4 neurons in two male macaque monkeys ( Macaca mulatta) with a set of 362 filled shapes and their corresponding outlines to determine how interior fill modulates neuronal responses in shape-selective neurons. Only a minority of neurons exhibited similar response strength and shape preferences for filled and outline stimuli. A majority responded preferentially to one stimulus category (either filled or outline shapes) and poorly to the other. Our findings are inconsistent with predictions of the hierarchical-max (HMax) V4 model that builds form selectivity from oriented boundary features and takes little account of attributes related to object surface, such as the phase of the boundary edge. We modified the V4 HMax model to include sensitivity to interior fill by either removing phase-pooling or introducing unoriented units at the V1 level; both modifications better explained our data without increasing the number of free parameters. Overall, our results suggest that boundary orientation and interior surface information are both maintained until at least the midlevel visual representation, consistent with the idea that object fill is important for recognition and perception in natural vision. NEW & NOTEWORTHY The shape of an object's boundary is critical for identification; consistent with this idea, models of object recognition predict that filled and outline versions of a shape are encoded similarly. We report that many neurons in a midlevel visual cortical area respond differently to filled and outline shapes and modify a biologically plausible model to account for our data. Our results suggest that representations of boundary shape and surface fill are interrelated in visual cortex.",
+  "authors": [
+    "Popovkina Dina V",
+    "Bair Wyeth",
+    "Pasupathy Anitha"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2019",
+  "doi": "10.1152/jn.00456.2018",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

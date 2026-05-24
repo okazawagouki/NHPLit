@@ -1,0 +1,27 @@
+{
+  "pmid": "23986242",
+  "title": "Joint representation of depth from motion parallax and binocular disparity cues in macaque area MT.",
+  "abstract": "Perception of depth is based on a variety of cues, with binocular disparity and motion parallax generally providing more precise depth information than pictorial cues. Much is known about how neurons in visual cortex represent depth from binocular disparity or motion parallax, but little is known about the joint neural representation of these depth cues. We recently described neurons in the middle temporal (MT) area that signal depth sign (near vs far) from motion parallax; here, we examine whether and how these neurons also signal depth from binocular disparity. We find that most MT neurons in rhesus monkeys (Macaca Mulatta) are selective for depth sign based on both disparity and motion parallax cues. However, the depth-sign preferences (near or far) are not always aligned: 56% of MT neurons have matched depth-sign preferences (\"congruent\" cells) whereas the remaining 44% of neurons prefer near depth from motion parallax and far depth from disparity, or vice versa (\"opposite\" cells). For congruent cells, depth-sign selectivity increases when disparity cues are added to motion parallax, but this enhancement does not occur for opposite cells. This suggests that congruent cells might contribute to perceptual integration of depth cues. We also found that neurons are clustered in MT according to their depth tuning based on motion parallax, similar to the known clustering of MT neurons for binocular disparity. Together, these findings suggest that area MT is involved in constructing a representation of 3D scene structure that takes advantage of multiple depth cues available to mobile observers.",
+  "authors": [
+    "Nadler Jacob W",
+    "Barbash Daniel",
+    "Kim HyungGoo R",
+    "Shimpi Swati",
+    "Angelaki Dora E",
+    "DeAngelis Gregory C"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2013",
+  "doi": "10.1523/JNEUROSCI.0251-13.2013",
+  "mesh": [
+    "Animals",
+    "Cues",
+    "Macaca mulatta",
+    "Male",
+    "Motion Perception",
+    "Neurons",
+    "Temporal Lobe",
+    "Vision Disparity",
+    "Visual Cortex"
+  ]
+}

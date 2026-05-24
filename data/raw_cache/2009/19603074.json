@@ -1,0 +1,25 @@
+{
+  "pmid": "19603074",
+  "title": "Unscented Kalman filter for brain-machine interfaces.",
+  "abstract": "Brain machine interfaces (BMIs) are devices that convert neural signals into commands to directly control artificial actuators, such as limb prostheses. Previous real-time methods applied to decoding behavioral commands from the activity of populations of neurons have generally relied upon linear models of neural tuning and were limited in the way they used the abundant statistical information contained in the movement profiles of motor tasks. Here, we propose an n-th order unscented Kalman filter which implements two key features: (1) use of a non-linear (quadratic) model of neural tuning which describes neural activity significantly better than commonly-used linear tuning models, and (2) augmentation of the movement state variables with a history of n-1 recent states, which improves prediction of the desired command even before incorporating neural activity information and allows the tuning model to capture relationships between neural activity and movement at multiple time offsets simultaneously. This new filter was tested in BMI experiments in which rhesus monkeys used their cortical activity, recorded through chronically implanted multielectrode arrays, to directly control computer cursors. The 10th order unscented Kalman filter outperformed the standard Kalman filter and the Wiener filter in both off-line reconstruction of movement trajectories and real-time, closed-loop BMI operation.",
+  "authors": [
+    "Li Zheng",
+    "O'Doherty Joseph E",
+    "Hanson Timothy L",
+    "Lebedev Mikhail A",
+    "Henriquez Craig S",
+    "Nicolelis Miguel A L"
+  ],
+  "journal": "PloS one",
+  "year": "2009",
+  "doi": "10.1371/journal.pone.0006243",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artificial Limbs",
+    "Behavior, Animal",
+    "Brain",
+    "Macaca mulatta",
+    "Models, Biological"
+  ]
+}

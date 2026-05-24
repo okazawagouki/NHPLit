@@ -1,0 +1,25 @@
+{
+  "pmid": "26736203",
+  "title": "Auto-deleting brain machine interface: Error detection using spiking neural activity in the motor cortex.",
+  "abstract": "Brain machine interfaces (BMIs) aim to assist people with paralysis by increasing their independence and ability to communicate, e.g., by using a cursor-based virtual keyboard. Current BMI clinical trials are hampered by modest performance that causes selection of wrong characters (errors) and thus reduces achieved typing rate. If it were possible to detect these errors without explicit knowledge of the task goal, this could be used to automatically \"undo\" wrong selections or even prevent upcoming wrong selections. We decoded imminent or recent errors during closed-loop BMI control from intracortical spiking neural activity. In our experiment, a non-human primate controlled a neurally-driven BMI cursor to acquire targets on a grid, which simulates a virtual keyboard. In offline analyses of this closed-loop BMI control data, we identified motor cortical neural signals indicative of task error occurrence. We were able to detect task outcomes (97% accuracy) and even predict upcoming task outcomes (86% accuracy) using neural activity alone. This novel strategy may help increase the performance and clinical viability of BMIs.",
+  "authors": [
+    "Even-Chen Nir",
+    "Stavisky Sergey D",
+    "Kao Jonathan C",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2015",
+  "doi": "10.1109/EMBC.2015.7318303",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Feedback",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Signal Processing, Computer-Assisted",
+    "Support Vector Machine"
+  ]
+}

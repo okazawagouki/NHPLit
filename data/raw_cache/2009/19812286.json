@@ -1,0 +1,30 @@
+{
+  "pmid": "19812286",
+  "title": "Been there, seen that: a neural mechanism for performing efficient visual search.",
+  "abstract": "In everyday life, we efficiently find objects in the world by moving our gaze from one location to another. The efficiency of this process is brought about by ignoring items that are dissimilar to the target and remembering which target-like items have already been examined. We trained two animals on a visual foraging task in which they had to find a reward-loaded target among five task-irrelevant distractors and five potential targets. We found that both animals performed the task efficiently, ignoring the distractors and rarely examining a particular target twice. We recorded the single unit activity of 54 neurons in the lateral intraparietal area (LIP) while the animals performed the task. The responses of the neurons differentiated between targets and distractors throughout the trial. Further, the responses marked off targets that had been fixated by a reduction in activity. This reduction acted like inhibition of return in saliency map models; items that had been fixated would no longer be represented by high enough activity to draw an eye movement. This reduction could also be seen as a correlate of reward expectancy; after a target had been identified as not containing the reward the activity was reduced. Within a trial, responses to the remaining targets did not increase as they became more likely to yield a result, suggesting that only activity related to an event is updated on a moment-by-moment bases. Together, our data show that all the neural activity required to guide efficient search is present in LIP. Because LIP activity is known to correlate with saccade goal selection, we propose that LIP plays a significant role in the guidance of efficient visual search.",
+  "authors": [
+    "Mirpour Koorosh",
+    "Arcizet Fabrice",
+    "Ong Wei Song",
+    "Bisley James W"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2009",
+  "doi": "10.1152/jn.00688.2009",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Brain Mapping",
+    "Discrimination, Psychological",
+    "Fixation, Ocular",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Motion Perception",
+    "Neurons",
+    "Parietal Lobe",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Time Factors"
+  ]
+}

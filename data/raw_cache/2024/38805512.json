@@ -1,0 +1,29 @@
+{
+  "pmid": "38805512",
+  "title": "Using camera-guided electrode microdrive navigation for precise 3D targeting of macaque brain sites.",
+  "abstract": "Spatial accuracy in electrophysiological investigations is paramount, as precise localization and reliable access to specific brain regions help the advancement of our understanding of the brain's complex neural activity. Here, we introduce a novel, multi camera-based, frameless neuronavigation technique for precise, 3-dimensional electrode positioning in awake monkeys. The investigation of neural functions in awake primates often requires stable access to the brain with thin and delicate recording electrodes. This is usually realized by implanting a chronic recording chamber onto the skull of the animal that allows direct access to the dura. Most recording and positioning techniques utilize this implanted recording chamber as a holder of the microdrive or to hold a grid. This in turn reduces the degrees of freedom in positioning. To solve this problem, we require innovative, flexible, but precise tools for neuronal recordings. We instead mount the electrode microdrive above the animal on an arch, equipped with a series of translational and rotational micromanipulators, allowing movements in all axes. Here, the positioning is controlled by infrared cameras tracking the location of the microdrive and the monkey, allowing precise and flexible trajectories. To verify the accuracy of this technique, we created iron deposits in the tissue that could be detected by MRI. Our results demonstrate a remarkable precision with the confirmed physical location of these deposits averaging less than 0.5 mm from their planned position. Pilot electrophysiological recordings additionally demonstrate the accuracy and flexibility of this method. Our innovative approach could significantly enhance the accuracy and flexibility of neural recordings, potentially catalyzing further advancements in neuroscientific research.",
+  "authors": [
+    "Crayen Max Arwed",
+    "Kagan Igor",
+    "Esghaei Moein",
+    "Hoehl Dirk",
+    "Thomas Uwe",
+    "Prückl Robert",
+    "Schaffelhofer Stefan",
+    "Treue Stefan"
+  ],
+  "journal": "PloS one",
+  "year": "2024",
+  "doi": "10.1371/journal.pone.0301849",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Electrodes, Implanted",
+    "Neuronavigation",
+    "Macaca mulatta",
+    "Imaging, Three-Dimensional",
+    "Male",
+    "Wakefulness",
+    "Macaca"
+  ]
+}

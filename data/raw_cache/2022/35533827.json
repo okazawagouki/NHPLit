@@ -1,0 +1,26 @@
+{
+  "pmid": "35533827",
+  "title": "Graph theory analysis identified two hubs that connect sensorimotor and cognitive and cortical and subcortical nociceptive networks in the non-human primate.",
+  "abstract": "Pain perception involves multiple brain regions and networks. Understanding how these brain networks work together is fundamental for appreciating network-wise changes reported in patients with chronic pain disorders. Parcellating pain related networks and understanding their causal relationships is the first step to understand how painful information is processed, integrated, and modulated, and it requires direct manipulation of specific brain regions. Nonhuman primates (NHP) offer an ideal model system to achieve these goals because cortical and subcortical regions in the NHP brain are established based on a variety of different types of data collected in a way that is not feasible or, at least, extremely difficult in humans (i.e., histology data, tract-tracing, intracerebral recordings). In addition, different methodological techniques can also help characterize and further understand these brain cortical and subcortical regions over the course of development. Here we used a heat nociceptive stimulation that is proven to elicit activity of nociceptive neurons in the cortex to refine and parcellate the whole brain nociceptive functional networks, to identify key network hubs, and to characterize network-wise temporal dynamic signatures using high-resolution fMRI. We first functionally localized 24 cortical and subcortical regions that responded to heat nociceptive stimuli (somatosensory area 1/2, area 3a/3b, S2, posterior insula (pIns), anterior insula, area 7b, posterior parietal cortex, anterior cingulate cortex (ACC), prefrontal cortex, caudate, and mediodorsal (MD) and ventral posterior lateral (VPL) thalamic nuclei) and used them as seeds in resting state fMRI (rsfMRI) data analysis. We applied both hierarchical clustering and graph-theory analyses of the pairwise rsfMRI correlation metrics and identified five cortical and one subcortical sub-networks: strong resting state functional connectivity (rsFC) between ACC and prefrontal regions, parietal cortex and area 7b, S2 and posterior insula, areas 3a/3b and 1/2 within the S1 cortex, and thalamic MD and caudate nuclei. The rsFC strengths between cortical areas within each subnetwork were significantly stronger than those between subcortical regions. Regions within each sub-network also exhibited highly correlated temporal dynamics at rest, but the overall dynamic patterns varied drastically across sub-networks. Graph-theory analysis identified the MD nucleus as a hub that connects subcortical and cortical nociceptive sub-networks. The S2-pIns connection joins the sensory and affective/cognitive sub-networks.",
+  "authors": [
+    "Wu Ruiqi",
+    "Wang Feng",
+    "Yang Pai-Feng",
+    "Gore John C",
+    "Chen Li Min"
+  ],
+  "journal": "NeuroImage",
+  "year": "2022",
+  "doi": "10.1016/j.neuroimage.2022.119244",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Cognition",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Neural Pathways",
+    "Nociception",
+    "Pain",
+    "Primates"
+  ]
+}

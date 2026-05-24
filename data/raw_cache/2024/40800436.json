@@ -1,0 +1,21 @@
+{
+  "pmid": "40800436",
+  "title": "MEBRAINS 1.0: A new population-based macaque atlas.",
+  "abstract": "Due to their fundamental relevance, the number of anatomical macaque brain templates is constantly growing. Novel templates aim to alleviate limitations of previously published atlases and offer the foundation to integrate multiscale multimodal data. Typical limitations of existing templates include their reliance on one subject, their unimodality (usually only T1 or histological images), or lack of anatomical details. The MEBRAINS template overcomes these limitations by using a combination of T1 and T2 images, from the same 10 animals (<i>Macaca mulatta</i>), which are averaged by the multi-brain toolbox for diffeomorphic registration and segmentation. The resulting volumetric T1 and T2 templates are supplemented with high-quality white and gray matter surfaces built with FreeSurfer. Human-curated segmentations of pial surface, the white/gray matter interface, and major subcortical nuclei were used to analyze the relative quality of the MEBRAINS template. Additionally, 9 computed tomography (CT) scans of the same monkeys were registered to the T1 modality and co-registered to the template. Through its main features (multi-subject, multimodal, volume-and-surface, traditional, and deep learning-based segmentations), MEBRAINS aims to improve integration of multimodal multi-scale macaque data and is quantitatively equal to, or better than, currently widely used macaque templates. We provide a detailed description of the algorithms/methods used to create the template aiming to furnish future researchers with a map-like perspective which should facilitate identification of an optimal pipeline for the task they have at hand. Finally, recently published 3D maps of the macaque inferior parietal lobe, (pre)motor and prefrontal cortex were warped to the MEBRAINS surface template, thus populating it with a parcellation scheme based on cyto- and receptor architectonic analyses. The template is integrated in the EBRAINS and Scalable Brain Atlas web-based infrastructures, each of which comes with its own suite of spatial registration tools.",
+  "authors": [
+    "Balan Puiu F",
+    "Zhu Qi",
+    "Li Xiaolian",
+    "Niu Meiqi",
+    "Rapan Lucija",
+    "Funck Thomas",
+    "Wang Haiyan",
+    "Bakker Rembrandt",
+    "Palomero-Gallagher Nicola",
+    "Vanduffel Wim"
+  ],
+  "journal": "Imaging neuroscience (Cambridge, Mass.)",
+  "year": "2024",
+  "doi": "10.1162/imag_a_00077",
+  "mesh": []
+}

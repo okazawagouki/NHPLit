@@ -1,0 +1,26 @@
+{
+  "pmid": "38968311",
+  "title": "Factorized visual representations in the primate visual system and deep neural networks.",
+  "abstract": "Object classification has been proposed as a principal objective of the primate ventral visual stream and has been used as an optimization target for deep neural network models (DNNs) of the visual system. However, visual brain areas represent many different types of information, and optimizing for classification of object identity alone does not constrain how other information may be encoded in visual representations. Information about different scene parameters may be discarded altogether ('invariance'), represented in non-interfering subspaces of population activity ('factorization') or encoded in an entangled fashion. In this work, we provide evidence that factorization is a normative principle of biological visual representations. In the monkey ventral visual hierarchy, we found that factorization of object pose and background information from object identity increased in higher-level regions and strongly contributed to improving object identity decoding performance. We then conducted a large-scale analysis of factorization of individual scene parameters - lighting, background, camera viewpoint, and object pose - in a diverse library of DNN models of the visual system. Models which best matched neural, fMRI, and behavioral data from both monkeys and humans across 12 datasets tended to be those which factorized scene parameters most strongly. Notably, invariance to these parameters was not as consistently associated with matches to neural and behavioral data, suggesting that maintaining non-class information in factorized activity subspaces is often preferred to dropping it altogether. Thus, we propose that factorization of visual scene information is a widely used strategy in brains and DNN models thereof.",
+  "authors": [
+    "Lindsey Jack W",
+    "Issa Elias B"
+  ],
+  "journal": "eLife",
+  "year": "2024",
+  "doi": "10.7554/eLife.91685",
+  "mesh": [
+    "Animals",
+    "Neural Networks, Computer",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Macaca mulatta",
+    "Visual Pathways",
+    "Visual Perception",
+    "Visual Cortex",
+    "Female",
+    "Photic Stimulation",
+    "Models, Neurological"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pmid": "41415466",
+  "title": "Coordination of spike timing among the neurons of the cerebellum.",
+  "abstract": "We tend to think of neurons as either excitatory or inhibitory, but certain neurons chemically inhibit their downstream targets while electrically exciting their neighbors. For example, in the cerebellum, molecular layer interneurons (MLIs) inhibit Purkinje cells (P-cells) via release of GABA but promote spiking in each other via gap junctions. What is gained by having an inhibitory neuron excite its neighbor? Here, we recorded activities of P-cells and MLIs as marmosets performed saccadic eye movements and found that spike timing in pairs of neighboring neurons of the same type exhibited a mathematical regularity: as firing rates increased, rate of spikes that were within 1ms of each other grew disproportionately while 2-4ms intervals were suppressed. To uncover the purpose of this coordination, during saccades we recorded thousands of neuron triplets in which two MLIs converged onto a single target P-cell. When the MLIs spiked within 1ms of each other, they produced superposition of their individual effects on their target; a deep inhibition followed by a post-inhibitory rebound. However, when the MLIs spiked 2-4ms apart, the two spikes interfered with each other, producing partial cancellation. Thus, electrical coupling between inhibitory neurons orchestrated their spike timing so that as firing rates increased, the temporal intervals that induced downstream superposition were promoted while the intervals that caused interference were suppressed.",
+  "authors": [
+    "Fakharian Mohammad Amin",
+    "Taeckens Elijah A",
+    "Vasserman Alexander N",
+    "Shoup Alden M",
+    "Shadmehr Reza"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.64898/2025.12.03.692114",
+  "mesh": []
+}

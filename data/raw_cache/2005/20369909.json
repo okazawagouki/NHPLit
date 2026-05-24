@@ -1,0 +1,15 @@
+{
+  "pmid": "20369909",
+  "title": "Characterization of neural interaction during learning and adaptation from spike-train data.",
+  "abstract": "A basic task in understanding the neural mechanism of learning and adaptation is to detect and characterize neural interactions and their changes in response to new experiences. Recent experimental work has indicated that neural interactions in the primary motor cortex of the monkey brain tend to change their preferred directions during adaptation to an external force field. To quantify such changes, it is necessary to develop computational methodology for data analysis. Given that typical experimental data consist of spike trains recorded from individual neurons, probing the strength of neural interactions and their changes is extremely challenging. We recently reported in a brief communication [Zhu et al., Neural Computations 15, 2359 (2003)] a general procedure to detect and quantify the causal interactions among neurons, which is based on the method of directed transfer function derived from a class of multivariate, linear stochastic models. The procedure was applied to spike trains from neurons in the primary motor cortex of the monkey brain during adaptation, where monkeys were trained to learn a new skill by moving their arms to reach a target under external perturbations. Our computation and analysis indicated that the adaptation tends to alter the connection topology of the underlying neural network, yet the average interaction strength in the network is approximately conserved before and after the adaptation. The present paper gives a detailed account of this procedure and its applicability to spike-train data in terms of the hypotheses, theory, computational methods, control test, and extensive analysis of experimental data.",
+  "authors": [
+    "Zhu Liqiang",
+    "Lai Ying-Cheng",
+    "Hoppensteadt Frank C",
+    "He Jiping"
+  ],
+  "journal": "Mathematical biosciences and engineering : MBE",
+  "year": "2005",
+  "doi": "",
+  "mesh": []
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "33789138",
+  "title": "A comprehensive macaque fMRI pipeline and hierarchical atlas.",
+  "abstract": "Functional neuroimaging research in the non-human primate (NHP) has been advancing at a remarkable rate. The increase in available data establishes a need for robust analysis pipelines designed for NHP neuroimaging and accompanying template spaces to standardize the localization of neuroimaging results. Our group recently developed the NIMH Macaque Template (NMT), a high-resolution population average anatomical template and associated neuroimaging resources, providing researchers with a standard space for macaque neuroimaging . Here, we release NMT v2, which includes both symmetric and asymmetric templates in stereotaxic orientation, with improvements in spatial contrast, processing efficiency, and segmentation. We also introduce the Cortical Hierarchy Atlas of the Rhesus Macaque (CHARM), a hierarchical parcellation of the macaque cerebral cortex with varying degrees of detail. These tools have been integrated into the neuroimaging analysis software AFNI to provide a comprehensive and robust pipeline for fMRI processing, visualization and analysis of NHP data. AFNI's new @animal_warper program can be used to efficiently align anatomical scans to the NMT v2 space, and afni_proc.py integrates these results with full fMRI processing using macaque-specific parameters: from motion correction through regression modeling. Taken together, the NMT v2 and AFNI represent an all-in-one package for macaque functional neuroimaging analysis, as demonstrated with available demos for both task and resting state fMRI.",
+  "authors": [
+    "Jung Benjamin",
+    "Taylor Paul A",
+    "Seidlitz Jakob",
+    "Sponheim Caleb",
+    "Perkins Pierce",
+    "Ungerleider Leslie G",
+    "Glen Daniel",
+    "Messinger Adam"
+  ],
+  "journal": "NeuroImage",
+  "year": "2021",
+  "doi": "10.1016/j.neuroimage.2021.117997",
+  "mesh": [
+    "Animals",
+    "Atlases as Topic",
+    "Brain",
+    "Female",
+    "Functional Neuroimaging",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male"
+  ]
+}

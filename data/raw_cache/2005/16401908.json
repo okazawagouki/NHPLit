@@ -1,0 +1,26 @@
+{
+  "pmid": "16401908",
+  "title": "Artificial neural networks and three-dimensional digital morphology: a pilot study.",
+  "abstract": "In this pilot study, we used an unsupervised learning algorithm for self-organization and pattern matching to create feature maps that can be applied to morphological problems. We designed a network to analyze 83 first and/or second upper and lower molar sets representing 13 anthropoid primate species, based on three-dimensional measures obtained from laser-digitized, virtual specimens. As shown in a comparison with a principal-component analysis of the virtual specimens, the artificial neural network approach provided more biologically meaningful information than the conventional multivariate analysis approach. The methodology discovered partitions and hierarchical clusters consistent with anthropoid systematics, from the species (or subspecies) level to the highest categories, by sorting and allocating upper and lower molar teeth. As one might expect, measures of upper molars were richer in phenetic information than those of lower molars, even among the anatomically diverse platyrrhines. We also show that reducing taxonomic noise (i.e. biological variation) by limiting the analysis to a monophyletic subset improves discrimination.",
+  "authors": [
+    "King Roger L",
+    "Rosenberger A L",
+    "Kanda L Leann"
+  ],
+  "journal": "Folia primatologica; international journal of primatology",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Anatomy, Comparative",
+    "Animals",
+    "Cluster Analysis",
+    "Haplorhini",
+    "Neural Networks, Computer",
+    "Odontometry",
+    "Phylogeny",
+    "Principal Component Analysis",
+    "Species Specificity",
+    "Tooth"
+  ]
+}

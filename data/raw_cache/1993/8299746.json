@@ -1,0 +1,25 @@
+{
+  "pmid": "8299746",
+  "title": "Modularity and parallel processing in the oculomotor integrator.",
+  "abstract": "The neural signals that hold eye position originate in a brainstem structure called the neural integrator, so-called because it is thought to compute these position signals using a process equivalent to mathematical integration. Most previous experiments have assumed that the neural integrator reacts to damage like a single mathematical integrator: the eye is expected to drift towards a unique resting point at a simple exponential rate dependent on current eye position. Physiologically, this would require a neural network with uniformly distributed internal connections. However, Cannon et al. (1983) proposed a more robust modular internal configuration, with dense local connections and sparse remote connections, computationally equivalent to a parallel array of independent sub-integrators. Damage to some sub-integrators would not affect function in the others, so that part of the position signal would remain intact, and a more complex pattern of drift would result. We evaluated this parallel integrator hypothesis by recording three-dimensional eye positions in the light and dark from five alert monkeys with partial neural integrator failure. Our previous study showed that injection of the inhibitory gamma aminobutyric acid agonist muscimol into the mesencephalic interstitial nucleus of Cajal (INC) causes almost complete failure of the integrators for vertical and torsional eye position after approximately 30 min. This study examines the more modest initial effects. Several aspects of the initial vertical drift could not be accounted for by the single integrator scheme. First, the eye did not initially drift towards a single resting position; rapid but brief drift was observed towards multiple resting positions. With time after the muscimol injection, this range of stable eye positions progressively narrowed until it eventually approximated a single point. Second, the drift had multiple time constants. Third, multiple regression analysis revealed a significant correlation between drift rate and magnitude of the previous saccade, in addition to a correlation between drift rate and position. This saccade dependence enabled animals to stabilize gaze by making a series of saccades to the same target, each with less post-saccadic drift than its predecessor. These observations were predicted and explained by a model in which each of several parallel integrators generated a fraction of the eye-position command.(ABSTRACT TRUNCATED AT 400 WORDS)",
+  "authors": [
+    "Crawford J D",
+    "Vilis T"
+  ],
+  "journal": "Experimental brain research",
+  "year": "1993",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Brain Stem",
+    "Macaca fascicularis",
+    "Mesencephalon",
+    "Models, Neurological",
+    "Muscimol",
+    "Nerve Net",
+    "Nystagmus, Physiologic",
+    "Oculomotor Muscles",
+    "Saccades",
+    "Time Factors"
+  ]
+}

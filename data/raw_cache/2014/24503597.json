@@ -1,0 +1,31 @@
+{
+  "pmid": "24503597",
+  "title": "Self-recalibrating classifiers for intracortical brain-computer interfaces.",
+  "abstract": "OBJECTIVE: Intracortical brain-computer interface (BCI) decoders are typically retrained daily to maintain stable performance. Self-recalibrating decoders aim to remove the burden this may present in the clinic by training themselves autonomously during normal use but have only been developed for continuous control. Here we address the problem for discrete decoding (classifiers). APPROACH: We recorded threshold crossings from 96-electrode arrays implanted in the motor cortex of two rhesus macaques performing center-out reaches in 7 directions over 41 and 36 separate days spanning 48 and 58 days in total for offline analysis. MAIN RESULTS: We show that for the purposes of developing a self-recalibrating classifier, tuning parameters can be considered as fixed within days and that parameters on the same electrode move up and down together between days. Further, drift is constrained across time, which is reflected in the performance of a standard classifier which does not progressively worsen if it is not retrained daily, though overall performance is reduced by more than 10% compared to a daily retrained classifier. Two novel self-recalibrating classifiers produce a ~15% increase in classification accuracy over that achieved by the non-retrained classifier to nearly recover the performance of the daily retrained classifier. SIGNIFICANCE: We believe that the development of classifiers that require no daily retraining will accelerate the clinical translation of BCI systems. Future work should test these results in a closed-loop setting.",
+  "authors": [
+    "Bishop William",
+    "Chestek Cynthia C",
+    "Gilja Vikash",
+    "Nuyujukian Paul",
+    "Foster Justin D",
+    "Ryu Stephen I",
+    "Shenoy Krishna V",
+    "Yu Byron M"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2014",
+  "doi": "10.1088/1741-2560/11/2/026001",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Calibration",
+    "Electrodes, Implanted",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Motor Cortex",
+    "Photic Stimulation",
+    "Psychomotor Performance"
+  ]
+}

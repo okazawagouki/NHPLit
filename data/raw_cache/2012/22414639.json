@@ -1,0 +1,31 @@
+{
+  "pmid": "22414639",
+  "title": "On the decoding of intracranial data using sparse orthonormalized partial least squares.",
+  "abstract": "It has recently been shown that robust decoding of motor output from electrocorticogram signals in monkeys over prolonged periods of time has become feasible (Chao et al 2010 Front. Neuroeng. 3 1-10). In order to achieve these results, multivariate partial least-squares (PLS) regression was used. PLS uses a set of latent variables, referred to as components, to model the relationship between the input and the output data and is known to handle high-dimensional and possibly strongly correlated inputs and outputs well. We developed a new decoding method called sparse orthonormalized partial least squares (SOPLS) which was tested on a subset of the data used in Chao et al (2010) (freely obtainable from neurotycho.org (Nagasaka et al 2011 PLoS ONE 6 e22561)). We show that SOPLS reaches the same decoding performance as PLS using just two sparse components which can each be interpreted as encoding particular combinations of motor parameters. Furthermore, the sparse solution afforded by the SOPLS model allowed us to show the functional involvement of beta and gamma band responses in premotor and motor cortex for predicting the first component. Based on the literature, we conjecture that this first component is involved in the encoding of movement direction. Hence, the sparse and compact representation afforded by the SOPLS model facilitates interpretation of which spectral, spatial and temporal components are involved in successful decoding. These advantages make the proposed decoding method an important new tool in neuroprosthetics.",
+  "authors": [
+    "van Gerven Marcel A J",
+    "Chao Zenas C",
+    "Heskes Tom"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2012",
+  "doi": "10.1088/1741-2560/9/2/026017",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Beta Rhythm",
+    "Biomechanical Phenomena",
+    "Brain Mapping",
+    "Data Interpretation, Statistical",
+    "Electroencephalography",
+    "Joints",
+    "Least-Squares Analysis",
+    "Macaca",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Motor Cortex",
+    "Movement",
+    "Regression Analysis"
+  ]
+}

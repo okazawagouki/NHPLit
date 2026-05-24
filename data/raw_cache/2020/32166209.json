@@ -1,0 +1,18 @@
+{
+  "pmid": "32166209",
+  "title": "Modeling the influence of the hippocampal memory system on the oculomotor system.",
+  "abstract": "Visual exploration is related to activity in the hippocampus (HC) and/or extended medial temporal lobe system (MTL), is influenced by stored memories, and is altered in amnesic cases. An extensive set of polysynaptic connections exists both within and between the HC and oculomotor systems such that investigating how HC responses ultimately influence neural activity in the oculomotor system, and the timing by which such neural modulation could occur, is not trivial. We leveraged TheVirtualBrain, a software platform for large-scale network simulations, to model the functional dynamics that govern the interactions between the two systems in the macaque cortex. Evoked responses following the stimulation of the MTL and some, but not all, subfields of the HC resulted in observable responses in oculomotor regions, including the frontal eye fields, within the time of a gaze fixation. Modeled lesions to some MTL regions slowed the dissipation of HC signal to oculomotor regions, whereas HC lesions generally did not affect the rapid MTL activity propagation to oculomotor regions. These findings provide a framework for investigating how information represented by the HC/MTL may influence the oculomotor system during a fixation and predict how HC lesions may affect visual exploration.",
+  "authors": [
+    "Ryan Jennifer D",
+    "Shen Kelly",
+    "Kacollja Arber",
+    "Tian Heather",
+    "Griffiths John",
+    "Bezgin Gleb",
+    "McIntosh Anthony R"
+  ],
+  "journal": "Network neuroscience (Cambridge, Mass.)",
+  "year": "2020",
+  "doi": "10.1162/netn_a_00120",
+  "mesh": []
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "25540222",
+  "title": "Temporal and spatial limits of pattern motion sensitivity in macaque MT neurons.",
+  "abstract": "Many neurons in visual cortical area MT signal the direction of motion of complex visual patterns, such as plaids composed of two superimposed drifting gratings. To compute the direction of pattern motion, MT neurons combine component motion signals over time and space. To determine the spatial and temporal limits of signal integration, we measured the responses of single MT neurons to a novel set of \"pseudoplaid\" stimuli in which the component gratings were alternated in time or space. As the temporal or spatial separation of the component gratings increased, neuronal selectivity for the direction of pattern motion decreased. Using descriptive models of signal integration, we inferred the temporal and spatial structure of the mechanisms that compute pattern direction selectivity. The median time constant for integration was roughly 10 ms, a timescale characteristic of integration by single cortical pyramidal neurons. The median spatial integration field was roughly one-third of the MT receptive field diameter, suggesting that the spatial limits are set by stages of processing in earlier areas of visual cortex where receptive fields are smaller than in MT. Interestingly, pattern direction-selective neurons had shorter temporal integration times than component direction-selective neurons but similar spatial integration windows. We conclude that pattern motion can only be signaled by MT neurons when the component motion signals co-occur within relatively narrow spatial and temporal limits. We interpret these results in the framework of recent hierarchical models of MT.",
+  "authors": [
+    "Kumbhani Romesh D",
+    "El-Shamayleh Yasmine",
+    "Movshon J Anthony"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2015",
+  "doi": "10.1152/jn.00597.2014",
+  "mesh": [
+    "Animals",
+    "Macaca fascicularis",
+    "Macaca nemestrina",
+    "Male",
+    "Motion Perception",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

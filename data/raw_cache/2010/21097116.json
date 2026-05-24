@@ -1,0 +1,23 @@
+{
+  "pmid": "21097116",
+  "title": "Low-dimensional neural features predict muscle EMG signals.",
+  "abstract": "Understanding the relationship between neural activity in motor cortex and muscle activity during movements is important both for basic science and for the design of neural prostheses. While there has been significant work in decoding muscle EMG from neural data, decoders often require many parameters which make the analysis susceptible to overfitting, which reduces generalizability and makes the results difficult to interpret. To address this issue, we recorded simultaneous neural activity from the motor cortices (M1/PMd) of rhesus monkeys performing an arm-reaching task while recording EMG from arm muscles. In this work, we focused on relating the mean neural activity (averaged across reach trials to one target) to the corresponding mean EMG. We reduced the dimensionality of the neural data and found that the curvature of the low-dimensional (low-D) neural activity could be used as a signature of muscle activity. Using this signature, and without directly fitting EMG data to the neural activity, we derived neural axes based on reaches to only one reach target (< 5% of the data) that could explain EMG for reaches across multiple targets (average R(2) = 0.65). Our results suggest that cortical population activity is tightly related to muscle EMG measurements, predicting a lag between cortical activity and movement generation of 47.5 ms. Furthermore, our ability to predict EMG features across different movements suggests that there are fundamental axes or directions in the low-D neural space along which the neural population activity moves to activate particular muscles.",
+  "authors": [
+    "Rivera-Alvidrez Zuley",
+    "Kalmar Rachel S",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2010",
+  "doi": "10.1109/IEMBS.2010.5627604",
+  "mesh": [
+    "Animals",
+    "Electromyography",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Muscle, Skeletal",
+    "Neural Pathways",
+    "Time Factors"
+  ]
+}

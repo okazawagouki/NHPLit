@@ -1,0 +1,33 @@
+{
+  "pmid": "19692505",
+  "title": "Characterizing learning by simultaneous analysis of continuous and binary measures of performance.",
+  "abstract": "Continuous observations, such as reaction and run times, and binary observations, such as correct/incorrect responses, are recorded routinely in behavioral learning experiments. Although both types of performance measures are often recorded simultaneously, the two have not been used in combination to evaluate learning. We present a state-space model of learning in which the observation process has simultaneously recorded continuous and binary measures of performance. We use these performance measures simultaneously to estimate the model parameters and the unobserved cognitive state process by maximum likelihood using an approximate expectation maximization (EM) algorithm. We introduce the concept of a reaction-time curve and reformulate our previous definitions of the learning curve, the ideal observer curve, the learning trial and between-trial comparisons of performance in terms of the new model. We illustrate the properties of the new model in an analysis of a simulated learning experiment. In the simulated data analysis, simultaneous use of the two measures of performance provided more credible and accurate estimates of the learning than either measure analyzed separately. We also analyze two actual learning experiments in which the performance of rats and of monkeys was tracked across trials by simultaneously recorded reaction and run times and the correct and incorrect responses. In the analysis of the actual experiments, our algorithm gave a straightforward, efficient way to characterize learning by combining continuous and binary measures of performance. This analysis paradigm has implications for characterizing learning and for the more general problem of combining different data types to characterize the properties of a neural system.",
+  "authors": [
+    "Prerau M J",
+    "Smith A C",
+    "Eden Uri T",
+    "Kubota Y",
+    "Yanike M",
+    "Suzuki W",
+    "Graybiel A M",
+    "Brown E N"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2009",
+  "doi": "10.1152/jn.91251.2008",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Association Learning",
+    "Cognition",
+    "Computer Simulation",
+    "Haplorhini",
+    "Humans",
+    "Learning",
+    "Models, Neurological",
+    "Nonlinear Dynamics",
+    "Predictive Value of Tests",
+    "Probability",
+    "Reaction Time"
+  ]
+}

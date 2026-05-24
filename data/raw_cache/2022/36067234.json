@@ -1,0 +1,24 @@
+{
+  "pmid": "36067234",
+  "title": "MouseNet: A biologically constrained convolutional neural network model for the mouse visual cortex.",
+  "abstract": "Convolutional neural networks trained on object recognition derive inspiration from the neural architecture of the visual system in mammals, and have been used as models of the feedforward computation performed in the primate ventral stream. In contrast to the deep hierarchical organization of primates, the visual system of the mouse has a shallower arrangement. Since mice and primates are both capable of visually guided behavior, this raises questions about the role of architecture in neural computation. In this work, we introduce a novel framework for building a biologically constrained convolutional neural network model of the mouse visual cortex. The architecture and structural parameters of the network are derived from experimental measurements, specifically the 100-micrometer resolution interareal connectome, the estimates of numbers of neurons in each area and cortical layer, and the statistics of connections between cortical layers. This network is constructed to support detailed task-optimized models of mouse visual cortex, with neural populations that can be compared to specific corresponding populations in the mouse brain. Using a well-studied image classification task as our working example, we demonstrate the computational capability of this mouse-sized network. Given its relatively small size, MouseNet achieves roughly 2/3rds the performance level on ImageNet as VGG16. In combination with the large scale Allen Brain Observatory Visual Coding dataset, we use representational similarity analysis to quantify the extent to which MouseNet recapitulates the neural representation in mouse visual cortex. Importantly, we provide evidence that optimizing for task performance does not improve similarity to the corresponding biological system beyond a certain point. We demonstrate that the distributions of some physiological quantities are closer to the observed distributions in the mouse brain after task training. We encourage the use of the MouseNet architecture by making the code freely available.",
+  "authors": [
+    "Shi Jianghong",
+    "Tripp Bryan",
+    "Shea-Brown Eric",
+    "Mihalas Stefan",
+    "A Buice Michael"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2022",
+  "doi": "10.1371/journal.pcbi.1010427",
+  "mesh": [
+    "Animals",
+    "Mammals",
+    "Mice",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

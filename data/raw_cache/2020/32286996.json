@@ -1,0 +1,22 @@
+{
+  "pmid": "32286996",
+  "title": "Hierarchical Bayesian Optimization of Spatiotemporal Neurostimulations for Targeted Motor Outputs.",
+  "abstract": "The development of neurostimulation techniques to evoke motor patterns is an active area of research. It serves as a crucial experimental tool to probe computation in neural circuits, and has applications in neuroprostheses used to aid recovery of motor function after stroke or injury to the nervous system. There are two important challenges when designing algorithms to unveil and control neurostimulation-to-motor correspondences, thereby linking spatiotemporal patterns of neural stimulation to muscle activation: (1) the exploration of motor maps needs to be fast and efficient (exhaustive search is to be avoided for clinical and experimental reasons) (2) online learning needs to be flexible enough to deal with noise and occasional spurious responses. We propose a stimulation search algorithm to address these issues, and demonstrate its efficacy with experiments in the motor cortex (M1) of a non-human primate model. Our solution is a novel iterative process using Bayesian Optimization via Gaussian Processes on a hierarchy of increasingly complex signal spaces. We show that our algorithm can successfully and rapidly learn correspondences between complex stimulation patterns and evoked muscle activation patterns, where standard approaches fail. Importantly, we uncover nonlinear circuit-level computations in M1 that would have been difficult to identify using conventional mapping techniques.",
+  "authors": [
+    "Laferriere Samuel",
+    "Bonizzato Marco",
+    "Cote Sandrine L",
+    "Dancause Numa",
+    "Lajoie Guillaume"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2020",
+  "doi": "10.1109/TNSRE.2020.2987001",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Learning",
+    "Motor Cortex"
+  ]
+}

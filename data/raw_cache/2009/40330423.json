@@ -1,0 +1,17 @@
+{
+  "pmid": "40330423",
+  "title": "Coherency between Spike and LFP Activity in M1 during Hand Movements.",
+  "abstract": "Local field potentials (LFP) represent the dendritic activity of a population of cells near the recording electrode. However, how LFP activity is related to single unit activity, and if it provides any additional information has not been well studied. Previously we have shown that temporal spectral modulation of LFP activity can be used to decode dexterous movements of the hand. Here, we analyze simultaneous spike and LFP recordings from M1 cortex in a rhesus monkey performing fine hand movements. Using multitaper spectral analysis, we found that both LFP and spiking activity show an increase in power in the <12 Hz and 70-200 Hz (high gamma) ranges, but, were significantly coherent only during the pre-movement time at low frequencies (<12 Hz). Furthermore, using either LFP or spiking activity, we were able to decode amongst three different hand grasps with high accuracy (99% using 97 spikes and 70% using 8 LFP channels). However, while spikes were better in decoding movement types, LFPs performed much better (94% success) than spikes (77%) when differentiating between rest and movement. We also found that combining spike and LFP activity can improve decoding performance when fewer spikes are considered, as may be the case when single unit recordings degrade over time (71% using 40 spikes and 76% using 8 LFPs, vs 88% using 40 spikes + 8 LFPs). Thus, the relative stability of LFP activity can help augment single-unit activity for the chronic operation of a multimodal BMI.",
+  "authors": [
+    "Mollazadeh M",
+    "Aggarwal V",
+    "Thakor N V",
+    "Law A J",
+    "Davidson A",
+    "Schieber M H"
+  ],
+  "journal": "International IEEE/EMBS Conference on Neural Engineering : [proceedings]. International IEEE EMBS Conference on Neural Engineering",
+  "year": "2009",
+  "doi": "10.1109/NER.2009.5109344",
+  "mesh": []
+}

@@ -1,0 +1,22 @@
+{
+  "pmid": "20149886",
+  "title": "Near-isometric flattening of brain surfaces.",
+  "abstract": "Flattened representations of brain surfaces are often used to visualize and analyze spatial patterns of structural organization and functional activity. Here, we present a set of rigorous criteria and accompanying test cases with which to evaluate flattening algorithms that attempt to preserve shortest-path distances on the original surface. We also introduce a novel flattening algorithm that is the first to satisfy all of these criteria and demonstrate its ability to produce accurate flat maps of human and macaque visual cortex. Using this algorithm, we have recently obtained results showing a remarkable, unexpected degree of consistency in the shape and topographic structure of visual cortical areas within humans and macaques, as well as between these two species.",
+  "authors": [
+    "Balasubramanian Mukund",
+    "Polimeni Jonathan R",
+    "Schwartz Eric L"
+  ],
+  "journal": "NeuroImage",
+  "year": "2010",
+  "doi": "10.1016/j.neuroimage.2010.02.008",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Macaca"
+  ]
+}

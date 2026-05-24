@@ -1,0 +1,30 @@
+{
+  "pmid": "32089583",
+  "title": "Harmonizing 1.5T/3T Diffusion Weighted MRI through Development of Deep Learning Stabilized Microarchitecture Estimators.",
+  "abstract": "Diffusion weighted magnetic resonance imaging (DW-MRI) is interpreted as a quantitative method that is sensitive to tissue microarchitecture at a millimeter scale. However, the sensitization is dependent on acquisition sequences (e.g., diffusion time, gradient strength, etc.) and susceptible to imaging artifacts. Hence, comparison of quantitative DW-MRI biomarkers across field strengths (including different scanners, hardware performance, and sequence design considerations) is a challenging area of research. We propose a novel method to estimate microstructure using DW-MRI that is robust to scanner difference between 1.5T and 3T imaging. We propose to use a null space deep network (NSDN) architecture to model DW-MRI signal as fiber orientation distributions (FOD) to represent tissue microstructure. The NSDN approach is consistent with histologically observed microstructure (on previously acquired ex vivo squirrel monkey dataset) and scan-rescan data. The contribution of this work is that we incorporate identical dual networks (IDN) to minimize the influence of scanner effects via scan-rescan data. Briefly, our estimator is trained on two datasets. First, a histology dataset was acquired on three squirrel monkeys with corresponding DW-MRI and confocal histology (512 independent voxels). Second, 37 control subjects from the Baltimore Longitudinal Study of Aging (67-95 y/o) were identified who had been scanned at 1.5T and 3T scanners (b-value of 700 s/mm<sup>2</sup>, voxel resolution at 2.2mm, 30-32 gradient volumes) with an average interval of 4 years (standard deviation 1.3 years). After image registration, we used paired white matter (WM) voxels for 17 subjects and 440 histology voxels for training and 20 subjects and 72 histology voxels for testing. We compare the proposed estimator with super-resolved constrained spherical deconvolution (CSD) and a previously presented regression deep neural network (DNN). NSDN outperformed CSD and DNN in angular correlation coefficient (ACC) 0.81 versus 0.28 and 0.46, mean squared error (MSE) 0.001 versus 0.003 and 0.03, and general fractional anisotropy (GFA) 0.05 versus 0.05 and 0.09. Further validation and evaluation with contemporaneous imaging are necessary, but the NSDN is promising avenue for building understanding of microarchitecture in a consistent and device-independent manner.",
+  "authors": [
+    "Nath Vishwesh",
+    "Remedios Samuel",
+    "Parvathaneni Prasanna",
+    "Hansen Colin B",
+    "Bayrak Roza G",
+    "Bermudez Camilo",
+    "Blaber Justin A",
+    "Schilling Kurt G",
+    "Janve Vaibhav A",
+    "Gao Yurui",
+    "Huo Yuankai",
+    "Lyu Ilwoo",
+    "Williams Owen",
+    "Resnick Susan",
+    "Beason-Held Lori",
+    "Rogers Baxter P",
+    "Stepniewska Iwona",
+    "Anderson Adam W",
+    "Landman Bennett A"
+  ],
+  "journal": "Proceedings of SPIE--the International Society for Optical Engineering",
+  "year": "2019",
+  "doi": "10.1117/12.2512902",
+  "mesh": []
+}

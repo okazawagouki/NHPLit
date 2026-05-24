@@ -1,0 +1,31 @@
+{
+  "pmid": "18509031",
+  "title": "Low-frequency local field potentials and spikes in primary visual cortex convey independent visual information.",
+  "abstract": "Local field potentials (LFPs) reflect subthreshold integrative processes that complement spike train measures. However, little is yet known about the differences between how LFPs and spikes encode rich naturalistic sensory stimuli. We addressed this question by recording LFPs and spikes from the primary visual cortex of anesthetized macaques while presenting a color movie. We then determined how the power of LFPs and spikes at different frequencies represents the visual features in the movie. We found that the most informative LFP frequency ranges were 1-8 and 60-100 Hz. LFPs in the range of 12-40 Hz carried little information about the stimulus, and may primarily reflect neuromodulatory inputs. Spike power was informative only at frequencies <12 Hz. We further quantified \"signal correlations\" (correlations in the trial-averaged power response to different stimuli) and \"noise correlations\" (trial-by-trial correlations in the fluctuations around the average) of LFPs and spikes recorded from the same electrode. We found positive signal correlation between high-gamma LFPs (60-100 Hz) and spikes, as well as strong positive signal correlation within high-gamma LFPs, suggesting that high-gamma LFPs and spikes are generated within the same network. LFPs <24 Hz shared strong positive noise correlations, indicating that they are influenced by a common source, such as a diffuse neuromodulatory input. LFPs <40 Hz showed very little signal and noise correlations with LFPs >40 Hz and with spikes, suggesting that low-frequency LFPs reflect neural processes that in natural conditions are fully decoupled from those giving rise to spikes and to high-gamma LFPs.",
+  "authors": [
+    "Belitski Andrei",
+    "Gretton Arthur",
+    "Magri Cesare",
+    "Murayama Yusuke",
+    "Montemurro Marcelo A",
+    "Logothetis Nikos K",
+    "Panzeri Stefano"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2008",
+  "doi": "10.1523/JNEUROSCI.0009-08.2008",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain Mapping",
+    "Evoked Potentials, Visual",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motion Perception",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Spectrum Analysis",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

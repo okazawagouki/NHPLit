@@ -1,0 +1,18 @@
+{
+  "pmid": "33304381",
+  "title": "Time-Varying Gene Network Analysis of Human Prefrontal Cortex Development.",
+  "abstract": "The prefrontal cortex (PFC) constitutes a large part of the human central nervous system and is essential for the normal social affection and executive function of humans and other primates. Despite ongoing research in this region, the development of interactions between PFC genes over the lifespan is still unknown. To investigate the conversion of PFC gene interaction networks and further identify hub genes, we obtained time-series gene expression data of human PFC tissues from the Gene Expression Omnibus (GEO) database. A statistical model, loggle, was used to construct time-varying networks and several common network attributes were used to explore the development of PFC gene networks with age. Network similarity analysis showed that the development of human PFC is divided into three stages, namely, fast development period, deceleration to stationary period, and recession period. We identified some genes related to PFC development at these different stages, including genes involved in neuronal differentiation or synapse formation, genes involved in nerve impulse transmission, and genes involved in the development of myelin around neurons. Some of these genes are consistent with findings in previous reports. At the same time, we explored the development of several known KEGG pathways in PFC and corresponding hub genes. This study clarified the development trajectory of the interaction between PFC genes, and proposed a set of candidate genes related to PFC development, which helps further study of human brain development at the genomic level supplemental to regular anatomical analyses. The analytical process used in this study, involving the loggle model, similarity analysis, and central analysis, provides a comprehensive strategy to gain novel insights into the evolution and development of brain networks in other organisms.",
+  "authors": [
+    "Wang Huihui",
+    "Wu Yongqing",
+    "Fang Ruiling",
+    "Sa Jian",
+    "Li Zhi",
+    "Cao Hongyan",
+    "Cui Yuehua"
+  ],
+  "journal": "Frontiers in genetics",
+  "year": "2020",
+  "doi": "10.3389/fgene.2020.574543",
+  "mesh": []
+}

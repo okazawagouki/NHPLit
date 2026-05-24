@@ -1,0 +1,26 @@
+{
+  "pmid": "8527497",
+  "title": "Open-loop simulations of the primate saccadic system using burst cell discharge from the superior colliculus.",
+  "abstract": "Saccade-related burst neurons (SRBNs) in the monkey superior colliculus (SC) have been hypothesized to provide the brainstem saccadic burst generator with the dynamic error signal and the movement initiating trigger signal. To test this claim, we performed two sets of open-loop simulations on a burst generator model with the local feedback disconnected using experimentally obtained SRBN activity as both the driving and trigger signal inputs to the model. First, using neural data obtained from cells located near the middle of the rostral to caudal extent of the SC, the internal parameters of the model were optimized by means of a stochastic hill-climbing algorithm to produce an intermediate-sized saccade. The parameter values obtained from the optimization were then fixed and additional simulations were done using the experimental data from rostral collicular neurons (small saccades) and from more caudal neurons (large saccades); the model generated realistic saccades, matching both position and velocity profiles of real saccades to the centers of the movement fields of all these cells. Second, the model was driven by SRBN activity affiliated with interrupted saccades, the resumed eye movements observed following electrical stimulation of the omnipause region. Once again, the model produced eye movements that closely resembled the interrupted saccades produced by such simulations, but minor readjustment of parameters reflecting the weight of the projection of the trigger signal was required. Our study demonstrates that a model of the burst generator produces reasonably realistic saccades when driven with actual samples of SRBN discharges.",
+  "authors": [
+    "Das S",
+    "Gandhi N J",
+    "Keller E L"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "1995",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain Mapping",
+    "Brain Stem",
+    "Cybernetics",
+    "Feedback",
+    "Models, Biological",
+    "Models, Neurological",
+    "Primates",
+    "Saccades",
+    "Superior Colliculi"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "38669271",
+  "title": "Bayesian inference of structured latent spaces from neural population activity with the orthogonal stochastic linear mixing model.",
+  "abstract": "The brain produces diverse functions, from perceiving sounds to producing arm reaches, through the collective activity of populations of many neurons. Determining if and how the features of these exogenous variables (e.g., sound frequency, reach angle) are reflected in population neural activity is important for understanding how the brain operates. Often, high-dimensional neural population activity is confined to low-dimensional latent spaces. However, many current methods fail to extract latent spaces that are clearly structured by exogenous variables. This has contributed to a debate about whether or not brains should be thought of as dynamical systems or representational systems. Here, we developed a new latent process Bayesian regression framework, the orthogonal stochastic linear mixing model (OSLMM) which introduces an orthogonality constraint amongst time-varying mixture coefficients, and provide Markov chain Monte Carlo inference procedures. We demonstrate superior performance of OSLMM on latent trajectory recovery in synthetic experiments and show superior computational efficiency and prediction performance on several real-world benchmark data sets. We primarily focus on demonstrating the utility of OSLMM in two neural data sets: μECoG recordings from rat auditory cortex during presentation of pure tones and multi-single unit recordings form monkey motor cortex during complex arm reaching. We show that OSLMM achieves superior or comparable predictive accuracy of neural data and decoding of external variables (e.g., reach velocity). Most importantly, in both experimental contexts, we demonstrate that OSLMM latent trajectories directly reflect features of the sounds and reaches, demonstrating that neural dynamics are structured by neural representations. Together, these results demonstrate that OSLMM will be useful for the analysis of diverse, large-scale biological time-series datasets.",
+  "authors": [
+    "Meng Rui",
+    "Bouchard Kristofer E"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2024",
+  "doi": "10.1371/journal.pcbi.1011975",
+  "mesh": [
+    "Bayes Theorem",
+    "Animals",
+    "Models, Neurological",
+    "Rats",
+    "Auditory Cortex",
+    "Neurons",
+    "Markov Chains",
+    "Stochastic Processes",
+    "Computational Biology",
+    "Linear Models",
+    "Monte Carlo Method",
+    "Computer Simulation"
+  ]
+}

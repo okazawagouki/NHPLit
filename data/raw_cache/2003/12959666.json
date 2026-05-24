@@ -1,0 +1,26 @@
+{
+  "pmid": "12959666",
+  "title": "Cell responsiveness in macaque superior temporal polysensory area measured by temporal discriminants.",
+  "abstract": "The firing-rate data from 341 cells from two macaques' superion temporal polysensory area (STPa) were subjected to three different analyses to determine the temporal firing-rate patterns in response to visual optic flow patterns. The data were collected while the monkey viewed four types of optic flow and responded to the change in the display. The mean firing rate (MFR) analysis considered the mean change in firing rate for 500 ms after stimulus onset; the discriminant (DIS) analysis and the principal components (PCA+DIS) analysis considered the change in time-binned firing rate over 1000 ms after stimulus presentation, using bin sizes of 30 to 500 ms. The DIS analysis used a step-down discriminant analysis to find temporal windows in which the cell's firing rate could discriminate among the stimuli; the PCA+DIS analysis extracted the principal components of the cell's firing rates without regard for the stimulus type and then applied a step-down discriminant analysis to the PCA scores to determine whether any of the principal components could discriminate among the stimuli. The two temporal analyses found cells sensitive to the optic flows that the MFR analysis missed. A small proportion of cells showed multiple selectivities under the temporal analyses. Thus, the temporal analyses give a more complete representation of the information encoded by the firing properties of STPa neurons. Finally, this approach incorporates temporal approaches with classical statistical techniques in order to select tuned neurons from a population in an unbiased manner.",
+  "authors": [
+    "Turner J A",
+    "Anderson K C",
+    "Siegel R M"
+  ],
+  "journal": "Neural computation",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Discrimination Learning",
+    "Electrophysiology",
+    "Fixation, Ocular",
+    "Macaca mulatta",
+    "Male",
+    "Neurons, Afferent",
+    "Photic Stimulation",
+    "Temporal Lobe",
+    "Visual Pathways"
+  ]
+}

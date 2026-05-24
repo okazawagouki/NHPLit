@@ -1,0 +1,32 @@
+{
+  "pmid": "37268418",
+  "title": "Inference of Electrical Stimulation Sensitivity from Recorded Activity of Primate Retinal Ganglion Cells.",
+  "abstract": "High-fidelity electronic implants can in principle restore the function of neural circuits by precisely activating neurons via extracellular stimulation. However, direct characterization of the individual electrical sensitivity of a large population of target neurons, to precisely control their activity, can be difficult or impossible. A potential solution is to leverage biophysical principles to infer sensitivity to electrical stimulation from features of spontaneous electrical activity, which can be recorded relatively easily. Here, this approach is developed and its potential value for vision restoration is tested quantitatively using large-scale multielectrode stimulation and recording from retinal ganglion cells (RGCs) of male and female macaque monkeys <i>ex vivo</i> Electrodes recording larger spikes from a given cell exhibited lower stimulation thresholds across cell types, retinas, and eccentricities, with systematic and distinct trends for somas and axons. Thresholds for somatic stimulation increased with distance from the axon initial segment. The dependence of spike probability on injected current was inversely related to threshold, and was substantially steeper for axonal than somatic compartments, which could be identified by their recorded electrical signatures. Dendritic stimulation was largely ineffective for eliciting spikes. These trends were quantitatively reproduced with biophysical simulations. Results from human RGCs were broadly similar. The inference of stimulation sensitivity from recorded electrical features was tested in a data-driven simulation of visual reconstruction, revealing that the approach could significantly improve the function of future high-fidelity retinal implants.<b>SIGNIFICANCE STATEMENT</b> This study demonstrates that individual <i>in situ</i> primate retinal ganglion cells of different types respond to artificially generated, external electrical fields in a systematic manner, in accordance with theoretical predictions, that allows for prediction of electrical stimulus sensitivity from recorded spontaneous activity. It also provides evidence that such an approach could be immensely helpful in the calibration of clinical retinal implants.",
+  "authors": [
+    "Madugula Sasidhar S",
+    "Vilkhu Ramandeep",
+    "Shah Nishal P",
+    "Grosberg Lauren E",
+    "Kling Alexandra",
+    "Gogliettino Alex R",
+    "Nguyen Huy",
+    "Hottowy Paweł",
+    "Sher Alexander",
+    "Litke Alan M",
+    "Chichilnisky E J"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2023",
+  "doi": "10.1523/JNEUROSCI.1023-22.2023",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Female",
+    "Humans",
+    "Retinal Ganglion Cells",
+    "Action Potentials",
+    "Retina",
+    "Primates",
+    "Electric Stimulation"
+  ]
+}

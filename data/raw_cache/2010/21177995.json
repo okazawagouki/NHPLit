@@ -1,0 +1,29 @@
+{
+  "pmid": "21177995",
+  "title": "Spatial summation in macaque parietal area 7a follows a winner-take-all rule.",
+  "abstract": "While neurons in posterior parietal cortex have been found to signal the presence of a salient stimulus among multiple items in a display, spatial summation within their receptive field in the absence of an attentional bias has never been investigated. This information, however, is indispensable when one investigates the mechanisms of spatial attention and competition between multiple visual objects. To examine the spatial summation rule in parietal area 7a neurons, we trained rhesus monkeys to fixate on a central cross while two identical stimuli were briefly displayed in a neuron's receptive field. The response to a pair of dots was compared with the responses to the same dots when they were presented individually. The scaling and power parameters of a generalized summation algorithm varied greatly, both across neurons and across combinations of stimulus locations. However, the averaged response of the recorded population of 7a neurons was consistent with a winner-take-all rule for spatial summation. A control experiment where a monkey covertly attended to both stimuli simultaneously suggests that attention introduces additional competition by facilitating the less optimal stimulus. Thus an averaging stage is introduced between ∼ 200 and 300 ms of the response to a pair of stimuli. In short, the summation algorithm over the population of area 7a neurons carries the signature of a winner-take-all operation, with spatial attention possibly influencing the temporal dynamics of stimulus competition, that is the moment that the \"winner\" takes \"victory\" over the \"loser\" stimulus.",
+  "authors": [
+    "Oleksiak Anna",
+    "Klink P Christiaan",
+    "Postma Albert",
+    "van der Ham Ineke J M",
+    "Lankheet Martin J",
+    "van Wezel Richard J A"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2011",
+  "doi": "10.1152/jn.00907.2010",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Cues",
+    "Decision Making",
+    "Macaca mulatta",
+    "Male",
+    "Nerve Net",
+    "Parietal Lobe",
+    "Perceptual Masking",
+    "Photic Stimulation",
+    "Visual Fields"
+  ]
+}

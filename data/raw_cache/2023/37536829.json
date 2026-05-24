@@ -1,0 +1,26 @@
+{
+  "pmid": "37536829",
+  "title": "A phased array ultrasound system with a robotic arm for neuromodulation.",
+  "abstract": "BACKGROUND: Ultrasonic neuromodulation (UNMOD) provides a non-invasive brain stimulation. However, the high-resolution region-specificity of UNMOD with a single element transducer combined with a mechanical positioning system could have limits due to the intrinsic positioning error from mechanical systems. OBJECTIVE/HYPOTHESIS: A phased array system could lead to highly selective neuromodulation with electronic control. METHODS: A specialized phased-array system with a robotic arm is implemented for a rhesus monkey model. Various primary motor cortex areas related to tail, hand, and mouth were stimulated with a 200 μm step size. The ultrasonic parameters were I<sub>SPTA</sub> of 840 mW/cm<sup>2</sup>, pulse repetition frequency of 100 Hz, and a 5% duty factor at 600 kHz. The induced movement were recorded and analyzed. RESULTS: Separate digits, mouth, and tongue motions were successfully induced by electronically controlling the focus. The identical body part movement could be induced when the focus was moved back to the identical primary motor cortex with electronic control. Accordingly, the reproducibility of UNMOD could be partially validated with rhesus monkey model. CONCLUSION: A phased-array system appears to have a potential for the non-invasive and region-selective neuromodulation method.",
+  "authors": [
+    "Seo Jongbum",
+    "Shin Hyunsoo",
+    "Cho Sungtaek",
+    "Lee Sungon",
+    "Ryu Wooseok",
+    "Han Su-Cheol",
+    "Kim Da Hee",
+    "Kang Goo Hwa"
+  ],
+  "journal": "Medical engineering & physics",
+  "year": "2023",
+  "doi": "10.1016/j.medengphy.2023.104023",
+  "mesh": [
+    "Macaca",
+    "Neurotransmitter Agents",
+    "Robotic Surgical Procedures",
+    "Transducers",
+    "Ultrasonography",
+    "Reproducibility of Results"
+  ]
+}

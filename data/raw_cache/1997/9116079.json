@@ -1,0 +1,19 @@
+{
+  "pmid": "9116079",
+  "title": "Computational models of visual neurons specialised in the detection of periodic and aperiodic oriented visual stimuli: bar and grating cells.",
+  "abstract": "Computational models of periodic- and aperiodic-pattern selective cells, also called grating and bar cells, respectively, are proposed. Grating cells are found in areas V1 and V2 of the visual cortex of monkeys and respond strongly to bar gratings of a given orientation and periodicity but very weakly or not at all to single bars. This non-linear behaviour, which is quite different from the spatial frequency filtering behaviour exhibited by the other types of orientation-selective neurons such as the simple cells, is incorporated in the proposed computational model by using an AND-type non-linearity to combine the responses of simple cells with symmetric receptive field profiles and opposite polarities. The functional behaviour of bar cells, which are found in the same areas of the visual cortex as grating cells, is less well explored and documented in the literature. In general, these cells respond to single bars and their responses decrease when further bars are added to form a periodic pattern. These properties of bar cells are implemented in a computational model in which the responses of bar cells are computed as thresholded differences of the responses of corresponding complex (or simple) cells and grating cells. Bar and grating cells seem to play complementary roles in resolving the ambiguity with which the responses of simple and complex cells represent oriented visual stimuli, in that bar cells are selective only for form information as present in contours and grating cells only respond to oriented texture information. The proposed model is capable of explaining the results of neurophysiological experiments as well as the psychophysical observation that the perception of texture and the perception of form are complementary processes.",
+  "authors": [
+    "Petkov N",
+    "Kruizinga P"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "1997",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

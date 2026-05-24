@@ -1,0 +1,22 @@
+{
+  "pmid": "11747535",
+  "title": "Unitary events in multiple single-neuron spiking activity: II. Nonstationary data.",
+  "abstract": "In order to detect members of a functional group (cell assembly) in simultaneously recorded neuronal spiking activity, we adopted the widely used operational definition that membership in a common assembly is expressed in near-simultaneous spike activity. Unitary event analysis, a statistical method to detect the significant occurrence of coincident spiking activity in stationary data, was recently developed (see the companion article in this issue). The technique for the detection of unitary events is based on the assumption that the underlying processes are stationary in time. This requirement, however, is usually not fulfilled in neuronal data. Here we describe a method that properly normalizes for changes of rate: the unitary events by moving window analysis (UEMWA). Analysis for unitary events is performed separately in overlapping time segments by sliding a window of constant width along the data. In each window, stationarity is assumed. Performance and sensitivity are demonstrated by use of simulated spike trains of independently firing neurons, into which coincident events are inserted. If cortical neurons organize dynamically into functional groups, the occurrence of near-simultaneous spike activity should be time varying and related to behavior and stimuli. UEMWA also accounts for these potentially interesting nonstationarities and allows locating them in time. The potential of the new method is illustrated by results from multiple single-unit recordings from frontal and motor cortical areas in awake, behaving monkey.",
+  "authors": [
+    "Grün Sonja",
+    "Diesmann Markus",
+    "Aertsen Ad"
+  ],
+  "journal": "Neural computation",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Frontal Lobe",
+    "Haplorhini",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neurons"
+  ]
+}

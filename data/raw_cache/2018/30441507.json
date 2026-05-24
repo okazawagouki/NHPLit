@@ -1,0 +1,24 @@
+{
+  "pmid": "30441507",
+  "title": "Reconstructing Neural Activity and Kinematics Using a Systems-Level Model of Sensorimotor Control.",
+  "abstract": "There are two popular and largely independent approaches to study the sensorimotor control system (SCS). One is to construct systems-level models of the SCS that characterize dynamics of motor regions in the brain, alpha motor neurons, and the musculoskeletal system to reconstruct motor behavior. These models view the brain as a feedforward and feedback controller that actuates the musculoskeletal system, and have been useful in understanding how the SCS generates movements. Another approach is to measure neural activity and movements simultaneously in primate and human subjects,and the nanalyze the data tounder standhow the brain encodes and controls movement. In this paper, we combine these two approaches by fitting parameters of a systems-level model of the SCS to neural activity and behavior measured from a nonhuman primate executing four types of reach-tograsp tasks. We applied a nonlinear least squares estimation to fit parameters of the model components that characterize cerebrocerebellar processing of movement error and muscles that are actuated by alpha motor neurons receiving commands from primary motor cortex (M1). Our fitted SCS model accurately reconstructs firing rate activity of six populations of M1 neurons and associated reaching trajectories. This study paves the way for the validation of systems-level models of the SCS using experimental data.",
+  "authors": [
+    "Saxena Shreya",
+    "D'Aleo Raina",
+    "Schieber Marc",
+    "Dahleh Munther",
+    "Sarma Sridevi V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2018",
+  "doi": "10.1109/EMBC.2018.8513433",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Feedback",
+    "Humans",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Movement"
+  ]
+}

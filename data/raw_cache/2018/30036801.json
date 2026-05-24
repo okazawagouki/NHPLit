@@ -1,0 +1,23 @@
+{
+  "pmid": "30036801",
+  "title": "Immunoglobulin genes in Primates.",
+  "abstract": "Five classes of immunoglobulins are known to exist in mammals. The number of isotypes of classes G, E and A varies among species for unknown reasons. Here, a study of the presence of immunoglobulin genes in Primates was carried out from the genomes and transcriptomes deposited in the NCBI repository. For this, a machine learning application based upon neural networks was implemented that scans the genomes and identifies the exon sequences that encode the immunoglobulin CH domains. From these exons, the immunoglobulins that each species possess can be inferred. Also, the presence of sequences outside the IGHC locus was found which were produced by retrotranscription of RNA that are probably not viable. From this study, the distribution of immunoglobulin genes across primate orders is described in detail. In Prosimians, IgD genes are not found; in Platyrrhines, a gene is identified for each of the immunoglobulin classes but the IgD gene does not have the CH2 exon; in the Cercopithecidae family, a gene is detected for each class in the Colobinae family, while in Cercopithecidae the genes for IgG have been duplicated several times. In hominids, a greater number of duplications that include the genes that code for IgA and IgE are observed. These results indicate that from the appearance of the Cercopithecidae, there is an evolutionary instability in the Ig locus.",
+  "authors": [
+    "Olivieri David N",
+    "Gambón Deza Francisco"
+  ],
+  "journal": "Molecular immunology",
+  "year": "2018",
+  "doi": "10.1016/j.molimm.2018.07.020",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Exons",
+    "Genes, Immunoglobulin",
+    "Immunoglobulins",
+    "Phylogeny",
+    "Primates",
+    "Protein Domains",
+    "Transcriptome"
+  ]
+}

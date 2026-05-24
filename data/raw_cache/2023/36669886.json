@@ -1,0 +1,22 @@
+{
+  "pmid": "36669886",
+  "title": "Nutrient-Sensitive Reinforcement Learning in Monkeys.",
+  "abstract": "In reinforcement learning (RL), animals choose by assigning values to options and learn by updating these values from reward outcomes. This framework has been instrumental in identifying fundamental learning variables and their neuronal implementations. However, canonical RL models do not explain how reward values are constructed from biologically critical intrinsic reward components, such as nutrients. From an ecological perspective, animals should adapt their foraging choices in dynamic environments to acquire nutrients that are essential for survival. Here, to advance the biological and ecological validity of RL models, we investigated how (male) monkeys adapt their choices to obtain preferred nutrient rewards under varying reward probabilities. We found that the nutrient composition of rewards strongly influenced learning and choices. Preferences of the animals for specific nutrients (sugar, fat) affected how they adapted to changing reward probabilities; the history of recent rewards influenced choices of the monkeys more strongly if these rewards contained the their preferred nutrients (nutrient-specific reward history). The monkeys also chose preferred nutrients even when they were associated with lower reward probability. A nutrient-sensitive RL model captured these processes; it updated the values of individual sugar and fat components of expected rewards based on experience and integrated them into subjective values that explained the choices of the monkeys. Nutrient-specific reward prediction errors guided this value-updating process. Our results identify nutrients as important reward components that guide learning and choice by influencing the subjective value of choice options. Extending RL models with nutrient-value functions may enhance their biological validity and uncover nutrient-specific learning and decision variables.<b>SIGNIFICANCE STATEMENT</b> RL is an influential framework that formalizes how animals learn from experienced rewards. Although reward is a foundational concept in RL theory, canonical RL models cannot explain how learning depends on specific reward properties, such as nutrients. Intuitively, learning should be sensitive to the nutrient components of the reward to benefit health and survival. Here, we show that the nutrient (fat, sugar) composition of rewards affects how the monkeys choose and learn in an RL paradigm and that key learning variables including reward history and reward prediction error should be modified with nutrient-specific components to account for the choice behavior observed in the monkeys. By incorporating biologically critical nutrient rewards into the RL framework, our findings help advance the ecological validity of RL models.",
+  "authors": [
+    "Huang Fei-Yang",
+    "Grabenhorst Fabian"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2023",
+  "doi": "10.1523/JNEUROSCI.0752-22.2022",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Haplorhini",
+    "Reinforcement, Psychology",
+    "Reward",
+    "Neurons",
+    "Nutrients",
+    "Choice Behavior"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "27282247",
+  "title": "Associative-memory representations emerge as shared spatial patterns of theta activity spanning the primate temporal cortex.",
+  "abstract": "Highly localized neuronal spikes in primate temporal cortex can encode associative memory; however, whether memory formation involves area-wide reorganization of ensemble activity, which often accompanies rhythmicity, or just local microcircuit-level plasticity, remains elusive. Using high-density electrocorticography, we capture local-field potentials spanning the monkey temporal lobes, and show that the visual pair-association (PA) memory is encoded in spatial patterns of theta activity in areas TE, 36, and, partially, in the parahippocampal cortex, but not in the entorhinal cortex. The theta patterns elicited by learned paired associates are distinct between pairs, but similar within pairs. This pattern similarity, emerging through novel PA learning, allows a machine-learning decoder trained on theta patterns elicited by a particular visual item to correctly predict the identity of those elicited by its paired associate. Our results suggest that the formation and sharing of widespread cortical theta patterns via learning-induced reorganization are involved in the mechanisms of associative memory representation.",
+  "authors": [
+    "Nakahara Kiyoshi",
+    "Adachi Ken",
+    "Kawasaki Keisuke",
+    "Matsuo Takeshi",
+    "Sawahata Hirohito",
+    "Majima Kei",
+    "Takeda Masaki",
+    "Sugiyama Sayaka",
+    "Nakata Ryota",
+    "Iijima Atsuhiko",
+    "Tanigawa Hisashi",
+    "Suzuki Takafumi",
+    "Kamitani Yukiyasu",
+    "Hasegawa Isao"
+  ],
+  "journal": "Nature communications",
+  "year": "2016",
+  "doi": "10.1038/ncomms11827",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electrocorticography",
+    "Electrodes",
+    "Female",
+    "Memory",
+    "Primates",
+    "Space Perception",
+    "Task Performance and Analysis",
+    "Temporal Lobe",
+    "Theta Rhythm"
+  ]
+}

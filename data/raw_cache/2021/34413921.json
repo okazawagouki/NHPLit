@@ -1,0 +1,18 @@
+{
+  "pmid": "34413921",
+  "title": "ANALYZING SECOND ORDER STOCHASTICITY OF NEURAL SPIKING UNDER STIMULI-BUNDLE EXPOSURE.",
+  "abstract": "Conventional analysis of neuroscience data involves computing average neural activity over a group of trials and/or a period of time. This approach may be particularly problematic when assessing the response patterns of neurons to more than one simultaneously presented stimulus. in such cases the brain must represent each individual component of the stimuli bundle, but trial-and-time-pooled averaging methods are fundamentally unequipped to address the means by which multiitem representation occurs. We introduce and investigate a novel statistical analysis framework that relates the firing pattern of a single cell, exposed to a stimuli bundle, to the ensemble of its firing patterns under each constituent stimulus. Existing statistical tools focus on what may be called \"first order stochasticity\" in trial-to-trial variation in the form of unstructured noise around a fixed firing rate curve associated with a given stimulus. our analysis is based upon the theoretical premise that exposure to a stimuli bundle induces additional stochasticity in the cell's response pattern in the form of a stochastically varying recombination of its single stimulus firing rate curves. We discuss challenges to statistical estimation of such \"second order stochasticity\" and address them with a novel dynamic admixture point process (DAPP) model. DAPP is a hierarchical point process model that decomposes second order stochasticity into a Gaussian stochastic process and a random vector of interpretable features and facilitates borrowing of information on the latter across repeated trials through latent clustering. We illustrate the utility and accuracy of the DAPP analysis with synthetic data simulation studies. We present real-world evidence of second order stochastic variation with an analysis of monkey inferior colliculus recordings under auditory stimuli.",
+  "authors": [
+    "Glynn Chris",
+    "Tokdar Surya T",
+    "Zaman Azeem",
+    "Caruso Valeria C",
+    "Mohl Jeff T",
+    "Willett Shawn M",
+    "Groh Jennifer M"
+  ],
+  "journal": "The annals of applied statistics",
+  "year": "2021",
+  "doi": "10.1214/20-AOAS1383",
+  "mesh": []
+}

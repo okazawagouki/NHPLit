@@ -1,0 +1,35 @@
+{
+  "pmid": "19608383",
+  "title": "Extraction of percept-related induced local field potential during spontaneously reversing perception.",
+  "abstract": "The question of how perception arises from neuronal activity in the visual cortex is of fundamental importance in cognitive neuroscience. To address this question, we adopt a unique experimental paradigm in which bistable structure-from-motion (SFM) stimuli are employed to dissociate the visual input from perception while monitoring the cortical neural activity called local field potential (LFP). Consequently, the stimulus-evoked activity of LFP is not related to perception but the oscillatory induced activity of LFP may be percept-related. In this paper we focus on extracting the percept-related features of the induced activity from LFP in a monkey's visual cortex for decoding its bistable structure-from-motion perception. We first estimate the stimulus-evoked activity via a wavelet-based method and remove it from the single-trial LFP. We then use the common spatial patterns (CSP) approach to design spatial filters to extract the percept-related features from the remaining induced activity. We exploit the linear discriminant analysis (LDA) classifier on the extracted features to decode the reported perception on a single-trial basis. We demonstrate that our approach has excellent performance in estimating the stimulus-evoked activity, outperforming the Wiener filter, least mean square (LMS), and a local regression method called the locally weighted scatterplot smoothing (LOWESS), and that our approach is effective in extracting the discriminative features of the percept-related induced activity from LFP, which leads to excellent decoding performance. We also discover that the enhanced gamma band synchronization and reduced alpha band desynchronization may be the underpinnings of the induced activity.",
+  "authors": [
+    "Wang Zhisong",
+    "Logothetis Nikos K",
+    "Liang Hualou"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2009",
+  "doi": "10.1016/j.neunet.2009.06.037",
+  "mesh": [
+    "Algorithms",
+    "Alpha Rhythm",
+    "Animals",
+    "Computer Simulation",
+    "Cortical Synchronization",
+    "Discriminant Analysis",
+    "Evoked Potentials, Visual",
+    "Least-Squares Analysis",
+    "Linear Models",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Motion Perception",
+    "Neurons",
+    "Periodicity",
+    "Photic Stimulation",
+    "Regression Analysis",
+    "Signal Processing, Computer-Assisted",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "15317857",
+  "title": "Adaptive temporal integration of motion in direction-selective neurons in macaque visual cortex.",
+  "abstract": "Direction-selective neurons in the primary visual cortex (V1) and the extrastriate motion area MT/V5 constitute a critical channel that links early cortical mechanisms of spatiotemporal integration to downstream signals that underlie motion perception. We studied how temporal integration in direction-selective cells depends on speed, spatial frequency (SF), and contrast using randomly moving sinusoidal gratings and spike-triggered average (STA) analysis. The window of temporal integration revealed by the STAs varied substantially with stimulus parameters, extending farther back in time for slow motion, high SF, and low contrast. At low speeds and high SF, STA peaks were larger, indicating that a single spike often conveyed more information about the stimulus under conditions in which the mean firing rate was very low. The observed trends were similar in V1 and MT and offer a physiological correlate for a large body of psychophysical data on temporal integration. We applied the same visual stimuli to a model of motion detection based on oriented linear filters (a motion energy model) that incorporated an integrate-and-fire mechanism and found that it did not account for the neuronal data. Our results show that cortical motion processing in V1 and in MT is highly nonlinear and stimulus dependent. They cast considerable doubt on the ability of simple oriented filter models to account for the output of direction-selective neurons in a general manner. Finally, they suggest that spike rate tuning functions may miss important aspects of the neural coding of motion for stimulus conditions that evoke low firing rates.",
+  "authors": [
+    "Bair Wyeth",
+    "Movshon J Anthony"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Adaptation, Physiological",
+    "Animals",
+    "Kinetics",
+    "Macaca",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

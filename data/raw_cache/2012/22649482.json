@@ -1,0 +1,26 @@
+{
+  "pmid": "22649482",
+  "title": "Statistical analysis of single-trial Granger causality spectra.",
+  "abstract": "Granger causality analysis is becoming central for the analysis of interactions between neural populations and oscillatory networks. However, it is currently unclear whether single-trial estimates of Granger causality spectra can be used reliably to assess directional influence. We addressed this issue by combining single-trial Granger causality spectra with statistical inference based on general linear models. The approach was assessed on synthetic and neurophysiological data. Synthetic bivariate data was generated using two autoregressive processes with unidirectional coupling. We simulated two hypothetical experimental conditions: the first mimicked a constant and unidirectional coupling, whereas the second modelled a linear increase in coupling across trials. The statistical analysis of single-trial Granger causality spectra, based on t-tests and linear regression, successfully recovered the underlying pattern of directional influence. In addition, we characterised the minimum number of trials and coupling strengths required for significant detection of directionality. Finally, we demonstrated the relevance for neurophysiology by analysing two local field potentials (LFPs) simultaneously recorded from the prefrontal and premotor cortices of a macaque monkey performing a conditional visuomotor task. Our results suggest that the combination of single-trial Granger causality spectra and statistical inference provides a valuable tool for the analysis of large-scale cortical networks and brain connectivity.",
+  "authors": [
+    "Brovelli Andrea"
+  ],
+  "journal": "Computational and mathematical methods in medicine",
+  "year": "2012",
+  "doi": "10.1155/2012/697610",
+  "mesh": [
+    "Animals",
+    "Causality",
+    "Computer Simulation",
+    "Electrophysiological Phenomena",
+    "Humans",
+    "Linear Models",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Prefrontal Cortex",
+    "Psychomotor Performance"
+  ]
+}

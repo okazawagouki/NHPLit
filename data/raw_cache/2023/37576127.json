@@ -1,0 +1,12 @@
+{
+  "pmid": "37576127",
+  "title": "Brain MRI Segmentation using Template-Based Training and Visual Perception Augmentation.",
+  "abstract": "Deep learning models usually require sufficient training data to achieve high accuracy, but obtaining labeled data can be time-consuming and labor-intensive. Here we introduce a template-based training method to train a 3D U-Net model from scratch using only one population-averaged brain MRI template and its associated segmentation label. The process incorporated visual perception augmentation to enhance the model's robustness in handling diverse image inputs and mitigating overfitting. Leveraging this approach, we trained 3D U-Net models for mouse, rat, marmoset, rhesus, and human brain MRI to achieve segmentation tasks such as skull-stripping, brain segmentation, and tissue probability mapping. This tool effectively addresses the limited availability of training data and holds significant potential for expanding deep learning applications in image analysis, providing researchers with a unified solution to train deep neural networks with only one image sample.",
+  "authors": [
+    "Yeh Fang-Cheng"
+  ],
+  "journal": "ArXiv",
+  "year": "2023",
+  "doi": "",
+  "mesh": []
+}

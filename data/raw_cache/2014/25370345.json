@@ -1,0 +1,29 @@
+{
+  "pmid": "25370345",
+  "title": "A mechanism for decision rule discrimination by supplementary eye field neurons.",
+  "abstract": "A decision to select an action from alternatives is often guided by rules that flexibly map sensory inputs to motor outputs when certain conditions are satisfied. However, the neural mechanisms underlying rule-based decision making remain poorly understood. Two complementary types of neurons in the supplementary eye field (SEF) of macaques have been identified that modulate activity differentially to interpret rules in an ocular go-nogo task, which stipulates that the animal either visually pursue a moving object if it intersects a visible zone ('go'), or maintain fixation if it does not ('nogo'). These neurons discriminate between go and nogo rule-states by increasing activity to signal their preferred (agonist) rule-state and decreasing activity to signal their non-preferred (antagonist) rule-state. In the current study, we found that SEF neurons decrease activity in anticipation of the antagonist rule-state, and do so more rapidly when the rule-state is easier to predict. This rapid decrease in activity could underlie a process of elimination in which trajectories that do not invoke the preferred rule-state receive no further computational resources. Furthermore, discrimination between difficult and easy trials in the antagonist rule-state occurs prior to when discrimination within the agonist rule-state occurs. A winner-take-all like model that incorporates a pair of mutually inhibited integrators to accumulate evidence in favor of either the decision to pursue or the decision to continue fixation accounts for the observed neural phenomena.",
+  "authors": [
+    "Ray Supriya",
+    "Heinen Stephen J"
+  ],
+  "journal": "Experimental brain research",
+  "year": "2015",
+  "doi": "10.1007/s00221-014-4127-2",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Area Under Curve",
+    "Computer Simulation",
+    "Decision Making",
+    "Discrimination, Psychological",
+    "Eye Movements",
+    "Frontal Lobe",
+    "Haplorhini",
+    "Inhibition, Psychological",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Time Factors",
+    "Visual Fields"
+  ]
+}

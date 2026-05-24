@@ -1,0 +1,33 @@
+{
+  "pmid": "15067167",
+  "title": "Integrating databases and expert systems for the analysis of brain structures: connections, similarities, and homologies.",
+  "abstract": "The NeuroHomology Database system (NHDB) combines databases related to brain structures from different species with different knowledge management systems (KMSs) for systematization, evaluation and processing neurobiological data. Special attention is assessment of similarity of data from different species as a basis for exploring neural homologies. NHDB includes modules that handle brain structure and connectivity data, as well as inference engines for evaluation of the stored neurobiological information. The spatial inference engine evaluates the possible topological relations between cortical structures in different neuroanatomical atlases. The connectivity inference engine evaluates the reliability of information pertaining to fiber tracts as those are reflected in the literature. The inference engine for translation of neuroanatomical connections in different atlases evaluates the probability of existence of connections of interest in different parcellation schemes. Finally, the similarity inference engine calculates the overall degree of similarity of pairs of brain structures from different species by taking into account a set of eight criteria. We present examples of search for information in NHDB system, inferences of relations between cortical structures from equivalent neuroanatomical atlases, reconstruction of functional networks of brain structures from data collated from the literature, translation of connectivity matrices in equivalent parcellation schemes, and evaluations of similarities of brain structures from humans, macaques and rats.",
+  "authors": [
+    "Bota Mihail",
+    "Arbib Michael A"
+  ],
+  "journal": "Neuroinformatics",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Anatomy, Artistic",
+    "Anatomy, Comparative",
+    "Animals",
+    "Artificial Intelligence",
+    "Biological Evolution",
+    "Brain",
+    "Cell Size",
+    "Computer Simulation",
+    "Databases, Factual",
+    "Expert Systems",
+    "Humans",
+    "Information Management",
+    "Macaca",
+    "Neural Pathways",
+    "Neurons",
+    "Rats",
+    "Software Design",
+    "Terminology as Topic"
+  ]
+}

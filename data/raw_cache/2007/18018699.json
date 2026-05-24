@@ -1,0 +1,34 @@
+{
+  "pmid": "18018699",
+  "title": "HermesB: a continuous neural recording system for freely behaving primates.",
+  "abstract": "Chronically implanted electrode arrays have enabled a broad range of advances in basic electrophysiology and neural prosthetics. Those successes motivate new experiments, particularly, the development of prototype implantable prosthetic processors for continuous use in freely behaving subjects, both monkeys and humans. However, traditional experimental techniques require the subject to be restrained, limiting both the types and duration of experiments. In this paper, we present a dual-channel, battery-powered neural recording system with an integrated three-axis accelerometer for use with chronically implanted electrode arrays in freely behaving primates. The recording system called HermesB, is self-contained, autonomous, programmable, and capable of recording broadband neural (sampled at 30 kS/s) and acceleration data to a removable compact flash card for up to 48 h. We have collected long-duration data sets with HermesB from an adult macaque monkey which provide insight into time scales and free behaviors inaccessible under traditional experiments. Variations in action potential shape and root-mean square (RMS) noise are observed across a range of time scales. The peak-to-peak voltage of action potentials varied by up to 30% over a 24-h period including step changes in waveform amplitude (up to 25%) coincident with high acceleration movements of the head. These initial results suggest that spike-sorting algorithms can no longer assume stable neural signals and will need to transition to adaptive signal processing methodologies to maximize performance. During physically active periods (defined by head-mounted accelerometer), significantly reduced 5-25-Hz local field potential (LFP) power and increased firing rate variability were observed. Using a threshold fit to LFP power, 93% of 403 5-min recording blocks were correctly classified as active or inactive, potentially providing an efficient tool for identifying different behavioral contexts in prosthetic applications. These results demonstrate the utility of the HermesB system and motivate using this type of system to advance neural prosthetics and electrophysiological experiments.",
+  "authors": [
+    "Santhanam Gopal",
+    "Linderman Michael D",
+    "Gilja Vikash",
+    "Afshar Afsheen",
+    "Ryu Stephen I",
+    "Meng Teresa H",
+    "Shenoy Krishna V"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Acceleration",
+    "Action Potentials",
+    "Amplifiers, Electronic",
+    "Animals",
+    "Brain",
+    "Diagnosis, Computer-Assisted",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Equipment Design",
+    "Equipment Failure Analysis",
+    "Female",
+    "Macaca",
+    "Miniaturization",
+    "Monitoring, Ambulatory",
+    "Prostheses and Implants"
+  ]
+}

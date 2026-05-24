@@ -1,0 +1,28 @@
+{
+  "pmid": "18291677",
+  "title": "Generating a model of the three-dimensional spatial distribution of neurons using density maps.",
+  "abstract": "Microcolumns are a vertical arrangement of neocortical neurons that may constitute a fundamental computational ensemble but have been difficult to study morphologically because of the challenges of determining the three-dimensional (3D) spatial arrangements of individual neurons in the ensemble. Previously, a statistical density map method was developed to characterize microcolumns using two-dimensional (2D) coordinates of neurons from thin tissue sections. Here we extend this approach to derive the relationship between these 2D density maps and the actual 3D properties of microcolumns by creating a theoretical 3D model of cortical neurons. In seven steps, we transform a 3D initial arrangement of neurons from a crystalline lattice, with distances and neuron numbers approximating the idealized cortical microcolumn as assayed by our 2D density map analysis, into a model whose neuronal locations represent a plausible 3D arrangement of neurons in the brain. Because we constrain the transformations on the 3D model by the 2D density map properties, the transformed 3D model will exhibit properties that are consistent with experimental findings regarding microcolumnar anatomy in the brain. Moreover, because our methodology only requires the x,y locations of neurons from thin sections, it is readily accessible to any set of input data regardless of preparation or staining, from human or animals. By generating 3D model neuronal arrangements and comparing between control, aged, and diseased brain, our method can be used to test hypotheses about the effects of neurological diseases as well as normal aging on the 3D structure of microcolumns in the brain.",
+  "authors": [
+    "Cruz Luis",
+    "Urbanc Brigita",
+    "Inglis Andrew",
+    "Rosene Douglas L",
+    "Stanley H E"
+  ],
+  "journal": "NeuroImage",
+  "year": "2008",
+  "doi": "10.1016/j.neuroimage.2007.12.042",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Humans",
+    "Interneurons",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurons",
+    "Normal Distribution"
+  ]
+}

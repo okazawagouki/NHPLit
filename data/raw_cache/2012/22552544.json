@@ -1,0 +1,29 @@
+{
+  "pmid": "22552544",
+  "title": "Aggregate input-output models of neuronal populations.",
+  "abstract": "An extraordinary amount of electrophysiological data has been collected from various brain nuclei to help us understand how neural activity in one region influences another region. In this paper, we exploit the point process modeling (PPM) framework and describe a method for constructing aggregate input-output (IO) stochastic models that predict spiking activity of a population of neurons in the \"output\" region as a function of the spiking activity of a population of neurons in the \"input\" region. We first build PPMs of each output neuron as a function of all input neurons, and then cluster the output neurons using the model parameters. Output neurons that lie within the same cluster have the same functional dependence on the input neurons. We first applied our method to simulated data, and successfully uncovered the predetermined relationship between the two regions. We then applied our method to experimental data to understand the input-output relationship between motor cortical neurons and 1) somatosensory and 2) premotor cortical neurons during a behavioral task. Our aggregate IO models highlighted interesting physiological dependences including relative effects of inhibition/excitation from input neurons and extrinsic factors on output neurons.",
+  "authors": [
+    "Saxena Shreya",
+    "Schieber Marc H",
+    "Thakor Nitish V",
+    "Sarma Sridevi V"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2012",
+  "doi": "10.1109/TBME.2012.2196699",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cluster Analysis",
+    "Computer Simulation",
+    "Electrodes, Implanted",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Nerve Net",
+    "Neurons",
+    "Psychomotor Performance",
+    "Somatosensory Cortex"
+  ]
+}

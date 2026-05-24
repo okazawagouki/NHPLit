@@ -1,0 +1,25 @@
+{
+  "pmid": "27798630",
+  "title": "The spatial structure of correlated neuronal variability.",
+  "abstract": "Shared neural variability is ubiquitous in cortical populations. While this variability is presumed to arise from overlapping synaptic input, its precise relationship to local circuit architecture remains unclear. We combine computational models and in vivo recordings to study the relationship between the spatial structure of connectivity and correlated variability in neural circuits. Extending the theory of networks with balanced excitation and inhibition, we find that spatially localized lateral projections promote weakly correlated spiking, but broader lateral projections produce a distinctive spatial correlation structure: nearby neuron pairs are positively correlated, pairs at intermediate distances are negatively correlated and distant pairs are weakly correlated. This non-monotonic dependence of correlation on distance is revealed in a new analysis of recordings from superficial layers of macaque primary visual cortex. Our findings show that incorporating distance-dependent connectivity improves the extent to which balanced network theory can explain correlated neural variability.",
+  "authors": [
+    "Rosenbaum Robert",
+    "Smith Matthew A",
+    "Kohn Adam",
+    "Rubin Jonathan E",
+    "Doiron Brent"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2017",
+  "doi": "10.1038/nn.4433",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

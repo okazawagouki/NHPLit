@@ -1,0 +1,21 @@
+{
+  "pmid": "42027716",
+  "title": "Ultrastructural analysis of human uncinate fasciculus with coherent anti-Stokes Raman spectroscopy.",
+  "abstract": "SIGNIFICANCE: Characterizing the ultrastructure of myelin in the human brain is key to understanding the neurobiology of both health and disease. In postmortem human brain tissue, electron microscopy is often technically unfeasible due to poorer tissue quality. AIM: The uncinate fasciculus (UF) is a long-range white matter association tract that connects the anterior temporal lobe with the orbitofrontal cortex. The UF is not present in rodents yet is highly expanded in humans and nonhuman primates. As such, its molecular and ultrastructural properties are virtually unknown. APPROACH: Here, we develop and validate a spectral-focusing coherent anti-Stokes Raman spectroscopy (sf-CARS) system coupled with a custom AxonDeepSeg segmentation model to characterize UF ultrastructure in the human postmortem brain ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mi>n</mi> <mo>=</mo> <mn>6</mn></mrow> </math> ). RESULTS: We provide a proof of concept of this new methodological pipeline in the UF temporal segment and observe that the mean axon diameter detected is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>0.93</mn> <mtext>  </mtext> <mi>μ</mi> <mi>m</mi> <mo>±</mo> <mn>0.54</mn></mrow> </math> and the mean myelin thickness is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>0.48</mn> <mtext>  </mtext> <mi>μ</mi> <mi>m</mi> <mo>±</mo> <mn>0.14</mn></mrow> </math> . We also observe that the UF axons are thicker than those in the anterior cingulate cortex white matter. CONCLUSIONS: We detail and validate the full methodology, including tissue fixation and sectioning, sf-CARS acquisition settings, as well as the AxonDeepSeg deep learning model parameters, such that this pipeline can be utilized by others in the field.",
+  "authors": [
+    "Perlman Kelly",
+    "Noël Valérie Pineau",
+    "Collin Armand",
+    "Major Justine",
+    "Mardenli Murielle",
+    "Jerczynski Sébastien",
+    "Davoli Maria Antonietta",
+    "Cohen-Adad Julien",
+    "Côté Daniel",
+    "Mechawar Naguib"
+  ],
+  "journal": "Biophotonics discovery",
+  "year": "2026",
+  "doi": "10.1117/1.BIOS.3.2.025002",
+  "mesh": []
+}

@@ -1,0 +1,14 @@
+{
+  "pmid": "24130549",
+  "title": "Long-Range Temporal Correlations, Multifractality, and the Causal Relation between Neural Inputs and Movements.",
+  "abstract": "Understanding the causal relation between neural inputs and movements is very important for the success of brain-machine interfaces (BMIs). In this study, we analyze 104 neurons' firings using statistical, information theoretic, and fractal analysis. The latter include Fano factor analysis, multifractal adaptive fractal analysis (MF-AFA), and wavelet multifractal analysis. We find neuronal firings are highly non-stationary, and Fano factor analysis always indicates long-range correlations in neuronal firings, irrespective of whether those firings are correlated with movement trajectory or not, and thus does not reveal any actual correlations between neural inputs and movements. On the other hand, MF-AFA and wavelet multifractal analysis clearly indicate that when neuronal firings are not well correlated with movement trajectory, they do not have or only have weak temporal correlations. When neuronal firings are well correlated with movements, they are characterized by very strong temporal correlations, up to a time scale comparable to the average time between two successive reaching tasks. This suggests that neurons well correlated with hand trajectory experienced a \"re-setting\" effect at the start of each reaching task, in the sense that within the movement correlated neurons the spike trains' long-range dependences persisted about the length of time the monkey used to switch between task executions. A new task execution re-sets their activity, making them only weakly correlated with their prior activities on longer time scales. We further discuss the significance of the coalition of those important neurons in executing cortical control of prostheses.",
+  "authors": [
+    "Hu Jing",
+    "Zheng Yi",
+    "Gao Jianbo"
+  ],
+  "journal": "Frontiers in neurology",
+  "year": "2013",
+  "doi": "10.3389/fneur.2013.00158",
+  "mesh": []
+}

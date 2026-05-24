@@ -1,0 +1,25 @@
+{
+  "pmid": "31274393",
+  "title": "Body Patches in Inferior Temporal Cortex Encode Categories with Different Temporal Dynamics.",
+  "abstract": "An unresolved question in cognitive neuroscience is how representations of object categories at different levels (basic and superordinate) develop during the course of the neural response within an area. To address this, we decoded categories of different levels from the spiking responses of populations of neurons recorded in two fMRI-defined body patches in the macaque STS. Recordings of the two patches were made in the same animals with the same stimuli. Support vector machine classifiers were trained at brief response epochs and tested at the same or different epochs, thus assessing whether category representations change during the course of the response. In agreement with hierarchical processing within the body patch network, the posterior body patch mid STS body (MSB) showed an earlier onset of categorization compared with the anterior body patch anterior STS body (ASB), irrespective of the categorization level. Decoding of the superordinate body versus nonbody categories was less dynamic in MSB than in ASB, with ASB showing a biphasic temporal pattern. Decoding of the ordinate-level category human versus monkey bodies showed similar temporal patterns in both patches. The decoding onset of superordinate categorizations involving bodies was as early as for basic-level categorization, suggesting that previously reported differences between the onset of basic and superordinate categorizations may depend on the area. The qualitative difference between areas in their dynamics of category representation may hinder the interpretation of decoding dynamics based on EEG or MEG, methods that may mix signals of different areas.",
+  "authors": [
+    "Kumar Satwant",
+    "Vogels Rufin"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "2019",
+  "doi": "10.1162/jocn_a_01444",
+  "mesh": [
+    "Animals",
+    "Concept Formation",
+    "Electroencephalography",
+    "Electrophysiological Phenomena",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Pattern Recognition, Visual",
+    "Support Vector Machine",
+    "Temporal Lobe",
+    "Time Factors"
+  ]
+}

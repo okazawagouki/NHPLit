@@ -1,0 +1,29 @@
+{
+  "pmid": "16079192",
+  "title": "Comparing acceleration and speed tuning in macaque MT: physiology and modeling.",
+  "abstract": "Studies of individual neurons in area MT have traditionally investigated their sensitivity to constant speeds. We investigated acceleration sensitivity in MT neurons by comparing their responses to constant steps and linear ramps in stimulus speed. Speed ramps constituted constant accelerations and decelerations between 0 and 240 degrees /s. Our results suggest that MT neurons do not have explicit acceleration sensitivity, although speed changes affected their responses in three main ways. First, accelerations typically evoked higher responses than the corresponding deceleration rate at all rates tested. We show that this can be explained by adaptation mechanisms rather than differential processing of positive and negative speed gradients. Second, we inferred a cell's preferred speed from the responses to speed ramps by finding the stimulus speed at the latency-adjusted time when response amplitude peaked. In most cells, the preferred speeds inferred from deceleration were higher than those for accelerations of the same rate or from steps in stimulus speed. Third, neuron responses to speed ramps were not well predicted by the transient or sustained responses to steps in stimulus speed. Based on these findings, we developed a model incorporating adaptation and a neuron's speed tuning that predicted the higher inferred speeds and lower spike rates for deceleration responses compared with acceleration responses. This model did not predict acceleration-specific responses, in accordance with the lack of acceleration sensitivity in the neurons. The outputs of this single-cell model were passed to a population-vector-based model used to estimate stimulus speed and acceleration. We show that such a model can accurately estimate relative speed and acceleration using information from the population of neurons in area MT.",
+  "authors": [
+    "Price N S C",
+    "Ono S",
+    "Mustari M J",
+    "Ibbotson M R"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Acceleration",
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Eye Movements",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motion",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Temporal Lobe",
+    "Visual Cortex"
+  ]
+}

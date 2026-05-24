@@ -1,0 +1,14 @@
+{
+  "pmid": "33343308",
+  "title": "Noise-Correlation Is Modulated by Reward Expectation in the Primary Motor Cortex Bilaterally During Manual and Observational Tasks in Primates.",
+  "abstract": "Reward modulation is represented in the motor cortex (M1) and could be used to implement more accurate decoding models to improve brain-computer interfaces (BCIs; Zhao et al., 2018). Analyzing trial-to-trial noise-correlations between neural units in the presence of rewarding (R) and non-rewarding (NR) stimuli adds to our understanding of cortical network dynamics. We utilized Pearson's correlation coefficient to measure shared variability between simultaneously recorded units (32-112) and found significantly higher noise-correlation and positive correlation between the populations' signal- and noise-correlation during NR trials as compared to R trials. This pattern is evident in data from two non-human primates (NHPs) during single-target center out reaching tasks, both manual and action observation versions. We conducted a mean matched noise-correlation analysis to decouple known interactions between event-triggered firing rate changes and neural correlations. Isolated reward discriminatory units demonstrated stronger correlational changes than units unresponsive to reward firing rate modulation, however, the qualitative response was similar, indicating correlational changes within the network as a whole can serve as another information channel to be exploited by BCIs that track the underlying cortical state, such as reward expectation, or attentional modulation. Reward expectation and attention in return can be utilized with reinforcement learning (RL) towards autonomous BCI updating.",
+  "authors": [
+    "Moore Brittany",
+    "Khang Sheng",
+    "Francis Joseph Thachil"
+  ],
+  "journal": "Frontiers in behavioral neuroscience",
+  "year": "2020",
+  "doi": "10.3389/fnbeh.2020.541920",
+  "mesh": []
+}

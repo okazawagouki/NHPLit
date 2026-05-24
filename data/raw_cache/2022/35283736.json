@@ -1,0 +1,17 @@
+{
+  "pmid": "35283736",
+  "title": "Recurrent Connections Might Be Important for Hierarchical Categorization.",
+  "abstract": "Visual short-term memory is an important ability of primates and is thought to be stored in area TE. We previously reported that the initial transient responses of neurons in area TE represented information about a global category of faces, e.g., monkey faces vs. human faces vs. simple shapes, and the latter part of the responses represented information about fine categories, e.g., facial expression. The neuronal mechanisms of hierarchical categorization in area TE remain unknown. For this study, we constructed a combined model that consisted of a deep neural network (DNN) and a recurrent neural network and investigated whether this model can replicate the time course of hierarchical categorization. The visual images were stored in the recurrent connections of the model. When the visual images with noise were input to the model, the model outputted the time course of the hierarchical categorization. This result indicates that recurrent connections in the model are important not only for visual short-term memory but for hierarchical categorization, suggesting that recurrent connections in area TE are important for hierarchical categorization.",
+  "authors": [
+    "Matsumoto Narihisa",
+    "Taguchi Yusuke",
+    "Shimizu Masaumi",
+    "Katakami Shun",
+    "Okada Masato",
+    "Sugase-Miyamoto Yasuko"
+  ],
+  "journal": "Frontiers in systems neuroscience",
+  "year": "2022",
+  "doi": "10.3389/fnsys.2022.805990",
+  "mesh": []
+}

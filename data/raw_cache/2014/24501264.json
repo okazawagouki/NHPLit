@@ -1,0 +1,24 @@
+{
+  "pmid": "24501264",
+  "title": "Delayed suppression shapes disparity selective responses in monkey V1.",
+  "abstract": "The stereo correspondence problem poses a challenge to visual neurons because localized receptive fields potentially cause false responses. Neurons in the primary visual cortex (V1) partially resolve this problem by combining excitatory and suppressive responses to encode binocular disparity. We explored the time course of this combination in awake, monkey V1 neurons using subspace mapping of receptive fields. The stimulus was a binocular noise pattern constructed from discrete spatial frequency components. We forward correlated the firing of the V1 neuron with the occurrence of binocular presentations of each spatial frequency component. The forward correlation yielded a complete set of response time courses to every combination of spatial frequency and interocular phase difference. Some combinations produced suppressive responses. Typically, if an interocular phase difference for a given spatial frequency produced strong excitation, we saw suppression in response to the opposite interocular phase difference at lower spatial frequencies. The suppression was delayed relative to the excitation, with a median difference in latency of 7 ms. We found that the suppressive mechanism explains a well-known mismatch of monocular and binocular signals. The suppressive components increased power at low spatial frequencies in disparity tuning, whereas they reduced the monocular response to low spatial frequencies. This long-recognized mismatch of binocular and monocular signals reflects a suppressive mechanism that helps reduce the response to false matches.",
+  "authors": [
+    "Tanabe Seiji",
+    "Cumming Bruce G"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2014",
+  "doi": "10.1152/jn.00426.2013",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Evoked Potentials, Visual",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Reaction Time",
+    "Vision Disparity",
+    "Visual Cortex",
+    "Visual Fields"
+  ]
+}

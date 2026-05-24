@@ -1,0 +1,21 @@
+{
+  "pmid": "35613218",
+  "title": "Distinct neuronal types contribute to hybrid temporal encoding strategies in primate auditory cortex.",
+  "abstract": "Studies of the encoding of sensory stimuli by the brain often consider recorded neurons as a pool of identical units. Here, we report divergence in stimulus-encoding properties between subpopulations of cortical neurons that are classified based on spike timing and waveform features. Neurons in auditory cortex of the awake marmoset (Callithrix jacchus) encode temporal information with either stimulus-synchronized or nonsynchronized responses. When we classified single-unit recordings using either a criteria-based or an unsupervised classification method into regular-spiking, fast-spiking, and bursting units, a subset of intrinsically bursting neurons formed the most highly synchronized group, with strong phase-locking to sinusoidal amplitude modulation (SAM) that extended well above 20 Hz. In contrast with other unit types, these bursting neurons fired primarily on the rising phase of SAM or the onset of unmodulated stimuli, and preferred rapid stimulus onset rates. Such differentiating behavior has been previously reported in bursting neuron models and may reflect specializations for detection of acoustic edges. These units responded to natural stimuli (vocalizations) with brief and precise spiking at particular time points that could be decoded with high temporal stringency. Regular-spiking units better reflected the shape of slow modulations and responded more selectively to vocalizations with overall firing rate increases. Population decoding using time-binned neural activity found that decoding behavior differed substantially between regular-spiking and bursting units. A relatively small pool of bursting units was sufficient to identify the stimulus with high accuracy in a manner that relied on the temporal pattern of responses. These unit type differences may contribute to parallel and complementary neural codes.",
+  "authors": [
+    "Liu Xiao-Ping",
+    "Wang Xiaoqin"
+  ],
+  "journal": "PLoS biology",
+  "year": "2022",
+  "doi": "10.1371/journal.pbio.3001642",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Auditory Cortex",
+    "Callithrix",
+    "Neurons",
+    "Wakefulness"
+  ]
+}

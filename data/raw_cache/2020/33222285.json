@@ -1,0 +1,24 @@
+{
+  "pmid": "33222285",
+  "title": "Shared internal models for feedforward and feedback control of arm dynamics in non-human primates.",
+  "abstract": "Previous work has shown that humans account for and learn novel properties or the arm's dynamics, and that such learning causes changes in both the predictive (i.e., feedforward) control of reaching and reflex (i.e., feedback) responses to mechanical perturbations. Here we show that similar observations hold in old-world monkeys (Macaca fascicularis). Two monkeys were trained to use an exoskeleton to perform a single-joint elbow reaching and to respond to mechanical perturbations that created pure elbow motion. Both of these tasks engaged robust shoulder muscle activity as required to account for the torques that typically arise at the shoulder when the forearm rotates around the elbow joint (i.e., intersegmental dynamics). We altered these intersegmental arm dynamics by having the monkeys generate the same elbow movements with the shoulder joint either free to rotate, as normal, or fixed by the robotic manipulandum, which eliminates the shoulder torques caused by forearm rotation. After fixing the shoulder joint, we found a systematic reduction in shoulder muscle activity. In addition, after releasing the shoulder joint again, we found evidence of kinematic aftereffects (i.e., reach errors) in the direction predicted if failing to compensate for normal arm dynamics. We also tested whether such learning transfers to feedback responses evoked by mechanical perturbations and found a reduction in shoulder feedback responses, as appropriate for these altered arm intersegmental dynamics. Demonstrating this learning and transfer in non-human primates will allow the investigation of the neural mechanisms involved in feedforward and feedback control of the arm's dynamics.",
+  "authors": [
+    "Maeda Rodrigo S",
+    "Kersten Rhonda",
+    "Pruszynski J Andrew"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "2021",
+  "doi": "10.1111/ejn.15056",
+  "mesh": [
+    "Animals",
+    "Arm",
+    "Biomechanical Phenomena",
+    "Elbow",
+    "Feedback",
+    "Movement",
+    "Muscle, Skeletal",
+    "Primates",
+    "Shoulder"
+  ]
+}

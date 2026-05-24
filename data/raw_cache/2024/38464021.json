@@ -1,0 +1,31 @@
+{
+  "pmid": "38464021",
+  "title": "A Curated Compendium of Transcriptomic Data for the Exploration of Neocortical Development.",
+  "abstract": "Vast quantities of multi-omic data have been produced to characterize the development and diversity of cell types in the cerebral cortex of humans and other mammals. To more fully harness the collective discovery potential of these data, we have assembled gene-level transcriptomic data from 188 published studies of neocortical development, including the transcriptomes of ~30 million single-cells, extensive spatial transcriptomic experiments and RNA sequencing of sorted cells and bulk tissues: nemoanalytics.org/landing/neocortex. Applying joint matrix decomposition (SJD) to mouse, macaque and human data in this collection, we defined transcriptome dynamics that are conserved across mammalian neurogenesis and which elucidate the evolution of outer, or basal, radial glial cells. Decomposition of adult human neocortical data identified layer-specific signatures in mature neurons and, in combination with transfer learning methods in NeMO Analytics, enabled the charting of their early developmental emergence and protracted maturation across years of postnatal life. Interrogation of data from cerebral organoids demonstrated that while broad molecular elements of <i>in vivo</i> development are recapitulated <i>in vitro</i>, many layer-specific transcriptomic programs in neuronal maturation are absent. We invite computational biologists and cell biologists without coding expertise to use NeMO Analytics in their research and to fuel it with emerging data (carlocolantuoni.org).",
+  "authors": [
+    "Sonthalia Shreyash",
+    "Adkins Ricky S",
+    "Orvis Joshua",
+    "Li Guangyan",
+    "Mato Blanco Xoel",
+    "Casella Alex",
+    "Liu Jinrui",
+    "Stein-O'Brien Genevieve",
+    "Caffo Brian",
+    "Hertzano Ronna",
+    "Mahurkar Anup",
+    "Gillis Jesse",
+    "Werner Jonathan",
+    "Ma Shaojie",
+    "Micali Nicola",
+    "Sestan Nenad",
+    "Rakic Pasko",
+    "Santpere Gabriel",
+    "Ament Seth A",
+    "Colantuoni Carlo"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.02.26.581612",
+  "mesh": []
+}

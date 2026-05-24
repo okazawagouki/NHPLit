@@ -1,0 +1,32 @@
+{
+  "pmid": "24812083",
+  "title": "Robust Long-Range Coordination of Spontaneous Neural Activity in Waking, Sleep and Anesthesia.",
+  "abstract": "Although the emerging field of functional connectomics relies increasingly on the analysis of spontaneous fMRI signal covariation to infer the spatial fingerprint of the brain's large-scale functional networks, the nature of the underlying neuro-electrical activity remains incompletely understood. In part, this lack in understanding owes to the invasiveness of electrophysiological acquisition, the difficulty in their simultaneous recording over large cortical areas, and the absence of fully established methods for unbiased extraction of network information from these data. Here, we demonstrate a novel, data-driven approach to analyze spontaneous signal variations in electrocorticographic (ECoG) recordings from nearly entire hemispheres of macaque monkeys. Based on both broadband analysis and analysis of specific frequency bands, the ECoG signals were found to co-vary in patterns that resembled the fMRI networks reported in previous studies. The extracted patterns were robust against changes in consciousness associated with sleep and anesthesia, despite profound changes in intrinsic characteristics of the raw signals, including their spectral signatures. These results suggest that the spatial organization of large-scale brain networks results from neural activity with a broadband spectral feature and is a core aspect of the brain's physiology that does not depend on the state of consciousness.",
+  "authors": [
+    "Liu Xiao",
+    "Yanagawa Toru",
+    "Leopold David A",
+    "Fujii Naotaka",
+    "Duyn Jeff H"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2015",
+  "doi": "10.1093/cercor/bhu089",
+  "mesh": [
+    "Analgesics",
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Electroencephalography",
+    "Electromyography",
+    "Fourier Analysis",
+    "Image Processing, Computer-Assisted",
+    "Ketamine",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Medetomidine",
+    "Oxygen",
+    "Sleep",
+    "Wakefulness"
+  ]
+}

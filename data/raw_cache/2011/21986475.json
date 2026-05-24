@@ -1,0 +1,27 @@
+{
+  "pmid": "21986475",
+  "title": "Readout of the intrinsic and extrinsic properties of a stimulus from un-experienced neuronal activities: towards cognitive neuroprostheses.",
+  "abstract": "While sensory and motor systems have attracted most of the research effort in the field neuroprosthetics, little attention has been devoted to higher order cortical processes. Here, we propose a first step in the direction of applying neural decoding to the study and manipulation of visuospatial attention, an endogenous process at the interface between sensory and motor functions. To this aim, we investigate whether the offline activity of a population of non-human primate frontal eye field neurons (FEF) in response to an endogenous cue can be readout on a trial by trial basis to provide a precise description of the cue's attributes, namely, its location and identity, but also the allocation of attention following its interpretation. Using a linear decoder, we reach up to 86% correct predictions for the different decoded variables, including the spatial allocation of endogenous attention. We show that the decoding performance drops on incorrect trials, indicating that cue encoding participates to the animal's behavioral performance. Last, we show that the temporal resolution of the decoding influences readout performance. These results are a strong indication of the feasibility of the readout of endogenous variables by standard decoding algorithms, on a suboptimal dataset. However, its validity remains to be proved in a real-time situation.",
+  "authors": [
+    "Farbod Kia Saba",
+    "Åstrand Elaine",
+    "Ibos Guilhem",
+    "Ben Hamed Suliann"
+  ],
+  "journal": "Journal of physiology, Paris",
+  "year": "2011",
+  "doi": "10.1016/j.jphysparis.2011.07.015",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Brain",
+    "Cues",
+    "Macaca",
+    "Neurons",
+    "Photic Stimulation",
+    "Reaction Time",
+    "User-Computer Interface",
+    "Vision, Ocular",
+    "Visual Fields"
+  ]
+}

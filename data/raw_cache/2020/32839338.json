@@ -1,0 +1,26 @@
+{
+  "pmid": "32839338",
+  "title": "Multiple timescales of neural dynamics and integration of task-relevant signals across cortex.",
+  "abstract": "A long-lasting challenge in neuroscience has been to find a set of principles that could be used to organize the brain into distinct areas with specific functions. Recent studies have proposed the orderly progression in the time constants of neural dynamics as an organizational principle of cortical computations. However, relationships between these timescales and their dependence on response properties of individual neurons are unknown, making it impossible to determine how mechanisms underlying such a computational principle are related to other aspects of neural processing. Here, we developed a comprehensive method to simultaneously estimate multiple timescales in neuronal dynamics and integration of task-relevant signals along with selectivity to those signals. By applying our method to neural and behavioral data during a dynamic decision-making task, we found that most neurons exhibited multiple timescales in their response, which consistently increased from parietal to prefrontal and cingulate cortex. While predicting rates of behavioral adjustments, these timescales were not correlated across individual neurons in any cortical area, resulting in independent parallel hierarchies of timescales. Additionally, none of these timescales depended on selectivity to task-relevant signals. Our results not only suggest the existence of multiple canonical mechanisms for increasing timescales of neural dynamics across cortex but also point to additional mechanisms that allow decorrelation of these timescales to enable more flexibility.",
+  "authors": [
+    "Spitmaan Mehran",
+    "Seo Hyojung",
+    "Lee Daeyeol",
+    "Soltani Alireza"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2020",
+  "doi": "10.1073/pnas.2005993117",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Choice Behavior",
+    "Female",
+    "Macaca",
+    "Male",
+    "Nerve Net",
+    "Neurons",
+    "Reinforcement, Psychology",
+    "Reward"
+  ]
+}

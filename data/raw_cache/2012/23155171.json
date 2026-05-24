@@ -1,0 +1,26 @@
+{
+  "pmid": "23155171",
+  "title": "Circuit mechanisms revealed by spike-timing correlations in macaque area MT.",
+  "abstract": "We recorded simultaneously from pairs of motion-sensitive neurons in the middle temporal cortex (MT) of macaque monkeys and used cross-correlations in the timing of spikes between neurons to gain insights into cortical circuitry. We characterized the time course and stimulus dependency of the cross-correlogram (CCG) for each pair of neurons and of the auto-correlogram (ACG) of the individual neurons. For some neuron pairs, the CCG showed negative flanks that emerged next to the central peak during stimulus-driven responses. Similar negative flanks appeared in the ACG of many neurons. Negative flanks were most prevalent and deepest when the neurons were driven to high rates by visual stimuli that moved in the neurons' preferred directions. The temporal development of the negative flanks in the CCG coincided with a parallel, modest reduction of the noise correlation between the spike counts of the neurons. Computational analysis of a model cortical circuit suggested that negative flanks in the CCG arise from the excitation-triggered mutual cross-inhibition between pairs of excitatory neurons. Intracortical recurrent inhibition and afterhyperpolarization caused by intrinsic outward currents, such as the calcium-activated potassium current of small conductance, can both contribute to the negative flanks in the ACG. In the model circuit, stronger intracortical inhibition helped to maintain the temporal precision between the spike trains of pairs of neurons and led to weaker noise correlations. Our results suggest a neural circuit architecture that can leverage activity-dependent intracortical inhibition to adaptively modulate both the synchrony of spike timing and the correlations in response variability.",
+  "authors": [
+    "Huang Xin",
+    "Lisberger Stephen G"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2013",
+  "doi": "10.1152/jn.00775.2012",
+  "mesh": [
+    "Animals",
+    "Evoked Potentials, Visual",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Inhibition",
+    "Neurons",
+    "Photic Stimulation",
+    "Temporal Lobe",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pmid": "39669288",
+  "title": "Predicting the effect of micro-stimulation on macaque prefrontal activity based on spontaneous circuit dynamics.",
+  "abstract": "A crucial challenge in targeted manipulation of neural activity is to identify perturbation sites whose stimulation exerts significant effects downstream with high efficacy, a procedure currently achieved by labor-intensive and potentially harmful trial and error. Can one predict the effects of electrical stimulation on neural activity based on the circuit dynamics during spontaneous periods? Here we show that the effects of single-site micro-stimulation on ensemble activity in an alert monkey's prefrontal cortex can be predicted solely based on the ensemble's spontaneous activity. We first inferred the ensemble's causal flow based on the directed functional interactions inferred during spontaneous periods using convergent cross-mapping and showed that it uncovers a causal hierarchy between the recording electrodes. We find that causal flow inferred at rest successfully predicts the spatiotemporal effects of micro-stimulation. We validate the computational features underlying causal flow using ground truth data from recurrent neural network models, showing that it is robust to noise and common inputs. A detailed comparison between convergent-cross mapping and alternative methods based on information theory reveals the advantages of the former method in predicting perturbation effects. Our results elucidate the causal interactions within neural ensembles and will facilitate the design of intervention protocols and targeted circuit manipulations suitable for brain-machine interfaces.",
+  "authors": [
+    "Nejatbakhsh Amin",
+    "Fumarola Francesco",
+    "Esteki Saleh",
+    "Toyoizumi Taro",
+    "Kiani Roozbeh",
+    "Mazzucato Luca"
+  ],
+  "journal": "Physical review research",
+  "year": "2024",
+  "doi": "10.1103/physrevresearch.5.043211",
+  "mesh": []
+}

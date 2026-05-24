@@ -1,0 +1,27 @@
+{
+  "pmid": "26738082",
+  "title": "Computer-based automatic identification of neurons in gigavoxel-sized 3D human brain images.",
+  "abstract": "Achieving a comprehensive knowledge of the human brain cytoarchitecture is a fundamental step to understand how the nervous system works, i.e., one of the greatest challenge of 21(st) century science. The recent development of biological tissue labeling and automated microscopic imaging systems has permitted to acquire images at the micro-resolution, which produce a huge quantity of data that cannot be manually analyzed. In case of mammals brain, automatic methods to extract objective information at the microscale have been applied until now to mice, macaque and cat 3D volume images. Here we report a method to automatically localize neurons in a sample of human brain removed during a surgical procedure for the treatments of drug resistant epilepsy in a child with hemimegalencephaly, whose neurons and neurites were fluorescence labelled and finally imaged using the two-photon fluorescence microscope. The method provides the map of both parvalbuminergic neurons and all other cells nuclei with a satisfactory f-score measured using more than two thousand human labelled soma.",
+  "authors": [
+    "Soda Paolo",
+    "Acciai Ludovica",
+    "Cordelli Ermanno",
+    "Costantini Irene",
+    "Sacconi Leonardo",
+    "Pavone Francesco Saverio",
+    "Conti Valerio",
+    "Guerrini Renzo",
+    "Frasconi Paolo",
+    "Iannello Giulio"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2015",
+  "doi": "10.1109/EMBC.2015.7320182",
+  "mesh": [
+    "Brain",
+    "Humans",
+    "Imaging, Three-Dimensional",
+    "Neuroimaging",
+    "Neurons"
+  ]
+}

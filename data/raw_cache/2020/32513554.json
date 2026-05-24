@@ -1,0 +1,30 @@
+{
+  "pmid": "32513554",
+  "title": "Cognitive Control Errors in Nonhuman Primates Resembling Those in Schizophrenia Reflect Opposing Effects of NMDA Receptor Blockade on Causal Interactions Between Cells and Circuits in Prefrontal and Parietal Cortices.",
+  "abstract": "BACKGROUND: The causal biology underlying schizophrenia is not well understood, but it is likely to involve a malfunction in how neurons adjust synaptic connections in response to patterns of activity in networks. We examined statistical dependencies between neural signals at the cell, local circuit, and distributed network levels in prefrontal and parietal cortices of monkeys performing a variant of the AX continuous performance task paradigm. We then quantified changes in the pattern of neural interactions across levels of scale following NMDA receptor (NMDAR) blockade and related these changes to a pattern of cognitive control errors closely matching the performance of patients with schizophrenia. METHODS: We recorded the spiking activity of 1762 neurons along with local field potentials at multiple electrode sites in prefrontal and parietal cortices concurrently, and we generated binary time series indicating the presence or absence of spikes in single neurons or local field potential power above or below a threshold. We then applied causal discovery analysis to the time series to detect statistical dependencies between the signals (causal interactions) and compared the pattern of these interactions before and after NMDAR blockade. RESULTS: Global blockade of NMDAR produced distinctive and frequently opposite changes in neural interactions at the cell, local circuit, and network levels in prefrontal and parietal cortices. Cognitive control errors were associated with decreased interactions at the cell level and with opposite changes at the network level in prefrontal and parietal cortices. CONCLUSIONS: NMDAR synaptic deficits change causal interactions between neural signals at different levels of scale that correlate with schizophrenia-like deficits in cognitive control.",
+  "authors": [
+    "Kummerfeld Erich",
+    "Ma Sisi",
+    "Blackman Rachael K",
+    "DeNicola Adele L",
+    "Redish A David",
+    "Vinogradov Sophia",
+    "Crowe David A",
+    "Chafee Matthew V"
+  ],
+  "journal": "Biological psychiatry. Cognitive neuroscience and neuroimaging",
+  "year": "2020",
+  "doi": "10.1016/j.bpsc.2020.02.013",
+  "mesh": [
+    "Animals",
+    "Cognition",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Parietal Lobe",
+    "Prefrontal Cortex",
+    "Receptors, N-Methyl-D-Aspartate",
+    "Schizophrenia",
+    "United States"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pmid": "38496618",
+  "title": "FOUNDATIONS OF VISUAL FORM SELECTIVITY IN MACAQUE AREAS V1 AND V2.",
+  "abstract": "Neurons early in the primate visual cortical pathway generate responses by combining signals from other neurons: some from downstream areas, some from within the same area, and others from areas upstream. Here we develop a model that selectively combines afferents derived from a population model of V1 cells. We use this model to account for responses we recorded of both V1 and V2 neurons in awake fixating macaque monkeys to stimuli composed of a sparse collection of locally oriented features (\"droplets\") designed to drive subsets of V1 neurons. The first stage computes the rectified responses of a fixed population of oriented filters at different scales that cover the visual field. The second stage computes a weighted combination of these first-stage responses, followed by a final nonlinearity, with parameters optimized to fit data from physiological recordings and constrained to encourage sparsity and locality. The fitted model accounts for the responses of both V1 and V2 neurons, capturing an average of 43% of the explainable variance for V1 and 38% for V2. The models fitted to droplet recordings predict responses to classical stimuli, such as gratings of different orientations and spatial frequencies, as well as to textures of different spectral content, which are known to be especially effective in driving V2. The models are less effective, however, at capturing the selectivity of responses to textures that include naturalistic image statistics. The pattern of afferents - defined by their weights over the 4 dimensions of spatial position, orientation, and spatial frequency - provides a common and interpretable characterization of the origin of many neuronal response properties in the early visual cortex.",
+  "authors": [
+    "Oleskiw Timothy D",
+    "Lieber Justin D",
+    "Simoncelli Eero P",
+    "Movshon J Anthony"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2024.03.04.583307",
+  "mesh": []
+}

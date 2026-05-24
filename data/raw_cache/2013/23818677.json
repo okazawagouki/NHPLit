@@ -1,0 +1,22 @@
+{
+  "pmid": "23818677",
+  "title": "Saccadic brightness decisions do not use a difference model.",
+  "abstract": "Eye movements are the most frequent (∼3 per second), shortest-latency (∼150-250 ms), and biomechanically simplest (1 joint, no inertial complexities) voluntary motor behavior in primates, providing a model sensorimotor decision-making system. Current computational \"difference\" models of choice behavior utilize a single decision variable encoding the difference between two alternate signals, often implemented as a log-likelihood ratio. Alternatively, the oculomotor literature describes a \"race\" mechanism, in which two separate decision variables encoding the two alternate signals race against one another independently. These two models make two qualitatively distinct predictions, which can be tested empirically with a two-alternative forced-choice task. Unlike the race model, a decision variable based upon a differencing operation predicts strong mirror image correlations between response time (RT) and the signal strengths of the selected and unselected stimuli (because differencing creates equal and opposite correlations). In a saccadic brightness discrimination task, we observed positive correlations between response rate (1/RT) and the strength of both the selected and unselected stimulus, a simple qualitative prediction of race models that applies to any 2AFC task but which is fundamentally at odds with the most basic prediction of any difference model. Our data are, however, qualitatively consistent with a mechanism in which two competing motor plans co-exist and their two corresponding neural decision variables race to a threshold to drive the saccadic decision.",
+  "authors": [
+    "Liston Dorion B",
+    "Stone Leland S"
+  ],
+  "journal": "Journal of vision",
+  "year": "2013",
+  "doi": "10.1167/13.8.1",
+  "mesh": [
+    "Choice Behavior",
+    "Decision Making",
+    "Humans",
+    "Light",
+    "Models, Theoretical",
+    "Psychomotor Performance",
+    "Reaction Time",
+    "Saccades"
+  ]
+}

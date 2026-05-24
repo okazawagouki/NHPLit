@@ -1,0 +1,27 @@
+{
+  "pmid": "15996553",
+  "title": "Midbrain dopamine neurons encode a quantitative reward prediction error signal.",
+  "abstract": "The midbrain dopamine neurons are hypothesized to provide a physiological correlate of the reward prediction error signal required by current models of reinforcement learning. We examined the activity of single dopamine neurons during a task in which subjects learned by trial and error when to make an eye movement for a juice reward. We found that these neurons encoded the difference between the current reward and a weighted average of previous rewards, a reward prediction error, but only for outcomes that were better than expected. Thus, the firing rate of midbrain dopamine neurons is quantitatively predicted by theoretical descriptions of the reward prediction error signal used in reinforcement learning models for circumstances in which this signal has a positive value. We also found that the dopamine system continued to compute the reward prediction error even when the behavioral policy of the animal was only weakly influenced by this computation.",
+  "authors": [
+    "Bayer Hannah M",
+    "Glimcher Paul W"
+  ],
+  "journal": "Neuron",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Conditioning, Operant",
+    "Cues",
+    "Dopamine",
+    "Macaca mulatta",
+    "Male",
+    "Mesencephalon",
+    "Neurons",
+    "Photic Stimulation",
+    "Reinforcement Schedule",
+    "Reward",
+    "Saccades"
+  ]
+}

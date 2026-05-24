@@ -1,0 +1,26 @@
+{
+  "pmid": "39116178",
+  "title": "A computational study of how an α- to γ-motoneurone collateral can mitigate velocity-dependent stretch reflexes during voluntary movement.",
+  "abstract": "The primary motor cortex does not uniquely or directly produce alpha motoneurone (α-MN) drive to muscles during voluntary movement. Rather, α-MN drive emerges from the synthesis and competition among excitatory and inhibitory inputs from multiple descending tracts, spinal interneurons, sensory inputs, and proprioceptive afferents. One such fundamental input is velocity-dependent stretch reflexes in lengthening muscles, which should be inhibited to enable voluntary movement. It remains an open question, however, the extent to which unmodulated stretch reflexes disrupt voluntary movement, and whether and how they are inhibited in limbs with numerous multiarticular muscles. We used a computational model of a Rhesus Macaque arm to simulate movements with feedforward α-MN commands only, and with added velocity-dependent stretch reflex feedback. We found that velocity-dependent stretch reflex caused movement-specific, typically large and variable disruptions to arm movements. These disruptions were greatly reduced when modulating velocity-dependent stretch reflex feedback (i) as per the commonly proposed (but yet to be clarified) idealized alpha-gamma (α-γ) coactivation or (ii) an alternative α-MN collateral projection to homonymous γ-MNs. We conclude that such α-MN collaterals are a physiologically tenable propriospinal circuit in the mammalian fusimotor system. These collaterals could still collaborate with α-γ coactivation, and the few skeletofusimotor fibers (β-MNs) in mammals, to create a flexible fusimotor ecosystem to enable voluntary movement. By locally and automatically regulating the highly nonlinear neuro-musculo-skeletal mechanics of the limb, these collaterals could be a critical low-level enabler of learning, adaptation, and performance via higher-level brainstem, cerebellar, and cortical mechanisms.",
+  "authors": [
+    "Niyo Grace",
+    "Almofeez Lama I",
+    "Erwin Andrew",
+    "Valero-Cuevas Francisco J"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2024",
+  "doi": "10.1073/pnas.2321659121",
+  "mesh": [
+    "Reflex, Stretch",
+    "Animals",
+    "Macaca mulatta",
+    "Motor Neurons",
+    "Movement",
+    "Muscle, Skeletal",
+    "Motor Cortex",
+    "Computer Simulation",
+    "Models, Neurological",
+    "Arm"
+  ]
+}

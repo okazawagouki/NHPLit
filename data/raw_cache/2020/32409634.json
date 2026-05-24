@@ -1,0 +1,26 @@
+{
+  "pmid": "32409634",
+  "title": "Nonlinear neural network dynamics accounts for human confidence in a sequence of perceptual decisions.",
+  "abstract": "Electrophysiological recordings during perceptual decision tasks in monkeys suggest that the degree of confidence in a decision is based on a simple neural signal produced by the neural decision process. Attractor neural networks provide an appropriate biophysical modeling framework, and account for the experimental results very well. However, it remains unclear whether attractor neural networks can account for confidence reports in humans. We present the results from an experiment in which participants are asked to perform an orientation discrimination task, followed by a confidence judgment. Here we show that an attractor neural network model quantitatively reproduces, for each participant, the relations between accuracy, response times and confidence. We show that the attractor neural network also accounts for confidence-specific sequential effects observed in the experiment (participants are faster on trials following high confidence trials). Remarkably, this is obtained as an inevitable outcome of the network dynamics, without any feedback specific to the previous decision (that would result in, e.g., a change in the model parameters before the onset of the next trial). Our results thus suggest that a metacognitive process such as confidence in one's decision is linked to the intrinsically nonlinear dynamics of the decision-making neural network.",
+  "authors": [
+    "Berlemont Kevin",
+    "Martin Jean-Rémy",
+    "Sackur Jérôme",
+    "Nadal Jean-Pierre"
+  ],
+  "journal": "Scientific reports",
+  "year": "2020",
+  "doi": "10.1038/s41598-020-63582-8",
+  "mesh": [
+    "Adult",
+    "Decision Making",
+    "Female",
+    "Humans",
+    "Judgment",
+    "Male",
+    "Models, Neurological",
+    "Nerve Net",
+    "Nonlinear Dynamics",
+    "Perception"
+  ]
+}

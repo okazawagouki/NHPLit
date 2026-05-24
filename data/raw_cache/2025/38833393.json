@@ -1,0 +1,30 @@
+{
+  "pmid": "38833393",
+  "title": "Robust Sensory Information Reconstruction and Classification With Augmented Spikes.",
+  "abstract": "Sensory information recognition is primarily processed through the ventral and dorsal visual pathways in the primate brain visual system, which exhibits layered feature representations bearing a strong resemblance to convolutional neural networks (CNNs), encompassing reconstruction and classification. However, existing studies often treat these pathways as distinct entities, focusing individually on pattern reconstruction or classification tasks, overlooking a key feature of biological neurons, the fundamental units for neural computation of visual sensory information. Addressing these limitations, we introduce a unified framework for sensory information recognition with augmented spikes. By integrating pattern reconstruction and classification within a single framework, our approach not only accurately reconstructs multimodal sensory information but also provides precise classification through definitive labeling. Experimental evaluations conducted on various datasets including video scenes, static images, dynamic auditory scenes, and functional magnetic resonance imaging (fMRI) brain activities demonstrate that our framework delivers state-of-the-art pattern reconstruction quality and classification accuracy. The proposed framework enhances the biological realism of multimodal pattern recognition models, offering insights into how the primate brain visual system effectively accomplishes the reconstruction and classification tasks through the integration of ventral and dorsal pathways.",
+  "authors": [
+    "Xu Qi",
+    "Liu Sibo",
+    "Ran Xuming",
+    "Li Yaxin",
+    "Shen Jiangrong",
+    "Tang Huajin",
+    "Liu Jian K",
+    "Pan Gang",
+    "Zhang Qiang"
+  ],
+  "journal": "IEEE transactions on neural networks and learning systems",
+  "year": "2025",
+  "doi": "10.1109/TNNLS.2024.3404021",
+  "mesh": [
+    "Neural Networks, Computer",
+    "Animals",
+    "Magnetic Resonance Imaging",
+    "Brain",
+    "Humans",
+    "Pattern Recognition, Automated",
+    "Visual Pathways",
+    "Algorithms",
+    "Neurons"
+  ]
+}

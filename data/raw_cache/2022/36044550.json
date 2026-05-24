@@ -1,0 +1,28 @@
+{
+  "pmid": "36044550",
+  "title": "Brain-wide functional connectivity of face patch neurons during rest.",
+  "abstract": "The brain is a highly organized, dynamic system whose network architecture is often assessed through resting functional magnetic resonance imaging (fMRI) functional connectivity. The functional interactions between brain areas, including those observed during rest, are assumed to stem from the collective influence of action potentials carried by long-range neural projections. However, the contribution of individual neurons to brain-wide functional connectivity has not been systematically assessed. Here we developed a method to concurrently measure and compare the spiking activity of local neurons with fMRI signals measured across the brain during rest. We recorded spontaneous activity from neural populations in cortical face patches in the macaque during fMRI scanning sessions. Individual cells exhibited prominent, bilateral coupling with fMRI fluctuations in a restricted set of cortical areas inside and outside the face patch network, partially matching the pattern of known anatomical projections. Within each face patch population, a subset of neurons was positively coupled with the face patch network and another was negatively coupled. The same cells showed inverse correlations with distinct subcortical structures, most notably the lateral geniculate nucleus and brainstem neuromodulatory centers. Corresponding connectivity maps derived from fMRI seeds and local field potentials differed from the single unit maps, particularly in subcortical areas. Together, the results demonstrate that the spiking fluctuations of neurons are selectively coupled with discrete brain regions, with the coupling governed in part by anatomical network connections and in part by indirect neuromodulatory pathways.",
+  "authors": [
+    "Zaldivar Daniel",
+    "Koyano Kenji W",
+    "Ye Frank Q",
+    "Godlove David C",
+    "Park Soo Hyun",
+    "Russ Brian E",
+    "Bhik-Ghanie Rebecca",
+    "Leopold David A"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2022",
+  "doi": "10.1073/pnas.2206559119",
+  "mesh": [
+    "Brain",
+    "Connectome",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Nerve Net",
+    "Neural Pathways",
+    "Neurons",
+    "Rest"
+  ]
+}

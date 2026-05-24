@@ -1,0 +1,23 @@
+{
+  "pmid": "36279158",
+  "title": "Neural dynamics of causal inference in the macaque frontoparietal circuit.",
+  "abstract": "Natural perception relies inherently on inferring causal structure in the environment. However, the neural mechanisms and functional circuits essential for representing and updating the hidden causal structure and corresponding sensory representations during multisensory processing are unknown. To address this, monkeys were trained to infer the probability of a potential common source from visual and proprioceptive signals based on their spatial disparity in a virtual reality system. The proprioceptive drift reported by monkeys demonstrated that they combined previous experience and current multisensory signals to estimate the hidden common source and subsequently updated the causal structure and sensory representation. Single-unit recordings in premotor and parietal cortices revealed that neural activity in the premotor cortex represents the core computation of causal inference, characterizing the estimation and update of the likelihood of integrating multiple sensory inputs at a trial-by-trial level. In response to signals from the premotor cortex, neural activity in the parietal cortex also represents the causal structure and further dynamically updates the sensory representation to maintain consistency with the causal inference structure. Thus, our results indicate how the premotor cortex integrates previous experience and sensory inputs to infer hidden variables and selectively updates sensory representations in the parietal cortex to support behavior. This dynamic loop of frontal-parietal interactions in the causal inference framework may provide the neural mechanism to answer long-standing questions regarding how neural circuits represent hidden structures for body awareness and agency.",
+  "authors": [
+    "Qi Guangyao",
+    "Fang Wen",
+    "Li Shenghao",
+    "Li Junru",
+    "Wang Liping"
+  ],
+  "journal": "eLife",
+  "year": "2022",
+  "doi": "10.7554/eLife.76145",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Visual Perception",
+    "Parietal Lobe",
+    "Motor Cortex",
+    "Proprioception"
+  ]
+}

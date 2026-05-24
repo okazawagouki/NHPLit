@@ -1,0 +1,24 @@
+{
+  "pmid": "24089395",
+  "title": "Joint tuning for direction of motion and binocular disparity in macaque MT is largely separable.",
+  "abstract": "Neurons in sensory cortical areas are tuned to multiple dimensions, or features, of their sensory space. Understanding how single neurons represent multiple features is of great interest for determining the informative dimensions of the neurons' response, the decoding algorithms appropriate for extracting this information from the neuronal population, and for determining where specific transformations occur along the visual hierarchy. Despite the established role of cortical area MT in judgments of motion and depth, it is not known how individual neurons jointly encode the two dimensions. We investigated the joint tuning of individual MT neurons for two visual features: direction of motion and binocular disparity, an important depth cue. We found that a separable, multiplicative combination of tuning for the two features can account for more than 90% of the variance in the joint tuning function for over 91% of MT neurons. These results suggest 1) that each feature can be read out independently from MT by simply averaging across the population without regard to the other feature and 2) that the inseparable representations seen in subsequent areas, such as MST, must be computed beyond MT. Intriguingly, we found that the remaining nonseparable component of the joint tuning function often manifested as small but systematic changes in the neurons' preferences for one feature as the other one was varied. We believe this reflects the local columnar organization of tuning for direction and binocular disparity in MT, indicating that joint tuning may provide a new tool with which to probe functional architecture.",
+  "authors": [
+    "Smolyanskaya Alexandra",
+    "Ruff Douglas A",
+    "Born Richard T"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2013",
+  "doi": "10.1152/jn.00573.2013",
+  "mesh": [
+    "Animals",
+    "Cues",
+    "Macaca mulatta",
+    "Male",
+    "Motion",
+    "Motion Perception",
+    "Neurons",
+    "Vision Disparity",
+    "Visual Cortex"
+  ]
+}

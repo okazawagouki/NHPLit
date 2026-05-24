@@ -1,0 +1,29 @@
+{
+  "pmid": "21893683",
+  "title": "Functional connectivity between anatomically unconnected areas is shaped by collective network-level effects in the macaque cortex.",
+  "abstract": "Coherent spontaneous blood oxygen level-dependent (BOLD) fluctuations have been intensely investigated as a measure of functional connectivity (FC) in the primate neocortex. BOLD-FC is commonly assumed to be constrained by the underlying anatomical connectivity (AC); however, cortical area pairs with no direct AC can also have strong BOLD-FC. On the mechanism generating FC in the absence of direct AC, there are 2 possibilities: 1) FC is determined by signal flows via short connection patterns, such as serial relays and common afferents mediated by a third area; 2) FC is shaped by collective effects governed by network properties of the cortex. In this study, we conducted functional magnetic resonance imaging in anesthetized macaque monkeys and found that BOLD-FC between unconnected areas depends less on serial relays through a third area than on common afferents and, unexpectedly, common efferents, which does not match the first possibility. By utilizing a computational model for interareal BOLD-FC network, we show that the empirically detected AC-FC relationships reflect the configuration of network building blocks (motifs) in the cortical anatomical network, which supports the second possibility. Our findings indicate that FC is not determined solely by interareal short connection patterns but instead is substantially influenced by the network-level cortical architecture.",
+  "authors": [
+    "Adachi Yusuke",
+    "Osada Takahiro",
+    "Sporns Olaf",
+    "Watanabe Takamitsu",
+    "Matsui Teppei",
+    "Miyamoto Kentaro",
+    "Miyashita Yasushi"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2012",
+  "doi": "10.1093/cercor/bhr234",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Female",
+    "Macaca",
+    "Models, Anatomic",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Oxygen Consumption"
+  ]
+}

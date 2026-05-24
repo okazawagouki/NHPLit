@@ -1,0 +1,29 @@
+{
+  "pmid": "23366831",
+  "title": "Brain-Machine Interface control of a robot arm using actor-critic rainforcement learning.",
+  "abstract": "Here we demonstrate how a marmoset monkey can use a reinforcement learning (RL) Brain-Machine Interface (BMI) to effectively control the movements of a robot arm for a reaching task. In this work, an actor-critic RL algorithm used neural ensemble activity in the monkey's motor cortext to control the robot movements during a two-target decision task. This novel approach to decoding offers unique advantages for BMI control applications. Compared to supervised learning decoding methods, the actor-critic RL algorithm does not require an explicit set of training data to create a static control model, but rather it incrementally adapts the model parameters according to its current performance, in this case requiring only a very basic feedback signal. We show how this algorithm achieved high performance when mapping the monkey's neural states (94%) to robot actions, and only needed to experience a few trials before obtaining accurate real-time control of the robot arm. Since RL methods responsively adapt and adjust their parameters, they can provide a method to create BMIs that are robust against perturbations caused by changes in either the neural input space or the output actions they generate under different task requirements or goals.",
+  "authors": [
+    "Pohlmeyer Eric A",
+    "Mahmoudi Babak",
+    "Geng Shijia",
+    "Prins Noeline",
+    "Sanchez Justin C"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2012",
+  "doi": "10.1109/EMBC.2012.6346870",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Biofeedback, Psychology",
+    "Brain Mapping",
+    "Brain-Computer Interfaces",
+    "Callithrix",
+    "Expert Systems",
+    "Man-Machine Systems",
+    "Reinforcement, Psychology",
+    "Robotics",
+    "Task Performance and Analysis"
+  ]
+}

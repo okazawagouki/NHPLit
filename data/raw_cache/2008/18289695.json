@@ -1,0 +1,24 @@
+{
+  "pmid": "18289695",
+  "title": "Morphing rhesus monkey vocalizations.",
+  "abstract": "The capability to systematically morph between different types of animal vocalizations will give us insights into how the features of vocal sounds are perceived by listening individuals. Following behavioral study, neurophysiological recordings in nonhuman animals, could reveal how neurons support the perception of communication signals. Signal processing algorithms are now available for creating sophisticated morphs between complex sounds, like human speech. However, most morphing approaches have been applied to harmonic sounds whose frequency components can be readily identified. We show that auditory morphing can be more generally applied by describing a procedure for using the STRAIGHT signal processing package to gradually morph between: (1) vocalizations from different macaque monkeys, (2) acoustically dissimilar types of monkey vocalizations, such as a 'coo' and a 'grunt', and (3) monkey and human vocalizations. We then evaluated the quality of the morphs and obtained classification curves from human listeners who seemed to categorize the monkey vocalizations much like the ones produced by humans. The outlined procedures prepare macaque-monkey vocalizations for neuroethological study and the approach establishes basic principles that will assist in creating suitable morphs of other natural sounds and animal vocalizations.",
+  "authors": [
+    "Chakladar Subhojit",
+    "Logothetis Nikos K",
+    "Petkov Christopher I"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2008",
+  "doi": "10.1016/j.jneumeth.2007.12.023",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Data Interpretation, Statistical",
+    "Humans",
+    "Individuality",
+    "Macaca mulatta",
+    "Observer Variation",
+    "Sound Spectrography",
+    "Vocalization, Animal"
+  ]
+}

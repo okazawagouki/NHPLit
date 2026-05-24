@@ -1,0 +1,26 @@
+{
+  "pmid": "21942761",
+  "title": "Spatial interactions in the superior colliculus predict saccade behavior in a neural field model.",
+  "abstract": "During natural vision, eye movements are dynamically controlled by the combinations of goal-related top-down (TD) and stimulus-related bottom-up (BU) neural signals that map onto objects or locations of interest in the visual world. In primates, both BU and TD signals converge in many areas of the brain, including the intermediate layers of the superior colliculus (SCi), a midbrain structure that contains a retinotopically coded map for saccades. How TD and BU signals combine or interact within the SCi map to influence saccades remains poorly understood and actively debated. It has been proposed that winner-take-all competition between these signals occurs dynamically within this map to determine the next location for gaze. Here, we examine how TD and BU signals interact spatially within an artificial two-dimensional dynamic winner-take-all neural field model of the SCi to influence saccadic RT (SRT). We measured point images (spatially organized population activity on the SC map) physiologically to inform the TD and BU model parameters. In this model, TD and BU signals interacted nonlinearly within the SCi map to influence SRT via changes to the (1) spatial size or extent of individual signals, (2) peak magnitude of individual signals, (3) total number of competing signals, and (4) the total spatial separation between signals in the visual field. This model reproduced previous behavioral studies of TD and BU influences on SRT and accounted for multiple inconsistencies between them. This is achieved by demonstrating how, under different experimental conditions, the spatial interactions of TD and BU signals can lead to either increases or decreases in SRT. Our results suggest that dynamic winner-take-all modeling with local excitation and distal inhibition in two dimensions accurately reflects both the physiological activity within the SCi map and the behavioral changes in SRT that result from BU and TD manipulations.",
+  "authors": [
+    "Marino Robert A",
+    "Trappenberg Thomas P",
+    "Dorris Michael",
+    "Munoz Douglas P"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "2012",
+  "doi": "10.1162/jocn_a_00139",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Saccades",
+    "Superior Colliculi",
+    "Visual Fields"
+  ]
+}

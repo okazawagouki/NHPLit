@@ -1,0 +1,31 @@
+{
+  "pmid": "32917899",
+  "title": "Automated markerless pose estimation in freely moving macaques with OpenMonkeyStudio.",
+  "abstract": "The rhesus macaque is an important model species in several branches of science, including neuroscience, psychology, ethology, and medicine. The utility of the macaque model would be greatly enhanced by the ability to precisely measure behavior in freely moving conditions. Existing approaches do not provide sufficient tracking. Here, we describe OpenMonkeyStudio, a deep learning-based markerless motion capture system for estimating 3D pose in freely moving macaques in large unconstrained environments. Our system makes use of 62 machine vision cameras that encircle an open 2.45 m × 2.45 m × 2.75 m enclosure. The resulting multiview image streams allow for data augmentation via 3D-reconstruction of annotated images to train a robust view-invariant deep neural network. This view invariance represents an important advance over previous markerless 2D tracking approaches, and allows fully automatic pose inference on unconstrained natural motion. We show that OpenMonkeyStudio can be used to accurately recognize actions and track social interactions.",
+  "authors": [
+    "Bala Praneet C",
+    "Eisenreich Benjamin R",
+    "Yoo Seng Bum Michael",
+    "Hayden Benjamin Y",
+    "Park Hyun Soo",
+    "Zimmermann Jan"
+  ],
+  "journal": "Nature communications",
+  "year": "2020",
+  "doi": "10.1038/s41467-020-18441-5",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Deep Learning",
+    "Image Processing, Computer-Assisted",
+    "Imaging, Three-Dimensional",
+    "Macaca mulatta",
+    "Male",
+    "Models, Animal",
+    "Motion",
+    "Movement",
+    "Nerve Net",
+    "Neural Networks, Computer"
+  ]
+}

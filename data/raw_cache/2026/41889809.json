@@ -1,0 +1,14 @@
+{
+  "pmid": "41889809",
+  "title": "A Spatially Structured Spiking Network Model of Beta Traveling Waves and Their Attenuation in Motor Cortex.",
+  "abstract": "Beta-band oscillations in primate motor cortex propagate as planar traveling waves whose amplitude attenuates with spatial gradients across the cortical sheet just before movement onset. How local excitatory-inhibitory (E-I) interactions and spatial connectivity jointly generate these waves, their attenuation patterns, and their stereotyped rostro-caudal bias remains unclear. Here we address this question by implementing a spatially structured network of leaky integrate-and-fire neurons with distance-dependent connectivity, conduction delays, and realistic synaptic dynamics. Through linear stability analysis and large-scale simulations validated against macaque electrophysiology, we show that planar beta waves emerge as Turing-Hopf spatiotemporal instabilities, where global beta oscillations coexist with irregular single-neuron firing. When the network operates near the boundary between oscillatory and asynchronous regimes, internally generated fluctuations produce the irregular, transient beta bursts characteristic of single-trial local field potentials. A rapid, spatially homogeneous increase in external drive pushes the circuit into an asynchronous state, reproducing the beta power reduction and spatial attenuation gradients seen at movement onset, alongside the irregular spatiotemporal dynamics of movement execution. By introducing anisotropic excitatory-to-excitatory connectivity, we recover the observed rostro-caudal propagation bias. Our results suggest that motor cortical traveling waves are intrinsic dynamical modes of local E-I circuits, recruited and modulated by behaviorally relevant inputs to organize movement initiation.",
+  "authors": [
+    "Bachschmid-Romano Ludovica",
+    "Hatsopoulos Nicholas",
+    "Brunel Nicolas"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2026",
+  "doi": "10.64898/2026.03.18.712701",
+  "mesh": []
+}

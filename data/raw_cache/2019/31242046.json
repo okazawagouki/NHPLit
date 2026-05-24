@@ -1,0 +1,27 @@
+{
+  "pmid": "31242046",
+  "title": "Spike-field Granger causality for hybrid neural data analysis.",
+  "abstract": "Neurotechnological innovations allow for simultaneous recording at various scales, ranging from spiking activity of individual neurons to large neural populations' local field potentials (LFPs). This capability necessitates developing multiscale analysis of spike-field activity. A joint analysis of the hybrid neural data is crucial for bridging the scales between single neurons and local networks. Granger causality is a fundamental measure to evaluate directional influences among neural signals. However, it is mainly limited to inferring causal influence between the same type of signals-either LFPs or spike trains-and not well developed between two different signal types. Here we propose a model-free, nonparametric spike-field Granger causality measure for hybrid data analysis. Our measure is distinct from existing methods in that we use \"binless\" spikes (precise spike timing) rather than \"binned\" spikes (spike counts within small consecutive time windows). The latter clearly distort the information in the mixed analysis of spikes and LFP. Therefore, our spectral estimate of spike trains is directly applied to the neural point process itself, i.e., sequences of spike times rather than spike counts. Our measure is validated by an extensive set of simulated data. When the measure is applied to LFPs and spiking activity simultaneously recorded from visual areas V1 and V4 of monkeys performing a contour detection task, we are able to confirm computationally the long-standing experimental finding of the input-output relationship between LFPs and spikes. Importantly, we demonstrate that spike-field Granger causality can be used to reveal the modulatory effects that are inaccessible by traditional methods, such that spike→LFP Granger causality is modulated by the behavioral task, whereas LFP→spike Granger causality is mainly related to the average synaptic input.<b>NEW & NOTEWORTHY</b> It is a pressing question to study the directional interactions between local field potential (LFP) and spiking activity. In this report, we propose a model-free, nonparametric spike-field Granger causality measure that can be used to reveal directional influences between spikes and LFPs. This new measure is crucial for bridging the scales between single neurons and neural networks; hence it represents an important step to explicate how the brain orchestrates information processing.",
+  "authors": [
+    "Gong Xiajing",
+    "Li Wu",
+    "Liang Hualou"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2019",
+  "doi": "10.1152/jn.00246.2019",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Brain",
+    "Contrast Sensitivity",
+    "Data Analysis",
+    "Electroencephalography",
+    "Electrophysiological Phenomena",
+    "Macaca mulatta",
+    "Nerve Net",
+    "Neurons",
+    "Neurophysiology",
+    "Visual Cortex"
+  ]
+}

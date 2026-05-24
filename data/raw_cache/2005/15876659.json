@@ -1,0 +1,30 @@
+{
+  "pmid": "15876659",
+  "title": "Tunable retina encoders for retina implants: why and how.",
+  "abstract": "Current research towards retina implants for partial restoration of vision in blind humans with retinal degenerative dysfunctions focuses on implant and stimulation experiments and technologies. In contrast, our approach takes the availability of an epiretinal multi-electrode neural interface for granted and studies the conditions for successful joint information processing of both retinal prosthesis and brain. Our proposed learning retina encoder (RE) includes information processing modules to simulate the complex mapping operation of parts of the 5-layered neural retina and to provide an iterative, perception-based dialog between RE and human subject. Alternative information processing technologies in the learning RE are being described, which allow an individual optimization of the RE mapping operation by means of iterative tuning with learning algorithms in a dialog between implant wearing subject and RE. The primate visual system is modeled by a retina module (RM) composed of spatio-temporal (ST) filters and a central visual system module (VM). RM performs a mapping 1 of an optical pattern P1 in the physical domain onto a retinal output vector R1(t) in a neural domain, whereas VM performs a mapping 2 of R1(t) in a neural domain onto a visual percept P2 in the perceptual domain. Retinal ganglion cell properties represent non-invertible ST filters in RE, which generate ambiguous output signals. VM generates visual percepts only if the corresponding R1(t) is properly encoded, contains sufficient information, and can be disambiguated. Based on the learning RE and the proposed visual system model, a novel retina encoder (RE*) is proposed, which considers both ambiguity removal and miniature eye movements during fixation. Our simulation results suggest that VM requires miniature eye movements under control of the visual system to retrieve unambiguous patterns P2 corresponding to P1. For retina implant applications, RE* can be tuned to generate optimal ganglion cell codes for epiretinal stimulation.",
+  "authors": [
+    "Eckmiller Rolf",
+    "Neumann Dirk",
+    "Baruth Oliver"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Electric Stimulation",
+    "Electric Stimulation Therapy",
+    "Humans",
+    "Models, Neurological",
+    "Nerve Net",
+    "Pattern Recognition, Physiological",
+    "Photic Stimulation",
+    "Photoreceptor Cells",
+    "Prostheses and Implants",
+    "Retinal Degeneration",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

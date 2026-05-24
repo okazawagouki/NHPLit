@@ -1,0 +1,19 @@
+{
+  "pmid": "15615826",
+  "title": "Simulations of saccade curvature by models that place superior colliculus upstream from the local feedback loop.",
+  "abstract": "When humans or monkeys are asked to make saccades to visual targets accompanied by one or more distractors, the two dimensional trajectory of the saccade will sometimes display significant curvature. Port and Wurtz used dual electrode recordings to show that this phenomenon is associated with activity at more than one site in superior colliculus (SC). The timing and initial direction of the curvature could be predicted by computing a weighted vector average of the normalized activity of the two neurons. As these authors noted, however, this approach does not result in correct predictions of the final direction of curved saccades. We show that the final direction of these movements can be predicted by taking into account the brain stem saccade generator and the local feedback loop. If the output of SC is computed as a weighted vector average of the saccades requested by the activated sites, and this collicular output is interpreted by downstream structures as desired displacement, existing models that place SC upstream from the local feedback loop can generate realistic saccade trajectories, including the final direction. We propose that saccade curvature is the result of a change in the relative level of activity at the two sites, which the brain stem saccade generator interprets as a change in desired displacement.",
+  "authors": [
+    "Walton Mark M G",
+    "Sparks David L",
+    "Gandhi Neeraj J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Feedback",
+    "Models, Neurological",
+    "Saccades",
+    "Superior Colliculi"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "22933781",
+  "title": "Dynamics of cortical neuronal ensembles transit from decision making to storage for later report.",
+  "abstract": "Decisions based on sensory evaluation during single trials may depend on the collective activity of neurons distributed across brain circuits. Previous studies have deepened our understanding of how the activity of individual neurons relates to the formation of a decision and its storage for later report. However, little is known about how decision-making and decision maintenance processes evolve in single trials. We addressed this problem by studying the activity of simultaneously recorded neurons from different somatosensory and frontal lobe cortices of monkeys performing a vibrotactile discrimination task. We used the hidden Markov model to describe the spatiotemporal pattern of activity in single trials as a sequence of firing rate states. We show that the animal's decision was reliably maintained in frontal lobe activity through a selective state sequence, initiated by an abrupt state transition, during which many neurons changed their activity in a concomitant way, and for which both latency and variability depended on task difficulty. Indeed, transitions were more delayed and more variable for difficult trials compared with easy trials. In contrast, state sequences in somatosensory cortices were weakly decision related, had less variable transitions, and were not affected by the difficulty of the task. In summary, our results suggest that the decision process and its subsequent maintenance are dynamically linked by a cascade of transient events in frontal lobe cortices.",
+  "authors": [
+    "Ponce-Alvarez Adrián",
+    "Nácher Verónica",
+    "Luna Rogelio",
+    "Riehle Alexa",
+    "Romo Ranulfo"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2012",
+  "doi": "10.1523/JNEUROSCI.6176-11.2012",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cerebral Cortex",
+    "Decision Making",
+    "Macaca mulatta",
+    "Male",
+    "Nerve Net",
+    "Neurons",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Reaction Time"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "26646183",
+  "title": "Internal models for interpreting neural population activity during sensorimotor control.",
+  "abstract": "To successfully guide limb movements, the brain takes in sensory information about the limb, internally tracks the state of the limb, and produces appropriate motor commands. It is widely believed that this process uses an internal model, which describes our prior beliefs about how the limb responds to motor commands. Here, we leveraged a brain-machine interface (BMI) paradigm in rhesus monkeys and novel statistical analyses of neural population activity to gain insight into moment-by-moment internal model computations. We discovered that a mismatch between subjects' internal models and the actual BMI explains roughly 65% of movement errors, as well as long-standing deficiencies in BMI speed control. We then used the internal models to characterize how the neural population activity changes during BMI learning. More broadly, this work provides an approach for interpreting neural population activity in the context of how prior beliefs guide the transformation of sensory input to motor output.",
+  "authors": [
+    "Golub Matthew D",
+    "Yu Byron M",
+    "Chase Steven M"
+  ],
+  "journal": "eLife",
+  "year": "2015",
+  "doi": "10.7554/eLife.10015",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Extremities",
+    "Feedback, Sensory",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Movement",
+    "Psychomotor Performance",
+    "Sensorimotor Cortex"
+  ]
+}

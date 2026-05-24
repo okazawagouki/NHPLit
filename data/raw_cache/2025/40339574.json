@@ -1,0 +1,27 @@
+{
+  "pmid": "40339574",
+  "title": "CalliCog is an open-source cognitive neuroscience toolkit for freely behaving nonhuman primates.",
+  "abstract": "Nonhuman primates (NHPs) are pivotal for unlocking the complexities of human cognition, yet traditional cognitive studies remain constrained to specialized laboratories. To address this gap, we present CalliCog: an open-source, scalable in-cage platform tailored for experiments in small freely behaving primate species such as the common marmoset (Callithrix jacchus). CalliCog includes modular operant chambers that operate autonomously and integrate seamlessly with home cages, eliminating human intervention. Our results showcase the power of CalliCog to train experimentally naive marmosets in touchscreen-based cognitive tasks. Across two independent facilities, marmosets achieved touchscreen proficiency within 2 weeks and successfully completed tasks probing behavioral flexibility and working memory. Moreover, CalliCog enabled precise synchronization of behavioral data with electrocorticography (ECoG) recordings from freely moving animals, opening new frontiers for neurobehavioral research. By making CalliCog openly accessible, we aim to democratize cognitive experimentation with small NHPs, narrowing the translational gap between preclinical models and human cognition.",
+  "authors": [
+    "Scott Jack T",
+    "Mendivez Vasquez Bruno L",
+    "Stewart Brian J",
+    "Panacheril Dylan D",
+    "Rajit Darren K J",
+    "Fan Angela Y",
+    "Bourne James A"
+  ],
+  "journal": "Cell reports methods",
+  "year": "2025",
+  "doi": "10.1016/j.crmeth.2025.101034",
+  "mesh": [
+    "Animals",
+    "Callithrix",
+    "Behavior, Animal",
+    "Cognitive Neuroscience",
+    "Cognition",
+    "Electrocorticography",
+    "Male",
+    "Memory, Short-Term"
+  ]
+}

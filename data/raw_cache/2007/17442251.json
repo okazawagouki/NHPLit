@@ -1,0 +1,31 @@
+{
+  "pmid": "17442251",
+  "title": "A neural circuit model of flexible sensorimotor mapping: learning and forgetting on multiple timescales.",
+  "abstract": "Volitional behavior relies on the brain's ability to remap sensory flow to motor programs whenever demanded by a changed behavioral context. To investigate the circuit basis of such flexible behavior, we have developed a biophysically based decision-making network model of spiking neurons for arbitrary sensorimotor mapping. The model quantitatively reproduces behavioral and prefrontal single-cell data from an experiment in which monkeys learn visuomotor associations that are reversed unpredictably from time to time. We show that when synaptic modifications occur on multiple timescales, the model behavior becomes flexible only when needed: slow components of learning usually dominate the decision process. However, if behavioral contexts change frequently enough, fast components of plasticity take over, and the behavior exhibits a quick forget-and-learn pattern. This model prediction is confirmed by monkey data. Therefore, our work reveals a scenario for conditional associative learning that is distinct from instant switching between sets of well-established sensorimotor associations.",
+  "authors": [
+    "Fusi Stefano",
+    "Asaad Wael F",
+    "Miller Earl K",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Neuron",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Association Learning",
+    "Cues",
+    "Decision Making",
+    "Haplorhini",
+    "Learning",
+    "Memory",
+    "Mental Recall",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Psychomotor Performance",
+    "Synapses"
+  ]
+}

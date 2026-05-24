@@ -1,0 +1,24 @@
+{
+  "pmid": "19163011",
+  "title": "Tracking the non-stationary neuron tuning by dual Kalman filter for brain machine interfaces decoding.",
+  "abstract": "Previous decoding approaches assume stationarity of the functional relationship between the neural activity and animal's movement in brain machine interfaces (BMIs). Studies show that the activity of individual neurons changes considerably from day to day. We propose to implement a dual Kalman structure to track neural tuning during the decoding process. While the kinematics are inferred as the state from the observation of neuron firing rates, the preferred direction of neuron tuning is also optimized by dual Kalman filtering on the linear coefficients of the observation model. When compared with the fixed tuning Kalman filter, the decoding performance of the adaptive dual Kalman filter is better (less Normalized Mean Square Error), which means that the evolving tuning of motor neuron is being tracked.",
+  "authors": [
+    "Wang Yiwen",
+    "Principe Jose C"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2008",
+  "doi": "10.1109/IEMBS.2008.4649508",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Biomedical Engineering",
+    "Brain",
+    "Female",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Neurons",
+    "User-Computer Interface"
+  ]
+}

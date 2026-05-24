@@ -1,0 +1,30 @@
+{
+  "pmid": "39836111",
+  "title": "Effects of noise and metabolic cost on cortical task representations.",
+  "abstract": "Cognitive flexibility requires both the encoding of task-relevant and the ignoring of task-irrelevant stimuli. While the neural coding of task-relevant stimuli is increasingly well understood, the mechanisms for ignoring task-irrelevant stimuli remain poorly understood. Here, we study how task performance and biological constraints jointly determine the coding of relevant and irrelevant stimuli in neural circuits. Using mathematical analyses and task-optimized recurrent neural networks, we show that neural circuits can exhibit a range of representational geometries depending on the strength of neural noise and metabolic cost. By comparing these results with recordings from primate prefrontal cortex (PFC) over the course of learning, we show that neural activity in PFC changes in line with a minimal representational strategy. Specifically, our analyses reveal that the suppression of dynamically irrelevant stimuli is achieved by activity-silent, sub-threshold dynamics. Our results provide a normative explanation as to why PFC implements an adaptive, minimal representational strategy.",
+  "authors": [
+    "Stroud Jake Patrick",
+    "Wojcik Michal",
+    "Jensen Kristopher Torp",
+    "Kusunoki Makoto",
+    "Kadohisa Mikiko",
+    "Buckley Mark J",
+    "Duncan John",
+    "Stokes Mark G",
+    "Lengyel Mate"
+  ],
+  "journal": "eLife",
+  "year": "2025",
+  "doi": "10.7554/eLife.94961",
+  "mesh": [
+    "Prefrontal Cortex",
+    "Animals",
+    "Macaca mulatta",
+    "Neurons",
+    "Cognition",
+    "Learning",
+    "Models, Neurological",
+    "Nerve Net",
+    "Male"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "24530886",
+  "title": "An artificial network model for estimating the network structure underlying partially observed neuronal signals.",
+  "abstract": "Many previous studies have proposed methods for quantifying neuronal interactions. However, these methods evaluated the interactions between recorded signals in an isolated network. In this study, we present a novel approach for estimating interactions between observed neuronal signals by theorizing that those signals are observed from only a part of the network that also includes unobserved structures. We propose a variant of the recurrent network model that consists of both observable and unobservable units. The observable units represent recorded neuronal activity, and the unobservable units are introduced to represent activity from unobserved structures in the network. The network structures are characterized by connective weights, i.e., the interaction intensities between individual units, which are estimated from recorded signals. We applied this model to multi-channel brain signals recorded from monkeys, and obtained robust network structures with physiological relevance. Furthermore, the network exhibited common features that portrayed cortical dynamics as inversely correlated interactions between excitatory and inhibitory populations of neurons, which are consistent with the previous view of cortical local circuits. Our results suggest that the novel concept of incorporating an unobserved structure into network estimations has theoretical advantages and could provide insights into brain dynamics beyond what can be directly observed.",
+  "authors": [
+    "Komatsu Misako",
+    "Namikawa Jun",
+    "Chao Zenas C",
+    "Nagasaka Yasuo",
+    "Fujii Naotaka",
+    "Nakamura Kiyohiko",
+    "Tani Jun"
+  ],
+  "journal": "Neuroscience research",
+  "year": "2014",
+  "doi": "10.1016/j.neures.2014.02.005",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Electroencephalography",
+    "Haplorhini",
+    "Humans",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Networks, Computer"
+  ]
+}

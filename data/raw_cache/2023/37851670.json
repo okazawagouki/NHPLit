@@ -1,0 +1,22 @@
+{
+  "pmid": "37851670",
+  "title": "A recurrent neural network model of prefrontal brain activity during a working memory task.",
+  "abstract": "When multiple items are held in short-term memory, cues that retrospectively prioritise one item over another (retro-cues) can facilitate subsequent recall. However, the neural and computational underpinnings of this effect are poorly understood. One recent study recorded neural signals in the macaque lateral prefrontal cortex (LPFC) during a retro-cueing task, contrasting delay-period activity before (pre-cue) and after (post-cue) retrocue onset. They reported that in the pre-cue delay, the individual stimuli were maintained in independent subspaces of neural population activity, whereas in the post-cue delay, the prioritised items were rotated into a common subspace, potentially allowing a common readout mechanism. To understand how such representational transitions can be learnt through error minimisation, we trained recurrent neural networks (RNNs) with supervision to perform an equivalent cued-recall task. RNNs were presented with two inputs denoting conjunctive colour-location stimuli, followed by a pre-cue memory delay, a location retrocue, and a post-cue delay. We found that the orthogonal-to-parallel geometry transformation observed in the macaque LPFC emerged naturally in RNNs trained to perform the task. Interestingly, the parallel geometry only developed when the cued information was required to be maintained in short-term memory for several cycles before readout, suggesting that it might confer robustness during maintenance. We extend these findings by analysing the learning dynamics and connectivity patterns of the RNNs, as well as the behaviour of models trained with probabilistic cues, allowing us to make predictions for future studies. Overall, our findings are consistent with recent theoretical accounts which propose that retrocues transform the prioritised memory items into a prospective, action-oriented format.",
+  "authors": [
+    "Piwek Emilia P",
+    "Stokes Mark G",
+    "Summerfield Christopher"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2023",
+  "doi": "10.1371/journal.pcbi.1011555",
+  "mesh": [
+    "Animals",
+    "Memory, Short-Term",
+    "Prospective Studies",
+    "Retrospective Studies",
+    "Cues",
+    "Prefrontal Cortex",
+    "Macaca"
+  ]
+}

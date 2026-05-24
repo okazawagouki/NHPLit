@@ -1,0 +1,14 @@
+{
+  "pmid": "26834587",
+  "title": "Characteristics of Eye-Position Gain Field Populations Determine Geometry of Visual Space.",
+  "abstract": "We have previously demonstrated differences in eye-position spatial maps for anterior inferotemporal cortex (AIT) in the ventral stream and lateral intraparietal cortex (LIP) in the dorsal stream, based on population decoding of gaze angle modulations of neural visual responses (i.e., eye-position gain fields). Here we explore the basis of such spatial encoding differences through modeling of gain field characteristics. We created a population of model neurons, each having a different eye-position gain field. This population was used to reconstruct eye-position visual space using multidimensional scaling. As gain field shapes have never been well-established experimentally, we examined different functions, including planar, sigmoidal, elliptical, hyperbolic, and mixtures of those functions. All functions successfully recovered positions, indicating weak constraints on allowable gain field shapes. We then used a genetic algorithm to modify the characteristics of model gain field populations until the recovered spatial maps closely matched those derived from monkey neurophysiological data in AIT and LIP. The primary differences found between model AIT and LIP gain fields were that AIT gain fields were more foveally dominated. That is, gain fields in AIT operated on smaller spatial scales and smaller dispersions than in LIP. Thus, we show that the geometry of eye-position visual space depends on the population characteristics of gain fields, and that differences in gain field characteristics for different cortical areas may underlie differences in the representation of space.",
+  "authors": [
+    "Lehky Sidney R",
+    "Sereno Margaret E",
+    "Sereno Anne B"
+  ],
+  "journal": "Frontiers in integrative neuroscience",
+  "year": "2015",
+  "doi": "10.3389/fnint.2015.00072",
+  "mesh": []
+}

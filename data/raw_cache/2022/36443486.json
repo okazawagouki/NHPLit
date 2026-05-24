@@ -1,0 +1,28 @@
+{
+  "pmid": "36443486",
+  "title": "A large-scale neural network training framework for generalized estimation of single-trial population dynamics.",
+  "abstract": "Achieving state-of-the-art performance with deep neural population dynamics models requires extensive hyperparameter tuning for each dataset. AutoLFADS is a model-tuning framework that automatically produces high-performing autoencoding models on data from a variety of brain areas and tasks, without behavioral or task information. We demonstrate its broad applicability on several rhesus macaque datasets: from motor cortex during free-paced reaching, somatosensory cortex during reaching with perturbations, and dorsomedial frontal cortex during a cognitive timing task.",
+  "authors": [
+    "Keshtkaran Mohammad Reza",
+    "Sedler Andrew R",
+    "Chowdhury Raeed H",
+    "Tandon Raghav",
+    "Basrai Diya",
+    "Nguyen Sarah L",
+    "Sohn Hansem",
+    "Jazayeri Mehrdad",
+    "Miller Lee E",
+    "Pandarinath Chethan"
+  ],
+  "journal": "Nature methods",
+  "year": "2022",
+  "doi": "10.1038/s41592-022-01675-0",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Neural Networks, Computer",
+    "Population Dynamics",
+    "Motor Cortex",
+    "Somatosensory Cortex"
+  ]
+}

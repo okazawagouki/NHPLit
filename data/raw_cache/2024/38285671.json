@@ -1,0 +1,21 @@
+{
+  "pmid": "38285671",
+  "title": "The representation of priors and decisions in the human parietal cortex.",
+  "abstract": "Animals actively sample their environment through orienting actions such as saccadic eye movements. Saccadic targets are selected based both on sensory evidence immediately preceding the saccade, and a \"salience map\" or prior built-up over multiple saccades. In the primate cortex, the selection of each individual saccade depends on competition between target-selective cells that ramp up their firing rate to saccade release. However, it is less clear how a cross-saccade prior might be implemented, either in neural firing or through an activity-silent mechanism such as modification of synaptic weights on sensory inputs. Here, we present evidence from magnetoencephalography for 2 distinct processes underlying the selection of the current saccade, and the representation of the prior, in human parietal cortex. While the classic ramping decision process for each saccade was reflected in neural firing rates (measured in the event-related field), a prior built-up over multiple saccades was implemented via modulation of the gain on sensory inputs from the preferred target, as evidenced by rapid frequency tagging. A cascade of computations over time (initial representation of the prior, followed by evidence accumulation and then an integration of prior and evidence) provides a mechanism by which a salience map may be built up across saccades in parietal cortex. It also provides insight into the apparent contradiction that inactivation of parietal cortex has been shown not to affect performance on single-trials, despite the presence of clear evidence accumulation signals in this region.",
+  "authors": [
+    "Marshall Tom R",
+    "Ruesseler Maria",
+    "Hunt Laurence T",
+    "O'Reilly Jill X"
+  ],
+  "journal": "PLoS biology",
+  "year": "2024",
+  "doi": "10.1371/journal.pbio.3002383",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Saccades",
+    "Parietal Lobe",
+    "Photic Stimulation"
+  ]
+}

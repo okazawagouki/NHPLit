@@ -1,0 +1,15 @@
+{
+  "pmid": "21048899",
+  "title": "Internal representation of task rules by recurrent dynamics: the importance of the diversity of neural responses.",
+  "abstract": "Neural activity of behaving animals, especially in the prefrontal cortex, is highly heterogeneous, with selective responses to diverse aspects of the executed task. We propose a general model of recurrent neural networks that perform complex rule-based tasks, and we show that the diversity of neuronal responses plays a fundamental role when the behavioral responses are context-dependent. Specifically, we found that when the inner mental states encoding the task rules are represented by stable patterns of neural activity (attractors of the neural dynamics), the neurons must be selective for combinations of sensory stimuli and inner mental states. Such mixed selectivity is easily obtained by neurons that connect with random synaptic strengths both to the recurrent network and to neurons encoding sensory inputs. The number of randomly connected neurons needed to solve a task is on average only three times as large as the number of neurons needed in a network designed ad hoc. Moreover, the number of needed neurons grows only linearly with the number of task-relevant events and mental states, provided that each neuron responds to a large proportion of events (dense/distributed coding). A biologically realistic implementation of the model captures several aspects of the activity recorded from monkeys performing context-dependent tasks. Our findings explain the importance of the diversity of neural responses and provide us with simple and general principles for designing attractor neural networks that perform complex computation.",
+  "authors": [
+    "Rigotti Mattia",
+    "Ben Dayan Rubin Daniel",
+    "Wang Xiao-Jing",
+    "Fusi Stefano"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2010",
+  "doi": "10.3389/fncom.2010.00024",
+  "mesh": []
+}

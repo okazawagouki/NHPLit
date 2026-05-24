@@ -1,0 +1,32 @@
+{
+  "pmid": "19864439",
+  "title": "Relationships between the threshold and slope of psychometric and neurometric functions during perceptual learning: implications for neuronal pooling.",
+  "abstract": "Perceptual learning involves long-lasting improvements in the ability to perceive simple sensory stimuli. Some forms of perceptual learning are thought to involve an increasingly selective readout of sensory neurons that are most sensitive to the trained stimulus. Here we report novel changes in the relationship between the threshold and slope of the psychometric function during learning that are consistent with such changes in readout and can provide insights into the underlying neural mechanisms. In monkeys trained on a direction-discrimination task, perceptual improvements corresponded to lower psychometric thresholds and slightly shallower slopes. However, this relationship between threshold and slope was much weaker in comparable, ideal-observer \"neurometric\" functions of neurons in the middle temporal (MT) area, which represent sensory information used to perform the task and whose response properties did not change with training. We propose a linear/nonlinear pooling scheme to account for these results. According to this scheme, MT responses are pooled via linear weights that change with training to more selectively read out responses from the most sensitive neurons, thereby reducing predicted thresholds. An additional nonlinear (power-law) transformation does not change with training and causes the predicted psychometric function to become shallower as uninformative neurons are eliminated from the pooled signal. We show that this scheme is consistent with the measured changes in psychometric threshold and slope throughout training. The results suggest that some forms of perceptual learning involve improvements in a process akin to selective attention that pools the most informative neural signals to guide behavior.",
+  "authors": [
+    "Gold Joshua I",
+    "Law Chi-Tat",
+    "Connolly Patrick",
+    "Bennur Sharath"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2010",
+  "doi": "10.1152/jn.00744.2009",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Decision Making",
+    "Discrimination, Psychological",
+    "Female",
+    "Learning",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neuropsychological Tests",
+    "Nonlinear Dynamics",
+    "Psychometrics",
+    "Temporal Lobe",
+    "Time Factors"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "19432774",
+  "title": "Bayesian nonparametric modeling for comparison of single-neuron firing intensities.",
+  "abstract": "We propose a fully inferential model-based approach to the problem of comparing the firing patterns of a neuron recorded under two distinct experimental conditions. The methodology is based on nonhomogeneous Poisson process models for the firing times of each condition with flexible nonparametric mixture prior models for the corresponding intensity functions. We demonstrate posterior inferences from a global analysis, which may be used to compare the two conditions over the entire experimental time window, as well as from a pointwise analysis at selected time points to detect local deviations of firing patterns from one condition to another. We apply our method on two neurons recorded from the primary motor cortex area of a monkey's brain while performing a sequence of reaching tasks.",
+  "authors": [
+    "Kottas Athanasios",
+    "Behseta Sam"
+  ],
+  "journal": "Biometrics",
+  "year": "2010",
+  "doi": "10.1111/j.1541-0420.2009.01230.x",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Bayes Theorem",
+    "Biometry",
+    "Evoked Potentials, Motor",
+    "Haplorhini",
+    "Humans",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Motor Cortex",
+    "Movement",
+    "Neurons"
+  ]
+}

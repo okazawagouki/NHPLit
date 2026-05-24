@@ -1,0 +1,27 @@
+{
+  "pmid": "8331371",
+  "title": "How independent are the messages carried by adjacent inferior temporal cortical neurons?",
+  "abstract": "There are at least three possibilities for encoding information in a small area of cortex. First, neurons could have identical characteristics, thus conveying redundant information; second, neurons could give different responses to the same stimuli, thus conveying independent information; or third, neurons could cooperate with each other to encode more information jointly than they do separately, that is, synergistically. We recorded from 28 pairs of neurons in inferior temporal cortex of behaving rhesus monkeys. Each pair was recorded from a single microelectrode. Both the magnitude and the temporal modulation of the responses were quantified. We separated the responses into signal (average response to each stimulus) and noise (deviation of each response from the average). Linear regression showed that an average of only 18.7% of the magnitude of the signal carried by one neuron could be predicted from the magnitude of the other, and only 22.0% could be predicted by including the temporal modulation. For the noise, the figures were 5.5% and 6.3%, respectively, even less than for the signal. Information theoretic analysis shows that the pairs of neurons we studied carried an average of 20% redundant information. However, even this relatively small amount of redundancy places a severe upper limit on the information that can be transmitted by a neuronal pool. A pool of neurons for which each pair is mutually redundant to extent y can only carry a maximum of 1/y, here five times, as much information as one neuron alone. Information theoretic analysis gave no evidence for the presence of information as a function of both neurons considered together, that is, synergistic codes. Cross-correlation showed that at least 61% of the neuronal pairs shared connections in some manner. Given these shared connections, if adjacent neurons had had identical characteristics, then the noise on the outputs of these neurons would have been highly correlated, and it would not be possible to separate the signal and noise. The severe impact of correlated noise and information redundancy leads us to propose that the processing carried out by these neurons evolved both to provide a rich description of many stimulus properties and simultaneously to minimize the redundancy in a local group of neurons. These two principles appear to be a major constraint on the organization of inferior temporal, and possibly all, cortex.",
+  "authors": [
+    "Gawne T J",
+    "Richmond B J"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1993",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Conditioning, Operant",
+    "Macaca mulatta",
+    "Membrane Potentials",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Regression Analysis",
+    "Reward",
+    "Stereotaxic Techniques",
+    "Temporal Lobe",
+    "Visual Perception"
+  ]
+}

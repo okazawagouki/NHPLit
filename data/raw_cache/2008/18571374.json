@@ -1,0 +1,28 @@
+{
+  "pmid": "18571374",
+  "title": "Computational theory and applications of a filling-in process at the blind spot.",
+  "abstract": "A mathematical model for filling-in at the blind spot is proposed. The general scheme of the standard regularization theory was used to derive the model deductively. First, we present the problems encountered with a diffusion equation, which is frequently used for various types of perceptual completion. To solve these problems, we investigated the computational meaning of a neural property discovered by Matsumoto and Komatsu [Matsumoto, M., & Komatsu, H. (2005). Neural responses in the macaque V1 to bar stimuli with various lengths presented on the blind spot. Journal of Neurophysiology, 93, 2374-2387]. Based on our observations, we introduce two types of curvature information of image properties into the a priori knowledge of missing images in the blind spot. Moreover, two different information pathways for filling-in, which were suggested by results of physiological experiments (slow conductive paths of horizontal connections in V1, and fast feedforward/feedback paths via V2), were considered theoretically as the neural embodiment of an adiabatic approximation between V1 and V2 interaction. Numerical simulations show that the output of the proposed model for filling-in is consistent with neurophysiological experimental results. The model can be used as a powerful tool for digital image inpainting.",
+  "authors": [
+    "Satoh Shunji",
+    "Usui Shiro"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2008",
+  "doi": "10.1016/j.neunet.2008.05.001",
+  "mesh": [
+    "Algorithms",
+    "Color",
+    "Feedback",
+    "Humans",
+    "Kinetics",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neural Networks, Computer",
+    "Neural Pathways",
+    "Neurons",
+    "Optic Disk",
+    "Retina",
+    "Signal Transduction",
+    "Visual Cortex"
+  ]
+}

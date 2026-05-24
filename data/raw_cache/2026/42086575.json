@@ -1,0 +1,26 @@
+{
+  "pmid": "42086575",
+  "title": "Modeling attention and binding in the brain through bidirectional recurrent gating.",
+  "abstract": "Attention is a cornerstone of cognition and neural computation, enabling the brain to select relevant information, bind features into coherent objects, and guide behavior. However, we currently lack a unifying computational model that connects the diverse phenomena of attention, from spatial and feature-based selection to object-based binding, within a single, neurally plausible computational framework. Here, we propose a bidirectional recurrent gating mechanism integrated into a principled architecture of the ventral visual stream. In this architecture, feedforward pathways extract visual features, while top-down and lateral connections transmit context- and task-dependent modulatory signals that control information flow. We demonstrate that our model, trained on recognition and segmentation problems, successfully performs the canonical attention tasks of orienting, filtering, and visual search on complex scenes. It replicates key psychophysical phenomena, such as perceptual load and inattentional blindness, while its internal units develop neural properties consistent with primate physiology, including multiplicative gain modulation and border-ownership coding. Our work provides evidence that this diverse set of attentional and binding phenomena can emerge from error-backpropagation combined with architectural constraints upon information flow, offering a powerful tool for neuroscience and a compelling, bio-inspired alternative to standard AI architectures.",
+  "authors": [
+    "Salehi Saeed",
+    "Lei Jordan",
+    "Benjamin Ari S",
+    "Müller Klaus-Robert",
+    "Kording Konrad P"
+  ],
+  "journal": "Nature communications",
+  "year": "2026",
+  "doi": "10.1038/s41467-026-72146-9",
+  "mesh": [
+    "Attention",
+    "Humans",
+    "Brain",
+    "Models, Neurological",
+    "Visual Perception",
+    "Animals",
+    "Visual Pathways",
+    "Computer Simulation",
+    "Cognition"
+  ]
+}

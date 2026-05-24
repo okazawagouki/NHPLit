@@ -1,0 +1,23 @@
+{
+  "pmid": "33530064",
+  "title": "High-density mapping of primate digit representations with a 1152-channel<i>µ</i>ECoG array.",
+  "abstract": "<i>Objective.</i>Advances in brain-machine interfaces (BMIs) are expected to support patients with movement disorders. Electrocorticogram (ECoG) measures electrophysiological activities over a large area using a low-invasive flexible sheet placed on the cortex. ECoG has been considered as a feasible signal source of the clinical BMI device. To capture neural activities more precisely, the feasibility of higher-density arrays has been investigated. However, currently, the number of electrodes is limited to approximately 300 due to wiring difficulties, device size, and system costs.<i>Approach.</i>We developed a high-density recording system with a large coverage (14 × 7 mm<sup>2</sup>) and using 1152 electrodes by directly integrating dedicated flexible arrays with the neural-recording application-specific integrated circuits and their interposers.<i>Main results.</i>Comparative experiments with a 128-channel array demonstrated that the proposed device could delineate the entire digit representation of a nonhuman primate. Subsampling analysis revealed that higher-amplitude signals can be measured using higher-density arrays.<i>Significance.</i>We expect that the proposed system that simultaneously establishes large-scale sampling, high temporal-precision of electrophysiology, and high spatial resolution comparable to optical imaging will be suitable for next-generation brain-sensing technology.",
+  "authors": [
+    "Kaiju Taro",
+    "Inoue Masato",
+    "Hirata Masayuki",
+    "Suzuki Takafumi"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2021",
+  "doi": "10.1088/1741-2552/abe245",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Brain-Computer Interfaces",
+    "Electrocorticography",
+    "Electrodes, Implanted",
+    "Humans",
+    "Primates"
+  ]
+}

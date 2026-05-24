@@ -1,0 +1,19 @@
+{
+  "pmid": "36343230",
+  "title": "Systematic reduction of the dimensionality of natural scenes allows accurate predictions of retinal ganglion cell spike outputs.",
+  "abstract": "The mammalian retina engages a broad array of linear and nonlinear circuit mechanisms to convert natural scenes into retinal ganglion cell (RGC) spike outputs. Although many individual integration mechanisms are well understood, we know less about how multiple mechanisms interact to encode the complex spatial features present in natural inputs. Here, we identified key spatial features in natural scenes that shape encoding by primate parasol RGCs. Our approach identified simplifications in the spatial structure of natural scenes that minimally altered RGC spike responses. We observed that reducing natural movies into 16 linearly integrated regions described ∼80% of the structure of parasol RGC spike responses; this performance depended on the number of regions but not their precise spatial locations. We used simplified stimuli to design high-dimensional metamers that recapitulated responses to naturalistic movies. Finally, we modeled the retinal computations that convert flashed natural images into one-dimensional spike counts.",
+  "authors": [
+    "Freedland Julian",
+    "Rieke Fred"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2022",
+  "doi": "10.1073/pnas.2121744119",
+  "mesh": [
+    "Animals",
+    "Retinal Ganglion Cells",
+    "Photic Stimulation",
+    "Retina",
+    "Mammals"
+  ]
+}

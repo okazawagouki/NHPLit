@@ -1,0 +1,30 @@
+{
+  "pmid": "16510934",
+  "title": "On variability and use of rat primary motor cortex responses in behavioral task discrimination.",
+  "abstract": "The success of a cortical motor neuroprosthetic system will rely on the system's ability to effectively execute complex motor tasks in a changing environment. Invasive, intra-cortical electrodes have been successfully used to predict joint movement and grip force of a robotic arm/hand with a non-human primate (Chapin J K, Moxon K A, Markowitz R S and Nicolelis M A L 1999 Real-time control of a robotic arm using simultaneously recorded neurons in the motor cortex Nat. Neurosci. 2 664-70). It is well known that cortical encoding occurs with a high degree of cortical plasticity and depends on both the functional and behavioral context. Questions on the expected robustness of future motor prosthesis systems therefore still remain. The objective of the present work was to study the effect of minor changes in functional movement strategies on the M1 encoding. We compared the M1 encoding in freely moving, non-constrained animals that performed two similar behavioral tasks with the same end-goal, and investigated if these behavioral tasks could be discriminated based on the M1 recordings. The rats depressed a response paddle either with a set of restrictive bars ('WB') or without the bars ('WOB') placed in front of the paddle. The WB task required changes in the motor strategy to complete the paddle press and resulted in highly stereotyped movements, whereas in the WOB task the movement strategy was not restricted. Neural population activity was recorded from 16-channel micro-wire arrays and data up to 200 ms before a paddle hit were analyzed off-line. The analysis showed a significant neural firing difference between the two similar WB and WOB tasks, and using principal component analysis it was possible to distinguish between the two tasks with a best classification at 76.6%. While the results are dependent upon a small, randomly sampled neural population, they indicate that information about similar behavioral tasks may be extracted from M1 based on relatively few channels of neural signal for possible use in a cortical neuroprosthetic system.",
+  "authors": [
+    "Jensen Winnie",
+    "Rousche Patrick J"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artificial Intelligence",
+    "Behavior, Animal",
+    "Diagnosis, Computer-Assisted",
+    "Discriminant Analysis",
+    "Electroencephalography",
+    "Evoked Potentials, Motor",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Rats",
+    "Rats, Sprague-Dawley",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Task Performance and Analysis"
+  ]
+}

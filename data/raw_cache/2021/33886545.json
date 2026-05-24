@@ -1,0 +1,19 @@
+{
+  "pmid": "33886545",
+  "title": "Unraveling the mechanisms of surround suppression in early visual processing.",
+  "abstract": "This paper uses mathematical modeling to study the mechanisms of surround suppression in the primate visual cortex. We present a large-scale neural circuit model consisting of three interconnected components: LGN and two input layers (Layer 4Ca and Layer 6) of the primary visual cortex V1, covering several hundred hypercolumns. Anatomical structures are incorporated and physiological parameters from realistic modeling work are used. The remaining parameters are chosen to produce model outputs that emulate experimentally observed size-tuning curves. Our two main results are: (i) we discovered the character of the long-range connections in Layer 6 responsible for surround effects in the input layers; and (ii) we showed that a net-inhibitory feedback, i.e., feedback that excites I-cells more than E-cells, from Layer 6 to Layer 4 is conducive to producing surround properties consistent with experimental data. These results are obtained through parameter selection and model analysis. The effects of nonlinear recurrent excitation and inhibition are also discussed. A feature that distinguishes our model from previous modeling work on surround suppression is that we have tried to reproduce realistic lengthscales that are crucial for quantitative comparison with data. Due to its size and the large number of unknown parameters, the model is computationally challenging. We demonstrate a strategy that involves first locating baseline values for relevant parameters using a linear model, followed by the introduction of nonlinearities where needed. We find such a methodology effective, and propose it as a possibility in the modeling of complex biological systems.",
+  "authors": [
+    "Li Yao",
+    "Young Lai-Sang"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2021",
+  "doi": "10.1371/journal.pcbi.1008916",
+  "mesh": [
+    "Animals",
+    "Models, Biological",
+    "Primates",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

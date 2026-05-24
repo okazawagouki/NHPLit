@@ -1,0 +1,30 @@
+{
+  "pmid": "20010823",
+  "title": "Synaptic computation underlying probabilistic inference.",
+  "abstract": "We propose that synapses may be the workhorse of the neuronal computations that underlie probabilistic reasoning. We built a neural circuit model for probabilistic inference in which information provided by different sensory cues must be integrated and the predictive powers of individual cues about an outcome are deduced through experience. We found that bounded synapses naturally compute, through reward-dependent plasticity, the posterior probability that a choice alternative is correct given that a cue is presented. Furthermore, a decision circuit endowed with such synapses makes choices on the basis of the summed log posterior odds and performs near-optimal cue combination. The model was validated by reproducing salient observations of, and provides insights into, a monkey experiment using a categorization task. Our model thus suggests a biophysical instantiation of the Bayesian decision rule, while predicting important deviations from it similar to the 'base-rate neglect' observed in human studies when alternatives have unequal prior probabilities.",
+  "authors": [
+    "Soltani Alireza",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2010",
+  "doi": "10.1038/nn.2450",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Computer Simulation",
+    "Cues",
+    "Decision Making",
+    "Haplorhini",
+    "Humans",
+    "Learning",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Inhibition",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Reproducibility of Results",
+    "Reward",
+    "Synapses"
+  ]
+}

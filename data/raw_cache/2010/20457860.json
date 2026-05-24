@@ -1,0 +1,32 @@
+{
+  "pmid": "20457860",
+  "title": "The role of V1 surround suppression in MT motion integration.",
+  "abstract": "Neurons in the primate extrastriate cortex are highly selective for complex stimulus features such as faces, objects, and motion patterns. One explanation for this selectivity is that neurons in these areas carry out sophisticated computations on the outputs of lower-level areas such as primary visual cortex (V1), where neuronal selectivity is often modeled in terms of linear spatiotemporal filters. However, it has long been known that such simple V1 models are incomplete because they fail to capture important nonlinearities that can substantially alter neuronal selectivity for specific stimulus features. Thus a key step in understanding the function of higher cortical areas is the development of realistic models of their V1 inputs. We have addressed this issue by constructing a computational model of the V1 neurons that provide the strongest input to extrastriate cortical middle temporal (MT) area. We find that a modest elaboration to the standard model of V1 direction selectivity generates model neurons with strong end-stopping, a property that is also found in the V1 layers that provide input to MT. With this computational feature in place, the seemingly complex properties of MT neurons can be simulated by assuming that they perform a simple nonlinear summation of their inputs. The resulting model, which has a very small number of free parameters, can simulate many of the diverse properties of MT neurons. In particular, we simulate the invariance of MT tuning curves to the orientation and length of tilted bar stimuli, as well as the accompanying temporal dynamics. We also show how this property relates to the continuum from component to pattern selectivity observed when MT neurons are tested with plaids. Finally, we confirm several key predictions of the model by recording from MT neurons in the alert macaque monkey. Overall our results demonstrate that many of the seemingly complex computations carried out by high-level cortical neurons can in principle be understood by examining the properties of their inputs.",
+  "authors": [
+    "Tsui James M G",
+    "Hunter J Nicholas",
+    "Born Richard T",
+    "Pack Christopher C"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2010",
+  "doi": "10.1152/jn.00654.2009",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Contrast Sensitivity",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neural Pathways",
+    "Nonlinear Dynamics",
+    "Orientation",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Space Perception",
+    "Temporal Lobe",
+    "Time Factors",
+    "Visual Cortex",
+    "Visual Fields"
+  ]
+}

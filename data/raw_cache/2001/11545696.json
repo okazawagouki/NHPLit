@@ -1,0 +1,25 @@
+{
+  "pmid": "11545696",
+  "title": "A graphical anatomical database of neural connectivity.",
+  "abstract": "We describe a graphical anatomical database program, called XANAT (so named because it was developed under the X window system in UNIX), that allows the results of numerous studies on neuroanatomical connections to be stored, compared and analysed in a standardized format. Data are entered into the database by drawing injection and label sites from a particular tracer study directly onto canonical representations of the neuroanatomical structures of interest, along with providing descriptive text information. Searches may then be performed on the data by querying the database graphically, for example by specifying a region of interest within the brain for which connectivity information is desired, or via text information, such as keywords describing a particular brain region, or an author name or reference. Analyses may also be performed by accumulating data across multiple studies and displaying a colour-coded map that graphically represents the total evidence for connectivity between regions. Thus, data may be studied and compared free of areal boundaries (which often vary from one laboratory to the next), and instead with respect to standard landmarks, such as the position relative to well-known neuro-anatomical substrates or stereotaxic coordinates. If desired, areal boundaries may also be defined by the user to facilitate the interpretation of results. We demonstrate the application of the database to the analysis of pulvinar-cortical connections in the macaque monkey, for which the results of over 120 neuro-anatomical experiments were entered into the database. We show how these techniques can be used to elucidate connectivity trends and patterns that may otherwise go unnoticed.",
+  "authors": [
+    "Press W A",
+    "Olshausen B A",
+    "Van Essen D C"
+  ],
+  "journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Databases, Factual",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Macaca",
+    "Models, Statistical",
+    "Neural Pathways",
+    "Neuroanatomy",
+    "Pulvinar"
+  ]
+}

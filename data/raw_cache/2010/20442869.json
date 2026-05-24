@@ -1,0 +1,28 @@
+{
+  "pmid": "20442869",
+  "title": "The brain's router: a cortical network model of serial processing in the primate brain.",
+  "abstract": "The human brain efficiently solves certain operations such as object recognition and categorization through a massively parallel network of dedicated processors. However, human cognition also relies on the ability to perform an arbitrarily large set of tasks by flexibly recombining different processors into a novel chain. This flexibility comes at the cost of a severe slowing down and a seriality of operations (100-500 ms per step). A limit on parallel processing is demonstrated in experimental setups such as the psychological refractory period (PRP) and the attentional blink (AB) in which the processing of an element either significantly delays (PRP) or impedes conscious access (AB) of a second, rapidly presented element. Here we present a spiking-neuron implementation of a cognitive architecture where a large number of local parallel processors assemble together to produce goal-driven behavior. The precise mapping of incoming sensory stimuli onto motor representations relies on a \"router\" network capable of flexibly interconnecting processors and rapidly changing its configuration from one task to another. Simulations show that, when presented with dual-task stimuli, the network exhibits parallel processing at peripheral sensory levels, a memory buffer capable of keeping the result of sensory processing on hold, and a slow serial performance at the router stage, resulting in a performance bottleneck. The network captures the detailed dynamics of human behavior during dual-task-performance, including both mean RTs and RT distributions, and establishes concrete predictions on neuronal dynamics during dual-task experiments in humans and non-human primates.",
+  "authors": [
+    "Zylberberg Ariel",
+    "Fernández Slezak Diego",
+    "Roelfsema Pieter R",
+    "Dehaene Stanislas",
+    "Sigman Mariano"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2010",
+  "doi": "10.1371/journal.pcbi.1000765",
+  "mesh": [
+    "Action Potentials",
+    "Analysis of Variance",
+    "Attentional Blink",
+    "Cerebral Cortex",
+    "Cognition",
+    "Humans",
+    "Models, Neurological",
+    "Nerve Net",
+    "Reaction Time",
+    "Stochastic Processes",
+    "Task Performance and Analysis"
+  ]
+}

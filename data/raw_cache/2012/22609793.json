@@ -1,0 +1,29 @@
+{
+  "pmid": "22609793",
+  "title": "An implanted 8-channel array coil for high-resolution macaque MRI at 3T.",
+  "abstract": "An 8-channel receive coil array was constructed and implanted adjacent to the skull in a male rhesus monkey in order to improve the sensitivity of (functional) brain imaging. The permanent implant was part of an acrylic headpost assembly and only the coil element loop wires were implanted. The tuning, matching, and preamplifier circuitry was connected via a removable external assembly. Signal-to-noise ratio (SNR) and noise amplification for parallel imaging were compared to single-, 4-, and 8-channel external receive-only coils routinely used for macaque fMRI. In vivo measurements showed significantly improved SNR within the brain for the implanted versus the external coils. Within a region-of-interest covering the cerebral cortex, we observed a 5.4-, 3.6-fold, and 3.4-fold increase in SNR compared to the external single-, 4-, and 8-channel coils, respectively. In the center of the brain, the implanted array maintained a 2.4×, 2.5×, and 2.1× higher SNR, respectively compared to the external coils. The array performance was evaluated for anatomical, diffusion tensor and functional brain imaging. This study suggests that a stable implanted phased-array coil can be used in macaque MRI to substantially increase the spatial resolution for anatomical, diffusion tensor, and functional imaging.",
+  "authors": [
+    "Janssens T",
+    "Keil B",
+    "Farivar R",
+    "McNab J A",
+    "Polimeni J R",
+    "Gerits A",
+    "Arsenault J T",
+    "Wald L L",
+    "Vanduffel W"
+  ],
+  "journal": "NeuroImage",
+  "year": "2012",
+  "doi": "10.1016/j.neuroimage.2012.05.028",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Electrodes, Implanted",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Signal-To-Noise Ratio"
+  ]
+}

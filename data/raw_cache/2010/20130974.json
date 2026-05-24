@@ -1,0 +1,30 @@
+{
+  "pmid": "20130974",
+  "title": "Encoding of brain state changes in local field potentials modulated by motor behaviors.",
+  "abstract": "Local field potentials (LFPs) measure aggregate neural activity resulting from the coordinated firing of neurons within a local network. We hypothesized that state parameters associated with the underlying brain dynamics may be encoded in LFPs but may not be directly measurable in the signal temporal and spectral contents. Using the Kalman filter we estimated latent state changes in LFPs recorded in monkey motor cortical areas during the execution of a visually instructed reaching task, under different applied force conditions. Prior to the estimation, matched filtering was performed to decouple behavior-relevant signals (Stamoulis and Richardson, J Comput Neurosci, 2009) from unrelated background oscillations. State changes associated with baseline oscillations appeared insignificant. In contrast, state changes estimated from LFP components associated with the execution of movement were significant. Approximately direction-invariant state vectors were consistently observed. Their patterns appeared invariant also to force field conditions, with a peak in the first 200 ms of the movement interval, but exponentially decreasing to the zero state approximately 200 ms from movement onset, also the time at which movement velocity reached its peak. Thus, state appeared to be modulated by the dynamics of movement but neither by movement direction nor by the mechanical environment. Finally, we compared state vectors estimated using the Kalman filter to the basis functions obtained through Principal Component Analysis. The pattern of the estimated state vector was very similar to that of the first PCA component, further suggesting that LFPs may directly encode brain state fluctuations associated with the dynamics of behavior.",
+  "authors": [
+    "Stamoulis Catherine",
+    "Richardson Andrew G"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2010",
+  "doi": "10.1007/s10827-010-0219-6",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Behavior, Animal",
+    "Brain",
+    "Conditioning, Operant",
+    "Cues",
+    "Data Interpretation, Statistical",
+    "Electrodes",
+    "Evoked Potentials",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Photic Stimulation",
+    "Principal Component Analysis",
+    "Space Perception"
+  ]
+}

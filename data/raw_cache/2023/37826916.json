@@ -1,0 +1,28 @@
+{
+  "pmid": "37826916",
+  "title": "Optimising a computational model of human auditory cortex with an evolutionary algorithm.",
+  "abstract": "We demonstrate how the structure of auditory cortex can be investigated by combining computational modelling with advanced optimisation methods. We optimise a well-established auditory cortex model by means of an evolutionary algorithm. The model describes auditory cortex in terms of multiple core, belt, and parabelt fields. The optimisation process finds the optimum connections between individual fields of auditory cortex so that the model is able to reproduce experimental magnetoencephalographic (MEG) data. In the current study, this data comprised the auditory event-related fields (ERFs) recorded from a human subject in an MEG experiment where the stimulus-onset interval between consecutive tones was varied. The quality of the match between synthesised and experimental waveforms was 98%. The results suggest that neural activity caused by feedback connections plays a particularly important role in shaping ERF morphology. Further, ERFs reflect activity of the entire auditory cortex, and response adaptation due to stimulus repetition emerges from a complete reorganisation of AC dynamics rather than a reduction of activity in discrete sources. Our findings constitute the first stage in establishing a new non-invasive method for uncovering the organisation of the human auditory cortex.",
+  "authors": [
+    "Tomana Ewelina",
+    "Härtwich Nina",
+    "Rozmarynowski Adam",
+    "König Reinhard",
+    "May Patrick J C",
+    "Sielużycki Cezary"
+  ],
+  "journal": "Hearing research",
+  "year": "2023",
+  "doi": "10.1016/j.heares.2023.108879",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Auditory Cortex",
+    "Brain Mapping",
+    "Magnetoencephalography",
+    "Macaca mulatta",
+    "Computer Simulation",
+    "Evoked Potentials, Auditory",
+    "Auditory Perception",
+    "Acoustic Stimulation"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "41455813",
+  "title": "Structured interconnectivity optimizes neural geometry for balancing specificity and generalization in object recognition.",
+  "abstract": "Balancing specificity and generalization in object recognition is a significant challenge for biological and artificial visual systems. Here, we investigated how the brain addresses this challenge by examining the relationship between interconnectivity of neural networks, dimensionality of neural space, and levels of abstraction in representing objects, employing combined neurophysiological data from macaques and computational modeling. We found that higher interconnectivity within area TEa of macaques' inferior temporal (IT) cortex was associated with lower dimensionality and greater generalization, while lower interconnectivity within area TEO correlated with higher dimensionality and greater specificity. To establish a causal link, we developed a brain-inspired computational model constrained by empirical wiring length. This structured interconnectivity created optimal dimensionality of the neural space, facilitating efficient energy distribution across the representational manifold embedded within the neural space, balancing specificity and generalization. Our findings underscore the critical role of structured connectivity in enabling robust object recognition through multi-level abstraction.",
+  "authors": [
+    "Zhang Yiyuan",
+    "Liu Jirui",
+    "Liu Jia"
+  ],
+  "journal": "Communications biology",
+  "year": "2025",
+  "doi": "10.1038/s42003-025-09411-y",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Pattern Recognition, Visual",
+    "Nerve Net",
+    "Temporal Lobe",
+    "Generalization, Psychological",
+    "Recognition, Psychology",
+    "Brain"
+  ]
+}

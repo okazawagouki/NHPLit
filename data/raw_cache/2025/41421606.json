@@ -1,0 +1,23 @@
+{
+  "pmid": "41421606",
+  "title": "neuroVIISAS-based construction of a stereotactic rhesus monkey brain atlas for connectome research.",
+  "abstract": "BACKGROUND: Digital brain atlases are indispensable for primate connectomics, providing precise stereotactic references that enable reproducible mapping of structural and functional data. NEW METHOD: We provide a fully digitized, bilaterally complete 3D reconstruction of the Paxinos et al. rhesus macaque atlas, implemented within the existing neuroVIISAS platform. The contribution of this work is the creation of a reusable, stereotactically embedded resource, rather than the introduction of new computational methods. Using polygon-based segmentation, we systematically digitized 1722 anatomical contours from the Paxinos et al. (2009) stereotactic atlas of the rhesus monkey, including cortical, subcortical, and non-neuronal regions, and embedded them into a stereotactic coordinate system. Mirroring procedures ensured full bilateral representation, while volumetric and surface calculations yielded quantitative benchmarks spanning nuclei of less than 0.1 mm<sup>3</sup> to cortical regions exceeding 2000 mm<sup>3</sup>. RESULTS: The atlas supports advanced visualization in 2D and 3D, including interactive rotation, transparency, and connectivity overlays, facilitating structural exploration and connectome simulations. Integration with neuroVIISAS enables hierarchical ontologies, quantitative analyses, and direct interfacing with simulation environments. COMPARISON WITH EXISTING METHODS: Validation against stereological data and comparison with independent resources (SARM, ONPRC18) confirmed the reliability of delineations while highlighting methodological differences across atlases. Beyond structural applications, functional connectivity studies, such as gradient analyses in macaques (Xu et al., 2020), demonstrate how atlas-based frameworks bridge species by systematically linking macaque organization to human cortical architecture. CONCLUSION: Together, these methodological advances establish a reproducible, bilaterally complete, and volumetrically validated stereotactic reference for the rhesus monkey brain, enhancing both experimental design and translational connectomics.",
+  "authors": [
+    "Kohnen Konrad",
+    "Eipert Peter",
+    "Budde Laura",
+    "Schmitt Oliver"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2026",
+  "doi": "10.1016/j.jneumeth.2025.110656",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Connectome",
+    "Brain",
+    "Atlases as Topic",
+    "Stereotaxic Techniques",
+    "Imaging, Three-Dimensional"
+  ]
+}

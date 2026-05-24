@@ -1,0 +1,29 @@
+{
+  "pmid": "34799410",
+  "title": "Rapid Analysis of Visual Receptive Fields by Iterative Tomography.",
+  "abstract": "Many receptive fields in the early visual system show standard (center-surround) structure and can be analyzed using simple drifting patterns and a difference-of-Gaussians (DoG) model, which treats the receptive field as a linear filter of the visual image. But many other receptive fields show nonlinear properties such as selectivity for direction of movement. Such receptive fields are typically studied using discrete stimuli (moving or flashed bars and edges) and are modelled according to the features of the visual image to which they are most sensitive. Here, we harness recent advances in tomographic image analysis to characterize rapidly and simultaneously both the linear and nonlinear components of visual receptive fields. Spiking and intracellular voltage potential responses to briefly flashed bars are analyzed using non-negative matrix factorization (NNMF) and iterative reconstruction tomography (IRT). The method yields high-resolution receptive field maps of individual neurons and neuron ensembles in primate (marmoset, both sexes) lateral geniculate and rodent (mouse, male) retina. We show that the first two IRT components correspond to DoG-equivalent center and surround of standard [magnocellular (M) and parvocellular (P)] receptive fields in primate geniculate. The first two IRT components also reveal the spatiotemporal receptive field structure of nonstandard (on/off-rectifying) receptive fields. In rodent retina we combine NNMF-IRT with patch-clamp recording and dye injection to directly map spatial receptive fields to the underlying anatomy of retinal output neurons. We conclude that NNMF-IRT provides a rapid and flexible framework for study of receptive fields in the early visual system.",
+  "authors": [
+    "Eiber Calvin D",
+    "Huang Jin Y",
+    "Chen Spencer C",
+    "Zeater Natalie",
+    "Pietersen Alexander N J",
+    "Protti Dario A",
+    "Martin Paul R"
+  ],
+  "journal": "eNeuro",
+  "year": "2021",
+  "doi": "10.1523/ENEURO.0046-21.2021",
+  "mesh": [
+    "Animals",
+    "Female",
+    "Geniculate Bodies",
+    "Male",
+    "Mice",
+    "Neurons",
+    "Photic Stimulation",
+    "Tomography",
+    "Visual Fields",
+    "Visual Pathways"
+  ]
+}

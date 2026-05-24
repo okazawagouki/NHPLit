@@ -1,0 +1,23 @@
+{
+  "pmid": "34620074",
+  "title": "The mitochondrial genome and Epigenome of the Golden lion Tamarin from fecal DNA using Nanopore adaptive sequencing.",
+  "abstract": "BACKGROUND: The golden lion tamarin (Leontopithecus rosalia) is an endangered Platyrrhine primate endemic to the Atlantic coastal forests of Brazil. Despite ongoing conservation efforts, genetic data on this species remains scarce. Complicating factors include limitations on sample collection and a lack of high-quality reference sequences. Here, we used nanopore adaptive sampling to resequence the L. rosalia mitogenome from feces, a sample which can be collected non-invasively. RESULTS: Adaptive sampling doubled the fraction of both host-derived and mitochondrial sequences compared to sequencing without enrichment. 258x coverage of the L. rosalia mitogenome was achieved in a single flow cell by targeting the unfinished genome of the distantly related emperor tamarin (Saguinus imperator) and the mitogenome of the closely related black lion tamarin (Leontopithecus chrysopygus). The L. rosalia mitogenome has a length of 16,597 bp, sharing 99.68% sequence identity with the L. chrysopygus mitogenome. A total of 38 SNPs between them were identified, with the majority being found in the non-coding D-loop region. DNA methylation and hydroxymethylation were directly detected using a neural network model applied to the raw signal from the MinION sequencer. In contrast to prior reports, DNA methylation was negligible in mitochondria in both CpG and non-CpG contexts. Surprisingly, a quarter of the 642 CpG sites exhibited DNA hydroxymethylation greater than 1% and 44 sites were above 5%, with concentration in the 3' side of several coding regions. CONCLUSIONS: Overall, we report a robust new mitogenome assembly for L. rosalia and direct detection of cytosine base modifications in all contexts.",
+  "authors": [
+    "Wanner Nicole",
+    "Larsen Peter A",
+    "McLain Adam",
+    "Faulk Christopher"
+  ],
+  "journal": "BMC genomics",
+  "year": "2021",
+  "doi": "10.1186/s12864-021-08046-7",
+  "mesh": [
+    "Animals",
+    "DNA",
+    "Epigenome",
+    "Feces",
+    "Genome, Mitochondrial",
+    "Leontopithecus",
+    "Nanopores"
+  ]
+}

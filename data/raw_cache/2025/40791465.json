@@ -1,0 +1,14 @@
+{
+  "pmid": "40791465",
+  "title": "KIASORT: Knowledge-Integrated Automated Spike Sorting for Geometry-Free Neuron Tracking.",
+  "abstract": "Modern high-density neural recordings demand spike sorting algorithms that can handle diverse probe geometries and complex, neuron-specific drift, yet existing methods often rely on rigid geometric assumptions and one-dimensional drift models. Here, we introduce KIASORT (Knowledge-Integrated Automated Spike Sorting), a geometry-free approach for per-neuron drift tracking. KIASORT trains channel-specific classifiers in a hybrid linear-nonlinear embedding space, capturing waveform features often missed by conventional linear methods. These classifiers then sort spikes by independently tracking each neuron, unconstrained by probe layout. Biophysical simulations showed that even sub-micron probe displacements induce neuron-specific waveform distortions that standard drift models cannot correct. In ground-truth benchmarks with heterogeneous, neuron-specific drift, KIASORT significantly outperformed Kilosort4 in recovering high-quality units, while maintaining real-time performance on standard CPUs. Its robustness was further validated on both primate and mouse data. KIASORT combines automated sorting with manual curation in a unified graphical interface, offering a complete and user-friendly spike sorting platform. The software is freely available at https://kiasort.com.",
+  "authors": [
+    "Boroujeni Kianoush Banaie",
+    "Womelsdorf Thilo",
+    "Kastner Sabine"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.07.10.664175",
+  "mesh": []
+}

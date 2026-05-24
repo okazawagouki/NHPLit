@@ -1,0 +1,28 @@
+{
+  "pmid": "19625543",
+  "title": "Encoding and decoding of learned smooth-pursuit eye movements in the floccular complex of the monkey cerebellum.",
+  "abstract": "We recorded the simple-spike (SS) firing of Purkinje cells (PCs) in the floccular complex both during normal pursuit caused by step-ramp target motions and after learning induced by a consistently timed change in the direction of target motion. The encoding of eye movement by the SS firing rate of individual PCs was described by a linear regression model, in which the firing rate is a sum of weighted components related to eye acceleration, velocity, and position. Although the model fit the data well for individual conditions, the regression coefficients for the learned component of firing often differed substantially from those for normal pursuit of step-ramp target motion. We suggest that the different encoding of learned versus normal pursuit responses in individual PCs reflects different amounts of learning in their inputs. The decoded output from the floccular complex, estimated by averaging responses across the population of PCs, also was fitted by the regression model. Regression coefficients were equal for the two conditions for on-direction pursuit, but differed for off-direction target motion. We conclude that the average output from the population of floccular PCs provides some, but not all, of the neural signals that drive the learned component of pursuit and that plasticity outside of the flocculus makes an important contribution.",
+  "authors": [
+    "Medina Javier F",
+    "Lisberger Stephen G"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2009",
+  "doi": "10.1152/jn.00075.2009",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Cerebellum",
+    "Eye Movement Measurements",
+    "Haplorhini",
+    "Learning",
+    "Linear Models",
+    "Motion",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Purkinje Cells",
+    "Pursuit, Smooth",
+    "Task Performance and Analysis"
+  ]
+}

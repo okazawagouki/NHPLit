@@ -1,0 +1,23 @@
+{
+  "pmid": "14576212",
+  "title": "A recurrent network model of somatosensory parametric working memory in the prefrontal cortex.",
+  "abstract": "A parametric working memory network stores the information of an analog stimulus in the form of persistent neural activity that is monotonically tuned to the stimulus. The family of persistent firing patterns with a continuous range of firing rates must all be realizable under exactly the same external conditions (during the delay when the transient stimulus is withdrawn). How this can be accomplished by neural mechanisms remains an unresolved question. Here we present a recurrent cortical network model of irregularly spiking neurons that was designed to simulate a somatosensory working memory experiment with behaving monkeys. Our model reproduces the observed positively and negatively monotonic persistent activity, and heterogeneous tuning curves of memory activity. We show that fine-tuning mathematically corresponds to a precise alignment of cusps in the bifurcation diagram of the network. Moreover, we show that the fine-tuned network can integrate stimulus inputs over several seconds. Assuming that such time integration occurs in neural populations downstream from a tonically persistent neural population, our model is able to account for the slow ramping-up and ramping-down behaviors of neurons observed in prefrontal cortex.",
+  "authors": [
+    "Miller Paul",
+    "Brody Carlos D",
+    "Romo Ranulfo",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Macaca",
+    "Memory",
+    "Neural Networks, Computer",
+    "Prefrontal Cortex",
+    "Psychomotor Performance"
+  ]
+}

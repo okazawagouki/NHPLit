@@ -1,0 +1,26 @@
+{
+  "pmid": "26942746",
+  "title": "Separating Spike Count Correlation from Firing Rate Correlation.",
+  "abstract": "Populations of cortical neurons exhibit shared fluctuations in spiking activity over time. When measured for a pair of neurons over multiple repetitions of an identical stimulus, this phenomenon emerges as correlated trial-to-trial response variability via spike count correlation (SCC). However, spike counts can be viewed as noisy versions of firing rates, which can vary from trial to trial. From this perspective, the SCC for a pair of neurons becomes a noisy version of the corresponding firing rate correlation (FRC). Furthermore, the magnitude of the SCC is generally smaller than that of the FRC and is likely to be less sensitive to experimental manipulation. We provide statistical methods for disambiguating time-averaged drive from within-trial noise, thereby separating FRC from SCC. We study these methods to document their reliability, and we apply them to neurons recorded in vivo from area V4 in an alert animal. We show how the various effects we describe are reflected in the data: within-trial effects are largely negligible, while attenuation due to trial-to-trial variation dominates and frequently produces comparisons in SCC that, because of noise, do not accurately reflect those based on the underlying FRC.",
+  "authors": [
+    "Vinci Giuseppe",
+    "Ventura Valérie",
+    "Smith Matthew A",
+    "Kass Robert E"
+  ],
+  "journal": "Neural computation",
+  "year": "2016",
+  "doi": "10.1162/NECO_a_00831",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurons",
+    "Signal Processing, Computer-Assisted",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

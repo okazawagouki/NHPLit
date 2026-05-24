@@ -1,0 +1,27 @@
+{
+  "pmid": "31316116",
+  "title": "A macaque connectome for large-scale network simulations in TheVirtualBrain.",
+  "abstract": "Models of large-scale brain networks that are informed by the underlying anatomical connectivity contribute to our understanding of the mapping between the structure of the brain and its dynamical function. Connectome-based modelling is a promising approach to a more comprehensive understanding of brain function across spatial and temporal scales, but it must be constrained by multi-scale empirical data from animal models. Here we describe the construction of a macaque (Macaca mulatta and Macaca fascicularis) connectome for whole-cortex simulations in TheVirtualBrain, an open-source simulation platform. We take advantage of available axonal tract-tracing datasets and enhance the existing connectome data using diffusion-based tractography in macaques. We illustrate the utility of the connectome as an extension of TheVirtualBrain by simulating resting-state BOLD-fMRI data and fitting it to empirical resting-state data.",
+  "authors": [
+    "Shen Kelly",
+    "Bezgin Gleb",
+    "Schirner Michael",
+    "Ritter Petra",
+    "Everling Stefan",
+    "McIntosh Anthony R"
+  ],
+  "journal": "Scientific data",
+  "year": "2019",
+  "doi": "10.1038/s41597-019-0129-z",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Connectome",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Neuroimaging"
+  ]
+}

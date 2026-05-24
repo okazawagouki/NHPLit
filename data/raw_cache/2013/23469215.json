@@ -1,0 +1,38 @@
+{
+  "pmid": "23469215",
+  "title": "Probabilistic identification of cerebellar cortical neurones across species.",
+  "abstract": "Despite our fine-grain anatomical knowledge of the cerebellar cortex, electrophysiological studies of circuit information processing over the last fifty years have been hampered by the difficulty of reliably assigning signals to identified cell types. We approached this problem by assessing the spontaneous activity signatures of identified cerebellar cortical neurones. A range of statistics describing firing frequency and irregularity were then used, individually and in combination, to build Gaussian Process Classifiers (GPC) leading to a probabilistic classification of each neurone type and the computation of equi-probable decision boundaries between cell classes. Firing frequency statistics were useful for separating Purkinje cells from granular layer units, whilst firing irregularity measures proved most useful for distinguishing cells within granular layer cell classes. Considered as single statistics, we achieved classification accuracies of 72.5% and 92.7% for granular layer and molecular layer units respectively. Combining statistics to form twin-variate GPC models substantially improved classification accuracies with the combination of mean spike frequency and log-interval entropy offering classification accuracies of 92.7% and 99.2% for our molecular and granular layer models, respectively. A cross-species comparison was performed, using data drawn from anaesthetised mice and decerebrate cats, where our models offered 80% and 100% classification accuracy. We then used our models to assess non-identified data from awake monkeys and rabbits in order to highlight subsets of neurones with the greatest degree of similarity to identified cell classes. In this way, our GPC-based approach for tentatively identifying neurones from their spontaneous activity signatures, in the absence of an established ground-truth, nonetheless affords the experimenter a statistically robust means of grouping cells with properties matching known cell classes. Our approach therefore may have broad application to a variety of future cerebellar cortical investigations, particularly in awake animals where opportunities for definitive cell identification are limited.",
+  "authors": [
+    "Van Dijck Gert",
+    "Van Hulle Marc M",
+    "Heiney Shane A",
+    "Blazquez Pablo M",
+    "Meng Hui",
+    "Angelaki Dora E",
+    "Arenz Alexander",
+    "Margrie Troy W",
+    "Mostofi Abteen",
+    "Edgley Steve",
+    "Bengtsson Fredrik",
+    "Ekerot Carl-Fredrik",
+    "Jörntell Henrik",
+    "Dalley Jeffrey W",
+    "Holtzman Tahl"
+  ],
+  "journal": "PloS one",
+  "year": "2013",
+  "doi": "10.1371/journal.pone.0057669",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cats",
+    "Entropy",
+    "Haplorhini",
+    "Interneurons",
+    "Mice",
+    "Models, Statistical",
+    "Normal Distribution",
+    "Purkinje Cells",
+    "Rabbits"
+  ]
+}

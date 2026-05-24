@@ -1,0 +1,23 @@
+{
+  "pmid": "20147560",
+  "title": "A probabilistic strategy for understanding action selection.",
+  "abstract": "Brain regions involved in transforming sensory signals into movement commands are the likely sites where decisions are formed. Once formed, a decision must be read out from the activity of populations of neurons to produce a choice of action. How this occurs remains unresolved. We recorded from four superior colliculus neurons simultaneously while monkeys performed a target selection task. We implemented three models to gain insight into the computational principles underlying population coding of action selection. We compared the population vector average (PVA)/optimal linear estimator (OLE) and winner-takes-all (WTA) models and a Bayesian model, maximum a posteriori estimate (MAP), to determine which predicted choices most often. The probabilistic model predicted more trials correctly than both the WTA and the PVA. The MAP model predicted 81.88%, whereas WTA predicted 71.11% and PVA/OLE predicted the least number of trials at 55.71 and 69.47%. Recovering MAP estimates using simulated, nonuniform priors that correlated with monkeys' choice performance, improved the accuracy of the model by 2.88%. A dynamic analysis revealed that the MAP estimate evolved over time and the posterior probability of the saccade choice reached a maximum at the time of the saccade. MAP estimates also scaled with choice performance accuracy. Although there was overlap in the prediction abilities of all the models, we conclude that movement choice from populations of neurons may be best understood by considering frameworks based on probability.",
+  "authors": [
+    "Kim Byounghoon",
+    "Basso Michele A"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2010",
+  "doi": "10.1523/JNEUROSCI.1730-09.2010",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Choice Behavior",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurons",
+    "Saccades",
+    "Superior Colliculi"
+  ]
+}

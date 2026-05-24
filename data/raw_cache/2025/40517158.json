@@ -1,0 +1,25 @@
+{
+  "pmid": "40517158",
+  "title": "Mirror Neurons in Monkey Frontal and Parietal Areas.",
+  "abstract": "Mirror neurons (MNs) are a class of cells in the fronto-parietal regions of the primate brain that activate during both action execution and observation. Over three decades, numerous neurophysiological studies have investigated the properties of MNs, proposing their involvement in social interaction. However, variability in definitions, recorded brain regions, and response dynamics has posed challenges to replicating MN findings and achieving a comprehensive understanding of their properties. Here, we present a curated dataset of hundreds of single neurons from multielectrode recordings in three fronto-parietal areas (AIP, F5, F6) of macaques executing and observing a reach-to-grasp task. In addition to motor neurons, many cells responded to both executed and observed actions, thus fulfilling the MN criteria. The dataset includes spike times and behavioural events in HDF5 format, a standard for neuroscience data sharing, along with example MATLAB and Python code for dataset exploration and analysis. This resource offers a platform for investigating MNs across different brain areas and task conditions, enabling data-driven hypothesis-testing of their motor and social properties.",
+  "authors": [
+    "Tili Federica",
+    "Maranesi Monica",
+    "Lanzilotto Marco",
+    "Ferroni Carolina Giulia",
+    "Livi Alessandro",
+    "Bonini Luca",
+    "Albertini Davide"
+  ],
+  "journal": "Scientific data",
+  "year": "2025",
+  "doi": "10.1038/s41597-025-05299-9",
+  "mesh": [
+    "Animals",
+    "Mirror Neurons",
+    "Parietal Lobe",
+    "Frontal Lobe",
+    "Macaca mulatta",
+    "Macaca"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "37231014",
+  "title": "Robust encoding of natural stimuli by neuronal response sequences in monkey visual cortex.",
+  "abstract": "Parallel multisite recordings in the visual cortex of trained monkeys revealed that the responses of spatially distributed neurons to natural scenes are ordered in sequences. The rank order of these sequences is stimulus-specific and maintained even if the absolute timing of the responses is modified by manipulating stimulus parameters. The stimulus specificity of these sequences was highest when they were evoked by natural stimuli and deteriorated for stimulus versions in which certain statistical regularities were removed. This suggests that the response sequences result from a matching operation between sensory evidence and priors stored in the cortical network. Decoders trained on sequence order performed as well as decoders trained on rate vectors but the former could decode stimulus identity from considerably shorter response intervals than the latter. A simulated recurrent network reproduced similarly structured stimulus-specific response sequences, particularly once it was familiarized with the stimuli through non-supervised Hebbian learning. We propose that recurrent processing transforms signals from stationary visual scenes into sequential responses whose rank order is the result of a Bayesian matching operation. If this temporal code were used by the visual system it would allow for ultrafast processing of visual scenes.",
+  "authors": [
+    "Yiling Yang",
+    "Shapcott Katharine",
+    "Peter Alina",
+    "Klon-Lipok Johanna",
+    "Xuhui Huang",
+    "Lazar Andreea",
+    "Singer Wolf"
+  ],
+  "journal": "Nature communications",
+  "year": "2023",
+  "doi": "10.1038/s41467-023-38587-2",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Macaca mulatta",
+    "Temporal Lobe",
+    "Visual Cortex",
+    "Neurons",
+    "Photic Stimulation"
+  ]
+}

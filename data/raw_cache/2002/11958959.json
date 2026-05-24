@@ -1,0 +1,23 @@
+{
+  "pmid": "11958959",
+  "title": "Computational modeling of pair-association memory in inferior temporal cortex.",
+  "abstract": "Distinctive neuronal activities related to visual stimulus-stimulus association have been found in the inferior temporal (IT) cortex of monkeys. They provide an important clue to elucidating the memory mechanisms of the brain, but do not accord with existing neural network models. In the present paper, we clarify the computational principle required for reproducing the empirical data and construct a biologically feasible model that learns and performs a delayed pair-association task. This model is composed of two neural networks, association network N1 and trainer network N2, and pair-association memories are formed by their interactions. Specifically, N2 receives the output of N1 in addition to an external input, and sends a learning signal back to N1; this signal works as a guide for shifts in output pattern or state transitions of N1, and memory traces are engraved along its path, so that a trajectory attractor connecting from the cue-coding to the target-coding state is formed in N1. Computer simulation shows that the model not only distinguishes the target in the task, but also explains the activity of the IT neurons very well. It is reasonable to presume that N1 and N2 correspond to area TE and the rhinal cortex, respectively; based on this theory, we explain some physiological findings on learning and memory, and also make several predictions.",
+  "authors": [
+    "Morita Masahiko",
+    "Suemitsu Atsuo"
+  ],
+  "journal": "Brain research. Cognitive brain research",
+  "year": "2002",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Artificial Intelligence",
+    "Association Learning",
+    "Computer Simulation",
+    "Cues",
+    "Memory",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Temporal Lobe"
+  ]
+}

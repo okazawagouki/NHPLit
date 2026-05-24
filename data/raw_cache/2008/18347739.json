@@ -1,0 +1,25 @@
+{
+  "pmid": "18347739",
+  "title": "Automatic physiological waveform processing for FMRI noise correction and analysis.",
+  "abstract": "Functional MRI resting state and connectivity studies of brain focus on neural fluctuations at low frequencies which share power with physiological fluctuations originating from lung and heart. Due to the lack of automated software to process physiological signals collected at high magnetic fields, a gap exists in the processing pathway between the acquisition of physiological data and its use in fMRI software for both physiological noise correction and functional analyses of brain activation and connectivity. To fill this gap, we developed an open source, physiological signal processing program, called PhysioNoise, in the python language. We tested its automated processing algorithms and dynamic signal visualization on resting monkey cardiac and respiratory waveforms. PhysioNoise consistently identifies physiological fluctuations for fMRI noise correction and also generates covariates for subsequent analyses of brain activation and connectivity.",
+  "authors": [
+    "Kelley Daniel J",
+    "Oakes Terrence R",
+    "Greischar Larry L",
+    "Chung Moo K",
+    "Ollinger John M",
+    "Alexander Andrew L",
+    "Shelton Steven E",
+    "Kalin Ned H",
+    "Davidson Richard J"
+  ],
+  "journal": "PloS one",
+  "year": "2008",
+  "doi": "10.1371/journal.pone.0001751",
+  "mesh": [
+    "Algorithms",
+    "Heart",
+    "Magnetic Resonance Imaging",
+    "Respiration"
+  ]
+}

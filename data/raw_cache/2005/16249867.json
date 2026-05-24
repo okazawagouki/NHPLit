@@ -1,0 +1,35 @@
+{
+  "pmid": "16249867",
+  "title": "Quantitative architectural analysis: a new approach to cortical mapping.",
+  "abstract": "Recent progress in anatomical and functional MRI has revived the demand for a reliable, topographic map of the human cerebral cortex. Till date, interpretations of specific activations found in functional imaging studies and their topographical analysis in a spatial reference system are, often, still based on classical architectonic maps. The most commonly used reference atlas is that of Brodmann and his successors, despite its severe inherent drawbacks. One obvious weakness in traditional, architectural mapping is the subjective nature of localising borders between cortical areas, by means of a purely visual, microscopical examination of histological specimens. To overcome this limitation, more objective, quantitative mapping procedures have been established in the past years. The quantification of the neocortical, laminar pattern by defining intensity line profiles across the cortical layers, has a long tradition. During the last years, this method has been extended to enable a reliable, reproducible mapping of the cortex based on image analysis and multivariate statistics. Methodological approaches to such algorithm-based, cortical mapping were published for various architectural modalities. In our contribution, principles of algorithm-based mapping are described for cyto- and receptorarchitecture. In a cytoarchitectural parcellation of the human auditory cortex, using a sliding window procedure, the classical areal pattern of the human superior temporal gyrus was modified by a replacing of Brodmann's areas 41, 42, 22 and parts of area 21, with a novel, more detailed map. An extension and optimisation of the sliding window procedure to the specific requirements of receptorarchitectonic mapping, is also described using the macaque central sulcus and adjacent superior parietal lobule as a second, biologically independent example. Algorithm-based mapping procedures, however, are not limited to these two architectural modalities, but can be applied to all images in which a laminar cortical pattern can be detected and quantified, e.g. myeloarchitectonic and in vivo high resolution MR imaging. Defining cortical borders, based on changes in cortical lamination in high resolution, in vivo structural MR images will result in a rapid increase of our knowledge on the structural parcellation of the human cerebral cortex.",
+  "authors": [
+    "Schleicher A",
+    "Palomero-Gallagher N",
+    "Morosan P",
+    "Eickhoff S B",
+    "Kowalski T",
+    "de Vos K",
+    "Amunts K",
+    "Zilles K"
+  ],
+  "journal": "Anatomy and embryology",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Auditory Cortex",
+    "Autoradiography",
+    "Brain Chemistry",
+    "Brain Mapping",
+    "Cerebellar Cortex",
+    "Cluster Analysis",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "Multivariate Analysis",
+    "Receptors, Neurotransmitter",
+    "Telencephalon"
+  ]
+}

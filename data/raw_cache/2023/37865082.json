@@ -1,0 +1,29 @@
+{
+  "pmid": "37865082",
+  "title": "Mechanisms underlying reshuffling of visual responses by optogenetic stimulation in mice and monkeys.",
+  "abstract": "The ability to optogenetically perturb neural circuits opens an unprecedented window into mechanisms governing circuit function. We analyzed and theoretically modeled neuronal responses to visual and optogenetic inputs in mouse and monkey V1. In both species, optogenetic stimulation of excitatory neurons strongly modulated the activity of single neurons yet had weak or no effects on the distribution of firing rates across the population. Thus, the optogenetic inputs reshuffled firing rates across the network. Key statistics of mouse and monkey responses lay on a continuum, with mice/monkeys occupying the low-/high-rate regions, respectively. We show that neuronal reshuffling emerges generically in randomly connected excitatory/inhibitory networks, provided the coupling strength (combination of recurrent coupling and external input) is sufficient that powerful inhibitory feedback cancels the mean optogenetic input. A more realistic model, distinguishing tuned visual vs. untuned optogenetic input in a structured network, reduces the coupling strength needed to explain reshuffling.",
+  "authors": [
+    "Sanzeni Alessandro",
+    "Palmigiano Agostina",
+    "Nguyen Tuan H",
+    "Luo Junxiang",
+    "Nassi Jonathan J",
+    "Reynolds John H",
+    "Histed Mark H",
+    "Miller Kenneth D",
+    "Brunel Nicolas"
+  ],
+  "journal": "Neuron",
+  "year": "2023",
+  "doi": "10.1016/j.neuron.2023.09.018",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Neurons",
+    "Optogenetics",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Random Allocation",
+    "Mice"
+  ]
+}

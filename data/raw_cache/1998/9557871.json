@@ -1,0 +1,33 @@
+{
+  "pmid": "9557871",
+  "title": "NetOglyc: prediction of mucin type O-glycosylation sites based on sequence context and surface accessibility.",
+  "abstract": "The specificities of the UDP-GalNAc:polypeptide Nacetylgalactosaminyltransferases which link the carbohydrate GalNAc to the side-chain of certain serine and threonine residues in mucin type glycoproteins, are presently unknown. The specificity seems to be modulated by sequence context, secondary structure and surface accessibility. The sequence context of glycosylated threonines was found to differ from that of serine, and the sites were found to cluster. Non-clustered sites had a sequence context different from that of clustered sites. Charged residues were disfavoured at position -1 and +3. A jury of artificial neural networks was trained to recognize the sequence context and surface accessibility of 299 known and verified mucin type O-glycosylation sites extracted from O-GLYCBASE. The cross-validated NetOglyc network system correctly found 83% of the glycosylated and 90% of the non-glycosylated serine and threonine residues in independent test sets, thus proving more accurate than matrix statistics and vector projection methods. Predictions of O-glycosylation sites in the envelope glycoprotein gp120 from the primate lentiviruses HIV-1, HIV-2 and SIV are presented. The most conserved O-glycosylation signals in these evolutionary-related glycoproteins were found in their first hypervariable loop, V1. However, the strain variation for HIV-1 gp120 was significant. A computer server, available through WWW or E-mail, has been developed for prediction of mucin type O-glycosylation sites in proteins based on the amino acid sequence. The server addresses are http://www.cbs.dtu.dk/services/NetOGlyc/ and netOglyc@cbs.dtu.dk.",
+  "authors": [
+    "Hansen J E",
+    "Lund O",
+    "Tolstrup N",
+    "Gooley A A",
+    "Williams K L",
+    "Brunak S"
+  ],
+  "journal": "Glycoconjugate journal",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Amino Acid Sequence",
+    "Binding Sites",
+    "Carbohydrate Conformation",
+    "Databases, Factual",
+    "Glycosylation",
+    "HIV Envelope Protein gp120",
+    "Membrane Glycoproteins",
+    "Mucins",
+    "N-Acetylglucosaminyltransferases",
+    "Neural Networks, Computer",
+    "Protein Conformation",
+    "Reproducibility of Results",
+    "Substrate Specificity",
+    "Viral Envelope Proteins"
+  ]
+}

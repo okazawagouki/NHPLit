@@ -1,0 +1,22 @@
+{
+  "pmid": "3114747",
+  "title": "Shifter circuits: a computational strategy for dynamic aspects of visual processing.",
+  "abstract": "We propose a general strategy for dynamic control of information flow between arrays of neurons at different levels of the visual pathway, starting in the lateral geniculate nucleus and the geniculorecipient layers of cortical area V1. This strategy can be used for resolving computational problems arising in the domains of stereopsis, directed visual attention, and the perception of moving images. In each of these situations, some means of dynamically controlling how retinal outputs map onto higher-level targets is desirable--in order to achieve binocular fusion, to allow shifts of the focus of attention, and to prevent blurring of moving images. The proposed solution involves what we term \"shifter circuits,\" which allow for dynamic shifts in the relative alignment of input and output arrays without loss of local spatial relationships. The shifts are produced in increments along a succession of relay stages that are linked by diverging excitatory inputs. The direction of shift is controlled at each stage by inhibitory neurons that selectively suppress appropriate sets of ascending inputs. The shifter hypothesis is consistent with available anatomical and physiological evidence on the organization of the primate visual pathway, and it offers a sensible explanation for a variety of otherwise puzzling facts, such as the plethora of cells in the geniculorecipient layers of V1.",
+  "authors": [
+    "Anderson C H",
+    "Van Essen D C"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "1987",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Models, Neurological",
+    "Motion Perception",
+    "Vision, Ocular",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

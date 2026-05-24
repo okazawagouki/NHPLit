@@ -1,0 +1,34 @@
+{
+  "pmid": "39261491",
+  "title": "Fixational eye movements enhance the precision of visual information transmitted by the primate retina.",
+  "abstract": "Fixational eye movements alter the number and timing of spikes transmitted from the retina to the brain, but whether these changes enhance or degrade the retinal signal is unclear. To quantify this, we developed a Bayesian method for reconstructing natural images from the recorded spikes of hundreds of retinal ganglion cells (RGCs) in the macaque retina (male), combining a likelihood model for RGC light responses with the natural image prior implicitly embedded in an artificial neural network optimized for denoising. The method matched or surpassed the performance of previous reconstruction algorithms, and provides an interpretable framework for characterizing the retinal signal. Reconstructions were improved with artificial stimulus jitter that emulated fixational eye movements, even when the eye movement trajectory was assumed to be unknown and had to be inferred from retinal spikes. Reconstructions were degraded by small artificial perturbations of spike times, revealing more precise temporal encoding than suggested by previous studies. Finally, reconstructions were substantially degraded when derived from a model that ignored cell-to-cell interactions, indicating the importance of stimulus-evoked correlations. Thus, fixational eye movements enhance the precision of the retinal representation.",
+  "authors": [
+    "Wu Eric G",
+    "Brackbill Nora",
+    "Rhoades Colleen",
+    "Kling Alexandra",
+    "Gogliettino Alex R",
+    "Shah Nishal P",
+    "Sher Alexander",
+    "Litke Alan M",
+    "Simoncelli Eero P",
+    "Chichilnisky E J"
+  ],
+  "journal": "Nature communications",
+  "year": "2024",
+  "doi": "10.1038/s41467-024-52304-7",
+  "mesh": [
+    "Animals",
+    "Retinal Ganglion Cells",
+    "Retina",
+    "Eye Movements",
+    "Male",
+    "Fixation, Ocular",
+    "Macaca mulatta",
+    "Bayes Theorem",
+    "Algorithms",
+    "Action Potentials",
+    "Photic Stimulation",
+    "Models, Neurological"
+  ]
+}

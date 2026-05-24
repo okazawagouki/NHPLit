@@ -1,0 +1,32 @@
+{
+  "pmid": "19321645",
+  "title": "Noise correlations in cortical area MT and their potential impact on trial-by-trial variation in the direction and speed of smooth-pursuit eye movements.",
+  "abstract": "Smooth-pursuit eye movements are variable, even when the same tracking target motion is repeated many times. We asked whether variation in pursuit could arise from noise in the response of visual motion neurons in the middle temporal visual area (MT). In physiological experiments, we evaluated the mean, variance, and trial-by-trial correlation in the spike counts of pairs of simultaneously recorded MT neurons. The correlations between responses of pairs of MT neurons are highly significant and are stronger when the two neurons in a pair have similar preferred speeds, directions, or receptive field locations. Spike count correlation persists when the same exact stimulus form is repeatedly presented. Spike count correlations increase as the analysis window increases because of correlations in the responses of individual neurons across time. Spike count correlations are highest at speeds below the preferred speeds of the neuron pair and increase as the contrast of a square-wave grating is decreased. In computational analyses, we evaluated whether the correlations and variation across the population response in MT could drive the observed behavioral variation in pursuit direction and speed. We created model population responses that mimicked the mean and variance of MT neural responses as well as the observed structure and amplitude of noise correlations between pairs of neurons. A vector-averaging decoding computation revealed that the observed variation in pursuit could arise from the MT population response, without postulating other sources of motor variation.",
+  "authors": [
+    "Huang Xin",
+    "Lisberger Stephen G"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2009",
+  "doi": "10.1152/jn.00010.2009",
+  "mesh": [
+    "Action Potentials",
+    "Adaptation, Ocular",
+    "Animals",
+    "Computer Simulation",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Noise",
+    "Orientation",
+    "Photic Stimulation",
+    "Psychophysics",
+    "Pursuit, Smooth",
+    "Reaction Time",
+    "Statistics as Topic",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

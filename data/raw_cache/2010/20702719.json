@@ -1,0 +1,31 @@
+{
+  "pmid": "20702719",
+  "title": "Local neural processing and the generation of dynamic motor commands within the saccadic premotor network.",
+  "abstract": "The ability to accurately control movement requires the computation of a precise motor command. However, the computations that take place within premotor pathways to determine the dynamics of movements are not understood. Here we studied the local processing that generates dynamic motor commands by simultaneously recording spikes and local field potentials (LFPs) in the network that commands saccades. We first compared the information encoded by LFPs and spikes recorded from individual premotor and motoneurons (saccadic burst neurons, omnipause neurons, and motoneurons) in monkeys. LFP responses consistent with net depolarizations occurred in association with bursts of spiking activity when saccades were made in a neuron's preferred direction. In contrast, when saccades were made in a neuron's nonpreferred direction, neurons ceased spiking and the associated LFP responses were consistent with net hyperpolarizations. Surprisingly, hyperpolarizing and depolarizing LFPs encoded movement dynamics with equal robustness and accuracy. Second, we compared spiking responses at one hierarchical level of processing to LFPs at the next stage. Latencies and spike-triggered averages of LFP responses were consistent with each neuron's place within this circuit. LFPs reflected relatively local events (<500 microm) and encoded important features not available from the spiking train (i.e., hyperpolarizing response). Notably, quantification of their time-varying profiles revealed that a precise balance of depolarization and hyperpolarization underlies the production of precise saccadic eye movement commands at both motor and premotor levels. Overall, simultaneous recordings of LFPs and spiking responses provides an effective means for evaluating the local computations that take place to produce accurate motor commands.",
+  "authors": [
+    "Van Horn Marion R",
+    "Mitchell Diana E",
+    "Massot Corentin",
+    "Cullen Kathleen E"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2010",
+  "doi": "10.1523/JNEUROSCI.0393-10.2010",
+  "mesh": [
+    "Action Potentials",
+    "Afferent Pathways",
+    "Animals",
+    "Evoked Potentials",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Movement",
+    "Nerve Net",
+    "Nonlinear Dynamics",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Saccades",
+    "Space Perception"
+  ]
+}

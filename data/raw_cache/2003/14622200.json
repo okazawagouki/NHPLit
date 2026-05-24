@@ -1,0 +1,35 @@
+{
+  "pmid": "14622200",
+  "title": "Attention and working memory: a dynamical model of neuronal activity in the prefrontal cortex.",
+  "abstract": "Cognitive behaviour requires complex context-dependent mapping between sensory stimuli and actions. The same stimulus can lead to different behaviours depending on the situation, or the same behaviour may be elicited by different cueing stimuli. Neurons in the primate prefrontal cortex show task-specific firing activity during working memory delay periods. These neurons provide a neural substrate for mapping stimulus and response in a flexible, context- or rule-dependent, fashion. We describe here an integrate-and-fire network model to explain and investigate the different types of working-memory-related neuronal activity observed. The model contains different populations (or pools) of neurons (as found neurophysiologically) in attractor networks which respond in the delay period to the stimulus object, the stimulus position ('sensory pools'), to combinations of the stimulus sensory properties (e.g. the object identity or object location) and the response ('intermediate pools'), and to the response required (left or right) ('premotor pools'). The pools are arranged hierarchically, are linked by associative synaptic connections, and have global inhibition through inhibitory interneurons to implement competition. It is shown that a biasing attentional input to define the current rule applied to the intermediate pools enables the system to select the correct response in what is a biased competition model of attention. The integrate-and-fire model not only produces realistic spiking dynamicals very similar to the neuronal data but also shows how dopamine could weaken and shorten the persistent neuronal activity in the delay period; and allows us to predict more response errors when dopamine is elevated because there is less different activity in the different pools of competing neurons, resulting in more conflict.",
+  "authors": [
+    "Deco Gustavo",
+    "Rolls Edmund T"
+  ],
+  "journal": "The European journal of neuroscience",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Association Learning",
+    "Attention",
+    "Cues",
+    "Dopamine",
+    "Humans",
+    "Memory, Short-Term",
+    "Models, Neurological",
+    "N-Methylaspartate",
+    "Nerve Net",
+    "Neural Conduction",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Prefrontal Cortex",
+    "Random Allocation",
+    "Saccades",
+    "Synapses",
+    "Task Performance and Analysis",
+    "Time Factors",
+    "gamma-Aminobutyric Acid"
+  ]
+}

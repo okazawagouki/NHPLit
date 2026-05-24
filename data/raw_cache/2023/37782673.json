@@ -1,0 +1,25 @@
+{
+  "pmid": "37782673",
+  "title": "Mouse visual cortex as a limited resource system that self-learns an ecologically-general representation.",
+  "abstract": "Studies of the mouse visual system have revealed a variety of visual brain areas that are thought to support a multitude of behavioral capacities, ranging from stimulus-reward associations, to goal-directed navigation, and object-centric discriminations. However, an overall understanding of the mouse's visual cortex, and how it supports a range of behaviors, remains unknown. Here, we take a computational approach to help address these questions, providing a high-fidelity quantitative model of mouse visual cortex and identifying key structural and functional principles underlying that model's success. Structurally, we find that a comparatively shallow network structure with a low-resolution input is optimal for modeling mouse visual cortex. Our main finding is functional-that models trained with task-agnostic, self-supervised objective functions based on the concept of contrastive embeddings are much better matches to mouse cortex, than models trained on supervised objectives or alternative self-supervised methods. This result is very much unlike in primates where prior work showed that the two were roughly equivalent, naturally leading us to ask the question of why these self-supervised objectives are better matches than supervised ones in mouse. To this end, we show that the self-supervised, contrastive objective builds a general-purpose visual representation that enables the system to achieve better transfer on out-of-distribution visual scene understanding and reward-based navigation tasks. Our results suggest that mouse visual cortex is a low-resolution, shallow network that makes best use of the mouse's limited resources to create a light-weight, general-purpose visual system-in contrast to the deep, high-resolution, and more categorization-dominated visual system of primates.",
+  "authors": [
+    "Nayebi Aran",
+    "Kong Nathan C L",
+    "Zhuang Chengxu",
+    "Gardner Justin L",
+    "Norcia Anthony M",
+    "Yamins Daniel L K"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2023",
+  "doi": "10.1371/journal.pcbi.1011506",
+  "mesh": [
+    "Animals",
+    "Mice",
+    "Learning",
+    "Visual Cortex",
+    "Brain",
+    "Brain Mapping",
+    "Primates"
+  ]
+}

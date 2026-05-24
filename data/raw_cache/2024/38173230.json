@@ -1,0 +1,20 @@
+{
+  "pmid": "38173230",
+  "title": "A spiking neural network with continuous local learning for robust online brain machine interface.",
+  "abstract": "<i>Objective.</i>Spiking neural networks (SNNs) are powerful tools that are well suited for brain machine interfaces (BMI) due to their similarity to biological neural systems and computational efficiency. They have shown comparable accuracy to state-of-the-art methods, but current training methods require large amounts of memory, and they cannot be trained on a continuous input stream without pausing periodically to perform backpropagation. An ideal BMI should be capable training continuously without interruption to minimize disruption to the user and adapt to changing neural environments.<i>Approach.</i>We propose a continuous SNN weight update algorithm that can be trained to perform regression learning with no need for storing past spiking events in memory. As a result, the amount of memory needed for training is constant regardless of the input duration. We evaluate the accuracy of the network on recordings of neural data taken from the premotor cortex of a primate performing reaching tasks. Additionally, we evaluate the SNN in a simulated closed loop environment and observe its ability to adapt to sudden changes in the input neural structure.<i>Main results.</i>The continuous learning SNN achieves the same peak correlation (ρ=0.7) as existing SNN training methods when trained offline on real neural data while reducing the total memory usage by 92%. Additionally, it matches state-of-the-art accuracy in a closed loop environment, demonstrates adaptability when subjected to multiple types of neural input disruptions, and is capable of being trained online without any prior offline training.<i>Significance.</i>This work presents a neural decoding algorithm that can be trained rapidly in a closed loop setting. The algorithm increases the speed of acclimating a new user to the system and also can adapt to sudden changes in neural behavior with minimal disruption to the user.",
+  "authors": [
+    "Taeckens Elijah A",
+    "Shah Sahil"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2024",
+  "doi": "10.1088/1741-2552/ad1787",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Neurons",
+    "Neural Networks, Computer",
+    "Algorithms",
+    "Education, Continuing"
+  ]
+}

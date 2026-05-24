@@ -1,0 +1,32 @@
+{
+  "pmid": "34892511",
+  "title": "Quantifying the kinematic features of dexterous finger movements in nonhuman primates with markerless tracking.",
+  "abstract": "Research using nonhuman primate models for human disease frequently requires behavioral observational techniques to quantify functional outcomes. The ability to assess reaching and grasping patterns is of particular interest in clinical conditions that affect the motor system (e.g., spinal cord injury, SCI). Here we explored the use of DeepLabCut, an open-source deep learning toolset, in combination with a standard behavioral task (Brinkman Board) to quantify nonhuman primate performance in precision grasping. We examined one male rhesus macaque (Macaca mulatta) in the task which involved retrieving rewards from variously-oriented shallow wells. Simultaneous recordings were made using GoPro Hero7 Black cameras (resolution 1920 x 1080 at 120 fps) from two different angles (from the side and top of the hand motion). The task/device design necessitates use of the right hand to complete the task. Two neural networks (corresponding to the top and side view cameras) were trained using 400 manually annotated images, tracking 19 unique landmarks each. Based on previous reports, this produced sufficient tracking (Side: trained pixel error of 2.15, test pixel error of 11.25; Top: trained pixel error of 2.06, test pixel error of 30.31) so that landmarks could be tracked on the remaining frames. Landmarks included in the tracking were the spatial location of the knuckles and the fingernails of each digit, and three different behavioral measures were quantified for assessment of hand movement (finger separation, middle digit extension and preshaping distance). Together, our preliminary results suggest that this markerless approach is a possible method to examine specific kinematic features of dexterous function.Clinical Relevance- The methodology presented below allows for the markerless tracking of kinematic features of dexterous finger movement by non-human primates. This method could allow for direct comparisons between human patients and non-human primate models of clinical conditions (e.g., spinal cord injury). This would provide objective quantitative metrics and crucial information for assessing movement impairments across populations and the potential translation of treatments, interventions and their outcomes.",
+  "authors": [
+    "North Ryan",
+    "Wurr Rachele",
+    "Macon Ryan",
+    "Mannion Christopher",
+    "Hyde John",
+    "Torres-Espin Abel",
+    "Rosenzweig Ephron S",
+    "Ferguson Adam R",
+    "Tuszynski Mark H",
+    "Beattie Michael S",
+    "Bresnahan Jacqueline C",
+    "Joiner Wilsaan M"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2021",
+  "doi": "10.1109/EMBC46164.2021.9630018",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Fingers",
+    "Hand",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Movement"
+  ]
+}

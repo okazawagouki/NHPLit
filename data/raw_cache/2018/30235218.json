@@ -1,0 +1,26 @@
+{
+  "pmid": "30235218",
+  "title": "Searching for visual features that explain response variance of face neurons in inferior temporal cortex.",
+  "abstract": "Despite a large body of research on response properties of neurons in the inferior temporal (IT) cortex, studies to date have not yet produced quantitative feature descriptions that can predict responses to arbitrary objects. This deficit in the research prevents a thorough understanding of object representation in the IT cortex. Here we propose a fragment-based approach for finding quantitative feature descriptions of face neurons in the IT cortex. The development of the proposed method was driven by the assumption that it is possible to recover features from a set of natural image fragments if the set is sufficiently large. To find the feature from the set, we compared object responses predicted from each fragment and responses of neurons to these objects, and search for the fragment that revealed the highest correlation with neural object responses. Prediction of object responses of each fragment was made by normalizing Euclidian distance between the fragment and each object to 0 to 1 such that the smaller distance gives the higher value. The distance was calculated at the space where images were transformed to a local orientation space by a Gabor filter and a local max operation. The method allowed us to find features with a correlation coefficient between predicted and neural responses of 0.68 on average (number of object stimuli, 104) from among 560,000 feature candidates, reliably explaining differential responses among faces as well as a general preference for faces over to non-face objects. Furthermore, predicted responses of the resulting features to novel object images were significantly correlated with neural responses to these images. Identification of features comprising specific, moderately complex combinations of local orientations and colors enabled us to predict responses to upright and inverted faces, which provided a possible mechanism of face inversion effects. (292/300).",
+  "authors": [
+    "Owaki Takashi",
+    "Vidal-Naquet Michel",
+    "Nam Yunjun",
+    "Uchida Go",
+    "Sato Takayuki",
+    "Câteau Hideyuki",
+    "Ullman Shimon",
+    "Tanifuji Manabu"
+  ],
+  "journal": "PloS one",
+  "year": "2018",
+  "doi": "10.1371/journal.pone.0201192",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Temporal Lobe",
+    "Visual Perception"
+  ]
+}

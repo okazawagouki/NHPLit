@@ -1,0 +1,27 @@
+{
+  "pmid": "28336572",
+  "title": "The Computational and Neural Basis of Rhythmic Timing in Medial Premotor Cortex.",
+  "abstract": "The neural underpinnings of rhythmic behavior, including music and dance, have been studied using the synchronization-continuation task (SCT), where subjects initially tap in synchrony with an isochronous metronome and then keep tapping at a similar rate via an internal beat mechanism. Here, we provide behavioral and neural evidence that supports a resetting drift-diffusion model (DDM) during SCT. Behaviorally, we show the model replicates the linear relation between the mean and standard-deviation of the intervals produced by monkeys in SCT. We then show that neural populations in the medial premotor cortex (MPC) contain an accurate trial-by-trial representation of elapsed-time between taps. Interestingly, the autocorrelation structure of the elapsed-time representation is consistent with a DDM. These results indicate that MPC has an orderly representation of time with features characteristic of concatenated DDMs and that this population signal can be used to orchestrate the rhythmic structure of the internally timed elements of SCT.<b>SIGNIFICANCE STATEMENT</b> The present study used behavioral data, ensemble recordings from medial premotor cortex (MPC) in macaque monkeys, and computational modeling, to establish evidence in favor of a class of drift-diffusion models of rhythmic timing during a synchronization-continuation tapping task (SCT). The linear relation between the mean and standard-deviation of the intervals produced by monkeys in SCT is replicated by the model. Populations of MPC cells faithfully represent the elapsed time between taps, and there is significant trial-by-trial relation between decoded times and the timing behavior of the monkeys. Notably, the neural decoding properties, including its autocorrelation structure are consistent with a set of drift-diffusion models that are arranged sequentially and that are resetting in each SCT tap.",
+  "authors": [
+    "Merchant Hugo",
+    "Averbeck Bruno B"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2017",
+  "doi": "10.1523/JNEUROSCI.0367-17.2017",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Algorithms",
+    "Animals",
+    "Behavior, Animal",
+    "Cortical Synchronization",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neurons",
+    "Periodicity",
+    "Psychomotor Performance",
+    "Reaction Time"
+  ]
+}

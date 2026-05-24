@@ -1,0 +1,22 @@
+{
+  "pmid": "35613140",
+  "title": "Brain stimulation competes with ongoing oscillations for control of spike timing in the primate brain.",
+  "abstract": "Transcranial alternating current stimulation (tACS) is a popular method for modulating brain activity noninvasively. In particular, tACS is often used as a targeted intervention that enhances a neural oscillation at a specific frequency to affect a particular behavior. However, these interventions often yield highly variable results. Here, we provide a potential explanation for this variability: tACS competes with the brain's ongoing oscillations. Using neural recordings from alert nonhuman primates, we find that when neural firing is independent of ongoing brain oscillations, tACS readily entrains spiking activity, but when neurons are strongly entrained to ongoing oscillations, tACS often causes a decrease in entrainment instead. Consequently, tACS can yield categorically different results on neural activity, even when the stimulation protocol is fixed. Mathematical analysis suggests that this competition is likely to occur under many experimental conditions. Attempting to impose an external rhythm on the brain may therefore often yield precisely the opposite effect.",
+  "authors": [
+    "Krause Matthew R",
+    "Vieira Pedro G",
+    "Thivierge Jean-Philippe",
+    "Pack Christopher C"
+  ],
+  "journal": "PLoS biology",
+  "year": "2022",
+  "doi": "10.1371/journal.pbio.3001650",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Neurons",
+    "Primates",
+    "Stereotaxic Techniques",
+    "Transcranial Direct Current Stimulation"
+  ]
+}

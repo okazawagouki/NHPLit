@@ -1,0 +1,31 @@
+{
+  "pmid": "26785378",
+  "title": "Model-Free Estimation of Tuning Curves and Their Attentional Modulation, Based on Sparse and Noisy Data.",
+  "abstract": "Tuning curves are the functions that relate the responses of sensory neurons to various values within one continuous stimulus dimension (such as the orientation of a bar in the visual domain or the frequency of a tone in the auditory domain). They are commonly determined by fitting a model e.g. a Gaussian or other bell-shaped curves to the measured responses to a small subset of discrete stimuli in the relevant dimension. However, as neuronal responses are irregular and experimental measurements noisy, it is often difficult to determine reliably the appropriate model from the data. We illustrate this general problem by fitting diverse models to representative recordings from area MT in rhesus monkey visual cortex during multiple attentional tasks involving complex composite stimuli. We find that all models can be well-fitted, that the best model generally varies between neurons and that statistical comparisons between neuronal responses across different experimental conditions are affected quantitatively and qualitatively by specific model choices. As a robust alternative to an often arbitrary model selection, we introduce a model-free approach, in which features of interest are extracted directly from the measured response data without the need of fitting any model. In our attentional datasets, we demonstrate that data-driven methods provide descriptions of tuning curve features such as preferred stimulus direction or attentional gain modulations which are in agreement with fit-based approaches when a good fit exists. Furthermore, these methods naturally extend to the frequent cases of uncertain model selection. We show that model-free approaches can identify attentional modulation patterns, such as general alterations of the irregular shape of tuning curves, which cannot be captured by fitting stereotyped conventional models. Finally, by comparing datasets across different conditions, we demonstrate effects of attention that are cell- and even stimulus-specific. Based on these proofs-of-concept, we conclude that our data-driven methods can reliably extract relevant tuning information from neuronal recordings, including cells whose seemingly haphazard response curves defy conventional fitting approaches.",
+  "authors": [
+    "Helmer Markus",
+    "Kozyrev Vladislav",
+    "Stephan Valeska",
+    "Treue Stefan",
+    "Geisel Theo",
+    "Battaglia Demian"
+  ],
+  "journal": "PloS one",
+  "year": "2016",
+  "doi": "10.1371/journal.pone.0146500",
+  "mesh": [
+    "Animals",
+    "Artifacts",
+    "Attention",
+    "Fixation, Ocular",
+    "Limit of Detection",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Normal Distribution",
+    "Orientation",
+    "Photic Stimulation",
+    "Statistics as Topic",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "20810695",
+  "title": "Trial-to-trial variability of spike response of V1 and saccadic response time.",
+  "abstract": "Single neurons in the primary visual cortex (V1) show variability in spike activity in response to an identical visual stimulus. In the current study, we examined the behavioral significance of the variability in spike activity of V1 neurons for visually guided saccades. We recorded single-cell activity from V1 of monkeys trained to detect and make saccades toward visual targets of varying contrast and analyzed trial-to-trial covariation between the onset time or firing rate of neural response and saccadic response time (RT). Neural latency (NL, the time of the first spike of neural response) was correlated with RT, whereas firing rate (FR) was not. When FR was computed with respect to target onset ignoring NL, a \"false\" correlation between FR and RT emerged. Multiple regression and partial correlation analyses on NL and FR for predictability of RT variability, as well as a simulation with artificial Poisson spike trains, supported the conclusion that the correlation between FR with respect to target onset and RT was mediated by a correlation between NL and RT, emphasizing the role of trial-to-trial variability of NL for extracting RT-related signals. We attempted to examine laminar differences in RT-related activity. Neurons recorded in the superficial layers tended to show a higher sensitivity to stimulus contrast and a lower correlation with RT compared with those in the lower layers, suggesting a sensory-to-motor transformation within V1 that follows the order of known anatomical connections. These results demonstrate that the trial-to-trial variability of neural response in V1 propagates to the stage of saccade execution, resulting in trial-to-trial variability of RT of a visually guided saccade.",
+  "authors": [
+    "Lee Jungah",
+    "Kim HyungGoo R",
+    "Lee Choongkil"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2010",
+  "doi": "10.1152/jn.01040.2009",
+  "mesh": [
+    "Action Potentials",
+    "Analysis of Variance",
+    "Animals",
+    "Contrast Sensitivity",
+    "Electrodes, Implanted",
+    "Electrophysiology",
+    "Evoked Potentials, Visual",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Saccades",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

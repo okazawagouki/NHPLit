@@ -1,0 +1,30 @@
+{
+  "pmid": "31425051",
+  "title": "A Data-Compressive Wired-OR Readout for Massively Parallel Neural Recording.",
+  "abstract": "Neural interfaces of the future will be used to help restore lost sensory, motor, and other capabilities. However, realizing this futuristic promise requires a major leap forward in how electronic devices interface with the nervous system. Next generation neural interfaces must support parallel recording from tens of thousands of electrodes within the form factor and power budget of a fully implanted device, posing a number of significant engineering challenges. In this paper, we exploit sparsity and diversity of neural signals to achieve simultaneous data compression and channel multiplexing for neural recordings. The architecture uses wired-OR interactions within an array of single-slope A/D converters to obtain massively parallel digitization of neural action potentials. The achieved compression is lossy but effective at retaining the critical samples belonging to action potentials, enabling efficient spike sorting and cell type identification. Simulation results of the architecture using data obtained from primate retina ex-vivo with a 512-channel electrode array show average compression rates up to  ∼ 40× while missing less than 5% of cells. In principle, the techniques presented here could be used to design interfaces to other parts of the nervous system.",
+  "authors": [
+    "Muratore Dante Gabriel",
+    "Tandon Pulkit",
+    "Wootters Mary",
+    "Chichilnisky E J",
+    "Mitra Subhasish",
+    "Murmann Boris"
+  ],
+  "journal": "IEEE transactions on biomedical circuits and systems",
+  "year": "2019",
+  "doi": "10.1109/TBCAS.2019.2935468",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrodes",
+    "Electroencephalography",
+    "Neurons",
+    "Primates",
+    "Principal Component Analysis",
+    "Retina",
+    "Semiconductors",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

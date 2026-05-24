@@ -1,0 +1,21 @@
+{
+  "pmid": "29410439",
+  "title": "Efficient communication dynamics on macro-connectome, and the propagation speed.",
+  "abstract": "Global communication dynamics in the brain can be captured using fMRI, MEG, or electrocorticography (ECoG), and the global slow dynamics often represent anatomical constraints. Complementary single-/multi-unit recordings have described local fast temporal dynamics. However, global fast temporal dynamics remain incompletely understood with considering of anatomical constraints. Therefore, we compared temporal aspects of cross-area propagations of single-unit recordings and ECoG, and investigated their anatomical bases. First, we demonstrated how both evoked and spontaneous ECoGs can accurately predict latencies of single-unit recordings. Next, we estimated the propagation velocity (1.0-1.5 m/s) from brain-wide data and found that it was fairly stable among different conscious levels. We also found that the shortest paths in anatomical topology strongly predicted the latencies. Finally, we demonstrated that Communicability, a novel graph-theoretic measure, is able to quantify that more than 90% of paths should use shortest paths and the remaining are non-shortest walks. These results revealed that macro-connectome is efficiently wired for detailed communication dynamics in the brain.",
+  "authors": [
+    "Shimono Masanori",
+    "Hatano Naomichi"
+  ],
+  "journal": "Scientific reports",
+  "year": "2018",
+  "doi": "10.1038/s41598-018-20591-y",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Connectome",
+    "Electrocorticography",
+    "Macaca",
+    "Nerve Net",
+    "Photic Stimulation"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "28575666",
+  "title": "The Code for Facial Identity in the Primate Brain.",
+  "abstract": "Primates recognize complex objects such as faces with remarkable speed and reliability. Here, we reveal the brain's code for facial identity. Experiments in macaques demonstrate an extraordinarily simple transformation between faces and responses of cells in face patches. By formatting faces as points in a high-dimensional linear space, we discovered that each face cell's firing rate is proportional to the projection of an incoming face stimulus onto a single axis in this space, allowing a face cell ensemble to encode the location of any face in the space. Using this code, we could precisely decode faces from neural population responses and predict neural firing rates to faces. Furthermore, this code disavows the long-standing assumption that face cells encode specific facial identities, confirmed by engineering faces with drastically different appearance that elicited identical responses in single face cells. Our work suggests that other objects could be encoded by analogous metric coordinate systems. PAPERCLIP.",
+  "authors": [
+    "Chang Le",
+    "Tsao Doris Y"
+  ],
+  "journal": "Cell",
+  "year": "2017",
+  "doi": "10.1016/j.cell.2017.05.011",
+  "mesh": [
+    "Animals",
+    "Facial Recognition",
+    "Humans",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Temporal Lobe"
+  ]
+}

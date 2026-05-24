@@ -1,0 +1,31 @@
+{
+  "pmid": "25825717",
+  "title": "Coding of envelopes by correlated but not single-neuron activity requires neural variability.",
+  "abstract": "Understanding how the brain processes sensory information is often complicated by the fact that neurons exhibit trial-to-trial variability in their responses to stimuli. Indeed, the role of variability in sensory coding is still highly debated. Here, we examined how variability influences neural responses to naturalistic stimuli consisting of a fast time-varying waveform (i.e., carrier or first order) whose amplitude (i.e., envelope or second order) varies more slowly. Recordings were made from fish electrosensory and monkey vestibular sensory neurons. In both systems, we show that correlated but not single-neuron activity can provide detailed information about second-order stimulus features. Using a simple mathematical model, we made the strong prediction that such correlation-based coding of envelopes requires neural variability. Strikingly, the performance of correlated activity at predicting the envelope was similarly optimally tuned to a nonzero level of variability in both systems, thereby confirming this prediction. Finally, we show that second-order sensory information can only be decoded if one takes into account joint statistics when combining neural activities. Our results thus show that correlated but not single-neural activity can transmit information about the envelope, that such transmission requires neural variability, and that this information can be decoded. We suggest that envelope coding by correlated activity is a general feature of sensory processing that will be found across species and systems.",
+  "authors": [
+    "Metzen Michael G",
+    "Jamali Mohsen",
+    "Carriot Jérome",
+    "Ávila-Ǻkerberg Oscar",
+    "Cullen Kathleen E",
+    "Chacron Maurice J"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2015",
+  "doi": "10.1073/pnas.1418224112",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Computer Simulation",
+    "Electric Organ",
+    "Electric Stimulation",
+    "Gymnotiformes",
+    "Macaca fascicularis",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Sensory Receptor Cells",
+    "Single-Cell Analysis",
+    "Vestibular Nerve"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmid": "40111998",
+  "title": "Random compressed coding with neurons.",
+  "abstract": "Classical models of efficient coding in neurons assume simple mean responses-\"tuning curves\"- such as bell-shaped or monotonic functions of a stimulus feature. Real neurons, however, can be more complex: grid cells, for example, exhibit periodic responses that impart the neural population code with high accuracy. But do highly accurate codes require fine-tuning of the response properties? We address this question with the use of a simple model: a population of neurons with random, spatially extended, and irregular tuning curves. Irregularity enhances the local resolution of the code but gives rise to catastrophic, global errors. For optimal smoothness of the tuning curves, when local and global errors balance out, the neural population compresses information about a continuous stimulus into a low-dimensional representation, and the resulting distributed code achieves exponential accuracy. An analysis of recordings from monkey motor cortex points to such \"compressed efficient coding.\" Efficient codes do not require a finely tuned design-they emerge robustly from irregularity or randomness.",
+  "authors": [
+    "Blanco Malerba Simone",
+    "Pieropan Mirko",
+    "Burak Yoram",
+    "Azeredo da Silveira Rava"
+  ],
+  "journal": "Cell reports",
+  "year": "2025",
+  "doi": "10.1016/j.celrep.2025.115412",
+  "mesh": [
+    "Animals",
+    "Neurons",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Action Potentials",
+    "Macaca mulatta"
+  ]
+}

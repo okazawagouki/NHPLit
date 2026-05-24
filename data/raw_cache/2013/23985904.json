@@ -1,0 +1,30 @@
+{
+  "pmid": "23985904",
+  "title": "Multi-electrode stimulation in somatosensory cortex increases probability of detection.",
+  "abstract": "OBJECTIVE: Brain machine interfaces (BMIs) that decode control signals from motor cortex have developed tremendously in the past decade, but virtually all rely exclusively on vision to provide feedback. There is now increasing interest in developing an afferent interface to replace natural somatosensation, much as the cochlear implant has done for the sense of hearing. Preliminary experiments toward a somatosensory neuroprosthesis have mostly addressed the sense of touch, but proprioception, the sense of limb position and movement, is also critical for the control of movement. However, proprioceptive areas of cortex lack the precise somatotopy of tactile areas. We showed previously that there is only a weak tendency for neighboring neurons in area 2 to signal similar directions of hand movement. Consequently, stimulation with the relatively large currents used in many studies is likely to activate a rather heterogeneous set of neurons. APPROACH: Here, we have compared the effect of single-electrode stimulation at subthreshold levels to the effect of stimulating as many as seven electrodes in combination. MAIN RESULTS: We found a mean enhancement in the sensitivity to the stimulus (d') of 0.17 for pairs compared to individual electrodes (an increase of roughly 30%), and an increase of 2.5 for groups of seven electrodes (260%). SIGNIFICANCE: We propose that a proprioceptive interface made up of several hundred electrodes may yield safer, more effective sensation than a BMI using fewer electrodes and larger currents.",
+  "authors": [
+    "Zaaimi Boubker",
+    "Ruiz-Torres Ricardo",
+    "Solla Sara A",
+    "Miller Lee E"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2013",
+  "doi": "10.1088/1741-2560/10/5/056013",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Data Interpretation, Statistical",
+    "Electric Stimulation",
+    "Electrodes, Implanted",
+    "Feedback",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Photic Stimulation",
+    "Proprioception",
+    "Sensory Thresholds",
+    "Somatosensory Cortex",
+    "Touch"
+  ]
+}

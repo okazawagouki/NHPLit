@@ -1,0 +1,18 @@
+{
+  "pmid": "33018126",
+  "title": "Predicting Single-Unit Activity from Local Field Potentials with LSTMs.",
+  "abstract": "This paper investigates to what extent Long Short-Term Memory (LSTM) decoders can use Local Field Potentials (LFPs) to predict Single-Unit Activity (SUA) in Macaque Primary Motor cortex. The motivation is to determine to what degree the LFP signal can be used as a proxy for SUA, for both neuroscience and Brain-Computer Interface (BCI) applications. Firstly, the results suggest that the prediction quality varies significantly by implant location or animal. However, within each implant location / animal, the prediction quality seems to be correlated with the amount of power in certain LFP frequency bands (0-10, 10-20 and 40-50Hz, standardised LFPs). Secondly, the results suggest that bipolar LFPs are more informative as to SUA than unipolar LFPs. This suggests common mode rejection aids in the elimination of non-local neural information. Thirdly, the best individual bipolar LFPs generally perform better than when using all available unipolar LFPs. This suggests that LFP channel selection may be a simple but effective means of lossy data compression in Wireless Intracortical LFP-based BCIs. Overall, LFPs were moderately predictive of SUA, and improvements can likely be made.",
+  "authors": [
+    "Savolainen Oscar W",
+    "Constandinou Timothy G"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2020",
+  "doi": "10.1109/EMBC44109.2020.9175265",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Macaca",
+    "Motor Cortex"
+  ]
+}

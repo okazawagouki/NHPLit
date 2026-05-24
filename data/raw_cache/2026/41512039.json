@@ -1,0 +1,31 @@
+{
+  "pmid": "41512039",
+  "title": "Primate-informed neural network for visual decision-making.",
+  "abstract": "The human brain excels at complex tasks with remarkable efficiency, adaptability, and resilience, making it a powerful source of inspiration for AI. Here, we present a neural dynamics model inspired by the primate dorsal visual pathway, a circuit crucial for motion and spatial processing. Incorporating key neuronal and synaptic dynamics, the model reproduces human-like decision-making behaviors and neural activity patterns without the need for extensive training. Compared with conventional artificial networks, it exhibits superior robustness to perturbations such as noise and damage. To further enhance its performance, we introduce a neuroimaging-guided fine-tuning strategy. Correlations between MRI features and behavioral performance are mapped onto critical model parameters, guiding the optimization toward more biologically plausible operational regimes. This approach improves performance and adaptability while preserving biological plausibility and reducing the parameter search space. This is a demonstration of directly integrating human neuroimaging evidence into AI model optimization, establishing a methodology for brain-inspired modeling. By combining insights from primate electrophysiology, human neuroimaging, and biologically grounded modeling, our work narrows the gap between neuroscience and AI. It demonstrates how brain-inspired approaches can advance the development of adaptive, resilient, and interpretable AI systems, offering a paradigm for biologically grounded intelligence.",
+  "authors": [
+    "Su Jie",
+    "Cai Fang",
+    "Zhao Shu-Kuo",
+    "Wang Xin-Yi",
+    "Qian Tian-Yi",
+    "Wang Da-Hui",
+    "Hong Bo"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2026",
+  "doi": "10.1073/pnas.2426883123",
+  "mesh": [
+    "Decision Making",
+    "Animals",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Primates",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Visual Pathways",
+    "Visual Perception",
+    "Brain",
+    "Macaca mulatta"
+  ]
+}

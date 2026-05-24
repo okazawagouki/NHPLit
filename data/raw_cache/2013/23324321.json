@@ -1,0 +1,25 @@
+{
+  "pmid": "23324321",
+  "title": "A computational model for optimal muscle activity considering muscle viscoelasticity in wrist movements.",
+  "abstract": "To understand the mechanism of neural motor control, it is important to clarify how the central nervous system organizes the coordination of redundant muscles. Previous studies suggested that muscle activity for step-tracking wrist movements are optimized so as to reduce total effort or end-point variance under neural noise. However, since the muscle dynamics were assumed as a simple linear system, some characteristic patterns of experimental EMG were not seen in the simulated muscle activity of the previous studies. The biological muscle is known to have dynamic properties in which its elasticity and viscosity depend on activation level. The motor control system is supposed to consider the viscoelasticity of the muscles when generating motor command signals. In this study, we present a computational motor control model that can control a musculoskeletal system with nonlinear dynamics. We applied the model to step-tracking wrist movements actuated by five muscles with dynamic viscoelastic properties. To solve the motor redundancy, we designed the control model to generate motor commands that maximize end-point accuracy under signal-dependent noise, while minimizing the squared sum of them. Here, we demonstrate that the muscle activity simulated by our model exhibits spatiotemporal features of experimentally observed muscle activity of human and nonhuman primates. In addition, we show that the movement trajectories resulting from the simulated muscle activity resemble experimentally observed trajectories. These results suggest that, by utilizing inherent viscoelastic properties of the muscles, the neural system may optimize muscle activity to improve motor performance.",
+  "authors": [
+    "Kambara Hiroyuki",
+    "Shin Duk",
+    "Koike Yasuharu"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2013",
+  "doi": "10.1152/jn.00542.2011",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Elasticity",
+    "Humans",
+    "Models, Biological",
+    "Movement",
+    "Muscle, Skeletal",
+    "Primates",
+    "Viscosity",
+    "Wrist"
+  ]
+}

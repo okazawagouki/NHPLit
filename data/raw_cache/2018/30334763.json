@@ -1,0 +1,30 @@
+{
+  "pmid": "30334763",
+  "title": "Single-Finger Neural Basis Information-Based Neural Decoder for Multi-Finger Movements.",
+  "abstract": "In this paper, we investigate the relationship between single and multi-finger movements. By exploiting the neural correlation between the temporal firing patterns between movements, we show that the Pearson's correlation coefficient for the physically related movement pairs are greater than those of others; the firing rates of the neurons that are tuned to a single-finger movements also increases when the corresponding multi-finger movements are instructed. We also use a hierarchical cluster analysis to verify not only the relationship between the single and multi-finger movements, but also the relationship between the flexion and extension movements. Furthermore, we propose a novel decoding method of modeling neural firing patterns while omitting the training process of the multi-finger movements. For the decoding, the Skellam and Gaussian probability distributions are used as mathematical models. The probabilistic distribution model of the multi-finger movements was estimated using the neural activity that was acquired during single-finger movements. As a result, the proposed neural decoding accuracy comparable with that of the supervised neural decoding accuracy when all of the neurons were used for the multi-finger movements. These results suggest that only the neural activities of single-finger movements can be exploited for the control of dexterous multi-finger neuroprosthetics.",
+  "authors": [
+    "Choi Hwayoung",
+    "You Kyung-Jin",
+    "Thakor Nitish V",
+    "Schieber Marc H",
+    "Shin Hyun-Chool"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2018",
+  "doi": "10.1109/TNSRE.2018.2875731",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cluster Analysis",
+    "Fingers",
+    "Macaca mulatta",
+    "Models, Statistical",
+    "Models, Theoretical",
+    "Movement",
+    "Neural Prostheses",
+    "Neurons",
+    "Normal Distribution",
+    "Reproducibility of Results",
+    "Stochastic Processes"
+  ]
+}

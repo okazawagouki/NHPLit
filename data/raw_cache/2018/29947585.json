@@ -1,0 +1,22 @@
+{
+  "pmid": "29947585",
+  "title": "Slot-like capacity and resource-like coding in a neural model of multiple-item working memory.",
+  "abstract": "For the past decade, research on the storage limitations of working memory has been dominated by two fundamentally different hypotheses. On the one hand, the contents of working memory may be stored in a limited number of \"slots,\" each with a fixed resolution. On the other hand, any number of items may be stored but with decreasing resolution. These two hypotheses have been invaluable in characterizing the computational structure of working memory, but neither provides a complete account of the available experimental data or speaks to the neural basis of the limitations it characterizes. To address these shortcomings, we simulated a multiple-item working memory task with a cortical network model, the cellular resolution of which allowed us to quantify the coding fidelity of memoranda as a function of memory load, as measured by the discriminability, regularity, and reliability of simulated neural spiking. Our simulations account for a wealth of neural and behavioral data from human and nonhuman primate studies, and they demonstrate that feedback inhibition lowers both capacity and coding fidelity. Because the strength of inhibition scales with the number of items stored by the network, increasing this number progressively lowers fidelity until capacity is reached. Crucially, the model makes specific, testable predictions for neural activity on multiple-item working memory tasks. NEW & NOTEWORTHY Working memory is the ability to keep information in mind and is fundamental to cognition. It is actively debated whether the storage limitations of working memory reflect a small number of storage units (slots) or a decrease in coding resolution as a limited resource is allocated to more items. In a cortical model, we found that slot-like capacity and resource-like neural coding resulted from the same mechanism, offering an integrated explanation for storage limitations.",
+  "authors": [
+    "Standage Dominic",
+    "Paré Martin"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2018",
+  "doi": "10.1152/jn.00778.2017",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Cortical Excitability",
+    "Haplorhini",
+    "Humans",
+    "Memory, Short-Term",
+    "Models, Neurological",
+    "Neurons"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "29610104",
+  "title": "A Copula-Based Granger Causality Measure for the Analysis of Neural Spike Train Data.",
+  "abstract": "In systems neuroscience, it is becoming increasingly common to record the activity of hundreds of neurons simultaneously via electrode arrays. The ability to accurately measure the causal interactions among multiple neurons in the brain is crucial to understanding how neurons work in concert to generate specific brain functions. The development of new statistical methods for assessing causal influence between spike trains is still an active field of neuroscience research. Here, we suggest a copula-based Granger causality measure for the analysis of neural spike train data. This method is built upon our recent work on copula Granger causality for the analysis of continuous-valued time series by extending it to point-process neural spike train data. The proposed method is therefore able to reveal nonlinear and high-order causality in the spike trains while retaining all the computational advantages such as model-free, efficient estimation, and variability assessment of Granger causality. The performance of our algorithm can be further boosted with time-reversed data. Our method performed well on extensive simulations, and was then demonstrated on neural activity simultaneously recorded from primary visual cortex of a monkey performing a contour detection task.",
+  "authors": [
+    "Hu Meng",
+    "Li Wu",
+    "Liang Hualou"
+  ],
+  "journal": "IEEE/ACM transactions on computational biology and bioinformatics",
+  "year": "2018",
+  "doi": "10.1109/TCBB.2014.2388311",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Computational Biology",
+    "Electrophysiology",
+    "Macaca",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Neurons",
+    "Visual Cortex"
+  ]
+}

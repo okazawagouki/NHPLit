@@ -1,0 +1,32 @@
+{
+  "pmid": "22055855",
+  "title": "Functional magnetic resonance imaging of awake monkeys: some approaches for improving imaging quality.",
+  "abstract": "Functional magnetic resonance imaging (fMRI) at high magnetic field strength can suffer from serious degradation of image quality because of motion and physiological noise, as well as spatial distortions and signal losses due to susceptibility effects. Overcoming such limitations is essential for sensitive detection and reliable interpretation of fMRI data. These issues are particularly problematic in studies of awake animals. As part of our initial efforts to study functional brain activations in awake, behaving monkeys using fMRI at 4.7 T, we have developed acquisition and analysis procedures to improve image quality with encouraging results. We evaluated the influence of two main variables on image quality. First, we show how important the level of behavioral training is for obtaining good data stability and high temporal signal-to-noise ratios. In initial sessions, our typical scan session lasted 1.5 h, partitioned into short (<10 min) runs. During reward periods and breaks between runs, the monkey exhibited movements resulting in considerable image misregistrations. After a few months of extensive behavioral training, we were able to increase the length of individual runs and the total length of each session. The monkey learned to wait until the end of a block for fluid reward, resulting in longer periods of continuous acquisition. Each additional 60 training sessions extended the duration of each session by 60 min, culminating, after about 140 training sessions, in sessions that last about 4 h. As a result, the average translational movement decreased from over 500 μm to less than 80 μm, a displacement close to that observed in anesthetized monkeys scanned in a 7-T horizontal scanner. Another major source of distortion at high fields arises from susceptibility variations. To reduce such artifacts, we used segmented gradient-echo echo-planar imaging (EPI) sequences. Increasing the number of segments significantly decreased susceptibility artifacts and image distortion. Comparisons of images from functional runs using four segments with those using a single-shot EPI sequence revealed a roughly twofold improvement in functional signal-to-noise-ratio and 50% decrease in distortion. These methods enabled reliable detection of neural activation and permitted blood-oxygenation-level-dependent-based mapping of early visual areas in monkeys using a volume coil. In summary, both extensive behavioral training of monkeys and application of segmented gradient-echo EPI sequence improved signal-to-noise ratio and image quality. Understanding the effects these factors have is important for the application of high field imaging methods to the detection of submillimeter functional structures in the awake monkey brain.",
+  "authors": [
+    "Chen Gang",
+    "Wang Feng",
+    "Dillenburger Barbara C",
+    "Friedman Robert M",
+    "Chen Li M",
+    "Gore John C",
+    "Avison Malcolm J",
+    "Roe Anna W"
+  ],
+  "journal": "Magnetic resonance imaging",
+  "year": "2012",
+  "doi": "10.1016/j.mri.2011.09.010",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artifacts",
+    "Behavior Control",
+    "Brain",
+    "Image Enhancement",
+    "Image Interpretation, Computer-Assisted",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "Movement",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity"
+  ]
+}

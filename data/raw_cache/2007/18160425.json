@@ -1,0 +1,31 @@
+{
+  "pmid": "18160425",
+  "title": "Inferring spike trains from local field potentials.",
+  "abstract": "We investigated whether it is possible to infer spike trains solely on the basis of the underlying local field potentials (LFPs). Using support vector machines and linear regression models, we found that in the primary visual cortex (V1) of monkeys, spikes can indeed be inferred from LFPs, at least with moderate success. Although there is a considerable degree of variation across electrodes, the low-frequency structure in spike trains (in the 100-ms range) can be inferred with reasonable accuracy, whereas exact spike positions are not reliably predicted. Two kinds of features of the LFP are exploited for prediction: the frequency power of bands in the high gamma-range (40-90 Hz) and information contained in low-frequency oscillations (<10 Hz), where both phase and power modulations are informative. Information analysis revealed that both features code (mainly) independent aspects of the spike-to-LFP relationship, with the low-frequency LFP phase coding for temporally clustered spiking activity. Although both features and prediction quality are similar during seminatural movie stimuli and spontaneous activity, prediction performance during spontaneous activity degrades much more slowly with increasing electrode distance. The general trend of data obtained with anesthetized animals is qualitatively mirrored in that of a more limited data set recorded in V1 of non-anesthetized monkeys. In contrast to the cortical field potentials, thalamic LFPs (e.g., LFPs derived from recordings in the dorsal lateral geniculate nucleus) hold no useful information for predicting spiking activity.",
+  "authors": [
+    "Rasch Malte J",
+    "Gretton Arthur",
+    "Murayama Yusuke",
+    "Maass Wolfgang",
+    "Logothetis Nikos K"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2008",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electroencephalography",
+    "Evoked Potentials, Visual",
+    "Macaca mulatta",
+    "Neurons",
+    "Photic Stimulation",
+    "Predictive Value of Tests",
+    "Reference Values",
+    "Spectrum Analysis",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Perception",
+    "Wakefulness"
+  ]
+}

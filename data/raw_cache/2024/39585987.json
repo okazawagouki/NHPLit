@@ -1,0 +1,24 @@
+{
+  "pmid": "39585987",
+  "title": "Dynamic tuning of neural stability for cognitive control.",
+  "abstract": "The brain is thought to execute cognitive control by actively maintaining and flexibly updating patterns of neural activity that represent goals and rules. However, while actively maintaining patterns of activity requires robustness against noise and distractors, updating the activity requires sensitivity to task-relevant inputs. How these conflicting demands can be reconciled in a single neural system remains unclear. Here, we study the prefrontal cortex of monkeys maintaining a covert rule and integrating sensory inputs toward a choice. Following the onset of neural responses, sensory integration evolves with a 70 ms delay. Using a stability analysis and a recurrent neural network model trained to perform the task, we show that this delay enables a transient, system-level destabilization, opening a temporal window to selectively incorporate new information. This mechanism allows robustness and sensitivity to coexist in a neural system and hierarchically updates patterns of neural activity, providing a general framework for cognitive control. Furthermore, it reveals a learned, explicit rule representation, suggesting a reconciliation between the symbolic and connectionist approaches for building intelligent machines.",
+  "authors": [
+    "Xu Muyuan",
+    "Hosokawa Takayuki",
+    "Tsutsui Ken-Ichiro",
+    "Aihara Kazuyuki"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2024",
+  "doi": "10.1073/pnas.2409487121",
+  "mesh": [
+    "Animals",
+    "Cognition",
+    "Prefrontal Cortex",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Neural Networks, Computer",
+    "Male"
+  ]
+}

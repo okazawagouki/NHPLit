@@ -1,0 +1,33 @@
+{
+  "pmid": "24726922",
+  "title": "Decoding grasp force profile from electrocorticography signals in non-human primate sensorimotor cortex.",
+  "abstract": "The relatively low invasiveness of electrocorticography (ECoG) has made it a promising candidate for the development of practical, high-performance neural prosthetics. Recent ECoG-based studies have shown success in decoding hand and finger movements and muscle activity in reaching and grasping tasks. However, decoding of force profiles is still lacking. Here, we demonstrate that lateral grasp force profile can be decoded using a sparse linear regression from 15 and 16 channel ECoG signals recorded from sensorimotor cortex in two non-human primates. The best average correlation coefficients of prediction after 10-fold cross validation were 0.82±0.09 and 0.79±0.15 for our monkeys A and B, respectively. These results show that grasp force profile was successfully decoded from ECoG signals in reaching and grasping tasks and may potentially contribute to the development of more natural control methods for grasping in neural prosthetics.",
+  "authors": [
+    "Chen Chao",
+    "Shin Duk",
+    "Watanabe Hidenori",
+    "Nakanishi Yasuhiko",
+    "Kambara Hiroyuki",
+    "Yoshimura Natsue",
+    "Nambu Atsushi",
+    "Isa Tadashi",
+    "Nishimura Yukio",
+    "Koike Yasuharu"
+  ],
+  "journal": "Neuroscience research",
+  "year": "2014",
+  "doi": "10.1016/j.neures.2014.03.010",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electroencephalography",
+    "Female",
+    "Hand Strength",
+    "Haplorhini",
+    "Linear Models",
+    "Male",
+    "Sensorimotor Cortex",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

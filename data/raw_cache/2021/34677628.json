@@ -1,0 +1,20 @@
+{
+  "pmid": "34677628",
+  "title": "From internal models toward metacognitive AI.",
+  "abstract": "In several papers published in Biological Cybernetics in the 1980s and 1990s, Kawato and colleagues proposed computational models explaining how internal models are acquired in the cerebellum. These models were later supported by neurophysiological experiments using monkeys and neuroimaging experiments involving humans. These early studies influenced neuroscience from basic, sensory-motor control to higher cognitive functions. One of the most perplexing enigmas related to internal models is to understand the neural mechanisms that enable animals to learn large-dimensional problems with so few trials. Consciousness and metacognition-the ability to monitor one's own thoughts, may be part of the solution to this enigma. Based on literature reviews of the past 20 years, here we propose a computational neuroscience model of metacognition. The model comprises a modular hierarchical reinforcement-learning architecture of parallel and layered, generative-inverse model pairs. In the prefrontal cortex, a distributed executive network called the \"cognitive reality monitoring network\" (CRMN) orchestrates conscious involvement of generative-inverse model pairs in perception and action. Based on mismatches between computations by generative and inverse models, as well as reward prediction errors, CRMN computes a \"responsibility signal\" that gates selection and learning of pairs in perception, action, and reinforcement learning. A high responsibility signal is given to the pairs that best capture the external world, that are competent in movements (small mismatch), and that are capable of reinforcement learning (small reward-prediction error). CRMN selects pairs with higher responsibility signals as objects of metacognition, and consciousness is determined by the entropy of responsibility signals across all pairs. This model could lead to new-generation AI, which exhibits metacognition, consciousness, dimension reduction, selection of modules and corresponding representations, and learning from small samples. It may also lead to the development of a new scientific paradigm that enables the causal study of consciousness by combining CRMN and decoded neurofeedback.",
+  "authors": [
+    "Kawato Mitsuo",
+    "Cortese Aurelio"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "2021",
+  "doi": "10.1007/s00422-021-00904-7",
+  "mesh": [
+    "Animals",
+    "Artificial Intelligence",
+    "Cognition",
+    "Metacognition",
+    "Reinforcement, Psychology",
+    "Reward"
+  ]
+}

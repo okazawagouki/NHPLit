@@ -1,0 +1,43 @@
+{
+  "pmid": "23475375",
+  "title": "Behavioral demonstration of a somatosensory neuroprosthesis.",
+  "abstract": "Tactile sensation is critical for effective object manipulation, but current prosthetic upper limbs make no provision for delivering somesthetic feedback to the user. For individuals who require use of prosthetic limbs, this lack of feedback transforms a mundane task into one that requires extreme concentration and effort. Although vibrotactile motors and sensory substitution devices can be used to convey gross sensations, a direct neural interface is required to provide detailed and intuitive sensory feedback. In light of this, we describe the implementation of a somatosensory prosthesis with which we elicit, through intracortical microstimulation (ICMS), percepts whose magnitude is graded according to the force exerted on the prosthetic finger. Specifically, the prosthesis consists of a sensorized finger, the force output of which is converted into a regime of ICMS delivered to primary somatosensory cortex through chronically implanted multi-electrode arrays. We show that the performance of animals (Rhesus macaques) on a tactile task is equivalent whether stimuli are delivered to the native finger or to the prosthetic finger.",
+  "authors": [
+    "Berg J A",
+    "Dammann J F",
+    "Tenore F V",
+    "Tabot G A",
+    "Boback J L",
+    "Manfredi L R",
+    "Peterson M L",
+    "Katyal K D",
+    "Johannes M S",
+    "Makhlin A",
+    "Wilcox R",
+    "Franklin R K",
+    "Vogelstein R J",
+    "Hatsopoulos N G",
+    "Bensmaia S J"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2013",
+  "doi": "10.1109/TNSRE.2013.2244616",
+  "mesh": [
+    "Animals",
+    "Artificial Limbs",
+    "Behavior, Animal",
+    "Biofeedback, Psychology",
+    "Deep Brain Stimulation",
+    "Equipment Design",
+    "Equipment Failure Analysis",
+    "Evoked Potentials, Somatosensory",
+    "Fingers",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Movement",
+    "Robotics",
+    "Touch",
+    "Transducers"
+  ]
+}

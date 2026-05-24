@@ -1,0 +1,31 @@
+{
+  "pmid": "17015181",
+  "title": "Neural mechanism for stochastic behaviour during a competitive game.",
+  "abstract": "Previous studies have shown that non-human primates can generate highly stochastic choice behaviour, especially when this is required during a competitive interaction with another agent. To understand the neural mechanism of such dynamic choice behaviour, we propose a biologically plausible model of decision making endowed with synaptic plasticity that follows a reward-dependent stochastic Hebbian learning rule. This model constitutes a biophysical implementation of reinforcement learning, and it reproduces salient features of behavioural data from an experiment with monkeys playing a matching pennies game. Due to interaction with an opponent and learning dynamics, the model generates quasi-random behaviour robustly in spite of intrinsic biases. Furthermore, non-random choice behaviour can also emerge when the model plays against a non-interactive opponent, as observed in the monkey experiment. Finally, when combined with a meta-learning algorithm, our model accounts for the slow drift in the animal's strategy based on a process of reward maximization.",
+  "authors": [
+    "Soltani Alireza",
+    "Lee Daeyeol",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Behavior, Animal",
+    "Choice Behavior",
+    "Competitive Behavior",
+    "Haplorhini",
+    "Humans",
+    "Likelihood Functions",
+    "Models, Neurological",
+    "Neural Inhibition",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Probability Learning",
+    "Reaction Time",
+    "Reinforcement, Psychology",
+    "Stochastic Processes"
+  ]
+}

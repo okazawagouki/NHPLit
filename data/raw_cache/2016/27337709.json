@@ -1,0 +1,29 @@
+{
+  "pmid": "27337709",
+  "title": "A High-Performance Neural Prosthesis Incorporating Discrete State Selection With Hidden Markov Models.",
+  "abstract": "Communication neural prostheses aim to restore efficient communication to people with motor neurological injury or disease by decoding neural activity into control signals. These control signals are both analog (e.g., the velocity of a computer mouse) and discrete (e.g., clicking an icon with a computer mouse) in nature. Effective, high-performing, and intuitive-to-use communication prostheses should be capable of decoding both analog and discrete state variables seamlessly. However, to date, the highest-performing autonomous communication prostheses rely on precise analog decoding and typically do not incorporate high-performance discrete decoding. In this report, we incorporated a hidden Markov model (HMM) into an intracortical communication prosthesis to enable accurate and fast discrete state decoding in parallel with analog decoding. In closed-loop experiments with nonhuman primates implanted with multielectrode arrays, we demonstrate that incorporating an HMM into a neural prosthesis can increase state-of-the-art achieved bitrate by 13.9% and 4.2% in two monkeys ( ). We found that the transition model of the HMM is critical to achieving this performance increase. Further, we found that using an HMM resulted in the highest achieved peak performance we have ever observed for these monkeys, achieving peak bitrates of 6.5, 5.7, and 4.7 bps in Monkeys J, R, and L, respectively. Finally, we found that this neural prosthesis was robustly controllable for the duration of entire experimental sessions. These results demonstrate that high-performance discrete decoding can be beneficially combined with analog decoding to achieve new state-of-the-art levels of performance.",
+  "authors": [
+    "Kao Jonathan C",
+    "Nuyujukian Paul",
+    "Ryu Stephen I",
+    "Shenoy Krishna V"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2017",
+  "doi": "10.1109/TBME.2016.2582691",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain-Computer Interfaces",
+    "Communication Devices for People with Disabilities",
+    "Computer Simulation",
+    "Data Interpretation, Statistical",
+    "Electroencephalography",
+    "Male",
+    "Markov Chains",
+    "Models, Statistical",
+    "Pattern Recognition, Automated",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity"
+  ]
+}

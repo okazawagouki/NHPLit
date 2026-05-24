@@ -1,0 +1,23 @@
+{
+  "pmid": "8750086",
+  "title": "Loss of frequencies in autocorrelations and a procedure to recover them.",
+  "abstract": "We show that the standard methods, like the autocorrelation of a discrete time series, such as a spike train, can often miss prominent oscillation frequencies. In particular, if a phenomenon involves bursting and oscillations at two or more frequencies, the higher frequencies, with a lesser number of spikes per burst, can be often missed by the conventional methods. It is argued that on should separate the intraburst phenomena from the interburst phenomena by identifying bursts as single events. The distribution of oscillation frequencies should then computed by evaluating the autocorrelation of these events. A method is also developed for situations where intraburst and interburst time scales overlap significantly. It is shown that the correct estimate of strengths of various frequencies is found by using different thresholds for burst identification. The method is applied to data from a neuron in the subthalamic nucleus of a Parkinsonian (MPTP-treated) monkey. The conventional analysis shows that the neuron oscillates at only 6 Hz, whereas the new analysis reveals the presence of an additional, predominant, oscillation frequency of 18 Hz.",
+  "authors": [
+    "Mehta M R",
+    "Bergman H"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "1995",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Chlorocebus aethiops",
+    "Disease Models, Animal",
+    "Electrophysiology",
+    "Mathematics",
+    "Neurons",
+    "Parkinson Disease",
+    "Periodicity",
+    "Thalamic Nuclei"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "41105706",
+  "title": "Statistical regularities in natural scenes that support figure-ground segregation by neural populations.",
+  "abstract": "Differentiating objects, people, and animals from their surroundings is a key visual function, referred to as figure-ground segregation. Psychological research has established that humans use diverse visual features such as shape, texture, motion, and distance to identify figures. However, our understanding of the neural computations supporting figure-ground segregation remains incomplete. Recent neurophysiological observations in cortical area MT of primates - a region important for motion and depth processing - suggest that neurons in this area favor visual features that intuitively map onto figures, such as faster motion and closer distances. Inspired by these new observations, here we test the hypothesis that figures in natural scenes contain statistical regularities in motion and distance detectable at the scale of neuronal receptive fields. We combined statistical measurements of motion and distance from natural scenes with figure-ground annotations and simulations of receptive field inputs. Within simulated receptive fields, inputs corresponding to figures tended to move faster and more coherently, and tended to be nearer in distance, than the surrounding area. Our simulation predicts that the statistical regularities associated with figure motion increase notably with retinal eccentricity, while the distance statistics do not. Lastly, we implemented a simple neural population model illustrating how MT response properties, in combination with these statistics, can favor the representation of visual features associated with figures. These results enrich our understanding of the computations supporting figure-ground segregation, provide a normative account for recent neurophysiological observations, and contribute to converging lines of evidence that the brain exploits natural statistics to prioritize behaviorally-relevant information.",
+  "authors": [
+    "Friedman Clara T",
+    "Wang Minqi",
+    "Yerxa Thomas",
+    "Arseneau Bryce A",
+    "Huang Xin",
+    "Cooper Emily A"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2025",
+  "doi": "10.1371/journal.pcbi.1013573",
+  "mesh": [
+    "Humans",
+    "Models, Neurological",
+    "Visual Cortex",
+    "Animals",
+    "Neurons",
+    "Motion Perception",
+    "Computational Biology",
+    "Computer Simulation",
+    "Photic Stimulation",
+    "Pattern Recognition, Visual"
+  ]
+}

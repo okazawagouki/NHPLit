@@ -1,0 +1,31 @@
+{
+  "pmid": "33125367",
+  "title": "Multiple systems in macaques for tracking prediction errors and other types of surprise.",
+  "abstract": "Animals learn from the past to make predictions. These predictions are adjusted after prediction errors, i.e., after surprising events. Generally, most reward prediction errors models learn the average expected amount of reward. However, here we demonstrate the existence of distinct mechanisms for detecting other types of surprising events. Six macaques learned to respond to visual stimuli to receive varying amounts of juice rewards. Most trials ended with the delivery of either 1 or 3 juice drops so that animals learned to expect 2 juice drops on average even though instances of precisely 2 drops were rare. To encourage learning, we also included sessions during which the ratio between 1 and 3 drops changed. Additionally, in all sessions, the stimulus sometimes appeared in an unexpected location. Thus, 3 types of surprising events could occur: reward amount surprise (i.e., a scalar reward prediction error), rare reward surprise, and visuospatial surprise. Importantly, we can dissociate scalar reward prediction errors-rewards that deviated from the average reward amount expected-and rare reward events-rewards that accorded with the average reward expectation but that rarely occurred. We linked each type of surprise to a distinct pattern of neural activity using functional magnetic resonance imaging. Activity in the vicinity of the dopaminergic midbrain only reflected surprise about the amount of reward. Lateral prefrontal cortex had a more general role in detecting surprising events. Posterior lateral orbitofrontal cortex specifically detected rare reward events regardless of whether they followed average reward amount expectations, but only in learnable reward environments.",
+  "authors": [
+    "Grohn Jan",
+    "Schüffelgen Urs",
+    "Neubert Franz-Xaver",
+    "Bongioanni Alessandro",
+    "Verhagen Lennart",
+    "Sallet Jerome",
+    "Kolling Nils",
+    "Rushworth Matthew F S"
+  ],
+  "journal": "PLoS biology",
+  "year": "2020",
+  "doi": "10.1371/journal.pbio.3000899",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Brain",
+    "Linear Models",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "Reward",
+    "Substantia Nigra",
+    "Task Performance and Analysis",
+    "Ventral Tegmental Area",
+    "Visual Perception"
+  ]
+}

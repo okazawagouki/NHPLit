@@ -1,0 +1,22 @@
+{
+  "pmid": "40067809",
+  "title": "Mixed recurrent connectivity in primate prefrontal cortex.",
+  "abstract": "The functional properties of a network depend on its connectivity, which includes the strength of its inputs and the strength of the connections between its units, or recurrent connectivity. Because we lack a detailed description of the recurrent connectivity in the lateral prefrontal cortex of primates, we developed an indirect method to estimate it. This method leverages the elevated noise correlation of mutually-connected units. To estimate the connectivity of prefrontal regions, we trained recurrent neural network models with varying percentages of bump attractor connectivity and noise levels to match the noise correlation properties observed in two specific prefrontal regions: the dorsolateral prefrontal cortex and the frontal eye field. We found that models initialized with approximately 20% and 7.5% bump attractor connectivity closely matched the noise correlation properties of the frontal eye field and dorsolateral prefrontal cortex, respectively. These findings suggest that the different percentages of bump attractor connectivity may reflect distinct functional roles of these brain regions. Specifically, lower percentages of bump attractor units, associated with higher-dimensional representations, likely support more abstract neural representations in more anterior regions.",
+  "authors": [
+    "Sigalas Evangelos",
+    "Libedinsky Camilo"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2025",
+  "doi": "10.1371/journal.pcbi.1012867",
+  "mesh": [
+    "Animals",
+    "Prefrontal Cortex",
+    "Models, Neurological",
+    "Primates",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Computational Biology",
+    "Macaca mulatta"
+  ]
+}

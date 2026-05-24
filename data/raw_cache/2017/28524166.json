@@ -1,0 +1,43 @@
+{
+  "pmid": "28524166",
+  "title": "Homology-mediated end joining-based targeted integration using CRISPR/Cas9.",
+  "abstract": "Targeted integration of transgenes can be achieved by strategies based on homologous recombination (HR), microhomology-mediated end joining (MMEJ) or non-homologous end joining (NHEJ). The more generally used HR is inefficient for achieving gene integration in animal embryos and tissues, because it occurs only during cell division, although MMEJ and NHEJ can elevate the efficiency in some systems. Here we devise a homology-mediated end joining (HMEJ)-based strategy, using CRISPR/Cas9-mediated cleavage of both transgene donor vector that contains guide RNA target sites and ∼800 bp of homology arms, and the targeted genome. We found no significant improvement of the targeting efficiency by the HMEJ-based method in either mouse embryonic stem cells or the neuroblastoma cell line, N2a, compared to the HR-based method. However, the HMEJ-based method yielded a higher knock-in efficiency in HEK293T cells, primary astrocytes and neurons. More importantly, this approach achieved transgene integration in mouse and monkey embryos, as well as in hepatocytes and neurons in vivo, with an efficiency much greater than HR-, NHEJ- and MMEJ-based strategies. Thus, the HMEJ-based strategy may be useful for a variety of applications, including gene editing to generate animal models and for targeted gene therapies.",
+  "authors": [
+    "Yao Xuan",
+    "Wang Xing",
+    "Hu Xinde",
+    "Liu Zhen",
+    "Liu Junlai",
+    "Zhou Haibo",
+    "Shen Xiaowen",
+    "Wei Yu",
+    "Huang Zijian",
+    "Ying Wenqin",
+    "Wang Yan",
+    "Nie Yan-Hong",
+    "Zhang Chen-Chen",
+    "Li Sanlan",
+    "Cheng Leping",
+    "Wang Qifang",
+    "Wu Yan",
+    "Huang Pengyu",
+    "Sun Qiang",
+    "Shi Linyu",
+    "Yang Hui"
+  ],
+  "journal": "Cell research",
+  "year": "2017",
+  "doi": "10.1038/cr.2017.76",
+  "mesh": [
+    "Animals",
+    "CRISPR-Cas Systems",
+    "DNA End-Joining Repair",
+    "Gene Knock-In Techniques",
+    "Genetic Engineering",
+    "HEK293 Cells",
+    "Hepatocytes",
+    "Humans",
+    "Mice",
+    "RNA, Guide, CRISPR-Cas Systems"
+  ]
+}

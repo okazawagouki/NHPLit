@@ -1,0 +1,27 @@
+{
+  "pmid": "35534008",
+  "title": "Decoding Pixel-Level Image Features From Two-Photon Calcium Signals of Macaque Visual Cortex.",
+  "abstract": "Images of visual scenes comprise essential features important for visual cognition of the brain. The complexity of visual features lies at different levels, from simple artificial patterns to natural images with different scenes. It has been a focus of using stimulus images to predict neural responses. However, it remains unclear how to extract features from neuronal responses. Here we address this question by leveraging two-photon calcium neural data recorded from the visual cortex of awake macaque monkeys. With stimuli including various categories of artificial patterns and diverse scenes of natural images, we employed a deep neural network decoder inspired by image segmentation technique. Consistent with the notation of sparse coding for natural images, a few neurons with stronger responses dominated the decoding performance, whereas decoding of ar tificial patterns needs a large number of neurons. When natural images using the model pretrained on artificial patterns are decoded, salient features of natural scenes can be extracted, as well as the conventional category information. Altogether, our results give a new perspective on studying neural encoding principles using reverse-engineering decoding strategies.",
+  "authors": [
+    "Zhang Yijun",
+    "Bu Tong",
+    "Zhang Jiyuan",
+    "Tang Shiming",
+    "Yu Zhaofei",
+    "Liu Jian K",
+    "Huang Tiejun"
+  ],
+  "journal": "Neural computation",
+  "year": "2022",
+  "doi": "10.1162/neco_a_01498",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Calcium",
+    "Macaca",
+    "Neural Networks, Computer",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

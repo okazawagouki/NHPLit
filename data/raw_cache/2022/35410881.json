@@ -1,0 +1,26 @@
+{
+  "pmid": "35410881",
+  "title": "Robust Coding of Eye Position in Posterior Parietal Cortex despite Context-Dependent Tuning.",
+  "abstract": "Neurons in posterior parietal cortex (PPC) encode many aspects of the sensory world (e.g., scene structure), the posture of the body, and plans for action. For a downstream computation, however, only some of these dimensions are relevant; the rest are \"nuisance variables\" because their influence on neural activity changes with sensory and behavioral context, potentially corrupting the read-out of relevant information. Here we show that a key postural variable for vision (eye position) is represented robustly in male macaque PPC across a range of contexts, although the tuning of single neurons depended strongly on context. Contexts were defined by different stages of a visually guided reaching task, including (1) a visually sparse epoch, (2) a visually rich epoch, (3) a \"go\" epoch in which the reach was cued, and (4) during the reach itself. Eye position was constant within trials but varied across trials in a 3 × 3 grid spanning 24° × 24°. Using demixed principal component analysis of neural spike-counts, we found that the subspace of the population response encoding eye position is orthogonal to that encoding task context. Accordingly, a context-naive (fixed-parameter) decoder was nevertheless able to estimate eye position reliably across contexts. Errors were small given the sample size (∼1.78°) and would likely be even smaller with larger populations. Moreover, they were comparable to that of decoders that were optimized for each context. Our results suggest that population codes in PPC shield encoded signals from crosstalk to support robust sensorimotor transformations across contexts.<b>SIGNIFICANCE STATEMENT</b> Neurons in posterior parietal cortex (PPC) which are sensitive to gaze direction are thought to play a key role in spatial perception and behavior (e.g., reaching, navigation), and provide a potential substrate for brain-controlled prosthetics. Many, however, change their tuning under different sensory and behavioral contexts, raising the prospect that they provide unreliable representations of egocentric space. Here, we analyze the structure of encoding dimensions for gaze direction and context in PPC during different stages of a visually guided reaching task. We use demixed dimensionality reduction and decoding techniques to show that the coding of gaze direction in PPC is mostly invariant to context. This suggests that PPC can provide reliable spatial information across sensory and behavioral contexts.",
+  "authors": [
+    "McFadyen Jamie R",
+    "Heider Barbara",
+    "Karkhanis Anushree N",
+    "Cloherty Shaun L",
+    "Muñoz Fabian",
+    "Siegel Ralph M",
+    "Morris Adam P"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2022",
+  "doi": "10.1523/JNEUROSCI.0674-21.2022",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Male",
+    "Neurons",
+    "Parietal Lobe",
+    "Psychomotor Performance",
+    "Space Perception"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "37044093",
+  "title": "Autonomous optimization of neuroprosthetic stimulation parameters that drive the motor cortex and spinal cord outputs in rats and monkeys.",
+  "abstract": "Neural stimulation can alleviate paralysis and sensory deficits. Novel high-density neural interfaces can enable refined and multipronged neurostimulation interventions. To achieve this, it is essential to develop algorithmic frameworks capable of handling optimization in large parameter spaces. Here, we leveraged an algorithmic class, Gaussian-process (GP)-based Bayesian optimization (BO), to solve this problem. We show that GP-BO efficiently explores the neurostimulation space, outperforming other search strategies after testing only a fraction of the possible combinations. Through a series of real-time multi-dimensional neurostimulation experiments, we demonstrate optimization across diverse biological targets (brain, spinal cord), animal models (rats, non-human primates), in healthy subjects, and in neuroprosthetic intervention after injury, for both immediate and continual learning over multiple sessions. GP-BO can embed and improve \"prior\" expert/clinical knowledge to dramatically enhance its performance. These results advocate for broader establishment of learning agents as structural elements of neuroprosthetic design, enabling personalization and maximization of therapeutic effectiveness.",
+  "authors": [
+    "Bonizzato Marco",
+    "Guay Hottin Rose",
+    "Côté Sandrine L",
+    "Massai Elena",
+    "Choinière Léo",
+    "Macar Uzay",
+    "Laferrière Samuel",
+    "Sirpal Parikshat",
+    "Quessy Stephan",
+    "Lajoie Guillaume",
+    "Martinez Marina",
+    "Dancause Numa"
+  ],
+  "journal": "Cell reports. Medicine",
+  "year": "2023",
+  "doi": "10.1016/j.xcrm.2023.101008",
+  "mesh": [
+    "Rats",
+    "Animals",
+    "Spinal Cord Injuries",
+    "Motor Cortex",
+    "Haplorhini",
+    "Bayes Theorem"
+  ]
+}

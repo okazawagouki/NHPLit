@@ -1,0 +1,31 @@
+{
+  "pmid": "32482855",
+  "title": "Activity-dependent myelination: A glial mechanism of oscillatory self-organization in large-scale brain networks.",
+  "abstract": "Communication and oscillatory synchrony between distributed neural populations are believed to play a key role in multiple cognitive and neural functions. These interactions are mediated by long-range myelinated axonal fiber bundles, collectively termed as white matter. While traditionally considered to be static after development, white matter properties have been shown to change in an activity-dependent way through learning and behavior-a phenomenon known as white matter plasticity. In the central nervous system, this plasticity stems from oligodendroglia, which form myelin sheaths to regulate the conduction of nerve impulses across the brain, hence critically impacting neural communication. We here shift the focus from neural to glial contribution to brain synchronization and examine the impact of adaptive, activity-dependent changes in conduction velocity on the large-scale phase synchronization of neural oscillators. Using a network model based on primate large-scale white matter neuroanatomy, our computational and mathematical results show that such plasticity endows white matter with self-organizing properties, where conduction delay statistics are autonomously adjusted to ensure efficient neural communication. Our analysis shows that this mechanism stabilizes oscillatory neural activity across a wide range of connectivity gain and frequency bands, making phase-locked states more resilient to damage as reflected by diffuse decreases in connectivity. Critically, our work suggests that adaptive myelination may be a mechanism that enables brain networks with a means of temporal self-organization, resilience, and homeostasis.",
+  "authors": [
+    "Noori Rabiya",
+    "Park Daniel",
+    "Griffiths John D",
+    "Bells Sonya",
+    "Frankland Paul W",
+    "Mabbott Donald",
+    "Lefebvre Jeremie"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2020",
+  "doi": "10.1073/pnas.1916646117",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Connectome",
+    "Electroencephalography Phase Synchronization",
+    "Models, Neurological",
+    "Myelin Sheath",
+    "Nerve Net",
+    "Neural Conduction",
+    "Neuroglia",
+    "Neuronal Plasticity",
+    "Primates",
+    "White Matter"
+  ]
+}

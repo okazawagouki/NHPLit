@@ -1,0 +1,24 @@
+{
+  "pmid": "18499800",
+  "title": "Forward estimation of movement state in posterior parietal cortex.",
+  "abstract": "During goal-directed movements, primates are able to rapidly and accurately control an online trajectory despite substantial delay times incurred in the sensorimotor control loop. To address the problem of large delays, it has been proposed that the brain uses an internal forward model of the arm to estimate current and upcoming states of a movement, which are more useful for rapid online control. To study online control mechanisms in the posterior parietal cortex (PPC), we recorded from single neurons while monkeys performed a joystick task. Neurons encoded the static target direction and the dynamic movement angle of the cursor. The dynamic encoding properties of many movement angle neurons reflected a forward estimate of the state of the cursor that is neither directly available from passive sensory feedback nor compatible with outgoing motor commands and is consistent with PPC serving as a forward model for online sensorimotor control. In addition, we found that the space-time tuning functions of these neurons were largely separable in the angle-time plane, suggesting that they mostly encode straight and approximately instantaneous trajectories.",
+  "authors": [
+    "Mulliken Grant H",
+    "Musallam Sam",
+    "Andersen Richard A"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2008",
+  "doi": "10.1073/pnas.0802602105",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Models, Neurological",
+    "Motor Neurons",
+    "Movement",
+    "Neurons, Afferent",
+    "Parietal Lobe",
+    "Psychomotor Performance",
+    "Space-Time Clustering"
+  ]
+}

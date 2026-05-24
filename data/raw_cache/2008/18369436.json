@@ -1,0 +1,24 @@
+{
+  "pmid": "18369436",
+  "title": "Neurobiological models of two-choice decision making can be reduced to a one-dimensional nonlinear diffusion equation.",
+  "abstract": "The response behaviors in many two-alternative choice tasks are well described by so-called sequential sampling models. In these models, the evidence for each one of the two alternatives accumulates over time until it reaches a threshold, at which point a response is made. At the neurophysiological level, single neuron data recorded while monkeys are engaged in two-alternative choice tasks are well described by winner-take-all network models in which the two choices are represented in the firing rates of separate populations of neurons. Here, we show that such nonlinear network models can generally be reduced to a one-dimensional nonlinear diffusion equation, which bears functional resemblance to standard sequential sampling models of behavior. This reduction gives the functional dependence of performance and reaction-times on external inputs in the original system, irrespective of the system details. What is more, the nonlinear diffusion equation can provide excellent fits to behavioral data from two-choice decision making tasks by varying these external inputs. This suggests that changes in behavior under various experimental conditions, e.g. changes in stimulus coherence or response deadline, are driven by internal modulation of afferent inputs to putative decision making circuits in the brain. For certain model systems one can analytically derive the nonlinear diffusion equation, thereby mapping the original system parameters onto the diffusion equation coefficients. Here, we illustrate this with three model systems including coupled rate equations and a network of spiking neurons.",
+  "authors": [
+    "Roxin Alex",
+    "Ledberg Anders"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2008",
+  "doi": "10.1371/journal.pcbi.1000046",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Choice Behavior",
+    "Computer Simulation",
+    "Haplorhini",
+    "Humans",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurobiology",
+    "Neurons"
+  ]
+}

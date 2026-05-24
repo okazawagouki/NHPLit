@@ -1,0 +1,14 @@
+{
+  "pmid": "40027649",
+  "title": "Hybrid Neural Network Models Explain Cortical Neuronal Activity During Volitional Movement.",
+  "abstract": "Massive interconnectivity in large-scale neural networks is the key feature underlying their powerful and complex functionality. We have developed hybrid neural network (HNN) models that allow us to find statistical structure in this connectivity. Describing this structure is critical for understanding biological and artificial neural networks. The HNNs are composed of artificial neurons, a subset of which are trained to reproduce the responses of individual neurons recorded experimentally. The experimentally observed firing rates came from populations of neurons recorded in the motor cortices of monkeys performing a reaching task. After training, these networks (recurrent and spiking) underwent the same state transitions as those observed in the empirical data, a result that helps resolve a long-standing question of prescribed vs ongoing control of volitional movement. Because all aspects of the models are exposed, we were able to analyze the dynamic statistics of the connections between neurons. Our results show that the dynamics of extrinsic input to the network changed this connectivity to cause the state transitions. Two processes at the synaptic level were recognized: one in which many different neurons contributed to a buildup of membrane potential and another in which more specific neurons triggered an action potential. HNNs facilitate modeling of realistic neuron-neuron connectivity and provide foundational descriptions of large-scale network functionality.",
+  "authors": [
+    "Mao Hongwei",
+    "Hasse Brady A",
+    "Schwartz Andrew B"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.02.20.636945",
+  "mesh": []
+}

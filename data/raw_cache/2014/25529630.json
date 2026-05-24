@@ -1,0 +1,28 @@
+{
+  "pmid": "25529630",
+  "title": "A novel analytical brain block tool to enable functional annotation of discriminatory transcript biomarkers among discrete regions of the fronto-limbic circuit in primate brain.",
+  "abstract": "Fronto-limbic circuits in the primate brain are responsible for executive function, learning and memory, and emotions, including fear. Consequently, changes in gene expression in cortical and subcortical brain regions housing these circuits are associated with many important psychiatric and neurological disorders. While high quality gene expression profiles can be identified in brains from model organisms, primate brains have unique features such as Brodmann Area 25, which is absent in rodents, yet profoundly important in primates, including humans. The potential insights to be gained from studying the human brain are complicated by the fact that the post-mortem interval (PMI) is variable, and most repositories keep solid tissue in the deep frozen state. Consequently, sampling the important medial and internal regions of these brains is difficult. Here we describe a novel method for obtaining discrete regions from the fronto-limbic circuits of a 4 year old and a 5 year old, male, intact, frozen non-human primate (NHP) brain, for which the PMI is exactly known. The method also preserves high quality RNA, from which we use transcriptional profiling and a new algorithm to identify region-exclusive RNA signatures for Area 25 (NFκB and dopamine receptor signaling), the anterior cingulate cortex (LXR/RXR signaling), the amygdala (semaphorin signaling), and the hippocampus (Ca(++) and retinoic acid signaling). The RNA signatures not only reflect function of the different regions, but also include highly expressed RNAs for which function is either poorly understood, or which generate proteins presently lacking annotated functions. We suggest that this new approach will provide a useful strategy for identifying changes in fronto-limbic system biology underlying normal development, aging and disease in the human brain.",
+  "authors": [
+    "Dalgard Clifton L",
+    "Jacobowitz David M",
+    "Singh Vijay K",
+    "Saleem Kadharbatcha S",
+    "Ursano Robert J",
+    "Starr Joshua M",
+    "Pollard Harvey B"
+  ],
+  "journal": "Brain research",
+  "year": "2015",
+  "doi": "10.1016/j.brainres.2014.12.031",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biomarkers",
+    "Frontal Lobe",
+    "Gene Expression Profiling",
+    "Limbic Lobe",
+    "Macaca mulatta",
+    "Male",
+    "Sequence Analysis, RNA"
+  ]
+}

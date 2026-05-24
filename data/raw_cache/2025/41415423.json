@@ -1,0 +1,16 @@
+{
+  "pmid": "41415423",
+  "title": "Responses of neurons in macaque V4 to object and texture images.",
+  "abstract": "Humans and monkeys can rapidly recognize objects in everyday scenes. While it is known that this ability relies on neural computations in the ventral stream of visual cortex, it is not well understood where this computation first arises. Previous work suggests selectivity for object shape first emerges in area V4. To explore the mechanisms of this selectivity, we generated a continuum of images between \"scrambled\" textures and photographic images of both natural and man-made environments, using techniques that preserve the local statistics of the original image while discarding information about scene and shape. We measured image responses from single units in area V4 from two awake macaque monkeys. Neuronal populations in V4 could reliably distinguish photographic from scrambled images, could more reliably discriminate between photographic images than between scrambled images, and responded with greater dynamic range to photographic images than scrambled images. Responses to partially scrambled images were more similar to fully scrambled responses than photographic responses, even for perceptually subtle changes. This same pattern emerged when these images were analyzed with an image-computable similarity metric that predicts human judgements of image degradation (DISTS - Deep Image Structure and Texture Similarity). Finally, analysis of response dynamics showed that sensitivity to differences between photographic and scrambled responses grew slowly, peaked 190 ms after response onset, and persisted for hundreds of milliseconds following response offset, suggesting that this signal may arise from recurrent mechanisms.",
+  "authors": [
+    "Lieber Justin D",
+    "Oleskiw Timothy D",
+    "Palmieri Laura",
+    "Simoncelli Eero P",
+    "Movshon J Anthony"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2024.02.20.581273",
+  "mesh": []
+}

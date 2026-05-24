@@ -1,0 +1,27 @@
+{
+  "pmid": "20403782",
+  "title": "Decoding 3-D reach and grasp kinematics from high-frequency local field potentials in primate primary motor cortex.",
+  "abstract": "Intracortical microelectrode array recordings generate a variety of neural signals with potential application as control signals in neural interface systems. Previous studies have focused on single and multiunit activity (MUA), as well as low-frequency local field potentials (LFPs), but have not explored higher frequency (>200 Hz) LFPs. In addition, the potential to decode 3-D reach and grasp kinematics based on LFPs has not been demonstrated. Here, we use mutual information and decoding analyses to probe the information content about 3-D reaching and grasping of seven different LFP frequency bands in the range of 0.3-400 Hz. LFPs were recorded via 96-microelectrode arrays in primary motor cortex (M1) of two monkeys performing free reaching to grasp moving objects. Mutual information analyses revealed that higher frequency bands (e.g., 100-200 and 200-400 Hz) carried the most information about the examined kinematics. Furthermore, Kalman filter decoding revealed that broad-band high frequency LFPs, likely reflecting MUA, provided the best decoding performance as well as substantial accuracy in reconstructing reach kinematics, grasp aperture, and aperture velocity. These results indicate that LFPs, especially high frequency bands, could be useful signals for neural interfaces controlling 3-D reach and grasp kinematics.",
+  "authors": [
+    "Zhuang Jun",
+    "Truccolo Wilson",
+    "Vargas-Irwin Carlos",
+    "Donoghue John P"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2010",
+  "doi": "10.1109/TBME.2010.2047015",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Hand",
+    "Hand Strength",
+    "Macaca",
+    "Male",
+    "Microelectrodes",
+    "Motor Cortex",
+    "Signal Processing, Computer-Assisted",
+    "Synaptic Potentials",
+    "User-Computer Interface"
+  ]
+}

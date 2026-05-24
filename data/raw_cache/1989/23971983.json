@@ -1,0 +1,13 @@
+{
+  "pmid": "23971983",
+  "title": "Microstimulation of a neural-network model for visually guided saccades.",
+  "abstract": "Microstimulation of many saccadic centers in the brain produces eye movements that are not consistent with either a strictly retinal or strictly head-centered coordinate coding of eye movements. Rather, stimulation produces some features of both types of coordinate coding. Recently we demonstrated a neural network model that was trained to localize the position of visual stimuli in head-centered coordinates at the output using inputs of eye and retinal position similar to those converging on area 7a of the posterior parietal cortex of monkeys (Zipser & Andersen 1988; Andersen & Zipser 1988). Here we show that microstimulation of this trained network, achieved by fully activating single units in the middle layer, produces \"saccades\" that are very much like the saccades produced by stimulating the brain. The activity of the middle-layer units can be considered to code the desired location of the eyes in head-centered coordinates; however, stimulation of these units does not produce the saccades predicted by a classical head-centered coordinate coding because the location in space appears to be coded in a distributed fashion among a population of units rather than explicitly at the level of single cells.",
+  "authors": [
+    "Goodman S J",
+    "Andersen R A"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "1989",
+  "doi": "10.1162/jocn.1989.1.4.317",
+  "mesh": []
+}

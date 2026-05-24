@@ -1,0 +1,24 @@
+{
+  "pmid": "29265009",
+  "title": "ERAASR: an algorithm for removing electrical stimulation artifacts from multielectrode array recordings.",
+  "abstract": "OBJECTIVE: Electrical stimulation is a widely used and effective tool in systems neuroscience, neural prosthetics, and clinical neurostimulation. However, electrical artifacts evoked by stimulation prevent the detection of spiking activity on nearby recording electrodes, which obscures the neural population response evoked by stimulation. We sought to develop a method to clean artifact-corrupted electrode signals recorded on multielectrode arrays in order to recover the underlying neural spiking activity. APPROACH: We created an algorithm, which performs estimation and removal of array artifacts via sequential principal components regression (ERAASR). This approach leverages the similar structure of artifact transients, but not spiking activity, across simultaneously recorded channels on the array, across pulses within a train, and across trials. The ERAASR algorithm requires no special hardware, imposes no requirements on the shape of the artifact or the multielectrode array geometry, and comprises sequential application of straightforward linear methods with intuitive parameters. The approach should be readily applicable to most datasets where stimulation does not saturate the recording amplifier. MAIN RESULTS: The effectiveness of the algorithm is demonstrated in macaque dorsal premotor cortex using acute linear multielectrode array recordings and single electrode stimulation. Large electrical artifacts appeared on all channels during stimulation. After application of ERAASR, the cleaned signals were quiescent on channels with no spontaneous spiking activity, whereas spontaneously active channels exhibited evoked spikes which closely resembled spontaneously occurring spiking waveforms. SIGNIFICANCE: We hope that enabling simultaneous electrical stimulation and multielectrode array recording will help elucidate the causal links between neural activity and cognition and facilitate naturalistic sensory protheses.",
+  "authors": [
+    "O'Shea Daniel J",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2018",
+  "doi": "10.1088/1741-2552/aaa365",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artifacts",
+    "Deep Brain Stimulation",
+    "Electrodes, Implanted",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Principal Component Analysis"
+  ]
+}

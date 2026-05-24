@@ -1,0 +1,24 @@
+{
+  "pmid": "14576217",
+  "title": "A role for neural integrators in perceptual decision making.",
+  "abstract": "Decisions based on uncertain information may benefit from an accumulation of information over time. We asked whether such an accumulation process may underlie decisions about the direction of motion in a random dot kinetogram. To address this question we developed a computational model of the decision process using ensembles of neurons whose spiking activity mimics neurons recorded in the extrastriate visual cortex (area MT or V5) and a sensorimotor association area of the parietal lobe (area LIP). The model instantiates the hypothesis that neurons in sensorimotor association areas compute the time integral of sensory signals from the visual cortex, construed as evidence for or against a proposition, and that the decision is made when the integrated evidence reaches a threshold. The model explains a variety of behavioral and physiological measurements obtained from monkeys.",
+  "authors": [
+    "Mazurek Mark E",
+    "Roitman Jamie D",
+    "Ditterich Jochen",
+    "Shadlen Michael N"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Decision Making",
+    "Discrimination, Psychological",
+    "Haplorhini",
+    "Neural Networks, Computer",
+    "Perception",
+    "Visual Cortex"
+  ]
+}

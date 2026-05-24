@@ -1,0 +1,23 @@
+{
+  "pmid": "23922444",
+  "title": "Modeling a space-variant cortical representation for apparent motion.",
+  "abstract": "Receptive field sizes of neurons in early primate visual areas increase with eccentricity, as does temporal processing speed. The fovea is evidently specialized for slow, fine movements while the periphery is suited for fast, coarse movements. In either the fovea or periphery discrete flashes can produce motion percepts. Grossberg and Rudd (1989) used traveling Gaussian activity profiles to model long-range apparent motion percepts. We propose a neural model constrained by physiological data to explain how signals from retinal ganglion cells to V1 affect the perception of motion as a function of eccentricity. Our model incorporates cortical magnification, receptive field overlap and scatter, and spatial and temporal response characteristics of retinal ganglion cells for cortical processing of motion. Consistent with the finding of Baker and Braddick (1985), in our model the maximum flash distance that is perceived as an apparent motion (Dmax) increases linearly as a function of eccentricity. Baker and Braddick (1985) made qualitative predictions about the functional significance of both stimulus and visual system parameters that constrain motion perception, such as an increase in the range of detectable motions as a function of eccentricity and the likely role of higher visual processes in determining Dmax. We generate corresponding quantitative predictions for those functional dependencies for individual aspects of motion processing. Simulation results indicate that the early visual pathway can explain the qualitative linear increase of Dmax data without reliance on extrastriate areas, but that those higher visual areas may serve as a modulatory influence on the exact Dmax increase.",
+  "authors": [
+    "Wurbs Jeremy",
+    "Mingolla Ennio",
+    "Yazdanbakhsh Arash"
+  ],
+  "journal": "Journal of vision",
+  "year": "2013",
+  "doi": "10.1167/13.10.2",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Models, Neurological",
+    "Motion Perception",
+    "Photic Stimulation",
+    "Retinal Ganglion Cells",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

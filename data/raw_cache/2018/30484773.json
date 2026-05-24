@@ -1,0 +1,27 @@
+{
+  "pmid": "30484773",
+  "title": "Neural dynamics at successive stages of the ventral visual stream are consistent with hierarchical error signals.",
+  "abstract": "Ventral visual stream neural responses are dynamic, even for static image presentations. However, dynamical neural models of visual cortex are lacking as most progress has been made modeling static, time-averaged responses. Here, we studied population neural dynamics during face detection across three cortical processing stages. Remarkably,~30 milliseconds after the initially evoked response, we found that neurons in intermediate level areas decreased their responses to typical configurations of their preferred face parts relative to their response for atypical configurations even while neurons in higher areas achieved and maintained a preference for typical configurations. These hierarchical neural dynamics were inconsistent with standard feedforward circuits. Rather, recurrent models computing prediction errors between stages captured the observed temporal signatures. This model of neural dynamics, which simply augments the standard feedforward model of online vision, suggests that neural responses to static images may encode top-down prediction errors in addition to bottom-up feature estimates.",
+  "authors": [
+    "Issa Elias B",
+    "Cadieu Charles F",
+    "DiCarlo James J"
+  ],
+  "journal": "eLife",
+  "year": "2018",
+  "doi": "10.7554/eLife.42870",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Face",
+    "Humans",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

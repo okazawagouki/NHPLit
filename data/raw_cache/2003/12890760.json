@@ -1,0 +1,29 @@
+{
+  "pmid": "12890760",
+  "title": "Temporal resolution of ensemble visual motion signals in primate retina.",
+  "abstract": "Recent studies have examined the temporal precision of spiking in visual system neurons, but less is known about the time scale that is relevant for behaviorally important visual computations. We examined how spatiotemporal patterns of spikes in ensembles of primate retinal ganglion cells convey information about visual motion to the brain. The direction of motion of a bar was estimated by comparing the timing of responses in ensembles of parasol (magnocellular-projecting) retinal ganglion cells recorded simultaneously, using a cross-correlation approach similar to standard models of motion sensing. To identify the temporal resolution of motion signals, spike trains were low-pass filtered before estimating the direction of motion. The filter time constant that resulted in most accurate motion sensing was in the range of 10-50 msec for a range of stimulus speeds and contrasts and approached a lower limit of approximately 10 msec at high speeds and contrasts. This time constant was, on average, comparable to the length of interspike intervals. These findings suggest that cortical neurons could filter their inputs on a time scale of tens of milliseconds, rather than relying on the precise times of individual input spikes, to sense motion most reliably.",
+  "authors": [
+    "Chichilnisky E J",
+    "Kalmar R S"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2003",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "In Vitro Techniques",
+    "Macaca mulatta",
+    "Macaca radiata",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Retina",
+    "Retinal Ganglion Cells",
+    "Signal Processing, Computer-Assisted",
+    "Signal Transduction",
+    "Time Factors",
+    "Vision, Ocular"
+  ]
+}

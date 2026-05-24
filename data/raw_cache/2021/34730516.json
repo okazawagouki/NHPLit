@@ -1,0 +1,25 @@
+{
+  "pmid": "34730516",
+  "title": "Rotational dynamics in motor cortex are consistent with a feedback controller.",
+  "abstract": "Recent studies have identified rotational dynamics in motor cortex (MC), which many assume arise from intrinsic connections in MC. However, behavioral and neurophysiological studies suggest that MC behaves like a feedback controller where continuous sensory feedback and interactions with other brain areas contribute substantially to MC processing. We investigated these apparently conflicting theories by building recurrent neural networks that controlled a model arm and received sensory feedback from the limb. Networks were trained to counteract perturbations to the limb and to reach toward spatial targets. Network activities and sensory feedback signals to the network exhibited rotational structure even when the recurrent connections were removed. Furthermore, neural recordings in monkeys performing similar tasks also exhibited rotational structure not only in MC but also in somatosensory cortex. Our results argue that rotational structure may also reflect dynamics throughout the voluntary motor system involved in online control of motor actions.",
+  "authors": [
+    "Kalidindi Hari Teja",
+    "Cross Kevin P",
+    "Lillicrap Timothy P",
+    "Omrani Mohsen",
+    "Falotico Egidio",
+    "Sabes Philip N",
+    "Scott Stephen H"
+  ],
+  "journal": "eLife",
+  "year": "2021",
+  "doi": "10.7554/eLife.67256",
+  "mesh": [
+    "Animals",
+    "Feedback, Sensory",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Somatosensory Cortex"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "19073795",
+  "title": "A quantitative explanation of responses to disparity-defined edges in macaque V2.",
+  "abstract": "Previous experiments have shown that V2 neurons respond to complex stimuli such as cyclopean edges (edges defined purely by binocular disparity), angles, and motion borders. It is currently unknown whether these responses are a simple consequence of converging inputs from a prior stage of processing (V1). Alternatively, they may identify edges in a way that is invariant across a range of visual cues defining the edge, in which case they could provide a neuronal substrate for scene segmentation. Here, we examine the ability of a simple feedforward model that combines two V1-like inputs to describe the responses of V2 neurons to cyclopean edges. A linear feedforward model was able to qualitatively reproduce the major patterns of response enhancement for cyclopean edges seen in V2. However, quantitative fitting revealed that this model usually predicts response suppression by some edge configurations and such suppression was rarely seen in the data. This problem was resolved by introducing a squaring nonlinearity at the output of the individual inputs prior to combination. The extended model produced extremely good fits to most of our data. We conclude that the responses of V2 neurons to complex stimuli such as cyclopean edges can be adequately explained by a simple convergence model and do not necessarily represent the development of sophisticated mechanisms that signal scene segmentation, although they probably constitute a step toward this goal.",
+  "authors": [
+    "Bredfeldt C E",
+    "Read J C A",
+    "Cumming B G"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2009",
+  "doi": "10.1152/jn.00729.2007",
+  "mesh": [
+    "Animals",
+    "Contrast Sensitivity",
+    "Cues",
+    "Form Perception",
+    "Macaca",
+    "Models, Biological",
+    "Neurons",
+    "Photic Stimulation",
+    "Vision Disparity",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

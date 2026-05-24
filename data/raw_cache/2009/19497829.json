@@ -1,0 +1,35 @@
+{
+  "pmid": "19497829",
+  "title": "HermesC: low-power wireless neural recording system for freely moving primates.",
+  "abstract": "Neural prosthetic systems have the potential to restore lost functionality to amputees or patients suffering from neurological injury or disease. Current systems have primarily been designed for immobile patients, such as tetraplegics functioning in a rather static, carefully tailored environment. However, an active patient such as amputee in a normal dynamic, everyday environment may be quite different in terms of the neural control of movement. In order to study motor control in a more unconstrained natural setting, we seek to develop an animal model of freely moving humans. Therefore, we have developed and tested HermesC-INI3, a system for recording and wirelessly transmitting neural data from electrode arrays implanted in rhesus macaques who are freely moving. This system is based on the integrated neural interface (INI3) microchip which amplifies, digitizes, and transmits neural data across a approximately 900 MHz wireless channel. The wireless transmission has a range of approximately 4 m in free space. All together this device consumes 15.8 mA and 63.2 mW. On a single 2 A-hr battery pack, this device runs contiguously for approximately six days. The smaller size and power consumption of the custom IC allows for a smaller package (51 x 38 x 38 mm (3)) than previous primate systems. The HermesC-INI3 system was used to record and telemeter one channel of broadband neural data at 15.7 kSps from a monkey performing routine daily activities in the home cage.",
+  "authors": [
+    "Chestek Cynthia A",
+    "Gilja Vikash",
+    "Nuyujukian Paul",
+    "Kier Ryan J",
+    "Solzbacher Florian",
+    "Ryu Stephen I",
+    "Harrison Reid R",
+    "Shenoy Krishna V"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2009",
+  "doi": "10.1109/TNSRE.2009.2023293",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Electrocardiography",
+    "Equipment Design",
+    "Equipment Failure Analysis",
+    "Information Storage and Retrieval",
+    "Macaca mulatta",
+    "Monitoring, Ambulatory",
+    "Motor Cortex",
+    "Nerve Net",
+    "Prostheses and Implants",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Signal Processing, Computer-Assisted",
+    "Telemetry"
+  ]
+}

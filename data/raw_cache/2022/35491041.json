@@ -1,0 +1,28 @@
+{
+  "pmid": "35491041",
+  "title": "Simultaneous phenotyping of five Rh red blood cell antigens on a paper-based analytical device combined with deep learning for rapid and accurate interpretation.",
+  "abstract": "Both the ABO and Rhesus (Rh) blood groups play crucial roles in blood transfusion medicine. Herein, we report a simple and low-cost paper-based analytical device (PAD) for phenotyping red blood cell (RBC) antigens. Using this Rh typing format, 5 Rh antigens on RBCs can be simultaneously detected and macroscopically visualized within 12 min. The proposed Rh phenotyping relies on the presence or absence of hemagglutination in the sample zones after immobilizing the antibodies targeting each Rh antigen. The PAD was optimized in terms of filter paper type, antibodies, and distance of the visualization zone. In this study, the optimal conditions were Whatman filter paper Grade 4; anti-D, -C, -E, -c, and -e antibodies; RBC suspension of 30%; and a visualization zone of 1 cm above the sample zone. The accuracy of simultaneously phenotyping the five Rh RBC antigens in the blood samples (n = 4692) was 99.19%, comparable with the accuracy of the gold-standard tube method used by blood bank laboratories in several regions of Thailand. Furthermore, decision making based on this method can be assisted by deep learning. After implementing a two-stage objective detection algorithm (YOLO v4-tiny) and classification model (DenseNet-201), the ambiguous images (n = 48) were interpreted with 100% accuracy. The PAD integrated with customized-region convolutional neural networks can reduce the interpretation discrepancies in RBC antigen phenotyping in any laboratory.",
+  "authors": [
+    "Larpant Nutcha",
+    "Niamsi Wisanu",
+    "Noiphung Julaluk",
+    "Chanakiat Wipada",
+    "Sakuldamrongpanich Tasanee",
+    "Kittichai Veerayuth",
+    "Tongloy Teerawat",
+    "Chuwongin Santhad",
+    "Boonsang Siridech",
+    "Laiwattanapaisal Wanida"
+  ],
+  "journal": "Analytica chimica acta",
+  "year": "2022",
+  "doi": "10.1016/j.aca.2022.339807",
+  "mesh": [
+    "Antibodies",
+    "Antigens",
+    "Blood Group Antigens",
+    "Deep Learning",
+    "Erythrocytes",
+    "Rh-Hr Blood-Group System"
+  ]
+}

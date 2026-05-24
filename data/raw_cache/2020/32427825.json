@@ -1,0 +1,25 @@
+{
+  "pmid": "32427825",
+  "title": "Representation of visual uncertainty through neural gain variability.",
+  "abstract": "Uncertainty is intrinsic to perception. Neural circuits which process sensory information must therefore also represent the reliability of this information. How they do so is a topic of debate. We propose a model of visual cortex in which average neural response strength encodes stimulus features, while cross-neuron variability in response gain encodes the uncertainty of these features. To test this model, we studied spiking activity of neurons in macaque V1 and V2 elicited by repeated presentations of stimuli whose uncertainty was manipulated in distinct ways. We show that gain variability of individual neurons is tuned to stimulus uncertainty, that this tuning is specific to the features encoded by these neurons and largely invariant to the source of uncertainty. We demonstrate that this behavior naturally arises from known gain-control mechanisms, and illustrate how downstream circuits can jointly decode stimulus features and their uncertainty from sensory population activity.",
+  "authors": [
+    "Hénaff Olivier J",
+    "Boundy-Singer Zoe M",
+    "Meding Kristof",
+    "Ziemba Corey M",
+    "Goris Robbe L T"
+  ],
+  "journal": "Nature communications",
+  "year": "2020",
+  "doi": "10.1038/s41467-020-15533-0",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Uncertainty",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

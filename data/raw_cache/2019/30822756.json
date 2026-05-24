@@ -1,0 +1,29 @@
+{
+  "pmid": "30822756",
+  "title": "Reliability of motor and sensory neural decoding by threshold crossings for intracortical brain-machine interface.",
+  "abstract": "OBJECTIVE: For intracortical neurophysiological studies, spike sorting is an important procedure to isolate single units for analyzing specific functions. However, whether spike sorting is necessary or not for neural decoding applications is controversial. Several studies showed that using threshold crossings (TC) instead of spike sorting could also achieve a similar satisfactory performance. However, such studies were limited in similar behavioral tasks, and the neural signal source mainly focused on the motor-related cortical regions. It is not certain if this conclusion is applicable to other situations. Therefore, we compared the performance of TC and spike sorting in neural decoding with more comprehensive paradigms and parameters. APPROACH: Two rhesus macaques implanted with Utah or floating microelectrode arrays (FMAs) in motor or sensory-related cortical regions were trained to perform a motor or a sensory task. Data from each monkey were preprocessed with three different schemes: TC, automatic sorting (AS), and manual sorting (MS). A support vector machine was used as the decoder, and the decoding accuracy was used for evaluating the performance of three preprocessing methods. Different neural signal sources, different decoders, and related parameters and decoding stability were further tested to systematically compare three preprocessing methods. MAIN RESULTS: TC could achieve a similar (-4.5 RMS threshold) or better (-3.0 RMS threshold) decoding performance compared to the other two sorting methods in the motor or sensory tasks even if the neural signal sources or decoder-related parameters were changed. Moreover, TC was much more stable in neural decoding across sessions and robust to changes of threshold. SIGNIFICANCE: Our results indicated that spike-firing patterns could be stably extracted through TC from multiple cortices in both motor and sensory neural decoding applications. Considering the stability of TC, it might be more suitable for neural decoding compared to sorting methods.",
+  "authors": [
+    "Dai Jun",
+    "Zhang Peng",
+    "Sun Hongji",
+    "Qiao Xin",
+    "Zhao Yuwei",
+    "Ma Jinxu",
+    "Li Shaohua",
+    "Zhou Jin",
+    "Wang Changyong"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2019",
+  "doi": "10.1088/1741-2552/ab0bfb",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Photic Stimulation",
+    "Reproducibility of Results",
+    "Sensorimotor Cortex"
+  ]
+}

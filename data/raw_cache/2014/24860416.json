@@ -1,0 +1,17 @@
+{
+  "pmid": "24860416",
+  "title": "Decoding of the spike timing of primary afferents during voluntary arm movements in monkeys.",
+  "abstract": "Understanding the mechanisms of encoding forelimb kinematics in the activity of peripheral afferents is essential for developing a somatosensory neuroprosthesis. To investigate whether the spike timing of dorsal root ganglion (DRG) neurons could be estimated from the forelimb kinematics of behaving monkeys, we implanted two multi-electrode arrays chronically in the DRGs at the level of the cervical segments in two monkeys. Neuronal activity during voluntary reach-to-grasp movements were recorded simultaneously with the trajectories of hand/arm movements, which were tracked in three-dimensional space using a motion capture system. Sixteen and 13 neurons, including muscle spindles, skin receptors, and tendon organ afferents, were recorded in the two monkeys, respectively. We were able to reconstruct forelimb joint kinematics from the temporal firing pattern of a subset of DRG neurons using sparse linear regression (SLiR) analysis, suggesting that DRG neuronal ensembles encoded information about joint kinematics. Furthermore, we estimated the spike timing of the DRG neuronal ensembles from joint kinematics using an integrate-and-fire model (IF) incorporating the SLiR algorithm. The temporal change of firing frequency of a subpopulation of neurons was reconstructed precisely from forelimb kinematics using the SLiR. The estimated firing pattern of the DRG neuronal ensembles encoded forelimb joint angles and velocities as precisely as the originally recorded neuronal activity. These results suggest that a simple model can be used to generate an accurate estimate of the spike timing of DRG neuronal ensembles from forelimb joint kinematics, and is useful for designing a proprioceptive decoder in a brain machine interface.",
+  "authors": [
+    "Umeda Tatsuya",
+    "Watanabe Hidenori",
+    "Sato Masa-Aki",
+    "Kawato Mitsuo",
+    "Isa Tadashi",
+    "Nishimura Yukio"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2014",
+  "doi": "10.3389/fnins.2014.00097",
+  "mesh": []
+}

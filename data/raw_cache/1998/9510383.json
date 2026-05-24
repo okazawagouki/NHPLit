@@ -1,0 +1,23 @@
+{
+  "pmid": "9510383",
+  "title": "A mathematical approach to the connectivity between the cortical visual areas of the macaque monkey.",
+  "abstract": "The visual cortex of the macaque monkey is divided into many distinct visual information processing areas. In many cases, anatomical and physiological results allow one to determine the presence or the absence of neuronal connections from one area to another. We have approached the topology of this neuronal network within the mathematical framework of graph theory. At first, we studied the unknown part of the network, i.e. the part where anatomical and physiological results are lacking. Relying on a specific topological property of the network established on the known part, we developed an interpolation algorithm for reducing the level of uncertainty concerning the unknown part. From these results, we then constructed a connectional model of the neuronal network for the entire cortical visual system. Subsequently, a topological analysis of this model, with the help of factorial analysis and clustering technics, shows its structural properties and singular vertices. This analysis suggests the existence of two distinct classes of areas, one in the parietal part of the cortex and the other in the temporal part, which are connected to each other via relay areas, especially involving the frontal eye field. These results may help to understand the functional role of particular cortical areas in vision and, more generally, to explore how visual information flows within the visual cortex.",
+  "authors": [
+    "Jouve B",
+    "Rosenstiehl P",
+    "Imbert M"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cluster Analysis",
+    "Macaca mulatta",
+    "Models, Anatomic",
+    "Models, Theoretical",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

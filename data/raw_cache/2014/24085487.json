@@ -1,0 +1,25 @@
+{
+  "pmid": "24085487",
+  "title": "Information processing in the mirror neuron system in primates and machines.",
+  "abstract": "The mirror neuron system in primates matches observations of actions with the motor representations used for their execution, and is a topic of intense research and debate in biological and computational disciplines. In robotics, models of this system have been used for enabling robots to imitate and learn how to perform tasks from human demonstrations. Yet, existing computational and robotic models of these systems are found in multiple levels of description, and although some models offer plausible explanations and testable predictions, the difference in the granularity of the experimental setups, methodologies, computational structures and selected modeled data make principled meta-analyses, common in other fields, difficult. In this paper, we adopt an interdisciplinary approach, using the BODB integrated environment in order to bring together several different but complementary computational models, by functionally decomposing them into brain operating principles (BOPs) which each capture a limited subset of the model's functionality. We then explore links from these BOPs to neuroimaging and neurophysiological data in order to pinpoint complementary and conflicting explanations and compare predictions against selected sets of neurobiological data. The results of this comparison are used to interpret mirror system neuroimaging results in terms of neural network activity, evaluate the biological plausibility of mirror system models, and suggest new experiments that can shed light on the neural basis of mirror systems.",
+  "authors": [
+    "Demiris Yiannis",
+    "Aziz-Zadeh Lisa",
+    "Bonaiuto James"
+  ],
+  "journal": "Neuroinformatics",
+  "year": "2014",
+  "doi": "10.1007/s12021-013-9200-7",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Databases, Factual",
+    "Hand Strength",
+    "Humans",
+    "Macaca",
+    "Mirror Neurons",
+    "Models, Neurological",
+    "Primates",
+    "Robotics"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "23468391",
+  "title": "A Bayesian approach for characterizing direction tuning curves in the supplementary motor area of behaving monkeys.",
+  "abstract": "Neural responses are commonly studied in terms of \"tuning curves,\" characterizing changes in neuronal response as a function of a continuous stimulus parameter. In the motor system, neural responses to movement direction often follow a bell-shaped tuning curve for which the exact shape determines the properties of neuronal movement coding. Estimating the shape of that tuning curve robustly is hard, especially when directions are sampled unevenly and at a coarse resolution. Here, we describe a Bayesian estimation procedure that improves the accuracy of curve-shape estimation even when the curve is sampled unevenly and at a very coarse resolution. Using this approach, we characterize the movement direction tuning curves in the supplementary motor area (SMA) of behaving monkeys. We compare the SMA tuning curves to tuning curves of neurons from the primary motor cortex (M1) of the same monkeys, showing that the tuning curves of the SMA neurons tend to be narrower and shallower. We also show that these characteristics do not depend on the specific location in each region.",
+  "authors": [
+    "Taubman Hadas",
+    "Vaadia Eilon",
+    "Paz Rony",
+    "Chechik Gal"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2013",
+  "doi": "10.1152/jn.00449.2012",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Bayes Theorem",
+    "Female",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Neurons"
+  ]
+}

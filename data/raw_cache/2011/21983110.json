@@ -1,0 +1,25 @@
+{
+  "pmid": "21983110",
+  "title": "Bayesian nonparametric analysis of neuronal intensity rates.",
+  "abstract": "We propose a flexible hierarchical Bayesian nonparametric modeling approach to compare the spiking patterns of neurons recorded under multiple experimental conditions. In particular, we showcase the application of our statistical methodology using neurons recorded from the supplementary eye field region of the brains of two macaque monkeys trained to make delayed eye movements to three different types of targets. The proposed Bayesian methodology can be used to perform either a global analysis, allowing for the construction of posterior comparative intervals over the entire experimental time window, or a pointwise analysis for comparing the spiking patterns locally, in a predetermined portion of the experimental time window. By developing our nonparametric Bayesian model we are able to analyze neuronal data from three or more conditions while avoiding the computational expenses typically associated with more traditional analysis of physiological data.",
+  "authors": [
+    "Kottas Athanasios",
+    "Behseta Sam",
+    "Moorman David E",
+    "Poynor Valerie",
+    "Olson Carl R"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2012",
+  "doi": "10.1016/j.jneumeth.2011.09.017",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Brain",
+    "Macaca",
+    "Models, Neurological",
+    "Models, Theoretical",
+    "Neurons",
+    "Statistics, Nonparametric"
+  ]
+}

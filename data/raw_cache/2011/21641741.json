@@ -1,0 +1,25 @@
+{
+  "pmid": "21641741",
+  "title": "Investigating static nonlinearities in neurovascular coupling.",
+  "abstract": "Many statistical models of coupling between time changes of the band-limited power of neural signals and functional magnetic resonance imaging Blood Oxygenation Level Dependent (BOLD) signal time changes rely on linear convolution. The effect of nonlinear behaviors in single-trial relationships between neural signals and BOLD responses is rarely tested and included in models. Here we investigate whether using a static nonlinearity improves the prediction of single-trial BOLD responses from neural signals. A static nonlinearity is a nonlinear transformation of the convolution of neural responses which is implemented by the same nonlinear function for all time points. We evaluated this approach by applying it to simultaneous recordings of functional magnetic resonance imaging BOLD and band-limited neural signals (Local Field Potentials and Multi Unit Activity) from primary visual cortex of anaesthetized macaques. We found that using a simple polynomial static nonlinearity was sufficient to obtain highly significant improvements of the accuracy of single-trial BOLD prediction over the accuracy obtained with linear convolution. This suggests that static nonlinearities may be a useful tool for a compact and accurate statistical description of neurovascular coupling.",
+  "authors": [
+    "Magri Cesare",
+    "Logothetis Nikos K",
+    "Panzeri Stefano"
+  ],
+  "journal": "Magnetic resonance imaging",
+  "year": "2011",
+  "doi": "10.1016/j.mri.2011.04.017",
+  "mesh": [
+    "Animals",
+    "Cerebrovascular Circulation",
+    "Computer Simulation",
+    "Evoked Potentials, Visual",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Nonlinear Dynamics",
+    "Oxygen",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

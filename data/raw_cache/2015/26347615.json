@@ -1,0 +1,23 @@
+{
+  "pmid": "26347615",
+  "title": "The effect of synaptic plasticity on orientation selectivity in a balanced model of primary visual cortex.",
+  "abstract": "Orientation selectivity is ubiquitous in the primary visual cortex (V1) of mammals. In cats and monkeys, V1 displays spatially ordered maps of orientation preference. Instead, in mice, squirrels, and rats, orientation selective neurons in V1 are not spatially organized, giving rise to a seemingly random pattern usually referred to as a salt-and-pepper layout. The fact that such different organizations can sharpen orientation tuning leads to question the structural role of the intracortical connections; specifically the influence of plasticity and the generation of functional connectivity. In this work, we analyze the effect of plasticity processes on orientation selectivity for both scenarios. We study a computational model of layer 2/3 and a reduced one-dimensional model of orientation selective neurons, both in the balanced state. We analyze two plasticity mechanisms. The first one involves spike-timing dependent plasticity (STDP), while the second one considers the reconnection of the interactions according to the preferred orientations of the neurons. We find that under certain conditions STDP can indeed improve selectivity but it works in a somehow unexpected way, that is, effectively decreasing the modulated part of the intracortical connectivity as compared to the non-modulated part of it. For the reconnection mechanism we find that increasing functional connectivity leads, in fact, to a decrease in orientation selectivity if the network is in a stable balanced state. Both counterintuitive results are a consequence of the dynamics of the balanced state. We also find that selectivity can increase due to a reconnection process if the resulting connections give rise to an unstable balanced state. We compare these findings with recent experimental results.",
+  "authors": [
+    "Gonzalo Cogno Soledad",
+    "Mato Germán"
+  ],
+  "journal": "Frontiers in neural circuits",
+  "year": "2015",
+  "doi": "10.3389/fncir.2015.00042",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Orientation",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

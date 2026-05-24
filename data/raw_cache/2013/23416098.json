@@ -1,0 +1,22 @@
+{
+  "pmid": "23416098",
+  "title": "Volitional control of neural activity relies on the natural motor repertoire.",
+  "abstract": "BACKGROUND: The results from recent brain-machine interface (BMI) studies suggest that it may be more efficient to use simple arbitrary relationships between individual neuron activity and BMI movements than the complex relationship observed between neuron activity and natural movements. This idea is based on the assumption that individual neurons can be conditioned independently regardless of their natural movement association. RESULTS: We tested this assumption in the parietal reach region (PRR), an important candidate area for BMIs in which neurons encode the target location for reaching movements. Monkeys could learn to elicit arbitrarily assigned activity patterns, but the seemingly arbitrary patterns always belonged to the response set for natural reaching movements. Moreover, neurons that are free from conditioning showed correlated responses with the conditioned neurons as if they encoded common reach targets. Thus, learning was accomplished by finding reach targets (intrinsic variable of PRR neurons) for which the natural response of reach planning could approximate the arbitrary patterns. CONCLUSIONS: Our results suggest that animals learn to volitionally control single-neuron activity in PRR by preferentially exploring and exploiting their natural movement repertoire. Thus, for optimal performance, BMIs utilizing neural signals in PRR should harness, not disregard, the activity patterns in the natural sensorimotor repertoire.",
+  "authors": [
+    "Hwang Eun Jung",
+    "Bailey Paul M",
+    "Andersen Richard A"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2013",
+  "doi": "10.1016/j.cub.2013.01.027",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Learning",
+    "Macaca",
+    "Neurons",
+    "Parietal Lobe",
+    "Volition"
+  ]
+}

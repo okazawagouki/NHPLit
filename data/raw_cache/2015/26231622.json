@@ -1,0 +1,28 @@
+{
+  "pmid": "26231622",
+  "title": "Phase-clustering bias in phase-amplitude cross-frequency coupling and its removal.",
+  "abstract": "BACKGROUND: Cross-frequency coupling methods allow for the identification of non-linear interactions across frequency bands, which are thought to reflect a fundamental principle of how electrophysiological brain activity is temporally orchestrated. In this paper we uncover a heretofore unknown source of bias in a commonly used method that quantifies cross-frequency coupling (phase-amplitude-coupling, or PAC). NEW METHOD: We demonstrate that non-uniform phase angle distributions--a phenomenon that can readily occur in real data--can under some circumstances produce statistical errors and uninterpretable results when using PAC. We propose a novel debiasing procedure that, through a simple linear subtraction, effectively ameliorates this phase clustering bias. RESULTS: Simulations showed that debiased PAC (dPAC) accurately detected the presence of coupling. This was true even in the presence of moderate noise levels, which inflated the phase clustering bias. Finally, dPAC was applied to intracranial sleep recordings from a macaque monkey, and to hippocampal LFP data from a freely moving rat, revealing robust cross-frequency coupling in both data sets. COMPARISON WITH EXISTING METHODS: Compared to dPAC, regular PAC showed inflated or deflated estimations and statistically negative coupling values, depending on the strength of the bias and the angle of coupling. Noise increased these unwanted effects. Two other frequently used phase-amplitude coupling methods (the Modulation Index and Phase Locking Value) were also affected by the bias, though allowed for statistical inferences that were similar to dPAC. CONCLUSION: We conclude that dPAC provides a simple modification of PAC, and thereby offers a cleaner and possibly more sensitive alternative method, to more accurately assess phase-amplitude coupling.",
+  "authors": [
+    "van Driel Joram",
+    "Cox Roy",
+    "Cohen Michael X"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2015",
+  "doi": "10.1016/j.jneumeth.2015.07.014",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Cluster Analysis",
+    "Computer Simulation",
+    "Electrocorticography",
+    "Electrophysiology",
+    "Macaca",
+    "Models, Neurological",
+    "Nonlinear Dynamics",
+    "Rats, Long-Evans",
+    "Signal Processing, Computer-Assisted",
+    "Sleep",
+    "Theta Rhythm"
+  ]
+}

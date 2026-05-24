@@ -1,0 +1,39 @@
+{
+  "pmid": "40403706",
+  "title": "Machine learning identification of enhancers in the rhesus macaque genome.",
+  "abstract": "Nonhuman primate (NHP) neuroanatomy and cognitive complexity make NHPs ideal models to study human neurobiology and disease. However, NHP circuit-function investigations are limited by the availability of molecular reagents that are effective in NHPs. This calls for reagent development approaches that prioritize NHPs. Therefore, we derived enhancers from the NHP genome. We defined cell-type-specific open chromatin regions (OCRs) in single-cell data from rhesus macaques. We trained machine-learning models to rank those OCRs according to their potential as cell-type-specific enhancers for cells in the dorsolateral prefrontal cortex (DLPFC). We packaged the top-ranked layer-3-pyramidal-neuron enhancer into AAV and injected it into the macaque DLPFC. Expression was mostly restricted to layers 2 and 3 and confirmed with light-driven activation of channelrhodopsin. These results provide a crucial tool for studying the causal functions of DLPFC and provide a roadmap for optimized gene delivery in primates.",
+  "authors": [
+    "He Jing",
+    "Phan BaDoi N",
+    "Kerkhoff Willa G",
+    "Alikaya Aydin",
+    "Hong Tao",
+    "Brull Olivia R",
+    "Fredericks J Megan",
+    "Sedorovitz Morgan",
+    "Srinivasan Chaitanya",
+    "Leone Michael J",
+    "Wirfel Olivia M",
+    "Brown Ashley",
+    "Dauby Samuel",
+    "Tittle Rachel K",
+    "Lin Meng K",
+    "Hooks Bryan M",
+    "Bostan Andreea C",
+    "Gharbawie Omar A",
+    "Byrne Leah C",
+    "Pfenning Andreas R",
+    "Stauffer William R"
+  ],
+  "journal": "Neuron",
+  "year": "2025",
+  "doi": "10.1016/j.neuron.2025.04.030",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Machine Learning",
+    "Genome",
+    "Enhancer Elements, Genetic",
+    "Dorsolateral Prefrontal Cortex"
+  ]
+}

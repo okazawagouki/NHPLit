@@ -1,0 +1,30 @@
+{
+  "pmid": "33780449",
+  "title": "Tuned inhibition in perceptual decision-making circuits can explain seemingly suboptimal confidence behavior.",
+  "abstract": "Current dominant views hold that perceptual confidence reflects the probability that a decision is correct. Although these views have enjoyed some empirical support, recent behavioral results indicate that confidence and the probability of being correct can be dissociated. An alternative hypothesis suggests that confidence instead reflects the magnitude of evidence in favor of a decision while being relatively insensitive to the evidence opposing the decision. We considered how this alternative hypothesis might be biologically instantiated by developing a simple neural network model incorporating a known property of sensory neurons: tuned inhibition. The key idea of the model is that the level of inhibition that each accumulator unit receives from units with the opposite tuning preference, i.e. its inhibition 'tuning', dictates its contribution to perceptual decisions versus confidence judgments, such that units with higher tuned inhibition (computing relative evidence for different perceptual interpretations) determine perceptual discrimination decisions, and units with lower tuned inhibition (computing absolute evidence) determine confidence. We demonstrate that this biologically plausible model can account for several counterintuitive findings reported in the literature where confidence and decision accuracy dissociate. By comparing model fits, we further demonstrate that a full complement of behavioral data across several previously published experimental results-including accuracy, reaction time, mean confidence, and metacognitive sensitivity-is best accounted for when confidence is computed from units without, rather than units with, tuned inhibition. Finally, we discuss predictions of our results and model for future neurobiological studies. These findings suggest that the brain has developed and implements this alternative, heuristic theory of perceptual confidence computation by relying on the diversity of neural resources available.",
+  "authors": [
+    "Maniscalco Brian",
+    "Odegaard Brian",
+    "Grimaldi Piercesare",
+    "Cho Seong Hah",
+    "Basso Michele A",
+    "Lau Hakwan",
+    "Peters Megan A K"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2021",
+  "doi": "10.1371/journal.pcbi.1008779",
+  "mesh": [
+    "Animals",
+    "Computational Biology",
+    "Decision Making",
+    "Inhibition, Psychological",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Perception",
+    "Reaction Time",
+    "Superior Colliculi"
+  ]
+}

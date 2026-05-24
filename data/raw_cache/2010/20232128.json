@@ -1,0 +1,30 @@
+{
+  "pmid": "20232128",
+  "title": "Sensory information in local field potentials and spikes from visual and auditory cortices: time scales and frequency bands.",
+  "abstract": "Studies analyzing sensory cortical processing or trying to decode brain activity often rely on a combination of different electrophysiological signals, such as local field potentials (LFPs) and spiking activity. Understanding the relation between these signals and sensory stimuli and between different components of these signals is hence of great interest. We here provide an analysis of LFPs and spiking activity recorded from visual and auditory cortex during stimulation with natural stimuli. In particular, we focus on the time scales on which different components of these signals are informative about the stimulus, and on the dependencies between different components of these signals. Addressing the first question, we find that stimulus information in low frequency bands (<12 Hz) is high, regardless of whether their energy is computed at the scale of milliseconds or seconds. Stimulus information in higher bands (>50 Hz), in contrast, is scale dependent, and is larger when the energy is averaged over several hundreds of milliseconds. Indeed, combined analysis of signal reliability and information revealed that the energy of slow LFP fluctuations is well related to the stimulus even when considering individual or few cycles, while the energy of fast LFP oscillations carries information only when averaged over many cycles. Addressing the second question, we find that stimulus information in different LFP bands, and in different LFP bands and spiking activity, is largely independent regardless of time scale or sensory system. Taken together, these findings suggest that different LFP bands represent dynamic natural stimuli on distinct time scales and together provide a potentially rich source of information for sensory processing or decoding brain activity.",
+  "authors": [
+    "Belitski Andrei",
+    "Panzeri Stefano",
+    "Magri Cesare",
+    "Logothetis Nikos K",
+    "Kayser Christoph"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2010",
+  "doi": "10.1007/s10827-010-0230-y",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Algorithms",
+    "Animals",
+    "Auditory Cortex",
+    "Data Interpretation, Statistical",
+    "Electroencephalography",
+    "Evoked Potentials, Auditory",
+    "Evoked Potentials, Visual",
+    "Macaca mulatta",
+    "Photic Stimulation",
+    "Reproducibility of Results",
+    "Signal Processing, Computer-Assisted",
+    "Visual Cortex"
+  ]
+}

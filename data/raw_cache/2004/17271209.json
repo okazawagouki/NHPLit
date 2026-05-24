@@ -1,0 +1,15 @@
+{
+  "pmid": "17271209",
+  "title": "Closed-loop neural control of cursor motion using a Kalman filter.",
+  "abstract": "Recently, we proposed a Kalman filter method to model the probabilistic relationship between neural firing in motor cortex and hand kinematics. In this paper, we demonstrate on-line, closed-loop, neural control of cursor motion using the Kalman filter. In this task a monkey moves a cursor on a computer monitor using either a manipulandum or their neural activity recorded with a chronically implanted micro-electrode array. A number of advantages of the Kalman filter were explored during the on-line tasks and we found that the Kalman filter had superior performance to previously reported linear regression methods. While the results suggest the applicability of the Kalman filter for neural prosthesis applications, we observed the decoded cursor position was noisier under brain control as compared with manual control using the manipulandum. To smooth the cursor motion without decreasing accuracy we propose a method that smoothes the neural firing rates. This smoothing method is described and its validity is quantitatively evaluated with recorded data.",
+  "authors": [
+    "Wu W",
+    "Shaikhouni A",
+    "Donoghue J P",
+    "Black M J"
+  ],
+  "journal": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+  "year": "2004",
+  "doi": "",
+  "mesh": []
+}

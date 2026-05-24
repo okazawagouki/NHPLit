@@ -1,0 +1,22 @@
+{
+  "pmid": "32232094",
+  "title": "Design and testing of a 96-channel neural interface module for the Networked Neuroprosthesis system.",
+  "abstract": "BACKGROUND: The loss of motor functions resulting from spinal cord injury can have devastating implications on the quality of one's life. Functional electrical stimulation has been used to help restore mobility, however, current functional electrical stimulation (FES) systems require residual movements to control stimulation patterns, which may be unintuitive and not useful for individuals with higher level cervical injuries. Brain machine interfaces (BMI) offer a promising approach for controlling such systems; however, they currently still require transcutaneous leads connecting indwelling electrodes to external recording devices. While several wireless BMI systems have been designed, high signal bandwidth requirements limit clinical translation. Case Western Reserve University has developed an implantable, modular FES system, the Networked Neuroprosthesis (NNP), to perform combinations of myoelectric recording and neural stimulation for controlling motor functions. However, currently the existing module capabilities are not sufficient for intracortical recordings. METHODS: Here we designed and tested a 1 × 4 cm, 96-channel neural recording module prototype to fit within the specifications to mate with the NNP. The neural recording module extracts power between 0.3-1 kHz, instead of transmitting the raw, high bandwidth neural data to decrease power requirements. RESULTS: The module consumed 33.6 mW while sampling 96 channels at approximately 2 kSps. We also investigated the relationship between average spiking band power and neural spike rate, which produced a maximum correlation of R = 0.8656 (Monkey N) and R = 0.8023 (Monkey W). CONCLUSION: Our experimental results show that we can record and transmit 96 channels at 2ksps within the power restrictions of the NNP system and successfully communicate over the NNP network. We believe this device can be used as an extension to the NNP to produce a clinically viable, fully implantable, intracortically-controlled FES system and advance the field of bioelectronic medicine.",
+  "authors": [
+    "Bullard Autumn J",
+    "Nason Samuel R",
+    "Irwin Zachary T",
+    "Nu Chrono S",
+    "Smith Brian",
+    "Campean Alex",
+    "Peckham P Hunter",
+    "Kilgore Kevin L",
+    "Willsey Matthew S",
+    "Patil Parag G",
+    "Chestek Cynthia A"
+  ],
+  "journal": "Bioelectronic medicine",
+  "year": "2019",
+  "doi": "10.1186/s42234-019-0019-x",
+  "mesh": []
+}

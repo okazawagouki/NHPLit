@@ -1,0 +1,25 @@
+{
+  "pmid": "41581702",
+  "title": "OpenIrisDPI: An open-source digital dual Purkinje image eye tracker for visual neuroscience.",
+  "abstract": "BACKGROUND: Video-based eye trackers are widely used in vision science, psychology, clinical assessment, and neurophysiology. Many such systems track the pupil center and corneal reflection (P-CR) and compare their positions to estimate the direction of gaze. However, P-CR eye trackers are often too imprecise for applications with stringent eye tracking quality requirements. NEW METHOD: We present OpenIrisDPI, an open-source plugin for the OpenIris framework that implements dual Purkinje image (DPI) tracking. OpenIrisDPI supports simultaneous pupillography, a technique widely used in perceptual psychology and neuroscience, and it enables direct comparison between P-CR and DPI signals. RESULTS: Data collected from macaque monkeys using OpenIrisDPI show that the P-CR method overestimates the amount of fixational drift between saccades compared to DPI. The accuracy of the DPI signal was further validated using high-density extracellular recording of neurons in the lateral geniculate nucleus. Compensating for the effects of fixational eye movements using DPI signals produced sharper estimates of neuronal receptive fields than using simultaneously collected P-CR signals. COMPARISON WITH EXISTING METHODS: OpenIrisDPI is provided as open-source software and operates on consumer-grade hardware, making it more accessible than previously described DPI eye trackers and less costly than many P-CR systems. To our knowledge, OpenIrisDPI is the first eye tracker to perform both pupillography and DPI eye tracking. CONCLUSION: OpenIrisDPI makes high-precision eye tracking readily available to the research community. It is well suited for visual neuroscience applications, where accurate knowledge of the retinal image during experiments is critical.",
+  "authors": [
+    "Ressmeyer Ryan A",
+    "Otero-Millan Jorge",
+    "Horwitz Gregory D",
+    "Yates Jacob L"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2026",
+  "doi": "10.1016/j.jneumeth.2026.110693",
+  "mesh": [
+    "Animals",
+    "Eye-Tracking Technology",
+    "Neurosciences",
+    "Pupil",
+    "Macaca mulatta",
+    "Eye Movements",
+    "Fixation, Ocular",
+    "Software",
+    "Male"
+  ]
+}

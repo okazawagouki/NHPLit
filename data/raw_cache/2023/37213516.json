@@ -1,0 +1,24 @@
+{
+  "pmid": "37213516",
+  "title": "Genomic representation predicts an asymptotic host adaptation of bat coronaviruses using deep learning.",
+  "abstract": "INTRODUCTION: Coronaviruses (CoVs) are naturally found in bats and can occasionally cause infection and transmission in humans and other mammals. Our study aimed to build a deep learning (DL) method to predict the adaptation of bat CoVs to other mammals. METHODS: The CoV genome was represented with a method of dinucleotide composition representation (DCR) for the two main viral genes, <i>ORF1ab</i> and <i>Spike</i>. DCR features were first analyzed for their distribution among adaptive hosts and then trained with a DL classifier of convolutional neural networks (CNN) to predict the adaptation of bat CoVs. RESULTS AND DISCUSSION: The results demonstrated inter-host separation and intra-host clustering of DCR-represented CoVs for six host types: Artiodactyla, Carnivora, Chiroptera, Primates, Rodentia/Lagomorpha, and Suiformes. The DCR-based CNN with five host labels (without Chiroptera) predicted a dominant adaptation of bat CoVs to Artiodactyla hosts, then to Carnivora and Rodentia/Lagomorpha mammals, and later to primates. Moreover, a linear asymptotic adaptation of all CoVs (except Suiformes) from Artiodactyla to Carnivora and Rodentia/Lagomorpha and then to Primates indicates an asymptotic bats-other mammals-human adaptation. CONCLUSION: Genomic dinucleotides represented as DCR indicate a host-specific separation, and clustering predicts a linear asymptotic adaptation shift of bat CoVs from other mammals to humans via deep learning.",
+  "authors": [
+    "Li Jing",
+    "Tian Fengjuan",
+    "Zhang Sen",
+    "Liu Shun-Shuai",
+    "Kang Xiao-Ping",
+    "Li Ya-Dan",
+    "Wei Jun-Qing",
+    "Lin Wei",
+    "Lei Zhongyi",
+    "Feng Ye",
+    "Jiang Jia-Fu",
+    "Jiang Tao",
+    "Tong Yigang"
+  ],
+  "journal": "Frontiers in microbiology",
+  "year": "2023",
+  "doi": "10.3389/fmicb.2023.1157608",
+  "mesh": []
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "25774541",
+  "title": "A computationally efficient method for incorporating spike waveform information into decoding algorithms.",
+  "abstract": "Spike-based brain-computer interfaces (BCIs) have the potential to restore motor ability to people with paralysis and amputation, and have shown impressive performance in the lab. To transition BCI devices from the lab to the clinic, decoding must proceed automatically and in real time, which prohibits the use of algorithms that are computationally intensive or require manual tweaking. A common choice is to avoid spike sorting and treat the signal on each electrode as if it came from a single neuron, which is fast, easy, and therefore desirable for clinical use. But this approach ignores the kinematic information provided by individual neurons recorded on the same electrode. The contribution of this letter is a linear decoding model that extracts kinematic information from individual neurons without spike-sorting the electrode signals. The method relies on modeling sample averages of waveform features as functions of kinematics, which is automatic and requires minimal data storage and computation. In offline reconstruction of arm trajectories of a nonhuman primate performing reaching tasks, the proposed method performs as well as decoders based on expertly manually and automatically sorted spikes.",
+  "authors": [
+    "Ventura Valérie",
+    "Todorova Sonia"
+  ],
+  "journal": "Neural computation",
+  "year": "2015",
+  "doi": "10.1162/NECO_a_00731",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Data Interpretation, Statistical",
+    "Evoked Potentials, Motor",
+    "Humans",
+    "Linear Models",
+    "Models, Neurological",
+    "Movement",
+    "Neurons",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

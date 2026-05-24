@@ -1,0 +1,34 @@
+{
+  "pmid": "18753326",
+  "title": "The relative influences of priors and sensory evidence on an oculomotor decision variable during perceptual learning.",
+  "abstract": "Choice behavior on simple sensory-motor tasks can exhibit trial-to-trial dependencies. For perceptual tasks, these dependencies reflect the influence of prior trials on choices that are also guided by sensory evidence, which is often independent across trials. Here we show that the relative influences of prior trials and sensory evidence on choice behavior can be shaped by training, such that prior influences are strongest when perceptual sensitivity to the relevant sensory evidence is weakest and then decline steadily as sensitivity improves. We trained monkeys to decide the direction of random-dot motion and indicate their decision with an eye movement. We characterized sequential dependencies by relating current choices to weighted averages of prior choices. We then modeled behavior as a drift-diffusion process, in which the weighted average of prior choices provided an additive offset to a decision variable that integrated incoming motion evidence to govern choice. The average magnitude of offset within individual training sessions declined steadily as the quality of the integrated motion evidence increased over many months of training. The trial-by-trial magnitude of offset was correlated with signals related to developing commands that generate the oculomotor response but not with neural activity in either the middle temporal area, which represents information about the motion stimulus, or the lateral intraparietal area, which represents the sensory-motor conversion. The results suggest that training can shape the relative contributions of expectations based on prior trends and incoming sensory evidence to select and prepare visually guided actions.",
+  "authors": [
+    "Gold Joshua I",
+    "Law Chi-Tat",
+    "Connolly Patrick",
+    "Bennur Sharath"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2008",
+  "doi": "10.1152/jn.90629.2008",
+  "mesh": [
+    "Animals",
+    "Association Learning",
+    "Behavior, Animal",
+    "Decision Making",
+    "Discrimination, Psychological",
+    "Electric Stimulation",
+    "Evoked Potentials, Visual",
+    "Eye Movements",
+    "Female",
+    "Frontal Lobe",
+    "Macaca mulatta",
+    "Male",
+    "Models, Statistical",
+    "Motion Perception",
+    "Photic Stimulation",
+    "Psychometrics",
+    "Reaction Time",
+    "Visual Fields"
+  ]
+}

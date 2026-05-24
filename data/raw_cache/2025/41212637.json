@@ -1,0 +1,20 @@
+{
+  "pmid": "41212637",
+  "title": "<i>LatenZy</i>: nonparametric, binning-free estimation of latencies from neural spiking data.",
+  "abstract": "Many studies require a reliable estimation of when neural activity is modulated by sensory, cognitive, or behavioral events. Standard methods often rely on arbitrary parameter choices such as bin widths or response thresholds, limiting reproducibility and comparability. Here, we introduce two nonparametric, binning-free methods: <i>latenZy</i>, which estimates response onset latency, and <i>latenZy2</i>, which detects when spiking activity diverges between experimental conditions. Both methods analyze spike times directly using cumulative statistics and iterative refinement, without assuming any specific response shape. Validated on electrophysiological datasets from mouse visual cortex, <i>latenZy</i> produced more precise and stable latency estimates than conventional bin-based methods, reliably capturing contrast-dependent latency shifts and hierarchical timing differences across visual areas. Power analyses showed it required fewer neurons to detect significant latency differences, thereby enhancing statistical efficiency. <i>LatenZy2</i> revealed earlier attentional modulation in macaque higher visual cortex, consistent with top-down feedback, and outperformed bin-based methods in sensitivity and sample size efficiency. Together, these tools offer scalable, parameter-free solutions for reliable latency estimation in large-scale neural recordings. Open-source implementations are available in Python and MATLAB.<b>NEW & NOTEWORTHY</b> We present <i>latenZy</i> and <i>latenZy2</i>, two nonparametric, binning-free methods for precise latency estimation from neural spiking data. Unlike traditional approaches, our tools avoid arbitrary parameters, enhancing reproducibility and comparability. Validated on real electrophysiological datasets, these methods outperform conventional techniques by providing less variable estimates and more accurately capturing known physiological timing effects. Crucially, statistical tests based on <i>latenZy</i> estimates require fewer neurons to detect significant latency differences, boosting efficiency in neural population analyses.",
+  "authors": [
+    "Haak Robin",
+    "Heimel J Alexander"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2025",
+  "doi": "10.1152/jn.00332.2025",
+  "mesh": [
+    "Animals",
+    "Visual Cortex",
+    "Neurons",
+    "Mice",
+    "Action Potentials",
+    "Reaction Time"
+  ]
+}

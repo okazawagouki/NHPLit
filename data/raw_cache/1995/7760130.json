@@ -1,0 +1,24 @@
+{
+  "pmid": "7760130",
+  "title": "Sparseness of the neuronal representation of stimuli in the primate temporal visual cortex.",
+  "abstract": "1. To analyze the selectivity and the sparseness of firing to visual stimuli of single neurons in the primate temporal cortical visual area, neuronal responses were measured to a set of 68 visual stimuli in macaques performing a visual fixation task. The population of neurons analyzed had responses that occurred primarily to faces. The stimuli included 23 faces, and 45 nonface images of real-world scenes, so that the function of this brain region could be analyzed when it was processing natural scenes. 2. The neurons were selected to meet the previously used criteria of face selectivity by responding more than twice as much to the optimal face as to the optimal nonface stimulus in the set. Application of information theoretic analyses to the responses of these neurons confirmed that their responses contained much more information about which of 20 face stimuli had been seen (on average 0.4 bits) than about which (of 20) nonface stimuli had been seen (on average 0.07 bits). 3. The sparseness of the representation of a scene or object provided by each of these neurons (which can be thought of as the proportion of stimuli to which the neuron responds, and which is fundamental to understanding the network operation of the system) can be defined as [formula: see text] where ri is the firing rate to the ith stimulus in the set of n stimuli. The sparseness has a maximal value of 1.0. It was found that the sparseness of the representation of the 68 stimuli by each neuron had an average across all neurons of 0.65. This indicates a rather distributed representation. 4. If the spontaneous firing rate was subtracted from the firing rate of the neuron to each stimulus, so that the changes of firing rate, i.e., the responses of the neurons, were used in the sparseness calculation, then the \"response sparseness\" had a lower value, with a mean of 0.33 for the population of neurons, or 0.60 if calculated over the set of faces. 5. Multidimensional scaling to produce a stimulus space represented by this population of neurons showed that the different faces were well separated in the space created, whereas the different nonface stimuli were grouped together in the space. 6. The information analyses and multidimensional scaling provided evidence that what was made explicit in the responses of these neurons was information about which face had been seen.(ABSTRACT TRUNCATED AT 400 WORDS)",
+  "authors": [
+    "Rolls E T",
+    "Tovee M J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1995",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Discrimination, Psychological",
+    "Electrophysiology",
+    "Face",
+    "Macaca mulatta",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Temporal Lobe",
+    "Visual Cortex"
+  ]
+}

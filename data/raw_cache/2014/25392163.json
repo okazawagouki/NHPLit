@@ -1,0 +1,26 @@
+{
+  "pmid": "25392163",
+  "title": "Extracting information in spike time patterns with wavelets and information theory.",
+  "abstract": "We present a new method to assess the information carried by temporal patterns in spike trains. The method first performs a wavelet decomposition of the spike trains, then uses Shannon information to select a subset of coefficients carrying information, and finally assesses timing information in terms of decoding performance: the ability to identify the presented stimuli from spike train patterns. We show that the method allows: 1) a robust assessment of the information carried by spike time patterns even when this is distributed across multiple time scales and time points; 2) an effective denoising of the raster plots that improves the estimate of stimulus tuning of spike trains; and 3) an assessment of the information carried by temporally coordinated spikes across neurons. Using simulated data, we demonstrate that the Wavelet-Information (WI) method performs better and is more robust to spike time-jitter, background noise, and sample size than well-established approaches, such as principal component analysis, direct estimates of information from digitized spike trains, or a metric-based method. Furthermore, when applied to real spike trains from monkey auditory cortex and from rat barrel cortex, the WI method allows extracting larger amounts of spike timing information. Importantly, the fact that the WI method incorporates multiple time scales makes it robust to the choice of partly arbitrary parameters such as temporal resolution, response window length, number of response features considered, and the number of available trials. These results highlight the potential of the proposed method for accurate and objective assessments of how spike timing encodes information.",
+  "authors": [
+    "Lopes-dos-Santos Vítor",
+    "Panzeri Stefano",
+    "Kayser Christoph",
+    "Diamond Mathew E",
+    "Quian Quiroga Rodrigo"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2015",
+  "doi": "10.1152/jn.00380.2014",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cerebral Cortex",
+    "Electrophysiology",
+    "Evoked Potentials",
+    "Haplorhini",
+    "Information Theory",
+    "Rats",
+    "Signal-To-Noise Ratio"
+  ]
+}

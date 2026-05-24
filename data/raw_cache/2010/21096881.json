@@ -1,0 +1,23 @@
+{
+  "pmid": "21096881",
+  "title": "Neuronal functional connectivity dynamics in cortex: An MSC-based analysis.",
+  "abstract": "The activation of neural ensembles in the cortex is correlated with behavioral states and a change in neuronal functional connectivity patterns is expected. In this paper, we investigate this dynamic nature of functional connectivity in the cortex. Because of the time scale of behavior, a robust method with limited sample size is desirable. In light of this, we utilize mean square contingency (MSC) to measure the pairwise neural dependency to quantify the cortical functional connectivity. Simulation results show that MSC is more robust than cross correlation when the sample size is small. In monkey neural data test, our approach is more effective in detecting the dynamics of functional connectivity associated with the transitions between rest and movement states.",
+  "authors": [
+    "Li Lin",
+    "Park Il",
+    "Seth Sohan",
+    "Sanchez Justin C",
+    "Principe Jose C"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2010",
+  "doi": "10.1109/IEMBS.2010.5627362",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Cerebral Cortex",
+    "Haplorhini",
+    "Neurons"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "10667981",
+  "title": "Theoretical neuroanatomy: relating anatomical and functional connectivity in graphs and cortical connection matrices.",
+  "abstract": "Neuroanatomy places critical constraints on the functional connectivity of the cerebral cortex. To analyze these constraints we have examined the relationship between structural features of networks (expressed as graphs) and the patterns of functional connectivity to which they give rise when implemented as dynamical systems. We selected among structurally varying graphs using as selective criteria a number of global information-theoretical measures that characterize functional connectivity. We selected graphs separately for increases in measures of entropy (capturing statistical independence of graph elements), integration (capturing their statistical dependence) and complexity (capturing the interplay between their functional segregation and integration). We found that dynamics with high complexity were supported by graphs whose units were organized into densely linked groups that were sparsely and reciprocally interconnected. Connection matrices based on actual neuroanatomical data describing areas and pathways of the macaque visual cortex and the cat cortex showed structural characteristics that coincided best with those of such complex graphs, revealing the presence of distinct but interconnected anatomical groupings of areas. Moreover, when implemented as dynamical systems, these cortical connection matrices generated functional connectivity with high complexity, characterized by the presence of highly coherent functional clusters. We also found that selection of graphs as they responded to input or produced output led to increases in the complexity of their dynamics. We hypothesize that adaptation to rich sensory environments and motor demands requires complex dynamics and that these dynamics are supported by neuroanatomical motifs that are characteristic of the cerebral cortex.",
+  "authors": [
+    "Sporns O",
+    "Tononi G",
+    "Edelman G M"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2000",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cats",
+    "Cerebral Cortex",
+    "Cluster Analysis",
+    "Entropy",
+    "Macaca",
+    "Models, Neurological",
+    "Models, Theoretical",
+    "Nerve Net",
+    "Visual Cortex"
+  ]
+}

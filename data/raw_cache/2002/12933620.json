@@ -1,0 +1,16 @@
+{
+  "pmid": "12933620",
+  "title": "Statistical analysis of temporal evolution in single-neuron firing rates.",
+  "abstract": "A fundamental methodology in neurophysiology involves recording the electrical signals associated with individual neurons within brains of awake behaving animals. Traditional statistical analyses have relied mainly on mean firing rates over some epoch (often several hundred milliseconds) that are compared across experimental conditions by analysis of variance. Often, however, the time course of the neuronal firing patterns is of interest, and a more refined procedure can produce substantial additional information. In this paper we compare neuronal firing in the supplementary eye field of a macaque monkey across two experimental conditions. We take the electrical discharges, or 'spikes', to be arrivals in a inhomogeneous Poisson process and then model the firing intensity function using both a simple parametric form and more flexible splines. Our main interest is in making inferences about certain characteristics of the intensity, including the timing of the maximal firing rate. We examine data from 84 neurons individually and also combine results into a hierarchical model. We use Bayesian estimation methods and frequentist significance tests based on a nonparametric bootstrap procedure. We are thereby able to conclude that a substantial fraction of the neurons exhibit important temporal differences in firing intensity across the two conditions, and we quantify the effect across the population of neurons.",
+  "authors": [
+    "Ventura Valérie",
+    "Carta Roberto",
+    "Kass Robert E",
+    "Gettner Sonya N",
+    "Olson Carl R"
+  ],
+  "journal": "Biostatistics (Oxford, England)",
+  "year": "2002",
+  "doi": "",
+  "mesh": []
+}

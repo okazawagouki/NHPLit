@@ -1,0 +1,25 @@
+{
+  "pmid": "34131276",
+  "title": "Lévy walk dynamics explain gamma burst patterns in primate cerebral cortex.",
+  "abstract": "Lévy walks describe patterns of intermittent motion with variable step sizes. In complex biological systems, Lévy walks (non-Brownian, superdiffusive random walks) are associated with behaviors such as search patterns of animals foraging for food. Here we show that Lévy walks also describe patterns of oscillatory activity in primate cerebral cortex. We used a combination of empirical observation and modeling to investigate high-frequency (gamma band) local field potential activity in visual motion-processing cortical area MT of marmoset monkeys. We found that gamma activity is organized as localized burst patterns that propagate across the cortical surface with Lévy walk dynamics. Lévy walks are fundamentally different from either global synchronization, or regular propagating waves, because they include large steps that enable activity patterns to move rapidly over cortical modules. The presence of Lévy walk dynamics therefore represents a previously undiscovered mode of brain activity, and implies a novel way for the cortex to compute. We apply a biophysically realistic circuit model to explain that the Lévy walk dynamics arise from critical-state transitions between asynchronous and localized propagating wave states, and that these dynamics yield optimal spatial sampling of the cortical sheet. We hypothesise that Lévy walk dynamics could help the cortex to efficiently process variable inputs, and to find links in patterns of activity among sparsely spiking populations of neurons.",
+  "authors": [
+    "Liu Yuxi",
+    "Long Xian",
+    "Martin Paul R",
+    "Solomon Samuel G",
+    "Gong Pulin"
+  ],
+  "journal": "Communications biology",
+  "year": "2021",
+  "doi": "10.1038/s42003-021-02256-1",
+  "mesh": [
+    "Animals",
+    "Brain Waves",
+    "Callithrix",
+    "Cerebral Cortex",
+    "Computational Biology",
+    "Male",
+    "Movement",
+    "Neurons"
+  ]
+}

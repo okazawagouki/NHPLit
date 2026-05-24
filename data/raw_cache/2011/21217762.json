@@ -1,0 +1,28 @@
+{
+  "pmid": "21217762",
+  "title": "Decoding the activity of neuronal populations in macaque primary visual cortex.",
+  "abstract": "Visual function depends on the accuracy of signals carried by visual cortical neurons. Combining information across neurons should improve this accuracy because single neuron activity is variable. We examined the reliability of information inferred from populations of simultaneously recorded neurons in macaque primary visual cortex. We considered a decoding framework that computes the likelihood of visual stimuli from a pattern of population activity by linearly combining neuronal responses and tested this framework for orientation estimation and discrimination. We derived a simple parametric decoder assuming neuronal independence and a more sophisticated empirical decoder that learned the structure of the measured neuronal response distributions, including their correlated variability. The empirical decoder used the structure of these response distributions to perform better than its parametric variant, indicating that their structure contains critical information for sensory decoding. These results show how neuronal responses can best be used to inform perceptual decision-making.",
+  "authors": [
+    "Graf Arnulf B A",
+    "Kohn Adam",
+    "Jazayeri Mehrdad",
+    "Movshon J Anthony"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2011",
+  "doi": "10.1038/nn.2733",
+  "mesh": [
+    "Animals",
+    "Discrimination, Psychological",
+    "Electrophysiology",
+    "Macaca",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Neurons",
+    "Orientation",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

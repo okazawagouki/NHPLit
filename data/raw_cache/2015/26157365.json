@@ -1,0 +1,15 @@
+{
+  "pmid": "26157365",
+  "title": "Contribution of LFP dynamics to single-neuron spiking variability in motor cortex during movement execution.",
+  "abstract": "Understanding the sources of variability in single-neuron spiking responses is an important open problem for the theory of neural coding. This variability is thought to result primarily from spontaneous collective dynamics in neuronal networks. Here, we investigate how well collective dynamics reflected in motor cortex local field potentials (LFPs) can account for spiking variability during motor behavior. Neural activity was recorded via microelectrode arrays implanted in ventral and dorsal premotor and primary motor cortices of non-human primates performing naturalistic 3-D reaching and grasping actions. Point process models were used to quantify how well LFP features accounted for spiking variability not explained by the measured 3-D reach and grasp kinematics. LFP features included the instantaneous magnitude, phase and analytic-signal components of narrow band-pass filtered (δ,θ,α,β) LFPs, and analytic signal and amplitude envelope features in higher-frequency bands. Multiband LFP features predicted single-neuron spiking (1ms resolution) with substantial accuracy as assessed via ROC analysis. Notably, however, models including both LFP and kinematics features displayed marginal improvement over kinematics-only models. Furthermore, the small predictive information added by LFP features to kinematic models was redundant to information available in fast-timescale (<100 ms) spiking history. Overall, information in multiband LFP features, although predictive of single-neuron spiking during movement execution, was redundant to information available in movement parameters and spiking history. Our findings suggest that, during movement execution, collective dynamics reflected in motor cortex LFPs primarily relate to sensorimotor processes directly controlling movement output, adding little explanatory power to variability not accounted by movement parameters.",
+  "authors": [
+    "Rule Michael E",
+    "Vargas-Irwin Carlos",
+    "Donoghue John P",
+    "Truccolo Wilson"
+  ],
+  "journal": "Frontiers in systems neuroscience",
+  "year": "2015",
+  "doi": "10.3389/fnsys.2015.00089",
+  "mesh": []
+}

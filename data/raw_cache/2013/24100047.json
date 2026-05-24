@@ -1,0 +1,25 @@
+{
+  "pmid": "24100047",
+  "title": "Towards autonomous neuroprosthetic control using Hebbian reinforcement learning.",
+  "abstract": "OBJECTIVE: Our goal was to design an adaptive neuroprosthetic controller that could learn the mapping from neural states to prosthetic actions and automatically adjust adaptation using only a binary evaluative feedback as a measure of desirability/undesirability of performance. APPROACH: Hebbian reinforcement learning (HRL) in a connectionist network was used for the design of the adaptive controller. The method combines the efficiency of supervised learning with the generality of reinforcement learning. The convergence properties of this approach were studied using both closed-loop control simulations and open-loop simulations that used primate neural data from robot-assisted reaching tasks. MAIN RESULTS: The HRL controller was able to perform classification and regression tasks using its episodic and sequential learning modes, respectively. In our experiments, the HRL controller quickly achieved convergence to an effective control policy, followed by robust performance. The controller also automatically stopped adapting the parameters after converging to a satisfactory control policy. Additionally, when the input neural vector was reorganized, the controller resumed adaptation to maintain performance. SIGNIFICANCE: By estimating an evaluative feedback directly from the user, the HRL control algorithm may provide an efficient method for autonomous adaptation of neuroprosthetic systems. This method may enable the user to teach the controller the desired behavior using only a simple feedback signal.",
+  "authors": [
+    "Mahmoudi Babak",
+    "Pohlmeyer Eric A",
+    "Prins Noeline W",
+    "Geng Shijia",
+    "Sanchez Justin C"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2013",
+  "doi": "10.1088/1741-2560/10/6/066005",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artificial Intelligence",
+    "Callithrix",
+    "Learning",
+    "Neural Prostheses",
+    "Random Allocation",
+    "Reinforcement, Psychology"
+  ]
+}

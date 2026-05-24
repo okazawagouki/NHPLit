@@ -1,0 +1,15 @@
+{
+  "pmid": "41279367",
+  "title": "Visual representations in the human brain rely on a reference frame that is in between allocentric and retinocentric coordinates.",
+  "abstract": "Visual information in our everyday environment is anchored to an allocentric reference frame - a tall building remains upright even when you tilt your head, which changes the projection of the building on your retina from a vertical to a diagonal orientation. Does retinotopic cortex represent visual information in an allocentric or retinocentric reference frame? Here, we investigate which reference frame the brain uses by dissociating allocentric and retinocentric reference frames via a head tilt manipulation combined with electroencephalography (EEG). Nineteen participants completed between 1728-2880 trials during which they briefly viewed (150 ms) and then remembered (1500 ms) a randomly oriented target grating. In interleaved blocks of trials, the participant's head was either kept upright, or tilted by 45° using a custom rotating chinrest. The target orientation could be decoded throughout the trial (using both voltage and alpha-band signals) when training and testing within head-upright blocks, and within head-tilted blocks. Importantly, we directly addressed the question of reference frames via cross-generalized decoding: If target orientations are represented in a retinocentric reference frame, a decoder trained on head-upright trials would predict a 45° offset in decoded orientation when tested on head-tilted trials (after all, a vertical building becomes diagonal on the retina after head tilt). Conversely, if target representations are allocentric and anchored to the real world, no such offset should be observed. Our analyses reveal that from the earliest stages of perceptual processing all the way throughout the delay, orientations are represented in between an allocentric and retinocentric reference frame. These results align with previous findings from physiology studies in non-human primates, and are the first to demonstrate that the human brain does not rely on a purely allocentric or retinocentric reference frame when representing visual information.",
+  "authors": [
+    "Servetnik Maria V",
+    "Wolff Michael J",
+    "Chunharas Chaipat",
+    "Rademaker Rosanne L"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.10.25.684527",
+  "mesh": []
+}

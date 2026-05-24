@@ -1,0 +1,16 @@
+{
+  "pmid": "40964298",
+  "title": "Combatting nonidentifiability to infer motor cortex inputs yields similar encoding of initial and corrective movements.",
+  "abstract": "Primary motor cortex (M1) plays a central role in voluntary movement, but how it integrates sensory-driven corrective instructions is unclear. We analyzed population activity recorded from M1 of macaques during a sequential arm movement task with target updates requiring online adjustments to the motor plan. Using Latent Factor Analysis via Dynamical Systems (LFADS), we separated neural activity into two components: intrinsic dynamics and inferred external inputs influencing those dynamics. Inferred input timing was more strongly locked to target appearance than to movement onset, suggesting that variable reaction times reflect interactions between inputs and ongoing dynamics. Inferred inputs were tuned similarly for both initial and corrective movements, suggesting a shared input encoding across visually-instructed and corrective movements that was previously obscured by M1 dynamics. Because input inference can suffer from the challenge of nonidentifiability, where different models fit the data indistinguishably, we used ensembles of models with varied hyperparameters to diagnose when inputs are identifiable or nonidentifiable. In the monkey data, ensembles produced consistently similar results, suggesting that inputs could be meaningfully inferred and that their encoding was not simply a result of model bias. These results highlight the challenges of nonidentifiability and the potential of model ensembles to identify inputs in ongoing dynamics, at least in some cases.",
+  "authors": [
+    "Malonis Peter J",
+    "Vishnubhotla Ankit",
+    "Hatsopoulos Nicholas G",
+    "MacLean Jason N",
+    "Kaufman Matthew T"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2021.10.18.464704",
+  "mesh": []
+}

@@ -1,0 +1,13 @@
+{
+  "pmid": "34381330",
+  "title": "Analysis and Synthesis of Natural Texture Perception From Visual Evoked Potentials.",
+  "abstract": "The primate visual system analyzes statistical information in natural images and uses it for the immediate perception of scenes, objects, and surface materials. To investigate the dynamical encoding of image statistics in the human brain, we measured visual evoked potentials (VEPs) for 166 natural textures and their synthetic versions, and performed a reverse-correlation analysis of the VEPs and representative texture statistics of the image. The analysis revealed occipital VEP components strongly correlated with particular texture statistics. VEPs correlated with low-level statistics, such as subband SDs, emerged rapidly from 100 to 250 ms in a spatial frequency dependent manner. VEPs correlated with higher-order statistics, such as subband kurtosis and cross-band correlations, were observed at slightly later times. Moreover, these robust correlations enabled us to inversely estimate texture statistics from VEP signals via linear regression and to reconstruct texture images that appear similar to those synthesized with the original statistics. Additionally, we found significant differences in VEPs at 200-300 ms between some natural textures and their Portilla-Simoncelli (PS) synthesized versions, even though they shared almost identical texture statistics. This differential VEP was related to the perceptual \"unnaturalness\" of PS-synthesized textures. These results suggest that the visual cortex rapidly encodes image statistics hidden in natural textures specifically enough to predict the visual appearance of a texture, while it also represents high-level information beyond image statistics, and that electroencephalography can be used to decode these cortical signals.",
+  "authors": [
+    "Orima Taiki",
+    "Motoyoshi Isamu"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2021",
+  "doi": "10.3389/fnins.2021.698940",
+  "mesh": []
+}

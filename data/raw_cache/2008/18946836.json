@@ -1,0 +1,23 @@
+{
+  "pmid": "18946836",
+  "title": "Efficient encoding of natural optic flow.",
+  "abstract": "Statistically efficient processing schemes focus the resources of a signal processing system on the range of statistically probable signals. Relying on the statistical properties of retinal motion signals during ego-motion we propose a nonlinear processing scheme for retinal flow. It maximizes the mutual information between the visual input and its neural representation, and distributes the processing load uniformly over the neural resources. We derive predictions for the receptive fields of motion sensitive neurons in the velocity space. The properties of the receptive fields are tightly connected to their position in the visual field, and to their preferred retinal velocity. The velocity tuning properties show characteristics of properties of neurons in the motion processing pathway of the primate brain.",
+  "authors": [
+    "Calow Dirk",
+    "Lappe Markus"
+  ],
+  "journal": "Network (Bristol, England)",
+  "year": "2008",
+  "doi": "10.1080/09548980802368764",
+  "mesh": [
+    "Computer Simulation",
+    "Humans",
+    "Information Storage and Retrieval",
+    "Models, Biological",
+    "Models, Statistical",
+    "Nerve Net",
+    "Pattern Recognition, Visual",
+    "Retina",
+    "Visual Cortex"
+  ]
+}

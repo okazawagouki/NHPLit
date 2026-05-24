@@ -1,0 +1,24 @@
+{
+  "pmid": "26641946",
+  "title": "Multimap formation in visual cortex.",
+  "abstract": "An extrastriate visual area such as V2 or V4 contains neurons selective for a multitude of complex shapes, all sharing a common topographic organization. Simultaneously developing multiple interdigitated maps--hereafter a \"multimap\"--is challenging in that neurons must compete to generate a diversity of response types locally, while cooperating with their dispersed same-type neighbors to achieve uniform visual field coverage for their response type at all orientations, scales, etc. Previously proposed map development schemes have relied on smooth spatial interaction functions to establish both topography and columnar organization, but by locally homogenizing cells' response properties, local smoothing mechanisms effectively rule out multimap formation. We found in computer simulations that the key requirements for multimap development are that neurons are enabled for plasticity only within highly active regions of cortex designated \"learning eligibility regions\" (LERs), but within an LER, each cell's learning rate is determined only by its activity level with no dependence on location. We show that a hybrid developmental rule that combines spatial and activity-dependent learning criteria in this way successfully produces multimaps when the input stream contains multiple distinct feature types, or in the degenerate case of a single feature type, produces a V1-like map with \"salt-and-pepper\" structure. Our results support the hypothesis that cortical maps containing a fine mixture of different response types, whether in monkey extrastriate cortex, mouse V1 or elsewhere in the cortex, rather than signaling a breakdown of map formation mechanisms at the fine scale, are a product of a generic cortical developmental scheme designed to map cells with a diversity of response properties across a shared topographic space.",
+  "authors": [
+    "Jain Rishabh",
+    "Millin Rachel",
+    "Mel Bartlett W"
+  ],
+  "journal": "Journal of vision",
+  "year": "2015",
+  "doi": "10.1167/15.16.3",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Computer Simulation",
+    "Humans",
+    "Learning",
+    "Neurons",
+    "Space Perception",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

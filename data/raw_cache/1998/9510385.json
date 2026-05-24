@@ -1,0 +1,27 @@
+{
+  "pmid": "9510385",
+  "title": "Cortical networks for control of voluntary arm movements under variable force conditions.",
+  "abstract": "A neural model of voluntary movement and proprioception is developed that offers an integrated interpretation of the functional roles of diverse cell types in movement-related areas of primate cortex. The model circuit maintains accurate proprioception while controlling voluntary reaches to spatial targets, exertion of force against obstacles, posture maintenance despite perturbations, compliance with an imposed movement, and static and inertial load compensations. Computer simulations show that properties of model elements correspond to the properties of many known cells types in areas 4 and 5. Among these properties are delay period activation, response profiles during movement, kinematic and kinetic sensitivities, and latency of activity onset. In particular, area 4 phasic and tonic cells, respectively, compute velocity and position commands that are capable of activating alpha and gamma motor neurons, thereby shifting the mechanical equilibrium point. Anterior area 5 cells compute the position of the limb using corollary discharges from area 4 and feedback from muscle spindles. Posterior area 5 neurons use the position perception signal and a target position signal to compute a desired movement vector. The cortical loop is closed by a volition-gated projection of this movement vector to the area 4 phasic cells. An auxiliary circuit allows phasic-tonic cells in area 4 to incorporate force command components needed to compensate for static and inertial loads. After reporting simulations of prior experimental results, predictions are made for both motor and parietal cell types under novel experimental protocols.",
+  "authors": [
+    "Bullock D",
+    "Cisek P",
+    "Grossberg S"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Feedback",
+    "Kinetics",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Movement",
+    "Nerve Net",
+    "Primates",
+    "Proprioception"
+  ]
+}

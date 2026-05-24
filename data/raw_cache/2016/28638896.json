@@ -1,0 +1,18 @@
+{
+  "pmid": "28638896",
+  "title": "A Scalable Cyberinfrastructure for Interactive Visualization of Terascale Microscopy Data.",
+  "abstract": "The goal of the recently emerged field of connectomics is to generate a wiring diagram of the brain at different scales. To identify brain circuitry, neuroscientists use specialized microscopes to perform multichannel imaging of labeled neurons at a very high resolution. CLARITY tissue clearing allows imaging labeled circuits through entire tissue blocks, without the need for tissue sectioning and section-to-section alignment. Imaging the large and complex non-human primate brain with sufficient resolution to identify and disambiguate between axons, in particular, produces massive data, creating great computational challenges to the study of neural circuits. Researchers require novel software capabilities for compiling, stitching, and visualizing large imagery. In this work, we detail the image acquisition process and a hierarchical streaming platform, ViSUS, that enables interactive visualization of these massive multi-volume datasets using a standard desktop computer. The ViSUS visualization framework has previously been shown to be suitable for 3D combustion simulation, climate simulation and visualization of large scale panoramic images. The platform is organized around a hierarchical cache oblivious data layout, called the IDX file format, which enables interactive visualization and exploration in ViSUS, scaling to the largest 3D images. In this paper we showcase the VISUS framework used in an interactive setting with the microscopy data.",
+  "authors": [
+    "Venkat A",
+    "Christensen C",
+    "Gyulassy A",
+    "Summa B",
+    "Federer F",
+    "Angelucci A",
+    "Pascucci V"
+  ],
+  "journal": "... New York Scientific Data Summit (NYSDS) : proceedings ...",
+  "year": "2016",
+  "doi": "10.1109/NYSDS.2016.7747805",
+  "mesh": []
+}

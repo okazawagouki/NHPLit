@@ -1,0 +1,27 @@
+{
+  "pmid": "16399674",
+  "title": "Visual and nonvisual contributions to three-dimensional heading selectivity in the medial superior temporal area.",
+  "abstract": "Robust perception of self-motion requires integration of visual motion signals with nonvisual cues. Neurons in the dorsal subdivision of the medial superior temporal area (MSTd) may be involved in this sensory integration, because they respond selectively to global patterns of optic flow, as well as translational motion in darkness. Using a virtual-reality system, we have characterized the three-dimensional (3D) tuning of MSTd neurons to heading directions defined by optic flow alone, inertial motion alone, and congruent combinations of the two cues. Among 255 MSTd neurons, 98% exhibited significant 3D heading tuning in response to optic flow, whereas 64% were selective for heading defined by inertial motion. Heading preferences for visual and inertial motion could be aligned but were just as frequently opposite. Moreover, heading selectivity in response to congruent visual/vestibular stimulation was typically weaker than that obtained using optic flow alone, and heading preferences under congruent stimulation were dominated by the visual input. Thus, MSTd neurons generally did not integrate visual and nonvisual cues to achieve better heading selectivity. A simple two-layer neural network, which received eye-centered visual inputs and head-centered vestibular inputs, reproduced the major features of the MSTd data. The network was trained to compute heading in a head-centered reference frame under all stimulus conditions, such that it performed a selective reference-frame transformation of visual, but not vestibular, signals. The similarity between network hidden units and MSTd neurons suggests that MSTd may be an early stage of sensory convergence involved in transforming optic flow information into a (head-centered) reference frame that facilitates integration with vestibular signals.",
+  "authors": [
+    "Gu Yong",
+    "Watkins Paul V",
+    "Angelaki Dora E",
+    "DeAngelis Gregory C"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Eye Movements",
+    "Head Movements",
+    "Imaging, Three-Dimensional",
+    "Macaca mulatta",
+    "Male",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation",
+    "Temporal Lobe"
+  ]
+}

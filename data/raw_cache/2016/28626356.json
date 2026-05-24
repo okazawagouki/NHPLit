@@ -1,0 +1,16 @@
+{
+  "pmid": "28626356",
+  "title": "Pilot Study for Grip Force Prediction Using Neural Signals from Different Brain Regions.",
+  "abstract": "The design of brain machine interfaces (BMI) has been improving over the past decade. Such improvements have led to advanced capability in terms of restoring the functionality of a paralyzed/amputated limb and producing fine controlled movements of a robotic arm and hand. However, there is still more to be invested towards producing advanced BMI features such as producing appropriate forces when gripping and carrying an object using an artificial limb. This feature requires direct supervision and control from the brain to produce accurate results. Toward this goal, this work investigates the processing of neural signals from four brain regions in a nonhuman primate to predict maximum grip force. The signals received from each of the primary motor (M1) cortex, primary somatosensory (S1) cortex, dorsal premotor (PmD) cortex, and ventral premotor (PmV) cortex are used to build regression models to predict the applied maximum grip force. Comparisons of model prediction results are presented. The relative prediction accuracy from all brain regions would assist in further investigation to build robust approaches for controlling the force values. The brain regions and their interactions could eventually be summed in a weighted manner to complete the targeted approach.",
+  "authors": [
+    "Bataineh Mohammad",
+    "McNiel David",
+    "Choi John",
+    "Hessburg John",
+    "Francis Joseph"
+  ],
+  "journal": "Proceedings of the ... Southern Biomedical Engineering Conference. Southern Biomedical Engineering Conference",
+  "year": "2016",
+  "doi": "10.1109/SBEC.2016.12",
+  "mesh": []
+}

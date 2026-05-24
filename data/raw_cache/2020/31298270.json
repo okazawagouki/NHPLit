@@ -1,0 +1,31 @@
+{
+  "pmid": "31298270",
+  "title": "Prefrontal Computation as Active Inference.",
+  "abstract": "The prefrontal cortex is vital for a range of cognitive processes, including working memory, attention, and decision-making. Notably, its absence impairs the performance of tasks requiring the maintenance of information through a delay period. In this paper, we formulate a rodent task-which requires maintenance of delay-period activity-as a Markov decision process and treat optimal task performance as an (active) inference problem. We simulate the behavior of a Bayes optimal mouse presented with 1 of 2 cues that instructs the selection of concurrent visual and auditory targets on a trial-by-trial basis. Formulating inference as message passing, we reproduce features of neuronal coupling within and between prefrontal regions engaged by this task. We focus on the micro-circuitry that underwrites delay-period activity and relate it to functional specialization within the prefrontal cortex in primates. Finally, we simulate the electrophysiological correlates of inference and demonstrate the consequences of lesions to each part of our in silico prefrontal cortex. In brief, this formulation suggests that recurrent excitatory connections-which support persistent neuronal activity-encode beliefs about transition probabilities over time. We argue that attentional modulation can be understood as the contextualization of sensory input by these persistent beliefs.",
+  "authors": [
+    "Parr Thomas",
+    "Rikhye Rajeev Vijay",
+    "Halassa Michael M",
+    "Friston Karl J"
+  ],
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "year": "2020",
+  "doi": "10.1093/cercor/bhz118",
+  "mesh": [
+    "Animals",
+    "Attention",
+    "Bayes Theorem",
+    "Behavior, Animal",
+    "Brain",
+    "Decision Making",
+    "Humans",
+    "Markov Chains",
+    "Memory, Short-Term",
+    "Mice",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neural Pathways",
+    "Neurons",
+    "Prefrontal Cortex"
+  ]
+}

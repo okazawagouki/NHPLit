@@ -1,0 +1,28 @@
+{
+  "pmid": "25769280",
+  "title": "Parametric variation of gamma frequency and power with luminance contrast: A comparative study of human MEG and monkey LFP and spike responses.",
+  "abstract": "Gamma oscillations contribute significantly to the manner in which neural activity is bound into functional assemblies. The mechanisms that underlie the human gamma response, however, are poorly understood. Previous computational models of gamma rely heavily on the results of invasive recordings in animals, and it is difficult to assess whether these models hold in humans. Computational models of gamma predict specific changes in gamma spectral response with increased excitatory drive. Hence, differences and commonalities between spikes, LFPs and MEG in the spectral responses to changes in excitatory drive can lead to a refinement of existing gamma models. We compared gamma spectral responses to varying contrasts in a monkey dataset acquired previously (Roberts et al., 2013) with spectral responses to similar contrast variations in a new human MEG dataset. We found parametric frequency shifts with increasing contrast in human MEG at the single-subject and the single-trial level, analogous to those observed in the monkey. Additionally, we observed parametric modulations of spectral asymmetry, consistent across spikes, LFP and MEG. However, while gamma power scaled linearly with contrast in MEG, it saturated at high contrasts in both the LFP and spiking data. Thus, while gamma frequency changes to varying contrasts were comparable across spikes, LFP and MEG, gamma power changes were not. This indicates that gamma frequency may be a more stable parameter across scales of measurements and species than gamma power. The comparative approach undertaken here represents a fruitful path towards a better understanding of gamma oscillations in the human brain.",
+  "authors": [
+    "Hadjipapas A",
+    "Lowet E",
+    "Roberts M J",
+    "Peter A",
+    "De Weerd P"
+  ],
+  "journal": "NeuroImage",
+  "year": "2015",
+  "doi": "10.1016/j.neuroimage.2015.02.062",
+  "mesh": [
+    "Animals",
+    "Electroencephalography",
+    "Evoked Potentials",
+    "Gamma Rhythm",
+    "Humans",
+    "Macaca mulatta",
+    "Magnetoencephalography",
+    "Male",
+    "Normal Distribution",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

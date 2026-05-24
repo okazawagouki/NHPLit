@@ -1,0 +1,19 @@
+{
+  "pmid": "36316800",
+  "title": "Cell morphologies in the nervous system: Glia steal the limelight.",
+  "abstract": "Neurons and glia have distinct yet interactive functions but are both characterized by branching morphology. Dendritic trees have been digitally traced for over 40 years in many animal species, anatomical regions, and neuron types. Recently, long-range axons also are being reconstructed throughout the brain of many organisms from invertebrates to primates. In contrast, less attention has been paid until lately to glial morphology. Thus, although glia and neurons are similarly abundant in the nervous systems of humans and most animal models, glia have traditionally been much less represented than neurons in morphological reconstruction repositories such as NeuroMorpho.Org. This is rapidly changing with the advent of high-throughput glia tracing. NeuroMorpho.Org introduced glial cells in 2017 and today they constitute nearly a third of the database content. It took NeuroMorpho.Org 10 years to collect the first 40,000 neurons and now that amount of data can be produced in a single publication. This not only demonstrates the spectacular technological progress in data production, but also demands a corresponding advancement in informatics processing. At the same time, these publicly available data also open new opportunities for quantitative analysis and computational modeling to identify universal or cell-type-specific design principles in the cellular architecture of nervous systems. As a first application, we demonstrated that supervised machine learning of tree geometry classifies neurons and glia with practically perfect accuracy. Furthermore, we discovered a new morphometric biomarker capable of robustly separating these cell classes across multiple species, brain regions, and experimental preparations, with only sparse sampling of branch measurements.",
+  "authors": [
+    "Ascoli Giorgio A"
+  ],
+  "journal": "The Journal of comparative neurology",
+  "year": "2023",
+  "doi": "10.1002/cne.25429",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Neuroglia",
+    "Neurons",
+    "Axons",
+    "Brain"
+  ]
+}

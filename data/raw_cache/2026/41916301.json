@@ -1,0 +1,29 @@
+{
+  "pmid": "41916301",
+  "title": "Projection-specific intersectional optogenetics for precise excitation and inhibition in the marmoset brain.",
+  "abstract": "The primate cerebral cortex relies on long-range connections to integrate information across spatially distributed and functionally specialized areas, yet tools for selectively modulating these pathways remain limited. Here, we present an optimized intersectional viral and optogenetic strategy for precisely exciting and inhibiting projection-specific neurons in the common marmoset. Building on a mouse-to-marmoset pipeline, we first validated that optogenetic activation of inhibitory neurons (via AAV9-mDlx-ChR2) enables robust local cortical inhibition. We then combined retrograde delivery of Cre-recombinase (AAVretro-Cre) with locally injected Cre-dependent vectors encoding excitatory or inhibitory opsins (AAV8-FLEx-ChR2 or Jaws) to achieve directionally selective expression in callosal and frontoparietal pathways. Dual-opsin co-expression enabled precise stimulation or suppression of projection neurons in vivo with minimal off-target labeling. These results establish a scalable framework for projection-specific optogenetic interrogation of distributed circuits in primates, expanding the experimental toolkit for causal studies of higher-order brain function with enhanced anatomical precision and functional specificity.",
+  "authors": [
+    "Shaw Luke",
+    "Padmanabhan Krishnan",
+    "Bucklaew Amy",
+    "Mitchell Jude F",
+    "Wang Kuan Hong"
+  ],
+  "journal": "Cell reports methods",
+  "year": "2026",
+  "doi": "10.1016/j.crmeth.2026.101368",
+  "mesh": [
+    "Animals",
+    "Optogenetics",
+    "Callithrix",
+    "Neurons",
+    "Brain",
+    "Dependovirus",
+    "Male",
+    "Opsins",
+    "Female",
+    "Mice",
+    "Genetic Vectors",
+    "Neural Pathways"
+  ]
+}

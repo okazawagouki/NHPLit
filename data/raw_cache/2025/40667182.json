@@ -1,0 +1,16 @@
+{
+  "pmid": "40667182",
+  "title": "Spectral imprint of structural embedding in effective connectivity.",
+  "abstract": "Neural fluctuations exhibit rich spectral profiles that reflects both local dynamics and structural (or anatomical) embedding. Yet, standard models of resting-state effective connectivity neglect structural embedding and assume uniformity in the timescales of regions' endogenous fluctuations. We introduce a chromatic dynamic causal model (DCM) in which structural valency (or degree) modulates the spectral 'color' of endogenous fluctuations. Specifically, we assume a linear mapping between regional structural valency and the spectral exponent of scale-free auto-spectra. Simulations show this mapping can emerge as a generic consequence of structural embedding under minimal coupling in a non-equilibrium regime. We show chromatic DCM reliably recovers ground-truth parameters across network sizes and noise conditions, outperforming standard spectral DCM. Applied to empirical data, chromatic DCM reveals that valency-exponent mappings vary across a cortical hierarchy, and that its parameters are conserved across a homologous network in humans, macaques, marmosets, and mice. These findings advance a generative account of structure-function coupling and expand the repertoire of biophysical mechanisms available for inference in effective connectivity modeling.",
+  "authors": [
+    "Greaves Matthew D",
+    "Novelli Leonardo",
+    "Pang James C",
+    "Fornito Alex",
+    "Razi Adeel"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.06.19.660638",
+  "mesh": []
+}

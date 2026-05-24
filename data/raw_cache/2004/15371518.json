@@ -1,0 +1,30 @@
+{
+  "pmid": "15371518",
+  "title": "Rejection of false matches for binocular correspondence in macaque visual cortical area V4.",
+  "abstract": "A plane lying in depth is vividly perceived by viewing a random-dot stereogram (RDS) with a slight binocular disparity. Perception of a plane-in-depth is lost by reversing the contrast of dots seen by one of the eyes to generate an anticorrelated RDS. From a computational perspective, the visual system cannot find a globally consistent solution for matching the left and right eye images of an anticorrelated RDS. The neural representation of a global match should therefore be insensitive to binocular disparity in an anticorrelated RDS. Most neurons in the striate cortex (V1) respond to binocular disparity in anticorrelated RDSs, suggesting that further cortical processing in extrastriate areas is necessary to fully account for the matching computation. We examined neural responses to dynamic RDSs, both normal (correlated) and anticorrelated, in area V4 of the monkey visual cortex. More than half of the V4 cells were sensitive to the horizontal disparity embedded in a correlated RDS. Most of them greatly attenuated their selectivity for disparity when the RDS was anticorrelated. This attenuation was apparent from the response onset, and the degree of attenuation did not correlate with neuronal response latencies. Unlike the disparity tuning of V1 neurons to anticorrelated RDSs, that of V4 neurons was not an inversion of tuning to normal RDSs. Our results suggest that responses to false matches between contrast-reversed dots in the left and right eye images elicited in V1 are substantially reduced by the stage of V4.",
+  "authors": [
+    "Tanabe Seiji",
+    "Umeda Kazumasa",
+    "Fujita Ichiro"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain Mapping",
+    "Female",
+    "Learning",
+    "Macaca",
+    "Male",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Vision Disparity",
+    "Vision, Binocular",
+    "Visual Cortex"
+  ]
+}

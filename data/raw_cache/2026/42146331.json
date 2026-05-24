@@ -1,0 +1,14 @@
+{
+  "pmid": "42146331",
+  "title": "Gene Gradients Reveal Directed Structural Connectivity Across Species.",
+  "abstract": "Diffusion MRI (dMRI) tractography is widely used to estimate structural connectivity (SC) between brain regions <i>in vivo</i> , but it lacks directional information about white matter pathways. Here, we introduce a computational framework to infer directionality by first combining dMRI-derived SC with gene co-expression gradients, then fitting a structure-function model based on the Lyapunov equation. We found that our model successfully predicts ground-truth neuron-to-neuron synaptic connectivity in the nematode, <i>C. elegans</i> , as well as tracer-derived region-to-region directionality in both mouse and macaque. Then, we infer directionality across 770 healthy young adults from the Human Connectome Project (HCP), finding interdigitated sink/source network architecture across the brain and biologically plausible feedback/feedforward pathways in primary sensory areas. Finally, we show how a directional SC implies a new form of directed functional connectivity we term \"angular flow\" (AF). Our AF measure both correlates with causal functional connectivity metrics and explains the principal gradient of undirected functional connectivity as the net-flow through SC from sensory areas to multimodal areas. By revealing the link between genetic expression, neuronal directionality, and brain function, our approach unlocks significant potential to study directed SC and AF in humans across both health and disease.",
+  "authors": [
+    "Sipes Benjamin Snow",
+    "Nagarajan Srikantan",
+    "Raj Ashish"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2026",
+  "doi": "10.64898/2026.05.05.723068",
+  "mesh": []
+}

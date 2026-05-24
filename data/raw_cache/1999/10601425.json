@@ -1,0 +1,29 @@
+{
+  "pmid": "10601425",
+  "title": "Using response models to estimate channel capacity for neuronal classification of stationary visual stimuli using temporal coding.",
+  "abstract": "Both spike count and temporal modulation are known to carry information about which of a set of stimuli elicited a response; but how much information temporal modulation adds remains a subject of debate. This question usually is addressed by examining the results of a particular experiment that depend on the specific stimuli used. Developing a response model allows us to ask how much more information is carried by the best use of response strength and temporal modulation together (that is, the channel capacity using a code incorporating both) than by the best use of spike count alone (the channel capacity using the spike count code). This replaces dependence on a particular data set with dependence on the accuracy of the model. The model is constructed by finding statistical rules obeyed by all the observed responses and assuming that responses to stimuli not presented in our experiments obey the same rules. We assume that all responses within the observed dynamic range, even if not elicited by a stimulus in our experiment, could be elicited by some stimulus. The model used here is based on principal component analysis and includes both response strength and a coarse (+/-10 ms) representation of temporal modulation. Temporal modulation at finer time scales carries little information about the identity of stationary visual stimuli (although it may carry information about stimulus motion or change), and we present evidence that, given its variability, it should not be expected to do so. The model makes use of a linear relation between the logarithms of mean and variance of responses, similar to the widely seen relation between mean and variance of spike count. Responses are modeled using truncated Gaussian distributions. The amount of stimulus-related information carried by spike count in our data are 0.35 and 0.31 bits in primary visual and inferior temporal cortices, respectively, rising to 0.52 and 0.37 bits for the two-principal-component code. The response model estimates that the channel capacity is 1.1 and 1.4 bits, respectively, using the spike count only, rising to 2.0 and 2.2 bits using two principal components. Thus using this representation of temporal modulation is nearly equivalent to adding a second independent cell using the spike count code. This is much more than estimated using transmitted information but far less than would be expected if all degrees of freedom provided by the individual spike times carried independent information.",
+  "authors": [
+    "Wiener M C",
+    "Richmond B J"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Data Interpretation, Statistical",
+    "Electrophysiology",
+    "Fixation, Ocular",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Synaptic Transmission",
+    "Time Factors",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Pathways",
+    "Visual Perception"
+  ]
+}

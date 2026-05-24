@@ -1,0 +1,38 @@
+{
+  "pmid": "21878419",
+  "title": "Limb-state information encoded by peripheral and central somatosensory neurons: implications for an afferent interface.",
+  "abstract": "A major issue to be addressed in the development of neural interfaces for prosthetic control is the need for somatosensory feedback. Here, we investigate two possible strategies: electrical stimulation of either dorsal root ganglia (DRG) or primary somatosensory cortex (S1). In each approach, we must determine a model that reflects the representation of limb state in terms of neural discharge. This model can then be used to design stimuli that artificially activate the nervous system to convey information about limb state to the subject. Electrically activating DRG neurons using naturalistic stimulus patterns, modeled on recordings made during passive limb movement, evoked activity in S1 that was similar to that of the original movement. We also found that S1 neural populations could accurately discriminate different patterns of DRG stimulation across a wide range of stimulus pulse-rates. In studying the neural coding in S1, we also decoded the kinematics of active limb movement using multi-electrode recordings in the monkey. Neurons having both proprioceptive and cutaneous receptive fields contributed equally to this decoding. Some neurons were most informative of limb state in the recent past, but many others appeared to signal upcoming movements suggesting that they also were modulated by an efference copy signal. Finally, we show that a monkey was able to detect stimulation through a large percentage of electrodes implanted in area 2. We discuss the design of appropriate stimulus paradigms for conveying time-varying limb state information, and the relative merits and limitations of central and peripheral approaches.",
+  "authors": [
+    "Weber Douglas J",
+    "London Brian M",
+    "Hokanson James A",
+    "Ayers Christopher A",
+    "Gaunt Robert A",
+    "Torres Ricardo R",
+    "Zaaimi Boubker",
+    "Miller Lee E"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2011",
+  "doi": "10.1109/TNSRE.2011.2163145",
+  "mesh": [
+    "Afferent Pathways",
+    "Algorithms",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Brain Mapping",
+    "Cats",
+    "Data Interpretation, Statistical",
+    "Electric Stimulation",
+    "Electrodes, Implanted",
+    "Extremities",
+    "Feedback, Physiological",
+    "Ganglia, Spinal",
+    "Macaca mulatta",
+    "Movement",
+    "Neurons",
+    "Peripheral Nervous System",
+    "Somatosensory Cortex",
+    "User-Computer Interface"
+  ]
+}

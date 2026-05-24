@@ -1,0 +1,28 @@
+{
+  "pmid": "36186085",
+  "title": "A Light-Tolerant Wireless Neural Recording IC for Motor Prediction With Near-Infrared-Based Power and Data Telemetry.",
+  "abstract": "Miniaturized and wireless near-infrared (NIR) based neural recorders with optical powering and data telemetry have been introduced as a promising approach for safe long-term monitoring with the smallest physical dimension among state-of-the-art standalone recorders. However, a main challenge for the NIR based neural recording ICs is to maintain robust operation in the presence of light-induced parasitic short circuit current from junction diodes. This is especially true when the signal currents are kept small to reduce power consumption. In this work, we present a light-tolerant and low-power neural recording IC for motor prediction that can fully function in up to 300 <i>μ</i>W/mm<sup>2</sup> of light exposure. It achieves best-in-class power consumption of 0.57 <i>μ</i>W at 38° C with a 4.1 NEF pseudo-resistorless amplifier, an on-chip neural feature extractor, and individual mote level gain control. Applying the 20-channel pre-recorded neural signals of a monkey, the IC predicts finger position and velocity with correlation coefficient up to 0.870 and 0.569, respectively, with individual mote level gain control enabled. In addition, wireless measurement is demonstrated through optical power and data telemetry using a custom PV/LED GaAs chip wire bonded to the proposed IC.",
+  "authors": [
+    "Lim Jongyup",
+    "Lee Jungho",
+    "Moon Eunseong",
+    "Barrow Michael",
+    "Atzeni Gabriele",
+    "Letner Joseph G",
+    "Costello Joseph T",
+    "Nason Samuel R",
+    "Patel Paras R",
+    "Sun Yi",
+    "Patil Parag G",
+    "Kim Hun-Seok",
+    "Chestek Cynthia A",
+    "Phillips Jamie",
+    "Blaauw David",
+    "Sylvester Dennis",
+    "Jang Taekwang"
+  ],
+  "journal": "IEEE journal of solid-state circuits",
+  "year": "2022",
+  "doi": "10.1109/jssc.2022.3141688",
+  "mesh": []
+}

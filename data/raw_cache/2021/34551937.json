@@ -1,0 +1,24 @@
+{
+  "pmid": "34551937",
+  "title": "Trial-to-Trial Variability of Spiking Delay Activity in Prefrontal Cortex Constrains Burst-Coding Models of Working Memory.",
+  "abstract": "A hallmark neuronal correlate of working memory (WM) is stimulus-selective spiking activity of neurons in PFC during mnemonic delays. These observations have motivated an influential computational modeling framework in which WM is supported by persistent activity. Recently, this framework has been challenged by arguments that observed persistent activity may be an artifact of trial-averaging, which potentially masks high variability of delay activity at the single-trial level. In an alternative scenario, WM delay activity could be encoded in bursts of selective neuronal firing which occur intermittently across trials. However, this alternative proposal has not been tested on single-neuron spike-train data. Here, we developed a framework for addressing this issue by characterizing the trial-to-trial variability of neuronal spiking quantified by Fano factor (FF). By building a doubly stochastic Poisson spiking model, we first demonstrated that the burst-coding proposal implies a significant increase in FF positively correlated with firing rate, and thus loss of stability across trials during the delay. Simulation of spiking cortical circuit WM models further confirmed that FF is a sensitive measure that can well dissociate distinct WM mechanisms. We then tested these predictions on datasets of single-neuron recordings from macaque PFC during three WM tasks. In sharp contrast to the burst-coding model predictions, we only found a small fraction of neurons showing increased WM-dependent burstiness, and stability across trials during delay was strengthened in empirical data. Therefore, reduced trial-to-trial variability during delay provides strong constraints on the contribution of single-neuron intermittent bursting to WM maintenance.<b>SIGNIFICANCE STATEMENT</b> There are diverging classes of theoretical models explaining how information is maintained in working memory by cortical circuits. In an influential model class, neurons exhibit persistent elevated memorandum-selective firing, whereas a recently developed class of burst-coding models suggests that persistent activity is an artifact of trial-averaging, and spiking is sparse in each single trial, subserved by brief intermittent bursts. However, this alternative picture has not been characterized or tested on empirical spike-train data. Here we combine mathematical analysis, computational model simulation, and experimental data analysis to test empirically these two classes of models and show that the trial-to-trial variability of empirical spike trains is not consistent with burst coding. These findings provide constraints for theoretical models of working memory.",
+  "authors": [
+    "Li Daming",
+    "Constantinidis Christos",
+    "Murray John D"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2021",
+  "doi": "10.1523/JNEUROSCI.0167-21.2021",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Memory, Short-Term",
+    "Models, Neurological",
+    "Poisson Distribution",
+    "Prefrontal Cortex",
+    "Stochastic Processes"
+  ]
+}

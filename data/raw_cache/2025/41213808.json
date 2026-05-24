@@ -1,0 +1,23 @@
+{
+  "pmid": "41213808",
+  "title": "Spatially Extensive LFP Correlations Identify Slow-Wave Sleep in Marmoset Sensorimotor Cortex.",
+  "abstract": "Identifying neural signatures of slow-wave sleep (SWS) is important for a number of reasons including diagnosing potential sleep disorders and examining its role in memory consolidation ( Diekelmann and Born, 2010; Klinzing et al., 2019; Brodt et al., 2023). Studies of sleep in the common marmoset (<i>Callithrix jacchus</i>) have revealed similarities to humans and other nonhuman primates, including distinct sleep stages ( Crofts et al., 2001) and diurnal sleep patterns ( Hoffmann et al., 2012). Advances in applying wireless technology for recording neural activity during natural, unrestrained behaviors ( Walker et al., 2021) position the marmoset as an excellent model for studying sleep-related neural activity associated with learning. Here, we identify putative SWS epochs based on the spatially correlated activity of local field potentials (LFPs) recorded from a multielectrode planar array implanted in the sensorimotor cortex of two marmosets (one female and one male). The average correlation of the LFP signal measured between electrodes decreased gradually with the distance between pairs. We modeled this spatial structure as an exponential decay function, where the spatial decay constant varied significantly over time, reaching its lowest values during epochs where LFP power dynamics were consistent with SWS. These periods of widespread high correlations across the sensorimotor cortex closely matched SWS identification commonly used in rodent models based on the changes in power in the gamma (30-60 Hz) and delta/slow oscillation (0.1-4 Hz) frequency bands. These findings demonstrate that putative SWS epochs can be reliably identified using spatially correlated LFP activity across the sensorimotor cortex.",
+  "authors": [
+    "Aparicio Paul L",
+    "Walker Jeffrey D",
+    "MacLean Jason N",
+    "Hatsopoulos Nicholas G"
+  ],
+  "journal": "eNeuro",
+  "year": "2025",
+  "doi": "10.1523/ENEURO.0139-25.2025",
+  "mesh": [
+    "Callithrix",
+    "Male",
+    "Female",
+    "Animals",
+    "Sleep, Slow-Wave",
+    "Local Field Potential Measurement",
+    "Sensorimotor Cortex"
+  ]
+}

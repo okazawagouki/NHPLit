@@ -1,0 +1,18 @@
+{
+  "pmid": "40630584",
+  "title": "Long-term performance of intracortical microelectrode arrays in 14 BrainGate clinical trial participants.",
+  "abstract": "Brain-computer interfaces have enabled people with paralysis to control computer cursors, operate prosthetic limbs, and communicate through handwriting, speech, and typing. Most high-performance demonstrations have used silicon microelectrode \"Utah\" arrays to record brain activity at single neuron resolution. However, reports so far have typically been limited to one or two individuals, with no systematic assessment of the longevity, decoding accuracy, and day-to-day stability properties of chronically implanted Utah arrays. Here, we present a comprehensive evaluation of 20 years of neural data from the BrainGate and BrainGate2 pilot clinical trials. This dataset spans 2,319 recording sessions and 20 arrays from the first 14 participants in these trials. On average, arrays successfully recorded neural spiking waveforms on 35.6% of electrodes, with only a 7% decline over the study enrollment period (up to 7.6 years, with a mean of 2.8 years). We assessed movement intention decoding performance using a \"decoding signal-to-noise ratio\" (dSNR) metric, and found that 11 of 14 arrays provided meaningful movement decoding throughout study enrollment (dSNR > 1). Three arrays reached a peak dSNR greater than 4.5, approaching that achieved during able-bodied computer mouse control (6.29). We also found that dSNR increases logarithmically with the number of electrodes, providing a pathway for scaling performance. Longevity and reliability of Utah array recordings in this study were better than in prior nonhuman primate studies. However, achieving peak performance consistently will require addressing unknown sources of variability.",
+  "authors": [
+    "Hahn Nick V",
+    "Stein Elias",
+    "",
+    "Donoghue John P",
+    "Simeral John D",
+    "Hochberg Leigh R",
+    "Willett Francis R"
+  ],
+  "journal": "medRxiv : the preprint server for health sciences",
+  "year": "2025",
+  "doi": "10.1101/2025.07.02.25330310",
+  "mesh": []
+}

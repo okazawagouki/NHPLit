@@ -1,0 +1,24 @@
+{
+  "pmid": "41984938",
+  "title": "How the visual brain can learn to parse images using a multiscale, incremental grouping process.",
+  "abstract": "Natural scenes usually contain many objects that need to be segregated from each other and the background. Object-based attention is the process that groups image fragments belonging to the same objects. Curve-tracing tasks provide a special case, testing our ability to group image elements of an elongated curve. In the brain, curve-tracing is associated with the gradual spread of enhanced neuronal activity over the representation of the traced curve. Previous studies demonstrated that the tracing speed is higher if curves are far apart than if they are nearby. One hypothesis is that a larger distance between curves permits activity propagation in higher visual cortical areas. In these higher areas receptive fields are larger and connections exist between neurons representing image regions that are farther apart (Pooresmaeili et al., 2014). We propose a recurrent architecture for the scale-invariant tracing of curves and objects. The architecture is composed of a feedforward pathway that dynamically selects the appropriate scale for tracing, and a recurrent pathway for propagating enhanced neuronal activity through horizontal and feedback connections, enabled by a disinhibitory loop involving VIP and SOM interneurons. We trained the network using a biologically plausible reinforcement learning scheme and observed that training on short curves allowed the networks to generalize to longer curves and 2D-objects. The network chose the scale based on the distance between curves and the width of objects, just as in human psychophysics and the visual cortex of monkeys. The results provide a mechanistic account of the learning and execution of multiscale perceptual grouping in the brain.",
+  "authors": [
+    "Mollard Sami",
+    "Bohte Sander M",
+    "Roelfsema Pieter R"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2026",
+  "doi": "10.1371/journal.pcbi.1014193",
+  "mesh": [
+    "Animals",
+    "Visual Cortex",
+    "Models, Neurological",
+    "Macaca mulatta",
+    "Humans",
+    "Learning",
+    "Computational Biology",
+    "Neurons",
+    "Visual Perception"
+  ]
+}

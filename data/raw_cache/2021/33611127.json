@@ -1,0 +1,18 @@
+{
+  "pmid": "33611127",
+  "title": "Color for object recognition: Hue and chroma sensitivity in the deep features of convolutional neural networks.",
+  "abstract": "In this work, we examined the color tuning of units in the hidden layers of AlexNet, VGG-16 and VGG-19 convolutional neural networks and their relevance for the successful recognition of an object. We first selected the patches for which the units are maximally responsive among the 1.2 M images of the ImageNet training dataset. We segmented these patches using a k-means clustering algorithm on their chromatic distribution. Then we independently varied the color of these segments, both in hue and chroma, to measure the unit's chromatic tuning. The models exhibited properties at times similar or opposed to the known chromatic processing of biological system. We found that, similarly to the most anterior occipital visual areas in primates, the last convolutional layer exhibited high color sensitivity. We also found the gradual emergence of single to double opponent kernels. Contrary to cells in the visual system, however, these kernels were selective for hues that gradually transit from being broadly distributed in early layers, to mainly falling along the blue-orange axis in late layers. In addition, we found that the classification performance of our models varies as we change the color of our stimuli following the models' kernels properties. Performance was highest for colors the kernels maximally responded to, and images responsible for the activation of color sensitive kernels were more likely to be mis-classified as we changed their color. These observations were shared by all three networks, thus suggesting that they are general properties of current convolutional neural networks trained for object recognition.",
+  "authors": [
+    "Flachot Alban",
+    "Gegenfurtner Karl R"
+  ],
+  "journal": "Vision research",
+  "year": "2021",
+  "doi": "10.1016/j.visres.2020.09.010",
+  "mesh": [
+    "Algorithms",
+    "Color",
+    "Neural Networks, Computer",
+    "Visual Perception"
+  ]
+}

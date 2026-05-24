@@ -1,0 +1,23 @@
+{
+  "pmid": "20237274",
+  "title": "Searching for autocoherence in the cortical network with a time-frequency analysis of the local field potential.",
+  "abstract": "Gamma-band peaks in the power spectrum of local field potentials (LFP) are found in multiple brain regions. It has been theorized that gamma oscillations may serve as a 'clock' signal for the purposes of precise temporal encoding of information and 'binding' of stimulus features across regions of the brain. Neurons in model networks may exhibit periodic spike firing or synchronized membrane potentials that give rise to a gamma-band oscillation that could operate as a 'clock'. The phase of the oscillation in such models is conserved over the length of the stimulus. We define these types of oscillations to be 'autocoherent'. We investigated the hypothesis that autocoherent oscillations are the basis of the experimentally observed gamma-band peaks: the autocoherent oscillator (ACO) hypothesis. To test the ACO hypothesis, we developed a new technique to analyze the autocoherence of a time-varying signal. This analysis used the continuous Gabor transform to examine the time evolution of the phase of each frequency component in the power spectrum. Using this analysis method, we formulated a statistical test to compare the ACO hypothesis with measurements of the LFP in macaque primary visual cortex, V1. The experimental data were not consistent with the ACO hypothesis. Gamma-band activity recorded in V1 did not have the properties of a 'clock' signal during visual stimulation. We propose instead that the source of the gamma-band spectral peak is the resonant V1 network driven by random inputs.",
+  "authors": [
+    "Burns Samuel P",
+    "Xing Dajun",
+    "Shelley Michael J",
+    "Shapley Robert M"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2010",
+  "doi": "10.1523/JNEUROSCI.5319-09.2010",
+  "mesh": [
+    "Animals",
+    "Biological Clocks",
+    "Macaca fascicularis",
+    "Nerve Net",
+    "Photic Stimulation",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

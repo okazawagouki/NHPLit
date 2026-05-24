@@ -1,0 +1,14 @@
+{
+  "pmid": "23961864",
+  "title": "A model of corticostriatal plasticity for learning oculomotor associations and sequences.",
+  "abstract": "We present models that learn context-dependent oculomotor behavior in (1) conditional visual discrimination and (2) sequence reproduction tasks, based on the following three principles: (1) Visual input and efferent copies of motor output produce patterns of activity in cortex. (2) Cortex influences the saccade system in part via corticostriatal projections. (3) A reinforcement learning mechanism modifies corticostriatal synapses to link patterns of cortical activity to the correct saccade responses during trial-and-error learning. Our conditional visual discrimination model learns to associate visual cues with the corresponding saccades to one of two left-right targets. A visual cue produces patterns of neuronal activity in inferotemporal cortex (IT) that projects to the oculomotor region of the striatum. Initially random saccadic \"guesses,\" when directed to the correct target for the current cue, result in increased synaptic strength between the cue-related IT cells and the striatal cells that participate in the correct saccade, increasing the probability that this cue will later elicit the correct saccade. We show that the model generates \"inhibitory gradients\" on the striatum as the substrate for spatial generalization. Our sequence reproduction model learns, when presented with temporal sequences of spatial targets, to reproduce the corresponding sequence of saccades. At any point in the execution of a saccade sequence, the current pattern of activity in pre-frontal cortex (PFC), combined with visual input and the motor efferent copy of the previous saccade, produces a new pattern of activity in PFC to be associated with the next saccade. Like IT, PFC also projects to the oculomotor region of the striatum. Correct guesses for the subsequent saccade in the sequence results in strengthening of corticostriatal synapses between active PFC cells and striatal cells involved in the correct saccade. The sequence is thus reproduced as a concatenation of associations. We compare the results of this model with data previously obtained in the monkey and discuss the nature of cortical representations of spatiotemporal information.",
+  "authors": [
+    "Dominey P",
+    "Arbib M",
+    "Joseph J P"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "1995",
+  "doi": "10.1162/jocn.1995.7.3.311",
+  "mesh": []
+}

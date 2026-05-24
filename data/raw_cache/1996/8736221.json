@@ -1,0 +1,21 @@
+{
+  "pmid": "8736221",
+  "title": "Contribution of area MT to perception of three-dimensional shape: a computational study.",
+  "abstract": "Successful recognition and manipulation of objects in one's visual environment is critically dependent upon the ability to recover three-dimensional (3D) surface geometry from two-dimensional (2D) retinal images. The relative motion of image features, caused by relative displacement of object and observer, has characteristic properties that betray components of the 3D source geometry (distance, tilt, slant and curvature) and is among the most valuable sources of information used for 3D surface recovery by the primate visual system. We have considered the behavior of motion-sensitive neurons in primate visual cortex and found that their properties closely resemble those of differential motion operators that can be used to formally characterize the 3D shape of a smooth moving surface. Our analysis has led us to identify a set of three orders of filters for differential motion detection. These filters behave in a manner that is strikingly similar to the spatial and velocity tuning profiles of a sub-population of neurons--those possessing antagonistic motion surrounds--in the middle temporal visual area (MT). On the basis of this analysis, we suggest that MT neurons subserve 3D surface recovery from relative motion cues.",
+  "authors": [
+    "Buracas G T",
+    "Albright T D"
+  ],
+  "journal": "Vision research",
+  "year": "1996",
+  "doi": "",
+  "mesh": [
+    "Computer Simulation",
+    "Depth Perception",
+    "Humans",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Retina"
+  ]
+}

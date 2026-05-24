@@ -1,0 +1,26 @@
+{
+  "pmid": "39387991",
+  "title": "Stitcher: A Surface Reconstruction Tool for Highly Gyrified Brains.",
+  "abstract": "Brain reconstruction, specially of the cerebral cortex, is a challenging task and even more so when it comes to highly gyrified brained animals. Here, we present Stitcher, a novel tool capable of generating such surfaces utilizing MRI data and manual segmentation. Stitcher makes a triangulation between consecutive brain slice segmentations by recursively adding edges that minimize the total length and simultaneously avoid self-intersection. We applied this new method to build the cortical surfaces of two dolphins: Guiana dolphin (Sotalia guianensis), Franciscana dolphin (Pontoporia blainvillei); and one pinniped: Steller sea lion (Eumetopias jubatus). Specifically in the case of P. blainvillei, two reconstructions at two different resolutions were made. Additionally, we also performed reconstructions for sub and non-cortical structures of Guiana dolphin. All our cortical mesh results show remarkable resemblance with the real anatomy of the brains, except P. blainvillei with low-resolution data. Sub and non-cortical meshes were also properly reconstructed and the spatial positioning of structures was preserved with respect to S. guianensis cerebral cortex. In a comparative perspective between methods, Stitcher presents compatible results for volumetric measurements when contrasted with other anatomical standard tools. In this way, Stitcher seems to be a viable pipeline for new neuroanatomical analysis, enhancing visualization and descriptions of non-primates species, and broadening the scope of compared neuroanatomy.",
+  "authors": [
+    "Mynssen Heitor",
+    "Avelino-de-Souza Kamilla",
+    "Chaim Khallil",
+    "Ribeiro Vanessa Lanes",
+    "Patzke Nina",
+    "Mota Bruno"
+  ],
+  "journal": "Neuroinformatics",
+  "year": "2024",
+  "doi": "10.1007/s12021-024-09678-2",
+  "mesh": [
+    "Animals",
+    "Dolphins",
+    "Magnetic Resonance Imaging",
+    "Brain",
+    "Cerebral Cortex",
+    "Image Processing, Computer-Assisted",
+    "Imaging, Three-Dimensional",
+    "Sea Lions"
+  ]
+}

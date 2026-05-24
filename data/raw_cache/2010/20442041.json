@@ -1,0 +1,25 @@
+{
+  "pmid": "20442041",
+  "title": "Nonlinear dynamic modeling of isometric force production in primate eye muscle.",
+  "abstract": "Although the oculomotor plant is usually modeled as a linear system, recent studies of ocular motoneuron behavior have drawn attention to the presence of significant nonlinearities. One source of these is the development of muscle force in response to changes in motoneuron firing rate. Here, we attempt to simulate the production of isometric force by the primate lateral rectus muscle in response to electrical stimulation [A. Fuchs and E. Luschei, \"Development of isometric tension in simian extraocular muscle,\" J. Physiol., vol. 219, no. 1, pp. 155-166, 1971] by comparing four different modeling approaches. The data could be well fitted either by parameter estimation for physically based models of force production [J. Bobet, E. R. Gossen, and R. B. Stein, \"A comparison of models of force production during stimulated isometric ankle dorsiflexion in humans,\" IEEE Trans. Neural Syst. Rehabil. Eng., vol. 13, no. 4, pp. 444-451, Dec. 2005; E. Mavritsaki, N. Lepora, J. Porrill, C. H. Yeo, and P. Dean, \"Response linearity determined by recruitment strategy in detailed model of nictitating membrane control,\" Biol. Cybern., vol. 96, no. 1, pp. 39-57, 2007], or by the application of a generic method for nonlinear system identification (the nonlinear autoregressive with exogenous input (NARX) model). These results suggest that nonlinear system identification may be a useful method for modeling more general aspects of muscle function, and provide a basis for distributed models of motor units in extraocular muscle for understanding dynamic oculomotor control. The success of previous linear models points to the potential importance of motor unit recruitment in overcoming nonlinearities in the oculomotor plant.",
+  "authors": [
+    "Anderson Sean R",
+    "Lepora Nathan F",
+    "Porrill John",
+    "Dean Paul"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2010",
+  "doi": "10.1109/TBME.2010.2044574",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Biomechanical Phenomena",
+    "Isometric Contraction",
+    "Models, Biological",
+    "Nonlinear Dynamics",
+    "Oculomotor Muscles",
+    "Primates",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

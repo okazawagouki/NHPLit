@@ -1,0 +1,25 @@
+{
+  "pmid": "33504797",
+  "title": "Multiscale low-dimensional motor cortical state dynamics predict naturalistic reach-and-grasp behavior.",
+  "abstract": "Motor function depends on neural dynamics spanning multiple spatiotemporal scales of population activity, from spiking of neurons to larger-scale local field potentials (LFP). How multiple scales of low-dimensional population dynamics are related in control of movements remains unknown. Multiscale neural dynamics are especially important to study in naturalistic reach-and-grasp movements, which are relatively under-explored. We learn novel multiscale dynamical models for spike-LFP network activity in monkeys performing naturalistic reach-and-grasps. We show low-dimensional dynamics of spiking and LFP activity exhibited several principal modes, each with a unique decay-frequency characteristic. One principal mode dominantly predicted movements. Despite distinct principal modes existing at the two scales, this predictive mode was multiscale and shared between scales, and was shared across sessions and monkeys, yet did not simply replicate behavioral modes. Further, this multiscale mode's decay-frequency explained behavior. We propose that multiscale, low-dimensional motor cortical state dynamics reflect the neural control of naturalistic reach-and-grasp behaviors.",
+  "authors": [
+    "Abbaspourazad Hamidreza",
+    "Choudhury Mahdi",
+    "Wong Yan T",
+    "Pesaran Bijan",
+    "Shanechi Maryam M"
+  ],
+  "journal": "Nature communications",
+  "year": "2021",
+  "doi": "10.1038/s41467-020-20197-x",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Behavior, Animal",
+    "Hand Strength",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Task Performance and Analysis"
+  ]
+}

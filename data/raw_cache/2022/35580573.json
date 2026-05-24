@@ -1,0 +1,22 @@
+{
+  "pmid": "35580573",
+  "title": "Estimating curvilinear self-motion from optic flow with a biologically inspired neural system.",
+  "abstract": "Optic flow provides rich information about world-relative self-motion and is used by many animals to guide movement. For example, self-motion along linear, straight paths without eye movements, generates optic flow that radiates from a singularity that specifies the direction of travel (heading). Many neural models of optic flow processing contain heading detectors that are tuned to the position of the singularity, the design of which is informed by brain area MSTd of primate visual cortex that has been linked to heading perception. Such biologically inspired models could be useful for efficient self-motion estimation in robots, but existing systems are tailored to the limited scenario of linear self-motion and neglect sensitivity to self-motion along more natural curvilinear paths. The observer in this case experiences more complex motion patterns, the appearance of which depends on the radius of the curved path (path curvature) and the direction of gaze. Indeed, MSTd neurons have been shown to exhibit tuning to optic flow patterns other than radial expansion, a property that is rarely captured in neural models. We investigated in a computational model whether a population of MSTd-like sensors tuned to radial, spiral, ground, and other optic flow patterns could support the accurate estimation of parameters describing both linear and curvilinear self-motion. We used deep learning to decode self-motion parameters from the signals produced by the diverse population of MSTd-like units. We demonstrate that this system is capable of accurately estimating curvilinear path curvature, clockwise/counterclockwise sign, and gaze direction relative to the path tangent in both synthetic and naturalistic videos of simulated self-motion. Estimates remained stable over time while rapidly adapting to dynamic changes in the observer's curvilinear self-motion. Our results show that coupled biologically inspired and artificial neural network systems hold promise as a solution for robust vision-based self-motion estimation in robots.",
+  "authors": [
+    "Layton Oliver W",
+    "Powell Nathaniel",
+    "Steinmetz Scott T",
+    "Fajen Brett R"
+  ],
+  "journal": "Bioinspiration & biomimetics",
+  "year": "2022",
+  "doi": "10.1088/1748-3190/ac709b",
+  "mesh": [
+    "Animals",
+    "Motion",
+    "Motion Perception",
+    "Neurons",
+    "Optic Flow",
+    "Visual Cortex"
+  ]
+}

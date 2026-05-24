@@ -1,0 +1,28 @@
+{
+  "pmid": "1753289",
+  "title": "Lateral geniculate neurons in behaving primates. III. Response predictions of a channel model with multiple spatial-to-temporal filters.",
+  "abstract": "1. For the experiments reported in these papers, we recorded the responses of lateral geniculate (LGN) neurons to a large set of two-dimensional, black and white patterns based on Walsh functions and to a set of test stimuli. In the first two papers we reported that these neurons encode stimulus-related information in both the strength and the shape of the response waveforms and that there are more than two independent components in the response. These results cannot be explained by existing models. This paper provides a model of LGN neurons that not only accounts for the foregoing observations, but also yields predictions confirmed by direct tests. 2. The model represents a neuron as a set of three parallel channels. The input to each channel is an array of pixel luminances. Each channel consists of an input nonlinearity cascaded into a linear spatial-to-temporal filter. The output of each channel is a basic waveform, a principal component. The response of the neuron is the sum of the outputs of the three channels. 3. The model accounted for much of the variance in the coefficients of the first three principal components of the neuronal responses to the set of Walsh stimuli. Using parameters derived from the responses of neurons to the Walsh stimuli only, the model also predicted the responses to \"center-surround\" annuli of different contrasts and mean luminances, as well as to superpositions of pairs of Walsh patterns. The model made statistically significant predictions of the coefficients of two of the principal components of these responses. 4. After the parameters of the model had been fit to reproduce the responses of neurons to the Walsh stimuli, we found that the input nonlinearity of the model was compressed at both the high and low luminance levels. This compression produced response saturation that closely resembled the response saturation of neurons reported in the first paper in this series. Although not absolutely smooth, the spatial filter for the first channel had a dominant excitatory or inhibitory center and an antagonistic surround. Thus this spatial filter accounted for both the center and the surround structures of previous models of LGN receptive fields. There was greater variety in the structures of the spatial filters for the second and third channels, but none had a center-surround organization. Many of the spatial filters for these higher channels contained oriented ridges or valleys. Other spatial filters were dominated by a bipolar pair of pixels. 5. The model of LGN neurons that we present in this paper represents an extension over previous models in four ways. First, the model is capable of explaining the responses of neurons to a wider range of luminances than previous models. Second, the model is capable of explaining the shapes of the response waveforms as well as their magnitudes. Third, the concept of a single receptive field is extended to a series of spatial-to-temporal filters. Fourth, the model suggests that LGN neurons provide a description of both the brightness and the form of a stimulus in their response waveforms.",
+  "authors": [
+    "Gawne T J",
+    "McClurkin J W",
+    "Richmond B J",
+    "Optican L M"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "1991",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Geniculate Bodies",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Regression Analysis",
+    "Statistics as Topic",
+    "Vision, Ocular"
+  ]
+}

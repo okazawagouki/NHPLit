@@ -1,0 +1,27 @@
+{
+  "pmid": "24726625",
+  "title": "A training platform for many-dimensional prosthetic devices using a virtual reality environment.",
+  "abstract": "Brain machine interfaces (BMIs) have the potential to assist in the rehabilitation of millions of patients worldwide. Despite recent advancements in BMI technology for the restoration of lost motor function, a training environment to restore full control of the anatomical segments of an upper limb extremity has not yet been presented. Here, we develop a virtual upper limb prosthesis with 27 independent dimensions, the anatomical dimensions of the human arm and hand, and deploy the virtual prosthesis as an avatar in a virtual reality environment (VRE) that can be controlled in real-time. The prosthesis avatar accepts kinematic control inputs that can be captured from movements of the arm and hand as well as neural control inputs derived from processed neural signals. We characterize the system performance under kinematic control using a commercially available motion capture system. We also present the performance under kinematic control achieved by two non-human primates (Macaca Mulatta) trained to use the prosthetic avatar to perform reaching and grasping tasks. This is the first virtual prosthetic device that is capable of emulating all the anatomical movements of a healthy upper limb in real-time. Since the system accepts both neural and kinematic inputs for a variety of many-dimensional skeletons, we propose it provides a customizable training platform for the acquisition of many-dimensional neural prosthetic control.",
+  "authors": [
+    "Putrino David",
+    "Wong Yan T",
+    "Weiss Adam",
+    "Pesaran Bijan"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2015",
+  "doi": "10.1016/j.jneumeth.2014.03.010",
+  "mesh": [
+    "Animals",
+    "Artificial Limbs",
+    "Attention",
+    "Biofeedback, Psychology",
+    "Biomechanical Phenomena",
+    "Macaca mulatta",
+    "Models, Biological",
+    "Motion Perception",
+    "Prostheses and Implants",
+    "Upper Extremity",
+    "User-Computer Interface"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "18846206",
+  "title": "Noise during rest enables the exploration of the brain's dynamic repertoire.",
+  "abstract": "Traditionally brain function is studied through measuring physiological responses in controlled sensory, motor, and cognitive paradigms. However, even at rest, in the absence of overt goal-directed behavior, collections of cortical regions consistently show temporally coherent activity. In humans, these resting state networks have been shown to greatly overlap with functional architectures present during consciously directed activity, which motivates the interpretation of rest activity as day dreaming, free association, stream of consciousness, and inner rehearsal. In monkeys, it has been shown though that similar coherent fluctuations are present during deep anesthesia when there is no consciousness. Here, we show that comparable resting state networks emerge from a stability analysis of the network dynamics using biologically realistic primate brain connectivity, although anatomical information alone does not identify the network. We specifically demonstrate that noise and time delays via propagation along connecting fibres are essential for the emergence of the coherent fluctuations of the default network. The spatiotemporal network dynamics evolves on multiple temporal scales and displays the intermittent neuroelectric oscillations in the fast frequency regimes, 1-100 Hz, commonly observed in electroencephalographic and magnetoencephalographic recordings, as well as the hemodynamic oscillations in the ultraslow regimes, <0.1 Hz, observed in functional magnetic resonance imaging. The combination of anatomical structure and time delays creates a space-time structure in which the neural noise enables the brain to explore various functional configurations representing its dynamic repertoire.",
+  "authors": [
+    "Ghosh Anandamohan",
+    "Rho Y",
+    "McIntosh A R",
+    "Kötter R",
+    "Jirsa V K"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2008",
+  "doi": "10.1371/journal.pcbi.1000196",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Computational Biology",
+    "Electroencephalography",
+    "Humans",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Noise",
+    "Rest"
+  ]
+}

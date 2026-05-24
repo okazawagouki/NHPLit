@@ -1,0 +1,22 @@
+{
+  "pmid": "37451867",
+  "title": "Bayesian and Discriminative Models for Active Visual Perception across Saccades.",
+  "abstract": "The brain interprets sensory inputs to guide behavior, but behavior itself disrupts sensory inputs. Perceiving a coherent world while acting in it constitutes active perception. For example, saccadic eye movements displace visual images on the retina and yet the brain perceives visual stability. Because this percept of visual stability has been shown to be influenced by prior expectations, we tested the hypothesis that it is Bayesian. The key prediction was that priors would be used more as sensory uncertainty increases. Humans and rhesus macaques reported whether an image moved during saccades. We manipulated both prior expectations and levels of sensory uncertainty. All psychophysical data were compared with the predictions of Bayesian ideal observer models. We found that humans were Bayesian for continuous judgments. For categorical judgments, however, they were anti-Bayesian: they used their priors less with greater uncertainty. We studied this categorical result further in macaques. The animals' judgments were similarly anti-Bayesian for sensory uncertainty caused by external, image noise, but Bayesian for uncertainty due to internal, motor-driven noise. A discriminative learning model explained the anti-Bayesian effects. We conclude that active vision uses both Bayesian and discriminative models depending on task requirements (continuous vs categorical) and the source of uncertainty (image noise vs motor-driven noise). In the context of previous knowledge about the saccadic system, our results provide an example of how the comparative analysis of Bayesian versus non-Bayesian models of perception offers novel insights into underlying neural organization.",
+  "authors": [
+    "Subramanian Divya",
+    "Pearson John M",
+    "Sommer Marc A"
+  ],
+  "journal": "eNeuro",
+  "year": "2023",
+  "doi": "10.1523/ENEURO.0403-22.2023",
+  "mesh": [
+    "Humans",
+    "Animals",
+    "Saccades",
+    "Macaca mulatta",
+    "Visual Perception",
+    "Brain",
+    "Uncertainty"
+  ]
+}

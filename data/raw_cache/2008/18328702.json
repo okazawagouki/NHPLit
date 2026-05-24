@@ -1,0 +1,25 @@
+{
+  "pmid": "18328702",
+  "title": "Phase-of-firing coding of natural visual stimuli in primary visual cortex.",
+  "abstract": "We investigated the hypothesis that neurons encode rich naturalistic stimuli in terms of their spike times relative to the phase of ongoing network fluctuations rather than only in terms of their spike count. We recorded local field potentials (LFPs) and multiunit spikes from the primary visual cortex of anaesthetized macaques while binocularly presenting a color movie. We found that both the spike counts and the low-frequency LFP phase were reliably modulated by the movie and thus conveyed information about it. Moreover, movie periods eliciting higher firing rates also elicited a higher reliability of LFP phase across trials. To establish whether the LFP phase at which spikes were emitted conveyed visual information that could not be extracted by spike rates alone, we compared the Shannon information about the movie carried by spike counts to that carried by the phase of firing. We found that at low LFP frequencies, the phase of firing conveyed 54% additional information beyond that conveyed by spike counts. The extra information available in the phase of firing was crucial for the disambiguation between stimuli eliciting high spike rates of similar magnitude. Thus, phase coding may allow primary cortical neurons to represent several effective stimuli in an easily decodable format.",
+  "authors": [
+    "Montemurro Marcelo A",
+    "Rasch Malte J",
+    "Murayama Yusuke",
+    "Logothetis Nikos K",
+    "Panzeri Stefano"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2008",
+  "doi": "10.1016/j.cub.2008.02.023",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Macaca",
+    "Motion Pictures",
+    "Photic Stimulation",
+    "Time Factors",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

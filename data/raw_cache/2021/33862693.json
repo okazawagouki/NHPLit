@@ -1,0 +1,21 @@
+{
+  "pmid": "33862693",
+  "title": "Neuronal heterogeneity modulates phase synchronization between unidirectionally coupled populations with excitation-inhibition balance.",
+  "abstract": "Several experiments and models have highlighted the importance of neuronal heterogeneity in brain dynamics and function. However, how such a cell-to-cell diversity can affect cortical computation, synchronization, and neuronal communication is still under debate. Previous studies have focused on the effect of neuronal heterogeneity in one neuronal population. Here we are specifically interested in the effect of neuronal variability on the phase relations between two populations, which can be related to different cortical communication hypotheses. It has been recently shown that two spiking neuron populations unidirectionally connected in a sender-receiver configuration can exhibit anticipated synchronization (AS), which is characterized by a negative phase lag. This phenomenon has been reported in electrophysiological data of nonhuman primates and human EEG during a visual discrimination cognitive task. In experiments, the unidirectional coupling could be accessed by Granger causality and can be accompanied by either positive or negative phase difference between cortical areas. Here we propose a model of two coupled populations in which the neuronal heterogeneity can determine the dynamical relation between the sender and the receiver and can reproduce phase relations reported in experiments. Depending on the distribution of parameters characterizing the neuronal firing patterns, the system can exhibit both AS and the usual delayed synchronization regime (DS, with positive phase) as well as a zero-lag synchronization regime and phase bistability between AS and DS. Furthermore, we show that our network can present diversity in their phase relations maintaining the excitation-inhibition balance.",
+  "authors": [
+    "Brito Katiele V P",
+    "Matias Fernanda S"
+  ],
+  "journal": "Physical review. E",
+  "year": "2021",
+  "doi": "10.1103/PhysRevE.103.032415",
+  "mesh": [
+    "Neurons",
+    "Models, Neurological",
+    "Humans",
+    "Neural Inhibition",
+    "Cortical Synchronization",
+    "Action Potentials",
+    "Animals"
+  ]
+}

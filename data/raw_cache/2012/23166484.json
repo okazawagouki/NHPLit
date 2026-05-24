@@ -1,0 +1,39 @@
+{
+  "pmid": "23166484",
+  "title": "Functional connectivity and tuning curves in populations of simultaneously recorded neurons.",
+  "abstract": "How interactions between neurons relate to tuned neural responses is a longstanding question in systems neuroscience. Here we use statistical modeling and simultaneous multi-electrode recordings to explore the relationship between these interactions and tuning curves in six different brain areas. We find that, in most cases, functional interactions between neurons provide an explanation of spiking that complements and, in some cases, surpasses the influence of canonical tuning curves. Modeling functional interactions improves both encoding and decoding accuracy by accounting for noise correlations and features of the external world that tuning curves fail to capture. In cortex, modeling coupling alone allows spikes to be predicted more accurately than tuning curve models based on external variables. These results suggest that statistical models of functional interactions between even relatively small numbers of neurons may provide a useful framework for examining neural coding.",
+  "authors": [
+    "Stevenson Ian H",
+    "London Brian M",
+    "Oby Emily R",
+    "Sachs Nicholas A",
+    "Reimer Jacob",
+    "Englitz Bernhard",
+    "David Stephen V",
+    "Shamma Shihab A",
+    "Blanche Timothy J",
+    "Mizuseki Kenji",
+    "Zandvakili Amin",
+    "Hatsopoulos Nicholas G",
+    "Miller Lee E",
+    "Kording Konrad P"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2012",
+  "doi": "10.1371/journal.pcbi.1002775",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain",
+    "Computational Biology",
+    "Computer Simulation",
+    "Databases, Factual",
+    "Electrodes",
+    "Electrophysiology",
+    "Macaca",
+    "Models, Neurological",
+    "Models, Statistical",
+    "Nerve Net",
+    "Neurons"
+  ]
+}

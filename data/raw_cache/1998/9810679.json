@@ -1,0 +1,24 @@
+{
+  "pmid": "9810679",
+  "title": "Neural network simulations of the primate oculomotor system. III. An one-dimensional, one-directional model of the superior colliculus.",
+  "abstract": "This report evaluates the performance of a biologically motivated neural network model of the primate superior colliculus (SC). Consistent with known anatomy and physiology, its major features include excitatory connections between its output elements, nigral gating mechanisms, and an eye displacement feedback of reticular origin to recalculate the metrics of saccades to memorized targets in retinotopic coordinates. Despite the fact that it makes no use of eye position or eye velocity information, the model can account for the accuracy of saccades in double step stimulation experiments. Further, the model accounts for the effects of focal SC lesions. Finally, it accounts for the properties of saccades evoked in response to the electrical stimulation of the SC. These include the approximate size constancy of evoked saccades despite increases of stimulus intensity, the fact that the size of evoked saccades depends on the time that has elapsed from a previous saccade, the fact that staircases of saccades are evoked in response to prolonged stimuli, and the fact that the size of saccades evoked in response to the simultaneous stimulation of two SC sites is the average of the saccades that are evoked when the two sites are separately stimulated.",
+  "authors": [
+    "Bozis A",
+    "Moschovakis A K"
+  ],
+  "journal": "Biological cybernetics",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Cybernetics",
+    "Electric Stimulation",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Primates",
+    "Saccades",
+    "Superior Colliculi"
+  ]
+}

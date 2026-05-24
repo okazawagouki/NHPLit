@@ -1,0 +1,19 @@
+{
+  "pmid": "37383947",
+  "title": "CellCover Defines Marker Gene Panels Capturing Developmental Progression in Neocortical Neural Stem Cell Identity.",
+  "abstract": "Definition of cell classes across the tissues of living organisms is central in the analysis of growing atlases of single-cell RNA sequencing (scRNA-seq) data across biomedicine. Marker genes for cell classes are most often defined by differential expression (DE) methods that serially assess individual genes across landscapes of diverse cells. This serial approach has been extremely useful, but is limited because it ignores possible redundancy or complementarity across genes that can only be captured by analyzing multiple genes simultaneously. Interrogating binarized expression data, we aim to identify discriminating <i>panels</i> of genes that are specific to, not only enriched in, individual cell types. To efficiently explore the vast space of possible marker panels, leverage the large number of cells often sequenced, and overcome zero-inflation in scRNA-seq data, we propose viewing marker gene panel selection as a variation of the \"minimal set-covering problem\" in combinatorial optimization. Using scRNA-seq data from blood and brain tissue, we show that this new method, CellCover, performs as good or better than DE and other methods in defining cell-type discriminating gene panels, while reducing gene redundancy and capturing cell-class-specific signals that are distinct from those defined by DE methods. Transfer learning experiments across mouse, primate, and human data demonstrate that CellCover identifies markers of conserved cell classes in neocortical neurogenesis, as well as developmental progression in both progenitors and neurons. Exploring markers of human outer radial glia (oRG, or basal RG) across mammals, we show that transcriptomic elements of this key cell type in the expansion of the human cortex likely appeared in gliogenic precursors of the rodent before the full program emerged in neurogenic cells of the primate lineage. We have assembled the public datasets we use in this report within the NeMO Analytics multi-omic data exploration environment [1], where the expression of individual genes (NeMO: Individual genes in cortex and NeMO: Individual genes in blood) and marker gene panels (NeMO: Telley 3 CellCover Panels, NeMO: Telley 12 CellCover Panels, NeMO: Sorted Brain Cell CellCover Panels, and NeMO: Blood 34 CellCover Panels) can be freely explored without coding expertise. CellCover is available in CellCover R and CellCover Python.",
+  "authors": [
+    "Ji Lanlan",
+    "Wang An",
+    "Sonthalia Shreyash",
+    "Seo Seungmae",
+    "Naiman Daniel Q",
+    "Younes Laurent",
+    "Colantuoni Carlo",
+    "Geman Donald"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2023.04.06.535943",
+  "mesh": []
+}

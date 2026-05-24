@@ -1,0 +1,23 @@
+{
+  "pmid": "19778621",
+  "title": "The folding fingerprint of visual cortex reveals the timing of human V1 and V2.",
+  "abstract": "Primate neocortex contains over 30 visual areas. Recent techniques such as functional magnetic resonance imaging (fMRI) have successfully identified many of these areas in the human brain, but have been of limited value for revealing the temporal dynamics between visual areas. The electroencephalogram (EEG) provides information with high temporal precision, but has had limited success separating out the signals from individual neighboring cortical areas. Consequently, controversies exist over the temporal dynamics across cortical areas. In order to address this problem we developed a new method to identify the sources of the EEG. An individual's unique cortical pattern of sulci and gyri along with a visual area's functional retinotopic layout provides a folding fingerprint that predicts specific scalp topographies for stimuli presented in different parts of the visual field. Using this folding fingerprint with a 96 or 192 location stimulus severely constrains the solution space making it relatively easy to extract the temporal response of multiple visual areas to multiple stimulus locations. The large number of stimuli also provides a means to validate the waveforms by comparing across stimulus sets, an important feature not present in most EEG source identification procedures. Using this method our data reveal that both V1 and V2 waveforms have similar onset latencies, and their temporal dynamics provide new information regarding the response latencies of these areas in humans. Our method enables the previously unattainable separation of EEG responses from neighboring brain areas. While we applied the method to the first two cortical visual areas, V1 and V2, this method is also applicable to somatosensory areas that have defined mappings. This method provides a means to study the rapid information flow in the human brain to reveal top-down and bottom-up cognitive processes.",
+  "authors": [
+    "Ales Justin",
+    "Carney Thom",
+    "Klein Stanley A"
+  ],
+  "journal": "NeuroImage",
+  "year": "2010",
+  "doi": "10.1016/j.neuroimage.2009.09.022",
+  "mesh": [
+    "Brain Mapping",
+    "Electroencephalography",
+    "Humans",
+    "Image Interpretation, Computer-Assisted",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Signal Processing, Computer-Assisted",
+    "Visual Cortex"
+  ]
+}

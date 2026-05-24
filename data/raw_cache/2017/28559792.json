@@ -1,0 +1,13 @@
+{
+  "pmid": "28559792",
+  "title": "Open-Source, Low Cost, Free-Behavior Monitoring, and Reward System for Neuroscience Research in Non-human Primates.",
+  "abstract": "We describe a low-cost system designed to document bodily movement and neural activity and deliver rewards to monkeys behaving freely in their home cage. An important application is to studying brain-machine interface (BMI) systems during free behavior, since brain signals associated with natural movement can differ significantly from those associated with more commonly used constrained conditions. Our approach allows for short-latency (<500 ms) reward delivery and behavior monitoring using low-cost off-the-shelf components. This system interfaces existing untethered recording equipment with a custom hub that controls a cage-mounted feeder. The behavior monitoring system uses a depth camera to provide real-time, easy-to-analyze, gross movement data streams. In a proof-of-concept experiment we demonstrate robust learning of neural activity using the system over 14 behavioral sessions.",
+  "authors": [
+    "Libey Tyler",
+    "Fetz Eberhard E"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2017",
+  "doi": "10.3389/fnins.2017.00265",
+  "mesh": []
+}

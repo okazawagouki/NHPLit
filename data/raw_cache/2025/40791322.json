@@ -1,0 +1,15 @@
+{
+  "pmid": "40791322",
+  "title": "Hierarchical Neural Circuit Theory of Normalization and Inter-areal Communication.",
+  "abstract": "<i>The primate brain exhibits a hierarchical, modular architecture with conserved microcircuits executing canonical computations across reciprocally connected cortical areas. Though feedback connections are ubiquitous, their functions remain largely unknown. To investigate the role of feedback, we present a hierarchical neural circuit theory with feedback connections that dynamically implements divisive normalization across its hierarchy. In a two-stage instantiation (V1</i> ↔ <i>V2), increasing feedback from V2 to V1 amplifies responses in both areas, more so in the higher cortical area, consistent with experiments. We analytically derive power spectra (V1) and coherence spectra (V1-V2), and validate them against experimental observations: peaks in both spectra shift to higher frequencies with increased stimulus contrast, and power decays as 1/f</i> <sup>4</sup> <i>at high frequencies (f). The theory further predicts distinctive spectral signatures of feedback and input gain modulation. Crucially, the theory offers a unified view of inter-areal communication, with emergent features commensurate with empirical observations of both communication subspaces and inter-areal coherence. It admits a low-dimensional communication subspace, where inter-areal communication is lower-dimensional than within-area communication, and frequency bands characterized by high inter-areal coherence. It further predicts that: i) increasing feedback strength enhances inter-areal communication and diminishes within-area communication, without altering the subspace dimensionality; ii) high-coherence frequencies are characterized by stronger communication (ability to estimate neural activity in one brain area from neural activity in another brain area) and reduced subspace dimensionality. Finally, a three-area (V1</i> ↔ <i>V4 and V1</i> ↔ <i>V5) instantiation of the theory demonstrates that differential feedback from higher to lower cortical areas dictates their dynamic functional connectivity. Altogether, our theory provides a robust and analytically tractable framework for generating experimentally-testable predictions about normalization, inter-areal communication, and functional connectivity.</i>",
+  "authors": [
+    "Pal Asit",
+    "Rawat Shivang",
+    "Heeger David J",
+    "Martiniani Stefano"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2025.07.15.664935",
+  "mesh": []
+}

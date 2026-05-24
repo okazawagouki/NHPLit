@@ -1,0 +1,29 @@
+{
+  "pmid": "23593130",
+  "title": "A real-time brain-machine interface combining motor target and trajectory intent using an optimal feedback control design.",
+  "abstract": "Real-time brain-machine interfaces (BMI) have focused on either estimating the continuous movement trajectory or target intent. However, natural movement often incorporates both. Additionally, BMIs can be modeled as a feedback control system in which the subject modulates the neural activity to move the prosthetic device towards a desired target while receiving real-time sensory feedback of the state of the movement. We develop a novel real-time BMI using an optimal feedback control design that jointly estimates the movement target and trajectory of monkeys in two stages. First, the target is decoded from neural spiking activity before movement initiation. Second, the trajectory is decoded by combining the decoded target with the peri-movement spiking activity using an optimal feedback control design. This design exploits a recursive Bayesian decoder that uses an optimal feedback control model of the sensorimotor system to take into account the intended target location and the sensory feedback in its trajectory estimation from spiking activity. The real-time BMI processes the spiking activity directly using point process modeling. We implement the BMI in experiments consisting of an instructed-delay center-out task in which monkeys are presented with a target location on the screen during a delay period and then have to move a cursor to it without touching the incorrect targets. We show that the two-stage BMI performs more accurately than either stage alone. Correct target prediction can compensate for inaccurate trajectory estimation and vice versa. The optimal feedback control design also results in trajectories that are smoother and have lower estimation error. The two-stage decoder also performs better than linear regression approaches in offline cross-validation analyses. Our results demonstrate the advantage of a BMI design that jointly estimates the target and trajectory of movement and more closely mimics the sensorimotor control system.",
+  "authors": [
+    "Shanechi Maryam M",
+    "Williams Ziv M",
+    "Wornell Gregory W",
+    "Hu Rollin C",
+    "Powers Marissa",
+    "Brown Emery N"
+  ],
+  "journal": "PloS one",
+  "year": "2013",
+  "doi": "10.1371/journal.pone.0059049",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Feedback",
+    "Female",
+    "Motor Cortex",
+    "Observer Variation",
+    "Placenta",
+    "Pregnancy",
+    "Rats",
+    "Rats, Sprague-Dawley",
+    "Ultrasonography"
+  ]
+}

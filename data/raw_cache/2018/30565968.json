@@ -1,0 +1,24 @@
+{
+  "pmid": "30565968",
+  "title": "Human-level saccade detection performance using deep neural networks.",
+  "abstract": "Saccades are ballistic eye movements that rapidly shift gaze from one location of visual space to another. Detecting saccades in eye movement recordings is important not only for studying the neural mechanisms underlying sensory, motor, and cognitive processes, but also as a clinical and diagnostic tool. However, automatically detecting saccades can be difficult, particularly when such saccades are generated in coordination with other tracking eye movements, like smooth pursuits, or when the saccade amplitude is close to eye tracker noise levels, like with microsaccades. In such cases, labeling by human experts is required, but this is a tedious task prone to variability and error. We developed a convolutional neural network to automatically detect saccades at human-level accuracy and with minimal training examples. Our algorithm surpasses state of the art according to common performance metrics and could facilitate studies of neurophysiological processes underlying saccade generation and visual processing. NEW & NOTEWORTHY Detecting saccades in eye movement recordings can be a difficult task, but it is a necessary first step in many applications. We present a convolutional neural network that can automatically identify saccades with human-level accuracy and with minimal training examples. We show that our algorithm performs better than other available algorithms, by comparing performance on a wide range of data sets. We offer an open-source implementation of the algorithm as well as a web service.",
+  "authors": [
+    "Bellet Marie E",
+    "Bellet Joachim",
+    "Nienborg Hendrikje",
+    "Hafed Ziad M",
+    "Berens Philipp"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2019",
+  "doi": "10.1152/jn.00601.2018",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Neural Networks, Computer",
+    "Saccades",
+    "Sensitivity and Specificity"
+  ]
+}

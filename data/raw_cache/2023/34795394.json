@@ -1,0 +1,23 @@
+{
+  "pmid": "34795394",
+  "title": "Rapid adaptation of brain-computer interfaces to new neuronal ensembles or participants via generative modelling.",
+  "abstract": "For brain-computer interfaces (BCIs), obtaining sufficient training data for algorithms that map neural signals onto actions can be difficult, expensive or even impossible. Here we report the development and use of a generative model-a model that synthesizes a virtually unlimited number of new data distributions from a learned data distribution-that learns mappings between hand kinematics and the associated neural spike trains. The generative spike-train synthesizer is trained on data from one recording session with a monkey performing a reaching task and can be rapidly adapted to new sessions or monkeys by using limited additional neural data. We show that the model can be adapted to synthesize new spike trains, accelerating the training and improving the generalization of BCI decoders. The approach is fully data-driven, and hence, applicable to applications of BCIs beyond motor control.",
+  "authors": [
+    "Wen Shixian",
+    "Yin Allen",
+    "Furlanello Tommaso",
+    "Perich M G",
+    "Miller L E",
+    "Itti Laurent"
+  ],
+  "journal": "Nature biomedical engineering",
+  "year": "2023",
+  "doi": "10.1038/s41551-021-00811-z",
+  "mesh": [
+    "Humans",
+    "Brain-Computer Interfaces",
+    "Algorithms",
+    "Neurons",
+    "Biomechanical Phenomena"
+  ]
+}

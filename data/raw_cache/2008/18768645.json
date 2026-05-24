@@ -1,0 +1,31 @@
+{
+  "pmid": "18768645",
+  "title": "Quantifying the neural elements activated and inhibited by globus pallidus deep brain stimulation.",
+  "abstract": "Deep brain stimulation (DBS) of the globus pallidus pars interna (GPi) is an effective therapy option for controlling the motor symptoms of medication-refractory Parkinson's disease and dystonia. Despite the clinical successes of GPi DBS, the precise therapeutic mechanisms are unclear and questions remain on the optimal electrode placement and stimulation parameter selection strategies. In this study, we developed a three-dimensional computational model of GPi-DBS in nonhuman primates to investigate how membrane channel dynamics, synaptic inputs, and axonal collateralization contribute to the neural responses generated during stimulation. We focused our analysis on three general neural elements that surround GPi-DBS electrodes: GPi somatodendritic segments, GPi efferent axons, and globus pallidus pars externa (GPe) fibers of passage. During high-frequency electrical stimulation (136 Hz), somatic activity in the GPi showed interpulse excitatory phases at 1-3 and 4-5.5 ms. When including stimulation-induced GABA(A) and AMPA receptor dynamics into the model, the somatic firing patterns continued to be entrained to the stimulation, but the overall firing rate was reduced (78.7 to 25.0 Hz, P < 0.001). In contrast, axonal output from GPi neurons remained largely time-locked to each pulse of the stimulation train. Similar entrainment was also observed in GPe efferents, a majority of which have been shown to project through GPi en route to the subthalamic nucleus. The models suggest that pallidal DBS may have broader network effects than previously realized and the modes of therapy may depend on the relative proportion of GPi and/or GPe efferents that are directly affected by the stimulation.",
+  "authors": [
+    "Johnson Matthew D",
+    "McIntyre Cameron C"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2008",
+  "doi": "10.1152/jn.90372.2008",
+  "mesh": [
+    "1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+    "Analysis of Variance",
+    "Animals",
+    "Computer Simulation",
+    "Deep Brain Stimulation",
+    "Dopamine Agents",
+    "Dose-Response Relationship, Radiation",
+    "Electric Stimulation",
+    "Excitatory Amino Acid Agonists",
+    "Globus Pallidus",
+    "Ion Channel Gating",
+    "Membrane Potentials",
+    "Models, Neurological",
+    "Neural Inhibition",
+    "Neurons",
+    "Synapses",
+    "alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "38538143",
+  "title": "Calibrating Bayesian Decoders of Neural Spiking Activity.",
+  "abstract": "Accurately decoding external variables from observations of neural activity is a major challenge in systems neuroscience. Bayesian decoders, which provide probabilistic estimates, are some of the most widely used. Here we show how, in many common settings, the probabilistic predictions made by traditional Bayesian decoders are overconfident. That is, the estimates for the decoded stimulus or movement variables are more certain than they should be. We then show how Bayesian decoding with latent variables, taking account of low-dimensional shared variability in the observations, can improve calibration, although additional correction for overconfidence is still needed. Using data from males, we examine (1) decoding the direction of grating stimuli from spike recordings in the primary visual cortex in monkeys, (2) decoding movement direction from recordings in the primary motor cortex in monkeys, (3) decoding natural images from multiregion recordings in mice, and (4) decoding position from hippocampal recordings in rats. For each setting, we characterize the overconfidence, and we describe a possible method to correct miscalibration post hoc. Properly calibrated Bayesian decoders may alter theoretical results on probabilistic population coding and lead to brain-machine interfaces that more accurately reflect confidence levels when identifying external variables.",
+  "authors": [
+    "Wei 魏赣超 Ganchao",
+    "Tajik Mansouri زینب تاجیک منصوری Zeinab",
+    "Wang 王晓婧 Xiaojing",
+    "Stevenson Ian H"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2024",
+  "doi": "10.1523/JNEUROSCI.2158-23.2024",
+  "mesh": [
+    "Animals",
+    "Bayes Theorem",
+    "Male",
+    "Rats",
+    "Neurons",
+    "Action Potentials",
+    "Calibration",
+    "Mice",
+    "Motor Cortex",
+    "Macaca mulatta",
+    "Hippocampus",
+    "Photic Stimulation",
+    "Models, Neurological"
+  ]
+}

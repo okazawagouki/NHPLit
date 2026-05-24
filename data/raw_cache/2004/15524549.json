@@ -1,0 +1,26 @@
+{
+  "pmid": "15524549",
+  "title": "Motion-contrast computation without directionally selective motion sensors.",
+  "abstract": "The detection of relative motion, i.e., motion contrast, has been reported for motion-sensitive neurons in several vertebrate systems, yet the mechanism underlying motion-contrast sensitivity remains unknown. An algorithm for computing motion contrast directly from the moving intensity distribution is proposed. In this algorithm, the time-dependent intensity distribution of the visual space is convolved with a periodic function. For coherent motion, the resulting convolution integral reduces to a traveling wave of fixed amplitude, while incoherent motion causes the amplitude to oscillate. The frequency of the amplitude oscillation provides a measure of motion contrast. The algorithm is successful in reproducing tuning curves derived from measurements of motion-contrast sensitivity in avian tectum and primate middle temporal area.",
+  "authors": [
+    "Dellen B K",
+    "Clark J W",
+    "Wessel R"
+  ],
+  "journal": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+  "year": "2004",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Humans",
+    "Models, Neurological",
+    "Motion Perception",
+    "Nerve Net",
+    "Neurons",
+    "Pattern Recognition, Automated",
+    "Transducers"
+  ]
+}

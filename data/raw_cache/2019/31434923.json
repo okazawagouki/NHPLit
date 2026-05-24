@@ -1,0 +1,25 @@
+{
+  "pmid": "31434923",
+  "title": "atlasBREX: Automated template-derived brain extraction in animal MRI.",
+  "abstract": "We proposed a generic template-derived approach for (semi-) automated brain extraction in animal MRI studies and evaluated our implementation with different animal models (macaque, marmoset, rodent) and MRI protocols (T1, T2). While conventional MR-neuroimaging studies perform brain extraction as an initial step priming subsequent image-registration from subject to template, our proposed approach propagates an anatomical template to (whole-head) individual subjects in reverse order, which is challenging due to the surrounding extracranial tissue, greater differences in contrast pattern and larger areas with field inhomogeneity. As a novel approach, the herein introduced brain extraction algorithm derives whole-brain segmentation using rigid and non-rigid deformation based on unbiased anatomical atlas building with a priori estimates from study-cohort and an initial approximate brain extraction. We evaluated our proposed method in comparison to several other technical approaches including \"Marker based watershed scalper\", \"Brain-Extraction-Tool\", \"3dSkullStrip\", \"Primatologist-Toolbox\", \"Rapid Automatic Tissue Segmentation\" and \"Robust automatic rodent brain extraction using 3D pulse-coupled neural networks\" with manual skull-stripping as reference standard. ABX demonstrated best performance with accurate (≥92%) and consistent results throughout datasets and across species, age and MRI protocols. ABX was made available to the public with documentation, templates and sample material ( https://www.github.com/jlohmeier/atlasBREX ).",
+  "authors": [
+    "Lohmeier Johannes",
+    "Kaneko Takaaki",
+    "Hamm Bernd",
+    "Makowski Marcus R",
+    "Okano Hideyuki"
+  ],
+  "journal": "Scientific reports",
+  "year": "2019",
+  "doi": "10.1038/s41598-019-48489-3",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Callithrix",
+    "Image Processing, Computer-Assisted",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Neuroimaging"
+  ]
+}

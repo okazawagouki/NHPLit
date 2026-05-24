@@ -1,0 +1,29 @@
+{
+  "pmid": "31001577",
+  "title": "A Normalization Circuit Underlying Coding of Spatial Attention in Primate Lateral Prefrontal Cortex.",
+  "abstract": "Lateral prefrontal cortex (LPFC) neurons signal the allocation of voluntary attention; however, the neural computations underlying this function remain unknown. To investigate this, we recorded from neuronal ensembles in the LPFC of two <i>Macaca fascicularis</i> performing a visuospatial attention task. LPFC neural responses to a single stimulus were normalized when additional stimuli/distracters appeared across the visual field and were well-characterized by an averaging computation. Deploying attention toward an individual stimulus surrounded by distracters shifted neural activity from an averaging regime toward a regime similar to that when the attended stimulus was presented in isolation (winner-take-all; WTA). However, attentional modulation is both qualitatively and quantitatively dependent on a neuron's visuospatial tuning. Our results show that during attentive vision, LPFC neuronal ensemble activity can be robustly read out by downstream areas to generate motor commands, and/or fed back into sensory areas to filter out distracter signals in favor of target signals.",
+  "authors": [
+    "Duong Lyndon",
+    "Leavitt Matthew",
+    "Pieper Florian",
+    "Sachs Adam",
+    "Martinez-Trujillo Julio"
+  ],
+  "journal": "eNeuro",
+  "year": "2019",
+  "doi": "10.1523/ENEURO.0301-18.2019",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Attention",
+    "Electroencephalography",
+    "Macaca fascicularis",
+    "Male",
+    "Neurons",
+    "Patch-Clamp Techniques",
+    "Pattern Recognition, Visual",
+    "Prefrontal Cortex",
+    "Saccades",
+    "Space Perception"
+  ]
+}

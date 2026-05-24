@@ -1,0 +1,32 @@
+{
+  "pmid": "19793637",
+  "title": "Prediction of arm trajectory from the neural activities of the primary motor cortex with modular connectionist architecture.",
+  "abstract": "In our previous study [Koike, Y., Hirose, H., Sakurai, Y., Iijima T., (2006). Prediction of arm trajectory from a small number of neuron activities in the primary motor cortex. Neuroscience Research, 55, 146-153], we succeeded in reconstructing muscle activities from the offline combination of single neuron activities recorded in a serial manner in the primary motor cortex of a monkey and in reconstructing the joint angles from the reconstructed muscle activities during a movement condition using an artificial neural network. However, the joint angles during a static condition were not reconstructed. The difficulties of reconstruction under both static and movement conditions mainly arise due to muscle properties such as the velocity-tension relationship and the length-tension relationship. In this study, in order to overcome the limitations due to these muscle properties, we divided an artificial neural network into two networks: one for movement control and the other for posture control. We also trained the gating network to switch between the two neural networks. As a result, the gating network switched the modules properly, and the accuracy of the estimated angles improved compared to the case of using only one artificial neural network.",
+  "authors": [
+    "Choi Kyuwan",
+    "Hirose Hideaki",
+    "Sakurai Yoshio",
+    "Iijima Toshio",
+    "Koike Yasuharu"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2009",
+  "doi": "10.1016/j.neunet.2009.09.003",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Arm",
+    "Biomechanical Phenomena",
+    "Electromyography",
+    "Joints",
+    "Macaca",
+    "Male",
+    "Microelectrodes",
+    "Motor Activity",
+    "Motor Cortex",
+    "Muscle, Skeletal",
+    "Neural Networks, Computer",
+    "Neurons"
+  ]
+}

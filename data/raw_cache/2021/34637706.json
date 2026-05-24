@@ -1,0 +1,24 @@
+{
+  "pmid": "34637706",
+  "title": "A mechanism for inter-areal coherence through communication based on connectivity and oscillatory power.",
+  "abstract": "Inter-areal coherence between field potentials is a widespread phenomenon in cortex. Coherence has been hypothesized to reflect phase-synchronization between oscillators and flexibly gate communication according to behavioral and cognitive demands. We reveal an alternative mechanism where coherence is not the cause but the consequence of communication and naturally emerges because spiking activity in a sending area causes post-synaptic potentials both in the same and in other areas. Consequently, coherence depends in a lawful manner on power and phase-locking in the sender and connectivity. Changes in oscillatory power explained prominent changes in fronto-parietal and LGN-V1 coherence across behavioral conditions. Optogenetic experiments and excitatory-inhibitory network simulations identified afferent synaptic inputs rather than spiking entrainment as the principal determinant of coherence. These findings suggest that unique spectral profiles of different brain areas automatically give rise to large-scale coherence patterns that follow anatomical connectivity and continuously reconfigure as a function of behavior and cognition.",
+  "authors": [
+    "Schneider Marius",
+    "Broggini Ana Clara",
+    "Dann Benjamin",
+    "Tzanou Athanasia",
+    "Uran Cem",
+    "Sheshadri Swathi",
+    "Scherberger Hansjörg",
+    "Vinck Martin"
+  ],
+  "journal": "Neuron",
+  "year": "2021",
+  "doi": "10.1016/j.neuron.2021.09.037",
+  "mesh": [
+    "Brain",
+    "Cerebral Cortex",
+    "Cognition",
+    "Communication"
+  ]
+}

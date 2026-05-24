@@ -1,0 +1,25 @@
+{
+  "pmid": "21222529",
+  "title": "Neuronal responses below firing threshold for subthreshold cross-modal enhancement.",
+  "abstract": "Multisensory integration (such as somatosensation-vision, gustation-olfaction) could occur even between subthreshold stimuli that in isolation do not reach perceptual awareness. For example, when a somatosensory (subthreshold) stimulus is delivered within a close spatiotemporal congruency, a visual (subthreshold) stimulus evokes a visual percept. Cross-modal enhancement of visual perception is maximal when the somatosensory stimulation precedes the visual one by tens of milliseconds. This rapid modulatory response would not be consistent with a top-down mechanism acting through higher-order multimodal cortical areas, but rather a direct interaction between lower-order unimodal areas. To elucidate the neuronal mechanisms of subthreshold cross-modal enhancement, we simulated a neural network model. In the model, lower unimodal (X, Y) and higher multimodal (M) networks are reciprocally connected by bottom-up and top-down axonal projections. The lower networks are laterally connected with each other. A pair of stimuli was presented to the lower networks, whose respective intensities were too weak to induce salient neuronal activity (population response) when presented alone. Neurons of the Y network were slightly depolarized below firing threshold when a cross-modal stimulus was presented alone to the X network. This allowed the Y network to make a rapid (within tens of milliseconds) population response when presented with a subsequent congruent stimulus. The reaction speed of the Y network was accelerated, provided that the top-down projections were strengthened. We suggest that a subthreshold (nonpopulation) response to a cross-modal stimulus, acting through interaction between lower (primary unisensory) areas, may be essential for a rapid suprathreshold (population) response to a congruent stimulus that follows. Top-down influences on cross-modal enhancement may be faster than expected, accelerating reaction speed to input, in which ongoing-spontaneous subthreshold excitation of lower-order unimodal cells by higher-order multimodal cells may play an active role.",
+  "authors": [
+    "Hoshino Osamu"
+  ],
+  "journal": "Neural computation",
+  "year": "2011",
+  "doi": "10.1162/NECO_a_00096",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Evoked Potentials, Somatosensory",
+    "Humans",
+    "Macaca mulatta",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Photic Stimulation",
+    "Random Allocation",
+    "Sensory Thresholds",
+    "Visual Perception"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "31778982",
+  "title": "Short reaction times in response to multi-electrode intracortical microstimulation may provide a basis for rapid movement-related feedback.",
+  "abstract": "OBJECTIVE: Tetraplegic patients using brain-machine interfaces can make visually guided reaches with robotic arms. However, restoring proprioceptive feedback to these patients will be critical, as evidenced by the movement deficit in patients with proprioceptive loss. Proprioception is critical in large part because it provides faster feedback than vision. Intracortical microstimulation (ICMS) is a promising approach, but the ICMS-evoked reaction time (RT) is typically slower than that to natural proprioceptive and often even visual cues, implying that ICMS feedback may not be fast enough to guide movement. APPROACH: For most sensory modalities, RT decreases with increased stimulus intensity. Thus, it may be that stimulation intensities beyond what has previously been used will result in faster RTs. To test this, we compared the RT to ICMS applied through multi-electrode arrays in area 2 of somatosensory cortex to that of mechanical and visual cues. MAIN RESULTS: We found that the RT to single-electrode ICMS decreased with increased current, frequency, and train length. For 100 µA, 330 Hz stimulation, the highest single-electrode intensity we tested routinely, most electrodes resulted in RTs slower than the mechanical cue but slightly faster than the visual cue. While increasing the current beyond 100 µA resulted in faster RTs, sustained stimulation at this level may damage tissue. Alternatively, by stimulating through multiple electrodes (mICMS), a large amount of current can be injected while keeping that through each electrode at a safe level. We found that stimulation with at least 480 µA equally distributed over 16 electrodes could produce RTs as much as 20 ms faster than the mechanical cue, roughly the conduction delay to cortex from the periphery. SIGNIFICANCE: These results suggest that mICMS may provide a means to supply rapid, movement-related feedback. Future neuroprosthetics may need spatiotemporally patterned mICMS to convey useful somatosensory information. Novelty & Significance Intracortical microstimulation (ICMS) is a promising approach for providing artificial somatosensation to patients with spinal cord injury or limb amputation, but in prior experiments, subjects have been unable to respond as quickly to it as to natural cues. We have investigated the use of multi-electrode stimulation (mICMS) and discovered that it can produce reaction times as fast or faster even than natural mechanical cues. Although our stimulus trains were not modulated in time, this result opens the door to more complex spatiotemporal patterns of mICMS that might be used to rapidly write in complex somatosensory information to the CNS.",
+  "authors": [
+    "Sombeck Joseph T",
+    "Miller Lee E"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2019",
+  "doi": "10.1088/1741-2552/ab5cf3",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electric Stimulation",
+    "Electrodes, Implanted",
+    "Feedback, Sensory",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Somatosensory Cortex"
+  ]
+}

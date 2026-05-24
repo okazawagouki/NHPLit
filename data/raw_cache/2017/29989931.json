@@ -1,0 +1,34 @@
+{
+  "pmid": "29989931",
+  "title": "Feasibility of Automatic Error Detect-and-Undo System in Human Intracortical Brain-Computer Interfaces.",
+  "abstract": "OBJECTIVE: Brain-computer interfaces (BCIs) aim to help people with impaired movement ability by directly translating their movement intentions into command signals for assistive technologies. Despite large performance improvements over the last two decades, BCI systems still make errors that need to be corrected manually by the user. This decreases system performance and is also frustrating for the user. The deleterious effects of errors could be mitigated if the system automatically detected when the user perceives that an error was made and automatically intervened with a corrective action; thus, sparing users from having to make the correction themselves. Our previous preclinical work with monkeys demonstrated that task-outcome correlates exist in motor cortical spiking activity and can be utilized to improve BCI performance. Here, we asked if these signals also exist in the human hand area of motor cortex, and whether they can be decoded with high accuracy. METHODS: We analyzed posthoc the intracortical neural activity of two BrainGate2 clinical trial participants who were neurally controlling a computer cursor to perform a grid target selection task and a keyboard-typing task. RESULTS: Our key findings are that: 1) there exists a putative outcome error signal reflected in both the action potentials and local field potentials of the human hand area of motor cortex, and 2) target selection outcomes can be classified with high accuracy (70-85%) of errors successfully detected with minimal (0-3%) misclassifications of success trials, based on neural activity alone. SIGNIFICANCE: These offline results suggest that it will be possible to improve the performance of clinical intracortical BCIs by incorporating a real-time error detect-and-undo system alongside the decoding of movement intention.",
+  "authors": [
+    "Even-Chen Nir",
+    "Stavisky Sergey D",
+    "Pandarinath Chethan",
+    "Nuyujukian Paul",
+    "Blabe Christine H",
+    "Hochberg Leigh R",
+    "Henderson Jaimie M",
+    "Shenoy Krishna V"
+  ],
+  "journal": "IEEE transactions on bio-medical engineering",
+  "year": "2018",
+  "doi": "10.1109/TBME.2017.2776204",
+  "mesh": [
+    "Amyotrophic Lateral Sclerosis",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Female",
+    "Hand",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Motor Cortex",
+    "Self-Help Devices",
+    "Signal Processing, Computer-Assisted",
+    "Spinal Cord Injuries",
+    "Task Performance and Analysis"
+  ]
+}

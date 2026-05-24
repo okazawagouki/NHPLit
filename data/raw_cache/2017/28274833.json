@@ -1,0 +1,23 @@
+{
+  "pmid": "28274833",
+  "title": "Investigating the spatiotemporal characteristics of the deoxyhemoglobin-related and deoxyhemoglobin-unrelated functional hemodynamic response across cortical layers in awake marmosets.",
+  "abstract": "Blood oxygenation level dependent (BOLD) functional magnetic resonance imaging (fMRI) has become a major tool to map neural activity. However, the spatiotemporal characteristics of the BOLD functional hemodynamic response across the cortical layers remain poorly understood. While human fMRI studies suffer from low spatiotemporal resolution, the use of anesthesia in animal models introduces confounding factors. Additionally, inflow contributions to the fMRI signal become non-negligible when short repetition times (TRs) are used. In the present work, we mapped the BOLD fMRI response to somatosensory stimulation in awake marmosets. To address the above technical concerns, we used a dual-echo gradient-recalled echo planar imaging (GR-EPI) sequence to separate the deoxyhemoglobin-related response (absolute T<sub>2</sub>* differences) from the deoxyhemoglobin-unrelated response (relative S<sub>0</sub> changes). We employed a spatial saturation pulse to saturate incoming arterial spins and reduce inflow effects. Functional GR-EPI images were obtained from a single coronal slice with two different echo times (13.5 and 40.5ms) and TR=0.2s. BOLD, T<sub>2</sub>*, and S<sub>0</sub> images were calculated and their functional responses were detected in both hemispheres of primary somatosensory cortex, from which five laminar regions (L1+2, L3, L4, L5, and L6) were derived. The spatiotemporal distribution of the BOLD response across the cortical layers was heterogeneous, with the middle layers having the highest BOLD amplitudes and shortest onset times. ΔT<sub>2</sub>* also showed a similar trend. However, functional S<sub>0</sub> changes were detected only in L1+2, with a fast onset time. Because inflow effects were minimized, the source of S<sub>0</sub> functional changes in L1+2 could be attributed to a reduction of cerebrospinal fluid volume fraction due to the functional increase in cerebral blood volume and to unmodeled T<sub>2</sub>* changes in the extra- and intra-venous compartments. Caution should be exercised when interpreting laminar BOLD fMRI changes in superficial layers as surrogates of underlying neural activity.",
+  "authors": [
+    "Yen Cecil Chern-Chyi",
+    "Papoti Daniel",
+    "Silva Afonso C"
+  ],
+  "journal": "NeuroImage",
+  "year": "2018",
+  "doi": "10.1016/j.neuroimage.2017.03.005",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Callithrix",
+    "Echo-Planar Imaging",
+    "Hemodynamics",
+    "Hemoglobins",
+    "Male",
+    "Somatosensory Cortex"
+  ]
+}

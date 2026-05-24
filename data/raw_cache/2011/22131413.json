@@ -1,0 +1,26 @@
+{
+  "pmid": "22131413",
+  "title": "Higher-order interactions characterized in cortical activity.",
+  "abstract": "In the cortex, the interactions among neurons give rise to transient coherent activity patterns that underlie perception, cognition, and action. Recently, it was actively debated whether the most basic interactions, i.e., the pairwise correlations between neurons or groups of neurons, suffice to explain those observed activity patterns. So far, the evidence reported is controversial. Importantly, the overall organization of neuronal interactions and the mechanisms underlying their generation, especially those of high-order interactions, have remained elusive. Here we show that higher-order interactions are required to properly account for cortical dynamics such as ongoing neuronal avalanches in the alert monkey and evoked visual responses in the anesthetized cat. A Gaussian interaction model that utilizes the observed pairwise correlations and event rates and that applies intrinsic thresholding identifies those higher-order interactions correctly, both in cortical local field potentials and spiking activities. This allows for accurate prediction of large neuronal population activities as required, e.g., in brain-machine interface paradigms. Our results demonstrate that higher-order interactions are inherent properties of cortical dynamics and suggest a simple solution to overcome the apparent formidable complexity previously thought to be intrinsic to those interactions.",
+  "authors": [
+    "Yu Shan",
+    "Yang Hongdian",
+    "Nakahara Hiroyuki",
+    "Santos Gustavo S",
+    "Nikolić Danko",
+    "Plenz Dietmar"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2011",
+  "doi": "10.1523/JNEUROSCI.3127-11.2011",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cats",
+    "Cerebral Cortex",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons"
+  ]
+}

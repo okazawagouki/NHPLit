@@ -1,0 +1,27 @@
+{
+  "pmid": "36371498",
+  "title": "Real-time brain-machine interface in non-human primates achieves high-velocity prosthetic finger movements using a shallow feedforward neural network decoder.",
+  "abstract": "Despite the rapid progress and interest in brain-machine interfaces that restore motor function, the performance of prosthetic fingers and limbs has yet to mimic native function. The algorithm that converts brain signals to a control signal for the prosthetic device is one of the limitations in achieving rapid and realistic finger movements. To achieve more realistic finger movements, we developed a shallow feed-forward neural network to decode real-time two-degree-of-freedom finger movements in two adult male rhesus macaques. Using a two-step training method, a recalibrated feedback intention-trained (ReFIT) neural network is introduced to further improve performance. In 7 days of testing across two animals, neural network decoders, with higher-velocity and more natural appearing finger movements, achieved a 36% increase in throughput over the ReFIT Kalman filter, which represents the current standard. The neural network decoders introduced herein demonstrate real-time decoding of continuous movements at a level superior to the current state-of-the-art and could provide a starting point to using neural networks for the development of more naturalistic brain-controlled prostheses.",
+  "authors": [
+    "Willsey Matthew S",
+    "Nason-Tomaszewski Samuel R",
+    "Ensel Scott R",
+    "Temmar Hisham",
+    "Mender Matthew J",
+    "Costello Joseph T",
+    "Patil Parag G",
+    "Chestek Cynthia A"
+  ],
+  "journal": "Nature communications",
+  "year": "2022",
+  "doi": "10.1038/s41467-022-34452-w",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Neural Networks, Computer",
+    "Movement",
+    "Algorithms"
+  ]
+}

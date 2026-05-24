@@ -1,0 +1,15 @@
+{
+  "pmid": "36507348",
+  "title": "Bio-mimetic high-speed target localization with fused frame and event vision for edge application.",
+  "abstract": "Evolution has honed predatory skills in the natural world where localizing and intercepting fast-moving prey is required. The current generation of robotic systems mimics these biological systems using deep learning. High-speed processing of the camera frames using convolutional neural networks (CNN) (frame pipeline) on such constrained aerial edge-robots gets resource-limited. Adding more compute resources also eventually limits the throughput at the frame rate of the camera as frame-only traditional systems fail to capture the detailed temporal dynamics of the environment. Bio-inspired event cameras and spiking neural networks (SNN) provide an asynchronous sensor-processor pair (event pipeline) capturing the continuous temporal details of the scene for high-speed but lag in terms of accuracy. In this work, we propose a target localization system combining event-camera and SNN-based high-speed target estimation and frame-based camera and CNN-driven reliable object detection by fusing complementary spatio-temporal prowess of event and frame pipelines. One of our main contributions involves the design of an SNN filter that borrows from the neural mechanism for ego-motion cancelation in houseflies. It fuses the vestibular sensors with the vision to cancel the activity corresponding to the predator's self-motion. We also integrate the neuro-inspired multi-pipeline processing with task-optimized multi-neuronal pathway structure in primates and insects. The system is validated to outperform CNN-only processing using prey-predator drone simulations in realistic 3D virtual environments. The system is then demonstrated in a real-world multi-drone set-up with emulated event data. Subsequently, we use recorded actual sensory data from multi-camera and inertial measurement unit (IMU) assembly to show desired working while tolerating the realistic noise in vision and IMU sensors. We analyze the design space to identify optimal parameters for spiking neurons, CNN models, and for checking their effect on the performance metrics of the fused system. Finally, we map the throughput controlling SNN and fusion network on edge-compatible Zynq-7000 FPGA to show a potential 264 outputs per second even at constrained resource availability. This work may open new research directions by coupling multiple sensing and processing modalities inspired by discoveries in neuroscience to break fundamental trade-offs in frame-based computer vision.",
+  "authors": [
+    "Lele Ashwin Sanjay",
+    "Fang Yan",
+    "Anwar Aqeel",
+    "Raychowdhury Arijit"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2022",
+  "doi": "10.3389/fnins.2022.1010302",
+  "mesh": []
+}

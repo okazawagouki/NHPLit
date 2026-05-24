@@ -1,0 +1,21 @@
+{
+  "pmid": "31478872",
+  "title": "A 25 Mbps, 12.4 pJ/b DQPSK Backscatter Data Uplink for the NeuroDisc Brain-Computer Interface.",
+  "abstract": "Wireless brain-computer interfaces (BCIs) are used to study neural activity in freely moving non-human primates (NHPs). However, the high energy consumption of conventional active radios is proving to be an obstacle as research drives for wireless BCIs that can provide continuous high-rate data uplinks for longer durations (i.e. multiple days). We present a differential quadrature phase shift keying (DQPSK) backscatter uplink for the NeuroDisc BCI as an alternative to active radios. The uplink achieves a 25 Mbps throughput while operating in the 915 MHz industrial, scientific, and medical (ISM) band. The DQPSK backscatter modulator was measured to have an error-vector magnitude (EVM) of 9.7% and a measured power consumption of 309  μW during continuous, full-rate transmissions, yielding an analog communication efficiency of 12.4 pJ/bit. The NeuroDisc is capable of recording 16 channels of neural data with 16-bit resolution at up to 20 kSps per channel with a measured input-referred noise of 2.35  μV. In previous work, we demonstrated the DQPSK backscatter uplink, but bandwidth constraints in the signal chain limited the uplink rate to 6.25 Mbps and the neural sampling rate to 5 kSps. This work provides new innovations to increase the bandwidth of the system, including an ultra-high frequency (UHF) antenna design with a -10 dB return loss bandwidth of 12.5 MHz and a full-duplex receiver with an average self-jammer cancellation of 89 dB. We present end-to-end characterization of the NeuroDisc and validate the backscatter uplink using pre-recorded neural data as well as in vivo recordings from a pigtail macaque.",
+  "authors": [
+    "Rosenthal James",
+    "Sharma Apoorva",
+    "Kampianakis Eleftherios",
+    "Reynolds Matthew S"
+  ],
+  "journal": "IEEE transactions on biomedical circuits and systems",
+  "year": "2019",
+  "doi": "10.1109/TBCAS.2019.2938511",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Macaca nemestrina",
+    "Signal Processing, Computer-Assisted",
+    "Wireless Technology"
+  ]
+}

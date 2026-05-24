@@ -1,0 +1,30 @@
+{
+  "pmid": "25368200",
+  "title": "Spatial embedding of structural similarity in the cerebral cortex.",
+  "abstract": "Recent anatomical tracing studies have yielded substantial amounts of data on the areal connectivity underlying distributed processing in cortex, yet the fundamental principles that govern the large-scale organization of cortex remain unknown. Here we show that functional similarity between areas as defined by the pattern of shared inputs or outputs is a key to understanding the areal network of cortex. In particular, we report a systematic relation in the monkey, human, and mouse cortex between the occurrence of connections from one area to another and their similarity distance. This characteristic relation is rooted in the wiring distance dependence of connections in the brain. We introduce a weighted, spatially embedded random network model that robustly gives rise to this structure, as well as many other spatial and topological properties observed in cortex. These include features that were not accounted for in any previous model, such as the wide range of interareal connection weights. Connections in the model emerge from an underlying distribution of spatially embedded axons, thereby integrating the two scales of cortical connectivity--individual axons and interareal pathways--into a common geometric framework. These results provide insights into the origin of large-scale connectivity in cortex and have important implications for theories of cortical organization.",
+  "authors": [
+    "Song H Francis",
+    "Kennedy Henry",
+    "Wang Xiao-Jing"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2014",
+  "doi": "10.1073/pnas.1414153111",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Axons",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Connectome",
+    "Humans",
+    "Likelihood Functions",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Mice",
+    "Models, Neurological",
+    "Nerve Net",
+    "Organ Size",
+    "Species Specificity"
+  ]
+}

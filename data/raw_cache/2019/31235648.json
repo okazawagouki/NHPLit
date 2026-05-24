@@ -1,0 +1,28 @@
+{
+  "pmid": "31235648",
+  "title": "Predicting Perceptual Decisions Using Visual Cortical Population Responses and Choice History.",
+  "abstract": "Our understanding of the neural basis of perceptual decision making has been built in part on relating co-fluctuations of single neuron responses to perceptual decisions on a trial-by-trial basis. The strength of this relationship is often compared across neurons or brain areas, recorded in different sessions, animals, or variants of a task. We sought to extend our understanding of perceptual decision making in three ways. First, we measured neuronal activity simultaneously in early [primary visual cortex (V1)] and midlevel (V4) visual cortex while macaque monkeys performed a fine orientation discrimination perceptual task. This allowed a direct comparison of choice signals in these two areas, including their dynamics. Second, we asked how our ability to predict animals' decisions would be improved by considering small simultaneously-recorded neuronal populations rather than individual units. Finally, we asked whether predictions would be improved by taking into account the animals' choice and reward histories, which can strongly influence decision making. We found that responses of individual V4 neurons were weakly predictive of decisions, but only in a brief epoch between stimulus offset and the indication of choice. In V1, few neurons showed significant decision-related activity. Analysis of neuronal population responses revealed robust choice-related information in V4 and substantially weaker signals in V1. Including choice- and reward-history information improved performance further, particularly when the recorded populations contained little decision-related information. Our work shows the power of using neuronal populations and decision history when relating neuronal responses to the perceptual decisions they are thought to underlie.<b>SIGNIFICANCE STATEMENT</b> Decades of research has provided a rich description of how visual information is represented in the visual cortex. Yet how cortical responses relate to visual perception remains poorly understood. Here we relate fluctuations in small neuronal population responses, recorded simultaneously in primary visual cortex (V1) and area V4 of monkeys, to perceptual reports in an orientation discrimination task. Choice-related signals were robust in V4, particularly late in the behavioral trial, but not in V1. Models that include both neuronal responses and choice-history information were able to predict a substantial portion of decisions. Our work shows the power of integrating information across neurons and including decision history in relating neuronal responses to perceptual decisions.",
+  "authors": [
+    "Jasper Anna Ivic",
+    "Tanabe Seiji",
+    "Kohn Adam"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2019",
+  "doi": "10.1523/JNEUROSCI.0035-19.2019",
+  "mesh": [
+    "Animals",
+    "Conditioning, Operant",
+    "Decision Making",
+    "Discrimination, Psychological",
+    "Eye Movements",
+    "Fixation, Ocular",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Orientation",
+    "Reward",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

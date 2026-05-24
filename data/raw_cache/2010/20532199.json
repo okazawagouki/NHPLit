@@ -1,0 +1,23 @@
+{
+  "pmid": "20532199",
+  "title": "Bistable, irregular firing and population oscillations in a modular attractor memory network.",
+  "abstract": "Attractor neural networks are thought to underlie working memory functions in the cerebral cortex. Several such models have been proposed that successfully reproduce firing properties of neurons recorded from monkeys performing working memory tasks. However, the regular temporal structure of spike trains in these models is often incompatible with experimental data. Here, we show that the in vivo observations of bistable activity with irregular firing at the single cell level can be achieved in a large-scale network model with a modular structure in terms of several connected hypercolumns. Despite high irregularity of individual spike trains, the model shows population oscillations in the beta and gamma band in ground and active states, respectively. Irregular firing typically emerges in a high-conductance regime of balanced excitation and inhibition. Population oscillations can produce such a regime, but in previous models only a non-coding ground state was oscillatory. Due to the modular structure of our network, the oscillatory and irregular firing was maintained also in the active state without fine-tuning. Our model provides a novel mechanistic view of how irregular firing emerges in cortical populations as they go from beta to gamma oscillations during memory retrieval.",
+  "authors": [
+    "Lundqvist Mikael",
+    "Compte Albert",
+    "Lansner Anders"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2010",
+  "doi": "10.1371/journal.pcbi.1000803",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Memory",
+    "Models, Neurological",
+    "Nerve Net",
+    "Poisson Distribution",
+    "Pyramidal Cells",
+    "Synaptic Transmission"
+  ]
+}

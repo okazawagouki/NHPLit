@@ -1,0 +1,21 @@
+{
+  "pmid": "18254695",
+  "title": "A canonical neural circuit for cortical nonlinear operations.",
+  "abstract": "A few distinct cortical operations have been postulated over the past few years, suggested by experimental data on nonlinear neural response across different areas in the cortex. Among these, the energy model proposes the summation of quadrature pairs following a squaring nonlinearity in order to explain phase invariance of complex V1 cells. The divisive normalization model assumes a gain-controlling, divisive inhibition to explain sigmoid-like response profiles within a pool of neurons. A gaussian-like operation hypothesizes a bell-shaped response tuned to a specific, optimal pattern of activation of the presynaptic inputs. A max-like operation assumes the selection and transmission of the most active response among a set of neural inputs. We propose that these distinct neural operations can be computed by the same canonical circuitry, involving divisive normalization and polynomial nonlinearities, for different parameter values within the circuit. Hence, this canonical circuit may provide a unifying framework for several circuit models, such as the divisive normalization and the energy models. As a case in point, we consider a feedforward hierarchical model of the ventral pathway of the primate visual cortex, which is built on a combination of the gaussian-like and max-like operations. We show that when the two operations are approximated by the circuit proposed here, the model is capable of generating selective and invariant neural responses and performing object recognition, in good agreement with neurophysiological data.",
+  "authors": [
+    "Kouh Minjoon",
+    "Poggio Tomaso"
+  ],
+  "journal": "Neural computation",
+  "year": "2008",
+  "doi": "10.1162/neco.2008.02-07-466",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Normal Distribution"
+  ]
+}

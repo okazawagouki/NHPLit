@@ -1,0 +1,32 @@
+{
+  "pmid": "24447175",
+  "title": "Improved pan-specific MHC class I peptide-binding predictions using a novel representation of the MHC-binding cleft environment.",
+  "abstract": "Major histocompatibility complex (MHC) molecules play a key role in cell-mediated immune responses presenting bounded peptides for recognition by the immune system cells. Several in silico methods have been developed to predict the binding affinity of a given peptide to a specific MHC molecule. One of the current state-of-the-art methods for MHC class I is NetMHCpan, which has a core ingredient for the representation of the MHC class I molecule using a pseudo-sequence representation of the binding cleft amino acid environment. New and large MHC-peptide-binding data sets are constantly being made available, and also new structures of MHC class I molecules with a bound peptide have been published. In order to test if the NetMHCpan method can be improved by integrating this novel information, we created new pseudo-sequence definitions for the MHC-binding cleft environment from sequence and structural analyses of different MHC data sets including human leukocyte antigen (HLA), non-human primates (chimpanzee, macaque and gorilla) and other animal alleles (cattle, mouse and swine). From these constructs, we showed that by focusing on MHC sequence positions found to be polymorphic across the MHC molecules used to train the method, the NetMHCpan method achieved a significant increase in the predictive performance, in particular, of non-human MHCs. This study hence showed that an improved performance of MHC-binding methods can be achieved not only by the accumulation of more MHC-peptide-binding data but also by a refined definition of the MHC-binding environment including information from non-human species.",
+  "authors": [
+    "Carrasco Pro S",
+    "Zimic M",
+    "Nielsen M"
+  ],
+  "journal": "Tissue antigens",
+  "year": "2014",
+  "doi": "10.1111/tan.12292",
+  "mesh": [
+    "Alleles",
+    "Animals",
+    "Binding Sites",
+    "Cattle",
+    "Databases, Protein",
+    "Gorilla gorilla",
+    "Histocompatibility Antigens Class I",
+    "Humans",
+    "Macaca",
+    "Mice",
+    "Molecular Docking Simulation",
+    "Pan troglodytes",
+    "Peptides",
+    "Protein Binding",
+    "Protein Interaction Domains and Motifs",
+    "Software",
+    "Swine"
+  ]
+}

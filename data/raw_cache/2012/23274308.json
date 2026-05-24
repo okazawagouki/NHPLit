@@ -1,0 +1,23 @@
+{
+  "pmid": "23274308",
+  "title": "Responses of somatosensory area 2 neurons to actively and passively generated limb movements.",
+  "abstract": "Control of reaching movements requires an accurate estimate of the state of the limb, yet sensory signals are inherently noisy, because of both noise at the receptors themselves and the stochastic nature of the information representation by neural discharge. One way to derive an accurate representation from noisy sensor data is to combine it with the output of a forward model that considers both the previous state estimate and the noisy input. We recorded from primary somatosensory cortex (S1) in macaques (Macaca mulatta) during both active and passive movements to investigate how the proprioceptive representation of movement in S1 may be modified by the motor command (through efference copy). We found neurons in S1 that respond to one or both movement types covering a broad distribution from active movement only, to both, to passive movement only. Those neurons that responded to both active and passive movements responded with similar directional tuning. Confirming earlier results, some, but not all, neurons responded before the onset of volitional movements, possibly as a result of efference copy. Consequently, many of the features necessary to combine the forward model with proprioceptive feedback appear to be present in S1. These features would not be expected from combinations of afferent receptor responses alone.",
+  "authors": [
+    "London Brian M",
+    "Miller Lee E"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2013",
+  "doi": "10.1152/jn.00372.2012",
+  "mesh": [
+    "Animals",
+    "Arm",
+    "Feedback, Sensory",
+    "Macaca mulatta",
+    "Movement",
+    "Neurons",
+    "Proprioception",
+    "Range of Motion, Articular",
+    "Somatosensory Cortex"
+  ]
+}

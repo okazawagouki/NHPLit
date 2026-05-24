@@ -1,0 +1,23 @@
+{
+  "pmid": "41265572",
+  "title": "CUSP: Complex spike sorting from multi-electrode array recordings with U-net sequence-to-sequence prediction.",
+  "abstract": "BACKGROUND: Complex spikes (CSs) in cerebellar Purkinje cells convey unique signals complementary to Simple spike (SS) action potentials, but are infrequent and variable in waveform. Their variability and low spike counts, combined with recording artifacts such as electrode drift, make automated detection challenging. NEW METHOD: We introduce CUSP (CS sorting via U-net Sequence Prediction), a fully automated deep learning framework for CS sorting in high-density multi-electrode array recordings. CUSP uses a U-Net architecture with hybrid self-attention inception blocks to integrate local field potential and action potential signals and outputs CS event probabilities in a sequence-to-sequence manner. Detected events are clustered and paired with concurrently detected SSs to reconstruct the complete Purkinje cell activity. RESULTS: Trained on cerebellar neuropixels recordings in rhesus macaques, CUSP achieves human-expert performance (F1 = 0.83 ± 0.03) and even captures valid CS events overlooked during manual annotation. COMPARISON WITH EXISTING METHODS: CUSP outperforms traditional and state-of-the-art CS and SS sorting algorithms on CS detection. It remains robust to waveform variability, spikelet composition, and electrode drift, enabling accurate CS tracking in long-term recordings. In contrast, existing methods often show false-positive biases or degrade under drift. CONCLUSIONS: CUSP provides a scalable, robust framework for analyzing burst-like or dynamically complex spike patterns. Its generalizability makes it valuable for large-scale cerebellar datasets and other neural systems, such as hippocampal pyramidal cells, where complex bursts are critical for computation. By combining expert-level accuracy with automation, CUSP offers a broadly applicable solution for studying information coding across circuits.",
+  "authors": [
+    "Bao Chenhao",
+    "Mildren Robyn L",
+    "Charles Adam S",
+    "Cullen Kathleen E"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2026",
+  "doi": "10.1016/j.jneumeth.2025.110631",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Action Potentials",
+    "Purkinje Cells",
+    "Signal Processing, Computer-Assisted",
+    "Deep Learning",
+    "Algorithms"
+  ]
+}

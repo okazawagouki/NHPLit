@@ -1,0 +1,29 @@
+{
+  "pmid": "23153969",
+  "title": "Evaluation and calibration of functional network modeling methods based on known anatomical connections.",
+  "abstract": "Recent studies have identified large scale brain networks based on the spatio-temporal structure of spontaneous fluctuations in resting-state fMRI data. It is expected that functional connectivity based on resting-state data is reflective of - but not identical to - the underlying anatomical connectivity. However, which functional connectivity analysis methods reliably predict the network structure remains unclear. Here we tested and compared network connectivity analysis methods by applying them to fMRI resting-state time-series obtained from the human visual cortex. The methods evaluated here are those previously tested against simulated data in Smith et al. (Neuroimage, 2011). To this end, we defined regions within retinotopic visual areas V1, V2, and V3 according to their eccentricity in the visual field, delineating central, intermediate, and peripheral eccentricity regions of interest (ROIs). These ROIs served as nodes in the models we study. We based our evaluation on the \"ground-truth\", thoroughly studied retinotopically-organized anatomical connectivity in the monkey visual cortex. For each evaluated method, we computed the fractional rate of detecting connections known to exist (\"c-sensitivity\"), while using a threshold of the 95th percentile of the distribution of interaction magnitudes of those connections not expected to exist. Under optimal conditions - including session duration of 68min, a relatively small network consisting of 9 nodes and artifact-free regression of the global effect - each of the top methods predicted the expected connections with 67-85% c-sensitivity. Correlation methods, including Correlation (Corr; 85%), Regularized Inverse Covariance (ICOV; 84%) and Partial Correlation (PCorr; 81%) performed best, followed by Patel's Kappa (80%), Bayesian Network method PC (BayesNet; 77%), General Synchronization measures (67-77%), and Coherence (CohB; 74%). With decreased session duration, these top methods saw decreases in c-sensitivities, achieving 59-76% for 17min sessions. With a short resting-state fMRI scan of 8.5min, none of the methods predicted the real network well, with Corr (65%) performing best. With increased complexity of the network from 9 to 36 nodes, multivariate methods including PCorr and BayesNet saw a decrease in performance. Artifact-free regression of the global effect increased the c-sensitivity of the top-performing methods. In an overall evaluation across all tests we performed, correlation methods (Corr, ICOV, and PCorr), Patel's Kappa, and BayesNet method PC set themselves somewhat above all other methods. We propose that data-based calibration based on known anatomical connections be integrated into future network studies, in order to maximize sensitivity and reduce false positives.",
+  "authors": [
+    "Dawson Debra Ann",
+    "Cha Kuwook",
+    "Lewis Lindsay B",
+    "Mendola Janine D",
+    "Shmuel Amir"
+  ],
+  "journal": "NeuroImage",
+  "year": "2013",
+  "doi": "10.1016/j.neuroimage.2012.11.006",
+  "mesh": [
+    "Algorithms",
+    "Calibration",
+    "Computer Simulation",
+    "Connectome",
+    "Humans",
+    "Image Interpretation, Computer-Assisted",
+    "Models, Anatomic",
+    "Models, Neurological",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

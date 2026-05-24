@@ -1,0 +1,27 @@
+{
+  "pmid": "21307329",
+  "title": "Information transmission and detection thresholds in the vestibular nuclei: single neurons vs. population encoding.",
+  "abstract": "Understanding how sensory neurons transmit information about relevant stimuli remains a major goal in neuroscience. Of particular relevance are the roles of neural variability and spike timing in neural coding. Peripheral vestibular afferents display differential variability that is correlated with the importance of spike timing; regular afferents display little variability and use a timing code to transmit information about sensory input. Irregular afferents, conversely, display greater variability and instead use a rate code. We studied how central neurons within the vestibular nuclei integrate information from both afferent classes by recording from a group of neurons termed vestibular only (VO) that are known to make contributions to vestibulospinal reflexes and project to higher-order centers. We found that, although individual central neurons had sensitivities that were greater than or equal to those of individual afferents, they transmitted less information. In addition, their velocity detection thresholds were significantly greater than those of individual afferents. This is because VO neurons display greater variability, which is detrimental to information transmission and signal detection. Combining activities from multiple VO neurons increased information transmission. However, the information rates were still much lower than those of equivalent afferent populations. Furthermore, combining responses from multiple VO neurons led to lower velocity detection threshold values approaching those measured from behavior (∼ 2.5 vs. 0.5-1°/s). Our results suggest that the detailed time course of vestibular stimuli encoded by afferents is not transmitted by VO neurons. Instead, they suggest that higher vestibular pathways must integrate information from central vestibular neuron populations to give rise to behaviorally observed detection thresholds.",
+  "authors": [
+    "Massot Corentin",
+    "Chacron Maurice J",
+    "Cullen Kathleen E"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2011",
+  "doi": "10.1152/jn.00910.2010",
+  "mesh": [
+    "Acoustic Stimulation",
+    "Action Potentials",
+    "Animals",
+    "Auditory Threshold",
+    "Linear Models",
+    "Macaca fascicularis",
+    "Macaca mulatta",
+    "Models, Animal",
+    "Neurons, Afferent",
+    "Sensory Receptor Cells",
+    "Synaptic Transmission",
+    "Vestibular Nuclei"
+  ]
+}

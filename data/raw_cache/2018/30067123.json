@@ -1,0 +1,21 @@
+{
+  "pmid": "30067123",
+  "title": "Micropools of reliable area MT neurons explain rapid motion detection.",
+  "abstract": "Many models of perceptually based decisions postulate that actions are initiated when accumulated sensory signals reach a threshold level of activity. These models have received considerable neurophysiological support from recordings of individual neurons while animals are engaged in motion discrimination tasks. These experiments have found that the activity of neurons in a particular visual area strongly associated with motion processing (MT), when pooled over hundreds of milliseconds, is sufficient to explain behavioral timing and performance. However, this level of pooling may be problematic for urgent perceptual decisions in which rapid detection dictates temporally precise integration. In this paper, we explore the physiological basis of one such task in which macaques detected brief (~70 ms) transients of coherent motion within ~240 ms. We find that a simple linear summation model based on realistic stimulus responses of as few as 40 correlated neurons can predict the reliability and timing of rapid motion detection. The model naturally reproduces a distinctive physiological relationship observed in rapid detection tasks in which the individual neurons with the most reliable stimulus responses are also the most predictive of impending behavioral choices. Remarkably, we observed this relationship across our simulated neuronal populations even when all neurons within the pool were weighted equally with respect to readout. These results demonstrate that small numbers of reliable sensory neurons can dominate perceptual judgments without any explicit reliability based weighting and are sufficient to explain the accuracy, latency, and temporal precision of rapid detection. NEW & NOTEWORTHY Computational and psychophysical models suggest that performance in many perceptual tasks may be based on the preferential sampling of reliable neurons. Recent studies of MT neurons during rapid motion detection, in which only those neurons with the most reliable sensory responses were strongly predictive of the animals' decisions, seemingly support this notion. Here we show that a simple threshold model without explicit reliability biases can explain both the behavioral accuracy and precision of these detections and the distribution of sensory- and choice-related signals across neurons.",
+  "authors": [
+    "Krause Bryan M",
+    "Ghose Geoffrey M"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2018",
+  "doi": "10.1152/jn.00845.2017",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Reaction Time"
+  ]
+}

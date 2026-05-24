@@ -1,0 +1,21 @@
+{
+  "pmid": "21939760",
+  "title": "A three-layered model of primate prefrontal cortex encodes identity and abstract categorical structure of behavioral sequences.",
+  "abstract": "Categorical encoding is crucial for mastering large bodies of related sensory-motor experiences, but what is its neural substrate? In an effort to respond to this question, recent single-unit recording studies in the macaque lateral prefrontal cortex (LPFC) have demonstrated two characteristic forms of neural encoding of the sequential structure of the animal's sensory-motor experience. One population of neurons encodes the specific behavioral sequences. A second population of neurons encodes the sequence category (e.g. ABAB, AABB or AAAA) and does not differentiate sequences within the category (Shima, K., Isoda, M., Mushiake, H., Tanji, J., 2007. Categorization of behavioural sequences in the prefrontal cortex. Nature 445, 315-318.). Interestingly these neurons are intermingled in the lateral prefrontal cortex, and not topographically segregated. Thus, LPFC may provide a neurophysiological basis for sensorimotor categorization. Here we report on a neural network simulation study that reproduces and explains these results. We model a cortical circuit composed of three layers (infragranular, granular, and supragranular) of 5*5 leaky integrator neurons with a sigmoidal output function, and we examine 1000 such circuits running in parallel. Crucially the three layers are interconnected with recurrent connections, thus producing a dynamical system that is inherently sensitive to the spatiotemporal structure of the sequential inputs. The model is presented with 11 four-element sequences following Shima et al. We isolated one subpopulation of neurons each of whose activity predicts individual sequences, and a second population that predicts category independent of the specific sequence. We argue that a richly interconnected cortical circuit is capable of internally generating a neural representation of category membership, thus significantly extending the scope of recurrent network computation. In order to demonstrate that these representations can be used to create an explicit categorization capability, we introduced an additional neural structure corresponding to the striatum. We showed that via cortico-striatal plasticity, neurons in the striatum could produce an explicit representation both of the identity of each sequence, and its category membership.",
+  "authors": [
+    "Hinaut Xavier",
+    "Dominey Peter Ford"
+  ],
+  "journal": "Journal of physiology, Paris",
+  "year": "2011",
+  "doi": "10.1016/j.jphysparis.2011.07.010",
+  "mesh": [
+    "Animals",
+    "Learning",
+    "Macaca",
+    "Memory",
+    "Models, Neurological",
+    "Neurons",
+    "Prefrontal Cortex"
+  ]
+}

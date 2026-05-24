@@ -1,0 +1,26 @@
+{
+  "pmid": "24110957",
+  "title": "A new method of concurrently visualizing states, values, and actions in reinforcement based brain machine interfaces.",
+  "abstract": "This paper presents the first attempt to quantify the individual performance of the subject and of the computer agent on a closed loop Reinforcement Learning Brain Machine Interface (RLBMI). The distinctive feature of the RLBMI architecture is the co-adaptation of two systems (a BMI decoder in agent and a BMI user in environment). In this work, an agent implemented using Q-learning via kernel temporal difference (KTD)(λ) decodes the neural states of a monkey and transforms them into action directions of a robotic arm. We analyze how each participant influences the overall performance both in successful and missed trials by visualizing states, corresponding action value Q, and resulting actions in two-dimensional space. With the proposed methodology, we can observe how the decoder effectively learns a good state to action mapping, and how neural states affect the prediction performance.",
+  "authors": [
+    "Bae Jihye",
+    "Sanchez Giraldo Luis G",
+    "Pohlmeyer Eric A",
+    "Sanchez Justin C",
+    "Principe Jose C"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2013",
+  "doi": "10.1109/EMBC.2013.6610770",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Behavior, Animal",
+    "Brain-Computer Interfaces",
+    "Callithrix",
+    "Learning",
+    "Microelectrodes",
+    "Reinforcement, Psychology",
+    "Software"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "27797539",
+  "title": "The visually guided development of facial representations in the primate ventral visual pathway: A computer modeling study.",
+  "abstract": "Experimental studies have shown that neurons at an intermediate stage of the primate ventral visual pathway, occipital face area, encode individual facial parts such as eyes and nose while neurons in the later stages, middle face patches, are selective to the full face by encoding the spatial relations between facial features. We have performed a computer modeling study to investigate how these cell firing properties may develop through unsupervised visually guided learning. A hierarchical neural network model of the primate's ventral visual pathway is trained by presenting many randomly generated faces to the network while a local learning rule modifies the strengths of the synaptic connections between neurons in successive layers. After training, the model is found to have developed the experimentally observed cell firing properties. In particular, we have shown how the visual system forms separate representations of facial features such as the eyes, nose, and mouth as well as monotonically tuned representations of the spatial relationships between these facial features. We also demonstrated how the primate brain learns to represent facial expression independently of facial identity. Furthermore, based on the simulation results, we propose that neurons encoding different global attributes simply represent different spatial relationships between local features with monotonic tuning curves or particular combinations of these spatial relations. (PsycINFO Database Record",
+  "authors": [
+    "Eguchi Akihiro",
+    "Humphreys Glyn W",
+    "Stringer Simon M"
+  ],
+  "journal": "Psychological review",
+  "year": "2016",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Computer Simulation",
+    "Facial Expression",
+    "Facial Recognition",
+    "Humans",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Primates",
+    "Visual Pathways"
+  ]
+}

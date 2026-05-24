@@ -1,0 +1,15 @@
+{
+  "pmid": "42072234",
+  "title": "Neuroscience-Inspired Deep Learning Brain-Machine Interface Decoder.",
+  "abstract": "Brain-machine interfaces (BMIs) aim to decode motor intentions from neural activity to enable direct control of external devices. However, most existing decoders rely on monolithic architectures that fail to capture the distinct neural representations of different joint movement directions, limiting their generalizability. In this work, we propose a Single-Direction CNN-LSTM decoder inspired by motor cortex encoding mechanisms, which separately models extension and flexion dynamics through parallel CNN-LSTM branches. Each branch extracts spatial-temporal features from neural spike data and predicts directional joint variables, which are then combined by subtraction to yield the net angular velocity and torque of upper-limb joints. Using invasive recordings from a macaque during a 2D center-out reaching task, we demonstrate that our decoder achieves comparable performance to a conventional CNN-LSTM when trained on all tasks, while significantly outperforming both CNN-LSTM and linear regression baselines in cross-target generalization scenarios. Moreover, the model can capture physiologically meaningful co-contraction patterns, providing richer insights into motor control. These results suggest that incorporating neuroscience-inspired modular decoding into deep neural architectures enhances robustness and adaptability across tasks, offering a promising pathway for BMI applications in prosthetics and rehabilitation.",
+  "authors": [
+    "Ou Hong-Yun",
+    "Hasegawa Takahiro",
+    "Fukayama Osamu",
+    "Miyashita Eizo"
+  ],
+  "journal": "Bioengineering (Basel, Switzerland)",
+  "year": "2026",
+  "doi": "10.3390/bioengineering13040440",
+  "mesh": []
+}

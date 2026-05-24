@@ -1,0 +1,22 @@
+{
+  "pmid": "37828226",
+  "title": "The combination of Hebbian and predictive plasticity learns invariant object representations in deep sensory networks.",
+  "abstract": "Recognition of objects from sensory stimuli is essential for survival. To that end, sensory networks in the brain must form object representations invariant to stimulus changes, such as size, orientation and context. Although Hebbian plasticity is known to shape sensory networks, it fails to create invariant object representations in computational models, raising the question of how the brain achieves such processing. In the present study, we show that combining Hebbian plasticity with a predictive form of plasticity leads to invariant representations in deep neural network models. We derive a local learning rule that generalizes to spiking neural networks and naturally accounts for several experimentally observed properties of synaptic plasticity, including metaplasticity and spike-timing-dependent plasticity. Finally, our model accurately captures neuronal selectivity changes observed in the primate inferotemporal cortex in response to altered visual experience. Thus, we provide a plausible normative theory emphasizing the importance of predictive plasticity mechanisms for successful representational learning.",
+  "authors": [
+    "Halvagal Manu Srinath",
+    "Zenke Friedemann"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2023",
+  "doi": "10.1038/s41593-023-01460-y",
+  "mesh": [
+    "Animals",
+    "Learning",
+    "Primates",
+    "Brain",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Neuronal Plasticity",
+    "Models, Neurological"
+  ]
+}

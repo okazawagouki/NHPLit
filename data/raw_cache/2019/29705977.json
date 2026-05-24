@@ -1,0 +1,24 @@
+{
+  "pmid": "29705977",
+  "title": "New Features for Neuron Classification.",
+  "abstract": "This paper addresses the problem of obtaining new neuron features capable of improving results of neuron classification. Most studies on neuron classification using morphological features have been based on Euclidean geometry. Here three one-dimensional (1D) time series are derived from the three-dimensional (3D) structure of neuron instead, and afterwards a spatial time series is finally constructed from which the features are calculated. Digitally reconstructed neurons were separated into control and pathological sets, which are related to three categories of alterations caused by epilepsy, Alzheimer's disease (long and local projections), and ischemia. These neuron sets were then subjected to supervised classification and the results were compared considering three sets of features: morphological, features obtained from the time series and a combination of both. The best results were obtained using features from the time series, which outperformed the classification using only morphological features, showing higher correct classification rates with differences of 5.15, 3.75, 5.33% for epilepsy and Alzheimer's disease (long and local projections) respectively. The morphological features were better for the ischemia set with a difference of 3.05%. Features like variance, Spearman auto-correlation, partial auto-correlation, mutual information, local minima and maxima, all related to the time series, exhibited the best performance. Also we compared different evaluators, among which ReliefF was the best ranked.",
+  "authors": [
+    "Hernández-Pérez Leonardo A",
+    "Delgado-Castillo Duniel",
+    "Martín-Pérez Rainer",
+    "Orozco-Morales Rubén",
+    "Lorenzo-Ginori Juan V"
+  ],
+  "journal": "Neuroinformatics",
+  "year": "2019",
+  "doi": "10.1007/s12021-018-9374-0",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Imaging, Three-Dimensional",
+    "Macaca mulatta",
+    "Neurons",
+    "Rats",
+    "Sheep"
+  ]
+}

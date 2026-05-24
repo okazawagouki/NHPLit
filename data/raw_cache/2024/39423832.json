@@ -1,0 +1,31 @@
+{
+  "pmid": "39423832",
+  "title": "Reducing power requirements for high-accuracy decoding in iBCIs.",
+  "abstract": "<i>Objective.</i>Current intracortical brain-computer interfaces (iBCIs) rely predominantly on threshold crossings ('spikes') for decoding neural activity into a control signal for an external device. Spiking data can yield high accuracy online control during complex behaviors; however, its dependence on high-sampling-rate data collection can pose challenges. An alternative signal for iBCI decoding is the local field potential (LFP), a continuous-valued signal that can be acquired simultaneously with spiking activity. However, LFPs are seldom used alone for online iBCI control as their decoding performance has yet to achieve parity with spikes.<i>Approach.</i>Here, we present a strategy to improve the performance of LFP-based decoders by first training a neural dynamics model to use LFPs to reconstruct the firing rates underlying spiking data, and then decoding from the estimated rates. We test these models on previously-collected macaque data during center-out and random-target reaching tasks as well as data collected from a human iBCI participant during attempted speech.<i>Main results.</i>In all cases, training models from LFPs enables firing rate reconstruction with accuracy comparable to spiking-based dynamics models. In addition, LFP-based dynamics models enable decoding performance exceeding that of LFPs alone and approaching that of spiking-based models. In all applications except speech, LFP-based dynamics models also facilitate decoding accuracy exceeding that of direct decoding from spikes.<i>Significance.</i>Because LFP-based dynamics models operate on lower bandwidth and with lower sampling rate than spiking models, our findings indicate that iBCI devices can be designed to operate with lower power requirements than devices dependent on recorded spiking activity, without sacrificing high-accuracy decoding.",
+  "authors": [
+    "Karpowicz Brianna M",
+    "Bhaduri Bareesh",
+    "Nason-Tomaszewski Samuel R",
+    "Jacques Brandon G",
+    "Ali Yahia H",
+    "Flint Robert D",
+    "Bechefsky Payton H",
+    "Hochberg Leigh R",
+    "AuYong Nicholas",
+    "Slutzky Marc W",
+    "Pandarinath Chethan"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2024",
+  "doi": "10.1088/1741-2552/ad88a4",
+  "mesh": [
+    "Brain-Computer Interfaces",
+    "Humans",
+    "Animals",
+    "Action Potentials",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Electric Power Supplies"
+  ]
+}

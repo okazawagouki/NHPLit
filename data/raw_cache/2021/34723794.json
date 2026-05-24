@@ -1,0 +1,29 @@
+{
+  "pmid": "34723794",
+  "title": "Fast and accurate annotation of acoustic signals with deep neural networks.",
+  "abstract": "Acoustic signals serve communication within and across species throughout the animal kingdom. Studying the genetics, evolution, and neurobiology of acoustic communication requires annotating acoustic signals: segmenting and identifying individual acoustic elements like syllables or sound pulses. To be useful, annotations need to be accurate, robust to noise, and fast. We here introduce <i>DeepAudioSegmenter</i> (<i>DAS)</i>, a method that annotates acoustic signals across species based on a deep-learning derived hierarchical presentation of sound. We demonstrate the accuracy, robustness, and speed of <i>DAS</i> using acoustic signals with diverse characteristics from insects, birds, and mammals. <i>DAS</i> comes with a graphical user interface for annotating song, training the network, and for generating and proofreading annotations. The method can be trained to annotate signals from new species with little manual annotation and can be combined with unsupervised methods to discover novel signal types. <i>DAS</i> annotates song with high throughput and low latency for experimental interventions in realtime. Overall, <i>DAS</i> is a universal, versatile, and accessible tool for annotating acoustic communication signals.",
+  "authors": [
+    "Steinfath Elsa",
+    "Palacios-Muñoz Adrian",
+    "Rottschäfer Julian R",
+    "Yuezak Deniz",
+    "Clemens Jan"
+  ],
+  "journal": "eLife",
+  "year": "2021",
+  "doi": "10.7554/eLife.68837",
+  "mesh": [
+    "Acoustics",
+    "Animal Communication",
+    "Animals",
+    "Callithrix",
+    "Drosophila melanogaster",
+    "Ethology",
+    "Female",
+    "Finches",
+    "Male",
+    "Mice",
+    "Neural Networks, Computer",
+    "Songbirds"
+  ]
+}

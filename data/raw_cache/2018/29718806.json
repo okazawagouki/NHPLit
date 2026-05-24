@@ -1,0 +1,29 @@
+{
+  "pmid": "29718806",
+  "title": "Real-time visuomotor behavior and electrophysiology recording setup for use with humans and monkeys.",
+  "abstract": "Large-scale network dynamics in multiple visuomotor areas is of great interest in the study of eye-hand coordination in both human and monkey. To explore this, it is essential to develop a setup that allows for precise tracking of eye and hand movements. It is desirable that it is able to generate mechanical or visual perturbations of hand trajectories so that eye-hand coordination can be studied in a variety of conditions. There are simple solutions that satisfy these requirements for hand movements performed in the horizontal plane while visual stimuli and hand feedback are presented in the vertical plane. However, this spatial dissociation requires cognitive rules for eye-hand coordination different from eye-hand movements performed in the same space, as is the case in most natural conditions. Here we present an innovative solution for the precise tracking of eye and hand movements in a single reference frame. Importantly, our solution allows behavioral explorations under normal and perturbed conditions in both humans and monkeys. It is based on the integration of two noninvasive commercially available systems to achieve online control and synchronous recording of eye (EyeLink) and hand (KINARM) positions during interactive visuomotor tasks. We also present an eye calibration method compatible with different eye trackers that compensates for nonlinearities caused by the system's geometry. Our setup monitors the two effectors in real time with high spatial and temporal resolution and simultaneously outputs behavioral and neuronal data to an external data acquisition system using a common data format. NEW & NOTEWORTHY We developed a new setup for studying eye-hand coordination in humans and monkeys that monitors the two effectors in real time in a common reference frame. Our eye calibration method allows us to track gaze positions relative to visual stimuli presented in the horizontal workspace of the hand movements. This method compensates for nonlinearities caused by the system's geometry and transforms kinematics signals from the eye tracker into the same coordinate system as hand and targets.",
+  "authors": [
+    "de Haan Marcel Jan",
+    "Brochier Thomas",
+    "Grün Sonja",
+    "Riehle Alexa",
+    "Barthélemy Frédéric V"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2018",
+  "doi": "10.1152/jn.00262.2017",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Calibration",
+    "Electroencephalography",
+    "Eye Movement Measurements",
+    "Eye Movements",
+    "Female",
+    "Hand",
+    "Humans",
+    "Macaca mulatta",
+    "Psychomotor Performance",
+    "Software"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "33096039",
+  "title": "Early Emergence of Solid Shape Coding in Natural and Deep Network Vision.",
+  "abstract": "Area V4 is the first object-specific processing stage in the ventral visual pathway, just as area MT is the first motion-specific processing stage in the dorsal pathway. For almost 50 years, coding of object shape in V4 has been studied and conceived in terms of flat pattern processing, given its early position in the transformation of 2D visual images. Here, however, in awake monkey recording experiments, we found that roughly half of V4 neurons are more tuned and responsive to solid, 3D shape-in-depth, as conveyed by shading, specularity, reflection, refraction, or disparity cues in images. Using 2-photon functional microscopy, we found that flat- and solid-preferring neurons were segregated into separate modules across the surface of area V4. These findings should impact early shape-processing theories and models, which have focused on 2D pattern processing. In fact, our analyses of early object processing in AlexNet, a standard visual deep network, revealed a similar distribution of sensitivities to flat and solid shape in layer 3. Early processing of solid shape, in parallel with flat shape, could represent a computational advantage discovered by both primate brain evolution and deep-network training.",
+  "authors": [
+    "Srinath Ramanujan",
+    "Emonds Alexandriya",
+    "Wang Qingyang",
+    "Lempel Augusto A",
+    "Dunn-Weiss Erika",
+    "Connor Charles E",
+    "Nielsen Kristina J"
+  ],
+  "journal": "Current biology : CB",
+  "year": "2021",
+  "doi": "10.1016/j.cub.2020.09.076",
+  "mesh": [
+    "Animals",
+    "Deep Learning",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Form Perception",
+    "Intravital Microscopy",
+    "Macaca mulatta",
+    "Male",
+    "Microscopy, Fluorescence, Multiphoton",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

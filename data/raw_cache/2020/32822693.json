@@ -1,0 +1,21 @@
+{
+  "pmid": "32822693",
+  "title": "A surface metric and software toolbox for EEG electrode grids in the macaque.",
+  "abstract": "BACKGROUND: The past years have seen increased appreciation of electroencephalographic (EEG) recordings in non-human primates (NHP) as a tool for translational research. In humans, even large EEG electrode grids can easily and quickly be placed on standardized positions using commercially available EEG caps. In the NHP, the identification of standardized EEG electrode positions is more complicated and time-consuming. NEW METHOD: Here we introduce a surface metric and software package (NHP1020) that automates the planning of large, approximately evenly spaced electrode grids for EEG recordings in the NHP. RESULTS: Based on one CT and one MRI image as well as two intracranial markers, the NHP1020 software defines electrode positions on the brain surface using a surface-based spherical metric similar to the one used by the international 10-20 system. Standardized electrode grids can be shared, imported or defined with few high-level commands. EXISTING METHODS: NHP EEG electrodes can be placed relative to extracranial markers and measurements or relative to underlying neural structures of interest. Both approaches are time-consuming and require manual intervention. Furthermore, the use of extracranial markers in this species may be more problematic than in humans, because cranial muscles and ridges are larger and keep maturing long into adulthood. CONCLUSION: The presented surface metric and the NHP1020 toolbox provide fast and automated identification of entire electrode grids in the non-human primate based on a two-dimensional metric on the brain surface.",
+  "authors": [
+    "Li Fan",
+    "Teichert Tobias"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2020",
+  "doi": "10.1016/j.jneumeth.2020.108906",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Electrodes",
+    "Electroencephalography",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "Software"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pmid": "26180202",
+  "title": "Mechanisms for Rapid Adaptive Control of Motion Processing in Macaque Visual Cortex.",
+  "abstract": "UNLABELLED: A key feature of neural networks is their ability to rapidly adjust their function, including signal gain and temporal dynamics, in response to changes in sensory inputs. These adjustments are thought to be important for optimizing the sensitivity of the system, yet their mechanisms remain poorly understood. We studied adaptive changes in temporal integration in direction-selective cells in macaque primary visual cortex, where specific hypotheses have been proposed to account for rapid adaptation. By independently stimulating direction-specific channels, we found that the control of temporal integration of motion at one direction was independent of motion signals driven at the orthogonal direction. We also found that individual neurons can simultaneously support two different profiles of temporal integration for motion in orthogonal directions. These findings rule out a broad range of adaptive mechanisms as being key to the control of temporal integration, including untuned normalization and nonlinearities of spike generation and somatic adaptation in the recorded direction-selective cells. Such mechanisms are too broadly tuned, or occur too far downstream, to explain the channel-specific and multiplexed temporal integration that we observe in single neurons. Instead, we are compelled to conclude that parallel processing pathways are involved, and we demonstrate one such circuit using a computer model. This solution allows processing in different direction/orientation channels to be separately optimized and is sensible given that, under typical motion conditions (e.g., translation or looming), speed on the retina is a function of the orientation of image components. SIGNIFICANCE STATEMENT: Many neurons in visual cortex are understood in terms of their spatial and temporal receptive fields. It is now known that the spatiotemporal integration underlying visual responses is not fixed but depends on the visual input. For example, neurons that respond selectively to motion direction integrate signals over a shorter time window when visual motion is fast and a longer window when motion is slow. We investigated the mechanisms underlying this useful adaptation by recording from neurons as they responded to stimuli moving in two different directions at different speeds. Computer simulations of our results enabled us to rule out several candidate theories in favor of a model that integrates across multiple parallel channels that operate at different time scales.",
+  "authors": [
+    "McLelland Douglas",
+    "Baker Pamela M",
+    "Ahmed Bashir",
+    "Kohn Adam",
+    "Bair Wyeth"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.1418-11.2015",
+  "mesh": [
+    "Action Potentials",
+    "Adaptation, Physiological",
+    "Animals",
+    "Electroencephalography",
+    "Evoked Potentials, Visual",
+    "Female",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motion",
+    "Motion Perception",
+    "Nerve Net",
+    "Neurons",
+    "Orientation",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Visual Cortex"
+  ]
+}

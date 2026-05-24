@@ -1,0 +1,30 @@
+{
+  "pmid": "20094906",
+  "title": "Local field potentials indicate network state and account for neuronal response variability.",
+  "abstract": "Multineuronal recordings have revealed that neurons in primary visual cortex (V1) exhibit coordinated fluctuations of spiking activity in the absence and in the presence of visual stimulation. From the perspective of understanding a single cell's spiking activity relative to a behavior or stimulus, these network fluctuations are typically considered to be noise. We show that these events are highly correlated with another commonly recorded signal, the local field potential (LFP), and are also likely related to global network state phenomena which have been observed in a number of neural systems. Moreover, we show that attributing a component of cell firing to these network fluctuations via explicit modeling of the LFP improves the recovery of cell properties. This suggests that the impact of network fluctuations may be estimated using the LFP, and that a portion of this network activity is unrelated to the stimulus and instead reflects ongoing cortical activity. Thus, the LFP acts as an easily accessible bridge between the network state and the spiking activity.",
+  "authors": [
+    "Kelly Ryan C",
+    "Smith Matthew A",
+    "Kass Robert E",
+    "Lee Tai Sing"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2010",
+  "doi": "10.1007/s10827-009-0208-9",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Electrodes, Implanted",
+    "Electroencephalography",
+    "Electrophysiological Phenomena",
+    "Evoked Potentials, Visual",
+    "Linear Models",
+    "Macaca fascicularis",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

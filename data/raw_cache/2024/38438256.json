@@ -1,0 +1,28 @@
+{
+  "pmid": "38438256",
+  "title": "A Unifying Model for Discordant and Concordant Results in Human Neuroimaging Studies of Facial Viewpoint Selectivity.",
+  "abstract": "Recognizing faces regardless of their viewpoint is critical for social interactions. Traditional theories hold that view-selective early visual representations gradually become tolerant to viewpoint changes along the ventral visual hierarchy. Newer theories, based on single-neuron monkey electrophysiological recordings, suggest a three-stage architecture including an intermediate face-selective patch abruptly achieving invariance to mirror-symmetric face views. Human studies combining neuroimaging and multivariate pattern analysis (MVPA) have provided convergent evidence of view selectivity in early visual areas. However, contradictory conclusions have been reached concerning the existence in humans of a mirror-symmetric representation like that observed in macaques. We believe these contradictions arise from low-level stimulus confounds and data analysis choices. To probe for low-level confounds, we analyzed images from two face databases. Analyses of image luminance and contrast revealed biases across face views described by even polynomials-i.e., mirror-symmetric. To explain major trends across neuroimaging studies, we constructed a network model incorporating three constraints: cortical magnification, convergent feedforward projections, and interhemispheric connections. Given the identified low-level biases, we show that a gradual increase of interhemispheric connections across network-layers is sufficient to replicate view-tuning in early processing stages and mirror-symmetry in later stages. Data analysis decisions-pattern dissimilarity measure and data recentering-accounted for the inconsistent observation of mirror-symmetry across prior studies. Pattern analyses of human fMRI data (of either sex) revealed biases compatible with our model. The model provides a unifying explanation of MVPA studies of viewpoint selectivity and suggests observations of mirror-symmetry originate from ineffectively normalized signal imbalances across different face views.",
+  "authors": [
+    "Revsine Cambria",
+    "Gonzalez-Castillo Javier",
+    "Merriam Elisha P",
+    "Bandettini Peter A",
+    "Ramírez Fernando M"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2024",
+  "doi": "10.1523/JNEUROSCI.0296-23.2024",
+  "mesh": [
+    "Humans",
+    "Male",
+    "Female",
+    "Facial Recognition",
+    "Adult",
+    "Neuroimaging",
+    "Photic Stimulation",
+    "Models, Neurological",
+    "Visual Cortex",
+    "Magnetic Resonance Imaging",
+    "Young Adult"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "20480218",
+  "title": "Estimating the contribution of assembly activity to cortical dynamics from spike and population measures.",
+  "abstract": "The hypothesis that cortical networks employ the coordinated activity of groups of neurons, termed assemblies, to process information is debated. Results from multiple single-unit recordings are not conclusive because of the dramatic undersampling of the system. However, the local field potential (LFP) is a mesoscopic signal reflecting synchronized network activity. This raises the question whether the LFP can be employed to overcome the problem of undersampling. In a recent study in the motor cortex of the awake behaving monkey based on the locking of coincidences to the LFP we determined a lower bound for the fraction of spike coincidences originating from assembly activation. This quantity together with the locking of single spikes leads to a lower bound for the fraction of spikes originating from any assembly activity. Here we derive a statistical method to estimate the fraction of spike synchrony caused by assemblies-not its lower bound-from the spike data alone. A joint spike and LFP surrogate data model demonstrates consistency of results and the sensitivity of the method. Combining spike and LFP signals, we obtain an estimate of the fraction of spikes resulting from assemblies in the experimental data.",
+  "authors": [
+    "Denker Michael",
+    "Riehle Alexa",
+    "Diesmann Markus",
+    "Grün Sonja"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2010",
+  "doi": "10.1007/s10827-010-0241-8",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Data Interpretation, Statistical",
+    "Electrophysiological Phenomena",
+    "Evoked Potentials, Motor",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Motor Cortex",
+    "Movement",
+    "Nerve Net",
+    "Neurons"
+  ]
+}

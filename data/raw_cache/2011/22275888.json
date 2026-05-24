@@ -1,0 +1,14 @@
+{
+  "pmid": "22275888",
+  "title": "Cortical correlates of fitts' law.",
+  "abstract": "Fitts' law describes the fundamental trade-off between movement accuracy and speed: it states that the duration of reaching movements is a function of target size (TS) and distance. While Fitts' law has been extensively studied in ergonomics and has guided the design of human-computer interfaces, there have been few studies on its neuronal correlates. To elucidate sensorimotor cortical activity underlying Fitts' law, we implanted two monkeys with multielectrode arrays in the primary motor (M1) and primary somatosensory (S1) cortices. The monkeys performed reaches with a joystick-controlled cursor toward targets of different size. The reaction time (RT), movement time, and movement velocity changed with TS, and M1 and S1 activity reflected these changes. Moreover, modifications of cortical activity could not be explained by changes of movement parameters alone, but required TS as an additional parameter. Neuronal representation of TS was especially prominent during the early RT period where it influenced the slope of the firing rate rise preceding movement initiation. During the movement period, cortical activity was correlated with movement velocity. Neural decoders were applied to simultaneously decode TS and motor parameters from cortical modulations. We suggest that sensorimotor cortex activity reflects the characteristics of both the movement and the target. Classifiers that extract these parameters from cortical ensembles could improve neuroprosthetic control.",
+  "authors": [
+    "Ifft Peter J",
+    "Lebedev Mikhail A",
+    "Nicolelis Miguel A L"
+  ],
+  "journal": "Frontiers in integrative neuroscience",
+  "year": "2011",
+  "doi": "10.3389/fnint.2011.00085",
+  "mesh": []
+}

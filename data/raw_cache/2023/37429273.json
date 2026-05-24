@@ -1,0 +1,28 @@
+{
+  "pmid": "37429273",
+  "title": "Slow-wave modulation analysis during states of unconsciousness using the novel tau-modulation method.",
+  "abstract": "<i>Objective</i>. Slow-wave modulation occurs during states of unconsciousness and is a large-scale indicator of underlying brain states. Conventional methods typically characterize these large-scale dynamics by assuming that slow-wave activity is sinusoidal with a stationary frequency. However, slow-wave activity typically has an irregular waveform shape with a non-stationary frequency, causing these methods to be highly unpredictable and inaccurate. To address these limitations, we developed a novel method using tau-modulation, which is more robust than conventional methods in estimating the modulation of slow-wave activity and does not require assumptions on the shape or stationarity of the underlying waveform.<i>Approach</i>. We propose a novel method to estimate modulatory effects on slow-wave activity. Tau-modulation curves are constructed from cross-correlation between slow-wave and high-frequency activity. The resultant curves capture several aspects of modulation, including attenuation or enhancement of slow-wave activity, the temporal synchrony between slow-wave and high-frequency activity, and the rate at which the overall brain activity oscillates between states.<i>Main results</i>. The method's performance was tested on an open electrocorticographic dataset from two monkeys that were recorded during propofol-induced anesthesia, with electrodes implanted over the left hemispheres. We found a robust propagation of slow-wave modulation along the anterior-posterior axis of the lateral aspect of the cortex. This propagation preferentially originated from the anterior superior temporal cortex and anterior cingulate gyrus. We also found the modulation frequency and polarity to track the stages of anesthesia. The algorithm performed well, even with non-sinusoidal activity and in the presence of real-world noise.<i>Significance</i>. The novel method provides new insight into several aspects of slow-wave modulation that have been previously difficult to evaluate across several brain states. This ability to better characterize slow-wave modulation, without spurious correlations induced by non-sinusoidal signals, may lead to robust and physiologically-plausible diagnostic tools for monitoring brain functions during states of unconsciousness.",
+  "authors": [
+    "Xie Tao",
+    "Wu Zehan",
+    "Foutz Thomas J",
+    "Sheng Xinjun",
+    "Zhu Xiangyang",
+    "Leuthardt Eric C",
+    "Willie Jon T",
+    "Chen Liang",
+    "Brunner Peter"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2023",
+  "doi": "10.1088/1741-2552/ace5db",
+  "mesh": [
+    "Humans",
+    "Unconsciousness",
+    "Propofol",
+    "Brain",
+    "Electrocorticography",
+    "Cerebral Cortex",
+    "Electroencephalography"
+  ]
+}

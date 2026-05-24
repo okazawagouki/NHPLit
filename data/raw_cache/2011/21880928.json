@@ -1,0 +1,28 @@
+{
+  "pmid": "21880928",
+  "title": "Network rhythms influence the relationship between spike-triggered local field potential and functional connectivity.",
+  "abstract": "Characterizing the functional connectivity between neurons is key for understanding brain function. We recorded spikes and local field potentials (LFPs) from multielectrode arrays implanted in monkey visual cortex to test the hypotheses that spikes generated outward-traveling LFP waves and the strength of functional connectivity depended on stimulus contrast, as described recently. These hypotheses were proposed based on the observation that the latency of the peak negativity of the spike-triggered LFP average (STA) increased with distance between the spike and LFP electrodes, and the magnitude of the STA negativity and the distance over which it was observed decreased with increasing stimulus contrast. Detailed analysis of the shape of the STA, however, revealed contributions from two distinct sources-a transient negativity in the LFP locked to the spike (∼0 ms) that attenuated rapidly with distance, and a low-frequency rhythm with peak negativity ∼25 ms after the spike that attenuated slowly with distance. The overall negative peak of the LFP, which combined both these components, shifted from ∼0 to ∼25 ms going from electrodes near the spike to electrodes far from the spike, giving an impression of a traveling wave, although the shift was fully explained by changing contributions from the two fixed components. The low-frequency rhythm was attenuated during stimulus presentations, decreasing the overall magnitude of the STA. These results highlight the importance of accounting for the network activity while using STAs to determine functional connectivity.",
+  "authors": [
+    "Ray Supratim",
+    "Maunsell John H R"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2011",
+  "doi": "10.1523/JNEUROSCI.1856-11.2011",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Electroencephalography",
+    "Evoked Potentials, Visual",
+    "Macaca mulatta",
+    "Male",
+    "Neural Pathways",
+    "Neurons",
+    "Periodicity",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Time Factors"
+  ]
+}

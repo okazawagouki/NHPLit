@@ -1,0 +1,20 @@
+{
+  "pmid": "34023589",
+  "title": "Early recurrence enables figure border ownership.",
+  "abstract": "Rubin's face-vase illusion demonstrates how one can switch back and forth between two different interpretations depending on how the figure outlines are assigned. In the primate visual system, assigning ownership along figure borders is encoded by neurons called the border ownership (BO) cells. Studies show that the responses of these neurons not only depend on the local features within their receptive fields, but also on contextual information. Despite two decades of studies on BO neurons, the ownership assignment mechanism in the brain is still unknown. Here, we propose a hierarchical recurrent model grounded on the hypothesis that neurons in the dorsal stream provide the context required for ownership assignment. Our proposed model incorporates early recurrence from the dorsal pathway as well as lateral modulations within the ventral stream. While dorsal modulations initiate the response difference to figure on either side of the border, lateral modulations enhance the difference. We found responses of our dorsally-modulated BO cells, similar to their biological counterparts, are invariant to size, position and solid/outlined figures. Moreover, our model BO cells exhibit comparable levels of reliability in the ownership signal to biological BO neurons. We found dorsal modulations result in high levels of accuracy and robustness for BO assignments in complex scenes compared to previous models based on ventral feedback. Finally, our experiments with illusory contours suggest that BO encoding could explain the perception of such contours in higher processing stages in the brain.",
+  "authors": [
+    "Mehrani Paria",
+    "Tsotsos John K"
+  ],
+  "journal": "Vision research",
+  "year": "2021",
+  "doi": "10.1016/j.visres.2021.04.009",
+  "mesh": [
+    "Animals",
+    "Ownership",
+    "Pattern Recognition, Visual",
+    "Photic Stimulation",
+    "Reproducibility of Results",
+    "Visual Cortex"
+  ]
+}

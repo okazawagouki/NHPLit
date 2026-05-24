@@ -1,0 +1,15 @@
+{
+  "pmid": "41648268",
+  "title": "State-Dependent Dissociation of Shared Input and Directed Information Flow in the Visual Cortex.",
+  "abstract": "Understanding how brain state and sensory input shape inter-laminar communication is essential for interpreting cortical population dynamics. Using laminar recordings in macaque V1, we apply reduced-rank regression to quantify low-dimensional predictive subspaces linking Input and Superficial layers. We find that both visual stimulation and internal state (eyes open vs. closed) modulate the structure and efficacy of these subspaces, but through distinct mechanisms. Visual input induces a directional, feedforward pattern from input to superficial layers, while wakefulness-related modulation enhances coordination more symmetrically. Delay analysis and network simulations confirm that structured, layer-specific inputs produce directional prediction, whereas global fluctuations yield undirected co-activation. Importantly, differential structure across layers predicts the emergence of communication asymmetry. These findings dissociate communication from shared modulation, providing a principled framework for interpreting inter-population correlations. Our results generalize to broader cortical circuits, offering insights into when population coupling reflects genuine information flow versus global state dynamics.",
+  "authors": [
+    "Xue Yuxuan",
+    "Morton Mitchell",
+    "Nandy Anirvan S",
+    "Jadi Monika P"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2026",
+  "doi": "10.64898/2026.01.22.701042",
+  "mesh": []
+}

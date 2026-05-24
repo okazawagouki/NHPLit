@@ -1,0 +1,19 @@
+{
+  "pmid": "36640766",
+  "title": "Parametric control of flexible timing through low-dimensional neural manifolds.",
+  "abstract": "Biological brains possess an unparalleled ability to adapt behavioral responses to changing stimuli and environments. How neural processes enable this capacity is a fundamental open question. Previous works have identified two candidate mechanisms: a low-dimensional organization of neural activity and a modulation by contextual inputs. We hypothesized that combining the two might facilitate generalization and adaptation in complex tasks. We tested this hypothesis in flexible timing tasks where dynamics play a key role. Examining trained recurrent neural networks, we found that confining the dynamics to a low-dimensional subspace allowed tonic inputs to parametrically control the overall input-output transform, enabling generalization to novel inputs and adaptation to changing conditions. Reverse-engineering and theoretical analyses demonstrated that this parametric control relies on a mechanism where tonic inputs modulate the dynamics along non-linear manifolds while preserving their geometry. Comparisons with data from behaving monkeys confirmed the behavioral and neural signatures of this mechanism.",
+  "authors": [
+    "Beiran Manuel",
+    "Meirhaeghe Nicolas",
+    "Sohn Hansem",
+    "Jazayeri Mehrdad",
+    "Ostojic Srdjan"
+  ],
+  "journal": "Neuron",
+  "year": "2023",
+  "doi": "10.1016/j.neuron.2022.12.016",
+  "mesh": [
+    "Neural Networks, Computer",
+    "Brain"
+  ]
+}

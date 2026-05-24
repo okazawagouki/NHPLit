@@ -1,0 +1,24 @@
+{
+  "pmid": "23951205",
+  "title": "Decoding the dopamine signal in macaque prefrontal cortex: a simulation study using the Cx3Dp simulator.",
+  "abstract": "Dopamine transmission in the prefrontal cortex plays an important role in reward based learning, working memory and attention. Dopamine is thought to be released non-synaptically into the extracellular space and to reach distant receptors through diffusion. This simulation study examines how the dopamine signal might be decoded by the recipient neuron. The simulation was based on parameters from the literature and on our own quantified, structural data from macaque prefrontal area 10. The change in extracellular dopamine concentration was estimated at different distances from release sites and related to the affinity of the dopamine receptors. Due to the sparse and random distribution of release sites, a transient heterogeneous pattern of dopamine concentration emerges. Our simulation predicts, however, that at any point in the simulation volume there is sufficient dopamine to bind and activate high-affinity dopamine receptors. We propose that dopamine is broadcast to its distant receptors and any change from the local baseline concentration might be decoded by a transient change in the binding probability of dopamine receptors. Dopamine could thus provide a graduated 'teaching' signal to reinforce concurrently active synapses and cell assemblies. In conditions of highly reduced or highly elevated dopamine levels the simulations predict that relative changes in the dopamine signal can no longer be decoded, which might explain why cognitive deficits are observed in patients with Parkinson's disease, or induced through drugs blocking dopamine reuptake.",
+  "authors": [
+    "Spühler Isabelle Ayumi",
+    "Hauri Andreas"
+  ],
+  "journal": "PloS one",
+  "year": "2013",
+  "doi": "10.1371/journal.pone.0071615",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Dopamine",
+    "Dopamine Uptake Inhibitors",
+    "Dopaminergic Neurons",
+    "Macaca",
+    "Models, Neurological",
+    "Prefrontal Cortex",
+    "Synaptic Potentials",
+    "Synaptic Transmission"
+  ]
+}

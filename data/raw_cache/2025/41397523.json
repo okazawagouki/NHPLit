@@ -1,0 +1,25 @@
+{
+  "pmid": "41397523",
+  "title": "Increasing the quantity of electrical stimulation pulses reduces cortical response inhibition.",
+  "abstract": "BACKGROUND: Neural prostheses can potentially restore sensory experiences by electrically stimulating the brain, with effectiveness determined by the stimulation parameters. Understanding the effects of individual stimulation parameters is therefore critical for optimizing stimulation outcomes. The number of stimulation pulses delivered in a train (pulse quantity) is a parameter that has been difficult to analyze, as each pulse generates artifacts that can obscure the measurement of neural signals. However, pulse trains are known to more reliably evoke perceptual responses than single-pulse stimulation, implying that increased pulse quantity modulates post-stimulation activity for perceptual consistency. OBJECTIVE: We investigated how pulse quantity and current amplitude interact to shape neural responses, as both stimulation parameters affect total charge delivered but often produce different perceptual outcomes. METHODS: We implanted a 64-channel electrode array into the primary visual cortex (V1) of anesthetized marmosets and monitored neural responses evoked by 300 Hz trains of 1-5 biphasic electrical stimulation pulses. In each trial, all pulses delivered the same current (2-10 μA). Trials with increasing pulses were stitched together to recover the responses obscured by artifacts. RESULTS: We found that current amplitude determined the intensity and duration of the early excitatory response to stimulation, while increasing pulse quantity reduced the amplitude and duration of post-stimulation inhibition. CONCLUSIONS: Decreasing post-stimulation inhibition with increasing pulse quantity may explain why pulse trains more reliably generate perceptual responses. Considering current amplitude and pulse quantity influence different components of the post-stimulation response, developing customized stimulation paradigms may be crucial for optimization of neural prostheses.",
+  "authors": [
+    "Meikle Sabrina J",
+    "Hagan Maureen A",
+    "Price Nicholas S C",
+    "Wong Yan T"
+  ],
+  "journal": "Brain stimulation",
+  "year": "2026",
+  "doi": "10.1016/j.brs.2025.103003",
+  "mesh": [
+    "Animals",
+    "Electric Stimulation",
+    "Callithrix",
+    "Primary Visual Cortex",
+    "Male",
+    "Neural Inhibition",
+    "Female",
+    "Electrodes, Implanted",
+    "Evoked Potentials, Visual"
+  ]
+}

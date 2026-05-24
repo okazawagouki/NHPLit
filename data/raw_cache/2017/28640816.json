@@ -1,0 +1,22 @@
+{
+  "pmid": "28640816",
+  "title": "Topographic Independent Component Analysis reveals random scrambling of orientation in visual space.",
+  "abstract": "Neurons at primary visual cortex (V1) in humans and other species are edge filters organized in orientation maps. In these maps, neurons with similar orientation preference are clustered together in iso-orientation domains. These maps have two fundamental properties: (1) retinotopy, i.e. correspondence between displacements at the image space and displacements at the cortical surface, and (2) a trade-off between good coverage of the visual field with all orientations and continuity of iso-orientation domains in the cortical space. There is an active debate on the origin of these locally continuous maps. While most of the existing descriptions take purely geometric/mechanistic approaches which disregard the network function, a clear exception to this trend in the literature is the original approach of Hyvärinen and Hoyer based on infomax and Topographic Independent Component Analysis (TICA). Although TICA successfully addresses a number of other properties of V1 simple and complex cells, in this work we question the validity of the orientation maps obtained from TICA. We argue that the maps predicted by TICA can be analyzed in the retinal space, and when doing so, it is apparent that they lack the required continuity and retinotopy. Here we show that in the orientation maps reported in the TICA literature it is easy to find examples of violation of the continuity between similarly tuned mechanisms in the retinal space, which suggest a random scrambling incompatible with the maps in primates. The new experiments in the retinal space presented here confirm this guess: TICA basis vectors actually follow a random salt-and-pepper organization back in the image space. Therefore, the interesting clusters found in the TICA topology cannot be interpreted as the actual cortical orientation maps found in cats, primates or humans. In conclusion, Topographic ICA does not reproduce cortical orientation maps.",
+  "authors": [
+    "Martinez-Garcia Marina",
+    "Martinez Luis M",
+    "Malo Jesús"
+  ],
+  "journal": "PloS one",
+  "year": "2017",
+  "doi": "10.1371/journal.pone.0178345",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Humans",
+    "Orientation",
+    "Retina",
+    "Statistics as Topic",
+    "Visual Cortex"
+  ]
+}

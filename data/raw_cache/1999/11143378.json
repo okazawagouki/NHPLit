@@ -1,0 +1,21 @@
+{
+  "pmid": "11143378",
+  "title": "Simulation of the primate motor cortex and free arm movements in three-dimensional space: a robot arm system controlled by an artificial neural network.",
+  "abstract": "It has been recently discovered that neuronal activity in the primate motor cortex varies in an orderly fashion with the direction of movement of behaving monkeys in three-dimensional (3-D) space. Furthermore, cell activity is highest in a certain direction, the cell's preferred direction, and decreases progressively in other directions. For a particular movement direction, each cell makes a contribution in the direction of its preferred direction to yield a neuronal population vector that points in the direction of movement well before the movement begins. Simulation of motor cortical activity is useful with a randomly selected Poisson distribution. Poisson spike trains are used as input to an artificial neural network (ANN) that produces motor actions in the form of a Cartesian coordinate to a PUMA robotic arm system. The ANN consists of a three-layered feed-forward system that uses a specific cosine algorithm as synaptic weights between the interconnected units described in the angle between the preferred direction vector of the neuron and the movement vector. The robot responds to commands, generating actual trajectories in close agreement with desired trajectories. It is shown that the time-varying motor output is controlled by the impulse activity with a good estimate of the direction of movement with 100-150 cells.",
+  "authors": [
+    "Dauffenbach L M"
+  ],
+  "journal": "Biomedical sciences instrumentation",
+  "year": "1999",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Arm",
+    "Haplorhini",
+    "Motor Cortex",
+    "Movement",
+    "Neural Networks, Computer",
+    "Poisson Distribution",
+    "Robotics"
+  ]
+}

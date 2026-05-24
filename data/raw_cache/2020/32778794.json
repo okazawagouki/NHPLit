@@ -1,0 +1,23 @@
+{
+  "pmid": "32778794",
+  "title": "Cortical-like dynamics in recurrent circuits optimized for sampling-based probabilistic inference.",
+  "abstract": "Sensory cortices display a suite of ubiquitous dynamical features, such as ongoing noise variability, transient overshoots and oscillations, that have so far escaped a common, principled theoretical account. We developed a unifying model for these phenomena by training a recurrent excitatory-inhibitory neural circuit model of a visual cortical hypercolumn to perform sampling-based probabilistic inference. The optimized network displayed several key biological properties, including divisive normalization and stimulus-modulated noise variability, inhibition-dominated transients at stimulus onset and strong gamma oscillations. These dynamical features had distinct functional roles in speeding up inferences and made predictions that we confirmed in novel analyses of recordings from awake monkeys. Our results suggest that the basic motifs of cortical dynamics emerge as a consequence of the efficient implementation of the same computational function-fast sampling-based inference-and predict further properties of these motifs that can be tested in future experiments.",
+  "authors": [
+    "Echeveste Rodrigo",
+    "Aitchison Laurence",
+    "Hennequin Guillaume",
+    "Lengyel Máté"
+  ],
+  "journal": "Nature neuroscience",
+  "year": "2020",
+  "doi": "10.1038/s41593-020-0671-1",
+  "mesh": [
+    "Animals",
+    "Haplorhini",
+    "Humans",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

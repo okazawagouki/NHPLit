@@ -1,0 +1,28 @@
+{
+  "pmid": "20685983",
+  "title": "Triphasic dynamics of stimulus-dependent information flow between single neurons in macaque inferior temporal cortex.",
+  "abstract": "The functional connectivity between cortical neurons is not static and is known to exhibit contextual modulations in terms of the coupling strength. Here we hypothesized that the information flow in a cortical local circuit exhibits complex forward-and-back dynamics, and conducted Granger causality analysis between the neuronal spike trains that were simultaneously recorded from macaque inferior temporal (IT) cortex while the animals performed a visual object discrimination task. Spikes from neuron pairs with a displaced peak on the cross-correlogram (CCG) showed Granger causality in the gamma-frequency range (30-80 Hz) with the dominance in the direction consistent with the CCG peak (forward direction). Although, in a classical view, the displaced CCG peak has been interpreted as an indicative of a pauci-synaptic serial linkage, temporal dynamics of the gamma Granger causality after stimulus onset exhibited a more complex triphasic pattern, with a transient forward component followed by a slowly developing backward component and subsequent reappearance of the forward component. These triphasic dynamics of causality were not explained by the firing rate dynamics and were not observed for cell pairs that exhibited a center peak on the CCG. Furthermore, temporal dynamics of Granger causality depended on the feature configuration within the presented object. Together, these results demonstrate that the classical view of functional connectivity could be expanded to incorporate more complex forward-and-back dynamics and also imply that multistage processing in the recognition of visual objects might be implemented by multiphasic dynamics of directional information flow between single neurons in a local circuit in the IT cortex.",
+  "authors": [
+    "Hirabayashi Toshiyuki",
+    "Takeuchi Daigo",
+    "Tamura Keita",
+    "Miyashita Yasushi"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2010",
+  "doi": "10.1523/JNEUROSCI.0135-10.2010",
+  "mesh": [
+    "Action Potentials",
+    "Analysis of Variance",
+    "Animals",
+    "Discrimination, Psychological",
+    "Electrodes, Implanted",
+    "Macaca",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Temporal Lobe",
+    "Visual Pathways"
+  ]
+}

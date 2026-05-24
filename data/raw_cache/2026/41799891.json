@@ -1,0 +1,15 @@
+{
+  "pmid": "41799891",
+  "title": "Classifying motion states from neural activity of non-human primates for brain-computer interfaces.",
+  "abstract": "INTRODUCTION: Brain-computer interface (BCI) systems commonly decode neural activity from sensorimotor areas to generate continuous control signals for cursors, robotic limbs, or other effectors. Although these decoders perform well during intended movement, neural activity persists during periods of intended non-movement, which can lead to unintended effector activation and reduced control stability. Accurately identifying intended stationary states therefore represents a key component for achieving stable and reliable BCI control. METHODS: We propose a neural-state classification framework (cpSVM) that distinguishes stationary and movement states directly from intracortical neural activity. This model combines principal component analysis, correlation-based feature selection, and a linear support vector machine classifier. Offline evaluations were performed using multi-unit recordings from the premotor and primary motor cortices of two non-human primates during a center-out cursor task. Performance was compared against a conventional kinematics-based threshold-crossing method. RESULTS: Correlation-informed dimensionality reduction revealed a clear low-dimensional separation between stationary and movement states, supporting the selection of task-relevant neural features. The cpSVM achieved high classification performance, with mean accuracies of 0.936 and 0.930 across the two subjects. Compared with the threshold-crossing method, the cpSVM consistently improved accuracy, sensitivity, specificity, and <i>F</i>-score, while substantially reducing spurious state transitions and improving output continuity. DISCUSSION: These findings demonstrate that stationary and movement states can be reliably distinguished from intracortical neural signals using a low-dimensional, correlation-informed classification approach. The proposed framework provides a promising strategy to suppress unintended effector activation and improve continuity and stability in BCI control systems.",
+  "authors": [
+    "Xiao Yicong",
+    "Kellis Spencer",
+    "Reiche Christopher F",
+    "Solzbacher Florian"
+  ],
+  "journal": "Frontiers in neuroscience",
+  "year": "2026",
+  "doi": "10.3389/fnins.2026.1714738",
+  "mesh": []
+}

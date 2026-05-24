@@ -1,0 +1,24 @@
+{
+  "pmid": "25810527",
+  "title": "Input-gain control produces feature-specific surround suppression.",
+  "abstract": "In primary visual cortex (V1), neuronal responses are sensitive to context. For example, responses to stimuli presented within the receptive field (RF) center are often suppressed by stimuli within the RF surround, and this suppression tends to be strongest when the center and surround stimuli match. We sought to identify the mechanism that gives rise to these properties of surround modulation. To do so, we exploited the stability of implanted multielectrode arrays to record from neurons in V1 of alert monkeys with multiple stimulus sets that more exhaustively probed center-surround interactions. We first replicated previous results concerning center-surround similarity using gratings representing all combinations of center and surround orientation. With this stimulus set, the surround simply scaled population responses to the center, such that the overall population tuning curve had the same shape and peak response. However, when the center contained two superimposed gratings (i.e., a visual \"plaid\"), one component of which always matched the surround orientation, suppression selectively affected the portion of the response driven by the matching center component, thereby producing shifts in the peak of the population orientation tuning curve. In effect, the surround caused neurons to respond predominantly to the component grating of the center plaid that was unmatched to the surround grating, as if by reducing the effective strength of whichever stimulus attributes were matched to the surround. These results provide key physiological support for theoretical models that propose feature-specific, input-gain control as the mechanism underlying surround suppression.",
+  "authors": [
+    "Trott Alexander R",
+    "Born Richard T"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.4000-14.2015",
+  "mesh": [
+    "Animals",
+    "Eye Movements",
+    "Macaca fascicularis",
+    "Male",
+    "Models, Neurological",
+    "Neural Inhibition",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Fields"
+  ]
+}

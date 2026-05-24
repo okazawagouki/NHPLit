@@ -1,0 +1,24 @@
+{
+  "pmid": "17053994",
+  "title": "A network that uses few active neurones to code visual input predicts the diverse shapes of cortical receptive fields.",
+  "abstract": "Computational models of primary visual cortex have demonstrated that principles of efficient coding and neuronal sparseness can explain the emergence of neurones with localised oriented receptive fields. Yet, existing models have failed to predict the diverse shapes of receptive fields that occur in nature. The existing models used a particular \"soft\" form of sparseness that limits average neuronal activity. Here we study models of efficient coding in a broader context by comparing soft and \"bard\" forms of neuronal sparseness. As a result of our analyses, we propose a novel network model for visual cortex. The model forms efficient visual representations in which the number of active neurones, rather than mean neuronal activity, is limited. This form of hard sparseness also economises cortical resources like synaptic memory and metabolic energy. Furthermore, our model accurately predicts the distribution of receptive field shapes found in the primary visual cortex of cat and monkey.",
+  "authors": [
+    "Rehn Martin",
+    "Sommer Friedrich T"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Pathways"
+  ]
+}

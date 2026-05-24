@@ -1,0 +1,24 @@
+{
+  "pmid": "35728568",
+  "title": "Restoration of complex movement in the paralyzed upper limb.",
+  "abstract": "<i>Objective.</i>Functional electrical stimulation (FES) involves artificial activation of skeletal muscles to reinstate motor function in paralyzed individuals. While FES applied to the upper limb has improved the ability of tetraplegics to perform activities of daily living, there are key shortcomings impeding its widespread use. One major limitation is that the range of motor behaviors that can be generated is restricted to a small set of simple, preprogrammed movements. This limitation stems from the substantial difficulty in determining the patterns of stimulation across many muscles required to produce more complex movements. Therefore, the objective of this study was to use machine learning to flexibly identify patterns of muscle stimulation needed to evoke a wide array of multi-joint arm movements.<i>Approach</i>. Arm kinematics and electromyographic (EMG) activity from 29 muscles were recorded while a 'trainer' monkey made an extensive range of arm movements. Those data were used to train an artificial neural network that predicted patterns of muscle activity associated with a new set of movements. Those patterns were converted into trains of stimulus pulses that were delivered to upper limb muscles in two other temporarily paralyzed monkeys.<i>Main results</i>. Machine-learning based prediction of EMG was good for within-subject predictions but appreciably poorer for across-subject predictions. Evoked responses matched the desired movements with good fidelity only in some cases. Means to mitigate errors associated with FES-evoked movements are discussed.<i>Significance</i>. Because the range of movements that can be produced with our approach is virtually unlimited, this system could greatly expand the repertoire of movements available to individuals with high level paralysis.",
+  "authors": [
+    "Hasse Brady A",
+    "Sheets Drew E G",
+    "Holly Nicole L",
+    "Gothard Katalin M",
+    "Fuglevand Andrew J"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2022",
+  "doi": "10.1088/1741-2552/ac7ad7",
+  "mesh": [
+    "Activities of Daily Living",
+    "Electric Stimulation",
+    "Electromyography",
+    "Humans",
+    "Movement",
+    "Muscle, Skeletal",
+    "Upper Extremity"
+  ]
+}

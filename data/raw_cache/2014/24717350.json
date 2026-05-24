@@ -1,0 +1,22 @@
+{
+  "pmid": "24717350",
+  "title": "Motor cortical control of movement speed with implications for brain-machine interface control.",
+  "abstract": "Motor cortex plays a substantial role in driving movement, yet the details underlying this control remain unresolved. We analyzed the extent to which movement-related information could be extracted from single-trial motor cortical activity recorded while monkeys performed center-out reaching. Using information theoretic techniques, we found that single units carry relatively little speed-related information compared with direction-related information. This result is not mitigated at the population level: simultaneously recorded population activity predicted speed with significantly lower accuracy relative to direction predictions. Furthermore, a unit-dropping analysis revealed that speed accuracy would likely remain lower than direction accuracy, even given larger populations. These results suggest that the instantaneous details of single-trial movement speed are difficult to extract using commonly assumed coding schemes. This apparent paucity of speed information takes particular importance in the context of brain-machine interfaces (BMIs), which rely on extracting kinematic information from motor cortex. Previous studies have highlighted subjects' difficulties in holding a BMI cursor stable at targets. These studies, along with our finding of relatively little speed information in motor cortex, inspired a speed-dampening Kalman filter (SDKF) that automatically slows the cursor upon detecting changes in decoded movement direction. Effectively, SDKF enhances speed control by using prevalent directional signals, rather than requiring speed to be directly decoded from neural activity. SDKF improved success rates by a factor of 1.7 relative to a standard Kalman filter in a closed-loop BMI task requiring stable stops at targets. BMI systems enabling stable stops will be more effective and user-friendly when translated into clinical applications.",
+  "authors": [
+    "Golub Matthew D",
+    "Yu Byron M",
+    "Schwartz Andrew B",
+    "Chase Steven M"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2014",
+  "doi": "10.1152/jn.00391.2013",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement"
+  ]
+}

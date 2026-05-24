@@ -1,0 +1,25 @@
+{
+  "pmid": "34890993",
+  "title": "Patch-based 3D U-Net and transfer learning for longitudinal piglet brain segmentation on MRI.",
+  "abstract": "BACKGROUND AND OBJECTIVES: In order to study neural plasticity in immature brain following early brain lesion, large animal model are needed. Because of its morphological similarities with the human developmental brain, piglet is a suitable but little used one. Its study from Magnetic Resonance Imaging (MRI) requires the development of automatic algorithms for the segmentation of the different structures and tissues. A crucial preliminary step consists in automatically segmenting the brain. METHODS: We propose a fully automatic brain segmentation method applied to piglets by combining a 3D patch-based U-Net and a post-processing pipeline for spatial regularization and elimination of false positives. Our approach also integrates a transfer-learning strategy for managing an automated longitudinal monitoring evaluated for four developmental stages (2, 6, 10 and 18 weeks), facing the issue of MRI changes resulting from the rapid brain development. It is compared to a 2D approach and the Brain Extraction Tool (BET) as well as techniques adapted to other animals (rodents, macaques). The influence of training patches size and distribution is studied as well as the benefits of spatial regularization. RESULTS: Results show that our approach is efficient in terms of average Dice score (0.952) and Hausdorff distance (8.51), outperforming the use of a 2D U-Net (Dice: 0.919, Hausdorff distance: 11.06) and BET (Dice: 0.764, Hausdorff distance: 25.91). The transfer-learning strategy achieves a good performance on older piglets (Dice of 0.934 at 6 weeks, 0.956 at 10 weeks and 0.958 at 18 weeks) compared to a standard training strategy with few data (Dice of 0.636 at 6 weeks, 0.907 at 10 weeks, not calculable at 18 weeks because of too few training piglets). CONCLUSIONS: In conclusion, we provide a method for longitudinal MRI piglet brain segmentation based on 3D U-Net and transfer learning which can be used for future morphometric studies and applied to other animals.",
+  "authors": [
+    "Coupeau P",
+    "Fasquel J-B",
+    "Mazerand E",
+    "Menei P",
+    "Montero-Menei C N",
+    "Dinomais M"
+  ],
+  "journal": "Computer methods and programs in biomedicine",
+  "year": "2022",
+  "doi": "10.1016/j.cmpb.2021.106563",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Image Processing, Computer-Assisted",
+    "Machine Learning",
+    "Magnetic Resonance Imaging",
+    "Swine"
+  ]
+}

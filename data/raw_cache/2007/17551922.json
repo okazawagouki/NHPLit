@@ -1,0 +1,26 @@
+{
+  "pmid": "17551922",
+  "title": "Testing equality of several functions: analysis of single-unit firing-rate curves across multiple experimental conditions.",
+  "abstract": "We consider the problem of comparing noisy functions, here trial-averaged neuronal firing-rate curves, across multiple experimental conditions. Of interest are comparisons both within neurons and also among populations of individually recorded neurons. We propose likelihood ratio tests to perform comparisons either pointwise or globally over the entire experimental time. A simulation study of power demonstrates the strength of these tests even for moderate sample sizes. We implement these tests on a group of 233 neurons recorded from primate frontal oculomotor cortex, first, to screen for condition-related differential activity and, second, to search for neurons displaying interesting time-locked features that vary with condition.",
+  "authors": [
+    "Behseta Sam",
+    "Kass Robert E",
+    "Moorman David E",
+    "Olson Carl R"
+  ],
+  "journal": "Statistics in medicine",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Frontal Lobe",
+    "Macaca",
+    "Models, Statistical",
+    "Neurons",
+    "Oculomotor Nerve",
+    "Research Design",
+    "United States",
+    "Visual Cortex"
+  ]
+}

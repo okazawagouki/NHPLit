@@ -1,0 +1,27 @@
+{
+  "pmid": "31941667",
+  "title": "Information-Limiting Correlations in Large Neural Populations.",
+  "abstract": "Understanding the neural code requires understanding how populations of neurons code information. Theoretical models predict that information may be limited by correlated noise in large neural populations. Nevertheless, analyses based on tens of neurons have failed to find evidence of saturation. Moreover, some studies have shown that noise correlations can be very small, and therefore may not affect information coding. To determine whether information-limiting correlations exist, we implanted eight Utah arrays in prefrontal cortex (PFC; area 46) of two male macaque monkeys, recording >500 neurons simultaneously. We estimated information in PFC about saccades as a function of ensemble size. Noise correlations were, on average, small (∼10<sup>-3</sup>). However, information scaled strongly sublinearly with ensemble size. After shuffling trials, destroying noise correlations, information was a linear function of ensemble size. Thus, we provide evidence for the existence of information-limiting noise correlations in large populations of PFC neurons.<b>SIGNIFICANCE STATEMENT</b> Recent theoretical work has shown that even small correlations can limit information if they are \"differential correlations,\" which are difficult to measure directly. However, they can be detected through decoding analyses on recordings from a large number of neurons over a large number of trials. We have achieved both by collecting neural activity in dorsal-lateral prefrontal cortex of macaques using eight microelectrode arrays (768 electrodes), from which we were able to compute accurate information estimates. We show, for the first time, strong evidence for information-limiting correlations. Despite pairwise correlations being small (on the order of 10<sup>-3</sup>), they affect information coding in populations on the order of 100 s of neurons.",
+  "authors": [
+    "Bartolo Ramon",
+    "Saunders Richard C",
+    "Mitz Andrew R",
+    "Averbeck Bruno B"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2020",
+  "doi": "10.1523/JNEUROSCI.2072-19.2019",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Microelectrodes",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neurons",
+    "Photic Stimulation",
+    "Prefrontal Cortex",
+    "Saccades"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "26891875",
+  "title": "Source modeling of ElectroCorticoGraphy (ECoG) data: Stability analysis and spatial filtering.",
+  "abstract": "BACKGROUND: Electrocorticography (ECoG) measures the distribution of the electrical potentials on the cortex produced by the neural currents. A full interpretation of ECoG data requires solving the ill-posed inverse problem of reconstructing the spatio-temporal distribution of the neural currents. This study addresses the ECoG source modeling developing a beamformer method. NEW METHOD: We computed the lead-field matrix by using a novel routine provided by the OpenMEEG software. We performed an analysis of the numerical stability of the ECoG inverse problem by computing the condition number of the lead-field matrix for different configurations of the electrodes grid. We applied a Linear Constraint Minimum Variance (LCMV) beamformer to both synthetic data and a set of real measurements recorded during a rapid visual categorization task. RESULTS: For all considered grids the condition number indicates that the ECoG inverse problem is mildly ill-conditioned. For realistic SNR we found a good performance of the LCMV algorithm for both localization and waveforms reconstruction. COMPARISON WITH EXISTING METHOD: The flow of information reconstructed by analyzing real data seems consistent with both invasive monkey electrophysiology studies and non-invasive (MEG and fMRI) human studies. CONCLUSIONS: Despite a growing interest from the neuroscientific community, solving the ECoG inverse problem has not quite yet reached the level of systematicity found for EEG and MEG. Starting from an analysis of the numerical stability of the problem we considered the most widely utilized method for modeling neurophysiological data based on the beamformer method in the hope to establish benchmarks for future studies.",
+  "authors": [
+    "Pascarella A",
+    "Todaro C",
+    "Clerc M",
+    "Serre T",
+    "Piana M"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2016",
+  "doi": "10.1016/j.jneumeth.2016.02.012",
+  "mesh": [
+    "Algorithms",
+    "Brain Mapping",
+    "Brain Waves",
+    "Cerebral Cortex",
+    "Computer Simulation",
+    "Electrocorticography",
+    "Humans",
+    "Models, Neurological",
+    "Photic Stimulation",
+    "Recognition, Psychology",
+    "Time Factors"
+  ]
+}

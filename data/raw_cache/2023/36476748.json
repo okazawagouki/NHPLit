@@ -1,0 +1,22 @@
+{
+  "pmid": "36476748",
+  "title": "Improving the accuracy of decoding monkey brain-machine interface data by estimating the state of unobserved cell assemblies.",
+  "abstract": "BACKGROUND: The brain-machine interface is a technology that has been used for improving the quality of life of individuals with physical disabilities and also healthy individuals. It is important to improve the methods used for decoding the brain-machine interface data as the accuracy and speed of movements achieved using the existing technology are not comparable to the normal body. COMPARISON WITH THE EXISTING METHOD: Decoding of brain-machine interface data using the proposed method resulted in improved decoding accuracy compared to the existing method. CONCLUSIONS: The results demonstrated the usefulness of cell assembly state estimation method for decoding the brain-machine interface data. NEW METHOD: We incorporated a novel method of estimating cell assembly states using spike trains with the existing decoding method that used only firing rate data. Synaptic connectivity pattern was used as feature values in addition to firing rate. Publicly available monkey brain-machine interface datasets were used in the study. RESULTS: As long as the decoding was successful, the root mean square error of the proposed method was significantly smaller than the existing method. Artificial neural netowork-based decoding method resulted in more stable decoding, and also improved the decoding accuracy due to incorporation of synaptic connectivity pattern.",
+  "authors": [
+    "Asahina Takahiro",
+    "Shimba Kenta",
+    "Kotani Kiyoshi",
+    "Jimbo Yasuhiko"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2023",
+  "doi": "10.1016/j.jneumeth.2022.109764",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Haplorhini",
+    "Quality of Life",
+    "Movement",
+    "Action Potentials"
+  ]
+}

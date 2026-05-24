@@ -1,0 +1,14 @@
+{
+  "pmid": "30234180",
+  "title": "Estimating the impact of structural directionality: How reliable are undirected connectomes?",
+  "abstract": "Directionality is a fundamental feature of network connections. Most structural brain networks are intrinsically directed because of the nature of chemical synapses, which comprise most neuronal connections. Because of the limitations of noninvasive imaging techniques, the directionality of connections between structurally connected regions of the human brain cannot be confirmed. Hence, connections are represented as undirected, and it is still unknown how this lack of directionality affects brain network topology. Using six directed brain networks from different species and parcellations (cat, mouse, <i>C. elegans</i>, and three macaque networks), we estimate the inaccuracies in network measures (degree, betweenness, clustering coefficient, path length, global efficiency, participation index, and small-worldness) associated with the removal of the directionality of connections. We employ three different methods to render directed brain networks undirected: (a) remove unidirectional connections, (b) add reciprocal connections, and (c) combine equal numbers of removed and added unidirectional connections. We quantify the extent of inaccuracy in network measures introduced through neglecting connection directionality for individual nodes and across the network. We find that the coarse division between core and peripheral nodes remains accurate for undirected networks. However, hub nodes differ considerably when directionality is neglected. Comparing the different methods to generate undirected networks from directed ones, we generally find that the addition of reciprocal connections (<i>false positives</i>) causes larger errors in graph-theoretic measures than the removal of the same number of directed connections (<i>false negatives</i>). These findings suggest that directionality plays an essential role in shaping brain networks and highlight some limitations of undirected connectomes.",
+  "authors": [
+    "Kale Penelope",
+    "Zalesky Andrew",
+    "Gollo Leonardo L"
+  ],
+  "journal": "Network neuroscience (Cambridge, Mass.)",
+  "year": "2018",
+  "doi": "10.1162/netn_a_00040",
+  "mesh": []
+}

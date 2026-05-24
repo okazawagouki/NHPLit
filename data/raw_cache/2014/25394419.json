@@ -1,0 +1,26 @@
+{
+  "pmid": "25394419",
+  "title": "Parietal neural prosthetic control of a computer cursor in a graphical-user-interface task.",
+  "abstract": "OBJECTIVE: To date, the majority of Brain-Machine Interfaces have been used to perform simple tasks with sequences of individual targets in otherwise blank environments. In this study we developed a more practical and clinically relevant task that approximated modern computers and graphical user interfaces (GUIs). This task could be problematic given the known sensitivity of areas typically used for BMIs to visual stimuli, eye movements, decision-making, and attentional control. Consequently, we sought to assess the effect of a complex, GUI-like task on the quality of neural decoding. APPROACH: A male rhesus macaque monkey was implanted with two 96-channel electrode arrays in area 5d of the superior parietal lobule. The animal was trained to perform a GUI-like 'Face in a Crowd' task on a computer screen that required selecting one cued, icon-like, face image from a group of alternatives (the 'Crowd') using a neurally controlled cursor. We assessed whether the crowd affected decodes of intended cursor movements by comparing it to a 'Crowd Off' condition in which only the matching target appeared without alternatives. We also examined if training a neural decoder with the Crowd On rather than Off had any effect on subsequent decode quality. MAIN RESULTS: Despite the additional demands of working with the Crowd On, the animal was able to robustly perform the task under Brain Control. The presence of the crowd did not itself affect decode quality. Training the decoder with the Crowd On relative to Off had no negative influence on subsequent decoding performance. Additionally, the subject was able to gaze around freely without influencing cursor position. SIGNIFICANCE: Our results demonstrate that area 5d recordings can be used for decoding in a complex, GUI-like task with free gaze. Thus, this area is a promising source of signals for neural prosthetics that utilize computing devices with GUI interfaces, e.g. personal computers, mobile devices, and tablet computers.",
+  "authors": [
+    "Revechkis Boris",
+    "Aflalo Tyson N S",
+    "Kellis Spencer",
+    "Pouratian Nader",
+    "Andersen Richard A"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2014",
+  "doi": "10.1088/1741-2560/11/6/066014",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrodes, Implanted",
+    "Macaca mulatta",
+    "Male",
+    "Neural Prostheses",
+    "Parietal Lobe",
+    "Photic Stimulation",
+    "Psychomotor Performance"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "39084245",
+  "title": "<i>In vivo</i>optogenetics using a Utah Optrode Array with enhanced light output and spatial selectivity.",
+  "abstract": "<i>Objective.</i>Optogenetics allows the manipulation of neural circuits<i>in vivo</i>with high spatial and temporal precision. However, combining this precision with control over a significant portion of the brain is technologically challenging (especially in larger animal models).<i>Approach.</i>Here, we have developed, optimised, and tested<i>in vivo</i>, the Utah Optrode Array (UOA), an electrically addressable array of optical needles and interstitial sites illuminated by 181<i>μ</i>LEDs and used to optogenetically stimulate the brain. The device is specifically designed for non-human primate studies.<i>Main results.</i>Thinning the combined<i>μ</i>LED and needle backplane of the device from 300<i>μ</i>m to 230<i>μ</i>m improved the efficiency of light delivery to tissue by 80%, allowing lower<i>μ</i>LED drive currents, which improved power management and thermal performance. The spatial selectivity of each site was also improved by integrating an optical interposer to reduce stray light emission. These improvements were achieved using an innovative fabrication method to create an anodically bonded glass/silicon substrate with through-silicon vias etched, forming an optical interposer. Optical modelling was used to demonstrate that the tip structure of the device had a major influence on the illumination pattern. The thermal performance was evaluated through a combination of modelling and experiment, in order to ensure that cortical tissue temperatures did not rise by more than 1 °C. The device was tested<i>in vivo</i>in the visual cortex of macaque expressing ChR2-tdTomato in cortical neurons.<i>Significance.</i>It was shown that the UOA produced the strongest optogenetic response in the region surrounding the needle tips, and that the extent of the optogenetic response matched the predicted illumination profile based on optical modelling-demonstrating the improved spatial selectivity resulting from the optical interposer approach. Furthermore, different needle illumination sites generated different patterns of low-frequency potential activity.",
+  "authors": [
+    "McAlinden Niall",
+    "Reiche Christopher F",
+    "Clark Andrew M",
+    "Scharf Robert",
+    "Cheng Yunzhou",
+    "Sharma Rohit",
+    "Rieth Loren",
+    "Dawson Martin D",
+    "Angelucci Alessandra",
+    "Mathieson Keith",
+    "Blair Steve"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2024",
+  "doi": "10.1088/1741-2552/ad69c3",
+  "mesh": [
+    "Animals",
+    "Optogenetics",
+    "Photic Stimulation",
+    "Equipment Design",
+    "Macaca mulatta",
+    "Light",
+    "Male"
+  ]
+}

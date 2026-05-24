@@ -1,0 +1,28 @@
+{
+  "pmid": "15229215",
+  "title": "Semi-chronic motorized microdrive and control algorithm for autonomously isolating and maintaining optimal extracellular action potentials.",
+  "abstract": "A system was developed that can autonomously position recording electrodes to isolate and maintain optimal quality extracellular signals. The system consists of a novel motorized miniature recording microdrive and a control algorithm. The microdrive was designed for chronic operation and can independently position four glass-coated Pt-Ir electrodes with micrometer precision over a 5-mm range using small (3 mm diam) piezoelectric linear actuators. The autonomous positioning algorithm is designed to detect, align, and cluster action potentials and then command the microdrive to optimize and maintain the neural signal. This system is shown to be capable of autonomous operation in monkey cortical tissue.",
+  "authors": [
+    "Cham Jorge G",
+    "Branchaud Edward A",
+    "Nenadic Zoran",
+    "Greger Bradley",
+    "Andersen Richard A",
+    "Burdick Joel W"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Cerebral Cortex",
+    "Electrodes, Implanted",
+    "Electronics, Medical",
+    "Electrophysiology",
+    "Haplorhini",
+    "Neurons",
+    "Time Factors"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "26658869",
+  "title": "Distributed and Dynamic Neural Encoding of Multiple Motion Directions of Transparently Moving Stimuli in Cortical Area MT.",
+  "abstract": "UNLABELLED: Segmenting visual scenes into distinct objects and surfaces is a fundamental visual function. To better understand the underlying neural mechanism, we investigated how neurons in the middle temporal cortex (MT) of macaque monkeys represent overlapping random-dot stimuli moving transparently in slightly different directions. It has been shown that the neuronal response elicited by two stimuli approximately follows the average of the responses elicited by the constituent stimulus components presented alone. In this scheme of response pooling, the ability to segment two simultaneously presented motion directions is limited by the width of the tuning curve to motion in a single direction. We found that, although the population-averaged neuronal tuning showed response averaging, subgroups of neurons showed distinct patterns of response tuning and were capable of representing component directions that were separated by a small angle--less than the tuning width to unidirectional stimuli. One group of neurons preferentially represented the component direction at a specific side of the bidirectional stimuli, weighting one stimulus component more strongly than the other. Another group of neurons pooled the component responses nonlinearly and showed two separate peaks in their tuning curves even when the average of the component responses was unimodal. We also show for the first time that the direction tuning of MT neurons evolved from initially representing the vector-averaged direction of slightly different stimuli to gradually representing the component directions. Our results reveal important neural processes underlying image segmentation and suggest that information about slightly different stimulus components is computed dynamically and distributed across neurons. SIGNIFICANCE STATEMENT: Natural scenes often contain multiple entities. The ability to segment visual scenes into distinct objects and surfaces is fundamental to sensory processing and is crucial for generating the perception of our environment. Because cortical neurons are broadly tuned to a given visual feature, segmenting two stimuli that differ only slightly is a challenge for the visual system. In this study, we discovered that many neurons in the visual cortex are capable of representing individual components of slightly different stimuli by selectively and nonlinearly pooling the responses elicited by the stimulus components. We also show for the first time that the neural representation of individual stimulus components developed over a period of ∼70-100 ms, revealing a dynamic process of image segmentation.",
+  "authors": [
+    "Xiao Jianbo",
+    "Huang Xin"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2015",
+  "doi": "10.1523/JNEUROSCI.2175-15.2015",
+  "mesh": [
+    "Animals",
+    "Brain Mapping",
+    "Discrimination, Psychological",
+    "Evoked Potentials, Visual",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Orientation",
+    "Photic Stimulation",
+    "Reaction Time",
+    "Support Vector Machine",
+    "Temporal Lobe",
+    "Time Factors",
+    "Visual Pathways"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pmid": "36081198",
+  "title": "Hierarchical binding in convolutional neural networks: Making adversarial attacks geometrically challenging.",
+  "abstract": "We approach the issue of robust machine vision by presenting a novel deep-learning architecture, inspired by work in theoretical neuroscience on how the primate brain performs visual feature binding. Feature binding describes how separately represented features are encoded in a relationally meaningful way, such as an edge composing part of the larger contour of an object. We propose that the absence of such representations from current models might partly explain their vulnerability to small, often humanly-imperceptible distortions known as adversarial examples. It has been proposed that adversarial examples are a result of 'off-manifold' perturbations of images. Our novel architecture is designed to approximate hierarchical feature binding, providing explicit representations in these otherwise vulnerable directions. Having introduced these representations into convolutional neural networks, we provide empirical evidence of enhanced robustness against a broad range of L<sub>0</sub>, L<sub>2</sub> and L<sub>∞</sub> attacks, particularly in the black-box setting. While we eventually report that the model remains vulnerable to a sufficiently powerful attacker (i.e. the defense can be broken), we demonstrate that our main results cannot be accounted for by trivial, false robustness (gradient masking). Analysis of the representational geometry of our architectures shows a positive relationship between hierarchical binding, expanded manifolds, and robustness. Through hyperparameter manipulation, we find evidence that robustness emerges through the preservation of general low-level information alongside more abstract features, rather than by capturing which specific low-level features drove the abstract representation. Finally, we propose how hierarchical binding relates to the observation that, under appropriate viewing conditions, humans show sensitivity to adversarial examples.",
+  "authors": [
+    "Leadholm Niels",
+    "Stringer Simon"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2022",
+  "doi": "10.1016/j.neunet.2022.07.003",
+  "mesh": [
+    "Humans",
+    "Neural Networks, Computer",
+    "Brain"
+  ]
+}

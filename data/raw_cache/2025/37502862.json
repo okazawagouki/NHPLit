@@ -1,0 +1,21 @@
+{
+  "pmid": "37502862",
+  "title": "The information bottleneck as a principle underlying multi-area cortical representations during decision-making.",
+  "abstract": "Decision-making emerges from distributed computations across multiple brain areas, but it is unclear <i>why</i> the brain distributes the computation. In deep learning, artificial neural networks use multiple areas (or layers) and form optimal representations of task inputs. These optimal representations are <i>sufficient</i> to perform the task well, but <i>minimal</i> so they are invariant to other irrelevant variables. We recorded single neurons and multiunits in dorsolateral prefrontal cortex (DLPFC) and dorsal premotor cortex (PMd) in monkeys during a perceptual decision-making task. We found that while DLPFC represents task-related inputs required to compute the choice, the downstream PMd contains a minimal sufficient, or optimal, representation of the choice. To identify a mechanism for how cortex may form these optimal representations, we trained a multi-area recurrent neural network (RNN) to perform the task. Remarkably, DLPFC and PMd resembling representations emerged in the early and late areas of the multi-area RNN, respectively. The DLPFC-resembling area partially orthogonalized choice information and task inputs and this choice information was preferentially propagated to downstream areas through selective alignment with inter-area connections, while remaining task information was not. Our results suggest that cortex uses multi-area computation to form minimal sufficient representations by preferential propagation of relevant information between areas.",
+  "authors": [
+    "Kleinman Michael",
+    "Wang Tian",
+    "Xiao Derek",
+    "Feghhi Ebrahim",
+    "Lee Kenji",
+    "Carr Nicole",
+    "Li Yuke",
+    "Hadidi Nima",
+    "Chandrasekaran Chandramouli",
+    "Kao Jonathan C"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "doi": "10.1101/2023.07.12.548742",
+  "mesh": []
+}

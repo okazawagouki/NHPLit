@@ -1,0 +1,28 @@
+{
+  "pmid": "30337480",
+  "title": "Mechanisms underlying contrast-dependent orientation selectivity in mouse V1.",
+  "abstract": "Recent experiments have shown that mouse primary visual cortex (V1) is very different from that of cat or monkey, including response properties-one of which is that contrast invariance in the orientation selectivity (OS) of the neurons' firing rates is replaced in mouse with contrast-dependent sharpening (broadening) of OS in excitatory (inhibitory) neurons. These differences indicate a different circuit design for mouse V1 than that of cat or monkey. Here we develop a large-scale computational model of an effective input layer of mouse V1. Constrained by experiment data, the model successfully reproduces experimentally observed response properties-for example, distributions of firing rates, orientation tuning widths, and response modulations of simple and complex neurons, including the contrast dependence of orientation tuning curves. Analysis of the model shows that strong feedback inhibition and strong orientation-preferential cortical excitation to the excitatory population are the predominant mechanisms underlying the contrast-sharpening of OS in excitatory neurons, while the contrast-broadening of OS in inhibitory neurons results from a strong but nonpreferential cortical excitation to these inhibitory neurons, with the resulting contrast-broadened inhibition producing a secondary enhancement on the contrast-sharpened OS of excitatory neurons. Finally, based on these mechanisms, we show that adjusting the detailed balances between the predominant mechanisms can lead to contrast invariance-providing insights for future studies on contrast dependence (invariance).",
+  "authors": [
+    "Dai Wei P",
+    "Zhou Douglas",
+    "McLaughlin David W",
+    "Cai David"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2018",
+  "doi": "10.1073/pnas.1719044115",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Cats",
+    "Contrast Sensitivity",
+    "Feedback, Sensory",
+    "Haplorhini",
+    "Mice",
+    "Models, Neurological",
+    "Neurons",
+    "Orientation",
+    "Species Specificity",
+    "Visual Cortex"
+  ]
+}

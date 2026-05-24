@@ -1,0 +1,23 @@
+{
+  "pmid": "26792883",
+  "title": "Phase-amplitude coupling, an indication of bursting in parkinsonism, is masked by periodic pulses.",
+  "abstract": "Interactions between neural oscillations in the brain have been observed in many structures including the hippocampus, amygdala, motor cortex, and basal ganglia. In this study, one popular approach for quantifying oscillation interactions was considered: phase-amplitude coupling. The goals of the study were to use simulations to examine potential causes of elevated phase-amplitude coupling in parkinsonism, to compare simulated parkinsonian signals with recorded local field potentials from animal models of parkinsonism, to investigate possible relationships between increased bursting in parkinsonian single cells and elevated phase-amplitude coupling, and to uncover potential noise and artifact effects. First, a cell model that integrates incremental input currents and fires at realistic voltage thresholds was modified to allow control of stochastic parameters related to firing and burst rates. Next, the input currents and distribution of integration times were set to reproduce firing patterns consistent with those from parkinsonian subthalamic nucleus cells. Then, local field potentials were synthesized from the output of multiple simulated cells with varying degrees of synchronization and compared with subthalamic nucleus recordings from animal models of parkinsonism. The results showed that phase-amplitude coupling can provide important information about underlying neural activity. In particular, signals synthesized from synchronized bursting neurons showed increased oscillatory interactions similar to those observed in parkinsonian animals. Additionally, changes in bursting parameters such as the intraburst rate, the mean interburst period, and the amount of synchronization between neurons influenced the phase-amplitude coupling in predictable ways. Finally, simulation results revealed that small periodic signals can have a surprisingly large masking effect on phase-amplitude coupling.",
+  "authors": [
+    "Sanders Teresa H"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2016",
+  "doi": "10.1152/jn.00801.2015",
+  "mesh": [
+    "Animals",
+    "Brain Waves",
+    "Macaca mulatta",
+    "Male",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Models, Neurological",
+    "Neurons",
+    "Parkinsonian Disorders",
+    "Thalamic Nuclei"
+  ]
+}

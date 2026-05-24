@@ -1,0 +1,21 @@
+{
+  "pmid": "34392433",
+  "title": "Modelling Cortical Laminar Connectivity in the Macaque Brain.",
+  "abstract": "In 1991, Felleman and Van Essen published their seminal study regarding hierarchical processing in the primate cerebral cortex. Their work encompassed a widescale analysis of connections reported through tracing between 35 regions in the macaque visual cortex, extending from cortical regions to the laminar level. In this work, we revisit laminar-level connectivity in the macaque brain using a whole-brain MRI-based approach. We use multimodal ex-vivo MRI imaging of the macaque brain in both white and grey matter, which are then integrated via a simple model of laminar connectivity. This model uses a granularity-based approach to define a set of rules that expands cortical connections to the laminar level. Different fiber tracking routines are then examined in order to explore the ability of our model to infer laminar connectivity. The network of macaque cortical laminar connectivity resulting from the chosen routine is then validated in the visual cortex by comparison to findings from Felleman and Van Essen with an 83% accuracy level. By using a more comprehensive definition of the cortex that addresses its heterogenous laminar composition, we can explore a new avenue of structural connectivity on the laminar level.",
+  "authors": [
+    "Shamir Ittai",
+    "Assaf Yaniv"
+  ],
+  "journal": "Neuroinformatics",
+  "year": "2022",
+  "doi": "10.1007/s12021-021-09539-2",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "Visual Cortex"
+  ]
+}

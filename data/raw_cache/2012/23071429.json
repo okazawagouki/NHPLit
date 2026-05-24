@@ -1,0 +1,25 @@
+{
+  "pmid": "23071429",
+  "title": "Analysis of slow (theta) oscillations as a potential temporal reference frame for information coding in sensory cortices.",
+  "abstract": "While sensory neurons carry behaviorally relevant information in responses that often extend over hundreds of milliseconds, the key units of neural information likely consist of much shorter and temporally precise spike patterns. The mechanisms and temporal reference frames by which sensory networks partition responses into these shorter units of information remain unknown. One hypothesis holds that slow oscillations provide a network-intrinsic reference to temporally partitioned spike trains without exploiting the millisecond-precise alignment of spikes to sensory stimuli. We tested this hypothesis on neural responses recorded in visual and auditory cortices of macaque monkeys in response to natural stimuli. Comparing different schemes for response partitioning revealed that theta band oscillations provide a temporal reference that permits extracting significantly more information than can be obtained from spike counts, and sometimes almost as much information as obtained by partitioning spike trains using precisely stimulus-locked time bins. We further tested the robustness of these partitioning schemes to temporal uncertainty in the decoding process and to noise in the sensory input. This revealed that partitioning using an oscillatory reference provides greater robustness than partitioning using precisely stimulus-locked time bins. Overall, these results provide a computational proof of concept for the hypothesis that slow rhythmic network activity may serve as internal reference frame for information coding in sensory cortices and they foster the notion that slow oscillations serve as key elements for the computations underlying perception.",
+  "authors": [
+    "Kayser Christoph",
+    "Ince Robin A A",
+    "Panzeri Stefano"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2012",
+  "doi": "10.1371/journal.pcbi.1002717",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Auditory Cortex",
+    "Computational Biology",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Signal Processing, Computer-Assisted",
+    "Theta Rhythm",
+    "Time Factors",
+    "Visual Cortex"
+  ]
+}

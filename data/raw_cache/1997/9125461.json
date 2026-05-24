@@ -1,0 +1,25 @@
+{
+  "pmid": "9125461",
+  "title": "The representational capacity of the distributed encoding of information provided by populations of neurons in primate temporal visual cortex.",
+  "abstract": "It has been shown that it is possible to read, from the firing rates of just a small population of neurons, the code that is used in the macaque temporal lobe visual cortex to distinguish between different faces being looked at. To analyse the information provided by populations of single neurons in the primate temporal cortical visual areas, the responses of a population of 14 neurons to 20 visual stimuli were analysed in a macaque performing a visual fixation task. The population of neurons analysed responded primarily to faces, and the stimuli utilised were all human and monkey faces. Each neuron had its own response profile to the different members of the stimulus set. The mean response of each neuron to each stimulus in the set was calculated from a fraction of the ten trials of data available for every stimulus. From the remaining data, it was possible to calculate, for any population response vector, the relative likelihoods that it had been elicited by each of the stimuli in the set. By comparison with the stimuli actually shown, the mean percentage correct identification was computed and also the mean information about the stimuli, in bits, that the population of neurons carried on a single trial. When the decoding algorithm used for this calculation approximated an optimal, Bayesian estimate of the relative likelihoods, the percentage correct increased from 14% correct (chance was 5% correct) with one neuron to 67% with 14 neurons. The information conveyed by the population of neurons increased approximately linearly from 0.33 bits with one neuron to 2.77 bits with 14 neurons. This leads to the important conclusion that the number of stimuli that can be encoded by a population of neurons in this part of the visual system increases approximately exponentially as the number of cells in the sample increases (in that the log of the number of stimuli increases almost linearly). This is in contrast to a local encoding scheme (of \"grandmother\" cells), in which the number of stimuli encoded increases linearly with the number of cells in the sample. Thus one of the potentially important properties of distributed representations, an exponential increase in the number of stimuli that can be represented, has been demonstrated in the brain with this population of neurons. When the algorithm used for estimating stimulus likelihood was as simple as could be easily implemented by neurons receiving the population's output (based on just the dot product between the population response vector and each mean response vector), it was still found that the 14-neuron population produced 66% correct guesses and conveyed 2.30 bits of information, or 83% of the information that could be extracted with the nearly optimal procedure. It was also shown that, although there was some redundancy in the representation (with each neuron contributing to the information carried by the whole population 60% of the information it carried alone, rather than 100%), this is due to the fact that the number of stimuli in the set was limited (it was 20). The data are consistent with minimal redundancy for sufficiently large and diverse sets of stimuli. The implication for brain connectivity of the distributed encoding scheme, which was demonstrated here in the case of faces, is that a neuron can receive a great deal of information about what is encoded by a large population of neurons if it is able to receive its inputs from a random subset of these neurons, even of limited numbers (e.g. hundreds).",
+  "authors": [
+    "Rolls E T",
+    "Treves A",
+    "Tovee M J"
+  ],
+  "journal": "Experimental brain research",
+  "year": "1997",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Face",
+    "Humans",
+    "Macaca mulatta",
+    "Models, Neurological",
+    "Neurons",
+    "Pattern Recognition, Visual",
+    "Temporal Lobe",
+    "Visual Cortex"
+  ]
+}

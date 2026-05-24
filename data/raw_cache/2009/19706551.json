@@ -1,0 +1,29 @@
+{
+  "pmid": "19706551",
+  "title": "Stimulus ensemble and cortical layer determine V1 spatial receptive fields.",
+  "abstract": "The concept of receptive field is a linear, feed-forward view of visual signal processing. Frequently used models of V1 neurons, like the dynamic Linear filter--static nonlinearity--Poisson [corrected] spike encoder model, predict that receptive fields measured with different stimulus ensembles should be similar. Here, we tested this concept by comparing spatiotemporal maps of V1 neurons derived from two very different, but commonly used, stimulus ensembles: sparse noise and Hartley subspace stimuli. We found maps from the two methods agreed for neurons in input layer 4C but were very different for neurons in superficial layers of V1. Many layer 2/3 cells have receptive fields with multiple elongated subregions when mapped with Hartley stimuli, but their spatial maps collapse to only a single, less-elongated subregion when mapped with sparse noise. Moreover, for upper layer V1 neurons, the preferred orientation for Hartley maps is much closer to the preferred orientation measured with drifting gratings than is the orientation preference of sparse-noise maps. These results challenge the concept of a stimulus-invariant receptive field and imply that intracortical interactions shape fundamental properties of layer 2/3 neurons.",
+  "authors": [
+    "Yeh Chun-I",
+    "Xing Dajun",
+    "Williams Patrick E",
+    "Shapley Robert M"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2009",
+  "doi": "10.1073/pnas.0907406106",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Electrodes, Implanted",
+    "Electrophysiology",
+    "Macaca fascicularis",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Space Perception",
+    "Visual Cortex",
+    "Visual Fields"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "22832155",
+  "title": "L1-penalized N-way PLS for subset of electrodes selection in BCI experiments.",
+  "abstract": "Recently, the N-way partial least squares (NPLS) approach was reported as an effective tool for neuronal signal decoding and brain-computer interface (BCI) system calibration. This method simultaneously analyzes data in several domains. It combines the projection of a data tensor to a low dimensional space with linear regression. In this paper the L1-Penalized NPLS is proposed for sparse BCI system calibration, allowing uniting the projection technique with an effective selection of subset of features. The L1-Penalized NPLS was applied for the binary self-paced BCI system calibration, providing selection of electrodes subset. Our BCI system is designed for animal research, in particular for research in non-human primates.",
+  "authors": [
+    "Eliseyev Andrey",
+    "Moro Cecile",
+    "Faber Jean",
+    "Wyss Alexander",
+    "Torres Napoleon",
+    "Mestais Corinne",
+    "Benabid Alim Louis",
+    "Aksenova Tetiana"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2012",
+  "doi": "10.1088/1741-2560/9/4/045010",
+  "mesh": [
+    "Animals",
+    "Brain-Computer Interfaces",
+    "Electrodes",
+    "Electroencephalography",
+    "Haplorhini",
+    "Humans",
+    "Least-Squares Analysis"
+  ]
+}

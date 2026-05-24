@@ -1,0 +1,22 @@
+{
+  "pmid": "29030435",
+  "title": "Dissociation of Self-Motion and Object Motion by Linear Population Decoding That Approximates Marginalization.",
+  "abstract": "We use visual image motion to judge the movement of objects, as well as our own movements through the environment. Generally, image motion components caused by object motion and self-motion are confounded in the retinal image. Thus, to estimate heading, the brain would ideally marginalize out the effects of object motion (or vice versa), but little is known about how this is accomplished neurally. Behavioral studies suggest that vestibular signals play a role in dissociating object motion and self-motion, and recent computational work suggests that a linear decoder can approximate marginalization by taking advantage of diverse multisensory representations. By measuring responses of MSTd neurons in two male rhesus monkeys and by applying a recently-developed method to approximate marginalization by linear population decoding, we tested the hypothesis that vestibular signals help to dissociate self-motion and object motion. We show that vestibular signals stabilize tuning for heading in neurons with congruent visual and vestibular heading preferences, whereas they stabilize tuning for object motion in neurons with discrepant preferences. Thus, vestibular signals enhance the separability of joint tuning for object motion and self-motion. We further show that a linear decoder, designed to approximate marginalization, allows the population to represent either self-motion or object motion with good accuracy. Decoder weights are broadly consistent with a readout strategy, suggested by recent computational work, in which responses are decoded according to the vestibular preferences of multisensory neurons. These results demonstrate, at both single neuron and population levels, that vestibular signals help to dissociate self-motion and object motion.<b>SIGNIFICANCE STATEMENT</b> The brain often needs to estimate one property of a changing environment while ignoring others. This can be difficult because multiple properties of the environment may be confounded in sensory signals. The brain can solve this problem by marginalizing over irrelevant properties to estimate the property-of-interest. We explore this problem in the context of self-motion and object motion, which are inherently confounded in the retinal image. We examine how diversity in a population of multisensory neurons may be exploited to decode self-motion and object motion from the population activity of neurons in macaque area MSTd.",
+  "authors": [
+    "Sasaki Ryo",
+    "Angelaki Dora E",
+    "DeAngelis Gregory C"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "2017",
+  "doi": "10.1523/JNEUROSCI.1177-17.2017",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Head Movements",
+    "Macaca mulatta",
+    "Male",
+    "Motion Perception",
+    "Photic Stimulation"
+  ]
+}

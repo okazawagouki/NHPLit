@@ -1,0 +1,33 @@
+{
+  "pmid": "21632309",
+  "title": "The Neurochip-2: an autonomous head-fixed computer for recording and stimulating in freely behaving monkeys.",
+  "abstract": "The Neurochip-2 is a second generation, battery-powered device for neural recording and stimulating that is small enough to be carried in a chamber on a monkey's head. It has three recording channels, with user-adjustable gains, filters, and sampling rates, that can be optimized for recording single unit activity, local field potentials, electrocorticography, electromyography, arm acceleration, etc. Recorded data are stored on a removable, flash memory card. The Neurochip-2 also has three separate stimulation channels. Two \"programmable-system-on-chips\" (PSoCs) control the data acquisition and stimulus output. The PSoCs permit flexible real-time processing of the recorded data, such as digital filtering and time-amplitude window discrimination. The PSoCs can be programmed to deliver stimulation contingent on neural events or deliver preprogrammed stimuli. Access pins to the microcontroller are also available to connect external devices, such as accelerometers. The Neurochip-2 can record and stimulate autonomously for up to several days in freely behaving monkeys, enabling a wide range of novel neurophysiological and neuroengineering experiments.",
+  "authors": [
+    "Zanos Stavros",
+    "Richardson Andrew G",
+    "Shupe Larry",
+    "Miles Frank P",
+    "Fetz Eberhard E"
+  ],
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "year": "2011",
+  "doi": "10.1109/TNSRE.2011.2158007",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Behavior, Animal",
+    "Brain",
+    "Cerebral Cortex",
+    "Computers",
+    "Computers, Analog",
+    "Electric Power Supplies",
+    "Electric Stimulation",
+    "Electroencephalography",
+    "Electromyography",
+    "Electronics",
+    "Macaca nemestrina",
+    "Microcomputers",
+    "Software",
+    "User-Computer Interface"
+  ]
+}

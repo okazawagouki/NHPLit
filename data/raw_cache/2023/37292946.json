@@ -1,0 +1,17 @@
+{
+  "pmid": "37292946",
+  "title": "A Unifying Principle for the Functional Organization of Visual Cortex.",
+  "abstract": "A key feature of many cortical systems is functional organization: the arrangement of neurons with specific functional properties in characteristic spatial patterns across the cortical surface. However, the principles underlying the emergence and utility of functional organization are poorly understood. Here we develop the Topographic Deep Artificial Neural Network (TDANN), the first unified model to accurately predict the functional organization of multiple cortical areas in the primate visual system. We analyze the key factors responsible for the TDANN's success and find that it strikes a balance between two specific objectives: achieving a task-general sensory representation that is self-supervised, and maximizing the smoothness of responses across the cortical sheet according to a metric that scales relative to cortical surface area. In turn, the representations learned by the TDANN are lower dimensional and more brain-like than those in models that lack a spatial smoothness constraint. Finally, we provide evidence that the TDANN's functional organization balances performance with inter-area connection length, and use the resulting models for a proof-of-principle optimization of cortical prosthetic design. Our results thus offer a unified principle for understanding functional organization and a novel view of the functional role of the visual system in particular.",
+  "authors": [
+    "Margalit Eshed",
+    "Lee Hyodong",
+    "Finzi Dawn",
+    "DiCarlo James J",
+    "Grill-Spector Kalanit",
+    "Yamins Daniel L K"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2023",
+  "doi": "10.1101/2023.05.18.541361",
+  "mesh": []
+}

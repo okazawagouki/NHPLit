@@ -1,0 +1,25 @@
+{
+  "pmid": "11705407",
+  "title": "Spotting neural spike patterns using an adversary background model.",
+  "abstract": "The detection of a specific stochastic pattern embedded in an unknown background noise is a difficult pattern recognition problem, encountered in many applications such as word spotting in speech. A similar problem emerges when trying to detect a multineural spike pattern in a single electrical recording, embedded in the complex cortical activity of a behaving animal. Solving this problem is crucial for the identification of neuronal code words with specific meaning. The technical difficulty of this detection is due to the lack of a good statistical model for the background activity, which rapidly changes with the recording conditions and activity of the animal. This work introduces the use of an adversary background model. This model assumes that the background \"knows\" the pattern sought, up to a first-order statistics, and this \"knowledge\" creates a background composed of all the permutations of our pattern. We show that this background model is tightly connected to the type-based information-theoretic approach. Furthermore, we show that computing the likelihood ratio is actually decomposing the log-likelihood distribution according to types of the empirical counts. We demonstrate the application of this method for detection of the reward patterns in the basal ganglia of behaving monkeys, yielding some unexpected biological results.",
+  "authors": [
+    "Gat I",
+    "Tishby N"
+  ],
+  "journal": "Neural computation",
+  "year": "2001",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Basal Ganglia",
+    "Chlorocebus aethiops",
+    "Likelihood Functions",
+    "Models, Neurological",
+    "Pattern Recognition, Automated",
+    "Poisson Distribution",
+    "Reward",
+    "Stochastic Processes"
+  ]
+}

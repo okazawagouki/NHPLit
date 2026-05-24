@@ -1,0 +1,34 @@
+{
+  "pmid": "27762504",
+  "title": "Improved pan-specific prediction of MHC class I peptide binding using a novel receptor clustering data partitioning strategy.",
+  "abstract": "Pan-specific prediction of receptor-ligand interaction is conventionally done using machine-learning methods that integrates information about both receptor and ligand primary sequences. To achieve optimal performance using machine learning, dealing with overfitting and data redundancy is critical. Most often so-called ligand clustering methods have been used to deal with these issues in the context of pan-specific receptor-ligand predictions, and the MHC system the approach has proven highly effective for extrapolating information from a limited set of receptors with well characterized binding motifs, to others with no or very limited experimental characterization. The success of this approach has however proven to depend strongly on the similarity of the query molecule to the molecules with characterized specificity using in the machine-learning process. Here, we outline an alternative strategy with the aim of altering this and construct data sets optimal for training of pan-specific receptor-ligand predictions focusing on receptor similarity rather than ligand similarity. We show that this receptor clustering method consistently in benchmarks covering affinity predictions, MHC ligand and MHC epitope identification perform better than the conventional ligand clustering method on the alleles with remote similarity to the training set.",
+  "authors": [
+    "Mattsson A H",
+    "Kringelum J V",
+    "Garde C",
+    "Nielsen M"
+  ],
+  "journal": "HLA",
+  "year": "2016",
+  "doi": "10.1111/tan.12911",
+  "mesh": [
+    "Alleles",
+    "Animals",
+    "Binding Sites",
+    "Epitopes",
+    "Gene Expression",
+    "Gorilla gorilla",
+    "Histocompatibility Antigens Class I",
+    "Humans",
+    "Ligands",
+    "Macaca",
+    "Machine Learning",
+    "Mice",
+    "Oligopeptides",
+    "Pan troglodytes",
+    "Protein Binding",
+    "Protein Interaction Domains and Motifs",
+    "Software",
+    "Structural Homology, Protein"
+  ]
+}

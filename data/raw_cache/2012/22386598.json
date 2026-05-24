@@ -1,0 +1,34 @@
+{
+  "pmid": "22386598",
+  "title": "Network properties of a computational model of the dorsal raphe nucleus.",
+  "abstract": "Serotonin (5-HT) plays an important role in regulating mood, cognition and behaviour. The midbrain dorsal raphe nucleus (DRN) is one of the primary sources of 5-HT. Recent studies show that DRN neuronal activities can encode rewarding (e.g., appetitive) and unrewarding (e.g., aversive) behaviours. Experiments have also shown that DRN neurons can exhibit heterogeneous spiking behaviours. In this work, we build and study a basic spiking neuronal network model of the DRN constrained by neuronal properties observed in experiments. We use an efficient adaptive quadratic integrate-and-fire neuronal model to capture slow afterhyperpolarization current, occasional bursting behaviours in 5-HT neurons, and fast spiking activities in the non-5-HT inhibitory neurons. Provided that our noisy and heterogeneous spiking neuronal network model adopts a feedforward inhibitory network architecture, it is able to replicate the main features of DRN neuronal activities recorded in monkeys performing a reward-based memory-guided saccade task. The model exhibits theta band oscillation, especially among the non-5-HT inhibitory neurons during the rewarding outcome of a simulated trial, thus forming a model prediction. By varying the inhibitory synaptic strengths and the afferent inputs, we find that the network model can oscillate over a range of relatively low frequencies, allow co-existence of multiple stable frequencies, and spike synchrony can spread from within a local neural subgroup to global. Our model suggests plausible network architecture, provides interesting model predictions that can be experimentally tested, and offers a sufficiently realistic multi-scale model for 5-HT neuromodulation simulations.",
+  "authors": [
+    "Wong-Lin KongFatt",
+    "Joshi Alok",
+    "Prasad Girijesh",
+    "McGinnity T Martin"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2012",
+  "doi": "10.1016/j.neunet.2012.02.009",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Behavior",
+    "Computer Simulation",
+    "Conditioning, Operant",
+    "Haplorhini",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Neurons, Afferent",
+    "Psychomotor Performance",
+    "Raphe Nuclei",
+    "Rats",
+    "Reward",
+    "Saccades",
+    "Serotonin",
+    "Synapses",
+    "Theta Rhythm"
+  ]
+}

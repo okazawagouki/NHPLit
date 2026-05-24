@@ -1,0 +1,27 @@
+{
+  "pmid": "17512603",
+  "title": "Automated spike sorting using density grid contour clustering and subtractive waveform decomposition.",
+  "abstract": "In multiple cell recordings identifying the number of neurons and assigning each action potential to a particular source, commonly referred to as 'spike sorting', is a highly non-trivial problem. Density grid contour clustering provides a computationally efficient way of locating high-density regions of arbitrary shape in low-dimensional space. When applied to waveforms projected onto their first two principal components, the algorithm allows the extraction of templates that provide high-dimensional reference points that can be used to perform accurate spike sorting. Template matching using subtractive waveform decomposition can locate these templates in waveform samples despite the influence of noise, spurious threshold crossing and waveform overlap. Tests with a large synthetic dataset incorporating realistic challenges faced during spike sorting (including overlapping and phase-shifted spikes) reveal that this strategy can consistently yield results with less than 6% false positives and false negatives (and less than 2% for high signal-to-noise ratios) at processing speeds exceeding those previously reported for similar algorithms by more than an order of magnitude.",
+  "authors": [
+    "Vargas-Irwin Carlos",
+    "Donoghue John P"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Cluster Analysis",
+    "Electrodes",
+    "Electrophysiology",
+    "Macaca mulatta",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Neurophysiology",
+    "Signal Processing, Computer-Assisted",
+    "Software"
+  ]
+}

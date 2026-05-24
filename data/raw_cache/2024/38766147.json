@@ -1,0 +1,16 @@
+{
+  "pmid": "38766147",
+  "title": "Active vision in freely moving marmosets using head-mounted eye tracking.",
+  "abstract": "Our understanding of how vision functions as primates actively navigate the real-world is remarkably sparse. As most data have been limited to chaired and typically head-restrained animals, the synergistic interactions of different motor actions/plans inherent to active sensing - e.g. eyes, head, posture, movement, etc. - on visual perception are largely unknown. To address this considerable gap in knowledge, we developed an innovative wireless head-mounted eye tracking system called <b>CEREBRO</b> for small mammals, such as marmoset monkeys. Our system performs <b>C</b>hair-free <b>E</b>ye-<b>Re</b>cording using <b>B</b>ackpack mounted mic<b>RO</b>controllers. Because eye illumination and environment lighting change continuously in natural contexts, we developed a segmentation artificial neural network to perform robust pupil tracking in these conditions. Leveraging this innovative system to investigate active vision, we demonstrate that although freely-moving marmosets exhibit frequent compensatory eye movements equivalent to other primates, including humans, the predictability of the visual behavior (gaze) is higher when animals are freely-moving relative to when they are head-fixed. Moreover, despite increases in eye/head-motion during locomotion, gaze stabilization remains steady because of an increase in VOR gain during locomotion. These results demonstrate the efficient, dynamic visuo-motor mechanisms and related behaviors that enable stable, high-resolution foveal vision in primates as they explore the natural world.",
+  "authors": [
+    "Singh Vikram Pal",
+    "Li Jingwen",
+    "Dawson Kana",
+    "Mitchell Jude F",
+    "Miller Cory T"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "doi": "10.1101/2024.05.11.593707",
+  "mesh": []
+}

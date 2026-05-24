@@ -1,0 +1,22 @@
+{
+  "pmid": "17275173",
+  "title": "Inhomogeneous retino-cortical mapping is supported and stabilized with correlation-learning during self-motion.",
+  "abstract": "In primates, the area of primary visual cortex representing a fixed area of visual space decreases with increasing eccentricity. We identify visual situations to which this inhomogeneous retino-cortical mapping is well adapted and study their relevance during natural vision and development. We assume that cortical activations caused by stationary objects during self-motion along the direction of gaze travel on average with constant speed across the cortical surface, independent of retinal eccentricity. This is the case if the distribution of objects corresponds to an ellipsoid with the observer in its center. We apply the resulting flow field to train a simple network of pulse coding neurons with Hebbian learning and demonstrate that the density of learned receptive field centers is in close agreement with primate retino-cortical magnification. In addition, the model reproduces the increase of receptive field size and the decrease of its peak sensitivity with increasing eccentricity. Our results suggest that self-motion may have played an important role in the evolution of the visual system and that cortical magnification can be refined and stabilized by Hebbian learning mechanisms in ontogenesis under natural viewing conditions.",
+  "authors": [
+    "Al-Shaikhli Basim",
+    "Wachtler Thomas",
+    "Eckhorn Reinhard"
+  ],
+  "journal": "Bio Systems",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Cerebral Cortex",
+    "Learning",
+    "Models, Neurological",
+    "Motion",
+    "Primates",
+    "Retina"
+  ]
+}

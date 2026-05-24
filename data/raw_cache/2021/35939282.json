@@ -1,0 +1,15 @@
+{
+  "pmid": "35939282",
+  "title": "Active Cortex Tractography.",
+  "abstract": "Most existing diffusion tractography algorithms are affected by gyral bias, causing the termination of streamlines at gyral crowns instead of sulcal banks. In this paper, we propose a tractography technique, called active cortex tractography (ACT), to overcome gyral bias by enabling fiber streamlines to curve naturally into the cortex. We show that the cortex can play an active role in cortical tractography by providing anatomical information to overcome orientation ambiguities as the streamlines enter the superficial white matter in gyral blades and approach the cortex. This is achieved by devising a direction scouting mechanism that takes into account the white matter surface normal vectors. The scouting mechanism allows probing of directions further in space to prepare the streamlines to turn at appropriate angles. The surface normal vectors guide the streamlines to turn into the cortex, perpendicular to the white-gray matter interface. Evaluation using synthetic, macaque and human data with different streamline seeding schemes demonstrates that ACT improves cortical tractography.",
+  "authors": [
+    "Wu Ye",
+    "Hong Yoonmi",
+    "Ahmad Sahar",
+    "Yap Pew-Thian"
+  ],
+  "journal": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+  "year": "2021",
+  "doi": "10.1007/978-3-030-87234-2_44",
+  "mesh": []
+}

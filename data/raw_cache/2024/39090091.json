@@ -1,0 +1,29 @@
+{
+  "pmid": "39090091",
+  "title": "Neural representational geometries reflect behavioral differences in monkeys and recurrent neural networks.",
+  "abstract": "Animals likely use a variety of strategies to solve laboratory tasks. Traditionally, combined analysis of behavioral and neural recording data across subjects employing different strategies may obscure important signals and give confusing results. Hence, it is essential to develop techniques that can infer strategy at the single-subject level. We analyzed an experiment in which two male monkeys performed a visually cued rule-based task. The analysis of their performance shows no indication that they used a different strategy. However, when we examined the geometry of stimulus representations in the state space of the neural activities recorded in dorsolateral prefrontal cortex, we found striking differences between the two monkeys. Our purely neural results induced us to reanalyze the behavior. The new analysis showed that the differences in representational geometry are associated with differences in the reaction times, revealing behavioral differences we were unaware of. All these analyses suggest that the monkeys are using different strategies. Finally, using recurrent neural network models trained to perform the same task, we show that these strategies correlate with the amount of training, suggesting a possible explanation for the observed neural and behavioral differences.",
+  "authors": [
+    "Fascianelli Valeria",
+    "Battista Aldo",
+    "Stefanini Fabio",
+    "Tsujimoto Satoshi",
+    "Genovesio Aldo",
+    "Fusi Stefano"
+  ],
+  "journal": "Nature communications",
+  "year": "2024",
+  "doi": "10.1038/s41467-024-50503-w",
+  "mesh": [
+    "Animals",
+    "Male",
+    "Behavior, Animal",
+    "Prefrontal Cortex",
+    "Macaca mulatta",
+    "Reaction Time",
+    "Neural Networks, Computer",
+    "Nerve Net",
+    "Cues",
+    "Neurons",
+    "Models, Neurological"
+  ]
+}

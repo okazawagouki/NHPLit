@@ -1,0 +1,29 @@
+{
+  "pmid": "19969009",
+  "title": "Effects of heartbeat and respiration on macaque fMRI: implications for functional connectivity.",
+  "abstract": "The use of functional magnetic resonance imaging (fMRI) in non-human primates is on the increase. It is known that the blood-oxygen-level-dependent (BOLD) signal varies not only as a function of local neuronal energy consumption but also as a function of cardiac and respiratory activity. We mapped these cyclic cardiac and respiratory artifacts in anesthetized macaque monkeys and present an objective analysis of their impact on estimates of functional connectivity (fcMRI). Voxels with significant cardiac and respiratory artifacts were found in much the same regions as previously reported for awake humans. We show two example seeds where removing the artifacts clearly decreased the number of false positive and false negative correlations. In particular, removing the artifacts reduced correlations in the so-called resting state network. Temporal bandpass filtering or spatial smoothing may help to reduce the effects of artifacts in some cases but are not an adequate replacement for an algorithm that explicitly models and removes cyclic cardiac and respiratory artifacts.",
+  "authors": [
+    "Teichert Tobias",
+    "Grinband Jack",
+    "Hirsch Joy",
+    "Ferrera Vincent P"
+  ],
+  "journal": "Neuropsychologia",
+  "year": "2010",
+  "doi": "10.1016/j.neuropsychologia.2009.11.026",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "Brain Mapping",
+    "Heart Rate",
+    "Image Processing, Computer-Assisted",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Nerve Net",
+    "Oxygen",
+    "Respiration",
+    "Rest",
+    "Spectrum Analysis"
+  ]
+}

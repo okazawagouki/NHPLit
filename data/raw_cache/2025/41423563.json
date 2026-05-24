@@ -1,0 +1,14 @@
+{
+  "pmid": "41423563",
+  "title": "Jacobian Granger causality for count and binary data with applications to causal network inference.",
+  "abstract": "Granger causality is a commonly used approach for network inference in neural systems. Recent advances in the field allow for the analysis of high-dimensional and nonlinear systems through the use of artificial neural networks, but the formulations are optimized for continuous data. In this work, we show the limitation of this formulation for discrete count data, particularly when the data are sparse. To overcome this limitation, we extend Jacobian Granger causality, a neural network-based approach to Granger causality, to other data types, namely count data and binary data, through the use of different loss functions. We examine its performance compared to a competing approach through the use of simulated data and finally apply it to real neural spiking data recorded from monkey visual cortex when presented with white noise and natural movie stimuli. We found that the natural movie leads to a more structured activity with a larger set of edges shared over two separate observations, and more neurons inferred with positive self-connection, whose burst-like activity has been associated with the encoding of salient visual information, which is present in natural scenes.",
+  "authors": [
+    "Suryadi",
+    "Chew Lock Yue",
+    "Ong Yew-Soon"
+  ],
+  "journal": "Scientific reports",
+  "year": "2025",
+  "doi": "10.1038/s41598-025-33385-w",
+  "mesh": []
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "29303113",
+  "title": "Self-sensing of temperature rises on light emitting diode based optrodes.",
+  "abstract": "OBJECTIVE: This work presents a method to determine the surface temperature of microphotonic medical implants like LEDs. Our inventive step is to use the photonic emitter (LED) employed in an implantable device as its own sensor and develop readout circuitry to accurately determine the surface temperature of the device. APPROACH: There are two primary classes of applications where microphotonics could be used in implantable devices; opto-electrophysiology and fluorescence sensing. In such scenarios, intense light needs to be delivered to the target. As blue wavelengths are scattered strongly in tissue, such delivery needs to be either via optic fibres, two-photon approaches or through local emitters. In the latter case, as light emitters generate heat, there is a potential for probe surfaces to exceed the 2 °C regulatory. However, currently, there are no convenient mechanisms to monitor this in situ. MAIN RESULTS: We present the electronic control circuit and calibration method to monitor the surface temperature change of implantable optrode. The efficacy is demonstrated in air, saline, and brain. SIGNIFICANCE: This paper, therefore, presents a method to utilize the light emitting diode as its own temperature sensor.",
+  "authors": [
+    "Dehkhoda Fahimeh",
+    "Soltan Ahmed",
+    "Ponon Nikhil",
+    "Jackson Andrew",
+    "O'Neill Anthony",
+    "Degenaar Patrick"
+  ],
+  "journal": "Journal of neural engineering",
+  "year": "2018",
+  "doi": "10.1088/1741-2552/aaa56d",
+  "mesh": [
+    "Animals",
+    "Electrodes, Implanted",
+    "Equipment Design",
+    "Light",
+    "Macaca mulatta",
+    "Microelectrodes",
+    "Prostheses and Implants",
+    "Temperature"
+  ]
+}

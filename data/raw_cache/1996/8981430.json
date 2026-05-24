@@ -1,0 +1,20 @@
+{
+  "pmid": "8981430",
+  "title": "A simulated actuator driven by motor cortical signals.",
+  "abstract": "One problem in motor control concerns the mechanism whereby the central nervous system translates the motor cortical command encoded in cell activity into a coordinated contraction of limb muscles to generate a desired motor output. This problem is closely related to the design of adaptive systems that transform neuronal signals chronically recorded from the motor cortex into the physiologically appropriate motor output of multijoint prosthetic limbs. In this study we demonstrated how this transformation can be carried out by an artificial neural network using as command signals the actual impulse activity obtained from recordings in the motor cortex of monkeys during the performance of a task that required the exertion of force in different directions. The network receives experimentally measured brain signals and recodes them into motor actions of a simulated actuator that mimics the primate arm. The actuator responds to the motor cortical commands with surprising fidelity, generating forces in close quantitative agreement with those exerted by trained monkeys, in both the temporal and spatial domains. Moreover, we show that the time-varying motor output may be controlled by the impulse activity of as few as 15 motor cortical cells. These results outline a potentially implementable computation scheme that utilizes raw neuronal signals to drive artificial mechanical systems.",
+  "authors": [
+    "Lukashin A V",
+    "Amirikian B R",
+    "Georgopoulos A P"
+  ],
+  "journal": "Neuroreport",
+  "year": "1996",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Motor Activity",
+    "Motor Cortex",
+    "Signal Transduction"
+  ]
+}

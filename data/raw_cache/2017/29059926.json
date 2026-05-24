@@ -1,0 +1,26 @@
+{
+  "pmid": "29059926",
+  "title": "Feasibility study of imaging fast neural activity in retinal tissue using Electrical Impedance Tomography.",
+  "abstract": "Electrical Impedance Tomography has been recently applied to image fast neural activity in the somatosensory cerebral cortex. This non-invasive imaging modality has the unique advantage of high spatial-temporal resolution in millimeters over milliseconds. This work was designed to test an existing 32-channel EIT system, a modified UCL ScouseTom, and to discuss the feasibility of imaging neural activity in retinal tissue through computer simulation. The finite element method was used to model a retinal slice with a realistic conductivity-depth profile of the macaque eye. The conductivity perturbation was simulated in five different layers of the model. 5μV<sub>RMS</sub> white noise was added to boundary voltages. Simulation results showed that it is feasible to apply EIT in retinal tissue but the injection current is near threshold of unwanted phosphenes induction. Therefore the suggested future work are validating threshold current through animal experiments, developing electrodes with low contact impedance and mitigating noise through averaging.",
+  "authors": [
+    "Danyi Zhu",
+    "Xiunan Fang",
+    "Eiber Calvin",
+    "Avery James",
+    "Holder David",
+    "McEwan Alistair"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2017",
+  "doi": "10.1109/EMBC.2017.8036878",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Electric Impedance",
+    "Electrodes",
+    "Feasibility Studies",
+    "Image Processing, Computer-Assisted",
+    "Tomography"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "24453345",
+  "title": "Simulating component-to-pattern dynamic effects with a computer model of middle temporal pattern neurons.",
+  "abstract": "Some primate motion-sensitive middle temporal (MT) neurons respond best to motion orthogonal to a contour's orientation (component types) whereas another class (pattern type) responds maximally to the overall pattern motion. We have previously developed a model of the pattern-type neurons using integration of the activity generated in speed- and direction-tuned subunits. However, a number of other models have also been able to replicate MT neuron pattern-like behavior using a diverse range of mechanisms. This basic property does not really challenge or help discriminate between the different model types. There exist two sets of findings that we believe provide a better yardstick against which to assess MT pattern models. Some MT neurons have been shown to change from component to pattern behavior over brief time intervals. MT neurons have also been observed to switch from component- to pattern-like behavior when the intensity of the intersections in a plaid pattern stimulus changes. These properties suggest more complex time- and contrast-sensitive internal mechanisms underlying pattern motion extraction, which provide a real challenge for modelers. We have now replicated these two component-to-pattern effects using our MT pattern model. It incorporates two types of V1 neurons (sustained and transient), and these have slightly different time delays; this initially favors the component response, thus mimicking the temporal effects. We also discovered that some plaid stimuli contain a contrast asymmetry that depends on the plaid direction and the intensity of the intersections. This causes the model MT pattern units to act as component units.",
+  "authors": [
+    "Perrone John A",
+    "Krauzlis Richard J"
+  ],
+  "journal": "Journal of vision",
+  "year": "2014",
+  "doi": "10.1167/14.1.19",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Form Perception",
+    "Humans",
+    "Models, Neurological",
+    "Motion Perception",
+    "Neurons",
+    "Orientation",
+    "Temporal Lobe",
+    "Time Perception",
+    "Visual Cortex"
+  ]
+}

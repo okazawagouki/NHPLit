@@ -1,0 +1,24 @@
+{
+  "pmid": "28900120",
+  "title": "Recurrent network dynamics reconciles visual motion segmentation and integration.",
+  "abstract": "In sensory systems, a range of computational rules are presumed to be implemented by neuronal subpopulations with different tuning functions. For instance, in primate cortical area MT, different classes of direction-selective cells have been identified and related either to motion integration, segmentation or transparency. Still, how such different tuning properties are constructed is unclear. The dominant theoretical viewpoint based on ﻿a linear-nonlinear feed-forward cascade does not account for their complex temporal dynamics and their versatility when facing different input statistics. Here, we demonstrate that a recurrent network model of visual motion processing can reconcile these different properties. Using a ring network, we show how excitatory and inhibitory interactions can implement different computational rules such as vector averaging, winner-take-all or superposition. The model also captures ordered temporal transitions between these behaviors. In particular, depending on the inhibition regime the network can switch from motion integration to segmentation, thus being able to compute either a single pattern motion or to superpose multiple inputs as in motion transparency. We thus demonstrate that recurrent architectures can adaptively give rise to different cortical computational regimes depending upon the input statistics, from sensory flow integration to segmentation.",
+  "authors": [
+    "Medathati N V Kartheek",
+    "Rankin James",
+    "Meso Andrew I",
+    "Kornprobst Pierre",
+    "Masson Guillaume S"
+  ],
+  "journal": "Scientific reports",
+  "year": "2017",
+  "doi": "10.1038/s41598-017-11373-z",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Models, Neurological",
+    "Motion",
+    "Motion Perception",
+    "Neurons",
+    "Photic Stimulation"
+  ]
+}

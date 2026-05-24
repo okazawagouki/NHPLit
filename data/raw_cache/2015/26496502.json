@@ -1,0 +1,25 @@
+{
+  "pmid": "26496502",
+  "title": "Reinforcement Learning of Linking and Tracing Contours in Recurrent Neural Networks.",
+  "abstract": "The processing of a visual stimulus can be subdivided into a number of stages. Upon stimulus presentation there is an early phase of feedforward processing where the visual information is propagated from lower to higher visual areas for the extraction of basic and complex stimulus features. This is followed by a later phase where horizontal connections within areas and feedback connections from higher areas back to lower areas come into play. In this later phase, image elements that are behaviorally relevant are grouped by Gestalt grouping rules and are labeled in the cortex with enhanced neuronal activity (object-based attention in psychology). Recent neurophysiological studies revealed that reward-based learning influences these recurrent grouping processes, but it is not well understood how rewards train recurrent circuits for perceptual organization. This paper examines the mechanisms for reward-based learning of new grouping rules. We derive a learning rule that can explain how rewards influence the information flow through feedforward, horizontal and feedback connections. We illustrate the efficiency with two tasks that have been used to study the neuronal correlates of perceptual organization in early visual cortex. The first task is called contour-integration and demands the integration of collinear contour elements into an elongated curve. We show how reward-based learning causes an enhancement of the representation of the to-be-grouped elements at early levels of a recurrent neural network, just as is observed in the visual cortex of monkeys. The second task is curve-tracing where the aim is to determine the endpoint of an elongated curve composed of connected image elements. If trained with the new learning rule, neural networks learn to propagate enhanced activity over the curve, in accordance with neurophysiological data. We close the paper with a number of model predictions that can be tested in future neurophysiological and computational studies.",
+  "authors": [
+    "Brosch Tobias",
+    "Neumann Heiko",
+    "Roelfsema Pieter R"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2015",
+  "doi": "10.1371/journal.pcbi.1004489",
+  "mesh": [
+    "Animals",
+    "Computer Simulation",
+    "Feedback, Physiological",
+    "Macaca",
+    "Memory",
+    "Models, Neurological",
+    "Nerve Net",
+    "Reinforcement, Psychology",
+    "Visual Cortex",
+    "Visual Perception"
+  ]
+}

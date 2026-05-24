@@ -1,0 +1,38 @@
+{
+  "pmid": "35728967",
+  "title": "Somatic retrotransposition in the developing rhesus macaque brain.",
+  "abstract": "The retrotransposon LINE-1 (L1) is central to the recent evolutionary history of the human genome and continues to drive genetic diversity and germline pathogenesis. However, the spatiotemporal extent and biological significance of somatic L1 activity are poorly defined and are virtually unexplored in other primates. From a single L1 lineage active at the divergence of apes and Old World monkeys, successive L1 subfamilies have emerged in each descendant primate germline. As revealed by case studies, the presently active human L1 subfamily can also mobilize during embryonic and brain development in vivo. It is unknown whether nonhuman primate L1s can similarly generate somatic insertions in the brain. Here we applied approximately 40× single-cell whole-genome sequencing (scWGS), as well as retrotransposon capture sequencing (RC-seq), to 20 hippocampal neurons from two rhesus macaques (<i>Macaca mulatta</i>). In one animal, we detected and PCR-validated a somatic L1 insertion that generated target site duplications, carried a short 5' transduction, and was present in ∼7% of hippocampal neurons but absent from cerebellum and nonbrain tissues. The corresponding donor L1 allele was exceptionally mobile in vitro and was embedded in <i>PRDM4</i>, a gene expressed throughout development and in neural stem cells. Nanopore long-read methylome and RNA-seq transcriptome analyses indicated young retrotransposon subfamily activation in the early embryo, followed by repression in adult tissues. These data highlight endogenous macaque L1 retrotransposition potential, provide prototypical evidence of L1-mediated somatic mosaicism in a nonhuman primate, and allude to L1 mobility in the brain over the past 30 million years of human evolution.",
+  "authors": [
+    "Billon Victor",
+    "Sanchez-Luque Francisco J",
+    "Rasmussen Jay",
+    "Bodea Gabriela O",
+    "Gerhardt Daniel J",
+    "Gerdes Patricia",
+    "Cheetham Seth W",
+    "Schauer Stephanie N",
+    "Ajjikuttira Prabha",
+    "Meyer Thomas J",
+    "Layman Cora E",
+    "Nevonen Kimberly A",
+    "Jansz Natasha",
+    "Garcia-Perez Jose L",
+    "Richardson Sandra R",
+    "Ewing Adam D",
+    "Carbone Lucia",
+    "Faulkner Geoffrey J"
+  ],
+  "journal": "Genome research",
+  "year": "2022",
+  "doi": "10.1101/gr.276451.121",
+  "mesh": [
+    "Animals",
+    "Brain",
+    "DNA-Binding Proteins",
+    "Long Interspersed Nucleotide Elements",
+    "Macaca mulatta",
+    "Neurons",
+    "Retroelements",
+    "Transcription Factors"
+  ]
+}

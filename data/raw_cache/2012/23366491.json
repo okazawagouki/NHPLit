@@ -1,0 +1,24 @@
+{
+  "pmid": "23366491",
+  "title": "A framework for relating neural activity to freely moving behavior.",
+  "abstract": "Two research communities, motor systems neuroscience and motor prosthetics, examine the relationship between neural activity in the motor cortex and movement. The former community aims to understand how the brain controls and generates movement; the latter community focuses on how to decode neural activity as control signals for a prosthetic cursor or limb. Both have made progress toward understanding the relationship between neural activity in the motor cortex and behavior. However, these findings are tested using animal models in an environment that constrains behavior to simple, limited movements. These experiments show that, in constrained settings, simple reaching motions can be decoded from small populations of spiking neurons. It is unclear whether these findings hold for more complex, full-body behaviors in unconstrained settings. Here we present the results of freely-moving behavioral experiments from a monkey with simultaneous intracortical recording. We investigated neural firing rates while the monkey performed various tasks such as walking on a treadmill, reaching for food, and sitting idly. We show that even in such an unconstrained and varied context, neural firing rates are well tuned to behavior, supporting findings of basic neuroscience. Further, we demonstrate that the various behavioral tasks can be reliably classified with over 95% accuracy, illustrating the viability of decoding techniques despite significant variation and environmental distractions associated with unconstrained behavior. Such encouraging results hint at potential utility of the freely-moving experimental paradigm.",
+  "authors": [
+    "Foster Justin D",
+    "Nuyujukian Paul",
+    "Freifeld Oren",
+    "Ryu Stephen I",
+    "Black Michael J",
+    "Shenoy Krishna V"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2012",
+  "doi": "10.1109/EMBC.2012.6346530",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Macaca mulatta",
+    "Male",
+    "Movement",
+    "Neurons"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "17884335",
+  "title": "Shape representation by a network of V4-like cells.",
+  "abstract": "Cells in extrastriate visual cortex have been reported to be selective for various configurations of local contour shape [Pasupathy, A., & Connor, C. E. (2001). Shape representation in area V4: Position-specific tuning for boundary conformation. The Journal of Neurophysiology, 86 (5), 2505-2519; Hegdé, J., & Van Essen, D. C. (2003). Strategies of shape representation in macaque visual area V2. Visual Neuroscience, 20 (3), 313-328]. Specifically, Pasupathy and Connor found that in area V4 most cells are strongly responsive to a particular local contour conformation located at a specific position on the object's boundary. We used a population of \"V4-like cells\"-units sensitive to multiple shape features modeled after V4 cell behavior-to generate representations of different shapes. Standard classification algorithms (earth mover's distance, support vector machines) applied to this population representation demonstrate high recognition accuracies classifying handwritten digits in the MNIST database and objects in the MPEG-7 Shape Silhouette database. We compare the performance of the V4-like unit representation to the \"shape context\" representation of Belongie et al. [Belongie, S., Malik, J., & Puzicha, J. (2002). Shape matching and object recognition using shape contexts. IEEE Transactions on Pattern Analysis and Machine Intelligence, 24 (24), 509-522]. Results show roughly comparable recognition accuracies using the two representations when tested on portions of the MNIST database. We analyze the relative contributions of various V4-like feature sensitivities to recognition accuracy and robustness to noise - feature sensitivities include curvature magnitude, direction of curvature, global orientation of the contour segment, distance of the contour segment from object center, and modulatory effect of adjacent contour regions. Among these, local curvature appears to be the most informative variable for shape recognition. Our results support the hypothesis that V4 cells function as robust shape descriptors in the early stages of object recognition.",
+  "authors": [
+    "Murphy Thomas M",
+    "Finkel Leif H"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2007",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Contrast Sensitivity",
+    "Humans",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Orientation",
+    "Pattern Recognition, Visual",
+    "Visual Cortex",
+    "Visual Pathways"
+  ]
+}

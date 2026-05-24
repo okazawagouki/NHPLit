@@ -1,0 +1,28 @@
+{
+  "pmid": "19657083",
+  "title": "Spatial and temporal integration of visual motion signals for smooth pursuit eye movements in monkeys.",
+  "abstract": "To probe how the brain integrates visual motion signals to guide behavior, we analyzed the smooth pursuit eye movements evoked by target motion with a stochastic component. When each dot of a texture executed an independent random walk such that speed or direction varied across the spatial extent of the target, pursuit variance increased as a function of the variance of visual pattern motion. Noise in either target direction or speed increased the variance of both eye speed and direction, implying a common neural noise source for estimating target speed and direction. Spatial averaging was inefficient for targets with >20 dots. Together these data suggest that pursuit performance is limited by the properties of spatial averaging across a noisy population of sensory neurons rather than across the physical stimulus. When targets executed a spatially uniform random walk in time around a central direction of motion, an optimized linear filter that describes the transformation of target motion into eye motion accounted for approximately 50% of the variance in pursuit. Filters had widths of approximately 25 ms, much longer than the impulse response of the eye, and filter shape depended on both the range and correlation time of motion signals, suggesting that filters were products of sensory processing. By quantifying the effects of different levels of stimulus noise on pursuit, we have provided rigorous constraints for understanding sensory population decoding. We have shown how temporal and spatial integration of sensory signals converts noisy population responses into precise motor responses.",
+  "authors": [
+    "Osborne Leslie C",
+    "Lisberger Stephen G"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2009",
+  "doi": "10.1152/jn.00611.2009",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Eye Movement Measurements",
+    "Linear Models",
+    "Macaca mulatta",
+    "Male",
+    "Motion Perception",
+    "Photic Stimulation",
+    "Psychomotor Performance",
+    "Psychophysics",
+    "Pursuit, Smooth",
+    "Stochastic Processes",
+    "Task Performance and Analysis",
+    "Time Factors"
+  ]
+}

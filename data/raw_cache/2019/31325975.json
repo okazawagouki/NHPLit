@@ -1,0 +1,24 @@
+{
+  "pmid": "31325975",
+  "title": "Electrical stimulation in a spiking neural network model of monkey superior colliculus.",
+  "abstract": "The superior colliculus (SC) generates saccades by recruiting a population of cells in its topographically organized motor map. Supra-threshold electrical stimulation in the SC produces a normometric saccade with little effect of the stimulation parameters. Moreover, the kinematics of electrically evoked saccades strongly resemble natural, visual-evoked saccades. These findings support models in which the saccade vector is determined by a center-of-gravity computation of activated neurons, while trajectory and kinematics arise in brainstem-cerebellar feedback circuits. Recent single-unit recordings, however, have indicated that the SC population also specifies the instantaneous saccade kinematics, supporting an alternative model, in which the saccade trajectory results from dynamic summation of movement effects of all SC spike trains. Here we reconcile the linear summation model with stimulation results, by assuming that the electric field directly activates a relatively small set of neurons around the electrode tip, which subsequently sets up a large population response through lateral synaptic interactions.",
+  "authors": [
+    "van Opstal A John",
+    "Kasap Bahadir"
+  ],
+  "journal": "Progress in brain research",
+  "year": "2019",
+  "doi": "10.1016/bs.pbr.2019.04.008",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Electric Stimulation",
+    "Electrophysiological Phenomena",
+    "Haplorhini",
+    "Models, Neurological",
+    "Nerve Net",
+    "Neural Networks, Computer",
+    "Saccades",
+    "Superior Colliculi"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "26843605",
+  "title": "Primary motor cortex neurons classified in a postural task predict muscle activation patterns in a reaching task.",
+  "abstract": "Primary motor cortex (M1) activity correlates with many motor variables, making it difficult to demonstrate how it participates in motor control. We developed a two-stage process to separate the process of classifying the motor field of M1 neurons from the process of predicting the spatiotemporal patterns of its motor field during reaching. We tested our approach with a neural network model that controlled a two-joint arm to show the statistical relationship between network connectivity and neural activity across different motor tasks. In rhesus monkeys, M1 neurons classified by this method showed preferred reaching directions similar to their associated muscle groups. Importantly, the neural population signals predicted the spatiotemporal dynamics of their associated muscle groups, although a subgroup of atypical neurons reversed their directional preference, suggesting a selective role in antagonist control. These results highlight that M1 provides important details on the spatiotemporal patterns of muscle activity during motor skills such as reaching.",
+  "authors": [
+    "Heming Ethan A",
+    "Lillicrap Timothy P",
+    "Omrani Mohsen",
+    "Herter Troy M",
+    "Pruszynski J Andrew",
+    "Scott Stephen H"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2016",
+  "doi": "10.1152/jn.00971.2015",
+  "mesh": [
+    "Animals",
+    "Arm",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Motor Neurons",
+    "Movement",
+    "Muscle, Skeletal",
+    "Posture"
+  ]
+}

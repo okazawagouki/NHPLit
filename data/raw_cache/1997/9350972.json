@@ -1,0 +1,27 @@
+{
+  "pmid": "9350972",
+  "title": "A comparison of methods used to detect changes in neuronal discharge patterns.",
+  "abstract": "The discharge pattern of two thalamic neurones was recorded from a conscious monkey performing voluntary movements about the wrist joint. The neuronal discharge was displayed as a raster centred on movement of the wrist. The discharge patterns of both neurones was very strongly correlated with movement. Three experienced researchers were asked to examine the data and to classify every part of each trial as background discharge, 'on' (increased firing rate) or 'off' (decreased or zero firing rate) and to mark the times that neuronal discharge changed state. A 'standard output' was made from these classifications. A back-propagation artificial Neural Network (the Network) was used to model the standard output and cumulative sums (CUSUMs) and maximum likelihood was then performed on the data and compared with the Network. There was a high correlation between the output of each observer (r > 0.61) and the standard output and between the Network and the standard output (r > 0.99). However the correlation between standard output and CUSUMs (r = 0.06) and standard output and maximum likelihood (r = 0.36) was much lower. The Network could be trained with as few as 12 trials, indicating a high degree of constancy in the methods employed by the observers. The Network was also highly efficient at detecting changes in state of neuronal activity (r > 0.99). In summary, when used on single trial data, visual inspection is a reliable method for detecting timing of change neuronal discharge and is superior to CUSUM and maximum likelihood. As well it is capable of detecting neuronal discharge state: that is whether firing rate is increased, normal or decreased. Neural Networks promise to be a useful method of confirming the consistency of visual inspection as a means of detecting changes in neuronal discharge pattern.",
+  "authors": [
+    "Churchward P R",
+    "Butler E G",
+    "Finkelstein D I",
+    "Aumann T D",
+    "Sudbury A",
+    "Horne M K"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "1997",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Animals",
+    "Likelihood Functions",
+    "Macaca nemestrina",
+    "Motor Neurons",
+    "Neural Networks, Computer",
+    "Reaction Time",
+    "Thalamus"
+  ]
+}

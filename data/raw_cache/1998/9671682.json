@@ -1,0 +1,24 @@
+{
+  "pmid": "9671682",
+  "title": "Emulating the visual receptive-field properties of MST neurons with a template model of heading estimation.",
+  "abstract": "We have proposed previously a computational neural-network model by which the complex patterns of retinal image motion generated during locomotion (optic flow) can be processed by specialized detectors acting as templates for specific instances of self-motion. The detectors in this template model respond to global optic flow by sampling image motion over a large portion of the visual field through networks of local motion sensors with properties similar to those of neurons found in the middle temporal (MT) area of primate extrastriate visual cortex. These detectors, arranged within cortical-like maps, were designed to extract self-translation (heading) and self-rotation, as well as the scene layout (relative distances) ahead of a moving observer. We then postulated that heading from optic flow is directly encoded by individual neurons acting as heading detectors within the medial superior temporal (MST) area. Others have questioned whether individual MST neurons can perform this function because some of their receptive-field properties seem inconsistent with this role. To resolve this issue, we systematically compared MST responses with those of detectors from two different configurations of the model under matched stimulus conditions. We found that the characteristic physiological properties of MST neurons can be explained by the template model. We conclude that MST neurons are well suited to support self-motion estimation via a direct encoding of heading and that the template model provides an explicit set of testable hypotheses that can guide future exploration of MST and adjacent areas within the superior temporal sulcus.",
+  "authors": [
+    "Perrone J A",
+    "Stone L S"
+  ],
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "year": "1998",
+  "doi": "",
+  "mesh": [
+    "Head Movements",
+    "Motion Perception",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Psychophysics",
+    "Retina",
+    "Rotation",
+    "Templates, Genetic",
+    "Temporal Lobe",
+    "Visual Fields"
+  ]
+}

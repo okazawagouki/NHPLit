@@ -1,0 +1,26 @@
+{
+  "pmid": "31705936",
+  "title": "Adaptive spike-artifact removal from local field potentials uncovers prominent beta and gamma band neuronal synchronization.",
+  "abstract": "BACKGROUND: Many neurons synchronize their action potentials to the phase of local field potential (LFP) fluctuations in one or more frequency bands. Analyzing this spike-to-LFP synchronization is challenging, however, when neural spikes and LFP are generated in the same local circuit, because the spike's action potential waveform leak into the LFP and distort phase synchrony estimates. Existing approaches to address this spike bleed-through artifact relied on removing the average action potential waveforms of neurons, but this leaves artifacts in the LFP and distorts synchrony estimates. NEW METHOD: We describe a spike-removal method that surpasses these limitations by decomposing individual action potentials into their frequency components before their removal from the LFP. The adaptively estimated frequency components allow for variable spread, strength and temporal variation of the spike artifact. RESULTS: This adaptive approach effectively removes spike bleed-through artifacts in synthetic data with known ground truth, and in single neuron and LFP recordings in nonhuman primate striatum. For a large population of neurons with both narrow and broad action potential waveforms, the use of adaptive artifact removal uncovered 20-35 Hz beta and 35-45 Hz gamma band spike-LFP synchronization that would have remained contaminated otherwise. COMPARISON WITH EXISTING METHODS: We demonstrate that adaptive spike-artifact removal cleans LFP data that remained contaminated when applying existing Bayesian and non-Bayesian methods of average spike-artifact removal. CONCLUSIONS: Applying adaptive spike-removal from field potentials allows to estimate the phase at which neurons synchronize and the consistency of their phase-locked firing for both beta and low gamma frequencies. These metrics may prove essential to understand cell-to-circuit neuronal interactions in multiple brain systems.",
+  "authors": [
+    "Banaie Boroujeni Kianoush",
+    "Tiesinga Paul",
+    "Womelsdorf Thilo"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "year": "2020",
+  "doi": "10.1016/j.jneumeth.2019.108485",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Artifacts",
+    "Beta Rhythm",
+    "Corpus Striatum",
+    "Electroencephalography Phase Synchronization",
+    "Gamma Rhythm",
+    "Macaca mulatta",
+    "Male",
+    "Neurons",
+    "Signal Processing, Computer-Assisted"
+  ]
+}

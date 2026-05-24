@@ -1,0 +1,20 @@
+{
+  "pmid": "33483325",
+  "title": "A Whole-Cortex Probabilistic Diffusion Tractography Connectome.",
+  "abstract": "The WU-Minn Human Connectome Project (HCP) is a publicly-available dataset containing state-of-the-art structural magnetic resonance imaging (MRI), functional MRI (fMRI), and diffusion MRI (dMRI) for over a thousand healthy subjects. While the planned scope of the HCP included an anatomic connectome, resting-state fMRI (rs-fMRI) forms the bulk of the HCP's current connectomic output. We address this by presenting a full-cortex connectome derived from probabilistic diffusion tractography and organized into the HCP-MMP1.0 atlas. Probabilistic methods and large sample sizes are preferable for whole-connectome mapping as they increase the fidelity of traced low-probability connections. We find that overall, connection strengths are lognormally distributed and decay exponentially with tract length, that connectivity reasonably matches macaque histologic tracing in homologous areas, that contralateral homologs and left-lateralized language areas are hyperconnected, and that hierarchical similarity influences connectivity. We compare the dMRI connectome to existing rs-fMRI and cortico-cortico-evoked potential connectivity matrices and find that it is more similar to the latter. This work helps fulfill the promise of the HCP and will make possible comparisons between the underlying structural connectome and functional connectomes of various modalities, brain states, and clinical conditions.",
+  "authors": [
+    "Rosen Burke Q",
+    "Halgren Eric"
+  ],
+  "journal": "eNeuro",
+  "year": "2021",
+  "doi": "10.1523/ENEURO.0416-20.2020",
+  "mesh": [
+    "Brain",
+    "Connectome",
+    "Diffusion Magnetic Resonance Imaging",
+    "Diffusion Tensor Imaging",
+    "Humans",
+    "Magnetic Resonance Imaging"
+  ]
+}

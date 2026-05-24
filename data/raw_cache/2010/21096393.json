@@ -1,0 +1,26 @@
+{
+  "pmid": "21096393",
+  "title": "Decoder remapping to counteract neuron loss in brain-machine interfaces.",
+  "abstract": "Variability of single-unit neural recordings can significantly affect the overall performance achieved by brain machine interfaces (BMI). In this paper, we present a novel technique to adapt a linear filter commonly used in BMI to compensate for loss of neurons from the recorded neural ensemble, thus minimizing loss in performance. We simulate the gains achieved by this technique using a model of the learning process during closed-loop BMI operation. This simulation suggests that we can adapt to the loss of 24% of the neurons controlling a BMI with only 13% drop in performance.",
+  "authors": [
+    "Heliot Rodolphe",
+    "Venkatraman Subramaniam",
+    "Carmena Jose M"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2010",
+  "doi": "10.1109/IEMBS.2010.5626694",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Artifacts",
+    "Brain Mapping",
+    "Macaca",
+    "Man-Machine Systems",
+    "Neurons",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Signal Processing, Computer-Assisted",
+    "User-Computer Interface"
+  ]
+}

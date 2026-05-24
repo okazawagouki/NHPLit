@@ -1,0 +1,22 @@
+{
+  "pmid": "38082744",
+  "title": "A filter-rectify-filter model of the tactile perception of 3D-printed, texture-defined form.",
+  "abstract": "We show that a two-stage filter-rectify-filter (FRF) model, previously used to explain the visual perception of texture-defined form, can also account for the tactile perception of texture-defined form. This result is interesting because, first, relatively little is known about the neural mechanisms of tactile form perception, and second, the generalization of the model may reflect a canonical computation at work in both visual and somatosensory cortex. We 3D-printed test objects comprising a regular, rectangular array of raised, oriented bars measuring 0.75 × 0.75 × 3 mm (width × height × length) that were centre-to-centre spaced by 4 mm. Bars on the left-hand-side of a test object were horizontal, and those on the right were vertical, thus defining a texture boundary. We independently jittered the orientations of bars by drawing random numbers from a uniform distribution; across trials, we systematically increased jitter from 0° (i.e., no jitter) to ±90° (i.e., no boundary). Blindfolded participants (n = 25) used the preferred index finger pad to actively scan objects for 10 seconds before reporting the texture boundary's orientation (vertical or horizontal; randomised across trials). Results showed a threshold jitter of ±52.7° (i.e., the jitter at which the boundary orientation was only just discriminable). Computational modelling indicated that the first stage of the FRF model is a Gabor function tuned to spatial frequency = 0.23 cycles per mm with extent = 2.53 mm (full-width at half-maximum). We discuss this result with regard to neuronal receptive field structure in non-human primate somatosensory cortex.",
+  "authors": [
+    "McLean Cameron F",
+    "Trew Daniel J",
+    "Hallum Luke E"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2023",
+  "doi": "10.1109/EMBC40787.2023.10341026",
+  "mesh": [
+    "Animals",
+    "Humans",
+    "Visual Perception",
+    "Primates",
+    "Touch Perception",
+    "Touch",
+    "Printing, Three-Dimensional"
+  ]
+}

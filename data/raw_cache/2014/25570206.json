@@ -1,0 +1,25 @@
+{
+  "pmid": "25570206",
+  "title": "Predicting hand orientation in reach-to-grasp tasks using neural activities from primary motor cortex.",
+  "abstract": "Hand orientation is an important control parameter during reach-to-grasp task. In this paper, we presented a study for predicting hand orientation of non-human primate by decoding neural activities from primary motor cortex (M1). A non-human primate subject was guided to do reaching and grasping tasks meanwhile neural activities were acquired by chronically implanted microelectrode arrays. A Support Vector Machines (SVMs) classifier has been trained for predicting three different hand orientations using these M1 neural activities. Different number of neurons were selected and analyzed; the classifying accuracy was 94.1% with 2 neurons and was 100% with 8 neurons. Data from highly event related neuron units contribute a lot to the accuracy of hand orientation prediction. These results indicate that three different hand orientations can be predicted accurately and effectively before the actual movements occurring with a small number of related neurons in M1.",
+  "authors": [
+    "Zhang Peng",
+    "Ma Xuan",
+    "Huang Hailong",
+    "He Jiping"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2014",
+  "doi": "10.1109/EMBC.2014.6943838",
+  "mesh": [
+    "Animals",
+    "Hand",
+    "Hand Strength",
+    "Motor Cortex",
+    "Orientation",
+    "Primates",
+    "Psychomotor Performance",
+    "Support Vector Machine",
+    "Task Performance and Analysis"
+  ]
+}

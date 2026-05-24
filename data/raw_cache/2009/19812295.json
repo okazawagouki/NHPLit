@@ -1,0 +1,33 @@
+{
+  "pmid": "19812295",
+  "title": "Laminar and orientation-dependent characteristics of spatial nonlinearities: implications for the computational architecture of visual cortex.",
+  "abstract": "A full understanding of the computations performed in primary visual cortex is an important yet elusive goal. Receptive field models consisting of cascades of linear filters and static nonlinearities may be adequate to account for responses to simple stimuli such as gratings and random checkerboards, but their predictions of responses to complex stimuli such as natural scenes are only approximately correct. It is unclear whether these discrepancies are limited to quantitative inaccuracies that reflect well-recognized mechanisms such as response normalization, gain controls, and cross-orientation suppression or, alternatively, imply additional qualitative features of the underlying computations. To address this question, we examined responses of V1 and V2 neurons in the monkey and area 17 neurons in the cat to two-dimensional Hermite functions (TDHs). TDHs are intermediate in complexity between traditional analytic stimuli and natural scenes and have mathematical properties that facilitate their use to test candidate models. By exploiting these properties, along with the laminar organization of V1, we identify qualitative aspects of neural computations beyond those anticipated from the above-cited model framework. Specifically, we find that V1 neurons receive signals from orientation-selective mechanisms that are highly nonlinear: they are sensitive to phase correlations, not just spatial frequency content. That is, the behavior of V1 neurons departs from that of linear-nonlinear cascades with standard modulatory mechanisms in a qualitative manner: even relatively simple stimuli evoke responses that imply complex spatial nonlinearities. The presence of these findings in the input layers suggests that these nonlinearities act in a feedback fashion.",
+  "authors": [
+    "Victor Jonathan D",
+    "Mechler Ferenc",
+    "Ohiorhenuan Ifije",
+    "Schmid Anita M",
+    "Purpura Keith P"
+  ],
+  "journal": "Journal of neurophysiology",
+  "year": "2009",
+  "doi": "10.1152/jn.00086.2009",
+  "mesh": [
+    "Action Potentials",
+    "Amino Acids",
+    "Animals",
+    "Cats",
+    "Computer Simulation",
+    "Macaca",
+    "Models, Neurological",
+    "Neurons",
+    "Nonlinear Dynamics",
+    "Orientation",
+    "Photic Stimulation",
+    "Space Perception",
+    "Statistics as Topic",
+    "Visual Cortex",
+    "Visual Fields",
+    "Visual Pathways"
+  ]
+}

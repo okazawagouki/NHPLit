@@ -1,0 +1,24 @@
+{
+  "pmid": "29869761",
+  "title": "Convolutional neural network models of V1 responses to complex patterns.",
+  "abstract": "In this study, we evaluated the convolutional neural network (CNN) method for modeling V1 neurons of awake macaque monkeys in response to a large set of complex pattern stimuli. CNN models outperformed all the other baseline models, such as Gabor-based standard models for V1 cells and various variants of generalized linear models. We then systematically dissected different components of the CNN and found two key factors that made CNNs outperform other models: thresholding nonlinearity and convolution. In addition, we fitted our data using a pre-trained deep CNN via transfer learning. The deep CNN's higher layers, which encode more complex patterns, outperformed lower ones, and this result was consistent with our earlier work on the complexity of V1 neural code. Our study systematically evaluates the relative merits of different CNN components in the context of V1 neuron modeling.",
+  "authors": [
+    "Zhang Yimeng",
+    "Lee Tai Sing",
+    "Li Ming",
+    "Liu Fang",
+    "Tang Shiming"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "2019",
+  "doi": "10.1007/s10827-018-0687-7",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Photic Stimulation",
+    "Visual Cortex"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmid": "35466360",
+  "title": "Validating markerless pose estimation with 3D X-ray radiography.",
+  "abstract": "To reveal the neurophysiological underpinnings of natural movement, neural recordings must be paired with accurate tracking of limbs and postures. Here, we evaluated the accuracy of DeepLabCut (DLC), a deep learning markerless motion capture approach, by comparing it with a 3D X-ray video radiography system that tracks markers placed under the skin (XROMM). We recorded behavioral data simultaneously with XROMM and RGB video as marmosets foraged and reconstructed 3D kinematics in a common coordinate system. We used the toolkit Anipose to filter and triangulate DLC trajectories of 11 markers on the forelimb and torso and found a low median error (0.228 cm) between the two modalities corresponding to 2.0% of the range of motion. For studies allowing this relatively small error, DLC and similar markerless pose estimation tools enable the study of increasingly naturalistic behaviors in many fields including non-human primate motor control.",
+  "authors": [
+    "Moore Dalton D",
+    "Walker Jeffrey D",
+    "MacLean Jason N",
+    "Hatsopoulos Nicholas G"
+  ],
+  "journal": "The Journal of experimental biology",
+  "year": "2022",
+  "doi": "10.1242/jeb.243998",
+  "mesh": [
+    "Animals",
+    "Biomechanical Phenomena",
+    "Motion",
+    "Movement",
+    "Radiography",
+    "X-Rays"
+  ]
+}

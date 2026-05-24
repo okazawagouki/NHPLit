@@ -1,0 +1,26 @@
+{
+  "pmid": "38976151",
+  "title": "Generative Modelling of Cortical Receptor Distributions from Cytoarchitectonic Images in the Macaque Brain.",
+  "abstract": "Neurotransmitter receptor densities are relevant for understanding the molecular architecture of brain regions. Quantitative in vitro receptor autoradiography, has been introduced to map neurotransmitter receptor distributions of brain areas. However, it is very time and cost-intensive, which makes it challenging to obtain whole-brain distributions. At the same time, high-throughput light microscopy and 3D reconstructions have enabled high-resolution brain maps capturing measures of cell density across the whole human brain. Aiming to bridge gaps in receptor measurements for building detailed whole-brain atlases, we study the feasibility of predicting realistic neurotransmitter density distributions from cell-body stainings. Specifically, we utilize conditional Generative Adversarial Networks (cGANs) to predict the density distributions of the M2 receptor of acetylcholine and the kainate receptor for glutamate in the macaque monkey's primary visual (V1) and motor cortex (M1), based on light microscopic scans of cell-body stained sections. Our model is trained on corresponding patches from aligned consecutive sections that display cell-body and receptor distributions, ensuring a mapping between the two modalities. Evaluations of our cGANs, both qualitative and quantitative, show their capability to predict receptor densities from cell-body stained sections while maintaining cortical features such as laminar thickness and curvature. Our work underscores the feasibility of cross-modality image translation problems to address data gaps in multi-modal brain atlases.",
+  "authors": [
+    "Nebli Ahmed",
+    "Schiffer Christian",
+    "Niu Meiqi",
+    "Palomero-Gallagher Nicola",
+    "Amunts Katrin",
+    "Dickscheid Timo"
+  ],
+  "journal": "Neuroinformatics",
+  "year": "2024",
+  "doi": "10.1007/s12021-024-09673-7",
+  "mesh": [
+    "Animals",
+    "Models, Neurological",
+    "Receptors, Neurotransmitter",
+    "Kainic Acid Receptors",
+    "Image Processing, Computer-Assisted",
+    "Motor Cortex",
+    "Macaca mulatta",
+    "Imaging, Three-Dimensional"
+  ]
+}

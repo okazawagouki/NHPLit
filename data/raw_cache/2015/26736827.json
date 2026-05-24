@@ -1,0 +1,26 @@
+{
+  "pmid": "26736827",
+  "title": "Prediction of switching time between movement preparation and execution by neural activity in monkey premotor cortex.",
+  "abstract": "Premotor cortex is a higher level cortex than primary motor cortex in movement controlling hierarchy, which contributes to the motor preparation and execution simultaneously during the planned movement. The mediation mechanism from movement preparation to execution has attracted many scientists' attention. Gateway hypothesis is one possible explanation that some neurons act as \"gating\" to release the movement intention at the \"on-go\" cue. We propose to utilize a local-learning based feature extraction method to target the neurons in premotor cortex, which functionally contribute mostly to the discrimination between motor preparation and execution without tuning information to either target or movement trajectory. Then the support vector machine is utilized to predict the single trial switching time. With top three functional \"gating\" neurons, the prediction accuracy rate of the switching time is above 90%, which indicates the potential of asynchronous BMI control using premotor cortical activity.",
+  "authors": [
+    "Li Hongbao",
+    "Liao Yuxi",
+    "Wang Yiwen",
+    "Zhang Qiaosheng",
+    "Zhang Shaomin",
+    "Zheng Xiaoxiang"
+  ],
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "year": "2015",
+  "doi": "10.1109/EMBC.2015.7318927",
+  "mesh": [
+    "Animals",
+    "Behavior, Animal",
+    "Macaca mulatta",
+    "Male",
+    "Motor Cortex",
+    "Movement",
+    "Neurons",
+    "Support Vector Machine"
+  ]
+}

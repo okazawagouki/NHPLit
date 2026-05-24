@@ -1,0 +1,24 @@
+{
+  "pmid": "36227842",
+  "title": "Bounded rational decision-making models suggest capacity-limited concurrent motor planning in human posterior parietal and frontal cortex.",
+  "abstract": "While traditional theories of sensorimotor processing have often assumed a serial decision-making pipeline, more recent approaches have suggested that multiple actions may be planned concurrently and vie for execution. Evidence for the latter almost exclusively stems from electrophysiological studies in posterior parietal and premotor cortex of monkeys. Here we study concurrent prospective motor planning in humans by recording functional magnetic resonance imaging (fMRI) during a delayed response task engaging movement sequences towards multiple potential targets. We find that also in human posterior parietal and premotor cortex delay activity modulates both with sequence complexity and the number of potential targets. We tested the hypothesis that this modulation is best explained by concurrent prospective planning as opposed to the mere maintenance of potential targets in memory. We devise a bounded rationality model with information constraints that optimally assigns information resources for planning and memory for this task and determine predicted information profiles according to the two hypotheses. When regressing delay activity on these model predictions, we find that the concurrent prospective planning strategy provides a significantly better explanation of the fMRI-signal modulations. Moreover, we find that concurrent prospective planning is more costly and thus limited for most subjects, as expressed by the best fitting information capacities. We conclude that bounded rational decision-making models allow relating both behavior and neural representations to utilitarian task descriptions based on bounded optimal information-processing assumptions.",
+  "authors": [
+    "Schach Sonja",
+    "Lindner Axel",
+    "Braun Daniel Alexander"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2022",
+  "doi": "10.1371/journal.pcbi.1010585",
+  "mesh": [
+    "Brain Mapping",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Motor Cortex",
+    "Movement",
+    "Parietal Lobe",
+    "Prospective Studies",
+    "Psychomotor Performance",
+    "Reaction Time"
+  ]
+}

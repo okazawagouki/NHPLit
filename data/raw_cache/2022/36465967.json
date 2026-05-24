@@ -1,0 +1,13 @@
+{
+  "pmid": "36465967",
+  "title": "Dynamic control of eye-head gaze shifts by a spiking neural network model of the superior colliculus.",
+  "abstract": "INTRODUCTION: To reorient gaze (the eye's direction in space) towards a target is an overdetermined problem, as infinitely many combinations of eye- and head movements can specify the same gaze-displacement vector. Yet, behavioral measurements show that the primate gaze-control system selects a specific contribution of eye- and head movements to the saccade, which depends on the initial eye-in-head orientation. Single-unit recordings in the primate superior colliculus (SC) during head-unrestrained gaze shifts have further suggested that cells may encode the instantaneous trajectory of a desired straight gaze path in a feedforward way by the total cumulative number of spikes in the neural population, and that the instantaneous gaze kinematics are thus determined by the neural firing rates. The recordings also indicated that the latter is modulated by the initial eye position. We recently proposed a conceptual model that accounts for many of the observed properties of eye-head gaze shifts and on the potential role of the SC in gaze control. METHODS: Here, we extend and test the model by incorporating a spiking neural network of the SC motor map, the output of which drives the eye-head motor control circuitry by linear cumulative summation of individual spike effects of each recruited SC neuron. We propose a simple neural mechanism on SC cells that explains the modulatory influence of feedback from an initial eye-in-head position signal on their spiking activity. The same signal also determines the onset delay of the head movement with respect to the eye. Moreover, the downstream eye- and head burst generators were taken to be linear, as our earlier work had indicated that much of the non-linear main-sequence kinematics of saccadic eye movements may be due to neural encoding at the collicular level, rather than at the brainstem. RESULTS AND DISCUSSION: We investigate how the spiking activity of the SC population drives gaze to the intended target location within a dynamic local gaze-velocity feedback circuit that yields realistic eye- and head-movement kinematics and dynamic SC gaze-movement fields.",
+  "authors": [
+    "Alizadeh Arezoo",
+    "Van Opstal A John"
+  ],
+  "journal": "Frontiers in computational neuroscience",
+  "year": "2022",
+  "doi": "10.3389/fncom.2022.1040646",
+  "mesh": []
+}

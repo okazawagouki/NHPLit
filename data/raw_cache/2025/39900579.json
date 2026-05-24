@@ -1,0 +1,24 @@
+{
+  "pmid": "39900579",
+  "title": "Sensorimotor environment but not task rule reconfigures population dynamics in rhesus monkey posterior parietal cortex.",
+  "abstract": "Primates excel at mapping sensory inputs flexibly onto motor outcomes. We asked if the neural dynamics to support context-sensitive sensorimotor mapping generalizes or differs between different behavioral contexts that demand such flexibility. We compared reaching under mirror-reversed vision, a case of adaptation to a modified sensorimotor environment (SE), with anti reaching, a case of applying an abstract task rule (TR). While neural dynamics in monkey posterior parietal cortex show shifted initial states and non-aligned low-dimensional neural subspaces in the SE task, remapping is achieved in overlapping subspaces in the TR task. A recurrent neural network model demonstrates how output constraints mimicking SE and TR tasks are sufficient to generate the two fundamentally different neural computational dynamics. We conclude that sensorimotor remapping to implement an abstract task rule happens within the existing repertoire of neural dynamics, while compensation of perturbed sensory feedback requires exploration of independent neural dynamics in parietal cortex.",
+  "authors": [
+    "Guo Hao",
+    "Kuang Shenbing",
+    "Gail Alexander"
+  ],
+  "journal": "Nature communications",
+  "year": "2025",
+  "doi": "10.1038/s41467-025-56360-5",
+  "mesh": [
+    "Animals",
+    "Macaca mulatta",
+    "Parietal Lobe",
+    "Male",
+    "Feedback, Sensory",
+    "Models, Neurological",
+    "Psychomotor Performance",
+    "Neural Networks, Computer",
+    "Neurons"
+  ]
+}

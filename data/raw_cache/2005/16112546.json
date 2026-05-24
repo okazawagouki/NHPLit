@@ -1,0 +1,25 @@
+{
+  "pmid": "16112546",
+  "title": "Neural network model for extracting optic flow.",
+  "abstract": "When we travel in an environment, we have an optic flow on the retina. Neurons in the area MST of macaque monkeys are reported to have a very large receptive field and analyze optic flows on the retina. Many MST-cells respond selectively to rotation, expansion/contraction and planar motion of the optic flow. Many of them show position-invariant responses to optic flow, that is, their responses are maintained during the shift of the center of the optic flow. It has long been suggested mathematically that vector-field calculus is useful for analyzing optic flow field. Biologically, plausible neural network models based on this idea, however, have little been proposed so far. This paper, based on vector-field hypothesis, proposes a neural network model for extracting optic flows. Our model consists of hierarchically connected layers: retina, V1, MT and MST. V1-cells measure local velocity. There are two kinds of MT-cell: one is for extracting absolute velocities, the other for extracting relative velocities with their antagonistic inputs. Collecting signals from MT-cells, MST-cells respond selectively to various types of optic flows. We demonstrate through a computer simulation that this simple network is enough to explain a variety of results of neurophysiological experiments.",
+  "authors": [
+    "Tohyama Kazuya",
+    "Fukushima Kunihiko"
+  ],
+  "journal": "Neural networks : the official journal of the International Neural Network Society",
+  "year": "2005",
+  "doi": "",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Computer Simulation",
+    "Macaca",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Photic Stimulation",
+    "Signal Detection, Psychological",
+    "Temporal Lobe",
+    "Vision, Ocular",
+    "Visual Fields"
+  ]
+}

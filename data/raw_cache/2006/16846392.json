@@ -1,0 +1,24 @@
+{
+  "pmid": "16846392",
+  "title": "Assessing neuronal coherence with single-unit, multi-unit, and local field potentials.",
+  "abstract": "The purpose of this study was to obtain a better understanding of neuronal responses to correlated input, in particular focusing on the aspect of synchronization of neuronal activity. The first aim was to obtain an analytical expression for the coherence between the output spike train and correlated input and for the coherence between output spike trains of neurons with correlated input. For Poisson neurons, we could derive that the peak of the coherence between the correlated input and multi-unit activity increases proportionally with the square root of the number of neurons in the multi-unit recording. The coherence between two typical multi-unit recordings (2 to 10 single units) with partially correlated input increases proportionally with the number of units in the multi-unit recordings. The second aim of this study was to investigate to what extent the amplitude and signal-to-noise ratio of the coherence between input and output varied for single-unit versus multi-unit activity and how they are affected by the duration of the recording. The same problem was addressed for the coherence between two single-unit spike series and between two multi-unit spike series. The analytical results for the Poisson neuron and numerical simulations for the conductance-based leaky integrate-and-fire neuron and for the conductance-based Hodgkin-Huxley neuron show that the expectation value of the coherence function does not increase for a longer duration of the recording. The only effect of a longer duration of the spike recording is a reduction of the noise in the coherence function. The results of analytical derivations and computer simulations for model neurons show that the coherence for multi-unit activity is larger than that for single-unit activity. This is in agreement with the results of experimental data obtained from monkey visual cortex (V4). Finally, we show that multitaper techniques greatly contribute to a more accurate estimate of the coherence by reducing the bias and variance in the coherence estimate.",
+  "authors": [
+    "Zeitler Magteld",
+    "Fries Pascal",
+    "Gielen Stan"
+  ],
+  "journal": "Neural computation",
+  "year": "2006",
+  "doi": "",
+  "mesh": [
+    "Action Potentials",
+    "Animals",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neurons",
+    "Photic Stimulation",
+    "Poisson Distribution",
+    "Visual Cortex"
+  ]
+}

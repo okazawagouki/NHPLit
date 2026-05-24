@@ -1,0 +1,20 @@
+{
+  "pmid": "8792229",
+  "title": "A model for the neuronal implementation of selective visual attention based on temporal correlation among neurons.",
+  "abstract": "We propose a model for the neuronal implementation of selective visual attention based on temporal correlation among groups of neurons. Neurons in primary visual cortex respond to visual stimuli with a Poisson distributed spike train with an appropriate, stimulus-dependent mean firing rate. The spike trains of neurons whose receptive fields do not overlap with the \"focus of attention\" are distributed according to homogeneous (time-independent) Poisson process with no correlation between action potentials of different neurons. In contrast, spike trains of neurons with receptive fields within the focus of attention are distributed according to non-homogeneous (time-dependent) Poisson processes. Since the short-term average spike rates of all neurons with receptive fields in the focus of attention covary, correlations between these spike trains are introduced which are detected by inhibitory interneurons in V4. These cells, modeled as modified integrate-and-fire neurons, function as coincidence detectors and suppress the response of V4 cells associated with non-attended visual stimuli. The model reproduces quantitatively experimental data obtained in cortical area V4 of monkey by Moran and Desimone (1985).",
+  "authors": [
+    "Niebur E",
+    "Koch C"
+  ],
+  "journal": "Journal of computational neuroscience",
+  "year": "1994",
+  "doi": "",
+  "mesh": [
+    "Animals",
+    "Macaca",
+    "Membrane Potentials",
+    "Neural Networks, Computer",
+    "Time Factors",
+    "Visual Pathways"
+  ]
+}

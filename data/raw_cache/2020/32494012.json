@@ -1,0 +1,25 @@
+{
+  "pmid": "32494012",
+  "title": "A map of object space in primate inferotemporal cortex.",
+  "abstract": "The inferotemporal (IT) cortex is responsible for object recognition, but it is unclear how the representation of visual objects is organized in this part of the brain. Areas that are selective for categories such as faces, bodies, and scenes have been found<sup>1-5</sup>, but large parts of IT cortex lack any known specialization, raising the question of what general principle governs IT organization. Here we used functional MRI, microstimulation, electrophysiology, and deep networks to investigate the organization of macaque IT cortex. We built a low-dimensional object space to describe general objects using a feedforward deep neural network trained on object classification<sup>6</sup>. Responses of IT cells to a large set of objects revealed that single IT cells project incoming objects onto specific axes of this space. Anatomically, cells were clustered into four networks according to the first two components of their preferred axes, forming a map of object space. This map was repeated across three hierarchical stages of increasing view invariance, and cells that comprised these maps collectively harboured sufficient coding capacity to approximately reconstruct objects. These results provide a unified picture of IT organization in which category-selective regions are part of a coarse map of object space whose dimensions can be extracted from a deep network.",
+  "authors": [
+    "Bao Pinglei",
+    "She Liang",
+    "McGill Mason",
+    "Tsao Doris Y"
+  ],
+  "journal": "Nature",
+  "year": "2020",
+  "doi": "10.1038/s41586-020-2350-5",
+  "mesh": [
+    "Animals",
+    "Electric Stimulation",
+    "Macaca mulatta",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Space Perception",
+    "Temporal Lobe"
+  ]
+}

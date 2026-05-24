@@ -1,0 +1,24 @@
+{
+  "pmid": "29694261",
+  "title": "Neuronal Encoding in Prefrontal Cortex during Hierarchical Reinforcement Learning.",
+  "abstract": "Reinforcement learning models have proven highly effective for understanding learning in both artificial and biological systems. However, these models have difficulty in scaling up to the complexity of real-life environments. One solution is to incorporate the hierarchical structure of behavior. In hierarchical reinforcement learning, primitive actions are chunked together into more temporally abstract actions, called \"options,\" that are reinforced by attaining a subgoal. These subgoals are capable of generating pseudoreward prediction errors, which are distinct from reward prediction errors that are associated with the final goal of the behavior. Studies in humans have shown that pseudoreward prediction errors positively correlate with activation of ACC. To determine how pseudoreward prediction errors are encoded at the single neuron level, we trained two animals to perform a primate version of the task used to generate these errors in humans. We recorded the electrical activity of neurons in ACC during performance of this task, as well as neurons in lateral prefrontal cortex and OFC. We found that the firing rate of a small population of neurons encoded pseudoreward prediction errors, and these neurons were restricted to ACC. Our results provide support for the idea that ACC may play an important role in encoding subgoals and pseudoreward prediction errors to support hierarchical reinforcement learning. One caveat is that neurons encoding pseudoreward prediction errors were relatively few in number, especially in comparison to neurons that encoded information about the main goal of the task.",
+  "authors": [
+    "Chiang Feng-Kuei",
+    "Wallis Joni D"
+  ],
+  "journal": "Journal of cognitive neuroscience",
+  "year": "2018",
+  "doi": "10.1162/jocn_a_01272",
+  "mesh": [
+    "Animals",
+    "Choice Behavior",
+    "Gyrus Cinguli",
+    "Macaca mulatta",
+    "Male",
+    "Models, Neurological",
+    "Neural Pathways",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Reinforcement, Psychology"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "23950700",
+  "title": "Shape similarity, better than semantic membership, accounts for the structure of visual object representations in a population of monkey inferotemporal neurons.",
+  "abstract": "The anterior inferotemporal cortex (IT) is the highest stage along the hierarchy of visual areas that, in primates, processes visual objects. Although several lines of evidence suggest that IT primarily represents visual shape information, some recent studies have argued that neuronal ensembles in IT code the semantic membership of visual objects (i.e., represent conceptual classes such as animate and inanimate objects). In this study, we investigated to what extent semantic, rather than purely visual information, is represented in IT by performing a multivariate analysis of IT responses to a set of visual objects. By relying on a variety of machine-learning approaches (including a cutting-edge clustering algorithm that has been recently developed in the domain of statistical physics), we found that, in most instances, IT representation of visual objects is accounted for by their similarity at the level of shape or, more surprisingly, low-level visual properties. Only in a few cases we observed IT representations of semantic classes that were not explainable by the visual similarity of their members. Overall, these findings reassert the primary function of IT as a conveyor of explicit visual shape information, and reveal that low-level visual properties are represented in IT to a greater extent than previously appreciated. In addition, our work demonstrates how combining a variety of state-of-the-art multivariate approaches, and carefully estimating the contribution of shape similarity to the representation of object categories, can substantially advance our understanding of neuronal coding of visual objects in cortex.",
+  "authors": [
+    "Baldassi Carlo",
+    "Alemi-Neissi Alireza",
+    "Pagan Marino",
+    "Dicarlo James J",
+    "Zecchina Riccardo",
+    "Zoccolan Davide"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2013",
+  "doi": "10.1371/journal.pcbi.1003167",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Cluster Analysis",
+    "Computational Biology",
+    "Discriminant Analysis",
+    "Haplorhini",
+    "Models, Neurological",
+    "Multivariate Analysis",
+    "Neurons",
+    "Semantics",
+    "Temporal Lobe",
+    "Vision, Ocular"
+  ]
+}

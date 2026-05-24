@@ -1,0 +1,31 @@
+{
+  "pmid": "20034481",
+  "title": "Optimal performance in a countermanding saccade task.",
+  "abstract": "Countermanding an action is a fundamental form of cognitive control. In a saccade-countermanding task, subjects are instructed that, if a stop signal appears shortly after a target, they are to maintain fixation rather than to make a saccade to the target. In recent years, recordings in the frontal eye fields and superior colliculus of behaving non-human primates have found correlates of such countermanding behavior in movement and fixation neurons. In this work, we extend a previous neural network model of countermanding to account for the high pre-target activity of fixation neurons. We propose that this activity reflects the functioning of control mechanisms responsible for optimizing performance. We demonstrate, using computer simulations and mathematical analysis, that pre-target fixation neuronal activity supports countermanding behavior that maximizes reward rate as a function of the stop signal delay, fraction of stop signal trials, intertrial interval, duration of timeout, and relative reward value. We propose experiments to test these predictions regarding optimal behavior.",
+  "authors": [
+    "Wong-Lin Kongfatt",
+    "Eckhoff Philip",
+    "Holmes Philip",
+    "Cohen Jonathan D"
+  ],
+  "journal": "Brain research",
+  "year": "2010",
+  "doi": "10.1016/j.brainres.2009.12.018",
+  "mesh": [
+    "Action Potentials",
+    "Algorithms",
+    "Cognition",
+    "Computer Simulation",
+    "Executive Function",
+    "Fixation, Ocular",
+    "Humans",
+    "Models, Neurological",
+    "Neural Networks, Computer",
+    "Neurons",
+    "Neuropsychological Tests",
+    "Psychomotor Performance",
+    "Reward",
+    "Saccades",
+    "Time Factors"
+  ]
+}

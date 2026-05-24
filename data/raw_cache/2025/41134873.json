@@ -1,0 +1,21 @@
+{
+  "pmid": "41134873",
+  "title": "Synchrony, oscillations, and phase relationships in collective neuronal activity: A highly comparative overview of methods.",
+  "abstract": "Neuronal activity is organized in collective patterns that are critical for information coding, generation, and communication between neural populations. These patterns are often described in terms of synchrony, oscillations, and phase relationships. Many methods have been proposed for the quantification of these collective states of dynamic neuronal organization. However, it is difficult to determine which method is best suited for which experimental setting and research question. This choice is further complicated by the fact that most methods are sensitive to a combination of synchrony, oscillations, and other factors; in addition, some of them display systematic biases that can complicate their interpretation. To address these challenges, we adopt a highly comparative approach, whereby spike trains are represented by a diverse library of measures. This enables unsupervised or supervised analysis in the space of measures, or in that of spike trains. We compile a battery of 122 measures of synchrony, oscillations, and phase relationships, complemented with 9 measures of spiking intensity and variability. We first apply them to sets of synthetic spike trains with known statistical properties, and show that all measures are confounded by extraneous factors such as firing rate or population frequency, but to different extents. Then, we analyze spike trains recorded in different species-rat, mouse, and monkey-and brain areas-primary sensory cortices and hippocampus-and show that our highly comparative approach provides a high-dimensional quantification of collective network activity that can be leveraged for both unsupervised and supervised characterization of firing patterns. Overall, the highly comparative approach provides a detailed description of the empirical properties of multineuron spike train analysis methods, including practical guidelines for their use in experimental settings, and advances our understanding of neuronal coordination and coding.",
+  "authors": [
+    "Baroni Fabiano",
+    "Fulcher Ben D"
+  ],
+  "journal": "PLoS computational biology",
+  "year": "2025",
+  "doi": "10.1371/journal.pcbi.1013597",
+  "mesh": [
+    "Animals",
+    "Neurons",
+    "Models, Neurological",
+    "Action Potentials",
+    "Computational Biology",
+    "Mice",
+    "Nerve Net"
+  ]
+}

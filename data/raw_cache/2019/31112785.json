@@ -1,0 +1,34 @@
+{
+  "pmid": "31112785",
+  "title": "Topological correction of infant white matter surfaces using anatomically constrained convolutional neural network.",
+  "abstract": "Reconstruction of accurate cortical surfaces without topological errors (i.e., handles and holes) from infant brain MR images is very important in early brain development studies. However, infant brain MR images typically suffer extremely low tissue contrast and dynamic imaging appearance patterns. Thus, it is inevitable to have large amounts of topological errors in the segmented infant brain tissue images, which lead to inaccurately reconstructed cortical surfaces with topological errors. To address this issue, inspired by recent advances in deep learning, we propose an anatomically constrained network for topological correction on infant cortical surfaces. Specifically, in our method, we first locate regions of potential topological defects by leveraging a topology-preserving level set method. Then, we propose an anatomically constrained network to correct those candidate voxels in the located regions. Since infant cortical surfaces often contain large and complex handles or holes, it is difficult to completely correct all errors using one-shot correction. Therefore, we further enroll these two steps into an iterative framework to gradually correct large topological errors. To the best of our knowledge, this is the first work to introduce deep learning approach for topological correction of infant cortical surfaces. We compare our method with the state-of-the-art methods on both simulated topological errors and real topological errors in human infant brain MR images. Moreover, we also validate our method on the infant brain MR images of macaques. All experimental results show the superior performance of the proposed method.",
+  "authors": [
+    "Sun Liang",
+    "Zhang Daoqiang",
+    "Lian Chunfeng",
+    "Wang Li",
+    "Wu Zhengwang",
+    "Shao Wei",
+    "Lin Weili",
+    "Shen Dinggang",
+    "Li Gang",
+    ""
+  ],
+  "journal": "NeuroImage",
+  "year": "2019",
+  "doi": "10.1016/j.neuroimage.2019.05.037",
+  "mesh": [
+    "Animals",
+    "Artifacts",
+    "Brain",
+    "Brain Mapping",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Infant",
+    "Macaca",
+    "Magnetic Resonance Imaging",
+    "Neural Networks, Computer",
+    "Reproducibility of Results",
+    "White Matter"
+  ]
+}

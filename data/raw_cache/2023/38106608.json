@@ -1,0 +1,14 @@
+{
+  "pmid": "38106608",
+  "title": "Brain-inspired bodily self-perception model for robot rubber hand illusion.",
+  "abstract": "The core of bodily self-consciousness involves perceiving ownership of one's body. A central question is how body illusions like the rubber hand illusion (RHI) occur. Existing theoretical models still lack satisfying computational explanations from connectionist perspectives, especially for how the brain encodes body perception and generates illusions from neuronal interactions. Moreover, the integration of disability experiments is also neglected. Here, we integrate biological findings of bodily self-consciousness to propose a brain-inspired bodily self-perception model by which perceptions of bodily self are autonomously constructed without any supervision signals. We successfully validated the model with six RHI experiments and a disability experiment on an iCub humanoid robot and simulated environments. The results show that our model can not only well-replicate the behavioral and neural data of monkeys in biological experiments but also reasonably explain the causes and results of RHI at the neuronal level, thus contributing to the revelation of mechanisms underlying RHI.",
+  "authors": [
+    "Zhao Yuxuan",
+    "Lu Enmeng",
+    "Zeng Yi"
+  ],
+  "journal": "Patterns (New York, N.Y.)",
+  "year": "2023",
+  "doi": "10.1016/j.patter.2023.100888",
+  "mesh": []
+}

@@ -1,0 +1,16 @@
+{
+  "pmid": "35909704",
+  "title": "Integration of allocentric and egocentric visual information in a convolutional/multilayer perceptron network model of goal-directed gaze shifts.",
+  "abstract": "Allocentric (landmark-centered) and egocentric (eye-centered) visual codes are fundamental for spatial cognition, navigation, and goal-directed movement. Neuroimaging and neurophysiology suggest these codes are initially segregated, but then reintegrated in frontal cortex for movement control. We created and validated a theoretical framework for this process using physiologically constrained inputs and outputs. To implement a general framework, we integrated a convolutional neural network (CNN) of the visual system with a multilayer perceptron (MLP) model of the sensorimotor transformation. The network was trained on a task where a landmark shifted relative to the saccade target. These visual parameters were input to the CNN, the CNN output and initial gaze position to the MLP, and a decoder transformed MLP output into saccade vectors. Decoded saccade output replicated idealized training sets with various allocentric weightings and actual monkey data where the landmark shift had a partial influence (<i>R</i> <sup>2</sup> = 0.8). Furthermore, MLP output units accurately simulated prefrontal response field shifts recorded from monkeys during the same paradigm. In summary, our model replicated both the general properties of the visuomotor transformations for gaze and specific experimental results obtained during allocentric-egocentric integration, suggesting it can provide a general framework for understanding these and other complex visuomotor behaviors.",
+  "authors": [
+    "Abedi Khoozani Parisa",
+    "Bharmauria Vishal",
+    "Schütz Adrian",
+    "Wildes Richard P",
+    "Crawford J Douglas"
+  ],
+  "journal": "Cerebral cortex communications",
+  "year": "2022",
+  "doi": "10.1093/texcom/tgac026",
+  "mesh": []
+}

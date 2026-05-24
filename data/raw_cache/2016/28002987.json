@@ -1,0 +1,33 @@
+{
+  "pmid": "28002987",
+  "title": "Decision making under uncertainty in a spiking neural network model of the basal ganglia.",
+  "abstract": "The mechanisms of decision-making and action selection are generally thought to be under the control of parallel cortico-subcortical loops connecting back to distinct areas of cortex through the basal ganglia and processing motor, cognitive and limbic modalities of decision-making. We have used these properties to develop and extend a connectionist model at a spiking neuron level based on a previous rate model approach. This model is demonstrated on decision-making tasks that have been studied in primates and the electrophysiology interpreted to show that the decision is made in two steps. To model this, we have used two parallel loops, each of which performs decision-making based on interactions between positive and negative feedback pathways. This model is able to perform two-level decision-making as in primates. We show here that, before learning, synaptic noise is sufficient to drive the decision-making process and that, after learning, the decision is based on the choice that has proven most likely to be rewarded. The model is then submitted to lesion tests, reversal learning and extinction protocols. We show that, under these conditions, it behaves in a consistent manner and provides predictions in accordance with observed experimental data.",
+  "authors": [
+    "Héricé Charlotte",
+    "Khalil Radwa",
+    "Moftah Marie",
+    "Boraud Thomas",
+    "Guthrie Martin",
+    "Garenne André"
+  ],
+  "journal": "Journal of integrative neuroscience",
+  "year": "2016",
+  "doi": "10.1142/S021963521650028X",
+  "mesh": [
+    "Animals",
+    "Basal Ganglia",
+    "Cerebral Cortex",
+    "Decision Making",
+    "Extinction, Psychological",
+    "Macaca",
+    "Models, Neurological",
+    "Motor Activity",
+    "Neural Networks, Computer",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Reversal Learning",
+    "Reward",
+    "Synapses",
+    "Uncertainty"
+  ]
+}

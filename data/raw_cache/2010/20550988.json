@@ -1,0 +1,28 @@
+{
+  "pmid": "20550988",
+  "title": "Biologically inspired means for rank-order encoding images: a quantitative analysis.",
+  "abstract": "In this paper, we present biologically inspired means to enhance perceptually important information retrieval from rank-order encoded images. Validating a retinal model proposed by VanRullen and Thorpe, we observe that on average only up to 70% of the available information can be retrieved from rank-order encoded images. We propose a biologically inspired treatment to reduce losses due to a high correlation of adjacent basis vectors and introduce a filter-overlap correction algorithm (FoCal) based on the lateral inhibition technique used by sensory neurons to deal with data redundancy. We observe a more than 10% increase in perceptually important information recovery. Subsequently, we present a model of the primate retinal ganglion cell layout corresponding to the foveal-pit. We observe that information recovery using the foveal-pit model is possible only if FoCal is used in tandem. Furthermore, information recovery is similar for both the foveal-pit model and VanRullen and Thorpe's retinal model when used with FoCal. This is in spite of the fact that the foveal-pit model has four ganglion cell layers as in biology while VanRullen and Thorpe's retinal model has a 16-layer structure.",
+  "authors": [
+    "Sen Bhattacharya Basabdatta",
+    "Furber Stephen B"
+  ],
+  "journal": "IEEE transactions on neural networks",
+  "year": "2010",
+  "doi": "10.1109/TNN.2010.2048339",
+  "mesh": [
+    "Algorithms",
+    "Animals",
+    "Diagnostic Imaging",
+    "Fovea Centralis",
+    "Image Processing, Computer-Assisted",
+    "Information Storage and Retrieval",
+    "Models, Neurological",
+    "Neural Inhibition",
+    "Neural Networks, Computer",
+    "Primates",
+    "Reproducibility of Results",
+    "Retina",
+    "Retinal Ganglion Cells",
+    "Visual Pathways"
+  ]
+}
