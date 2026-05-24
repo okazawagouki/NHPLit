@@ -564,8 +564,6 @@ HTML_TEMPLATE = """\
 
 <footer>
   Generated on {updated} from <code>04_cleaned_db.xlsx</code> &nbsp;·&nbsp;
-  Data source: PubMed &nbsp;·&nbsp;
-  AI screening &amp; annotation: Qwen
 </footer>
 
 </body>
