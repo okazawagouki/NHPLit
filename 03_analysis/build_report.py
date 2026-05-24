@@ -619,6 +619,24 @@ HTML_TEMPLATE = """\
     <div class="card">{fig_heatmap_fy}</div>
   </section>
 
+  <section>
+    <h2>Disclaimer</h2>
+    <p class="desc">
+      This database is generated with AI-assist and is provided as a convenience resource for the systems neuroscience community.
+      It is not exhaustive: relevant papers may be missing, and a small number of irrelevant
+      papers may be included.
+    </p>
+    <p class="desc">
+      This database focuses on cellular-level electrophysiology
+      (single-unit, multi-unit, and LFP recordings) in macaques and other non-human primates.
+      It does not systematically cover EEG, fMRI, calcium imaging, or purely behavioral
+      studies.
+    </p>
+    <p class="desc">
+      Please feel free to copy, update, redistribute, etc.
+    </p>
+  </section>
+
 </main>
 
 <footer>
