@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Credentials — never commit
+key.env
+
+# Raw cache — too large for git (tens of thousands of JSON files)
+data/raw_cache/
+
+# PDFs (Stage 3, also large)
+data/pdfs/
+
+# Intermediate / generated artifacts (not curated)
+data/candidates_raw.json
+
+# Keep the curated outputs, logs, and database files
+!data/pmid_log.csv
+!data/01_extracted_db.xlsx
+!data/02_filtered_db.xlsx
+!data/03_annotated_db.xlsx
+!data/04_cleaned_db.xlsx
+!data/candidates_curated.json
+
+# Editor / OS
+.DS_Store
+.vscode/
+*.swp

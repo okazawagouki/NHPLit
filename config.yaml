@@ -1,0 +1,112 @@
+# =============================================================================
+# monkey-ephys-db  |  search configuration
+# =============================================================================
+# This file controls everything about the PubMed search.
+# Edit keyword groups and year range here; the fetch script reads this file.
+# =============================================================================
+
+# ---------------------------------------------------------------------------
+# PubMed API settings  (credentials go in .env, not here)
+# ---------------------------------------------------------------------------
+entrez:
+  max_records_per_query: 10000       # safety cap per (keyword_combo × year)
+  fetch_batch_size: 50               # PMIDs per efetch call (max ~200 before URL length issues)
+  requests_per_second: 10             # 3 without NCBI API key, 10 with one
+  retries: 3                         # retry on transient HTTP errors
+
+# ---------------------------------------------------------------------------
+# Year range
+# ---------------------------------------------------------------------------
+years:
+  start: 1970
+  end: 2030
+  # The script fetches one year at a time to avoid hitting result caps
+  # and to make partial re-runs cheap.
+
+# ---------------------------------------------------------------------------
+# Output paths
+# ---------------------------------------------------------------------------
+paths:
+  raw_cache:   "data/raw_cache"        # one JSON file per PMID under raw_cache/<year>/ (gitignored bulk)
+  pmid_log:    "data/pmid_log.csv"    # running log: PMID, query_combo, year, date_fetched
+  filtered_db:  "data/01_extracted_db.xlsx" # Stage 2 output: AI-filtered papers
+  filtered_db2:   "data/02_filtered_db.xlsx"   # Stage 3 output: pass-only, deduped
+  annotated_db:   "data/03_annotated_db.xlsx"  # Stage 4 output: brain area + function labels
+  cleaned_db:     "data/04_cleaned_db.xlsx"    # Stage 5 output: cleaned journal names
+  candidates:     "data/candidates_curated.json" # vocabulary for annotation
+  report:         "report.html"                  # Stage 5 output: public HTML report
+
+# ---------------------------------------------------------------------------
+# Keyword groups
+# =============================================================================
+# HOW THIS WORKS
+# --------------
+# The script builds PubMed queries as:
+#     (species term) AND (signal term)
+# for every combination of one term from `species` and one from `signal`.
+#
+# You can also add entries to `additional_queries` for free-form queries
+# that don't fit the species × signal pattern.
+#
+# PubMed field tags you can use inside any term (optional but helpful):
+#   [tiab]  = title or abstract
+#   [mh]    = MeSH heading
+#   [pt]    = publication type
+#
+# Leave field tags out to let PubMed search all fields (broader recall).
+# ---------------------------------------------------------------------------
+
+keywords:
+
+  # -- Species group --------------------------------------------------------
+  # Goal: catch all common ways authors refer to macaques / NHPs.
+  # If a term is too broad on its own (e.g. "primate"), it is still safe here
+  # because it will be ANDed with a signal term.
+  species:
+    - "macaque[tiab]"
+    - "rhesus[tiab]"
+    - "non-human primate[tiab]"
+    - "non-human primates[tiab]"
+    - "nonhuman primate[tiab]"
+    - "nonhuman primates[tiab]"
+    - "primate[tiab]"
+    - "primates[tiab]"
+    - "monkey[tiab]"
+    - "monkeys[tiab]"
+
+  # -- Neural signal / recording type group ---------------------------------
+  # Goal: require that the paper involves electrophysiology.
+  # Avoid fMRI / EEG-only papers while still catching LFP, MUA, etc.
+  signal:
+    - "neuron[tiab]"
+    - "neural[tiab]"
+    - "neuronal[tiab]"
+    - "cortex[tiab]"
+    - "single unit[tiab]"
+    - "single-unit[tiab]"
+    - "multiunit[tiab]"
+    - "multi-unit[tiab]"
+    - "electrophysiology[tiab]"
+
+  # -- Additional free-form queries -----------------------------------------
+  # Use these for combinations that the species × signal grid doesn't capture,
+  # or for MeSH-based searches that complement title/abstract keyword searches.
+  # Each entry is used as-is (no additional ANDing).
+  additional_queries:
+
+  # -- Exclusion terms (appended as NOT to every query) ---------------------
+  # Add terms here to suppress clearly irrelevant papers.
+  # Be conservative — it is better to over-include and filter in Stage 2.
+  exclude:
+    - "review[pt]"          # exclude review articles (optional — comment out to keep)
+    # - "fMRI[tiab]"        # uncomment if you want to exclude pure fMRI papers
+    # - "EEG[tiab]"         # uncomment if you want to exclude pure EEG papers
+
+# ---------------------------------------------------------------------------
+# Filter settings (used in Stage 2, stored here for reference)
+# ---------------------------------------------------------------------------
+filter:
+  ai_model: "qwen3.6-flash"  # fast + cheap; sufficient for binary classification
+  confidence_threshold: 0.8              # below this → flag as pending (human curation)
+  concurrency: 5                         # simultaneous async requests (keep low for Tier-1 API keys; raise to 20+ on higher tiers)
+  checkpoint_every: 100                  # save filtered_db.xlsx after every N papers
