@@ -376,6 +376,56 @@ def chart_region_year_heatmap(df: pd.DataFrame, since: int, top: int) -> go.Figu
     return fig
 
 
+def chart_function_year_heatmap(df: pd.DataFrame, since: int, top: int) -> go.Figure:
+    df2 = df.copy()
+    df2["year_int"] = df2["year"].apply(safe_int)
+    df2 = df2[df2["year_int"] >= since]
+
+    top_funcs, _ = top_n_counts(split_field(df2["functions"]), top)
+    func_set      = set(top_funcs)
+    all_years     = sorted(df2["year_int"].dropna().unique().astype(int))
+
+    papers_per_year = Counter(df2["year_int"].dropna().astype(int))
+
+    matrix = defaultdict(int)
+    for _, row in df2.iterrows():
+        yr    = safe_int(row.get("year_int"))
+        funcs = [f.strip() for f in str(row.get("functions", "") or "").split(";")
+                 if f.strip() in func_set]
+        for f in funcs:
+            matrix[(f, yr)] += 1
+
+    def pct(f, y):
+        n = papers_per_year.get(y, 0)
+        return round(100.0 * matrix[(f, y)] / n, 1) if n else 0.0
+
+    hover_text = [
+        [f"<b>{f}</b><br>{y}: {pct(f,y):.1f}% ({matrix[(f,y)]} papers)"
+         for y in all_years]
+        for f in top_funcs
+    ]
+
+    z = [[pct(f, y) for y in all_years] for f in top_funcs]
+
+    fig = go.Figure(go.Heatmap(
+        z=z,
+        x=all_years,
+        y=top_funcs,
+        colorscale="Oranges",
+        zmin=0,
+        text=hover_text,
+        hovertemplate="%{text}<extra></extra>",
+        colorbar=dict(title="% of papers"),
+    ))
+    fig.update_layout(**PLOTLY_LAYOUT,
+                      title=f"Cognitive Function Trends Over Time — % of papers per year (top {top} functions)",
+                      height=max(500, top * 22),
+                      margin=dict(l=180, r=30, t=60, b=60))
+    fig.update_xaxes(**AXIS_STYLE, title_text="Year")
+    fig.update_yaxes(**AXIS_STYLE, tickfont_size=11)
+    return fig
+
+
 # ---------------------------------------------------------------------------
 # HTML assembly
 # ---------------------------------------------------------------------------
@@ -560,6 +610,15 @@ HTML_TEMPLATE = """\
     <div class="card">{fig_heatmap_ry}</div>
   </section>
 
+  <section>
+    <h2>Cognitive Function Trends Over Time</h2>
+    <p class="desc">
+      Percentage of papers per year studying each cognitive function.
+      Shows how research interests have shifted across decades.
+    </p>
+    <div class="card">{fig_heatmap_fy}</div>
+  </section>
+
 </main>
 
 <footer>
@@ -624,6 +683,7 @@ def main():
     fig_journal_trends = chart_journal_trends(df, args.since)  # uses SELECTED_JOURNALS list
     fig_heatmap_rf     = chart_region_function_heatmap(df, args.top)
     fig_heatmap_ry     = chart_region_year_heatmap(df, args.since, args.top)
+    fig_heatmap_fy     = chart_function_year_heatmap(df, args.since, args.top)
     print("  All charts done")
 
     html = HTML_TEMPLATE.format(
@@ -641,6 +701,7 @@ def main():
         fig_journal_trends = fig_to_div(fig_journal_trends),
         fig_heatmap_rf     = fig_to_div(fig_heatmap_rf),
         fig_heatmap_ry     = fig_to_div(fig_heatmap_ry),
+        fig_heatmap_fy     = fig_to_div(fig_heatmap_fy),
     )
 
     out_path.write_text(html, encoding="utf-8")
