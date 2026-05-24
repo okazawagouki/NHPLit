@@ -1,5 +1,7 @@
 # NHPLit — Macaque Electrophysiology Literature Database
 
+**[→ View interactive report](https://okazawagouki.github.io/NHPLit/report.html)**
+
 A reproducible, AI-assisted database of macaque electrophysiology literature built from PubMed metadata.
 
 ## Pipeline overview

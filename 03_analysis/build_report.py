@@ -639,6 +639,7 @@ HTML_TEMPLATE = """\
 
 <footer>
   Generated on {updated} from <code>04_cleaned_db.xlsx</code> &nbsp;·&nbsp;
+  <a href="https://github.com/okazawagouki/NHPLit" style="color:{subtext};">Source on GitHub</a>
 </footer>
 
 </body>
