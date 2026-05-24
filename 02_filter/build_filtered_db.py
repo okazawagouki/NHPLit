@@ -120,20 +120,20 @@ def find_preprint_duplicates(df: pd.DataFrame) -> dict[int, str]:
                 )
                 continue
 
-        # Rule (b): first+last author match within 2 years
+        # Rule (b): first+last author match; preprint must be before published (up to 4 years prior)
         if not fa:
             continue
         for pub_idx, pub_row in published.iterrows():
             pub_year    = safe_int(pub_row.get("year"))
             if year_pre is not None and pub_year is not None:
-                if abs(pub_year - year_pre) > 2:
+                if not (0 <= pub_year - year_pre <= 4):
                     continue
             pub_authors = parse_authors(pub_row.get("authors", ""))
             pub_fa      = first_author(pub_authors)
             pub_la      = last_author(pub_authors)
             if fa == pub_fa and la == pub_la and fa != "":
                 to_drop[idx] = (
-                    f"author match (1st='{fa}', last='{la}') within 2 yr → "
+                    f"author match (1st='{fa}', last='{la}') within 4 yr → "
                     f"PMID {pub_row.get('pmid', '?')} ({pub_year})"
                 )
                 break

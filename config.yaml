@@ -62,7 +62,12 @@ keywords:
   # Goal: catch all common ways authors refer to macaques / NHPs.
   # If a term is too broad on its own (e.g. "primate"), it is still safe here
   # because it will be ANDed with a signal term.
+  #
+  # Two complementary strategies:
+  #   [tiab] — title/abstract keyword; fast, catches recent papers before MeSH tagging
+  #   [mh]   — MeSH curator tag; catches papers that omit species name from text
   species:
+    # Title/abstract terms
     - "macaque[tiab]"
     - "macaques[tiab]"
     - "rhesus[tiab]"
@@ -74,6 +79,18 @@ keywords:
     - "primates[tiab]"
     - "monkey[tiab]"
     - "monkeys[tiab]"
+
+    # MeSH curator tags — catches papers where species is only in full-text/tags
+    # Macaca[mh] covers the whole genus (mulatta, fascicularis, nemestrina, etc.)
+    - "Macaca[mh]"
+    - "Macaca mulatta[mh]"
+    - "Macaca fascicularis[mh]"
+
+    # Marmoset
+    - "marmoset[tiab]"
+    - "marmosets[tiab]"
+    - "Callithrix[mh]"
+    - "Callithrix jacchus[mh]"
 
   # -- Neural signal / recording type group ---------------------------------
   # Goal: require that the paper involves electrophysiology.

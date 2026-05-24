@@ -622,7 +622,9 @@ HTML_TEMPLATE = """\
   <section>
     <h2>Disclaimer</h2>
     <p class="desc">
-      This database is generated with AI-assist. Perhaps, relevant papers may be missing, and irrelevant papers may be included.
+      This database is generated with AI-assist, based on pubmed search of terms like "monkeys AND neurons" in title/abstract. Also check whether [MH] field contains macaca etc. 
+      Papers without abstract are excluded. It is then further filtered with AI, and the target brain regions, functions extracted.
+      But perhaps, many relevant papers are missing (particularly those not including species name in title/abstract/MH), and some irrelevant papers may be included.
     </p>
     <p class="desc">
       This database focuses on cellular-level electrophysiology
